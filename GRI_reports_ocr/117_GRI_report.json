@@ -1,0 +1,583 @@
+{
+    "GRI 200": {
+        "page": "232.txt",
+        "context_before": "GRI CONTENT INDEX TOPIC-SPECIFIC STANDARDS GRI Standard _ Disclosure",
+        "context_after": ": INDICATORI DI PERFORMANCE ECONOMICA N pagina Topic: Performance economica GRI-103: Gestione della tematica 103-1 Materialita e perimetro 61-68; 226-227",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": {
+        "page": "232.txt",
+        "context_before": "Materialita e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 11-12 103-3 Valutazione dell'approccio alla gestione della tematica 11-12",
+        "context_after": ": Performance economica 201-1 Valore economico direttamente generato e distribuito 88-90 201-3 Piani pensionistici 178-179 201-4 Finanziamenti significativi ricevuti dalla",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "233.txt",
+        "context_before": "GRI CONTENT INDEX TOPIC-SPECIFIC STANDARDS GRIStandard _ Disclosure N pagina",
+        "context_after": ": Presenza sul mercato Numero totale di passeggeri nell'anno, suddivisi fra passeggeri di AO1 voli internazionali e nazionali e suddivisi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "233.txt",
+        "context_before": "perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 78-86; 90-103 103-3 Valutazione dell'approccio alla gestione della tematica 78-86; 90-103",
+        "context_after": ": Impatti economici indiretti 203-1 Investimenti infrastrutturali e servizi supportati 78-86 203-2 Analisi e descrizione dei principali impatti economici indiretti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "233.txt",
+        "context_before": "Materialita e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 193-196 103-3 Valutazione dell'approccio alla gestione della tematica 193-196",
+        "context_after": ": Pratiche di approvvigionamento 204-1 Percentuali di spesa concentrata su Fornitori locali 196 Topic: Anti-corruzione GRI-103: Gestione della tematica 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "233.txt",
+        "context_before": "Materialita e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 46-49 103-3 Valutazione dell'approccio alla gestione della tematica 46-49",
+        "context_after": ": Anti-corruzione 205-3 Casi di corruzione accertati e azioni intraprese 48-49 Dichiarazione consolidata non finanziaria 2018 - 232",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "232.txt",
+        "context_before": "226-227 103-2 Approccio alla gestione della tematica 11-12 103-3 Valutazione dell'approccio alla gestione della tematica 11-12 GRI 201: Performance economica",
+        "context_after": "Valore economico direttamente generato e distribuito 88-90 201-3 Piani pensionistici 178-179 201-4 Finanziamenti significativi ricevuti dalla Pubblica Amministrazione Nel corso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": {
+        "page": "232.txt",
+        "context_before": "103-3 Valutazione dell'approccio alla gestione della tematica 11-12 GRI 201: Performance economica 201-1 Valore economico direttamente generato e distribuito 88-90",
+        "context_after": "Piani pensionistici 178-179 201-4 Finanziamenti significativi ricevuti dalla Pubblica Amministrazione Nel corso del 2018 sono stati ricevuti finanziamenti dalla Pubblica",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "232.txt",
+        "context_before": "gestione della tematica 11-12 GRI 201: Performance economica 201-1 Valore economico direttamente generato e distribuito 88-90 201-3 Piani pensionistici 178-179",
+        "context_after": "Finanziamenti significativi ricevuti dalla Pubblica Amministrazione Nel corso del 2018 sono stati ricevuti finanziamenti dalla Pubblica Amministrazione per 1.422 migliaia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "233.txt",
+        "context_before": "alla gestione della tematica 78-86; 90-103 103-3 Valutazione dell'approccio alla gestione della tematica 78-86; 90-103 GRI 203: Impatti economici indiretti",
+        "context_after": "Investimenti infrastrutturali e servizi supportati 78-86 203-2 Analisi e descrizione dei principali impatti economici indiretti 90-103 considerando le esternalita generate",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "233.txt",
+        "context_before": "Valutazione dell'approccio alla gestione della tematica 78-86; 90-103 GRI 203: Impatti economici indiretti 203-1 Investimenti infrastrutturali e servizi supportati 78-86",
+        "context_after": "Analisi e descrizione dei principali impatti economici indiretti 90-103 considerando le esternalita generate Topic: Pratiche di approvvigionamento GRI-103: Gestione della",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "233.txt",
+        "context_before": "103-2 Approccio alla gestione della tematica 193-196 103-3 Valutazione dell'approccio alla gestione della tematica 193-196 GRI 204: Pratiche di approvvigionamento",
+        "context_after": "Percentuali di spesa concentrata su Fornitori locali 196 Topic: Anti-corruzione GRI-103: Gestione della tematica 103-1 Materialita e perimetro 61-68; 226-227",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "233.txt",
+        "context_before": "61-68; 226-227 103-2 Approccio alla gestione della tematica 46-49 103-3 Valutazione dell'approccio alla gestione della tematica 46-49 GRI 205: Anti-corruzione",
+        "context_after": "Casi di corruzione accertati e azioni intraprese 48-49 Dichiarazione consolidata non finanziaria 2018 - 232",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "234.txt",
+        "context_before": "GRI CONTENT INDEX TOPIC-SPECIFIC STANDARDS GRI Standard _ Disclosure",
+        "context_after": ": INDICATORI DI PERFORMANCE AMBIENTALE N pagina Topic: Energia GRI-103: Gestione della tematica 103-1 Materialita e perimetro 61-68; 226-227 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "234.txt",
+        "context_before": "e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 72-73; 187-188 103-3 Valutazione dell'approccio alla gestione della tematica 187-188",
+        "context_after": ": Energia 302-1 Consumi di energia all'interno dellorganizzazione 188 302-3 Energy intensity 188 Topic: Acqua GRI-103: Gestione della tematica 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "234.txt",
+        "context_before": "e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 72-73; 189 103-3 Valutazione dell'approccio alla gestione della tematica 189",
+        "context_after": ": Acqua 303-1 Prelievo totale di acqua per Fonte 189 AO4 Qualit delle acque meteoriche secondo la normativa vigente 124",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "234.txt",
+        "context_before": "e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 72-73; 212-213 103-3 Valutazione dell'approccio alla gestione della tematica 212-213",
+        "context_after": ": Biodiversita Localizzazione e dimensione dei terreni posseduti, affittati oppure 304-1 gestiti allinterno o nelle vicinanze di aree protette oppure",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "235.txt",
+        "context_before": "e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 72-73; 113-115 103-3 Valutazione dell'approccio alla gestione della tematica 3-115",
+        "context_after": ": Emissioni 305-1 Emissioni totali dirette di gas a effetto serra (Scopo 1) 4 305-2 Emissioni totali indirette di gas",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "235.txt",
+        "context_before": "e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 72-73; 122-125 103-3 Valutazione dell'approccio alla gestione della tematica 122-125",
+        "context_after": ": Scarichi e rifiuti 306-1 Acqua totale scaricata per qualita e destinazione 123 306-3 Numero totale e volume di sversamenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": false,
+    "GRI 308": {
+        "page": "235.txt",
+        "context_before": "Materialita e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 193-196 103-3 Valutazione dell'approccio alla gestione della tematica 193-196",
+        "context_after": ": Valutazione ambientale dei fornitori 308-1 Percentuale di nuovi Fornitori che sono stati valutati secondo criteri 194 ambientali Dichiarazione consolidata",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "234.txt",
+        "context_before": "226-227 103-2 Approccio alla gestione della tematica 72-73; 187-188 103-3 Valutazione dell'approccio alla gestione della tematica 187-188 GRI 302: Energia",
+        "context_after": "Consumi di energia all'interno dellorganizzazione 188 302-3 Energy intensity 188 Topic: Acqua GRI-103: Gestione della tematica 103-1 Materialita e perimetro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "234.txt",
+        "context_before": "72-73; 187-188 103-3 Valutazione dell'approccio alla gestione della tematica 187-188 GRI 302: Energia 302-1 Consumi di energia all'interno dellorganizzazione 188",
+        "context_after": "Energy intensity 188 Topic: Acqua GRI-103: Gestione della tematica 103-1 Materialita e perimetro 61-68; 226-227 103-2 Approccio alla gestione della",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "234.txt",
+        "context_before": "226-227 103-2 Approccio alla gestione della tematica 72-73; 189 103-3 Valutazione dell'approccio alla gestione della tematica 189 GRI 303: Acqua",
+        "context_after": "Prelievo totale di acqua per Fonte 189 AO4 Qualit delle acque meteoriche secondo la normativa vigente 124 Topic: Biodiversita GRI-103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "234.txt",
+        "context_before": "212-213 103-3 Valutazione dell'approccio alla gestione della tematica 212-213 GRI 304: Biodiversita Localizzazione e dimensione dei terreni posseduti, affittati oppure",
+        "context_after": "gestiti allinterno o nelle vicinanze di aree protette oppure di aree ad 212-213 alto valore per la biodiversita anche se",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "234.txt",
+        "context_before": "la biodiversita anche se al di Fuori di aree protette Descrizione degli impatti significativi delle attivita, dei prodotti e servizi",
+        "context_after": "sulla biodiversita all'interno di aree protette oppure di aree ad alto 212-213 valore per la biodiversita anche se al di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-3": {
+        "page": "234.txt",
+        "context_before": "aree protette oppure di aree ad alto 212-213 valore per la biodiversita anche se al di Fuori di aree protette",
+        "context_after": "Habitat protetti o ripristinati 212-213 Numero delle specie elencate nella lista rossa IUCN e nelle liste 304-4 nazionali delle specie",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "304-4": {
+        "page": "234.txt",
+        "context_before": "di aree protette 304-3 Habitat protetti o ripristinati 212-213 Numero delle specie elencate nella lista rossa IUCN e nelle liste",
+        "context_after": "nazionali delle specie protette che trovano il proprio habitat nelle aree 212-213 di operativita dell'organizzazione, suddivise per livello di rischio",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-1": {
+        "page": "235.txt",
+        "context_before": "226-227 103-2 Approccio alla gestione della tematica 72-73; 113-115 103-3 Valutazione dell'approccio alla gestione della tematica 3-115 GRI 305: Emissioni",
+        "context_after": "Emissioni totali dirette di gas a effetto serra (Scopo 1) 4 305-2 Emissioni totali indirette di gas a effetto serra",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "235.txt",
+        "context_before": "alla gestione della tematica 3-115 GRI 305: Emissioni 305-1 Emissioni totali dirette di gas a effetto serra (Scopo 1) 4",
+        "context_after": "Emissioni totali indirette di gas a effetto serra (Scopo 2) 4 4 305-3 Altre emissioni indirette (Scopo 3) Le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "235.txt",
+        "context_before": "gas a effetto serra (Scopo 1) 4 305-2 Emissioni totali indirette di gas a effetto serra (Scopo 2) 4 4",
+        "context_after": "Altre emissioni indirette (Scopo 3) Le emissioni di Scopo P 3 del Gruppo SEA sono relative al Business Travel. 305-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "235.txt",
+        "context_before": "305-3 Altre emissioni indirette (Scopo 3) Le emissioni di Scopo P 3 del Gruppo SEA sono relative al Business Travel.",
+        "context_after": "Intensita delle emissioni di gas a effetto serra 5 305-7 Emissioni di NO,, SO, e altre emissioni significative in atmosfera,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-5": false,
+    "305-6": false,
+    "305-7": {
+        "page": "235.txt",
+        "context_before": "P 3 del Gruppo SEA sono relative al Business Travel. 305-4 Intensita delle emissioni di gas a effetto serra 5",
+        "context_after": "Emissioni di NO,, SO, e altre emissioni significative in atmosfera, per 5-118 tipologia e peso Livello di qualita dell'aria in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-1": {
+        "page": "235.txt",
+        "context_before": "Approccio alla gestione della tematica 72-73; 122-125 103-3 Valutazione dell'approccio alla gestione della tematica 122-125 GRI 306: Scarichi e rifiuti",
+        "context_after": "Acqua totale scaricata per qualita e destinazione 123 306-3 Numero totale e volume di sversamenti significativi 125 AO6 Quantita di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": false,
+    "306-3": {
+        "page": "235.txt",
+        "context_before": "dell'approccio alla gestione della tematica 122-125 GRI 306: Scarichi e rifiuti 306-1 Acqua totale scaricata per qualita e destinazione 123",
+        "context_after": "Numero totale e volume di sversamenti significativi 125 AO6 Quantita di liquido antigelo (de-icing) utilizzato e trattato (m3 e/o ton)",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": {
+        "page": "235.txt",
+        "context_before": "Approccio alla gestione della tematica 193-196 103-3 Valutazione dell'approccio alla gestione della tematica 193-196 GRI 308: Valutazione ambientale dei fornitori",
+        "context_after": "Percentuale di nuovi Fornitori che sono stati valutati secondo criteri 194 ambientali Dichiarazione consolidata non finanziaria 2018 - 234",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": {
+        "page": "236.txt",
+        "context_before": "alla gestione della tematica 119-122 A07: Rumore AO7 See eee scctate. di persone che risiedono in aree interessate dal 419-120",
+        "context_after": ": INDICATORI DI PERFORMANCE SOCIALE Topic: Occupazione GRI-103: Gestione della tematica 103-1 Materialita e perimetro 61-68; 226-227 103-2 Approccio alla",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "236.txt",
+        "context_before": "Materialita e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 171 103-3 Valutazione dell'approccio alla gestione della tematica 171",
+        "context_after": ": Occupazione 401-1 Nuovi assunti e turnover del personale 219-220 401-2 Benefit previsti peri lavoratori a tempo pieno, ma non",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "236.txt",
+        "context_before": "Materialita e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 222 103-3 Valutazione dell'approccio alla gestione della tematica 222",
+        "context_after": ": Relazioni industriali 402-1 Periodo minimo di preavviso per le modifiche operative 222 Topic: Salute e sicurezza dei lavoratori GRI-103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "237.txt",
+        "context_before": "GRI CONTENT INDEX TOPIC-SPECIFIC STANDARDS GRIStandard _ Disclosure N pagina",
+        "context_after": ": Salute e sicurezza dei lavoratori 403-1 Percentuale dei lavoratori rappresentati nel Comitato per la salute e la 475 sicurezza",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "237.txt",
+        "context_before": "Materialita e perimetro 61-68; 226-227 03-2 Approccio alla gestione della tematica 172-173 03-3 Valutazione dell'approccio alla gestione della tematica 172-173",
+        "context_after": ": Formazione e Sviluppo Ore medie di formazione annue per dipendente per genere, suddiviso 404-1 se . 173 per categoria",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "237.txt",
+        "context_before": "perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 171; 173 103-3 Valutazione dell'approccio alla gestione della tematica 171; 173",
+        "context_after": ": Diversita e pari opportunita 405-1 Diversita degli organi di governo e dei dipendenti 43; 171-172; 217-221 Rapporto dello stipendio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "238.txt",
+        "context_before": "GRI CONTENT INDEX TOPIC-SPECIFIC STANDARDS GRIStandard _ Disclosure N pagina",
+        "context_after": ": Comunita locali Percentuale delle operazioni in cui vengono effettuate attivita di 413-1 igen N 78-81 engagement, assessment e programmi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "238.txt",
+        "context_before": "Materialita e perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 193-196 103-3 Valutazione dell'approccio alla gestione della tematica 193-196",
+        "context_after": ": Valutazione sociale dei Fornitori 414-1 Percentuale di nuovi Fornitori che sono stati valutati secondo criteri 194 sociali Topic: Salute",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "238.txt",
+        "context_before": "perimetro 61-68; 226-227 103-2 Approccio alla gestione della tematica 119-122; 126-128 103-3 Valutazione dell'approccio alla gestione della tematica 119-122; 126-128",
+        "context_after": ": Salute e sicurezza dei consumatori Percentuale di categorie significative di prodotti e servizi per i quali 416-1 gli impatti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "236.txt",
+        "context_before": "61-68; 226-227 103-2 Approccio alla gestione della tematica 171 103-3 Valutazione dell'approccio alla gestione della tematica 171 GRI 401: Occupazione",
+        "context_after": "Nuovi assunti e turnover del personale 219-220 401-2 Benefit previsti peri lavoratori a tempo pieno, ma non peri lavoratori 177-178",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "236.txt",
+        "context_before": "171 103-3 Valutazione dell'approccio alla gestione della tematica 171 GRI 401: Occupazione 401-1 Nuovi assunti e turnover del personale 219-220",
+        "context_after": "Benefit previsti peri lavoratori a tempo pieno, ma non peri lavoratori 177-178 part-time e a termine, suddivisi per principali siti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": {
+        "page": "236.txt",
+        "context_before": "226-227 103-2 Approccio alla gestione della tematica 222 103-3 Valutazione dell'approccio alla gestione della tematica 222 GRI 402: Relazioni industriali",
+        "context_after": "Periodo minimo di preavviso per le modifiche operative 222 Topic: Salute e sicurezza dei lavoratori GRI-103: Gestione della tematica 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "237.txt",
+        "context_before": "GRI CONTENT INDEX TOPIC-SPECIFIC STANDARDS GRIStandard _ Disclosure N pagina GRI 403: Salute e sicurezza dei lavoratori",
+        "context_after": "Percentuale dei lavoratori rappresentati nel Comitato per la salute e la 475 sicurezza Tasso d'infortuni sul lavoro, di malattie, di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "237.txt",
+        "context_before": "Comitato per la salute e la 475 sicurezza Tasso d'infortuni sul lavoro, di malattie, di giornate di lavoro perse, .",
+        "context_after": "! ' org ! 176; 186 assenteismo e numero totale di decessi, divisi per area geografica 403-4 Accordi Formali con",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": {
+        "page": "237.txt",
+        "context_before": "lavoro perse, . 403-2 ! ' org ! 176; 186 assenteismo e numero totale di decessi, divisi per area geografica",
+        "context_after": "Accordi Formali con i sindacati relativi alla salute e alla sicurezza 222 Topic: Formazione e Sviluppo GRI-103: Gestione della tematica",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "237.txt",
+        "context_before": "alla gestione della tematica 172-173 GRI 404: Formazione e Sviluppo Ore medie di formazione annue per dipendente per genere, suddiviso",
+        "context_after": "se . 173 per categoria di lavoratori Programmi per l'aggiornamento delle competenze dei dipendenti e 404-2 oy - rn .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "237.txt",
+        "context_before": "dipendente per genere, suddiviso 404-1 se . 173 per categoria di lavoratori Programmi per l'aggiornamento delle competenze dei dipendenti e",
+        "context_after": "oy - rn . 173 programmi di assistenza nelle Fasi di transazione 404-3 Percentuale di dipendenti che ricevono regolarmente valutazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "237.txt",
+        "context_before": "per l'aggiornamento delle competenze dei dipendenti e 404-2 oy - rn . 173 programmi di assistenza nelle Fasi di transazione",
+        "context_after": "Percentuale di dipendenti che ricevono regolarmente valutazioni delle 173 Topic: Diversita e pari opportunita GRI-103: Gestione della tematica 103-1 Materialita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "237.txt",
+        "context_before": "gestione della tematica 171; 173 103-3 Valutazione dell'approccio alla gestione della tematica 171; 173 GRI 405: Diversita e pari opportunita",
+        "context_after": "Diversita degli organi di governo e dei dipendenti 43; 171-172; 217-221 Rapporto dello stipendio base e della remunerazione delle donne",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "237.txt",
+        "context_before": "Diversita degli organi di governo e dei dipendenti 43; 171-172; 217-221 Rapporto dello stipendio base e della remunerazione delle donne",
+        "context_after": "rispetto a quello degli uomini a parita di categoria, suddiviso perlearee 174 significative di attivita Topic: Comunita locali GRI-103: Gestione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "238.txt",
+        "context_before": "TOPIC-SPECIFIC STANDARDS GRIStandard _ Disclosure N pagina GRI 413: Comunita locali Percentuale delle operazioni in cui vengono effettuate attivita di",
+        "context_after": "igen N 78-81 engagement, assessment e programmi di sviluppo della comunita locale 413-2 Operazioni con potenziali o attuali impatti negativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "238.txt",
+        "context_before": "operazioni in cui vengono effettuate attivita di 413-1 igen N 78-81 engagement, assessment e programmi di sviluppo della comunita locale",
+        "context_after": "Operazioni con potenziali o attuali impatti negativi significativi sulle 90-103 comunita locali Nel periodo di Numero di persone Fisicamente o",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "414-1": {
+        "page": "238.txt",
+        "context_before": "Approccio alla gestione della tematica 193-196 103-3 Valutazione dell'approccio alla gestione della tematica 193-196 GRI 414: Valutazione sociale dei Fornitori",
+        "context_after": "Percentuale di nuovi Fornitori che sono stati valutati secondo criteri 194 sociali Topic: Salute e sicurezza dei consumatori GRI-103: Gestione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "238.txt",
+        "context_before": "119-122; 126-128 GRI 416: Salute e sicurezza dei consumatori Percentuale di categorie significative di prodotti e servizi per i quali",
+        "context_after": "gli impatti sulla salute e sicurezza sono valutati per promuoverne il 119-122; 126-128 miglioramento _ . wy ws Nel periodo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "238.txt",
+        "context_before": "totale (suddiviso per tipologia) di casi di non conformita a . . . _ _ pone . rendicontazione non sono",
+        "context_after": "regolamenti e codici volontari riguardanti gli impatti sulla salute e ~ rrr : . . a : . stati segnalati",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "236.txt",
+        "context_before": "dell'approccio alla gestione della tematica 119-122 A07: Rumore AO7 See eee scctate. di persone che risiedono in aree interessate dal",
+        "context_after": "20 GRI 400: INDICATORI DI PERFORMANCE SOCIALE Topic: Occupazione GRI-103: Gestione della tematica 103-1 Materialita e perimetro 61-68; 226-227 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

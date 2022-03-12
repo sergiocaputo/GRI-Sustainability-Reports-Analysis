@@ -1,0 +1,589 @@
+{
+    "GRI 200": {
+        "page": "93.txt",
+        "context_before": "asseverazione (pag. 9) 102-55 GRI content index GRI Content Index (pag.93-99) 102-56 External assurance External Assurance (pag. 100-102) Material Topics",
+        "context_after": "Economic Standard Series joo panation of the material topic and | analisi di materialita (pag. 33-37) Presentazione dell'azienda e dellambiente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": {
+        "page": "93.txt",
+        "context_before": "condizioni ambientali macro e micro (pag. 26); II nostro Business Model (pag. 28); Qualita e innovativita dei servizi (pag. 40)",
+        "context_after": ": Economic 201-1 Direct economic value Performance distributed joo panation of the material topic and | analisi di materialita (pag.33-37)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "94.txt",
+        "context_before": "Ratio of standard entry level wage b gender compared to local minimun wage Qualita e innovativita dei servizi (pag. 43)",
+        "context_after": ": Market Donec eeeenseeeeeneeeneseeeeeteeessvenentineeesseeetuneesssentuseuentvnieeeenneee Farce 202-2 Proportion of senior management itd ivita dei i hired from the local community Qualita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "94.txt",
+        "context_before": "(pag. 26); Il nostro Business Model (pag.28); Qualita e innovativita dei servizi (pag. 40); Valutazione sociale dei fornitori (pag. 77)",
+        "context_after": ": Procurement 204 I Proportion of spending on local La scelta dei nostri fornitori (pag. 45) Practices ppiters 103-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 205": false,
+    "GRI 206": {
+        "page": "95.txt",
+        "context_before": "(pag. 26); I! nostro Business Model (pag.28); Trasparenza (pag.39); Conformita socio economica (pag. 77) 103-3 Evaluation of the management approach",
+        "context_after": ": i A of a 206-1 Legal actions for anti-competitive - Anti-competitive behavior, anti-trust, and monopoly practices Codice Etico (pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": {
+        "page": "95.txt",
+        "context_before": "Il nostro Business Model approach (pag.28); Trasparenza (pag.39) Conformita socio economica (pag. 77); Qualita e innovazione dei servizi (pag. 40)",
+        "context_after": ": Tax 207-1 Approach to tax Qualita e innovazione dei servizi (pag.43) Material Topics GRI 300 Environmental Standards Series 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "93.txt",
+        "context_before": "e micro (pag. 26); II nostro Business Model (pag. 28); Qualita e innovativita dei servizi (pag. 40) GRI 201: Economic",
+        "context_after": "Direct economic value Performance distributed joo panation of the material topic and | analisi di materialita (pag.33-37) generated and Qualita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": {
+        "page": "94.txt",
+        "context_before": "GRI STANDARD DISCLOSURE SEZIONE / NOTA OMISSION",
+        "context_after": "Ratio of standard entry level wage b gender compared to local minimun wage Qualita e innovativita dei servizi (pag. 43)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "94.txt",
+        "context_before": "b gender compared to local minimun wage Qualita e innovativita dei servizi (pag. 43) GRI 202: Market Donec eeeenseeeeeneeeneseeeeeteeessvenentineeesseeetuneesssentuseuentvnieeeenneee Farce",
+        "context_after": "Proportion of senior management itd ivita dei i hired from the local community Qualita e innovativita dei servizi (pag. 43)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "94.txt",
+        "context_before": "il Capitale approach Finanziario e Produttivo (pag. 28); Qualita e innovativita dei servizi (pag. 29, 30, 31, 32, 33, 34)",
+        "context_after": "Infrastructure investments Qualita e innovativita dei servizi (pag. 43) Qualita e innovativita dei servizi (pag. 31) and services supported GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "203-2": false,
+    "204-1": {
+        "page": "44.txt",
+        "context_before": "manodopera e professionalita varie, 45 2018 2017 fidati e qualificati, rivolgendosi per quanto possibile alle aziende presenti sul territorio, [",
+        "context_after": "] di seguito un grafico della ripartizione della spesa per i fornito- ri per il 2019 ed il raffronto con",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-1": {
+        "page": "95.txt",
+        "context_before": "GRI STANDARD DISCLOSURE SEZIONE / NOTA OMISSION",
+        "context_after": "Operations assessed for risks related - to corruption Codice Etico (pag. 39) 7 205-2 Communication and training about - comuption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "95.txt",
+        "context_before": "STANDARD DISCLOSURE SEZIONE / NOTA OMISSION 205-1 Operations assessed for risks related - to corruption Codice Etico (pag. 39) 7",
+        "context_after": "Communication and training about - comuption anti-corruption policies and procedures Codice Etico (pag. 39) 205-3 Confirmed incidents of corruption -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "95.txt",
+        "context_before": "Codice Etico (pag. 39) 7 205-2 Communication and training about - comuption anti-corruption policies and procedures Codice Etico (pag. 39)",
+        "context_after": "Confirmed incidents of corruption - 4nd actions taken Codice Etico (pag. 40) joo planation of the material topic and |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "95.txt",
+        "context_before": "(pag.28); Trasparenza (pag.39); Conformita socio economica (pag. 77) 103-3 Evaluation of the management approach GRI 206: i A of a",
+        "context_after": "Legal actions for anti-competitive - Anti-competitive behavior, anti-trust, and monopoly practices Codice Etico (pag. 40) Behavior ary joo panation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": {
+        "page": "95.txt",
+        "context_before": "Model approach (pag.28); Trasparenza (pag.39) Conformita socio economica (pag. 77); Qualita e innovazione dei servizi (pag. 40) GRI 207: Tax",
+        "context_after": "Approach to tax Qualita e innovazione dei servizi (pag.43) Material Topics GRI 300 Environmental Standards Series 103-1 Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "95.txt",
+        "context_before": "innovazione dei servizi (pag. 40) GRI 207: Tax 207-1 Approach to tax Qualita e innovazione dei servizi (pag.43) Material Topics",
+        "context_after": "Environmental Standards Series 103-1 Explanation of the material topic and its Boundary LAnalisi di materialita (pag.33-37) GRI 103: Rispetto delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "95.txt",
+        "context_before": "103-3 Evaluation of the management | dieci principi (pag. 17); Conformita ambientale (pag. approach 47); Impatto ambientale diretto (pag. 49)",
+        "context_after": ": Energy 302-1 Energy consumption within the organization | nostri consumi (pag. 50) 96 SAmsic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "96.txt",
+        "context_before": "GRI STANDARD DISCLOSURE SEZIONE / NOTA OMISSION GRI 103: Management Approach",
+        "context_after": ": Water and Effluents 103-1 Explanation of the material topic and LAnalisi di materialita (pag. 33-37) its Boundary 103-2 The",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": false,
+    "GRI 307": {
+        "page": "96.txt",
+        "context_before": "SNSVS e SDGs (pag. 81); Supportiamo la vostra sostenibilita (pag. 34) | nostri consumi (pag. 50) GRI 103: Management Approach",
+        "context_after": ": Environmental Compliance 103-1 Explanation of the material topic and its Boundary 103-2 The management approach and its components guprorame",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "96.txt",
+        "context_before": "Conformita socio-economica (pag. ); I! nostro impegno SNSvVS e SDGs (pag. ) Conformita ambientale (pag. 49) GRI 103: Management Approach",
+        "context_after": ": Supplier Environmental Assessment 97 103-1 Explanation of the material topic and its Boundary 103-2 The management approach and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "95.txt",
+        "context_before": "the management | dieci principi (pag. 17); Conformita ambientale (pag. approach 47); Impatto ambientale diretto (pag. 49) GRI 302: Energy",
+        "context_after": "Energy consumption within the organization | nostri consumi (pag. 50) 96 SAmsic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "96.txt",
+        "context_before": "LAnalisi di materialita (pag. 33-37) its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": "Interactions with water as a shared resource 303-5 Water consumption Impegno ambientale: il Capitale Naturale (pag.46); Conformita ambientale (pag. 47);",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": {
+        "page": "96.txt",
+        "context_before": "The management approach and its components 103-3 Evaluation of the management approach 303-1 Interactions with water as a shared resource",
+        "context_after": "Water consumption Impegno ambientale: il Capitale Naturale (pag.46); Conformita ambientale (pag. 47); Impatto ambientale diretto (pag. 49) | dieci principi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": false,
+    "305-2": false,
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": false,
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "96.txt",
+        "context_before": "Explanation of the material topic and its Boundary 103-2 The management approach and its components guprorame la vostra sostenibilita (pag.",
+        "context_after": "Non-compliance with environmental laws and regulations impegno SNSVS e SDGs (pag. 81); LAnalisi di materialita (pag. 33-37) Cultura, etica e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "96.txt",
+        "context_before": "of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": "New suppliers that were screened using environmental criteria Cultura, etica e valori (pag. 20) LAnalisi di materialita (pag. 33-37) ualita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": {
+        "page": "97.txt",
+        "context_before": "GRI STANDARD DISCLOSURE SEZIONE / NOTA OMISSION Material Topics",
+        "context_after": "Social Standards Series GRI 103: Management Approach GRI 401: Employment its Boundary 401-1 New employee hires and employee turnover temporary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "97.txt",
+        "context_before": "GRI STANDARD DISCLOSURE SEZIONE / NOTA OMISSION Material Topics GRI 400 Social Standards Series GRI 103: Management Approach",
+        "context_after": ": Employment its Boundary 401-1 New employee hires and employee turnover temporary or part 103-1 Explanation of the material topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "97.txt",
+        "context_before": "to Diversity Management ed Inclusione (pag.65) me employees 401-3 Parental leave Diversity Management ed Inclusione (pag.65) GRI 103: Management Approach",
+        "context_after": ": Occupational Health and Safety 98 403-1 Occupational health and safety health and safety 403-8 Workers covered by an occupational",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "98.txt",
+        "context_before": "GRI STANDARD DISCLOSURE SEZIONE / NOTA OMISSION GRI 103: Management Approach",
+        "context_after": ": Training and Education 103-1 Explanation of the material topic and its Boundary 103-2 The management approach and its components",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "98.txt",
+        "context_before": "(pag. 71) Formazione ed istruzione (pag. 71) Il sistema incentivante (pag. 75) GRI 103: Management Approach GRI 103: Management Approach",
+        "context_after": ": Diversity and Equal Opportunity 103-1 Explanation of the material topic and 103-2 The management approach and its components its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "98.txt",
+        "context_before": "struttura aziendale (pag. 23); Diversity Management ed Inclusione (pag. 60,61) Diversity Management ed Inclusione (pag. 61) GRI 103: Management Approach",
+        "context_after": ": Non- discrimination 99 103-1 Explanation of the material topic and its Boundary 103-2 The management approach and its components",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": {
+        "page": "99.txt",
+        "context_before": "and its Boun' 103-2 The management approach and its GRI 103: components Management Approach 103-3 Evaluation of the management approach",
+        "context_after": ": Forced or Compulsory Labor significant risk for incidents of forced or compulsory labor ary Supportiamo la vostra sostenibil 409-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "99.txt",
+        "context_before": "e SD: its Boundary GRI 103: 103-2 The management approach and its ner components 103-3 Evaluation of the management approach",
+        "context_after": ": Local Gonmnniies engagement, impact assessment, and development sostenibili 413-1 Operations with local community Sviluppo del territorio (pag. 78); Il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "99.txt",
+        "context_before": "nana saan BETOaCH 103-2 The management approach and its components GRI 103: Management 103-3 Evaluation of the management Approach approach",
+        "context_after": ": Supplier 414-1 New suppliers that were screened Social Assessment using social criteria 100 Cultura, etica e valori L'Analisi di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "100.txt",
+        "context_before": "GRI STANDARD DISCLOSURE SEZIONE / NOTA OMISSION GRI 103: Management Approach",
+        "context_after": ": Customer Health and Safety 103-1 Explanation of the material topic and its Boundary 103-2 The management approach and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": false,
+    "GRI 418": {
+        "page": "100.txt",
+        "context_before": "nostro impegno SNSVS e SDGs (pag. 81); (pag. 84) Attenzione e centralita del cliente (pag. 77) GRI 103: Management Approach",
+        "context_after": ": Customer Privacy 103-1 Explanation of the material topic and its Boundary 103-2 The management approach and its components 103-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "100.txt",
+        "context_before": "(pag. 20); Attenzione e centralita del cliente (pag. 76) Attenzione e centralita del cliente (pag. 76) GRI 103: Management Approach",
+        "context_after": ": Socioeconomic Compliance 101 103-1 Explanation of the material topic and its Boundary 103-2 The management approach and its components",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "97.txt",
+        "context_before": "SEZIONE / NOTA OMISSION Material Topics GRI 400 Social Standards Series GRI 103: Management Approach GRI 401: Employment its Boundary",
+        "context_after": "New employee hires and employee turnover temporary or part 103-1 Explanation of the material topic and LAnalisi di materialita (pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "97.txt",
+        "context_before": "(pag. 60) nostro impegno SNSVS e SDGs (pag. 81); Supportiamo la vostra sostenibilita (pag. 84) Diversity Management ed Inclusione (pag.60)",
+        "context_after": "Benefits provided to full-time employees that are not provided to Diversity Management ed Inclusione (pag.65) me employees 401-3 Parental leave",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "97.txt",
+        "context_before": "Inclusione (pag.60) 401-2 Benefits provided to full-time employees that are not provided to Diversity Management ed Inclusione (pag.65) me employees",
+        "context_after": "Parental leave Diversity Management ed Inclusione (pag.65) GRI 103: Management Approach GRI 403: Occupational Health and Safety 98 403-1 Occupational",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": false,
+    "403-1": {
+        "page": "97.txt",
+        "context_before": "employees 401-3 Parental leave Diversity Management ed Inclusione (pag.65) GRI 103: Management Approach GRI 403: Occupational Health and Safety 98",
+        "context_after": "Occupational health and safety health and safety 403-8 Workers covered by an occupational health and safety management system 103-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "97.txt",
+        "context_before": "SDGs (pag. 81); Supportiamo la vostra sostenibilita (pag. 84 management system Salute e sicurezza sul luogo di lavoro (pag. 67)",
+        "context_after": "Hazard identification, risk assessment, and incident investigation Infortuni (pag. 66) 403-3 Occupational health services Salute e sicurezza sul luogo di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "97.txt",
+        "context_before": "Salute e sicurezza sul luogo di lavoro (pag. 67) 403-2 Hazard identification, risk assessment, and incident investigation Infortuni (pag. 66)",
+        "context_after": "Occupational health services Salute e sicurezza sul luogo di lavoro (pag.68,69) 403-4 Worker participation, consultation, and communication on occupational health",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "97.txt",
+        "context_before": "risk assessment, and incident investigation Infortuni (pag. 66) 403-3 Occupational health services Salute e sicurezza sul luogo di lavoro (pag.68,69)",
+        "context_after": "Worker participation, consultation, and communication on occupational health Salute e sicurezza sul luogo di lavoro (pag.68,69) and safety 403-5 Worker",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-5": {
+        "page": "97.txt",
+        "context_before": "(pag.68,69) 403-4 Worker participation, consultation, and communication on occupational health Salute e sicurezza sul luogo di lavoro (pag.68,69) and safety",
+        "context_after": "Worker training on occupational Formazione ed istruzione (pag. 71) 7 5 Diversity Management e inclusione (pag. 63); Salute e 403-6",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-6": {
+        "page": "97.txt",
+        "context_before": "403-5 Worker training on occupational Formazione ed istruzione (pag. 71) 7 5 Diversity Management e inclusione (pag. 63); Salute e",
+        "context_after": "Promotion of worker health sicurezza sul luogo di lavoro (pag. 68) 11 100% dei lavoratori 403-9 Work-related injuries Salute e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": false,
+    "403-8": {
+        "page": "97.txt",
+        "context_before": "(pag.65) GRI 103: Management Approach GRI 403: Occupational Health and Safety 98 403-1 Occupational health and safety health and safety",
+        "context_after": "Workers covered by an occupational health and safety management system 103-1 Explanation of the material topic and its Boundary LAnalisi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-9": {
+        "page": "97.txt",
+        "context_before": "(pag. 63); Salute e 403-6 Promotion of worker health sicurezza sul luogo di lavoro (pag. 68) 11 100% dei lavoratori",
+        "context_after": "Work-related injuries Salute e sicurezza sul luogo di lavoro (pag.67) SAmsic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-10": false,
+    "404-1": {
+        "page": "98.txt",
+        "context_before": "the material topic and its Boundary 103-2 The management approach and its components sostenibill 103-3 Evaluation of the management approach",
+        "context_after": "Average hours of training per year per employee 404-2 Programs for upgrading employee skills and transition assistance programs 404-3 Percentage",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "98.txt",
+        "context_before": "approach and its components sostenibill 103-3 Evaluation of the management approach 404-1 Average hours of training per year per employee",
+        "context_after": "Programs for upgrading employee skills and transition assistance programs 404-3 Percentage of employees receiving regular performance and career development reviews",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "98.txt",
+        "context_before": "approach 404-1 Average hours of training per year per employee 404-2 Programs for upgrading employee skills and transition assistance programs",
+        "context_after": "Percentage of employees receiving regular performance and career development reviews Supportiamo la vostra sostenibili LAnalisi di materialita (pag. 33-37) Valorizzazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "98.txt",
+        "context_before": "Il nostro impegno SNSVS e SDGs (pag. 81); Supportiamo la vostra sostenibilita (pag. 84) 103-3 Evaluation of the management approach",
+        "context_after": "Diversity of governance bodies and employees 405-2 Ratio of basic salary and remuneration of women to men | nostri obiettivi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "98.txt",
+        "context_before": "81); Supportiamo la vostra sostenibilita (pag. 84) 103-3 Evaluation of the management approach 405-1 Diversity of governance bodies and employees",
+        "context_after": "Ratio of basic salary and remuneration of women to men | nostri obiettivi (pag. 58); Diversity management ed inclusione (pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "98.txt",
+        "context_before": "Diversity management ed inclusione (pag. 60); Il nostro impegno SNSvS e SDGs (pag. 81); Supportiamo la vostra sostenibilita (pag. 84",
+        "context_after": "Incidents of discrimination and corrective actions taken Diversity Management ed Inclusione (pag. 63) SAmsic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "407-1": false,
+    "408-1": {
+        "page": "99.txt",
+        "context_before": "103-2 The management approach and its GRI 103: Management components Approach 103-3 Evaluation of the management approach 408: Child Labor",
+        "context_after": "Operations and suppliers at significant risk for incidents of child labor Supportiamo la vostra sostenibil LAnalisi di materialita (pag. 33-37)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "99.txt",
+        "context_before": "GRI 409: Forced or Compulsory Labor significant risk for incidents of forced or compulsory labor ary Supportiamo la vostra sostenibil",
+        "context_after": "Operations and suppliers at LAnalisi di materialita (pag. 33-37) Cultura, etica e valori (pag. 20); Rispetto delle persone e dell'ambiente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "99.txt",
+        "context_before": "and its ner components 103-3 Evaluation of the management approach GRI 413: Local Gonmnniies engagement, impact assessment, and development sostenibili",
+        "context_after": "Operations with local community Sviluppo del territorio (pag. 78); Il nostro impegno SNSvVS e SDGs (pag. 81); Supportiamo la vostra",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": {
+        "page": "99.txt",
+        "context_before": "103-2 The management approach and its components GRI 103: Management 103-3 Evaluation of the management Approach approach GRI 414: Supplier",
+        "context_after": "New suppliers that were screened Social Assessment using social criteria 100 Cultura, etica e valori L'Analisi di materialita (pag. 23,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "76.txt",
+        "context_before": "saldi, positivi e coerenti con tutti i fornitori e la co- munita locale. [",
+        "context_after": "] Samsic Italia ha individuato due fornito- ri che garantiscono prodotti certificati Ecolabel e Cradle to Cradle Certified per garantire",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": {
+        "page": "75.txt",
+        "context_before": "permettendo di avere un focus continuo sul contesto socio-economico e ambientale in cui il rapporto si sviluppa. WE SUPPORT [",
+        "context_after": "] Nel corso del 2019, cosi come nel 2018 e 2017, non sono stati rilevati reclami e/o contesta- zioni da",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "419-1": {
+        "page": "76.txt",
+        "context_before": "doppio dei prodotti non certificati ma che ugualmente ri- spettano i requisiti richiesti per la conformita. CONFORMITA SOCIO ECONOMICA [",
+        "context_after": "] Anche nel corso del 2019, cosi come nel 2018, non sono state comminate all'organizza- zione sanzioni pecuniarie e non,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

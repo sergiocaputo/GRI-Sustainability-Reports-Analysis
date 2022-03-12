@@ -1,0 +1,793 @@
+{
+    "GRI 200": {
+        "page": "90.txt",
+        "context_before": "di processo = La gestione dei rischi Le politiche specifiche sono riportate nella introduzione alle diverse sezioni del preesente documento",
+        "context_after": "- ECONOMIC TOPICS PERFORMANCE ECONOMICA 201-1 |Valore economico diretto generato e distribuito risultati economici e finanziari: La erformance e il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "90.txt",
+        "context_before": "Le politiche specifiche sono riportate nella introduzione alle diverse sezioni del preesente documento GRI 200 - ECONOMIC TOPICS PERFORMANCE ECONOMICA",
+        "context_after": "|Valore economico diretto generato e distribuito risultati economici e finanziari: La erformance e il valore distribuito 201-2 |Implicazioni economico finanziarie",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "90.txt",
+        "context_before": "TOPICS PERFORMANCE ECONOMICA 201-1 |Valore economico diretto generato e distribuito risultati economici e finanziari: La erformance e il valore distribuito",
+        "context_after": "|Implicazioni economico finanziarie e altri rischi/opportunita risultati economici e finanziari: connessi ai cambiamenti climatici Limpatto finanziario dei cambiamenti climatici 201-3",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "201-3": {
+        "page": "90.txt",
+        "context_before": "201-2 |Implicazioni economico finanziarie e altri rischi/opportunita risultati economici e finanziari: connessi ai cambiamenti climatici Limpatto finanziario dei cambiamenti climatici",
+        "context_after": "|Obblighi assunti in sede di definizione del piano pensionistico Le risorse umane  | numeri dei dipendenti (A norma delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "90.txt",
+        "context_before": "in sede di definizione del piano pensionistico Le risorse umane  | numeri dei dipendenti (A norma delle legge vigente)",
+        "context_after": "|Finanziamenti ricevuti dal Governo e sussidi ricevuti risultati economici e finanziari: Sussisi e contributi dalla Pubblica Amministrazione PRESENZA SUL MERCATO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "90.txt",
+        "context_before": "|Finanziamenti ricevuti dal Governo e sussidi ricevuti risultati economici e finanziari: Sussisi e contributi dalla Pubblica Amministrazione PRESENZA SUL MERCATO",
+        "context_after": "|Rapporto tra i salari standard base per genere rispetto alsalario Le risorse umane  Applicata la minimo locale normativa vigente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "90.txt",
+        "context_before": "i salari standard base per genere rispetto alsalario Le risorse umane  Applicata la minimo locale normativa vigente (Non significativo)",
+        "context_after": "|Percentuale di dirigenti assunti nella comunita locale Le risorse umane  | dipendenti rovengono prevalentemente dal territorio (dirigenti inclusi) IMPATTI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "90.txt",
+        "context_before": "dirigenti assunti nella comunita locale Le risorse umane  | dipendenti rovengono prevalentemente dal territorio (dirigenti inclusi) IMPATTI ECONOMICI INDIRETTI",
+        "context_after": "|Investimenti in infrastrutture e in servizi di interesse per la risultati economici e finanziari: Gli collettivita investimenti 203-2 |Principali impatti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "90.txt",
+        "context_before": "ECONOMICI INDIRETTI 203-1 |Investimenti in infrastrutture e in servizi di interesse per la risultati economici e finanziari: Gli collettivita investimenti",
+        "context_after": "|Principali impatti economici indiretti risultati economici e finanziari: Gli effetti economici sul territorio POLITICHE DI APPROVWVIGIONAMENTO acquevenete - Bilancio di",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "204-1": {
+        "page": "91.txt",
+        "context_before": "",
+        "context_after": "|Quota di acquisti effettuati da fornitori locali | risultati economici e finanziari: Gli effetti economici sul territorio LOTTA ALLA CORRUZIONE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "91.txt",
+        "context_before": "|Quota di acquisti effettuati da fornitori locali | risultati economici e finanziari: Gli effetti economici sul territorio LOTTA ALLA CORRUZIONE",
+        "context_after": "|Operazioni valutate per rischi di corruzione La Governance e la gestione dei 205-2 |Comunicazione e formazione su politiche e procedure",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-2": {
+        "page": "91.txt",
+        "context_before": "effetti economici sul territorio LOTTA ALLA CORRUZIONE 205-1 |Operazioni valutate per rischi di corruzione La Governance e la gestione dei",
+        "context_after": "|Comunicazione e formazione su politiche e procedure rischi: Il Modello di controllo e anticorruzione misure di contrasto alla corruzione 205-3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "91.txt",
+        "context_before": "205-2 |Comunicazione e formazione su politiche e procedure rischi: Il Modello di controllo e anticorruzione misure di contrasto alla corruzione",
+        "context_after": "|Casi di corruzione e azioni intraprese COMPORTAMENTI ANTI-COMPETITIVI 206-1 {Numero totale di azioni legali relative a concorrenza sleale, | rispetto",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "91.txt",
+        "context_before": "Il Modello di controllo e anticorruzione misure di contrasto alla corruzione 205-3 |Casi di corruzione e azioni intraprese COMPORTAMENTI ANTI-COMPETITIVI",
+        "context_after": "{Numero totale di azioni legali relative a concorrenza sleale, | rispetto delle norme antitrust e pratiche monopolistiche e relative sentenze",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "91.txt",
+        "context_before": "{Numero totale di azioni legali relative a concorrenza sleale, | rispetto delle norme antitrust e pratiche monopolistiche e relative sentenze",
+        "context_after": "- ENVIRONMENTAL TOPICS MATERIALI 301-1 |Materiali utilizzati LAmbiente: | materiali 301-2 |Materiali riciclati utilizzati Comprehensive 301-3 |Prodotti rigenerati e relativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": false,
+    "GRI 303": {
+        "page": "53.txt",
+        "context_before": "un aumento dellabbattimento degli inquinanti e nel contempo ad una riduzione dei consumi energetici. La risorsa acqua GRI103-1 GRI103-2 GRI103-3",
+        "context_after": "-1 GRI303-2 GRI 303-3 Le informazioni che vengono fornite si riferiscono allacqua emunta dalla Societa per essere potabilizzata e distribuita",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "63.txt",
+        "context_before": "intanto le azioni per il collegamento a fonti di approvvigionamento alternative, del tutto prive di PFAS. Biodiversita GRI103-1 GRI103-2 GRI103-3",
+        "context_after": "-1 GRI304-2 GRI 304-3 GRI304-4 La Biodiversita  la varieta degli esseri viventi che popolano la Terra e si misura",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305": false,
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "53.txt",
+        "context_before": "un aumento dellabbattimento degli inquinanti e nel contempo ad una riduzione dei consumi energetici. La risorsa acqua GRI103-1 GRI103-2 GRI103-3",
+        "context_after": "GRI303-2 GRI 303-3 Le informazioni che vengono fornite si riferiscono allacqua emunta dalla Societa per essere potabilizzata e distribuita agli",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": {
+        "page": "53.txt",
+        "context_before": "degli inquinanti e nel contempo ad una riduzione dei consumi energetici. La risorsa acqua GRI103-1 GRI103-2 GRI103-3 GRI 303-1 GRI303-2",
+        "context_after": "Le informazioni che vengono fornite si riferiscono allacqua emunta dalla Societa per essere potabilizzata e distribuita agli utenti finali. |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": {
+        "page": "63.txt",
+        "context_before": "intanto le azioni per il collegamento a fonti di approvvigionamento alternative, del tutto prive di PFAS. Biodiversita GRI103-1 GRI103-2 GRI103-3",
+        "context_after": "GRI304-2 GRI 304-3 GRI304-4 La Biodiversita  la varieta degli esseri viventi che popolano la Terra e si misura a",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304-2": false,
+    "GRI 304-3": {
+        "page": "63.txt",
+        "context_before": "per il collegamento a fonti di approvvigionamento alternative, del tutto prive di PFAS. Biodiversita GRI103-1 GRI103-2 GRI103-3 GRI 304-1 GRI304-2",
+        "context_after": "GRI304-4 La Biodiversita  la varieta degli esseri viventi che popolano la Terra e si misura a livello di geni,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "91.txt",
+        "context_before": "a concorrenza sleale, | rispetto delle norme antitrust e pratiche monopolistiche e relative sentenze GRI 300 - ENVIRONMENTAL TOPICS MATERIALI",
+        "context_after": "|Materiali utilizzati LAmbiente: | materiali 301-2 |Materiali riciclati utilizzati Comprehensive 301-3 |Prodotti rigenerati e relativi materiali di imballaggio ENERGIA 302-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "91.txt",
+        "context_before": "norme antitrust e pratiche monopolistiche e relative sentenze GRI 300 - ENVIRONMENTAL TOPICS MATERIALI 301-1 |Materiali utilizzati LAmbiente: | materiali",
+        "context_after": "|Materiali riciclati utilizzati Comprehensive 301-3 |Prodotti rigenerati e relativi materiali di imballaggio ENERGIA 302-1 |Consumi diretti di energia LAmbiente: Energia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "91.txt",
+        "context_before": "e relative sentenze GRI 300 - ENVIRONMENTAL TOPICS MATERIALI 301-1 |Materiali utilizzati LAmbiente: | materiali 301-2 |Materiali riciclati utilizzati Comprehensive",
+        "context_after": "|Prodotti rigenerati e relativi materiali di imballaggio ENERGIA 302-1 |Consumi diretti di energia LAmbiente: Energia  | Consumi di energia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "91.txt",
+        "context_before": "301-1 |Materiali utilizzati LAmbiente: | materiali 301-2 |Materiali riciclati utilizzati Comprehensive 301-3 |Prodotti rigenerati e relativi materiali di imballaggio ENERGIA",
+        "context_after": "|Consumi diretti di energia LAmbiente: Energia  | Consumi di energia 302-2 |Consumi indiretti di energia LAmbiente: Energia  |",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "91.txt",
+        "context_before": "|Prodotti rigenerati e relativi materiali di imballaggio ENERGIA 302-1 |Consumi diretti di energia LAmbiente: Energia  | Consumi di energia",
+        "context_after": "|Consumi indiretti di energia LAmbiente: Energia  | Consumi indiretti di energia (Dato non disponibile) 302-3 |Indice di intensita energetica",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "302-3": {
+        "page": "91.txt",
+        "context_before": "| Consumi di energia 302-2 |Consumi indiretti di energia LAmbiente: Energia  | Consumi indiretti di energia (Dato non disponibile)",
+        "context_after": "|Indice di intensita energetica LAmbiente: Energia  Intensita energetica 302-4 |Risparmio energetico LAmbiente: Energia 302-5 |Riduzione del fabbisogno energetico di",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "302-4": {
+        "page": "91.txt",
+        "context_before": "Energia  | Consumi indiretti di energia (Dato non disponibile) 302-3 |Indice di intensita energetica LAmbiente: Energia  Intensita energetica",
+        "context_after": "|Risparmio energetico LAmbiente: Energia 302-5 |Riduzione del fabbisogno energetico di prodotti e servizi = || Sistema di Gestione Energia =",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "302-5": {
+        "page": "91.txt",
+        "context_before": "di energia (Dato non disponibile) 302-3 |Indice di intensita energetica LAmbiente: Energia  Intensita energetica 302-4 |Risparmio energetico LAmbiente: Energia",
+        "context_after": "|Riduzione del fabbisogno energetico di prodotti e servizi = || Sistema di Gestione Energia = Riduzione dei consumi energetici /",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "91.txt",
+        "context_before": "prodotti e servizi = || Sistema di Gestione Energia = Riduzione dei consumi energetici / Interventi di efficientamento energetico ACQUA",
+        "context_after": "|Prelievi idrici per fonte LAmbiente  La risorsa acqua 303-2 |Fonti significativamente interessate dal prelievo idrico 303-3 Acqua riciclata e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "91.txt",
+        "context_before": "Riduzione dei consumi energetici / Interventi di efficientamento energetico ACQUA 303-1 |Prelievi idrici per fonte LAmbiente  La risorsa acqua",
+        "context_after": "|Fonti significativamente interessate dal prelievo idrico 303-3 Acqua riciclata e riutilizzata BIODIVERSITA' 304-1 Siti operativi ubicati in aree protette e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "91.txt",
+        "context_before": "efficientamento energetico ACQUA 303-1 |Prelievi idrici per fonte LAmbiente  La risorsa acqua 303-2 |Fonti significativamente interessate dal prelievo idrico",
+        "context_after": "Acqua riciclata e riutilizzata BIODIVERSITA' 304-1 Siti operativi ubicati in aree protette e ad elevata biodiversita LAmbiente - Biodiversita 304-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "91.txt",
+        "context_before": "per fonte LAmbiente  La risorsa acqua 303-2 |Fonti significativamente interessate dal prelievo idrico 303-3 Acqua riciclata e riutilizzata BIODIVERSITA'",
+        "context_after": "Siti operativi ubicati in aree protette e ad elevata biodiversita LAmbiente - Biodiversita 304-2 |Significativi impatti dellattivita sulla biodiversita 304-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "91.txt",
+        "context_before": "303-3 Acqua riciclata e riutilizzata BIODIVERSITA' 304-1 Siti operativi ubicati in aree protette e ad elevata biodiversita LAmbiente - Biodiversita",
+        "context_after": "|Significativi impatti dellattivita sulla biodiversita 304-3 |Habitat protetti o ripristinati 304-4 Specie della Lista Rossa IUCN e di liste nazionali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-3": {
+        "page": "91.txt",
+        "context_before": "304-1 Siti operativi ubicati in aree protette e ad elevata biodiversita LAmbiente - Biodiversita 304-2 |Significativi impatti dellattivita sulla biodiversita",
+        "context_after": "|Habitat protetti o ripristinati 304-4 Specie della Lista Rossa IUCN e di liste nazionali di conservazione con habitat nelle aree",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-4": {
+        "page": "91.txt",
+        "context_before": "aree protette e ad elevata biodiversita LAmbiente - Biodiversita 304-2 |Significativi impatti dellattivita sulla biodiversita 304-3 |Habitat protetti o ripristinati",
+        "context_after": "Specie della Lista Rossa IUCN e di liste nazionali di conservazione con habitat nelle aree di operativita EMISSIONI 305-1 |Emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-1": {
+        "page": "91.txt",
+        "context_before": "ripristinati 304-4 Specie della Lista Rossa IUCN e di liste nazionali di conservazione con habitat nelle aree di operativita EMISSIONI",
+        "context_after": "|Emissioni dirette di GHG (Scope 1) LAmbiente  Emissioni 305-2 _|Emissioni dirette di GHG (Scope 2) (Emissioni indirette Scope 3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "91.txt",
+        "context_before": "nazionali di conservazione con habitat nelle aree di operativita EMISSIONI 305-1 |Emissioni dirette di GHG (Scope 1) LAmbiente  Emissioni",
+        "context_after": "_|Emissioni dirette di GHG (Scope 2) (Emissioni indirette Scope 3 non 305-3 {Altre emissioni indirette di GHG (Scope 3) disponibili)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "91.txt",
+        "context_before": "dirette di GHG (Scope 1) LAmbiente  Emissioni 305-2 _|Emissioni dirette di GHG (Scope 2) (Emissioni indirette Scope 3 non",
+        "context_after": "{Altre emissioni indirette di GHG (Scope 3) disponibili) 305-4 __|Intensita delle emissioni GHG 305-5 _|Riduzione delle emissioni GHG 305-6 |Emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "91.txt",
+        "context_before": "_|Emissioni dirette di GHG (Scope 2) (Emissioni indirette Scope 3 non 305-3 {Altre emissioni indirette di GHG (Scope 3) disponibili)",
+        "context_after": "__|Intensita delle emissioni GHG 305-5 _|Riduzione delle emissioni GHG 305-6 |Emissioni di sostanze che riducono lo strato di ozono 305-7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "91.txt",
+        "context_before": "2) (Emissioni indirette Scope 3 non 305-3 {Altre emissioni indirette di GHG (Scope 3) disponibili) 305-4 __|Intensita delle emissioni GHG",
+        "context_after": "_|Riduzione delle emissioni GHG 305-6 |Emissioni di sostanze che riducono lo strato di ozono 305-7 |Emissioni di NOx, SOx e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "91.txt",
+        "context_before": "non 305-3 {Altre emissioni indirette di GHG (Scope 3) disponibili) 305-4 __|Intensita delle emissioni GHG 305-5 _|Riduzione delle emissioni GHG",
+        "context_after": "|Emissioni di sostanze che riducono lo strato di ozono 305-7 |Emissioni di NOx, SOx e altre emissioni significative SCARICHI E",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "91.txt",
+        "context_before": "305-4 __|Intensita delle emissioni GHG 305-5 _|Riduzione delle emissioni GHG 305-6 |Emissioni di sostanze che riducono lo strato di ozono",
+        "context_after": "|Emissioni di NOx, SOx e altre emissioni significative SCARICHI E RIFIUTI 306-1 |Scarichi idrici per qualita e destinazione LAmbiente ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "91.txt",
+        "context_before": "di sostanze che riducono lo strato di ozono 305-7 |Emissioni di NOx, SOx e altre emissioni significative SCARICHI E RIFIUTI",
+        "context_after": "|Scarichi idrici per qualita e destinazione LAmbiente  Scarichi e rifiuti 306-2 |Rifiuti prodotti per tipologia e metodo di smaltimento",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-2": {
+        "page": "91.txt",
+        "context_before": "SOx e altre emissioni significative SCARICHI E RIFIUTI 306-1 |Scarichi idrici per qualita e destinazione LAmbiente  Scarichi e rifiuti",
+        "context_after": "|Rifiuti prodotti per tipologia e metodo di smaltimento 306-3 |Sversamenti significativi 306-4 |Trasporto di rifiuti pericolosi 306-5 |Corpi idrici interessati",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": {
+        "page": "91.txt",
+        "context_before": "|Scarichi idrici per qualita e destinazione LAmbiente  Scarichi e rifiuti 306-2 |Rifiuti prodotti per tipologia e metodo di smaltimento",
+        "context_after": "|Sversamenti significativi 306-4 |Trasporto di rifiuti pericolosi 306-5 |Corpi idrici interessati da scarichi idrico e/o deflussi COMPLIANCE CON LEGG! E",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-4": {
+        "page": "91.txt",
+        "context_before": "qualita e destinazione LAmbiente  Scarichi e rifiuti 306-2 |Rifiuti prodotti per tipologia e metodo di smaltimento 306-3 |Sversamenti significativi",
+        "context_after": "|Trasporto di rifiuti pericolosi 306-5 |Corpi idrici interessati da scarichi idrico e/o deflussi COMPLIANCE CON LEGG! E REGOLAMENTI AMBIENTALI 307-1",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-5": {
+        "page": "91.txt",
+        "context_before": "Scarichi e rifiuti 306-2 |Rifiuti prodotti per tipologia e metodo di smaltimento 306-3 |Sversamenti significativi 306-4 |Trasporto di rifiuti pericolosi",
+        "context_after": "|Corpi idrici interessati da scarichi idrico e/o deflussi COMPLIANCE CON LEGG! E REGOLAMENTI AMBIENTALI 307-1 |Inosservanza di leggi e regolamenti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "307-1": {
+        "page": "91.txt",
+        "context_before": "306-4 |Trasporto di rifiuti pericolosi 306-5 |Corpi idrici interessati da scarichi idrico e/o deflussi COMPLIANCE CON LEGG! E REGOLAMENTI AMBIENTALI",
+        "context_after": "|Inosservanza di leggi e regolamenti ambientali Il rispetto delle norme MALUTAZIONE AMBIENTALE FORNITORI acquevenete - Bilancio di sostenibilita 2017",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "92.txt",
+        "context_before": "",
+        "context_after": "{Nuovi fornitori sottoposti a screening in base a criteri ambientall |Fornitori  La responsabilita della 308-2 |Impatti ambientali negativi nella",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "308-2": {
+        "page": "92.txt",
+        "context_before": "308-1 {Nuovi fornitori sottoposti a screening in base a criteri ambientall |Fornitori  La responsabilita della",
+        "context_after": "|Impatti ambientali negativi nella catena di fornitura e azioni Supply chain intraprese GRI 400 - SOCIAL TOPICS OCCUPAZIONE 401-1 |Nuove",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 400": {
+        "page": "92.txt",
+        "context_before": "criteri ambientall |Fornitori  La responsabilita della 308-2 |Impatti ambientali negativi nella catena di fornitura e azioni Supply chain intraprese",
+        "context_after": "- SOCIAL TOPICS OCCUPAZIONE 401-1 |Nuove assunzioni e turnover dei dipendenti Le risorse umane  | numeri dei 401-2 |Benefit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "72.txt",
+        "context_before": "dagli assestamenti organizzativi dellazienda, verranno recepite in un nuovo organico Regolamento. | numeri dei dipendenti GRI 102-8 GRI 102-41 GRI201-3",
+        "context_after": "-1 GRI 401-2 GRI401-3 GRI 402-1 GRI 405-1 GRI4052 A seguito della fusione per incorporazione di Polesine Acque da parte",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": {
+        "page": "72.txt",
+        "context_before": "recepite in un nuovo organico Regolamento. | numeri dei dipendenti GRI 102-8 GRI 102-41 GRI201-3 GRI 401-1 GRI 401-2 GRI401-3",
+        "context_after": "-1 GRI 405-1 GRI4052 A seguito della fusione per incorporazione di Polesine Acque da parte di acquevenete, finalizzata il 30",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "74.txt",
+        "context_before": "13 Maggiori di 50 anni - 2 2 Totale 5 14 19 Salute e sicurezza sul lavoro GRI401-3 GRI403-1 GRI403-2",
+        "context_after": "-3 GRI403-4 Tutela della salute e della sicurezza dei lavoratori E convinzione della Direzione di acquevenete che la gestione dellazienda",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": false,
+    "GRI 405": {
+        "page": "72.txt",
+        "context_before": "un nuovo organico Regolamento. | numeri dei dipendenti GRI 102-8 GRI 102-41 GRI201-3 GRI 401-1 GRI 401-2 GRI401-3 GRI 402-1",
+        "context_after": "-1 GRI4052 A seguito della fusione per incorporazione di Polesine Acque da parte di acquevenete, finalizzata il 30 novembre 2017,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": {
+        "page": "79.txt",
+        "context_before": "SUPPLY CHAIN La catena di fornitura  Rapporti di reciproco beneficio GRI103-1 GRI103-2 GRI 103-3 GRI102-9 GRI308-1 GRI308-2 GRI407-1 GRI408-1",
+        "context_after": "-1 GRI414-1 GRI414-2 acquevenete seleziona fornitori, appaltatori e collaboratori qualificati, richiedendo loro di condividere e rispettare i principi della politica",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "72.txt",
+        "context_before": "dagli assestamenti organizzativi dellazienda, verranno recepite in un nuovo organico Regolamento. | numeri dei dipendenti GRI 102-8 GRI 102-41 GRI201-3",
+        "context_after": "GRI 401-2 GRI401-3 GRI 402-1 GRI 405-1 GRI4052 A seguito della fusione per incorporazione di Polesine Acque da parte di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": {
+        "page": "72.txt",
+        "context_before": "organizzativi dellazienda, verranno recepite in un nuovo organico Regolamento. | numeri dei dipendenti GRI 102-8 GRI 102-41 GRI201-3 GRI 401-1",
+        "context_after": "GRI401-3 GRI 402-1 GRI 405-1 GRI4052 A seguito della fusione per incorporazione di Polesine Acque da parte di acquevenete, finalizzata",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-3": false,
+    "GRI 402-1": {
+        "page": "72.txt",
+        "context_before": "recepite in un nuovo organico Regolamento. | numeri dei dipendenti GRI 102-8 GRI 102-41 GRI201-3 GRI 401-1 GRI 401-2 GRI401-3",
+        "context_after": "GRI 405-1 GRI4052 A seguito della fusione per incorporazione di Polesine Acque da parte di acquevenete, finalizzata il 30 novembre",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": {
+        "page": "74.txt",
+        "context_before": "13 Maggiori di 50 anni - 2 2 Totale 5 14 19 Salute e sicurezza sul lavoro GRI401-3 GRI403-1 GRI403-2",
+        "context_after": "GRI403-4 Tutela della salute e della sicurezza dei lavoratori E convinzione della Direzione di acquevenete che la gestione dellazienda e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "72.txt",
+        "context_before": "un nuovo organico Regolamento. | numeri dei dipendenti GRI 102-8 GRI 102-41 GRI201-3 GRI 401-1 GRI 401-2 GRI401-3 GRI 402-1",
+        "context_after": "GRI4052 A seguito della fusione per incorporazione di Polesine Acque da parte di acquevenete, finalizzata il 30 novembre 2017, laumento",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": {
+        "page": "79.txt",
+        "context_before": "SUPPLY CHAIN La catena di fornitura  Rapporti di reciproco beneficio GRI103-1 GRI103-2 GRI 103-3 GRI102-9 GRI308-1 GRI308-2 GRI407-1 GRI408-1",
+        "context_after": "GRI414-1 GRI414-2 acquevenete seleziona fornitori, appaltatori e collaboratori qualificati, richiedendo loro di condividere e rispettare i principi della politica della",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "92.txt",
+        "context_before": "della 308-2 |Impatti ambientali negativi nella catena di fornitura e azioni Supply chain intraprese GRI 400 - SOCIAL TOPICS OCCUPAZIONE",
+        "context_after": "|Nuove assunzioni e turnover dei dipendenti Le risorse umane  | numeri dei 401-2 |Benefit per i dipendenti dipendenti 401-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": {
+        "page": "92.txt",
+        "context_before": "GRI 400 - SOCIAL TOPICS OCCUPAZIONE 401-1 |Nuove assunzioni e turnover dei dipendenti Le risorse umane  | numeri dei",
+        "context_after": "|Benefit per i dipendenti dipendenti 401-3 |Congedo parentale RAPPORTI NELLA GESTIONE DEL LAVORO 402-1 |Periodo minimo di preawviso per cambiamenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "92.txt",
+        "context_before": "401-1 |Nuove assunzioni e turnover dei dipendenti Le risorse umane  | numeri dei 401-2 |Benefit per i dipendenti dipendenti",
+        "context_after": "|Congedo parentale RAPPORTI NELLA GESTIONE DEL LAVORO 402-1 |Periodo minimo di preawviso per cambiamenti operativi Le risorse umane  Ai",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": {
+        "page": "92.txt",
+        "context_before": "risorse umane  | numeri dei 401-2 |Benefit per i dipendenti dipendenti 401-3 |Congedo parentale RAPPORTI NELLA GESTIONE DEL LAVORO",
+        "context_after": "|Periodo minimo di preawviso per cambiamenti operativi Le risorse umane  Ai sensi della normativa vigente SALUTE E SICUREZZA DEI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "92.txt",
+        "context_before": "minimo di preawviso per cambiamenti operativi Le risorse umane  Ai sensi della normativa vigente SALUTE E SICUREZZA DEI LAVORATORI",
+        "context_after": "|Rappresentanza dei lavoratori in comitati per salute e sicurezza, _|Le risorse umane: Salute e sicurezza formati da lavoratori e dalla",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "92.txt",
+        "context_before": "in comitati per salute e sicurezza, _|Le risorse umane: Salute e sicurezza formati da lavoratori e dalla direzione sul lavoro",
+        "context_after": "|Infortuni sul lavoro, malattie professionali, assenteismo e decessi connessi al lavoro 403-3 |Personale esposto ad alta incidenza 0 ad alto",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "92.txt",
+        "context_before": "formati da lavoratori e dalla direzione sul lavoro 403-2 |Infortuni sul lavoro, malattie professionali, assenteismo e decessi connessi al lavoro",
+        "context_after": "|Personale esposto ad alta incidenza 0 ad alto rischio di malattie professionali 403-4 |Accordi formali con i sindacati per la",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "92.txt",
+        "context_before": "professionali, assenteismo e decessi connessi al lavoro 403-3 |Personale esposto ad alta incidenza 0 ad alto rischio di malattie professionali",
+        "context_after": "|Accordi formali con i sindacati per la sicurezza e la salute FORMAZIONE E ISTRUZIONE 404-1 |Ore medie annue di formazione",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "92.txt",
+        "context_before": "alto rischio di malattie professionali 403-4 |Accordi formali con i sindacati per la sicurezza e la salute FORMAZIONE E ISTRUZIONE",
+        "context_after": "|Ore medie annue di formazione pro capite Le risorse umane  La formazione 404-2 |Programmi di gestione delle competenze e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "92.txt",
+        "context_before": "e la salute FORMAZIONE E ISTRUZIONE 404-1 |Ore medie annue di formazione pro capite Le risorse umane  La formazione",
+        "context_after": "|Programmi di gestione delle competenze e di assistenza alla transizione 404-3 |Percentuale di dipendenti che ricevono regolarmente valutazioni delle prestazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "92.txt",
+        "context_before": "formazione pro capite Le risorse umane  La formazione 404-2 |Programmi di gestione delle competenze e di assistenza alla transizione",
+        "context_after": "|Percentuale di dipendenti che ricevono regolarmente valutazioni delle prestazioni e dello sviluppo di carriera DIVERSITA' E PARI OPPORTUNITA' 405-1 |Composizione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "92.txt",
+        "context_before": "transizione 404-3 |Percentuale di dipendenti che ricevono regolarmente valutazioni delle prestazioni e dello sviluppo di carriera DIVERSITA' E PARI OPPORTUNITA'",
+        "context_after": "|Composizione degli organi di governo e del personale per Organi di governo: La Governance e indicatori di diversita la gestione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "92.txt",
+        "context_before": "e del personale per Organi di governo: La Governance e indicatori di diversita la gestione dei rischi: II governo dellimpresa",
+        "context_after": "|Rapporto dello stipendio base e della retribuzione delle donne Le risorse umane  | numeri dei rispetto agli uomini dipendenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": false,
+    "407-1": {
+        "page": "92.txt",
+        "context_before": "DISCRIMINAZIONE 406- Episodi di discriminazione e azioni correttive intraprese Non significativo / Non intervenuti LIBERTA' DI ASSOCIAZIONE E CONTRATTAZIONE COLLETTIVA",
+        "context_after": "|Operazioni e fornitori in cui la liberta di associazione e Fornitori  La responsabilita della contrattazione collettiva pud essere a",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "408-1": {
+        "page": "92.txt",
+        "context_before": "di associazione e Fornitori  La responsabilita della contrattazione collettiva pud essere a rischio Supply chain (Non significativo) LAVORO MINORILE",
+        "context_after": "|Operazioni e fornitori a rischio significativo per incidenti di lavoro |FornitoriLa responsabilita della minorile Supply chain (Non significativo) LAVORO FORZATO",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "92.txt",
+        "context_before": "fornitori a rischio significativo per incidenti di lavoro |FornitoriLa responsabilita della minorile Supply chain (Non significativo) LAVORO FORZATO E OBBLIGATO",
+        "context_after": "|Operazioni e fornitori a rischio significativo per incidenti di lavoro |FornitoriLa responsabilita della forzato o obbligato Supply chain (Non significativo)",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "410-1": {
+        "page": "77.txt",
+        "context_before": "malattie trasmissibili o che possono insorgere in relazione alle operazioni effettuate dal personale dipendente. La formazione GRI404-1 GRI404-2 GRI404-3 GRI",
+        "context_after": "Politiche formative ll processo di pianificazione della formazione nasce dallesigenza di ogni azienda di sviluppare le competenze e le conoscenze",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": {
+        "page": "85.txt",
+        "context_before": "IL RISPETTO DELLE NORME La compliance normativa GRI206-1 GRI307-1 GRI",
+        "context_after": "GRI419-1 La politica per la qualta, lambiente e la sicurezza definisce il quadro di riferimento per acquevenete: attivare un attento",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-1": {
+        "page": "92.txt",
+        "context_before": "umani DIRITTI DELLE POPOLAZIONI INDIGENE 411- Incidenti 0 violazioni dei diritti delle popolazioni indigene Il rispetto delle norme DIRITTI UMANI",
+        "context_after": "|Operazioni che sono state oggetto di revisioni dei diritti umani o di}Non significativo valutazioni d'impatto 412-2 |Formazione dei dipendenti su",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "92.txt",
+        "context_before": "delle norme DIRITTI UMANI 412-1 |Operazioni che sono state oggetto di revisioni dei diritti umani o di}Non significativo valutazioni d'impatto",
+        "context_after": "|Formazione dei dipendenti su politiche o procedure inerenti i diritti umani 412-3 |Significativi accordi di investimento e contratti che comprendono",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "92.txt",
+        "context_before": "dei diritti umani o di}Non significativo valutazioni d'impatto 412-2 |Formazione dei dipendenti su politiche o procedure inerenti i diritti umani",
+        "context_after": "|Significativi accordi di investimento e contratti che comprendono clausole sui diritti umani o sottoposti a screening dei diritti umani COMUNITA'",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "413-1": {
+        "page": "93.txt",
+        "context_before": "",
+        "context_after": "|Attivita che prevedono il coinvolgimento delle comunita locali Relazione con la Comunita e il 413-2 |Attivita con impatti negativi sulle",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "413-2": {
+        "page": "93.txt",
+        "context_before": "413-1 |Attivita che prevedono il coinvolgimento delle comunita locali Relazione con la Comunita e il",
+        "context_after": "|Attivita con impatti negativi sulle comunita locali Territorio Valutazione sociale dei fornitori 414-1 |Nuovi fornitori sottoposti a verifiche secondo criteri",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": {
+        "page": "93.txt",
+        "context_before": "locali Relazione con la Comunita e il 413-2 |Attivita con impatti negativi sulle comunita locali Territorio Valutazione sociale dei fornitori",
+        "context_after": "|Nuovi fornitori sottoposti a verifiche secondo criteri sociali Fornitori  La responsabilita della 414-2 _|Impatti sociali negativi nella catena di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "93.txt",
+        "context_before": "locali Territorio Valutazione sociale dei fornitori 414-1 |Nuovi fornitori sottoposti a verifiche secondo criteri sociali Fornitori  La responsabilita della",
+        "context_after": "_|Impatti sociali negativi nella catena di fornitura e azioni intraprese |Supply chain POLITICHE PUBBLICHE 415-1 |Contributi finanziari a partiti politici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "93.txt",
+        "context_before": "Fornitori  La responsabilita della 414-2 _|Impatti sociali negativi nella catena di fornitura e azioni intraprese |Supply chain POLITICHE PUBBLICHE",
+        "context_after": "|Contributi finanziari a partiti politici e relative istituzioni Uazienda non contribuisce in alcun modo al finanziamento di partiti, dei movimenti,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "416-1": {
+        "page": "93.txt",
+        "context_before": "loro rappresentanti e candidati, al di fuori dei casi previsti da normative specifiche (Codice Etico) SALUTE E SICUREZZA DEI CLIENTI",
+        "context_after": "|Prodotti/servizi valutati sugli impatti sulla salute e sicurezza La relazione con il cliente 416-2 |Non conformita di prodotti e servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "93.txt",
+        "context_before": "Etico) SALUTE E SICUREZZA DEI CLIENTI 416-1 |Prodotti/servizi valutati sugli impatti sulla salute e sicurezza La relazione con il cliente",
+        "context_after": "|Non conformita di prodotti e servizi in materia di salute e sicurezza MARKETING ED ETICHETTATURA 417-1 |Requisiti delle informazioni su",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "93.txt",
+        "context_before": "relazione con il cliente 416-2 |Non conformita di prodotti e servizi in materia di salute e sicurezza MARKETING ED ETICHETTATURA",
+        "context_after": "|Requisiti delle informazioni su prodotti e servizi ed etichettatura__|La relazione con il cliente 417-2 |Non conformita per informazione e etichettatura",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "93.txt",
+        "context_before": "salute e sicurezza MARKETING ED ETICHETTATURA 417-1 |Requisiti delle informazioni su prodotti e servizi ed etichettatura__|La relazione con il cliente",
+        "context_after": "|Non conformita per informazione e etichettatura di prodotti/servizi 417-3 |Non conformita per comunicazioni di marketing PRIVACY DEI CLIENTI 418-1 |Reclami",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "93.txt",
+        "context_before": "informazioni su prodotti e servizi ed etichettatura__|La relazione con il cliente 417-2 |Non conformita per informazione e etichettatura di prodotti/servizi",
+        "context_after": "|Non conformita per comunicazioni di marketing PRIVACY DEI CLIENTI 418-1 |Reclami documentati relativi a violazioni della privacy e a perdita_|La",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "93.txt",
+        "context_before": "cliente 417-2 |Non conformita per informazione e etichettatura di prodotti/servizi 417-3 |Non conformita per comunicazioni di marketing PRIVACY DEI CLIENTI",
+        "context_after": "|Reclami documentati relativi a violazioni della privacy e a perdita_|La relazione con il cliente di dati dei clienti COMPLIANCE SOCIO-ECONOMICA",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "93.txt",
+        "context_before": "|Reclami documentati relativi a violazioni della privacy e a perdita_|La relazione con il cliente di dati dei clienti COMPLIANCE SOCIO-ECONOMICA",
+        "context_after": "|Inosservanza di leggi e regolamenti in area sociale ed economica _|II rispetto delle norme acquevenete - Bilancio di sostenibilita 2017",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

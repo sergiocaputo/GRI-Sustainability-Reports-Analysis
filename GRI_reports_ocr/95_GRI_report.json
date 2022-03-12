@@ -1,0 +1,517 @@
+{
+    "GRI 200": false,
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "71.txt",
+        "context_before": "tema materiale e del relativo perimetro GRI 103: MODALITA DI GESTIONE 2016 103-3: Valutazione delle 2016 3-4 modialita di gestione",
+        "context_after": ": ENERGIA 2016 2016 3.1 302-1: Energia consumata allinterno dellorganizzazione GRI 302: ENERGIA 2016 302-3: Intensita energetica 2016 3.1 GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "71.txt",
+        "context_before": "GRI 302: ENERGIA 2016 2016 3.1 302-1: Energia consumata allinterno dellorganizzazione GRI 302: ENERGIA 2016 302-3: Intensita energetica 2016 3.1",
+        "context_after": ": ACQUA E SCARICHI IDRICI 2018 303-3: Prelievo idrico 2018 3.2 GRI 303: ACQUA E SCARICHI IDRICI 2018 303-4: Scarico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "71.txt",
+        "context_before": "2018 303-4: Scarico di acqua 2018 3.2-3.5 GRI 303: ACQUA E SCARICHI IDRICI 2018 303-5: Consumo di acqua 2018 3.2",
+        "context_after": ": BIODIVERSITA 2016 2016 3.3 304-2: Impatti significativi di attivita, prodotti e servizi sulla biodiversita GRI 305: EMISSIONI 2016 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "71.txt",
+        "context_before": "di acqua 2018 3.2 GRI 304: BIODIVERSITA 2016 2016 3.3 304-2: Impatti significativi di attivita, prodotti e servizi sulla biodiversita",
+        "context_after": ": EMISSIONI 2016 2016 3.4 305-1: Emissioni dirette di GHG (Scope 1) GRI 305: EMISSIONI 2016 2016 3.4 305-4: Intensita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "71.txt",
+        "context_before": "GHG GRI 305: EMISSIONI 2016 2016 3.4 305-7: Ossidi di azoto (NO,), ossidi di zolfo (SO,) e altre emissioni significative",
+        "context_after": ": SCARICHI IDRICI E RIFIUT! 2016 306-2: Rifiuti per tipo e metodo 2016 3.6 di smaltimento GRI 307: COMPLIANCE AMBIENTALE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "71.txt",
+        "context_before": "altre emissioni significative GRI 306: SCARICHI IDRICI E RIFIUT! 2016 306-2: Rifiuti per tipo e metodo 2016 3.6 di smaltimento",
+        "context_after": ": COMPLIANCE AMBIENTALE 2016 2016 3.7 307-1: Non conformita con leggi e normative in materia ambientale GRI 401: COMPLIANCE 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "37.txt",
+        "context_before": "approfondimenti vedere la Dichiarazione Ambientale redatta ai fini EMAS presente nel sito www.oltoffshore. it (7) Questo materiale fa riferimento a",
+        "context_after": "e GRI 302-3 del GRI 302: Energy 2016.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": {
+        "page": "37.txt",
+        "context_before": "Dichiarazione Ambientale redatta ai fini EMAS presente nel sito www.oltoffshore. it (7) Questo materiale fa riferimento a GRI 302-1 e",
+        "context_after": "del GRI 302: Energy 2016.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": {
+        "page": "39.txt",
+        "context_before": "il primo consumo specifico si  ridotto del -31,6%, mentre il secondo del -74,3%. (9) Questo materiale fa riferimento a",
+        "context_after": ", GRI 303-4 e GRI 303-5 del GRI 303: Acque e scarichi idrici 2018.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303-4": {
+        "page": "45.txt",
+        "context_before": "In ogni caso, tali frigorie risultano essere notevolmente inferiori ai limiti stabili dalla legge. (17) Questo materiale fa riferimento a",
+        "context_after": "del GRI 303: Acqua e scarichi idrici 2018.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303-5": {
+        "page": "39.txt",
+        "context_before": " ridotto del -31,6%, mentre il secondo del -74,3%. (9) Questo materiale fa riferimento a GRI 303-3, GRI 303-4 e",
+        "context_after": "del GRI 303: Acque e scarichi idrici 2018.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304-1": false,
+    "GRI 304-2": {
+        "page": "40.txt",
+        "context_before": "marina (come il plancton). Questo conferma la conservazione dellhabitat naturale dellarea vicina al Terminale. (10) Questo materiale fa riferimento a",
+        "context_after": "del GRI 304: Biodiverista 2016. 41",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "42.txt",
+        "context_before": "oggi, il Terminale ha sempre rispettato i limiti imposti, in tutte le condizioni operative\". (11) Questo materiale fa riferimento a",
+        "context_after": ", GRI 305-4 e GRI 305-7 del GRI 305: Emissioni 2016. (12) Sievidenzia che i valori indicati (2017-2018) sono diversi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": {
+        "page": "42.txt",
+        "context_before": "Terminale ha sempre rispettato i limiti imposti, in tutte le condizioni operative\". (11) Questo materiale fa riferimento a GRI 305-1,",
+        "context_after": "e GRI 305-7 del GRI 305: Emissioni 2016. (12) Sievidenzia che i valori indicati (2017-2018) sono diversi da quanto riportato",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": {
+        "page": "42.txt",
+        "context_before": "rispettato i limiti imposti, in tutte le condizioni operative\". (11) Questo materiale fa riferimento a GRI 305-1, GRI 305-4 e",
+        "context_after": "del GRI 305: Emissioni 2016. (12) Sievidenzia che i valori indicati (2017-2018) sono diversi da quanto riportato nei report precedenti,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "47.txt",
+        "context_before": "grazie alle buone performance dell'impianto di depurazione. La figura seguente dimostra infatti tale riduzione. (19) Questo materiale fa riferimento a",
+        "context_after": "del GRI 306: Scarichi idrici e rifiuti 2016.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "49.txt",
+        "context_before": "ISO 14001 da parte di questultima, la continua verifica attraverso audit e il monitoraggio (20) Questo materiale fa riferimento a",
+        "context_after": "del GRI 307: Compliance ambientale 2016 ed al GRI 413-1 del GRI 413: Comunita locali 2016.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "71.txt",
+        "context_before": "GRI 103: MODALITA DI GESTIONE 2016 103-3: Valutazione delle 2016 3-4 modialita di gestione GRI 302: ENERGIA 2016 2016 3.1",
+        "context_after": ": Energia consumata allinterno dellorganizzazione GRI 302: ENERGIA 2016 302-3: Intensita energetica 2016 3.1 GRI 303: ACQUA E SCARICHI IDRICI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "71.txt",
+        "context_before": "2016 3-4 modialita di gestione GRI 302: ENERGIA 2016 2016 3.1 302-1: Energia consumata allinterno dellorganizzazione GRI 302: ENERGIA 2016",
+        "context_after": ": Intensita energetica 2016 3.1 GRI 303: ACQUA E SCARICHI IDRICI 2018 303-3: Prelievo idrico 2018 3.2 GRI 303: ACQUA",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": false,
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": {
+        "page": "71.txt",
+        "context_before": "Energia consumata allinterno dellorganizzazione GRI 302: ENERGIA 2016 302-3: Intensita energetica 2016 3.1 GRI 303: ACQUA E SCARICHI IDRICI 2018",
+        "context_after": ": Prelievo idrico 2018 3.2 GRI 303: ACQUA E SCARICHI IDRICI 2018 303-4: Scarico di acqua 2018 3.2-3.5 GRI 303:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": {
+        "page": "71.txt",
+        "context_before": "3.1 GRI 303: ACQUA E SCARICHI IDRICI 2018 303-3: Prelievo idrico 2018 3.2 GRI 303: ACQUA E SCARICHI IDRICI 2018",
+        "context_after": ": Scarico di acqua 2018 3.2-3.5 GRI 303: ACQUA E SCARICHI IDRICI 2018 303-5: Consumo di acqua 2018 3.2 GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "303-5": {
+        "page": "71.txt",
+        "context_before": "GRI 303: ACQUA E SCARICHI IDRICI 2018 303-4: Scarico di acqua 2018 3.2-3.5 GRI 303: ACQUA E SCARICHI IDRICI 2018",
+        "context_after": ": Consumo di acqua 2018 3.2 GRI 304: BIODIVERSITA 2016 2016 3.3 304-2: Impatti significativi di attivita, prodotti e servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-1": false,
+    "304-2": {
+        "page": "71.txt",
+        "context_before": "3.2-3.5 GRI 303: ACQUA E SCARICHI IDRICI 2018 303-5: Consumo di acqua 2018 3.2 GRI 304: BIODIVERSITA 2016 2016 3.3",
+        "context_after": ": Impatti significativi di attivita, prodotti e servizi sulla biodiversita GRI 305: EMISSIONI 2016 2016 3.4 305-1: Emissioni dirette di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "71.txt",
+        "context_before": "BIODIVERSITA 2016 2016 3.3 304-2: Impatti significativi di attivita, prodotti e servizi sulla biodiversita GRI 305: EMISSIONI 2016 2016 3.4",
+        "context_after": ": Emissioni dirette di GHG (Scope 1) GRI 305: EMISSIONI 2016 2016 3.4 305-4: Intensita delle emissioni di GHG GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": false,
+    "305-3": false,
+    "305-4": {
+        "page": "71.txt",
+        "context_before": "biodiversita GRI 305: EMISSIONI 2016 2016 3.4 305-1: Emissioni dirette di GHG (Scope 1) GRI 305: EMISSIONI 2016 2016 3.4",
+        "context_after": ": Intensita delle emissioni di GHG GRI 305: EMISSIONI 2016 2016 3.4 305-7: Ossidi di azoto (NO,), ossidi di zolfo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": false,
+    "305-6": false,
+    "305-7": {
+        "page": "71.txt",
+        "context_before": "(Scope 1) GRI 305: EMISSIONI 2016 2016 3.4 305-4: Intensita delle emissioni di GHG GRI 305: EMISSIONI 2016 2016 3.4",
+        "context_after": ": Ossidi di azoto (NO,), ossidi di zolfo (SO,) e altre emissioni significative GRI 306: SCARICHI IDRICI E RIFIUT! 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "71.txt",
+        "context_before": "305-7: Ossidi di azoto (NO,), ossidi di zolfo (SO,) e altre emissioni significative GRI 306: SCARICHI IDRICI E RIFIUT! 2016",
+        "context_after": ": Rifiuti per tipo e metodo 2016 3.6 di smaltimento GRI 307: COMPLIANCE AMBIENTALE 2016 2016 3.7 307-1: Non conformita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "71.txt",
+        "context_before": "E RIFIUT! 2016 306-2: Rifiuti per tipo e metodo 2016 3.6 di smaltimento GRI 307: COMPLIANCE AMBIENTALE 2016 2016 3.7",
+        "context_after": ": Non conformita con leggi e normative in materia ambientale GRI 401: COMPLIANCE 2016 401-1: Nuove assunzioni e turnover 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "71.txt",
+        "context_before": "3.6 di smaltimento GRI 307: COMPLIANCE AMBIENTALE 2016 2016 3.7 307-1: Non conformita con leggi e normative in materia ambientale",
+        "context_after": ": COMPLIANCE 2016 401-1: Nuove assunzioni e turnover 2016 4.1 GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018 403-1: Sistema",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "72.txt",
+        "context_before": "SICUREZZA, AMBIENTE, TERRITORIO GRI Edizione N. capitolo GRI",
+        "context_after": ": SALUTE E SICUREZZA SUL LAVORO 2018 403-4: Partecipazione 2018 4.2 e consultazione dei lavoratori e comunicazione in materia di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": false,
+    "GRI 405": {
+        "page": "72.txt",
+        "context_before": "2018 403-9: Infortuni sul 2018 4.2 lavoro GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018 403-10: Malattie 2018 4.2 professionali",
+        "context_after": ": DIVERSITA E PARI OPPORTUNITA 2016 405-1: Diversita negli 2016 4.1 organi di governo e tra i dipendenti GRI 413:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "72.txt",
+        "context_before": "professionali GRI 405: DIVERSITA E PARI OPPORTUNITA 2016 405-1: Diversita negli 2016 4.1 organi di governo e tra i dipendenti",
+        "context_after": ": COMUNITA LOCALI 2018 2018 3.7-4 413-1: Attivita che prevedono il coinvolgimento delle comunita locali, 4.3-4.4 valutazioni d'impatto e programmi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "53.txt",
+        "context_before": "e ai GRI 103-1, 103-2 e 103-3 del GRI 103: Modalita di gestione 2016. (22) Questo materiale fa riferimento a",
+        "context_after": "del GRI 401: Occupazione 2016. 54 Livello di inquadramento (dato medio 2017 - 2019) 9% 17% 74% BB Dirigenti_ J",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": {
+        "page": "55.txt",
+        "context_before": "i sistemi di gestione di OLT e delloperatore del Terminale non solo sono conformi (25) Questo materiale fa riferimento a",
+        "context_after": ", GRI 403-2, GRI 403-4, GRI 403-8, GRI 403-9, GRI 403-10 del GRI 403: Salute e sicurezza sul lavoro 2018.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": {
+        "page": "55.txt",
+        "context_before": "di gestione di OLT e delloperatore del Terminale non solo sono conformi (25) Questo materiale fa riferimento a GRI 403-1,",
+        "context_after": ", GRI 403-4, GRI 403-8, GRI 403-9, GRI 403-10 del GRI 403: Salute e sicurezza sul lavoro 2018. (26) Per",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": {
+        "page": "55.txt",
+        "context_before": "di OLT e delloperatore del Terminale non solo sono conformi (25) Questo materiale fa riferimento a GRI 403-1, GRI 403-2,",
+        "context_after": ", GRI 403-8, GRI 403-9, GRI 403-10 del GRI 403: Salute e sicurezza sul lavoro 2018. (26) Per lavoratori si",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": {
+        "page": "55.txt",
+        "context_before": "e delloperatore del Terminale non solo sono conformi (25) Questo materiale fa riferimento a GRI 403-1, GRI 403-2, GRI 403-4,",
+        "context_after": ", GRI 403-9, GRI 403-10 del GRI 403: Salute e sicurezza sul lavoro 2018. (26) Per lavoratori si intendono sia",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-9": {
+        "page": "55.txt",
+        "context_before": "del Terminale non solo sono conformi (25) Questo materiale fa riferimento a GRI 403-1, GRI 403-2, GRI 403-4, GRI 403-8,",
+        "context_after": ", GRI 403-10 del GRI 403: Salute e sicurezza sul lavoro 2018. (26) Per lavoratori si intendono sia i lavoratori",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-10": {
+        "page": "55.txt",
+        "context_before": "non solo sono conformi (25) Questo materiale fa riferimento a GRI 403-1, GRI 403-2, GRI 403-4, GRI 403-8, GRI 403-9,",
+        "context_after": "del GRI 403: Salute e sicurezza sul lavoro 2018. (26) Per lavoratori si intendono sia i lavoratori della societa OLT",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "54.txt",
+        "context_before": "dipendenti in ingresso ed in uscita dalla societa diviso la media dei dipendenti annui. (24) Questo materiale fa riferimento a",
+        "context_after": "del GRI 405: Diversita e pari opportunita 2016. 55",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "62.txt",
+        "context_before": "griglie di valutazione, che permettono di mantenere o modificare la classificazione del fornitore selezionato. (28) Questo materiale fa riferimento a",
+        "context_after": "del GRI 413: Comunita locali 2016. 63",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "71.txt",
+        "context_before": "307: COMPLIANCE AMBIENTALE 2016 2016 3.7 307-1: Non conformita con leggi e normative in materia ambientale GRI 401: COMPLIANCE 2016",
+        "context_after": ": Nuove assunzioni e turnover 2016 4.1 GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018 403-1: Sistema di 2018 4.2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": false,
+    "403-1": {
+        "page": "72.txt",
+        "context_before": "SALUTE E SICUREZZA SUL LAVORO 2018 403-9: Infortuni sul 2018 4.2 lavoro GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018",
+        "context_after": "0: Malattie 2018 4.2 professionali GRI 405: DIVERSITA E PARI OPPORTUNITA 2016 405-1: Diversita negli 2016 4.1 organi di governo",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "71.txt",
+        "context_before": "403-1: Sistema di 2018 4.2 gestione della salute e sicurezza sul lavoro GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018",
+        "context_after": ": Identificazione 2018 4.2 dei pericoli, valutazione dei rischi e indagini sugli incidenti 72",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": {
+        "page": "72.txt",
+        "context_before": "SICUREZZA, AMBIENTE, TERRITORIO GRI Edizione N. capitolo GRI GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018",
+        "context_after": ": Partecipazione 2018 4.2 e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza sul lavoro GRI 403:",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": {
+        "page": "72.txt",
+        "context_before": "dei lavoratori e comunicazione in materia di salute e sicurezza sul lavoro GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018",
+        "context_after": ": Lavoratori 2018 4.2 coperti da un sistema di gestione della salute e sicurezza sul lavoro GRI 403: SALUTE E",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-9": {
+        "page": "72.txt",
+        "context_before": "coperti da un sistema di gestione della salute e sicurezza sul lavoro GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018",
+        "context_after": ": Infortuni sul 2018 4.2 lavoro GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018 403-10: Malattie 2018 4.2 professionali GRI",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "403-10": {
+        "page": "72.txt",
+        "context_before": "SALUTE E SICUREZZA SUL LAVORO 2018 403-9: Infortuni sul 2018 4.2 lavoro GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018",
+        "context_after": ": Malattie 2018 4.2 professionali GRI 405: DIVERSITA E PARI OPPORTUNITA 2016 405-1: Diversita negli 2016 4.1 organi di governo",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "404-1": false,
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "72.txt",
+        "context_before": "GRI 403: SALUTE E SICUREZZA SUL LAVORO 2018 403-10: Malattie 2018 4.2 professionali GRI 405: DIVERSITA E PARI OPPORTUNITA 2016",
+        "context_after": ": Diversita negli 2016 4.1 organi di governo e tra i dipendenti GRI 413: COMUNITA LOCALI 2018 2018 3.7-4 413-1:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "72.txt",
+        "context_before": "2016 405-1: Diversita negli 2016 4.1 organi di governo e tra i dipendenti GRI 413: COMUNITA LOCALI 2018 2018 3.7-4",
+        "context_after": ": Attivita che prevedono il coinvolgimento delle comunita locali, 4.3-4.4 valutazioni d'impatto e programmi di sviluppo 73",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": false
+}

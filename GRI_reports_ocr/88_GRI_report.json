@@ -1,0 +1,523 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "157.txt",
+        "context_before": "its Boundary 32:34 103-2 The management approach and its components 39-43, 61-64 103-3 Evaluation of the management approach 39-43, 61-64",
+        "context_after": ": Performance economica (2016) 201-1 Direct economic value generated and distributed 40-41 201-4 +M Financial assistance received from government 61-64",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "158.txt",
+        "context_before": "topic and its Boundary 32-34 103-2 The management approach and its components 121-130 103-3 Evaluation of the management approach 121-130",
+        "context_after": ": Procurement practices (2016) 204-1 Proportion of spending on local suppliers Oia) GRI103: Management Approach (2016) 103-1+M Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": false,
+    "GRI 206": {
+        "page": "158.txt",
+        "context_before": "32-34 103-2 The management approach and its components 22-23, 50-53, 65-67 103-3 Evaluation of the management approach 22-23, 50-53, 65-67",
+        "context_after": ": Anti-competitive behavior (2016) 206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices 67 ENERGY GRI 103: Management Approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "157.txt",
+        "context_before": "management approach and its components 39-43, 61-64 103-3 Evaluation of the management approach 39-43, 61-64 GRI 201: Performance economica (2016)",
+        "context_after": "Direct economic value generated and distributed 40-41 201-4 +M Financial assistance received from government 61-64 NP lirsamseoh OM aes GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": {
+        "page": "157.txt",
+        "context_before": "Evaluation of the management approach 39-43, 61-64 GRI 201: Performance economica (2016) 201-1 Direct economic value generated and distributed 40-41",
+        "context_after": "+M Financial assistance received from government 61-64 NP lirsamseoh OM aes GRI 103: Management Approach (2016) 103-1 Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": {
+        "page": "157.txt",
+        "context_before": "103-2 The management approach and its components 130-138 103-3 Evaluation of the management approach 130-138 GRI_203: Impatti economici indiretti (2016)",
+        "context_after": "Significant indirect economic impacts 121, 130-138 154",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "204-1": {
+        "page": "158.txt",
+        "context_before": "103-2 The management approach and its components 121-130 103-3 Evaluation of the management approach 121-130 GRI 204: Procurement practices (2016)",
+        "context_after": "Proportion of spending on local suppliers Oia) GRI103: Management Approach (2016) 103-1+M Explanation of the material topic and its Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "158.txt",
+        "context_before": "During the reporting year (2019), no confirmed cases of corruption have been registered ute anna aero) GRI103: Management Approach (2016)",
+        "context_after": "Confirmed incidents of corruption and actions taken 103-1 Explanation of the material topic and its Boundary 32-34 103-2 The management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "158.txt",
+        "context_before": "and its components 22-23, 50-53, 65-67 103-3 Evaluation of the management approach 22-23, 50-53, 65-67 GRI 206: Anti-competitive behavior (2016)",
+        "context_after": "Legal actions for anti-competitive behavior, anti-trust, and monopoly practices 67 ENERGY GRI 103: Management Approach (2016) 103-1 Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "158.txt",
+        "context_before": "its Boundary 32-34 103-2 The management approach and its components 141, 147-149 103-3 Evaluation of the management approach 141, 147-149",
+        "context_after": ": Energy (2016) 302-1 Energy consumption within the organization 147-149 155",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "159.txt",
+        "context_before": "of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": ": Emissions (2016) 305-1 Direct greenhouse gas (GHG) emissions (Scope 1) 305-2 Energy indirect greenhouse gas (GHG) emissions (Scope 2)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "159.txt",
+        "context_before": "of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": ": Effluents and waste (2016) 306-2 Total weight of waste by type and disposal method 32-34 141, 145-146 141, 145-146",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "159.txt",
+        "context_before": "of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": ": Environmental compliance (2016) 307-1 3071 Non-compliance with environmental laws and regulations 1414 32-34 141-144 141-144 143-144 ae GRI103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "158.txt",
+        "context_before": "The management approach and its components 141, 147-149 103-3 Evaluation of the management approach 141, 147-149 GRI 302: Energy (2016)",
+        "context_after": "Energy consumption within the organization 147-149 155",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "159.txt",
+        "context_before": "and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 305: Emissions (2016)",
+        "context_after": "Direct greenhouse gas (GHG) emissions (Scope 1) 305-2 Energy indirect greenhouse gas (GHG) emissions (Scope 2) 32-34 141, 147-149 141,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "159.txt",
+        "context_before": "its components 103-3 Evaluation of the management approach GRI 305: Emissions (2016) 305-1 Direct greenhouse gas (GHG) emissions (Scope 1)",
+        "context_after": "Energy indirect greenhouse gas (GHG) emissions (Scope 2) 32-34 141, 147-149 141, 147-149 147-149 147-149 Cay UPS GRI 103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "159.txt",
+        "context_before": "Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 306: Effluents and waste (2016)",
+        "context_after": "Total weight of waste by type and disposal method 32-34 141, 145-146 141, 145-146 145-146 Ena AmeotNe GRI103: Management Approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "159.txt",
+        "context_before": "its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 307: Environmental compliance (2016)",
+        "context_after": "3071 Non-compliance with environmental laws and regulations 1414 32-34 141-144 141-144 143-144 ae GRI103: Management Approach (2016) 103-1 Explanation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "159.txt",
+        "context_before": "of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": ": Employment (2016) 401-1 New employee hires and employee turnover Benefits provided to full-time employees that are not provided to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "160.txt",
+        "context_before": "@",
+        "context_after": ": Labour/Management Relations (2016) 402-1 Minimum notice periods regarding operational changes (lect ure a Te Er aag GRI 103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "160.txt",
+        "context_before": "topic and its Boundary 32-34 103-2 The management approach and its components 115-118 103-3 Evaluation of the management approach 115-118",
+        "context_after": ": Occupational Health and Safety (2018) 403-1 403-2 403-3 403-4 403-5 403-6 403-7 403-8 403-9 403-10 Occupational health and safety",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "160.txt",
+        "context_before": "103-3 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach",
+        "context_after": ": Training and education (2016) 404-1 Average hours of training per year per employee 115, 117-118 115-118 117 116-117 115-116,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "161.txt",
+        "context_before": "(2016) Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach",
+        "context_after": ": Diversity and equal opportunity (2016) 405-1 Diversity of governance bodies and employees 48, 101-102 Pee nN Ue GRI103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "161.txt",
+        "context_before": "of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": ": Non 406-4 Incidents of discrimination and corrective actions taken 32-34 49-50, 101, 129 49-50, 101, 129 During the reporting",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "161.txt",
+        "context_before": "of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": "-1 Freedom of Association and Collective Bargaining (2016) Operations and suppliers in which the right to freedom of association and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "161.txt",
+        "context_before": "103-1 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach",
+        "context_after": ": Human rights assessment (2016) 412-2 103-2 103-3 Employee training on human rights policies or procedures 32-34 49. 110 49.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "162.txt",
+        "context_before": "of the material topic and its Boundary +M The management approach and its components +M Evaluation of the management approach",
+        "context_after": ": Marketing and labeling (2016) 10: 10 417-2 Incidents of non-compliance concerning product and service information and labeling 83-87 417-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "162.txt",
+        "context_before": "of the material topic and its Boundary 103-2+M. The management approach and its components +M Evaluation of the management approach",
+        "context_after": ": Customer privacy (2016) 10: \" ; 7 reports (3 of which are still under investigation Substantiated complaints concerning breaches",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "162.txt",
+        "context_before": "its Boundary 32-34 103-2 The management approach and its components 50-51, 85-87 103-3 Evaluation of the management approach 50-51, 85-87",
+        "context_after": ": Socioeconomic compliance (2016) 419-1 #91 Non-compliance with laws and regulations inthe socialandeconomic area 8487 \"GRIMEDIASECTOR DISCLOSURE Coe Uren GRI103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": {
+        "page": "161.txt",
+        "context_before": "of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach",
+        "context_after": "Freedom of Association and Collective Bargaining (2016) Operations and suppliers in which the right to freedom of association and collective",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "159.txt",
+        "context_before": "and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 401: Employment (2016)",
+        "context_after": "New employee hires and employee turnover Benefits provided to full-time employees that are not provided to temporary or part-time employees",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "159.txt",
+        "context_before": "provided to full-time employees that are not provided to temporary or part-time employees Prune ues GRI 103: Management Approach (2016)",
+        "context_after": "103-1 Explanation of the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": {
+        "page": "160.txt",
+        "context_before": "@ GRI 402: Labour/Management Relations (2016)",
+        "context_after": "Minimum notice periods regarding operational changes (lect ure a Te Er aag GRI 103: Management Approach (2016) Salaries and legal",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "160.txt",
+        "context_before": "management approach and its components 115-118 103-3 Evaluation of the management approach 115-118 GRI 403: Occupational Health and Safety (2018)",
+        "context_after": "403-2 403-3 403-4 403-5 403-6 403-7 403-8 403-9 403-10 Occupational health and safety management system Hazard identification, risk assessment, and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "160.txt",
+        "context_before": "approach and its components 115-118 103-3 Evaluation of the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1",
+        "context_after": "403-3 403-4 403-5 403-6 403-7 403-8 403-9 403-10 Occupational health and safety management system Hazard identification, risk assessment, and incident",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "160.txt",
+        "context_before": "and its components 115-118 103-3 Evaluation of the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1 403-2",
+        "context_after": "403-4 403-5 403-6 403-7 403-8 403-9 403-10 Occupational health and safety management system Hazard identification, risk assessment, and incident investigation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "160.txt",
+        "context_before": "its components 115-118 103-3 Evaluation of the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1 403-2 403-3",
+        "context_after": "403-5 403-6 403-7 403-8 403-9 403-10 Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": {
+        "page": "160.txt",
+        "context_before": "components 115-118 103-3 Evaluation of the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1 403-2 403-3 403-4",
+        "context_after": "403-6 403-7 403-8 403-9 403-10 Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-6": {
+        "page": "160.txt",
+        "context_before": "115-118 103-3 Evaluation of the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1 403-2 403-3 403-4 403-5",
+        "context_after": "403-7 403-8 403-9 403-10 Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": {
+        "page": "160.txt",
+        "context_before": "103-3 Evaluation of the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1 403-2 403-3 403-4 403-5 403-6",
+        "context_after": "403-8 403-9 403-10 Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-8": {
+        "page": "160.txt",
+        "context_before": "Evaluation of the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1 403-2 403-3 403-4 403-5 403-6 403-7",
+        "context_after": "403-9 403-10 Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker participation,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-9": {
+        "page": "160.txt",
+        "context_before": "of the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1 403-2 403-3 403-4 403-5 403-6 403-7 403-8",
+        "context_after": "403-10 Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker participation, consultation,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-10": {
+        "page": "160.txt",
+        "context_before": "the management approach 115-118 GRI 403: Occupational Health and Safety (2018) 403-1 403-2 403-3 403-4 403-5 403-6 403-7 403-8 403-9",
+        "context_after": "Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker participation, consultation, and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-1": {
+        "page": "160.txt",
+        "context_before": "and its Boundary The management approach and its components Evaluation of the management approach GRI 404: Training and education (2016)",
+        "context_after": "Average hours of training per year per employee 115, 117-118 115-118 117 116-117 115-116, 118 115-116 117-118 115, 117 116-118",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "161.txt",
+        "context_before": "its Boundary The management approach and its components Evaluation of the management approach GRI 405: Diversity and equal opportunity (2016)",
+        "context_after": "Diversity of governance bodies and employees 48, 101-102 Pee nN Ue GRI103: Management Approach (2016) 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": {
+        "page": "161.txt",
+        "context_before": "the material topic and its Boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI",
+        "context_after": "Freedom of Association and Collective Bargaining (2016) Operations and suppliers in which the right to freedom of association and collective",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": {
+        "page": "161.txt",
+        "context_before": "and its Boundary The management approach and its components Evaluation of the management approach GRI 412: Human rights assessment (2016)",
+        "context_after": "103-2 103-3 Employee training on human rights policies or procedures 32-34 49. 110 49. 110 Reema GRI103: Management Approach (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": {
+        "page": "162.txt",
+        "context_before": "The management approach and its components +M Evaluation of the management approach GRI 417: Marketing and labeling (2016) 10: 10",
+        "context_after": "Incidents of non-compliance concerning product and service information and labeling 83-87 417-3 Incidents of non-compliance concerning marketing communications 83-87 evar",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "162.txt",
+        "context_before": "GRI 417: Marketing and labeling (2016) 10: 10 417-2 Incidents of non-compliance concerning product and service information and labeling 83-87",
+        "context_after": "Incidents of non-compliance concerning marketing communications 83-87 evar vad GRI103: Management Approach (2016) 103-1 +M Explanation of the material topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "162.txt",
+        "context_before": "during 2019 to the italian rivacy and losses of customer data privacy Privacy Authority. SOCIOECONOMIC COMPLIANCE GRI103: Management Approach (2016)",
+        "context_after": "10 Explanation of the material topic and its Boundary 32-34 103-2 The management approach and its components 50-51, 85-87 103-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "162.txt",
+        "context_before": "management approach and its components 50-51, 85-87 103-3 Evaluation of the management approach 50-51, 85-87 GRI 419: Socioeconomic compliance (2016)",
+        "context_after": "#91 Non-compliance with laws and regulations inthe socialandeconomic area 8487 \"GRIMEDIASECTOR DISCLOSURE Coe Uren GRI103: Management Approach (2016) 103-1+M. Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

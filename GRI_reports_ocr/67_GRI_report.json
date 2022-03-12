@@ -1,0 +1,583 @@
+{
+    "GRI 200": {
+        "page": "67.txt",
+        "context_before": "scelta dallorganizzazione 4102-55 GRI Content Index relativo allopzione scelta 102-56 Documento di Assurance esterna Material topic-specific standard disclosures 2016 (",
+        "context_after": ", 300, 400) GRI 200: INDICATORI DI PERFORMANCE ECONOMICA GRI 201: 103-1 - 103-2 va . : Performance Politiche e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": {
+        "page": "67.txt",
+        "context_before": "102-56 Documento di Assurance esterna Material topic-specific standard disclosures 2016 (GRI 200, 300, 400) GRI 200: INDICATORI DI PERFORMANCE ECONOMICA",
+        "context_after": ": 103-1 - 103-2 va . : Performance Politiche e approccio alla gestione . 103-3 economica 2016 201-41 Valore economico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "67.txt",
+        "context_before": "va . : Performance Politiche e approccio alla gestione . 103-3 economica 2016 201-41 Valore economico direttamente generato e distribuito",
+        "context_after": ": Pratiche di 403-1 - 103-2 / / / approvvigionamento Creazione di valore economico 103-3 2016 Politiche, pratiche e percentuale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "67.txt",
+        "context_before": "/ / approvvigionamento Creazione di valore economico 103-3 2016 Politiche, pratiche e percentuale 204-1 di spesa concentrate sui fornitori locali",
+        "context_after": ": Anti- 103-1 - 103-2 Politich io all ti corruzione 2016 103-3 olitiche e approccio alla gestione Percentuale e numero",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "67.txt",
+        "context_before": "rischi legati alla corruzione Episodi di corruzione segnalati 205-3 e confermati e relative azioni intraprese Pagina e note GRI standard",
+        "context_after": ": Comportamento anti-competitivo 2016 Risultati - Pag. 41 Societa del Gruppo e attivita aziendali - Pag. 20 jlota Metodologica -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "22.txt",
+        "context_before": "367.970.3911 Debiti di finanziamento 39.181.051 52.880.931 32.921.702 TFR e fondi rischi 9.982.124 10.494.612 10.807.881 Patrimonio netto 289.828.2921 307.037.238 324.240.807 [",
+        "context_after": "] Produzione e distribuzione del valore aggiunto ll valore aggiunto consente di col- legare il Bilancio di Sostenibilita al Bilancio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "22.txt",
+        "context_before": "367.970.3911 Debiti di finanziamento 39.181.051 52.880.931 32.921.702 TFR e fondi rischi 9.982.124 10.494.612 10.807.881 Patrimonio netto 289.828.2921 307.037.238 324.240.807 [GRI",
+        "context_after": "] Produzione e distribuzione del valore aggiunto ll valore aggiunto consente di col- legare il Bilancio di Sostenibilita al Bilancio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": {
+        "page": "67.txt",
+        "context_before": "PERFORMANCE ECONOMICA GRI 201: 103-1 - 103-2 va . : Performance Politiche e approccio alla gestione . 103-3 economica 2016",
+        "context_after": "1 Valore economico direttamente generato e distribuito GRI 204: Pratiche di 403-1 - 103-2 / / / approvvigionamento Creazione di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "67.txt",
+        "context_before": "204: Pratiche di 403-1 - 103-2 / / / approvvigionamento Creazione di valore economico 103-3 2016 Politiche, pratiche e percentuale",
+        "context_after": "di spesa concentrate sui fornitori locali GRI 205: Anti- 103-1 - 103-2 Politich io all ti corruzione 2016 103-3 olitiche",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "67.txt",
+        "context_before": "103-1 - 103-2 Politich io all ti corruzione 2016 103-3 olitiche e approccio alla gestione Percentuale e numero di divisioni",
+        "context_after": "interne monitorate per rischi legati alla corruzione Episodi di corruzione segnalati 205-3 e confermati e relative azioni intraprese Pagina e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-2": false,
+    "205-3": {
+        "page": "67.txt",
+        "context_before": "approccio alla gestione Percentuale e numero di divisioni 205-1 interne monitorate per rischi legati alla corruzione Episodi di corruzione segnalati",
+        "context_after": "e confermati e relative azioni intraprese Pagina e note GRI standard GRI 206: Comportamento anti-competitivo 2016 Risultati - Pag. 41",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "67.txt",
+        "context_before": "e Rifiuti 2016 Disclosure Descrizione 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione Azioni legali intraprese",
+        "context_after": "per comportamenti anti- competitivi, antitrust, e pratiche monopolistiche GRI 300: INDICATORI DI PERFOMANCE AMBIENTALE 103-1 - 103-2 _ . .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "67.txt",
+        "context_before": ". . 103-3 Politiche e approccio alla gestione Azioni legali intraprese 206-1 per comportamenti anti- competitivi, antitrust, e pratiche monopolistiche",
+        "context_after": ": INDICATORI DI PERFOMANCE AMBIENTALE 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione 301-1 Materie prime",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": {
+        "page": "67.txt",
+        "context_before": "attivita aziendali - Pag. 20 jlota Metodologica - Pag. 6 jlota metodologica - Pag. 6 jlota metodologica - Pag. 6",
+        "context_after": ": Materiali 2016 jlota metodologica - Pag. 6 jlota metodologica - Pag. 6 GRI 302: Energia 2016 jlota metodologica -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "67.txt",
+        "context_before": "6 jlota metodologica - Pag. 6 GRI 301: Materiali 2016 jlota metodologica - Pag. 6 jlota metodologica - Pag. 6",
+        "context_after": ": Energia 2016 jlota metodologica - Pag. 6 GRI Content Index - Pag. 132 Nota metodologica - Pag. 6 Pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "67.txt",
+        "context_before": "Energia 2016 jlota metodologica - Pag. 6 GRI Content Index - Pag. 132 Nota metodologica - Pag. 6 Pag. 42",
+        "context_after": ": Emissioni Produzione e distribuzione del 2016 Valore Aggiunto - Pag. 44 Risultati di gestione- Pag. 42 Fornitori - Pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "67.txt",
+        "context_before": "42 Fornitori - Pag. 47 Pag. 42 100% Per questo anno di rendicontazione linformativa  disponibile solo per Italia. Nessuno",
+        "context_after": ": Effluenti e Rifiuti 2016 Disclosure Descrizione 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione Azioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "68.txt",
+        "context_before": "richiede di rendicontare relativamente ai policlorobifenili e trifenili, individuati pit comunemente dalle sigle PCB e PCT. 306-4 Rifiuti pericolosi trasportati",
+        "context_after": ": Conformita 103-1 - 103-2 ambientale 2016 103-3 Politiche e approccio alla gestione Valore monetario delle multe significative e numero",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "49.txt",
+        "context_before": "~~ Gruppo SGR Bilancio di Sostenibilita 2019 ol | Ambiente 98 [",
+        "context_after": "] Consumi di materie prime | materiali dellattivita di distribuzione gas delle societa ADRIGAS e City- gas Bulgaria sono: ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "47.txt",
+        "context_before": "nazione pubblica idonei al consegui- mento di TEE pari a 461 Tep. 30.900 33.299 [GRI 300] Principali impatti ambientali [",
+        "context_after": "] Consumi energetici | consumi di energia primaria soddi- sfano le esigenze aziendali di riscal- damento, illuminazione e usi produt-",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "47.txt",
+        "context_before": "(kWh) 7.213.889 6.765.000 7.345.350 Energia elettrica prodotta (kWh) 5.829.167 5.654.722 6.455.893 Totale energia primaria risparmiata (tep) S44 337 394 [",
+        "context_after": "] Certificati Bianchi | Certificati Bianchi, anche noti come Titoli di Efficienza Energetica (TEE), sono titoli negoziabili che certifica- no",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "49.txt",
+        "context_before": "fogli di carta) Carta per bollette emesse e buste postali per la spedizione 3.362.375 Carta per usi uffici 1.304.725 [",
+        "context_after": ", 305-2, 305-3, 305-7] Gestione delle emissioni in atmosfera Le attivita di Gruppo SGR generano emissioni in atmosfe- ra sia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": {
+        "page": "50.txt",
+        "context_before": "stata cosi ridotta a 4,5 kW per un totale di 819,4 kg di emissioni di CO, evitate nellanno 2019. [",
+        "context_after": "] Emissioni di CO, evitate attraverso le attivita di Gruppo SGR A partire dal 2019, Gruppo SGR ha ritenuto fondamentale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "51.txt",
+        "context_before": "vengono trasportati e smaltiti da ditte terze specializzate nello smaltimento o nel recupero: il 12% dei rifiuti prodotti  [",
+        "context_after": "] a fv o @ destinato a smaltimento (pari a 13,6 tonnellate) e il restante g 88% a recupero (pari",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "43.txt",
+        "context_before": "~~ Gruppo SGR Bilancio di Sostenibilita 2019 ol | Ambiente 86 [",
+        "context_after": "] Gestione ambientale di Gruppo SGR La salvaguardia ambientale, |luso razionale delle risorse naturali e lo sviluppo sostenibile sono da",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "67.txt",
+        "context_before": "pratiche monopolistiche GRI 300: INDICATORI DI PERFOMANCE AMBIENTALE 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione",
+        "context_after": "Materie prime utilizzate per peso o volume 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione 309-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "47.txt",
+        "context_before": "nazione pubblica idonei al consegui- mento di TEE pari a 461 Tep. 30.900 33.299 [GRI 300] Principali impatti ambientali [GRI",
+        "context_after": "] Consumi energetici | consumi di energia primaria soddi- sfano le esigenze aziendali di riscal- damento, illuminazione e usi produt-",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "67.txt",
+        "context_before": "o volume 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione 309-1 Consumo di energia allinterno dellorganizzazione",
+        "context_after": "Riduzione del consumo di energia 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione 305-1 - 305-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "67.txt",
+        "context_before": "allinterno dellorganizzazione 302-4 Riduzione del consumo di energia 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione",
+        "context_after": "- 305-2 Emissioni dirette ed indirette di gas serra 305-5 Riduzione delle emissioni di GHG 305-7 NO, SOx e altre",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "67.txt",
+        "context_before": "302-4 Riduzione del consumo di energia 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione 305-1 -",
+        "context_after": "Emissioni dirette ed indirette di gas serra 305-5 Riduzione delle emissioni di GHG 305-7 NO, SOx e altre emissioni significative",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "49.txt",
+        "context_before": "carta) Carta per bollette emesse e buste postali per la spedizione 3.362.375 Carta per usi uffici 1.304.725 [GRI 305-1, 305-2,",
+        "context_after": ", 305-7] Gestione delle emissioni in atmosfera Le attivita di Gruppo SGR generano emissioni in atmosfe- ra sia direttamente, per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": false,
+    "305-5": {
+        "page": "67.txt",
+        "context_before": "103-2 _ . . 103-3 Politiche e approccio alla gestione 305-1 - 305-2 Emissioni dirette ed indirette di gas serra",
+        "context_after": "Riduzione delle emissioni di GHG 305-7 NO, SOx e altre emissioni significative nellaria 103-1 - 103-2 _ . . 103-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": false,
+    "305-7": {
+        "page": "67.txt",
+        "context_before": "e approccio alla gestione 305-1 - 305-2 Emissioni dirette ed indirette di gas serra 305-5 Riduzione delle emissioni di GHG",
+        "context_after": "NO, SOx e altre emissioni significative nellaria 103-1 - 103-2 _ . . 103-3 Politiche e approccio alla gestione Pagina",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "68.txt",
+        "context_before": "GRI standard Disclosure Descrizione Peso totale dei rifiuti per tipologia e per modalita di smaltimento Lindicatore, per il settore Electric",
+        "context_after": "Utilities, richiede di rendicontare relativamente ai policlorobifenili e trifenili, individuati pit comunemente dalle sigle PCB e PCT. 306-4 Rifiuti pericolosi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": false,
+    "306-4": {
+        "page": "68.txt",
+        "context_before": "settore Electric 306-2 Utilities, richiede di rendicontare relativamente ai policlorobifenili e trifenili, individuati pit comunemente dalle sigle PCB e PCT.",
+        "context_after": "Rifiuti pericolosi trasportati GRI 307: Conformita 103-1 - 103-2 ambientale 2016 103-3 Politiche e approccio alla gestione Valore monetario delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-5": false,
+    "307-1": {
+        "page": "68.txt",
+        "context_before": "103-1 - 103-2 ambientale 2016 103-3 Politiche e approccio alla gestione Valore monetario delle multe significative e numero delle sanzioni",
+        "context_after": "non monetarie per il mancato rispetto di regolamenti e leggi in materia ambientale GRI 400: INDICATORI DI PERFORMANCE SOCIALE GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": {
+        "page": "68.txt",
+        "context_before": "multe significative e numero delle sanzioni 307-1 non monetarie per il mancato rispetto di regolamenti e leggi in materia ambientale",
+        "context_after": ": INDICATORI DI PERFORMANCE SOCIALE GRI 401: 103-1 - 103-2 Occupazione 2016 103-3 Politiche e approccio alla gestione Numero totale",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "68.txt",
+        "context_before": "307-1 non monetarie per il mancato rispetto di regolamenti e leggi in materia ambientale GRI 400: INDICATORI DI PERFORMANCE SOCIALE",
+        "context_after": ": 103-1 - 103-2 Occupazione 2016 103-3 Politiche e approccio alla gestione Numero totale e tasso di turnover 401 del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "31.txt",
+        "context_before": "~~ Gruppo SGR Bilancio di Sostenibilita 2019 [",
+        "context_after": "-2] Salute e sicurezza sul lavoro Gruppo SGR investe in salute e sicu- rezza sul lavoro destinandovi risorse umane, professionali,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "68.txt",
+        "context_before": "Tasso di infortuni sul lavoro, 403-2 malattia professionale, giorni di lavoro persi, assenteismo ed incidenti legati al tipo di lavoro",
+        "context_after": ": Formazione 103-1 - 103-2 e istruzione 2016 103-3 Politiche e approccio alla gestione Ore medie di formazione annue per",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "68.txt",
+        "context_before": "103-1 - 103-2 e istruzione 2016 103-3 Politiche e approccio alla gestione Ore medie di formazione annue per 404-41 dipendente",
+        "context_after": ": Diversita 403-1 - 103-2 - / / e pari opportunita Politiche e approccio alla gestione 103-3 2016 Composizione degli",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "68.txt",
+        "context_before": "degli organi di governo dellimpresa e ripartizione 405-1 a. , dei dipendenti per genere e per altri indicatori di diversita",
+        "context_after": ": Collettivita 403-1 - 103-2 - e comunita locali 103-3 Politiche e approccio alla gestione 2016 Attivita con importanti impatti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "39.txt",
+        "context_before": "nazione pubblica, infatti, il risparmio supera i 25 mila euro. || Comune di Roviano @ riuscito ad ottenere dal- [",
+        "context_after": "-1, 417-1, 417-2] la Regione Lazio un finanziamento di 180 mila euro che ha consentito la realizzazione del progetto. Dun-",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "68.txt",
+        "context_before": "dei 103-3 Politiche e approccio alla gestione consumatori 2016 Valutazione degli impatti sulla 416-1 salute e sicurezza derivanti dai prodotti/servizi",
+        "context_after": ": Etichettatura di 103-1 - 105-2 Politiche e approccio alla gestione : a 103-3 prodotti e servizi Tipologie di informazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "68.txt",
+        "context_before": "informazioni e le etichettature dei prodotti/servizi Incidenti di non conformita a ATT-3 regolamenti 0 codici volontari riguardanti lattivita di marketing",
+        "context_after": ": Privacy dei 103-1 - 103-2 consumatori 2016 103-3 Politiche e approccio alla gestione Numero di reclami documentati 418-1 relativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "68.txt",
+        "context_before": "approccio alla gestione Numero di reclami documentati 418-1 relativi a violazioni della privacy e a perdita dei dati dei consumatori",
+        "context_after": ": Conformita . . 103-1 - 103-2 _ . - socio-economica 103-3 Politiche e approccio alla gestione (compliance) 2016 419-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "31.txt",
+        "context_before": "~~ Gruppo SGR Bilancio di Sostenibilita 2019 [",
+        "context_after": "] Salute e sicurezza sul lavoro Gruppo SGR investe in salute e sicu- rezza sul lavoro destinandovi risorse umane, professionali,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "30.txt",
+        "context_before": "~~ [",
+        "context_after": "] Formazione erogata Gruppo SGR Bilancio di Sostenibilita 2019 wn | Persone 60 . per qualificae genere Uomini Totale Formazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": {
+        "page": "13.txt",
+        "context_before": "> Gruppo SGR Bilancio di Sostenibilita 2019 = | Chi siamo 26 [",
+        "context_after": "] Sistemi di gestione Per contribuire a uno sviluppo sostenibile, Gruppo SGR ha sviluppato un effi- ciente sistema di gestione,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": {
+        "page": "39.txt",
+        "context_before": "nazione pubblica, infatti, il risparmio supera i 25 mila euro. || Comune di Roviano @ riuscito ad ottenere dal- [",
+        "context_after": ", 417-1, 417-2] la Regione Lazio un finanziamento di 180 mila euro che ha consentito la realizzazione del progetto. Dun-",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "26.txt",
+        "context_before": "~~ Gruppo SGR Bilancio di Sostenibilita 2019 52 [GRI 102-7, 102-8,",
+        "context_after": ", 405-1] Al 31 dicembre 2019 lorganico com- plessivo di Gruppo SGR  pari a 490 persone (di cui 475",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": false,
+    "403-1": {
+        "page": "68.txt",
+        "context_before": "e istruzione 2016 103-3 Politiche e approccio alla gestione Ore medie di formazione annue per 404-41 dipendente GRI 405: Diversita",
+        "context_after": "- 103-2 - / / e pari opportunita Politiche e approccio alla gestione 103-3 2016 Composizione degli organi di governo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "68.txt",
+        "context_before": "alla gestione Numero totale e tasso di turnover 401 del personale e dei nuovi dipendenti Tasso di infortuni sul lavoro,",
+        "context_after": "malattia professionale, giorni di lavoro persi, assenteismo ed incidenti legati al tipo di lavoro GRI 404: Formazione 103-1 - 103-2",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "30.txt",
+        "context_before": "~~ [GRI",
+        "context_after": "] Formazione erogata Gruppo SGR Bilancio di Sostenibilita 2019 wn | Persone 60 . per qualificae genere Uomini Totale Formazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "68.txt",
+        "context_before": "/ / e pari opportunita Politiche e approccio alla gestione 103-3 2016 Composizione degli organi di governo dellimpresa e ripartizione",
+        "context_after": "a. , dei dipendenti per genere e per altri indicatori di diversita GRI 413: Collettivita 403-1 - 103-2 - e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": {
+        "page": "68.txt",
+        "context_before": "413: Collettivita 403-1 - 103-2 - e comunita locali 103-3 Politiche e approccio alla gestione 2016 Attivita con importanti impatti",
+        "context_after": "negativi - attuali o potenziali - sulle comunita locali Pagina e note Rifiuti prodotti dallAzienda - Pag. 102 ll Gruppo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "68.txt",
+        "context_before": "- 108-2 a ; ; e sicurezza dei 103-3 Politiche e approccio alla gestione consumatori 2016 Valutazione degli impatti sulla",
+        "context_after": "salute e sicurezza derivanti dai prodotti/servizi GRI 417: Etichettatura di 103-1 - 105-2 Politiche e approccio alla gestione : a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": false,
+    "417-1": {
+        "page": "39.txt",
+        "context_before": "pubblica, infatti, il risparmio supera i 25 mila euro. || Comune di Roviano @ riuscito ad ottenere dal- [GRI 416-1,",
+        "context_after": ", 417-2] la Regione Lazio un finanziamento di 180 mila euro che ha consentito la realizzazione del progetto. Dun- que",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "68.txt",
+        "context_before": "103-3 prodotti e servizi Tipologie di informazioni relative AAT-1 a prodotti e servizi richiesti dalle procedure Non conformita riguardanti le",
+        "context_after": "informazioni e le etichettature dei prodotti/servizi Incidenti di non conformita a ATT-3 regolamenti 0 codici volontari riguardanti lattivita di marketing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": false,
+    "418-1": {
+        "page": "68.txt",
+        "context_before": "marketing GRI 418: Privacy dei 103-1 - 103-2 consumatori 2016 103-3 Politiche e approccio alla gestione Numero di reclami documentati",
+        "context_after": "relativi a violazioni della privacy e a perdita dei dati dei consumatori GRI 419: Conformita . . 103-1 - 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "68.txt",
+        "context_before": "GRI 419: Conformita . . 103-1 - 103-2 _ . - socio-economica 103-3 Politiche e approccio alla gestione (compliance) 2016",
+        "context_after": "Inosservanza di leggi o regolamenti in ambito sociale ed economico EU: ELECTRIC UTILITIES SECTOR DISCLOSURES 2016 GRI standard Descrizione EU-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

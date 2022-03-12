@@ -1,0 +1,649 @@
+{
+    "GRI 200": false,
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "142.txt",
+        "context_before": "PERFORMANCE ECONOMICA",
+        "context_after": "Valore economico diretto generato e distribuito Comprehensive 54-56 aoa Mpc rence  2 EERIE Ga : 201-3 Obblighi assunti in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": {
+        "page": "142.txt",
+        "context_before": "PERFORMANCE ECONOMICA 201-1 Valore economico diretto generato e distribuito Comprehensive 54-56 aoa Mpc rence  2 EERIE Ga :",
+        "context_after": "Obblighi assunti in sede di definizione del piano pensionistico Comprehensive 95, Bilancio Consolidato 201-4 Finanziamenti ricevuti dal Governo e sussidi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "142.txt",
+        "context_before": "rence  2 EERIE Ga : 201-3 Obblighi assunti in sede di definizione del piano pensionistico Comprehensive 95, Bilancio Consolidato",
+        "context_after": "Finanziamenti ricevuti dal Governo e sussidi ricevuti Comprehensive 56 Presenza sul mercato 202-1 Rapporto tra i salari standard base per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "142.txt",
+        "context_before": "del piano pensionistico Comprehensive 95, Bilancio Consolidato 201-4 Finanziamenti ricevuti dal Governo e sussidi ricevuti Comprehensive 56 Presenza sul mercato",
+        "context_after": "Rapporto tra i salari standard base per genere rispetto al salario Comprehensive 96 minimo locale 202-2 Percentuale di dirigenti assunti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "142.txt",
+        "context_before": "56 Presenza sul mercato 202-1 Rapporto tra i salari standard base per genere rispetto al salario Comprehensive 96 minimo locale",
+        "context_after": "Percentuale di dirigenti assunti nella comunita locale Comprehensive 55, 94 Impatti economici indiretti 203-1 Investimenti in infrastrutture e in servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "142.txt",
+        "context_before": "al salario Comprehensive 96 minimo locale 202-2 Percentuale di dirigenti assunti nella comunita locale Comprehensive 55, 94 Impatti economici indiretti",
+        "context_after": "Investimenti in infrastrutture e in servizi di interesse per la Comprehensive 54, 64, 119-121 collettivita 203-2 Principali impatti economici indiretti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "142.txt",
+        "context_before": "94 Impatti economici indiretti 203-1 Investimenti in infrastrutture e in servizi di interesse per la Comprehensive 54, 64, 119-121 collettivita",
+        "context_after": "Principali impatti economici indiretti Comprehensive 55, 136-137 Pratiche di approvvigionamento 204-1 Quota di acquisti effettuati da fornitori locali Comprehensive 111-112",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "142.txt",
+        "context_before": "di interesse per la Comprehensive 54, 64, 119-121 collettivita 203-2 Principali impatti economici indiretti Comprehensive 55, 136-137 Pratiche di approvvigionamento",
+        "context_after": "Quota di acquisti effettuati da fornitori locali Comprehensive 111-112 Lotta alla corruzione 205-1 Operazioni valutate per rischi di corruzione Comprehensive",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-1": {
+        "page": "142.txt",
+        "context_before": "indiretti Comprehensive 55, 136-137 Pratiche di approvvigionamento 204-1 Quota di acquisti effettuati da fornitori locali Comprehensive 111-112 Lotta alla corruzione",
+        "context_after": "Operazioni valutate per rischi di corruzione Comprehensive 128-129 205-2 Comunicazione e formazione su politiche e procedure Comprehensive 429 anticorruzione 205-3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-2": {
+        "page": "142.txt",
+        "context_before": "di acquisti effettuati da fornitori locali Comprehensive 111-112 Lotta alla corruzione 205-1 Operazioni valutate per rischi di corruzione Comprehensive 128-129",
+        "context_after": "Comunicazione e formazione su politiche e procedure Comprehensive 429 anticorruzione 205-3 Casi di corruzione e azioni intraprese Comprehensive 129 Comportamenti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "142.txt",
+        "context_before": "205-1 Operazioni valutate per rischi di corruzione Comprehensive 128-129 205-2 Comunicazione e formazione su politiche e procedure Comprehensive 429 anticorruzione",
+        "context_after": "Casi di corruzione e azioni intraprese Comprehensive 129 Comportamenti anti-competitivi 2 ee Se eens One u PERFORMANCE AMBIENTALE Materiali 301-1",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": false,
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "142.txt",
+        "context_before": "205-3 Casi di corruzione e azioni intraprese Comprehensive 129 Comportamenti anti-competitivi 2 ee Se eens One u PERFORMANCE AMBIENTALE Materiali",
+        "context_after": "Materiali utilizzati Comprehensive 63 301-2 Material ricictati utiizzati Comprehensive Se laa om ReaeueceACe| materiali utilizzati 301-3 Prodotti rigenerati e relativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "142.txt",
+        "context_before": "azioni intraprese Comprehensive 129 Comportamenti anti-competitivi 2 ee Se eens One u PERFORMANCE AMBIENTALE Materiali 301-1 Materiali utilizzati Comprehensive 63",
+        "context_after": "Material ricictati utiizzati Comprehensive Se laa om ReaeueceACe| materiali utilizzati 301-3 Prodotti rigenerati e relativi materiali di imballaggio Comprehensive a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "142.txt",
+        "context_before": "u PERFORMANCE AMBIENTALE Materiali 301-1 Materiali utilizzati Comprehensive 63 301-2 Material ricictati utiizzati Comprehensive Se laa om ReaeueceACe| materiali utilizzati",
+        "context_after": "Prodotti rigenerati e relativi materiali di imballaggio Comprehensive a eee ee ee ULaIoe| Energia 302-1 Consumi diretti di energia Comprehensive",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "142.txt",
+        "context_before": "laa om ReaeueceACe| materiali utilizzati 301-3 Prodotti rigenerati e relativi materiali di imballaggio Comprehensive a eee ee ee ULaIoe| Energia",
+        "context_after": "Consumi diretti di energia Comprehensive 58 302-2 Consumi indiretti di energia Comprehensive 58, 66 302-3 Indice di intensita energetica Comprehensive",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-2": {
+        "page": "142.txt",
+        "context_before": "rigenerati e relativi materiali di imballaggio Comprehensive a eee ee ee ULaIoe| Energia 302-1 Consumi diretti di energia Comprehensive 58",
+        "context_after": "Consumi indiretti di energia Comprehensive 58, 66 302-3 Indice di intensita energetica Comprehensive earn te re 302-4 Risparmio energetico Comprehensive",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "302-3": {
+        "page": "142.txt",
+        "context_before": "eee ee ee ULaIoe| Energia 302-1 Consumi diretti di energia Comprehensive 58 302-2 Consumi indiretti di energia Comprehensive 58, 66",
+        "context_after": "Indice di intensita energetica Comprehensive earn te re 302-4 Risparmio energetico Comprehensive 56, 65-66, 71-73 302-5 Riduzione del fabbisogno energetico",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "302-4": {
+        "page": "142.txt",
+        "context_before": "energia Comprehensive 58 302-2 Consumi indiretti di energia Comprehensive 58, 66 302-3 Indice di intensita energetica Comprehensive earn te re",
+        "context_after": "Risparmio energetico Comprehensive 56, 65-66, 71-73 302-5 Riduzione del fabbisogno energetico di prodotti e servizi Comprehensive 72-13 Acqua 303-1 Prelievi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "142.txt",
+        "context_before": "energia Comprehensive 58, 66 302-3 Indice di intensita energetica Comprehensive earn te re 302-4 Risparmio energetico Comprehensive 56, 65-66, 71-73",
+        "context_after": "Riduzione del fabbisogno energetico di prodotti e servizi Comprehensive 72-13 Acqua 303-1 Prelievi idrici per fonte Comprehensive 59 303-2 Fonti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "142.txt",
+        "context_before": "re 302-4 Risparmio energetico Comprehensive 56, 65-66, 71-73 302-5 Riduzione del fabbisogno energetico di prodotti e servizi Comprehensive 72-13 Acqua",
+        "context_after": "Prelievi idrici per fonte Comprehensive 59 303-2 Fonti significativamente interessate dal prelievo idrico Comprehensive 59, 74-75 59, 127 303-3 Acqua",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "142.txt",
+        "context_before": "71-73 302-5 Riduzione del fabbisogno energetico di prodotti e servizi Comprehensive 72-13 Acqua 303-1 Prelievi idrici per fonte Comprehensive 59",
+        "context_after": "Fonti significativamente interessate dal prelievo idrico Comprehensive 59, 74-75 59, 127 303-3 Acqua riciclata e riutilizzata Comprehensive Lacqua tiutilizzata ammonta",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "142.txt",
+        "context_before": "Acqua 303-1 Prelievi idrici per fonte Comprehensive 59 303-2 Fonti significativamente interessate dal prelievo idrico Comprehensive 59, 74-75 59, 127",
+        "context_after": "Acqua riciclata e riutilizzata Comprehensive Lacqua tiutilizzata ammonta 5.458.658 me, pari all1% del totale Biodiversita 304-1 Siti operativi ubicati in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "142.txt",
+        "context_before": "59, 74-75 59, 127 303-3 Acqua riciclata e riutilizzata Comprehensive Lacqua tiutilizzata ammonta 5.458.658 me, pari all1% del totale Biodiversita",
+        "context_after": "Siti operativi ubicati in aree protette e ad elevata biodiversita Comprehensive 74-75 304-2 Significativi impatti dell'attivita sulla biodiversita Comprehensive 73-74",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "304-2": {
+        "page": "142.txt",
+        "context_before": "5.458.658 me, pari all1% del totale Biodiversita 304-1 Siti operativi ubicati in aree protette e ad elevata biodiversita Comprehensive 74-75",
+        "context_after": "Significativi impatti dell'attivita sulla biodiversita Comprehensive 73-74 304-3 Habitat protetti o ripristinati Comprehensive 74-75 Se ee coed coma = Oot",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "304-3": {
+        "page": "142.txt",
+        "context_before": "Siti operativi ubicati in aree protette e ad elevata biodiversita Comprehensive 74-75 304-2 Significativi impatti dell'attivita sulla biodiversita Comprehensive 73-74",
+        "context_after": "Habitat protetti o ripristinati Comprehensive 74-75 Se ee coed coma = Oot is Emissioni 305-1 Emissioni dirette di GHG (Scope",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-4": false,
+    "305-1": {
+        "page": "142.txt",
+        "context_before": "dell'attivita sulla biodiversita Comprehensive 73-74 304-3 Habitat protetti o ripristinati Comprehensive 74-75 Se ee coed coma = Oot is Emissioni",
+        "context_after": "Emissioni dirette di GHG (Scope 1) Comprehensive 61, 66 305-2 Emissioni dirette di GHG (Scope 2) Comprehensive 61 305-3 Altre",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "142.txt",
+        "context_before": "Comprehensive 74-75 Se ee coed coma = Oot is Emissioni 305-1 Emissioni dirette di GHG (Scope 1) Comprehensive 61, 66",
+        "context_after": "Emissioni dirette di GHG (Scope 2) Comprehensive 61 305-3 Altre emissioni indirette di GHG (Scope 3) Comprehensive 61 305-4 _Intensita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "142.txt",
+        "context_before": "Emissioni 305-1 Emissioni dirette di GHG (Scope 1) Comprehensive 61, 66 305-2 Emissioni dirette di GHG (Scope 2) Comprehensive 61",
+        "context_after": "Altre emissioni indirette di GHG (Scope 3) Comprehensive 61 305-4 _Intensita delle emissioni GHG Comprehensive Sie aa ae 305-5 Riduzione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "142.txt",
+        "context_before": "66 305-2 Emissioni dirette di GHG (Scope 2) Comprehensive 61 305-3 Altre emissioni indirette di GHG (Scope 3) Comprehensive 61",
+        "context_after": "_Intensita delle emissioni GHG Comprehensive Sie aa ae 305-5 Riduzione delle emissioni GHG Comprehensive 64-65, 70-73 305-6 Emissioni di sostanze",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "142.txt",
+        "context_before": "61 305-3 Altre emissioni indirette di GHG (Scope 3) Comprehensive 61 305-4 _Intensita delle emissioni GHG Comprehensive Sie aa ae",
+        "context_after": "Riduzione delle emissioni GHG Comprehensive 64-65, 70-73 305-6 Emissioni di sostanze che riducono lo strato di ozono Comprehensive 62 305-7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "142.txt",
+        "context_before": "3) Comprehensive 61 305-4 _Intensita delle emissioni GHG Comprehensive Sie aa ae 305-5 Riduzione delle emissioni GHG Comprehensive 64-65, 70-73",
+        "context_after": "Emissioni di sostanze che riducono lo strato di ozono Comprehensive 62 305-7 Emissioni di NO,, SO, e altre emissioni significative",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "142.txt",
+        "context_before": "305-5 Riduzione delle emissioni GHG Comprehensive 64-65, 70-73 305-6 Emissioni di sostanze che riducono lo strato di ozono Comprehensive 62",
+        "context_after": "Emissioni di NO,, SO, e altre emissioni significative Comprehensive 62 Gruppo Iren 143",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "143.txt",
+        "context_before": "Scarichi e rifiuti",
+        "context_after": "Scarichi idrici per qualita e destinazione Comprehensive 60, 67 306-2 Rifiuti prodotti per tipologia e metodo di smaltimento Comprehensive 60-61",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "143.txt",
+        "context_before": "Scarichi e rifiuti 306-1 Scarichi idrici per qualita e destinazione Comprehensive 60, 67",
+        "context_after": "Rifiuti prodotti per tipologia e metodo di smaltimento Comprehensive 60-61 306-3 Sversamenti significativi Comprehensive 62 rn . . Non applicabile",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "143.txt",
+        "context_before": "Scarichi idrici per qualita e destinazione Comprehensive 60, 67 306-2 Rifiuti prodotti per tipologia e metodo di smaltimento Comprehensive 60-61",
+        "context_after": "Sversamenti significativi Comprehensive 62 rn . . Non applicabile poich il Gruppo non trasporta, 306-4 Trasporto di rifiuti pericolosi Comprehensive",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "306-4": {
+        "page": "143.txt",
+        "context_before": "metodo di smaltimento Comprehensive 60-61 306-3 Sversamenti significativi Comprehensive 62 rn . . Non applicabile poich il Gruppo non trasporta,",
+        "context_after": "Trasporto di rifiuti pericolosi Comprehensive esporta o importa rifui pericolosi dallestero 306-5 Corpi idrici interessati da scarichi idrico e/o deflussi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-5": {
+        "page": "143.txt",
+        "context_before": ". Non applicabile poich il Gruppo non trasporta, 306-4 Trasporto di rifiuti pericolosi Comprehensive esporta o importa rifui pericolosi dallestero",
+        "context_after": "Corpi idrici interessati da scarichi idrico e/o deflussi Comprehensive 67,74 Compliance con leggi e regolamenti ambientali 307-1 Inosservanza di leggi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "307-1": {
+        "page": "143.txt",
+        "context_before": "rifui pericolosi dallestero 306-5 Corpi idrici interessati da scarichi idrico e/o deflussi Comprehensive 67,74 Compliance con leggi e regolamenti ambientali",
+        "context_after": "Inosservanza di leggi e regolamenti ambientali Comprehensive 76 Valutazione ambientale dei fornitori 308-1 Nuovi fornitori sottoposti a screening in base",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "143.txt",
+        "context_before": "67,74 Compliance con leggi e regolamenti ambientali 307-1 Inosservanza di leggi e regolamenti ambientali Comprehensive 76 Valutazione ambientale dei fornitori",
+        "context_after": "Nuovi fornitori sottoposti a screening in base a criteri ambientali Comprehensive 109-110 Impatti ambientali negativi nella catena di fornitura e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "143.txt",
+        "context_before": "sottoposti a screening in base a criteri ambientali Comprehensive 109-110 Impatti ambientali negativi nella catena di fornitura e azioni .",
+        "context_after": "intraprese Comprehensive 109-110 PERFORMANCE SOCIALE Occupazione 401-1 Nuove assunzioni e turnover dei dipendenti Comprehensive 95, 105 401-2 Benefit per i",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 400": false,
+    "GRI 401": false,
+    "GRI 402": false,
+    "GRI 403": false,
+    "GRI 404": false,
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "143.txt",
+        "context_before": "ambientali Comprehensive 109-110 Impatti ambientali negativi nella catena di fornitura e azioni . 308-2 intraprese Comprehensive 109-110 PERFORMANCE SOCIALE Occupazione",
+        "context_after": "Nuove assunzioni e turnover dei dipendenti Comprehensive 95, 105 401-2 Benefit per i dipendenti Comprehensive 96 401-3 Congedo parentale Comprehensive",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": {
+        "page": "143.txt",
+        "context_before": "e azioni . 308-2 intraprese Comprehensive 109-110 PERFORMANCE SOCIALE Occupazione 401-1 Nuove assunzioni e turnover dei dipendenti Comprehensive 95, 105",
+        "context_after": "Benefit per i dipendenti Comprehensive 96 401-3 Congedo parentale Comprehensive 99 Rapporti nella gestione del lavoro 402-1 Periodo minimo di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-3": {
+        "page": "143.txt",
+        "context_before": "PERFORMANCE SOCIALE Occupazione 401-1 Nuove assunzioni e turnover dei dipendenti Comprehensive 95, 105 401-2 Benefit per i dipendenti Comprehensive 96",
+        "context_after": "Congedo parentale Comprehensive 99 Rapporti nella gestione del lavoro 402-1 Periodo minimo di preawviso per cambiamenti operativi Comprehensive 98 Salute",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "143.txt",
+        "context_before": "Comprehensive 95, 105 401-2 Benefit per i dipendenti Comprehensive 96 401-3 Congedo parentale Comprehensive 99 Rapporti nella gestione del lavoro",
+        "context_after": "Periodo minimo di preawviso per cambiamenti operativi Comprehensive 98 Salute e sicurezza dei lavoratori Rappresentanza dei lavoratori in comitati per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-1": {
+        "page": "143.txt",
+        "context_before": "per cambiamenti operativi Comprehensive 98 Salute e sicurezza dei lavoratori Rappresentanza dei lavoratori in comitati per salute e sicurezza, .",
+        "context_after": "formati da lavoratori e dalla direzione a i 403-2 Infortuni sul lavoro, malattie professionali, assenteismo e Comprehensive 95-96, 103-104, 106,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "143.txt",
+        "context_before": "lavoratori Rappresentanza dei lavoratori in comitati per salute e sicurezza, . 403-1 formati da lavoratori e dalla direzione a i",
+        "context_after": "Infortuni sul lavoro, malattie professionali, assenteismo e Comprehensive 95-96, 103-104, 106, 111 decessi connessi al lavoro Personale esposto ad alta",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "143.txt",
+        "context_before": "95-96, 103-104, 106, 111 decessi connessi al lavoro Personale esposto ad alta incidenza 0 ad alto rischio di malattie .",
+        "context_after": "professionali a i 403-4 Accordi formali con i sindacati per la sicurezza e la salute Comprehensive 103 Formazione e istruzione",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "143.txt",
+        "context_before": "decessi connessi al lavoro Personale esposto ad alta incidenza 0 ad alto rischio di malattie . 403-3 professionali a i",
+        "context_after": "Accordi formali con i sindacati per la sicurezza e la salute Comprehensive 103 Formazione e istruzione 404-1 Ore medie annue",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "143.txt",
+        "context_before": "professionali a i 403-4 Accordi formali con i sindacati per la sicurezza e la salute Comprehensive 103 Formazione e istruzione",
+        "context_after": "Ore medie annue di formazione pro capite Comprehensive 102 404-2 Programmi di gestione delle competenze e di assistenza alla Comprehensive",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "143.txt",
+        "context_before": "la sicurezza e la salute Comprehensive 103 Formazione e istruzione 404-1 Ore medie annue di formazione pro capite Comprehensive 102",
+        "context_after": "Programmi di gestione delle competenze e di assistenza alla Comprehensive 94, 96-97, 99, 101-103 transizione Percentuale di dipendenti che ricevono",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": false,
+    "405-1": {
+        "page": "143.txt",
+        "context_before": "dipendenti che ricevono regolarmente . 4043 valutazioni delle prestazioni e dello sviluppo di carriera Comprehensive 6 Diversity e pari opportunita",
+        "context_after": "Composizione degli organi di governo e del personale per Comprehensive 26, 28, 32, 95, 98-99, 105 indicatori di diversita .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "143.txt",
+        "context_before": "per Comprehensive 26, 28, 32, 95, 98-99, 105 indicatori di diversita . 7 a 99, 106 Dato sulla remunerazione non",
+        "context_after": "Rapporio ello stpendio base e della retribuzione delle donne Comprehensive disponibile in quanto in parte erogata i g nellesercizio successivo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "143.txt",
+        "context_before": "stpendio base e della retribuzione delle donne Comprehensive disponibile in quanto in parte erogata i g nellesercizio successivo Non discriminazione",
+        "context_after": "Episodi di discriminazione e azioni correttive intraprese Comprehensive 84, 98 Liberta di associazione e contrattazione collettiva 407-1 Operazioni e fornitori",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "407-1": {
+        "page": "143.txt",
+        "context_before": "successivo Non discriminazione 406-1 Episodi di discriminazione e azioni correttive intraprese Comprehensive 84, 98 Liberta di associazione e contrattazione collettiva",
+        "context_after": "Operazioni e fornitori in cui la liberta / di associazione e Comprehensive 110 contrattazione collettiva pud essere a rischio Lavoro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "408-1": {
+        "page": "143.txt",
+        "context_before": "e fornitori in cui la liberta / di associazione e Comprehensive 110 contrattazione collettiva pud essere a rischio Lavoro infantile",
+        "context_after": "Operazioni e fornitori a rischio significativo per incidenti di lavoro Comprehensive 408 minorile Lavoro forzato o obbligato 409-1 Operazioni e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "143.txt",
+        "context_before": "Lavoro infantile 408-1 Operazioni e fornitori a rischio significativo per incidenti di lavoro Comprehensive 408 minorile Lavoro forzato o obbligato",
+        "context_after": "Operazioni e fornitori arischio significativo per incidenti di lavoro Comprehensive 110 forzato o obligato Pratiche di sicurezza Personale di sicurezza",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "410-1": {
+        "page": "143.txt",
+        "context_before": "di sicurezza Personale di sicurezza addestrato in politiche o procedure per i . Non applicabile in relazione alle attivita del",
+        "context_after": "diritti umani a Gruppo Diritti delle popolazioni indigene . nara een Pe . Non applicabile considerata la 411-1 Incidenti violazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": {
+        "page": "143.txt",
+        "context_before": "attivita del 410-1 diritti umani a Gruppo Diritti delle popolazioni indigene . nara een Pe . Non applicabile considerata la",
+        "context_after": "Incidenti violazioni dei diritti delle popolazioni indigene Comprehensive localizzazione delle attivita del Gruppo Diritti umani Operazioni che sono state oggetto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-1": false,
+    "412-2": {
+        "page": "143.txt",
+        "context_before": "Diritti umani Operazioni che sono state oggetto di revisioni dei diritti umani o . 24 di valutazioni d'impatto Comprehensive wad",
+        "context_after": "Formazione dei dipendenti su politiche o procedure inerenti i Comprehensive 39 diritti umani 412-3 Significativi accordi di investimento e contratti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "143.txt",
+        "context_before": "24 di valutazioni d'impatto Comprehensive wad 412-2 Formazione dei dipendenti su politiche o procedure inerenti i Comprehensive 39 diritti umani",
+        "context_after": "Significativi accordi di investimento e contratti che comprendono Comprehensive 408, 110 clausole sui diritti umani 0 sottoposti a screening dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "144.txt",
+        "context_before": "Comunita locali",
+        "context_after": "Attivita che prevedono il coinvolgimento delle comunita local Comprehensive 42, 44, 121-122 413-2 Attivita con impatti negativi sulle comunita locali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "144.txt",
+        "context_before": "Comunita locali 413-1 Attivita che prevedono il coinvolgimento delle comunita local Comprehensive 42, 44, 121-122",
+        "context_after": "Attivita con impatti negativi sulle comunita locali Comprehensive 121-123 Valutazione sociale dei fornitori 414-1 Nuovi fornitori sottoposti a verifiche secondo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": {
+        "page": "144.txt",
+        "context_before": "comunita local Comprehensive 42, 44, 121-122 413-2 Attivita con impatti negativi sulle comunita locali Comprehensive 121-123 Valutazione sociale dei fornitori",
+        "context_after": "Nuovi fornitori sottoposti a verifiche secondo criteri sociali Comprehensive 109, 112 414-2 Impatti sociali negativi nella catena di fornitura e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "144.txt",
+        "context_before": "comunita locali Comprehensive 121-123 Valutazione sociale dei fornitori 414-1 Nuovi fornitori sottoposti a verifiche secondo criteri sociali Comprehensive 109, 112",
+        "context_after": "Impatti sociali negativi nella catena di fornitura e azioni Comprehensive 409 intraprese Politiche pubbliche 415-1 Contributi finanziari a partiti politici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "144.txt",
+        "context_before": "criteri sociali Comprehensive 109, 112 414-2 Impatti sociali negativi nella catena di fornitura e azioni Comprehensive 409 intraprese Politiche pubbliche",
+        "context_after": "Contributi finanziari a partiti politici e relative istituzioni Comprehensive 128 Salute e sicurezza dei clienti 416-1 Prodotti/servizi valutati sugli impatti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "144.txt",
+        "context_before": "409 intraprese Politiche pubbliche 415-1 Contributi finanziari a partiti politici e relative istituzioni Comprehensive 128 Salute e sicurezza dei clienti",
+        "context_after": "Prodotti/servizi valutati sugli impatti sulla salute e sicurezza Comprehensive 78-79, 121-123 416-2 Non conformita di prodotti e servizi in materia",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "144.txt",
+        "context_before": "istituzioni Comprehensive 128 Salute e sicurezza dei clienti 416-1 Prodotti/servizi valutati sugli impatti sulla salute e sicurezza Comprehensive 78-79, 121-123",
+        "context_after": "Non conformita di prodotti e servizi in materia di salute e Comprehensive 84, 123 sicurezza Marketing ed etichettatura 417-1 Requisiti",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "144.txt",
+        "context_before": "121-123 416-2 Non conformita di prodotti e servizi in materia di salute e Comprehensive 84, 123 sicurezza Marketing ed etichettatura",
+        "context_after": "Requisiti delle informazioni su prodotti e servizi ed etichettatura | Comprehensive a eee ee ee ULaIoe| 417-2 Non conformita per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "144.txt",
+        "context_before": "Marketing ed etichettatura 417-1 Requisiti delle informazioni su prodotti e servizi ed etichettatura | Comprehensive a eee ee ee ULaIoe|",
+        "context_after": "Non conformita per informazione e etichettatura di Comprehensive 84 prodotti/servizi 417-3 Non conformita per comunicazioni di marketing Comprehensive 84 Privacy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "144.txt",
+        "context_before": "ed etichettatura | Comprehensive a eee ee ee ULaIoe| 417-2 Non conformita per informazione e etichettatura di Comprehensive 84 prodotti/servizi",
+        "context_after": "Non conformita per comunicazioni di marketing Comprehensive 84 Privacy dei clienti Reclami documentati relativi a violazioni della privacy e a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "144.txt",
+        "context_before": "conformita per comunicazioni di marketing Comprehensive 84 Privacy dei clienti Reclami documentati relativi a violazioni della privacy e a .",
+        "context_after": "perdita di dati dei client Comprehensive ce Compliance socio-economica 419-1 nosservanza di leggi e regolamenti in area sociale ed Comprehensive",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "144.txt",
+        "context_before": "Reclami documentati relativi a violazioni della privacy e a . 418-1 perdita di dati dei client Comprehensive ce Compliance socio-economica",
+        "context_after": "nosservanza di leggi e regolamenti in area sociale ed Comprehensive 98, 112, 123, 133, 134 economica SUPPLEMENTO ELECTRIC UTILITIES Ev-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    }
+}

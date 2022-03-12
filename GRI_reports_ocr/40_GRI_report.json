@@ -1,0 +1,619 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "99.txt",
+        "context_before": "- Internal and efficiency Energy; external andclimate  GRI 305 - change Emissions Local - External initiatives and communities Economic",
+        "context_after": "- Internal and and business Economic external performance Performance Creation of - External value for stakeholders and the Country Ethics",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "98.txt",
+        "context_before": "Labeling; GRI 419 - Socio- economic Compliance Diversity, GRI 405 - equal Diversity opportunities and Equal and Opportunity meritocracy Attracting",
+        "context_after": "- and Market developing Presence; talent GRI 404 - Training and Education Welfare and  GRI 401 - professional Employment",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "97.txt",
+        "context_before": "Digital",
+        "context_after": "- External infrastructure Indirect for the Economic Country Impacts; GRI 413 - Local Communities Technological - External innovation and open",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "99.txt",
+        "context_before": "Internal and and business Economic external performance Performance Creation of - External value for stakeholders and the Country Ethics and",
+        "context_after": "- Internal and compliance  Anti- external corruption; GRI 206 - Anti- competitive behavior; GRI 419 - Socio- economic Compliance;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "99.txt",
+        "context_before": "- External value for stakeholders and the Country Ethics and GRI 205 - Internal and compliance  Anti- external corruption;",
+        "context_after": "- Anti- competitive behavior; GRI 419 - Socio- economic Compliance; GRI 406 - Non- discrimination; GRI 417 - Marketing and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "105.txt",
+        "context_before": "its boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 201: Economic Performance 2018",
+        "context_after": "Direct economic value generated and distributed 201-2 Financial implications and other risks and opportunities due to climate change 201-3 Defined",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "105.txt",
+        "context_before": "its components 103-3 Evaluation of the management approach GRI 201: Economic Performance 2018 201-1 Direct economic value generated and distributed",
+        "context_after": "Financial implications and other risks and opportunities due to climate change 201-3 Defined benefit plan obligations and other retirement plans",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": {
+        "page": "105.txt",
+        "context_before": "2018 201-1 Direct economic value generated and distributed 201-2 Financial implications and other risks and opportunities due to climate change",
+        "context_after": "Defined benefit plan obligations and other retirement plans 201-4 Financial assistance received from government MARKET PRESENCE GRI 103: Management Approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "105.txt",
+        "context_before": "Financial implications and other risks and opportunities due to climate change 201-3 Defined benefit plan obligations and other retirement plans",
+        "context_after": "Financial assistance received from government MARKET PRESENCE GRI 103: Management Approach 2018 103-1 Explanation of the material topics and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "105.txt",
+        "context_before": "its boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 202: Market Presence 2018",
+        "context_after": "Ratios of standard entry level wage by gender compared to local minimum wage 202-2 Proportion of senior management hired from",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "105.txt",
+        "context_before": "approach GRI 202: Market Presence 2018 202-1 Ratios of standard entry level wage by gender compared to local minimum wage",
+        "context_after": "Proportion of senior management hired from the local community INDIRECT ECONOMIC IMPACTS GRI 103: Management Approach 2018 103-1 Explanation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "106.txt",
+        "context_before": "and its 17; 24; components 28; 94 103-3 Evaluation of the management 94 approach GRI 203: Indirect Economic Impacts 2018",
+        "context_after": "Development and impact of 32 investments in infrastructure and services provided mainly for public utility 203-2 Significant indirect economic 32",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "106.txt",
+        "context_before": "Indirect Economic Impacts 2018 203-1 Development and impact of 32 investments in infrastructure and services provided mainly for public utility",
+        "context_after": "Significant indirect economic 32 impacts, including the significance of the impacts ANTI-CORRUPTION GRI 103: Management Approach 2018 103-1 Explanation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": false,
+    "205-1": {
+        "page": "106.txt",
+        "context_before": "103-2 The management approach and its 12; 94 components 103-3 Evaluation of the management 94 approach GRI 205: Anti-corruption 2018",
+        "context_after": "Total number and percentage 12 of operations assessed for risks related to corruption 205-2 Communication and training 12 about anti-corruption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-2": {
+        "page": "106.txt",
+        "context_before": "94 approach GRI 205: Anti-corruption 2018 205-1 Total number and percentage 12 of operations assessed for risks related to corruption",
+        "context_after": "Communication and training 12 about anti-corruption policies and procedures 205-3 Confirmed incidents of corruption - There were no incidents of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "106.txt",
+        "context_before": "percentage 12 of operations assessed for risks related to corruption 205-2 Communication and training 12 about anti-corruption policies and procedures",
+        "context_after": "Confirmed incidents of corruption - There were no incidents of corruption in and actions taken 2018. ANTI-COMPETITIVE BEHAVIOR GRI 103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "106.txt",
+        "context_before": "The management approach and its 12; 94 components 103-3 Evaluation of the management 94 approach GRI 206: Anti-competitive Behavior 2018",
+        "context_after": "Legal actions for anti-competitive 12 behavior, anti-trust, and monopoly practices Environmental performance indicators ENERGY GRI 103: Management Approach 2018 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "99.txt",
+        "context_before": "Energy",
+        "context_after": "- Internal and efficiency Energy; external andclimate  GRI 305 - change Emissions Local - External initiatives and communities Economic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "99.txt",
+        "context_before": "Energy GRI 302 - Internal and efficiency Energy; external andclimate ",
+        "context_after": "- change Emissions Local - External initiatives and communities Economic GRI 201 - Internal and and business Economic external performance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": {
+        "page": "100.txt",
+        "context_before": "kg petrol; 1 | diesel = 0.84 kg diesel (http://www.ghgprotocol.org/calculation- tools/all-tools). Residential and business customers' electricity consumption was estimated (",
+        "context_after": "Energy consumption outside of the organization) by multiplying the capacity data of devices provided to customers by the number of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "106.txt",
+        "context_before": "boundary 103-2 The management approach andits 84; 85;94 components 103-3 Evaluation of the management 94 approach GRI 302: Energy 2018",
+        "context_after": "Energy consumption within the 85 organization 302-2 Energy consumption outside of the 88 The measurement of the company's carbon organization",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "106.txt",
+        "context_before": "85;94 components 103-3 Evaluation of the management 94 approach GRI 302: Energy 2018 302-1 Energy consumption within the 85 organization",
+        "context_after": "Energy consumption outside of the 88 The measurement of the company's carbon organization footprint in 2018 considers customers! use of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "107.txt",
+        "context_before": "-  econ | nT) 1g",
+        "context_after": "Energy intensity 85 302-4 Reduction of energy consumption 85 302-5 Reductions in energy requirements 85 of products and services EMISSIONS",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "107.txt",
+        "context_before": "-  econ | nT) 1g 302-3 Energy intensity 85",
+        "context_after": "Reduction of energy consumption 85 302-5 Reductions in energy requirements 85 of products and services EMISSIONS GRI 103: Management Approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "107.txt",
+        "context_before": "-  econ | nT) 1g 302-3 Energy intensity 85 302-4 Reduction of energy consumption 85",
+        "context_after": "Reductions in energy requirements 85 of products and services EMISSIONS GRI 103: Management Approach 2018 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "107.txt",
+        "context_before": "103-2 The management approach and its 88; 94 components 103-3 Evaluation of the management 94 approach GRI 305: Emissions 2018",
+        "context_after": "Direct (Scope 1) greenhouse gas 88 emissions 305-2 Energy indirect (Scope 2) 88 greenhouse gas emissions 305-3 Other indirect (Scope",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "107.txt",
+        "context_before": "components 103-3 Evaluation of the management 94 approach GRI 305: Emissions 2018 305-1 Direct (Scope 1) greenhouse gas 88 emissions",
+        "context_after": "Energy indirect (Scope 2) 88 greenhouse gas emissions 305-3 Other indirect (Scope 3) 88 greenhouse gas emissions 305-4 Greenhouse gas",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "107.txt",
+        "context_before": "305: Emissions 2018 305-1 Direct (Scope 1) greenhouse gas 88 emissions 305-2 Energy indirect (Scope 2) 88 greenhouse gas emissions",
+        "context_after": "Other indirect (Scope 3) 88 greenhouse gas emissions 305-4 Greenhouse gas emissions 88 intensity 305-5 Reduction of greenhouse gas 88",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "107.txt",
+        "context_before": "88 emissions 305-2 Energy indirect (Scope 2) 88 greenhouse gas emissions 305-3 Other indirect (Scope 3) 88 greenhouse gas emissions",
+        "context_after": "Greenhouse gas emissions 88 intensity 305-5 Reduction of greenhouse gas 88 emissions 305-6 Emissions of ODS (ozone- depleting substances) 305-7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "107.txt",
+        "context_before": "2) 88 greenhouse gas emissions 305-3 Other indirect (Scope 3) 88 greenhouse gas emissions 305-4 Greenhouse gas emissions 88 intensity",
+        "context_after": "Reduction of greenhouse gas 88 emissions 305-6 Emissions of ODS (ozone- depleting substances) 305-7 Nitrogen oxides (NOx), sulfur oxides (SOx),",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "107.txt",
+        "context_before": "indirect (Scope 3) 88 greenhouse gas emissions 305-4 Greenhouse gas emissions 88 intensity 305-5 Reduction of greenhouse gas 88 emissions",
+        "context_after": "Emissions of ODS (ozone- depleting substances) 305-7 Nitrogen oxides (NOx), sulfur oxides (SOx), and other significant air emissions Social performance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "107.txt",
+        "context_before": "305-4 Greenhouse gas emissions 88 intensity 305-5 Reduction of greenhouse gas 88 emissions 305-6 Emissions of ODS (ozone- depleting substances)",
+        "context_after": "Nitrogen oxides (NOx), sulfur oxides (SOx), and other significant air emissions Social performance indicators EMPLOYMENT GRI 103: Management Approach 2018",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": false,
+    "306-2": false,
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "98.txt",
+        "context_before": "Opportunity meritocracy Attracting GRI 202 - and Market developing Presence; talent GRI 404 - Training and Education Welfare and ",
+        "context_after": "- professional Employment well-being Occupational GRI 403 - health and Occupational safety Health and Safety 98 Additional information Internaland Employees,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "98.txt",
+        "context_before": "Market developing Presence; talent GRI 404 - Training and Education Welfare and  GRI 401 - professional Employment well-being Occupational",
+        "context_after": "- health and Occupational safety Health and Safety 98 Additional information Internaland Employees, external Customers, Suppliers External Customers Internaland Employees,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "98.txt",
+        "context_before": "GRI 405 - equal Diversity opportunities and Equal and Opportunity meritocracy Attracting GRI 202 - and Market developing Presence; talent",
+        "context_after": "- Training and Education Welfare and  GRI 401 - professional Employment well-being Occupational GRI 403 - health and Occupational",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "98.txt",
+        "context_before": "cyber Customer security Privacy Transparency GRI 417 - and trust Marketing and Labeling; GRI 419 - Socio- economic Compliance Diversity,",
+        "context_after": "- equal Diversity opportunities and Equal and Opportunity meritocracy Attracting GRI 202 - and Market developing Presence; talent GRI 404",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "99.txt",
+        "context_before": "- Internal and compliance  Anti- external corruption; GRI 206 - Anti- competitive behavior; GRI 419 - Socio- economic Compliance;",
+        "context_after": "- Non- discrimination; GRI 417 - Marketing and Labeling Communities, Customers, Suppliers Communities Swisscom, Employees Communities All stakeholder groups The",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "97.txt",
+        "context_before": "Digital GRI 203 - External infrastructure Indirect for the Economic Country Impacts;",
+        "context_after": "- Local Communities Technological - External innovation and open innovation Digital skills GRI 203 - Internal and at school and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "99.txt",
+        "context_before": "Anti- external corruption; GRI 206 - Anti- competitive behavior; GRI 419 - Socio- economic Compliance; GRI 406 - Non- discrimination;",
+        "context_after": "- Marketing and Labeling Communities, Customers, Suppliers Communities Swisscom, Employees Communities All stakeholder groups The Technology team, in particular a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "98.txt",
+        "context_before": "Privacy",
+        "context_after": "- and cyber Customer security Privacy Transparency GRI 417 - and trust Marketing and Labeling; GRI 419 - Socio- economic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "99.txt",
+        "context_before": "the Country Ethics and GRI 205 - Internal and compliance  Anti- external corruption; GRI 206 - Anti- competitive behavior;",
+        "context_after": "- Socio- economic Compliance; GRI 406 - Non- discrimination; GRI 417 - Marketing and Labeling Communities, Customers, Suppliers Communities Swisscom,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "107.txt",
+        "context_before": "103-2 The management approach and its 66; 94 components 103-3 Evaluation of the management 94 approach GRI 401: Employment 2018",
+        "context_after": "New employees hired end 66 employee turnover 401-2 Benefits provided to full-time employees that are not provided to temporary or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "107.txt",
+        "context_before": "components 103-3 Evaluation of the management 94 approach GRI 401: Employment 2018 401-1 New employees hired end 66 employee turnover",
+        "context_after": "Benefits provided to full-time employees that are not provided to temporary or part-time employees 401-3 Parental leave 78 OCCUPATIONAL HEALTH",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "107.txt",
+        "context_before": "hired end 66 employee turnover 401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees",
+        "context_after": "Parental leave 78 OCCUPATIONAL HEALTH AND SAFETY GRI 103: Management Approach 2018 103-1 Explanation of the material topics 94 and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": false,
+    "403-1": {
+        "page": "108.txt",
+        "context_before": "103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 403: Occupational health and safety 2018",
+        "context_after": "Occupational health and safety management system 403-2 Hazard identification, risk assessment, and incident investigation 403-3 Occupational health services 403-4 Processes",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "108.txt",
+        "context_before": "103-3 Evaluation of the management approach GRI 403: Occupational health and safety 2018 403-1 Occupational health and safety management system",
+        "context_after": "Hazard identification, risk assessment, and incident investigation 403-3 Occupational health services 403-4 Processes for worker participation and consultation in the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "108.txt",
+        "context_before": "Occupational health and safety 2018 403-1 Occupational health and safety management system 403-2 Hazard identification, risk assessment, and incident investigation",
+        "context_after": "Occupational health services 403-4 Processes for worker participation and consultation in the development, implementation, and evaluation of the occupational health",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "108.txt",
+        "context_before": "2018 403-1 Occupational health and safety management system 403-2 Hazard identification, risk assessment, and incident investigation 403-3 Occupational health services",
+        "context_after": "Processes for worker participation and consultation in the development, implementation, and evaluation of the occupational health and safety management system",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": {
+        "page": "108.txt",
+        "context_before": "Processes for worker participation and consultation in the development, implementation, and evaluation of the occupational health and safety management system",
+        "context_after": "Worker training on occupational health and safety 403-6 Promotion of worker health 403-7 Prevention and mitigation of occupational health and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-6": {
+        "page": "108.txt",
+        "context_before": "development, implementation, and evaluation of the occupational health and safety management system 403-5 Worker training on occupational health and safety",
+        "context_after": "Promotion of worker health 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships 403-8",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": {
+        "page": "108.txt",
+        "context_before": "the occupational health and safety management system 403-5 Worker training on occupational health and safety 403-6 Promotion of worker health",
+        "context_after": "Prevention and mitigation of occupational health and safety impacts directly linked by business relationships 403-8 Workers covered by an occupational",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-8": {
+        "page": "108.txt",
+        "context_before": "403-6 Promotion of worker health 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships",
+        "context_after": "Workers covered by an occupational health and safety management system 403-9 Work-related injuries 403-10 Work-related ill health TRAINING AND EDUCATION",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-9": {
+        "page": "108.txt",
+        "context_before": "health and safety impacts directly linked by business relationships 403-8 Workers covered by an occupational health and safety management system",
+        "context_after": "Work-related injuries 403-10 Work-related ill health TRAINING AND EDUCATION GRI 103: Management Approach 2018 103-1 Explanation of the material topics",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-10": {
+        "page": "108.txt",
+        "context_before": "impacts directly linked by business relationships 403-8 Workers covered by an occupational health and safety management system 403-9 Work-related injuries",
+        "context_after": "Work-related ill health TRAINING AND EDUCATION GRI 103: Management Approach 2018 103-1 Explanation of the material topics and its boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "404-1": {
+        "page": "108.txt",
+        "context_before": "its boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 404: Training and education",
+        "context_after": "Average hours of training per year per employee, analyzed by employee category and gender 404-2 Programs for upgrading employee skills",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "108.txt",
+        "context_before": "GRI 404: Training and education 404-1 Average hours of training per year per employee, analyzed by employee category and gender",
+        "context_after": "Programs for upgrading employee skills and transition assistance programs to facilitate continued employability and the management of career endings 404-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "108.txt",
+        "context_before": "404-2 Programs for upgrading employee skills and transition assistance programs to facilitate continued employability and the management of career endings",
+        "context_after": "Percentage of employees receiving regular performance and career development reviews 108 Additional information 80; 94 94 80 80 80 80",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "109.txt",
+        "context_before": "103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 405: Diversity and Equal Opportunity 2018",
+        "context_after": "Composition of governance bodies and breakdown of employees by gender, age group, eligibility for special protections and other indicators of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "109.txt",
+        "context_before": "of governance bodies and breakdown of employees by gender, age group, eligibility for special protections and other indicators of diversity",
+        "context_after": "Ratio of basic salary and remuneration of women to men by employee category and operating position NON-DISCRIMINATION GRI 103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "109.txt",
+        "context_before": "and its boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 406: Non-discrimination 2018",
+        "context_after": "Incidents of discrimination and corrective actions taken LOCAL COMMUNITIES GRI 103: Management Approach 2018 103-1 Explanation of the material topics",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "109.txt",
+        "context_before": "its boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 413: Local Communities 2018",
+        "context_after": "Percentage of operations with local community engagement, impact assessments, and development programs 413-2 Operations with significant actual and potential negative",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "109.txt",
+        "context_before": "management approach GRI 413: Local Communities 2018 413-1 Percentage of operations with local community engagement, impact assessments, and development programs",
+        "context_after": "Operations with significant actual and potential negative impacts on local communities MARKETING AND LABELLING GRI 103: Management Approach 2018 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": {
+        "page": "110.txt",
+        "context_before": "-  acon de | nT) 1g GRI 417: Marketing and labeling",
+        "context_after": "Requirements for product and Fastweb checks that all ICT products made service information and labeling by third parties and supplied",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "110.txt",
+        "context_before": "updated over time in the service charter available, together with the network connection quality objectives, online at http://www.fastweb it/adsl-fibra- ottica/qualita-e-carte-servizi/.",
+        "context_after": "Total number of incidents of No incidents of non-compliance occurred non-compliance with regulations in connection with the services offered or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "417-3": {
+        "page": "110.txt",
+        "context_before": "with the services offered or a and voluntary codes concerning lack of product information. product and service information and labeling",
+        "context_after": "Total number of incidents of During the reporting period, the Italian non-compliance with regulations Advertising Court issued three decisions and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "111.txt",
+        "context_before": "its boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 418: Customer Privacy 2018",
+        "context_after": "Substantiated complaints concerning breaches of customer privacy and losses of customer data SOCIOECONOMIC COMPLIANCE GRI 103: Management Approach 2018 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "111.txt",
+        "context_before": "its boundary 103-2 The management approach and its components 103-3 Evaluation of the management approach GRI 419: Socioeconomic compliance 2018",
+        "context_after": "Value of fines and number of significant sanctions for violation of laws and regulations in the social and economic area.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

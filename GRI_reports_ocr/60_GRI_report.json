@@ -1,0 +1,703 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "52.txt",
+        "context_before": "del Gruppo (migliaia di ) 35.000 30.000 25.000 20.000 15.000 2015 2016 2017 4.4 CONTRIBUTI RICEVUTI DALLA PUBBLICA AMMINISTRAZIONE [",
+        "context_after": "-4] Sono di seguito riportati i principali contributi ricevuti dal Gruppo da parte di Regione Lombardia dal 2015 al 2017:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "53.txt",
+        "context_before": "per favorire Uintermodalita: presenza di postazioni per le biciclette e di prese elettriche per la ricarica. Investimenti sulla rete [",
+        "context_after": "-1] | temi legati allo sviluppo, alladeguamento e alla manutenzione della rete e delle stazioni sono centrali nelle attivita del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "138.txt",
+        "context_before": "E GESTIONE RESPONSABILE DEGLI APPALTI GRI 103: MANAGEMENT 5; 25-26; APPROACH (2016) 103-1/ 103-2 / 103-3 Approccio manageriale 56.57. 135",
+        "context_after": ": PROCUREMENT 204-1 Porzione della spesa da fornitori locali S7 PRACTICES (2016) E gia in atto linserimento di prescrizioni di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "139.txt",
+        "context_before": "manageriale ie GRI103: MANAGEMENT pe  43-45; T34 APPROACH (2016) 205-2 Comunicazione e formazione su policy 45 e procedure anti-corruzione",
+        "context_after": ": ANTI- 205-3 Casi di corruzione accertati e azioni intraprese 4S Non si sono verificati incidenti 0 atti illeciti riconducibili",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "51.txt",
+        "context_before": "REGIONE LOMBARDIA 57,574% FERROVIE DELLO STATO 14,741% Azionisti del Gruppo al 31.12.2017 4.3 VALORE ECONOMICO DIRETTAMENTE GENERATO E DISTRIBUITO [",
+        "context_after": "] Nel 2017 il valore economico generato  stato pari a  277.641 migliaia. La grandezza rappresenta una sintesi dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": {
+        "page": "52.txt",
+        "context_before": "del Gruppo (migliaia di ) 35.000 30.000 25.000 20.000 15.000 2015 2016 2017 4.4 CONTRIBUTI RICEVUTI DALLA PUBBLICA AMMINISTRAZIONE [",
+        "context_after": "] Sono di seguito riportati i principali contributi ricevuti dal Gruppo da parte di Regione Lombardia dal 2015 al 2017:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "53.txt",
+        "context_before": "per favorire Uintermodalita: presenza di postazioni per le biciclette e di prese elettriche per la ricarica. Investimenti sulla rete [",
+        "context_after": "] | temi legati allo sviluppo, alladeguamento e alla manutenzione della rete e delle stazioni sono centrali nelle attivita del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "51.txt",
+        "context_before": "REGIONE LOMBARDIA 57,574% FERROVIE DELLO STATO 14,741% Azionisti del Gruppo al 31.12.2017 4.3 VALORE ECONOMICO DIRETTAMENTE GENERATO E DISTRIBUITO [GRI",
+        "context_after": "] Nel 2017 il valore economico generato  stato pari a  277.641 migliaia. La grandezza rappresenta una sintesi dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": {
+        "page": "52.txt",
+        "context_before": "del Gruppo (migliaia di ) 35.000 30.000 25.000 20.000 15.000 2015 2016 2017 4.4 CONTRIBUTI RICEVUTI DALLA PUBBLICA AMMINISTRAZIONE [GRI",
+        "context_after": "] Sono di seguito riportati i principali contributi ricevuti dal Gruppo da parte di Regione Lombardia dal 2015 al 2017:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "53.txt",
+        "context_before": "per favorire Uintermodalita: presenza di postazioni per le biciclette e di prese elettriche per la ricarica. Investimenti sulla rete [GRI",
+        "context_after": "] | temi legati allo sviluppo, alladeguamento e alla manutenzione della rete e delle stazioni sono centrali nelle attivita del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": false,
+    "204-1": {
+        "page": "138.txt",
+        "context_before": "DEGLI APPALTI GRI 103: MANAGEMENT 5; 25-26; APPROACH (2016) 103-1/ 103-2 / 103-3 Approccio manageriale 56.57. 135 GRI 204: PROCUREMENT",
+        "context_after": "Porzione della spesa da fornitori locali S7 PRACTICES (2016) E gia in atto linserimento di prescrizioni di sostenibilita ambientale e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "139.txt",
+        "context_before": "7 : 7, 25-26; 103-1 / 103-2 / 103-3 Approccio manageriale ie GRI103: MANAGEMENT pe  43-45; T34 APPROACH (2016)",
+        "context_after": "Comunicazione e formazione su policy 45 e procedure anti-corruzione GRI 205: ANTI- 205-3 Casi di corruzione accertati e azioni intraprese",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "139.txt",
+        "context_before": "MANAGEMENT pe  43-45; T34 APPROACH (2016) 205-2 Comunicazione e formazione su policy 45 e procedure anti-corruzione GRI 205: ANTI-",
+        "context_after": "Casi di corruzione accertati e azioni intraprese 4S Non si sono verificati incidenti 0 atti illeciti riconducibili CORRUPTION (2016) P",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "98.txt",
+        "context_before": "99 Gestione dei consumi energetici [",
+        "context_after": "-4] [GRI 302-5] | consumi di energia per la trazione elettrica ferroviaria | | treni di Trenord viaggiano su rete",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "139.txt",
+        "context_before": "DEI RIFIUTI GRI 103: MANAGEMENT . . 5; 25-27; APPROACH (2016) 103-1 / 103-2 / 103-3 Approccio manageriale 1-116, 135",
+        "context_after": ": WATER (2016) | 303-1 Prelievo di acqua per fonte 116 ASPETTO MATERIALE: OPERE COMPENSATIVE E TUTELA DELLA BIODIVERSITA ASPETTO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "139.txt",
+        "context_before": "di aree protette oppure di aree ad alto \"0-112 valore per la biodiversita anche se al di fuori di aree",
+        "context_after": ": BIODIVERSITY | Protette (2016) 304-2 Descrizione degli impatti significativi delle 107-108 attivita, dei prodotti e servizi sulla biodiversita 304-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "139.txt",
+        "context_before": "135 balla ENERGY 302-1 Consumi energetici interni all'organizzazione 99-103; 131 an Finisionl dirette di gas ad effetto serra 405; 132",
+        "context_after": ": EMISSIONS P (2016) esiont indi 305-2 Emissioni indirette di gas ad effetto serra 105; 132 TIONE DEI RIFIUTI GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "139.txt",
+        "context_before": "APPROACH (2016) 103-1 / 103-2 / 103-3 Approccio manageriale e116, 135 Non  disponibile la scomposizione dei rifiuti pericolosi e",
+        "context_after": ": EFFLUENTS 306-2 Rifiuti per tipo e metodo di smaltimento Wa; 132 non pericolosi per metodo di smaltimento (riuso; riciclo;",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "133.txt",
+        "context_before": "RUOLO DEL GRUPPO FNM E TRENORD Lombardia) Etica ed integrita del business | GRI 205: Anticorruzione Gruppo FNM Stakeholder Diretto",
+        "context_after": ": Conformita ambientale Gruppo FNM Compliance GRI 419: e Trenord Diretto GOVERNANCE E Conformita socio-economica INTEGRITA Relazioni con gli Stakeholder",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "54.txt",
+        "context_before": "4.6 LA CATENA DI FORNITURA [",
+        "context_after": "-1] [GRI 103-2] [GRI 414-1] Lattivita di approvvigionamento di materiali, vetture e servizi e la scelta di fornitori stanno assumendo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "98.txt",
+        "context_before": "99 Gestione dei consumi energetici [",
+        "context_after": "] [GRI 302-5] | consumi di energia per la trazione elettrica ferroviaria | | treni di Trenord viaggiano su rete",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": {
+        "page": "98.txt",
+        "context_before": "99 Gestione dei consumi energetici [GRI 302-4] [",
+        "context_after": "] | consumi di energia per la trazione elettrica ferroviaria | | treni di Trenord viaggiano su rete FERROVIENORD e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-1": {
+        "page": "115.txt",
+        "context_before": "16 Gestione delle risorse idriche [GRI 306-1] [",
+        "context_after": "] |. Gruppo utilizza l'acqua principalmente per fini igienico-sanitari, per la pulizia delle stazioni e dei mezzi e per le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": {
+        "page": "106.txt",
+        "context_before": "che hanno richiesto anche stime 7.3 GESTIONE DELLE RISORSE E TUTELA DEL TERRITORIO Tutela del paesaggio e della biodiversita [",
+        "context_after": "] [GRI 304-3] Lattivita del Gruppo che ha maggior impatto paesaggistico e sulla biodiversita risulta essere il trasporto ferroviario. Se",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304-2": false,
+    "GRI 304-3": {
+        "page": "106.txt",
+        "context_before": "richiesto anche stime 7.3 GESTIONE DELLE RISORSE E TUTELA DEL TERRITORIO Tutela del paesaggio e della biodiversita [GRI 304-1] [",
+        "context_after": "] Lattivita del Gruppo che ha maggior impatto paesaggistico e sulla biodiversita risulta essere il trasporto ferroviario. Se da una",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "104.txt",
+        "context_before": "Emissioni in atmosfera [",
+        "context_after": "] [GRI 305-2] [GRI 305-7] Nel 2017 il Gruppo FNM ha prodotto circa 16.446 tCO2 registrando un aumento del 8,2%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "104.txt",
+        "context_before": "Emissioni in atmosfera [GRI 305-1] [",
+        "context_after": "] [GRI 305-7] Nel 2017 il Gruppo FNM ha prodotto circa 16.446 tCO2 registrando un aumento del 8,2% e Trenord",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": {
+        "page": "104.txt",
+        "context_before": "Emissioni in atmosfera [GRI 305-1] [GRI 305-2] [",
+        "context_after": "] Nel 2017 il Gruppo FNM ha prodotto circa 16.446 tCO2 registrando un aumento del 8,2% e Trenord ha prodotto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-1": {
+        "page": "115.txt",
+        "context_before": "16 Gestione delle risorse idriche [",
+        "context_after": "] [GRI 303-1] |. Gruppo utilizza l'acqua principalmente per fini igienico-sanitari, per la pulizia delle stazioni e dei mezzi e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-2": {
+        "page": "112.txt",
+        "context_before": "componenti idriche sotterranee, rumore e vibrazioni a seguito della realizzazione del collegamento ferroviario T1 - T2. Gestione dei rifiuti [",
+        "context_after": "] Le Societa del Gruppo FNM e Trenord producono, per le loro attivita di ufficio, rifiuti assimilabili a quelli urbani,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": {
+        "page": "54.txt",
+        "context_before": "4.6 LA CATENA DI FORNITURA [",
+        "context_after": "] [GRI 103-2] [GRI 414-1] Lattivita di approvvigionamento di materiali, vetture e servizi e la scelta di fornitori stanno assumendo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "139.txt",
+        "context_before": "GRI 103: MANAGEMENT 7 : 5; 25-27; APPROACH (2016) 103-1 / 103-2 / 103-3 Approccio manageriale 98: 135 balla ENERGY",
+        "context_after": "Consumi energetici interni all'organizzazione 99-103; 131 an Finisionl dirette di gas ad effetto serra 405; 132 GRI 305: EMISSIONS P",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "98.txt",
+        "context_before": "99 Gestione dei consumi energetici [GRI",
+        "context_after": "] [GRI 302-5] | consumi di energia per la trazione elettrica ferroviaria | | treni di Trenord viaggiano su rete",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "98.txt",
+        "context_before": "99 Gestione dei consumi energetici [GRI 302-4] [GRI",
+        "context_after": "] | consumi di energia per la trazione elettrica ferroviaria | | treni di Trenord viaggiano su rete FERROVIENORD e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "139.txt",
+        "context_before": ". . 5; 25-27; APPROACH (2016) 103-1 / 103-2 / 103-3 Approccio manageriale 1-116, 135 GRI 303: WATER (2016) |",
+        "context_after": "Prelievo di acqua per fonte 116 ASPETTO MATERIALE: OPERE COMPENSATIVE E TUTELA DELLA BIODIVERSITA ASPETTO MATERIALE: UTILIZZO DI MATERIALI E",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "139.txt",
+        "context_before": "E GES GRI 103: MANAGEMENT 7 : 5; 26-27; APPROACH (2016) 103-1 / 103-2 / 103-3 Approccio manageriale ror 35",
+        "context_after": "Localizzazione e dimensione dei terreni posseduti, affittati, oppure gestiti allinterno o nelle vicinanze di aree protette oppure di aree ad",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "139.txt",
+        "context_before": "ad alto \"0-112 valore per la biodiversita anche se al di fuori di aree GRI 304: BIODIVERSITY | Protette (2016)",
+        "context_after": "Descrizione degli impatti significativi delle 107-108 attivita, dei prodotti e servizi sulla biodiversita 304-3 Habitat protetti o risanati 108-112 TIONE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": {
+        "page": "139.txt",
+        "context_before": "GRI 304: BIODIVERSITY | Protette (2016) 304-2 Descrizione degli impatti significativi delle 107-108 attivita, dei prodotti e servizi sulla biodiversita",
+        "context_after": "Habitat protetti o risanati 108-112 TIONE DEI RIFIUTI AND WASTE (2016) ASPETTO MATERIALE: TUTELA DELLA SALUTE E SICUREZZ. GRI 103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-4": false,
+    "305-1": {
+        "page": "131.txt",
+        "context_before": " 32",
+        "context_after": "Emissioni dirette di gas ad effetto serra (Scope 1) EMISSIONI DIRETTE (SCOPE 1) EMISSIONI DIRETTE - SCOPE 1 (tCO2) 2017",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "139.txt",
+        "context_before": "all'organizzazione 99-103; 131 an Finisionl dirette di gas ad effetto serra 405; 132 GRI 305: EMISSIONS P (2016) esiont indi",
+        "context_after": "Emissioni indirette di gas ad effetto serra 105; 132 TIONE DEI RIFIUTI GRI 103: MANAGEMENT . . 5; 25-27; APPROACH",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": {
+        "page": "104.txt",
+        "context_before": "Emissioni in atmosfera [GRI 305-1] [GRI 305-2] [GRI",
+        "context_after": "] Nel 2017 il Gruppo FNM ha prodotto circa 16.446 tCO2 registrando un aumento del 8,2% e Trenord ha prodotto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "115.txt",
+        "context_before": "16 Gestione delle risorse idriche [GRI",
+        "context_after": "] [GRI 303-1] |. Gruppo utilizza l'acqua principalmente per fini igienico-sanitari, per la pulizia delle stazioni e dei mezzi e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "139.txt",
+        "context_before": "/ 103-2 / 103-3 Approccio manageriale e116, 135 Non  disponibile la scomposizione dei rifiuti pericolosi e GRI 306: EFFLUENTS",
+        "context_after": "Rifiuti per tipo e metodo di smaltimento Wa; 132 non pericolosi per metodo di smaltimento (riuso; riciclo; compostaggio; recupero di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": {
+        "page": "54.txt",
+        "context_before": "4.6 LA CATENA DI FORNITURA [GRI",
+        "context_after": "] [GRI 103-2] [GRI 414-1] Lattivita di approvvigionamento di materiali, vetture e servizi e la scelta di fornitori stanno assumendo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "90.txt",
+        "context_before": "6.4 WELFARE E WELL-BEING [",
+        "context_after": "-2] \\L welfare interno del Gruppo FNM e Trenord si  sviluppato, nel corso degli anni per creare un contesto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "87.txt",
+        "context_before": "in campo scientifico, ricerca e sviluppo, analisi di mercato e attivita di scouting. 6.3 SALUTE E SICUREZZA DEI LAVORATORI [",
+        "context_after": "-1] [GRI 403-2] PWT TKe)| RIFERIMENTO (EX. D.LGS. 254/2016) meV Vier N FATTORI DI RISCHIO PRINCIPALI AZIONI DI MITIGAZIONE DEL",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "86.txt",
+        "context_before": "apposito team di lavoro e una community interna per condividere idee, problematiche, soluzioni e innovazioni. Formazione, sviluppo e innovazione [",
+        "context_after": "-1] [GRI 404-3] \\L Gruppo e Trenord si impegnano a sviluppare percorsi formativi e di sviluppo volti a consolidare le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "85.txt",
+        "context_before": "quadri, tra gli obiettivi possono essere ricompresi anche performance relative alla puntualita e di tipo economico. Diversita e inclusione (",
+        "context_after": "-1] |. Gruppo FNM  sensibile al tema delluguaglianza e della non discriminazione tra i suoi dipendenti. A testimonianza di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "141.txt",
+        "context_before": "Linee Guida per gli acquisti sostenibili del . 412-3 Accordi e contratti che includono clausole re . per gui aca)",
+        "context_after": ": HUMAN relative ai diritti umani o che sono state sottoposte a 56.57 Gruppo finalizzate ad ampliare in modo graduale",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 413": {
+        "page": "140.txt",
+        "context_before": "E IMPATTI SULLA COMUNITA GRI 103: MANAGEMENT 6; 26-27; 108; APPROACH (2016) 103-1/ 103-2 / 103-3 Approccio manageriale 117.120. 134",
+        "context_after": "LOCAL 413-2 Attivita con significativi impatti negativi, attuali 108; 117-120 COMMUNITIES (2016) e potenziali, sulle comunita locali ASPETTO MATERIALE: SICUREZZA",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "54.txt",
+        "context_before": "4.6 LA CATENA DI FORNITURA [GRI 308-1] [GRI 103-2] [",
+        "context_after": "-1] Lattivita di approvvigionamento di materiali, vetture e servizi e la scelta di fornitori stanno assumendo una rilevanza strategica in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "133.txt",
+        "context_before": "ornitori lita d ff Gi FNM Fe Diretto soddisfazione dei clienti e Trenord Clienti viaggiatori Sicurezza in stazione ed in",
+        "context_after": ": Salute e sicurezza Gruppo FNM Fornitori POLFER movimento (Security & Diretto Safety) dei clienti e Trenord Clienti viaggiatori Sistema",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417": {
+        "page": "140.txt",
+        "context_before": "103-3 Approccio manageriale 45-46; 134 ORV NMENTAL 200 Non-compliance a regolamenti e leggi in 4S COMPLIANCE (2016) | 2*er!2 ambrentale",
+        "context_after": ": MARKETING 417-2 Casi di non-conformita relativi all'attivita di 45 AND LABELLING (2016) | marketing GRI 418: CUSTOMER 418-1 Reclami",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "140.txt",
+        "context_before": "(2016) | 2*er!2 ambrentale GRI 417: MARKETING 417-2 Casi di non-conformita relativi all'attivita di 45 AND LABELLING (2016) | marketing",
+        "context_after": ": CUSTOMER 418-1 Reclami riguardanti la violazione della privacy e 45 PRIVACY (2016) la perdita dei dati dei clienti ae",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "44.txt",
+        "context_before": "brochure sul Decreto 231 e la Responsabilita degli enti a oltre 3.000 dipendenti. 3.5 COMPLIANCE E SISTEMI DI GESTIONE [",
+        "context_after": "-1] Per il 2017 non si rilevano sanzioni pecuniarie a carico del Gruppo FNM e di Trenord per i seguenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": {
+        "page": "84.txt",
+        "context_before": "del personale che definisce i ruoli, le responsabilita, le modalita operative e i principi di comportamento da adottare. Turnover aziendale",
+        "context_after": "] PERSONALE CHE HA INTERROTTO/TERMINATO RISO arstel ANS ASU NO FENG asa MCs oh Tella Natt t Uomini | Donne",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": {
+        "page": "90.txt",
+        "context_before": "6.4 WELFARE E WELL-BEING [",
+        "context_after": "] \\L welfare interno del Gruppo FNM e Trenord si  sviluppato, nel corso degli anni per creare un contesto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": {
+        "page": "87.txt",
+        "context_before": "in campo scientifico, ricerca e sviluppo, analisi di mercato e attivita di scouting. 6.3 SALUTE E SICUREZZA DEI LAVORATORI [",
+        "context_after": "] [GRI 403-2] PWT TKe)| RIFERIMENTO (EX. D.LGS. 254/2016) meV Vier N FATTORI DI RISCHIO PRINCIPALI AZIONI DI MITIGAZIONE DEL",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": {
+        "page": "87.txt",
+        "context_before": "scientifico, ricerca e sviluppo, analisi di mercato e attivita di scouting. 6.3 SALUTE E SICUREZZA DEI LAVORATORI [GRI 403-1] [",
+        "context_after": "] PWT TKe)| RIFERIMENTO (EX. D.LGS. 254/2016) meV Vier N FATTORI DI RISCHIO PRINCIPALI AZIONI DI MITIGAZIONE DEL OVE INERENTI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "86.txt",
+        "context_before": "apposito team di lavoro e una community interna per condividere idee, problematiche, soluzioni e innovazioni. Formazione, sviluppo e innovazione [",
+        "context_after": "] [GRI 404-3] \\L Gruppo e Trenord si impegnano a sviluppare percorsi formativi e di sviluppo volti a consolidare le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": {
+        "page": "86.txt",
+        "context_before": "di lavoro e una community interna per condividere idee, problematiche, soluzioni e innovazioni. Formazione, sviluppo e innovazione [GRI 404-1] [",
+        "context_after": "] \\L Gruppo e Trenord si impegnano a sviluppare percorsi formativi e di sviluppo volti a consolidare le conoscenze specifiche",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-1": {
+        "page": "85.txt",
+        "context_before": "quadri, tra gli obiettivi possono essere ricompresi anche performance relative alla puntualita e di tipo economico. Diversita e inclusione (",
+        "context_after": "] |. Gruppo FNM  sensibile al tema delluguaglianza e della non discriminazione tra i suoi dipendenti. A testimonianza di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "116.txt",
+        "context_before": "7.4 RAPPORTI CON IL TERRITORIO",
+        "context_after": "] AMBITO DI TEMATICA FATTORI DI RISCHIO RIFERIMENTO PRINCIPALI AZIONI DI MITIGAZIONE DEL RISCHIO (EX. D.LGS. 254/2016) ieee INERENTI \\L",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": false,
+    "GRI 414-1": {
+        "page": "54.txt",
+        "context_before": "4.6 LA CATENA DI FORNITURA [GRI 308-1] [GRI 103-2] [",
+        "context_after": "] Lattivita di approvvigionamento di materiali, vetture e servizi e la scelta di fornitori stanno assumendo una rilevanza strategica in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": {
+        "page": "44.txt",
+        "context_before": "brochure sul Decreto 231 e la Responsabilita degli enti a oltre 3.000 dipendenti. 3.5 COMPLIANCE E SISTEMI DI GESTIONE [",
+        "context_after": "] Per il 2017 non si rilevano sanzioni pecuniarie a carico del Gruppo FNM e di Trenord per i seguenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-1": {
+        "page": "84.txt",
+        "context_before": "personale che definisce i ruoli, le responsabilita, le modalita operative e i principi di comportamento da adottare. Turnover aziendale GRI",
+        "context_after": "] PERSONALE CHE HA INTERROTTO/TERMINATO RISO arstel ANS ASU NO FENG asa MCs oh Tella Natt t Uomini | Donne",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "401-2": {
+        "page": "90.txt",
+        "context_before": "6.4 WELFARE E WELL-BEING [GRI",
+        "context_after": "] \\L welfare interno del Gruppo FNM e Trenord si  sviluppato, nel corso degli anni per creare un contesto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": {
+        "page": "140.txt",
+        "context_before": "disponibile la scomposizione per di carriera 8 . Le Societa del Gruppo FNM e Trenord S.r.L. applicano GR 02: LABOR!",
+        "context_after": "Periodo minimo di preavviso per modifiche Bh quanto previsto dal Contratto Collettivo Nazionale (CCNL) RELATIONS operative delle Attivita Ferroviarie e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "87.txt",
+        "context_before": "in campo scientifico, ricerca e sviluppo, analisi di mercato e attivita di scouting. 6.3 SALUTE E SICUREZZA DEI LAVORATORI [GRI",
+        "context_after": "] [GRI 403-2] PWT TKe)| RIFERIMENTO (EX. D.LGS. 254/2016) meV Vier N FATTORI DI RISCHIO PRINCIPALI AZIONI DI MITIGAZIONE DEL",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "87.txt",
+        "context_before": "scientifico, ricerca e sviluppo, analisi di mercato e attivita di scouting. 6.3 SALUTE E SICUREZZA DEI LAVORATORI [GRI 403-1] [GRI",
+        "context_after": "] PWT TKe)| RIFERIMENTO (EX. D.LGS. 254/2016) meV Vier N FATTORI DI RISCHIO PRINCIPALI AZIONI DI MITIGAZIONE DEL OVE INERENTI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "86.txt",
+        "context_before": "apposito team di lavoro e una community interna per condividere idee, problematiche, soluzioni e innovazioni. Formazione, sviluppo e innovazione [GRI",
+        "context_after": "] [GRI 404-3] \\L Gruppo e Trenord si impegnano a sviluppare percorsi formativi e di sviluppo volti a consolidare le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "86.txt",
+        "context_before": "di lavoro e una community interna per condividere idee, problematiche, soluzioni e innovazioni. Formazione, sviluppo e innovazione [GRI 404-1] [GRI",
+        "context_after": "] \\L Gruppo e Trenord si impegnano a sviluppare percorsi formativi e di sviluppo volti a consolidare le conoscenze specifiche",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "85.txt",
+        "context_before": "quadri, tra gli obiettivi possono essere ricompresi anche performance relative alla puntualita e di tipo economico. Diversita e inclusione (GRI",
+        "context_after": "] |. Gruppo FNM  sensibile al tema delluguaglianza e della non discriminazione tra i suoi dipendenti. A testimonianza di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": {
+        "page": "141.txt",
+        "context_before": "dal Codice Appalti. Nel 2017 sono state 7 | , datte Le Linee Guida per gli acquisti sostenibili del .",
+        "context_after": "Accordi e contratti che includono clausole re . per gui aca) GRI 412: HUMAN relative ai diritti umani o che",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "116.txt",
+        "context_before": "7.4 RAPPORTI CON IL TERRITORIO GRI",
+        "context_after": "] AMBITO DI TEMATICA FATTORI DI RISCHIO RIFERIMENTO PRINCIPALI AZIONI DI MITIGAZIONE DEL RISCHIO (EX. D.LGS. 254/2016) ieee INERENTI \\L",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "140.txt",
+        "context_before": "COMUNITA GRI 103: MANAGEMENT 6; 26-27; 108; APPROACH (2016) 103-1/ 103-2 / 103-3 Approccio manageriale 117.120. 134 GRI 413 LOCAL",
+        "context_after": "Attivita con significativi impatti negativi, attuali 108; 117-120 COMMUNITIES (2016) e potenziali, sulle comunita locali ASPETTO MATERIALE: SICUREZZA IN STAZIONE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": {
+        "page": "54.txt",
+        "context_before": "4.6 LA CATENA DI FORNITURA [GRI 308-1] [GRI 103-2] [GRI",
+        "context_after": "] Lattivita di approvvigionamento di materiali, vetture e servizi e la scelta di fornitori stanno assumendo una rilevanza strategica in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": {
+        "page": "140.txt",
+        "context_before": "SAFETY) GRI 103: MANAGEMENT 6; 25-27; 45-46; APPROACH (2016) 103-1/ 103-2 / 103-3 Approccio manageriale 68, Bh eee SNe eneeny",
+        "context_after": "Casi di non-conformita a riguardo agli impatti 4S (2016) GRI 103: MANAGEMENT sulla salute e sicurezza di prodotti e servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": false,
+    "417-2": {
+        "page": "140.txt",
+        "context_before": "45-46; 134 ORV NMENTAL 200 Non-compliance a regolamenti e leggi in 4S COMPLIANCE (2016) | 2*er!2 ambrentale GRI 417: MARKETING",
+        "context_after": "Casi di non-conformita relativi all'attivita di 45 AND LABELLING (2016) | marketing GRI 418: CUSTOMER 418-1 Reclami riguardanti la violazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": false,
+    "418-1": {
+        "page": "140.txt",
+        "context_before": "ambrentale GRI 417: MARKETING 417-2 Casi di non-conformita relativi all'attivita di 45 AND LABELLING (2016) | marketing GRI 418: CUSTOMER",
+        "context_after": "Reclami riguardanti la violazione della privacy e 45 PRIVACY (2016) la perdita dei dati dei clienti ae conomic a Non-compliance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "44.txt",
+        "context_before": "brochure sul Decreto 231 e la Responsabilita degli enti a oltre 3.000 dipendenti. 3.5 COMPLIANCE E SISTEMI DI GESTIONE [GRI",
+        "context_after": "] Per il 2017 non si rilevano sanzioni pecuniarie a carico del Gruppo FNM e di Trenord per i seguenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

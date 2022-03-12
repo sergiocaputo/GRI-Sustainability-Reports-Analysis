@@ -1,0 +1,817 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "79.txt",
+        "context_before": "il 6 febbraio 2020, e delle distribuzioni degli uti approvate dalle rispettive Assemblee degli Azionisti per gli esercizi di confronto.",
+        "context_after": "-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "109.txt",
+        "context_before": "comportamenti discriminator in tutto il processo di gestione delle risorse, dalla fase di selezione alla gestione e sviluppo delle Risorse.",
+        "context_after": "-1 / GRI 406-1 1108",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "134.txt",
+        "context_before": "scelte strategiche in chiave di innovazione. 22 Cfr.ll prospetto del Valore economico creato e distribuito contenuto nella sezione Responsabilita Economica",
+        "context_after": "-2 / GRI 413-1 133 |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "133.txt",
+        "context_before": "32 2.769 2,7% 39 2.332 2,3% 38 2.384 2,4% Totale fornitori 2.974 103.973 100,0% 2.991 100.609 100,0% 3.027 98.675 100,0%",
+        "context_after": "-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "76.txt",
+        "context_before": "alcuna causa legale pubblica legata alla corruzione intrapresa contro il Gruppo o i suoi dipendenti durante il periodo di rendicontazione.",
+        "context_after": "-3 751",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "70.txt",
+        "context_before": "e sanzioni non monetarie per la non conformitd con leggi e/o normative in materia sociale ed economica. GRI 102-17 /",
+        "context_after": "0-1 / GRE 419-1 Erogata formazione a tutto il personale sulle tematiche di whistleblowing 691",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "79.txt",
+        "context_before": "il 6 febbraio 2020, e delle distribuzioni degli uti approvate dalle rispettive Assemblee degli Azionisti per gli esercizi di confronto.",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": {
+        "page": "109.txt",
+        "context_before": "comportamenti discriminator in tutto il processo di gestione delle risorse, dalla fase di selezione alla gestione e sviluppo delle Risorse.",
+        "context_after": "/ GRI 406-1 1108",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202-2": {
+        "page": "105.txt",
+        "context_before": "dei trasferimenti infragruppo e pari al 3% della numerosita di dirigenti totali alla fine del 2016) tutti residenti in Lombardia.",
+        "context_after": "1104",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-1": false,
+    "GRI 203-2": {
+        "page": "134.txt",
+        "context_before": "scelte strategiche in chiave di innovazione. 22 Cfr.ll prospetto del Valore economico creato e distribuito contenuto nella sezione Responsabilita Economica",
+        "context_after": "/ GRI 413-1 133 |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204-1": {
+        "page": "133.txt",
+        "context_before": "32 2.769 2,7% 39 2.332 2,3% 38 2.384 2,4% Totale fornitori 2.974 103.973 100,0% 2.991 100.609 100,0% 3.027 98.675 100,0%",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": {
+        "page": "73.txt",
+        "context_before": "quello adottato per i dipendenti, raccogliendo |lattestazione di avwvenuta lettura e accettazione del documento da parte di ciascuno di essi.",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 205-3": {
+        "page": "76.txt",
+        "context_before": "alcuna causa legale pubblica legata alla corruzione intrapresa contro il Gruppo o i suoi dipendenti durante il periodo di rendicontazione.",
+        "context_after": "751",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "79.txt",
+        "context_before": "6 febbraio 2020, e delle distribuzioni degli uti approvate dalle rispettive Assemblee degli Azionisti per gli esercizi di confronto. GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": {
+        "page": "167.txt",
+        "context_before": "gestione e sue component 78 103-3 Valutazione delle modalita di gestione 78 201- Valore economico direttamente generato e redistribuito 79-80-81",
+        "context_after": "Finanziamenti ricevuti dal Governo 80 202-Presenza sul mercato (2016) 103- Spiegazione del tema materiale e relativo perimetro 65 103-2 Modalita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "109.txt",
+        "context_before": "discriminator in tutto il processo di gestione delle risorse, dalla fase di selezione alla gestione e sviluppo delle Risorse. GRI",
+        "context_after": "/ GRI 406-1 1108",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "167.txt",
+        "context_before": "90; 100; 104; 107 202- Rapporto tra salario standard di un neoassunto per genere e il salario minimo locale 108",
+        "context_after": "Proporzione di senior manager assunti nella comunita locale 104 203-Impatti economici indiretti (2016) 03- Spiegazione del tema materiale e relativo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": false,
+    "203-2": {
+        "page": "167.txt",
+        "context_before": "relativo perimetro 65 03-2 Modalita di gestione e sue componenti 90; 130-131-132 03-3 Valutazione delle modalitd di gestione 90; 130-131-132",
+        "context_after": "Impatti economici indiretti significativi 133 204 - Pratiche di approvwvigionamento (2016) 03-1 Spiegazione del tema materiale e relativo perimetro 65",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "167.txt",
+        "context_before": "materiale e relativo perimetro 65 03-2 Modalita di gestione e sue component 130-131-132 03-3 Valutazione delle modalita di gestione 130-131-132",
+        "context_after": "Proporzione di spesa verso i fornitori localli 132 03-1 Spiegazione del tema materiale e relativo perimetro 65 03-2 Modalita di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "73.txt",
+        "context_before": "adottato per i dipendenti, raccogliendo |lattestazione di avwvenuta lettura e accettazione del documento da parte di ciascuno di essi. GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "76.txt",
+        "context_before": "causa legale pubblica legata alla corruzione intrapresa contro il Gruppo o i suoi dipendenti durante il periodo di rendicontazione. GRI",
+        "context_after": "751",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "161.txt",
+        "context_before": "i due periodi precedenti,  stato stimato applicando alla quantita di materia prima carta utilizzata dalla societd (di cui allindicatore",
+        "context_after": "-1) un coefficiente di smaltimento pro-capite ponderato per il numero di dipendenti. Questultima stima era stata effettuata nel 2017 anche",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302": {
+        "page": "150.txt",
+        "context_before": "ambienti in cui si vive e si lavora, riduce gli oneri di gestione e manutenzione rispetto agli impianti termici tradizionali.",
+        "context_after": "-3 149|",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "159.txt",
+        "context_before": "A Emison otal scope 5.042 5.069| 5.684 5.715 5.902 6.010 IntensitG emissiva per Mq 0,04 0,05 0,05 0,05 0,05 0,05",
+        "context_after": "-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "160.txt",
+        "context_before": "allo smaltimento { >  62 & 105.84 18.89 3.23 25.36 Imballaggi in carta Apparecchiature Toner Altri rifiuti e cartone",
+        "context_after": "-2 159|",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "161.txt",
+        "context_before": "i due periodi precedenti,  stato stimato applicando alla quantita di materia prima carta utilizzata dalla societd (di cui allindicatore",
+        "context_after": ") un coefficiente di smaltimento pro-capite ponderato per il numero di dipendenti. Questultima stima era stata effettuata nel 2017 anche",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301-2": {
+        "page": "144.txt",
+        "context_before": "a quello riportato nel Bilancio di sostenibilit al 31/12/2018 (cui si rimanda per i dati precedentemente riportati). GRI 301-1 /",
+        "context_after": "143 |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "145.txt",
+        "context_before": "100% sul totale dellenergia elettrica utilizzata dal Gruppo come precisato nel paragrafo Responsabilita ambientale, mentre nel 2017 era influenzata della",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-2": {
+        "page": "148.txt",
+        "context_before": "le formule definite nelle Linee Guida sullapplicazione in banca degli Standards GRI in materia ambientale - gennaio 2020 di ABI.",
+        "context_after": "147)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-3": {
+        "page": "150.txt",
+        "context_before": "ambienti in cui si vive e si lavora, riduce gli oneri di gestione e manutenzione rispetto agli impianti termici tradizionali.",
+        "context_after": "149|",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "152.txt",
+        "context_before": "le formule definite nelle Linee Guida sullapplicazione in banca degli Standards GRI in materia ambientale - gennaio 2020 di ABI.",
+        "context_after": "151)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "154.txt",
+        "context_before": "di cui: ~ Fonti Rinnovabili 4. 3,544 3,560 4,043 4,063 3.29] 3,306 Totale Emissioni 3.544 3.560 4.043 4.063 4.447 4.467",
+        "context_after": "153 |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": {
+        "page": "157.txt",
+        "context_before": "le relative emissioni di CO, vengono riportate come da evidenze delle due fonti Ecopassenger e ICAO (calcolate con proprie metodologie).",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-4": {
+        "page": "159.txt",
+        "context_before": "A Emison otal scope 5.042 5.069| 5.684 5.715 5.902 6.010 IntensitG emissiva per Mq 0,04 0,05 0,05 0,05 0,05 0,05",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "160.txt",
+        "context_before": "allo smaltimento { >  62 & 105.84 18.89 3.23 25.36 Imballaggi in carta Apparecchiature Toner Altri rifiuti e cartone",
+        "context_after": "159|",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "161.txt",
+        "context_before": "due periodi precedenti,  stato stimato applicando alla quantita di materia prima carta utilizzata dalla societd (di cui allindicatore GRI",
+        "context_after": ") un coefficiente di smaltimento pro-capite ponderato per il numero di dipendenti. Questultima stima era stata effettuata nel 2017 anche",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "301-2": {
+        "page": "168.txt",
+        "context_before": "gestione e sue componenti 40-144 103-3 Valutazione delle modalita di gestione 40-144 301- Materiali utilizzati per peso e volume 43",
+        "context_after": "Materiali utilizzati che provengono da riciclo 43 302-Energia (2016) 103- Spiegazione del tema materiale e relativo perimetro 65 103-2 Modalita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "150.txt",
+        "context_before": "energetici al di fuori dellorganizzazione (indicatore 302-2) ed  stata calcolata, dividendo il consumo totale di energia allinterno dellorganizzazione (indicatore",
+        "context_after": ") per il numero di dipendenti del Gruppo alla data di riferimento di fine esercizio nella prima tabella, e per",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "302-2": {
+        "page": "168.txt",
+        "context_before": "gestione e sue componenti 40-142; 149-150 103-3 Valutazione delle modalita di gestione 40-142; 149-150 302- Energia consumata allinterno dellorganizzazione 44-145-146",
+        "context_after": "Energia consumata al di fuori dellorganizzazione 47-148 302-3 Intensita energetica 49-150 305-Emissioni (2016) 103-1 Spiegazione del tema materiale e relativo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "168.txt",
+        "context_before": "delle modalita di gestione 40-142; 149-150 302- Energia consumata allinterno dellorganizzazione 44-145-146 302-2 Energia consumata al di fuori dellorganizzazione 47-148",
+        "context_after": "Intensita energetica 49-150 305-Emissioni (2016) 103-1 Spiegazione del tema materiale e relativo perimetro 65 103-2 Modalita di gestione e sue",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": false,
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "168.txt",
+        "context_before": "relativo perimetro 65 103-2 Modalita di gestione e sue componenti 40-142; 150 103-3 Valutazione delle modalita di gestione 40-142; 150",
+        "context_after": "Emissioni dirette di GHG (scope 1) 51-152 305-2 Emissioni indirette di GHG da consumi energetici (scope 2) 53-154-155 305-3 Altre",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "168.txt",
+        "context_before": "sue componenti 40-142; 150 103-3 Valutazione delle modalita di gestione 40-142; 150 305-1 Emissioni dirette di GHG (scope 1) 51-152",
+        "context_after": "Emissioni indirette di GHG da consumi energetici (scope 2) 53-154-155 305-3 Altre emissioni indirette di GHG (scope 3) 56-157 305-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "168.txt",
+        "context_before": "150 305-1 Emissioni dirette di GHG (scope 1) 51-152 305-2 Emissioni indirette di GHG da consumi energetici (scope 2) 53-154-155",
+        "context_after": "Altre emissioni indirette di GHG (scope 3) 56-157 305-4 Intensita delle emissioni di GHG 58 167 |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "168.txt",
+        "context_before": "305-2 Emissioni indirette di GHG da consumi energetici (scope 2) 53-154-155 305-3 Altre emissioni indirette di GHG (scope 3) 56-157",
+        "context_after": "Intensita delle emissioni di GHG 58 167 |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "169.txt",
+        "context_before": "materiale e relativo perimetro 65 103-2 Modalita di gestione e sue component 159-160 103-3 Valutazione delle modalita di gestione 159-160",
+        "context_after": "Rifiuti per tipo e metodologia di smaltimento 159-160 401-Occupazione (2016) 103-1 Spiegazione del tema materiale e relativo perimetro 65 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "121.txt",
+        "context_before": "pubblicato nella Dichiarazione Consolidata di carattere non finanziario 2018, cui si rinvia al documento pubblicato sul sito web del Gruppo.",
+        "context_after": "-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "123.txt",
+        "context_before": "della contrattazione con gli organismi sindacali aziendali in tema di operazioni di Ristrutturazione e o riorganizzazione e trasferimento di azienda.",
+        "context_after": "-1",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403": {
+        "page": "16.txt",
+        "context_before": "2019 larendicontazione di dati e informazioni relativi alla salute e sicurezza neiluoghi dilavoro  stata aggiornata secondo il nuovo Standard",
+        "context_after": ", pubblicato dal Global Reporting Initiative (GRI) nel 2018 in sostituzione della versione finora utilizzata, pubblicata nel 2016. A fini",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "116.txt",
+        "context_before": "delle risorse. Dalla raccolta di tali informazioni derivano indicazioni per indirizzare i piani di formazione e di sviluppo delle competenze.",
+        "context_after": "-2 Implementazione di un nuovo sistema integrato per migliorare la gestione e lo sviluppo delle risorse umane 1151",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "31.txt",
+        "context_before": "CON PARTI CORRELATE E SOGGETTI COLLEGATI 3 membri, di cui 1 uomo e 2 donne Tutti indipendenti GRI 102-22 /",
+        "context_after": "-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "109.txt",
+        "context_before": "tutto il processo di gestione delle risorse, dalla fase di selezione alla gestione e sviluppo delle Risorse. GRI 202-1 /",
+        "context_after": "-1 1108",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "71.txt",
+        "context_before": "linea guida riguardo agli aspetti etici e di comportamento dei dipendenii, la Policy deve essere applicata congiuntamente al Codice Etico.",
+        "context_after": "-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "134.txt",
+        "context_before": "chiave di innovazione. 22 Cfr.ll prospetto del Valore economico creato e distribuito contenuto nella sezione Responsabilita Economica GRI 203-2 /",
+        "context_after": "-1 133 |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "89.txt",
+        "context_before": "verificati casi di violazione delle normative vigenti n segnalazioni di non conformitd per cid che riguarda i processi di comunicazione.",
+        "context_after": "-2 / GRI 417-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "90.txt",
+        "context_before": "il ripetersi della fattispecie. A seguito di tali comunicazioni non  ad oggi pervenuto alcun reclamo da parte della clientela.",
+        "context_after": "-1 Le societa del Gruppo si sono dotate di misure tecniche e modello organizzativo ai sensi del GDPR 89]",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "111.txt",
+        "context_before": "previsto dalliniziativa. Uutilizzo di tali strumenti ha inciso inoltre positivamente sullefficientamento ambientale, cui si rimanda al relativo paragrafo Responsabilita ambientale.",
+        "context_after": "",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": {
+        "page": "120.txt",
+        "context_before": "sezione Viaggi & Turismo, il corso di sci a Madesimo, il tour dello Sri Lanka, della Cina, Messico e Guatemala.",
+        "context_after": "119]",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-3": {
+        "page": "121.txt",
+        "context_before": "pubblicato nella Dichiarazione Consolidata di carattere non finanziario 2018, cui si rinvia al documento pubblicato sul sito web del Gruppo.",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402-1": {
+        "page": "123.txt",
+        "context_before": "della contrattazione con gli organismi sindacali aziendali in tema di operazioni di Ristrutturazione e o riorganizzazione e trasferimento di azienda.",
+        "context_after": "",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-1": {
+        "page": "124.txt",
+        "context_before": "e Sicurezza con opportuni incontri di formazione, sia del proprio personale, sia di tutti coloro che operano per conto dellOrganizzazione.",
+        "context_after": "123 |",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": {
+        "page": "125.txt",
+        "context_before": "viene garantita per il tramite della Direzione Risorse. Per maggiori dettagli si rimanda al paragrafo Promozione della salute dei lavoratori.",
+        "context_after": "/ GRI 403-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-3": {
+        "page": "125.txt",
+        "context_before": "il tramite della Direzione Risorse. Per maggiori dettagli si rimanda al paragrafo Promozione della salute dei lavoratori. GRI 403-2 /",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-4": {
+        "page": "126.txt",
+        "context_before": "non solo connesse alll attivita lavorativa, ma anche di aiuto a comprendere e identificare i fattori di stress e benessere.",
+        "context_after": "/ GRI 403-5 / GRI 403-6 1251",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-5": {
+        "page": "126.txt",
+        "context_before": "alll attivita lavorativa, ma anche di aiuto a comprendere e identificare i fattori di stress e benessere. GRI 403-4 /",
+        "context_after": "/ GRI 403-6 1251",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-6": {
+        "page": "126.txt",
+        "context_before": "ma anche di aiuto a comprendere e identificare i fattori di stress e benessere. GRI 403-4 / GRI 403-5 /",
+        "context_after": "1251",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-7": {
+        "page": "127.txt",
+        "context_before": "si fornisce il dettaglio degli infortuni registrati nel 2019 suddiviso per genere. 20 Siveda anche paragrafo successivo Infortuni sul lavoro.",
+        "context_after": "/ GRI 403-9",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-8": false,
+    "GRI 403-9": {
+        "page": "127.txt",
+        "context_before": "dettaglio degli infortuni registrati nel 2019 suddiviso per genere. 20 Siveda anche paragrafo successivo Infortuni sul lavoro. GRI 403-7 /",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": {
+        "page": "116.txt",
+        "context_before": "delle risorse. Dalla raccolta di tali informazioni derivano indicazioni per indirizzare i piani di formazione e di sviluppo delle competenze.",
+        "context_after": "Implementazione di un nuovo sistema integrato per migliorare la gestione e lo sviluppo delle risorse umane 1151",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "31.txt",
+        "context_before": "CON PARTI CORRELATE E SOGGETTI COLLEGATI 3 membri, di cui 1 uomo e 2 donne Tutti indipendenti GRI 102-22 /",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": {
+        "page": "108.txt",
+        "context_before": "web del Gruppo. Nel Piano di Sostenibilita 2020-22 sono stati definiti specifici target in tema di gender pay-gap (pag. 50).",
+        "context_after": "1071",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406-1": {
+        "page": "109.txt",
+        "context_before": "tutto il processo di gestione delle risorse, dalla fase di selezione alla gestione e sviluppo delle Risorse. GRI 202-1 /",
+        "context_after": "1108",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": {
+        "page": "71.txt",
+        "context_before": "linea guida riguardo agli aspetti etici e di comportamento dei dipendenii, la Policy deve essere applicata congiuntamente al Codice Etico.",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "134.txt",
+        "context_before": "chiave di innovazione. 22 Cfr.ll prospetto del Valore economico creato e distribuito contenuto nella sezione Responsabilita Economica GRI 203-2 /",
+        "context_after": "133 |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": {
+        "page": "88.txt",
+        "context_before": "fini dell adozione di unimpostazione imperniata sulla concreta cura del cliente. Banco Desio nel perseguimento di tale finalita ha implementato,",
+        "context_after": "Implementata la normativa sulla Product Governance Bancaria 871",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-2": {
+        "page": "89.txt",
+        "context_before": "verificati casi di violazione delle normative vigenti n segnalazioni di non conformitd per cid che riguarda i processi di comunicazione.",
+        "context_after": "/ GRI 417-3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-3": {
+        "page": "89.txt",
+        "context_before": "violazione delle normative vigenti n segnalazioni di non conformitd per cid che riguarda i processi di comunicazione. GRI 417-2 /",
+        "context_after": "",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418-1": {
+        "page": "90.txt",
+        "context_before": "il ripetersi della fattispecie. A seguito di tali comunicazioni non  ad oggi pervenuto alcun reclamo da parte della clientela.",
+        "context_after": "Le societa del Gruppo si sono dotate di misure tecniche e modello organizzativo ai sensi del GDPR 89]",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "169.txt",
+        "context_before": "65 103-2 Modalita di gestione e sue component 100-104; 116-120; 122 103-3 Valutazione delle modalita di gestione 100-104; 116-120; 122",
+        "context_after": "Nuove assunzioni e turnover 102-104 401-2 Benefit previsti per i dipendenti a tempo pieno, ma non per i dipendenti part-time",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "169.txt",
+        "context_before": "sue component 100-104; 116-120; 122 103-3 Valutazione delle modalita di gestione 100-104; 116-120; 122 401-1 Nuove assunzioni e turnover 102-104",
+        "context_after": "Benefit previsti per i dipendenti a tempo pieno, ma non per i dipendenti part-time o a contratto a tempo determinato",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-3": {
+        "page": "169.txt",
+        "context_before": "previsti per i dipendenti a tempo pieno, ma non per i dipendenti part-time o a contratto a tempo determinato 119",
+        "context_after": "Congedo parentale 120 103-1 Spiegazione del tema materiale e relativo perimetro 65 103-2 Modalita di gestione e sue component 22",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "169.txt",
+        "context_before": "materiale e relativo perimetro 65 103-2 Modalita di gestione e sue component 22 103-3 Valutazione delle modalita di gestione 22",
+        "context_after": "Periodo minimo di preavwviso per cambiamenti organizzativi 22 103-1 Spiegazione del tema materiale e relativo perimetro 65 103-2 Modalita di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "169.txt",
+        "context_before": "materiale e relativo perimetro 65 103-2 Modalita di gestione e sue component 23-127 103-3 Valutazione delle modalita di gestione 23-127",
+        "context_after": "Sistema di gestione della salute e sicurezza sul lavoro 23 403-2 Identificazione dei pericoli, valutazione dei rischi e indagini sugli",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "169.txt",
+        "context_before": "component 23-127 103-3 Valutazione delle modalita di gestione 23-127 403-1 Sistema di gestione della salute e sicurezza sul lavoro 23",
+        "context_after": "Identificazione dei pericoli, valutazione dei rischi e indagini sugli incendi 24 403-3 Servizi di medicina del lavoro 24 403-4 Partecipazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "169.txt",
+        "context_before": "gestione della salute e sicurezza sul lavoro 23 403-2 Identificazione dei pericoli, valutazione dei rischi e indagini sugli incendi 24",
+        "context_after": "Servizi di medicina del lavoro 24 403-4 Partecipazione e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "169.txt",
+        "context_before": "23 403-2 Identificazione dei pericoli, valutazione dei rischi e indagini sugli incendi 24 403-3 Servizi di medicina del lavoro 24",
+        "context_after": "Partecipazione e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza sul lavoro 25 403-5 Formazione di lavoratori",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-5": {
+        "page": "169.txt",
+        "context_before": "del lavoro 24 403-4 Partecipazione e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza sul lavoro 25",
+        "context_after": "Formazione di lavoratori in materia di salute e sicurezza sul lavoro 25 403-6 Promozione della salute dei lavoratori 25 403-7",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "403-6": {
+        "page": "169.txt",
+        "context_before": "di salute e sicurezza sul lavoro 25 403-5 Formazione di lavoratori in materia di salute e sicurezza sul lavoro 25",
+        "context_after": "Promozione della salute dei lavoratori 25 403-7 Prevenzione e mitigazione degli impatti in materia di salute e sicurezza sul lavoro",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "403-7": {
+        "page": "169.txt",
+        "context_before": "403-5 Formazione di lavoratori in materia di salute e sicurezza sul lavoro 25 403-6 Promozione della salute dei lavoratori 25",
+        "context_after": "Prevenzione e mitigazione degli impatti in materia di salute e sicurezza sul lavoro allinterno delle relazioni commercial 26",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-8": false,
+    "403-9": {
+        "page": "170.txt",
+        "context_before": "GRI content index 7 Banco Desio Specific Standard Disclosure GRI Standard Disclosure Pag.",
+        "context_after": "404-Formazione Infortuni sul lavoro 126-127 e istruzione (2016) 103- Spiegazione del tema materiale e relativo perimetro 65 103-2 Modalita di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-10": false,
+    "404-1": false,
+    "404-2": {
+        "page": "170.txt",
+        "context_before": "e sue componenti 109-114 103-3 Valutazione delle modalita di gestione 109-114 404- Ore medie di formazione annua per dipendente 112-113-114",
+        "context_after": "Programmi di aggiornamento delle competenze dei dipendenti e programmi si assistenza alla transizione | 115 405-Diversita e pari opportunita (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": false,
+    "405-1": {
+        "page": "31.txt",
+        "context_before": "PARTI CORRELATE E SOGGETTI COLLEGATI 3 membri, di cui 1 uomo e 2 donne Tutti indipendenti GRI 102-22 / GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "170.txt",
+        "context_before": "30-31; 105-108 103-3 Valutazione delle modalita di gestione 30-31; 105-108 405- Diversitd nellOrgano di governo e nei dipendenti 31; 105-106",
+        "context_after": "Rapporto tra lo stipendio base e la retribuzione complessiva delle donne rispetto agli uomini 107 406-Non discriminazione (2016) 103- Spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "109.txt",
+        "context_before": "il processo di gestione delle risorse, dalla fase di selezione alla gestione e sviluppo delle Risorse. GRI 202-1 / GRI",
+        "context_after": "1108",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": {
+        "page": "71.txt",
+        "context_before": "guida riguardo agli aspetti etici e di comportamento dei dipendenii, la Policy deve essere applicata congiuntamente al Codice Etico. GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": false,
+    "413-1": {
+        "page": "171.txt",
+        "context_before": "materiale e relativo perimetro 65 103-2 Modalita di gestione e sue component 133-136 103-3 Valutazione delle modalita di gestione 133-136",
+        "context_after": "Attivita che prevedono il coinvolgimento delle comunitd local, valutazioni di impatto e programmi di svilulppo 133-136 417-Marketing ed etichettatura (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": {
+        "page": "88.txt",
+        "context_before": "dell adozione di unimpostazione imperniata sulla concreta cura del cliente. Banco Desio nel perseguimento di tale finalita ha implementato, GRI",
+        "context_after": "Implementata la normativa sulla Product Governance Bancaria 871",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "89.txt",
+        "context_before": "casi di violazione delle normative vigenti n segnalazioni di non conformitd per cid che riguarda i processi di comunicazione. GRI",
+        "context_after": "/ GRI 417-3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "417-3": {
+        "page": "89.txt",
+        "context_before": "delle normative vigenti n segnalazioni di non conformitd per cid che riguarda i processi di comunicazione. GRI 417-2 / GRI",
+        "context_after": "",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "418-1": {
+        "page": "90.txt",
+        "context_before": "ripetersi della fattispecie. A seguito di tali comunicazioni non  ad oggi pervenuto alcun reclamo da parte della clientela. GRI",
+        "context_after": "Le societa del Gruppo si sono dotate di misure tecniche e modello organizzativo ai sensi del GDPR 89]",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "70.txt",
+        "context_before": "per la non conformitd con leggi e/o normative in materia sociale ed economica. GRI 102-17 / GRI 2060-1 / GRE",
+        "context_after": "Erogata formazione a tutto il personale sulle tematiche di whistleblowing 691",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    }
+}

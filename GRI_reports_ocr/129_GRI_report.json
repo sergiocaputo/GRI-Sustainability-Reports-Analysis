@@ -1,0 +1,667 @@
+{
+    "GRI 200": {
+        "page": "53.txt",
+        "context_before": "Report 102-111 102-56 External assurance 2019 Integrated Report 2; 113-115 TOPIC-SPECIFIC STANDARDS GRI Standard Disclosure References Notes and pages Omissions",
+        "context_after": ": ECONOMIC SERIES Topic: Economic Performance GRI-103: Management Approach (2016) 103-1  Explanation of the material topic and its Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "53.txt",
+        "context_before": "S.16-S.19 103-3 Evaluation of the management approach 2019 Integrated Report | 20; 33; 65; 89-90; $.16-S.19 GRI-201: Economic Performance (2016)",
+        "context_after": " Direct economic value generated and distributed 2019 Integrated Report | S.2-S.3 201-2  Financial implications and other risks and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "57.txt",
+        "context_before": "413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1",
+        "context_after": "; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": {
+        "page": "53.txt",
+        "context_before": "201-2  Financial implications and other risks and 2019 Integrated Report | 24-25; 44; 94-101 opportunities due to climate change",
+        "context_after": " Defined benefit plan obligations and other 2019 Integrated Report S.41 retirement plans 2019 Annual Reports and Accounts Topic: Indirect",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": false,
+    "202-1": {
+        "page": "57.txt",
+        "context_before": "Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8;",
+        "context_after": "; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "57.txt",
+        "context_before": "GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1;",
+        "context_after": "; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "53.txt",
+        "context_before": "UN Global Compact = GRI Content Index GRI Standard Disclosure References Notes and pages Omissions GRI-203: Indirect Economic Impacts (2016)",
+        "context_after": " Infrastructure investments and services supported 2019 Integrated Report | 75-83 203-2  Significant indirect economic impacts 2019 Integrated Report",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "53.txt",
+        "context_before": "and pages Omissions GRI-203: Indirect Economic Impacts (2016) 203-1  Infrastructure investments and services supported 2019 Integrated Report | 75-83",
+        "context_after": " Significant indirect economic impacts 2019 Integrated Report | 75-83 GRI-103: Management Approach (2016) 103-1  Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": false,
+    "205-1": {
+        "page": "57.txt",
+        "context_before": "305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17;",
+        "context_after": "; 205-2; 205-3; 415-1 Deloitte & Touche S.p.A. = Via Tortona 25, e oO j e 20144 Milano e Italia",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "205-2": {
+        "page": "57.txt",
+        "context_before": "305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1;",
+        "context_after": "; 205-3; 415-1 Deloitte & Touche S.p.A. = Via Tortona 25, e oO j e 20144 Milano e Italia Tel:",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "57.txt",
+        "context_before": "305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2;",
+        "context_after": "; 415-1 Deloitte & Touche S.p.A. = Via Tortona 25, e oO j e 20144 Milano e Italia Tel: +39",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "53.txt",
+        "context_before": "S.21-S.23; 5.25 103-3  Evaluation of the management approach 2019 Integrated Report | 28-29; S.21-S.23; 5.25 GRI-206: Anti-Competitive Practices (2016)",
+        "context_after": " Legal actions for anti-competitive behavior, | 2019 Integrated Report S.26 anti-trust, and monopoly practices 2019 Annual Reports and Accounts",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "53.txt",
+        "context_before": " Legal actions for anti-competitive behavior, | 2019 Integrated Report S.26 anti-trust, and monopoly practices 2019 Annual Reports and Accounts",
+        "context_after": ": ENVIRONMENTAL SERIES Topic: Materials GRI-103: Management Approach (2016) 103-1 | Explanation of the material topic and its Boundary 2019",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "54.txt",
+        "context_before": "2019 Integrated Report Notes and pages Omissions 5.55; Pro-capita data is calculated using the energy consumption reported in the Disclosure",
+        "context_after": "-1. 91-92; 5.55 91-92; 5.55 S.55; In 2019, the total water withdrawal from public water mains or other water services",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "54.txt",
+        "context_before": "2019 Integrated Report Notes and pages Omissions 5.55; Pro-capita data is calculated using the energy consumption reported in the Disclosure",
+        "context_after": ". 91-92; 5.55 91-92; 5.55 S.55; In 2019, the total water withdrawal from public water mains or other water services",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "57.txt",
+        "context_before": "413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2;",
+        "context_after": "; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "57.txt",
+        "context_before": "102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1;",
+        "context_after": "; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "57.txt",
+        "context_before": "302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5;",
+        "context_after": "; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1 Deloitte & Touche S.p.A. =",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "57.txt",
+        "context_before": "412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1;",
+        "context_after": "; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "57.txt",
+        "context_before": "202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1;",
+        "context_after": "; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "57.txt",
+        "context_before": "401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2;",
+        "context_after": "; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "57.txt",
+        "context_before": "401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3;",
+        "context_after": "; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "57.txt",
+        "context_before": "404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4;",
+        "context_after": "; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "57.txt",
+        "context_before": "414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1;",
+        "context_after": "; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "57.txt",
+        "context_before": "405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1;",
+        "context_after": "; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "57.txt",
+        "context_before": "405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2;",
+        "context_after": "; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "57.txt",
+        "context_before": "406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3;",
+        "context_after": "; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "57.txt",
+        "context_before": "201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1;",
+        "context_after": "; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": {
+        "page": "57.txt",
+        "context_before": "301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2;",
+        "context_after": "; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-4": {
+        "page": "57.txt",
+        "context_before": "302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3;",
+        "context_after": "; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-1": {
+        "page": "57.txt",
+        "context_before": "414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1;",
+        "context_after": "; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "57.txt",
+        "context_before": "102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1;",
+        "context_after": "; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "57.txt",
+        "context_before": "407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2;",
+        "context_after": "; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "57.txt",
+        "context_before": "305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3;",
+        "context_after": "; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "57.txt",
+        "context_before": "305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4;",
+        "context_after": "; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "57.txt",
+        "context_before": "402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3;",
+        "context_after": "; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "57.txt",
+        "context_before": "409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6;",
+        "context_after": "301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "57.txt",
+        "context_before": "301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7;",
+        "context_after": "; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "57.txt",
+        "context_before": "302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1;",
+        "context_after": "; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1 Deloitte",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": {
+        "page": "57.txt",
+        "context_before": "302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2;",
+        "context_after": "; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1 Deloitte &",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "306-4": {
+        "page": "57.txt",
+        "context_before": "302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3;",
+        "context_after": "; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1 Deloitte & Touche",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "306-5": {
+        "page": "57.txt",
+        "context_before": "302-4; 302-5; 303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4;",
+        "context_after": "; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1 Deloitte & Touche S.p.A.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "307-1": {
+        "page": "57.txt",
+        "context_before": "303-1; 303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3;",
+        "context_after": "; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1 Deloitte & Touche S.p.A. = Via",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "57.txt",
+        "context_before": "303-2; 303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1;",
+        "context_after": "; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1 Deloitte & Touche S.p.A. = Via Tortona",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "57.txt",
+        "context_before": "303-3; 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1;",
+        "context_after": "; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3; 415-1 Deloitte & Touche S.p.A. = Via Tortona 25,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": {
+        "page": "55.txt",
+        "context_before": "GRI Content Index and UN Global Compact = GRI Content Index GRI Standard",
+        "context_after": ": SOCIAL SERIES Topic: Employment Disclosure References Notes and pages Omissions GRI-103: Management Approach (2016) 103-1  Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "76.txt",
+        "context_before": "of the two-year calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the",
+        "context_after": "-1 Disclosure. For the historical data published in the past, please refer to the 2018 Integrated Report. C. Due to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": false,
+    "GRI 404": false,
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "76.txt",
+        "context_before": "of the two-year calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the",
+        "context_after": "Disclosure. For the historical data published in the past, please refer to the 2018 Integrated Report. C. Due to improved",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "76.txt",
+        "context_before": "the two-year calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the GRI",
+        "context_after": "Disclosure. For the historical data published in the past, please refer to the 2018 Integrated Report. C. Due to improved",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "55.txt",
+        "context_before": "- 6; 47; 67-68 GRI-401: Employment (2016) 401-1  New employee hires and employee turnover 2019 Integrated Report | 34-35",
+        "context_after": " Benefits provided to full-time employees that 2019 Integrated Report S.40;S.42-S.43; In are not provided to temporary or part-time nearly",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "57.txt",
+        "context_before": "Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1;",
+        "context_after": "; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3;",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "57.txt",
+        "context_before": "UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1;",
+        "context_after": "409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "55.txt",
+        "context_before": "Integrated Report 5.44 103-3  Evaluation of the management approach 2019 Integrated Report 5.44 GRI-403: Occupational Health and Safety (2016)",
+        "context_after": " Workers representation in formal joint 2019 Integrated Report | S.45 managementworker health and safety committees 403-2  Types of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "55.txt",
+        "context_before": "and Safety (2016) 403-1  Workers representation in formal joint 2019 Integrated Report | S.45 managementworker health and safety committees",
+        "context_after": " Types of injury and rates of injury, occupational 2019 Integrated Report  S.46-S.47; During 2019 no Data referring to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": false,
+    "403-4": {
+        "page": "55.txt",
+        "context_before": "a death due tonatural - currently causes occurred within unavailable. the UniCredit offices was reported to INAIL as a precaution.",
+        "context_after": " Health and safety topics covered in formal 2019 Integrated Report 5.46 agreements with trade unions Ae) Mee Om endo)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "57.txt",
+        "context_before": "412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3;",
+        "context_after": "; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "55.txt",
+        "context_before": "68-69; 74; 76; 81-83; 85-86; S.37 404-1  Average hours of training per year per employee 2019 Integrated Report -S.36",
+        "context_after": "| Programs for upgrading employee skills and 2019 Integrated Report 67-68; S.43 transition assistance programs 404-3  Percentage of employees",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "57.txt",
+        "context_before": "410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1;",
+        "context_after": "; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "57.txt",
+        "context_before": "411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3;",
+        "context_after": "; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "57.txt",
+        "context_before": "412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1;",
+        "context_after": "; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "57.txt",
+        "context_before": "103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2;",
+        "context_after": "201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1; 301-2; 302-1; 302-2; 302-3; 302-4; 302-5; 303-1; 303-2; 303-3; 304-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "57.txt",
+        "context_before": "112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41;",
+        "context_after": "; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "57.txt",
+        "context_before": "2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1",
+        "context_after": "102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7 301-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "57.txt",
+        "context_before": "+ 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1",
+        "context_after": "408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1; 305-2; 305-3; 305-6; 305-7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": {
+        "page": "57.txt",
+        "context_before": "against corruption in all its forms, including extortion and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2;",
+        "context_after": "; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": {
+        "page": "57.txt",
+        "context_before": "corruption in all its forms, including extortion and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1;",
+        "context_after": "; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-1": {
+        "page": "57.txt",
+        "context_before": "in all its forms, including extortion and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1;",
+        "context_after": "; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "57.txt",
+        "context_before": "work against corruption in all its forms, including extortion and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures",
+        "context_after": "; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "57.txt",
+        "context_before": "including extortion and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2",
+        "context_after": "; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "57.txt",
+        "context_before": "its forms, including extortion and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2;",
+        "context_after": "; 413-2 412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "57.txt",
+        "context_before": "forms, including extortion and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1;",
+        "context_after": "412-3; 414-1; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": {
+        "page": "57.txt",
+        "context_before": "extortion and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3;",
+        "context_after": "; 414-2 102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "57.txt",
+        "context_before": "and bribery 112 UniCredit + 2019 Integrated Report GRI Standards Disclosures 412-2; 410-1; 411-1; 412-1; 103-2; 413-1; 413-2 412-3; 414-1;",
+        "context_after": "102-41; 407-1; 402-1 409-1 408-1 102-8; 202-1; 202-2; 401-1; 401-3; 404-1; 404-3; 405-1; 405-2; 406-1 201-2; 301-1; 302-1; 303-1; 305-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "57.txt",
+        "context_before": "305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 302-4; 302-5; 305-5 102-16; 102-17; 102-17; 205-1; 205-2; 205-3;",
+        "context_after": "Deloitte & Touche S.p.A. = Via Tortona 25, e oO j e 20144 Milano e Italia Tel: +39 02 83322111",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": {
+        "page": "56.txt",
+        "context_before": ": : S.22; S.27 103. 3 Evaluation of the management approach 2019 Integrated Report | 16-17; 24-26; 85-86;  $.22;S.27",
+        "context_after": " Substantiated complaints concerning 2019 Integrated Report  86; In 2019, UniCredit breaches of customer privacy and losses of has",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": false
+}

@@ -1,0 +1,559 @@
+{
+    "GRI 200": {
+        "page": "61.txt",
+        "context_before": "and topic Boundaries pagg. 55-59 02-47 List of material topics pagg. 55-57 02-55 GRI content index pagg. 60-63 Material Topics",
+        "context_after": "Economic Standard Series Procurement Practices GRI 103: Management Approach 03-1 Explanation of the material topic and its Boundary pagg. 38-46;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "61.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 38-46; 55-57 03-2 The management approach and its components pagg. 38-46",
+        "context_after": ": Procurement Practices 204-1 Proportion of spending on local suppliers pagg. 41; 44 Anti-corruption GRI 103: Management Approach 03-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "61.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 53-54; 55-57 03-2 The management approach and its components pagg. 53-54",
+        "context_after": ": Anti-corruption 205-3 Confirmed incidents of corruption and actions taken pag. 53 60",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "59.txt",
+        "context_before": "of the material topic and its Boundary GRI 103-2 The management approach and its components GRI 204  Procurement practices",
+        "context_after": "Proportion of spending on local suppliers GRI 205  Anti-corruption GRI 205-3 Confirmed incidents of corruption and actions taken GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": {
+        "page": "59.txt",
+        "context_before": "and its components GRI 204  Procurement practices GRI 204-1 Proportion of spending on local suppliers GRI 205  Anti-corruption",
+        "context_after": "Confirmed incidents of corruption and actions taken GRI 301  Materials GRI 301-1 Materials used by weight or volume GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "61.txt",
+        "context_before": "topic and its Boundary pagg. 38-46; 55-57 03-2 The management approach and its components pagg. 38-46 GRI 204: Procurement Practices",
+        "context_after": "Proportion of spending on local suppliers pagg. 41; 44 Anti-corruption GRI 103: Management Approach 03-1 Explanation of the material topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "61.txt",
+        "context_before": "material topic and its Boundary pagg. 53-54; 55-57 03-2 The management approach and its components pagg. 53-54 GRI 205: Anti-corruption",
+        "context_after": "Confirmed incidents of corruption and actions taken pag. 53 60",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "62.txt",
+        "context_before": "BRUNELLO CUCINELLI DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2017 GRI Standard Disclosure Page Omission",
+        "context_after": "Environmental Standards Series Materials GRI 103: Management Approach 03-1 Explanation of the material topic and its Boundary pagg. 38-43; 55-57",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": {
+        "page": "62.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 38-43; 55-57 03-2 The management approach and its components pagg. 38-43",
+        "context_after": ": Materials 301-1 Materials used by weight or volume pagg. 41-43 Energy GRI 103: Management Approach 03-1 Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "62.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 47-48; 55-57 03-2 The management approach and its components pagg. 47-48",
+        "context_after": ": Energy 302-1 Energy consumption within the organization pagg. 47-48 Water GRI 103: Management Approach 03-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "62.txt",
+        "context_before": "the material topic and its Boundary pagg. 47; 50-51; 55-57 03-2 The management approach and its components pagg. 47; 50-51",
+        "context_after": ": Water 303-1 Water withdrawal by source pagg. 50-51 Emissions GRI 103: Management Approach 03-1 Explanation of the material topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "62.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 47-49; 55-57 03-2 The management approach and its components pagg. 47-49",
+        "context_after": ": Emissions 305-1 Direct (Scope 1) GHG emissions pag. 48 305-2 Energy indirect (Scope 2) GHG emissions pag. 48 Effluents",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "62.txt",
+        "context_before": "GHG emissions pag. 48 305-2 Energy indirect (Scope 2) GHG emissions pag. 48 Effluents and Waste GRI 103: Management Approach",
+        "context_after": ": Effluents and Waste 03-1 Explanation of the material topic and its Boundary pagg. 47; 50-51; 55-57 03-2 The management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "59.txt",
+        "context_before": "on local suppliers GRI 205  Anti-corruption GRI 205-3 Confirmed incidents of corruption and actions taken GRI 301  Materials",
+        "context_after": "Materials used by weight or volume GRI 302  Energy GRI 302-1 Energy consumption within the organization GRI 303 ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "59.txt",
+        "context_before": "corruption and actions taken GRI 301  Materials GRI 301-1 Materials used by weight or volume GRI 302  Energy",
+        "context_after": "Energy consumption within the organization GRI 303  Water GRI 303-1 Water withdrawal by source GRI 305  Emissions GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "59.txt",
+        "context_before": "used by weight or volume GRI 302  Energy GRI 302-1 Energy consumption within the organization GRI 303  Water",
+        "context_after": "Water withdrawal by source GRI 305  Emissions GRI 305-1 Direct (Scope 1) GHG emissions GRI 305-2 Energy indirect (Scope",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "59.txt",
+        "context_before": "302-1 Energy consumption within the organization GRI 303  Water GRI 303-1 Water withdrawal by source GRI 305  Emissions",
+        "context_after": "Direct (Scope 1) GHG emissions GRI 305-2 Energy indirect (Scope 2) GHG emissions GRI 306  Effluents and waste GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "59.txt",
+        "context_before": "303  Water GRI 303-1 Water withdrawal by source GRI 305  Emissions GRI 305-1 Direct (Scope 1) GHG emissions",
+        "context_after": "Energy indirect (Scope 2) GHG emissions GRI 306  Effluents and waste GRI 306-1 Water discharge by quality and destination",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": {
+        "page": "59.txt",
+        "context_before": "305-1 Direct (Scope 1) GHG emissions GRI 305-2 Energy indirect (Scope 2) GHG emissions GRI 306  Effluents and waste",
+        "context_after": "Water discharge by quality and destination GRI 306-2 Waste by type and disposal method GRI 401  Employment GRI 401-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-2": {
+        "page": "59.txt",
+        "context_before": "Energy indirect (Scope 2) GHG emissions GRI 306  Effluents and waste GRI 306-1 Water discharge by quality and destination",
+        "context_after": "Waste by type and disposal method GRI 401  Employment GRI 401-1 New employee hires and employee turnover GRI 401-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "62.txt",
+        "context_before": "material topic and its Boundary pagg. 38-43; 55-57 03-2 The management approach and its components pagg. 38-43 GRI 301: Materials",
+        "context_after": "Materials used by weight or volume pagg. 41-43 Energy GRI 103: Management Approach 03-1 Explanation of the material topic and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "62.txt",
+        "context_before": "material topic and its Boundary pagg. 47-48; 55-57 03-2 The management approach and its components pagg. 47-48 GRI 302: Energy",
+        "context_after": "Energy consumption within the organization pagg. 47-48 Water GRI 103: Management Approach 03-1 Explanation of the material topic and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "62.txt",
+        "context_before": "and its Boundary pagg. 47; 50-51; 55-57 03-2 The management approach and its components pagg. 47; 50-51 GRI 303: Water",
+        "context_after": "Water withdrawal by source pagg. 50-51 Emissions GRI 103: Management Approach 03-1 Explanation of the material topic and its Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "62.txt",
+        "context_before": "material topic and its Boundary pagg. 47-49; 55-57 03-2 The management approach and its components pagg. 47-49 GRI 305: Emissions",
+        "context_after": "Direct (Scope 1) GHG emissions pag. 48 305-2 Energy indirect (Scope 2) GHG emissions pag. 48 Effluents and Waste GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "62.txt",
+        "context_before": "03-2 The management approach and its components pagg. 47-49 GRI 305: Emissions 305-1 Direct (Scope 1) GHG emissions pag. 48",
+        "context_after": "Energy indirect (Scope 2) GHG emissions pag. 48 Effluents and Waste GRI 103: Management Approach GRI 306: Effluents and Waste",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": {
+        "page": "62.txt",
+        "context_before": "the material topic and its Boundary pagg. 47; 50-51; 55-57 03-2 The management approach and its components pagg. 47; 50-51",
+        "context_after": "Water discharge by quality and destination pagg. 50-51 306-2 Waste by type and disposal method pag. 52 61",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "62.txt",
+        "context_before": "55-57 03-2 The management approach and its components pagg. 47; 50-51 306-1 Water discharge by quality and destination pagg. 50-51",
+        "context_after": "Waste by type and disposal method pag. 52 61",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": {
+        "page": "63.txt",
+        "context_before": "BRUNELLO CUCINELLI DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2017 GRI Standard Disclosure Page Omission",
+        "context_after": "Social Standards Series Employment GRI 103: Management Approach 03-1 Explanation of the material topic and its Boundary pagg. 11-20; 55-57",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "63.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 11-20; 55-57 03-2 The management approach and its components pagg. 11-20",
+        "context_after": ": Employment 401-1 New employee hires and employee turnover pagg. 16-17 401-2 Benefits provided to full-time employees that are not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "63.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 18-19; 55-57 03-2 The management approach and its components pagg. 18-20",
+        "context_after": ": Occupational Health and Safety 403-2 Types of injury and rates of injury, occupational liseases, lost days, and absenteeism, and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "63.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 14-17; 55-57 03-2 The management approach and its components pagg. 14-17",
+        "context_after": ": Training and Education 404-2 Programs for upgrading employee skills and pagg. 14-17 transition assistance programs Diversity and Equal Opportunity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "63.txt",
+        "context_before": "the material topic and its Boundary pagg. 11-14; 17-18; 55-57 03-2 The management approach and its components pagg. 11-14; 17-18",
+        "context_after": ": Diversity and Equal 405-1 Diversity of governance bodies and employees pagg. 13-14 Opportunity 2016 62",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "64.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 17-18; 55-57 103-2 The management approach and its components pagg. 17-18",
+        "context_after": ": Non-discrimination 406-1 Incidents of discrimination and corrective actions taken pag. 17 Child Labor GRI 103: Management Approach 103-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": {
+        "page": "59.txt",
+        "context_before": "Diversity of governance bodies and employees opportunity GRI 406  Non-discrimination GRI 406-1 Incidents of discrimination and corrective actions taken",
+        "context_after": " Child Labor GRI 408-1 Operations and suppliers at significant risk for incidents of child labor GRI 409  Forced",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 409": {
+        "page": "64.txt",
+        "context_before": "the material topic and its Boundary pagg. 54; 55-57 103-2 The management approach and its components pagg. 8-9; 44-46; 53-54",
+        "context_after": ": Forced or Compulsory Labor 409-1 Operations and suppliers at significant risk for incidents of forced or compulsory labor Non",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "64.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 21-37; 55-57 103-2 The management approach and its components pagg. 21-37",
+        "context_after": ": Local Communities 413-1 Operations with local community engagement, impact assessments, and development programs pagg. 21-37 63",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "65.txt",
+        "context_before": "Explanation of the material topic and its Boundary pagg. 44-46; 55-57 103-2 The management approach and its components pagg. 44-46",
+        "context_after": ": Supplier Social Assessment 414-2 Negative social impacts in the supply chain and actions taken pagg. 38-40 Il processo di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "59.txt",
+        "context_before": "GRI 306-1 Water discharge by quality and destination GRI 306-2 Waste by type and disposal method GRI 401  Employment",
+        "context_after": "New employee hires and employee turnover GRI 401-2 Benefits provided to full-time employees that are not provided to temporary or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": {
+        "page": "59.txt",
+        "context_before": "GRI 306-2 Waste by type and disposal method GRI 401  Employment GRI 401-1 New employee hires and employee turnover",
+        "context_after": "Benefits provided to full-time employees that are not provided to temporary or part-time employees GRI 403  Occupational health and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "59.txt",
+        "context_before": "Benefits provided to full-time employees that are not provided to temporary or part-time employees GRI 403  Occupational health and",
+        "context_after": "Types of injury and rates of injury, occupational diseases, lost days, safety and absenteeism, and number of work-related fatalities GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": {
+        "page": "59.txt",
+        "context_before": "of injury, occupational diseases, lost days, safety and absenteeism, and number of work-related fatalities GRI 404  Training and education",
+        "context_after": "Programs for upgrading employee skills and transition assistance programs GRI 405  Diversity and equal GRI 405-1 Diversity of governance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "59.txt",
+        "context_before": "Training and education GRI 404-2 Programs for upgrading employee skills and transition assistance programs GRI 405  Diversity and equal",
+        "context_after": "Diversity of governance bodies and employees opportunity GRI 406  Non-discrimination GRI 406-1 Incidents of discrimination and corrective actions taken",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": {
+        "page": "59.txt",
+        "context_before": "programs GRI 405  Diversity and equal GRI 405-1 Diversity of governance bodies and employees opportunity GRI 406  Non-discrimination",
+        "context_after": "Incidents of discrimination and corrective actions taken GRI 408  Child Labor GRI 408-1 Operations and suppliers at significant risk",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": {
+        "page": "59.txt",
+        "context_before": "employees opportunity GRI 406  Non-discrimination GRI 406-1 Incidents of discrimination and corrective actions taken GRI 408  Child Labor",
+        "context_after": "Operations and suppliers at significant risk for incidents of child labor GRI 409  Forced or Compulsory GRI 409-1 Operations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 409-1": {
+        "page": "59.txt",
+        "context_before": "Labor GRI 408-1 Operations and suppliers at significant risk for incidents of child labor GRI 409  Forced or Compulsory",
+        "context_after": "Operations and suppliers at significant risk for incidents Labor of forced or compulsory labor GRI 413  Local Communities GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "59.txt",
+        "context_before": "409-1 Operations and suppliers at significant risk for incidents Labor of forced or compulsory labor GRI 413  Local Communities",
+        "context_after": "Operations with local community engagement, impact assessments, and development programs GRI 414  Supplier social assessment GRI 414-2 Negative social",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": {
+        "page": "59.txt",
+        "context_before": "Local Communities GRI 413-1 Operations with local community engagement, impact assessments, and development programs GRI 414  Supplier social assessment",
+        "context_after": "Negative social impacts in the supply chain and actions taken 58",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "63.txt",
+        "context_before": "material topic and its Boundary pagg. 11-20; 55-57 03-2 The management approach and its components pagg. 11-20 GRI 401: Employment",
+        "context_after": "New employee hires and employee turnover pagg. 16-17 401-2 Benefits provided to full-time employees that are not pag. 18 provided",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "63.txt",
+        "context_before": "The management approach and its components pagg. 11-20 GRI 401: Employment 401-1 New employee hires and employee turnover pagg. 16-17",
+        "context_after": "Benefits provided to full-time employees that are not pag. 18 provided to temporary or part-time employees Occupational Health and Safety",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": false,
+    "403-1": false,
+    "403-2": {
+        "page": "63.txt",
+        "context_before": "its Boundary pagg. 18-19; 55-57 03-2 The management approach and its components pagg. 18-20 GRI 403: Occupational Health and Safety",
+        "context_after": "Types of injury and rates of injury, occupational liseases, lost days, and absenteeism, and number of work- related fatalities pagg.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": false,
+    "404-2": {
+        "page": "63.txt",
+        "context_before": "and its Boundary pagg. 14-17; 55-57 03-2 The management approach and its components pagg. 14-17 GRI 404: Training and Education",
+        "context_after": "Programs for upgrading employee skills and pagg. 14-17 transition assistance programs Diversity and Equal Opportunity GRI 103: Management Approach 03-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": false,
+    "405-1": {
+        "page": "63.txt",
+        "context_before": "Boundary pagg. 11-14; 17-18; 55-57 03-2 The management approach and its components pagg. 11-14; 17-18 GRI 405: Diversity and Equal",
+        "context_after": "Diversity of governance bodies and employees pagg. 13-14 Opportunity 2016 62",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": {
+        "page": "64.txt",
+        "context_before": "material topic and its Boundary pagg. 17-18; 55-57 103-2 The management approach and its components pagg. 17-18 GRI 406: Non-discrimination",
+        "context_after": "Incidents of discrimination and corrective actions taken pag. 17 Child Labor GRI 103: Management Approach 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": {
+        "page": "64.txt",
+        "context_before": "Boundary pagg. 54; 55-57 103-2 The management approach and its components pagg. 8-9; 44-46; 53-54 Q a 408: Child Labor",
+        "context_after": "Operations and suppliers at significant risk for incidents of child labor Non sono state identificate situazioni a rischio di violazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "64.txt",
+        "context_before": "pagg. 54; 55-57 103-2 The management approach and its components pagg. 8-9; 44-46; 53-54 GRI 409: Forced or Compulsory Labor",
+        "context_after": "Operations and suppliers at significant risk for incidents of forced or compulsory labor Non sono state identificate situazioni a rischio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "64.txt",
+        "context_before": "topic and its Boundary pagg. 21-37; 55-57 103-2 The management approach and its components pagg. 21-37 GRI 413: Local Communities",
+        "context_after": "Operations with local community engagement, impact assessments, and development programs pagg. 21-37 63",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": false,
+    "414-2": {
+        "page": "65.txt",
+        "context_before": "and its Boundary pagg. 44-46; 55-57 103-2 The management approach and its components pagg. 44-46 GRI 414: Supplier Social Assessment",
+        "context_after": "Negative social impacts in the supply chain and actions taken pagg. 38-40 Il processo di valutazione dei fornitori secondo criteri",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": false
+}

@@ -1,0 +1,727 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "328.txt",
+        "context_before": "38-39; 46-47, 53- management approach 65; 200-208 201-1 Direct economic value Performance indicators, seo. At generated and distributed a Glance",
+        "context_after": ": Economic 201-2 Financial implications and 14-15; 24-25; 38-39; 46-47; 53- Performance 2016 other risks and opportunities due ge ha",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "328.txt",
+        "context_before": "The management approach Management and its com rete pe Hees Approach 2016 ei 103-3 Evaluation of the  management approach",
+        "context_after": ": 204-1 Proportion of spending on Performance indicators, sec Procurement $ * Procticen sot: local suppliers Sustainable supply chain ANTI-CORRUPTION",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "328.txt",
+        "context_before": "Evaluation of the SOE ESA management approach : 205-2 Communication and training about anti-corruption 222-224 policies and procedures 222-223; Performance",
+        "context_after": ": Anti- indicators, sec. Sound corruption 2016 205-3 Confirmed incidents of corruption and actions taken governance Besides the information on",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": {
+        "page": "328.txt",
+        "context_before": "236-239 Tease nt 103.2The management approach 955 594 Approach 2016 and its components 103-3 Evaluation of the IDA management approach",
+        "context_after": ": 206-1 Legal actions for anti- 29 legal actions have been Anti-competitive competitive behavior, anti-trust, recorded in 2019 (19 in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "328.txt",
+        "context_before": "components 65; 200-208 Approach 2016 e : 103-3 Evaluation of the 14-15; 24-25; 38-39; 46-47, 53- management approach 65; 200-208",
+        "context_after": "Direct economic value Performance indicators, seo. At generated and distributed a Glance GRI 201: Economic 201-2 Financial implications and 14-15;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "39.txt",
+        "context_before": "103-3 | |",
+        "context_after": "[EXE Sustainability Report Ata Glance Sound govemance Performance indicators [ELD Annual Report Report on corporate governance Remuneration report 296 sicwn,,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": false,
+    "201-4": {
+        "page": "328.txt",
+        "context_before": "and 14-15; 24-25; 38-39; 46-47; 53- Performance 2016 other risks and opportunities due ge ha one to climate change 7",
+        "context_after": "Financial assistance Performance indicators, sec. received from government Sound governance PROCUREMENT PRACTICES 103-1 Explanation of the material 16 19, 096.039",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": {
+        "page": "326.txt",
+        "context_before": "and opportunities 8-10; 14-18; 20-21; 24-25; 34- 39; 45-47; 53-55; 74-77; 90-93; 106-107; 124-127; 142-145; 152-155; 166-167; 172; 190-193; 197-199;",
+        "context_after": "08; 222-223 ETHICS AND INTEGRITY 102-16 Values, principles, standards, and norms of behavior 85-86; 224-225 102-17 Mechanisms for advice and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "309.txt",
+        "context_before": "Communities and shared value Ores KPI UM |DEESECPEEIIEy) December 2018 December 2017 | 2019-2018 % Scope",
+        "context_after": "INITIATIVES IN FAVOR 1 OFTHE COMMUNITY Contributions to communities - LBG method Charitable donations\" vie 46 57 10.3 12-207 Enel",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "203-2": {
+        "page": "328.txt",
+        "context_before": "249-251 Material Topics 200 series (Economic topics) ECONOMIC PERFORMANCE 103-1 Explanation of the material topic and its boundary 27; 29-32;",
+        "context_after": "06 Gt: 103-2 The management approach 14-16, 24-25; 38-39, 46-47, 53- Wepegemert and its components 65; 200-208 Approach 2016 e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "328.txt",
+        "context_before": "approach Management and its com rete pe Hees Approach 2016 ei 103-3 Evaluation of the  management approach GRI 204:",
+        "context_after": "Proportion of spending on Performance indicators, sec Procurement $ * Procticen sot: local suppliers Sustainable supply chain ANTI-CORRUPTION 103-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "328.txt",
+        "context_before": "103-2 The management approach 200-208; 222-224 Approach 2016 and its components 103-3 Evaluation of the SOE ESA management approach :",
+        "context_after": "Communication and training about anti-corruption 222-224 policies and procedures 222-223; Performance GRI 205: Anti- indicators, sec. Sound corruption 2016 205-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "328.txt",
+        "context_before": "205-2 Communication and training about anti-corruption 222-224 policies and procedures 222-223; Performance GRI 205: Anti- indicators, sec. Sound corruption 2016",
+        "context_after": "Confirmed incidents of corruption and actions taken governance Besides the information on reports concerning the Code of Ethics, no other",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "328.txt",
+        "context_before": "nt 103.2The management approach 955 594 Approach 2016 and its components 103-3 Evaluation of the IDA management approach GRI 206:",
+        "context_after": "Legal actions for anti- 29 legal actions have been Anti-competitive competitive behavior, anti-trust, recorded in 2019 (19 in Italy, 5",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "329.txt",
+        "context_before": "Approach 2016 and its components 103-3 Evaluation of the 170-173 management approach 301-1 Materials used by weight Performance indicators, sec.",
+        "context_after": ": Materials _or volume Environmental sustainability 2016 301-2 Recycled input materials Performance indicators, sec. used Environmental sustainability ENERGY 103-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302": {
+        "page": "329.txt",
+        "context_before": "103-3 Evaluation of the OTT ATIAIE management approach 302-1 Energy consumption within 70-71; 177-178; Performance the organization indicators, sec. Environmental",
+        "context_after": ": sustainability Energy 2016 302-3 Energy intensity 177-178 302-4 Reduction of energy 177-178 consumption WATER 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303": {
+        "page": "73.txt",
+        "context_before": "rn Generation with water consumption in water stressed areas % 8 8 - - Following Enel's adoption of the new",
+        "context_after": "in 2018, requirements refer to the total amount of water withdrawn, including reuse of wastewater, necessary for plant operation. The",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304": {
+        "page": "329.txt",
+        "context_before": "184-187 Approach 2016 and its components 103-3 Evaluation of the HOTS eLaF management approach 304-4 IUCN Red List species and",
+        "context_after": ": national conservation list species 194 197 Biodiversity 2016 with habitats in areas affected by operations EMISSIONS a3 Eoeiay 2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "330.txt",
+        "context_before": "emissions 66-67; Performance indicators, sec. Environmental sustainability 305-2 Energy indirect (Scope 2) GHG emissions 66-67; Performance indicators, sec. Environmental sustainability",
+        "context_after": ": Emissions 2016 305-3 Other indirect (Scope 3) GHG emissions 66-67; Performance indicators, sec. Environmental sustainability 305-4 GHG emissions intensity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306": {
+        "page": "330.txt",
+        "context_before": "Management Approach 2016 103-2 The management approach and its components 170-173; 181-183 103-3 Evaluation of the management approach 170-173; 181-183",
+        "context_after": ": Effluents 306-2 Waste by type and disposal 181-182; Performance indicators, sec. Environmental and Waste 2016 method sustainability ENVIRONMENTAL COMPLIANCE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "330.txt",
+        "context_before": "103-2 The management approach 479 479. 194 Approach 2016 and its components 103-3 Evaluation of the TOTP a management approach",
+        "context_after": ": 307-1 Nor-compliance with 191; Performance indicators, Environmental environmental laws and sec. Environmental Compliance 2016 regulations sustainability SUPPLIER ENVIRONMENTAL ASSESSMENT",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": {
+        "page": "330.txt",
+        "context_before": "GRI 103: 103-2 The management approach ener as and its components as 103-3 Evaluation of the management approach 156-165; 170-173",
+        "context_after": ": Supplier 308-1 New suppliers that were Environmental screened using environmental 161 Assessment 2016 criteria 400 series (Social topics) EMPLOYMENT",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "329.txt",
+        "context_before": "GRI 103: Management tag 2ths manegetnett approach 170-173 Approach 2016 and its components 103-3 Evaluation of the 170-173 management approach",
+        "context_after": "Materials used by weight Performance indicators, sec. GRI 301: Materials _or volume Environmental sustainability 2016 301-2 Recycled input materials Performance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "301-2": {
+        "page": "329.txt",
+        "context_before": "the 170-173 management approach 301-1 Materials used by weight Performance indicators, sec. GRI 301: Materials _or volume Environmental sustainability 2016",
+        "context_after": "Recycled input materials Performance indicators, sec. used Environmental sustainability ENERGY 103-1 Explanation of the material 16-19; 236-239 GRI 103: topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "329.txt",
+        "context_before": "The management approach Approach 2016 and its components WO ISE NET TE 103-3 Evaluation of the OTT ATIAIE management approach",
+        "context_after": "Energy consumption within 70-71; 177-178; Performance the organization indicators, sec. Environmental GRI 302: sustainability Energy 2016 302-3 Energy intensity 177-178",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "329.txt",
+        "context_before": "ATIAIE management approach 302-1 Energy consumption within 70-71; 177-178; Performance the organization indicators, sec. Environmental GRI 302: sustainability Energy 2016",
+        "context_after": "Energy intensity 177-178 302-4 Reduction of energy 177-178 consumption WATER 103-1 Explanation of the material GRI 103 topic and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-4": {
+        "page": "329.txt",
+        "context_before": "Energy consumption within 70-71; 177-178; Performance the organization indicators, sec. Environmental GRI 302: sustainability Energy 2016 302-3 Energy intensity 177-178",
+        "context_after": "Reduction of energy 177-178 consumption WATER 103-1 Explanation of the material GRI 103 topic and its boundary 1e'19):236-289 Management 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "329.txt",
+        "context_before": "Management 103-2 The management approach Approach 2016 and its components 170-173; 178-180 103-3 Evaluation of the management approach 170-173; 178-180",
+        "context_after": "Interactions with water as a shared resource 178-180 303-2 Management of water GRI303:Waterand: os nargeented impacts 178-180 Effluents 2018 303-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "329.txt",
+        "context_before": "components 170-173; 178-180 103-3 Evaluation of the management approach 170-173; 178-180 303-1 Interactions with water as a shared resource 178-180",
+        "context_after": "Management of water GRI303:Waterand: os nargeented impacts 178-180 Effluents 2018 303-3 Water withdrawal 72-73; 178-180 Performance indicators, sec. Environmental sustainability",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-3": {
+        "page": "329.txt",
+        "context_before": "303-1 Interactions with water as a shared resource 178-180 303-2 Management of water GRI303:Waterand: os nargeented impacts 178-180 Effluents 2018",
+        "context_after": "Water withdrawal 72-73; 178-180 Performance indicators, sec. Environmental sustainability BIODIVERSITY 108-1 Explanation of the material 16 19. 936.099 topic and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": {
+        "page": "329.txt",
+        "context_before": "management approach Management 9 PPI 170-173; 184-187 Approach 2016 and its components 103-3 Evaluation of the HOTS eLaF management approach",
+        "context_after": "IUCN Red List species and GRI 304: national conservation list species 194 197 Biodiversity 2016 with habitats in areas affected",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-1": {
+        "page": "67.txt",
+        "context_before": "Enels performance in the fight against climate change 3] [",
+        "context_after": "] [305-2] [305-3] [305-4] [305-5] [305-6] Direct and indirect GHG (greenhouse gas) emissions The trend of direct and indirect greenhouse",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "67.txt",
+        "context_before": "Enels performance in the fight against climate change 3] [305-1] [",
+        "context_after": "] [305-3] [305-4] [305-5] [305-6] Direct and indirect GHG (greenhouse gas) emissions The trend of direct and indirect greenhouse gas",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "67.txt",
+        "context_before": "Enels performance in the fight against climate change 3] [305-1] [305-2] [",
+        "context_after": "] [305-4] [305-5] [305-6] Direct and indirect GHG (greenhouse gas) emissions The trend of direct and indirect greenhouse gas emissions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "9.txt",
+        "context_before": "[02-2] [7102-4] [102-5] [102-6 ] [102-7] [102-15] [",
+        "context_after": "] [405-7] [EUT EU2 | [EUs EU4 | [EUi8 Sustainable business model The Enel Group is presentin more than30 229.1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "67.txt",
+        "context_before": "Enels performance in the fight against climate change 3] [305-1] [305-2] [305-3] [305-4] [",
+        "context_after": "] [305-6] Direct and indirect GHG (greenhouse gas) emissions The trend of direct and indirect greenhouse gas emissions over the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "67.txt",
+        "context_before": "Enels performance in the fight against climate change 3] [305-1] [305-2] [305-3] [305-4] [305-5] [",
+        "context_after": "] Direct and indirect GHG (greenhouse gas) emissions The trend of direct and indirect greenhouse gas emissions over the past",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "330.txt",
+        "context_before": "3) GHG emissions 66-67; Performance indicators, sec. Environmental sustainability 305-4 GHG emissions intensity 8-9; 66-67; Performance indicators, sec. Environmental sustainability",
+        "context_after": "Nitrogen oxides (NO)), sulfur oxides (SO), and other significant air emissions 175-177; Performance indicators, sec. Environmental sustainability EFFLUENTS AND WASTE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "330.txt",
+        "context_before": "103-2 The management approach and its components 170-173; 181-183 103-3 Evaluation of the management approach 170-173; 181-183 GRI 306: Effluents",
+        "context_after": "Waste by type and disposal 181-182; Performance indicators, sec. Environmental and Waste 2016 method sustainability ENVIRONMENTAL COMPLIANCE 108-1 Explanation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "330.txt",
+        "context_before": "management approach 479 479. 194 Approach 2016 and its components 103-3 Evaluation of the TOTP a management approach GRI 307:",
+        "context_after": "Nor-compliance with 191; Performance indicators, Environmental environmental laws and sec. Environmental Compliance 2016 regulations sustainability SUPPLIER ENVIRONMENTAL ASSESSMENT 108-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "308-1": {
+        "page": "330.txt",
+        "context_before": "The management approach ener as and its components as 103-3 Evaluation of the management approach 156-165; 170-173 GRI 308: Supplier",
+        "context_after": "New suppliers that were Environmental screened using environmental 161 Assessment 2016 criteria 400 series (Social topics) EMPLOYMENT GRI 103: 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "330.txt",
+        "context_before": "Management Approach 2016 103-2 The management approach and its components 94-96; 103-104 103-3 Evaluation of the management approach 94-96; 103-104",
+        "context_after": ": Employment 2016 401-1 New employee hires and employee turnover 26; 94; Performance indicators, sec. Our people and their value",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": {
+        "page": "331.txt",
+        "context_before": "its boundary Management 103-2 The management approach Approach 2016 and its components 104-108 103-3 Evaluation of the rn management approach",
+        "context_after": ": Labor/ Masageinunt 402-1 Minimum notice periods 4.496 Relations 2016 regarding operational changes OCCUPATIONAL HEALTH AND SAFETY 108-1 Explanation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "245.txt",
+        "context_before": "GRI 409: Forced or Compulsory Labor GRI 411 Security Practices GRI 412: Human Rights Assessment Social Occupational fish aka \"|",
+        "context_after": ": Occupational Health and Safety Reporting partially Group Suppliers - extended to suppliers GRI 411: Rights of Indigenous Peoples GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "331.txt",
+        "context_before": "Approach 2016 103-2 The management approach 26; 97-98 and its components 103-3 Evaluation of the 26; 97-98 management approach ",
+        "context_after": ": Training and 404-1 Average hours of training 26; 94; 97-98; Performance per year per employee indicators, sec. Our people",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "332.txt",
+        "context_before": "GRI Standards Page number(s) Omission Dacesom and/or URLIs) Part Omitted Reason Explanation",
+        "context_after": ": Diversity 405-1 Diversity of governance 8-9; 26; 94; 99-102; 199-201 bodies and employees and Equal 405-2 Ratio of basic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "244.txt",
+        "context_before": "- = creation GRI 208: Anti-corruption oom GRI 206: Anti-competitive Behavior governance and Group - - fair corporate : cine",
+        "context_after": ": Non-discrimination GRI 415: Public Policy GRI 201: Economic Performance wana ation _GRI-305: Emissions Group = 2 Business & i",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "332.txt",
+        "context_before": "103-2Th \" h Management wake components APPFOACN 156-163; 227-231 Approach 2016 ri 103-3 Evaluation of the 156-163; 227-231 management approach",
+        "context_after": ": Freedom of Association and Collective Bargaining 407-1 Operations and suppliers in which the right to freedom of association and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 408": {
+        "page": "332.txt",
+        "context_before": "management approach Management 9 PPI 156-163; 227-231 Approach 2016 and its components 103-3 Evaluation of the 186-163; 227-231 management approach",
+        "context_after": ": Child Labor 2016 408-1 Operations and suppliers at significant risk for incidents of 156-163; 227-231 child labor FORCED OR",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 409": {
+        "page": "332.txt",
+        "context_before": "Management Approach 2016 103-2 The management approach 156-163; 227-231 and its components 103-3 Evaluation of the 186-163; 227-231 management approach",
+        "context_after": ": Forced or 409-1 Operations and suppliers Compulsory Labor at significant risk for incidents of 156-163; 227-231 2016 forced or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": false,
+    "GRI 411": {
+        "page": "333.txt",
+        "context_before": "The management approach Approach 2016 and its components 21 NOG; 227231 103-3 Evaluation of the 27; 108; 227-231 management approach",
+        "context_after": ": Rights of | 411-1 Incidents of violations No violations of the rights of Indigenous Peoples involving rights of indigenous",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412": {
+        "page": "245.txt",
+        "context_before": "; ; inatieaticin and Collective Bargaining GRI 408: Child Labor GRI 409: Forced or Compulsory Labor GRI 411 Security Practices",
+        "context_after": ": Human Rights Assessment Social Occupational fish aka \"| GRI 403: Occupational Health and Safety Reporting partially Group Suppliers -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "245.txt",
+        "context_before": "GRI 403: Occupational Health and Safety Reporting partially Group Suppliers - extended to suppliers GRI 411: Rights of Indigenous Peoples",
+        "context_after": ": Local Communities Engaging local GR 416: Customer Health communities and Safety erie - - - Disaster/Emergency Planning and Response",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "334.txt",
+        "context_before": "Management 103-2 The management approach Approach 2016 and its components BEES ae 103-3 Evaluation of the 156-103; 204 management approach",
+        "context_after": ": Supplier Social Assessment 141 New suppliers that were 156.169, 994 screened using social criteria 2016 PUBLIC POLICY 103-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": {
+        "page": "334.txt",
+        "context_before": "TES Management Approach 2016 103-2 The management approach 4 9 and its components 103-3 Evaluation of the DF management approach",
+        "context_after": ": Public Enel does not have direct relations with political parties and does not provide financing of any kind, as",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "334.txt",
+        "context_before": "103-2 The management approach Management 144-145; 149 Abpiosth 2016 and its components 103-3 Evaluation of the ania 149 management approach",
+        "context_after": ": Customer Health & Safety 2016 149 New products and services are assessed in terms of potential 416-1 Assessment of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417": {
+        "page": "335.txt",
+        "context_before": "GRI Standards Disclosure Page numbers) mmission and/or URL(s) Part Omitted Reason Explanation",
+        "context_after": ": Marketing and Labeling 2016 All the Group sale companies comply with the transparency obligations envisaged by various 417-1 Requirements",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "244.txt",
+        "context_before": "_GRI-305: Emissions Group = 2 Business & i asi Governance System Efficiency GRI 417: Marketing and Labeling Customer focus ",
+        "context_after": ": Customer Privacy Group - n Provision of Information Ecosystems and search & Development Gro - < platforms! Pr up",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "95.txt",
+        "context_before": "3,/26 new hires 38.8 average training hours per employee 83.7% ERR manager (Equal Remuneration Ratio) (02-7 ] [103-2] [703-3] [",
+        "context_after": "] [404-1] [405-1] [405-2 Our people and their value Thanks to the energy, know-how and common vision of Enel's people,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": {
+        "page": "331.txt",
+        "context_before": "The management approach Approach 2016 and its components 104-108 103-3 Evaluation of the rn management approach GRI 402: Labor/ Masageinunt",
+        "context_after": "Minimum notice periods 4.496 Relations 2016 regarding operational changes OCCUPATIONAL HEALTH AND SAFETY 108-1 Explanation of the material 46 19,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "331.txt",
+        "context_before": "its boundary Management 103-2 The management approach 144-151 Approach 2016 and its components 103-3 Evaluation of the HAR management approach",
+        "context_after": "Occupationalhealth and 444 464 safety management system 403-2 Hazard identification, risk assessment, and incident 144-151 investigation 403-3 Occupational health aaae",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "331.txt",
+        "context_before": "Approach 2016 and its components 103-3 Evaluation of the HAR management approach 403-1 Occupationalhealth and 444 464 safety management system",
+        "context_after": "Hazard identification, risk assessment, and incident 144-151 investigation 403-3 Occupational health aaae services 403-4 Worker participation, consultation, and communication 144-151",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "331.txt",
+        "context_before": "HAR management approach 403-1 Occupationalhealth and 444 464 safety management system 403-2 Hazard identification, risk assessment, and incident 144-151 investigation",
+        "context_after": "Occupational health aaae services 403-4 Worker participation, consultation, and communication 144-151 Ri 40: on occupational health and safety Occupational Health",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "331.txt",
+        "context_before": "and 444 464 safety management system 403-2 Hazard identification, risk assessment, and incident 144-151 investigation 403-3 Occupational health aaae services",
+        "context_after": "Worker participation, consultation, and communication 144-151 Ri 40: on occupational health and safety Occupational Health 403-5 Worker training on 144-181",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": {
+        "page": "331.txt",
+        "context_before": "Occupational health aaae services 403-4 Worker participation, consultation, and communication 144-151 Ri 40: on occupational health and safety Occupational Health",
+        "context_after": "Worker training on 144-181 and Safety 2018 occupational health and safety 403-6 Promotion of worker health 144-151 403-7 Prevention and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-6": {
+        "page": "331.txt",
+        "context_before": "40: on occupational health and safety Occupational Health 403-5 Worker training on 144-181 and Safety 2018 occupational health and safety",
+        "context_after": "Promotion of worker health 144-151 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by: M4151 business",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": {
+        "page": "331.txt",
+        "context_before": "Occupational Health 403-5 Worker training on 144-181 and Safety 2018 occupational health and safety 403-6 Promotion of worker health 144-151",
+        "context_after": "Prevention and mitigation of occupational health and safety impacts directly linked by: M4151 business relationships 144-146; Performance 403-9 Work-related injuries",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-8": false,
+    "403-9": {
+        "page": "331.txt",
+        "context_before": "health 144-151 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by: M4151 business relationships 144-146; Performance",
+        "context_after": "Work-related injuries indicators, sec. Occupational health and safety TRAINING AND EDUCATION 103-1 Explanation of the material GRI 103: topic and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-10": false,
+    "404-1": {
+        "page": "95.txt",
+        "context_before": "new hires 38.8 average training hours per employee 83.7% ERR manager (Equal Remuneration Ratio) (02-7 ] [103-2] [703-3] [401-1] [",
+        "context_after": "] [405-1] [405-2 Our people and their value Thanks to the energy, know-how and common vision of Enel's people, we",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "331.txt",
+        "context_before": "hours of training 26; 94; 97-98; Performance per year per employee indicators, sec. Our people and their value education 2016",
+        "context_after": "Percentage of employees 26; 97-98; Performance receiving regular performance and indicators, sec. Our people and career development reviews _ their",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "95.txt",
+        "context_before": "hires 38.8 average training hours per employee 83.7% ERR manager (Equal Remuneration Ratio) (02-7 ] [103-2] [703-3] [401-1] [404-1] [",
+        "context_after": "] [405-2 Our people and their value Thanks to the energy, know-how and common vision of Enel's people, we are",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "95.txt",
+        "context_before": "38.8 average training hours per employee 83.7% ERR manager (Equal Remuneration Ratio) (02-7 ] [103-2] [703-3] [401-1] [404-1] [405-1] [",
+        "context_after": "Our people and their value Thanks to the energy, know-how and common vision of Enel's people, we are ca- pable",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "332.txt",
+        "context_before": "Management 103-2 The management approach Approach 2016 and its components 225228 103-3 Evaluation of the a management approach GRI 41",
+        "context_after": "Incidents of discrimination 225; Performance indicators, Non-discrimination and corrective actions taken sec. Sound governance 2016 FREEDOM OF ASSOCIATION AND COLLECTIVE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "332.txt",
+        "context_before": "227-231 Approach 2016 ri 103-3 Evaluation of the 156-163; 227-231 management approach GRI 407: Freedom of Association and Collective Bargaining",
+        "context_after": "Operations and suppliers in which the right to freedom of association and collective TBE ES 227231 2016 bargaining may be",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "408-1": {
+        "page": "332.txt",
+        "context_before": "156-163; 227-231 Approach 2016 and its components 103-3 Evaluation of the 186-163; 227-231 management approach GRI 408: Child Labor 2016",
+        "context_after": "Operations and suppliers at significant risk for incidents of 156-163; 227-231 child labor FORCED OR COMPULSORY LABOR GRI 103: 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "332.txt",
+        "context_before": "The management approach 156-163; 227-231 and its components 103-3 Evaluation of the 186-163; 227-231 management approach GRI 409: Forced or",
+        "context_after": "Operations and suppliers Compulsory Labor at significant risk for incidents of 156-163; 227-231 2016 forced or compulsory labor SECURITY PRACTICES",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": false,
+    "411-1": {
+        "page": "333.txt",
+        "context_before": "and its components 21 NOG; 227231 103-3 Evaluation of the 27; 108; 227-231 management approach GRI 411: Rights of |",
+        "context_after": "Incidents of violations No violations of the rights of Indigenous Peoples involving rights of indigenous _indigenous peoples have been 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-1": {
+        "page": "333.txt",
+        "context_before": "boundary 16:19:28,239 Management 103-2 The management approach Approach 2016 and its components eae) 103-3 Evaluation of the maAeoaEA management approach",
+        "context_after": "Operations that have been subject to human rights reviews 227-231 GRI 472; Human or impact assessments RightsAssessment OE 2016 2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "305.txt",
+        "context_before": "92 43.1 Enel Environment (,000 h) 33 32 52 1 36 Enel Safety (000 h} 683 726 439 43-59 Enel",
+        "context_after": "Human rights (,000 h} 13 4 - 9 Enel Other'\" (000 hi} 2 16 = 7 Enel Code of Ethics",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": false,
+    "413-1": {
+        "page": "333.txt",
+        "context_before": "its components 227-231 103-3 Evaluation of the 27; 108-111; 115-121; 224; management approach 227-231 Mapping process in progress. Only eaee.",
+        "context_after": "Operations with a . peas 1 Sheena same, Percentage irene ite % put to Local Communities COUNity engagement, impact 6",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": {
+        "page": "334.txt",
+        "context_before": "parties and does not provide financing of any kind, as explicitly established at point 2.2 of the Zero Tol FC",
+        "context_after": "Political contributions Sr Setance ot Curia Policy 2016 Plan and at point 3.26 of the Group's Code of Ethics. Some",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "334.txt",
+        "context_before": "management approach GRI 416: Customer Health & Safety 2016 149 New products and services are assessed in terms of potential",
+        "context_after": "Assessment of the health _ impact on health and safety and safety impacts of product and throughout the value chain,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "416-2": false,
+    "417-1": {
+        "page": "335.txt",
+        "context_before": "Explanation GRI 417: Marketing and Labeling 2016 All the Group sale companies comply with the transparency obligations envisaged by various",
+        "context_after": "Requirements for product _ national and supranational regu- and service information and lations regarding the source of labeling the electricity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": false,
+    "417-3": {
+        "page": "335.txt",
+        "context_before": "must specify the mix of energy sources used and the source of the energy In 2019 there were no cases",
+        "context_after": "Incidents of non- of non compliance with compliance concerning marketing regulations or voluntary codes communications relating to the Enel Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "335.txt",
+        "context_before": "GRI103: 103-2 The management approach Management and its components 232 Approach 2016 zB 103-3 Evaluation of the 232 management approach",
+        "context_after": "Substantiated complaints GRI418: Customer concerning breaches of customer 4, privacy 2016 privacy and losses of customer data General standard disclosures",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": false
+}

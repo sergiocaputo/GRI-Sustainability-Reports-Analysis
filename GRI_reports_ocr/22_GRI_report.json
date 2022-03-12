@@ -1,0 +1,523 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "101.txt",
+        "context_before": "31-33 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sullapproccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Performance economica 201-1 87 Il Gruppo Cerved non prevede piani pensionistici specifici, applica la normativa in vigore 201-3 Credito",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "101.txt",
+        "context_before": "ricevuti dalla Pubblica Amministrazione Topic materiale: IMPATTI ECONOMICI INDIRETTI GRI 103: Management Approach 103-1 9, 30-33 103-2 31-33 103-3 31-33",
+        "context_after": ": Impatti economici indiretti Nessun investimento in infrastrutture e servizi forniti per pubblica utilita 203-1 Spiegazione degli aspetti materiali e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "102.txt",
+        "context_before": "22-25 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Anti-corruzione Nel corso del 2017 non si sono verificati 205-3 . : casi di corruzione Numero di casi di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": {
+        "page": "102.txt",
+        "context_before": "22-25 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Comportamento anti-competitivo Non si sono riscontrate azioni legali riguardanti comportamenti anticoncorrenziali e violazioni della legislazione antifrode e monopolistica 206-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "101.txt",
+        "context_before": "materiali e relativi confini Informazioni generali sullapproccio del management e relative caratteristiche Valutazione sull'approccio del management GRI 201: Performance economica",
+        "context_after": "87 Il Gruppo Cerved non prevede piani pensionistici specifici, applica la normativa in vigore 201-3 Credito di imposta per circa",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": {
+        "page": "101.txt",
+        "context_before": "management GRI 201: Performance economica 201-1 87 Il Gruppo Cerved non prevede piani pensionistici specifici, applica la normativa in vigore",
+        "context_after": "Credito di imposta per circa  1,5 mln su costi di Ricerca e Sviluppo sgravio sui contributi previdenziali per sede",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "101.txt",
+        "context_before": "(circa 100- 150 mila euro) contributo dall'UE per circa  270 mila su costi di Sviluppo Software (pro data market)",
+        "context_after": "Valore economico direttamente generato e distribuito Obblighi previdenziali definiti e altri piani di pensionamento Finanziamenti ricevuti dalla Pubblica Amministrazione Topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "101.txt",
+        "context_before": "30-33 103-2 31-33 103-3 31-33 GRI 203: Impatti economici indiretti Nessun investimento in infrastrutture e servizi forniti per pubblica utilita",
+        "context_after": "Spiegazione degli aspetti materiali e relativi confini Informazioni generali sullapproccio del management e relative caratteristiche Valutazione sull'approccio del management Investimenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "102.txt",
+        "context_before": "del management e relative caratteristiche Valutazione sull'approccio del management GRI 205: Anti-corruzione Nel corso del 2017 non si sono verificati",
+        "context_after": ". : casi di corruzione Numero di casi di corruzione e azioni intraprese Topic materiale: COMPORTAMENTO ANTI-COMPETITIVO GRI 103: Management",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "102.txt",
+        "context_before": "GRI 206: Comportamento anti-competitivo Non si sono riscontrate azioni legali riguardanti comportamenti anticoncorrenziali e violazioni della legislazione antifrode e monopolistica",
+        "context_after": "Azioni legali riferite a concorrenza sleale, antitrust e rispettivi esiti AMBIENTALE Topic materiale: ENERGIA GRI 103: Management Approach 103-1 9,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "103.txt",
+        "context_before": "Tabella GRI Content  @ TOPIC-SPECIFIC STANDARDS GRI Standard N. pagina Omissione Informazione",
+        "context_after": ": Energia 302-1 81 Consumi di energia allinterno dellorganizzazione Topic materiale: SCARICHI E RIFIUTI GRI 103: Management Approach 103-1 9,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": {
+        "page": "103.txt",
+        "context_before": "82 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sullapproccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Scarichi e rifiuti 306-2 82 Peso totale di rifiuti divisi per tipo e metodo di smaltimento Topic materiale: CONFORMITA",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "103.txt",
+        "context_before": "22-23 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sullapproccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Conformita ambientale Non si sono verificati casi di non conformita a leggi e regolamenti ambientali 307-1 Valore monetario delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "103.txt",
+        "context_before": "regolamenti ambientali Topic materiale: VALUTAZIONE AMBIENTALE DEI FORNITORI GRI 103: Management Approach 103-1 9, 30, 78-80 103-2 78-80 103-3 78-80",
+        "context_after": ": Valutazione ambientale dei fornitori | criteri ambientali non sono stati utilizzati nella valutazione dei fornitori nellanno 2017 308-1 Spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "103.txt",
+        "context_before": "Tabella GRI Content  @ TOPIC-SPECIFIC STANDARDS GRI Standard N. pagina Omissione Informazione GRI 302: Energia",
+        "context_after": "81 Consumi di energia allinterno dellorganizzazione Topic materiale: SCARICHI E RIFIUTI GRI 103: Management Approach 103-1 9, 30, 82 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": false,
+    "305-2": false,
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "103.txt",
+        "context_before": "e relativi confini Informazioni generali sullapproccio del management e relative caratteristiche Valutazione sull'approccio del management GRI 306: Scarichi e rifiuti",
+        "context_after": "82 Peso totale di rifiuti divisi per tipo e metodo di smaltimento Topic materiale: CONFORMITA AMBIENTALE GRI 103: Management Approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "103.txt",
+        "context_before": "sull'approccio del management GRI 307: Conformita ambientale Non si sono verificati casi di non conformita a leggi e regolamenti ambientali",
+        "context_after": "Valore monetario delle multe significative e numero totale di sanzioni non monetarie per il non rispetto di leggi e regolamenti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "308-1": {
+        "page": "103.txt",
+        "context_before": "78-80 GRI 308: Valutazione ambientale dei fornitori | criteri ambientali non sono stati utilizzati nella valutazione dei fornitori nellanno 2017",
+        "context_after": "Spiegazione degli aspetti materiali e relativi confini Informazioni generali sullapproccio del management e relative caratteristiche Valutazione sull'approccio del management Percentuale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "104.txt",
+        "context_before": "65-57 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Occupazione 2017 93-95 401-1 Non  presente il tasso di turnover per fascia deta nella suddivisione per region 401-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "104.txt",
+        "context_before": "71-72 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Gestione dei rapporti di lavoro Il preavviso varia a seconda del tipo di modifica operativa e pud essere individuato",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "105.txt",
+        "context_before": "Tabella GRI Content. __ @ TOPIC-SPECIFIC STANDARDS, GRI Standard N. pagina Omissione Informazione",
+        "context_after": ": Salute e sicurezza sul luogo di lavoro Non sono presenti comitati formali 403-1 f per la salute e sicurezza",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "105.txt",
+        "context_before": "52-57 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Formazione e istruzione 404-1 55 404-3 92 Ore medie di formazione annue per dipendente, suddivise per genere e categoria",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "106.txt",
+        "context_before": "80 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Lavoro minorile Il mercato principale di approvvigionamento (Italia) non evidenzia rischi significativi 408-1 Identificazione delle operazioni e dei principali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "107.txt",
+        "context_before": "80 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Lavoro forzato Il mercato principale di approvvigionamento (Italia) non evidenzia rischi significativi 409-1 Identificazione delle operazioni e dei principali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "106.txt",
+        "context_before": "80 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Liberta di associazione e contrattazione collettiva Il mercato principale di approvvigionamento (Italia) non evidenzia rischi significativi 407-1 Identificazione delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": {
+        "page": "107.txt",
+        "context_before": "23 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Politiche di sicurezza Non  presente personale addetto alla 410-1 sicurezza del patrimonio aziendale Personale addetto alla sicurezza formato",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "107.txt",
+        "context_before": "23 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Valutazione sui diritti umani Non viene effettuata una formazione 412-2 ve : specifica, ma un'informativa Ore medie di formazione",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": false,
+    "GRI 414": {
+        "page": "108.txt",
+        "context_before": "78-80 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Valutazione delle performance sociali dei fornitori I criteri sociali non sono stati utilizzati nella valutazione dei fornitori nellanno 2017.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "108.txt",
+        "context_before": "96-97 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Marketing ed etichettatura Non si sono verificati casi di non 417-2 conformita in relazione a informazione e etichettatura dei",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "108.txt",
+        "context_before": "61-63 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Privacy dei clienti 418-1 96-97 Numero di reclami documentati relativi a violazioni della privacy e perdita dei dati dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 419": {
+        "page": "109.txt",
+        "context_before": "24-25 Spiegazione degli aspetti materiali e relativi confini Informazioni generali sullapproccio del management e relative caratteristiche Valutazione sull'approccio del management",
+        "context_after": ": Conformita socio-economica Non si sono verificati casi di non conformita a leggi o regolamenti in ambito sociale ed economico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "104.txt",
+        "context_before": "e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management GRI 401: Occupazione 2017 93-95",
+        "context_after": "Non  presente il tasso di turnover per fascia deta nella suddivisione per region 401-2 65-67 Numero totale di nuovi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "104.txt",
+        "context_before": "GRI 401: Occupazione 2017 93-95 401-1 Non  presente il tasso di turnover per fascia deta nella suddivisione per region",
+        "context_after": "65-67 Numero totale di nuovi assunti e turnover per fasce di eta, genere e aree geografiche Benefit previsti per i",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "401-3": false,
+    "402-1": {
+        "page": "104.txt",
+        "context_before": "a seconda del tipo di modifica operativa e pud essere individuato dalla legge o dal CCNL o da accordi aziendali",
+        "context_after": "Periodi minimi di preavviso per cambiamenti nelle attivita, inclusa leventuale specifica nei relativi contratti collettivi di lavoro Topic materiale: SALUTE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "105.txt",
+        "context_before": "GRI Standard N. pagina Omissione Informazione GRI 403: Salute e sicurezza sul luogo di lavoro Non sono presenti comitati formali",
+        "context_after": "f per la salute e sicurezza 403-2 68-70 Non sono presenti mansioni che 403-3 comportino un elevato rischio di malattie",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "105.txt",
+        "context_before": "403: Salute e sicurezza sul luogo di lavoro Non sono presenti comitati formali 403-1 f per la salute e sicurezza",
+        "context_after": "68-70 Non sono presenti mansioni che 403-3 comportino un elevato rischio di malattie professionali Percentuale dei dipendenti rappresentati nei comitati",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "105.txt",
+        "context_before": "lavoro Non sono presenti comitati formali 403-1 f per la salute e sicurezza 403-2 68-70 Non sono presenti mansioni che",
+        "context_after": "comportino un elevato rischio di malattie professionali Percentuale dei dipendenti rappresentati nei comitati formali azienda-lavoratori per la salute e la",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "105.txt",
+        "context_before": "e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management GRI 404: Formazione e istruzione",
+        "context_after": "55 404-3 92 Ore medie di formazione annue per dipendente, suddivise per genere e categoria Percentuale dei dipendenti che ricevono",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "105.txt",
+        "context_before": "confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management GRI 404: Formazione e istruzione 404-1 55",
+        "context_after": "92 Ore medie di formazione annue per dipendente, suddivise per genere e categoria Percentuale dei dipendenti che ricevono regolarmente valutazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "105.txt",
+        "context_before": "relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management GRI 405: Diversita e pari opportunita",
+        "context_after": "20, 64-65, 91 Composizione degli organi di governo e ripartizione del personale per genere, eta, appartenenza alle categorie protette e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": false,
+    "406-1": {
+        "page": "106.txt",
+        "context_before": "del management e relative caratteristiche Valutazione sull'approccio del management GRI 406: Non discriminazione Non si  verificato nessun caso di",
+        "context_after": "fecrimminasy discriminazione Numero di episodi legati a pratiche discriminatorie e azioni intraprese Topic materiale: LIBERTA DI ASSOCIAZIONE E CONTRATTAZIONE COLLETTIVA",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "407-1": {
+        "page": "106.txt",
+        "context_before": "del management GRI 407: Liberta di associazione e contrattazione collettiva Il mercato principale di approvvigionamento (Italia) non evidenzia rischi significativi",
+        "context_after": "Identificazione delle attivita e dei principali fornitori in cui la liberta di associazione e contrattazione collettiva pud essere esposta a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "106.txt",
+        "context_before": "relative caratteristiche Valutazione sull'approccio del management GRI 405: Lavoro minorile Il mercato principale di approvvigionamento (Italia) non evidenzia rischi significativi",
+        "context_after": "Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso al lavoro minorile e delle misure intraprese 106",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "107.txt",
+        "context_before": "relative caratteristiche Valutazione sull'approccio del management GRI 406: Lavoro forzato Il mercato principale di approvvigionamento (Italia) non evidenzia rischi significativi",
+        "context_after": "Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso al lavoro forzato e delle misure intraprese Topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": {
+        "page": "107.txt",
+        "context_before": "del management e relative caratteristiche Valutazione sull'approccio del management GRI 410: Politiche di sicurezza Non  presente personale addetto alla",
+        "context_after": "sicurezza del patrimonio aziendale Personale addetto alla sicurezza formato sulle politiche e procedure relative ai diritti umani Topic materiale: VALUTAZIONE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": false,
+    "412-1": false,
+    "412-2": {
+        "page": "107.txt",
+        "context_before": "del management e relative caratteristiche Valutazione sull'approccio del management GRI 412: Valutazione sui diritti umani Non viene effettuata una formazione",
+        "context_after": "ve : specifica, ma un'informativa Ore medie di formazione annue per dipendente su policy o procedure relative ai diritti umani",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "108.txt",
+        "context_before": "414: Valutazione delle performance sociali dei fornitori I criteri sociali non sono stati utilizzati nella valutazione dei fornitori nellanno 2017.",
+        "context_after": "Nuovi fornitori sottoposti a screening utilizzando criteri sociali Topic materiale: MARKETING ED ETICHETTATURA GRI 103: Management Approach 103-1 9, 30,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": {
+        "page": "108.txt",
+        "context_before": "management e relative caratteristiche Valutazione sull'approccio del management GRI 417: Marketing ed etichettatura Non si sono verificati casi di non",
+        "context_after": "conformita in relazione a informazione e etichettatura dei prodotti Non si sono verificati casi di non 417-3 conformita in relazione",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "417-3": {
+        "page": "108.txt",
+        "context_before": "casi di non 417-2 conformita in relazione a informazione e etichettatura dei prodotti Non si sono verificati casi di non",
+        "context_after": "conformita in relazione a comunicazione di marketing Casi di non conformita in relazione a informazione e etichettatura dei prodotti Casi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "418-1": {
+        "page": "108.txt",
+        "context_before": "e relativi confini Informazioni generali sull'approccio del management e relative caratteristiche Valutazione sull'approccio del management GRI 418: Privacy dei clienti",
+        "context_after": "96-97 Numero di reclami documentati relativi a violazioni della privacy e perdita dei dati dei consumatori 108",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "419-1": {
+        "page": "109.txt",
+        "context_before": "419: Conformita socio-economica Non si sono verificati casi di non conformita a leggi o regolamenti in ambito sociale ed economico",
+        "context_after": "Valore monetario delle sanzioni significative e numero totale di sanzioni non monetarie per non conformita a leggi o regolamenti in",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    }
+}

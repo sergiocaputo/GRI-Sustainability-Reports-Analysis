@@ -1,0 +1,577 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "111.txt",
+        "context_before": "Assurance esterna del Bilancio Non  prevista l'assurance esterna di Sostenibilita per questa edizione PERFORMANCE ECONOMICA Valore economico diretto generato",
+        "context_after": "-1 eg pe | risultati economico-finanziari 42 e distribuito Investimenti infrastrutturali Le ticadute sui territori e le esternalits 48 Foe",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "111.txt",
+        "context_before": "e distribuito Investimenti infrastrutturali Le ticadute sui territori e le esternalits 48 Foe 7 ricadute sul territor! e le esternalita;",
+        "context_after": "-1 e servizi che forniscono Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE GRI 301-2 Utilizzo di materiali riciclati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "111.txt",
+        "context_before": "Assurance esterna del Bilancio Non  prevista l'assurance esterna di Sostenibilita per questa edizione PERFORMANCE ECONOMICA Valore economico diretto generato",
+        "context_after": "eg pe | risultati economico-finanziari 42 e distribuito Investimenti infrastrutturali Le ticadute sui territori e le esternalits 48 Foe 7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "111.txt",
+        "context_before": "e distribuito Investimenti infrastrutturali Le ticadute sui territori e le esternalits 48 Foe 7 ricadute sul territor! e le esternalita;",
+        "context_after": "e servizi che forniscono Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE GRI 301-2 Utilizzo di materiali riciclati Le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "111.txt",
+        "context_before": "esterna del Bilancio Non  prevista l'assurance esterna di Sostenibilita per questa edizione PERFORMANCE ECONOMICA Valore economico diretto generato GRI",
+        "context_after": "eg pe | risultati economico-finanziari 42 e distribuito Investimenti infrastrutturali Le ticadute sui territori e le esternalits 48 Foe 7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "111.txt",
+        "context_before": "distribuito Investimenti infrastrutturali Le ticadute sui territori e le esternalits 48 Foe 7 ricadute sul territor! e le esternalita; GRI",
+        "context_after": "e servizi che forniscono Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE GRI 301-2 Utilizzo di materiali riciclati Le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "111.txt",
+        "context_before": "sul territor! e le esternalita; GRI 203-1 e servizi che forniscono Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE",
+        "context_after": "-2 Utilizzo di materiali riciclati Le materie prime 66 GRI 302-1 Consumi di energia altinterno Lenergia e le fonti rinnovabili",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "111.txt",
+        "context_before": "forniscono Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE GRI 301-2 Utilizzo di materiali riciclati Le materie prime 66",
+        "context_after": "-1 Consumi di energia altinterno Lenergia e le fonti rinnovabili 60 dell'organizzazione GRI 302-4 Riduzione dei consumi energetici Lenergia e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "111.txt",
+        "context_before": "altinterno Lenergia e le fonti rinnovabili 60 dell'organizzazione GRI 302-4 Riduzione dei consumi energetici Lenergia e le fonti rinnovabili 60",
+        "context_after": "-1 Volume totale di acqua prelevata | consumi idrici 65 per fonte di approvvigionamento GRI 303-2 Fonti di prelievo significativamente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "111.txt",
+        "context_before": "idrici 65 per fonte di approvvigionamento GRI 303-2 Fonti di prelievo significativamente | consumi idrici 65 influenzate dai prelievi d'acqua",
+        "context_after": "-1 Emissioni dirette di gas serra Le emissioni ed i trasporti 62 GRI 305-2 Emissioni indirette di gas serra Le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "112.txt",
+        "context_before": "Bilancio di Sostenibilita 2017 | 2018 PERFORMANCE AMBIENTALE Rifiuti per tipologia e modalita La gestione dei rifiuti",
+        "context_after": "-2 di smaltimento e le emergenze ambientali 68 eee La gestione dei rifiuti GRI 306-3 Sversamenti significativi  le emergenze",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "112.txt",
+        "context_before": "smaltimento e le emergenze ambientali 68 eee La gestione dei rifiuti GRI 306-3 Sversamenti significativi  le emergenze ambientali 68",
+        "context_after": "-1 Inadempienza a leggi Non si registrano sanzioni e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": {
+        "page": "111.txt",
+        "context_before": "sul territor! e le esternalita; GRI 203-1 e servizi che forniscono Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE",
+        "context_after": "Utilizzo di materiali riciclati Le materie prime 66 GRI 302-1 Consumi di energia altinterno Lenergia e le fonti rinnovabili 60",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "111.txt",
+        "context_before": "forniscono Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE GRI 301-2 Utilizzo di materiali riciclati Le materie prime 66",
+        "context_after": "Consumi di energia altinterno Lenergia e le fonti rinnovabili 60 dell'organizzazione GRI 302-4 Riduzione dei consumi energetici Lenergia e le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "111.txt",
+        "context_before": "di materiali riciclati Le materie prime 66 GRI 302-1 Consumi di energia altinterno Lenergia e le fonti rinnovabili 60 dell'organizzazione",
+        "context_after": "Riduzione dei consumi energetici Lenergia e le fonti rinnovabili 60 GRI 303-1 Volume totale di acqua prelevata | consumi idrici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "111.txt",
+        "context_before": "altinterno Lenergia e le fonti rinnovabili 60 dell'organizzazione GRI 302-4 Riduzione dei consumi energetici Lenergia e le fonti rinnovabili 60",
+        "context_after": "Volume totale di acqua prelevata | consumi idrici 65 per fonte di approvvigionamento GRI 303-2 Fonti di prelievo significativamente |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": {
+        "page": "111.txt",
+        "context_before": "e le fonti rinnovabili 60 GRI 303-1 Volume totale di acqua prelevata | consumi idrici 65 per fonte di approvvigionamento",
+        "context_after": "Fonti di prelievo significativamente | consumi idrici 65 influenzate dai prelievi d'acqua GRI 305-1 Emissioni dirette di gas serra Le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "111.txt",
+        "context_before": "idrici 65 per fonte di approvvigionamento GRI 303-2 Fonti di prelievo significativamente | consumi idrici 65 influenzate dai prelievi d'acqua",
+        "context_after": "Emissioni dirette di gas serra Le emissioni ed i trasporti 62 GRI 305-2 Emissioni indirette di gas serra Le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "111.txt",
+        "context_before": "consumi idrici 65 influenzate dai prelievi d'acqua GRI 305-1 Emissioni dirette di gas serra Le emissioni ed i trasporti 62",
+        "context_after": "Emissioni indirette di gas serra Le emissioni ed i trasporti 62 GRI 305-5 Riduzione delle emissioni di gas Le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": {
+        "page": "111.txt",
+        "context_before": "serra Le emissioni ed i trasporti 62 GRI 305-2 Emissioni indirette di gas serra Le emissioni ed i trasporti 62",
+        "context_after": "Riduzione delle emissioni di gas Le emissioni ed i trasporti 62 serra",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "112.txt",
+        "context_before": "Bilancio di Sostenibilita 2017 | 2018 PERFORMANCE AMBIENTALE Rifiuti per tipologia e modalita La gestione dei rifiuti",
+        "context_after": "di smaltimento e le emergenze ambientali 68 eee La gestione dei rifiuti GRI 306-3 Sversamenti significativi  le emergenze ambientali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": {
+        "page": "112.txt",
+        "context_before": "e modalita La gestione dei rifiuti GRI 306-2 di smaltimento e le emergenze ambientali 68 eee La gestione dei rifiuti",
+        "context_after": "Sversamenti significativi  le emergenze ambientali 68 GRI 307-1 Inadempienza a leggi Non si registrano sanzioni e regolamenti ambientali nel",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "112.txt",
+        "context_before": "smaltimento e le emergenze ambientali 68 eee La gestione dei rifiuti GRI 306-3 Sversamenti significativi  le emergenze ambientali 68",
+        "context_after": "Inadempienza a leggi Non si registrano sanzioni e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": {
+        "page": "111.txt",
+        "context_before": "territor! e le esternalita; GRI 203-1 e servizi che forniscono Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE GRI",
+        "context_after": "Utilizzo di materiali riciclati Le materie prime 66 GRI 302-1 Consumi di energia altinterno Lenergia e le fonti rinnovabili 60",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "111.txt",
+        "context_before": "Lautostrada di prossimita 838 un beneficio pubblico PERFORMANCE AMBIENTALE GRI 301-2 Utilizzo di materiali riciclati Le materie prime 66 GRI",
+        "context_after": "Consumi di energia altinterno Lenergia e le fonti rinnovabili 60 dell'organizzazione GRI 302-4 Riduzione dei consumi energetici Lenergia e le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "111.txt",
+        "context_before": "materiali riciclati Le materie prime 66 GRI 302-1 Consumi di energia altinterno Lenergia e le fonti rinnovabili 60 dell'organizzazione GRI",
+        "context_after": "Riduzione dei consumi energetici Lenergia e le fonti rinnovabili 60 GRI 303-1 Volume totale di acqua prelevata | consumi idrici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "111.txt",
+        "context_before": "Lenergia e le fonti rinnovabili 60 dell'organizzazione GRI 302-4 Riduzione dei consumi energetici Lenergia e le fonti rinnovabili 60 GRI",
+        "context_after": "Volume totale di acqua prelevata | consumi idrici 65 per fonte di approvvigionamento GRI 303-2 Fonti di prelievo significativamente |",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "111.txt",
+        "context_before": "le fonti rinnovabili 60 GRI 303-1 Volume totale di acqua prelevata | consumi idrici 65 per fonte di approvvigionamento GRI",
+        "context_after": "Fonti di prelievo significativamente | consumi idrici 65 influenzate dai prelievi d'acqua GRI 305-1 Emissioni dirette di gas serra Le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "111.txt",
+        "context_before": "65 per fonte di approvvigionamento GRI 303-2 Fonti di prelievo significativamente | consumi idrici 65 influenzate dai prelievi d'acqua GRI",
+        "context_after": "Emissioni dirette di gas serra Le emissioni ed i trasporti 62 GRI 305-2 Emissioni indirette di gas serra Le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "111.txt",
+        "context_before": "idrici 65 influenzate dai prelievi d'acqua GRI 305-1 Emissioni dirette di gas serra Le emissioni ed i trasporti 62 GRI",
+        "context_after": "Emissioni indirette di gas serra Le emissioni ed i trasporti 62 GRI 305-5 Riduzione delle emissioni di gas Le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": {
+        "page": "111.txt",
+        "context_before": "Le emissioni ed i trasporti 62 GRI 305-2 Emissioni indirette di gas serra Le emissioni ed i trasporti 62 GRI",
+        "context_after": "Riduzione delle emissioni di gas Le emissioni ed i trasporti 62 serra",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "112.txt",
+        "context_before": "Bilancio di Sostenibilita 2017 | 2018 PERFORMANCE AMBIENTALE Rifiuti per tipologia e modalita La gestione dei rifiuti GRI",
+        "context_after": "di smaltimento e le emergenze ambientali 68 eee La gestione dei rifiuti GRI 306-3 Sversamenti significativi  le emergenze ambientali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "112.txt",
+        "context_before": "modalita La gestione dei rifiuti GRI 306-2 di smaltimento e le emergenze ambientali 68 eee La gestione dei rifiuti GRI",
+        "context_after": "Sversamenti significativi  le emergenze ambientali 68 GRI 307-1 Inadempienza a leggi Non si registrano sanzioni e regolamenti ambientali nel",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "112.txt",
+        "context_before": "e le emergenze ambientali 68 eee La gestione dei rifiuti GRI 306-3 Sversamenti significativi  le emergenze ambientali 68 GRI",
+        "context_after": "Inadempienza a leggi Non si registrano sanzioni e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "112.txt",
+        "context_before": "Inadempienza a leggi Non si registrano sanzioni e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti",
+        "context_after": "-1 | collaboratori 72 e turnover del personale GRI 401-3 Congedo parentale | collaboratori 72 Rappresentanza dei lavoratori in comitati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "112.txt",
+        "context_before": "personale GRI 401-3 Congedo parentale | collaboratori 72 Rappresentanza dei lavoratori in comitati formali congiunti La salute e la sicurezza",
+        "context_after": "-1 . : 3 76 Management-Lavoratori dei lavoratori per la salute e la sicurezza Tipologia e tasso di infortuni, malattie",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "112.txt",
+        "context_before": "Argomenti di salute e sicurezza | GRI403-4 compresi in accordi formali G2 Salute  (a sicurezza 76 con i sindacati",
+        "context_after": "-1 Ore di formazione medie La formazione e lo sviluppo 79 per dipendente ed anno GRI 405-1 Diversita di genere",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "112.txt",
+        "context_before": "76 con i sindacati GRI 404-1 Ore di formazione medie La formazione e lo sviluppo 79 per dipendente ed anno",
+        "context_after": "-1 Diversita di genere negli organ! | collaboratori 72 di governo e tra dipendenti Operazioni con il coinvolgimento | tti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "112.txt",
+        "context_before": "e tra dipendenti Operazioni con il coinvolgimento | tti died | tostradal 9% tae . : progetti di educazione autostradale;",
+        "context_after": "-1 della comunita locale, valutazioni Viabilita, meteo e territorio 98 d'impatto e programmi di sviluppo Operazioni con significativi impatti GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": {
+        "page": "112.txt",
+        "context_before": "Operazioni con significativi impatti GRI 413-2 negativi, reali e potenziali, Note metodologiche 7 sulle comunita locali Inadempienza a leggi |",
+        "context_after": "-1 e regolamenti in materia sociale Non si registrano sanzioni ed economica nel periodo di rendicontazione 111",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-1": {
+        "page": "112.txt",
+        "context_before": "Inadempienza a leggi Non si registrano sanzioni e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti",
+        "context_after": "| collaboratori 72 e turnover del personale GRI 401-3 Congedo parentale | collaboratori 72 Rappresentanza dei lavoratori in comitati formali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": {
+        "page": "112.txt",
+        "context_before": "ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti GRI 401-1 | collaboratori 72 e turnover del personale",
+        "context_after": "Congedo parentale | collaboratori 72 Rappresentanza dei lavoratori in comitati formali congiunti La salute e la sicurezza GRI 403-1 .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402-1": false,
+    "GRI 403-1": {
+        "page": "112.txt",
+        "context_before": "personale GRI 401-3 Congedo parentale | collaboratori 72 Rappresentanza dei lavoratori in comitati formali congiunti La salute e la sicurezza",
+        "context_after": ". : 3 76 Management-Lavoratori dei lavoratori per la salute e la sicurezza Tipologia e tasso di infortuni, malattie professionali,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": {
+        "page": "112.txt",
+        "context_before": "3 76 Management-Lavoratori dei lavoratori per la salute e la sicurezza Tipologia e tasso di infortuni, malattie professionali, giorni |",
+        "context_after": "di lavoro persi e assenteismo G2 salute  ta sicurezza 76 e numero di incidenti mortali collegati al lavoro Argomenti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": {
+        "page": "10.txt",
+        "context_before": "storico-artistico, attraverso progetti di restauro e di ri- strutturazione di beni monumentali limitrofi al tracciato autostradale. 1 Gas naturale liquefatto",
+        "context_after": "GRI 305-5 GRI 302-4 GRI 203-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "112.txt",
+        "context_before": "Argomenti di salute e sicurezza | GRI403-4 compresi in accordi formali G2 Salute  (a sicurezza 76 con i sindacati",
+        "context_after": "Ore di formazione medie La formazione e lo sviluppo 79 per dipendente ed anno GRI 405-1 Diversita di genere negli",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "112.txt",
+        "context_before": "76 con i sindacati GRI 404-1 Ore di formazione medie La formazione e lo sviluppo 79 per dipendente ed anno",
+        "context_after": "Diversita di genere negli organ! | collaboratori 72 di governo e tra dipendenti Operazioni con il coinvolgimento | tti died",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "112.txt",
+        "context_before": "e tra dipendenti Operazioni con il coinvolgimento | tti died | tostradal 9% tae . : progetti di educazione autostradale;",
+        "context_after": "della comunita locale, valutazioni Viabilita, meteo e territorio 98 d'impatto e programmi di sviluppo Operazioni con significativi impatti GRI 413-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": {
+        "page": "112.txt",
+        "context_before": "GRI 413-1 della comunita locale, valutazioni Viabilita, meteo e territorio 98 d'impatto e programmi di sviluppo Operazioni con significativi impatti",
+        "context_after": "negativi, reali e potenziali, Note metodologiche 7 sulle comunita locali Inadempienza a leggi | GRI 419-1 e regolamenti in materia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": {
+        "page": "112.txt",
+        "context_before": "Operazioni con significativi impatti GRI 413-2 negativi, reali e potenziali, Note metodologiche 7 sulle comunita locali Inadempienza a leggi |",
+        "context_after": "e regolamenti in materia sociale Non si registrano sanzioni ed economica nel periodo di rendicontazione 111",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "401-1": {
+        "page": "112.txt",
+        "context_before": "a leggi Non si registrano sanzioni e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti GRI",
+        "context_after": "| collaboratori 72 e turnover del personale GRI 401-3 Congedo parentale | collaboratori 72 Rappresentanza dei lavoratori in comitati formali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": {
+        "page": "112.txt",
+        "context_before": "nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti GRI 401-1 | collaboratori 72 e turnover del personale GRI",
+        "context_after": "Congedo parentale | collaboratori 72 Rappresentanza dei lavoratori in comitati formali congiunti La salute e la sicurezza GRI 403-1 .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": false,
+    "403-1": {
+        "page": "112.txt",
+        "context_before": "GRI 401-3 Congedo parentale | collaboratori 72 Rappresentanza dei lavoratori in comitati formali congiunti La salute e la sicurezza GRI",
+        "context_after": ". : 3 76 Management-Lavoratori dei lavoratori per la salute e la sicurezza Tipologia e tasso di infortuni, malattie professionali,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "112.txt",
+        "context_before": "76 Management-Lavoratori dei lavoratori per la salute e la sicurezza Tipologia e tasso di infortuni, malattie professionali, giorni | GRI",
+        "context_after": "di lavoro persi e assenteismo G2 salute  ta sicurezza 76 e numero di incidenti mortali collegati al lavoro Argomenti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": {
+        "page": "112.txt",
+        "context_before": "salute  ta sicurezza 76 e numero di incidenti mortali collegati al lavoro Argomenti di salute e sicurezza | GRI",
+        "context_after": "compresi in accordi formali G2 Salute  (a sicurezza 76 con i sindacati GRI 404-1 Ore di formazione medie La",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "112.txt",
+        "context_before": "di salute e sicurezza | GRI403-4 compresi in accordi formali G2 Salute  (a sicurezza 76 con i sindacati GRI",
+        "context_after": "Ore di formazione medie La formazione e lo sviluppo 79 per dipendente ed anno GRI 405-1 Diversita di genere negli",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "112.txt",
+        "context_before": "con i sindacati GRI 404-1 Ore di formazione medie La formazione e lo sviluppo 79 per dipendente ed anno GRI",
+        "context_after": "Diversita di genere negli organ! | collaboratori 72 di governo e tra dipendenti Operazioni con il coinvolgimento | tti died",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "112.txt",
+        "context_before": "tra dipendenti Operazioni con il coinvolgimento | tti died | tostradal 9% tae . : progetti di educazione autostradale; GRI",
+        "context_after": "della comunita locale, valutazioni Viabilita, meteo e territorio 98 d'impatto e programmi di sviluppo Operazioni con significativi impatti GRI 413-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "112.txt",
+        "context_before": "413-1 della comunita locale, valutazioni Viabilita, meteo e territorio 98 d'impatto e programmi di sviluppo Operazioni con significativi impatti GRI",
+        "context_after": "negativi, reali e potenziali, Note metodologiche 7 sulle comunita locali Inadempienza a leggi | GRI 419-1 e regolamenti in materia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "112.txt",
+        "context_before": "con significativi impatti GRI 413-2 negativi, reali e potenziali, Note metodologiche 7 sulle comunita locali Inadempienza a leggi | GRI",
+        "context_after": "e regolamenti in materia sociale Non si registrano sanzioni ed economica nel periodo di rendicontazione 111",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    }
+}

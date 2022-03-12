@@ -1,0 +1,721 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "82.txt",
+        "context_before": "N PAG 23, 51, Informazioni sulla modalita di gestione Molteplici 2 ae 100, 130 aac my ul(} Valore economico diretta-",
+        "context_after": "-1 mente generato e distribuito Presenza sul mercato Percentuale di senior manager provenienti dalla comunita locale GRI 202-2 Ty eaters",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "82.txt",
+        "context_before": "Valore economico diretta- GRI 201-1 mente generato e distribuito Presenza sul mercato Percentuale di senior manager provenienti dalla comunita locale",
+        "context_after": "-2 Ty eaters ea aa Sviluppo e impatto di inve- stimenti in infrastrutture e servizi GRI 203-1 Uv a EV",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "82.txt",
+        "context_before": "provenienti dalla comunita locale GRI 202-2 Ty eaters ea aa Sviluppo e impatto di inve- stimenti in infrastrutture e servizi",
+        "context_after": "-1 Uv a EV aCe ie-Lete [1 ) Percentuale di spesa concen- GRI 204-1 trata su fornitori locali | risultati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "82.txt",
+        "context_before": "di inve- stimenti in infrastrutture e servizi GRI 203-1 Uv a EV aCe ie-Lete [1 ) Percentuale di spesa concen-",
+        "context_after": "-1 trata su fornitori locali | risultati economico-finanziari || ruolo prezioso dei collaboratori La Cittadella del Vino, il nuovo percorso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "82.txt",
+        "context_before": "N PAG 23, 51, Informazioni sulla modalita di gestione Molteplici 2 ae 100, 130 aac my ul(} Valore economico diretta-",
+        "context_after": "mente generato e distribuito Presenza sul mercato Percentuale di senior manager provenienti dalla comunita locale GRI 202-2 Ty eaters ea",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": {
+        "page": "82.txt",
+        "context_before": "Valore economico diretta- GRI 201-1 mente generato e distribuito Presenza sul mercato Percentuale di senior manager provenienti dalla comunita locale",
+        "context_after": "Ty eaters ea aa Sviluppo e impatto di inve- stimenti in infrastrutture e servizi GRI 203-1 Uv a EV aCe",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-1": {
+        "page": "82.txt",
+        "context_before": "provenienti dalla comunita locale GRI 202-2 Ty eaters ea aa Sviluppo e impatto di inve- stimenti in infrastrutture e servizi",
+        "context_after": "Uv a EV aCe ie-Lete [1 ) Percentuale di spesa concen- GRI 204-1 trata su fornitori locali | risultati economico-finanziari",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "82.txt",
+        "context_before": "di inve- stimenti in infrastrutture e servizi GRI 203-1 Uv a EV aCe ie-Lete [1 ) Percentuale di spesa concen-",
+        "context_after": "trata su fornitori locali | risultati economico-finanziari || ruolo prezioso dei collaboratori La Cittadella del Vino, il nuovo percorso visita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "82.txt",
+        "context_before": "PAG 23, 51, Informazioni sulla modalita di gestione Molteplici 2 ae 100, 130 aac my ul(} Valore economico diretta- GRI",
+        "context_after": "mente generato e distribuito Presenza sul mercato Percentuale di senior manager provenienti dalla comunita locale GRI 202-2 Ty eaters ea",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": {
+        "page": "82.txt",
+        "context_before": "economico diretta- GRI 201-1 mente generato e distribuito Presenza sul mercato Percentuale di senior manager provenienti dalla comunita locale GRI",
+        "context_after": "Ty eaters ea aa Sviluppo e impatto di inve- stimenti in infrastrutture e servizi GRI 203-1 Uv a EV aCe",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "82.txt",
+        "context_before": "dalla comunita locale GRI 202-2 Ty eaters ea aa Sviluppo e impatto di inve- stimenti in infrastrutture e servizi GRI",
+        "context_after": "Uv a EV aCe ie-Lete [1 ) Percentuale di spesa concen- GRI 204-1 trata su fornitori locali | risultati economico-finanziari",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": false,
+    "204-1": {
+        "page": "82.txt",
+        "context_before": "inve- stimenti in infrastrutture e servizi GRI 203-1 Uv a EV aCe ie-Lete [1 ) Percentuale di spesa concen- GRI",
+        "context_after": "trata su fornitori locali | risultati economico-finanziari || ruolo prezioso dei collaboratori La Cittadella del Vino, il nuovo percorso visita",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "82.txt",
+        "context_before": "89, 92, 97, 98, 100, 103, 106, 109, 111,115, 119, 123 Molteplici GRI 103-2 Investimenti ambientali Le performance ambientali 101",
+        "context_after": "-1 Materiali utilizzati Mitigazione degli impatti di Le materie prime 119 prodotti e servizi sull'ambiente Consumo di energia all'interno dellorganizzazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "82.txt",
+        "context_before": "301-1 Materiali utilizzati Mitigazione degli impatti di Le materie prime 119 prodotti e servizi sull'ambiente Consumo di energia all'interno dellorganizzazione",
+        "context_after": "-1 Uenergia e le fonti rinnovabili 103 Mitigazione degli impatti di prodotti e servizi sull'ambiente Riduzione nel consumo di :",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "82.txt",
+        "context_before": ": . L. a GRI 302-4 Uenergia e le fonti rinnovabili 103 energia | consumi idrici e gli scarichi 111",
+        "context_after": "-1 Consumo totale di acqua La coltivazione biologica dei vigneti in Sicilia 92 Fonti idriche significativamente GRI 303-2 interessate dal",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304": {
+        "page": "82.txt",
+        "context_before": "Siti operativi all'interno o in prossimita di aree protette o di Gli impianti del Gruppo non sono situati nelle vicinanze",
+        "context_after": "-1 aree di significativo valore per _ di aree protette la biodiversita Ce Una produzione virtuosa: Mela Valentina 37 Impatti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305": {
+        "page": "82.txt",
+        "context_before": "servizi sulla biodiversita a . . - Se Ge La coltivazione biologica dei vigneti in Sicilia 92 Emissioni e trasporti",
+        "context_after": "-1 Impatti ambiental relativi ai Le emissioni e i trasporti 115 trasporti GRI 305-6 Emissioni di sostanze nocive Le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306": {
+        "page": "82.txt",
+        "context_before": "(NOX), ossidi GRI 305-7 di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 significative nell'atmosfera Tere Mn",
+        "context_after": "-1 Scarichi idrici totali consumi idrici e gli scarichi 111 GRI 306-2 Peso totale dei rifiuti rifiuti 123 Compliance ambientale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "82.txt",
+        "context_before": "306-1 Scarichi idrici totali consumi idrici e gli scarichi 111 GRI 306-2 Peso totale dei rifiuti rifiuti 123 Compliance ambientale",
+        "context_after": "-1 Non conformita a leggi e . . . Non si registrano sanzioni regolamenti ambientali",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "82.txt",
+        "context_before": "89, 92, 97, 98, 100, 103, 106, 109, 111,115, 119, 123 Molteplici GRI 103-2 Investimenti ambientali Le performance ambientali 101",
+        "context_after": "Materiali utilizzati Mitigazione degli impatti di Le materie prime 119 prodotti e servizi sull'ambiente Consumo di energia all'interno dellorganizzazione GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "82.txt",
+        "context_before": "301-1 Materiali utilizzati Mitigazione degli impatti di Le materie prime 119 prodotti e servizi sull'ambiente Consumo di energia all'interno dellorganizzazione",
+        "context_after": "Uenergia e le fonti rinnovabili 103 Mitigazione degli impatti di prodotti e servizi sull'ambiente Riduzione nel consumo di : .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "82.txt",
+        "context_before": "le fonti rinnovabili 103 Mitigazione degli impatti di prodotti e servizi sull'ambiente Riduzione nel consumo di : . L. a",
+        "context_after": "Uenergia e le fonti rinnovabili 103 energia | consumi idrici e gli scarichi 111 GRI 303-1 Consumo totale di acqua",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "82.txt",
+        "context_before": ": . L. a GRI 302-4 Uenergia e le fonti rinnovabili 103 energia | consumi idrici e gli scarichi 111",
+        "context_after": "Consumo totale di acqua La coltivazione biologica dei vigneti in Sicilia 92 Fonti idriche significativamente GRI 303-2 interessate dal prelievo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": {
+        "page": "82.txt",
+        "context_before": "gli scarichi 111 GRI 303-1 Consumo totale di acqua La coltivazione biologica dei vigneti in Sicilia 92 Fonti idriche significativamente",
+        "context_after": "interessate dal prelievo di | consumi idrici e gli scarichi 111 acqua Biodiversita Siti operativi all'interno o in prossimita di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": {
+        "page": "82.txt",
+        "context_before": "Siti operativi all'interno o in prossimita di aree protette o di Gli impianti del Gruppo non sono situati nelle vicinanze",
+        "context_after": "aree di significativo valore per _ di aree protette la biodiversita Ce Una produzione virtuosa: Mela Valentina 37 Impatti significativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304-2": {
+        "page": "82.txt",
+        "context_before": "di significativo valore per _ di aree protette la biodiversita Ce Una produzione virtuosa: Mela Valentina 37 Impatti significativi delle",
+        "context_after": "attivita, dei prodotti e dei La produzione integrata in Trentino-Alto Adige 89 servizi sulla biodiversita a . . - Se",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "82.txt",
+        "context_before": "servizi sulla biodiversita a . . - Se Ge La coltivazione biologica dei vigneti in Sicilia 92 Emissioni e trasporti",
+        "context_after": "Impatti ambiental relativi ai Le emissioni e i trasporti 115 trasporti GRI 305-6 Emissioni di sostanze nocive Le emissioni e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": {
+        "page": "82.txt",
+        "context_before": "vigneti in Sicilia 92 Emissioni e trasporti GRI 305-1 Impatti ambiental relativi ai Le emissioni e i trasporti 115 trasporti",
+        "context_after": "Emissioni di sostanze nocive Le emissioni e i trasporti 115 per lo strato di ozono Ossidi di azoto (NOX), ossidi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305-7": {
+        "page": "82.txt",
+        "context_before": "Emissioni di sostanze nocive Le emissioni e i trasporti 115 per lo strato di ozono Ossidi di azoto (NOX), ossidi",
+        "context_after": "di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 significative nell'atmosfera Tere Mn GRI 306-1 Scarichi idrici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-1": {
+        "page": "82.txt",
+        "context_before": "(NOX), ossidi GRI 305-7 di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 significative nell'atmosfera Tere Mn",
+        "context_after": "Scarichi idrici totali consumi idrici e gli scarichi 111 GRI 306-2 Peso totale dei rifiuti rifiuti 123 Compliance ambientale GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-2": {
+        "page": "82.txt",
+        "context_before": "emissioni e i trasporti 115 significative nell'atmosfera Tere Mn GRI 306-1 Scarichi idrici totali consumi idrici e gli scarichi 111",
+        "context_after": "Peso totale dei rifiuti rifiuti 123 Compliance ambientale GRI 307-1 Non conformita a leggi e . . . Non si",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "82.txt",
+        "context_before": "306-1 Scarichi idrici totali consumi idrici e gli scarichi 111 GRI 306-2 Peso totale dei rifiuti rifiuti 123 Compliance ambientale",
+        "context_after": "Non conformita a leggi e . . . Non si registrano sanzioni regolamenti ambientali",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "82.txt",
+        "context_before": "92, 97, 98, 100, 103, 106, 109, 111,115, 119, 123 Molteplici GRI 103-2 Investimenti ambientali Le performance ambientali 101 GRI",
+        "context_after": "Materiali utilizzati Mitigazione degli impatti di Le materie prime 119 prodotti e servizi sull'ambiente Consumo di energia all'interno dellorganizzazione GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "82.txt",
+        "context_before": "Materiali utilizzati Mitigazione degli impatti di Le materie prime 119 prodotti e servizi sull'ambiente Consumo di energia all'interno dellorganizzazione GRI",
+        "context_after": "Uenergia e le fonti rinnovabili 103 Mitigazione degli impatti di prodotti e servizi sull'ambiente Riduzione nel consumo di : .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "82.txt",
+        "context_before": "fonti rinnovabili 103 Mitigazione degli impatti di prodotti e servizi sull'ambiente Riduzione nel consumo di : . L. a GRI",
+        "context_after": "Uenergia e le fonti rinnovabili 103 energia | consumi idrici e gli scarichi 111 GRI 303-1 Consumo totale di acqua",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "82.txt",
+        "context_before": ". L. a GRI 302-4 Uenergia e le fonti rinnovabili 103 energia | consumi idrici e gli scarichi 111 GRI",
+        "context_after": "Consumo totale di acqua La coltivazione biologica dei vigneti in Sicilia 92 Fonti idriche significativamente GRI 303-2 interessate dal prelievo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-2": {
+        "page": "82.txt",
+        "context_before": "scarichi 111 GRI 303-1 Consumo totale di acqua La coltivazione biologica dei vigneti in Sicilia 92 Fonti idriche significativamente GRI",
+        "context_after": "interessate dal prelievo di | consumi idrici e gli scarichi 111 acqua Biodiversita Siti operativi all'interno o in prossimita di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "82.txt",
+        "context_before": "operativi all'interno o in prossimita di aree protette o di Gli impianti del Gruppo non sono situati nelle vicinanze GRI",
+        "context_after": "aree di significativo valore per _ di aree protette la biodiversita Ce Una produzione virtuosa: Mela Valentina 37 Impatti significativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-2": {
+        "page": "82.txt",
+        "context_before": "significativo valore per _ di aree protette la biodiversita Ce Una produzione virtuosa: Mela Valentina 37 Impatti significativi delle GRI",
+        "context_after": "attivita, dei prodotti e dei La produzione integrata in Trentino-Alto Adige 89 servizi sulla biodiversita a . . - Se",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "82.txt",
+        "context_before": "sulla biodiversita a . . - Se Ge La coltivazione biologica dei vigneti in Sicilia 92 Emissioni e trasporti GRI",
+        "context_after": "Impatti ambiental relativi ai Le emissioni e i trasporti 115 trasporti GRI 305-6 Emissioni di sostanze nocive Le emissioni e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-2": false,
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": {
+        "page": "82.txt",
+        "context_before": "in Sicilia 92 Emissioni e trasporti GRI 305-1 Impatti ambiental relativi ai Le emissioni e i trasporti 115 trasporti GRI",
+        "context_after": "Emissioni di sostanze nocive Le emissioni e i trasporti 115 per lo strato di ozono Ossidi di azoto (NOX), ossidi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-7": {
+        "page": "82.txt",
+        "context_before": "di sostanze nocive Le emissioni e i trasporti 115 per lo strato di ozono Ossidi di azoto (NOX), ossidi GRI",
+        "context_after": "di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 significative nell'atmosfera Tere Mn GRI 306-1 Scarichi idrici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-1": {
+        "page": "82.txt",
+        "context_before": "ossidi GRI 305-7 di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 significative nell'atmosfera Tere Mn GRI",
+        "context_after": "Scarichi idrici totali consumi idrici e gli scarichi 111 GRI 306-2 Peso totale dei rifiuti rifiuti 123 Compliance ambientale GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-2": {
+        "page": "82.txt",
+        "context_before": "e i trasporti 115 significative nell'atmosfera Tere Mn GRI 306-1 Scarichi idrici totali consumi idrici e gli scarichi 111 GRI",
+        "context_after": "Peso totale dei rifiuti rifiuti 123 Compliance ambientale GRI 307-1 Non conformita a leggi e . . . Non si",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "82.txt",
+        "context_before": "Scarichi idrici totali consumi idrici e gli scarichi 111 GRI 306-2 Peso totale dei rifiuti rifiuti 123 Compliance ambientale GRI",
+        "context_after": "Non conformita a leggi e . . . Non si registrano sanzioni regolamenti ambientali",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "308-1": false,
+    "308-2": {
+        "page": "8.txt",
+        "context_before": "GRI- 416 -1 GRI - 102-2 GRI - 103-2 GRI - 303-1 GRI - 303-2 GRI - 306-1 GRI -",
+        "context_after": "GRI- 413-1 GRI - 302-1 GRI- 102-5 GRI - 102-7 GRI - 102-4 GRI - 102-8 GRI- 102-16 GRI -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "83.txt",
+        "context_before": "N PAG 23, 129, Informazioni sulla modalita di gestione Molteplici 130, 137, 139, 141 Occupazione Numero e tasso di nuove",
+        "context_after": "-1 assunzioni e turnover del || ruolo prezioso dei collaboratori 134 personale EWC er acme etc elL Periodo minimo di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "83.txt",
+        "context_before": "assunzioni e turnover del || ruolo prezioso dei collaboratori 134 personale EWC er acme etc elL Periodo minimo di preavviso",
+        "context_after": "-1 per modifiche organizzative || ruolo prezioso dei collaboratori 130 FCM MS (ley re Nola) Percentuale di lavoratori totali rappresentati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "83.txt",
+        "context_before": "per modifiche organizzative || ruolo prezioso dei collaboratori 130 FCM MS (ley re Nola) Percentuale di lavoratori totali rappresentati nei",
+        "context_after": "-1 comitati formali azienda- Uambiente di lavoro e la sicurezza 139 lavoratori per la salute e sicurezza Tipologia e tasso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "83.txt",
+        "context_before": "persi, assenteismo e numero di morti sul lavoro GRI 403-2 Uambiente di lavoro e la sicurezza 139 Formazione ed educazione",
+        "context_after": "-1 Ore medie di formazione La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "83.txt",
+        "context_before": "formazione/ aggiornamento progressivo GRI 404-2 La formazione continua 137 Diversita e pari opportunita Composizione degli organi di governo dell'impresa e",
+        "context_after": "-1 oe Il ruclo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversita Rapporto remunerazioni GRI 405-2",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": {
+        "page": "83.txt",
+        "context_before": "prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi legati a pratiche discriminatorie e azioni intraprese",
+        "context_after": "-1 Uambiente di lavoro e la sicurezza 139 Societa: comunita locali Operazioni che coinvolgono _La Cittadella del Vino, il nuovo",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "83.txt",
+        "context_before": "lavoro e la sicurezza 139 Societa: comunita locali Operazioni che coinvolgono _La Cittadella del Vino, il nuovo percorso visita 29",
+        "context_after": "-1 la comunita locale, ~ valutazioni degli impatti e Le esternalita e le ricadute sul territorio: 61 programmi di sviluppo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": {
+        "page": "83.txt",
+        "context_before": "esternalita e le ricadute sul territorio: 61 programmi di sviluppo una village company Societa: politica pubblica Valore totale dei contributi",
+        "context_after": "-1 politici, per paese e beneficiario || Gruppo Mezzacorona non versa contributi politici 164 BILANCIO DI SOSTENIBILITA 2018 GRUPPO MEZZACORONA",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "83.txt",
+        "context_before": "deere Ciae er CMM let re Me tLe a Percentuale delle categorie di prodotto e servizi per i N PAG",
+        "context_after": "-1 quali gli impatti sulla salute e La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": {
+        "page": "83.txt",
+        "context_before": "del consumatore 141 salute e la sicurezza Ty Peele ie Mee leet nacre Myst Reel Non conformita a leggi e",
+        "context_after": "-1 regolamenti economico- Non si registrano sanzioni sociali",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-1": {
+        "page": "83.txt",
+        "context_before": "N PAG 23, 129, Informazioni sulla modalita di gestione Molteplici 130, 137, 139, 141 Occupazione Numero e tasso di nuove",
+        "context_after": "assunzioni e turnover del || ruolo prezioso dei collaboratori 134 personale EWC er acme etc elL Periodo minimo di preavviso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": {
+        "page": "83.txt",
+        "context_before": "assunzioni e turnover del || ruolo prezioso dei collaboratori 134 personale EWC er acme etc elL Periodo minimo di preavviso",
+        "context_after": "per modifiche organizzative || ruolo prezioso dei collaboratori 130 FCM MS (ley re Nola) Percentuale di lavoratori totali rappresentati nei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-1": {
+        "page": "83.txt",
+        "context_before": "per modifiche organizzative || ruolo prezioso dei collaboratori 130 FCM MS (ley re Nola) Percentuale di lavoratori totali rappresentati nei",
+        "context_after": "comitati formali azienda- Uambiente di lavoro e la sicurezza 139 lavoratori per la salute e sicurezza Tipologia e tasso di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": {
+        "page": "83.txt",
+        "context_before": "la salute e sicurezza Tipologia e tasso di infortuni, malattie professionali, giorni persi, assenteismo e numero di morti sul lavoro",
+        "context_after": "Uambiente di lavoro e la sicurezza 139 Formazione ed educazione GRI 404-1 Ore medie di formazione La formazione continua 137",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "83.txt",
+        "context_before": "persi, assenteismo e numero di morti sul lavoro GRI 403-2 Uambiente di lavoro e la sicurezza 139 Formazione ed educazione",
+        "context_after": "Ore medie di formazione La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per promuovere",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": {
+        "page": "83.txt",
+        "context_before": "La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per promuovere una formazione/ aggiornamento progressivo",
+        "context_after": "La formazione continua 137 Diversita e pari opportunita Composizione degli organi di governo dell'impresa e GRI 405-1 oe Il ruclo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "83.txt",
+        "context_before": "formazione/ aggiornamento progressivo GRI 404-2 La formazione continua 137 Diversita e pari opportunita Composizione degli organi di governo dell'impresa e",
+        "context_after": "oe Il ruclo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversita Rapporto remunerazioni GRI 405-2 totali",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": {
+        "page": "83.txt",
+        "context_before": "e GRI 405-1 oe Il ruclo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversita Rapporto remunerazioni",
+        "context_after": "totali lorde tra uomini e || ruolo prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406-1": {
+        "page": "83.txt",
+        "context_before": "prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi legati a pratiche discriminatorie e azioni intraprese",
+        "context_after": "Uambiente di lavoro e la sicurezza 139 Societa: comunita locali Operazioni che coinvolgono _La Cittadella del Vino, il nuovo percorso",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "83.txt",
+        "context_before": "lavoro e la sicurezza 139 Societa: comunita locali Operazioni che coinvolgono _La Cittadella del Vino, il nuovo percorso visita 29",
+        "context_after": "la comunita locale, ~ valutazioni degli impatti e Le esternalita e le ricadute sul territorio: 61 programmi di sviluppo una",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": {
+        "page": "83.txt",
+        "context_before": "esternalita e le ricadute sul territorio: 61 programmi di sviluppo una village company Societa: politica pubblica Valore totale dei contributi",
+        "context_after": "politici, per paese e beneficiario || Gruppo Mezzacorona non versa contributi politici 164 BILANCIO DI SOSTENIBILITA 2018 GRUPPO MEZZACORONA INDICATORE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-1": {
+        "page": "83.txt",
+        "context_before": "deere Ciae er CMM let re Me tLe a Percentuale delle categorie di prodotto e servizi per i N PAG",
+        "context_after": "quali gli impatti sulla salute e La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-2": {
+        "page": "83.txt",
+        "context_before": "La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini del miglioramento Non conformita riguardanti la .",
+        "context_after": "g La salute e la sicurezza del consumatore 141 salute e la sicurezza Ty Peele ie Mee leet nacre Myst",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": {
+        "page": "83.txt",
+        "context_before": "del consumatore 141 salute e la sicurezza Ty Peele ie Mee leet nacre Myst Reel Non conformita a leggi e",
+        "context_after": "regolamenti economico- Non si registrano sanzioni sociali",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "401-1": {
+        "page": "83.txt",
+        "context_before": "PAG 23, 129, Informazioni sulla modalita di gestione Molteplici 130, 137, 139, 141 Occupazione Numero e tasso di nuove GRI",
+        "context_after": "assunzioni e turnover del || ruolo prezioso dei collaboratori 134 personale EWC er acme etc elL Periodo minimo di preavviso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": {
+        "page": "83.txt",
+        "context_before": "e turnover del || ruolo prezioso dei collaboratori 134 personale EWC er acme etc elL Periodo minimo di preavviso GRI",
+        "context_after": "per modifiche organizzative || ruolo prezioso dei collaboratori 130 FCM MS (ley re Nola) Percentuale di lavoratori totali rappresentati nei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-1": {
+        "page": "83.txt",
+        "context_before": "modifiche organizzative || ruolo prezioso dei collaboratori 130 FCM MS (ley re Nola) Percentuale di lavoratori totali rappresentati nei GRI",
+        "context_after": "comitati formali azienda- Uambiente di lavoro e la sicurezza 139 lavoratori per la salute e sicurezza Tipologia e tasso di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "83.txt",
+        "context_before": "salute e sicurezza Tipologia e tasso di infortuni, malattie professionali, giorni persi, assenteismo e numero di morti sul lavoro GRI",
+        "context_after": "Uambiente di lavoro e la sicurezza 139 Formazione ed educazione GRI 404-1 Ore medie di formazione La formazione continua 137",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "83.txt",
+        "context_before": "assenteismo e numero di morti sul lavoro GRI 403-2 Uambiente di lavoro e la sicurezza 139 Formazione ed educazione GRI",
+        "context_after": "Ore medie di formazione La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per promuovere",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "83.txt",
+        "context_before": "formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per promuovere una formazione/ aggiornamento progressivo GRI",
+        "context_after": "La formazione continua 137 Diversita e pari opportunita Composizione degli organi di governo dell'impresa e GRI 405-1 oe Il ruclo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": false,
+    "405-1": {
+        "page": "83.txt",
+        "context_before": "aggiornamento progressivo GRI 404-2 La formazione continua 137 Diversita e pari opportunita Composizione degli organi di governo dell'impresa e GRI",
+        "context_after": "oe Il ruclo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversita Rapporto remunerazioni GRI 405-2 totali",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "83.txt",
+        "context_before": "GRI 405-1 oe Il ruclo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversita Rapporto remunerazioni GRI",
+        "context_after": "totali lorde tra uomini e || ruolo prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "406-1": {
+        "page": "83.txt",
+        "context_before": "dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi legati a pratiche discriminatorie e azioni intraprese GRI",
+        "context_after": "Uambiente di lavoro e la sicurezza 139 Societa: comunita locali Operazioni che coinvolgono _La Cittadella del Vino, il nuovo percorso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "83.txt",
+        "context_before": "e la sicurezza 139 Societa: comunita locali Operazioni che coinvolgono _La Cittadella del Vino, il nuovo percorso visita 29 GRI",
+        "context_after": "la comunita locale, ~ valutazioni degli impatti e Le esternalita e le ricadute sul territorio: 61 programmi di sviluppo una",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": {
+        "page": "83.txt",
+        "context_before": "e le ricadute sul territorio: 61 programmi di sviluppo una village company Societa: politica pubblica Valore totale dei contributi GRI",
+        "context_after": "politici, per paese e beneficiario || Gruppo Mezzacorona non versa contributi politici 164 BILANCIO DI SOSTENIBILITA 2018 GRUPPO MEZZACORONA INDICATORE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "83.txt",
+        "context_before": "Ciae er CMM let re Me tLe a Percentuale delle categorie di prodotto e servizi per i N PAG GRI",
+        "context_after": "quali gli impatti sulla salute e La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "83.txt",
+        "context_before": "salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini del miglioramento Non conformita riguardanti la . GRI",
+        "context_after": "g La salute e la sicurezza del consumatore 141 salute e la sicurezza Ty Peele ie Mee leet nacre Myst",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "83.txt",
+        "context_before": "consumatore 141 salute e la sicurezza Ty Peele ie Mee leet nacre Myst Reel Non conformita a leggi e GRI",
+        "context_after": "regolamenti economico- Non si registrano sanzioni sociali",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    }
+}

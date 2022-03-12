@@ -1,0 +1,925 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "75.txt",
+        "context_before": "2016 -> This reference to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of",
+        "context_after": ", GRI 202, GRI 203, GRI 204, GRI 205, GRI 206. Notes Omissions 103-1 18 Explanation of the material subject",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "75.txt",
+        "context_before": "This reference to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 201,",
+        "context_after": ", GRI 203, GRI 204, GRI 205, GRI 206. Notes Omissions 103-1 18 Explanation of the material subject and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "75.txt",
+        "context_before": "to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 201, GRI 202,",
+        "context_after": ", GRI 204, GRI 205, GRI 206. Notes Omissions 103-1 18 Explanation of the material subject and its limits 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "75.txt",
+        "context_before": "management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 201, GRI 202, GRI 203,",
+        "context_after": ", GRI 205, GRI 206. Notes Omissions 103-1 18 Explanation of the material subject and its limits 103-2 3,13,14,15, Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "75.txt",
+        "context_before": "and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 201, GRI 202, GRI 203, GRI 204,",
+        "context_after": ", GRI 206. Notes Omissions 103-1 18 Explanation of the material subject and its limits 103-2 3,13,14,15, Management approach and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "75.txt",
+        "context_before": "disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 201, GRI 202, GRI 203, GRI 204, GRI 205,",
+        "context_after": ". Notes Omissions 103-1 18 Explanation of the material subject and its limits 103-2 3,13,14,15, Management approach and its 16,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "75.txt",
+        "context_before": "Units of the Company. The company will have this information in the next reporting period. GRI 201: ECONOMIC PERFORMANCE 2016",
+        "context_after": "36 [201-1b] Not applicable Direct economic value generated and Added value by country, region, market is not relevant distributed 201-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "75.txt",
+        "context_before": "201-1 36 [201-1b] Not applicable Direct economic value generated and Added value by country, region, market is not relevant distributed",
+        "context_after": "Information unavailable Direct economic value generated and At this stage the organisation has not planned a method for assessing distributed",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": {
+        "page": "75.txt",
+        "context_before": "assessing distributed risks and opportunities due to climate change The company will have this information in the next reporting period.",
+        "context_after": "Not applicable Coverage of pension plans defined by Italian labour law does not forsee pensions plans. the organisation 201-4 28,28,29",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "75.txt",
+        "context_before": "period. 201-3 Not applicable Coverage of pension plans defined by Italian labour law does not forsee pensions plans. the organisation",
+        "context_after": "28,28,29 Financing received from the Public Administration GRI 202: MARKET PRESENCE 2016 202-1 60 Ratio of standard salary of new",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "75.txt",
+        "context_before": "does not forsee pensions plans. the organisation 201-4 28,28,29 Financing received from the Public Administration GRI 202: MARKET PRESENCE 2016",
+        "context_after": "60 Ratio of standard salary of new recruits by gender to local minimum salary 202-2 8 Percentage of senior managers",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "75.txt",
+        "context_before": "GRI 202: MARKET PRESENCE 2016 202-1 60 Ratio of standard salary of new recruits by gender to local minimum salary",
+        "context_after": "8 Percentage of senior managers employed in the local community GRI 203: INDIRECT ECONOMIC IMPACTS 2016 203-1 26 Infrastructure and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "75.txt",
+        "context_before": "local minimum salary 202-2 8 Percentage of senior managers employed in the local community GRI 203: INDIRECT ECONOMIC IMPACTS 2016",
+        "context_after": "26 Infrastructure and services provided 203-2 Not applicable Main indirect economic impacts Are not significant GRI 204: PROCUREMENT PRACTICES 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "75.txt",
+        "context_before": "of senior managers employed in the local community GRI 203: INDIRECT ECONOMIC IMPACTS 2016 203-1 26 Infrastructure and services provided",
+        "context_after": "Not applicable Main indirect economic impacts Are not significant GRI 204: PROCUREMENT PRACTICES 2016 204-1 20 Percentage of expenditure concentrated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "75.txt",
+        "context_before": "26 Infrastructure and services provided 203-2 Not applicable Main indirect economic impacts Are not significant GRI 204: PROCUREMENT PRACTICES 2016",
+        "context_after": "20 Percentage of expenditure concentrated on local suppliers GRI 205: ANTI-CORRUPTION 2016 205-1 15 Operations analyzed with respect to risks",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "75.txt",
+        "context_before": "not significant GRI 204: PROCUREMENT PRACTICES 2016 204-1 20 Percentage of expenditure concentrated on local suppliers GRI 205: ANTI-CORRUPTION 2016",
+        "context_after": "15 Operations analyzed with respect to risks related to corruption 205-2 Information unavailable Communication and training on anti- The Company",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "75.txt",
+        "context_before": "expenditure concentrated on local suppliers GRI 205: ANTI-CORRUPTION 2016 205-1 15 Operations analyzed with respect to risks related to corruption",
+        "context_after": "Information unavailable Communication and training on anti- The Company is going to be implemented the tool for identifying, corruption procedures",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "75.txt",
+        "context_before": "231 will cover all Business Units of the Company. The company will have this information in the next reporting period.",
+        "context_after": "Not applicable Corruption incidents and actions taken The company has had zero corruption incidents. GRI 206: ANTI-COMPETITIVE BEHAVIOUR 2016 206-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": {
+        "page": "75.txt",
+        "context_before": "205-3 Not applicable Corruption incidents and actions taken The company has had zero corruption incidents. GRI 206: ANTI-COMPETITIVE BEHAVIOUR 2016",
+        "context_after": "15 Legal actions for anti-competitive behaviour, antitrust and monopolistic practices @O 76",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "76.txt",
+        "context_before": "2016 -> This reference to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of",
+        "context_after": ", GRI 302, GRI 303, GRI 304, GRI 305, GRI 306, GRI 307, GRI 308. 103-1 18 Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "76.txt",
+        "context_before": "This reference to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 301,",
+        "context_after": ", GRI 303, GRI 304, GRI 305, GRI 306, GRI 307, GRI 308. 103-1 18 Explanation of the material subject",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "76.txt",
+        "context_before": "to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 301, GRI 302,",
+        "context_after": ", GRI 304, GRI 305, GRI 306, GRI 307, GRI 308. 103-1 18 Explanation of the material subject and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "76.txt",
+        "context_before": "management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 301, GRI 302, GRI 303,",
+        "context_after": ", GRI 305, GRI 306, GRI 307, GRI 308. 103-1 18 Explanation of the material subject and its limits 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "77.txt",
+        "context_before": "Page GRI Standard Notes Omissions number",
+        "context_after": ": EMISSIONS 2016 305-1 Information unavailable Direct GHG emissions (Scope 1) The company is going to be implemented this kind",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "77.txt",
+        "context_before": "kind of information in next assessment of ISO 14001 The company will have this information in the next reporting period.",
+        "context_after": ": EFFLUENTS AND WASTE 2016 306-1 62 Total water discharges by quality and destination 306-2 65 Total weight of waste",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "77.txt",
+        "context_before": "not detected any significant spill 306-4 65 Transport of hazardous waste 306-5 62 Water bodies affected by discharges and/or run-off",
+        "context_after": ": ENVIRONMENTAL COMPLIANCE 2016 307-1 15 Non-compliance with environmental laws and regulations GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT 2016 308-1 New",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": {
+        "page": "77.txt",
+        "context_before": "Water bodies affected by discharges and/or run-off GRI 307: ENVIRONMENTAL COMPLIANCE 2016 307-1 15 Non-compliance with environmental laws and regulations",
+        "context_after": ": SUPPLIER ENVIRONMENTAL ASSESSMENT 2016 308-1 New suppliers evaluated on the basis of environmental criteria 20 308-2 Negative environmental impacts",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "76.txt",
+        "context_before": "103-2 15,20,56,57, Management approach and its components 61,62, 63,65,68,69 103-3 55 Assessment of the management approach GRI 301: MATERIALS 2016",
+        "context_after": "69 Raw materials used by weight or volume 301-2 Information unavailable Percentage of materials used that come from The company",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "76.txt",
+        "context_before": "103-3 55 Assessment of the management approach GRI 301: MATERIALS 2016 301-1 69 Raw materials used by weight or volume",
+        "context_after": "Information unavailable Percentage of materials used that come from The company is going to be implemented this kind of ratio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "301-3": {
+        "page": "76.txt",
+        "context_before": "ratio in next assessment of ISO 14001- recycled material The company will have this information in the next reporting period.",
+        "context_after": "Information unavailable Regenerated products and related packaging The company is going to be implemented this kind of information materials in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "76.txt",
+        "context_before": "next assessment of ISO 14001 The company will have this information in the next reporting period. GRI 302: ENERGY 2016",
+        "context_after": "63 Energy consumption within the organisation 302-2 63 Energy consumption outside the organisation 302-3 63 Energy intensity 302-4 63 Reduction",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "76.txt",
+        "context_before": "will have this information in the next reporting period. GRI 302: ENERGY 2016 302-1 63 Energy consumption within the organisation",
+        "context_after": "63 Energy consumption outside the organisation 302-3 63 Energy intensity 302-4 63 Reduction of energy consumption 302-5 63 Reducing the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "76.txt",
+        "context_before": "reporting period. GRI 302: ENERGY 2016 302-1 63 Energy consumption within the organisation 302-2 63 Energy consumption outside the organisation",
+        "context_after": "63 Energy intensity 302-4 63 Reduction of energy consumption 302-5 63 Reducing the energy consumption of products and services GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "76.txt",
+        "context_before": "ENERGY 2016 302-1 63 Energy consumption within the organisation 302-2 63 Energy consumption outside the organisation 302-3 63 Energy intensity",
+        "context_after": "63 Reduction of energy consumption 302-5 63 Reducing the energy consumption of products and services GRI 303: WATER AND EFFLUENTS",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "76.txt",
+        "context_before": "within the organisation 302-2 63 Energy consumption outside the organisation 302-3 63 Energy intensity 302-4 63 Reduction of energy consumption",
+        "context_after": "63 Reducing the energy consumption of products and services GRI 303: WATER AND EFFLUENTS 2018 303-1 62 Interactions with water",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "76.txt",
+        "context_before": "Reduction of energy consumption 302-5 63 Reducing the energy consumption of products and services GRI 303: WATER AND EFFLUENTS 2018",
+        "context_after": "62 Interactions with water as a shared resource 303-2 62,65,69 Management of water discharge-related impacts 303-3 62 Water withdrawal 303-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "76.txt",
+        "context_before": "consumption of products and services GRI 303: WATER AND EFFLUENTS 2018 303-1 62 Interactions with water as a shared resource",
+        "context_after": "62,65,69 Management of water discharge-related impacts 303-3 62 Water withdrawal 303-4 62 Water discharge 303-5 Information unavailable Water consumption The",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "76.txt",
+        "context_before": "WATER AND EFFLUENTS 2018 303-1 62 Interactions with water as a shared resource 303-2 62,65,69 Management of water discharge-related impacts",
+        "context_after": "62 Water withdrawal 303-4 62 Water discharge 303-5 Information unavailable Water consumption The company is going to be implemented this",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": {
+        "page": "76.txt",
+        "context_before": "303-1 62 Interactions with water as a shared resource 303-2 62,65,69 Management of water discharge-related impacts 303-3 62 Water withdrawal",
+        "context_after": "62 Water discharge 303-5 Information unavailable Water consumption The company is going to be implemented this kind of ratio in",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "303-5": {
+        "page": "76.txt",
+        "context_before": "water as a shared resource 303-2 62,65,69 Management of water discharge-related impacts 303-3 62 Water withdrawal 303-4 62 Water discharge",
+        "context_after": "Information unavailable Water consumption The company is going to be implemented this kind of ratio in next assessment of ISO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-1": {
+        "page": "76.txt",
+        "context_before": "next assessment of ISO 14001 The company will have this information in the next reporting period. GRI 304: BIODIVERSITY 2016",
+        "context_after": "Not applicable Operational sites owned, leased, managed in, We do not own nor our operations are placed in areas of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "76.txt",
+        "context_before": "in areas of or adjacent to, protected areas and area of importance for biodiversity. high biodiversity value outside protected areas.",
+        "context_after": "Not applicable Significant impacts of activities, products and We do not own nor our operations are placed in areas of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-3": {
+        "page": "76.txt",
+        "context_before": "products and We do not own nor our operations are placed in areas of services of biodiversity importance for biodiversity.",
+        "context_after": "Not applicable Habitants protected or restores We do not own nor our operations are placed in areas of importance for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-4": {
+        "page": "76.txt",
+        "context_before": "applicable Habitants protected or restores We do not own nor our operations are placed in areas of importance for biodiversity.",
+        "context_after": "Not applicable IUCN Red List species and national We do not own nor our operations are placed in areas of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-1": {
+        "page": "77.txt",
+        "context_before": "Page GRI Standard Notes Omissions number GRI 305: EMISSIONS 2016",
+        "context_after": "Information unavailable Direct GHG emissions (Scope 1) The company is going to be implemented this kind of information in next",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "77.txt",
+        "context_before": "kind of information in next assessment of ISO 14001 The company will have this information in the next reporting period.",
+        "context_after": "Information unavailable Indirect GHG emissions (Scope 2) The company is going to be implemented this kind of information in next",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "77.txt",
+        "context_before": "kind of information in next assessment of ISO 14001 The company will have this information in the next reporting period.",
+        "context_after": "Information unavailable Other indirect GHG emissions (Scope 3) The company is going to be implemented this kind of information in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "77.txt",
+        "context_before": "kind of information in next assessment of ISO 14001 The company will have this information in the next reporting period.",
+        "context_after": "Information unavailable GHG emission intensity The company is going to be implemented this kind of information in next assessment of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "77.txt",
+        "context_before": "kind of information in next assessment of ISO 14001 The company will have this information in the next reporting period.",
+        "context_after": "Information unavailable Reduction of GHG emissions The company is going to be implemented this kind of information in next assessment",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "77.txt",
+        "context_before": "kind of information in next assessment of ISO 14001 The company will have this information in the next reporting period.",
+        "context_after": "Information unavailable Emissions of ozone-depleting substances (ODS) The company is going to be implemented this kind of information in next",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "77.txt",
+        "context_before": "kind of information in next assessment of ISO 14001 The company will have this information in the next reporting period.",
+        "context_after": "68 [305-7 a i] [305-7 a ii] NO, SO, and other significant emissions (305-7 a ~ iii] [305-7 av] (305-7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "77.txt",
+        "context_before": "of ISO 14001 The company will have this information in the next reporting period. GRI 306: EFFLUENTS AND WASTE 2016",
+        "context_after": "62 Total water discharges by quality and destination 306-2 65 Total weight of waste by type and method of disposal",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "77.txt",
+        "context_before": "in the next reporting period. GRI 306: EFFLUENTS AND WASTE 2016 306-1 62 Total water discharges by quality and destination",
+        "context_after": "65 Total weight of waste by type and method of disposal 306-3 Not applicable Accidental losses The company has not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "77.txt",
+        "context_before": "62 Total water discharges by quality and destination 306-2 65 Total weight of waste by type and method of disposal",
+        "context_after": "Not applicable Accidental losses The company has not detected any significant spill 306-4 65 Transport of hazardous waste 306-5 62",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-4": {
+        "page": "77.txt",
+        "context_before": "waste by type and method of disposal 306-3 Not applicable Accidental losses The company has not detected any significant spill",
+        "context_after": "65 Transport of hazardous waste 306-5 62 Water bodies affected by discharges and/or run-off GRI 307: ENVIRONMENTAL COMPLIANCE 2016 307-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-5": {
+        "page": "77.txt",
+        "context_before": "disposal 306-3 Not applicable Accidental losses The company has not detected any significant spill 306-4 65 Transport of hazardous waste",
+        "context_after": "62 Water bodies affected by discharges and/or run-off GRI 307: ENVIRONMENTAL COMPLIANCE 2016 307-1 15 Non-compliance with environmental laws and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "307-1": {
+        "page": "77.txt",
+        "context_before": "306-4 65 Transport of hazardous waste 306-5 62 Water bodies affected by discharges and/or run-off GRI 307: ENVIRONMENTAL COMPLIANCE 2016",
+        "context_after": "15 Non-compliance with environmental laws and regulations GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT 2016 308-1 New suppliers evaluated on the basis",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "77.txt",
+        "context_before": "run-off GRI 307: ENVIRONMENTAL COMPLIANCE 2016 307-1 15 Non-compliance with environmental laws and regulations GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT 2016",
+        "context_after": "New suppliers evaluated on the basis of environmental criteria 20 308-2 Negative environmental impacts in the supply chain and actions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "77.txt",
+        "context_before": "laws and regulations GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT 2016 308-1 New suppliers evaluated on the basis of environmental criteria 20",
+        "context_after": "Negative environmental impacts in the supply chain and actions taken Information unavailable The Company is going to be implemented the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "78.txt",
+        "context_before": "2016 -> This reference to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of",
+        "context_after": ", GRI 402, GRI 403, GRI 404, GRI 405, GRI 406, GRI 407, GRI 408, GRI 409, GR/ 410, GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "78.txt",
+        "context_before": "This reference to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 401,",
+        "context_after": ", GRI 403, GRI 404, GRI 405, GRI 406, GRI 407, GRI 408, GRI 409, GR/ 410, GRI 411,GRI 412,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "78.txt",
+        "context_before": "to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material topics of GRI 401, GRI 402,",
+        "context_after": ", GRI 404, GRI 405, GRI 406, GRI 407, GRI 408, GRI 409, GR/ 410, GRI 411,GRI 412, GRI 413,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "79.txt",
+        "context_before": "Page GRI Standard Notes Omissions number",
+        "context_after": ": TRAINING AND EDUCATION 2016 404-1 70 Average hours of training per employee per year 404-2 70 Competence management and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "79.txt",
+        "context_before": "404-2 70 Competence management and end-of- career management programmes 404-3 Percentage of employees receiving regular career development and results reports",
+        "context_after": ": DIVERSITY AND EQUAL OPPORTUNITY 2016 405-1 57 Composition of the governing bodies and subdivision of employees Information unavailable Internal",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "79.txt",
+        "context_before": "The company will have this information in the next reporting period 405-2 60. Ratio of basic male and female salary",
+        "context_after": ": NON-DISCRIMINATION 2016 406-1 15 Accidents related to discrimination and actions taken GRI 407: FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "79.txt",
+        "context_before": "Ratio of basic male and female salary GRI 406: NON-DISCRIMINATION 2016 406-1 15 Accidents related to discrimination and actions taken",
+        "context_after": ": FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING 2016 407-1 Operations and suppliers where the right to freedom of association and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": {
+        "page": "79.txt",
+        "context_before": "BARGAINING 2016 407-1 Operations and suppliers where the right to freedom of association and collective bargaining may be at risk",
+        "context_after": ": CHILD LABOUR 2016 408-1 Operations and suppliers at significant risk for incidents involving child labour Not Applicable All employees",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 409": {
+        "page": "79.txt",
+        "context_before": "October 1967 https://www.gazzettaufficiale.it/eli/id/1967/11/06/067U0977/sg - Law number 296 of 27 December 2006 https://www.gazzettaufficiale.it/eli/id/2007/01/11/07A00183/sg - Article number 37 of Italian Constitution https://www.brocardi.it/costituzione/parte-i/titolo-iii/art37.html",
+        "context_after": ": FORCED OR COMPULSORY LABOR 2016 409-1 Operations and suppliers at significant risk for cases of forced or compulsory labour",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": {
+        "page": "79.txt",
+        "context_before": "compulsory labour Not Applicable We did not register any risk of compulsory or forced labour during 42 years of business.",
+        "context_after": ": SECURITY PRACTICES 2016 410-1 Security personnel trained in human rights procedures and policies Not applicable We have only guardians",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 411": {
+        "page": "79.txt",
+        "context_before": "rights procedures and policies Not applicable We have only guardians who attend safety-training courses; we don't have a propersecurity personnel.",
+        "context_after": ": RIGHTS OF INDIGENOUS PEOPLES 2016 411-1 Incidents of violations involving rights of indigenous peoples Not Applicable Our activity do",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 412": {
+        "page": "79.txt",
+        "context_before": "PEOPLES 2016 411-1 Incidents of violations involving rights of indigenous peoples Not Applicable Our activity do not involve indigenous peoples.",
+        "context_after": ": HUMAN RIGHTS ASSESSMENT 2016 412-1 Number and percentage of areas of operation subject to human rights audits 412-2 Training",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "80.txt",
+        "context_before": "Page GRI Standard Notes Omissions number",
+        "context_after": ": LOCAL COMMUNITIES 2016 413-1 71 Every year we support the local community and Operation with implementation of we developed",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "80.txt",
+        "context_before": "carry out significant negative impacts on local activities that have significant negative, communities potential and current impacts on local communities",
+        "context_after": ": SUPPLIER SOCIAL ASSESSMENT 2016 414-1 20 New suppliers evaluated on the basis of social criteria 414-2 20 Negative social",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": {
+        "page": "80.txt",
+        "context_before": "suppliers evaluated on the basis of social criteria 414-2 20 Negative social impacts in the supply chain and actions taken",
+        "context_after": ": PUBLIC POLICY 2016 415-1 Not Applicable Political contributions The company does not make political contributions. GRI 416: CUSTOMER HEALTH",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "80.txt",
+        "context_before": "and actions taken GRI 415: PUBLIC POLICY 2016 415-1 Not Applicable Political contributions The company does not make political contributions.",
+        "context_after": ": CUSTOMER HEALTH AND SAFETY 2016 416-1 24 Assessment of the health and safety impact of product and service categories",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "80.txt",
+        "context_before": "to a warning and even cases of non-compliance with the codes of self-regulation community engagement programs, impact assessment and development",
+        "context_after": ": MARKETING AND LABELING 2016 417-1 69 Requirements for product and service information and labelling 417-2 Not Applicable Non-compliance regarding",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "80.txt",
+        "context_before": "417-3 Not Applicable Non-compliance incidents involving The organization has not found any non- compliance incidents involving marketing communications marketing communications",
+        "context_after": ": CUSTOMER PRIVACY 2016 418-1 Not Applicable Established complaints regarding No violation of customers privacy occurred because we did not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "80.txt",
+        "context_before": "privacy occurred because we did not received breaches of customer privacy and loss any complaints regarding privacy. of customer data",
+        "context_after": ": SOCIO-ECONOMIC COMPLIANCE 2016 419-1 Not Applicable Failure to comply with social and The organization has not detected any economic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "78.txt",
+        "context_before": "Business Units of the Company. The company will have this information in the next reporting period GRI 401: EMPLOYMENT 2016",
+        "context_after": "57 Total number and number of hires and turnover rate 401-2 59 Benefits provided to full-time employees that are not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "78.txt",
+        "context_before": "in the next reporting period GRI 401: EMPLOYMENT 2016 401-1 57 Total number and number of hires and turnover rate",
+        "context_after": "59 Benefits provided to full-time employees that are not provided to temporary or part-time employees 401-3 71 Parental leave GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "78.txt",
+        "context_before": "hires and turnover rate 401-2 59 Benefits provided to full-time employees that are not provided to temporary or part-time employees",
+        "context_after": "71 Parental leave GRI 402: LABOR-MANAGEMENT RELATIONS 2016 402-1 Minimum notice period for operational changes Not applicable Notice period depends",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": {
+        "page": "78.txt",
+        "context_before": "full-time employees that are not provided to temporary or part-time employees 401-3 71 Parental leave GRI 402: LABOR-MANAGEMENT RELATIONS 2016",
+        "context_after": "Minimum notice period for operational changes Not applicable Notice period depends on the nature of the operational change. For this",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "78.txt",
+        "context_before": "Nonetheless, being a medium-size company let us promptly inform employees on operational changes. GRI 403: OCCUPATIONAL HEALTH AND SAFETY 2018",
+        "context_after": "61 Occupational health and safety management system 403-2 61 Hazard identification, risk assessment, and incident investigation 403-3 61 Occupational health",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "78.txt",
+        "context_before": "inform employees on operational changes. GRI 403: OCCUPATIONAL HEALTH AND SAFETY 2018 403-1 61 Occupational health and safety management system",
+        "context_after": "61 Hazard identification, risk assessment, and incident investigation 403-3 61 Occupational health services 403-4 61 Worker participation, consultation, and communication",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "78.txt",
+        "context_before": "AND SAFETY 2018 403-1 61 Occupational health and safety management system 403-2 61 Hazard identification, risk assessment, and incident investigation",
+        "context_after": "61 Occupational health services 403-4 61 Worker participation, consultation, and communication on occupational health and safety 403-5 61 Worker training",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "78.txt",
+        "context_before": "Occupational health and safety management system 403-2 61 Hazard identification, risk assessment, and incident investigation 403-3 61 Occupational health services",
+        "context_after": "61 Worker participation, consultation, and communication on occupational health and safety 403-5 61 Worker training on occupational health and safety",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": {
+        "page": "78.txt",
+        "context_before": "and incident investigation 403-3 61 Occupational health services 403-4 61 Worker participation, consultation, and communication on occupational health and safety",
+        "context_after": "61 Worker training on occupational health and safety 403-6 61 Promotion of worker health 403-7 61 Prevention and mitigation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-6": {
+        "page": "78.txt",
+        "context_before": "61 Worker participation, consultation, and communication on occupational health and safety 403-5 61 Worker training on occupational health and safety",
+        "context_after": "61 Promotion of worker health 403-7 61 Prevention and mitigation of occupational health and safety impacts directly linked by business",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": {
+        "page": "78.txt",
+        "context_before": "on occupational health and safety 403-5 61 Worker training on occupational health and safety 403-6 61 Promotion of worker health",
+        "context_after": "61 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships 403-8 61 Workers covered by",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-8": {
+        "page": "78.txt",
+        "context_before": "Promotion of worker health 403-7 61 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships",
+        "context_after": "61 Workers covered by an occupational health and safety management system 403-9 61 Work-related injuries 403-10 61 Work-related ill health",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-9": {
+        "page": "78.txt",
+        "context_before": "and safety impacts directly linked by business relationships 403-8 61 Workers covered by an occupational health and safety management system",
+        "context_after": "61 Work-related injuries 403-10 61 Work-related ill health 6 79",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-10": {
+        "page": "78.txt",
+        "context_before": "linked by business relationships 403-8 61 Workers covered by an occupational health and safety management system 403-9 61 Work-related injuries",
+        "context_after": "61 Work-related ill health 6 79",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "404-1": {
+        "page": "79.txt",
+        "context_before": "Page GRI Standard Notes Omissions number GRI 404: TRAINING AND EDUCATION 2016",
+        "context_after": "70 Average hours of training per employee per year 404-2 70 Competence management and end-of- career management programmes 404-3 Percentage",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "79.txt",
+        "context_before": "Standard Notes Omissions number GRI 404: TRAINING AND EDUCATION 2016 404-1 70 Average hours of training per employee per year",
+        "context_after": "70 Competence management and end-of- career management programmes 404-3 Percentage of employees receiving regular career development and results reports GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "79.txt",
+        "context_before": "2016 404-1 70 Average hours of training per employee per year 404-2 70 Competence management and end-of- career management programmes",
+        "context_after": "Percentage of employees receiving regular career development and results reports GRI 405: DIVERSITY AND EQUAL OPPORTUNITY 2016 405-1 57 Composition",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "79.txt",
+        "context_before": "management programmes 404-3 Percentage of employees receiving regular career development and results reports GRI 405: DIVERSITY AND EQUAL OPPORTUNITY 2016",
+        "context_after": "57 Composition of the governing bodies and subdivision of employees Information unavailable Internal procedures to assess employees and to plan",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "79.txt",
+        "context_before": "employees and to plan their development are in progress. The company will have this information in the next reporting period",
+        "context_after": "60. Ratio of basic male and female salary GRI 406: NON-DISCRIMINATION 2016 406-1 15 Accidents related to discrimination and actions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "79.txt",
+        "context_before": "this information in the next reporting period 405-2 60. Ratio of basic male and female salary GRI 406: NON-DISCRIMINATION 2016",
+        "context_after": "15 Accidents related to discrimination and actions taken GRI 407: FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING 2016 407-1 Operations and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "79.txt",
+        "context_before": "NON-DISCRIMINATION 2016 406-1 15 Accidents related to discrimination and actions taken GRI 407: FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING 2016",
+        "context_after": "Operations and suppliers where the right to freedom of association and collective bargaining may be at risk GRI 408: CHILD",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "79.txt",
+        "context_before": "suppliers where the right to freedom of association and collective bargaining may be at risk GRI 408: CHILD LABOUR 2016",
+        "context_after": "Operations and suppliers at significant risk for incidents involving child labour Not Applicable All employees are coveredby a collective bargaining",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "79.txt",
+        "context_before": "of 27 December 2006 https://www.gazzettaufficiale.it/eli/id/2007/01/11/07A00183/sg - Article number 37 of Italian Constitution https://www.brocardi.it/costituzione/parte-i/titolo-iii/art37.html GRI 409: FORCED OR COMPULSORY LABOR 2016",
+        "context_after": "Operations and suppliers at significant risk for cases of forced or compulsory labour Not Applicable We did not register any",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": {
+        "page": "79.txt",
+        "context_before": "did not register any risk of compulsory or forced labour during 42 years of business. GRI 410: SECURITY PRACTICES 2016",
+        "context_after": "Security personnel trained in human rights procedures and policies Not applicable We have only guardians who attend safety-training courses; we",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": {
+        "page": "79.txt",
+        "context_before": "have only guardians who attend safety-training courses; we don't have a propersecurity personnel. GRI 411: RIGHTS OF INDIGENOUS PEOPLES 2016",
+        "context_after": "Incidents of violations involving rights of indigenous peoples Not Applicable Our activity do not involve indigenous peoples. GRI 412: HUMAN",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "412-1": {
+        "page": "79.txt",
+        "context_before": "involving rights of indigenous peoples Not Applicable Our activity do not involve indigenous peoples. GRI 412: HUMAN RIGHTS ASSESSMENT 2016",
+        "context_after": "Number and percentage of areas of operation subject to human rights audits 412-2 Training of employees on human rights policies",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "79.txt",
+        "context_before": "peoples. GRI 412: HUMAN RIGHTS ASSESSMENT 2016 412-1 Number and percentage of areas of operation subject to human rights audits",
+        "context_after": "Training of employees on human rights policies and procedures 412-3 22 Significant investment agreements and contracts that include human rights",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "79.txt",
+        "context_before": "percentage of areas of operation subject to human rights audits 412-2 Training of employees on human rights policies and procedures",
+        "context_after": "22 Significant investment agreements and contracts that include human rights clauses or that are subject to related valuation Information unavailable",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "80.txt",
+        "context_before": "Page GRI Standard Notes Omissions number GRI 413: LOCAL COMMUNITIES 2016",
+        "context_after": "71 Every year we support the local community and Operation with implementation of we developed our strategy according to its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "80.txt",
+        "context_before": "conditions of local people and to protect vulnerable groups; 1.3% of the total added .value is distributed to local communities.",
+        "context_after": "Not Applicable Operations with current and potential The company does not carry out significant negative impacts on local activities that",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": {
+        "page": "80.txt",
+        "context_before": "local activities that have significant negative, communities potential and current impacts on local communities GRI 414: SUPPLIER SOCIAL ASSESSMENT 2016",
+        "context_after": "20 New suppliers evaluated on the basis of social criteria 414-2 20 Negative social impacts in the supply chain and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "80.txt",
+        "context_before": "on local communities GRI 414: SUPPLIER SOCIAL ASSESSMENT 2016 414-1 20 New suppliers evaluated on the basis of social criteria",
+        "context_after": "20 Negative social impacts in the supply chain and actions taken GRI 415: PUBLIC POLICY 2016 415-1 Not Applicable Political",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "80.txt",
+        "context_before": "of social criteria 414-2 20 Negative social impacts in the supply chain and actions taken GRI 415: PUBLIC POLICY 2016",
+        "context_after": "Not Applicable Political contributions The company does not make political contributions. GRI 416: CUSTOMER HEALTH AND SAFETY 2016 416-1 24",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "80.txt",
+        "context_before": "2016 415-1 Not Applicable Political contributions The company does not make political contributions. GRI 416: CUSTOMER HEALTH AND SAFETY 2016",
+        "context_after": "24 Assessment of the health and safety impact of product and service categories 416-2 Not Applicable Operation with implementation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "80.txt",
+        "context_before": "416: CUSTOMER HEALTH AND SAFETY 2016 416-1 24 Assessment of the health and safety impact of product and service categories",
+        "context_after": "Not Applicable Operation with implementation of During the year 2018, there were no cases of non-compliance in the company regarding",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "80.txt",
+        "context_before": "of non-compliance with the codes of self-regulation community engagement programs, impact assessment and development GRI 417: MARKETING AND LABELING 2016",
+        "context_after": "69 Requirements for product and service information and labelling 417-2 Not Applicable Non-compliance regarding product and The organization has not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "80.txt",
+        "context_before": "impact assessment and development GRI 417: MARKETING AND LABELING 2016 417-1 69 Requirements for product and service information and labelling",
+        "context_after": "Not Applicable Non-compliance regarding product and The organization has not found any non- compliance regarding product and service information and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "80.txt",
+        "context_before": "and The organization has not found any non- compliance regarding product and service information and labelling service information and labelling",
+        "context_after": "Not Applicable Non-compliance incidents involving The organization has not found any non- compliance incidents involving marketing communications marketing communications GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "80.txt",
+        "context_before": "involving The organization has not found any non- compliance incidents involving marketing communications marketing communications GRI 418: CUSTOMER PRIVACY 2016",
+        "context_after": "Not Applicable Established complaints regarding No violation of customers privacy occurred because we did not received breaches of customer privacy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "80.txt",
+        "context_before": "not received breaches of customer privacy and loss any complaints regarding privacy. of customer data GRI 419: SOCIO-ECONOMIC COMPLIANCE 2016",
+        "context_after": "Not Applicable Failure to comply with social and The organization has not detected any economic laws and regulations cases of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

@@ -1,0 +1,787 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "200.txt",
+        "context_before": "102-49 102-50 102-51 102-52 102-53 102-54 102-55 102-56 Material Topics Economic Performance GRI 103: 103-1 Management Approach 2016 103-2 103-3",
+        "context_after": ": Economic 201-1 Performance 2016 201-2 201-3 Disclosure Defining report content and topic Boundaries List of material topics Restatements of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "201.txt",
+        "context_before": "page 40; 103-2 ! and its components page 215 Evaluation of the . 103-3 management approach page 36; page 40",
+        "context_after": ": Market Ratios of standard entry Presence 2016 7 level wage by gender Principle 1,2, 202-1 compared to local minimum",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "201.txt",
+        "context_before": "40; 103-2 ! 1 and its components page 215 Evaluation of the . 103-3 management approach page 36; page 40",
+        "context_after": ": Indirect Infrastructure investments 2,5, Economic 203-1 . pages 45-46; page 95 7,9, Impacts 2016 and services supported \"1 1,2,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "201.txt",
+        "context_before": "page 216 FN-CB- 103-3 Evaluation of the page 25; pages 40-41; 510a.2 management approach page 52; pages 59-60 FN-AC- 510a.2",
+        "context_after": ": Anti- 7 Operations assessed for Principle corruption 2016 795! risks related to corruption 2959 10 16 Communication and training",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "202.txt",
+        "context_before": "102-55 GRI Standards Disclosure 103-3",
+        "context_after": ": Anti-competitive Behavior 2016 206-1 Evaluation of the management approach Legal actions for anti- competitive behavior, anti- trust, and monopoly",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "94.txt",
+        "context_before": "",
+        "context_after": "; 203-1; RELATIONS WITH THE COMMUNITY 103-2 Society Relations with the community COMPANY POLICIES The Group plays an active role",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-2": {
+        "page": "49.txt",
+        "context_before": "50 Governance and management of risks 102-11; 102-29;",
+        "context_after": "With reference to direct impacts, Intesa Sanpaolo is committed to analysing and containing possible risks on its properties. The Risk",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-3": {
+        "page": "200.txt",
+        "context_before": "102-56 Material Topics Economic Performance GRI 103: 103-1 Management Approach 2016 103-2 103-3 GRI 201: Economic 201-1 Performance 2016 201-2",
+        "context_after": "Disclosure Defining report content and topic Boundaries List of material topics Restatements of information Changes in reporting Reporting period Date",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "183.txt",
+        "context_before": "Indicators 102-48;",
+        "context_after": "; 404-1 2019 2018 2017 Training by content [%] Italy Abroad Group Italy Abroad Group Italy Abroad Group Managerial 5.9",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "201.txt",
+        "context_before": "page 36; page 40 GRI 202: Market Ratios of standard entry Presence 2016 7 level wage by gender Principle 1,2,",
+        "context_after": "compared to local minimum page 182 6 5,8 wage Proportion of senior 202-2 management hired fromthe page 178 8 local",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "201.txt",
+        "context_before": "7 level wage by gender Principle 1,2, 202-1 compared to local minimum page 182 6 5,8 wage Proportion of senior",
+        "context_after": "management hired fromthe page 178 8 local community INDIRECT ECONOMIC IMPACTS GRI 103: Explanation of the material . Management 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "94.txt",
+        "context_before": "201-1;",
+        "context_after": "; RELATIONS WITH THE COMMUNITY 103-2 Society Relations with the community COMPANY POLICIES The Group plays an active role in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "203-2": {
+        "page": "75.txt",
+        "context_before": "vA) Society",
+        "context_after": "; LOCAL COMMUNITIES 103-2; PRODUCT PORTFOLIO 103-2; EX FS1; FS7; FS14; ACCESS TO CREDIT AND FINANCIAL INCLUSION 103-2 Access to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": false,
+    "205-1": {
+        "page": "58.txt",
+        "context_before": "NON DISCRIMINATION 103-2/103-3; 406-1; AUDIT 103-2; ANTI-CORRUPTION 103-3;",
+        "context_after": "; EX FS9 AUDIT 103-2; EX FS9 Governance and management of risks There is no evidence of cases of discrimination",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "53.txt",
+        "context_before": "ys Governance and management of risks ANTI-CORRUPTION 103-2;",
+        "context_after": "; SOCIOECONOMIC COMPLIANCE 103-2; AUDIT 103-3 The Guidelines define the commitment to comply with the regulatory provisions aimed at combating",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "201.txt",
+        "context_before": "35; pages 51-54; Principle 205-2 about anti-corruption pages 107-108; page 159 10 16 policies and procedures Confirmed incidents of Principle",
+        "context_after": "corruption and actions taken page 161 10 16 ANTI-COMPETITIVE BEHAVIOR GRI 103: Explanation of the material . Management 108-1 topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "202.txt",
+        "context_before": "102-55 GRI Standards Disclosure 103-3 GRI 206: Anti-competitive Behavior 2016",
+        "context_after": "Evaluation of the management approach Legal actions for anti- competitive behavior, anti- trust, and monopoly practices Page number(s) and/ or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "202.txt",
+        "context_before": "Cooly Ea) Compact FN-CB- 510a.2 FN-AC- 510a.2 FN-CB- 510a.1 FN-AC- 510a.1 MATERIALS GRI 103: Management 103-1 Approach 2016 103-2 103-3",
+        "context_after": ": Materials 2016 301-1 301-2 301-3 Explanation of the material topic and its Boundary The management approach and its components",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "202.txt",
+        "context_before": "business conducted. Principle 7,8 8,12 Principle 8 8,12 Principle 8 8,12 ENERGY GRI 103: Management 103-1 Approach 2016 103-2 103-3",
+        "context_after": ": Energy 2016 302-1 302-2 302-3 302-4 302-5 Explanation of the material topic and its Boundary The management approach and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "203.txt",
+        "context_before": "yaw) GRI Content Index GRI Standards Disclosure GRI 103: Management 103-1 Approach 2016 103-2 103-3",
+        "context_after": ": Water 2016 303-1 303-2 303-3 Explanation of the material topic and its Boundary The management approach and its components",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "203.txt",
+        "context_before": "water. Global Compact Principle 7,8 Principle 7,8 Principle 7,8 SDG's* 102-55 SASB* GRI 103: Management Approach 2016 103-1 103-2 103-3",
+        "context_after": ": Emissions 2016 305-1 305-2 305-3 305-4 305-5 305-6 Explanation of the material topic and its Boundary The management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "204.txt",
+        "context_before": "and its components pages 130-131; page 215 14, 15 Evaluation of the . 103-3 management approach pages 40-41; page 136",
+        "context_after": ": Water discharge by quality Principle 3,6, Effluents and 2 and destination page 135 8 12 Waste 2016 306-2 Waste",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "204.txt",
+        "context_before": "103-2 ang its components pages 130-131; page 216 14 15 403-3 Evaluation of the pages 40-41; pages management approach 135-136",
+        "context_after": ": Non-compliance with Principle Environmental 307-1 environmental laws and page 160 Pr 16 Compliance 2016 regulations 8 EMPLOYMENT GRI 103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "202.txt",
+        "context_before": "510a.2 FN-AC- 510a.2 FN-CB- 510a.1 FN-AC- 510a.1 MATERIALS GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 301: Materials 2016",
+        "context_after": "301-2 301-3 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "202.txt",
+        "context_before": "FN-AC- 510a.2 FN-CB- 510a.1 FN-AC- 510a.1 MATERIALS GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 301: Materials 2016 301-1",
+        "context_after": "301-3 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "202.txt",
+        "context_before": "510a.2 FN-CB- 510a.1 FN-AC- 510a.1 MATERIALS GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 301: Materials 2016 301-1 301-2",
+        "context_after": "Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach Materials",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "202.txt",
+        "context_before": "8,12 Principle 8 8,12 Principle 8 8,12 ENERGY GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 302: Energy 2016",
+        "context_after": "302-2 302-3 302-4 302-5 Explanation of the material topic and its Boundary The management approach and its components Evaluation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "202.txt",
+        "context_before": "Principle 8 8,12 Principle 8 8,12 ENERGY GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 302: Energy 2016 302-1",
+        "context_after": "302-3 302-4 302-5 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "202.txt",
+        "context_before": "8 8,12 Principle 8 8,12 ENERGY GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 302: Energy 2016 302-1 302-2",
+        "context_after": "302-4 302-5 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "202.txt",
+        "context_before": "8,12 Principle 8 8,12 ENERGY GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 302: Energy 2016 302-1 302-2 302-3",
+        "context_after": "302-5 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "214.txt",
+        "context_before": "More than 25,000 people are allocated for the strategic and operational management of the activities. ECONOMIC PERFORMANCE (201-2) ENERGY (",
+        "context_after": ") PRODUCT RESPONSIBILITY: PRODUCT PORTFOLIO Unita di business, Crediti, Risk Management, Innovazione, Compliance Environment, Shareholders, Customers, Suppliers, Community EMPLOYEE ENHANCEMENT",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "203.txt",
+        "context_before": "yaw) GRI Content Index GRI Standards Disclosure GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 303: Water 2016",
+        "context_after": "303-2 303-3 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "203.txt",
+        "context_before": "yaw) GRI Content Index GRI Standards Disclosure GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 303: Water 2016 303-1",
+        "context_after": "303-3 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "203.txt",
+        "context_before": "GRI Content Index GRI Standards Disclosure GRI 103: Management 103-1 Approach 2016 103-2 103-3 GRI 303: Water 2016 303-1 303-2",
+        "context_after": "Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach Water",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "203.txt",
+        "context_before": "7,8 Principle 7,8 Principle 7,8 SDG's* 102-55 SASB* GRI 103: Management Approach 2016 103-1 103-2 103-3 GRI 305: Emissions 2016",
+        "context_after": "305-2 305-3 305-4 305-5 305-6 Explanation of the material topic and its Boundary The management approach and its components Evaluation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "203.txt",
+        "context_before": "Principle 7,8 Principle 7,8 SDG's* 102-55 SASB* GRI 103: Management Approach 2016 103-1 103-2 103-3 GRI 305: Emissions 2016 305-1",
+        "context_after": "305-3 305-4 305-5 305-6 Explanation of the material topic and its Boundary The management approach and its components Evaluation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "203.txt",
+        "context_before": "7,8 Principle 7,8 SDG's* 102-55 SASB* GRI 103: Management Approach 2016 103-1 103-2 103-3 GRI 305: Emissions 2016 305-1 305-2",
+        "context_after": "305-4 305-5 305-6 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "203.txt",
+        "context_before": "Principle 7,8 SDG's* 102-55 SASB* GRI 103: Management Approach 2016 103-1 103-2 103-3 GRI 305: Emissions 2016 305-1 305-2 305-3",
+        "context_after": "305-5 305-6 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "203.txt",
+        "context_before": "7,8 SDG's* 102-55 SASB* GRI 103: Management Approach 2016 103-1 103-2 103-3 GRI 305: Emissions 2016 305-1 305-2 305-3 305-4",
+        "context_after": "305-6 Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "203.txt",
+        "context_before": "SDG's* 102-55 SASB* GRI 103: Management Approach 2016 103-1 103-2 103-3 GRI 305: Emissions 2016 305-1 305-2 305-3 305-4 305-5",
+        "context_after": "Explanation of the material topic and its Boundary The management approach and its components Evaluation of the management approach Direct",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "204.txt",
+        "context_before": "102-55 GRI Standards",
+        "context_after": "Disclosure Nitrogen oxides (NOX), sulfur oxides (SOX), and other significant air emissions Page number(s) and/ or URL(s) page 192 Emission",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-1": {
+        "page": "134.txt",
+        "context_before": "MATERIALS 103-2/103-3; 301-1; 301-2; WATER 103-3; 303-1; 303-2;",
+        "context_after": "; ENVIRONMENTAL COMPLIANCE 103-3 Environment and Climate change where the use of tablets, already in place for gathering signatures during",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "204.txt",
+        "context_before": "136 GRI 306: Water discharge by quality Principle 3,6, Effluents and 2 and destination page 135 8 12 Waste 2016",
+        "context_after": "Waste by type and disposal page 129; page 136; Principle 3,6, method pages 193-194 8 12 The topic is not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "204.txt",
+        "context_before": "method pages 193-194 8 12 The topic is not significant for the banking sector and the Group. There are no",
+        "context_after": "Significant spills significant polluting spills deriving from the activities carried out by the Group in the reporting year. The topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-4": {
+        "page": "204.txt",
+        "context_before": "Group in the reporting year. The topic is not significant for the banking Transport of hazardous sector and the Group.",
+        "context_after": "waste There are no cases of transportation of hazardous waste. The topic is not significant for the banking sector and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-5": {
+        "page": "204.txt",
+        "context_before": "is not significant for the banking sector and the Group. In the Water bodies affected by properties managed by the",
+        "context_after": "water discharges and/or Group, water consumption runoff is mainly attributable to sanitary purposes and ENVIRONMENTAL COMPLIANCE water discharges flow into",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "307-1": {
+        "page": "204.txt",
+        "context_before": "page 216 14 15 403-3 Evaluation of the pages 40-41; pages management approach 135-136 GRI 307: Non-compliance with Principle Environmental",
+        "context_after": "environmental laws and page 160 Pr 16 Compliance 2016 regulations 8 EMPLOYMENT GRI 103: Explanation of the material topic and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "205.txt",
+        "context_before": "206 GRI Content Index bel ESET Tco ky",
+        "context_after": ": Employment 2016 401-1 401-2 401-3 Disclosure New employee hires and employee turnover Benefits provided to full- time employees that",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": {
+        "page": "205.txt",
+        "context_before": "be necessary, thus breaching the employees' privacy rights. Principle page 186 6 GRI 103: Management 103-1 Approach 2016 103-2 103-3",
+        "context_after": ": Labor/ Management 402-1 Relations 2016 Explanation of the material topic and its Boundary The management approach and its components",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403": {
+        "page": "205.txt",
+        "context_before": "112; page 156; page 215 pages 40-41; page 113 page 161 Principle GRI 103: Management 103-1 Approach 2016 103-2 103-3",
+        "context_after": ": Occupational _ Health and Safety 403-1 2016 403-2 403-3 Explanation of the material topic and its Boundary The management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "206.txt",
+        "context_before": "page 5  and its components 156; page 215 Evaluation of the . 103-3 management approach pages 40-41; page 116",
+        "context_after": ": Training . Average hours of training _ Principle 4, and Education 404-1 per year per employee pages 183-184 6",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "206.txt",
+        "context_before": "156; page 215 GRI 103: Management 103-1 Approach 2016 103-2 103-3 Evaluation of the management approach pages 40-41; pages 117-118",
+        "context_after": ": Diversity 405-1 and Equal Diversity of governance bodies and employees page 158; pages 175-180 FN-AC- 330a.1 Principle 6 Opportunity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "206.txt",
+        "context_before": "40; pages 58-59;  and its components page 216 Evaluation of the . 103-3 management approach pages 40-41; pages 58-60",
+        "context_after": ": Non  erin att ao . oe Incidents of discrimination . Principle 5, 8, Discrimination 406-1 and corrective actions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "207.txt",
+        "context_before": "Content Index GRI Standards py EYe fea -3 or URL(s) Page number(s) and/ 102-55 Global Compact Gace Cooly 7 hd",
+        "context_after": ": Freedom of Association and Collective Bargaining 2016 407-1 Operations and suppliers in which the right to freedom bargaining may",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": {
+        "page": "207.txt",
+        "context_before": "40; page 45; page and its components 146; pages 215-216 403-3 Evaluation of the pages 40-41; pages management approach 147-148",
+        "context_after": ": Child Part of the information does not apply. Labor 2016 The issue of relations with suppliers is not considered",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409": {
+        "page": "207.txt",
+        "context_before": "40; page 45; page and its components 146; pages 215-216 103-3 Evaluation of the pages 40-41; pages management approach 147-148",
+        "context_after": ": Forced or Compulsory Labor 2016 Operations and suppliers at 409-1 significant risk for incidents of pages 45-46 forced or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": false,
+    "GRI 411": {
+        "page": "207.txt",
+        "context_before": "40; page 45; page and its components 147; page 216 103-3 Evaluation of the pages 40-41; pages management approach 147-148",
+        "context_after": ": Rights of Indigenous Peoples 2016 411-1 Incidents of violations involving rights of indigenous peoples HUMAN RIGHTS ASSESSMENT In 2019",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412": {
+        "page": "208.txt",
+        "context_before": "40; pages 147-148; Principle and its components page 216 1 403-3 Evaluation of the pages 40-41; pages management approach 147-148",
+        "context_after": ": Human Operations that have FN-CB- Rights been subject to human Principle 410a.2 Assessment 2016 41241 rights reviews or impact",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "208.txt",
+        "context_before": "45; page and its components 76; page 155; page 216 103-3 Evaluation of the pages 40-41; pages management approach 147-148",
+        "context_after": ": Local Operations with local Commu! _ community engagement, Principle FN-CB- 2016 413-1 impact assessments, and Pa9S 45-46 1 2404.1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": {
+        "page": "208.txt",
+        "context_before": "_ page 40; page 55; page 103-2 - and its components 216 103-3 Evaluation of the pages 40-41 management approach",
+        "context_after": ": Public te ae Principle Policy 2016 415-1 Political contributions page 55 10 16 CUSTOMER HEALTH SAFETY GRI 103: Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "208.txt",
+        "context_before": "approach _ page 40; pages 72-75; 103-2 and its components page 216 403-3 Evaluation of the pages 40-41 management approach",
+        "context_after": ": Customer Health 416-1 Assessment of the health and safety impacts of product pages 72-75 Safety 2016 and service categories",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "209.txt",
+        "context_before": "72-75; and its components page 216 FN-CB- 510a.2 Evaluation of the FN-AC- 103-3 management approach pages 40-41 270a.3 FN-AC- 510a.2",
+        "context_after": ": Requirements for product FN-AC- Marketing and 417-1 and service information and pages 72-73 270a3 Labelling 2016 labeling c Incidents",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "209.txt",
+        "context_before": "_ page 40; pages 57-58; FN-CB- and its components page 216 230a.2 Evaluation of the 103-3 management approach Pages 40-41",
+        "context_after": ": Substantiated complaints Customer Privacy _ concerning breaches of FN-CB- 2016 418-1 customer privacy and page 58 16 3304.1 losses",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "209.txt",
+        "context_before": ". and its components page 60; page 216 FN-CB- Evaluation of the 510a.2 103-3 management approach pages 40-41 FN-AC- 510a.2",
+        "context_after": ": 419-1 Non-compliance with laws Financial Reports (Annual 16 FN-CB- Socioeconomic and regulations in the social Report 2019 \"Notes 510a.1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "214.txt",
+        "context_before": "shaped towards shared solutions. Almost 360 people are allocated for the strategic and operational management of the activities. EMPLOYMENT (",
+        "context_after": ") LABOR MANAGEMENT RELATIONS FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING CHILD LABOR FORCED OR COMPULSORY LABOR Intesa Sanpaolo Group Community,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "214.txt",
+        "context_before": "employees. More than 600 people are allocated for the strategic and operational management of the activities. LABOR RIGHTS EMPLOYMENT (",
+        "context_after": "; 401-3) OCCUPATIONAL HEALTH AND SAFETY Intesa Sanpaolo Group Customers, Community, Shareholders Responsible employment management and development of labor/management relations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-3": {
+        "page": "214.txt",
+        "context_before": "employees. More than 600 people are allocated for the strategic and operational management of the activities. LABOR RIGHTS EMPLOYMENT (401-2;",
+        "context_after": ") OCCUPATIONAL HEALTH AND SAFETY Intesa Sanpaolo Group Customers, Community, Shareholders Responsible employment management and development of labor/management relations shaped",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "39.txt",
+        "context_before": "40",
+        "context_after": "7; 102-19; 102-24; 102-26; 102-31; 102-93; 102-24; ECONOMIC PERFORMANCE 103-2/103-2; MARKET PRESENCE 103-2/103-3; INDIRECT ECONOMIC IMPACTS 103-21103-3; ANT-CORRUPTION 109-21403-2; ANTLCOMPETITIVE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "207.txt",
+        "context_before": "credit management: the information relating to suppliers therefore does not refer to the Group's significant impacts. Principle 4 GRI 103:",
+        "context_after": "Explanation of the material page 62; page 146; page Management topic and its Boundary 216 Approach 2016 103-2 The management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "39.txt",
+        "context_before": "40 402-17; 102-19; 102-24; 102-26; 102-31; 102-93; 102-24; ECONOMIC PERFORMANCE 103-2/103-2; MARKET PRESENCE 103-2/103-3; INDIRECT ECONOMIC IMPACTS 103-21103-3; ANT-CORRUPTION 109-21",
+        "context_after": "; ANTLCOMPETITIVE BEHAVIOR 103-2; MATERIALS 103-3; ENERGY 103-3; WATER 103-3; EMISSIONS 103-3; EFFLUENTS AND WASTE 103-3; ENVIRONMENTAL COMPLIANCE 103-3; EMPLOYMENT",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "208.txt",
+        "context_before": "GRI Content Index SDG's* SASB* 103-2 The management approach page 40; pages 147-148; Principle and its components page 216 1",
+        "context_after": "Evaluation of the pages 40-41; pages management approach 147-148 GRI 412: Human Operations that have FN-CB- Rights been subject to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "206.txt",
+        "context_before": "102-55 GRI Standards Disclosure Health and safety topics Page number(s) and/ Come). 1m()",
+        "context_after": "coveredin formal agreements page 126 with trade unions TRAINING AND EDUCATION GRI Content Index Global Compact Gace Cooly 7 hd",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "206.txt",
+        "context_before": "103-3 management approach pages 40-41; page 116 GRI 404: Training . Average hours of training _ Principle 4, and Education",
+        "context_after": "per year per employee pages 183-184 6 5,8 2016 Programs for upgrading . employee skills and 143. 404-2 transition assistance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "206.txt",
+        "context_before": "and Education 404-1 per year per employee pages 183-184 6 5,8 2016 Programs for upgrading . employee skills and 143.",
+        "context_after": "transition assistance pages 112-113; page 116 8 programs Percentage of employees - receiving regular . Principle 404-3 performance and career",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "206.txt",
+        "context_before": "skills and 143. 404-2 transition assistance pages 112-113; page 116 8 programs Percentage of employees - receiving regular . Principle",
+        "context_after": "performance and career pages 115-116; page 182 6 5,8 development reviews DIVERSITY AND EQUAL OPPORTUNITY Explanation of the material topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "206.txt",
+        "context_before": "GRI 103: Management 103-1 Approach 2016 103-2 103-3 Evaluation of the management approach pages 40-41; pages 117-118 GRI 405: Diversity",
+        "context_after": "and Equal Diversity of governance bodies and employees page 158; pages 175-180 FN-AC- 330a.1 Principle 6 Opportunity 2016 405-2 NON",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "206.txt",
+        "context_before": "Diversity 405-1 and Equal Diversity of governance bodies and employees page 158; pages 175-180 FN-AC- 330a.1 Principle 6 Opportunity 2016",
+        "context_after": "NON DISCRIMINATION Ratio of basic salary and remuneration of women to men page 181 Principle 5, 8, 6 10 GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "59.txt",
+        "context_before": "Governance and management of risks NON DISCRIMINATION 103-3;",
+        "context_after": "; ANTI-CORRUPTION 103-2/103-3; SOCIOECONOMIC COMPLIANCE 103-2; AUDIT 103-2; EX FS9 DISPUTES AND FINES As at 31 December 2019, a total",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "407-1": {
+        "page": "45.txt",
+        "context_before": "46 Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1;",
+        "context_after": "; 408-1; 409-1; 412-1; 412-3; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "45.txt",
+        "context_before": "46 Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1;",
+        "context_after": "; 409-1; 412-1; 412-3; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "45.txt",
+        "context_before": "46 Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1;",
+        "context_after": "; 412-1; 412-3; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached financial",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": false,
+    "411-1": {
+        "page": "207.txt",
+        "context_before": "147; page 216 103-3 Evaluation of the pages 40-41; pages management approach 147-148 GRI 411: Rights of Indigenous Peoples 2016",
+        "context_after": "Incidents of violations involving rights of indigenous peoples HUMAN RIGHTS ASSESSMENT In 2019 no reports emerged on possible violations of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "412-1": {
+        "page": "45.txt",
+        "context_before": "46 Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1; 409-1;",
+        "context_after": "; 412-3; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached financial close",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "40.txt",
+        "context_before": "COLLECTIVE BARGAINING 103-3; CHILD LABOR 103-3; FORCED OR COMPULSORY LABOR 103.3; RIGHTS OF INDIGENOUS PEOPLE 103-3; HUMAN RIGHT ASSESSMENT 103-3;",
+        "context_after": "; LOCAL COMMUNITIES 103-3; PUBLIC POLICY 103-3; CUSTOMER HEALTH AND SAFETY 103-2; MARKETING AND LABELLING 103-3; CUSTOMER PRIVACY 103-3; SOCIOECONOMIC",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "45.txt",
+        "context_before": "46 Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1; 409-1; 412-1;",
+        "context_after": "; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached financial close in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "45.txt",
+        "context_before": "46 Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1; 409-1; 412-1; 412-3;",
+        "context_after": "; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached financial close in 2019,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "45.txt",
+        "context_before": "46 Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1; 409-1; 412-1; 412-3; 413-1;",
+        "context_after": "; EX FS1; EX FS5 The table below shows the number of projects that reached financial close in 2019, with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": {
+        "page": "54.txt",
+        "context_before": "PUBLIC POLICY 103-2;",
+        "context_after": "Governance and management of risks Guidelines that constitute a systematic and functional reference framework, with active collaboration by the Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "74.txt",
+        "context_before": "CUSTOMER HEALTH AND SAFETY 103-2;",
+        "context_after": "; MARKETING AND LABELLING 103-2; 416-1; 417-2; 417-3; EX FS15 Society related investments necessary for the implementation of the initiatives",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "416-2": {
+        "page": "209.txt",
+        "context_before": "210 GRI Content Index GRI Standards Disclosure",
+        "context_after": "Incidents of non-compliance concerning the health and safety impacts of products and services Page number(s) and/ or URL(s) toyed} No",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "72.txt",
+        "context_before": "CUSTOMER HEALTH AND SAFETY 103-2; 416-1; MARKETING AND LABELLING 103-2; 416-1;",
+        "context_after": "; 417-2; 417-3; EX FS15 Society DIALOGUE WITH CONSUMER ASSOCIATIONS As part of a long-established, open and constructive dialogue with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "74.txt",
+        "context_before": "CUSTOMER HEALTH AND SAFETY 103-2; 416-1; MARKETING AND LABELLING 103-2; 416-1;",
+        "context_after": "; 417-3; EX FS15 Society related investments necessary for the implementation of the initiatives set out in the Master Plan.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "417-3": {
+        "page": "74.txt",
+        "context_before": "CUSTOMER HEALTH AND SAFETY 103-2; 416-1; MARKETING AND LABELLING 103-2; 416-1; 417-2;",
+        "context_after": "; EX FS15 Society related investments necessary for the implementation of the initiatives set out in the Master Plan. Some",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "418-1": {
+        "page": "57.txt",
+        "context_before": "bets) Governance and management of risks NON DISCRIMINATION 103-2/103-3; CUSTOMER PRIVACY 103-2;",
+        "context_after": "alignment, in addition to compliance with the provisions of the Italian Data Protection Authority. This structure conducts prior assessments on",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "209.txt",
+        "context_before": "its components page 60; page 216 FN-CB- Evaluation of the 510a.2 103-3 management approach pages 40-41 FN-AC- 510a.2 GRI 419:",
+        "context_after": "Non-compliance with laws Financial Reports (Annual 16 FN-CB- Socioeconomic and regulations in the social Report 2019 \"Notes 510a.1 Compliance 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

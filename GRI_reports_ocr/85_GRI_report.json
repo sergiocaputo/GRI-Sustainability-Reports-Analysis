@@ -1,0 +1,595 @@
+{
+    "GRI 200": false,
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "126.txt",
+        "context_before": "GESTIONE 2016 103-1, 103- essere 114 2, 103-3) Vengono considerate solo le opere ad uso Sviluppo e impatto esclusivamente pubblico,",
+        "context_after": ": IMPATTI di investimenti in 114, 118 escludendo quelli di cui ECONOMIC! INDIRETTI GRI 203-1 infrastrutture e servizi forniti 119",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 204": {
+        "page": "125.txt",
+        "context_before": "PRATICHE DI FP2 APPROVVIGIONAMENTO 2014 Prodotti regionali GRI 103 GRI 103: MODALITA' DI (compresi GESTIONE 2016 103-1, 103- 2, 103-3)",
+        "context_after": ": PRATICHE DI APPROVVIGIONAMENTO GRI 204-1 2016 Qualita e sicurezza alimentare GRI 103 GRI 103: MODALITA' DI (compresi GESTIONE 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "126.txt",
+        "context_before": "uso Sviluppo e impatto esclusivamente pubblico, GRI 203: IMPATTI di investimenti in 114, 118 escludendo quelli di cui ECONOMIC! INDIRETTI",
+        "context_after": "infrastrutture e servizi forniti 119  usufruisce anche Lidl. 2016 principalmente per pubblica Non  stata effetttuata utilita una analisi",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "125.txt",
+        "context_before": "Prodotti regionali GRI 103 GRI 103: MODALITA' DI (compresi GESTIONE 2016 103-1, 103- 2, 103-3) GRI 204: PRATICHE DI APPROVVIGIONAMENTO",
+        "context_after": "2016 Qualita e sicurezza alimentare GRI 103 GRI 103: MODALITA' DI (compresi GESTIONE 2016 103-1, 103- 2, 103-3) GRI 416:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "126.txt",
+        "context_before": "Sviluppo e impatto esclusivamente pubblico, GRI 203: IMPATTI di investimenti in 114, 118 escludendo quelli di cui ECONOMIC! INDIRETTI GRI",
+        "context_after": "infrastrutture e servizi forniti 119  usufruisce anche Lidl. 2016 principalmente per pubblica Non  stata effetttuata utilita una analisi",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "203-2": false,
+    "204-1": {
+        "page": "125.txt",
+        "context_before": "regionali GRI 103 GRI 103: MODALITA' DI (compresi GESTIONE 2016 103-1, 103- 2, 103-3) GRI 204: PRATICHE DI APPROVVIGIONAMENTO GRI",
+        "context_after": "2016 Qualita e sicurezza alimentare GRI 103 GRI 103: MODALITA' DI (compresi GESTIONE 2016 103-1, 103- 2, 103-3) GRI 416:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "58.txt",
+        "context_before": "questi beni, pertanto, implica lutilizzo di minore energia rispetto a quella necessaria per produrre lo stesso bene utilizzando materie prime.",
+        "context_after": "-1 GRI 306-2",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302": {
+        "page": "68.txt",
+        "context_before": "il 2017. La Intensita carbonica di Lidl Italia 2018 (KG CO,/M?) | | Emissioni dirette e indirette Emissioni logistica ail",
+        "context_after": "-3 GRI 305-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "60.txt",
+        "context_before": "plausibilita dei consumi idrici di ciascun immobile di competenza, al fine di intervenire in casi di anomalie. = GRI 103",
+        "context_after": "-1",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "68.txt",
+        "context_before": "La Intensita carbonica di Lidl Italia 2018 (KG CO,/M?) | | Emissioni dirette e indirette Emissioni logistica ail GRI 302-3",
+        "context_after": "-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "59.txt",
+        "context_before": "60",
+        "context_after": "-2 Per la gestione del recupero di tutte le pellicole e della plastica utilizzata per limballaggio della merce, Lidl Italia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "58.txt",
+        "context_before": "questi beni, pertanto, implica lutilizzo di minore energia rispetto a quella necessaria per produrre lo stesso bene utilizzando materie prime.",
+        "context_after": "GRI 306-2",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "66.txt",
+        "context_before": "gli anni 2017 e 2018. Per le emissioni da energia elettrica @ stato applicato il coefficiente di emissione DEFRA (2015).",
+        "context_after": "GRI 302-2 GRI 305-1 GRI 305-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": {
+        "page": "66.txt",
+        "context_before": "2017 e 2018. Per le emissioni da energia elettrica @ stato applicato il coefficiente di emissione DEFRA (2015). GRI 302-1",
+        "context_after": "GRI 305-1 GRI 305-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-3": {
+        "page": "68.txt",
+        "context_before": "il 2017. La Intensita carbonica di Lidl Italia 2018 (KG CO,/M?) | | Emissioni dirette e indirette Emissioni logistica ail",
+        "context_after": "GRI 305-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-4": {
+        "page": "62.txt",
+        "context_before": "Verifi tti setpoint cli i t Elettricita eri ica corretti setpoint clima e spegnimento ettricita 1.612.300 luci nottetempo GRI 103",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "60.txt",
+        "context_before": "plausibilita dei consumi idrici di ciascun immobile di competenza, al fine di intervenire in casi di anomalie. = GRI 103",
+        "context_after": "",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "66.txt",
+        "context_before": "2018. Per le emissioni da energia elettrica @ stato applicato il coefficiente di emissione DEFRA (2015). GRI 302-1 GRI 302-2",
+        "context_after": "GRI 305-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "66.txt",
+        "context_before": "le emissioni da energia elettrica @ stato applicato il coefficiente di emissione DEFRA (2015). GRI 302-1 GRI 302-2 GRI 305-1",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": {
+        "page": "67.txt",
+        "context_before": "totale delle nostre emissioni. Emissioni totali Lidl Italia 2018 (tCO,) HB Emissioni dirette e indirette HB Emission logistica GRI 103",
+        "context_after": "17 Vengono considerati i 6 principali fornitori logistici di Lidl che coprono |80% del parco circolante. II coefficiente di conversione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-4": {
+        "page": "68.txt",
+        "context_before": "La Intensita carbonica di Lidl Italia 2018 (KG CO,/M?) | | Emissioni dirette e indirette Emissioni logistica ail GRI 302-3",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "59.txt",
+        "context_before": "60",
+        "context_after": "Per la gestione del recupero di tutte le pellicole e della plastica utilizzata per limballaggio della merce, Lidl Italia si",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": {
+        "page": "57.txt",
+        "context_before": "58 GRI 103",
+        "context_after": "Rifiuti | rifiuti prodotti dallattivita di Lidl Italia sono principalmente costituiti da materiali di imballaggio misti, come ad esempio, carta",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "58.txt",
+        "context_before": "beni, pertanto, implica lutilizzo di minore energia rispetto a quella necessaria per produrre lo stesso bene utilizzando materie prime. GRI",
+        "context_after": "GRI 306-2",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "66.txt",
+        "context_before": "anni 2017 e 2018. Per le emissioni da energia elettrica @ stato applicato il coefficiente di emissione DEFRA (2015). GRI",
+        "context_after": "GRI 302-2 GRI 305-1 GRI 305-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "66.txt",
+        "context_before": "e 2018. Per le emissioni da energia elettrica @ stato applicato il coefficiente di emissione DEFRA (2015). GRI 302-1 GRI",
+        "context_after": "GRI 305-1 GRI 305-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "68.txt",
+        "context_before": "2017. La Intensita carbonica di Lidl Italia 2018 (KG CO,/M?) | | Emissioni dirette e indirette Emissioni logistica ail GRI",
+        "context_after": "GRI 305-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "62.txt",
+        "context_before": "tti setpoint cli i t Elettricita eri ica corretti setpoint clima e spegnimento ettricita 1.612.300 luci nottetempo GRI 103 GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "60.txt",
+        "context_before": "dei consumi idrici di ciascun immobile di competenza, al fine di intervenire in casi di anomalie. = GRI 103 GRI",
+        "context_after": "",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "66.txt",
+        "context_before": "Per le emissioni da energia elettrica @ stato applicato il coefficiente di emissione DEFRA (2015). GRI 302-1 GRI 302-2 GRI",
+        "context_after": "GRI 305-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "66.txt",
+        "context_before": "emissioni da energia elettrica @ stato applicato il coefficiente di emissione DEFRA (2015). GRI 302-1 GRI 302-2 GRI 305-1 GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "67.txt",
+        "context_before": "delle nostre emissioni. Emissioni totali Lidl Italia 2018 (tCO,) HB Emissioni dirette e indirette HB Emission logistica GRI 103 GRI",
+        "context_after": "17 Vengono considerati i 6 principali fornitori logistici di Lidl che coprono |80% del parco circolante. II coefficiente di conversione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "68.txt",
+        "context_before": "Intensita carbonica di Lidl Italia 2018 (KG CO,/M?) | | Emissioni dirette e indirette Emissioni logistica ail GRI 302-3 GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "59.txt",
+        "context_before": "60 GRI",
+        "context_after": "Per la gestione del recupero di tutte le pellicole e della plastica utilizzata per limballaggio della merce, Lidl Italia si",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": {
+        "page": "57.txt",
+        "context_before": "58 GRI 103 GRI",
+        "context_after": "Rifiuti | rifiuti prodotti dallattivita di Lidl Italia sono principalmente costituiti da materiali di imballaggio misti, come ad esempio, carta",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-5": false,
+    "307-1": false,
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "77.txt",
+        "context_before": "78",
+        "context_after": "-3 Nel 2018 ne hanno usufruito complessivamente 115 uomini e 1.726 donne, in linea con il trend registrato nel 2017.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "80.txt",
+        "context_before": "procedure in ambito salute e sicurezza. Gli audit possono essere commissionati anche da parte della Lidl Stiftung & Co. KG.",
+        "context_after": "-9",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "83.txt",
+        "context_before": "84",
+        "context_after": "-2 Ore di formazione erogate nel 2018 In Lidl Italia la formazione dei dipendenti rappresenta un valore aziendale fondamentale. Complessivamente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": {
+        "page": "50.txt",
+        "context_before": "Lidl verso una gestione sempre piu attenta e rispettosa dei parametri sociali lungo la propria catena di fornitura. GRI 103",
+        "context_after": "-1",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "125.txt",
+        "context_before": "GRI 204-1 2016 Qualita e sicurezza alimentare GRI 103 GRI 103: MODALITA' DI (compresi GESTIONE 2016 103-1, 103- 2, 103-3)",
+        "context_after": ": SALUTE E SICUREZZA DEI CLIENTI GRI 416-1 2016 GRI 102-55 Approccio gestionale in essere Programmi per lo sviluppo delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": {
+        "page": "77.txt",
+        "context_before": "78",
+        "context_after": "Nel 2018 ne hanno usufruito complessivamente 115 uomini e 1.726 donne, in linea con il trend registrato nel 2017. In",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "78.txt",
+        "context_before": "e, in generale, di tutti i soggetti che si trovano ad operare allinterno GRI 103 dei luoghi di lavoro aziendali,",
+        "context_after": "sviluppando programmi e progetti GRI 403-3 di miglioramento delle condizioni GRI 403-4 GRI 403-5 di salute e sicurezza sul lavoro,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": {
+        "page": "78.txt",
+        "context_before": "soggetti che si trovano ad operare allinterno GRI 103 dei luoghi di lavoro aziendali, GRI 403-2 sviluppando programmi e progetti",
+        "context_after": "di miglioramento delle condizioni GRI 403-4 GRI 403-5 di salute e sicurezza sul lavoro, a beneficio sia della sfera fisica",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-4": {
+        "page": "78.txt",
+        "context_before": "allinterno GRI 103 dei luoghi di lavoro aziendali, GRI 403-2 sviluppando programmi e progetti GRI 403-3 di miglioramento delle condizioni",
+        "context_after": "GRI 403-5 di salute e sicurezza sul lavoro, a beneficio sia della sfera fisica sia di quella psicofisica.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-5": {
+        "page": "78.txt",
+        "context_before": "103 dei luoghi di lavoro aziendali, GRI 403-2 sviluppando programmi e progetti GRI 403-3 di miglioramento delle condizioni GRI 403-4",
+        "context_after": "di salute e sicurezza sul lavoro, a beneficio sia della sfera fisica sia di quella psicofisica.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-6": {
+        "page": "79.txt",
+        "context_before": "80 GRI 103",
+        "context_after": "| programmi di management della salute vanno oltre gli adempimenti normativi e sono sviluppati in collaborazione tra il reparto Personale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": {
+        "page": "80.txt",
+        "context_before": "procedure in ambito salute e sicurezza. Gli audit possono essere commissionati anche da parte della Lidl Stiftung & Co. KG.",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": {
+        "page": "83.txt",
+        "context_before": "84",
+        "context_after": "Ore di formazione erogate nel 2018 In Lidl Italia la formazione dei dipendenti rappresenta un valore aziendale fondamentale. Complessivamente nel",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-3": {
+        "page": "82.txt",
+        "context_before": "persona. Il programma Studio Duale Internazionale consente, oltre a quanto citato, di conseguire una laurea triennale in Germania. GRI 103",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": {
+        "page": "50.txt",
+        "context_before": "Lidl verso una gestione sempre piu attenta e rispettosa dei parametri sociali lungo la propria catena di fornitura. GRI 103",
+        "context_after": "",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": {
+        "page": "125.txt",
+        "context_before": "GRI 103 GRI 103: MODALITA' DI (compresi GESTIONE 2016 103-1, 103- 2, 103-3) GRI 416: SALUTE E SICUREZZA DEI CLIENTI",
+        "context_after": "2016 GRI 102-55 Approccio gestionale in essere Programmi per lo sviluppo delle competenze e avanzamenti di carriera Percentuale dei dipendenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": false,
+    "401-2": false,
+    "401-3": {
+        "page": "77.txt",
+        "context_before": "78 GRI",
+        "context_after": "Nel 2018 ne hanno usufruito complessivamente 115 uomini e 1.726 donne, in linea con il trend registrato nel 2017. In",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": false,
+    "403-1": {
+        "page": "129.txt",
+        "context_before": "tutti gli aspetti significativi, in conformita a quanto richiesto dalla General Disclosure GRI 102-8, dalle Topic Specific Disclosure GRI 401-3,",
+        "context_after": ", 403-2, 403-3, 403-4, 403-5, 403-6, 403-9, 404-2, 404-3 e relativi Management Approach previsti dai GRI Standards, come descritto nel",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "78.txt",
+        "context_before": "in generale, di tutti i soggetti che si trovano ad operare allinterno GRI 103 dei luoghi di lavoro aziendali, GRI",
+        "context_after": "sviluppando programmi e progetti GRI 403-3 di miglioramento delle condizioni GRI 403-4 GRI 403-5 di salute e sicurezza sul lavoro,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "78.txt",
+        "context_before": "che si trovano ad operare allinterno GRI 103 dei luoghi di lavoro aziendali, GRI 403-2 sviluppando programmi e progetti GRI",
+        "context_after": "di miglioramento delle condizioni GRI 403-4 GRI 403-5 di salute e sicurezza sul lavoro, a beneficio sia della sfera fisica",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "78.txt",
+        "context_before": "GRI 103 dei luoghi di lavoro aziendali, GRI 403-2 sviluppando programmi e progetti GRI 403-3 di miglioramento delle condizioni GRI",
+        "context_after": "GRI 403-5 di salute e sicurezza sul lavoro, a beneficio sia della sfera fisica sia di quella psicofisica.",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-5": {
+        "page": "78.txt",
+        "context_before": "dei luoghi di lavoro aziendali, GRI 403-2 sviluppando programmi e progetti GRI 403-3 di miglioramento delle condizioni GRI 403-4 GRI",
+        "context_after": "di salute e sicurezza sul lavoro, a beneficio sia della sfera fisica sia di quella psicofisica.",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-6": {
+        "page": "79.txt",
+        "context_before": "80 GRI 103 GRI",
+        "context_after": "| programmi di management della salute vanno oltre gli adempimenti normativi e sono sviluppati in collaborazione tra il reparto Personale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": false,
+    "403-8": false,
+    "403-9": {
+        "page": "80.txt",
+        "context_before": "in ambito salute e sicurezza. Gli audit possono essere commissionati anche da parte della Lidl Stiftung & Co. KG. GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-10": false,
+    "404-1": false,
+    "404-2": {
+        "page": "83.txt",
+        "context_before": "84 GRI",
+        "context_after": "Ore di formazione erogate nel 2018 In Lidl Italia la formazione dei dipendenti rappresenta un valore aziendale fondamentale. Complessivamente nel",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "82.txt",
+        "context_before": "Il programma Studio Duale Internazionale consente, oltre a quanto citato, di conseguire una laurea triennale in Germania. GRI 103 GRI",
+        "context_after": "",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": false,
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "50.txt",
+        "context_before": "verso una gestione sempre piu attenta e rispettosa dei parametri sociali lungo la propria catena di fornitura. GRI 103 GRI",
+        "context_after": "",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "125.txt",
+        "context_before": "103 GRI 103: MODALITA' DI (compresi GESTIONE 2016 103-1, 103- 2, 103-3) GRI 416: SALUTE E SICUREZZA DEI CLIENTI GRI",
+        "context_after": "2016 GRI 102-55 Approccio gestionale in essere Programmi per lo sviluppo delle competenze e avanzamenti di carriera Percentuale dei dipendenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": false
+}

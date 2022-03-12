@@ -1,0 +1,571 @@
+{
+    "GRI 200": false,
+    "GRI 201": false,
+    "GRI 202": {
+        "page": "57.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 56 e-",
+        "context_after": "-2 Proporzione del management assunto localmente, per sedi operative piu significative Percentuale del Management assunto localmente al 31 Dicembre 2017",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "54.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 53 e-",
+        "context_after": "- 1 Percentuale di spesa concentrata su fornitori locali GRUPPO SAES Fornitori locali/ 2017 2016 esteri Nr. fornitori Valore della",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "57.txt",
+        "context_before": "88% 100% 84% 86% 100% 88% USA 93% 100% 93% 93% 100% 94% Asia 100% 100% 100% 78% 100% 80%",
+        "context_after": "-2 Formazione su policy e procedure anti-corruzione Formazione su policy e procedure anti-corruzione (2017)? Tipo di formazione N. partecipanti Totale",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": {
+        "page": "56.txt",
+        "context_before": "2017 Al 31 dicembre 2016 Percentuale di Gruppo 43% 44% Percentuale di Gruppo esclusi 100% 100% dati USA e Asia",
+        "context_after": "Rapporto tra il salario standard di entrata per genere e il salario minimo locale, per sedi operative piu significative ITALIA",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202-2": {
+        "page": "57.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 56 e-",
+        "context_after": "Proporzione del management assunto localmente, per sedi operative piu significative Percentuale del Management assunto localmente al 31 Dicembre 2017 al",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": {
+        "page": "57.txt",
+        "context_before": "88% 100% 84% 86% 100% 88% USA 93% 100% 93% 93% 100% 94% Asia 100% 100% 100% 78% 100% 80%",
+        "context_after": "Formazione su policy e procedure anti-corruzione Formazione su policy e procedure anti-corruzione (2017)? Tipo di formazione N. partecipanti Totale ore",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "69.txt",
+        "context_before": "22 103-2 sull'approccio del management e relative caratteristiche. Valutazione sullapproccio del 22 103-3 management. Performance economica Valore economico direttamente 24-25",
+        "context_after": "generato e distribuito. PRESENZA SUL MERCATO Management approach Spiegazione degli aspetti 22 103-1 materiali e relativi confini. Informazioni generali 22",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": {
+        "page": "56.txt",
+        "context_before": "Al 31 dicembre 2016 Percentuale di Gruppo 43% 44% Percentuale di Gruppo esclusi 100% 100% dati USA e Asia GRI",
+        "context_after": "Rapporto tra il salario standard di entrata per genere e il salario minimo locale, per sedi operative piu significative ITALIA",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "69.txt",
+        "context_before": "del management e relative caratteristiche. Valutazione sullapproccio del 22 103-3 management. Presenza sul mercato Percentuale dei senior manager 44; 56",
+        "context_after": "assunti nella comunita locale. PRATICHE DI APPROVVIGIONAMENTO Management approach Spiegazione degli aspetti 22 103-1 materiali e relativi confini. Informazioni generali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "70.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 69 e- Indicatori GRI Standards Descrizione Coco Pratiche di approvvigionamento",
+        "context_after": "Proporzione di spesa 27 concentrata sui fornitori locali. ANTICORRUZIONE Management approach 103-1 Spiegazione degli aspetti 12 materiali e relativi confini.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "70.txt",
+        "context_before": "e relativi confini. 103-2 Informazioni generali 12 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 12 management. Anticorruzione",
+        "context_after": "Comunicazione e formazione su 44; 56 policy e procedure sullanti- corruzione. CATEGORIA: AMBIENTALE ENERGIA Management approach Spiegazione degli aspetti 45",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "63.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 62 e- CAPITOLO 5: IL NOSTRO IMPEGNO VERSO LAMBIENTE GRI 302-1 /",
+        "context_after": "-2 Consumo di energia all'interno e allesterno dell'organizzazione Consumi di energia Tipologia Unita di misura 2017 2016 Totale Totale GJ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "63.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 62 e- CAPITOLO 5: IL NOSTRO IMPEGNO VERSO LAMBIENTE",
+        "context_after": "-1 / GRI 301-2 Consumo di energia all'interno e allesterno dell'organizzazione Consumi di energia Tipologia Unita di misura 2017 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "64.txt",
+        "context_before": "riferimento risparmio ottenuto Ampliamento impianti LED ad alta efficienza installati nel 2016 kWh 2017 72.770 Totale risparmi energetici 72.770 kWh",
+        "context_after": "-1 Prelievo totale di acqua per fonte Fonte Unita di misura 2017 2016 Acquedotto me 65.667 70.372 Pozzi me 10.639",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": {
+        "page": "65.txt",
+        "context_before": "di Bilancio di massa globale massa globale NOx Ton/anno 1,47 1,47 Particolato (PM) Ton/anno 0,38 0,47 SOx Ton/anno 0,28 0,39",
+        "context_after": "-1 Acqua totale scaricata per qualita e destinazione 2017 2016 Unita di misura Totale Totale Fognatura m3 47.481,55 43.954,79 Acque",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": {
+        "page": "63.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 62 e- CAPITOLO 5: IL NOSTRO IMPEGNO VERSO LAMBIENTE GRI 302-1 /",
+        "context_after": "Consumo di energia all'interno e allesterno dell'organizzazione Consumi di energia Tipologia Unita di misura 2017 2016 Totale Totale GJ Totale",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "63.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 62 e- CAPITOLO 5: IL NOSTRO IMPEGNO VERSO LAMBIENTE",
+        "context_after": "/ GRI 301-2 Consumo di energia all'interno e allesterno dell'organizzazione Consumi di energia Tipologia Unita di misura 2017 2016 Totale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "63.txt",
+        "context_before": "2016 di energia Totale Totale Gas Naturale GJ 62.759 53.841 Energia elettrica acquistata GJ 79.285 70.050 Totale GJ 142.044 123.891",
+        "context_after": "Riduzione del consumo di energia SAES Getters S.p.A. - Unita di Lainate Iniziative per ridurre il consumo energetico Iniziativa Unita",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "64.txt",
+        "context_before": "riferimento risparmio ottenuto Ampliamento impianti LED ad alta efficienza installati nel 2016 kWh 2017 72.770 Totale risparmi energetici 72.770 kWh",
+        "context_after": "Prelievo totale di acqua per fonte Fonte Unita di misura 2017 2016 Acquedotto me 65.667 70.372 Pozzi me 10.639 8.486",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": {
+        "page": "65.txt",
+        "context_before": "di Bilancio di massa globale massa globale NOx Ton/anno 1,47 1,47 Particolato (PM) Ton/anno 0,38 0,47 SOx Ton/anno 0,28 0,39",
+        "context_after": "Acqua totale scaricata per qualita e destinazione 2017 2016 Unita di misura Totale Totale Fognatura m3 47.481,55 43.954,79 Acque superficiali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-2": {
+        "page": "65.txt",
+        "context_before": "misura Totale Totale Fognatura m3 47.481,55 43.954,79 Acque superficiali m3 9.526,44 9.525,60 Depurazione m3 529,71 1.054,00 Totale m3 57.537,70 54.534,39",
+        "context_after": "Rifiuti per tipo e metodo di smaltimento 2017 2016 Metodo di Unita di Pericolosi Non Totale % Pericolosi Non Totale",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": {
+        "page": "63.txt",
+        "context_before": "non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 62 e- CAPITOLO 5: IL NOSTRO IMPEGNO VERSO LAMBIENTE GRI 302-1 / GRI",
+        "context_after": "Consumo di energia all'interno e allesterno dell'organizzazione Consumi di energia Tipologia Unita di misura 2017 2016 Totale Totale GJ Totale",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "70.txt",
+        "context_before": "e relativi confini. Informazioni generali 45 103-2 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 45 management Energia",
+        "context_after": "Consumo di energia all'interno 46-47 dellorganizzazione. 302-3 Intensita energetica 46-47 302-4 Riduzione del consumo di 46-47 energia. ACQUA Management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "70.txt",
+        "context_before": "sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 45 management Energia 302-1 Consumo di energia all'interno 46-47 dellorganizzazione.",
+        "context_after": "Intensita energetica 46-47 302-4 Riduzione del consumo di 46-47 energia. ACQUA Management approach 103-1 Spiegazione degli aspetti 45 materiali e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-4": {
+        "page": "70.txt",
+        "context_before": "relative caratteristiche. 103-3 Valutazione sullapproccio del 45 management Energia 302-1 Consumo di energia all'interno 46-47 dellorganizzazione. 302-3 Intensita energetica 46-47",
+        "context_after": "Riduzione del consumo di 46-47 energia. ACQUA Management approach 103-1 Spiegazione degli aspetti 45 materiali e relativi confini. SEEEETET TTT",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "71.txt",
+        "context_before": "GRI Descrizione Standards 103-2 Informazioni generali 45 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sull'approccio del 45 management. Acqua",
+        "context_after": "Prelievo d'acqua per fonte. 48-50 EMISSIONI Management approach 103-1 Spiegazione degli aspetti 45 materiali e relativi confini. 103-2 Informazioni generali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "71.txt",
+        "context_before": "e relativi confini. 103-2 Informazioni generali 45 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sull'approccio del 45 management. Emissioni",
+        "context_after": "Emissioni dirette di gas a 47-48; effetto serra (Scope 1). 63-64 305-2 Emissioni dirette di gas a 47-48; effetto serra",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-2": {
+        "page": "71.txt",
+        "context_before": "caratteristiche. 103-3 Valutazione sull'approccio del 45 management. Emissioni 305-1 Emissioni dirette di gas a 47-48; effetto serra (Scope 1). 63-64",
+        "context_after": "Emissioni dirette di gas a 47-48; effetto serra (Scope 2). 63-64 305-5 Riduzione delle emissioni. 47-48; 63-64, 305-7 NOx, SOx",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": {
+        "page": "71.txt",
+        "context_before": "gas a 47-48; effetto serra (Scope 1). 63-64 305-2 Emissioni dirette di gas a 47-48; effetto serra (Scope 2). 63-64",
+        "context_after": "Riduzione delle emissioni. 47-48; 63-64, 305-7 NOx, SOx e altre emissioni 47-48; significative in atmosfera. 63-64 SCARICHI E RIFIUTI Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": false,
+    "305-7": {
+        "page": "71.txt",
+        "context_before": "1). 63-64 305-2 Emissioni dirette di gas a 47-48; effetto serra (Scope 2). 63-64 305-5 Riduzione delle emissioni. 47-48; 63-64,",
+        "context_after": "NOx, SOx e altre emissioni 47-48; significative in atmosfera. 63-64 SCARICHI E RIFIUTI Management approach 103-1 Spiegazione degli aspetti 45",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "72.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 71 e- Indicatori GRI Descrizione Omission Standards Scarichi e rifiuti",
+        "context_after": "Scarichi d'acqua per qualita e 49-50; destinazione. 64 306-2 Rifiuti per tipologia e per 49-50; metodi di smaltimento. 64 COMPLIANCE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "72.txt",
+        "context_before": "Pagina 71 e- Indicatori GRI Descrizione Omission Standards Scarichi e rifiuti 306-1 Scarichi d'acqua per qualita e 49-50; destinazione. 64",
+        "context_after": "Rifiuti per tipologia e per 49-50; metodi di smaltimento. 64 COMPLIANCE AMBIENTALE Management approach 103-1 Spiegazione degli aspetti 12 materiali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "72.txt",
+        "context_before": "Informazioni generali 12 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 12 management. Compliance ambientale N | It",
+        "context_after": "Valore delle multe e numero on si segnalano multe e/o sanzioni per violazioni di leggi delle sanzioni per violazione die",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "72.txt",
+        "context_before": "103-2 Informazioni generali 22 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 22 management. Valutazione ambientale dei fornitori",
+        "context_after": "Percentuale di nuovi fornitori | Gruppo non adotta politiche valutati in base alla relativa di valutazione del fornitor . .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "57.txt",
+        "context_before": "e procedure anti-corruzione (2017)? Tipo di formazione N. partecipanti Totale ore % dipendenti formati Modello organizzativo 231/01 416 850 95%",
+        "context_after": "-1 Numero e tasso di nuove assunzioni e turnover del personale GRUPPO SAES Entrate 2017 2016 Numero <30anni 30-50 >50",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "59.txt",
+        "context_before": "10 2 22. 14% 6 4 2 12 9% Totale 42 45 16 103 18% 38 18 9 65 12%",
+        "context_after": "-2 Giorni persi, tasso di assenteismo e malattie professionali; Tasso di infortuni sul lavoro, di malattia, di giornate di lavoro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "62.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 61 e-",
+        "context_after": "-3 Percentuale di dipendenti valutati sulle performance e sviluppo di carriera GRUPPO SAES Dipendenti che ricevono una regolare valutazione della",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "62.txt",
+        "context_before": "201 80% 72 69% 273 77% Operai 293 67% 120 78% 413 70% Totale 564 74% 204 76% 768 74%",
+        "context_after": "-1 Diversita degli organi di governo e dei dipendenti GRUPPO SAES Personale del Gruppo per categoria professionale e genere al",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": {
+        "page": "53.txt",
+        "context_before": "135 6.184.928 154 6.650.824 America 1.318 71.560.410 1.245 49.173.699 Nord Africa 1 1.375.000 - - Totale 2.967 112.733.640 2.843 88.581.416",
+        "context_after": "-1: Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso al lavoro minorile e delle misure intraprese**",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409": {
+        "page": "53.txt",
+        "context_before": "Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso al lavoro minorile e delle misure intraprese** e",
+        "context_after": "-1 Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso al lavoro forzato e delle misure intraprese>",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "57.txt",
+        "context_before": "e procedure anti-corruzione (2017)? Tipo di formazione N. partecipanti Totale ore % dipendenti formati Modello organizzativo 231/01 416 850 95%",
+        "context_after": "Numero e tasso di nuove assunzioni e turnover del personale GRUPPO SAES Entrate 2017 2016 Numero <30anni 30-50 >50 Totale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "59.txt",
+        "context_before": "10 2 22. 14% 6 4 2 12 9% Totale 42 45 16 103 18% 38 18 9 65 12%",
+        "context_after": "Giorni persi, tasso di assenteismo e malattie professionali; Tasso di infortuni sul lavoro, di malattia, di giornate di lavoro perse,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "61.txt",
+        "context_before": "del calcolo non sono state incluse le ore lavorate dei collaboratori esterni (ntotale pari a 65 collaboratori esterni nel 2017).",
+        "context_after": "Ore medie di formazione per dipendente, suddivise per genere e categoria Ore di formazione al 31 Dicembre 2017 Ore Media",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": {
+        "page": "62.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 61 e-",
+        "context_after": "Percentuale di dipendenti valutati sulle performance e sviluppo di carriera GRUPPO SAES Dipendenti che ricevono una regolare valutazione della performance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-1": {
+        "page": "62.txt",
+        "context_before": "201 80% 72 69% 273 77% Operai 293 67% 120 78% 413 70% Totale 564 74% 204 76% 768 74%",
+        "context_after": "Diversita degli organi di governo e dei dipendenti GRUPPO SAES Personale del Gruppo per categoria professionale e genere al 31",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": {
+        "page": "53.txt",
+        "context_before": "135 6.184.928 154 6.650.824 America 1.318 71.560.410 1.245 49.173.699 Nord Africa 1 1.375.000 - - Totale 2.967 112.733.640 2.843 88.581.416",
+        "context_after": ": Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso al lavoro minorile e delle misure intraprese**",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409-1": {
+        "page": "53.txt",
+        "context_before": "Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso al lavoro minorile e delle misure intraprese** e",
+        "context_after": "Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso al lavoro forzato e delle misure intraprese> Operazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "73.txt",
+        "context_before": "e relativi confini. 103-2 Informazioni generali 36 sullapproccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 36 management. Occupazione",
+        "context_after": "Nuovi assunti e turnover del 38-40; personale. 56-58 RELAZIONI INDUSTRIALI Management approach 103-1 Spiegazione degli aspetti 36 materiali e relativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": {
+        "page": "73.txt",
+        "context_before": "relativi confini. 103-2 Informazioni generali 36 sullapproccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 36 management. Relazioni industriali",
+        "context_after": "Periodi minimi di preavviso per 42 cambiamenti nelle attivita, inclusa leventuale specifica nei relativi contratti collettivi di lavoro. SALUTE E",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-1": false,
+    "403-2": {
+        "page": "74.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 73 e- Indicatori GRI Descrizione Standards",
+        "context_after": "Percentuale di infortuni e 42-43; infortuni sul lavoro, malattia, 59-60 giornate di lavoro perse, assenteismo e numero totale di decessi,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "74.txt",
+        "context_before": "confini. 103-2 Informazioni generali 36 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 36 management. Formazione e istruzione",
+        "context_after": "Ore medie di formazione annue 39-41; per dipendente, suddivise per 60-61 genere e categoria. 404-3 Percentuale dei dipendenti che 39-41;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "74.txt",
+        "context_before": "36 management. Formazione e istruzione 404-1 Ore medie di formazione annue 39-41; per dipendente, suddivise per 60-61 genere e categoria.",
+        "context_after": "Percentuale dei dipendenti che 39-41; ricevono regolarmente 60-61 valutazioni delle performance dello sviluppo della propria carriera, Suddivisa per genere e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "74.txt",
+        "context_before": "103-2 Informazioni generali 36 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 36 management. Diversita e pari opportunita",
+        "context_after": "Diversita degli organi di 13; 43; governo e dei dipendenti. 62-63 STE  [ran SAES Group @-",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": {
+        "page": "75.txt",
+        "context_before": "relativi confini. 103-2 Informazioni generali 22 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 22 management Lavoro minorile",
+        "context_after": "Operazione e fornitori che 52 presentano rischi significativi in materia di lavoro minorile LAVORO FORZATO Management approach 103-1 Spiegazione degli",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "75.txt",
+        "context_before": "relativi confini. 103-2 Informazioni generali 22 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 22 management. Lavoro forzato",
+        "context_after": "Operazione e fornitori che 52 presentano rischi significativi in materia di lavoro forzato VALUTAZIONE DEI FORNITORI IN MATERIA SOCIALE Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "76.txt",
+        "context_before": "12bis-Dichiarazione non finanziaria .qxp_Layout 1 24/04/18 16:05 Pagina 75 e- Indicatori GRI Coyne) Standards Valutazione dei fornitori in materia sociale",
+        "context_after": "Nuovi fornitori valutati in base a !I Gruppo non adotta politiche di valutazione criteri sociali. dei fornitori sulla base di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "76.txt",
+        "context_before": "Informazioni generali 28 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 28 management Salute e sicurezza dei consumatori",
+        "context_after": "Percentuale di categorie di 35 prodotti e servizi per i quali sono previste attivita di valutazione della salute e della",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": false,
+    "417-1": {
+        "page": "76.txt",
+        "context_before": "confini. 103-2 Informazioni generali 28 sull'approccio del management e relative caratteristiche. 103-3 Valutazione sullapproccio del 28 management. Marketing e labeling",
+        "context_after": "Requisiti di informazioni ed 35 etichettatura di prodotti e servizi. COMPLIANCE SOCIO-ECONOMICA Management approach 103-1 Spiegazione degli aspetti 12 materiali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "77.txt",
+        "context_before": "Compliance socio-economica Valore delle multe e numero delle sanzioni per violazione di leggi e regolamenti in ambito economico e sociale.",
+        "context_after": "Non si segnalano multe e/o sanzioni per violazioni di leggi e regolamenti in materia RICERCA E SVILUPPO Management approach 103-1",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    }
+}

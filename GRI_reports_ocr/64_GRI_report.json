@@ -1,0 +1,553 @@
+{
+    "GRI 200": false,
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "17.txt",
+        "context_before": "riguardanti casi di corruzione in obletivo quella di cortinuare su questa ines Sd EPISODI DI CORRUZIONE SEGNALATI O ACCERTATI 13",
+        "context_after": "-3: Numero di casi di corruzioni riscontrati nel corso del 2018. 12",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": {
+        "page": "16.txt",
+        "context_before": "dalle attivita dell'impresa, dai suoi prodotti, servizi o rapporti commerciali, incluse, ove rilevanti, le catene di fornitura e subappalto. 12",
+        "context_after": ": Attivita di comunicazione e training in merito a politiche e procedure per prevenire e contrastare la corruzione 11",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-3": {
+        "page": "17.txt",
+        "context_before": "riguardanti casi di corruzione in obletivo quella di cortinuare su questa ines Sd EPISODI DI CORRUZIONE SEGNALATI O ACCERTATI 13",
+        "context_after": ": Numero di casi di corruzioni riscontrati nel corso del 2018. 12",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": {
+        "page": "14.txt",
+        "context_before": "la gestione del personale, : , . ase , . . 102-41; 401-1; incluse la parita di genere, lattuazione di",
+        "context_after": ": 404-1: p. 16 convenzioni di organizzazioni internazionali e il A05- 1 , Persone dialogo con le parti sociali Art",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": {
+        "page": "49.txt",
+        "context_before": "13 Personale; p. 25 Ambiente; p. 35 Societa; p. 37 Diritti Umani; p. 39 103-2 Diversita degli Organi di Governo",
+        "context_after": "p.11 205-3 p. 12 302-1 p. 29 Pininfarina calcola lenergy intensity come rapporto tra consumi di energia e superficie in",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "49.txt",
+        "context_before": "p. 25 Ambiente; p. 35 Societa; p. 37 Diritti Umani; p. 39 103-2 Diversita degli Organi di Governo 205-2 p.11",
+        "context_after": "p. 12 302-1 p. 29 Pininfarina calcola lenergy intensity come rapporto tra consumi di energia e superficie in metri quadri.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "34.txt",
+        "context_before": "utilizzata per quantificare le emissioni di CO, in atmosfera si faccia riferimento al paragrafo 8.1.2. Emissioni dirette (Scope 1) 28",
+        "context_after": "-1: Consumi di combustibile, energia elettrica e energia termica per il funzionamento degli uffici e delle strutture suddivisi tra rinnovabili/non-rinnovabili.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "37.txt",
+        "context_before": "idrici di Pininfarina of America Corp. (USA) sono stimati sulla media dei consumi di un ufficio negli Stati Uniti. 33",
+        "context_after": "-3: Prelievi idrici degli uffici e delle strutture. 32",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "36.txt",
+        "context_before": "relativo all'ltalia in quanto negli altri Paesi non si registra emissione di sostanze significative in termini di impatti ambientali. 31",
+        "context_after": "-6: Emissioni di sostanze che danneggiano I'ozono in peso. 32 GRI 305-7: Emissioni NOx, SOx 0 altro tipo di emissioni",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306": {
+        "page": "49.txt",
+        "context_before": "dati relativi a Pininfarina of America Corp. (USA)sono calcolati sulla stima dei consumi medi di un ufficio negli Stati Uniti.",
+        "context_after": "303-3 p. 32 305-1 p. 30 305-2 p. 30 305-6 p. 31 305-7 p. 31 Effluents and Waste 306-2 p.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "49.txt",
+        "context_before": "p. 32 305-1 p. 30 305-2 p. 30 305-6 p. 31 305-7 p. 31 Effluents and Waste 306-2 p. 33",
+        "context_after": "Environmental Compliance 307-1 p. 34 GRI 401 eis 401-1 p. 20 401-2 p. 22 GRI 403 footer toate a lcm",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "34.txt",
+        "context_before": "utilizzata per quantificare le emissioni di CO, in atmosfera si faccia riferimento al paragrafo 8.1.2. Emissioni dirette (Scope 1) 28",
+        "context_after": ": Consumi di combustibile, energia elettrica e energia termica per il funzionamento degli uffici e delle strutture suddivisi tra rinnovabili/non-rinnovabili.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": {
+        "page": "37.txt",
+        "context_before": "idrici di Pininfarina of America Corp. (USA) sono stimati sulla media dei consumi di un ufficio negli Stati Uniti. 33",
+        "context_after": ": Prelievi idrici degli uffici e delle strutture. 32",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "35.txt",
+        "context_before": "Pininfarina of America Corp. (USA) sono stimati sulla media dei consumi di un ufficio negli Stati Uniti. Emissioni nocive 29",
+        "context_after": ": Emissioni generate dal consumo di combustibile per il funzionamento degli 30 GRI 305-2: Emissioni generate dai consumi di energia",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "35.txt",
+        "context_before": "ufficio negli Stati Uniti. Emissioni nocive 29 GRI 305-1: Emissioni generate dal consumo di combustibile per il funzionamento degli 30",
+        "context_after": ": Emissioni generate dai consumi di energia elettrica ed energia termica per 30",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": {
+        "page": "36.txt",
+        "context_before": "relativo all'ltalia in quanto negli altri Paesi non si registra emissione di sostanze significative in termini di impatti ambientali. 31",
+        "context_after": ": Emissioni di sostanze che danneggiano I'ozono in peso. 32 GRI 305-7: Emissioni NOx, SOx 0 altro tipo di emissioni",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305-7": {
+        "page": "36.txt",
+        "context_before": "di sostanze significative in termini di impatti ambientali. 31 GRI 305-6: Emissioni di sostanze che danneggiano I'ozono in peso. 32",
+        "context_after": ": Emissioni NOx, SOx 0 altro tipo di emissioni significative. 31",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "38.txt",
+        "context_before": "BYA7a Rifiuti destinati alle operazioni di recupero 189.193 1.318.235 -86% Rifiuti destinati alle operazioni di smaltimento 53.439,50 46.651 +15% 34",
+        "context_after": ": Rifiuti prodotti per tipologia e modalita di smaltimento (carta e rifiuti tecnologici, macero, allegati, etc.). 33",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "39.txt",
+        "context_before": "un apposito registro ed annualmente consolidate nel Modello Unico di Dichiarazione Ambientale (MUDA) e inviate allente competente (C.C.LA. territoriale). 35",
+        "context_after": ": Valore monetario delle multe significative e numero delle sanzioni non monetarie per mancato rispetto di regolamenti e leggi in",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "49.txt",
+        "context_before": "p. 35 Societa; p. 37 Diritti Umani; p. 39 103-2 Diversita degli Organi di Governo 205-2 p.11 205-3 p. 12",
+        "context_after": "p. 29 Pininfarina calcola lenergy intensity come rapporto tra consumi di energia e superficie in metri quadri. Lenergy intensity ",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "49.txt",
+        "context_before": "rapporto tra consumi di energia e superficie in metri quadri. Lenergy intensity  disponibile per Italia (315,05 kWh/mq), Germania (207,2),",
+        "context_after": "Cina (49,64) e Stati Uniti (186,22). Il valore a livello di Gruppo  pari a 299,18 kWh/mq. | dati relativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "14.txt",
+        "context_before": "403-2 p. 23 sicurezza Art 3.2, comma a, b, c) 302-1; 302-3; . Impiego di risorse idriche; emissioni inquinanti in",
+        "context_after": "; 305-1; Ambiente . . ae . ; ; p. 28 atmosfera; impatto sullambiente; altri indicatori 305-2; 305-6; rilevanti correlati",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "303-2": false,
+    "303-3": {
+        "page": "49.txt",
+        "context_before": "a Pininfarina of America Corp. (USA)sono calcolati sulla stima dei consumi medi di un ufficio negli Stati Uniti. GRI 306",
+        "context_after": "p. 32 305-1 p. 30 305-2 p. 30 305-6 p. 31 305-7 p. 31 Effluents and Waste 306-2 p. 33",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "49.txt",
+        "context_before": "America Corp. (USA)sono calcolati sulla stima dei consumi medi di un ufficio negli Stati Uniti. GRI 306 303-3 p. 32",
+        "context_after": "p. 30 305-2 p. 30 305-6 p. 31 305-7 p. 31 Effluents and Waste 306-2 p. 33 GRI 307 Environmental",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "305-2": {
+        "page": "49.txt",
+        "context_before": "calcolati sulla stima dei consumi medi di un ufficio negli Stati Uniti. GRI 306 303-3 p. 32 305-1 p. 30",
+        "context_after": "p. 30 305-6 p. 31 305-7 p. 31 Effluents and Waste 306-2 p. 33 GRI 307 Environmental Compliance 307-1 p.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": {
+        "page": "49.txt",
+        "context_before": "dei consumi medi di un ufficio negli Stati Uniti. GRI 306 303-3 p. 32 305-1 p. 30 305-2 p. 30",
+        "context_after": "p. 31 305-7 p. 31 Effluents and Waste 306-2 p. 33 GRI 307 Environmental Compliance 307-1 p. 34 GRI 401",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-7": {
+        "page": "49.txt",
+        "context_before": "di un ufficio negli Stati Uniti. GRI 306 303-3 p. 32 305-1 p. 30 305-2 p. 30 305-6 p. 31",
+        "context_after": "p. 31 Effluents and Waste 306-2 p. 33 GRI 307 Environmental Compliance 307-1 p. 34 GRI 401 eis 401-1 p.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "49.txt",
+        "context_before": "GRI 306 303-3 p. 32 305-1 p. 30 305-2 p. 30 305-6 p. 31 305-7 p. 31 Effluents and Waste",
+        "context_after": "p. 33 GRI 307 Environmental Compliance 307-1 p. 34 GRI 401 eis 401-1 p. 20 401-2 p. 22 GRI 403",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "49.txt",
+        "context_before": "30 305-2 p. 30 305-6 p. 31 305-7 p. 31 Effluents and Waste 306-2 p. 33 GRI 307 Environmental Compliance",
+        "context_after": "p. 34 GRI 401 eis 401-1 p. 20 401-2 p. 22 GRI 403 footer toate a lcm TULA 403-1 p.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "49.txt",
+        "context_before": "30 305-6 p. 31 305-7 p. 31 Effluents and Waste 306-2 p. 33 GRI 307 Environmental Compliance 307-1 p. 34",
+        "context_after": "eis 401-1 p. 20 401-2 p. 22 GRI 403 footer toate a lcm TULA 403-1 p. 23 403-9 p. 23",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "49.txt",
+        "context_before": "Waste 306-2 p. 33 GRI 307 Environmental Compliance 307-1 p. 34 GRI 401 eis 401-1 p. 20 401-2 p. 22",
+        "context_after": "footer toate a lcm TULA 403-1 p. 23 403-9 p. 23 403-10 p. 23 44",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "50.txt",
+        "context_before": "sezioni della Relazione o a documenti esterni BELSME (i numeri di pagina si riferiscono al paragrafo che include la disclosure)",
+        "context_after": "Training and Education 404-1 p. 22 405-2 p. 22 405-1a p. 18 405-1b p. 39 RI 406  o ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "44.txt",
+        "context_before": "all'interno dell'impresa, comprese quelle di dovuta diligenza. In particolare fare riferimento agli altri contenuti minimi previsti per I'Aspetto analizzato. 43",
+        "context_after": "-1a: Diversita degli organi di governo. 39",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": {
+        "page": "43.txt",
+        "context_before": "dalle attivita dell'impresa, dai suoi prodotti, servizi o rapporti commerciali, incluse, ove rilevanti, le catene di fornitura e subappalto. 41",
+        "context_after": "-1: Eventuali episodi di discriminazione riscontrati e azioni correttive implementate 38",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": {
+        "page": "41.txt",
+        "context_before": "connessi alla gestione dei rapporti con la Societa (intesa come clienti, collettivita, etc.) e che derivano dalle attivita dell'impresa. 38",
+        "context_after": "-1: Valore monetario delle sanzioni significative per non rispetto di leggi o regolamenti, prodotti e servizi. 36",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": {
+        "page": "25.txt",
+        "context_before": "ai 50 anni TOTALE eta inferiore ai 30 anni trai 30 ei 50 anni eta superiore ai 50 anni 18",
+        "context_after": ": Numero totale e tasso di assunzioni e turnover del personale (suddivisi per eta, genere e provenienza). 20",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": {
+        "page": "27.txt",
+        "context_before": "categoria. 20 GRI 405-2: Rapporto tra la remunerazione degli uomini e delle donne. Indicatore riportato solo in maniera consolidata. 21",
+        "context_after": ": Benefit forniti ai dipendenti a tempo pieno che non sono forniti ai dipendenti temporanei 0 part-time, per attivita principali.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": {
+        "page": "28.txt",
+        "context_before": "normativa vigente. Il Gruppo assume una condotta positiva nei confronti delle organizzazioni rappresentative dei lavoratori e dei sindacati. 27% 22",
+        "context_after": ": Sistema di gestione salute e sicurezza. 23 GRI 403-10: Numero di incidenti mortali verificatisi nel periodo. 24 GRI 403-9:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": {
+        "page": "28.txt",
+        "context_before": "22 GRI 403-1: Sistema di gestione salute e sicurezza. 23 GRI 403-10: Numero di incidenti mortali verificatisi nel periodo. 24",
+        "context_after": ": Tipologia di infortuni, tasso di infortunio, malattie professionali, giorni di lavoro persi e si per regione e per genere.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-10": {
+        "page": "28.txt",
+        "context_before": "confronti delle organizzazioni rappresentative dei lavoratori e dei sindacati. 27% 22 GRI 403-1: Sistema di gestione salute e sicurezza. 23",
+        "context_after": ": Numero di incidenti mortali verificatisi nel periodo. 24 GRI 403-9: Tipologia di infortuni, tasso di infortunio, malattie professionali, giorni",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404-1": {
+        "page": "27.txt",
+        "context_before": "Uniti, convenzioni in Italia. | benefit sono forniti in egual misura sia ai dipendenti part-time che ai dipendenti full-time. 19",
+        "context_after": ": Ore di formazione medie annue per dipendente, per genere e per categoria. 20 GRI 405-2: Rapporto tra la remunerazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "44.txt",
+        "context_before": "all'interno dell'impresa, comprese quelle di dovuta diligenza. In particolare fare riferimento agli altri contenuti minimi previsti per I'Aspetto analizzato. 43",
+        "context_after": "a: Diversita degli organi di governo. 39",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": {
+        "page": "27.txt",
+        "context_before": "che ai dipendenti full-time. 19 GRI 404-1: Ore di formazione medie annue per dipendente, per genere e per categoria. 20",
+        "context_after": ": Rapporto tra la remunerazione degli uomini e delle donne. Indicatore riportato solo in maniera consolidata. 21 GRI 401-2: Benefit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406-1": {
+        "page": "43.txt",
+        "context_before": "dalle attivita dell'impresa, dai suoi prodotti, servizi o rapporti commerciali, incluse, ove rilevanti, le catene di fornitura e subappalto. 41",
+        "context_after": ": Eventuali episodi di discriminazione riscontrati e azioni correttive implementate 38",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": {
+        "page": "41.txt",
+        "context_before": "connessi alla gestione dei rapporti con la Societa (intesa come clienti, collettivita, etc.) e che derivano dalle attivita dell'impresa. 38",
+        "context_after": ": Valore monetario delle sanzioni significative per non rispetto di leggi o regolamenti, prodotti e servizi. 36",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-1": {
+        "page": "49.txt",
+        "context_before": "31 305-7 p. 31 Effluents and Waste 306-2 p. 33 GRI 307 Environmental Compliance 307-1 p. 34 GRI 401 eis",
+        "context_after": "p. 20 401-2 p. 22 GRI 403 footer toate a lcm TULA 403-1 p. 23 403-9 p. 23 403-10 p.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "49.txt",
+        "context_before": "31 Effluents and Waste 306-2 p. 33 GRI 307 Environmental Compliance 307-1 p. 34 GRI 401 eis 401-1 p. 20",
+        "context_after": "p. 22 GRI 403 footer toate a lcm TULA 403-1 p. 23 403-9 p. 23 403-10 p. 23 44",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": false,
+    "403-1": {
+        "page": "49.txt",
+        "context_before": "Compliance 307-1 p. 34 GRI 401 eis 401-1 p. 20 401-2 p. 22 GRI 403 footer toate a lcm TULA",
+        "context_after": "p. 23 403-9 p. 23 403-10 p. 23 44",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "14.txt",
+        "context_before": "il A05- 1 , Persone dialogo con le parti sociali Art 3.2, comma c) Informazioni riguardanti limpatto sulla salute e",
+        "context_after": "p. 23 sicurezza Art 3.2, comma a, b, c) 302-1; 302-3; . Impiego di risorse idriche; emissioni inquinanti in 303-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": {
+        "page": "49.txt",
+        "context_before": "34 GRI 401 eis 401-1 p. 20 401-2 p. 22 GRI 403 footer toate a lcm TULA 403-1 p. 23",
+        "context_after": "p. 23 403-10 p. 23 44",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-10": {
+        "page": "49.txt",
+        "context_before": "eis 401-1 p. 20 401-2 p. 22 GRI 403 footer toate a lcm TULA 403-1 p. 23 403-9 p. 23",
+        "context_after": "p. 23 44",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-1": {
+        "page": "50.txt",
+        "context_before": "documenti esterni BELSME (i numeri di pagina si riferiscono al paragrafo che include la disclosure) GRI 404 Training and Education",
+        "context_after": "p. 22 405-2 p. 22 405-1a p. 18 405-1b p. 39 RI 406  o  406-1 p. 38 ate",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "50.txt",
+        "context_before": "pagina si riferiscono al paragrafo che include la disclosure) GRI 404 Training and Education 404-1 p. 22 405-2 p. 22",
+        "context_after": "a p. 18 405-1b p. 39 RI 406  o  406-1 p. 38 ate $s 8 0O-eECO eo oe",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "50.txt",
+        "context_before": "(i numeri di pagina si riferiscono al paragrafo che include la disclosure) GRI 404 Training and Education 404-1 p. 22",
+        "context_after": "p. 22 405-1a p. 18 405-1b p. 39 RI 406  o  406-1 p. 38 ate $s 8 0O-eECO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "50.txt",
+        "context_before": "Training and Education 404-1 p. 22 405-2 p. 22 405-1a p. 18 405-1b p. 39 RI 406  o ",
+        "context_after": "p. 38 ate $s 8 0O-eECO eo oe e 419-1 p. 36 . Pininfarina non ha sottoscritto convenzioni internazionali afferenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "50.txt",
+        "context_before": "p. 18 405-1b p. 39 RI 406  o  406-1 p. 38 ate $s 8 0O-eECO eo oe e",
+        "context_after": "p. 36 . Pininfarina non ha sottoscritto convenzioni internazionali afferenti alla sfera della gestione del personale. 45",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

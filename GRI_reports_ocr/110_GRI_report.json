@@ -1,0 +1,535 @@
+{
+    "GRI 200": {
+        "page": "59.txt",
+        "context_before": "102-46 102-47 102-48 102-49 102-50 102-51 102-52 102-53 102-54 102-55 102-56",
+        "context_after": "GRI 201 103-1, 103-2, 103-3 201-1 GRI 204 103-1, 103-2, 103-3 204-1 GRI 205 103-1, 103-2, 103-3 205-3 GRI 301",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 201": {
+        "page": "59.txt",
+        "context_before": "102-46 102-47 102-48 102-49 102-50 102-51 102-52 102-53 102-54 102-55 102-56 GRI 200",
+        "context_after": "103-1, 103-2, 103-3 201-1 GRI 204 103-1, 103-2, 103-3 204-1 GRI 205 103-1, 103-2, 103-3 205-3 GRI 301 103-1, 103-2,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "68.txt",
+        "context_before": "Sezione 3: Gestione responsabile della catena di fornitura Tabella 11: Percentuale di spesa concentrata su fornitori locali",
+        "context_after": "-1 Acquisti da fornitori locali (Milioni di Euro) 2017 2016 Acquisti da fornitori locali 511 630 Acquisti totali 584 712",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "59.txt",
+        "context_before": "102-51 102-52 102-53 102-54 102-55 102-56 GRI 200 GRI 201 103-1, 103-2, 103-3 201-1 GRI 204 103-1, 103-2, 103-3 204-1",
+        "context_after": "103-1, 103-2, 103-3 205-3 GRI 301 103-1, 103-2, 103-3 301-1 GRI 302 103-1, 103-2, 103-3 302-1 302-3 GRI 303 103-1,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "68.txt",
+        "context_before": "Sezione 3: Gestione responsabile della catena di fornitura Tabella 11: Percentuale di spesa concentrata su fornitori locali",
+        "context_after": " Acquisti da fornitori locali (Milioni di Euro) 2017 2016 Acquisti da fornitori locali 511 630 Acquisti totali 584 712",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "59.txt",
+        "context_before": "102-46 102-47 102-48 102-49 102-50 102-51 102-52 102-53 102-54 102-55 102-56 GRI 200 GRI 201 103-1, 103-2, 103-3",
+        "context_after": "GRI 204 103-1, 103-2, 103-3 204-1 GRI 205 103-1, 103-2, 103-3 205-3 GRI 301 103-1, 103-2, 103-3 301-1 GRI 302",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "68.txt",
+        "context_before": "Sezione 3: Gestione responsabile della catena di fornitura Tabella 11: Percentuale di spesa concentrata su fornitori locali GRI",
+        "context_after": " Acquisti da fornitori locali (Milioni di Euro) 2017 2016 Acquisti da fornitori locali 511 630 Acquisti totali 584 712",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "59.txt",
+        "context_before": "102-56 GRI 200 GRI 201 103-1, 103-2, 103-3 201-1 GRI 204 103-1, 103-2, 103-3 204-1 GRI 205 103-1, 103-2, 103-3",
+        "context_after": "GRI 301 103-1, 103-2, 103-3 301-1 GRI 302 103-1, 103-2, 103-3 302-1 302-3 GRI 303 103-1, 103-2, 103-3 303-1 GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "59.txt",
+        "context_before": "GRI 200 GRI 201 103-1, 103-2, 103-3 201-1 GRI 204 103-1, 103-2, 103-3 204-1 GRI 205 103-1, 103-2, 103-3 205-3",
+        "context_after": "103-1, 103-2, 103-3 301-1 GRI 302 103-1, 103-2, 103-3 302-1 302-3 GRI 303 103-1, 103-2, 103-3 303-1 GRI 305 103-1,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302": {
+        "page": "69.txt",
+        "context_before": "rinnovabili 16.015 16.400 (385) -2% Totale emissioni (scope 1 + scope 2) 18.749 19.010 (261) -1% Tabella 14: Intensita energetica",
+        "context_after": "-37 ensita energetica 0 016 Delta Delta % Consumi di energia kWh 56.865.474 | _56.521.515 343.959 1% Superficie totale delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "59.txt",
+        "context_before": "204-1 GRI 205 103-1, 103-2, 103-3 205-3 GRI 301 103-1, 103-2, 103-3 301-1 GRI 302 103-1, 103-2, 103-3 302-1 302-3",
+        "context_after": "103-1, 103-2, 103-3 303-1 GRI 305 103-1, 103-2, 103-3 305-1 305-2 305-6 GRI 306 103-1, documenti equivalenti. Processo per la",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "69.txt",
+        "context_before": "Tabella 13: Emissioni dirette e indirette, suddivide per uffici e sedi e siti produttivi",
+        "context_after": "-1 e GRI 305-2 PSEA di CO, dirette e indirette (Tonnellate Nh | nls Dee DEK Emissioni dirette (scope 1)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "69.txt",
+        "context_before": "395 11 3% Tabella 15: Rifiuti prodotti internamente per modalita di smaltimento, suddivisi per uffici e sedi e siti produttivi",
+        "context_after": "-2 Rifiuti Metodi di smaltimento - Siti Produttivi DEK (Tonnellate) Rifiuti_ pericolosi 55 49 6 12% Recupero, includendo Ienergia recuperata",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "60.txt",
+        "context_before": "103-2, 103-3 306-2",
+        "context_after": "307-1 GRI 308 103-1, 103-2, 103-3 308-1 GRI 401 103-1 103-2 103-3 401-1 GRI 402 103-1, 103-2, 103-3 402-1 GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": {
+        "page": "60.txt",
+        "context_before": "103-2, 103-3 306-2 GRI 307 307-1",
+        "context_after": "103-1, 103-2, 103-3 308-1 GRI 401 103-1 103-2 103-3 401-1 GRI 402 103-1, 103-2, 103-3 402-1 GRI 403 103-1, 103-2,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "68.txt",
+        "context_before": "Sezione 4: Ambiente Tabella 12: Consumi di energia interni ed esterni allorganizzazione, suddivisi per uffici e sedi e siti produttivi",
+        "context_after": "Consumi di energia diretta e indiretta - Siti Delta 1By-Ni produttivi (Gigajoule) Consumo totale di energia diretta 38.156 32.894 5.262",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": {
+        "page": "69.txt",
+        "context_before": "rinnovabili 16.015 16.400 (385) -2% Totale emissioni (scope 1 + scope 2) 18.749 19.010 (261) -1% Tabella 14: Intensita energetica",
+        "context_after": "7 ensita energetica 0 016 Delta Delta % Consumi di energia kWh 56.865.474 | _56.521.515 343.959 1% Superficie totale delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "69.txt",
+        "context_before": "Tabella 13: Emissioni dirette e indirette, suddivide per uffici e sedi e siti produttivi",
+        "context_after": "e GRI 305-2 PSEA di CO, dirette e indirette (Tonnellate Nh | nls Dee DEK Emissioni dirette (scope 1) 2.734",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "69.txt",
+        "context_before": "395 11 3% Tabella 15: Rifiuti prodotti internamente per modalita di smaltimento, suddivisi per uffici e sedi e siti produttivi",
+        "context_after": "Rifiuti Metodi di smaltimento - Siti Produttivi DEK (Tonnellate) Rifiuti_ pericolosi 55 49 6 12% Recupero, includendo Ienergia recuperata 28",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "59.txt",
+        "context_before": "103-2, 103-3 201-1 GRI 204 103-1, 103-2, 103-3 204-1 GRI 205 103-1, 103-2, 103-3 205-3 GRI 301 103-1, 103-2, 103-3",
+        "context_after": "GRI 302 103-1, 103-2, 103-3 302-1 302-3 GRI 303 103-1, 103-2, 103-3 303-1 GRI 305 103-1, 103-2, 103-3 305-1 305-2",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "68.txt",
+        "context_before": "4: Ambiente Tabella 12: Consumi di energia interni ed esterni allorganizzazione, suddivisi per uffici e sedi e siti produttivi GRI",
+        "context_after": "Consumi di energia diretta e indiretta - Siti Delta 1By-Ni produttivi (Gigajoule) Consumo totale di energia diretta 38.156 32.894 5.262",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "69.txt",
+        "context_before": "16.015 16.400 (385) -2% Totale emissioni (scope 1 + scope 2) 18.749 19.010 (261) -1% Tabella 14: Intensita energetica GRI",
+        "context_after": "7 ensita energetica 0 016 Delta Delta % Consumi di energia kWh 56.865.474 | _56.521.515 343.959 1% Superficie totale delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "59.txt",
+        "context_before": "103-3 205-3 GRI 301 103-1, 103-2, 103-3 301-1 GRI 302 103-1, 103-2, 103-3 302-1 302-3 GRI 303 103-1, 103-2, 103-3",
+        "context_after": "GRI 305 103-1, 103-2, 103-3 305-1 305-2 305-6 GRI 306 103-1, documenti equivalenti. Processo per la definizione del perimetro di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "69.txt",
+        "context_before": "Tabella 13: Emissioni dirette e indirette, suddivide per uffici e sedi e siti produttivi GRI",
+        "context_after": "e GRI 305-2 PSEA di CO, dirette e indirette (Tonnellate Nh | nls Dee DEK Emissioni dirette (scope 1) 2.734",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "69.txt",
+        "context_before": "Tabella 13: Emissioni dirette e indirette, suddivide per uffici e sedi e siti produttivi GRI 305-1 e GRI",
+        "context_after": "PSEA di CO, dirette e indirette (Tonnellate Nh | nls Dee DEK Emissioni dirette (scope 1) 2.734 2.610 124 5%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": {
+        "page": "59.txt",
+        "context_before": "GRI 302 103-1, 103-2, 103-3 302-1 302-3 GRI 303 103-1, 103-2, 103-3 303-1 GRI 305 103-1, 103-2, 103-3 305-1 305-2",
+        "context_after": "GRI 306 103-1, documenti equivalenti. Processo per la definizione del perimetro di rendicontazione e delle limitazioni. Aspetti materiali identificati nel",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "69.txt",
+        "context_before": "11 3% Tabella 15: Rifiuti prodotti internamente per modalita di smaltimento, suddivisi per uffici e sedi e siti produttivi GRI",
+        "context_after": "Rifiuti Metodi di smaltimento - Siti Produttivi DEK (Tonnellate) Rifiuti_ pericolosi 55 49 6 12% Recupero, includendo Ienergia recuperata 28",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "60.txt",
+        "context_before": "103-2, 103-3 306-2 GRI 307",
+        "context_after": "GRI 308 103-1, 103-2, 103-3 308-1 GRI 401 103-1 103-2 103-3 401-1 GRI 402 103-1, 103-2, 103-3 402-1 GRI 403",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "308-1": {
+        "page": "60.txt",
+        "context_before": "103-2, 103-3 306-2 GRI 307 307-1 GRI 308 103-1, 103-2, 103-3",
+        "context_after": "GRI 401 103-1 103-2 103-3 401-1 GRI 402 103-1, 103-2, 103-3 402-1 GRI 403 103-1, 103-2, 103-3 403-2 GRI 404",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "64.txt",
+        "context_before": "Tabella 4: Numero dei dipendenti che hanno lasciato l'azienda, per gruppo di eta, genere e area geografica (",
+        "context_after": "-1) Numero dei dipendenti che hanno 2017 2016 lasciato l'azienda DYeyal at els) Donna aOclS Italia 58 28 86 52",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "60.txt",
+        "context_before": "103-2, 103-3 306-2 GRI 307 307-1 GRI 308 103-1, 103-2, 103-3 308-1 GRI 401 103-1 103-2 103-3 401-1",
+        "context_after": "103-1, 103-2, 103-3 402-1 GRI 403 103-1, 103-2, 103-3 403-2 GRI 404 103-1, 103-2, 103-3 404-1 GRI 405 103-1, 103-2,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403": {
+        "page": "67.txt",
+        "context_before": "(ODR), tasso dei giorni di lavoro persi (LDR), tasso di assenteismo (AR) e decessi sul lavoro, per tutti i dipendenti",
+        "context_after": "-27  eennen net ml ay Uomo Donna oeiS Uomo Donna | Totale Indice di Gravita 0,51 0,42 0,47 0,68 0,41",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "67.txt",
+        "context_before": "Tabella 8: Ore medie di formazione pro-capite per genere e categoria di dipendenti",
+        "context_after": "-17 Ore medie di formazione 2017 rue Uomo Donna Totale Uomo Donna Totale Dipendenti 7 10 8 11 13 12",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "66.txt",
+        "context_before": "Tabella 7: Rapporto tra il salario medio base delle donne rispetto agli uomini? (",
+        "context_after": "-2) Rapporto tra il salario medio base delle donne rispetto agli uomini Italia Dirigenti e Direttori di testata 94% 97%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "60.txt",
+        "context_before": "402-1 GRI 403 103-1, 103-2, 103-3 403-2 GRI 404 103-1, 103-2, 103-3 404-1 GRI 405 103-1, 103-2, 103-3 405-1 405-2",
+        "context_after": "103-1, 103-2, 103-3 406-1 management e valutazione sullapproccio del management Rifiuti prodotti per tipologia e modalita di smaltimento (carta e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": {
+        "page": "61.txt",
+        "context_before": "",
+        "context_after": "103-1, 103-2, 103-3 414-1 GRI 417 103-1, 103-2, 103-3 417-3 GRI 418 103-1, 103-2, 103-3 418-1 M1 103-1, 103-2, 103-3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "61.txt",
+        "context_before": "GRI 414 103-1, 103-2, 103-3 414-1",
+        "context_after": "103-1, 103-2, 103-3 417-3 GRI 418 103-1, 103-2, 103-3 418-1 M1 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 418": {
+        "page": "61.txt",
+        "context_before": "GRI 414 103-1, 103-2, 103-3 414-1 GRI 417 103-1, 103-2, 103-3 417-3",
+        "context_after": "103-1, 103-2, 103-3 418-1 M1 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "64.txt",
+        "context_before": "Tabella 4: Numero dei dipendenti che hanno lasciato l'azienda, per gruppo di eta, genere e area geografica (",
+        "context_after": ") Numero dei dipendenti che hanno 2017 2016 lasciato l'azienda DYeyal at els) Donna aOclS Italia 58 28 86 52",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "67.txt",
+        "context_before": "(ODR), tasso dei giorni di lavoro persi (LDR), tasso di assenteismo (AR) e decessi sul lavoro, per tutti i dipendenti",
+        "context_after": "7  eennen net ml ay Uomo Donna oeiS Uomo Donna | Totale Indice di Gravita 0,51 0,42 0,47 0,68 0,41",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "67.txt",
+        "context_before": "Tabella 8: Ore medie di formazione pro-capite per genere e categoria di dipendenti",
+        "context_after": "7 Ore medie di formazione 2017 rue Uomo Donna Totale Uomo Donna Totale Dipendenti 7 10 8 11 13 12",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "65.txt",
+        "context_before": "1% 1% 2% 2% 2% Tabella 6: Numero totale di dipendenti suddivisi per gruppo di eta, genere e livello (",
+        "context_after": ") Dipendenti per qualifica 2017 | cls Uomo Donna Totale | Uomo 1DyoyaTare| Totale Dirigenti 60 18 78 62 18",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": {
+        "page": "66.txt",
+        "context_before": "Tabella 7: Rapporto tra il salario medio base delle donne rispetto agli uomini? (",
+        "context_after": ") Rapporto tra il salario medio base delle donne rispetto agli uomini Italia Dirigenti e Direttori di testata 94% 97%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "64.txt",
+        "context_before": "Tabella 4: Numero dei dipendenti che hanno lasciato l'azienda, per gruppo di eta, genere e area geografica (GRI",
+        "context_after": ") Numero dei dipendenti che hanno 2017 2016 lasciato l'azienda DYeyal at els) Donna aOclS Italia 58 28 86 52",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": {
+        "page": "60.txt",
+        "context_before": "GRI 307 307-1 GRI 308 103-1, 103-2, 103-3 308-1 GRI 401 103-1 103-2 103-3 401-1 GRI 402 103-1, 103-2, 103-3",
+        "context_after": "GRI 403 103-1, 103-2, 103-3 403-2 GRI 404 103-1, 103-2, 103-3 404-1 GRI 405 103-1, 103-2, 103-3 405-1 405-2 GRI",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-1": false,
+    "403-2": {
+        "page": "67.txt",
+        "context_before": "tasso dei giorni di lavoro persi (LDR), tasso di assenteismo (AR) e decessi sul lavoro, per tutti i dipendenti GRI",
+        "context_after": "7  eennen net ml ay Uomo Donna oeiS Uomo Donna | Totale Indice di Gravita 0,51 0,42 0,47 0,68 0,41",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "67.txt",
+        "context_before": "Tabella 8: Ore medie di formazione pro-capite per genere e categoria di dipendenti GRI",
+        "context_after": "7 Ore medie di formazione 2017 rue Uomo Donna Totale Uomo Donna Totale Dipendenti 7 10 8 11 13 12",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "65.txt",
+        "context_before": "1% 1% 2% 2% 2% Tabella 6: Numero totale di dipendenti suddivisi per gruppo di eta, genere e livello (GRI",
+        "context_after": ") Dipendenti per qualifica 2017 | cls Uomo Donna Totale | Uomo 1DyoyaTare| Totale Dirigenti 60 18 78 62 18",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "66.txt",
+        "context_before": "Tabella 7: Rapporto tra il salario medio base delle donne rispetto agli uomini? (GRI",
+        "context_after": ") Rapporto tra il salario medio base delle donne rispetto agli uomini Italia Dirigenti e Direttori di testata 94% 97%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "60.txt",
+        "context_before": "103-3 403-2 GRI 404 103-1, 103-2, 103-3 404-1 GRI 405 103-1, 103-2, 103-3 405-1 405-2 GRI 406 103-1, 103-2, 103-3",
+        "context_after": "management e valutazione sullapproccio del management Rifiuti prodotti per tipologia e modalita di smaltimento (carta e rifiuti tecnologici, macero, allegati,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "61.txt",
+        "context_before": "GRI 414 103-1, 103-2, 103-3",
+        "context_after": "GRI 417 103-1, 103-2, 103-3 417-3 GRI 418 103-1, 103-2, 103-3 418-1 M1 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": {
+        "page": "61.txt",
+        "context_before": "GRI 414 103-1, 103-2, 103-3 414-1 GRI 417 103-1, 103-2, 103-3",
+        "context_after": "GRI 418 103-1, 103-2, 103-3 418-1 M1 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "418-1": {
+        "page": "61.txt",
+        "context_before": "GRI 414 103-1, 103-2, 103-3 414-1 GRI 417 103-1, 103-2, 103-3 417-3 GRI 418 103-1, 103-2, 103-3",
+        "context_after": "M1 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3 103-1, 103-2, 103-3 M4 Valutazione dei fornitori",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "419-1": false
+}
