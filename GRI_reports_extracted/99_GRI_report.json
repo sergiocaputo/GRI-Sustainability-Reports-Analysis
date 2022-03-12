@@ -1,0 +1,679 @@
+{
+    "GRI 200": false,
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "60.txt",
+        "context_before": "RESPONSABILIT ECONOMICA Gestione Economica (Rif. 103-2/3,",
+        "context_after": ", 203-1/2) In questi ultimi anni Palladio Group ha Sostenendo progetti in favore della continuato a riorganizzare la propria collettivit",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "201-2": {
+        "page": "61.txt",
+        "context_before": "RESPONSABILIT ECONOMICA 8.1 Sviluppo Sostenibile (",
+        "context_after": "/3) Consapevoli dellimportanza di per ridurre i consumi energetici e garantire nel tempo uno sviluppo agevolare la raccolta differenziata dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": {
+        "page": "127.txt",
+        "context_before": "60, 110 201-2 Implicazioni finanziarie e altri rischi e opportunit per le attivit dell'organizzazione dovute al cambiamento climatico 61-62, 103",
+        "context_after": "Copertura dei piani pensionistici definiti dall'organizzazione 201-4 Finanziamenti ricevuti dalla Pubblica Amministrazione 96 202-1 Rapporto tra lo stipendio standard dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "96.txt",
+        "context_before": "per segnalata al Comitato Etico. truffa. Le azioni di cui sopra sono ancora in corso. 13.3 Politica pubblica (Rif. 415-1,",
+        "context_after": ") Palladio Group intrattiene rapporti con Le politiche aziendali vietano le istituzioni pubbliche essenzialmente lelargizione di contributi a esponenti attraverso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "63.txt",
+        "context_before": "RESPONSABILIT ECONOMICA 8.3 Presenza sul mercato (Rif.",
+        "context_after": "/2) Le sedi operative significative (basate privilegiare persone residenti nelle sulla numerosit di dipendenti) sono vicinanze dove si svolge lattivit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "127.txt",
+        "context_before": "Pubblica Amministrazione 96 202-1 Rapporto tra lo stipendio standard dei neoassunti per genere e lo stipendio minimo locale 63, 103",
+        "context_after": "Percentuale dei senior manager assunti nella comunit locale 203-1 Infrastrutture e servizi forniti 62-63, 110 203-2 Principali impatti economici indiretti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "60.txt",
+        "context_before": "RESPONSABILIT ECONOMICA Gestione Economica (Rif. 103-2/3, 201-1,",
+        "context_after": "/2) In questi ultimi anni Palladio Group ha Sostenendo progetti in favore della continuato a riorganizzare la propria collettivit quali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "56.txt",
+        "context_before": "Adesione al  Consorzio COMIECO (Riciclo aperto) Progetto Libellula contro la  Clean Up the Word (UNEP) violenza sulle donne",
+        "context_after": " Unione Industriali (Adesione Carta sostenibilit (sensibilizzazione e rispetto ambientale) genere femminile)  Liceo di Vrsac (progetto Ekologija)  Progetto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "45.txt",
+        "context_before": "I FORNITORI Modalit di approvvigionamento prodotti e servizi (Rif. 103-2/3, 102-9/10,",
+        "context_after": ", 301-1/2/3, 308-1, 412-3, 414-1/2) Palladio Group lavora su commessa richiesta di utilizzo di materiale riciclato per cui  il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "95.txt",
+        "context_before": "di guida indispensabile organizzare delle attivit sicura. culturali, artistiche e sportive per i dipendenti nell'intento di accrescere 13.3 Anticorruzione (Rif.",
+        "context_after": "/3, 414-1) In tutti gli stabilimenti di Palladio Group relativa alla prevenzione della non c tolleranza alla corruzione. corruzione. Dalle",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-2": {
+        "page": "85.txt",
+        "context_before": "RESPONSABILIT SOCIALE Formazione e istruzione (Rif. 404-1/2/3,",
+        "context_after": ") Palladio Group investe su attivit di luglio 2016, sono nate Palladio formazione e opportunit di Academy e Palladio Wiki.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "127.txt",
+        "context_before": "Operativit analizzate rispetto ai rischi collegati alla corruzione 95-96 205-2 Comunicazione e formazione sulle procedure e politiche anti- 85-88 corruzione",
+        "context_after": "Incidenti sulla corruzione e azioni intraprese 95-96, 106 206-1 Azioni legali per comportamento anti-competitivo, antitrust e pratiche 101 monopolistiche 301-1",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "127.txt",
+        "context_before": "205-2 Comunicazione e formazione sulle procedure e politiche anti- 85-88 corruzione 205-3 Incidenti sulla corruzione e azioni intraprese 95-96, 106",
+        "context_after": "Azioni legali per comportamento anti-competitivo, antitrust e pratiche 101 monopolistiche 301-1 Materie prime utilizzate suddivisi per peso o volume 45-48,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": false,
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "54.txt",
+        "context_before": "i fornitori siano in possesso di specifiche Target 2019: 100% di acquisto certificazioni ai fini di una gestione sostenibile e",
+        "context_after": "/2/3 prodotti di origine forestale uso efficiente delle risorse naturali. certificati e/o provenienti da fonti controllate. Valuteremo la possibilit di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "127.txt",
+        "context_before": "Azioni legali per comportamento anti-competitivo, antitrust e pratiche 101 monopolistiche 301-1 Materie prime utilizzate suddivisi per peso o volume 45-48,",
+        "context_after": "Percentuale di materiali utilizzati che provengono da materiale 108 riciclato 301-3 Prodotti e loro materiali di imballaggio che sono recuperati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "127.txt",
+        "context_before": "Materie prime utilizzate suddivisi per peso o volume 45-48, 301-2 Percentuale di materiali utilizzati che provengono da materiale 108 riciclato",
+        "context_after": "Prodotti e loro materiali di imballaggio che sono recuperati 302-1 Consumi di energia allinterno dellorganizzazione 78, 110 302-2 Consumi di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "75.txt",
+        "context_before": "RESPONSABILIT AMBIENTALE 9.9 Energia (Rif.",
+        "context_after": "/3/4/5) Attualmente Palladio Group non Gli interventi strutturali sono stati mirati produce energia, questa viene ad un riammodernamento delle unicamente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-2": {
+        "page": "127.txt",
+        "context_before": "108 riciclato 301-3 Prodotti e loro materiali di imballaggio che sono recuperati 302-1 Consumi di energia allinterno dellorganizzazione 78, 110",
+        "context_after": "Consumi di energia allesterno dellorganizzazione Non rendicontato 302-3 Intensit energetica 302-4 Riduzione dei consumi energetici 75, 108 302-5 Riduzione dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "127.txt",
+        "context_before": "imballaggio che sono recuperati 302-1 Consumi di energia allinterno dellorganizzazione 78, 110 302-2 Consumi di energia allesterno dellorganizzazione Non rendicontato",
+        "context_after": "Intensit energetica 302-4 Riduzione dei consumi energetici 75, 108 302-5 Riduzione dei consumi energetici dei prodotti e servizi 303-1 Acqua",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "127.txt",
+        "context_before": "recuperati 302-1 Consumi di energia allinterno dellorganizzazione 78, 110 302-2 Consumi di energia allesterno dellorganizzazione Non rendicontato 302-3 Intensit energetica",
+        "context_after": "Riduzione dei consumi energetici 75, 108 302-5 Riduzione dei consumi energetici dei prodotti e servizi 303-1 Acqua totale prelevata per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "127.txt",
+        "context_before": "78, 110 302-2 Consumi di energia allesterno dellorganizzazione Non rendicontato 302-3 Intensit energetica 302-4 Riduzione dei consumi energetici 75, 108",
+        "context_after": "Riduzione dei consumi energetici dei prodotti e servizi 303-1 Acqua totale prelevata per fonte di approvvigionamento 303-2 Fonti di prelievo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "77.txt",
+        "context_before": "RESPONSABILIT AMBIENTALE 9.12 Acqua (Rif.",
+        "context_after": "/2/3) Lacqua  una risorsa importantissima dispositivi che miscelano aria allacqua che viene utilizzata con parsimonia in in uscita dai",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "303-2": {
+        "page": "127.txt",
+        "context_before": "energetici 75, 108 302-5 Riduzione dei consumi energetici dei prodotti e servizi 303-1 Acqua totale prelevata per fonte di approvvigionamento",
+        "context_after": "Fonti di prelievo significativamente influenzate dai prelievi di acqua 77, 108 303-3 Percentuale e volume totale di acqua riciclata e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "127.txt",
+        "context_before": "303-1 Acqua totale prelevata per fonte di approvvigionamento 303-2 Fonti di prelievo significativamente influenzate dai prelievi di acqua 77, 108",
+        "context_after": "Percentuale e volume totale di acqua riciclata e riutilizzata 304-1 Localizzazione e dimensione dei terreni posseduti, affittati, oppure gestiti all'interno",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "55.txt",
+        "context_before": "PEFCTM continueremo a Approvvigionamento del 100% sostenere la tutela delle foreste e della fauna in prodotti di origine forestale da",
+        "context_after": "/2/3/4 esse presenti opponendoci alla parte fornitori materia prima di commercializzazione illegale nel settore del origine forestale conformi a EUTR",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "127.txt",
+        "context_before": "di aree protette oppure di aree ad alto valore per la biodiversit anche se al di fuori di aree protette",
+        "context_after": "Descrizione degli impatti significativi delle attivit , dei prodotti e servizi sulla biodiversit all'interno di aree protette oppure di aree",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "304-3": {
+        "page": "127.txt",
+        "context_before": "aree protette oppure di aree ad alto 49 valore per la biodiversit anche se al di fuori di aree protette",
+        "context_after": "Habitat protetti o ricostituiti 304-4 Numero di specie della Lista Rossa IUCN e specie nelle liste di conservazione nazionali con",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "304-4": {
+        "page": "127.txt",
+        "context_before": "ad alto 49 valore per la biodiversit anche se al di fuori di aree protette 304-3 Habitat protetti o ricostituiti",
+        "context_after": "Numero di specie della Lista Rossa IUCN e specie nelle liste di conservazione nazionali con habitat nelle aree influenzate dalle",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-1": {
+        "page": "67.txt",
+        "context_before": "RESPONSABILIT AMBIENTALE 9.1 Emissioni (Rif.",
+        "context_after": "/2/3/4/5) Palladio Group non possiede emissioni in due diversi modi denominati significative in atmosfera, ovvero rispettivamente location-based emissioni per le",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-2": {
+        "page": "128.txt",
+        "context_before": "INDICE CONTENUTI GRI 305-1 Emissioni GHG dirette (Scope 1)",
+        "context_after": "Emissioni GHG indirette (Scope 2) 305-3 Altre emissioni GHG indirette (Scope 3) 67-74, 109 305-4 Intensit emissioni GHG 305-5 Riduzione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "128.txt",
+        "context_before": "INDICE CONTENUTI GRI 305-1 Emissioni GHG dirette (Scope 1) 305-2 Emissioni GHG indirette (Scope 2)",
+        "context_after": "Altre emissioni GHG indirette (Scope 3) 67-74, 109 305-4 Intensit emissioni GHG 305-5 Riduzione delle emissioni GHG 305-6 Emissioni di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "128.txt",
+        "context_before": "Emissioni GHG dirette (Scope 1) 305-2 Emissioni GHG indirette (Scope 2) 305-3 Altre emissioni GHG indirette (Scope 3) 67-74, 109",
+        "context_after": "Intensit emissioni GHG 305-5 Riduzione delle emissioni GHG 305-6 Emissioni di sostanze che danneggiano l'ozono (ODS) Non rendicontato 305-7 NO,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "128.txt",
+        "context_before": "1) 305-2 Emissioni GHG indirette (Scope 2) 305-3 Altre emissioni GHG indirette (Scope 3) 67-74, 109 305-4 Intensit emissioni GHG",
+        "context_after": "Riduzione delle emissioni GHG 305-6 Emissioni di sostanze che danneggiano l'ozono (ODS) Non rendicontato 305-7 NO, SO, e altre emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "128.txt",
+        "context_before": "(Scope 2) 305-3 Altre emissioni GHG indirette (Scope 3) 67-74, 109 305-4 Intensit emissioni GHG 305-5 Riduzione delle emissioni GHG",
+        "context_after": "Emissioni di sostanze che danneggiano l'ozono (ODS) Non rendicontato 305-7 NO, SO, e altre emissioni significative Non rendicontato 306-1 Scarichi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "128.txt",
+        "context_before": "109 305-4 Intensit emissioni GHG 305-5 Riduzione delle emissioni GHG 305-6 Emissioni di sostanze che danneggiano l'ozono (ODS) Non rendicontato",
+        "context_after": "NO, SO, e altre emissioni significative Non rendicontato 306-1 Scarichi totali di acqua per qualit e destinazione 306-2 Peso totale",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-1": {
+        "page": "76.txt",
+        "context_before": "10% con un trattarli per essere smaltiti, riciclati o rapporto rispetto al totale rifiuti dello recuperati. 0,79%. 9.11 Scarichi (Rif.",
+        "context_after": "/5) Il ciclo produttivo non prevede scarichi lista rossa UINC che include tutte le 197 di acqua; gli unici scarichi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-2": {
+        "page": "76.txt",
+        "context_before": "RESPONSABILIT AMBIENTALE 9.10 Rifiuti (Rif.",
+        "context_after": "/3/4) Palladio Group segue una chiara Nel triennio non sono stati registrati strategia per la gestione dei rifiuti. significativi sversamenti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": {
+        "page": "128.txt",
+        "context_before": "306-1 Scarichi totali di acqua per qualit e destinazione 306-2 Peso totale dei rifiuti per tipo e modalit di smaltimento",
+        "context_after": "Perdite accidentali 76, 109 306-4 Trasporto di rifiuti pericolosi 306-5 Corpi idrici interessati da scarichi e/o deflusso 307-1 Non conformit",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-4": {
+        "page": "128.txt",
+        "context_before": "per qualit e destinazione 306-2 Peso totale dei rifiuti per tipo e modalit di smaltimento 306-3 Perdite accidentali 76, 109",
+        "context_after": "Trasporto di rifiuti pericolosi 306-5 Corpi idrici interessati da scarichi e/o deflusso 307-1 Non conformit con leggi e regolamenti ambientali",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-5": {
+        "page": "128.txt",
+        "context_before": "Peso totale dei rifiuti per tipo e modalit di smaltimento 306-3 Perdite accidentali 76, 109 306-4 Trasporto di rifiuti pericolosi",
+        "context_after": "Corpi idrici interessati da scarichi e/o deflusso 307-1 Non conformit con leggi e regolamenti ambientali 101 308-1 Nuovi fornitori valutati",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "307-1": {
+        "page": "128.txt",
+        "context_before": "di smaltimento 306-3 Perdite accidentali 76, 109 306-4 Trasporto di rifiuti pericolosi 306-5 Corpi idrici interessati da scarichi e/o deflusso",
+        "context_after": "Non conformit con leggi e regolamenti ambientali 101 308-1 Nuovi fornitori valutati sulla base di criteri ambientali 45-48, 107 308-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "54.txt",
+        "context_before": "rimanga minimo. Target 2019: il 100% di tutti i nuovi fornitori sar selezionato e Continueremo a controllare i requisiti di",
+        "context_after": "qualificato anche sulla base di sostenibilit dei fornitori criteri sociali, ambientali ed impatti sulla societ . Pag. 54 di 132",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "128.txt",
+        "context_before": "307-1 Non conformit con leggi e regolamenti ambientali 101 308-1 Nuovi fornitori valutati sulla base di criteri ambientali 45-48, 107",
+        "context_after": "Impatti ambientali negativi nella catena di fornitura e azioni intraprese 101 401-1 Numero totale e di assunzioni e tasso di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 400": false,
+    "GRI 401": false,
+    "GRI 402": false,
+    "GRI 403": false,
+    "GRI 404": false,
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "81.txt",
+        "context_before": "RESPONSABILIT SOCIALE 10.1 Occupazione (Rif. 102-8/41,",
+        "context_after": "/2/3, 402-1) Palladio Group applica i Contratti (Rappresentanti dei Lavoratori per la Collettivi Nazionali del Lavoro e Sicurezza) e RSU",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "128.txt",
+        "context_before": "ambientali negativi nella catena di fornitura e azioni intraprese 101 401-1 Numero totale e di assunzioni e tasso di turnover",
+        "context_after": "Benefit forniti ai dipendenti a tempo pieno che non sono forniti ai 81, dipendenti temporanei o part-time 104-106 401-3 Congedo",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "401-3": {
+        "page": "128.txt",
+        "context_before": "turnover 401-2 Benefit forniti ai dipendenti a tempo pieno che non sono forniti ai 81, dipendenti temporanei o part-time 104-106",
+        "context_after": "Congedo parentale 402-1 Periodo minimo di preavviso per i cambiamenti operativi 83 403-1 Percentuale di lavoratori totali rappresentati nei comitati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "81.txt",
+        "context_before": "RESPONSABILIT SOCIALE 10.1 Occupazione (Rif. 102-8/41, 401-1/2/3,",
+        "context_after": ") Palladio Group applica i Contratti (Rappresentanti dei Lavoratori per la Collettivi Nazionali del Lavoro e Sicurezza) e RSU (Rappresentanza",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "83.txt",
+        "context_before": "cedente e il cambiamenti significativi cessionario sono tenuti a informare i nelloperativit aziendale. 10.4 Salute e sicurezza sul lavoro (Rif.",
+        "context_after": "/2/3/4, 412-2) In ogni sito produttivo del Gruppo sono Lazienda valuta i rischi e identifica le stati identificati ed operano",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "51.txt",
+        "context_before": "Target 2019: rilevare 0 (zero) lavorativo (siti esteri compresi) positivi per drug/alcool test  campagna sensibilizzazione contro il fumo in",
+        "context_after": "/3 Palladio East  corsi dedicati alla prevenzione di infortuni e malattie professionali Manterremo la performance sulle malattie Target 2019:",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "128.txt",
+        "context_before": "Tipologia di infortuni, tasso di infortunio, malattie professionali, giorni di lavoro persi e assenteismo e numero di incidenti mortali 83-84,105,",
+        "context_after": "Lavoratori ad alta incidenza o ad alto rischio di infortunio o di malattia 107 professionale 403-4 Argomenti di salute e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "128.txt",
+        "context_before": "di incidenti mortali 83-84,105, 403-3 Lavoratori ad alta incidenza o ad alto rischio di infortunio o di malattia 107 professionale",
+        "context_after": "Argomenti di salute e sicurezza compresi in accordi formali con i sindacati 404-1 Ore di formazione medie per dipendente per",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "85.txt",
+        "context_before": "RESPONSABILIT SOCIALE Formazione e istruzione (Rif.",
+        "context_after": "/2/3, 205-2) Palladio Group investe su attivit di luglio 2016, sono nate Palladio formazione e opportunit di Academy e Palladio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "128.txt",
+        "context_before": "di salute e sicurezza compresi in accordi formali con i sindacati 404-1 Ore di formazione medie per dipendente per anno",
+        "context_after": "Programmi per la gestione delle competenze e gestione della fine 85-88, carriera 105 404-3 Percentuale di dipendenti che ricevono rapporti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "128.txt",
+        "context_before": "formazione medie per dipendente per anno 404-2 Programmi per la gestione delle competenze e gestione della fine 85-88, carriera 105",
+        "context_after": "Percentuale di dipendenti che ricevono rapporti regolari sui risultati e sullo sviluppo della carriera 405-1 Composizione degli organi di governo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "81.txt",
+        "context_before": "e concessione di ferie e permessi anonimato, eleggono i propri RLS eventuali richieste accessorie. 10.2 Diversit e pari opportunit (Rif.",
+        "context_after": "/2) I ruoli e le responsabilit sono ben garantendo agli stessi le pari definiti, come riportato nella opportunit . documentazione",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "54.txt",
+        "context_before": "fine di  adottando politiche salariali e di protezione 203-2 garantire luguaglianza della sociale ai fini di una maggiore uguaglianza,",
+        "context_after": "remunerazione delle donne rispetto agli uomini (a pari di  evitando qualunque forma di discriminazione livello, ruolo, anzianit ) che",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "406-1": {
+        "page": "89.txt",
+        "context_before": "sociale, Gruppo o provenienti da Stakeholder  non  consentito il lavoro minorile, interni o esterni. 12.1 Non discriminazione (Rif.",
+        "context_after": ") Tra gli obiettivi di politica aziendale Fermo restando la percentuale di viene contemplato il diritto alle pari assunzione di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "407-1": {
+        "page": "90.txt",
+        "context_before": "dei diritti umani. mantenuti/progettati per favorire la mobilit alle persone disabili. 12.2 Libert di associazione e contrattazione collettiva (Rif. 102-41,",
+        "context_after": ") Tutti i dipendenti sono liberi di aderire, Nel corso dellanno 2018: secondo la propria volont , a sindacati ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "408-1": {
+        "page": "90.txt",
+        "context_before": "aperte a tutti i collettiva. dipendenti per supportare il diritto dei lavoratori alla libert di associazione. 12.3 Lavoro minorile (Rif.",
+        "context_after": ") Presso tutti gli stabilimenti del Gruppo specifici questionari e codici di non  permesso il lavoro minorile. condotta mentre",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "91.txt",
+        "context_before": "RESPONSABILIT SOCIALE 12.4 Lavoro forzato (Rif.",
+        "context_after": ") In Palladio Group non si sono mai pregiudicare il diritto di ogni lavoratore verificati casi di lavoro forzato o",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "410-1": {
+        "page": "128.txt",
+        "context_before": "incidenti sul lavoro 90 minorile 409-1 Operazioni e fornitori a rischio significativo per casi di lavoro forzato o 91 obbligatorio",
+        "context_after": "Personale addetto alla sicurezza che ha ricevuto una formazione sulle Non procedure e sulle politiche riguardanti i diritti umani rendicontato",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "411-1": {
+        "page": "51.txt",
+        "context_before": "e - fondazioni Onlus. 201-1 Continueremo a promuovere vari percorsi di 203-1/2 buone pratiche volte a migliorare la vita delle",
+        "context_after": "persone attraverso ladozione di comportamenti 413-2 virtuosi riguardanti lalimentazione corretta, il -- benessere personale e sociale, lattivit fisica, la sicurezza",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "412-1": {
+        "page": "91.txt",
+        "context_before": "lavoro straordinario. specifiche attivit . Lorario di lavoro in Palladio Group  determinato in modo da non 12.5 Valutazione (Rif.",
+        "context_after": ") Palladio Group, cosciente del proprio tutte le attivit degli stabilimenti del impegno nel rispetto dei diritti umani, Gruppo. Questa",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "412-2": {
+        "page": "83.txt",
+        "context_before": "e il cambiamenti significativi cessionario sono tenuti a informare i nelloperativit aziendale. 10.4 Salute e sicurezza sul lavoro (Rif. 403-1/2/3/4,",
+        "context_after": ") In ogni sito produttivo del Gruppo sono Lazienda valuta i rischi e identifica le stati identificati ed operano formali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "412-3": {
+        "page": "45.txt",
+        "context_before": "I FORNITORI Modalit di approvvigionamento prodotti e servizi (Rif. 103-2/3, 102-9/10, 204-1, 301-1/2/3, 308-1,",
+        "context_after": ", 414-1/2) Palladio Group lavora su commessa richiesta di utilizzo di materiale riciclato per cui  il Cliente che definisce",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "94.txt",
+        "context_before": "a leggi o Proprio per questo motivo, dal punto di regolamenti. vista di Marketing Responsabile, ai 13.1 Comunit locali (Rif.",
+        "context_after": "/2) Palladio Group ha un costante dialogo Nel 2018 il ricavato della lotteria di con le diverse istituzioni locali e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "51.txt",
+        "context_before": "retribuzioni dei erogati saranno compresi nei 202-1 dipendenti, in tutte le sedi del gruppo siano valori minimi di legge senza",
+        "context_after": "mediamente superiori allo stipendio minimo previsto per legge senza alcuna distinzione tra alcuna distinzione tra generi e provenienza generi e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "414-1": {
+        "page": "95.txt",
+        "context_before": "guida indispensabile organizzare delle attivit sicura. culturali, artistiche e sportive per i dipendenti nell'intento di accrescere 13.3 Anticorruzione (Rif. 205-1/3,",
+        "context_after": ") In tutti gli stabilimenti di Palladio Group relativa alla prevenzione della non c tolleranza alla corruzione. corruzione. Dalle informazioni",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "414-2": {
+        "page": "129.txt",
+        "context_before": "negativi attuali e potenziali significativi sulle comunit locali 414-1 Nuovi fornitori valutati sulla base di criteri sociali 45-48, 95-96, 101",
+        "context_after": "Impatti sociali negativi nella catena di fornitura e azioni intraprese 45-48, 101 415-1 Contributi politici 96-97 416-1 Valutazione dell'impatto sulla",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "96.txt",
+        "context_before": "legali per segnalata al Comitato Etico. truffa. Le azioni di cui sopra sono ancora in corso. 13.3 Politica pubblica (Rif.",
+        "context_after": ", 201-4) Palladio Group intrattiene rapporti con Le politiche aziendali vietano le istituzioni pubbliche essenzialmente lelargizione di contributi a esponenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "42.txt",
+        "context_before": "di customer eccellenza dellofferta. satisfaction per misurare la soddisfazione dei Clienti e ricevere 5.7 Salute e sicurezza dei Clienti (Rif.",
+        "context_after": ") La tipologia dei prodotti fabbricati negli fornita  rilasciata adeguata stabilimenti di Palladio Group non documentazione da parte dellUfficio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "416-2": {
+        "page": "129.txt",
+        "context_before": "101 415-1 Contributi politici 96-97 416-1 Valutazione dell'impatto sulla salute e sulla sicurezza delle categorie di 42 prodotti e servizi",
+        "context_after": "Non conformit riguardanti gli impatti sulla salute e sicurezza di prodotti e servizi 417-1 Requisiti per informazioni su prodotti e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "129.txt",
+        "context_before": "categorie di 42 prodotti e servizi 416-2 Non conformit riguardanti gli impatti sulla salute e sicurezza di prodotti e servizi",
+        "context_after": "Requisiti per informazioni su prodotti e servizi ed etichettatura 101 417-2 Non conformit riguardanti informazioni sui prodotti e sui servizi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "129.txt",
+        "context_before": "impatti sulla salute e sicurezza di prodotti e servizi 417-1 Requisiti per informazioni su prodotti e servizi ed etichettatura 101",
+        "context_after": "Non conformit riguardanti informazioni sui prodotti e sui servizi e l'etichettatura 417-3 Incidenti di non conformit riguardanti le comunicazioni di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "129.txt",
+        "context_before": "informazioni su prodotti e servizi ed etichettatura 101 417-2 Non conformit riguardanti informazioni sui prodotti e sui servizi e l'etichettatura",
+        "context_after": "Incidenti di non conformit riguardanti le comunicazioni di marketing 418-1 Reclami fondati relativi a violazioni della privacy dei clienti e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "43.txt",
+        "context_before": "IL DIALOGO CON GLI STAKEHOLDER 5.8 Rispetto della privacy (Rif.",
+        "context_after": ") La consapevolezza dellimportanza di b) Requisiti contrattuali dei Clienti; generare, utilizzare e conservare le informazioni in modo corretto ha",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "419-1": {
+        "page": "129.txt",
+        "context_before": "di marketing 418-1 Reclami fondati relativi a violazioni della privacy dei clienti e perdite 43, 101 dei dati dei clienti",
+        "context_after": "Inosservanza di leggi e regolamenti in campo sociale ed economico 101 REPORT SOSTENIBILIT 2019 Pag. 129 di 132",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

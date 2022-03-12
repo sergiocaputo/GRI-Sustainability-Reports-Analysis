@@ -1,0 +1,601 @@
+{
+    "GRI 200": {
+        "page": "138.txt",
+        "context_before": "'GRI 102-55 GRI content index Content Index', none p.135 See Annex 102-56 External assurance 'Assurance none Statement', p.160 Material Topics",
+        "context_after": "Economic Standard Series Economic Performance 103-1 Explanation of the See Annex material topic and its none GRI 103: 'Management Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": {
+        "page": "41.txt",
+        "context_before": "Alperia Sustainability Report 2019 Economic Value {",
+        "context_after": "-1} Figure 2: Direct economic value generated and distributed {GRI 201-1} YtY varia- Direct economic 2019 2018 2017 2016 tion",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "42.txt",
+        "context_before": "thanked Alperia and its employees for the donations, which enabled them to support various voluntary initiatives. Investment in infrastructure {",
+        "context_after": "-1} To ensure a safe and reliable energy supply, we continued with our investment programme for infrastructure modernisation in 2019.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9,",
+        "context_after": "-1; GRI 308-1 and 2; GRI 414-1 and 414-2} Risk management Risk Management Approach Risk of failure to identify specific",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "41.txt",
+        "context_before": "Alperia Sustainability Report 2019 Economic Value {",
+        "context_after": "} Figure 2: Direct economic value generated and distributed {GRI 201-1} YtY varia- Direct economic 2019 2018 2017 2016 tion",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "42.txt",
+        "context_before": "thanked Alperia and its employees for the donations, which enabled them to support various voluntary initiatives. Investment in infrastructure {",
+        "context_after": "} To ensure a safe and reliable energy supply, we continued with our investment programme for infrastructure modernisation in 2019.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9,",
+        "context_after": "; GRI 308-1 and 2; GRI 414-1 and 414-2} Risk management Risk Management Approach Risk of failure to identify specific",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "41.txt",
+        "context_before": "Alperia Sustainability Report 2019 Economic Value {GRI",
+        "context_after": "} Figure 2: Direct economic value generated and distributed {GRI 201-1} YtY varia- Direct economic 2019 2018 2017 2016 tion",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "42.txt",
+        "context_before": "thanked Alperia and its employees for the donations, which enabled them to support various voluntary initiatives. Investment in infrastructure {GRI",
+        "context_after": "} To ensure a safe and reliable energy supply, we continued with our investment programme for infrastructure modernisation in 2019.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": false,
+    "204-1": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9, GRI",
+        "context_after": "; GRI 308-1 and 2; GRI 414-1 and 414-2} Risk management Risk Management Approach Risk of failure to identify specific",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "139.txt",
+        "context_before": "operations' is Practices on local suppliers p. 59ff and Annex defined as the 2016 'Figure 12' Province of South Tyrol.",
+        "context_after": "Environmental Standards Series Energy 103-1 Explanation of the See Annex material topic and its none GRI 103: 'Management Boundary Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "69.txt",
+        "context_before": "3.099 TJ, with 36% from non-renewable sources and 64% from renewable sources. Figure 16: Energy consumption within the organization2 {",
+        "context_after": "-1} Proportion Proportion YtY Unit1 2019 2018 (%) (%) Variation Total energy consumption within the organization from TJ 1.204 34%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "73.txt",
+        "context_before": "Alperia Sustainability Report 2019 Figure 17: GHG Emissions1 {",
+        "context_after": "} Unit 2019 2018 YtY Variation Gross direct (Scope 1) GHG emissions tCO e 52.709 45.019 17% 2 Biogenic CO2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9, GRI 204-1;",
+        "context_after": "-1 and 2; GRI 414-1 and 414-2} Risk management Risk Management Approach Risk of failure to identify specific To help",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "69.txt",
+        "context_before": "3.099 TJ, with 36% from non-renewable sources and 64% from renewable sources. Figure 16: Energy consumption within the organization2 {",
+        "context_after": "} Proportion Proportion YtY Unit1 2019 2018 (%) (%) Variation Total energy consumption within the organization from TJ 1.204 34%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "72.txt",
+        "context_before": "Alperia Sustainability Report 2019 Emissions {",
+        "context_after": "; 305-2; 305-3; 305-4; 305-7} Risk management Risk Management Approach Risk of failing to optimise eco-sustainable We support the South",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9, GRI 204-1;",
+        "context_after": "and 2; GRI 414-1 and 414-2} Risk management Risk Management Approach Risk of failure to identify specific To help create",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "69.txt",
+        "context_before": "3.099 TJ, with 36% from non-renewable sources and 64% from renewable sources. Figure 16: Energy consumption within the organization2 {GRI",
+        "context_after": "} Proportion Proportion YtY Unit1 2019 2018 (%) (%) Variation Total energy consumption within the organization from TJ 1.204 34%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": {
+        "page": "117.txt",
+        "context_before": "Alperia Sustainability Report 2019 Sustainable products and services {GRI EU7;",
+        "context_after": "; ALP4; ALP5} Risk management Risk Management Approach Risk of failure/inadequate development of We want to develop new business activities",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": false,
+    "303-2": {
+        "page": "65.txt",
+        "context_before": "installed in 2019: in Funes on the Isarco River and in Tel on the Adige River. Minimum Vital Flow {",
+        "context_after": "} 66",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "72.txt",
+        "context_before": "Alperia Sustainability Report 2019 Emissions {GRI",
+        "context_after": "; 305-2; 305-3; 305-4; 305-7} Risk management Risk Management Approach Risk of failing to optimise eco-sustainable We support the South",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "72.txt",
+        "context_before": "Alperia Sustainability Report 2019 Emissions {GRI 305-1;",
+        "context_after": "; 305-3; 305-4; 305-7} Risk management Risk Management Approach Risk of failing to optimise eco-sustainable We support the South Tyrol",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "72.txt",
+        "context_before": "Alperia Sustainability Report 2019 Emissions {GRI 305-1; 305-2;",
+        "context_after": "; 305-4; 305-7} Risk management Risk Management Approach Risk of failing to optimise eco-sustainable We support the South Tyrol 2050",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "72.txt",
+        "context_before": "Alperia Sustainability Report 2019 Emissions {GRI 305-1; 305-2; 305-3;",
+        "context_after": "; 305-7} Risk management Risk Management Approach Risk of failing to optimise eco-sustainable We support the South Tyrol 2050 Climate",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "140.txt",
+        "context_before": "Part Standard and/or URL(s) Reason Explanation Omitted See chapter 305-4 GHG emissions 'Emissions', p.71ff none intensity and Annex 'Figure 17'",
+        "context_after": "Reduction of GHG See chapter none emissions 'Emissions', p.71ff 305-7 Nitrogen oxides (NOX), See chapter sulphur oxides (SOX), and none",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": false,
+    "305-7": {
+        "page": "72.txt",
+        "context_before": "Alperia Sustainability Report 2019 Emissions {GRI 305-1; 305-2; 305-3; 305-4;",
+        "context_after": "} Risk management Risk Management Approach Risk of failing to optimise eco-sustainable We support the South Tyrol 2050 Climate Plan",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": false,
+    "306-2": false,
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9, GRI 204-1; GRI",
+        "context_after": "and 2; GRI 414-1 and 414-2} Risk management Risk Management Approach Risk of failure to identify specific To help create",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": {
+        "page": "140.txt",
+        "context_before": "suppliers that Environment Chain Management' were screened using none al p. 59ff and Annex environmental criteria Assessment 'Figure 13' 2016",
+        "context_after": "Social Standards Series Employment 103-1 Explanation of the See Annex material topic and its none GRI 103: 'Management Boundary Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "99.txt",
+        "context_before": "Alperia Sustainability Report 2019 Diversity and Equal Opportunity {GRI 405-1; GRI 405-2;",
+        "context_after": "-3} Risk management Risk Management Approach Risk of failure to define/extend measures (e.g. We want to attract more women to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "159.txt",
+        "context_before": "after the absence Figure 34: Types of injuries and rates of injury, lost days, and number of work-related fatalities (",
+        "context_after": "-2) Employees 2019 2018 2017 YtY variation Fatalities 0 0 0 0% Lost workday incidents 14 13 13 8% Lost",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "95.txt",
+        "context_before": "available not not Employees hours 19,2 16,5 16% available available Talent and Pillars: the evolution of leadership and staff {",
+        "context_after": "-2, 404-3, GRI 401-1} One of the greatest risks for Alperia is its ageing workforce. As more staff get closer",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "99.txt",
+        "context_before": "Alperia Sustainability Report 2019 Diversity and Equal Opportunity {",
+        "context_after": "-1; GRI 405-2; GRI 401-3} Risk management Risk Management Approach Risk of failure to define/extend measures (e.g. We want to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "149.txt",
+        "context_before": "social criteria. Figure 14: Significant investment agreements and contracts that include human rights clauses or that underwent human-rights screening1 (",
+        "context_after": "-3) Unit 2019 2018 2017 Number of significant investment agreements and information No 0 0 contracts that include human-rights clauses",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": false,
+    "GRI 414": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9, GRI 204-1; GRI 308-1 and 2;",
+        "context_after": "-1 and 414-2} Risk management Risk Management Approach Risk of failure to identify specific To help create local value and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "80.txt",
+        "context_before": "Alperia Sustainability Report 2019 Transparent Marketing and Communication {GRI 102-43;",
+        "context_after": "-1; GRI 417-2; GRI 417-3; ALP 8} Risk management Risk Management Approach Risk of inadequate or no information transparency We",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "87.txt",
+        "context_before": "Alperia Sustainability Report 2019 Cyber Security {",
+        "context_after": "-1} Risk management Risk Management Approach Risk of non-compliance with privacy law provisions in We want to guarantee compliance with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "95.txt",
+        "context_before": "illnesses, etc.). This tool will allow management and HR management to improve personnel management. Figure 28: Average training hours {",
+        "context_after": "} Total Average training hours per employee  gender YtY variation 2019 2018 2017 2016 Women hours 15,9 14,9 not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": {
+        "page": "99.txt",
+        "context_before": "Alperia Sustainability Report 2019 Diversity and Equal Opportunity {GRI 405-1; GRI 405-2;",
+        "context_after": "} Risk management Risk Management Approach Risk of failure to define/extend measures (e.g. We want to attract more women to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "159.txt",
+        "context_before": "after the absence Figure 34: Types of injuries and rates of injury, lost days, and number of work-related fatalities (",
+        "context_after": ") Employees 2019 2018 2017 YtY variation Fatalities 0 0 0 0% Lost workday incidents 14 13 13 8% Lost",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": {
+        "page": "95.txt",
+        "context_before": "available not not Employees hours 19,2 16,5 16% available available Talent and Pillars: the evolution of leadership and staff {",
+        "context_after": ", 404-3, GRI 401-1} One of the greatest risks for Alperia is its ageing workforce. As more staff get closer",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404-3": {
+        "page": "155.txt",
+        "context_before": "Employees hours 19,2 16,5 16% available available Figure 29: Percentage of employees receiving regular performance and career development reviews1 (",
+        "context_after": ") Total Percentage of employees receiving regular performance and career development reviews  Gender 2019 2018 2017 2016 Women %",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-1": {
+        "page": "99.txt",
+        "context_before": "Alperia Sustainability Report 2019 Diversity and Equal Opportunity {",
+        "context_after": "; GRI 405-2; GRI 401-3} Risk management Risk Management Approach Risk of failure to define/extend measures (e.g. We want to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": {
+        "page": "99.txt",
+        "context_before": "Alperia Sustainability Report 2019 Diversity and Equal Opportunity {GRI 405-1;",
+        "context_after": "; GRI 401-3} Risk management Risk Management Approach Risk of failure to define/extend measures (e.g. We want to attract more",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": {
+        "page": "149.txt",
+        "context_before": "social criteria. Figure 14: Significant investment agreements and contracts that include human rights clauses or that underwent human-rights screening1 (",
+        "context_after": ") Unit 2019 2018 2017 Number of significant investment agreements and information No 0 0 contracts that include human-rights clauses",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9, GRI 204-1; GRI 308-1 and 2;",
+        "context_after": "and 414-2} Risk management Risk Management Approach Risk of failure to identify specific To help create local value and select",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": {
+        "page": "80.txt",
+        "context_before": "Alperia Sustainability Report 2019 Transparent Marketing and Communication {GRI 102-43;",
+        "context_after": "; GRI 417-2; GRI 417-3; ALP 8} Risk management Risk Management Approach Risk of inadequate or no information transparency We",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-2": {
+        "page": "80.txt",
+        "context_before": "Alperia Sustainability Report 2019 Transparent Marketing and Communication {GRI 102-43; GRI 417-1;",
+        "context_after": "; GRI 417-3; ALP 8} Risk management Risk Management Approach Risk of inadequate or no information transparency We are committed",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-3": {
+        "page": "80.txt",
+        "context_before": "Alperia Sustainability Report 2019 Transparent Marketing and Communication {GRI 102-43; GRI 417-1; GRI 417-2;",
+        "context_after": "; ALP 8} Risk management Risk Management Approach Risk of inadequate or no information transparency We are committed to implementing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418-1": {
+        "page": "87.txt",
+        "context_before": "Alperia Sustainability Report 2019 Cyber Security {",
+        "context_after": "} Risk management Risk Management Approach Risk of non-compliance with privacy law provisions in We want to guarantee compliance with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "95.txt",
+        "context_before": "illnesses, etc.). This tool will allow management and HR management to improve personnel management. Figure 28: Average training hours {GRI",
+        "context_after": "} Total Average training hours per employee  gender YtY variation 2019 2018 2017 2016 Women hours 15,9 14,9 not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": false,
+    "401-3": {
+        "page": "99.txt",
+        "context_before": "Alperia Sustainability Report 2019 Diversity and Equal Opportunity {GRI 405-1; GRI 405-2; GRI",
+        "context_after": "} Risk management Risk Management Approach Risk of failure to define/extend measures (e.g. We want to attract more women to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": false,
+    "403-1": false,
+    "403-2": {
+        "page": "159.txt",
+        "context_before": "Sustainability Report 2019 Health and safety at work Figure 33: Types of occupational diseases, occupational disease rate, and absenteeism (GRI",
+        "context_after": ") Employees 2019 2018 2017 2016 Incidents of occupational diseases 0,00 0,00 0 0 Lost workdays due to occupational diseases",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "141.txt",
+        "context_before": "Alperia Sustainability Report 2019 Omission GRI Page number(s) Disclosure Part Standard and/or URL(s) Reason Explanation Omitted",
+        "context_after": "Average hours of See chapter 'People training per year per Development', p. 91ff GRI 404: Training and employee and Annex",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "95.txt",
+        "context_before": "available not not Employees hours 19,2 16,5 16% available available Talent and Pillars: the evolution of leadership and staff {GRI",
+        "context_after": ", 404-3, GRI 401-1} One of the greatest risks for Alperia is its ageing workforce. As more staff get closer",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "404-3": {
+        "page": "95.txt",
+        "context_before": "not not Employees hours 19,2 16,5 16% available available Talent and Pillars: the evolution of leadership and staff {GRI 404-2,",
+        "context_after": ", GRI 401-1} One of the greatest risks for Alperia is its ageing workforce. As more staff get closer to",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "405-1": {
+        "page": "99.txt",
+        "context_before": "Alperia Sustainability Report 2019 Diversity and Equal Opportunity {GRI",
+        "context_after": "; GRI 405-2; GRI 401-3} Risk management Risk Management Approach Risk of failure to define/extend measures (e.g. We want to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "99.txt",
+        "context_before": "Alperia Sustainability Report 2019 Diversity and Equal Opportunity {GRI 405-1; GRI",
+        "context_after": "; GRI 401-3} Risk management Risk Management Approach Risk of failure to define/extend measures (e.g. We want to attract more",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": {
+        "page": "149.txt",
+        "context_before": "social criteria. Figure 14: Significant investment agreements and contracts that include human rights clauses or that underwent human-rights screening1 (GRI",
+        "context_after": ") Unit 2019 2018 2017 Number of significant investment agreements and information No 0 0 contracts that include human-rights clauses",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9, GRI 204-1; GRI 308-1 and 2; GRI",
+        "context_after": "and 414-2} Risk management Risk Management Approach Risk of failure to identify specific To help create local value and select",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "59.txt",
+        "context_before": "Alperia Sustainability Report 2019 Supplier Management {GRI 102-9, GRI 204-1; GRI 308-1 and 2; GRI 414-1 and",
+        "context_after": "} Risk management Risk Management Approach Risk of failure to identify specific To help create local value and select suppliers",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": {
+        "page": "80.txt",
+        "context_before": "Alperia Sustainability Report 2019 Transparent Marketing and Communication {GRI 102-43; GRI",
+        "context_after": "; GRI 417-2; GRI 417-3; ALP 8} Risk management Risk Management Approach Risk of inadequate or no information transparency We",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "80.txt",
+        "context_before": "Alperia Sustainability Report 2019 Transparent Marketing and Communication {GRI 102-43; GRI 417-1; GRI",
+        "context_after": "; GRI 417-3; ALP 8} Risk management Risk Management Approach Risk of inadequate or no information transparency We are committed",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "80.txt",
+        "context_before": "Alperia Sustainability Report 2019 Transparent Marketing and Communication {GRI 102-43; GRI 417-1; GRI 417-2; GRI",
+        "context_after": "; ALP 8} Risk management Risk Management Approach Risk of inadequate or no information transparency We are committed to implementing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "87.txt",
+        "context_before": "Alperia Sustainability Report 2019 Cyber Security {GRI",
+        "context_after": "} Risk management Risk Management Approach Risk of non-compliance with privacy law provisions in We want to guarantee compliance with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": false
+}

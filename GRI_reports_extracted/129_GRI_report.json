@@ -1,0 +1,673 @@
+{
+    "GRI 200": {
+        "page": "53.txt",
+        "context_before": "weight or volume 2019 Integrated Report S.55; In 2019, the Disclosure References Notes and pages Omissions Standard total copy paper",
+        "context_after": ": ECONOMIC SERIES consumption amounted to roughly 3,753,000 kg. Topic: Economic Performance Topic: Energy GRI-103: Management Approach (2016) GRI-103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "53.txt",
+        "context_before": "GRI-302: Energy (2016) GRI-201: Economic Performance (2016) 302-1 Energy consumption within the organisation 2019 Integrated Report S.55; In 2019, direct",
+        "context_after": "Direct economic value generated and distributed 2019 Integrated Report S.2-S.3 energy consumption 201-2 Financial implications and other risks and 2019",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "57.txt",
+        "context_before": "elimination of discrimination in 404-1; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should",
+        "context_after": "; 301-1; 302-1; 303-1; 305-1; support a precautionary approach to 305-2; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": {
+        "page": "53.txt",
+        "context_before": "Report 24-25; 44; 94-101 amounted to roughly opportunities due to climate change 432,000 GJ. The main fuels used were natural",
+        "context_after": "Defined benefit plan obligations and other 2019 Integrated Report S.41 gas (97 percent), followed retirement plans 2019 Annual Reports by",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": false,
+    "202-1": {
+        "page": "57.txt",
+        "context_before": "Principle 5 - Businesses should uphold 408-1 the effective abolition of child labour Principle 6 - Businesses should uphold 102-8;",
+        "context_after": "; 202-2; 401-1; 401-3; the elimination of discrimination in 404-1; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "202-2": {
+        "page": "57.txt",
+        "context_before": "5 - Businesses should uphold 408-1 the effective abolition of child labour Principle 6 - Businesses should uphold 102-8; 202-1;",
+        "context_after": "; 401-1; 401-3; the elimination of discrimination in 404-1; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "203-1": {
+        "page": "53.txt",
+        "context_before": "Standard Standard Reporting Practice GRI-203: Indirect Economic Impacts (2016) 102-45 Entities included in the consolidated financial 2019 Integrated Report 2A",
+        "context_after": "Infrastructure investments and services supported 2019 Integrated Report 75-83 statements 2019 Annual Reports Notes to the consolidated 203-2 Significant indirect",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "53.txt",
+        "context_before": "Report 2A 203-1 Infrastructure investments and services supported 2019 Integrated Report 75-83 statements 2019 Annual Reports Notes to the consolidated",
+        "context_after": "Significant indirect economic impacts 2019 Integrated Report 75-83 and Accounts accounts - Part A - Accounting Topic: Anti-Corruption Policies; A.1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "204-1": false,
+    "205-1": {
+        "page": "57.txt",
+        "context_before": "302-5; 305-5 the development and diffusion of environmentally friendly technologies Anti-corruption Principle 10 - Businesses should work 102-16; 102-17; 102-17;",
+        "context_after": "; 205-2; against corruption in all its forms, 205-3; 415-1 including extortion and bribery 112UniCredit  2019 Integrated Report",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "57.txt",
+        "context_before": "305-5 the development and diffusion of environmentally friendly technologies Anti-corruption Principle 10 - Businesses should work 102-16; 102-17; 102-17; 205-1;",
+        "context_after": "; against corruption in all its forms, 205-3; 415-1 including extortion and bribery 112UniCredit  2019 Integrated Report",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "57.txt",
+        "context_before": "friendly technologies Anti-corruption Principle 10 - Businesses should work 102-16; 102-17; 102-17; 205-1; 205-2; against corruption in all its forms,",
+        "context_after": "; 415-1 including extortion and bribery 112UniCredit  2019 Integrated Report",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": {
+        "page": "53.txt",
+        "context_before": "Report 28-29; S.21-S.23; S.25 report to this Report you can write GRI-206: Anti-Competitive Practices (2016) to groupsustainability@ unicredit.eu. This document",
+        "context_after": "Legal actions for anti-competitive behavior, 2019 Integrated Report S.26 is also available on the anti-trust, and monopoly practices 2019 Annual",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "53.txt",
+        "context_before": "is also available on the anti-trust, and monopoly practices 2019 Annual Reports Sustainability section of and Accounts UniCredit Group website",
+        "context_after": ": ENVIRONMENTAL SERIES (www.unicreditgroup.eu). Topic: Materials 102-54 Claims of reporting in accordance with the This report has been prepared GRI-103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "54.txt",
+        "context_before": "using the energy 305-6 Emissions of ozone-depleting substances In line with applicable consumption reported in the (ODS) regulations, where Disclosure",
+        "context_after": "-1. necessary UniCredit 302-4 Reduction of energy consumption 2019 Integrated Report 91-92; S.55 continues to replace 302-5 Reductions in energy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "54.txt",
+        "context_before": "using the energy 305-6 Emissions of ozone-depleting substances In line with applicable consumption reported in the (ODS) regulations, where Disclosure",
+        "context_after": ". necessary UniCredit 302-4 Reduction of energy consumption 2019 Integrated Report 91-92; S.55 continues to replace 302-5 Reductions in energy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "57.txt",
+        "context_before": "of discrimination in 404-1; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should 201-2;",
+        "context_after": "; 302-1; 303-1; 305-1; support a precautionary approach to 305-2; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "57.txt",
+        "context_before": "302-1; 303-1; 305-1; support a precautionary approach to 305-2; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1;",
+        "context_after": "; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "57.txt",
+        "context_before": "303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5;",
+        "context_after": "; 307-1; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the development and diffusion of environmentally",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "57.txt",
+        "context_before": "discrimination in 404-1; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1;",
+        "context_after": "; 303-1; 305-1; support a precautionary approach to 305-2; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "57.txt",
+        "context_before": "305-1; support a precautionary approach to 305-2; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1;",
+        "context_after": "; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "57.txt",
+        "context_before": "support a precautionary approach to 305-2; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2;",
+        "context_after": "; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "57.txt",
+        "context_before": "305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater",
+        "context_after": "; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "57.txt",
+        "context_before": "305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4;",
+        "context_after": "; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "57.txt",
+        "context_before": "in 404-1; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1;",
+        "context_after": "; 305-1; support a precautionary approach to 305-2; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "57.txt",
+        "context_before": "environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1;",
+        "context_after": "; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "57.txt",
+        "context_before": "challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2;",
+        "context_after": "; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "57.txt",
+        "context_before": "- Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility",
+        "context_after": "; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "57.txt",
+        "context_before": "Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1;",
+        "context_after": "; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": {
+        "page": "57.txt",
+        "context_before": "should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2;",
+        "context_after": "; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 Principle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-4": {
+        "page": "57.txt",
+        "context_before": "301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3;",
+        "context_after": "; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 Principle 9",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-1": {
+        "page": "57.txt",
+        "context_before": "404-1; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1;",
+        "context_after": "; support a precautionary approach to 305-2; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "57.txt",
+        "context_before": "of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1; 305-1; support a precautionary approach to",
+        "context_after": "; 305-3; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "57.txt",
+        "context_before": "employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1; 305-1; support a precautionary approach to 305-2;",
+        "context_after": "; 305-6; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "57.txt",
+        "context_before": "302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3;",
+        "context_after": "; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "57.txt",
+        "context_before": "undertake initiatives to promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4;",
+        "context_after": "; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "57.txt",
+        "context_before": "and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1; 305-1; support a precautionary approach to 305-2; 305-3;",
+        "context_after": "; 305-7 environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "57.txt",
+        "context_before": "occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1; 305-1; support a precautionary approach to 305-2; 305-3; 305-6;",
+        "context_after": "environmental challenges Principle 8 - Businesses should 301-1; 301-2; 302-1; 302-2; 302-3; undertake initiatives to promote greater 302-4; 302-5; 303-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "57.txt",
+        "context_before": "promote greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7;",
+        "context_after": "; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "57.txt",
+        "context_before": "greater 302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1;",
+        "context_after": "; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the development",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "57.txt",
+        "context_before": "302-4; 302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2;",
+        "context_after": "; 306-4; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the development and",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "306-4": {
+        "page": "57.txt",
+        "context_before": "302-5; 303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3;",
+        "context_after": "; 306-5; 301-3; 307-1; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the development and diffusion",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-5": {
+        "page": "57.txt",
+        "context_before": "303-1; 303-2; 303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4;",
+        "context_after": "; 301-3; 307-1; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the development and diffusion of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "307-1": {
+        "page": "57.txt",
+        "context_before": "303-3; environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3;",
+        "context_after": "; 308-1; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the development and diffusion of environmentally friendly",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "57.txt",
+        "context_before": "environmental responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1;",
+        "context_after": "; 308-2; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the development and diffusion of environmentally friendly technologies",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "57.txt",
+        "context_before": "responsibility 304-1; 304-2; 304-3; 304-4; 305-1; 305-2; 305-3; 305-4; 305-5; 305-6; 305-7; 306-1; 306-2; 306-3; 306-4; 306-5; 301-3; 307-1; 308-1;",
+        "context_after": "; 103-2 Principle 9 - Businesses should encourage 302-4; 302-5; 305-5 the development and diffusion of environmentally friendly technologies Anti-corruption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": {
+        "page": "55.txt",
+        "context_before": " GRI Content Index GRI GRI Disclosure References Notes and pages Omissions Disclosure References Notes and pages Omissions Standard Standard",
+        "context_after": ": SOCIAL SERIES Topic: Diversity and Equal Opportunity Topic: Employment GRI-103: Management Approach (2016) GRI-103: Management Approach (2016) 103-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "76.txt",
+        "context_before": "9.52% 358C 23.76% calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the",
+        "context_after": "-1 Disclosure. For the Total 6,672 6.92% 7,165 7.00% historical data published in the past, please refer to the 2018",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": false,
+    "GRI 404": false,
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "76.txt",
+        "context_before": "9.52% 358C 23.76% calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the",
+        "context_after": "Disclosure. For the Total 6,672 6.92% 7,165 7.00% historical data published in the past, please refer to the 2018 Integrated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "76.txt",
+        "context_before": "358C 23.76% calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the GRI",
+        "context_after": "Disclosure. For the Total 6,672 6.92% 7,165 7.00% historical data published in the past, please refer to the 2018 Integrated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "55.txt",
+        "context_before": "hires and employee turnover 2019 Integrated Report 34-35 405-1 Diversity of governance bodies and employees 2019 Integrated Report 23; S.32-S.33",
+        "context_after": "Benefits provided to full-time employees that 2019 Integrated Report S.40;S.42-S.43; In 2019 Report on Corporate are not provided to temporary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "57.txt",
+        "context_before": "Businesses should uphold 408-1 the effective abolition of child labour Principle 6 - Businesses should uphold 102-8; 202-1; 202-2; 401-1;",
+        "context_after": "; the elimination of discrimination in 404-1; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle 7 -",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "57.txt",
+        "context_before": "they 412-3; 414-1; 414-2 are not complicit in human rights abuses Labour Principle 3 - Businesses should uphold 102-41; 407-1;",
+        "context_after": "the freedom of association and the effective recognition of the right to collective bargaining Principle 4 - Businesses should uphold",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "55.txt",
+        "context_before": "the management approach 2019 Integrated Report S.44 S.37; S.44 GRI-403: Occupational Health and Safety (2016) GRI-412: Human Rights Assessment (2016)",
+        "context_after": "Workers representation in formal joint 2019 Integrated Report S.45 412-2 Employee training on human rights policies or 2019 Integrated Report",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "55.txt",
+        "context_before": "managementworker health and safety procedures committees 412-3 Significant investment agreements and 2019 Integrated Report 93; In UniCredit 100 percent of",
+        "context_after": "Types of injury and rates of injury, occupational 2019 Integrated Report S.46-S.47; During 2019 no Data referring to contracts that",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": {
+        "page": "55.txt",
+        "context_before": "a GRI-103: Management Approach (2016) precaution. 103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31",
+        "context_after": "Health and safety topics covered in formal 2019 Integrated Report S.46 103-2 The management approach and its components 2019 Integrated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "57.txt",
+        "context_before": "abolition of child labour Principle 6 - Businesses should uphold 102-8; 202-1; 202-2; 401-1; 401-3; the elimination of discrimination in",
+        "context_after": "; 404-3; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "55.txt",
+        "context_before": "71; 75-76; 80-83 404-1 Average hours of training per year per employee 2019 Integrated Report S.36 services for disadvantaged people",
+        "context_after": "Programs for upgrading employee skills and 2019 Integrated Report 67-68; S.43 Topic: Supplier Social Assessment transition assistance programs GRI-103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "57.txt",
+        "context_before": "of child labour Principle 6 - Businesses should uphold 102-8; 202-1; 202-2; 401-1; 401-3; the elimination of discrimination in 404-1;",
+        "context_after": "; 405-1; 405-2; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1; 305-1;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "57.txt",
+        "context_before": "child labour Principle 6 - Businesses should uphold 102-8; 202-1; 202-2; 401-1; 401-3; the elimination of discrimination in 404-1; 404-3;",
+        "context_after": "; 405-2; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1; 305-1; support",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "57.txt",
+        "context_before": "labour Principle 6 - Businesses should uphold 102-8; 202-1; 202-2; 401-1; 401-3; the elimination of discrimination in 404-1; 404-3; 405-1;",
+        "context_after": "; 406-1 respect of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1; 305-1; support a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "57.txt",
+        "context_before": "Principle 6 - Businesses should uphold 102-8; 202-1; 202-2; 401-1; 401-3; the elimination of discrimination in 404-1; 404-3; 405-1; 405-2;",
+        "context_after": "respect of employment and occupation Environment Principle 7 - Businesses should 201-2; 301-1; 302-1; 303-1; 305-1; support a precautionary approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "57.txt",
+        "context_before": "sure they 412-3; 414-1; 414-2 are not complicit in human rights abuses Labour Principle 3 - Businesses should uphold 102-41;",
+        "context_after": "; 402-1 the freedom of association and the effective recognition of the right to collective bargaining Principle 4 - Businesses",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "408-1": {
+        "page": "57.txt",
+        "context_before": "Businesses should uphold 409-1 the elimination of all forms of forced and compulsory labour Principle 5 - Businesses should uphold",
+        "context_after": "the effective abolition of child labour Principle 6 - Businesses should uphold 102-8; 202-1; 202-2; 401-1; 401-3; the elimination of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "57.txt",
+        "context_before": "the freedom of association and the effective recognition of the right to collective bargaining Principle 4 - Businesses should uphold",
+        "context_after": "the elimination of all forms of forced and compulsory labour Principle 5 - Businesses should uphold 408-1 the effective abolition",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "410-1": {
+        "page": "57.txt",
+        "context_before": "Global Compact Principles and GRI Standards Disclosures. Categories Principles GRI Standards Disclosures Human Rights Principle 1 - Businesses should 412-2;",
+        "context_after": "; 411-1; 412-1; 103-2; support and respect the protection of 413-1; 413-2 internationally proclaimed human rights Principle 2 - Business",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": {
+        "page": "57.txt",
+        "context_before": "Compact Principles and GRI Standards Disclosures. Categories Principles GRI Standards Disclosures Human Rights Principle 1 - Businesses should 412-2; 410-1;",
+        "context_after": "; 412-1; 103-2; support and respect the protection of 413-1; 413-2 internationally proclaimed human rights Principle 2 - Business should",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-1": {
+        "page": "57.txt",
+        "context_before": "Principles and GRI Standards Disclosures. Categories Principles GRI Standards Disclosures Human Rights Principle 1 - Businesses should 412-2; 410-1; 411-1;",
+        "context_after": "; 103-2; support and respect the protection of 413-1; 413-2 internationally proclaimed human rights Principle 2 - Business should make",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "57.txt",
+        "context_before": "UN Global Compact Principles and GRI Standards Disclosures. Categories Principles GRI Standards Disclosures Human Rights Principle 1 - Businesses should",
+        "context_after": "; 410-1; 411-1; 412-1; 103-2; support and respect the protection of 413-1; 413-2 internationally proclaimed human rights Principle 2 -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "57.txt",
+        "context_before": "support and respect the protection of 413-1; 413-2 internationally proclaimed human rights Principle 2 - Business should make sure they",
+        "context_after": "; 414-1; 414-2 are not complicit in human rights abuses Labour Principle 3 - Businesses should uphold 102-41; 407-1; 402-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "57.txt",
+        "context_before": "Standards Disclosures Human Rights Principle 1 - Businesses should 412-2; 410-1; 411-1; 412-1; 103-2; support and respect the protection of",
+        "context_after": "; 413-2 internationally proclaimed human rights Principle 2 - Business should make sure they 412-3; 414-1; 414-2 are not complicit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "57.txt",
+        "context_before": "Disclosures Human Rights Principle 1 - Businesses should 412-2; 410-1; 411-1; 412-1; 103-2; support and respect the protection of 413-1;",
+        "context_after": "internationally proclaimed human rights Principle 2 - Business should make sure they 412-3; 414-1; 414-2 are not complicit in human",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": {
+        "page": "57.txt",
+        "context_before": "and respect the protection of 413-1; 413-2 internationally proclaimed human rights Principle 2 - Business should make sure they 412-3;",
+        "context_after": "; 414-2 are not complicit in human rights abuses Labour Principle 3 - Businesses should uphold 102-41; 407-1; 402-1 the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "57.txt",
+        "context_before": "respect the protection of 413-1; 413-2 internationally proclaimed human rights Principle 2 - Business should make sure they 412-3; 414-1;",
+        "context_after": "are not complicit in human rights abuses Labour Principle 3 - Businesses should uphold 102-41; 407-1; 402-1 the freedom of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "57.txt",
+        "context_before": "technologies Anti-corruption Principle 10 - Businesses should work 102-16; 102-17; 102-17; 205-1; 205-2; against corruption in all its forms, 205-3;",
+        "context_after": "including extortion and bribery 112UniCredit  2019 Integrated Report",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": {
+        "page": "56.txt",
+        "context_before": "approach 2019 Integrated Report 32; 51-54; 74; 76; 78; 85-86; 93 GRI-418: Customer Privacy (2016) Topic: Lean and Transparent Organisation",
+        "context_after": "Substantiated complaints concerning 2019 Integrated Report 86; In 2019, UniCredit breaches of customer privacy and losses of has identified 3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "56.txt",
+        "context_before": "Integrated Report 36-45; S.30-S.31 GRI-419: Socioeconomic Compliance (2016) 103-2 The management approach and its components 2019 Integrated Report 51-53; 74-83",
+        "context_after": "Non-compliance with laws and regulations in 2019 Integrated Report S.29 the social and economic area 2019 Annual Reports 103-3 Evaluation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

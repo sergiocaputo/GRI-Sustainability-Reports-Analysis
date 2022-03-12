@@ -1,0 +1,721 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "82.txt",
+        "context_before": "trasporti 115 trasporti Performance economica Emissioni di sostanze nocive Valore economico diretta- GRI 305-6 Le emissioni e i trasporti 115",
+        "context_after": "-1 I risultati economico-finanziari 58 per lo strato di ozono mente generato e distribuito Ossidi di azoto (NOX), ossidi Presenza",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 202": {
+        "page": "82.txt",
+        "context_before": "mercato GRI 305-7 di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 Percentuale di senior significative nell'atmosfera",
+        "context_after": "-2 manager provenienti dalla Il ruolo prezioso dei collaboratori 130 comunit locale Sversamento e rifiuti GRI 306-1 Scarichi idrici totali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "82.txt",
+        "context_before": "gli scarichi 111 Impatti economici indiretti GRI 306-2 Peso totale dei rifiuti I rifiuti 123 Sviluppo e impatto di inve-",
+        "context_after": "-1 stimenti in infrastrutture e La Cittadella del Vino, il nuovo percorso visita 29 Compliance ambientale servizi Non conformit a",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 204": {
+        "page": "82.txt",
+        "context_before": "307-1 Non si registrano sanzioni Pratiche dacquisto regolamenti ambientali Percentuale di spesa concen- Le esternalit e le ricadute sul territorio:",
+        "context_after": "-1 61 trata su fornitori locali una village company",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "82.txt",
+        "context_before": "trasporti 115 trasporti Performance economica Emissioni di sostanze nocive Valore economico diretta- GRI 305-6 Le emissioni e i trasporti 115",
+        "context_after": "I risultati economico-finanziari 58 per lo strato di ozono mente generato e distribuito Ossidi di azoto (NOX), ossidi Presenza sul",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": {
+        "page": "82.txt",
+        "context_before": "mercato GRI 305-7 di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 Percentuale di senior significative nell'atmosfera",
+        "context_after": "manager provenienti dalla Il ruolo prezioso dei collaboratori 130 comunit locale Sversamento e rifiuti GRI 306-1 Scarichi idrici totali I",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-1": {
+        "page": "82.txt",
+        "context_before": "gli scarichi 111 Impatti economici indiretti GRI 306-2 Peso totale dei rifiuti I rifiuti 123 Sviluppo e impatto di inve-",
+        "context_after": "stimenti in infrastrutture e La Cittadella del Vino, il nuovo percorso visita 29 Compliance ambientale servizi Non conformit a leggi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "82.txt",
+        "context_before": "307-1 Non si registrano sanzioni Pratiche dacquisto regolamenti ambientali Percentuale di spesa concen- Le esternalit e le ricadute sul territorio:",
+        "context_after": "61 trata su fornitori locali una village company",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "82.txt",
+        "context_before": "115 trasporti Performance economica Emissioni di sostanze nocive Valore economico diretta- GRI 305-6 Le emissioni e i trasporti 115 GRI",
+        "context_after": "I risultati economico-finanziari 58 per lo strato di ozono mente generato e distribuito Ossidi di azoto (NOX), ossidi Presenza sul",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": {
+        "page": "82.txt",
+        "context_before": "GRI 305-7 di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 Percentuale di senior significative nell'atmosfera GRI",
+        "context_after": "manager provenienti dalla Il ruolo prezioso dei collaboratori 130 comunit locale Sversamento e rifiuti GRI 306-1 Scarichi idrici totali I",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "82.txt",
+        "context_before": "scarichi 111 Impatti economici indiretti GRI 306-2 Peso totale dei rifiuti I rifiuti 123 Sviluppo e impatto di inve- GRI",
+        "context_after": "stimenti in infrastrutture e La Cittadella del Vino, il nuovo percorso visita 29 Compliance ambientale servizi Non conformit a leggi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "203-2": false,
+    "204-1": {
+        "page": "82.txt",
+        "context_before": "Non si registrano sanzioni Pratiche dacquisto regolamenti ambientali Percentuale di spesa concen- Le esternalit e le ricadute sul territorio: GRI",
+        "context_after": "61 trata su fornitori locali una village company",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "82.txt",
+        "context_before": "perimetro GRI 103-1 di rendicontazione Note metodologiche 156 Materiali GRI 102-45 Entit incluse nel bilancio Note metodologiche 156 Materiali utilizzati",
+        "context_after": "-1 Le materie prime 119 Principi per la definizione dei Mitigazione degli impatti di GRI 102-46 Il dialogo con gli",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "82.txt",
+        "context_before": "materiali identificati Energia GRI 102-47 nella definizione dei Il dialogo con gli stakeholder 42 Consumo di energia allinterno contenuti dellorganizzazione",
+        "context_after": "-1 Lenergia e le fonti rinnovabili 103 GRI 102-50 Periodo di rendicontazione Note metodologiche 156 Mitigazione degli impatti di Anno",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "82.txt",
+        "context_before": "rendicontazione Acqua Contatti per informazioni sul GRI 102-53 Colophon 179 I consumi idrici e gli scarichi 111 Bilancio di Sostenibilit",
+        "context_after": "-1 Consumo totale di acqua La coltivazione biologica dei vigneti in Sicilia 92 Indicazione dellopzione in GRI 102-54 Note metodologiche",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304": {
+        "page": "82.txt",
+        "context_before": "Siti operativi allinterno o in prossimit di aree protette o di Gli impianti del Gruppo non sono situati nelle vicinanze",
+        "context_after": "-1 aree di significativo valore per di aree protette Categoria Economica la biodiversit Una produzione virtuosa: Mela Valentina 37 Impatti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305": {
+        "page": "82.txt",
+        "context_before": "92 55, 56, Informazioni sulla modalit di gestione Molteplici 58, 61, Emissioni e trasporti 100, 130 Impatti ambientali relativi ai",
+        "context_after": "-1 Le emissioni e i trasporti 115 trasporti Performance economica Emissioni di sostanze nocive Valore economico diretta- GRI 305-6 Le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "82.txt",
+        "context_before": "di senior significative nell'atmosfera GRI 202-2 manager provenienti dalla Il ruolo prezioso dei collaboratori 130 comunit locale Sversamento e rifiuti",
+        "context_after": "-1 Scarichi idrici totali I consumi idrici e gli scarichi 111 Impatti economici indiretti GRI 306-2 Peso totale dei rifiuti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "82.txt",
+        "context_before": "in infrastrutture e La Cittadella del Vino, il nuovo percorso visita 29 Compliance ambientale servizi Non conformit a leggi e",
+        "context_after": "-1 Non si registrano sanzioni Pratiche dacquisto regolamenti ambientali Percentuale di spesa concen- Le esternalit e le ricadute sul territorio:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "82.txt",
+        "context_before": "perimetro GRI 103-1 di rendicontazione Note metodologiche 156 Materiali GRI 102-45 Entit incluse nel bilancio Note metodologiche 156 Materiali utilizzati",
+        "context_after": "Le materie prime 119 Principi per la definizione dei Mitigazione degli impatti di GRI 102-46 Il dialogo con gli stakeholder",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "82.txt",
+        "context_before": "materiali identificati Energia GRI 102-47 nella definizione dei Il dialogo con gli stakeholder 42 Consumo di energia allinterno contenuti dellorganizzazione",
+        "context_after": "Lenergia e le fonti rinnovabili 103 GRI 102-50 Periodo di rendicontazione Note metodologiche 156 Mitigazione degli impatti di Anno del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "82.txt",
+        "context_before": "di Anno del bilancio di prodotti e servizi sull'ambiente GRI 102-51 Note metodologiche 156 sostenibilit precedente Riduzione nel consumo di",
+        "context_after": "Lenergia e le fonti rinnovabili 103 Periodicit di energia GRI 102-52 Note metodologiche 156 rendicontazione Acqua Contatti per informazioni sul",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "82.txt",
+        "context_before": "rendicontazione Acqua Contatti per informazioni sul GRI 102-53 Colophon 179 I consumi idrici e gli scarichi 111 Bilancio di Sostenibilit",
+        "context_after": "Consumo totale di acqua La coltivazione biologica dei vigneti in Sicilia 92 Indicazione dellopzione in GRI 102-54 Note metodologiche 156",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": {
+        "page": "82.txt",
+        "context_before": "La coltivazione biologica dei vigneti in Sicilia 92 Indicazione dellopzione in GRI 102-54 Note metodologiche 156 accordance Fonti idriche significativamente",
+        "context_after": "interessate dal prelievo di I consumi idrici e gli scarichi 111 GRI 102-55 Indice dei contenuti GRI GRI Content Index",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": {
+        "page": "82.txt",
+        "context_before": "Siti operativi allinterno o in prossimit di aree protette o di Gli impianti del Gruppo non sono situati nelle vicinanze",
+        "context_after": "aree di significativo valore per di aree protette Categoria Economica la biodiversit Una produzione virtuosa: Mela Valentina 37 Impatti significativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304-2": {
+        "page": "82.txt",
+        "context_before": "aree protette Categoria Economica la biodiversit Una produzione virtuosa: Mela Valentina 37 Impatti significativi delle INDICATORE GRI CAPITOLO PARAGRAFO N PAG",
+        "context_after": "attivit , dei prodotti e dei La produzione integrata in Trentino-Alto Adige 89 servizi sulla biodiversit 23, 51, La coltivazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "82.txt",
+        "context_before": "92 55, 56, Informazioni sulla modalit di gestione Molteplici 58, 61, Emissioni e trasporti 100, 130 Impatti ambientali relativi ai",
+        "context_after": "Le emissioni e i trasporti 115 trasporti Performance economica Emissioni di sostanze nocive Valore economico diretta- GRI 305-6 Le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": {
+        "page": "82.txt",
+        "context_before": "relativi ai GRI 305-1 Le emissioni e i trasporti 115 trasporti Performance economica Emissioni di sostanze nocive Valore economico diretta-",
+        "context_after": "Le emissioni e i trasporti 115 GRI 201-1 I risultati economico-finanziari 58 per lo strato di ozono mente generato e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305-7": {
+        "page": "82.txt",
+        "context_before": "risultati economico-finanziari 58 per lo strato di ozono mente generato e distribuito Ossidi di azoto (NOX), ossidi Presenza sul mercato",
+        "context_after": "di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 Percentuale di senior significative nell'atmosfera GRI 202-2 manager",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-1": {
+        "page": "82.txt",
+        "context_before": "di senior significative nell'atmosfera GRI 202-2 manager provenienti dalla Il ruolo prezioso dei collaboratori 130 comunit locale Sversamento e rifiuti",
+        "context_after": "Scarichi idrici totali I consumi idrici e gli scarichi 111 Impatti economici indiretti GRI 306-2 Peso totale dei rifiuti I",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-2": {
+        "page": "82.txt",
+        "context_before": "comunit locale Sversamento e rifiuti GRI 306-1 Scarichi idrici totali I consumi idrici e gli scarichi 111 Impatti economici indiretti",
+        "context_after": "Peso totale dei rifiuti I rifiuti 123 Sviluppo e impatto di inve- GRI 203-1 stimenti in infrastrutture e La Cittadella",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "82.txt",
+        "context_before": "in infrastrutture e La Cittadella del Vino, il nuovo percorso visita 29 Compliance ambientale servizi Non conformit a leggi e",
+        "context_after": "Non si registrano sanzioni Pratiche dacquisto regolamenti ambientali Percentuale di spesa concen- Le esternalit e le ricadute sul territorio: GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "82.txt",
+        "context_before": "GRI 103-1 di rendicontazione Note metodologiche 156 Materiali GRI 102-45 Entit incluse nel bilancio Note metodologiche 156 Materiali utilizzati GRI",
+        "context_after": "Le materie prime 119 Principi per la definizione dei Mitigazione degli impatti di GRI 102-46 Il dialogo con gli stakeholder",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "82.txt",
+        "context_before": "identificati Energia GRI 102-47 nella definizione dei Il dialogo con gli stakeholder 42 Consumo di energia allinterno contenuti dellorganizzazione GRI",
+        "context_after": "Lenergia e le fonti rinnovabili 103 GRI 102-50 Periodo di rendicontazione Note metodologiche 156 Mitigazione degli impatti di Anno del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "82.txt",
+        "context_before": "Anno del bilancio di prodotti e servizi sull'ambiente GRI 102-51 Note metodologiche 156 sostenibilit precedente Riduzione nel consumo di GRI",
+        "context_after": "Lenergia e le fonti rinnovabili 103 Periodicit di energia GRI 102-52 Note metodologiche 156 rendicontazione Acqua Contatti per informazioni sul",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "82.txt",
+        "context_before": "Acqua Contatti per informazioni sul GRI 102-53 Colophon 179 I consumi idrici e gli scarichi 111 Bilancio di Sostenibilit GRI",
+        "context_after": "Consumo totale di acqua La coltivazione biologica dei vigneti in Sicilia 92 Indicazione dellopzione in GRI 102-54 Note metodologiche 156",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "82.txt",
+        "context_before": "coltivazione biologica dei vigneti in Sicilia 92 Indicazione dellopzione in GRI 102-54 Note metodologiche 156 accordance Fonti idriche significativamente GRI",
+        "context_after": "interessate dal prelievo di I consumi idrici e gli scarichi 111 GRI 102-55 Indice dei contenuti GRI GRI Content Index",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "82.txt",
+        "context_before": "operativi allinterno o in prossimit di aree protette o di Gli impianti del Gruppo non sono situati nelle vicinanze GRI",
+        "context_after": "aree di significativo valore per di aree protette Categoria Economica la biodiversit Una produzione virtuosa: Mela Valentina 37 Impatti significativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-2": {
+        "page": "82.txt",
+        "context_before": "protette Categoria Economica la biodiversit Una produzione virtuosa: Mela Valentina 37 Impatti significativi delle INDICATORE GRI CAPITOLO PARAGRAFO N PAG GRI",
+        "context_after": "attivit , dei prodotti e dei La produzione integrata in Trentino-Alto Adige 89 servizi sulla biodiversit 23, 51, La coltivazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "82.txt",
+        "context_before": "55, 56, Informazioni sulla modalit di gestione Molteplici 58, 61, Emissioni e trasporti 100, 130 Impatti ambientali relativi ai GRI",
+        "context_after": "Le emissioni e i trasporti 115 trasporti Performance economica Emissioni di sostanze nocive Valore economico diretta- GRI 305-6 Le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": false,
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": {
+        "page": "82.txt",
+        "context_before": "ai GRI 305-1 Le emissioni e i trasporti 115 trasporti Performance economica Emissioni di sostanze nocive Valore economico diretta- GRI",
+        "context_after": "Le emissioni e i trasporti 115 GRI 201-1 I risultati economico-finanziari 58 per lo strato di ozono mente generato e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-7": {
+        "page": "82.txt",
+        "context_before": "economico-finanziari 58 per lo strato di ozono mente generato e distribuito Ossidi di azoto (NOX), ossidi Presenza sul mercato GRI",
+        "context_after": "di zolfo (SOX) e altre emissioni Le emissioni e i trasporti 115 Percentuale di senior significative nell'atmosfera GRI 202-2 manager",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "82.txt",
+        "context_before": "senior significative nell'atmosfera GRI 202-2 manager provenienti dalla Il ruolo prezioso dei collaboratori 130 comunit locale Sversamento e rifiuti GRI",
+        "context_after": "Scarichi idrici totali I consumi idrici e gli scarichi 111 Impatti economici indiretti GRI 306-2 Peso totale dei rifiuti I",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-2": {
+        "page": "82.txt",
+        "context_before": "locale Sversamento e rifiuti GRI 306-1 Scarichi idrici totali I consumi idrici e gli scarichi 111 Impatti economici indiretti GRI",
+        "context_after": "Peso totale dei rifiuti I rifiuti 123 Sviluppo e impatto di inve- GRI 203-1 stimenti in infrastrutture e La Cittadella",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "82.txt",
+        "context_before": "infrastrutture e La Cittadella del Vino, il nuovo percorso visita 29 Compliance ambientale servizi Non conformit a leggi e GRI",
+        "context_after": "Non si registrano sanzioni Pratiche dacquisto regolamenti ambientali Percentuale di spesa concen- Le esternalit e le ricadute sul territorio: GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": {
+        "page": "8.txt",
+        "context_before": "integrata, si impegna per GRI  103-2 Attua e ricerca tecnologie migliorative dei processi di produzione e consumo, GRI ",
+        "context_after": "GRI  103-3 ridurre luso degli agro-farmaci, sta portando avanti la progressiva conversione favorendo lutilizzo di energie rinnovabili e diminuendo",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "83.txt",
+        "context_before": "La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini Numero e tasso di nuove del miglioramento",
+        "context_after": "-1 assunzioni e turnover del Il ruolo prezioso dei collaboratori 134 personale Non conformit riguardanti la GRI 416-2 La salute",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": {
+        "page": "83.txt",
+        "context_before": "consumatore 141 salute e la sicurezza Lavoro/Relazioni industriali Responsabilit di prodotto: salute e sicurezza dei consumatori Periodo minimo di preavviso",
+        "context_after": "-1 Il ruolo prezioso dei collaboratori 130 per modifiche organizzative Non conformit a leggi e GRI 419-1 regolamenti economico- Non",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403": {
+        "page": "83.txt",
+        "context_before": "GRI 419-1 regolamenti economico- Non si registrano sanzioni Salute e sicurezza sul lavoro sociali Percentuale di lavoratori totali rappresentati nei",
+        "context_after": "-1 comitati formali azienda- Lambiente di lavoro e la sicurezza 139 lavoratori per la salute e sicurezza Tipologia e tasso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "83.txt",
+        "context_before": "lavoro e la sicurezza 139 persi, assenteismo e numero di morti sul lavoro Formazione ed educazione Ore medie di formazione",
+        "context_after": "-1 La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per GRI 404-2 La formazione",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "83.txt",
+        "context_before": "La formazione continua 137 promuovere una formazione/ aggiornamento progressivo Diversit e pari opportunit Composizione degli organi di governo dell'impresa e",
+        "context_after": "-1 Il ruolo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversit Rapporto remunerazioni GRI 405-2 totali",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": {
+        "page": "83.txt",
+        "context_before": "uomini e Il ruolo prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi legati a pratiche",
+        "context_after": "-1 Lambiente di lavoro e la sicurezza 139 discriminatorie e azioni intraprese Societ : comunit locali Operazioni che coinvolgono La",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "83.txt",
+        "context_before": "intraprese Societ : comunit locali Operazioni che coinvolgono La Cittadella del Vino, il nuovo percorso visita 29 la comunit locale,",
+        "context_after": "-1 valutazioni degli impatti e Le esternalit e le ricadute sul territorio: 61 programmi di sviluppo una village company Societ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": {
+        "page": "83.txt",
+        "context_before": "e le ricadute sul territorio: 61 programmi di sviluppo una village company Societ : politica pubblica Valore totale dei contributi",
+        "context_after": "-1 politici, per paese e Il Gruppo Mezzacorona non versa contributi politici beneficiario",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 416": {
+        "page": "83.txt",
+        "context_before": "Informazioni sulla modalit di gestione Molteplici 130, 137, Percentuale delle categorie 139, 141 di prodotto e servizi per i Occupazione",
+        "context_after": "-1 quali gli impatti sulla salute e La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": {
+        "page": "83.txt",
+        "context_before": "Periodo minimo di preavviso GRI 402-1 Il ruolo prezioso dei collaboratori 130 per modifiche organizzative Non conformit a leggi e",
+        "context_after": "-1 regolamenti economico- Non si registrano sanzioni Salute e sicurezza sul lavoro sociali Percentuale di lavoratori totali rappresentati nei GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-1": {
+        "page": "83.txt",
+        "context_before": "La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini Numero e tasso di nuove del miglioramento",
+        "context_after": "assunzioni e turnover del Il ruolo prezioso dei collaboratori 134 personale Non conformit riguardanti la GRI 416-2 La salute e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": {
+        "page": "83.txt",
+        "context_before": "consumatore 141 salute e la sicurezza Lavoro/Relazioni industriali Responsabilit di prodotto: salute e sicurezza dei consumatori Periodo minimo di preavviso",
+        "context_after": "Il ruolo prezioso dei collaboratori 130 per modifiche organizzative Non conformit a leggi e GRI 419-1 regolamenti economico- Non si",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-1": {
+        "page": "83.txt",
+        "context_before": "GRI 419-1 regolamenti economico- Non si registrano sanzioni Salute e sicurezza sul lavoro sociali Percentuale di lavoratori totali rappresentati nei",
+        "context_after": "comitati formali azienda- Lambiente di lavoro e la sicurezza 139 lavoratori per la salute e sicurezza Tipologia e tasso di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": {
+        "page": "83.txt",
+        "context_before": "di lavoro e la sicurezza 139 lavoratori per la salute e sicurezza Tipologia e tasso di infortuni, malattie professionali, giorni",
+        "context_after": "Lambiente di lavoro e la sicurezza 139 persi, assenteismo e numero di morti sul lavoro Formazione ed educazione Ore medie",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "83.txt",
+        "context_before": "lavoro e la sicurezza 139 persi, assenteismo e numero di morti sul lavoro Formazione ed educazione Ore medie di formazione",
+        "context_after": "La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per GRI 404-2 La formazione continua",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404-2": {
+        "page": "83.txt",
+        "context_before": "medie di formazione GRI 404-1 La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per",
+        "context_after": "La formazione continua 137 promuovere una formazione/ aggiornamento progressivo Diversit e pari opportunit Composizione degli organi di governo dell'impresa e",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "83.txt",
+        "context_before": "La formazione continua 137 promuovere una formazione/ aggiornamento progressivo Diversit e pari opportunit Composizione degli organi di governo dell'impresa e",
+        "context_after": "Il ruolo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversit Rapporto remunerazioni GRI 405-2 totali lorde",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": {
+        "page": "83.txt",
+        "context_before": "dell'impresa e GRI 405-1 Il ruolo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversit Rapporto remunerazioni",
+        "context_after": "totali lorde tra uomini e Il ruolo prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406-1": {
+        "page": "83.txt",
+        "context_before": "uomini e Il ruolo prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi legati a pratiche",
+        "context_after": "Lambiente di lavoro e la sicurezza 139 discriminatorie e azioni intraprese Societ : comunit locali Operazioni che coinvolgono La Cittadella",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "83.txt",
+        "context_before": "intraprese Societ : comunit locali Operazioni che coinvolgono La Cittadella del Vino, il nuovo percorso visita 29 la comunit locale,",
+        "context_after": "valutazioni degli impatti e Le esternalit e le ricadute sul territorio: 61 programmi di sviluppo una village company Societ :",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": {
+        "page": "83.txt",
+        "context_before": "e le ricadute sul territorio: 61 programmi di sviluppo una village company Societ : politica pubblica Valore totale dei contributi",
+        "context_after": "politici, per paese e Il Gruppo Mezzacorona non versa contributi politici beneficiario",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-1": {
+        "page": "83.txt",
+        "context_before": "Informazioni sulla modalit di gestione Molteplici 130, 137, Percentuale delle categorie 139, 141 di prodotto e servizi per i Occupazione",
+        "context_after": "quali gli impatti sulla salute e La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini Numero",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-2": {
+        "page": "83.txt",
+        "context_before": "nuove del miglioramento GRI 401-1 assunzioni e turnover del Il ruolo prezioso dei collaboratori 134 personale Non conformit riguardanti la",
+        "context_after": "La salute e la sicurezza del consumatore 141 salute e la sicurezza Lavoro/Relazioni industriali Responsabilit di prodotto: salute e sicurezza",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": {
+        "page": "83.txt",
+        "context_before": "Periodo minimo di preavviso GRI 402-1 Il ruolo prezioso dei collaboratori 130 per modifiche organizzative Non conformit a leggi e",
+        "context_after": "regolamenti economico- Non si registrano sanzioni Salute e sicurezza sul lavoro sociali Percentuale di lavoratori totali rappresentati nei GRI 403-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-1": {
+        "page": "83.txt",
+        "context_before": "salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini Numero e tasso di nuove del miglioramento GRI",
+        "context_after": "assunzioni e turnover del Il ruolo prezioso dei collaboratori 134 personale Non conformit riguardanti la GRI 416-2 La salute e",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": {
+        "page": "83.txt",
+        "context_before": "141 salute e la sicurezza Lavoro/Relazioni industriali Responsabilit di prodotto: salute e sicurezza dei consumatori Periodo minimo di preavviso GRI",
+        "context_after": "Il ruolo prezioso dei collaboratori 130 per modifiche organizzative Non conformit a leggi e GRI 419-1 regolamenti economico- Non si",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-1": {
+        "page": "83.txt",
+        "context_before": "419-1 regolamenti economico- Non si registrano sanzioni Salute e sicurezza sul lavoro sociali Percentuale di lavoratori totali rappresentati nei GRI",
+        "context_after": "comitati formali azienda- Lambiente di lavoro e la sicurezza 139 lavoratori per la salute e sicurezza Tipologia e tasso di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "83.txt",
+        "context_before": "lavoro e la sicurezza 139 lavoratori per la salute e sicurezza Tipologia e tasso di infortuni, malattie professionali, giorni GRI",
+        "context_after": "Lambiente di lavoro e la sicurezza 139 persi, assenteismo e numero di morti sul lavoro Formazione ed educazione Ore medie",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "83.txt",
+        "context_before": "e la sicurezza 139 persi, assenteismo e numero di morti sul lavoro Formazione ed educazione Ore medie di formazione GRI",
+        "context_after": "La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per GRI 404-2 La formazione continua",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "404-2": {
+        "page": "83.txt",
+        "context_before": "di formazione GRI 404-1 La formazione continua 137 annue per impiegato Programmi per la gestione delle competenze e per GRI",
+        "context_after": "La formazione continua 137 promuovere una formazione/ aggiornamento progressivo Diversit e pari opportunit Composizione degli organi di governo dell'impresa e",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "404-3": false,
+    "405-1": {
+        "page": "83.txt",
+        "context_before": "formazione continua 137 promuovere una formazione/ aggiornamento progressivo Diversit e pari opportunit Composizione degli organi di governo dell'impresa e GRI",
+        "context_after": "Il ruolo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversit Rapporto remunerazioni GRI 405-2 totali lorde",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "83.txt",
+        "context_before": "e GRI 405-1 Il ruolo prezioso dei collaboratori 130, 135 ripartizione del personale per indicatori di diversit Rapporto remunerazioni GRI",
+        "context_after": "totali lorde tra uomini e Il ruolo prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "406-1": {
+        "page": "83.txt",
+        "context_before": "e Il ruolo prezioso dei collaboratori 136 donne Diritti umani: non discriminazione Numero totale di episodi legati a pratiche GRI",
+        "context_after": "Lambiente di lavoro e la sicurezza 139 discriminatorie e azioni intraprese Societ : comunit locali Operazioni che coinvolgono La Cittadella",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "83.txt",
+        "context_before": "Societ : comunit locali Operazioni che coinvolgono La Cittadella del Vino, il nuovo percorso visita 29 la comunit locale, GRI",
+        "context_after": "valutazioni degli impatti e Le esternalit e le ricadute sul territorio: 61 programmi di sviluppo una village company Societ :",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": {
+        "page": "83.txt",
+        "context_before": "le ricadute sul territorio: 61 programmi di sviluppo una village company Societ : politica pubblica Valore totale dei contributi GRI",
+        "context_after": "politici, per paese e Il Gruppo Mezzacorona non versa contributi politici beneficiario",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "83.txt",
+        "context_before": "sulla modalit di gestione Molteplici 130, 137, Percentuale delle categorie 139, 141 di prodotto e servizi per i Occupazione GRI",
+        "context_after": "quali gli impatti sulla salute e La salute e la sicurezza del consumatore 141 sicurezza sono valutati ai fini Numero",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "83.txt",
+        "context_before": "del miglioramento GRI 401-1 assunzioni e turnover del Il ruolo prezioso dei collaboratori 134 personale Non conformit riguardanti la GRI",
+        "context_after": "La salute e la sicurezza del consumatore 141 salute e la sicurezza Lavoro/Relazioni industriali Responsabilit di prodotto: salute e sicurezza",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "83.txt",
+        "context_before": "minimo di preavviso GRI 402-1 Il ruolo prezioso dei collaboratori 130 per modifiche organizzative Non conformit a leggi e GRI",
+        "context_after": "regolamenti economico- Non si registrano sanzioni Salute e sicurezza sul lavoro sociali Percentuale di lavoratori totali rappresentati nei GRI 403-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    }
+}

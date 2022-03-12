@@ -1,0 +1,523 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "122.txt",
+        "context_before": "GRI 103: Management approach 103-1 Motivations and boundaries of material themes Risk management 103-2 Management tools 103-3 Management evaluations 118",
+        "context_after": ": economic performance 2016 201-1 Generated and distributed economic value 41 Research, GRI 103: Management approach 103-1 Motivations and boundaries",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": {
+        "page": "122.txt",
+        "context_before": "Management approach 103-1 Motivations and boundaries of material themes Relations with 103-2 Management tools business partners 103-3 Management evaluations 118",
+        "context_after": ": anti-competitive behavior 2016 206-1: Legal actions for non-competitive behavior, anti-trust, 46 monopolistic activities and following outcome GRI 103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "122.txt",
+        "context_before": "Motivations and boundaries of material themes Risk management 103-2 Management tools 103-3 Management evaluations 118 GRI 201: economic performance 2016",
+        "context_after": "Generated and distributed economic value 41 Research, GRI 103: Management approach 103-1 Motivations and boundaries of material themes development and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": {
+        "page": "122.txt",
+        "context_before": "boundaries of material themes development and 103-2 Management tools technological 103-3 Management evaluations 118 innovation GRI 201: economic performance 2016",
+        "context_after": "Financial assistance received from the government 45 GRI 103: Management approach 103-1 Motivations and boundaries of material themes Relations with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": {
+        "page": "122.txt",
+        "context_before": "boundaries of material themes Relations with 103-2 Management tools business partners 103-3 Management evaluations 118 GRI 206: anti-competitive behavior 2016",
+        "context_after": ": Legal actions for non-competitive behavior, anti-trust, 46 monopolistic activities and following outcome GRI 103: Management approach 103-1 Motivations and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "122.txt",
+        "context_before": "GRI 103: Management approach 103-1 Motivations and boundaries of material themes 103-2 Management tools Energy 103-3 Management evaluations 120 consumption",
+        "context_after": ": Energy 2016 302-1: Energy consumption within the organization 80 302-4: Reduction of energy consumption 81 GRI 103: Management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "122.txt",
+        "context_before": "material themes 103-2 Management tools Protection of water 103-3 Management evaluations 120 resources 303-1: Water as a common resource 89",
+        "context_after": ": Water and Euents 2018 303-2 Management of impacts associated with water euents 89 303-3 Water drawn by sources of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "122.txt",
+        "context_before": "83 GRI 103: Management approach 103-1 Motivations and boundaries of material themes 103-2 Management tools Biodiversity 103-3 Management evaluations 120",
+        "context_after": ": Biodiversity 2016 304-1: Location and size of land owned, rented or managed in or 93 near protected areas or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "122.txt",
+        "context_before": "103: Management approach 103-1 Motivations and boundaries of material themes 103-2 Management tools Emissions in 103-3 Management evaluations 120 atmosphere",
+        "context_after": ": Emissions 2016 305-1: Direct greenhouse gas emissions 82 305-7: NOX, Sox and other signicant emissions 83 GRI 103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "123.txt",
+        "context_before": "GRI 103: Management approach 103-1 Motivations and boundaries of material themes Waste 103-2 Management tools management 103-3 Management evaluation 120",
+        "context_after": ": waste and discharge 2016 306-2: Total weight of waste by type and method of disposal 87 GRI 103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "124.txt",
+        "context_before": "safety GRI 103: Management approach 103-1 Motivations and boundaries of material themes 103-2 Management tools Compliance 103-3 Management evaluation 118",
+        "context_after": ": environmental Compliance 2016 307-1 Non-compliance with environmental laws and regulations 50 GRI 419: socio-economic compliance 2016 419-1 Non-compliance on",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "124.txt",
+        "context_before": "laws and regulations in the 50 socio-economic eld GRI 103: Management approach 103-1 Motivations and boundaries of material themes Responsible",
+        "context_after": ": Environmental assessments on 103-2 Management tools management of suppliers 2016 103-3 Management evaluation 118 the supply chain GRI 414:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "122.txt",
+        "context_before": "103-1 Motivations and boundaries of material themes 103-2 Management tools Energy 103-3 Management evaluations 120 consumption GRI 302: Energy 2016",
+        "context_after": ": Energy consumption within the organization 80 302-4: Reduction of energy consumption 81 GRI 103: Management approach 103-1 Motivations and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "93.txt",
+        "context_before": "5.7 ADJUSTMENTS",
+        "context_after": ": The method of indicator calculation has changed in the reporting year. In the previous report, business units energy consumption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "122.txt",
+        "context_before": "Management approach 103-1 Motivations and boundaries of material themes 103-2 Management tools Protection of water 103-3 Management evaluations 120 resources",
+        "context_after": ": Water as a common resource 89 GRI 303: Water and Euents 2018 303-2 Management of impacts associated with water",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "122.txt",
+        "context_before": "of water 103-3 Management evaluations 120 resources 303-1: Water as a common resource 89 GRI 303: Water and Euents 2018",
+        "context_after": "Management of impacts associated with water euents 89 303-3 Water drawn by sources of supply 90 303-4 Total water drains",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-3": {
+        "page": "122.txt",
+        "context_before": "as a common resource 89 GRI 303: Water and Euents 2018 303-2 Management of impacts associated with water euents 89",
+        "context_after": "Water drawn by sources of supply 90 303-4 Total water drains for quality and destination 91 GRI 103: Management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-4": {
+        "page": "122.txt",
+        "context_before": "and Euents 2018 303-2 Management of impacts associated with water euents 89 303-3 Water drawn by sources of supply 90",
+        "context_after": "Total water drains for quality and destination 91 GRI 103: Management approach 103-1 Motivations and boundaries of material themes 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-5": false,
+    "304-1": {
+        "page": "122.txt",
+        "context_before": "approach 103-1 Motivations and boundaries of material themes 103-2 Management tools Biodiversity 103-3 Management evaluations 120 GRI 304: Biodiversity 2016",
+        "context_after": ": Location and size of land owned, rented or managed in or 93 near protected areas or areas of high",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "122.txt",
+        "context_before": "Motivations and boundaries of material themes 103-2 Management tools Emissions in 103-3 Management evaluations 120 atmosphere GRI 305: Emissions 2016",
+        "context_after": ": Direct greenhouse gas emissions 82 305-7: NOX, Sox and other signicant emissions 83 GRI 103: Management approach 103-1 Motivations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": false,
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": {
+        "page": "93.txt",
+        "context_before": "of all the machine hours worked in there. As a consequence, no reference values were recorded in the previous report.",
+        "context_after": ": The emission factor considered for CO gas emissions calculation (0.11) is not correct. Calculations for 2018 were used with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "119.txt",
+        "context_before": "adopts tools for assessing and quantifying energy and environmental loads and potential resources Any related impacts could have effects both",
+        "context_after": "Total water drains for quality impacts of products and processes through: and destination within and outside the Group.  External",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "123.txt",
+        "context_before": "and boundaries of material themes Waste 103-2 Management tools management 103-3 Management evaluation 120 GRI 306: waste and discharge 2016",
+        "context_after": ": Total weight of waste by type and method of disposal 87 GRI 103: Management approach 103-1 Motivations and boundaries",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "124.txt",
+        "context_before": "103-1 Motivations and boundaries of material themes 103-2 Management tools Compliance 103-3 Management evaluation 118 GRI 307: environmental Compliance 2016",
+        "context_after": "Non-compliance with environmental laws and regulations 50 GRI 419: socio-economic compliance 2016 419-1 Non-compliance on laws and regulations in the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "117.txt",
+        "context_before": "2016 Group COMPLAINTS MECHANISMS The mechanisms though which it is possible to place any complaints related to this macro-theme are",
+        "context_after": "New suppliers evaluated on The involvement of the supply chain by sharing GRI 308: Supplier the basis of environmental criteria",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "123.txt",
+        "context_before": "103: Management approach 103-1 Motivations and boundaries of material themes Wellbeing of 103-2 Management tools collaborators 103-3 Management evaluation 119",
+        "context_after": ": employment 2016 401-1: Total number of recruitment and turnover rate 59 401-2 Same benets of full time workers are",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "123.txt",
+        "context_before": "103: Management approach 103-1 Motivations and boundaries of material themes 103-2 Management tools 103-3 Management evaluation 119 Health and safety",
+        "context_after": ": health and safety of workers 2018 403-1: Health and safety management system 49 at work 403-2 Hazard identication, risk",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "123.txt",
+        "context_before": "Management approach 103-1 Motivations and boundaries of material themes 103-2 Management tools Training and 103-3 Management evaluation 119 development of",
+        "context_after": ": training and education 2016 404-1: Average training hours per employee 69 personnel 404-3: Percentage of employees receiving periodic evaluations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "123.txt",
+        "context_before": "Management approach 103-1 Motivations and boundaries of material themes Equal opportunities 103-2 Management tools and diversity 103-3 Management evaluation 119",
+        "context_after": ": diversity and equal opportunities 2016 405-1: Diversity in the governing bodies and among workers 72 GRI 103: Management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "123.txt",
+        "context_before": "GRI 103: Management approach 103-1 Motivations and boundaries of material themes Local communities 103-2 Management tools 103-3 Management evaluation 118",
+        "context_after": ": local communities 2016 413-1 Local community involvement operations, impact 54 assessments and development programs PAGE 124",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "124.txt",
+        "context_before": "Responsible GRI 308: Environmental assessments on 103-2 Management tools management of suppliers 2016 103-3 Management evaluation 118 the supply chain",
+        "context_after": ": Social assessments on suppliers 308-New suppliers selected using environmental criteria 53 414-1 New suppliers selected using social criteria 53",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "124.txt",
+        "context_before": "approach 103-1 Motivations and boundaries of material themes Customer 103-2 Management tools satisfaction and 103-3 Management evaluation 118 product quality",
+        "context_after": ": customer health and safety 2016 416-1 Assessment on the impacts of products and services on 47 health and safety",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": {
+        "page": "124.txt",
+        "context_before": "Management tools Compliance 103-3 Management evaluation 118 GRI 307: environmental Compliance 2016 307-1 Non-compliance with environmental laws and regulations 50",
+        "context_after": ": socio-economic compliance 2016 419-1 Non-compliance on laws and regulations in the 50 socio-economic eld GRI 103: Management approach 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "123.txt",
+        "context_before": "Motivations and boundaries of material themes Wellbeing of 103-2 Management tools collaborators 103-3 Management evaluation 119 GRI 401: employment 2016",
+        "context_after": ": Total number of recruitment and turnover rate 59 401-2 Same benets of full time workers are provided to part",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "123.txt",
+        "context_before": "Management tools collaborators 103-3 Management evaluation 119 GRI 401: employment 2016 401-1: Total number of recruitment and turnover rate 59",
+        "context_after": "Same benets of full time workers are provided to part time 62 workers GRI 103: Management approach 103-1 Motivations and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": false,
+    "403-1": {
+        "page": "123.txt",
+        "context_before": "material themes 103-2 Management tools 103-3 Management evaluation 119 Health and safety GRI 403: health and safety of workers 2018",
+        "context_after": ": Health and safety management system 49 at work 403-2 Hazard identication, risk assessment and investigation on 63 accidents 403-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "123.txt",
+        "context_before": "Health and safety GRI 403: health and safety of workers 2018 403-1: Health and safety management system 49 at work",
+        "context_after": "Hazard identication, risk assessment and investigation on 63 accidents 403-3 Occupational medicine 65 403-4 Participation, consultation and communication on health",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "123.txt",
+        "context_before": "2018 403-1: Health and safety management system 49 at work 403-2 Hazard identication, risk assessment and investigation on 63 accidents",
+        "context_after": "Occupational medicine 65 403-4 Participation, consultation and communication on health and 64 safety 403-5 Training on health and safety 65",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "123.txt",
+        "context_before": "safety management system 49 at work 403-2 Hazard identication, risk assessment and investigation on 63 accidents 403-3 Occupational medicine 65",
+        "context_after": "Participation, consultation and communication on health and 64 safety 403-5 Training on health and safety 65 403-6 Promotion of workers'",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": {
+        "page": "123.txt",
+        "context_before": "assessment and investigation on 63 accidents 403-3 Occupational medicine 65 403-4 Participation, consultation and communication on health and 64 safety",
+        "context_after": "Training on health and safety 65 403-6 Promotion of workers' health 65 403-7 Prevention and mitigation of health impacts and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-6": {
+        "page": "123.txt",
+        "context_before": "Occupational medicine 65 403-4 Participation, consultation and communication on health and 64 safety 403-5 Training on health and safety 65",
+        "context_after": "Promotion of workers' health 65 403-7 Prevention and mitigation of health impacts and safety 63 directly connected to business relationships",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": {
+        "page": "123.txt",
+        "context_before": "and communication on health and 64 safety 403-5 Training on health and safety 65 403-6 Promotion of workers' health 65",
+        "context_after": "Prevention and mitigation of health impacts and safety 63 directly connected to business relationships 403-9 Accidents related to work 66",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-8": false,
+    "403-9": {
+        "page": "123.txt",
+        "context_before": "Promotion of workers' health 65 403-7 Prevention and mitigation of health impacts and safety 63 directly connected to business relationships",
+        "context_after": "Accidents related to work 66 GRI 103: Management approach 103-1 Motivations and boundaries of material themes 103-2 Management tools Training",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-10": false,
+    "404-1": {
+        "page": "123.txt",
+        "context_before": "of material themes 103-2 Management tools Training and 103-3 Management evaluation 119 development of GRI 404: training and education 2016",
+        "context_after": ": Average training hours per employee 69 personnel 404-3: Percentage of employees receiving periodic evaluations on 71 results and career",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "123.txt",
+        "context_before": "103-3 Management evaluation 119 development of GRI 404: training and education 2016 404-1: Average training hours per employee 69 personnel",
+        "context_after": ": Percentage of employees receiving periodic evaluations on 71 results and career development GRI 103: Management approach 103-1 Motivations and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "123.txt",
+        "context_before": "material themes Equal opportunities 103-2 Management tools and diversity 103-3 Management evaluation 119 GRI 405: diversity and equal opportunities 2016",
+        "context_after": ": Diversity in the governing bodies and among workers 72 GRI 103: Management approach 103-1 Motivations and boundaries of material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "123.txt",
+        "context_before": "Motivations and boundaries of material themes Local communities 103-2 Management tools 103-3 Management evaluation 118 GRI 413: local communities 2016",
+        "context_after": "Local community involvement operations, impact 54 assessments and development programs PAGE 124",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": {
+        "page": "124.txt",
+        "context_before": "103-3 Management evaluation 118 the supply chain GRI 414: Social assessments on suppliers 308-New suppliers selected using environmental criteria 53",
+        "context_after": "New suppliers selected using social criteria 53 Research, develop- GRI 103: Management approach 103-1 Motivations and boundaries of material themes",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "124.txt",
+        "context_before": "themes Customer 103-2 Management tools satisfaction and 103-3 Management evaluation 118 product quality GRI 416: customer health and safety 2016",
+        "context_after": "Assessment on the impacts of products and services on 47 health and safety 416-2 Non-compliance events regarding the impacts of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "124.txt",
+        "context_before": "416: customer health and safety 2016 416-1 Assessment on the impacts of products and services on 47 health and safety",
+        "context_after": "Non-compliance events regarding the impacts of products 47 and services on health and safety GRI 103: Management approach 103-1 Motivations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "124.txt",
+        "context_before": "evaluation 118 GRI 307: environmental Compliance 2016 307-1 Non-compliance with environmental laws and regulations 50 GRI 419: socio-economic compliance 2016",
+        "context_after": "Non-compliance on laws and regulations in the 50 socio-economic eld GRI 103: Management approach 103-1 Motivations and boundaries of material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

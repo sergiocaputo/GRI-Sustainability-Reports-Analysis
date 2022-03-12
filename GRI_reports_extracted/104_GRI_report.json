@@ -1,0 +1,637 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "112.txt",
+        "context_before": "Implicazioni finanziarie e altri rischi Economic 52, 69,",
+        "context_after": "201-2 e opportunit legate al - G4-EC2 Performance 70, 71 cambiamento climatico Percentuale di senior GRI 202 Market Presence 202-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "112.txt",
+        "context_before": "Economic 52, 69, GRI 201 201-2 e opportunit legate al - G4-EC2 Performance 70, 71 cambiamento climatico Percentuale di senior",
+        "context_after": "Market Presence 202-2 management assunto nella 32 - G4-EC6 comunit locale Indirect Economic Investimenti in infrastrutture e GRI 203 203-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "115.txt",
+        "context_before": "il rispetto degli ambientale G4-EN11, G4-EN29 GRI 304, GRI 307 ambientale standard ambientali sistema di accrescere le economie economica G4-EC7",
+        "context_after": "gestione gestionali incrementare i benefici benefici per il reddituali per il cliente finale economica G4-EC7 GRI 203 cliente finale nell'ambito",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "112.txt",
+        "context_before": "Impatti indiretti significativi dal GRI 203 203-2 99 - G4-EC8 Impacts punto di vista economico Procurement Percentuale di spesa concentrata",
+        "context_after": "204-1 66 - G4-EC9 Practices in fornitori locali Materie prime utilizzate per peso e GRI 301 Materials 301-1 70, 74",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "114.txt",
+        "context_before": "impatti negativi, potenziali o effettivi, sulle GRI 413 Local Communities 413-2 91 - G4-SO2 comunit locali Comunicazione e formazione sulle",
+        "context_after": "Anti-corruption 205-2 politiche dell'anti-corruzione e 91 - G4-SO4 procedure GRI 415 Public Policy 415-1 Contributi politici 40, 41 - G4-SO6",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "114.txt",
+        "context_before": "- G4-SO4 procedure GRI 415 Public Policy 415-1 Contributi politici 40, 41 - G4-SO6 Anti-competitive Azioni legali riferite a concorrenza",
+        "context_after": "206-1 91 - G4-SO7 Behavior sleale, antitrust e rispettivi esiti Valore monetario delle sanzioni significative e numero totale di Socioeconomic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": {
+        "page": "112.txt",
+        "context_before": "Implicazioni finanziarie e altri rischi Economic 52, 69, GRI 201",
+        "context_after": "e opportunit legate al - G4-EC2 Performance 70, 71 cambiamento climatico Percentuale di senior GRI 202 Market Presence 202-2 management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": {
+        "page": "112.txt",
+        "context_before": "201 201-2 e opportunit legate al - G4-EC2 Performance 70, 71 cambiamento climatico Percentuale di senior GRI 202 Market Presence",
+        "context_after": "management assunto nella 32 - G4-EC6 comunit locale Indirect Economic Investimenti in infrastrutture e GRI 203 203-1 99 - G4-EC7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "112.txt",
+        "context_before": "202 Market Presence 202-2 management assunto nella 32 - G4-EC6 comunit locale Indirect Economic Investimenti in infrastrutture e GRI 203",
+        "context_after": "99 - G4-EC7 Impacts servizi forniti Indirect Economic Impatti indiretti significativi dal GRI 203 203-2 99 - G4-EC8 Impacts punto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "112.txt",
+        "context_before": "in infrastrutture e GRI 203 203-1 99 - G4-EC7 Impacts servizi forniti Indirect Economic Impatti indiretti significativi dal GRI 203",
+        "context_after": "99 - G4-EC8 Impacts punto di vista economico Procurement Percentuale di spesa concentrata GRI 204 204-1 66 - G4-EC9 Practices",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "112.txt",
+        "context_before": "significativi dal GRI 203 203-2 99 - G4-EC8 Impacts punto di vista economico Procurement Percentuale di spesa concentrata GRI 204",
+        "context_after": "66 - G4-EC9 Practices in fornitori locali Materie prime utilizzate per peso e GRI 301 Materials 301-1 70, 74 -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "114.txt",
+        "context_before": "o effettivi, sulle GRI 413 Local Communities 413-2 91 - G4-SO2 comunit locali Comunicazione e formazione sulle GRI 205 Anti-corruption",
+        "context_after": "politiche dell'anti-corruzione e 91 - G4-SO4 procedure GRI 415 Public Policy 415-1 Contributi politici 40, 41 - G4-SO6 Anti-competitive Azioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": false,
+    "206-1": {
+        "page": "114.txt",
+        "context_before": "procedure GRI 415 Public Policy 415-1 Contributi politici 40, 41 - G4-SO6 Anti-competitive Azioni legali riferite a concorrenza GRI 206",
+        "context_after": "91 - G4-SO7 Behavior sleale, antitrust e rispettivi esiti Valore monetario delle sanzioni significative e numero totale di Socioeconomic GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "112.txt",
+        "context_before": "Percentuale di spesa concentrata GRI 204 204-1 66 - G4-EC9 Practices in fornitori locali Materie prime utilizzate per peso e",
+        "context_after": "Materials 301-1 70, 74 - G4-EN1 volume Consumo di energia all'interno GRI 302 Energy 302-1 75, 76 - G4-EN3 dell'organizzazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "112.txt",
+        "context_before": "locali Materie prime utilizzate per peso e GRI 301 Materials 301-1 70, 74 - G4-EN1 volume Consumo di energia all'interno",
+        "context_after": "Energy 302-1 75, 76 - G4-EN3 dell'organizzazione GRI 302 Energy 302-4 Riduzione del consumo energetici 76 - G4-EN6 GRI 303",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "112.txt",
+        "context_before": "GRI 302 Energy 302-1 75, 76 - G4-EN3 dell'organizzazione GRI 302 Energy 302-4 Riduzione del consumo energetici 76 - G4-EN6",
+        "context_after": "Water 303-3 Acqua riciclata e riutilizzata 76 - G4-EN10 Impatti significativi delle attivit , GRI 304 Biodiversity 304-2 dei prodotti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "115.txt",
+        "context_before": "dell'energia ambientale sull'energia G4-SO2 GRI 413 rinnovabile attraverso rinnovabile campagne e incontri sostenibilit assicurare il rispetto degli ambientale G4-EN11, G4-EN29",
+        "context_after": ", GRI 307 ambientale standard ambientali sistema di accrescere le economie economica G4-EC7 GRI 203 gestione gestionali incrementare i benefici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305": {
+        "page": "112.txt",
+        "context_before": "Biodiversity 304-2 dei prodotti e dei servizi sulla 69, 70, 71 - G4-EN12 biodiversit Emissioni dirette di gas a effetto",
+        "context_after": "Emissions 305-1 73, 74 - G4-EN15 serra Peso totale dei rifiuti per tipologia GRI 306 Effluents and Waste 306-2 73",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "112.txt",
+        "context_before": "dirette di gas a effetto GRI 305 Emissions 305-1 73, 74 - G4-EN15 serra Peso totale dei rifiuti per tipologia",
+        "context_after": "Effluents and Waste 306-2 73 - G4-EN23 e per metodi di smaltimento Valore monetario delle multe significative e numero delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "115.txt",
+        "context_before": "sull'energia G4-SO2 GRI 413 rinnovabile attraverso rinnovabile campagne e incontri sostenibilit assicurare il rispetto degli ambientale G4-EN11, G4-EN29 GRI 304,",
+        "context_after": "ambientale standard ambientali sistema di accrescere le economie economica G4-EC7 GRI 203 gestione gestionali incrementare i benefici benefici per il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": {
+        "page": "112.txt",
+        "context_before": "307-1 37 - G4-EN29 Compliance per mancato rispetto a regolamenti e leggi in materia ambientale Supplier Impatti ambientali negativi sulla",
+        "context_after": "Environmental 308-2 catena di fornitura e azioni 69, 70, 71 - G4-EN33 Assessment intraprese Management Informativa sulle modalit di GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "112.txt",
+        "context_before": "concentrata GRI 204 204-1 66 - G4-EC9 Practices in fornitori locali Materie prime utilizzate per peso e GRI 301 Materials",
+        "context_after": "70, 74 - G4-EN1 volume Consumo di energia all'interno GRI 302 Energy 302-1 75, 76 - G4-EN3 dell'organizzazione GRI 302",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "112.txt",
+        "context_before": "utilizzate per peso e GRI 301 Materials 301-1 70, 74 - G4-EN1 volume Consumo di energia all'interno GRI 302 Energy",
+        "context_after": "75, 76 - G4-EN3 dell'organizzazione GRI 302 Energy 302-4 Riduzione del consumo energetici 76 - G4-EN6 GRI 303 Water 303-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "112.txt",
+        "context_before": "74 - G4-EN1 volume Consumo di energia all'interno GRI 302 Energy 302-1 75, 76 - G4-EN3 dell'organizzazione GRI 302 Energy",
+        "context_after": "Riduzione del consumo energetici 76 - G4-EN6 GRI 303 Water 303-3 Acqua riciclata e riutilizzata 76 - G4-EN10 Impatti significativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": {
+        "page": "112.txt",
+        "context_before": "302-1 75, 76 - G4-EN3 dell'organizzazione GRI 302 Energy 302-4 Riduzione del consumo energetici 76 - G4-EN6 GRI 303 Water",
+        "context_after": "Acqua riciclata e riutilizzata 76 - G4-EN10 Impatti significativi delle attivit , GRI 304 Biodiversity 304-2 dei prodotti e dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": {
+        "page": "112.txt",
+        "context_before": "G4-EN6 GRI 303 Water 303-3 Acqua riciclata e riutilizzata 76 - G4-EN10 Impatti significativi delle attivit , GRI 304 Biodiversity",
+        "context_after": "dei prodotti e dei servizi sulla 69, 70, 71 - G4-EN12 biodiversit Emissioni dirette di gas a effetto GRI 305",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "112.txt",
+        "context_before": "prodotti e dei servizi sulla 69, 70, 71 - G4-EN12 biodiversit Emissioni dirette di gas a effetto GRI 305 Emissions",
+        "context_after": "73, 74 - G4-EN15 serra Peso totale dei rifiuti per tipologia GRI 306 Effluents and Waste 306-2 73 - G4-EN23",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": false,
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "112.txt",
+        "context_before": "GRI 305 Emissions 305-1 73, 74 - G4-EN15 serra Peso totale dei rifiuti per tipologia GRI 306 Effluents and Waste",
+        "context_after": "73 - G4-EN23 e per metodi di smaltimento Valore monetario delle multe significative e numero delle Environmental sanzioni non monetarie",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "112.txt",
+        "context_before": "G4-EN23 e per metodi di smaltimento Valore monetario delle multe significative e numero delle Environmental sanzioni non monetarie GRI 307",
+        "context_after": "37 - G4-EN29 Compliance per mancato rispetto a regolamenti e leggi in materia ambientale Supplier Impatti ambientali negativi sulla GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": {
+        "page": "112.txt",
+        "context_before": "G4-EN29 Compliance per mancato rispetto a regolamenti e leggi in materia ambientale Supplier Impatti ambientali negativi sulla GRI 308 Environmental",
+        "context_after": "catena di fornitura e azioni 69, 70, 71 - G4-EN33 Assessment intraprese Management Informativa sulle modalit di GRI 103 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "112.txt",
+        "context_before": "intraprese Management Informativa sulle modalit di GRI 103 103-2 69 - G4-EN34 Approach gestione dell'organizzazione Tassi di nuova assunzione e",
+        "context_after": "Employment 401-1 79 - G4-LA1 turnover GRI 401 Employment 401-3 Congedi parentali 89 - G4-LA3 Periodo minimo di notifica Labor/Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "112.txt",
+        "context_before": "Employment 401-1 79 - G4-LA1 turnover GRI 401 Employment 401-3 Congedi parentali 89 - G4-LA3 Periodo minimo di notifica Labor/Management",
+        "context_after": "402-1 riguardo ai cambiamenti 78 - G4-LA4 Relations organizzativi 112",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "113.txt",
+        "context_before": "Tasso di infortuni sul lavoro, di Occupational Health malattia, giornate di lavoro perse,",
+        "context_after": "403-2 89 - G4-LA6 and Safety assenteismo e numero totale di decessi Training and Ore medie di formazione annua GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "113.txt",
+        "context_before": "403 403-2 89 - G4-LA6 and Safety assenteismo e numero totale di decessi Training and Ore medie di formazione annua",
+        "context_after": "404-1 86, 87 - G4-LA9 Education per dipendente Composizione degli organi di Diversity and Equal GRI 405 405-1 governo e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "113.txt",
+        "context_before": "di formazione annua GRI 404 404-1 86, 87 - G4-LA9 Education per dipendente Composizione degli organi di Diversity and Equal",
+        "context_after": "405-1 governo e del gruppo di 32 - G4-LA12 Opportunity dipendenti Impatti sociali negativi sulla Supplier Social GRI 414 414-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "113.txt",
+        "context_before": "i diritti umani o sulle - G4-HR2 Assessment 89 procedure Numero totale di episodi legati a pratiche discriminatorie e azioni",
+        "context_after": "Non-discrimination 406-1 79 - G4-HR3 correttive intraprese Attivit e fornitori nei quali la Freedom of libert di associazione e la",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "113.txt",
+        "context_before": "Non-discrimination 406-1 79 - G4-HR3 correttive intraprese Attivit e fornitori nei quali la Freedom of libert di associazione e la",
+        "context_after": "Association and 407-1 66 - G4-HR4 contrattazione collettiva pu Collective Bargaining essere a rischio Attivit e fornitori con un GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": {
+        "page": "113.txt",
+        "context_before": "407 Association and 407-1 66 - G4-HR4 contrattazione collettiva pu Collective Bargaining essere a rischio Attivit e fornitori con un",
+        "context_after": "Child Labor 408-1 significativo rischio di incidenti sul 66 - G4-HR5 lavoro minorile Attivit e fornitori con un Forced or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409": {
+        "page": "113.txt",
+        "context_before": "Child Labor 408-1 significativo rischio di incidenti sul 66 - G4-HR5 lavoro minorile Attivit e fornitori con un Forced or",
+        "context_after": "409-1 significativo rischio di incidenti per 66 - G4-HR6 Compulsory Labor lavoro forzato Formazione in sicurezza sul lavoro GRI 410",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 410": {
+        "page": "113.txt",
+        "context_before": "GRI 409 409-1 significativo rischio di incidenti per 66 - G4-HR6 Compulsory Labor lavoro forzato Formazione in sicurezza sul lavoro",
+        "context_after": "Security Practices 410-1 legata ai diritti umani e ad altre 89 - G4-HR7 procedure Rights of Indigenous Incidenti per violazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 411": {
+        "page": "113.txt",
+        "context_before": "410-1 legata ai diritti umani e ad altre 89 - G4-HR7 procedure Rights of Indigenous Incidenti per violazione dei diritti",
+        "context_after": "411-1 91 - G4-HR8 Peoples della popolazione locale Attivit sottoposte a controlli e/o Human Rights GRI 412 412-1 valutazioni di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412": {
+        "page": "113.txt",
+        "context_before": "di GRI 103 103-2 69, 70, 71 - G4-LA16 Approach gestione dell'organizzazione Formazione dei dipendenti sulle Human Rights 86, 87,",
+        "context_after": "412-2 politiche per i diritti umani o sulle - G4-HR2 Assessment 89 procedure Numero totale di episodi legati a pratiche",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "115.txt",
+        "context_before": "GRI area obiettivo specifico generale G4 Standard 2016 migliorare il dialogo con la coinvolgimento sociale comunit per aumentare la G4-SO2",
+        "context_after": "comunit fiducia avviare un processo di coinvolgimento dialogo diretto con gli sociale G4-24, G4-25 GRI 102 stakeholder stakeholder, impostare un",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "113.txt",
+        "context_before": "Equal GRI 405 405-1 governo e del gruppo di 32 - G4-LA12 Opportunity dipendenti Impatti sociali negativi sulla Supplier Social",
+        "context_after": "414-2 catena di fornitura e azioni 69, 70, 71 - G4-LA15 Assessment intraprese Management Informativa sulle modalit di GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": {
+        "page": "114.txt",
+        "context_before": "91 - G4-SO2 comunit locali Comunicazione e formazione sulle GRI 205 Anti-corruption 205-2 politiche dell'anti-corruzione e 91 - G4-SO4 procedure",
+        "context_after": "Public Policy 415-1 Contributi politici 40, 41 - G4-SO6 Anti-competitive Azioni legali riferite a concorrenza GRI 206 206-1 91 -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "114.txt",
+        "context_before": "103 103-2 91 - G4-SO11 Approach riguardo agli impatti sulle comunit Casi di non conformit a Customer Health and regolamenti",
+        "context_after": "416-2 87 - G4-PR2 Safety e codici volontari riguardanti gli impatti sulla salute e sicurezza 102-43 Approccio al coinvolgimento degli",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "114.txt",
+        "context_before": "General Disclosures 102-2 Attivit , marchi, prodotti e servizi - G4-PR6 62, 64 Incidenti sulla non conformit in Marketing and",
+        "context_after": "417-3 merito alle comunicazioni di 91 - G4-PR7 Labeling marketing Rendicontare il numero di reclami fondati riguardanti le violazioni GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "114.txt",
+        "context_before": "417 417-3 merito alle comunicazioni di 91 - G4-PR7 Labeling marketing Rendicontare il numero di reclami fondati riguardanti le violazioni",
+        "context_after": "Customer Privacy 418-1 91 - G4-PR8 della privacy e la perdita dei dati del cliente 114",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "114.txt",
+        "context_before": "206-1 91 - G4-SO7 Behavior sleale, antitrust e rispettivi esiti Valore monetario delle sanzioni significative e numero totale di Socioeconomic",
+        "context_after": "419-1 sanzioni non 91 - G4-SO8 Compliance monetarie per non conformit a leggi e regolamenti Informativa sulle modalit di Management",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "112.txt",
+        "context_before": "sulle modalit di GRI 103 103-2 69 - G4-EN34 Approach gestione dell'organizzazione Tassi di nuova assunzione e GRI 401 Employment",
+        "context_after": "79 - G4-LA1 turnover GRI 401 Employment 401-3 Congedi parentali 89 - G4-LA3 Periodo minimo di notifica Labor/Management GRI 402",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": {
+        "page": "112.txt",
+        "context_before": "G4-EN34 Approach gestione dell'organizzazione Tassi di nuova assunzione e GRI 401 Employment 401-1 79 - G4-LA1 turnover GRI 401 Employment",
+        "context_after": "Congedi parentali 89 - G4-LA3 Periodo minimo di notifica Labor/Management GRI 402 402-1 riguardo ai cambiamenti 78 - G4-LA4 Relations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": {
+        "page": "112.txt",
+        "context_before": "79 - G4-LA1 turnover GRI 401 Employment 401-3 Congedi parentali 89 - G4-LA3 Periodo minimo di notifica Labor/Management GRI 402",
+        "context_after": "riguardo ai cambiamenti 78 - G4-LA4 Relations organizzativi 112",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": false,
+    "403-2": {
+        "page": "113.txt",
+        "context_before": "Tasso di infortuni sul lavoro, di Occupational Health malattia, giornate di lavoro perse, GRI 403",
+        "context_after": "89 - G4-LA6 and Safety assenteismo e numero totale di decessi Training and Ore medie di formazione annua GRI 404",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "113.txt",
+        "context_before": "89 - G4-LA6 and Safety assenteismo e numero totale di decessi Training and Ore medie di formazione annua GRI 404",
+        "context_after": "86, 87 - G4-LA9 Education per dipendente Composizione degli organi di Diversity and Equal GRI 405 405-1 governo e del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "113.txt",
+        "context_before": "annua GRI 404 404-1 86, 87 - G4-LA9 Education per dipendente Composizione degli organi di Diversity and Equal GRI 405",
+        "context_after": "governo e del gruppo di 32 - G4-LA12 Opportunity dipendenti Impatti sociali negativi sulla Supplier Social GRI 414 414-2 catena",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": {
+        "page": "113.txt",
+        "context_before": "o sulle - G4-HR2 Assessment 89 procedure Numero totale di episodi legati a pratiche discriminatorie e azioni GRI 406 Non-discrimination",
+        "context_after": "79 - G4-HR3 correttive intraprese Attivit e fornitori nei quali la Freedom of libert di associazione e la GRI 407",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "113.txt",
+        "context_before": "G4-HR3 correttive intraprese Attivit e fornitori nei quali la Freedom of libert di associazione e la GRI 407 Association and",
+        "context_after": "66 - G4-HR4 contrattazione collettiva pu Collective Bargaining essere a rischio Attivit e fornitori con un GRI 408 Child Labor",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "113.txt",
+        "context_before": "66 - G4-HR4 contrattazione collettiva pu Collective Bargaining essere a rischio Attivit e fornitori con un GRI 408 Child Labor",
+        "context_after": "significativo rischio di incidenti sul 66 - G4-HR5 lavoro minorile Attivit e fornitori con un Forced or GRI 409 409-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "113.txt",
+        "context_before": "408-1 significativo rischio di incidenti sul 66 - G4-HR5 lavoro minorile Attivit e fornitori con un Forced or GRI 409",
+        "context_after": "significativo rischio di incidenti per 66 - G4-HR6 Compulsory Labor lavoro forzato Formazione in sicurezza sul lavoro GRI 410 Security",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "410-1": {
+        "page": "113.txt",
+        "context_before": "rischio di incidenti per 66 - G4-HR6 Compulsory Labor lavoro forzato Formazione in sicurezza sul lavoro GRI 410 Security Practices",
+        "context_after": "legata ai diritti umani e ad altre 89 - G4-HR7 procedure Rights of Indigenous Incidenti per violazione dei diritti GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": {
+        "page": "113.txt",
+        "context_before": "ai diritti umani e ad altre 89 - G4-HR7 procedure Rights of Indigenous Incidenti per violazione dei diritti GRI 411",
+        "context_after": "91 - G4-HR8 Peoples della popolazione locale Attivit sottoposte a controlli e/o Human Rights GRI 412 412-1 valutazioni di impatto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-1": {
+        "page": "113.txt",
+        "context_before": "diritti GRI 411 411-1 91 - G4-HR8 Peoples della popolazione locale Attivit sottoposte a controlli e/o Human Rights GRI 412",
+        "context_after": "valutazioni di impatto relativi ai 91 - G4-HR9 Assessment diritti umani. Management Informativa sulle modalit di GRI 103 103-2 91",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "113.txt",
+        "context_before": "103 103-2 69, 70, 71 - G4-LA16 Approach gestione dell'organizzazione Formazione dei dipendenti sulle Human Rights 86, 87, GRI 412",
+        "context_after": "politiche per i diritti umani o sulle - G4-HR2 Assessment 89 procedure Numero totale di episodi legati a pratiche discriminatorie",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": false,
+    "413-1": false,
+    "413-2": {
+        "page": "114.txt",
+        "context_before": "Attivit con significativi impatti negativi, potenziali o effettivi, sulle GRI 413 Local Communities",
+        "context_after": "91 - G4-SO2 comunit locali Comunicazione e formazione sulle GRI 205 Anti-corruption 205-2 politiche dell'anti-corruzione e 91 - G4-SO4 procedure",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": {
+        "page": "113.txt",
+        "context_before": "405 405-1 governo e del gruppo di 32 - G4-LA12 Opportunity dipendenti Impatti sociali negativi sulla Supplier Social GRI 414",
+        "context_after": "catena di fornitura e azioni 69, 70, 71 - G4-LA15 Assessment intraprese Management Informativa sulle modalit di GRI 103 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "114.txt",
+        "context_before": "locali Comunicazione e formazione sulle GRI 205 Anti-corruption 205-2 politiche dell'anti-corruzione e 91 - G4-SO4 procedure GRI 415 Public Policy",
+        "context_after": "Contributi politici 40, 41 - G4-SO6 Anti-competitive Azioni legali riferite a concorrenza GRI 206 206-1 91 - G4-SO7 Behavior sleale,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": false,
+    "416-2": {
+        "page": "114.txt",
+        "context_before": "91 - G4-SO11 Approach riguardo agli impatti sulle comunit Casi di non conformit a Customer Health and regolamenti GRI 416",
+        "context_after": "87 - G4-PR2 Safety e codici volontari riguardanti gli impatti sulla salute e sicurezza 102-43 Approccio al coinvolgimento degli GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": false,
+    "417-2": false,
+    "417-3": {
+        "page": "114.txt",
+        "context_before": "102-2 Attivit , marchi, prodotti e servizi - G4-PR6 62, 64 Incidenti sulla non conformit in Marketing and GRI 417",
+        "context_after": "merito alle comunicazioni di 91 - G4-PR7 Labeling marketing Rendicontare il numero di reclami fondati riguardanti le violazioni GRI 418",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "114.txt",
+        "context_before": "comunicazioni di 91 - G4-PR7 Labeling marketing Rendicontare il numero di reclami fondati riguardanti le violazioni GRI 418 Customer Privacy",
+        "context_after": "91 - G4-PR8 della privacy e la perdita dei dati del cliente 114",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "114.txt",
+        "context_before": "- G4-SO7 Behavior sleale, antitrust e rispettivi esiti Valore monetario delle sanzioni significative e numero totale di Socioeconomic GRI 419",
+        "context_after": "sanzioni non 91 - G4-SO8 Compliance monetarie per non conformit a leggi e regolamenti Informativa sulle modalit di Management gestione",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    }
+}

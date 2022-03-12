@@ -1,0 +1,643 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "98.txt",
+        "context_before": "(GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (",
+        "context_after": "-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "98.txt",
+        "context_before": "ECONOMICA (GRI 201-1) PRATICHE DI APPROVVIGIONAMENTO (GRI 204-1) CULTURA ED EDUCAZIONE FINANZIARIA APPROCCIO GESTIONALE (GRI 103) IMPATTI ECONOMICI INDIRETTI (",
+        "context_after": "-1) DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (GRI 401-1) SVILUPPO DEL WELFARE APPROCCIO GESTIONALE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 204": {
+        "page": "98.txt",
+        "context_before": "SOSTEGNO ALLE COMUNIT LOCALI E SVILUPPO APPROCCIO GESTIONALE (GRI 103) DEL TERRITORIO PERFORMANCE ECONOMICA (GRI 201-1) PRATICHE DI APPROVVIGIONAMENTO (",
+        "context_after": "-1) CULTURA ED EDUCAZIONE FINANZIARIA APPROCCIO GESTIONALE (GRI 103) IMPATTI ECONOMICI INDIRETTI (GRI 203-1) DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 205": {
+        "page": "98.txt",
+        "context_before": "gli indicatori GRI. TEMI MATERIALI Aspetto/Indicatori GRI Standards REPUTAZIONE E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (",
+        "context_after": "-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "98.txt",
+        "context_before": "(GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (",
+        "context_after": ") VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "98.txt",
+        "context_before": "ECONOMICA (GRI 201-1) PRATICHE DI APPROVVIGIONAMENTO (GRI 204-1) CULTURA ED EDUCAZIONE FINANZIARIA APPROCCIO GESTIONALE (GRI 103) IMPATTI ECONOMICI INDIRETTI (",
+        "context_after": ") DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (GRI 401-1) SVILUPPO DEL WELFARE APPROCCIO GESTIONALE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "98.txt",
+        "context_before": "SOSTEGNO ALLE COMUNIT LOCALI E SVILUPPO APPROCCIO GESTIONALE (GRI 103) DEL TERRITORIO PERFORMANCE ECONOMICA (GRI 201-1) PRATICHE DI APPROVVIGIONAMENTO (",
+        "context_after": ") CULTURA ED EDUCAZIONE FINANZIARIA APPROCCIO GESTIONALE (GRI 103) IMPATTI ECONOMICI INDIRETTI (GRI 203-1) DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": {
+        "page": "98.txt",
+        "context_before": "gli indicatori GRI. TEMI MATERIALI Aspetto/Indicatori GRI Standards REPUTAZIONE E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (",
+        "context_after": ";205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "98.txt",
+        "context_before": "(GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI",
+        "context_after": ") VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "98.txt",
+        "context_before": "ECONOMICA (GRI 201-1) PRATICHE DI APPROVVIGIONAMENTO (GRI 204-1) CULTURA ED EDUCAZIONE FINANZIARIA APPROCCIO GESTIONALE (GRI 103) IMPATTI ECONOMICI INDIRETTI (GRI",
+        "context_after": ") DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (GRI 401-1) SVILUPPO DEL WELFARE APPROCCIO GESTIONALE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "203-2": false,
+    "204-1": {
+        "page": "98.txt",
+        "context_before": "SOSTEGNO ALLE COMUNIT LOCALI E SVILUPPO APPROCCIO GESTIONALE (GRI 103) DEL TERRITORIO PERFORMANCE ECONOMICA (GRI 201-1) PRATICHE DI APPROVVIGIONAMENTO (GRI",
+        "context_after": ") CULTURA ED EDUCAZIONE FINANZIARIA APPROCCIO GESTIONALE (GRI 103) IMPATTI ECONOMICI INDIRETTI (GRI 203-1) DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "98.txt",
+        "context_before": "gli indicatori GRI. TEMI MATERIALI Aspetto/Indicatori GRI Standards REPUTAZIONE E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI",
+        "context_after": ";205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "98.txt",
+        "context_before": "indicatori GRI. TEMI MATERIALI Aspetto/Indicatori GRI Standards REPUTAZIONE E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;",
+        "context_after": ") POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "98.txt",
+        "context_before": "SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (",
+        "context_after": "-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302": {
+        "page": "98.txt",
+        "context_before": "APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (",
+        "context_after": "-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303": {
+        "page": "98.txt",
+        "context_before": "103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (",
+        "context_after": "-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "98.txt",
+        "context_before": "401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (",
+        "context_after": "-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306": {
+        "page": "98.txt",
+        "context_before": "APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (",
+        "context_after": "-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "98.txt",
+        "context_before": "(GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (",
+        "context_after": "-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1)",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "98.txt",
+        "context_before": "SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (",
+        "context_after": ") ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "98.txt",
+        "context_before": "APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (",
+        "context_after": ";302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "98.txt",
+        "context_before": "103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (",
+        "context_after": ") EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "98.txt",
+        "context_before": "401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (",
+        "context_after": ") SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": {
+        "page": "98.txt",
+        "context_before": "APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (",
+        "context_after": ") IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-2": {
+        "page": "103.txt",
+        "context_before": "MATERIALI: GRI 301-1 - ENERGIA: GRI 302-1; 302-2 - ACQUA: GRI 303-1 - EMISSIONI: GRI 305-1 - SCARICHI E RIFIUTI:",
+        "context_after": "- RISPETTO DI NORMATIVE AMBIENTALI: GRI 307-1 Ambito Sociale Breve descrizione del modello aziendale di gestione e GRI 102: INFORMATIVE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "98.txt",
+        "context_before": "(GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (",
+        "context_after": ") NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1)",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "98.txt",
+        "context_before": "SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI",
+        "context_after": ") ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "98.txt",
+        "context_before": "APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI",
+        "context_after": ";302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "302-2": {
+        "page": "98.txt",
+        "context_before": "GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;",
+        "context_after": ") ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "98.txt",
+        "context_before": "103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI",
+        "context_after": ") EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "98.txt",
+        "context_before": "401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI",
+        "context_after": ") SCARICHI E RIFIUTI (GRI 306-1) IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-2": false,
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": {
+        "page": "98.txt",
+        "context_before": "APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1) SCARICHI E RIFIUTI (GRI",
+        "context_after": ") IMPATTO AMBIENTALE INDIRETTO APPROCCIO GESTIONALE (GRI 103) 97",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-2": {
+        "page": "103.txt",
+        "context_before": "GRI 301-1 - ENERGIA: GRI 302-1; 302-2 - ACQUA: GRI 303-1 - EMISSIONI: GRI 305-1 - SCARICHI E RIFIUTI: GRI",
+        "context_after": "- RISPETTO DI NORMATIVE AMBIENTALI: GRI 307-1 Ambito Sociale Breve descrizione del modello aziendale di gestione e GRI 102: INFORMATIVE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "98.txt",
+        "context_before": "(GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI",
+        "context_after": ") NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1)",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "98.txt",
+        "context_before": "(GRI 103) IMPATTI ECONOMICI INDIRETTI (GRI 203-1) DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (",
+        "context_after": "-1) SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "98.txt",
+        "context_before": "GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (",
+        "context_after": "-1) FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI 404-3) DIVERSITE PARI OPPORTUNIT(GRI 405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "98.txt",
+        "context_before": "103) TUTELA DELLA SALUTE E SICUREZZA APPROCCIO GESTIONALE (GRI 103) SUL LUOGO DI LAVORO SALUTE E SICUREZZA DEI LAVORATORI (",
+        "context_after": "-2) INNOVAZIONE E TRASFORMAZIONE DIGITALE APPROCCIO GESTIONALE (GRI 103) SOSTEGNO ALLE COMUNIT LOCALI E SVILUPPO APPROCCIO GESTIONALE (GRI 103) DEL",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "98.txt",
+        "context_before": "(GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (",
+        "context_after": "-1;GRI 404-3) DIVERSITE PARI OPPORTUNIT(GRI 405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "98.txt",
+        "context_before": "415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(",
+        "context_after": "-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": {
+        "page": "98.txt",
+        "context_before": "205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (",
+        "context_after": "-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": {
+        "page": "98.txt",
+        "context_before": "MATERIALI Aspetto/Indicatori GRI Standards REPUTAZIONE E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (",
+        "context_after": "-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "98.txt",
+        "context_before": "E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (",
+        "context_after": "-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "98.txt",
+        "context_before": "405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI 103) PRIVACY DEL CLIENTE (",
+        "context_after": "-1) ATTENZIONE VERSO I SOCI APPROCCIO GESTIONALE (GRI 103) TUTELA DELLA SALUTE E SICUREZZA APPROCCIO GESTIONALE (GRI 103) SUL LUOGO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "98.txt",
+        "context_before": "(GRI 103) IMPATTI ECONOMICI INDIRETTI (GRI 203-1) DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (",
+        "context_after": ") SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": {
+        "page": "98.txt",
+        "context_before": "OPPORTUNIT APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (GRI 401-1) SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (",
+        "context_after": ";GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-3": {
+        "page": "98.txt",
+        "context_before": "APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (GRI 401-1) SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;",
+        "context_after": ") IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1)",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402-1": {
+        "page": "98.txt",
+        "context_before": "GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (",
+        "context_after": ") FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI 404-3) DIVERSITE PARI OPPORTUNIT(GRI 405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "98.txt",
+        "context_before": "103) TUTELA DELLA SALUTE E SICUREZZA APPROCCIO GESTIONALE (GRI 103) SUL LUOGO DI LAVORO SALUTE E SICUREZZA DEI LAVORATORI (",
+        "context_after": ") INNOVAZIONE E TRASFORMAZIONE DIGITALE APPROCCIO GESTIONALE (GRI 103) SOSTEGNO ALLE COMUNIT LOCALI E SVILUPPO APPROCCIO GESTIONALE (GRI 103) DEL",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "98.txt",
+        "context_before": "(GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (",
+        "context_after": ";GRI 404-3) DIVERSITE PARI OPPORTUNIT(GRI 405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": {
+        "page": "98.txt",
+        "context_before": "201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (GRI 404-1;",
+        "context_after": ") DIVERSITE PARI OPPORTUNIT(GRI 405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI 103)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-1": {
+        "page": "98.txt",
+        "context_before": "415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(",
+        "context_after": ") CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": {
+        "page": "98.txt",
+        "context_before": "DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI 404-3) DIVERSITE PARI OPPORTUNIT(",
+        "context_after": ") QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI 103) PRIVACY DEL CLIENTE (GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406-1": {
+        "page": "98.txt",
+        "context_before": "205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (",
+        "context_after": ") DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": {
+        "page": "98.txt",
+        "context_before": "MATERIALI Aspetto/Indicatori GRI Standards REPUTAZIONE E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (",
+        "context_after": ") MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": {
+        "page": "98.txt",
+        "context_before": "E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (",
+        "context_after": ";GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-3": {
+        "page": "98.txt",
+        "context_before": "INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;",
+        "context_after": ") RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 418-1": {
+        "page": "98.txt",
+        "context_before": "405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI 103) PRIVACY DEL CLIENTE (",
+        "context_after": ") ATTENZIONE VERSO I SOCI APPROCCIO GESTIONALE (GRI 103) TUTELA DELLA SALUTE E SICUREZZA APPROCCIO GESTIONALE (GRI 103) SUL LUOGO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "98.txt",
+        "context_before": "(GRI 103) IMPATTI ECONOMICI INDIRETTI (GRI 203-1) DINAMICHE OCCUPAZIONALI E OPPORTUNIT APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (GRI",
+        "context_after": ") SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "98.txt",
+        "context_before": "OPPORTUNIT APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (GRI 401-1) SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI",
+        "context_after": ";GRI 401-3) IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "401-3": {
+        "page": "98.txt",
+        "context_before": "APPROCCIO GESTIONALE (GRI 103) DI ESPERIENZE LAVORATIVE OCCUPAZIONE (GRI 401-1) SVILUPPO DEL WELFARE APPROCCIO GESTIONALE (GRI 103) OCCUPAZIONE (GRI 401-2;GRI",
+        "context_after": ") IMPATTO AMBIENTALE DIRETTO APPROCCIO GESTIONALE (GRI 103) MATERIALI (GRI 301-1) ENERGIA (GRI 302-1;302-2) ACQUA (GRI 303-1) EMISSIONI (GRI 305-1)",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "98.txt",
+        "context_before": "GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI",
+        "context_after": ") FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI 404-3) DIVERSITE PARI OPPORTUNIT(GRI 405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": false,
+    "403-2": {
+        "page": "98.txt",
+        "context_before": "103) TUTELA DELLA SALUTE E SICUREZZA APPROCCIO GESTIONALE (GRI 103) SUL LUOGO DI LAVORO SALUTE E SICUREZZA DEI LAVORATORI (GRI",
+        "context_after": ") INNOVAZIONE E TRASFORMAZIONE DIGITALE APPROCCIO GESTIONALE (GRI 103) SOSTEGNO ALLE COMUNIT LOCALI E SVILUPPO APPROCCIO GESTIONALE (GRI 103) DEL",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "98.txt",
+        "context_before": "(GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (GRI",
+        "context_after": ";GRI 404-3) DIVERSITE PARI OPPORTUNIT(GRI 405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "98.txt",
+        "context_before": "201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI",
+        "context_after": ") DIVERSITE PARI OPPORTUNIT(GRI 405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI 103)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "98.txt",
+        "context_before": "415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI",
+        "context_after": ") CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE PERSONE APPROCCIO GESTIONALE (GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "98.txt",
+        "context_before": "DELLE PERSONE APPROCCIO GESTIONALE (GRI 103) LAVORO/GESTIONE DELLE RELAZIONI (GRI 402-1) FORMAZIONE ED ISTRUZIONE (GRI 404-1;GRI 404-3) DIVERSITE PARI OPPORTUNIT(GRI",
+        "context_after": ") QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI 103) PRIVACY DEL CLIENTE (GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "98.txt",
+        "context_before": "205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI",
+        "context_after": ") DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE (GRI 103) PERFORMANCE ECONOMICA (GRI 201-1) VALORIZZAZIONE E CRESCITA DELLE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": {
+        "page": "98.txt",
+        "context_before": "MATERIALI Aspetto/Indicatori GRI Standards REPUTAZIONE E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI",
+        "context_after": ") MARKETING ED ETICHETTATURA (GRI 417-2;GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": {
+        "page": "98.txt",
+        "context_before": "E INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI",
+        "context_after": ";GRI 417-3) RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "98.txt",
+        "context_before": "INTEGRIT NELLA CONDOTTA AZIENDALE APPROCCIO GESTIONALE (GRI 103) ANTICORRUZIONE (GRI 205-2;205-3) POLITICHE PUBBLICHE (GRI 415-1) MARKETING ED ETICHETTATURA (GRI 417-2;GRI",
+        "context_after": ") RISPETTO DI NORMATIVE AMBIENTALI (GRI 307-1) NON DISCRIMINAZIONE (GRI 406-1) DIVERSITE PARI OPPORTUNIT(GRI 405-1) CREAZIONE DI VALORE APPROCCIO GESTIONALE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "98.txt",
+        "context_before": "405-2) QUALIT E SODDISFAZIONE DEL CLIENTE APPROCCIO GESTIONALE (GRI 103) CYBER SECURITY APPROCCIO GESTIONALE (GRI 103) PRIVACY DEL CLIENTE (GRI",
+        "context_after": ") ATTENZIONE VERSO I SOCI APPROCCIO GESTIONALE (GRI 103) TUTELA DELLA SALUTE E SICUREZZA APPROCCIO GESTIONALE (GRI 103) SUL LUOGO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": false
+}

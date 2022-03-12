@@ -1,0 +1,517 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "99.txt",
+        "context_before": "of the GRIs 303  Water and Effluents and GRI 403  Occupational Health and Safety indicators which implement the",
+        "context_after": "8 Standards. The Report has been prepared in accordance with GRI Standards: Core option. Total 2,065 2,324 166 170 147",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "96.txt",
+        "context_before": "INTERNAL EXTERNAL the direct economic value generated and based on the specific production and business Organizational profile; Ethics distributed (",
+        "context_after": ") in 2019, the method of model developed and pursued in recent years and integrity; Governance; Supply chain; Governance and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": {
+        "page": "100.txt",
+        "context_before": "were filed in 2019, of which 2 referred to previous years and were 103-2 resolved during the year. 103-3 MATERIALS",
+        "context_after": "Proportion of senior management hired from the local community 301-1 Materials used by weight or volume 164-165 As regards the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": false,
+    "203-2": {
+        "page": "96.txt",
+        "context_before": "indirect economic impacts associated Climate change Emissions Group Community, Environment with outsourcing of the production chain Materials, Energy; Water (",
+        "context_after": "), Fincantieri has used an econometric Environmental and effluents; Biodiversity, Community, Group management Emissions, Effluents and waste; Environment model developed",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "100.txt",
+        "context_before": "Management approach 86-87 103-2 102-46 Defining report content and topic boundaries 186-189 103-3 102-47 List of material topics 26; 190-191",
+        "context_after": "Proportion of spending on local suppliers 88-89; 98-101 102-48 Restatements of information 186-189 ANTI-CORRUPTION 102-49 Changes in reporting 186-189 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "100.txt",
+        "context_before": "in reporting 186-189 103-1 Management approach 46-50 103-2 102-50 Reporting period 186-189 103-3 102-51 Date of most recent report 186-189",
+        "context_after": "Communication and training about anti-corruption policies and 49-50 procedures 102-52 Reporting cycle 186-189 205-3 Confirmed incidents of corruption and actions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "100.txt",
+        "context_before": "Date of most recent report 186-189 205-2 Communication and training about anti-corruption policies and 49-50 procedures 102-52 Reporting cycle 186-189",
+        "context_after": "Confirmed incidents of corruption and actions taken 50 102-53 Contact point for questions regarding the report 186-189 ANTI-COMPETITIVE BEHAVIOR 102-54",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "100.txt",
+        "context_before": "accordance with GRI Standards 194 103-1 Management approach 46-50 102-55 GRI content index 194-204 103-2 103-3 102-56 External assurance 206",
+        "context_after": "Legal actions for anti-competitive behavior, anti-trust, and monopoly practices SPECIFIC STANDARD DISCLOSURES No fines or sanctions have been received for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": false,
+    "GRI 303": {
+        "page": "95.txt",
+        "context_before": "as the UNs The Sustainability Report has been prepared in The reporting boundary of the data presented exception of the",
+        "context_after": " Water and Sustainability Development Goals) and details accordance with a specific internal procedure in the Report relates to the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "96.txt",
+        "context_before": "noted that with Cyber security Ethics and integrity; Customer Group Customers; privacy Community regard to the raw materials indicator (",
+        "context_after": ") The document was also the subject of a the 2018 data have been revised following the limited assurance engagement",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "100.txt",
+        "context_before": "the majority of those recruited (over 94%) are found to be from local profiles and candidates. ENERGY INDIRECT ECONOMIC IMPACTS",
+        "context_after": "Energy consumption within the organization 161-162 103-1 Management approach 68-69 Type MEASUREMENT UNIT 2018 2019 103-2 103-3 Acetylene GJ 16,769",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "101.txt",
+        "context_before": "FINCANTIERI GROUP FINCANTIERI GROUP CODE INDICATOR DESCRIPTION PAGE CODE INDICATOR DESCRIPTION PAGE",
+        "context_after": "Reduction of energy consumption 161 EFFLUENTS AND WASTE INITIATIVE MEASUREMENT BASELINE CONSUMPTION BASELINE SAVING % SAVING 306-2 Waste by type",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "101.txt",
+        "context_before": "workers representatives and to perform the related duties (including the right to collective bargaining), in accordance with the regulations and",
+        "context_after": "Interactions with water as a shared resource 162-163 practices in force in the different countries. Lastly, benefits of various kinds,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "101.txt",
+        "context_before": "in force in the different countries. Lastly, benefits of various kinds, in addition to remuneration, are envisaged for the employees.",
+        "context_after": "Management of water discharge-related impacts 164 During 2019, 189 grievances were filed related to impacts concerning employment, of which 28",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "101.txt",
+        "context_before": "impacts 164 During 2019, 189 grievances were filed related to impacts concerning employment, of which 28 were resolved in the",
+        "context_after": "Water withdrawal 163 reporting period. The 9 grievances filed related to human rights violations were all resolved during the reporting",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "101.txt",
+        "context_before": "and former employees for a value of over 260 million euros including the asbestos-related cases dating back to the past.",
+        "context_after": "Operational sites owned, leased, managed in, or adjacent to, 171 protected areas and areas of high biodiversity value outside EMPLOYMENT",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "101.txt",
+        "context_before": "and areas of high biodiversity value outside EMPLOYMENT protected areas 401-1 New employee hires and employee turnover 121-122 EMISSIONS HIRES",
+        "context_after": "Direct (Scope 1) GHG emissions 167  30 30-50  50 TOTAL The data refer to the entire Fincantieri Group.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "101.txt",
+        "context_before": "2018 2019 while they are DEFRA and IPCC for refrigerant gases. FC 185 360 291 370 53 59 529 789",
+        "context_after": "Energy indirect (Scope 2) GHG emissions 167 The data refer to the entire Fincantieri Group. The emissions have been estimated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-3": {
+        "page": "96.txt",
+        "context_before": "a result, indirect Scope 3 greenhouse gas with the reporting standard adopted. Health and safety in the (GHG) emissions (",
+        "context_after": ") for both years were Occupational health and safety Group workplace also integrated with emissions from ferrous The Sustainability Report",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "101.txt",
+        "context_before": "the emission factors are DEFRA, EPA and Greenhouse Gas (GHG) Protocol. VARD 746 555 1,134 753 323 334 2,203 1,642",
+        "context_after": "Intensity of GHG emissions 168 FMG 109 117 159 176 143 139 411 432 305-7 Nitrogen oxides (NOx), sulfur oxides",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": false,
+    "305-6": false,
+    "305-7": {
+        "page": "101.txt",
+        "context_before": "753 323 334 2,203 1,642 305-4 Intensity of GHG emissions 168 FMG 109 117 159 176 143 139 411 432",
+        "context_after": "Nitrogen oxides (NOx), sulfur oxides (SOx) and other significant air 169-170 emissions FMSNA 4 1 4 5 1 3 9",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "101.txt",
+        "context_before": "INDICATOR DESCRIPTION PAGE 302-4 Reduction of energy consumption 161 EFFLUENTS AND WASTE INITIATIVE MEASUREMENT BASELINE CONSUMPTION BASELINE SAVING % SAVING",
+        "context_after": "Waste by type and disposal method 165-166 UNIT CONSUMPTION OBTAINED OBTAINED ENVIRONMENTAL COMPLIANCE LED replacement warehouse kWh May  60,786",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "101.txt",
+        "context_before": "and disposal method 165-166 UNIT CONSUMPTION OBTAINED OBTAINED ENVIRONMENTAL COMPLIANCE LED replacement warehouse kWh May  60,786 104,482 43,696 41.8%",
+        "context_after": "Non-compliance with environmental laws and regulations 51 and Package Workshop  December Monfalcone (Italy) 2018 No significant fines were received",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "308-1": {
+        "page": "101.txt",
+        "context_before": "103-2 LED replacement block kWh May  54,000 133,000 79,000 59.4% 103-3 workshop and OSA  Palermo December (Italy) 2018",
+        "context_after": "New suppliers that were screened using environmental criteria 92-95 Replacement of outdoor lighting kWh January 174,599 686,499 511,900 74.6% 308-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "101.txt",
+        "context_before": "308-1 New suppliers that were screened using environmental criteria 92-95 Replacement of outdoor lighting kWh January 174,599 686,499 511,900 74.6%",
+        "context_after": "Negative environmental impacts in the supply chain and actions 96-101 - Sestri Ponente (Italy)  October taken 2018 CATEGORY: SOCIAL",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": false,
+    "GRI 401": false,
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "99.txt",
+        "context_before": "0 0 0 0 0 0 9 12 with the exception of the GRIs 303  Water and Effluents and",
+        "context_after": " Occupational Health and Safety indicators which implement the GRI 2018 Standards. The Report has been prepared in accordance with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": false,
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "101.txt",
+        "context_before": "owned, leased, managed in, or adjacent to, 171 protected areas and areas of high biodiversity value outside EMPLOYMENT protected areas",
+        "context_after": "New employee hires and employee turnover 121-122 EMISSIONS HIRES 305-1 Direct (Scope 1) GHG emissions 167  30 30-50 ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "102.txt",
+        "context_before": "11.6% (10.5% for women). - of which fatalities as a 0 1 0 0 1 0 0 0 0 0",
+        "context_after": "Benefits provided for full-time employees that are not provided to 137-138 result of work-relatedl temporary or part-time employees - of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": {
+        "page": "102.txt",
+        "context_before": "or part-time employees - of which while 56 9 0 0 65 42 2 0 0 44 LABOUR/MANAGEMENT RELATIONS travelling",
+        "context_after": "Minimum notice periods regarding operational changes HEALTH AND SAFETY INDICATORS - WOMEN In the case of business reorganization, the Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "102.txt",
+        "context_before": "1.3 22.4 0 5.0 103-2 rate 103-3 Rate of recordable 1.7 1.7 12.4 0 3.0 2.9 1.3 22.4 0 4.5",
+        "context_after": "Occupational health and safety management system 131; 136 work-related injuries 403-2 Hazard identification, risk assessment, and incident investigation 131-136 Rate",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "102.txt",
+        "context_before": "1.7 12.4 0 3.0 2.9 1.3 22.4 0 4.5 403-1 Occupational health and safety management system 131; 136 work-related injuries",
+        "context_after": "Hazard identification, risk assessment, and incident investigation 131-136 Rate of high- n.a.** n.a.** n.a.** n.a.** n.a.** 0 0 0 0",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "102.txt",
+        "context_before": "assessment, and incident investigation 131-136 Rate of high- n.a.** n.a.** n.a.** n.a.** n.a.** 0 0 0 0 0 consequence work-",
+        "context_after": "Occupational health services 131-133 related injuries 403-4 Worker participation, consultation, and communication on 131-133 Rate of fatalities as a 0",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "102.txt",
+        "context_before": "high- n.a.** n.a.** n.a.** n.a.** n.a.** 0 0 0 0 0 consequence work- 403-3 Occupational health services 131-133 related injuries",
+        "context_after": "Worker participation, consultation, and communication on 131-133 Rate of fatalities as a 0 0 0 0 0 0 0 0",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": {
+        "page": "102.txt",
+        "context_before": "as a 0 0 0 0 0 0 0 0 0 0 occupational health and safety result of work-related injury",
+        "context_after": "Worker training on occupational health and safety 133 Number of injuries 7 6 6 0 19 6 3 12 0",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-6": {
+        "page": "102.txt",
+        "context_before": "training on occupational health and safety 133 Number of injuries 7 6 6 0 19 6 3 12 0 21",
+        "context_after": "Promotion of worker health 131-136 - of which work-related 2 4 6 0 12 4 3 12 0 19 403-7",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": {
+        "page": "102.txt",
+        "context_before": "403-6 Promotion of worker health 131-136 - of which work-related 2 4 6 0 12 4 3 12 0 19",
+        "context_after": "Prevention and mitigation of occupational health and safety impacts 131-136 directly linked by business relationships - of which high- n.a.**",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-8": {
+        "page": "102.txt",
+        "context_before": "linked by business relationships - of which high- n.a.** n.a.** n.a.** n.a.** n.a.** 0 0 0 0 0 consequence work-",
+        "context_after": "Workers covered by an occupational health and safety management 136 related system - of which fatalities as a 0 0",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-9": {
+        "page": "102.txt",
+        "context_before": "FINCANTIERI GROUP FINCANTIERI GROUP CODE INDICATOR DESCRIPTION PAGE CODE INDICATOR DESCRIPTION PAGE HIRES - WOMEN",
+        "context_after": "Work-related injuries 133  30 30-50  50 TOTAL HEALTH AND SAFETY INDICATORS 2018 2019 2018 2019 2018 2019 2018",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-10": false,
+    "404-1": {
+        "page": "103.txt",
+        "context_before": "2 8 9 0 1 9 12 103-2 103-3 Total 25 29 144 161 1,505 1,679 711 740 2,385 2,609",
+        "context_after": "Average hours of training per year per employee 124 % Incidence on 6.6% 7.4% 12.4% 12.6% 21.6% 22.1% 6.6% 7.0%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "103.txt",
+        "context_before": "90,294 95,395 5.6% The data refer to the entire Fincantieri Group. FC 147 202 499 570 164 186 810 958",
+        "context_after": "Percentage of employees receiving regular performance and career 126-127 VARD 246 243 686 681 377 418 1,309 1,342 development reviews",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "96.txt",
+        "context_before": "any further information it is possible to compliance with Customer health and safety; Customer privacy; Group Customers technical regulations (",
+        "context_after": ") have been reclassified for comparison contact the Sustainability unit at the email Socioeconomic compliance and standards purposes to adapt",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "104.txt",
+        "context_before": "Group. * Fincantieri Marine Group's 2018 figures have been revised for comparison purposes by adjusting them to the reporting criteria.",
+        "context_after": "Ratio of basic salary and remuneration of women to men 140-141 FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING 407-1 Operations and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": false,
+    "407-1": {
+        "page": "104.txt",
+        "context_before": "reporting criteria. 405-2 Ratio of basic salary and remuneration of women to men 140-141 FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING",
+        "context_after": "Operations and suppliers in which the right to freedom of association 138-140 and collective bargaining may be at risk LOCAL",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "104.txt",
+        "context_before": "to freedom of association 138-140 and collective bargaining may be at risk LOCAL COMMUNITIES 103-1 Management approach 144-145 103-2 103-3",
+        "context_after": "Operations with local community engagement, impact assessments, 144-145 and development programs SUPPLIER SOCIAL ASSESSMENT 103-1 Management approach 86-87 103-2 103-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": {
+        "page": "104.txt",
+        "context_before": "Operations with local community engagement, impact assessments, 144-145 and development programs SUPPLIER SOCIAL ASSESSMENT 103-1 Management approach 86-87 103-2 103-3",
+        "context_after": "New suppliers that were screened using social criteria 92-95 414-2 Negative social impacts in the supply chain and actions taken",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "104.txt",
+        "context_before": "programs SUPPLIER SOCIAL ASSESSMENT 103-1 Management approach 86-87 103-2 103-3 414-1 New suppliers that were screened using social criteria 92-95",
+        "context_after": "Negative social impacts in the supply chain and actions taken 96-101 PUBLIC POLICY 103-1 Management approach 46-50 103-2 103-3 415-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "104.txt",
+        "context_before": "414-2 Negative social impacts in the supply chain and actions taken 96-101 PUBLIC POLICY 103-1 Management approach 46-50 103-2 103-3",
+        "context_after": "Political contributions Fincantieri Marine Group made a contribution of 26,798 euros to the Political Action Committee. CUSTOMER HEALTH AND SAFETY",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "104.txt",
+        "context_before": "a contribution of 26,798 euros to the Political Action Committee. CUSTOMER HEALTH AND SAFETY 103-1 Management approach 112-115 103-2 103-3",
+        "context_after": "Assessment of health and safety impacts of product and service 80-84; 114-116; categories 180-181 CUSTOMER PRIVACY 103-1 Management approach 55-57",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": {
+        "page": "104.txt",
+        "context_before": "health and safety impacts of product and service 80-84; 114-116; categories 180-181 CUSTOMER PRIVACY 103-1 Management approach 55-57 103-2 103-3",
+        "context_after": "Substantiated complaints concerning breaches of customer privacy and losses of customer data No grievances were filed in the reporting period.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "104.txt",
+        "context_before": "losses of customer data No grievances were filed in the reporting period. SOCIOECONOMIC COMPLIANCE 103-1 Management approach 46-50 103-2 103-3",
+        "context_after": "Non-compliance with laws and regulations in the social and economic area No significant fines were received in the reporting period.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

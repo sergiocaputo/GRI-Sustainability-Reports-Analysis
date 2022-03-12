@@ -1,0 +1,535 @@
+{
+    "GRI 200": {
+        "page": "58.txt",
+        "context_before": "GRI Standard Disclosure Description Page Omission Material topics",
+        "context_after": "Economic Standards Series Anti-corruption 103-1 Explanation of the material topic and its Boundary Pagg. 15, 17-18, 23, 55-56 GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "58.txt",
+        "context_before": "and its components Pagg. 15, 20-22, 23 - 24 Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 23-24",
+        "context_after": " Anti- 205-3 Confirmed incidents of corruption and actions taken Pag. 24 corruption GRI 300 Environmental Standards Series Materials 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "58.txt",
+        "context_before": "15, 20-22, 23 - 24 Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 23-24 GRI 205  Anti-",
+        "context_after": "Confirmed incidents of corruption and actions taken Pag. 24 corruption GRI 300 Environmental Standards Series Materials 103-1 Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "58.txt",
+        "context_before": "approach Pagg. 15, 20-22, 23-24 GRI 205  Anti- 205-3 Confirmed incidents of corruption and actions taken Pag. 24 corruption",
+        "context_after": "Environmental Standards Series Materials 103-1 Explanation of the material topic and its Boundary Pagg. 15, 17-18, 41, 55-56 GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301": {
+        "page": "58.txt",
+        "context_before": "management approach and its components 43 Approach Pagg. 15, 20-22, 38, 40, 41- 103-3 Evaluation of the management approach 43",
+        "context_after": " Materials 301-1 Materials used by weight or volume Pagg. 44 Energy 103-1 Explanation of the material topic and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "58.txt",
+        "context_before": "its components Pagg. 15, 20-22, 40, 46-47 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40, 46-47",
+        "context_after": " Energy 302-1 Energy consumption within the organization Pag. 47 Water 103-1 Explanation of the material topic and its Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "58.txt",
+        "context_before": "its components Pagg. 15, 20-22, 40, 50 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40, 50",
+        "context_after": " Water 303-1 Water withdrawal by source Pag. 50 Emissions 103-1 Explanation of the material topic and its Boundary Pagg.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "58.txt",
+        "context_before": "46-47 305-1 Direct (Scope 1) GHG emissions Pagg. 48, 56-57 305-2 Energy indirect (Scope 2) GHG emissions Pagg. 49, 56-57",
+        "context_after": " Emissions Nitrogen oxides (NO), sulfur oxides (SO), and 305-7 x x Pag. 49 other significant air emissions Effluents and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306": {
+        "page": "58.txt",
+        "context_before": "and its components Pagg. 15, 20-22, 40, 41-42 Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40, 41-42",
+        "context_after": " Effluents 306-2 Waste by type and disposal method Pag. 45 and waste Environmental compliance 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "59.txt",
+        "context_before": "approach and its components Pagg. 15, 20-22, 40 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40",
+        "context_after": " Non-compliance with environmental laws and Environmental 307-1 Pag. 40 regulations compliance Supplier environmental assessment 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "59.txt",
+        "context_before": "its components Pagg. 15, 20-22, 37-38, 43 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 37-38, 43",
+        "context_after": " Supplier New suppliers that were screened using environmental 308-1 Pagg. 44-45 environmental criteria assessment GRI 400 Social Standards Series",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": {
+        "page": "43.txt",
+        "context_before": "Renewable raw materials, mostly made up of alcohol, are estimated to be about 67% of the total purchased. Table 18:",
+        "context_after": " Materials used7 Raw materials Quantity (tons) 2017 2018 20198 Total natural raw materials (include esters, emulsifiers, active ingredients, fatty",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "46.txt",
+        "context_before": "to the activation of the cogeneration system at Cosmint site in Olgiate Comasco at the beginning of 2019. Table 22:",
+        "context_after": "(a, b, c, d, e): Energetic consumption13 Countries Gasoline14 Diesel14 Natural gas Electricity Anno u.m. Liters Liters m3 MWh 2017",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "49.txt",
+        "context_before": "Europe is mainly due to the increase in production volumes during 2019 in the Tatra Spring site (Poland). Table 26:",
+        "context_after": "(a): Water withdrawals from municipal water (m3) Year 2017 2018 2019 Italy 231,814 234,149 215,496 Rest of Europe 15,678 20,449",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "47.txt",
+        "context_before": "gas leaks in America and China, due to the malfunction of some machinery used in the production process. Table 23:",
+        "context_after": "(a): GHG direct emissions (Scope 1) Tipology Gasoline Diesel Natural gas F-GAS Anno Total u.m. ton CO ton CO .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305-2": {
+        "page": "48.txt",
+        "context_before": "Table 24:",
+        "context_after": "(a, e, g): Indirect energetic GHG emissions (Scope 2) Location-based Market-based Tipology Year ton CO ton CO 2e 2e 2017",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": {
+        "page": "48.txt",
+        "context_before": "contribution as far as VOCs are concerned derives from Italy, which in 2019 about 3 tons of VOCs. Table 25:",
+        "context_after": "(a, e, g): Air pollutant emissions19 VOCs HAP PM Tipology Year kg kg kg 2017 9,339 124 290 Italy 2018",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "44.txt",
+        "context_before": "Olgiate Comasco (Cosmint) sites and to the disposal of obsolete materials and warehouse products in Agrate and Dovera. Table 21:",
+        "context_after": "(a, b): quantity hazardous and non-hazardous waste generated by the company by type and disposal method Italy12 Rest of Europe",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": {
+        "page": "44.txt",
+        "context_before": "contracted during the year, 22% (60) were assessed also according to environmental criteria, in line with 2018 figures. Table 20:",
+        "context_after": "(a): Percentage of new suppliers selected according to environmental criteria u. m. 2017 2018 2019 Total number of new suppliers11",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "58.txt",
+        "context_before": "components 43 Approach Pagg. 15, 20-22, 38, 40, 41- 103-3 Evaluation of the management approach 43 GRI 301  Materials",
+        "context_after": "Materials used by weight or volume Pagg. 44 Energy 103-1 Explanation of the material topic and its Boundary Pagg. 15,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "58.txt",
+        "context_before": "20-22, 40, 46-47 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40, 46-47 GRI 302  Energy",
+        "context_after": "Energy consumption within the organization Pag. 47 Water 103-1 Explanation of the material topic and its Boundary Pagg. 15, 17-18,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "58.txt",
+        "context_before": "20-22, 40, 50 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40, 50 GRI 303  Water",
+        "context_after": "Water withdrawal by source Pag. 50 Emissions 103-1 Explanation of the material topic and its Boundary Pagg. 15, 17-18, 46,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "58.txt",
+        "context_before": "and its components Pagg. 15, 20-22, 40, 46-47 Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40, 46-47",
+        "context_after": "Direct (Scope 1) GHG emissions Pagg. 48, 56-57 305-2 Energy indirect (Scope 2) GHG emissions Pagg. 49, 56-57 GRI 305",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "58.txt",
+        "context_before": "103-3 Evaluation of the management approach Pagg. 15, 20-22, 40, 46-47 305-1 Direct (Scope 1) GHG emissions Pagg. 48, 56-57",
+        "context_after": "Energy indirect (Scope 2) GHG emissions Pagg. 49, 56-57 GRI 305  Emissions Nitrogen oxides (NO), sulfur oxides (SO), and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": {
+        "page": "58.txt",
+        "context_before": "Energy indirect (Scope 2) GHG emissions Pagg. 49, 56-57 GRI 305  Emissions Nitrogen oxides (NO), sulfur oxides (SO), and",
+        "context_after": "x x Pag. 49 other significant air emissions Effluents and waste 103-1 Explanation of the material topic and its Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "58.txt",
+        "context_before": "15, 20-22, 40, 41-42 Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40, 41-42 GRI 306  Effluents",
+        "context_after": "Waste by type and disposal method Pag. 45 and waste Environmental compliance 103-1 Explanation of the material topic and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "59.txt",
+        "context_before": "Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 40 GRI 307  Non-compliance with environmental laws and Environmental",
+        "context_after": "Pag. 40 regulations compliance Supplier environmental assessment 103-1 Explanation of the material topic and its Boundary Pagg. 15, 17-18, 36,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "59.txt",
+        "context_before": "of the management approach Pagg. 15, 20-22, 37-38, 43 GRI 308  Supplier New suppliers that were screened using environmental",
+        "context_after": "Pagg. 44-45 environmental criteria assessment GRI 400 Social Standards Series Employment 103-1 Explanation of the material topic and its Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": {
+        "page": "59.txt",
+        "context_before": "20-22, 37-38, 43 GRI 308  Supplier New suppliers that were screened using environmental 308-1 Pagg. 44-45 environmental criteria assessment",
+        "context_after": "Social Standards Series Employment 103-1 Explanation of the material topic and its Boundary Pagg. 15, 17-18, 26, 55-56 GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "59.txt",
+        "context_before": "approach and its components Pagg. 15, 20-22, 26-28 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 26-28",
+        "context_after": " 401-1 New employee hires and employee turnover Pag. 29 Employment Occupational health and safety 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "59.txt",
+        "context_before": "approach and its components Pagg. 15, 20-22, 36-38 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 36-38",
+        "context_after": " Types of injury and rates of injury, occupational Occupational health 403-2 diseases, lost days, and absenteeism, and number Pagg.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "59.txt",
+        "context_before": "Evaluation of the management approach Pagg. 15, 20-22, 26-28 404-1 Average hours of training per year per employee Pagg. 30-31",
+        "context_after": " Training and education Percentage of employees receiving regular 404-3 Pag. 32 performance and career development reviews Human Rights Assessment",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "59.txt",
+        "context_before": "approach and its components Pagg. 15, 20-22, 36-38 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 36-38",
+        "context_after": " Human Operations that have been subject to human rights 412-1 Pag. 37-38 Rights Assessment reviews or impact assessments Supplier",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": false,
+    "GRI 414": {
+        "page": "59.txt",
+        "context_before": "approach and its components Pagg. 15, 20-22, 36-38 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 36-38",
+        "context_after": " Supplier New suppliers that were screened using social 414-1 Pag. 39 social assessment criteria 60 This Consolidated Disclosure of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "60.txt",
+        "context_before": "Evaluation of the management approach Pagg. 15, 20-22, 52-53 Assessment of the health and safety impacts of 416-1 Pag. 54",
+        "context_after": " Customer product and service categories health and safety Incidents of non-compliance concerning the health 416-2 Pag. 54 and safety",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "60.txt",
+        "context_before": "approach and its components Pagg. 15, 20-22, 52-53 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 52-53",
+        "context_after": " Marketing Incidents of non-compliance concerning product 417-2 Pag. 54 and labeling and service information and labeling Socio-economic compliance 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": false,
+    "GRI 419": {
+        "page": "60.txt",
+        "context_before": "approach and its components Pagg. 15, 20-22, 52-53 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 52-53",
+        "context_after": " Socio- Non-compliance with laws and regulations in the 419-1 Pag. 54 economic compliance social and economic area Contacts For",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": {
+        "page": "28.txt",
+        "context_before": "highest turnover rate was registered in China (22.9%), followed by the Rest of Europe (16.2%) and Brazil (15.4%). Table 7:",
+        "context_after": "(a): Total number and rate of new employee hires by age group, gender and region Gender MEN WOMEN Total Age",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "38.txt",
+        "context_before": "them were fatal), a decrease compared to 2018 (28), with an frequency index of 3.2 (3.7 in 2018). Table 16:",
+        "context_after": "(a): Occupational health and safety r e d n Indicator u.m. Italy Rest of Europe USA Brazil China e G",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "30.txt",
+        "context_before": "Table 10:",
+        "context_after": "(a-i): Average training hours per employee, by region and gender Gender Year Men Women Total 2017 47.70 50.80 49.6 Italy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": {
+        "page": "31.txt",
+        "context_before": "May, reporting year, as opposed to the number of employees, counted on December 31st of the same year. Table 12:",
+        "context_after": "(a): Percentage of employees receiving regular performance review, by gender, region and employee category Gender Working category Countries Year Directors",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": {
+        "page": "38.txt",
+        "context_before": "proportion of suppliers selected according to social criteria amounts to 22% in 2019, in line with 2018 figures. Tabella 17:",
+        "context_after": "- Percentage of new suppliers selected according to social criteria u. m. 2017 2018 2019 Total number of new suppliers5",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "59.txt",
+        "context_before": "components Pagg. 15, 20-22, 26-28 Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 26-28 GRI 401 ",
+        "context_after": "New employee hires and employee turnover Pag. 29 Employment Occupational health and safety 103-1 Explanation of the material topic and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": false,
+    "403-1": false,
+    "403-2": {
+        "page": "59.txt",
+        "context_before": "the management approach Pagg. 15, 20-22, 36-38 GRI 403  Types of injury and rates of injury, occupational Occupational health",
+        "context_after": "diseases, lost days, and absenteeism, and number Pagg. 39, 56 and safety of work-related fatalities Training and education 103-1 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "59.txt",
+        "context_before": "management approach and its components Pagg. 15, 20-22, 26-28 Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 26-28",
+        "context_after": "Average hours of training per year per employee Pagg. 30-31 GRI 404  Training and education Percentage of employees receiving",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "59.txt",
+        "context_before": "hours of training per year per employee Pagg. 30-31 GRI 404  Training and education Percentage of employees receiving regular",
+        "context_after": "Pag. 32 performance and career development reviews Human Rights Assessment 103-1 Explanation of the material topic and its Boundary Pagg.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "13.txt",
+        "context_before": "reports through its President. The Supervisory Body composition is illustrated in the following table. Tabella 6: GRI 102-18 (a) e",
+        "context_after": "(a): Composition of the Supervisory Body Name and last name Position Gender Giuseppe Schiuma President M Francesco Cimatti Member M",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": {
+        "page": "59.txt",
+        "context_before": "of the management approach Pagg. 15, 20-22, 36-38 GRI 412  Human Operations that have been subject to human rights",
+        "context_after": "Pag. 37-38 Rights Assessment reviews or impact assessments Supplier social assessment 103-1 Explanation of the material topic and its Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "59.txt",
+        "context_before": "Evaluation of the management approach Pagg. 15, 20-22, 36-38 GRI 414  Supplier New suppliers that were screened using social",
+        "context_after": "Pag. 39 social assessment criteria 60 This Consolidated Disclosure of non-financial information has been translated into English solely for the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "60.txt",
+        "context_before": "Management Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 52-53 Assessment of the health and safety impacts of",
+        "context_after": "Pag. 54 GRI 416  Customer product and service categories health and safety Incidents of non-compliance concerning the health 416-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "60.txt",
+        "context_before": "416-1 Pag. 54 GRI 416  Customer product and service categories health and safety Incidents of non-compliance concerning the health",
+        "context_after": "Pag. 54 and safety impacts of products and services Marketing and labeling 103-1 Explanation of the material topic and its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": false,
+    "417-2": {
+        "page": "60.txt",
+        "context_before": "Approach 103-3 Evaluation of the management approach Pagg. 15, 20-22, 52-53 GRI 417  Marketing Incidents of non-compliance concerning product",
+        "context_after": "Pag. 54 and labeling and service information and labeling Socio-economic compliance 103-1 Explanation of the material topic and its Boundary",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "60.txt",
+        "context_before": "Evaluation of the management approach Pagg. 15, 20-22, 52-53 GRI 419  Socio- Non-compliance with laws and regulations in the",
+        "context_after": "Pag. 54 economic compliance social and economic area Contacts For any further information about this document, please refer to: Intercos",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

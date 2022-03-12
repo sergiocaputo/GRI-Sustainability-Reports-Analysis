@@ -1,0 +1,517 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "43.txt",
+        "context_before": "2.1 Totale 102-13 Partecipazione ad associazioni 16 1.1 Totale 103-3 Valutazione dellapproccio gestionale da 28 a 31 2.2 Totale Strategy",
+        "context_after": ": Performance economica 102-14 Dichiarazione del decisore senior 4 Dich. AD Totale 201-1 Valore aggiunto prodotto e distribuito da 29",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "45.txt",
+        "context_before": "prodotti e servizi non sono stati 103-3 Valutazione dellapproccio gestionale 78-79 7.4 - 7.5 Totale registrati casi di non conformit",
+        "context_after": ": Anticorruzione in materia 205-1 Operazioni valutate per rischi legati alla corruzione 76 7.2 Totale 417-3 Episodi di mancata conformit",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": {
+        "page": "45.txt",
+        "context_before": "relative a violazioni della 89 Nel corso Totale corruzione privacy e alla perdita di dati dei clienti del 2017 non",
+        "context_after": ": Comportamento anticoncorrenziale sono pervenuti allAzienda 206-1 Azioni legali avviate per comportamento 88 Per azioni Totale reclami per anticoncorrenziale, antitrust",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "43.txt",
+        "context_before": "da 28 a 31 2.2 Totale Strategy GRI 201: Performance economica 102-14 Dichiarazione del decisore senior 4 Dich. AD Totale",
+        "context_after": "Valore aggiunto prodotto e distribuito da 29 a 31 2.2 Totale (Lettera Amm.re Delegato) IMPATTO AMBIENTALE Etica e Integrit GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": false,
+    "205-1": {
+        "page": "45.txt",
+        "context_before": "stati 103-3 Valutazione dellapproccio gestionale 78-79 7.4 - 7.5 Totale registrati casi di non conformit GRI 205: Anticorruzione in materia",
+        "context_after": "Operazioni valutate per rischi legati alla corruzione 76 7.2 Totale 417-3 Episodi di mancata conformit in materia 89 Nel 2017",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-2": {
+        "page": "45.txt",
+        "context_before": "valutate per rischi legati alla corruzione 76 7.2 Totale 417-3 Episodi di mancata conformit in materia 89 Nel 2017 Totale",
+        "context_after": "Comunicazione e formazione in materia di politiche 58-59 5.3 Totale di comunicazioni commerciali non sono stati e procedure anticorruzione registrati",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "45.txt",
+        "context_before": "materia di politiche 58-59 5.3 Totale di comunicazioni commerciali non sono stati e procedure anticorruzione registrati casi di non conformit",
+        "context_after": "Eventi di corruzione confermati e azioni intraprese 88 Nel 2017 non Totale in materia sono stati registrati eventi GRI 418:",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "45.txt",
+        "context_before": "Totale corruzione privacy e alla perdita di dati dei clienti del 2017 non GRI 206: Comportamento anticoncorrenziale sono pervenuti allAzienda",
+        "context_after": "Azioni legali avviate per comportamento 88 Per azioni Totale reclami per anticoncorrenziale, antitrust e pratiche legali in essere violazioni della",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "43.txt",
+        "context_before": "102-18 Struttura di governo societario 17 1.2 Totale 103-3 Valutazione dellapproccio gestionale da 40 a 43 3.4 Totale Stakeholder Engagement",
+        "context_after": ": Materiali 102-40 Elenco dei gruppi di stakeholder 9 Metodologia Totale 301-1 Materiali utilizzati, suddivisi per peso o volume 40",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "43.txt",
+        "context_before": "Individuazione e selezione degli stakeholder 8 Metodologia Totale Societ del Gruppo 102-43 Modalit di coinvolgimento degli stakeholder 50 4.3 Totale",
+        "context_after": ": Energia 102-44 Principali tematiche e questioni emerse 50 4.3 Totale 302-1 Consumi energetici allinterno dellorganizzazione 41 3.4 Totale Procedure",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "43.txt",
+        "context_before": "102-44 Principali tematiche e questioni emerse 50 4.3 Totale 302-1 Consumi energetici allinterno dellorganizzazione 41 3.4 Totale Procedure di rendicontazione",
+        "context_after": ": Acqua 102-45 Entit incluse nel bilancio consolidato 8 Metodologia Totale 303-1 Prelievo di acqua classificato in base alla fonte",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "44.txt",
+        "context_before": "CARATTERE NON FINANZIARIO 2017 CAPITOLO / CAPITOLO / INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA PARAGRAFO PARAGRAFO",
+        "context_after": ": Biodiversit GRI 402: Relazioni industriali 304-3 Habitat protetti o ripristinati 36 3.1 Parziale 402-1 Periodi minimi di preavviso per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305": {
+        "page": "44.txt",
+        "context_before": "preavviso per i cambiamenti operativi 56 5.2 Totale Lindicatore  rendicontato GRI 403: Salute e sicurezza sul lavoro solo qualitativamente",
+        "context_after": ": Emissioni 403-2 Tipologie e tassi di infortunio, malattie professionali, 63 5.7 Totale gravit degli infortuni e assenteismo e numero",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306": {
+        "page": "44.txt",
+        "context_before": "Totale infortuni mortali sul lavoro 305-2 Emissioni indirette di GHG (Scope 2) 42 3.4 Totale GRI 404: Formazione e istruzione",
+        "context_after": ": Materiali di scarico e rifiuti 404-1 Media delle ore di formazione annue per dipendente 57-59 5.3 Totale 306-1 Scarichi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "44.txt",
+        "context_before": "6.3 Totale 306-2 Rifiuti suddivisi per tipologia e metodo di smaltimento 42 3.4 Totale GRI 406: Principio di non discriminazione",
+        "context_after": ": Conformit ambientale 406-1 Episodi di discriminazione e azioni correttive 60-87 Nel 2017 Totale 307-1 Mancata conformit a leggi e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "43.txt",
+        "context_before": "da 40 a 43 3.4 Totale Stakeholder Engagement GRI 301: Materiali 102-40 Elenco dei gruppi di stakeholder 9 Metodologia Totale",
+        "context_after": "Materiali utilizzati, suddivisi per peso o volume 40 3.4 Lindicatore fa riferimento unicamente 102-41 Contrattazione collettiva 66 5.8 Totale al",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "43.txt",
+        "context_before": "Modalit di coinvolgimento degli stakeholder 50 4.3 Totale GRI 302: Energia 102-44 Principali tematiche e questioni emerse 50 4.3 Totale",
+        "context_after": "Consumi energetici allinterno dellorganizzazione 41 3.4 Totale Procedure di rendicontazione GRI 303: Acqua 102-45 Entit incluse nel bilancio consolidato 8",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "43.txt",
+        "context_before": "allinterno dellorganizzazione 41 3.4 Totale Procedure di rendicontazione GRI 303: Acqua 102-45 Entit incluse nel bilancio consolidato 8 Metodologia Totale",
+        "context_after": "Prelievo di acqua classificato in base alla fonte 41 3.4 Parziale Come indicato in nota metodologica e 102-46 Definizione dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": {
+        "page": "44.txt",
+        "context_before": "/ INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA PARAGRAFO PARAGRAFO GRI 304: Biodiversit GRI 402: Relazioni industriali",
+        "context_after": "Habitat protetti o ripristinati 36 3.1 Parziale 402-1 Periodi minimi di preavviso per i cambiamenti operativi 56 5.2 Totale Lindicatore",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-4": false,
+    "305-1": {
+        "page": "44.txt",
+        "context_before": "Emissioni 403-2 Tipologie e tassi di infortunio, malattie professionali, 63 5.7 Totale gravit degli infortuni e assenteismo e numero di",
+        "context_after": "Emissioni dirette di GHG (Scope 1) 42 3.4 Totale infortuni mortali sul lavoro 305-2 Emissioni indirette di GHG (Scope 2)",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-2": {
+        "page": "44.txt",
+        "context_before": "infortuni e assenteismo e numero di 305-1 Emissioni dirette di GHG (Scope 1) 42 3.4 Totale infortuni mortali sul lavoro",
+        "context_after": "Emissioni indirette di GHG (Scope 2) 42 3.4 Totale GRI 404: Formazione e istruzione GRI 306: Materiali di scarico e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": {
+        "page": "44.txt",
+        "context_before": "istruzione GRI 306: Materiali di scarico e rifiuti 404-1 Media delle ore di formazione annue per dipendente 57-59 5.3 Totale",
+        "context_after": "Scarichi idrici suddivisi per qualit delle acque 41 3.4 Parziale GRI 405: Diversit e pari opportunit e destinazione Per quanto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "44.txt",
+        "context_before": "delle 103-2 Approccio gestionale e relative componenti 72 6.3 Totale Societ del Gruppo 103-3 Valutazione dellapproccio gestionale 72 6.3 Totale",
+        "context_after": "Rifiuti suddivisi per tipologia e metodo di smaltimento 42 3.4 Totale GRI 406: Principio di non discriminazione GRI 307: Conformit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "44.txt",
+        "context_before": "406: Principio di non discriminazione GRI 307: Conformit ambientale 406-1 Episodi di discriminazione e azioni correttive 60-87 Nel 2017 Totale",
+        "context_after": "Mancata conformit a leggi e regolamenti 86 Nel 2017 Totale intraprese non sono stati in materia ambientale non sono stati",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "44.txt",
+        "context_before": "Valutazione dellapproccio gestionale 51-33 4.4 Totale 103-3 Valutazione dellapproccio gestionale da 63 a 69 5.8 Totale GRI 413: Comunit locali",
+        "context_after": ": Impiego 413-1 Operazioni con la partecipazione di comunit locali, 51 4.3 Totale 401-1 Nuove assunzioni e turnover del personale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "44.txt",
+        "context_before": "2017 CAPITOLO / CAPITOLO / INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA PARAGRAFO PARAGRAFO GRI 304: Biodiversit",
+        "context_after": ": Relazioni industriali 304-3 Habitat protetti o ripristinati 36 3.1 Parziale 402-1 Periodi minimi di preavviso per i cambiamenti operativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "44.txt",
+        "context_before": "o ripristinati 36 3.1 Parziale 402-1 Periodi minimi di preavviso per i cambiamenti operativi 56 5.2 Totale Lindicatore  rendicontato",
+        "context_after": ": Salute e sicurezza sul lavoro solo qualitativamente GRI 305: Emissioni 403-2 Tipologie e tassi di infortunio, malattie professionali, 63",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "44.txt",
+        "context_before": "GHG (Scope 1) 42 3.4 Totale infortuni mortali sul lavoro 305-2 Emissioni indirette di GHG (Scope 2) 42 3.4 Totale",
+        "context_after": ": Formazione e istruzione GRI 306: Materiali di scarico e rifiuti 404-1 Media delle ore di formazione annue per dipendente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "44.txt",
+        "context_before": "ore di formazione annue per dipendente 57-59 5.3 Totale 306-1 Scarichi idrici suddivisi per qualit delle acque 41 3.4 Parziale",
+        "context_after": ": Diversit e pari opportunit e destinazione Per quanto riguarda la qualit delle acque, la descrizione fa riferimento alle aree",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "44.txt",
+        "context_before": "Gruppo 103-3 Valutazione dellapproccio gestionale 72 6.3 Totale 306-2 Rifiuti suddivisi per tipologia e metodo di smaltimento 42 3.4 Totale",
+        "context_after": ": Principio di non discriminazione GRI 307: Conformit ambientale 406-1 Episodi di discriminazione e azioni correttive 60-87 Nel 2017 Totale",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "44.txt",
+        "context_before": "- 5.2 Totale 103-3 Valutazione dellapproccio gestionale 51-33 4.4 Totale 103-3 Valutazione dellapproccio gestionale da 63 a 69 5.8 Totale",
+        "context_after": ": Comunit locali GRI 401: Impiego 413-1 Operazioni con la partecipazione di comunit locali, 51 4.3 Totale 401-1 Nuove assunzioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "44.txt",
+        "context_before": "5.8 Totale valutazioni di impatto e programmi di sviluppo 401-2 Benefit concessi ai dipendenti full-time ma non 61 5.5 Parziale",
+        "context_after": ": Salute e sicurezza dei clienti ai dipendenti part-time o a tempo determinato Non  specificato se i benefit sono",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417": {
+        "page": "45.txt",
+        "context_before": "NON FINANZIARIO 2017 CAPITOLO / CAPITOLO / INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA PARAGRAFO PARAGRAFO COMPLIANCE",
+        "context_after": ": Commercializzazione e marcatura GRI 103: Approccio gestionale 417-1 Requisiti di informazione e marcatura 50-51 4.4 Totale di prodotti e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "45.txt",
+        "context_before": "conformit 205-3 Eventi di corruzione confermati e azioni intraprese 88 Nel 2017 non Totale in materia sono stati registrati eventi",
+        "context_after": ": Privacy del cliente legati alla 418-1 Denunce motivate relative a violazioni della 89 Nel corso Totale corruzione privacy e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 419": {
+        "page": "45.txt",
+        "context_before": "e pratiche legali in essere violazioni della monopolistiche avviate prima privacy del 2017 vedi la Relazione sulla Gestione al 31/12/2017",
+        "context_after": ": Conformit socioeconomica 419-1 Mancata conformit a leggi e regolamenti in ambito 88 Nel 2017 Totale sociale ed economico non",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "44.txt",
+        "context_before": "5.8 Totale GRI 413: Comunit locali GRI 401: Impiego 413-1 Operazioni con la partecipazione di comunit locali, 51 4.3 Totale",
+        "context_after": "Nuove assunzioni e turnover del personale 68-69 5.8 Totale valutazioni di impatto e programmi di sviluppo 401-2 Benefit concessi ai",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": {
+        "page": "44.txt",
+        "context_before": "51 4.3 Totale 401-1 Nuove assunzioni e turnover del personale 68-69 5.8 Totale valutazioni di impatto e programmi di sviluppo",
+        "context_after": "Benefit concessi ai dipendenti full-time ma non 61 5.5 Parziale GRI 416: Salute e sicurezza dei clienti ai dipendenti part-time",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "401-3": false,
+    "402-1": {
+        "page": "44.txt",
+        "context_before": "INDICATORE PAG. COPERTURA PARAGRAFO PARAGRAFO GRI 304: Biodiversit GRI 402: Relazioni industriali 304-3 Habitat protetti o ripristinati 36 3.1 Parziale",
+        "context_after": "Periodi minimi di preavviso per i cambiamenti operativi 56 5.2 Totale Lindicatore  rendicontato GRI 403: Salute e sicurezza sul",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-1": false,
+    "403-2": {
+        "page": "44.txt",
+        "context_before": "cambiamenti operativi 56 5.2 Totale Lindicatore  rendicontato GRI 403: Salute e sicurezza sul lavoro solo qualitativamente GRI 305: Emissioni",
+        "context_after": "Tipologie e tassi di infortunio, malattie professionali, 63 5.7 Totale gravit degli infortuni e assenteismo e numero di 305-1 Emissioni",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "44.txt",
+        "context_before": "indirette di GHG (Scope 2) 42 3.4 Totale GRI 404: Formazione e istruzione GRI 306: Materiali di scarico e rifiuti",
+        "context_after": "Media delle ore di formazione annue per dipendente 57-59 5.3 Totale 306-1 Scarichi idrici suddivisi per qualit delle acque 41",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "9.txt",
+        "context_before": "del UN Global Compact, facendo proprio lobiettivo della su quattordici (35,7%) sono donne, fra le quali il Presidente. (GRI N.",
+        "context_after": ") promozione della responsabilit sociale dimpresa. (GRI N.102-12) Dal 2011, attraverso lesperienza pregressa di Cogemat e successivamente alla fusione in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "44.txt",
+        "context_before": "SpA e ai dipendenti commissiona periodicamente analisi Rapporto tra lo stipendio base e la remunerazione chimiche e microbiologiche su campioni",
+        "context_after": "60 5.4 Totale delle donne rispetto agli uomini di acqua estratta dai pozzi e ottiene regolari certificazioni di potabilit .",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "44.txt",
+        "context_before": "suddivisi per tipologia e metodo di smaltimento 42 3.4 Totale GRI 406: Principio di non discriminazione GRI 307: Conformit ambientale",
+        "context_after": "Episodi di discriminazione e azioni correttive 60-87 Nel 2017 Totale 307-1 Mancata conformit a leggi e regolamenti 86 Nel 2017",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "44.txt",
+        "context_before": "51-33 4.4 Totale 103-3 Valutazione dellapproccio gestionale da 63 a 69 5.8 Totale GRI 413: Comunit locali GRI 401: Impiego",
+        "context_after": "Operazioni con la partecipazione di comunit locali, 51 4.3 Totale 401-1 Nuove assunzioni e turnover del personale 68-69 5.8 Totale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "44.txt",
+        "context_before": "dipendenti part-time o a tempo determinato Non  specificato se i benefit sono forniti allo stesso modo ai dipendenti full-time",
+        "context_after": "Valutazione degli effetti delle varie categorie da 46 a 51 4.2- 4.3 - 4.4 Totale piuttosto che ai part-time o",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "416-2": false,
+    "417-1": {
+        "page": "45.txt",
+        "context_before": "INDICATORE PAG. COPERTURA INDICATORE DESCRIZIONE INDICATORE PAG. COPERTURA PARAGRAFO PARAGRAFO COMPLIANCE GRI 417: Commercializzazione e marcatura GRI 103: Approccio gestionale",
+        "context_after": "Requisiti di informazione e marcatura 50-51 4.4 Totale di prodotti e servizi 103-1 Spiegazione della tematica di rilievo e relativo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "45.txt",
+        "context_before": "marcatura 50-51 4.4 Totale di prodotti e servizi 103-1 Spiegazione della tematica di rilievo e relativo Ambito 21-76 1.8 Totale",
+        "context_after": "Episodi di mancata conformit in materia di 89 Nel 2017 Totale 103-2 Approccio gestionale e relative componenti 76 7.2 Totale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "417-3": {
+        "page": "45.txt",
+        "context_before": "casi di non conformit GRI 205: Anticorruzione in materia 205-1 Operazioni valutate per rischi legati alla corruzione 76 7.2 Totale",
+        "context_after": "Episodi di mancata conformit in materia 89 Nel 2017 Totale 205-2 Comunicazione e formazione in materia di politiche 58-59 5.3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "418-1": {
+        "page": "45.txt",
+        "context_before": "azioni intraprese 88 Nel 2017 non Totale in materia sono stati registrati eventi GRI 418: Privacy del cliente legati alla",
+        "context_after": "Denunce motivate relative a violazioni della 89 Nel corso Totale corruzione privacy e alla perdita di dati dei clienti del",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "419-1": {
+        "page": "45.txt",
+        "context_before": "essere violazioni della monopolistiche avviate prima privacy del 2017 vedi la Relazione sulla Gestione al 31/12/2017 GRI 419: Conformit socioeconomica",
+        "context_after": "Mancata conformit a leggi e regolamenti in ambito 88 Nel 2017 Totale sociale ed economico non sono stati registrati casi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    }
+}

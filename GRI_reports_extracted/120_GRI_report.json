@@ -1,0 +1,559 @@
+{
+    "GRI 200": {
+        "page": "126.txt",
+        "context_before": "Reference Document GRI Standard Disclosure Description Omissions - Notes and page number Economic material topics (",
+        "context_after": ") GRI 203 103-1, 103-2, Management Approach SR The supply chain Indirect economic 103-3 DNF Social aspects impacts 2016 203-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": {
+        "page": "125.txt",
+        "context_before": "Standards 102-55 GRI content index SR GRI Content Index 102-56 External assurance SR Methodological note Economic material topics (GRI 200)",
+        "context_after": "103-1, 103-2, Management Approach SR Snams profile Economic 103-3 Performance 201-1 Direct economic value SR Business activities 2016 generated and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "126.txt",
+        "context_before": "Reference Document GRI Standard Disclosure Description Omissions - Notes and page number Economic material topics (GRI 200)",
+        "context_after": "103-1, 103-2, Management Approach SR The supply chain Indirect economic 103-3 DNF Social aspects impacts 2016 203-1 Infrastructure investments SR",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "126.txt",
+        "context_before": "climate and the air TCFD The commitment to the energy efficiency 203-2 Significant indirect SR The supply chain economic impacts",
+        "context_after": "103-1, 103-2, Management Approach SR The fight against corruption and Anticorruption 103-3 illegality 2016 DNF Anticorruption and bribery 205-1 Operations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "125.txt",
+        "context_before": "SR Methodological note Economic material topics (GRI 200) GRI 201 103-1, 103-2, Management Approach SR Snams profile Economic 103-3 Performance",
+        "context_after": "Direct economic value SR Business activities 2016 generated and distributed SR Performance figures and indicators 201-2 Financial implications RS Today",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "125.txt",
+        "context_before": "profile Economic 103-3 Performance 201-1 Direct economic value SR Business activities 2016 generated and distributed SR Performance figures and indicators",
+        "context_after": "Financial implications RS Today and tomorrows challenge. and other risks and Hydrogen and green gases opportunities due to SR \"",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": {
+        "page": "125.txt",
+        "context_before": "due to SR \" Protecting the climate and the air climate change TCFD Risk and Opprtunities related to Climate Change",
+        "context_after": "Defined benefit plan In 2019, Snam fulfilled its obligations and other social obligations under retirement plans the applicable employment contracts.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "125.txt",
+        "context_before": "contracts. The active funds are for non-managerial staff or the Energy Fund, while for managers the PREVINDAI and the FOPDIRE",
+        "context_after": "Financial assistance Not applicable received from government 124Sustainability Report 2019",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "126.txt",
+        "context_before": "(GRI 200) GRI 203 103-1, 103-2, Management Approach SR The supply chain Indirect economic 103-3 DNF Social aspects impacts 2016",
+        "context_after": "Infrastructure investments SR Snams profile and services supported SR The pursue of a new energy SR Protecting the climate and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "126.txt",
+        "context_before": "The pursue of a new energy SR Protecting the climate and the air TCFD The commitment to the energy efficiency",
+        "context_after": "Significant indirect SR The supply chain economic impacts GRI 205 103-1, 103-2, Management Approach SR The fight against corruption and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "204-1": false,
+    "205-1": {
+        "page": "126.txt",
+        "context_before": "GRI 205 103-1, 103-2, Management Approach SR The fight against corruption and Anticorruption 103-3 illegality 2016 DNF Anticorruption and bribery",
+        "context_after": "Operations assessed for All divisions are monitored risks related to corruption in relation to the risk of corruption 205-2 Communication",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "126.txt",
+        "context_before": "bribery 205-1 Operations assessed for All divisions are monitored risks related to corruption in relation to the risk of corruption",
+        "context_after": "Communication and SR The fight against corruption and The 100% of the Snam training about anti- illegality employees and members",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "126.txt",
+        "context_before": "the BoD have been procedures RF \"Professional Enhancement informed about the Snam DNF Anticorruption and bribery Anticorruption Policies and Guideline",
+        "context_after": "Confirmed incidents of DNF Anticorruption and bribery In 2019, no cases of corruption and actions corruption were established. taken Environmental",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "127.txt",
+        "context_before": "Reference Document GRI Standard Disclosure Description Omissions - Notes and page number Environmental material topics (",
+        "context_after": ") GRI 304 103-1, 103-2, Management Approach SR Protecting the local area and Biodiversity 103-3 biodiversity 2016 DNF Environment, health",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "126.txt",
+        "context_before": "Anticorruption and bribery In 2019, no cases of corruption and actions corruption were established. taken Environmental material topics (GRI 300)",
+        "context_after": "103-1, 103-2, Management Approach SR Protecting the climate and the air Energy 2016 103-3 DNF Environment, health and safety aspects",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": {
+        "page": "127.txt",
+        "context_before": "Reference Document GRI Standard Disclosure Description Omissions - Notes and page number Environmental material topics (GRI 300)",
+        "context_after": "103-1, 103-2, Management Approach SR Protecting the local area and Biodiversity 103-3 biodiversity 2016 DNF Environment, health and safety aspects",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "127.txt",
+        "context_before": "species and SR Protecting the local area and national conservation biodiversity list species with habitats in areas affected by operations",
+        "context_after": "103-1, 103-2, Management Approach SR Protecting the climate and the air Emissions 2016 103-3 DNF Environment, health and safety aspects",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "126.txt",
+        "context_before": "103-1, 103-2, Management Approach SR Protecting the climate and the air Energy 2016 103-3 DNF Environment, health and safety aspects",
+        "context_after": "Energy consumption within SR Protecting the climate and the air the organization SR Performance figures and indicators TCFD The commitment",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "126.txt",
+        "context_before": "Protecting the climate and the air the organization SR Performance figures and indicators TCFD The commitment to the energy efficiency",
+        "context_after": "Energy consumption - Information not available outside of the organization 302-3 Energy intensity SR Performance figures and indicators Within the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "126.txt",
+        "context_before": "and indicators TCFD The commitment to the energy efficiency 302-2 Energy consumption - Information not available outside of the organization",
+        "context_after": "Energy intensity SR Performance figures and indicators Within the performance indicators the most significant number is reported (transportation activity) 302-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "126.txt",
+        "context_before": "302-3 Energy intensity SR Performance figures and indicators Within the performance indicators the most significant number is reported (transportation activity)",
+        "context_after": "Reduction of energy SR Protecting the climate and the air In this document, the consumption SR Performance figures and indicators",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-5": {
+        "page": "126.txt",
+        "context_before": "and indicators reductions in energy consumption obtained through efficiency measures are quantified by reporting the corresponding CO 2eq emissions avoided.",
+        "context_after": "Reductions in energy Not applicable requirements of products and services Annex 125",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "127.txt",
+        "context_before": "103-1, 103-2, Management Approach SR Protecting the local area and Biodiversity 103-3 biodiversity 2016 DNF Environment, health and safety aspects",
+        "context_after": "Operational sites owned, SR Protecting the local area and leased, managed in, or biodiversity adjacent to, protected areas and areas",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "127.txt",
+        "context_before": "area and leased, managed in, or biodiversity adjacent to, protected areas and areas of high biodiversity value outside protected areas",
+        "context_after": "Significant impacts of SR Protecting the local area and activities, products, and biodiversity services on biodiversity 304-3 Habitats protected or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": {
+        "page": "127.txt",
+        "context_before": "outside protected areas 304-2 Significant impacts of SR Protecting the local area and activities, products, and biodiversity services on biodiversity",
+        "context_after": "Habitats protected or SR Protecting the local area and restored biodiversity 304-4 IUCN Red List species and SR Protecting the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-4": {
+        "page": "127.txt",
+        "context_before": "and activities, products, and biodiversity services on biodiversity 304-3 Habitats protected or SR Protecting the local area and restored biodiversity",
+        "context_after": "IUCN Red List species and SR Protecting the local area and national conservation biodiversity list species with habitats in areas",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-1": {
+        "page": "127.txt",
+        "context_before": "103-1, 103-2, Management Approach SR Protecting the climate and the air Emissions 2016 103-3 DNF Environment, health and safety aspects",
+        "context_after": "Direct (Scope 1) GHG SR Protecting the climate and the air emissions SR Performance figures and indicators 305-2 Energy indirect",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "127.txt",
+        "context_before": "safety aspects 305-1 Direct (Scope 1) GHG SR Protecting the climate and the air emissions SR Performance figures and indicators",
+        "context_after": "Energy indirect (Scope 2) SR Protecting the climate and the air GHG emissions SR Performance figures and indicators 305-3 Other",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "127.txt",
+        "context_before": "indicators 305-2 Energy indirect (Scope 2) SR Protecting the climate and the air GHG emissions SR Performance figures and indicators",
+        "context_after": "Other indirect (Scope 3) SR Protecting the climate and the air GHG emissions SR Performance figures and indicators 305-4 GHG",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "127.txt",
+        "context_before": "indicators 305-3 Other indirect (Scope 3) SR Protecting the climate and the air GHG emissions SR Performance figures and indicators",
+        "context_after": "GHG emissions intensity SR Protecting the climate and the air SR Performance figures and indicators TCFD The reduction of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "127.txt",
+        "context_before": "intensity SR Protecting the climate and the air SR Performance figures and indicators TCFD The reduction of the GHG emissions",
+        "context_after": "Reduction of GHG SR Protecting the climate and the air emissions TCFD The reduction of the GHG emissions 305-6 Emissions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "127.txt",
+        "context_before": "emissions 305-5 Reduction of GHG SR Protecting the climate and the air emissions TCFD The reduction of the GHG emissions",
+        "context_after": "Emissions of ozone- Not significant quantity depleting substances (ODS) 305-7 Nitrogen oxides (NOX), SR Protecting the climate and the air",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-7": {
+        "page": "127.txt",
+        "context_before": "the air emissions TCFD The reduction of the GHG emissions 305-6 Emissions of ozone- Not significant quantity depleting substances (ODS)",
+        "context_after": "Nitrogen oxides (NOX), SR Protecting the climate and the air sulfur oxides (SOX), and SR Performance figures and indicators other",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-1": false,
+    "306-2": false,
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": {
+        "page": "129.txt",
+        "context_before": "Reference Document GRI Standard Disclosure Description Omissions - Notes and page number Social material topics (",
+        "context_after": ") GRI 406 103-1, 103-2, Management Approach SR People Non discrimination 103-3 DNF Protecting Human Rights 2016 406-1 Incidents of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "128.txt",
+        "context_before": "Reference Document GRI Standard Disclosure Description Omissions - Notes and page number Social material topics (GRI 400)",
+        "context_after": "401-2 Benefits provided to full- There are no differences in Employment 2016 time employees that are access to company benefits",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "128.txt",
+        "context_before": "employees that are access to company benefits (follows) not provided to temporary or part-time employees 401-3 Parental leave SR People",
+        "context_after": "103-1, 103-2, Management Approach SR People Occupational 103-3 DNF Environment, health and safety health & safety aspects 2016 403-1 Workers",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "128.txt",
+        "context_before": "During the year, there were topics covered in formal no trade union agreements agreements with trade in this area. unions",
+        "context_after": "103-1, 103-2, Management Approach SR People Training and 103-3 DNF People management aspects Education 2016 404-1 Average hours of training",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "128.txt",
+        "context_before": "receiving regular evaluated within the performance and career Performance Management development reviews is split by position and gender (page 80).",
+        "context_after": "103-1, 103-2, Management Approach SR People Diversity 103-3 DNF People management aspects and equal 405-1 Diversity of governance SR People",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "129.txt",
+        "context_before": "Reference Document GRI Standard Disclosure Description Omissions - Notes and page number Social material topics (GRI 400)",
+        "context_after": "103-1, 103-2, Management Approach SR People Non discrimination 103-3 DNF Protecting Human Rights 2016 406-1 Incidents of discrimination DNF Protecting",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "129.txt",
+        "context_before": "Non discrimination 103-3 DNF Protecting Human Rights 2016 406-1 Incidents of discrimination DNF Protecting Human Rights and corrective actions taken",
+        "context_after": "Comunit 103-1, 103-2, Management Approach SR Stakeholder relationships locali 2016 103-3 SR Protecting the local area and biodiversity DNF Social",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": {
+        "page": "129.txt",
+        "context_before": "People 413-2 Operations with significant SR Protecting the local area and actual and potential biodiversity negative impacts on local communities",
+        "context_after": "103-1, 103-2, Management Approach RS Business integrity Socio-Economic 103-3 DNF Anticorruption and bribery Compliance 2016 419-1 Non-compliance with laws DNF",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "127.txt",
+        "context_before": "Social material topics (GRI 400) GRI 401 103-1, 103-2, Management Approach SR People Employment 2016 103-3 DNF People management aspects",
+        "context_after": "New employee hires and SR People The split of the data by employee turnover SR Performance figures and indicators country",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "128.txt",
+        "context_before": "Reference Document GRI Standard Disclosure Description Omissions - Notes and page number Social material topics (GRI 400) GRI 401",
+        "context_after": "Benefits provided to full- There are no differences in Employment 2016 time employees that are access to company benefits (follows)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "128.txt",
+        "context_before": "differences in Employment 2016 time employees that are access to company benefits (follows) not provided to temporary or part-time employees",
+        "context_after": "Parental leave SR People GRI 403 103-1, 103-2, Management Approach SR People Occupational 103-3 DNF Environment, health and safety health",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": false,
+    "403-1": {
+        "page": "128.txt",
+        "context_before": "GRI 403 103-1, 103-2, Management Approach SR People Occupational 103-3 DNF Environment, health and safety health & safety aspects 2016",
+        "context_after": "Workers representation in Workers are represented by formal joint management law (ref. TU Dlgs81/2008) worker health and safety and by",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "128.txt",
+        "context_before": "Workers are represented by formal joint management law (ref. TU Dlgs81/2008) worker health and safety and by national contracts. committees",
+        "context_after": "Types of injury and rates SR People The employees and of injury, occupational SR Performance figures and indicators contractors injuries",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "128.txt",
+        "context_before": "1 contractor in the Central and 1 contractor in the Southern part of Italy). The injuries involved only male workers.",
+        "context_after": "Workers with high SR People incidence or high risk of diseases related to their occupation 403-4 Health and safety During",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "128.txt",
+        "context_before": "involved only male workers. 403-3 Workers with high SR People incidence or high risk of diseases related to their occupation",
+        "context_after": "Health and safety During the year, there were topics covered in formal no trade union agreements agreements with trade in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "128.txt",
+        "context_before": "this area. unions GRI 404 103-1, 103-2, Management Approach SR People Training and 103-3 DNF People management aspects Education 2016",
+        "context_after": "Average hours of training SR People per year per employee SR Performance figures and indicators 404-2 Programs for upgrading SR",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "128.txt",
+        "context_before": "management aspects Education 2016 404-1 Average hours of training SR People per year per employee SR Performance figures and indicators",
+        "context_after": "Programs for upgrading SR People employee skills and transition assistance programs 404-3 Percentage of employees SR People The number of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "128.txt",
+        "context_before": "year per employee SR Performance figures and indicators 404-2 Programs for upgrading SR People employee skills and transition assistance programs",
+        "context_after": "Percentage of employees SR People The number of employees receiving regular evaluated within the performance and career Performance Management development",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "128.txt",
+        "context_before": "and gender (page 80). GRI 405 103-1, 103-2, Management Approach SR People Diversity 103-3 DNF People management aspects and equal",
+        "context_after": "Diversity of governance SR People opportunities 2016 bodies and employees SR Business integrity SR Performance figures and indicators 405-2 Ratio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "128.txt",
+        "context_before": "equal 405-1 Diversity of governance SR People opportunities 2016 bodies and employees SR Business integrity SR Performance figures and indicators",
+        "context_after": "Ratio of basic salary and SR People remuneration of women SR Performance figures and indicators\" to men Annex 127",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "129.txt",
+        "context_before": "material topics (GRI 400) GRI 406 103-1, 103-2, Management Approach SR People Non discrimination 103-3 DNF Protecting Human Rights 2016",
+        "context_after": "Incidents of discrimination DNF Protecting Human Rights and corrective actions taken GRI 413 Comunit 103-1, 103-2, Management Approach SR Stakeholder",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "129.txt",
+        "context_before": "103-1, 103-2, Management Approach SR Stakeholder relationships locali 2016 103-3 SR Protecting the local area and biodiversity DNF Social aspects",
+        "context_after": "Operations with local SR The pursue of a new energy community engagement, SR Protecting the local area and impact assessments,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "129.txt",
+        "context_before": "of a new energy community engagement, SR Protecting the local area and impact assessments, and biodiversity development programs SR People",
+        "context_after": "Operations with significant SR Protecting the local area and actual and potential biodiversity negative impacts on local communities GRI 419",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "129.txt",
+        "context_before": "on local communities GRI 419 103-1, 103-2, Management Approach RS Business integrity Socio-Economic 103-3 DNF Anticorruption and bribery Compliance 2016",
+        "context_after": "Non-compliance with laws DNF Anticorruption and bribery and regulations in the social RF Disputes and other measures (in and economic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

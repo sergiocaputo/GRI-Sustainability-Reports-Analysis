@@ -1,0 +1,961 @@
+{
+    "GRI 200": {
+        "page": "219.txt",
+        "context_before": "STANDARD SPECIFICI MATERIALI",
+        "context_after": ": ECONOMICO TEMA PERFORMANCE ECONOMICHE 103-1 Spiegazione del tema materiale e del relativo perimetro. Art. 4 comma 1: la dichiarazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": {
+        "page": "219.txt",
+        "context_before": "162. 201-2 Implicazioni finanziarie e altri rischi e opportunit dovuti al cambiamento Art. 3 comma 1 lettera c): limpatto ()",
+        "context_after": ": climatico. sullambiente Performance Lidentit aziendale pagg. 28-33, 34, 38, 75; Le relazioni con gli stakeholder pag. 160; economiche 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "219.txt",
+        "context_before": "servizi sono impegni commerciali, in natura o pro bono). L'identit aziendale pagg. 79-83; Le relazioni con gli stakeholder pagg. 97-118,",
+        "context_after": ": 98-99 tabella n. 17, 107 tabella n. 24, 132-134, 166 e grafico n. 44; Le relazioni con Impatti economici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 204": {
+        "page": "220.txt",
+        "context_before": "fornitori locali (in relazione alle sedi operative Art. 3 comma 1 lettera b): indicatori pi significative). fondamentali di prestazione di",
+        "context_after": ": Pratiche Non  prevista una specifica strategia preferenziale per i fornitori locali, anche se, carattere non finanziario di approvvigionamento",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 205": {
+        "page": "220.txt",
+        "context_before": "passiva 205-2 Comunicazione e formazione in materia di politiche e procedure anticor- Art. 3 comma 1 lettera a): il modello",
+        "context_after": ": ruzione (indicare il numero e la percentuale di membri dellorgano di governo e aziendale di gestione ed organizzazione; Anti-corruzione",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "221.txt",
+        "context_before": "conseguiti tramite di esse 206-1 Azioni legali per comportamento anticoncorrenziale, antitrust e pratiche Art. 3 comma 1 lettera b): indicatori",
+        "context_after": ": monopolistiche (numero di azioni legali in corso o concluse durante il periodo fondamentali di prestazione di Comportamento anti- di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "17.txt",
+        "context_before": "102-18 a GRI 102-39 aziendali e nelle business unit GRI 102-9  GRI 102-10  GRI 102-25 CRITERI 1-2 ",
+        "context_after": " GRI 103 (1-3) di GRI 308 implementazione dei dieci principi Valutazione ambientale dei fornitori  GRI nelle strategie e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": {
+        "page": "18.txt",
+        "context_before": "serie GRI 400: e delle procedure sistemi di gestione; SOCIALE 2016): riguardanti lanticorruzione meccanismi di monitoraggio e valutazione Anti-corruzione (da",
+        "context_after": "a GRI 205-3) Politica pubblica (contributi politici) (GRI 415-1) GRI 103 (1-3) di tutti gli standard specifici materiali ricompresi nelle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-2": false,
+    "GRI 205-3": {
+        "page": "18.txt",
+        "context_before": "e delle procedure sistemi di gestione; SOCIALE 2016): riguardanti lanticorruzione meccanismi di monitoraggio e valutazione Anti-corruzione (da GRI 205-1 a",
+        "context_after": ") Politica pubblica (contributi politici) (GRI 415-1) GRI 103 (1-3) di tutti gli standard specifici materiali ricompresi nelle serie CRITERI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "219.txt",
+        "context_before": "b): le politiche Lidentit aziendale pagg. 33, 35, 36 ss. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": "Valore economico direttamente generato e distribuito (inclusi ricavi, costi Art. 3 comma 1 lettera d): aspetti operativi, salari e benefit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "219.txt",
+        "context_before": "comunit ). personale Lidentit aziendale pagg. 34 tabella n. 7, 79-83, 84; Le relazioni con gli stakeholder pagg. 148, 162.",
+        "context_after": "Implicazioni finanziarie e altri rischi e opportunit dovuti al cambiamento Art. 3 comma 1 lettera c): limpatto () GRI 201:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-3": {
+        "page": "219.txt",
+        "context_before": "34, 38, 75; Le relazioni con gli stakeholder pag. 160; economiche 2016 Le relazioni con lambiente pagg. 173, 192 s.",
+        "context_after": "Piani pensionistici a benefici definiti e altri piani di pensionamento. Art. 3 comma 1 lettera d): aspetti Le relazioni con",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "219.txt",
+        "context_before": "d): aspetti Le relazioni con gli stakeholder pagg. 148, 149 tabella n. 40. sociali e attinenti alla gestione del personale",
+        "context_after": "Assistenza finanziaria ricevuta dal governo. n.a. Lidentit aziendale pag. 84 nota 24. TEMA IMPATTI ECONOMICI INDIRETTI 103-1 Spiegazione del tema",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "219.txt",
+        "context_before": "ss., 79-83; Le relazioni con gli stakeholder pagg. 97-118, praticate dallimpresa () e i risultati 136. conseguiti tramite di esse",
+        "context_after": "Investimenti infrastrutturali e servizi finanziati (indicare la portata degli in- Art. 3 comma 2 lettera c): limpatto vestimenti infrastrutturali significativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "219.txt",
+        "context_before": "107 tabella n. 24, 132-134, 166 e grafico n. 44; Le relazioni con Impatti economici lambiente pag. 175. indiretti 2016",
+        "context_after": "Impatti economici indiretti significativi (fornire esempi di impatti econo- Art. 3 comma 2 lettera c): limpatto mici indiretti significativi individuati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "220.txt",
+        "context_before": "36 ss.; Le relazioni con gli stakeholder pagg. 135 s. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": "Proporzione di spesa verso fornitori locali (in relazione alle sedi operative Art. 3 comma 1 lettera b): indicatori pi significative).",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "220.txt",
+        "context_before": "ss., 73 s.; Le relazioni con gli stakeholder pag. 155. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": "Operazioni valutate per i rischi legati alla corruzione (indicare il numero e la Art. 3 comma 1, lettera c): i",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-2": {
+        "page": "220.txt",
+        "context_before": "rischi, generati o subiti; comma 2, Lidentit aziendale pag. 73. lettera f): lotta contro la corruzione sia attiva sia passiva",
+        "context_after": "Comunicazione e formazione in materia di politiche e procedure anticor- Art. 3 comma 1 lettera a): il modello GRI 205:",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "220.txt",
+        "context_before": "2, lettera f): lotta contro la di anticorruzione). corruzione sia attiva sia passiva Le relazioni con gli stakeholder pag. 155.",
+        "context_after": "Episodi di corruzione accertati e azioni intraprese (indicare numero totale Art. 3 comma 2 lettera f): lotta contro e natura",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "221.txt",
+        "context_before": "s.; Le relazioni con gli stakeholder pagg. 135, 155, praticate dallimpresa () e i risultati 162. conseguiti tramite di esse",
+        "context_after": "Azioni legali per comportamento anticoncorrenziale, antitrust e pratiche Art. 3 comma 1 lettera b): indicatori GRI 206: monopolistiche (numero di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "221.txt",
+        "context_before": "non finanziario concorrenziale 2016 delle normative antitrust e relative alle pratiche monopolistiche). Le relazioni con gli stakeholder pagg. 162 s.",
+        "context_after": ": AMBIENTALE TEMA MATERIALI 103-1 Spiegazione del tema materiale e del relativo perimetro. Art. 4 comma 1: la dichiarazione Lidentit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": {
+        "page": "221.txt",
+        "context_before": "con lambiente pagg. 191 e tabella n. 56, 194 e tabella n. 61; Bilancio ambientale pagg. 243, 250 ss., 254.",
+        "context_after": ": Materiali 2016 301-2 Materiali utilizzati che provengono da riciclo. Art. 3 comma 2 lettera c): limpatto Le relazioni con",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "222.txt",
+        "context_before": "26; Le relazioni con lambiente pag. 192. risorse energetiche 302-3 Intensit energetica. Art. 3 comma 2 lettera a): lutilizzo di",
+        "context_after": ": Le relazioni con lambiente pagg. 191, 192 tabella n. 59, 192 s. risorse energetiche Energia 2016 302-4 Riduzione del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "222.txt",
+        "context_before": "2 lettera a): limpiego di Le relazioni con lambiente pagg. 194 tabella n. 61; Bilancio ambientale pagg. 247. risorse idriche",
+        "context_after": ": 303-2 Fonti idriche significativamente interessate dal prelievo di acqua. Art. 3 comma 2 lettera a): limpiego di Acqua 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "222.txt",
+        "context_before": "174-177. 304-2 Impatti significativi di attivit , prodotti e servizi sulla biodiversit . Art. 3 comma 2 lettera c): limpatto",
+        "context_after": ": Le relazioni con lambiente pagg. 174-177, 181. () sullambiente Biodiversit 2016 304-3 Habitat protetti o ripristinati. Art. 3 comma",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "223.txt",
+        "context_before": "Altre emissioni indirette di GHG - gas a effetto serra (Scope 3). Art. 3 comma 2 lettera b): le emissioni",
+        "context_after": ": Le relazioni con lambiente pagg. 197 tabella n. 65. di gas ad effetto serra Emissioni 2016 305-4 Intensit delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "224.txt",
+        "context_before": "di circa 916 t di carta (+9% rispetto al 2018) e 622 t di plastica (+28% rispetto al 2018). Non",
+        "context_after": ": sono disponibili informazioni di dettaglio sulla tipologia di smaltimento in quanto il Scarichi idrici codice R13 della normativa vigente",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "224.txt",
+        "context_before": "stakeholder pag. 155; Le relazioni praticate dallimpresa () e i risultati con lambiente pagg. 173 s. conseguiti tramite di esse",
+        "context_after": ": Conformit 307-1 Non conformit con leggi e normative in materia ambientale (inclusi il valo- Art. 3 comma 1 lettera",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "225.txt",
+        "context_before": "relazioni con lambiente pag. 192. derivano dalle attivit dellimpresa, dai suoi prodotti, servizi o rapporti commerciali, incluse, ove rilevanti, le",
+        "context_after": ": catene di fornitura e subappalto Valutazione 308-2 Impatti ambientali negativi nella catena di fornitura e azioni intraprese. Art. 3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301-1": {
+        "page": "18.txt",
+        "context_before": "GRI 103 (1-3) e indicatori dei seguenti standard specifici (serie GRI 300: AMBIENTALE 2016): Materiali (",
+        "context_after": "e 301-2) CRITERI 9-11 AMBIENTE Energia (da GRI 302-1 a GRI 302-4) solida gestione delle politiche impegni strategie o politiche;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "18.txt",
+        "context_before": "indicatori dei seguenti standard specifici (serie GRI 300: AMBIENTALE 2016): Materiali (GRI 301-1 e 301-2) CRITERI 9-11 AMBIENTE Energia (da",
+        "context_after": "a GRI 302-4) solida gestione delle politiche impegni strategie o politiche; Acqua (da GRI 303-1 a GRI 303-3) e delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "18.txt",
+        "context_before": "standard specifici (serie GRI 300: AMBIENTALE 2016): Materiali (GRI 301-1 e 301-2) CRITERI 9-11 AMBIENTE Energia (da GRI 302-1 a",
+        "context_after": ") solida gestione delle politiche impegni strategie o politiche; Acqua (da GRI 303-1 a GRI 303-3) e delle procedure sistemi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "18.txt",
+        "context_before": "CRITERI 9-11 AMBIENTE Energia (da GRI 302-1 a GRI 302-4) solida gestione delle politiche impegni strategie o politiche; Acqua (da",
+        "context_after": "a GRI 303-3) e delle procedure sistemi di gestione; Biodiversit (da GRI 304-1 a GRI 304-4) riguardanti lambiente meccanismi di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": {
+        "page": "18.txt",
+        "context_before": "Energia (da GRI 302-1 a GRI 302-4) solida gestione delle politiche impegni strategie o politiche; Acqua (da GRI 303-1 a",
+        "context_after": ") e delle procedure sistemi di gestione; Biodiversit (da GRI 304-1 a GRI 304-4) riguardanti lambiente meccanismi di monitoraggio e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": {
+        "page": "18.txt",
+        "context_before": "politiche impegni strategie o politiche; Acqua (da GRI 303-1 a GRI 303-3) e delle procedure sistemi di gestione; Biodiversit (da",
+        "context_after": "a GRI 304-4) riguardanti lambiente meccanismi di monitoraggio e valutazione Emissioni (da GRI 305-1 a GRI 305-7) Scarichi idrici e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": {
+        "page": "18.txt",
+        "context_before": "o politiche; Acqua (da GRI 303-1 a GRI 303-3) e delle procedure sistemi di gestione; Biodiversit (da GRI 304-1 a",
+        "context_after": ") riguardanti lambiente meccanismi di monitoraggio e valutazione Emissioni (da GRI 305-1 a GRI 305-7) Scarichi idrici e rifiuti (da",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-1": {
+        "page": "18.txt",
+        "context_before": "procedure sistemi di gestione; Biodiversit (da GRI 304-1 a GRI 304-4) riguardanti lambiente meccanismi di monitoraggio e valutazione Emissioni (da",
+        "context_after": "a GRI 305-7) Scarichi idrici e rifiuti (da GRI 306-1 a GRI 306-5) Conformit ambientale (GRI 307-1) Valutazione ambientale dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": {
+        "page": "17.txt",
+        "context_before": "implementazione dei dieci principi Valutazione ambientale dei fornitori  GRI nelle strategie e nella gestione implementazione della sostenibilit 302-2 ",
+        "context_after": " GRI 308-1  operativa del business nella catena del valore GRI 308-2  GRI 103 (1-3) di GRI 414",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": {
+        "page": "18.txt",
+        "context_before": "gestione; Biodiversit (da GRI 304-1 a GRI 304-4) riguardanti lambiente meccanismi di monitoraggio e valutazione Emissioni (da GRI 305-1 a",
+        "context_after": ") Scarichi idrici e rifiuti (da GRI 306-1 a GRI 306-5) Conformit ambientale (GRI 307-1) Valutazione ambientale dei fornitori (GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-1": {
+        "page": "18.txt",
+        "context_before": "304-4) riguardanti lambiente meccanismi di monitoraggio e valutazione Emissioni (da GRI 305-1 a GRI 305-7) Scarichi idrici e rifiuti (da",
+        "context_after": "a GRI 306-5) Conformit ambientale (GRI 307-1) Valutazione ambientale dei fornitori (GRI 308-1 e GRI 308-2) GRI 102-16, GRI 102-17,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "18.txt",
+        "context_before": "Emissioni (da GRI 305-1 a GRI 305-7) Scarichi idrici e rifiuti (da GRI 306-1 a GRI 306-5) Conformit ambientale (",
+        "context_after": ") Valutazione ambientale dei fornitori (GRI 308-1 e GRI 308-2) GRI 102-16, GRI 102-17, GRI 103 (1-3) e indicatori dei",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308-1": {
+        "page": "17.txt",
+        "context_before": "principi Valutazione ambientale dei fornitori  GRI nelle strategie e nella gestione implementazione della sostenibilit 302-2  GRI 305-3 ",
+        "context_after": " operativa del business nella catena del valore GRI 308-2  GRI 103 (1-3) di GRI 414 Valutazione sociale dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-2": {
+        "page": "18.txt",
+        "context_before": "idrici e rifiuti (da GRI 306-1 a GRI 306-5) Conformit ambientale (GRI 307-1) Valutazione ambientale dei fornitori (GRI 308-1 e",
+        "context_after": ") GRI 102-16, GRI 102-17, GRI 103 (1-3) e indicatori dei seguenti CRITERI 12-14 LOTTA ALLA CORRUZIONE topic-specific standards (serie",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "301-1": {
+        "page": "221.txt",
+        "context_before": "con lambiente pagg. 173 s., 191; Bilancio praticate dallimpresa () e i risultati ambientale pag. 243. conseguiti tramite di esse",
+        "context_after": "Materiali utilizzati per peso o volume (materiali utilizzati per produrre e Art. 3 comma 2 lettera c): limpatto confezionare i",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "221.txt",
+        "context_before": "e tabella n. 56, 194 e tabella n. 61; Bilancio ambientale pagg. 243, 250 ss., 254. GRI 301: Materiali 2016",
+        "context_after": "Materiali utilizzati che provengono da riciclo. Art. 3 comma 2 lettera c): limpatto Le relazioni con lambiente pag. 191 e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "221.txt",
+        "context_before": "riciclo. Art. 3 comma 2 lettera c): limpatto Le relazioni con lambiente pag. 191 e tabella n. 56. () sullambiente",
+        "context_after": "Prodotti recuperati o rigenerati e relativi materiali di imballaggio (indicare Art. 3 comma 2 lettera c): limpatto la percentuale in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "222.txt",
+        "context_before": "",
+        "context_after": "Energia consumata allinterno dellorganizzazione. Art. 3 comma 2 lettera a): lutilizzo di Le relazioni con lambiente pagg. 191, 192 tabelle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "222.txt",
+        "context_before": "comma 2 lettera a): lutilizzo di Le relazioni con lambiente pagg. 191, 192 tabelle nn. 57 e 58. risorse energetiche",
+        "context_after": "Energia consumata al di fuori dellorganizzazione. Art. 3 comma 2 lettera a): lutilizzo di Lidentit aziendale pag. 26; Le relazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "222.txt",
+        "context_before": "Art. 3 comma 2 lettera a): lutilizzo di Lidentit aziendale pag. 26; Le relazioni con lambiente pag. 192. risorse energetiche",
+        "context_after": "Intensit energetica. Art. 3 comma 2 lettera a): lutilizzo di GRI 302: Le relazioni con lambiente pagg. 191, 192 tabella",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "222.txt",
+        "context_before": "lutilizzo di GRI 302: Le relazioni con lambiente pagg. 191, 192 tabella n. 59, 192 s. risorse energetiche Energia 2016",
+        "context_after": "Riduzione del consumo di energia. Art. 3 comma 2 lettera a): lutilizzo di Le relazioni con lambiente pagg. 192 s.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "222.txt",
+        "context_before": "consumo di energia. Art. 3 comma 2 lettera a): lutilizzo di Le relazioni con lambiente pagg. 192 s. risorse energetiche",
+        "context_after": "Riduzione del fabbisogno energetico di prodotti e servizi. Art. 3 comma 2 lettera a): lutilizzo di Non applicabile: il Gruppo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "222.txt",
+        "context_before": "i risultati 111-113; Le relazioni con lambiente pagg. 173 s., 174 ss., 185, 186 s., 194. conseguiti tramite di esse",
+        "context_after": "Volume totale di acqua prelevata per fonte. Art. 3 comma 2 lettera a): limpiego di Le relazioni con lambiente pagg.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "222.txt",
+        "context_before": "a): limpiego di Le relazioni con lambiente pagg. 194 tabella n. 61; Bilancio ambientale pagg. 247. risorse idriche GRI 303:",
+        "context_after": "Fonti idriche significativamente interessate dal prelievo di acqua. Art. 3 comma 2 lettera a): limpiego di Acqua 2016 Le relazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "222.txt",
+        "context_before": "di acqua. Art. 3 comma 2 lettera a): limpiego di Acqua 2016 Le relazioni con lambiente pag. 194. risorse idriche",
+        "context_after": "Percentuale e volume totale dellacqua riciclata e riutilizzata. Art. 3 comma 2 lettera a): limpiego di Le relazioni con lambiente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "222.txt",
+        "context_before": "pagg. 36 ss.; Le relazioni con lambiente pagg. 173 s. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": "Siti operativi di propriet , detenuti in locazione, gestiti in (o adiacenti ad) Art. 3 comma 2 lettera c): limpatto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-2": {
+        "page": "222.txt",
+        "context_before": "protette e aree a elevato valore di biodiversit esterne alle aree protette. () sullambiente Le relazioni con lambiente pagg. 174-177.",
+        "context_after": "Impatti significativi di attivit , prodotti e servizi sulla biodiversit . Art. 3 comma 2 lettera c): limpatto GRI 304:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": {
+        "page": "222.txt",
+        "context_before": "Art. 3 comma 2 lettera c): limpatto GRI 304: Le relazioni con lambiente pagg. 174-177, 181. () sullambiente Biodiversit 2016",
+        "context_after": "Habitat protetti o ripristinati. Art. 3 comma 2 lettera c): limpatto Le relazioni con lambiente pagg. 174-177. () sullambiente 304-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-4": {
+        "page": "222.txt",
+        "context_before": "304-3 Habitat protetti o ripristinati. Art. 3 comma 2 lettera c): limpatto Le relazioni con lambiente pagg. 174-177. () sullambiente",
+        "context_after": "Specie elencate nella Red List dellIUCN e negli elenchi nazionali che Art. 3 comma 2 lettera c): limpatto trovano il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-1": {
+        "page": "223.txt",
+        "context_before": "130; Le relazioni praticate dallimpresa () e i risultati con lambiente pagg. 173 s., 195 s. conseguiti tramite di esse",
+        "context_after": "Emissioni dirette di GHG - gas a effetto serra (Scope 1). Art. 3 comma 2 lettera b): le emissioni La",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "223.txt",
+        "context_before": "2019, a 364.887 t. Le relazioni con lambiente pagg. 195, 197 tabella n. 65; Bilancio ambientale pagg. 253 s., 255.",
+        "context_after": "Emissioni indirette di GHG - gas a effetto serra - da consumi energetici Art. 3 comma 2 lettera b): le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "223.txt",
+        "context_before": "di gas ad effetto serra Le relazioni con lambiente pagg. 196, 197 tabella n. 65; Bilancio ambientale pagg. 253 s.",
+        "context_after": "Altre emissioni indirette di GHG - gas a effetto serra (Scope 3). Art. 3 comma 2 lettera b): le emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-4": {
+        "page": "223.txt",
+        "context_before": "le emissioni GRI 305: Le relazioni con lambiente pagg. 197 tabella n. 65. di gas ad effetto serra Emissioni 2016",
+        "context_after": "Intensit delle emissioni di GHG - gas a effetto serra. Art. 3 comma 2 lettera b): le emissioni Le relazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "223.txt",
+        "context_before": "2 lettera b): le emissioni Le relazioni con lambiente pagg. 196, 197 tabella n. 65. di gas ad effetto serra",
+        "context_after": "Riduzione delle emissioni di GHG - gas a effetto serra. Art. 3 comma 2 lettera b): le emissioni Le relazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "223.txt",
+        "context_before": "relazioni con lambiente pagg. 181, 192 s., 193 tabella n. 60, 197 tabella n. 65. di gas ad effetto serra",
+        "context_after": "Emissioni di sostanze dannose per ozono (ODS, ozone-depleting sub- Art. 3 comma 2 lettera b): le emissioni stances). di gas",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-7": {
+        "page": "223.txt",
+        "context_before": "b): le emissioni stances). di gas ad effetto serra Le relazioni con lambiente pag. 196; Bilancio ambientale pagg. 250, 252.",
+        "context_after": "Ossidi di azoto (NO ), ossidi di zolfo (SO ) e altre emissioni significative. Art. 3 comma 2 lettera b):",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-1": {
+        "page": "224.txt",
+        "context_before": "",
+        "context_after": "Scarico idrico per qualit e destinazione. Art. 3 comma 2 lettera a): limpiego di Lacqua utilizzata dalle strutture Acea per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "224.txt",
+        "context_before": "scarico dellacqua depurata di tutti gli impianti non  significativo. Le relazioni con lambiente pag. 188; Bilancio ambientale pag. 249.",
+        "context_after": "Rifiuti per tipo e metodo di smaltimento. Art. 3 comma 2 lettera c): limpatto Il totale rifiuti prodotti pericolosi ",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": {
+        "page": "224.txt",
+        "context_before": "sui rifiuti (il pi utilizzato dagli smaltitori) non e rifiuti 2016 ne consente lidentificazione. Bilancio ambientale pagg. 253 s., 255.",
+        "context_after": "Sversamenti significativi. Art. 3 comma 2 ettera c): limpatto () Nel 2019 non si sono verificati rilasci significativi in ambiente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-4": {
+        "page": "224.txt",
+        "context_before": "2019 non si sono verificati rilasci significativi in ambiente di sostanze inquinanti sullambiente quali olio minerale, combustibili o prodotti chimici.",
+        "context_after": "Trasporto di rifiuti pericolosi. Art. 3 comma 2 lettera c): limpatto Le relazioni con lambiente pag. 183. () sullambiente 306-5",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-5": {
+        "page": "224.txt",
+        "context_before": "306-4 Trasporto di rifiuti pericolosi. Art. 3 comma 2 lettera c): limpatto Le relazioni con lambiente pag. 183. () sullambiente",
+        "context_after": "Bacini idrici interessati da scarichi idrici e/o ruscellamento (inclusi dimen- Art. 3 comma 2 lettera c): limpatto sioni del bacino",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "307-1": {
+        "page": "224.txt",
+        "context_before": "Le relazioni praticate dallimpresa () e i risultati con lambiente pagg. 173 s. conseguiti tramite di esse GRI 307: Conformit",
+        "context_after": "Non conformit con leggi e normative in materia ambientale (inclusi il valo- Art. 3 comma 1 lettera b): le politiche",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "225.txt",
+        "context_before": "",
+        "context_after": "Nuovi fornitori che sono stati valutati utilizzando criteri ambientali (indi- Art. 3 comma 1 lettera c): i principali care la",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "225.txt",
+        "context_before": "dellimpresa, dai suoi prodotti, servizi o rapporti commerciali, incluse, ove rilevanti, le GRI 308: catene di fornitura e subappalto Valutazione",
+        "context_after": "Impatti ambientali negativi nella catena di fornitura e azioni intraprese. Art. 3 comma 1, lettera c): i principali ambientale dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": {
+        "page": "225.txt",
+        "context_before": "servizi o rapporti commerciali, incluse, ove rilevanti, le catene di fornitura e subappalto; comma 2, lettera c): l'impatto () sull'ambiente",
+        "context_after": ": SOCIALE TEMA OCCUPAZIONE 103-1 Spiegazione del tema materiale e del relativo perimetro. Art. 4 comma 1: la dichiarazione Lidentit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "225.txt",
+        "context_before": "i impedire atteggiamenti ed azioni riposi, i permessi e il sostegno economico delle lavoratrici e dei lavoratori connessi comunque discriminatori",
+        "context_after": ": alla maternit e paternit di figli naturali, adottivi e in affidamento. Occupazione 2016 La normativa vieta qualsiasi discriminazione per",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": {
+        "page": "226.txt",
+        "context_before": "36 ss.; Le relazioni con gli stakeholder pagg. 149 ss. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": ": 402-1 Periodo minimo di preavviso per cambiamenti operativi (specificando se Art. 3 comma 2 lettera d): modalit Relazioni industriali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "226.txt",
+        "context_before": "teismo e numero totale di decessi, divisi per area geografica e per genere. () sulla salute e la sicurezza; lettera",
+        "context_after": ": Nel 2019 il tasso di assenteismo  pari al 3,58% (3,51% il tasso di assenteismo d): aspetti attinenti alla",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "227.txt",
+        "context_before": "dipendenti e program- Art. 3 comma 2 lettera d): aspetti mi di assistenza alla transizione. attinenti alla gestione del personale",
+        "context_after": ": Le relazioni con gli stakeholder pagg. 152 ss., 154-156, 157. Formazione 404-3 Percentuale di dipendenti che ricevono una valutazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "227.txt",
+        "context_before": "e OdV, si segnala che l1% ha fino a 30 anni; il 47%  compreso nella fascia 30-50 anni; il",
+        "context_after": ": 52% ha oltre 50 anni. Diversit e pari Lidentit aziendale pag. 68; Le relazioni con gli stakeholder pagg. 145-146",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": {
+        "page": "228.txt",
+        "context_before": "risultati conseguiti tramite di esse 406-1 Episodi di discriminazione e misure correttive adottate. Art. 3 comma 2, lettera d): aspetti",
+        "context_after": ": Lidentit aziendale pag. 73; Le relazioni con gli stakeholder pag. 159. sociali e attinenti alla gestione del Non discriminazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "228.txt",
+        "context_before": "e Il 100% delle principali Societ del Gruppo mettono in atto iniziative di coinvolgi- la sicurezza mento delle parti interessate.",
+        "context_after": ": Comunicare la sostenibilit : nota metodologica pagg. 15-17; Lidentit aziendale Comunit pagg. 76 ss. e tabella n. 12, 79-83;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "229.txt",
+        "context_before": "che Le relazioni con gli stakeholder pagg. 136, 140 s. derivano dalle attivit dell'impresa, dai suoi prodotti, servizi o rapporti",
+        "context_after": ": commerciali, incluse, ove rilevanti, Valutazione sociale le catene di fornitura e subappalto; dei fornitori 2016 comma 2, lettera c):",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": {
+        "page": "229.txt",
+        "context_before": "36 ss.; Le relazioni con gli stakeholder pagg. 162 ss. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": ": 415-1 Contributi politici (indicare il valore monetario totale dei contributi politici Art. 3 comma 2 lettera f): lotta contro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "229.txt",
+        "context_before": "alle quali vengono valutati gli impatti). Lidentit aziendale pagg. 76 ss. e tabella n. 12; Le relazioni con gli stakeholder",
+        "context_after": ": pagg. 108-109 tabella n. 25, 111-113; Le relazioni con lambiente pagg. 181, 185-187. Salute e sicurezza dei consumatori 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417": {
+        "page": "230.txt",
+        "context_before": "a regolazione dellAutorit nazionale di settore (ARERA). Le relazioni con gli stakeholder pagg. 97-118, 101 tabella n. 20, 104-105 tabella",
+        "context_after": ": n. 21, 105 tabella n. 22, 106 tabella n. 23, 111 tabella n. 26, 114-115 tabella n. 27, Marketing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "230.txt",
+        "context_before": "1 lettera b): indicatori dita di dati dei clienti (ricevute da parti terze e confermate dallorganizzazione fondamentali di prestazione di",
+        "context_after": ": o da enti regolatori). carattere non finanziario Privacy Nellanno sono pervenute 118 richieste pertinenti lesercizio dei diritti di cui",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 419": {
+        "page": "231.txt",
+        "context_before": "ss.; Le relazioni con gli stakeholder pagg. 113-118, 124, 162. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": ": 419-1 Non conformit con leggi e normative in materia sociale ed economica. Art. 3 comma 1 lettera b): le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-1": {
+        "page": "17.txt",
+        "context_before": "illustrati nel presente volume. GRI 103 (1-3) e indicatori dei seguenti standard specifici (serie GRI 400: SOCIALE 2016): Occupazione (da",
+        "context_after": "a GRI 401-3) CRITERI 6-8 LAVORO Relazioni industriali (GRI 402-1) solida gestione delle politiche impegni strategie o politiche; Salute e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": {
+        "page": "17.txt",
+        "context_before": "volume. GRI 103 (1-3) e indicatori dei seguenti standard specifici (serie GRI 400: SOCIALE 2016): Occupazione (da GRI 401-1 a",
+        "context_after": ") CRITERI 6-8 LAVORO Relazioni industriali (GRI 402-1) solida gestione delle politiche impegni strategie o politiche; Salute e sicurezza sul",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402-1": {
+        "page": "17.txt",
+        "context_before": "standard specifici (serie GRI 400: SOCIALE 2016): Occupazione (da GRI 401-1 a GRI 401-3) CRITERI 6-8 LAVORO Relazioni industriali (",
+        "context_after": ") solida gestione delle politiche impegni strategie o politiche; Salute e sicurezza sul lavoro (da GRI 403-1 e delle procedure",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-1": {
+        "page": "17.txt",
+        "context_before": "6-8 LAVORO Relazioni industriali (GRI 402-1) solida gestione delle politiche impegni strategie o politiche; Salute e sicurezza sul lavoro (da",
+        "context_after": "e delle procedure del lavoro sistemi di gestione; a GRI 403-4) meccanismi di monitoraggio e valutazione Formazione e istruzione (da",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": {
+        "page": "17.txt",
+        "context_before": "del business nella catena del valore GRI 308-2  GRI 103 (1-3) di GRI 414 Valutazione sociale dei fornitori ",
+        "context_after": " GRI 414-1  GRI 414-2 Il tema Diritti Umani e gli indicatori ad esso correlati, cos come proposti dagli",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": {
+        "page": "17.txt",
+        "context_before": "strategie o politiche; Salute e sicurezza sul lavoro (da GRI 403-1 e delle procedure del lavoro sistemi di gestione; a",
+        "context_after": ") meccanismi di monitoraggio e valutazione Formazione e istruzione (da GRI 404-1 a GRI 404-3) Non discriminazione (GRI 406-1) Valutazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "17.txt",
+        "context_before": "e delle procedure del lavoro sistemi di gestione; a GRI 403-4) meccanismi di monitoraggio e valutazione Formazione e istruzione (da",
+        "context_after": "a GRI 404-3) Non discriminazione (GRI 406-1) Valutazione sociale dei fornitori (GRI 414-1, GRI 414-2) 18 Acea ha aggiornato autonomamente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": {
+        "page": "17.txt",
+        "context_before": "a GRI 403-4) meccanismi di monitoraggio e valutazione Formazione e istruzione (da GRI 404-1 a GRI 404-3) Non discriminazione (",
+        "context_after": ") Valutazione sociale dei fornitori (GRI 414-1, GRI 414-2) 18 Acea ha aggiornato autonomamente lo schema proposto, mettendo in relazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": {
+        "page": "17.txt",
+        "context_before": "catena del valore GRI 308-2  GRI 103 (1-3) di GRI 414 Valutazione sociale dei fornitori  GRI 403-2 ",
+        "context_after": " GRI 414-2 Il tema Diritti Umani e gli indicatori ad esso correlati, cos come proposti dagli Standard GRI, sono",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 414-2": {
+        "page": "17.txt",
+        "context_before": "GRI 308-2  GRI 103 (1-3) di GRI 414 Valutazione sociale dei fornitori  GRI 403-2  GRI 414-1 ",
+        "context_after": "Il tema Diritti Umani e gli indicatori ad esso correlati, cos come proposti dagli Standard GRI, sono pertinenti per le",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 415-1": {
+        "page": "18.txt",
+        "context_before": "2016): riguardanti lanticorruzione meccanismi di monitoraggio e valutazione Anti-corruzione (da GRI 205-1 a GRI 205-3) Politica pubblica (contributi politici) (",
+        "context_after": ") GRI 103 (1-3) di tutti gli standard specifici materiali ricompresi nelle serie CRITERI 15-18 strategie, attivit di business, azioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "225.txt",
+        "context_before": "stakeholder pagg. 135 s., 143, 147 s., praticate dallimpresa () e i risultati 153, 157, 160. conseguiti tramite di esse",
+        "context_after": "Nuove assunzioni e turnover (indicare il numero totale e tasso di turnover Art. 3 comma 2 lettera d): aspetti del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "225.txt",
+        "context_before": "e area geografica). attinenti alla gestione del personale Le relazioni con gli stakeholder pagg. 143 ss., 146-147 tabella n. 38.",
+        "context_after": "Benefit previsti per i dipendenti a tempo pieno ma non per i dipendenti Art. 3 comma 2 lettera d): aspetti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-3": {
+        "page": "225.txt",
+        "context_before": "aspetti part-time o con contratto a tempo determinato. attinenti alla gestione del personale Le relazioni con gli stakeholder pag. 158.",
+        "context_after": "Congedo parentale (incluso il tasso di rientro al lavoro e tasso di retention Art. 3 comma 2, lettera d): aspetti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": {
+        "page": "226.txt",
+        "context_before": "Le relazioni con gli stakeholder pagg. 149 ss. praticate dallimpresa () e i risultati conseguiti tramite di esse GRI 402:",
+        "context_after": "Periodo minimo di preavviso per cambiamenti operativi (specificando se Art. 3 comma 2 lettera d): modalit Relazioni industriali tali condizioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "226.txt",
+        "context_before": "relazioni con gli stakeholder pagg. 141 s., 151, praticate dallimpresa () e i risultati 153, 155. conseguiti tramite di esse",
+        "context_after": "Percentuale dei lavoratori rappresentati in commissioni formali per la salu- Art. 3 comma 2, lettera c): l'impatto te e la",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "226.txt",
+        "context_before": "sicurezza (composte da rappresentanti della direzione e dei lavoratori), tramite figure preposte. Le relazioni con gli stakeholder pagg. 150 s.",
+        "context_after": "Tasso di infortuni sul lavoro, di malattia, di giornate di lavoro perse, assen- Art. 3 comma 2, lettera c): l'impatto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "226.txt",
+        "context_before": "personale sul lavoro 2016 Le relazioni con gli stakeholder pagg. 142, 151-152 e grafico n. 42, 152-153 tabella n. 41.",
+        "context_after": "Dipendenti esposti ad alta frequenza o alto rischio di malattia legati alla Art. 3 comma 2, lettera c): l'impatto loro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "226.txt",
+        "context_before": "sulla salute e la sicurezza; lettera Le relazioni con gli stakeholder pag. 153. d): aspetti attinenti alla gestione del personale",
+        "context_after": "Accordi formali con i sindacati relativi alla salute e alla sicurezza. Art. 3 comma 2, lettera c): l'impatto Le relazioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "227.txt",
+        "context_before": "ss.; Le relazioni con gli stakeholder pagg. 153 s., 158. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": "Ore medie di formazione annua per dipendente. Art. 3 comma 2 lettera d): aspetti Le relazioni con gli stakeholder pagg.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "227.txt",
+        "context_before": "2 lettera d): aspetti Le relazioni con gli stakeholder pagg. 155-156 e tabella n. 42. attinenti alla gestione del personale",
+        "context_after": "Programmi di aggiornamento delle competenze dei dipendenti e program- Art. 3 comma 2 lettera d): aspetti mi di assistenza alla",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "227.txt",
+        "context_before": "alla transizione. attinenti alla gestione del personale GRI 404: Le relazioni con gli stakeholder pagg. 152 ss., 154-156, 157. Formazione",
+        "context_after": "Percentuale di dipendenti che ricevono una valutazione periodica delle Art. 3 comma 2 lettera d): aspetti e istruzione 2016 performance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "227.txt",
+        "context_before": "36 ss.; Le relazioni con gli stakeholder pagg. 148, 159. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": "Diversit negli organi di governo e tra i dipendenti (riportando la percen- Art. 3 comma 2 lettera d): aspetti tuale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "227.txt",
+        "context_before": "pag. 68; Le relazioni con gli stakeholder pagg. 145-146 e tabella opportunit 2016 n. 37, 147 tabella n. 39, 159.",
+        "context_after": "Rapporto dello stipendio base e retribuzione delle donne rispetto agli uo- Art. 3 comma 2 lettera d): aspetti mini (per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "228.txt",
+        "context_before": "36 ss., 73; Le relazioni con gli stakeholder pag. 159. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": "Episodi di discriminazione e misure correttive adottate. Art. 3 comma 2, lettera d): aspetti GRI 406: Lidentit aziendale pag. 73;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "228.txt",
+        "context_before": "con gli stakeholder pagg. 91-97, praticate dallimpresa () e i risultati 97-118, 128-132, 162, 163 s. conseguiti tramite di esse",
+        "context_after": "Attivit che prevedono il coinvolgimento delle comunit locali, valutazioni Art. 3 comma 2 lettera c): limpatto dimpatto e programmi di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "228.txt",
+        "context_before": "pagg. 91-97, 99, locali 2016 109 s., 113, 124, 128-134, 135 s., 140 s.; Le relazioni con lambiente pag. 172.",
+        "context_after": "Attivit con impatti negativi, potenziali e attuali significativi sulle comunit Art. 3 comma 2 lettera c): limpatto locali. () sullambiente",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": {
+        "page": "229.txt",
+        "context_before": "",
+        "context_after": "Nuovi fornitori che sono stati sottoposti a valutazione attraverso lutilizzo di Art. 3 comma 1, lettera c): i principali criteri",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "229.txt",
+        "context_before": "le catene di fornitura e subappalto; dei fornitori 2016 comma 2, lettera c): l'impatto () sulla salute e la sicurezza",
+        "context_after": "Impatti sociali negativi sulla catena di fornitura e azioni intraprese. Art. 3 comma 2 lettera c): limpatto Le relazioni con",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "229.txt",
+        "context_before": "Le relazioni con gli stakeholder pagg. 162 ss. praticate dallimpresa () e i risultati conseguiti tramite di esse GRI 415:",
+        "context_after": "Contributi politici (indicare il valore monetario totale dei contributi politici Art. 3 comma 2 lettera f): lotta contro Politica pubblica",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "229.txt",
+        "context_before": "113, 163 s.; praticate dallimpresa () e i risultati Le relazioni con lambiente pagg. 181, 185-187. conseguiti tramite di esse",
+        "context_after": "Valutazione degli impatti sulla salute e sulla sicurezza per categorie di pro- Art. 3 comma 2 lettera c): limpatto dotto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "229.txt",
+        "context_before": "416: pagg. 108-109 tabella n. 25, 111-113; Le relazioni con lambiente pagg. 181, 185-187. Salute e sicurezza dei consumatori 2016",
+        "context_after": "Episodi di non conformit riguardanti impatti sulla salute e sulla sicurezza Art. 3 comma 2 lettera c): limpatto di prodotti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "230.txt",
+        "context_before": "gli stakeholder pagg. 91-97, 97-118, praticate dallimpresa () e i risultati 120, 122 ss., 142, 162. conseguiti tramite di esse",
+        "context_after": "Requisiti in materia di informazione ed etichettatura di prodotti e servizi. Art. 3 comma 1 lettera b): indicatori Lindicatore internazionale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "230.txt",
+        "context_before": "116 tabella n. 29, 118 tabella n. 30, 119, 122-127; Le relazioni ed etichettatura con lambiente pagg. 185-187. di prodotti",
+        "context_after": "Episodi di non conformit in materia di informazione ed etichettatura di Art. 3 comma 1 lettera b): indicatori e servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "230.txt",
+        "context_before": "n. 27, 115-116 tabella n. 28, 116 tabella n. 29, 118 tabella n. 30, 120 s., 123 s., 162 s.",
+        "context_after": "Casi di non conformit riguardanti comunicazioni di marketing (precisando Art. 3 comma 1 lettera b): indicatori se hanno generato unammenda,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "230.txt",
+        "context_before": "71 s.; Le relazioni con gli stakeholder pagg. 122, 155. praticate dallimpresa () e i risultati conseguiti tramite di esse",
+        "context_after": "Denunce comprovate riguardanti le violazioni della privacy dei clienti e per- Art. 3 comma 1 lettera b): indicatori dita di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "231.txt",
+        "context_before": "relazioni con gli stakeholder pagg. 113-118, 124, 162. praticate dallimpresa () e i risultati conseguiti tramite di esse GRI 419:",
+        "context_after": "Non conformit con leggi e normative in materia sociale ed economica. Art. 3 comma 1 lettera b): le politiche Conformit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    }
+}

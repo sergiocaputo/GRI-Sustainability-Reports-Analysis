@@ -1,0 +1,535 @@
+{
+    "GRI 200": {
+        "page": "59.txt",
+        "context_before": "Standards prescelta 102-54 Nota metodologica dallorganizzazione. 102-55 GRI Content Index GRI Index 102-56 Attestazione esterna Relazione della societ di revisione",
+        "context_after": "Economico GRI 201 Performance Economica 103-1, P. 12 Cap. 2. Temi materiali, P.58 Cap 11 Spiegazione degli aspetti materiali e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 201": {
+        "page": "59.txt",
+        "context_before": "Nota metodologica dallorganizzazione. 102-55 GRI Content Index GRI Index 102-56 Attestazione esterna Relazione della societ di revisione GRI 200 Economico",
+        "context_after": "Performance Economica 103-1, P. 12 Cap. 2. Temi materiali, P.58 Cap 11 Spiegazione degli aspetti materiali e relativi confini, approccio",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "68.txt",
+        "context_before": "Sezione 3: Gestione responsabile della catena di fornitura Tabella 11: Percentuale di spesa concentrata su fornitori locali",
+        "context_after": "-122 Acquisti da fornitori locali (Milioni di Euro) 2017 2016 Acquisti da fornitori locali 511 630 Acquisti totali 584 712",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "59.txt",
+        "context_before": "fornitori locali in relazione alle P. 47 Cap. 9. Gestione responsabile della 204-1 sedi operative pi significative. catena di fornitura",
+        "context_after": "Anticorruzione 103-1, P. 12 Cap. 2. Temi materiali, P. 58 Cap 11 Spiegazione degli aspetti materiali e relativi confini, approccio",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "68.txt",
+        "context_before": "Sezione 3: Gestione responsabile della catena di fornitura Tabella 11: Percentuale di spesa concentrata su fornitori locali",
+        "context_after": "22 Acquisti da fornitori locali (Milioni di Euro) 2017 2016 Acquisti da fornitori locali 511 630 Acquisti totali 584 712",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "59.txt",
+        "context_before": "del 103-2, Tabella di correlazione GRI-materialit , P. management e valutazione sullapproccio del management 103-3 10 Cap 10 Valore economico",
+        "context_after": "Valore economico diretto generato e distribuito Pag. 10 Cap 1. Valore economico GRI 204 Pratiche di approvvigionamento P. 12 Cap.",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "68.txt",
+        "context_before": "Sezione 3: Gestione responsabile della catena di fornitura Tabella 11: Percentuale di spesa concentrata su fornitori locali GRI",
+        "context_after": "22 Acquisti da fornitori locali (Milioni di Euro) 2017 2016 Acquisti da fornitori locali 511 630 Acquisti totali 584 712",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "59.txt",
+        "context_before": "presente Dichiarazione non finanziaria non sono Eventuali episodi di corruzione riscontrati e attivit correttive stati riscontrati episodi di corruzione attiva",
+        "context_after": "implementate o passiva n attraverso le attivit specifiche sopra descritte svolte dallInternal Audit, n attraverso il canale di segnalazione allOdV.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "59.txt",
+        "context_before": "implementate o passiva n attraverso le attivit specifiche sopra descritte svolte dallInternal Audit, n attraverso il canale di segnalazione allOdV.",
+        "context_after": "Materiali 103-1, P. 12 Cap. 2. Temi materiali, P. 58 Cap 11 Spiegazione degli aspetti materiali e relativi confini, approccio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "69.txt",
+        "context_before": "rinnovabili 16.015 16.400 (385) -2% Totale emissioni (scope 1 + scope 2) 18.749 19.010 (261) -1% Tabella 14: Intensit energetica",
+        "context_after": "-327 Intensit energetica u.m. 2017 2016 Delta Delta % Consumi di energia kWh 56.865.474 56.521.515 343.959 1% Superficie totale delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "59.txt",
+        "context_before": "Intensit energetica (energy intensity), calcolata rapportando 302-3 P.52 Cap. 10. Tutela dellambiente l'energia consumata rispetto ad un parametro indicativo dell'azienda",
+        "context_after": "Acqua 103-1, P. 12 Cap. 2. Temi materiali, P. 58 Cap 11 Spiegazione degli aspetti materiali e relativi confini, approccio",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "69.txt",
+        "context_before": "Tabella 13: Emissioni dirette e indirette, suddivide per uffici e sedi e siti produttivi",
+        "context_after": "-1 e GRI 305-226 Emissioni di CO dirette e indirette (Tonnellate 2017 2016 Delta Delta % di CO) Emissioni dirette",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "69.txt",
+        "context_before": "11 3% /m2 Tabella 15: Rifiuti prodotti internamente per modalit di smaltimento, suddivisi per uffici e sedi e siti produttivi",
+        "context_after": "-2 Rifiuti Metodi di smaltimento - Siti Produttivi 2017 2016 Delta Delta % (Tonnellate) Rifiuti pericolosi 55 49 6 12%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "60.txt",
+        "context_before": "prodotti per tipologia e modalit di smaltimento (carta e rifiuti 306-2 P.52 Cap. 10. Tutela dellambiente tecnologici, macero, allegati, etc.)",
+        "context_after": "Compliance ambientale Valore monetario delle multe significative e numero delle sanzioni Nel corso del 2017 non si sono registrate 307-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "60.txt",
+        "context_before": "si sono registrate 307-1 non monetarie per mancato rispetto di regolamenti e leggi in materia multe o sanzioni significative ambientale",
+        "context_after": "Valutazione ambientale dei fornitori P. 12 Cap. 2. Temi materiali, P. 58 Cap 11 103-1, Spiegazione degli aspetti materiali e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "68.txt",
+        "context_before": "Sezione 4: Ambiente Tabella 12: Consumi di energia interni ed esterni allorganizzazione, suddivisi per uffici e sedi e siti produttivi",
+        "context_after": "Consumi di energia diretta e indiretta - Siti 2017 2016 Delta Delta % produttivi (Gigajoule) Consumo totale di energia diretta",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": {
+        "page": "69.txt",
+        "context_before": "rinnovabili 16.015 16.400 (385) -2% Totale emissioni (scope 1 + scope 2) 18.749 19.010 (261) -1% Tabella 14: Intensit energetica",
+        "context_after": "27 Intensit energetica u.m. 2017 2016 Delta Delta % Consumi di energia kWh 56.865.474 56.521.515 343.959 1% Superficie totale delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "69.txt",
+        "context_before": "Tabella 13: Emissioni dirette e indirette, suddivide per uffici e sedi e siti produttivi",
+        "context_after": "e GRI 305-226 Emissioni di CO dirette e indirette (Tonnellate 2017 2016 Delta Delta % di CO) Emissioni dirette (scope",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "69.txt",
+        "context_before": "11 3% /m2 Tabella 15: Rifiuti prodotti internamente per modalit di smaltimento, suddivisi per uffici e sedi e siti produttivi",
+        "context_after": "Rifiuti Metodi di smaltimento - Siti Produttivi 2017 2016 Delta Delta % (Tonnellate) Rifiuti pericolosi 55 49 6 12% Recupero,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "59.txt",
+        "context_before": "approccio del 103-2, Tabella di correlazione GRI-materialit , management e valutazione sullapproccio del management 103-3 P.52 Cap. 10. Tutela dellambiente",
+        "context_after": "Materiali utilizzati suddivisi per peso e volume P.52 Cap. 10. Tutela dellambiente GRI 302 Energia 103-1, P. 12 Cap. 2.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "68.txt",
+        "context_before": "4: Ambiente Tabella 12: Consumi di energia interni ed esterni allorganizzazione, suddivisi per uffici e sedi e siti produttivi GRI",
+        "context_after": "Consumi di energia diretta e indiretta - Siti 2017 2016 Delta Delta % produttivi (Gigajoule) Consumo totale di energia diretta",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "69.txt",
+        "context_before": "16.015 16.400 (385) -2% Totale emissioni (scope 1 + scope 2) 18.749 19.010 (261) -1% Tabella 14: Intensit energetica GRI",
+        "context_after": "27 Intensit energetica u.m. 2017 2016 Delta Delta % Consumi di energia kWh 56.865.474 56.521.515 343.959 1% Superficie totale delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "59.txt",
+        "context_before": "approccio del 103-2, Tabella di correlazione GRI-materialit , management e valutazione sullapproccio del management 103-3 P.52 Cap. 10. Tutela dellambiente",
+        "context_after": "Prelievi idrici degli uffici e delle strutture P.52 Cap. 10. Tutela dellambiente GRI 305 Emissioni 103-1, P. 12 Cap. 2.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "69.txt",
+        "context_before": "Tabella 13: Emissioni dirette e indirette, suddivide per uffici e sedi e siti produttivi GRI",
+        "context_after": "e GRI 305-226 Emissioni di CO dirette e indirette (Tonnellate 2017 2016 Delta Delta % di CO) Emissioni dirette (scope",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "69.txt",
+        "context_before": "Tabella 13: Emissioni dirette e indirette, suddivide per uffici e sedi e siti produttivi GRI 305-1 e GRI",
+        "context_after": "26 Emissioni di CO dirette e indirette (Tonnellate 2017 2016 Delta Delta % di CO) Emissioni dirette (scope 1) 2.734",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": {
+        "page": "59.txt",
+        "context_before": "dellambiente 305-2 Emissioni indirette (Scope 2) P.52 Cap. 10. Tutela dellambiente Nel corso del 2107 il Gruppo RCS non ha",
+        "context_after": "Emissioni di sostanze che danneggiano l'ozono in peso registrato emissioni di sostanze che danneggiano lozono. GRI 306 Scarichi e rifiuti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "69.txt",
+        "context_before": "3% /m2 Tabella 15: Rifiuti prodotti internamente per modalit di smaltimento, suddivisi per uffici e sedi e siti produttivi GRI",
+        "context_after": "Rifiuti Metodi di smaltimento - Siti Produttivi 2017 2016 Delta Delta % (Tonnellate) Rifiuti pericolosi 55 49 6 12% Recupero,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "60.txt",
+        "context_before": "307 Compliance ambientale Valore monetario delle multe significative e numero delle sanzioni Nel corso del 2017 non si sono registrate",
+        "context_after": "non monetarie per mancato rispetto di regolamenti e leggi in materia multe o sanzioni significative ambientale GRI 308 Valutazione ambientale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "60.txt",
+        "context_before": "avviene sulla base di criteri economici che Percentuale di nuovi fornitori valutati in base alla relativa non ponderano specificatamente criteri",
+        "context_after": "implementazione di criteri ambientali. sociali o ambientali predefiniti. RCS si impegna a includere nel processo di selezione dei fornitori criteri",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "64.txt",
+        "context_before": "Tabella 4: Numero dei dipendenti che hanno lasciato l'azienda17, per gruppo di et , genere e area geografica (",
+        "context_after": "-1) Numero dei dipendenti che hanno 2017 2016 lasciato l'azienda Uomo Donna Totale Uomo Donna Totale Italia 58 28 86",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": {
+        "page": "60.txt",
+        "context_before": "7. Gestione degli aspetti (suddivisi per et , genere e provenienza). relativi al personale, P. 64 Annex (Sezione 2: Personale)",
+        "context_after": "Lavoro/gestione delle relazioni P. 12 Cap. 2. Temi materiali, P. 58 Cap 11 103-1, Spiegazione degli aspetti materiali e relativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "67.txt",
+        "context_before": "(ODR), tasso dei giorni di lavoro persi (LDR), tasso di assenteismo (AR) e decessi sul lavoro, per tutti i dipendenti",
+        "context_after": "-221 2017 2016 Indici infortunistici Uomo Donna Totale Uomo Donna Totale Indice di Gravit 0,51 0,42 0,47 0,68 0,41 0,56",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "67.txt",
+        "context_before": "Tabella 8: Ore medie di formazione pro-capite per genere e categoria di dipendenti",
+        "context_after": "-120 2017 2016 Ore medie di formazione Uomo Donna Totale Uomo Donna Totale Dipendenti 7 10 8 11 13 12",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "66.txt",
+        "context_before": "Tabella 7: Rapporto tra il salario medio base delle donne rispetto agli uomini19 (",
+        "context_after": "-2) Rapporto tra il salario medio base delle donne 2017 2016 rispetto agli uomini Italia Dirigenti e Direttori di testata",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "60.txt",
+        "context_before": "7. Pari opportunit , P. 64 405-2 Rapporto tra la remunerazione delle donne e degli uomini Annex (Sezione 2: Personale)",
+        "context_after": "Non discriminazione P. 12 Cap. 2. Temi materiali, P. 58 Cap 11 103-1, Spiegazione degli aspetti materiali e relativi confini,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": {
+        "page": "61.txt",
+        "context_before": "",
+        "context_after": "Valutazione dei fornitori sulla base dei diritti umani P. 12 Cap. 2. Temi materiali, P.58 Cap 11 103-1, Spiegazione degli",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "61.txt",
+        "context_before": "nel processo di selezione dei fornitori criteri oggettivi basati su standard di sostenibilit che saranno definiti nel corso del 2018.",
+        "context_after": "Marketing ed etichettatura 103-1, P. 12 Cap. 2. Temi materiali, P. 58 Cap 11 Spiegazione degli aspetti materiali e relativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "61.txt",
+        "context_before": "allattivit di marketing incluse la pubblicit , la promozione e la P. 26 Cap 6. Impegno verso il pubblico sponsorizzazione",
+        "context_after": "Privacy 103-1, P. 12 Cap. 2. Temi materiali, P.58 Cap 11 Spiegazione degli aspetti materiali e relativi confini, approccio del",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "64.txt",
+        "context_before": "Tabella 4: Numero dei dipendenti che hanno lasciato l'azienda17, per gruppo di et , genere e area geografica (",
+        "context_after": ") Numero dei dipendenti che hanno 2017 2016 lasciato l'azienda Uomo Donna Totale Uomo Donna Totale Italia 58 28 86",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "67.txt",
+        "context_before": "(ODR), tasso dei giorni di lavoro persi (LDR), tasso di assenteismo (AR) e decessi sul lavoro, per tutti i dipendenti",
+        "context_after": "21 2017 2016 Indici infortunistici Uomo Donna Totale Uomo Donna Totale Indice di Gravit 0,51 0,42 0,47 0,68 0,41 0,56",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "67.txt",
+        "context_before": "Tabella 8: Ore medie di formazione pro-capite per genere e categoria di dipendenti",
+        "context_after": "20 2017 2016 Ore medie di formazione Uomo Donna Totale Uomo Donna Totale Dipendenti 7 10 8 11 13 12",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "65.txt",
+        "context_before": "1% 2% 2% 2% Tabella 6: Numero totale di dipendenti suddivisi per gruppo di et , genere e livello (",
+        "context_after": ") 2017 2016 Dipendenti per qualifica Uomo Donna Totale Uomo Donna Totale Dirigenti 60 18 78 62 18 80 et",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": {
+        "page": "66.txt",
+        "context_before": "Tabella 7: Rapporto tra il salario medio base delle donne rispetto agli uomini19 (",
+        "context_after": ") Rapporto tra il salario medio base delle donne 2017 2016 rispetto agli uomini Italia Dirigenti e Direttori di testata",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "64.txt",
+        "context_before": "Tabella 4: Numero dei dipendenti che hanno lasciato l'azienda17, per gruppo di et , genere e area geografica (GRI",
+        "context_after": ") Numero dei dipendenti che hanno 2017 2016 lasciato l'azienda Uomo Donna Totale Uomo Donna Totale Italia 58 28 86",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": {
+        "page": "60.txt",
+        "context_before": "103-3 relativi al personale, Periodo minimo di preavviso per i cambiamenti operativi, compreso P. 38 Cap. 7. Gestione degli aspetti",
+        "context_after": "se questo periodo di preavviso  specificato nei contratti collettivi di relativi al personale, lavoro GRI 403 Salute e sicurezza",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-1": false,
+    "403-2": {
+        "page": "67.txt",
+        "context_before": "tasso dei giorni di lavoro persi (LDR), tasso di assenteismo (AR) e decessi sul lavoro, per tutti i dipendenti GRI",
+        "context_after": "21 2017 2016 Indici infortunistici Uomo Donna Totale Uomo Donna Totale Indice di Gravit 0,51 0,42 0,47 0,68 0,41 0,56",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "67.txt",
+        "context_before": "Tabella 8: Ore medie di formazione pro-capite per genere e categoria di dipendenti GRI",
+        "context_after": "20 2017 2016 Ore medie di formazione Uomo Donna Totale Uomo Donna Totale Dipendenti 7 10 8 11 13 12",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "65.txt",
+        "context_before": "1% 2% 2% 2% Tabella 6: Numero totale di dipendenti suddivisi per gruppo di et , genere e livello (GRI",
+        "context_after": ") 2017 2016 Dipendenti per qualifica Uomo Donna Totale Uomo Donna Totale Dirigenti 60 18 78 62 18 80 et",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "66.txt",
+        "context_before": "Tabella 7: Rapporto tra il salario medio base delle donne rispetto agli uomini19 (GRI",
+        "context_after": ") Rapporto tra il salario medio base delle donne 2017 2016 rispetto agli uomini Italia Dirigenti e Direttori di testata",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "60.txt",
+        "context_before": "Nel corso del periodo di rendicontazione, Eventuali episodi di discriminazione riscontrati e azioni correttive non sono stati segnalati allOrganismo di",
+        "context_after": "implementate Vigilanza o alla Direzione Risorse Umane episodi di discriminazione 61",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "61.txt",
+        "context_before": "della catena di fornitura La selezione dei fornitori attualmente avviene sulla base di criteri economici che non ponderano specificatamente criteri",
+        "context_after": "Nuovi fornitori valutati in base a criteri sociali sociali o ambientali predefiniti. RCS si impegna a includere nel processo di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": {
+        "page": "61.txt",
+        "context_before": "management 103-3 P. 26 Cap 6. Impegno verso il pubblico Casi di non conformit a regolamenti o codici volontari riferiti",
+        "context_after": "allattivit di marketing incluse la pubblicit , la promozione e la P. 26 Cap 6. Impegno verso il pubblico sponsorizzazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "61.txt",
+        "context_before": "103-3 P. 26 Cap 6. Impegno verso il pubblico Numero di reclami documentati relativi a violazioni della privacy e a",
+        "context_after": "P. 26 Cap 6. Impegno verso il pubblico perdita dei dati dei consumatori M1 Finanziamenti significativi e altre sovvenzioni ricevuti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "419-1": false
+}

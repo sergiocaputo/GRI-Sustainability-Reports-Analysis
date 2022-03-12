@@ -1,0 +1,577 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "43.txt",
+        "context_before": "42 02. Il valore della Societ I risultati",
+        "context_after": "-1 economico-finanziari Il valore economico diretto generato, distribuito e trattenuto da Autostrada del Brennero SpA  riportato nelle tabelle seguenti.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "89.txt",
+        "context_before": "88 04. Lattenzione alle persone Lautostrada",
+        "context_after": "-1 di prossimit Autostrada del Brennero SpA  da tempo impegnata nella trasformazione del concetto di autostrada in relazione al",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "43.txt",
+        "context_before": "42 02. Il valore della Societ I risultati",
+        "context_after": "economico-finanziari Il valore economico diretto generato, distribuito e trattenuto da Autostrada del Brennero SpA  riportato nelle tabelle seguenti. Il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "89.txt",
+        "context_before": "88 04. Lattenzione alle persone Lautostrada",
+        "context_after": "di prossimit Autostrada del Brennero SpA  da tempo impegnata nella trasformazione del concetto di autostrada in relazione al territorio,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "43.txt",
+        "context_before": "42 02. Il valore della Societ I risultati GRI",
+        "context_after": "economico-finanziari Il valore economico diretto generato, distribuito e trattenuto da Autostrada del Brennero SpA  riportato nelle tabelle seguenti. Il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "89.txt",
+        "context_before": "88 04. Lattenzione alle persone Lautostrada GRI",
+        "context_after": "di prossimit Autostrada del Brennero SpA  da tempo impegnata nella trasformazione del concetto di autostrada in relazione al territorio,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "67.txt",
+        "context_before": "66 03. La tutela dellambiente Le materie",
+        "context_after": "-2 prime Per quanto riguarda gli approvvigionamenti di materie prime si possono indi- viduare due principali ambiti nei quali la",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "61.txt",
+        "context_before": "60 03. La tutela dellambiente Lenergia",
+        "context_after": "-1 GRI 302-4 e le fonti rinnovabili Nellambito delle diverse categorie di investimenti ambientali, la Societ rea- lizza progetti volti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "66.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 65 I consumi",
+        "context_after": "-1 GRI 303-2 idrici I consumi idrici da rete e pozzo relativi ad Autostrada del Brennero SpA sono leggermente in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "63.txt",
+        "context_before": "62 03. La tutela dellambiente",
+        "context_after": "-1 GRI 305-2 Le emissioni GRI 305-5 ed i trasporti Autostrada del Brennero SpA  costantemente impegnata nella riduzione del-",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "69.txt",
+        "context_before": "68 03. La tutela dellambiente La gestione dei rifiuti",
+        "context_after": "-2 GRI 306-3 e le emergenze ambientali Il 97,5% dei rifiuti generati dalla Societ  rappresentato da rifiuti non perico-",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "112.txt",
+        "context_before": "La gestione dei rifiuti GRI 306-3 Sversamenti significativi 68 e le emergenze ambientali Inadempienza a leggi Non si registrano sanzioni",
+        "context_after": "-1 e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti GRI 401-1 I collaboratori 72 e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": {
+        "page": "67.txt",
+        "context_before": "66 03. La tutela dellambiente Le materie",
+        "context_after": "prime Per quanto riguarda gli approvvigionamenti di materie prime si possono indi- viduare due principali ambiti nei quali la Societ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "61.txt",
+        "context_before": "60 03. La tutela dellambiente Lenergia",
+        "context_after": "GRI 302-4 e le fonti rinnovabili Nellambito delle diverse categorie di investimenti ambientali, la Societ rea- lizza progetti volti alla",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "61.txt",
+        "context_before": "60 03. La tutela dellambiente Lenergia GRI 302-1",
+        "context_after": "e le fonti rinnovabili Nellambito delle diverse categorie di investimenti ambientali, la Societ rea- lizza progetti volti alla produzione di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "66.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 65 I consumi",
+        "context_after": "GRI 303-2 idrici I consumi idrici da rete e pozzo relativi ad Autostrada del Brennero SpA sono leggermente in aumento",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": {
+        "page": "66.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 65 I consumi GRI 303-1",
+        "context_after": "idrici I consumi idrici da rete e pozzo relativi ad Autostrada del Brennero SpA sono leggermente in aumento rispetto agli",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "63.txt",
+        "context_before": "62 03. La tutela dellambiente",
+        "context_after": "GRI 305-2 Le emissioni GRI 305-5 ed i trasporti Autostrada del Brennero SpA  costantemente impegnata nella riduzione del- le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "63.txt",
+        "context_before": "62 03. La tutela dellambiente GRI 305-1",
+        "context_after": "Le emissioni GRI 305-5 ed i trasporti Autostrada del Brennero SpA  costantemente impegnata nella riduzione del- le emissioni di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": {
+        "page": "63.txt",
+        "context_before": "62 03. La tutela dellambiente GRI 305-1 GRI 305-2 Le emissioni",
+        "context_after": "ed i trasporti Autostrada del Brennero SpA  costantemente impegnata nella riduzione del- le emissioni di CO , dirette e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "69.txt",
+        "context_before": "68 03. La tutela dellambiente La gestione dei rifiuti",
+        "context_after": "GRI 306-3 e le emergenze ambientali Il 97,5% dei rifiuti generati dalla Societ  rappresentato da rifiuti non perico- losi.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": {
+        "page": "69.txt",
+        "context_before": "68 03. La tutela dellambiente La gestione dei rifiuti GRI 306-2",
+        "context_after": "e le emergenze ambientali Il 97,5% dei rifiuti generati dalla Societ  rappresentato da rifiuti non perico- losi. Nel 2018",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "112.txt",
+        "context_before": "La gestione dei rifiuti GRI 306-3 Sversamenti significativi 68 e le emergenze ambientali Inadempienza a leggi Non si registrano sanzioni",
+        "context_after": "e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti GRI 401-1 I collaboratori 72 e turnover",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": {
+        "page": "67.txt",
+        "context_before": "66 03. La tutela dellambiente Le materie GRI",
+        "context_after": "prime Per quanto riguarda gli approvvigionamenti di materie prime si possono indi- viduare due principali ambiti nei quali la Societ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "61.txt",
+        "context_before": "60 03. La tutela dellambiente Lenergia GRI",
+        "context_after": "GRI 302-4 e le fonti rinnovabili Nellambito delle diverse categorie di investimenti ambientali, la Societ rea- lizza progetti volti alla",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "61.txt",
+        "context_before": "60 03. La tutela dellambiente Lenergia GRI 302-1 GRI",
+        "context_after": "e le fonti rinnovabili Nellambito delle diverse categorie di investimenti ambientali, la Societ rea- lizza progetti volti alla produzione di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "66.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 65 I consumi GRI",
+        "context_after": "GRI 303-2 idrici I consumi idrici da rete e pozzo relativi ad Autostrada del Brennero SpA sono leggermente in aumento",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "66.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 65 I consumi GRI 303-1 GRI",
+        "context_after": "idrici I consumi idrici da rete e pozzo relativi ad Autostrada del Brennero SpA sono leggermente in aumento rispetto agli",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "63.txt",
+        "context_before": "62 03. La tutela dellambiente GRI",
+        "context_after": "GRI 305-2 Le emissioni GRI 305-5 ed i trasporti Autostrada del Brennero SpA  costantemente impegnata nella riduzione del- le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "63.txt",
+        "context_before": "62 03. La tutela dellambiente GRI 305-1 GRI",
+        "context_after": "Le emissioni GRI 305-5 ed i trasporti Autostrada del Brennero SpA  costantemente impegnata nella riduzione del- le emissioni di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": {
+        "page": "63.txt",
+        "context_before": "62 03. La tutela dellambiente GRI 305-1 GRI 305-2 Le emissioni GRI",
+        "context_after": "ed i trasporti Autostrada del Brennero SpA  costantemente impegnata nella riduzione del- le emissioni di CO , dirette e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "69.txt",
+        "context_before": "68 03. La tutela dellambiente La gestione dei rifiuti GRI",
+        "context_after": "GRI 306-3 e le emergenze ambientali Il 97,5% dei rifiuti generati dalla Societ  rappresentato da rifiuti non perico- losi.",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "69.txt",
+        "context_before": "68 03. La tutela dellambiente La gestione dei rifiuti GRI 306-2 GRI",
+        "context_after": "e le emergenze ambientali Il 97,5% dei rifiuti generati dalla Societ  rappresentato da rifiuti non perico- losi. Nel 2018",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "112.txt",
+        "context_before": "gestione dei rifiuti GRI 306-3 Sversamenti significativi 68 e le emergenze ambientali Inadempienza a leggi Non si registrano sanzioni GRI",
+        "context_after": "e regolamenti ambientali nel periodo di rendicontazione PERFORMANCE SOCIALE Assunzione di nuovi dipendenti GRI 401-1 I collaboratori 72 e turnover",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "73.txt",
+        "context_before": "72 04. Lattenzione alle persone GRI 102-8 GRI 102-41",
+        "context_after": "-1 GRI 401-3 GRI 405-1 I collaboratori Al 31 dicembre 2018 3 Dirigenti 10 Operai a tempo parziale 36 259",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "77.txt",
+        "context_before": "76 04. Lattenzione alle persone",
+        "context_after": "-1 GRI 403-2 La salute e la sicurezza GRI 403-4 dei lavoratori Anche nel 2018 Autostrada del Brennero SpA ha",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "80.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 79 La formazione",
+        "context_after": "-1 e lo sviluppo Laggiornamento e lacquisizione continua di competenze e professionalit consentono di garantire la massima efficienza nel servizio,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "73.txt",
+        "context_before": "72 04. Lattenzione alle persone GRI 102-8 GRI 102-41 GRI 401-1 GRI 401-3",
+        "context_after": "-1 I collaboratori Al 31 dicembre 2018 3 Dirigenti 10 Operai a tempo parziale 36 259 Quadri Operai a tempo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "99.txt",
+        "context_before": "98 05. La comunicazione Viabilit , meteo",
+        "context_after": "-1 e territorio Per trasmettere informazioni di viabilit e meteo lungo tutta la tratta autostra- dale, Autostrada del Brennero SpA",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": {
+        "page": "112.txt",
+        "context_before": "impatti GRI 413-2 negativi, reali e potenziali, Note metodologiche 7 sulle comunit locali Inadempienza a leggi Non si registrano sanzioni",
+        "context_after": "-1 e regolamenti in materia sociale nel periodo di rendicontazione ed economica",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-1": {
+        "page": "73.txt",
+        "context_before": "72 04. Lattenzione alle persone GRI 102-8 GRI 102-41",
+        "context_after": "GRI 401-3 GRI 405-1 I collaboratori Al 31 dicembre 2018 3 Dirigenti 10 Operai a tempo parziale 36 259 Quadri",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": {
+        "page": "73.txt",
+        "context_before": "72 04. Lattenzione alle persone GRI 102-8 GRI 102-41 GRI 401-1",
+        "context_after": "GRI 405-1 I collaboratori Al 31 dicembre 2018 3 Dirigenti 10 Operai a tempo parziale 36 259 Quadri Operai a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402-1": false,
+    "GRI 403-1": {
+        "page": "77.txt",
+        "context_before": "76 04. Lattenzione alle persone",
+        "context_after": "GRI 403-2 La salute e la sicurezza GRI 403-4 dei lavoratori Anche nel 2018 Autostrada del Brennero SpA ha conseguito",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-2": {
+        "page": "77.txt",
+        "context_before": "76 04. Lattenzione alle persone GRI 403-1",
+        "context_after": "La salute e la sicurezza GRI 403-4 dei lavoratori Anche nel 2018 Autostrada del Brennero SpA ha conseguito la conferma",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": {
+        "page": "77.txt",
+        "context_before": "76 04. Lattenzione alle persone GRI 403-1 GRI 403-2 La salute e la sicurezza",
+        "context_after": "dei lavoratori Anche nel 2018 Autostrada del Brennero SpA ha conseguito la conferma della certificazione del sistema di gestione in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "80.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 79 La formazione",
+        "context_after": "e lo sviluppo Laggiornamento e lacquisizione continua di competenze e professionalit consentono di garantire la massima efficienza nel servizio, aumentare",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "73.txt",
+        "context_before": "72 04. Lattenzione alle persone GRI 102-8 GRI 102-41 GRI 401-1 GRI 401-3",
+        "context_after": "I collaboratori Al 31 dicembre 2018 3 Dirigenti 10 Operai a tempo parziale 36 259 Quadri Operai a tempo pieno",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "99.txt",
+        "context_before": "98 05. La comunicazione Viabilit , meteo",
+        "context_after": "e territorio Per trasmettere informazioni di viabilit e meteo lungo tutta la tratta autostra- dale, Autostrada del Brennero SpA si",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 413-2": {
+        "page": "8.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 7 GRI 102-46 GRI 102-49 GRI 102-50 Note GRI 102-52 GRI 102-54",
+        "context_after": "metodologiche In virt degli impatti complessivi che uninfrastruttura come unautostrada determina sui territori che attraversa e con gli stakeholder di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": {
+        "page": "112.txt",
+        "context_before": "impatti GRI 413-2 negativi, reali e potenziali, Note metodologiche 7 sulle comunit locali Inadempienza a leggi Non si registrano sanzioni",
+        "context_after": "e regolamenti in materia sociale nel periodo di rendicontazione ed economica",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "401-1": {
+        "page": "73.txt",
+        "context_before": "72 04. Lattenzione alle persone GRI 102-8 GRI 102-41 GRI",
+        "context_after": "GRI 401-3 GRI 405-1 I collaboratori Al 31 dicembre 2018 3 Dirigenti 10 Operai a tempo parziale 36 259 Quadri",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": {
+        "page": "73.txt",
+        "context_before": "72 04. Lattenzione alle persone GRI 102-8 GRI 102-41 GRI 401-1 GRI",
+        "context_after": "GRI 405-1 I collaboratori Al 31 dicembre 2018 3 Dirigenti 10 Operai a tempo parziale 36 259 Quadri Operai a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": false,
+    "403-1": {
+        "page": "77.txt",
+        "context_before": "76 04. Lattenzione alle persone GRI",
+        "context_after": "GRI 403-2 La salute e la sicurezza GRI 403-4 dei lavoratori Anche nel 2018 Autostrada del Brennero SpA ha conseguito",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "77.txt",
+        "context_before": "76 04. Lattenzione alle persone GRI 403-1 GRI",
+        "context_after": "La salute e la sicurezza GRI 403-4 dei lavoratori Anche nel 2018 Autostrada del Brennero SpA ha conseguito la conferma",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": {
+        "page": "77.txt",
+        "context_before": "76 04. Lattenzione alle persone GRI 403-1 GRI 403-2 La salute e la sicurezza GRI",
+        "context_after": "dei lavoratori Anche nel 2018 Autostrada del Brennero SpA ha conseguito la conferma della certificazione del sistema di gestione in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "80.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 79 La formazione GRI",
+        "context_after": "e lo sviluppo Laggiornamento e lacquisizione continua di competenze e professionalit consentono di garantire la massima efficienza nel servizio, aumentare",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "73.txt",
+        "context_before": "72 04. Lattenzione alle persone GRI 102-8 GRI 102-41 GRI 401-1 GRI 401-3 GRI",
+        "context_after": "I collaboratori Al 31 dicembre 2018 3 Dirigenti 10 Operai a tempo parziale 36 259 Quadri Operai a tempo pieno",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "99.txt",
+        "context_before": "98 05. La comunicazione Viabilit , meteo GRI",
+        "context_after": "e territorio Per trasmettere informazioni di viabilit e meteo lungo tutta la tratta autostra- dale, Autostrada del Brennero SpA si",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "413-2": {
+        "page": "8.txt",
+        "context_before": "Bilancio di Sostenibilit 2017 | 2018 7 GRI 102-46 GRI 102-49 GRI 102-50 Note GRI 102-52 GRI 102-54 GRI",
+        "context_after": "metodologiche In virt degli impatti complessivi che uninfrastruttura come unautostrada determina sui territori che attraversa e con gli stakeholder di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": {
+        "page": "112.txt",
+        "context_before": "GRI 413-2 negativi, reali e potenziali, Note metodologiche 7 sulle comunit locali Inadempienza a leggi Non si registrano sanzioni GRI",
+        "context_after": "e regolamenti in materia sociale nel periodo di rendicontazione ed economica",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    }
+}

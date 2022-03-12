@@ -1,0 +1,523 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "101.txt",
+        "context_before": "conorit con i  Standards scelta 102-54 8 ornizzzione 103-3 31-33 tzione sroccio e management 102-55 98-109 GRI Content Index",
+        "context_after": ": Performance economica 201-1 87 Valore economico direttamente generato e distribuito Il Gruppo Cerved non prevede piani ii revienzii e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "101.txt",
+        "context_before": "e retivi con ni norzioni eneri sroccio e management e 103-2 31-33 relative caratteristiche 103-3 31-33 tzione sroccio e management",
+        "context_after": ": Impatti economici indiretti Nessun investimento in Investimenti in infrastrutture e servizi forniti per 203-1 infrastrutture e servizi pubblica utilit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "103.txt",
+        "context_before": "neent 103-1    iezione ei setti terii e retivi con ni norzioni eneri sroccio e management 103-2 82",
+        "context_after": ": Anti-corruzione e relative caratteristiche e corso e  non si sono veri cti 103-3 82 tzione sroccio e management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "103.txt",
+        "context_before": "e retivi con ni 103-3 22-25 tzione sroccio e management norzioni eneri sroccio e management 103-2 22-23 e relative caratteristiche",
+        "context_after": ": Comportamento anti-competitivo 103-3 22-23 tzione sroccio e management Non si sono riscontrate azioni legali riguardanti comportamenti zioni ei rierite",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "101.txt",
+        "context_before": "Standards scelta 102-54 8 ornizzzione 103-3 31-33 tzione sroccio e management 102-55 98-109 GRI Content Index GRI 201: Performance economica",
+        "context_after": "87 Valore economico direttamente generato e distribuito Il Gruppo Cerved non prevede piani ii revienzii e niti e tri ini",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": {
+        "page": "101.txt",
+        "context_before": "Valore economico direttamente generato e distribuito Il Gruppo Cerved non prevede piani ii revienzii e niti e tri ini i",
+        "context_after": "ensionistici seci ci ic  nortiv pensionamento in vigore  reito i iost er circ   n su costi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "101.txt",
+        "context_before": " reito i iost er circ   n su costi di Ricerca e Sviluppo  sgravio sui contributi previdenziali",
+        "context_after": "per sede di Mangone in Calabria (circa 100- Finanziamenti ricevuti dalla Pubblica Amministrazione 150 mila euro)  contrito  er",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "101.txt",
+        "context_before": "31-33 tzione sroccio e management GRI 203: Impatti economici indiretti Nessun investimento in Investimenti in infrastrutture e servizi forniti per",
+        "context_after": "infrastrutture e servizi pubblica utilit forniti per pubblica utilit 101",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "103.txt",
+        "context_before": "205: Anti-corruzione e relative caratteristiche e corso e  non si sono veri cti 103-3 82 tzione sroccio e management",
+        "context_after": "Numero di casi di corruzione e azioni intraprese casi di corruzione GRI 306: Scarichi e ri uti Topic materiale: COMPORTAMENTO",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "103.txt",
+        "context_before": "22-23 tzione sroccio e management Non si sono riscontrate azioni legali riguardanti comportamenti zioni ei rierite  concorrenz see ntitrst",
+        "context_after": "GRI 307: Conformit ambientale anticoncorrenziali e violazioni della e rispettivi esiti legislazione antifrode e monopolistica on si sono veri cti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "103.txt",
+        "context_before": "Content TOPIC-SPECIFIC STANDARDS TOPIC-SPECIFIC STANDARDS GRI Standard N. pagina Omissione Informazione GRI Standard N. pagina Omissione Informazione Topic materiale: ANTI-CORRUZIONE",
+        "context_after": ": Energia 302-1 81 onsi i eneri interno eornizzzione GRI 103: Management Approach 103-1    iezione ei setti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": {
+        "page": "103.txt",
+        "context_before": "veri cti 103-3 82 tzione sroccio e management 205-3 Numero di casi di corruzione e azioni intraprese casi di corruzione",
+        "context_after": ": Scarichi e ri uti Topic materiale: COMPORTAMENTO ANTI-COMPETITIVO 306-2 82 eso tote i ri ti ivisi er tio e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "103.txt",
+        "context_before": "tzione sroccio e management Non si sono riscontrate azioni legali riguardanti comportamenti zioni ei rierite  concorrenz see ntitrst 206-1",
+        "context_after": ": Conformit ambientale anticoncorrenziali e violazioni della e rispettivi esiti legislazione antifrode e monopolistica on si sono veri cti csi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": {
+        "page": "103.txt",
+        "context_before": "e relative caratteristiche 103-2 78-80 e relative caratteristiche 103-3 80-82 tzione sroccio e management 103-3 78-80 tzione sroccio e management",
+        "context_after": ": Valutazione ambientale dei fornitori I criteri ambientali non sono stati utilizzati Percentuale di nuovi fornitori valutati sulla base dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "103.txt",
+        "context_before": "TOPIC-SPECIFIC STANDARDS GRI Standard N. pagina Omissione Informazione GRI Standard N. pagina Omissione Informazione Topic materiale: ANTI-CORRUZIONE GRI 302: Energia",
+        "context_after": "81 onsi i eneri interno eornizzzione GRI 103: Management Approach 103-1    iezione ei setti terii e retivi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": false,
+    "305-2": false,
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "103.txt",
+        "context_before": "di casi di corruzione e azioni intraprese casi di corruzione GRI 306: Scarichi e ri uti Topic materiale: COMPORTAMENTO ANTI-COMPETITIVO",
+        "context_after": "82 eso tote i ri ti ivisi er tio e etoo i stiento GRI 103: Management Approach Topic materiale: CONFORMIT",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "103.txt",
+        "context_before": "antifrode e monopolistica on si sono veri cti csi i non ore onetrio ee te sini ctive e nero tote",
+        "context_after": "conformit a leggi e regolamenti di sanzioni non monetarie per il non rispetto di leggi ambientali e regolamenti ambientali AMBIENTALE",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "308-1": {
+        "page": "103.txt",
+        "context_before": "Valutazione ambientale dei fornitori I criteri ambientali non sono stati utilizzati Percentuale di nuovi fornitori valutati sulla base dei criteri",
+        "context_after": "ne vtzione ei ornitori nenno ambientali 2017 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "104.txt",
+        "context_before": "rischio di incorrere in malattie o infortuni 403-3 comportino un elevato rischio di relativi alle proprie attivit professionali malattie professionali",
+        "context_after": ": Occupazione 2017 93-95 ero tote i novi ssnti e trnover er sce i et 401-1 Non  presente il",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": {
+        "page": "104.txt",
+        "context_before": "ienente sivise 404-1 55 103-3 71-72 tzione sroccio e neent per genere e categoria Percentuale dei dipendenti che ricevono regolarmente",
+        "context_after": ": Gestione dei rapporti di lavoro 404-3 92 valutazioni delle performance dello sviluppo della propria crrier sivis er enere e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "105.txt",
+        "context_before": "Tabella GRI Content TOPIC-SPECIFIC STANDARDS GRI Standard N. pagina Omissione Informazione",
+        "context_after": ": Salute e sicurezza sul luogo di lavoro Non sono presenti comitati formali Percentuale dei dipendenti rappresentati nei comitati 403-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "105.txt",
+        "context_before": "e retivi con ni norzioni eneri sroccio e management 103-2 52-57 e relative caratteristiche 103-3 52-57 tzione sroccio e neent",
+        "context_after": ": Formazione e istruzione re eie i orzione nne er ienente sivise 404-1 55 per genere e categoria Percentuale dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "107.txt",
+        "context_before": "103-2 23 e relative caratteristiche e relative caratteristiche 103-3 80 tzione sroccio e management 103-3 23 tzione sroccio e management",
+        "context_after": ": Lavoro minorile GRI 412: Valutazione sui diritti umani Il mercato principale di enti czione ee oerzioni e ei rincii",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "107.txt",
+        "context_before": "103-2 80 e relative caratteristiche e relative caratteristiche 103-3 64 tzione sroccio e management 103-3 80 tzione sroccio e management",
+        "context_after": ": Non discriminazione GRI 406: Lavoro forzato on si  veri cto nessn cso i Numero di episodi legati a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407": {
+        "page": "107.txt",
+        "context_before": "e relative caratteristiche 103-2 23 e relative caratteristiche 103-3 80 tzione sroccio e neent 103-3 23 tzione sroccio e management",
+        "context_after": ": Libert di associazione e contrattazione collettiva GRI 410: Politiche di sicurezza Il mercato principale di enti czione ee ttivit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": {
+        "page": "107.txt",
+        "context_before": "103-3 80 tzione sroccio e neent 103-3 23 tzione sroccio e management GRI 407: Libert di associazione e contrattazione collettiva",
+        "context_after": ": Politiche di sicurezza Il mercato principale di enti czione ee ttivit e ei rincii ornitori in ci 407-1 approvvigionamento",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "107.txt",
+        "context_before": "caratteristiche e relative caratteristiche 103-3 80 tzione sroccio e management 103-3 23 tzione sroccio e management GRI 405: Lavoro minorile",
+        "context_after": ": Valutazione sui diritti umani Il mercato principale di enti czione ee oerzioni e ei rincii ornitori con on viene",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": false,
+    "GRI 414": {
+        "page": "109.txt",
+        "context_before": "sroccio e management 103-2 23-25 103-3 78-80 tzione sroccio e management e relative caratteristiche 103-3 24-25 tzione sroccio e management",
+        "context_after": ": Valutazione delle performance sociali dei fornitori I criteri sociali non sono stati utilizzati GRI 419: Conformit socio-economica Nuovi fornitori",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "109.txt",
+        "context_before": "e retivi con ni norzioni eneri sroccio e management 103-2 96-97 e relative caratteristiche 103-3 96-97 tzione sroccio e management",
+        "context_after": ": Marketing ed etichettatura on si sono veri cti csi i non Casi di non conformit in relazione a informazione",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "109.txt",
+        "context_before": "con ni norzioni eneri sroccio e management 103-2   e relative caratteristiche 103-3   tzione sroccio e management",
+        "context_after": ": Privacy dei clienti Numero di reclami documentati relativi a violazioni della 418-1 96-97 privacy e perdita dei dati dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 419": {
+        "page": "109.txt",
+        "context_before": "24-25 tzione sroccio e management GRI 414: Valutazione delle performance sociali dei fornitori I criteri sociali non sono stati utilizzati",
+        "context_after": ": Conformit socio-economica Nuovi fornitori sottoposti a screening utilizzando 414-1 ne vtzione ei ornitori nenno criteri sociali on si sono",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "104.txt",
+        "context_before": "attivit professionali malattie professionali GRI 401: Occupazione 2017 93-95 ero tote i novi ssnti e trnover er sce i et",
+        "context_after": "Non  presente il tasso di turnover per Topic materiale: FORMAZIONE E ISTRUZIONE enere e ree eor ce sci et",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "401-2": {
+        "page": "104.txt",
+        "context_before": "tasso di turnover per Topic materiale: FORMAZIONE E ISTRUZIONE enere e ree eor ce sci et ne sivisione er region",
+        "context_after": "65-67 ene t revisti er i ienenti GRI 103: Management Approach 103-1    iezione ei setti terii e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": {
+        "page": "104.txt",
+        "context_before": "varia a seconda del tipo erioi inii i revviso er cienti nee ttivit i oi c oertiv e  essere",
+        "context_after": "incs evente seci c nei retivi contrtti coettivi i individuato dalla legge o dal CCNL o da lavoro Topic materiale:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-1": {
+        "page": "105.txt",
+        "context_before": "GRI 403: Salute e sicurezza sul luogo di lavoro Non sono presenti comitati formali Percentuale dei dipendenti rappresentati nei comitati",
+        "context_after": "per la salute e sicurezza formali azienda-lavoratori per la salute e la sicurezza iooi i inortni tsso i inortnio ttie",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "105.txt",
+        "context_before": "salute e la sicurezza iooi i inortni tsso i inortnio ttie roessioni iorni i voro ersi e ssenteiso e nero",
+        "context_after": "68-70 di incidenti mortali collegati al lavoro suddivisi per regione e per genere Non sono presenti mansioni che Lavoratori ad",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "105.txt",
+        "context_before": "per regione e per genere Non sono presenti mansioni che Lavoratori ad alto rischio di incorrere in malattie o infortuni",
+        "context_after": "comportino un elevato rischio di relativi alle proprie attivit professionali malattie professionali Topic materiale: FORMAZIONE E ISTRUZIONE GRI 103: Management",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "105.txt",
+        "context_before": "caratteristiche 103-3 52-57 tzione sroccio e neent GRI 404: Formazione e istruzione re eie i orzione nne er ienente sivise",
+        "context_after": "55 per genere e categoria Percentuale dei dipendenti che ricevono regolarmente 404-3 92 valutazioni delle performance dello sviluppo della propria",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "105.txt",
+        "context_before": "re eie i orzione nne er ienente sivise 404-1 55 per genere e categoria Percentuale dei dipendenti che ricevono regolarmente",
+        "context_after": "92 valutazioni delle performance dello sviluppo della propria crrier sivis er enere e cteori Topic materiale: DIVERSIT E PARI OPPORTUNIT",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "105.txt",
+        "context_before": "103-3 64-65 tzione sroccio e management GRI 405: Diversit e pari opportunit Composizione degli organi di governo e ripartizione del",
+        "context_after": "ersone er enere et rtenenz e cteorie protette e altri indicatori di diversit 105",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "405-2": false,
+    "406-1": {
+        "page": "107.txt",
+        "context_before": "episodi legati a pratiche discriminatorie e azioni Il mercato principale di enti czione ee oerzioni e ei rincii ornitori con",
+        "context_after": "discriminazione intraprese 409-1 approvvigionamento (Italia) non evidenzia elevato rischio di ricorso al lavoro forzato e delle misure risci sini ctivi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "407-1": {
+        "page": "107.txt",
+        "context_before": "collettiva GRI 410: Politiche di sicurezza Il mercato principale di enti czione ee ttivit e ei rincii ornitori in ci",
+        "context_after": "approvvigionamento (Italia) non evidenzia  iert i ssocizione e contrttzione coettiv  Non  presente personale addetto alla Personale addetto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "107.txt",
+        "context_before": "e ei rincii ornitori con on viene e ettt n orzione Ore medie di formazione annue per dipendente su policy",
+        "context_after": "approvvigionamento (Italia) non evidenzia elevato rischio di ricorso al lavoro minorile e delle misure 412-2 seci c  ninortiv o",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "107.txt",
+        "context_before": "pratiche discriminatorie e azioni Il mercato principale di enti czione ee oerzioni e ei rincii ornitori con 406-1 discriminazione intraprese",
+        "context_after": "approvvigionamento (Italia) non evidenzia elevato rischio di ricorso al lavoro forzato e delle misure risci sini ctivi intraprese Topic materiale:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": {
+        "page": "107.txt",
+        "context_before": "iert i ssocizione e contrttzione coettiv  Non  presente personale addetto alla Personale addetto alla sicurezza formato sulle politiche",
+        "context_after": "risci sini ctivi essere esost  risci sini ctivi e zioni intrrese sicurezza del patrimonio aziendale e procedure relative ai",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": false,
+    "412-1": false,
+    "412-2": {
+        "page": "107.txt",
+        "context_before": "annue per dipendente su policy 408-1 approvvigionamento (Italia) non evidenzia elevato rischio di ricorso al lavoro minorile e delle misure",
+        "context_after": "seci c  ninortiv o procedure relative ai diritti umani risci sini ctivi intraprese 107",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "109.txt",
+        "context_before": "sociali dei fornitori I criteri sociali non sono stati utilizzati GRI 419: Conformit socio-economica Nuovi fornitori sottoposti a screening utilizzando",
+        "context_after": "ne vtzione ei ornitori nenno criteri sociali on si sono veri cti csi i non ore onetrio ee snzioni sini",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": {
+        "page": "109.txt",
+        "context_before": "417: Marketing ed etichettatura on si sono veri cti csi i non Casi di non conformit in relazione a informazione",
+        "context_after": "conformit in relazione a informazione e etichettatura dei prodotti e etichettatura dei prodotti on si sono veri cti csi i",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "109.txt",
+        "context_before": "etichettatura dei prodotti on si sono veri cti csi i non Casi di non conformit in relazione a comunicazione di",
+        "context_after": "conformit in relazione a comunicazione marketing di marketing Topic materiale: PRIVACY DEI CLIENTI GRI 103: Management Approach 103-1",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "109.txt",
+        "context_before": "103-3   tzione sroccio e management GRI 418: Privacy dei clienti Numero di reclami documentati relativi a violazioni della",
+        "context_after": "96-97 privacy e perdita dei dati dei consumatori 109",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "109.txt",
+        "context_before": "nenno criteri sociali on si sono veri cti csi i non ore onetrio ee snzioni sini ctive e nero 2017.",
+        "context_after": "conformit a leggi o regolamenti in ambito totale di sanzioni non monetarie per non conformit a leggi sociale ed economico",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    }
+}

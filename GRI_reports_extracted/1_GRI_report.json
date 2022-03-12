@@ -1,0 +1,643 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "86.txt",
+        "context_before": "Nota Electric Utility Sector Supplement Altri indicatori GRI Standards - DNF Gruppo A2A metodologica Demand side management Performance economica (",
+        "context_after": ") 1 D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 112 8-9 Conseguenze economiche e altri rischi/opportunit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "84.txt",
+        "context_before": "generato e distribuito 54 10-12; 52 D 103-2 Approccio del management e suoi componenti 78 3 Impatti economici indiretti (",
+        "context_after": ") D 103-3 Valutazione dell'approccio del management 78 Strategia di D 103-1 Spiegazione dei temi materiali e del loro confine",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "84.txt",
+        "context_before": "economici indiretti 147-148; 155-156 58 5 D 103-2 Approccio del management e suoi componenti 77 Capitale Pratiche di approvigionamento (",
+        "context_after": ") D 103-3 Valutazione dell'approccio del management 77 Finanziario D 103-1 Spiegazione dei temi materiali e del loro confine 50-51;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "86.txt",
+        "context_before": "D 103-2 Approccio del management e suoi componenti 112 di business D 103-3 Valutazione dell'approccio del management 112 Anticorruzione (",
+        "context_after": ") Ricerca e sviluppo D 205-2 Csuolm teumniac adzeilol'naen tei- fcoorrmruazziioonnee su policy e procedure 21 2Governance D 103-1 Spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "84.txt",
+        "context_before": "8-9 Intellettuale D 205-3 21 51 intraprese D 103-2 Approccio del management e suoi componenti 26 10 Comportamento anti-competitivo (",
+        "context_after": ") D 103-3 Valutazione dell'approccio del management 26 Capitale Relazionale D 103-1 Spiegazione dei temi materiali e del loro confine",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "79.txt",
+        "context_before": "566 633 9 OHSAS18001 662 610 611 Capitale 41 Intellettuale SA8000 22 62 51 Figura 61_ Ripartizione geografica dellordinato [",
+        "context_after": "] (%) Rispondenti al questionario TenP (Global Compact) 22 71 166 10 Capitale 80 Totale fornitori con almeno una certificazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "84.txt",
+        "context_before": "Valutazione dell'approccio del management 54 D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 78 8-9 Governance D",
+        "context_after": "Valore economico diretto generato e distribuito 54 10-12; 52 D 103-2 Approccio del management e suoi componenti 78 3 Impatti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "86.txt",
+        "context_before": "Spiegazione dei temi materiali e del loro confine 50-51; 112 8-9 Conseguenze economiche e altri rischi/opportunit Il Gruppo A2A D",
+        "context_after": "25-26 dovuti al cambiamento climatico e il suo modello D 103-2 Approccio del management e suoi componenti 112 di business",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "84.txt",
+        "context_before": "nsoe iK pProI ss aimnci haen nuin ao rdeengdlei re Stakeholder obiettivi presenti nel Piano di Sostenibilit 2019-2023. engagement D",
+        "context_after": "Sviluppo e impatto di investimenti in infrastrutture e 59; 64; 66-67; 69-70; 12; 52 e Analisi di servizi forniti 72-73",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "84.txt",
+        "context_before": "(GRI 305) materialit 53-54; 130; 141; D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 77 8-9 D",
+        "context_after": "Principali impatti economici indiretti 147-148; 155-156 58 5 D 103-2 Approccio del management e suoi componenti 77 Capitale Pratiche di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "84.txt",
+        "context_before": "156 D 305-7 NO, SO e altre emissioni significative 75; 87; 90; 92 19; 21; 23-24; 54 x x D",
+        "context_after": "Percentuale di spesa concentrata su fornitori locali 156 48; 58 Scarichi e rifiuti (GRI 306) 7 Capitale Anticorruzione (GRI 205)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "84.txt",
+        "context_before": "metodo di smaltimento 75; 86-87; 90; 93 19; 21; 23-24; 55 Divisioni interne monitorate per rischi legati alla 9 D",
+        "context_after": "20-21 51 corruzione Conformit su aspetti ambientali (GRI 307) Capitale Casi di corruzione segnalati e confermati e relative azioni D",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "86.txt",
+        "context_before": "e suoi componenti 112 di business D 103-3 Valutazione dell'approccio del management 112 Anticorruzione (GRI 205) Ricerca e sviluppo D",
+        "context_after": "Csuolm teumniac adzeilol'naen tei- fcoorrmruazziioonnee su policy e procedure 21 2Governance D 103-1 Spiegazione dei temi materiali e del loro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "84.txt",
+        "context_before": "e confermati e relative azioni D 103-1 Spiegazione dei temi materiali e del loro confine 26; 50-51 8-9 Intellettuale D",
+        "context_after": "21 51 intraprese D 103-2 Approccio del management e suoi componenti 26 10 Comportamento anti-competitivo (GRI 206) D 103-3 Valutazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": {
+        "page": "84.txt",
+        "context_before": "legali per comportamenti anti-competitivi, anti- 49-50; 59 + D 103-2 Approccio del management e suoi componenti 156 di Revisione D",
+        "context_after": "139 trust e pratiche di monopolio BC* + RG** D 103-3 Valutazione dell'approccio del management 156 GRI Materiali (GRI 301)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "84.txt",
+        "context_before": "206-1 139 trust e pratiche di monopolio BC* + RG** D 103-3 Valutazione dell'approccio del management 156 GRI Materiali (",
+        "context_after": ") D 308-1 Nuovi fornitori valutati secondo criteri ambientali 157 59 Content D 103-1 Spiegazione dei temi materiali e del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "86.txt",
+        "context_before": "temi materiali e del loro confine 50-51; 112 8-9 D 103-2 Approccio del management e suoi componenti 112 Energia (",
+        "context_after": ") 3 D 302-3 Indicatori di energy intensity 86 17 Strategia di D 103-3 Valutazione dell'approccio del management 112 sostenibilit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "86.txt",
+        "context_before": "di ee ls ceornviszuimo energetico richiesto 130-131 Stakeholder D 103-2 Approccio del management e suoi componenti 62 engagement Acqua (",
+        "context_after": ") e Analisi di D 103-3 Valutazione dell'approccio del management 62 materialit D 303-3 Acqua riciclata e riutilizzata - 18;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "84.txt",
+        "context_before": "89; 91 18; 20; 22; 24; 54 di business D 103-2 Approccio del management e suoi componenti 54 Biodiversit (",
+        "context_after": ") 2 D 103-3 Valutazione dell'approccio del management 54 D 103-1 Spiegazione dei temi materiali e del loro confine 50-51;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "86.txt",
+        "context_before": "303-3 Acqua riciclata e riutilizzata - 18; 20; 22 EU 11 Rendimento medio del parco termoelettrico - 17 Emissioni (",
+        "context_after": ") 5 Perdite di trasmissione e distribuzione in percentuale EU 12 del totale di energia - 23 Capitale D 305-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "84.txt",
+        "context_before": "23-24; 54 x x D 204-1 Percentuale di spesa concentrata su fornitori locali 156 48; 58 Scarichi e rifiuti (",
+        "context_after": ") 7 Capitale Anticorruzione (GRI 205) D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 76 8-9 Naturale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "84.txt",
+        "context_before": "23-24; 55 Divisioni interne monitorate per rischi legati alla 9 D 205-1 20-21 51 corruzione Conformit su aspetti ambientali (",
+        "context_after": ") Capitale Casi di corruzione segnalati e confermati e relative azioni D 103-1 Spiegazione dei temi materiali e del loro",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "84.txt",
+        "context_before": "materia ambientale - 50; 59 D 103-2 Approccio del management e suoi componenti 26 Valutazione fornitori su aspetti ambientali (",
+        "context_after": ") Relazione D 103-3 Valutazione dell'approccio del management 26 D 103-1 Spiegazione dei temi materiali e del loro confine 50-51;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "84.txt",
+        "context_before": "8-9 Standard D 103-3 Valutazione dell'approccio del management 76 D 103-2 Approccio del management e suoi componenti 96 Disclosure D",
+        "context_after": "Materie prime utilizzate per peso e volume 75; 86-87; 89; 91 18; 20; 22; 24; 54 D 103-3 Valutazione dell'approccio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "84.txt",
+        "context_before": "del management 77 D 103-2 Approccio del management e suoi componenti 96 D 103-3 Valutazione dell'approccio del management 96 D",
+        "context_after": "Consumo dell'energia all'interno dell'organizzazione 75; 87-88 18; 20; 22; 24; 54 Percentuale dei lavoratori rappresentati nel Comitato per D 403-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "86.txt",
+        "context_before": "del loro confine 50-51; 112 8-9 D 103-2 Approccio del management e suoi componenti 112 Energia (GRI 302) 3 D",
+        "context_after": "Indicatori di energy intensity 86 17 Strategia di D 103-3 Valutazione dell'approccio del management 112 sostenibilit Gestione efficiente D 302-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "86.txt",
+        "context_before": "302-3 Indicatori di energy intensity 86 17 Strategia di D 103-3 Valutazione dell'approccio del management 112 sostenibilit Gestione efficiente D",
+        "context_after": "Riduzione dei consumi di energia 64; 67; 72-73; 81; 116 4 D 103-1 Spiegazione dei temi materiali e del loro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "86.txt",
+        "context_before": "64; 67; 72-73; 81; 116 4 D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 62 8-9 D",
+        "context_after": "Rdaid purzoiodnoett di ee ls ceornviszuimo energetico richiesto 130-131 Stakeholder D 103-2 Approccio del management e suoi componenti 62 engagement",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "84.txt",
+        "context_before": "management 76-77 D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 54 8-9 e il suo modello D",
+        "context_after": "Prelievo totale di acqua per fonte 82; 87; 89; 91 18; 20; 22; 24; 54 di business D 103-2 Approccio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": {
+        "page": "86.txt",
+        "context_before": "e suoi componenti 62 engagement Acqua (GRI 303) e Analisi di D 103-3 Valutazione dell'approccio del management 62 materialit D",
+        "context_after": "Acqua riciclata e riutilizzata - 18; 20; 22 EU 11 Rendimento medio del parco termoelettrico - 17 Emissioni (GRI 305)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "84.txt",
+        "context_before": "e suoi componenti 54 Localizzazione e dimensioni di terreni posseduti, affittati * L'indicatore sulla biodiversit non  completamente 4 D",
+        "context_after": "o gestiti in aree (o adiacenti ad aree) protette o in aree a D 103-3 Valutazione dell'approccio del management 54",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "84.txt",
+        "context_before": "Valutazione dell'approccio del management 77 Finanziario D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 156 8-9 D",
+        "context_after": "Emissioni dirette di GHG 75; 80 19; 21; 23-24; 54 6 D 103-2 Approccio del management e suoi componenti 156",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "84.txt",
+        "context_before": "dirette di GHG 75; 80 19; 21; 23-24; 54 6 D 103-2 Approccio del management e suoi componenti 156 D",
+        "context_after": "Emissioni indirette di GHG 75; 80 19; 21; 23-24; 54 Capitale Manifatturiero D 103-3 Valutazione dell'approccio del management 156 D",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "86.txt",
+        "context_before": "(GRI 305) 5 Perdite di trasmissione e distribuzione in percentuale EU 12 del totale di energia - 23 Capitale D",
+        "context_after": "Altre emissioni indirette GHG 75; 80 Finanziario Accessibilit del servizio D 305-4 Intensit delle emissioni GHG 80 D 103-1 Spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "86.txt",
+        "context_before": "del totale di energia - 23 Capitale D 305-3 Altre emissioni indirette GHG 75; 80 Finanziario Accessibilit del servizio D",
+        "context_after": "Intensit delle emissioni GHG 80 D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 122 8-9 6 D",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "86.txt",
+        "context_before": "Intensit delle emissioni GHG 80 D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 122 8-9 6 D",
+        "context_after": "Iniziative di riduzione delle emissioni di GHG 92; 107; 112; 115; 130 Capitale D 103-2 Approccio del management e suoi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": false,
+    "305-7": {
+        "page": "84.txt",
+        "context_before": "Emissioni indirette di GHG 75; 80 19; 21; 23-24; 54 Capitale Manifatturiero D 103-3 Valutazione dell'approccio del management 156 D",
+        "context_after": "NO, SO e altre emissioni significative 75; 87; 90; 92 19; 21; 23-24; 54 x x D 204-1 Percentuale di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "84.txt",
+        "context_before": "76 8 D 103-3 Valutazione dell'approccio del management 76 D 103-2 Approccio del management e suoi componenti 26 Capitale D",
+        "context_after": "Acqua totale scaricata per qualit e destinazione 75; 87; 90; 93 18; 20; 22; 55 Umano D 103-3 Valutazione dell'approccio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "84.txt",
+        "context_before": "qualit e destinazione 75; 87; 90; 93 18; 20; 22; 55 Umano D 103-3 Valutazione dell'approccio del management 26 D",
+        "context_after": "Peso totale dei rifiuti per tipo e metodo di smaltimento 75; 86-87; 90; 93 19; 21; 23-24; 55 Divisioni interne",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "84.txt",
+        "context_before": "dell'approccio del management 26 Capitale Relazionale D 103-1 Spiegazione dei temi materiali e del loro confine 26; 50-51 8-9 D",
+        "context_after": "Non conformit con i regolamenti di materia ambientale - 50; 59 D 103-2 Approccio del management e suoi componenti 26",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "84.txt",
+        "context_before": "trust e pratiche di monopolio BC* + RG** D 103-3 Valutazione dell'approccio del management 156 GRI Materiali (GRI 301) D",
+        "context_after": "Nuovi fornitori valutati secondo criteri ambientali 157 59 Content D 103-1 Spiegazione dei temi materiali e del loro confine 50-51;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "84.txt",
+        "context_before": "ambientali 157 59 Content D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 76 8-9 Index Occupazione (",
+        "context_after": ") General D 103-2 Approccio del management e suoi componenti 76 D 103-1 Spiegazione dei temi materiali e del loro",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "84.txt",
+        "context_before": "Disclosure D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 77 8-9 Salute e sicurezza sul lavoro (",
+        "context_after": ") D 103-2 Approccio del management e suoi componenti 77 D 103-1 Spiegazione dei temi materiali e del loro confine",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "85.txt",
+        "context_before": "E OMISSION RIFERIMENTI E OMISSION Lettera agli INDICATORI INDICATORI DOCUMENTO SUPPLEMENTO DOCUMENTO SUPPLEMENTO stakeholder PRINCIPALE PRINCIPALE Sviluppo e formazione (",
+        "context_after": ") Politica pubblica (GRI 415) Nota metodologica D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 96 8-9",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "86.txt",
+        "context_before": "31 EU 30 Avaiability factor medio del parco impianti - 13 salute e sicurezza 8 Diversit e pari opportunit (",
+        "context_after": ") Capitale Rapporto dello stipendio base e di quello medio delle Umano D 405-2 108 donne rispetto agli uomini a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "85.txt",
+        "context_before": "engagement sesso e altri indicatori di diversit e Analisi di Etichettatura di prodotti e servizi (GRI 417) Non discriminazione (",
+        "context_after": ") materialit D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 122 8-9 D 103-1 Spiegazione dei temi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "85.txt",
+        "context_before": "discriminazione e azioni correttive prese 20 51 Privacy dei consumatori (GRI 418) Capitale Liberta di associazione e contrattazione collettiva (",
+        "context_after": ") D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 122 8-9 Manifatturiero D 103-1 Spiegazione dei temi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "85.txt",
+        "context_before": "associazione e di contrattazione collettiva 99 56 8 Conformit su aspetti sociali (GRI 419) Capitale Valutazione dei diritti umani (",
+        "context_after": ") D 103-1 Spiegazione dei temi materiali e del loro confine 26; 50-51 8-9 Umano D 103-1 Spiegazione dei temi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "85.txt",
+        "context_before": "economica - 49; 59 D 412-2 Formazione dei dipendenti nelle politiche sui diritti umani 20 10 Capitale Comunita' locale (",
+        "context_after": ") Relazionale D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 142 8-9 D 103-2 Approccio del management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "85.txt",
+        "context_before": "Attivit che prevedono un coinvolgimento D 413-1 46-48; 143-151 delle comunit locali GRI Content Valutazione fornitori su impatti sociali (",
+        "context_after": ") Index D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 156 8-9 General D 103-2 Approccio del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": {
+        "page": "85.txt",
+        "context_before": "OMISSION Lettera agli INDICATORI INDICATORI DOCUMENTO SUPPLEMENTO DOCUMENTO SUPPLEMENTO stakeholder PRINCIPALE PRINCIPALE Sviluppo e formazione (GRI 404) Politica pubblica (",
+        "context_after": ") Nota metodologica D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 96 8-9 D 103-1 Spiegazione dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "85.txt",
+        "context_before": "di formazione per dipendente soIllo d paetori fma ertifreor Aim2eAn (tsoe nalz a 30-31 Salute e sicurezza dei consumatori (",
+        "context_after": ") 2 Gruppo ACSM-AGAM) Governance D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 122 8-9 Diversit e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "85.txt",
+        "context_before": "giudiziari - 50; 59 engagement sesso e altri indicatori di diversit e Analisi di Etichettatura di prodotti e servizi (",
+        "context_after": ") Non discriminazione (GRI 406) materialit D 103-1 Spiegazione dei temi materiali e del loro confine 50-51; 122 8-9 D",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "85.txt",
+        "context_before": "di marketing 139 59 6 D 406-1 Episodi di discriminazione e azioni correttive prese 20 51 Privacy dei consumatori (",
+        "context_after": ") Capitale Liberta di associazione e contrattazione collettiva (GRI 407) D 103-1 Spiegazione dei temi materiali e del loro confine",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "85.txt",
+        "context_before": "perdita di dati D 407-1 Libert di associazione e di contrattazione collettiva 99 56 8 Conformit su aspetti sociali (",
+        "context_after": ") Capitale Valutazione dei diritti umani (GRI 412) D 103-1 Spiegazione dei temi materiali e del loro confine 26; 50-51",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "84.txt",
+        "context_before": "89; 91 18; 20; 22; 24; 54 D 103-3 Valutazione dell'approccio del management 96 Specific Standard Energia (GRI 302) D",
+        "context_after": "Nuove assunzioni e tasso di turnover 95; 98 26-27; 55 Disclosure D 103-1 Spiegazione dei temi materiali e del loro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": false,
+    "403-1": {
+        "page": "84.txt",
+        "context_before": "302-1 Consumo dell'energia all'interno dell'organizzazione 75; 87-88 18; 20; 22; 24; 54 Percentuale dei lavoratori rappresentati nel Comitato per D",
+        "context_after": "95; 100 32; 55 la salute e la sicurezza * B ilancio Consolidato 2018 - paragrafo 3. Note illustrative -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "84.txt",
+        "context_before": "Evoluzione della regolazione ed impatti sulle Business Unit del Gruppo A2A. Tipi e percentuale di infortuni sul lavoro, malattia D",
+        "context_after": "professionale, giorni persi, assenteismo e infortuni legati 100 31-33; 56 al tipo di lavoro 166 167",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "85.txt",
+        "context_before": "il suo modello di business 95; 104 D 415-1 Contributi finanziari a partiti, politici e relative istituzioni 143 51 D",
+        "context_after": "Ore medie annue di formazione per dipendente soIllo d paetori fma ertifreor Aim2eAn (tsoe nalz a 30-31 Salute e sicurezza",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "85.txt",
+        "context_before": "D 103-3 Valutazione dell'approccio del management 97 servizi 4 Numero di incidenti che hanno coinvolto la comunit , Stakeholder D",
+        "context_after": "Ripartizione degli organi di governo e dei dipendenti per 18; 106 25, 28-29; 56 EU 25 inclusi i procedimenti giudiziari",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "86.txt",
+        "context_before": "sicurezza 8 Diversit e pari opportunit (GRI 405) Capitale Rapporto dello stipendio base e di quello medio delle Umano D",
+        "context_after": "108 donne rispetto agli uomini a parit di categoria 9 Capitale Intellettuale 10 Capitale Relazionale Relazione della Societ di Revisione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "85.txt",
+        "context_before": "103-3 Valutazione dell'approccio del management 27 D 417-3 Incidenza della non conformit per attivit di marketing 139 59 6 D",
+        "context_after": "Episodi di discriminazione e azioni correttive prese 20 51 Privacy dei consumatori (GRI 418) Capitale Liberta di associazione e contrattazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "85.txt",
+        "context_before": "27 D 418-1 Reclami motivati riguardanti violazioni della privacy dei 22; 119 59 clienti e la perdita di dati D",
+        "context_after": "Libert di associazione e di contrattazione collettiva 99 56 8 Conformit su aspetti sociali (GRI 419) Capitale Valutazione dei diritti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": {
+        "page": "85.txt",
+        "context_before": "103-3 Valutazione dell'approccio del management 27 D 419-1 Non conformit con i regolamenti nell'area socio economica - 49; 59 D",
+        "context_after": "Formazione dei dipendenti nelle politiche sui diritti umani 20 10 Capitale Comunita' locale (GRI 413) Relazionale D 103-1 Spiegazione dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": false,
+    "413-1": {
+        "page": "85.txt",
+        "context_before": "componenti 142 Relazione della Societ D 103-3 Valutazione dell'approccio del management 142 di Revisione Attivit che prevedono un coinvolgimento D",
+        "context_after": "46-48; 143-151 delle comunit locali GRI Content Valutazione fornitori su impatti sociali (GRI 414) Index D 103-1 Spiegazione dei temi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": {
+        "page": "85.txt",
+        "context_before": "D 103-2 Approccio del management e suoi componenti 156 Standard Disclosure D 103-3 Valutazione dell'approccio del management 156 Specific D",
+        "context_after": "Nuovi fornitori valutati secondo criteri sociali 157 58 Standard Disclosure 168 169",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": false,
+    "415-1": {
+        "page": "85.txt",
+        "context_before": "dell'approccio del management 96 D 103-3 Valutazione dell'approccio del management 142 e il suo modello di business 95; 104 D",
+        "context_after": "Contributi finanziari a partiti, politici e relative istituzioni 143 51 D 404-1 Ore medie annue di formazione per dipendente soIllo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": false,
+    "416-2": {
+        "page": "85.txt",
+        "context_before": "D 103-2 Approccio del management e suoi componenti 97 Casi di non conformit su salute e sicurezza dei prodotti/ D",
+        "context_after": "- 49; 50 D 103-3 Valutazione dell'approccio del management 97 servizi 4 Numero di incidenti che hanno coinvolto la comunit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": false,
+    "417-2": false,
+    "417-3": {
+        "page": "85.txt",
+        "context_before": "suoi componenti 27 Capitale D 103-3 Valutazione dell'approccio del management 122 Finanziario D 103-3 Valutazione dell'approccio del management 27 D",
+        "context_after": "Incidenza della non conformit per attivit di marketing 139 59 6 D 406-1 Episodi di discriminazione e azioni correttive prese",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "85.txt",
+        "context_before": "suoi componenti 27 D 103-3 Valutazione dell'approccio del management 122 Capitale Naturale D 103-3 Valutazione dell'approccio del management 27 D",
+        "context_after": "Reclami motivati riguardanti violazioni della privacy dei 22; 119 59 clienti e la perdita di dati D 407-1 Libert di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "85.txt",
+        "context_before": "suoi componenti 27 D 103-3 Valutazione dell'approccio del management 26 Capitale Intellettuale D 103-3 Valutazione dell'approccio del management 27 D",
+        "context_after": "Non conformit con i regolamenti nell'area socio economica - 49; 59 D 412-2 Formazione dei dipendenti nelle politiche sui diritti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

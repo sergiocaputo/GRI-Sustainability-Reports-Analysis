@@ -1,0 +1,541 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "88.txt",
+        "context_before": "their boundaries reconciliation with GRI disclosures 103-2 2 The management approach and its components 103-3 2 Assessment of management approach",
+        "context_after": ": Economic performance 201-1 2.2 Economic value directly generated and distributed Material topic: Contribution to local employment GRI 103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "88.txt",
+        "context_before": "GRI disclosures 103-2 4. 4.3. 4.4 The management approach and its components 103-3 4. 4.3. 4.4 Assessment of management approach",
+        "context_after": ": Market presence 202-2 4 Proportion of senior managers hired from the local community Material topic: Ethics. integrity and transparency",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "89.txt",
+        "context_before": "F90 103-3 1.5.1 Assessment of management approach",
+        "context_after": ": Anti-corruption 205-3 1.5.1 Confirmed incidents of corruption and actions taken Material topic: Prevention of anti-competitive behaviour GRI 103: Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": {
+        "page": "89.txt",
+        "context_before": "and the reconciliation with GRI disclosures 103-2 1.5.1 The management approach and its components 103-3 1.5.1 Assessment of management approach",
+        "context_after": ": Anti-competitive behaviour With regard to the current dispute with the European Commission, details of which can be found in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "88.txt",
+        "context_before": "GRI disclosures 103-2 2 The management approach and its components 103-3 2 Assessment of management approach GRI 201: Economic performance",
+        "context_after": "2.2 Economic value directly generated and distributed Material topic: Contribution to local employment GRI 103: Management approach (2016) 4.1, Table",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": {
+        "page": "88.txt",
+        "context_before": "4.3. 4.4 The management approach and its components 103-3 4. 4.3. 4.4 Assessment of management approach GRI 202: Market presence",
+        "context_after": "4 Proportion of senior managers hired from the local community Material topic: Ethics. integrity and transparency GRI 103: Management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": false,
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "89.txt",
+        "context_before": "F90 103-3 1.5.1 Assessment of management approach GRI 205: Anti-corruption",
+        "context_after": "1.5.1 Confirmed incidents of corruption and actions taken Material topic: Prevention of anti-competitive behaviour GRI 103: Management approach (2016) 1.5.1,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "89.txt",
+        "context_before": "(Case T-523/15), the Court of the European Union rejected the appeal of Italmobiliare Legal actions for anti-competitive behaviour, anti-trust and",
+        "context_after": "and the Sirap Group companies monopoly practices involved in the proceedings, confirming the amount of the fine imposed. The sentence",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "89.txt",
+        "context_before": "reconciliation with GRI disclosures 103-2 3.1.2. 3.2.2. The management approach and its components 103-3 3.1.2. 3.2.2. Assessment of management approach",
+        "context_after": ": Materials 301-1 3.1.2. 3.2.2. Materials used by weight or volume 301-2 3.1.2. 3.2.2. Materials used that come from recycling",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "90.txt",
+        "context_before": "103-2 3. 3.1.3. 3.2.3. 3.3.2 The management approach and its components 103-3 3. 3.1.3.. 3.2.3. 3.3.2 Assessment of management approach",
+        "context_after": ": Energy 302-1 Annex 3. 3.1.3. 3.2.3. 3.3.2 Energy consumed within the organization Topic: Water GRI 103: Management approach (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "90.txt",
+        "context_before": "303-1 3. 3.2.4. 3.3.4 Interaction with water as a shared resource 303-2 3. 3.2.4. 3.3.4 Management of water-discharge related impacts",
+        "context_after": ": Water and effluents (2018) 303-3 Annex 3. 3.2.4. 3.3.4 Water withdrawal 303-4 Annex 3. 3.2.4. 3.3.4 Water discharge 303-5",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "90.txt",
+        "context_before": "103-2 3. 3.1.3. 3.2.3. 3.3.4 The management approach and its components 103-3 3. 3.1.3. 3.2.3. 3.3.4 Assessment of management approach",
+        "context_after": ": Emissions 305-1 3. 3.1.3. 3.2.3. 3.3.4 Direct (Scope 1) GHG emissions 305-2 3. 3.1.3. 3.2.3. 3.3.4 Indirect (Scope 2)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "90.txt",
+        "context_before": "103-2 3. 3.1.4. 3.2.5. 3.3.5 The management approach and its components 103-3 3. 3.1.4. 3.2.5. 3.3.5 Assessment of management approach",
+        "context_after": ": Effluents and waste 306-2 Annex. 3.1.4. 3.2.5. 3.3.5 Waste by type and disposal method Material Topic: Environmental compliance GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "90.txt",
+        "context_before": "103-2 3. 3.1.1. 3.2.1. 3.3.1 The management approach and its components 103-3 3. 3.1.1. 3.2.1. 3.3.1 Assessment of management approach",
+        "context_after": ": Environmental compliance Cases of non-compliance with environmental laws and 307-1 3 regulations Material Topic: Research and development GRI 103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": {
+        "page": "74.txt",
+        "context_before": "Sustainability Report | ANNEX - GRI INDICATOR TABLES F75",
+        "context_after": "/4/5 Water withdrawal, Water discharge and Water consumption Water withdrawal of Group Italmobiliare Source Megaliters (Ml) 2019 Megaliters (Ml) 2018",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": {
+        "page": "73.txt",
+        "context_before": "260.2 718.1 Automotive petrol 12.7 100.0 LPG 122.7 n.a. for forklifts 121.1 n.a. for automotive 1.6 n.a. Total 10,616.2 11,345.7",
+        "context_after": "Energy indirect (Scope 2) GHG emissions. Location-based method broken down by country Italmobiliare Group Source t CO 2019 t CO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "89.txt",
+        "context_before": "disclosures 103-2 3.1.2. 3.2.2. The management approach and its components 103-3 3.1.2. 3.2.2. Assessment of management approach GRI 301: Materials",
+        "context_after": "3.1.2. 3.2.2. Materials used by weight or volume 301-2 3.1.2. 3.2.2. Materials used that come from recycling Topic: Energy GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "89.txt",
+        "context_before": "components 103-3 3.1.2. 3.2.2. Assessment of management approach GRI 301: Materials 301-1 3.1.2. 3.2.2. Materials used by weight or volume",
+        "context_after": "3.1.2. 3.2.2. Materials used that come from recycling Topic: Energy GRI 103: Management approach (2016) 103-1 3 Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "90.txt",
+        "context_before": "3.2.3. 3.3.2 The management approach and its components 103-3 3. 3.1.3.. 3.2.3. 3.3.2 Assessment of management approach GRI 302: Energy",
+        "context_after": "Annex 3. 3.1.3. 3.2.3. 3.3.2 Energy consumed within the organization Topic: Water GRI 103: Management approach (2016) 103-1 3 Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "90.txt",
+        "context_before": "3. 3.2.4. 3.3.4 The management approach and its components 103-3 3. 3.2.4. 3.3.4 Assessment of management approach Management approach (2018)",
+        "context_after": "3. 3.2.4. 3.3.4 Interaction with water as a shared resource 303-2 3. 3.2.4. 3.3.4 Management of water-discharge related impacts GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "90.txt",
+        "context_before": "3.2.4. 3.3.4 Assessment of management approach Management approach (2018) 303-1 3. 3.2.4. 3.3.4 Interaction with water as a shared resource",
+        "context_after": "3. 3.2.4. 3.3.4 Management of water-discharge related impacts GRI 303: Water and effluents (2018) 303-3 Annex 3. 3.2.4. 3.3.4 Water",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "90.txt",
+        "context_before": "water as a shared resource 303-2 3. 3.2.4. 3.3.4 Management of water-discharge related impacts GRI 303: Water and effluents (2018)",
+        "context_after": "Annex 3. 3.2.4. 3.3.4 Water withdrawal 303-4 Annex 3. 3.2.4. 3.3.4 Water discharge 303-5 Annex 3. 3.2.4. 3.3.4 Water consumption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": {
+        "page": "90.txt",
+        "context_before": "3.2.4. 3.3.4 Management of water-discharge related impacts GRI 303: Water and effluents (2018) 303-3 Annex 3. 3.2.4. 3.3.4 Water withdrawal",
+        "context_after": "Annex 3. 3.2.4. 3.3.4 Water discharge 303-5 Annex 3. 3.2.4. 3.3.4 Water consumption GRI 103: Management approach (2016) 103-1 3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-5": {
+        "page": "90.txt",
+        "context_before": "GRI 303: Water and effluents (2018) 303-3 Annex 3. 3.2.4. 3.3.4 Water withdrawal 303-4 Annex 3. 3.2.4. 3.3.4 Water discharge",
+        "context_after": "Annex 3. 3.2.4. 3.3.4 Water consumption GRI 103: Management approach (2016) 103-1 3 Explanation of the material aspects and their",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "90.txt",
+        "context_before": "3.2.3. 3.3.4 The management approach and its components 103-3 3. 3.1.3. 3.2.3. 3.3.4 Assessment of management approach GRI 305: Emissions",
+        "context_after": "3. 3.1.3. 3.2.3. 3.3.4 Direct (Scope 1) GHG emissions 305-2 3. 3.1.3. 3.2.3. 3.3.4 Indirect (Scope 2) GHG emissions Own",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-2": {
+        "page": "90.txt",
+        "context_before": "3.1.3. 3.2.3. 3.3.4 Assessment of management approach GRI 305: Emissions 305-1 3. 3.1.3. 3.2.3. 3.3.4 Direct (Scope 1) GHG emissions",
+        "context_after": "3. 3.1.3. 3.2.3. 3.3.4 Indirect (Scope 2) GHG emissions Own indicator 3 CO emissions avoided 2 Material Topic: Waste management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "90.txt",
+        "context_before": "The management approach and its components 103-3 3. 3.1.4. 3.2.5. 3.3.5 Assessment of management approach GRI 306: Effluents and waste",
+        "context_after": "Annex. 3.1.4. 3.2.5. 3.3.5 Waste by type and disposal method Material Topic: Environmental compliance GRI 103: Management approach (2016) 3,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "90.txt",
+        "context_before": "103-3 3. 3.1.1. 3.2.1. 3.3.1 Assessment of management approach GRI 307: Environmental compliance Cases of non-compliance with environmental laws and",
+        "context_after": "3 regulations Material Topic: Research and development GRI 103: Management approach (2016) 3. 3.1.2. 3.2.2, Table concerning the boundaries of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "91.txt",
+        "context_before": "4.4.1. 4.5.1. 4.6.1 The management approach and its components 103-3 4.1. 4.2.1. 4.3.1. 4.4.1. 4.5.1. 4.6.1 Assessment of management approach",
+        "context_after": ": Employment 401-1 Annex New hires and turnover Benefits provided for full-time employees. but not for part-time or 401-2 4.1.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "91.txt",
+        "context_before": "5.3. 5.4. 5.5 The management approach and its components 103-3 5. 5.1. 5.2. 5.3. 5.4. 5.5 Assessment of management approach",
+        "context_after": ": Management approach (2018) 403-1 5. 5.1. 5.2. 5.3. 5.4. 5.5 Occupational health and safety management system 403-2 5. 5.1.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "91.txt",
+        "context_before": "The management approach and its components 4.5.2. 4.6.2 4. 4.1.2. 4.2.2. 4.3.2. 4.4.2. 4.5.2. 103-3 Assessment of management approach 4.6.2",
+        "context_after": ": Training and education 4. 4.1.2. 4.2.2. 4.3.2. 4.4.2. 4.5.2. 404-1 Average hours of training per year per employee 4.6.2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "92.txt",
+        "context_before": "Sustainability Report | ANNEX - GRI INDICATOR TABLES F93",
+        "context_after": ": Customer health and safety During 2019, no incidents of non- compliance with regulations and/ Incidents of non-compliance concerning the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "92.txt",
+        "context_before": "103-2 The management approach and its components 6.6.1 6. 6.1.1.. 6.2.1. 6.3.1. 6.4.1. 6.5.1. 103-3 Assessment of management approach 6.6.1",
+        "context_after": ": Marketing and labelling During 2019, no incidents of non- compliance with regulations and/or Incidents of non-compliance concerning product and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "92.txt",
+        "context_before": "6.2.2. 6.3.2. 6.4.2. 6.5.2. 103-2 Management approach 6.6.2 6. 6.1.2.. 6.2.2. 6.3.2. 6.4.2. 6.5.2. 103-3 Assessment of management approach 6.6.2",
+        "context_after": ": Customer privacy Substantiated complaints concerning breaches of customer 418-1 6 privacy and losses of customer data Material topic: Socio-economic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "92.txt",
+        "context_before": "and the reconciliation with GRI disclosures 103-2 1.5.1 The management approach and its components 103-3 1.5.1 Assessment of management approach",
+        "context_after": ": Socio-economic compliance Non-compliance with laws and regulations in the social and 419-1 1.5.1 economic area Material topic: Risk management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": {
+        "page": "75.txt",
+        "context_before": "F76",
+        "context_after": "Total number and rate of new hires and turnover rate by age group, gender and region during the period 2018-2019",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": {
+        "page": "78.txt",
+        "context_before": "Sustainability Report | ANNEX - GRI INDICATOR TABLES F79",
+        "context_after": "The number and rate of recordable work-related injuries with high-consequence work-related injuries and/or fatalities, divided by employees and external staff",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": {
+        "page": "83.txt",
+        "context_before": "F84",
+        "context_after": "Percentage of employees receiving regular performance and career development reviews 404-3 STAFF PERFORMANCE REVIEW 2019 2018 ITALMOBILIARE GROUP Production Production",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "91.txt",
+        "context_before": "The management approach and its components 103-3 4.1. 4.2.1. 4.3.1. 4.4.1. 4.5.1. 4.6.1 Assessment of management approach GRI 401: Employment",
+        "context_after": "Annex New hires and turnover Benefits provided for full-time employees. but not for part-time or 401-2 4.1. 4.2.1. 4.3.1. 4.4.1.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "91.txt",
+        "context_before": "approach GRI 401: Employment 401-1 Annex New hires and turnover Benefits provided for full-time employees. but not for part-time or",
+        "context_after": "4.1. 4.2.1. 4.3.1. 4.4.1. 4.5.1. 4.6.1 temporary workers Material topic: Occupational health and safety GRI 103: Management approach (2016) 5,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": false,
+    "403-1": {
+        "page": "91.txt",
+        "context_before": "approach and its components 103-3 5. 5.1. 5.2. 5.3. 5.4. 5.5 Assessment of management approach GRI 403: Management approach (2018)",
+        "context_after": "5. 5.1. 5.2. 5.3. 5.4. 5.5 Occupational health and safety management system 403-2 5. 5.1. 5.2. 5.3. 5.4. 5.5 Hazard",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "91.txt",
+        "context_before": "management approach GRI 403: Management approach (2018) 403-1 5. 5.1. 5.2. 5.3. 5.4. 5.5 Occupational health and safety management system",
+        "context_after": "5. 5.1. 5.2. 5.3. 5.4. 5.5 Hazard identification, risk assessment and accident investigation 403-3 5. 5.1. 5.2. 5.3. 5.4. 5.5",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "91.txt",
+        "context_before": "Occupational health and safety management system 403-2 5. 5.1. 5.2. 5.3. 5.4. 5.5 Hazard identification, risk assessment and accident investigation",
+        "context_after": "5. 5.1. 5.2. 5.3. 5.4. 5.5 Occupational health services Participation and consultation of workers and communication on 403-4 5. 5.1.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "91.txt",
+        "context_before": "accident investigation 403-3 5. 5.1. 5.2. 5.3. 5.4. 5.5 Occupational health services Participation and consultation of workers and communication on",
+        "context_after": "5. 5.1. 5.2. 5.3. 5.4. 5.5 occupational health and safety 403-5 5. 5.1. 5.2. 5.3. 5.4. 5.5 Worker training on",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": {
+        "page": "91.txt",
+        "context_before": "services Participation and consultation of workers and communication on 403-4 5. 5.1. 5.2. 5.3. 5.4. 5.5 occupational health and safety",
+        "context_after": "5. 5.1. 5.2. 5.3. 5.4. 5.5 Worker training on occupational health and safety 403-6 5. 5.1. 5.2. 5.3. 5.4. 5.5",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-6": {
+        "page": "91.txt",
+        "context_before": "5.4. 5.5 occupational health and safety 403-5 5. 5.1. 5.2. 5.3. 5.4. 5.5 Worker training on occupational health and safety",
+        "context_after": "5. 5.1. 5.2. 5.3. 5.4. 5.5 Promotion of workers' health Prevention and mitigation of occupational health and safety 403-7 5.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-7": {
+        "page": "91.txt",
+        "context_before": "safety 403-6 5. 5.1. 5.2. 5.3. 5.4. 5.5 Promotion of workers' health Prevention and mitigation of occupational health and safety",
+        "context_after": "5. 5.1. 5.2. 5.3. 5.4. 5.5 impacts on commercial relationships GRI 403: Occupational health and safety (2018) 403-9 5 Annex",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-8": false,
+    "403-9": {
+        "page": "91.txt",
+        "context_before": "and safety 403-7 5. 5.1. 5.2. 5.3. 5.4. 5.5 impacts on commercial relationships GRI 403: Occupational health and safety (2018)",
+        "context_after": "5 Annex Work-related injuries Material topic: Training and education GRI 103: Management approach (2016) 1, Table concerning the boundaries 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-10": false,
+    "404-1": {
+        "page": "91.txt",
+        "context_before": "4.3.2. 4.4.2. 4.5.2. 103-3 Assessment of management approach 4.6.2 GRI 404: Training and education 4. 4.1.2. 4.2.2. 4.3.2. 4.4.2. 4.5.2.",
+        "context_after": "Average hours of training per year per employee 4.6.2 Percentage of employees receiving regular performance and 404-3 Annex career development",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "91.txt",
+        "context_before": "4.3.2. 4.4.2. 4.5.2. 404-1 Average hours of training per year per employee 4.6.2 Percentage of employees receiving regular performance and",
+        "context_after": "Annex career development reviews Material topic: Customer health and safety GRI 103: Management approach (2016) 6 ,Table concerning the boundaries",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": false,
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": {
+        "page": "92.txt",
+        "context_before": "and safety During 2019, no incidents of non- compliance with regulations and/ Incidents of non-compliance concerning the health and safety",
+        "context_after": "or voluntary codes concerning impacts of products and services the health and safety impacts of products and services During 2019,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": false,
+    "417-2": {
+        "page": "92.txt",
+        "context_before": "Marketing and labelling During 2019, no incidents of non- compliance with regulations and/or Incidents of non-compliance concerning product and service",
+        "context_after": "voluntary codes concerning information and labelling product and service information and labelling were reported Material topic: Customer privacy GRI 103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": false,
+    "418-1": {
+        "page": "92.txt",
+        "context_before": "6.2.2. 6.3.2. 6.4.2. 6.5.2. 103-3 Assessment of management approach 6.6.2 GRI 418: Customer privacy Substantiated complaints concerning breaches of customer",
+        "context_after": "6 privacy and losses of customer data Material topic: Socio-economic compliance GRI 103: Management approach (2016) 1.5.1, Table concerning the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "92.txt",
+        "context_before": "components 103-3 1.5.1 Assessment of management approach GRI 419: Socio-economic compliance Non-compliance with laws and regulations in the social and",
+        "context_after": "1.5.1 economic area Material topic: Risk management GRI 103: Management approach (2016) 1.6, Table concerning the boundaries 103-1 of material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

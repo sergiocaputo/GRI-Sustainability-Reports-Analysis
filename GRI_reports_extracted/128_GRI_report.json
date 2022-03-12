@@ -1,0 +1,835 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "74.txt",
+        "context_before": "economics students how a bank evaluates the credit rating of a business in practice. Actions taken for social initiatives [",
+        "context_after": "-1 415-1] Social interventions, whether occasional or part of agreements lasting several years, are intended to promote and enhance the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "44.txt",
+        "context_before": "the distribution of branches into Macro Territorial Areas, and in the decentralised levels responsible for lending.2 Indirect economic impacts [",
+        "context_after": "-1:2 FS7] In connection with the value of local presence, business and credit policies must be applied to meet the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "29.txt",
+        "context_before": "6 1 E.g. training activities, organisational changes and improvements to the internal control system. Corruption, money laundering and usury [",
+        "context_after": "-1:3] All activities and organisational units are subject to verification connected with implementation of the 231/2001 Model (corporate liability model),",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "30.txt",
+        "context_before": "2,910 802 6,355 1,127 1,189 as a percentage of the total 31.5% 58.0% 37.7% 49.4% 59.9% 53.2% Anti-competitive behaviour [",
+        "context_after": "-1] With a provision of 21st January 2016, the Autorit Garante della Concorrenza e del Mercato (AGCM  the Italian",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "74.txt",
+        "context_before": "economics students how a bank evaluates the credit rating of a business in practice. Actions taken for social initiatives [",
+        "context_after": "415-1] Social interventions, whether occasional or part of agreements lasting several years, are intended to promote and enhance the identity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "44.txt",
+        "context_before": "the distribution of branches into Macro Territorial Areas, and in the decentralised levels responsible for lending.2 Indirect economic impacts [",
+        "context_after": ":2 FS7] In connection with the value of local presence, business and credit policies must be applied to meet the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": {
+        "page": "29.txt",
+        "context_before": "6 1 E.g. training activities, organisational changes and improvements to the internal control system. Corruption, money laundering and usury [",
+        "context_after": ":3] All activities and organisational units are subject to verification connected with implementation of the 231/2001 Model (corporate liability model),",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": {
+        "page": "30.txt",
+        "context_before": "2,910 802 6,355 1,127 1,189 as a percentage of the total 31.5% 58.0% 37.7% 49.4% 59.9% 53.2% Anti-competitive behaviour [",
+        "context_after": "] With a provision of 21st January 2016, the Autorit Garante della Concorrenza e del Mercato (AGCM  the Italian",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "74.txt",
+        "context_before": "economics students how a bank evaluates the credit rating of a business in practice. Actions taken for social initiatives [GRI",
+        "context_after": "415-1] Social interventions, whether occasional or part of agreements lasting several years, are intended to promote and enhance the identity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "16.txt",
+        "context_before": "internal supervision to anticipate and address the key risks involved in banking activity. Key impacts, risks and opportunities [GRI 102-15",
+        "context_after": "] During 2017, UBI Banca updated its reporting on sustainability topics relevant in creation of value for the Group (material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-3": {
+        "page": "23.txt",
+        "context_before": "that a uniform, consistent approach is used in obtaining information and stating results. Economic value generated and distributed [GRI 201-1",
+        "context_after": ":4 202-1 204-1] The reclassification of the consolidated income statem ent highlights the economic value generated by the Group, which",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "105.txt",
+        "context_before": "other risks and opportunities due to climate change 15 7 201-3 Defined benefit plan obligations and other retirement plans 22-25",
+        "context_after": "Financial assistance received from government 22-25 202 - MARKET PRESENCE 103 - Management approach 22, 50 202-1 Ratios of standard",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "23.txt",
+        "context_before": "a uniform, consistent approach is used in obtaining information and stating results. Economic value generated and distributed [GRI 201-1 201-3:4",
+        "context_after": "204-1] The reclassification of the consolidated income statem ent highlights the economic value generated by the Group, which is substantially",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "51.txt",
+        "context_before": "on rules under contractual arrangements or corporate policies at the implementing level can be identified. Employment and turnover [GRI 401-1",
+        "context_after": "] During 2017, in a context characterised by persistent complex economic and market conditions, initiatives were carried on aiming to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "44.txt",
+        "context_before": "the distribution of branches into Macro Territorial Areas, and in the decentralised levels responsible for lending.2 Indirect economic impacts [GRI",
+        "context_after": ":2 FS7] In connection with the value of local presence, business and credit policies must be applied to meet the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "105.txt",
+        "context_before": "local community 51 203 -INDIRECT ECONOMIC IMPACTS 103 - Management approach 43 203-1 Infrastructure investments and services supported 43-49 7,8",
+        "context_after": "Significant indirect economic impacts 43-49 204 - PROCUREMENT PRACTICES 103 - Management approach 22 204-1 Proportion of spending on local",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "23.txt",
+        "context_before": "uniform, consistent approach is used in obtaining information and stating results. Economic value generated and distributed [GRI 201-1 201-3:4 202-1",
+        "context_after": "] The reclassification of the consolidated income statem ent highlights the economic value generated by the Group, which is substantially",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "29.txt",
+        "context_before": "6 1 E.g. training activities, organisational changes and improvements to the internal control system. Corruption, money laundering and usury [GRI",
+        "context_after": ":3] All activities and organisational units are subject to verification connected with implementation of the 231/2001 Model (corporate liability model),",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "105.txt",
+        "context_before": "22-25 205 - ANTI-CORRUPTION 103 - Management approach 26 10 205-1 Operations assessed for risks related to corruption 28-29 10",
+        "context_after": "Communication and training about anti-corruption policies and procedures 28-29 10 205-3 Confirmed incidents of corruption and actions taken 28-29 10",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "105.txt",
+        "context_before": "Operations assessed for risks related to corruption 28-29 10 205-2 Communication and training about anti-corruption policies and procedures 28-29 10",
+        "context_after": "Confirmed incidents of corruption and actions taken 28-29 10 206 - ANTI-COMPETITIVE BEHAVIOR 103 - Management approach 26 206-1 Legal",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "30.txt",
+        "context_before": "2,910 802 6,355 1,127 1,189 as a percentage of the total 31.5% 58.0% 37.7% 49.4% 59.9% 53.2% Anti-competitive behaviour [GRI",
+        "context_after": "] With a provision of 21st January 2016, the Autorit Garante della Concorrenza e del Mercato (AGCM  the Italian",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "88.txt",
+        "context_before": "the specific objectives to be achieved over the period of the 2020 business plan will be defined. Materials used [",
+        "context_after": "-1:2] The Purchasing Department of UBI Sistemi e Servizi manages the purchasing cycle for Group companies. The main raw materials",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "89.txt",
+        "context_before": "consumption are mainly due to the extension of the area reported on to include the New Banks. Energy consumption [",
+        "context_after": "-1:4] UBI Banca is a multi-site concern. It operates in properties generally classifiable as for service use and it is",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "92.txt",
+        "context_before": "Banks. These banks operate in areas where there is a greater dependence on heating systems that use fossil fuels. [",
+        "context_after": "-1:7] Emissions The emissions produced by the Group mainly relate to greenhouse gases and the other pollutants produced by the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "94.txt",
+        "context_before": "in emissions are mainly due to the extension of the area reported on to include the New Banks. Waste [",
+        "context_after": "-2 306-4] Solid urban waste is managed by the public collection service and we are therefore unable to measure the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "28.txt",
+        "context_before": "operation of internal whistleblowing systems with aggregate information on the results of actions taken on whistleblowing reports received. Compliance [",
+        "context_after": "-1 416-2 417-2:3 419-1] For reports on the findings and penalties to which UBI Banca and other companies in the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "88.txt",
+        "context_before": "the specific objectives to be achieved over the period of the 2020 business plan will be defined. Materials used [",
+        "context_after": ":2] The Purchasing Department of UBI Sistemi e Servizi manages the purchasing cycle for Group companies. The main raw materials",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "89.txt",
+        "context_before": "consumption are mainly due to the extension of the area reported on to include the New Banks. Energy consumption [",
+        "context_after": ":4] UBI Banca is a multi-site concern. It operates in properties generally classifiable as for service use and it is",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "92.txt",
+        "context_before": "Banks. These banks operate in areas where there is a greater dependence on heating systems that use fossil fuels. [",
+        "context_after": ":7] Emissions The emissions produced by the Group mainly relate to greenhouse gases and the other pollutants produced by the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "94.txt",
+        "context_before": "in emissions are mainly due to the extension of the area reported on to include the New Banks. Waste [",
+        "context_after": "306-4] Solid urban waste is managed by the public collection service and we are therefore unable to measure the quantity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "28.txt",
+        "context_before": "operation of internal whistleblowing systems with aggregate information on the results of actions taken on whistleblowing reports received. Compliance [",
+        "context_after": "416-2 417-2:3 419-1] For reports on the findings and penalties to which UBI Banca and other companies in the Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "88.txt",
+        "context_before": "the specific objectives to be achieved over the period of the 2020 business plan will be defined. Materials used [GRI",
+        "context_after": ":2] The Purchasing Department of UBI Sistemi e Servizi manages the purchasing cycle for Group companies. The main raw materials",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "105.txt",
+        "context_before": "300 ENVIRONMENTAL 301 - MATERIALI 103 - Management approach 87-88 7,8,9 301-1 Materials used by weight or volume 87-88 8",
+        "context_after": "Recycled input materials used 87-88 8,9 Not applicable 301-3 Reclaimed products and their packaging materials 7,8 to banks 302 -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "105.txt",
+        "context_before": "87-88 7,8,9 301-1 Materials used by weight or volume 87-88 8 301-2 Recycled input materials used 87-88 8,9 Not applicable",
+        "context_after": "Reclaimed products and their packaging materials 7,8 to banks 302 - ENERGY 103 - Management approach 87-89 7,8 302-1 Energy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "99.txt",
+        "context_before": "accounts for approximately 22% of world production. Business travel: energy consumption by the company car fleet already reported under disclosure",
+        "context_after": "is excluded. The kilometres travelled by air were retrieved from the IATA certified management app provided by the travelagency. TheInternationalAirTransportAssociation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-2": {
+        "page": "99.txt",
+        "context_before": "multiplied by the underlying coefficient. ENERGY INTENSITY Calculation method Energy intensity does not include energy consumption outside the organisation (",
+        "context_after": ") and was calculated by dividing total energy consumption within the organisation (302-1) by the number of employeesandassociateworkers(21.465amounting to100%oftheGroup total)and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "105.txt",
+        "context_before": "approach 87-89 7,8 302-1 Energy consumption within the organization 88-91 7,8 302-2 Energy consumption outside of the organization 88-91 7,8",
+        "context_after": "Energy intensity 88-91 7,8 302-4 Reduction of energy consumption 88-91 7,8 Not applicable 302-5 Reductions in energy requirements of products",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "105.txt",
+        "context_before": "consumption within the organization 88-91 7,8 302-2 Energy consumption outside of the organization 88-91 7,8 302-3 Energy intensity 88-91 7,8",
+        "context_after": "Reduction of energy consumption 88-91 7,8 Not applicable 302-5 Reductions in energy requirements of products and services 7,8 to banks",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "105.txt",
+        "context_before": "outside of the organization 88-91 7,8 302-3 Energy intensity 88-91 7,8 302-4 Reduction of energy consumption 88-91 7,8 Not applicable",
+        "context_after": "Reductions in energy requirements of products and services 7,8 to banks 303 - WATER Non material 7,8 304 - BIODIVERSITY",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "92.txt",
+        "context_before": "Banks. These banks operate in areas where there is a greater dependence on heating systems that use fossil fuels. [GRI",
+        "context_after": ":7] Emissions The emissions produced by the Group mainly relate to greenhouse gases and the other pollutants produced by the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "105.txt",
+        "context_before": "material 7,8 305 - EMISSIONS 103 - Management approach 87, 91 7,8,9 305-1 Direct (Scope 1) GHG emissions 91-93 7,8",
+        "context_after": "Energy indirect (Scope 2) GHG emissions 91-93 7,8 305-3 Other indirect (Scope 3) GHG emissions 91-93 7,8 305-4 GHG emissions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "99.txt",
+        "context_before": "routes (number of trips and distances) using the app Ecopassenger. For business travel using personal cars, the CO2 emissions (see",
+        "context_after": ") were divided by the following \"ISPRA - Database of average road transport emission factors in Italy\" coefficients: 3,127944 tons",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "105.txt",
+        "context_before": "91-93 7,8 305-2 Energy indirect (Scope 2) GHG emissions 91-93 7,8 305-3 Other indirect (Scope 3) GHG emissions 91-93 7,8",
+        "context_after": "GHG emissions intensity 91-93 7,8 Consolidated non-financial declaration pursuant to Legislative Decree No. 254/2016 2017 Sustainability Report  Methodological note",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "106.txt",
+        "context_before": "GRI PAGE OR GLOBAL STANDARDS DESCRIPTION REASON OF COMPACT 2016 OMISSION",
+        "context_after": "Reduction of GHG emissions 91-93 7,8,9 305-6 Emissions of ozone-depleting substances (ODS) 91-93 7,8 305-7 Nitrogen oxides (NOX), sulfur oxides",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "106.txt",
+        "context_before": "GRI PAGE OR GLOBAL STANDARDS DESCRIPTION REASON OF COMPACT 2016 OMISSION 305-5 Reduction of GHG emissions 91-93 7,8,9",
+        "context_after": "Emissions of ozone-depleting substances (ODS) 91-93 7,8 305-7 Nitrogen oxides (NOX), sulfur oxides (SOX), and other significant air emissions 91-93",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "106.txt",
+        "context_before": "REASON OF COMPACT 2016 OMISSION 305-5 Reduction of GHG emissions 91-93 7,8,9 305-6 Emissions of ozone-depleting substances (ODS) 91-93 7,8",
+        "context_after": "Nitrogen oxides (NOX), sulfur oxides (SOX), and other significant air emissions 91-93 7,8 306 - EFFLUENTS AND WASTE 103 -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "106.txt",
+        "context_before": "(SOX), and other significant air emissions 91-93 7,8 306 - EFFLUENTS AND WASTE 103 - Management approach 93-94 Not applicable",
+        "context_after": "Water discharge by quality and destination 7 to banks 306-2 Waste by type and disposal method 93-94 7 Not applicable",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "94.txt",
+        "context_before": "in emissions are mainly due to the extension of the area reported on to include the New Banks. Waste [GRI",
+        "context_after": "306-4] Solid urban waste is managed by the public collection service and we are therefore unable to measure the quantity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "106.txt",
+        "context_before": "Water discharge by quality and destination 7 to banks 306-2 Waste by type and disposal method 93-94 7 Not applicable",
+        "context_after": "Significant spills 7 to banks 306-4 Transport of hazardous waste 93-94 7 Not applicable 306-5 Water bodies affected by water",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-4": {
+        "page": "94.txt",
+        "context_before": "emissions are mainly due to the extension of the area reported on to include the New Banks. Waste [GRI 306-2",
+        "context_after": "] Solid urban waste is managed by the public collection service and we are therefore unable to measure the quantity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-5": {
+        "page": "106.txt",
+        "context_before": "method 93-94 7 Not applicable 306-3 Significant spills 7 to banks 306-4 Transport of hazardous waste 93-94 7 Not applicable",
+        "context_after": "Water bodies affected by water discharges and/or runoff 7 to banks 307 - ENVIRONMENTAL COMPLIANCE 103 - Management approach 26",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "307-1": {
+        "page": "28.txt",
+        "context_before": "operation of internal whistleblowing systems with aggregate information on the results of actions taken on whistleblowing reports received. Compliance [GRI",
+        "context_after": "416-2 417-2:3 419-1] For reports on the findings and penalties to which UBI Banca and other companies in the Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "54.txt",
+        "context_before": "the market regulators and those who supervise the maintenance of and developments in ICT systems. Benefit e work-life balance [",
+        "context_after": "-2:3] In order to protect the health and well-being of the personnel, a number of contractually defined mechanisms are provided",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "69.txt",
+        "context_before": "Management of industrial relations [",
+        "context_after": "-1] Under national collective bargaining agreements, processing steps and a minimum period of 45 days is established for negotiations with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": false,
+    "GRI 404": {
+        "page": "65.txt",
+        "context_before": "Training and education [",
+        "context_after": "-1] In 2017 the group delivered more than135,000 training days, including 120,000 for ordinary activities and more than 17,000 for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "70.txt",
+        "context_before": "formally-established investigation, decision- making and judgment processes and through periodic reporting on the measures taken. Diversity and equal opportunity [",
+        "context_after": "-1:2] Diversity management in the Group primarily involves gender diversity. Composition of the Groups personnel The data confirm the increase",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "72.txt",
+        "context_before": "98.1% 98.4% 98.1% 98.2% Data relating to 99% of employees, employees with foreign and extra-group contracts are excluded. Non-discrimination [",
+        "context_after": "-1] No violations of the principle of non-discrimination were observed in the Group, with reference to 61 disciplinary proceedings during",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": {
+        "page": "30.txt",
+        "context_before": "was decided not to issue any penalties as they were not merited by the minor violations confirmed. Human rights [",
+        "context_after": "-1 409-1 412-1:3 FS6] As a result of the location and nature of the activities carried out, the operational framework",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "96.txt",
+        "context_before": "entrusted to authorised local companies and none of it is imported or exported. Products and services with environmental aims [",
+        "context_after": "-2 FS8] The Group contributes to the development of a more eco-friendly economic system in various ways, in line with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "39.txt",
+        "context_before": "direct the activities of the Group on the basis of the quality of the customer experience6. Health and safety [",
+        "context_after": "-1] During 2017 activities to upgrade physical security assets in branches, emergency exits and medical emergency alarm systems equipment continued",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "39.txt",
+        "context_before": "138 138 0 179 179 1 Number of events every 100 branches. 2 Data don't include Banca Teatina. Protection [",
+        "context_after": "-1 418-1 FS15] Transparency The Bank of Italy has issued specific provisions on the transparency of banking and financial operations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "51.txt",
+        "context_before": "based on rules under contractual arrangements or corporate policies at the implementing level can be identified. Employment and turnover [",
+        "context_after": "202-2] During 2017, in a context characterised by persistent complex economic and market conditions, initiatives were carried on aiming to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": {
+        "page": "54.txt",
+        "context_before": "the market regulators and those who supervise the maintenance of and developments in ICT systems. Benefit e work-life balance [",
+        "context_after": ":3] In order to protect the health and well-being of the personnel, a number of contractually defined mechanisms are provided",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-3": false,
+    "GRI 402-1": {
+        "page": "69.txt",
+        "context_before": "Management of industrial relations [",
+        "context_after": "] Under national collective bargaining agreements, processing steps and a minimum period of 45 days is established for negotiations with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "65.txt",
+        "context_before": "Training and education [",
+        "context_after": "] In 2017 the group delivered more than135,000 training days, including 120,000 for ordinary activities and more than 17,000 for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": {
+        "page": "63.txt",
+        "context_before": "and additional robbery risk prevention tools identified as a result of the changes in the branch model. Professional development [",
+        "context_after": ":3] In \"banking fairly and well\", UBI Banca supports a corporate culture oriented towards customer service and simplicity, quality, innovation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "70.txt",
+        "context_before": "formally-established investigation, decision- making and judgment processes and through periodic reporting on the measures taken. Diversity and equal opportunity [",
+        "context_after": ":2] Diversity management in the Group primarily involves gender diversity. Composition of the Groups personnel The data confirm the increase",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": {
+        "page": "72.txt",
+        "context_before": "98.1% 98.4% 98.1% 98.2% Data relating to 99% of employees, employees with foreign and extra-group contracts are excluded. Non-discrimination [",
+        "context_after": "] No violations of the principle of non-discrimination were observed in the Group, with reference to 61 disciplinary proceedings during",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": {
+        "page": "30.txt",
+        "context_before": "was decided not to issue any penalties as they were not merited by the minor violations confirmed. Human rights [",
+        "context_after": "409-1 412-1:3 FS6] As a result of the location and nature of the activities carried out, the operational framework for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": {
+        "page": "74.txt",
+        "context_before": "and traceable way. The adoption of a specific set of regulations is scheduled for 2018. Dialogue with local institutions [",
+        "context_after": "] UBI Banca contributes to the promotion and dissemination of skills, mainly in the field of economics, through its constant",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": {
+        "page": "96.txt",
+        "context_before": "entrusted to authorised local companies and none of it is imported or exported. Products and services with environmental aims [",
+        "context_after": "FS8] The Group contributes to the development of a more eco-friendly economic system in various ways, in line with our",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": {
+        "page": "39.txt",
+        "context_before": "direct the activities of the Group on the basis of the quality of the customer experience6. Health and safety [",
+        "context_after": "] During 2017 activities to upgrade physical security assets in branches, emergency exits and medical emergency alarm systems equipment continued",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-2": false,
+    "GRI 417-1": {
+        "page": "39.txt",
+        "context_before": "138 138 0 179 179 1 Number of events every 100 branches. 2 Data don't include Banca Teatina. Protection [",
+        "context_after": "418-1 FS15] Transparency The Bank of Italy has issued specific provisions on the transparency of banking and financial operations and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "59.txt",
+        "context_before": "more than one course in different contexts. A total of 14,014 persons were trained in 2017 (available from Table \"",
+        "context_after": "to (5) - Detailed listing of regulatory training\") PREVENTION AND ASSISTANCE ACTIVITY 2017 2016 Medical visists 1,743 1,298 On site",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "54.txt",
+        "context_before": "the market regulators and those who supervise the maintenance of and developments in ICT systems. Benefit e work-life balance [GRI",
+        "context_after": ":3] In order to protect the health and well-being of the personnel, a number of contractually defined mechanisms are provided",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-3": {
+        "page": "106.txt",
+        "context_before": "50-53 6 Benefits provided to full-time employees that are not provided to temporary or part- 401-2 53-56 6 time employees",
+        "context_after": "Parental leave 53-56 6 402 - LABOR/MANAGEMENT RELATIONS 103 - Management approach 67 3 402-1 Minimum notice periods regarding operational",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": {
+        "page": "69.txt",
+        "context_before": "Management of industrial relations [GRI",
+        "context_after": "] Under national collective bargaining agreements, processing steps and a minimum period of 45 days is established for negotiations with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "57.txt",
+        "context_before": "2017 2016 Employees taking leave during the year 737 546 of which women 90.1% 88.3% Occupational health and safety [",
+        "context_after": ":4] UBI Group is not limited strictly to the formal observance of the regulatory texts. Instead, it aims for ongoing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "106.txt",
+        "context_before": "health and safety 403-1 53-62 1 committees Types of injury and rates of injury, occupational diseases, lost days, and absenteeism,",
+        "context_after": "56-62 1 and number of work-related fatalities 403-3 Workers with high incidence or high risk of diseases related to their",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "106.txt",
+        "context_before": "of injury and rates of injury, occupational diseases, lost days, and absenteeism, 403-2 56-62 1 and number of work-related fatalities",
+        "context_after": "Workers with high incidence or high risk of diseases related to their occupation 56-62 1 403-4 Health and safety topics",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "106.txt",
+        "context_before": "number of work-related fatalities 403-3 Workers with high incidence or high risk of diseases related to their occupation 56-62 1",
+        "context_after": "Health and safety topics covered in formal agreements with trade unions 56-62 1,3 404 - TRAINING AND EDUCATION 103 -",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "65.txt",
+        "context_before": "Training and education [GRI",
+        "context_after": "] In 2017 the group delivered more than135,000 training days, including 120,000 for ordinary activities and more than 17,000 for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "63.txt",
+        "context_before": "and additional robbery risk prevention tools identified as a result of the changes in the branch model. Professional development [GRI",
+        "context_after": ":3] In \"banking fairly and well\", UBI Banca supports a corporate culture oriented towards customer service and simplicity, quality, innovation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "106.txt",
+        "context_before": "of training per year per employee 64-66 6 404-2 Programs for upgrading employee skills and transition assistance programs 62-63 6",
+        "context_after": "Percentage of employees receiving regular performance and career development 62-63 6 405 - DIVERSITY AND EQUAL OPPORTUNITY 103 - Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "70.txt",
+        "context_before": "formally-established investigation, decision- making and judgment processes and through periodic reporting on the measures taken. Diversity and equal opportunity [GRI",
+        "context_after": ":2] Diversity management in the Group primarily involves gender diversity. Composition of the Groups personnel The data confirm the increase",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "106.txt",
+        "context_before": "DIVERSITY AND EQUAL OPPORTUNITY 103 - Management approach 69 1,6 405-1 Diversity of governance bodies and employees 33-34, 69-70 1,6",
+        "context_after": "Ratio of basic salary and remuneration of women to men 70-71 1,6 406 - NON-DISCRIMINATION 103 - Management approach 69",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "72.txt",
+        "context_before": "98.1% 98.4% 98.1% 98.2% Data relating to 99% of employees, employees with foreign and extra-group contracts are excluded. Non-discrimination [GRI",
+        "context_after": "] No violations of the principle of non-discrimination were observed in the Group, with reference to 61 disciplinary proceedings during",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "68.txt",
+        "context_before": "programmes and recourse to the income support solidarity fund for the sector. Freedom of association and collective bargaining [GRI 102-41",
+        "context_after": "] All of the banks' staff (including personnel from the three new banks acquired in 2017) and other companies with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "30.txt",
+        "context_before": "was decided not to issue any penalties as they were not merited by the minor violations confirmed. Human rights [GRI",
+        "context_after": "409-1 412-1:3 FS6] As a result of the location and nature of the activities carried out, the operational framework for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "30.txt",
+        "context_before": "decided not to issue any penalties as they were not merited by the minor violations confirmed. Human rights [GRI 408-1",
+        "context_after": "412-1:3 FS6] As a result of the location and nature of the activities carried out, the operational framework for risks",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": false,
+    "411-1": false,
+    "412-1": {
+        "page": "30.txt",
+        "context_before": "not to issue any penalties as they were not merited by the minor violations confirmed. Human rights [GRI 408-1 409-1",
+        "context_after": ":3 FS6] As a result of the location and nature of the activities carried out, the operational framework for risks",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "412-2": {
+        "page": "107.txt",
+        "context_before": "- Management approach 26 1,2 412-1 Operations that have been subject to human rights reviews or impact assessments 29-32 1,2",
+        "context_after": "Employee training on human rights policies or procedures 29-32 1,2 412-3 Significant investment agreements and contracts that include human rights",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "107.txt",
+        "context_before": "to human rights reviews or impact assessments 29-32 1,2 412-2 Employee training on human rights policies or procedures 29-32 1,2",
+        "context_after": "Significant investment agreements and contracts that include human rights clauses or 29-32 1,2 413 - LOCAL COMMUNITIES 103 - Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "74.txt",
+        "context_before": "and traceable way. The adoption of a specific set of regulations is scheduled for 2018. Dialogue with local institutions [GRI",
+        "context_after": "] UBI Banca contributes to the promotion and dissemination of skills, mainly in the field of economics, through its constant",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "96.txt",
+        "context_before": "entrusted to authorised local companies and none of it is imported or exported. Products and services with environmental aims [GRI",
+        "context_after": "FS8] The Group contributes to the development of a more eco-friendly economic system in various ways, in line with our",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": {
+        "page": "74.txt",
+        "context_before": "students how a bank evaluates the credit rating of a business in practice. Actions taken for social initiatives [GRI 201-1",
+        "context_after": "] Social interventions, whether occasional or part of agreements lasting several years, are intended to promote and enhance the identity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "39.txt",
+        "context_before": "direct the activities of the Group on the basis of the quality of the customer experience6. Health and safety [GRI",
+        "context_after": "] During 2017 activities to upgrade physical security assets in branches, emergency exits and medical emergency alarm systems equipment continued",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "28.txt",
+        "context_before": "of internal whistleblowing systems with aggregate information on the results of actions taken on whistleblowing reports received. Compliance [GRI 307-1",
+        "context_after": "417-2:3 419-1] For reports on the findings and penalties to which UBI Banca and other companies in the Group have",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "39.txt",
+        "context_before": "138 138 0 179 179 1 Number of events every 100 branches. 2 Data don't include Banca Teatina. Protection [GRI",
+        "context_after": "418-1 FS15] Transparency The Bank of Italy has issued specific provisions on the transparency of banking and financial operations and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "28.txt",
+        "context_before": "internal whistleblowing systems with aggregate information on the results of actions taken on whistleblowing reports received. Compliance [GRI 307-1 416-2",
+        "context_after": ":3 419-1] For reports on the findings and penalties to which UBI Banca and other companies in the Group have",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "107.txt",
+        "context_before": "for product and service information and labeling 38-40 417-2 Incidents of non-compliance concerning product and service information and labeling 27-28",
+        "context_after": "Incidents of non-compliance concerning marketing com 27-28 418 - CUSTOMER PRIVACY 103 - Management approach 37, 40 1 Substantiated complaints",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "39.txt",
+        "context_before": "138 0 179 179 1 Number of events every 100 branches. 2 Data don't include Banca Teatina. Protection [GRI 417-1",
+        "context_after": "FS15] Transparency The Bank of Italy has issued specific provisions on the transparency of banking and financial operations and services.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "28.txt",
+        "context_before": "whistleblowing systems with aggregate information on the results of actions taken on whistleblowing reports received. Compliance [GRI 307-1 416-2 417-2:3",
+        "context_after": "] For reports on the findings and penalties to which UBI Banca and other companies in the Group have been",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

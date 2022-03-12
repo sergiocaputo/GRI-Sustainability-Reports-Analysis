@@ -1,0 +1,619 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "20.txt",
+        "context_before": "102-55 GRI content index GRI content index page 19 102-56 External assurance Methodological note page 17 Economic Topics Economic performance:",
+        "context_after": "103-1 Management Approach Direct economic value generated and VIVIDA eooi pefoae page 201-1 distributed 11 Market presence: GRI 202 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "20.txt",
+        "context_before": "performance: GRI 201 103-1 Management Approach Direct economic value generated and VIVIDA eooi pefoae page 201-1 distributed 11 Market presence:",
+        "context_after": "103-1 Management Approach Ratios of standard entry level wage by 202-1 gender compared to local minimum Quality is the biggest",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "20.txt",
+        "context_before": "wage Proportion of senior management hired 202-2 Quality is the biggest award page 10 from the local community Procurement practices:",
+        "context_after": "103-1 Management Approach 204-1 Proportion of spending on local suppliers Water, paper and page 15 Anti - Corruption: GRI 205",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "9.txt",
+        "context_before": "of exclusion) even if they are represented in the above materiality matrix. Not included GRI Standards aspects Reasons for exclusion",
+        "context_after": "ANTI CORRUPTION Any case has been confirmed or imputed GRI 206 ANTI COMPETITIVE BEHAVIOUR Any case has been confirmed or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": {
+        "page": "9.txt",
+        "context_before": "matrix. Not included GRI Standards aspects Reasons for exclusion GRI 205 ANTI CORRUPTION Any case has been confirmed or imputed",
+        "context_after": "ANTI COMPETITIVE BEHAVIOUR Any case has been confirmed or imputed GRI 306 EFFLUENTS AND WASTE Ieleat fo VIVIDAs usiess Any",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "20.txt",
+        "context_before": "page 17 Economic Topics Economic performance: GRI 201 103-1 Management Approach Direct economic value generated and VIVIDA eooi pefoae page",
+        "context_after": "distributed 11 Market presence: GRI 202 103-1 Management Approach Ratios of standard entry level wage by 202-1 gender compared to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": {
+        "page": "20.txt",
+        "context_before": "eooi pefoae page 201-1 distributed 11 Market presence: GRI 202 103-1 Management Approach Ratios of standard entry level wage by",
+        "context_after": "gender compared to local minimum Quality is the biggest award page 10 wage Proportion of senior management hired 202-2 Quality",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "20.txt",
+        "context_before": "by 202-1 gender compared to local minimum Quality is the biggest award page 10 wage Proportion of senior management hired",
+        "context_after": "Quality is the biggest award page 10 from the local community Procurement practices: GRI 204 103-1 Management Approach 204-1 Proportion",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "20.txt",
+        "context_before": "hired 202-2 Quality is the biggest award page 10 from the local community Procurement practices: GRI 204 103-1 Management Approach",
+        "context_after": "Proportion of spending on local suppliers Water, paper and page 15 Anti - Corruption: GRI 205 103-1 Management Approach Operations",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "20.txt",
+        "context_before": "page 15 Anti - Corruption: GRI 205 103-1 Management Approach Operations assessed for risks related to Materiality and Disclosure Management",
+        "context_after": "corruption Approach page 7 Communication and training about anti- Materiality and Disclosure Management 205-2 corruption policies and procedures Approach page",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "20.txt",
+        "context_before": "related to Materiality and Disclosure Management 205-1 corruption Approach page 7 Communication and training about anti- Materiality and Disclosure Management",
+        "context_after": "corruption policies and procedures Approach page 7 Confirmed incidents of corruption and Materiality and Disclosure Management 205-3 actions taken Approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "20.txt",
+        "context_before": "and Disclosure Management 205-2 corruption policies and procedures Approach page 7 Confirmed incidents of corruption and Materiality and Disclosure Management",
+        "context_after": "actions taken Approach page 7 Anti-competitive Behavior: GRI 206 103-1 Management Approach Legal actions for anti-competitive Materiality and Disclosure Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "20.txt",
+        "context_before": "actions taken Approach page 7 Anti-competitive Behavior: GRI 206 103-1 Management Approach Legal actions for anti-competitive Materiality and Disclosure Management",
+        "context_after": "behavior, anti-trust, and monopoly Approach page 7 practices Environmental Topics Materials: GRI 301 103-1 Management Approach 301-1 Materials used by",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "20.txt",
+        "context_before": "Legal actions for anti-competitive Materiality and Disclosure Management 206-1 behavior, anti-trust, and monopoly Approach page 7 practices Environmental Topics Materials:",
+        "context_after": "103-1 Management Approach 301-1 Materials used by weight or volume Water, paper and page 15 Energy: GRI 302 103-1 Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "20.txt",
+        "context_before": "Topics Materials: GRI 301 103-1 Management Approach 301-1 Materials used by weight or volume Water, paper and page 15 Energy:",
+        "context_after": "103-1 Management Approach Energy consumption within the 302-1 Energy consumption page 15 organization Energy consumption outside the 302-2 Transport page",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "20.txt",
+        "context_before": "Energy consumption within the 302-1 Energy consumption page 15 organization Energy consumption outside the 302-2 Transport page 13 organization Water:",
+        "context_after": "103-1 Management Approach 20",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "21.txt",
+        "context_before": "Aspect Description Chapter  page  Omissions SDGs Alignment 303-1 Water withdrawal by source Water, paper and page 15 Emissions:",
+        "context_after": "103-1 Management Approach Transport page 13 305-1 Direct (Scope 1) GHG emissions Energy consumption page 15 305-2 Energy indirect (Scope",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "9.txt",
+        "context_before": "CORRUPTION Any case has been confirmed or imputed GRI 206 ANTI COMPETITIVE BEHAVIOUR Any case has been confirmed or imputed",
+        "context_after": "EFFLUENTS AND WASTE Ieleat fo VIVIDAs usiess Any environmental irregularity has been confirmed or GRI 307 ENVIRONMENTAL COMPLIANCE imputed GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": {
+        "page": "9.txt",
+        "context_before": "been confirmed or imputed GRI 306 EFFLUENTS AND WASTE Ieleat fo VIVIDAs usiess Any environmental irregularity has been confirmed or",
+        "context_after": "ENVIRONMENTAL COMPLIANCE imputed GRI 308 SUPPLIER ENVIRONMENTAL ASSESSMENT Activity not monitored through systemic methods GRI 402 LABOUR/MANAGEMENT RELATIONS Activity not",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": {
+        "page": "9.txt",
+        "context_before": "306 EFFLUENTS AND WASTE Ieleat fo VIVIDAs usiess Any environmental irregularity has been confirmed or GRI 307 ENVIRONMENTAL COMPLIANCE imputed",
+        "context_after": "SUPPLIER ENVIRONMENTAL ASSESSMENT Activity not monitored through systemic methods GRI 402 LABOUR/MANAGEMENT RELATIONS Activity not monitored through systemic methods GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "20.txt",
+        "context_before": "and Disclosure Management 206-1 behavior, anti-trust, and monopoly Approach page 7 practices Environmental Topics Materials: GRI 301 103-1 Management Approach",
+        "context_after": "Materials used by weight or volume Water, paper and page 15 Energy: GRI 302 103-1 Management Approach Energy consumption within",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "20.txt",
+        "context_before": "used by weight or volume Water, paper and page 15 Energy: GRI 302 103-1 Management Approach Energy consumption within the",
+        "context_after": "Energy consumption page 15 organization Energy consumption outside the 302-2 Transport page 13 organization Water: GRI 303 103-1 Management Approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "20.txt",
+        "context_before": "Energy: GRI 302 103-1 Management Approach Energy consumption within the 302-1 Energy consumption page 15 organization Energy consumption outside the",
+        "context_after": "Transport page 13 organization Water: GRI 303 103-1 Management Approach 20",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "21.txt",
+        "context_before": "GRI Standard Aspect Description Chapter  page  Omissions SDGs Alignment",
+        "context_after": "Water withdrawal by source Water, paper and page 15 Emissions: GRI 305 103-1 Management Approach Transport page 13 305-1 Direct",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "21.txt",
+        "context_before": "Alignment 303-1 Water withdrawal by source Water, paper and page 15 Emissions: GRI 305 103-1 Management Approach Transport page 13",
+        "context_after": "Direct (Scope 1) GHG emissions Energy consumption page 15 305-2 Energy indirect (Scope 2) GHG emissions Energy consumption page 15",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "21.txt",
+        "context_before": "15 Emissions: GRI 305 103-1 Management Approach Transport page 13 305-1 Direct (Scope 1) GHG emissions Energy consumption page 15",
+        "context_after": "Energy indirect (Scope 2) GHG emissions Energy consumption page 15 Effluents and waste: GRI 306 103-1 Management Approach Water discharge",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": {
+        "page": "21.txt",
+        "context_before": "consumption page 15 Effluents and waste: GRI 306 103-1 Management Approach Water discharge by quality and Materiality and Disclosure Management",
+        "context_after": "destination Approach page 7 Materiality and Disclosure Management 306-2 Waste by type and disposal method Approach page 7 Materiality and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "21.txt",
+        "context_before": "Management Approach Water discharge by quality and Materiality and Disclosure Management 306-1 destination Approach page 7 Materiality and Disclosure Management",
+        "context_after": "Waste by type and disposal method Approach page 7 Materiality and Disclosure Management 306-3 Significant spills Approach page 7 Materiality",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "21.txt",
+        "context_before": "page 7 Materiality and Disclosure Management 306-2 Waste by type and disposal method Approach page 7 Materiality and Disclosure Management",
+        "context_after": "Significant spills Approach page 7 Materiality and Disclosure Management 306-4 Transport of hazardous waste Approach page 7 Water bodies affected",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-4": {
+        "page": "21.txt",
+        "context_before": "and disposal method Approach page 7 Materiality and Disclosure Management 306-3 Significant spills Approach page 7 Materiality and Disclosure Management",
+        "context_after": "Transport of hazardous waste Approach page 7 Water bodies affected by water Materiality and Disclosure Management 306-5 discharges and/or runoff",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-5": {
+        "page": "21.txt",
+        "context_before": "and Disclosure Management 306-4 Transport of hazardous waste Approach page 7 Water bodies affected by water Materiality and Disclosure Management",
+        "context_after": "discharges and/or runoff Approach page 7 Environmental Compliance: GRI 307 103-1 Management Approach Non-compliance with environmental Materiality and Disclosure Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "307-1": {
+        "page": "21.txt",
+        "context_before": "discharges and/or runoff Approach page 7 Environmental Compliance: GRI 307 103-1 Management Approach Non-compliance with environmental Materiality and Disclosure Management",
+        "context_after": "laws and regulations Approach page 7 Supplier Environmental Assessment: GRI 308 103-1 Management Approach New suppliers that were screened using",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "21.txt",
+        "context_before": "page 7 Supplier Environmental Assessment: GRI 308 103-1 Management Approach New suppliers that were screened using Materiality and Disclosure Management",
+        "context_after": "environmental criteria Approach page 7 Negative environmental impacts in the Materiality and Disclosure Management 308-2 supply chain and actions taken",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "21.txt",
+        "context_before": "using Materiality and Disclosure Management 308-1 environmental criteria Approach page 7 Negative environmental impacts in the Materiality and Disclosure Management",
+        "context_after": "supply chain and actions taken Approach page 7 Social Topics Employment: GRI 401 103-1 Management Approach New employee hires and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "21.txt",
+        "context_before": "environmental impacts in the Materiality and Disclosure Management 308-2 supply chain and actions taken Approach page 7 Social Topics Employment:",
+        "context_after": "103-1 Management Approach New employee hires and employee 401-1 Our engine page 9 turnover 401-3 Parental leave Quality is the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "9.txt",
+        "context_before": "has been confirmed or GRI 307 ENVIRONMENTAL COMPLIANCE imputed GRI 308 SUPPLIER ENVIRONMENTAL ASSESSMENT Activity not monitored through systemic methods",
+        "context_after": "LABOUR/MANAGEMENT RELATIONS Activity not monitored through systemic methods GRI 404 TRAINING AND EDUCATION Any relevant case has been recorded in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403": {
+        "page": "21.txt",
+        "context_before": "Management Approach Minimum notice periods regarding Materiality and Disclosure Management 402-1 operational changes Approach page 7 Occupational health and safety:",
+        "context_after": "103-1 Management Approach Types of injury and rates of injury, occupational diseases, lost days, and 403-2 Quality is the biggest",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "9.txt",
+        "context_before": "308 SUPPLIER ENVIRONMENTAL ASSESSMENT Activity not monitored through systemic methods GRI 402 LABOUR/MANAGEMENT RELATIONS Activity not monitored through systemic methods",
+        "context_after": "TRAINING AND EDUCATION Any relevant case has been recorded in 2017 GRI 406 NON-DISCRIMINATION Any case has been recorded FREEDOM",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "22.txt",
+        "context_before": "employees receiving Materiality and Disclosure Management 404-3 regular performance and career Approach page 7 development reviews Diversity and equal opportunity:",
+        "context_after": "103-1 Management Approach Diversity of governance bodies and 405-1 Our engine page 9 employees Ratio of basic salary and remuneration",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "9.txt",
+        "context_before": "RELATIONS Activity not monitored through systemic methods GRI 404 TRAINING AND EDUCATION Any relevant case has been recorded in 2017",
+        "context_after": "NON-DISCRIMINATION Any case has been recorded FREEDOM OF ASSOCIATION AND COLLECTIVE Any case has been recorded GRI 407 BARGAINING GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407": {
+        "page": "9.txt",
+        "context_before": "in 2017 GRI 406 NON-DISCRIMINATION Any case has been recorded FREEDOM OF ASSOCIATION AND COLLECTIVE Any case has been recorded",
+        "context_after": "BARGAINING GRI 412 HUMAN RIGHTS ASSESSMENT Ieleat fo VIVIDAs usiess GRI 414 SUPPLIER SOCIAL ASSESSMENT Activity not monitored through systemic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "9.txt",
+        "context_before": "406 NON-DISCRIMINATION Any case has been recorded FREEDOM OF ASSOCIATION AND COLLECTIVE Any case has been recorded GRI 407 BARGAINING",
+        "context_after": "HUMAN RIGHTS ASSESSMENT Ieleat fo VIVIDAs usiess GRI 414 SUPPLIER SOCIAL ASSESSMENT Activity not monitored through systemic methods Any irregularity",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "22.txt",
+        "context_before": "include human rights Materiality and Disclosure Management 412-3 clauses or that underwent human rights Approach page 7 screening Local communities:",
+        "context_after": "103-1 Management Approach Operations with local community 413-1 engagement, impact assessments, and VIVIDAs soial engagement page 16 development programs Supplier",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": {
+        "page": "9.txt",
+        "context_before": "ASSOCIATION AND COLLECTIVE Any case has been recorded GRI 407 BARGAINING GRI 412 HUMAN RIGHTS ASSESSMENT Ieleat fo VIVIDAs usiess",
+        "context_after": "SUPPLIER SOCIAL ASSESSMENT Activity not monitored through systemic methods Any irregularity concerning privacy or customers data GRI 418 CUSTOMER PRIVACY",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": {
+        "page": "22.txt",
+        "context_before": "Negative social impacts in the supply Materiality and Disclosure Management 414-2 chain and actions taken Approach page 7 Public policy:",
+        "context_after": "103-1 Management Approach 415-1 Political contributions VIVIDAs soial engagement page 16 GRI 418 Customer Privacy: 22",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": {
+        "page": "9.txt",
+        "context_before": "VIVIDAs usiess GRI 414 SUPPLIER SOCIAL ASSESSMENT Activity not monitored through systemic methods Any irregularity concerning privacy or customers data",
+        "context_after": "CUSTOMER PRIVACY complaints has been confirmed or imputed Any socio-economic irregularity has been confirmed or GRI 419 SOCIO-ECONOMIC COMPLIANCE imputed",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 419": {
+        "page": "9.txt",
+        "context_before": "or customers data GRI 418 CUSTOMER PRIVACY complaints has been confirmed or imputed Any socio-economic irregularity has been confirmed or",
+        "context_after": "SOCIO-ECONOMIC COMPLIANCE imputed 4. BEYOND THE NUMBERS a) Our engine Our workers are our strength. They are the backbone of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "21.txt",
+        "context_before": "chain and actions taken Approach page 7 Social Topics Employment: GRI 401 103-1 Management Approach New employee hires and employee",
+        "context_after": "Our engine page 9 turnover 401-3 Parental leave Quality is the biggest award page 10 Labor/Management Relations: GRI 402 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": {
+        "page": "21.txt",
+        "context_before": "7 Social Topics Employment: GRI 401 103-1 Management Approach New employee hires and employee 401-1 Our engine page 9 turnover",
+        "context_after": "Parental leave Quality is the biggest award page 10 Labor/Management Relations: GRI 402 103-1 Management Approach Minimum notice periods regarding",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": {
+        "page": "21.txt",
+        "context_before": "the biggest award page 10 Labor/Management Relations: GRI 402 103-1 Management Approach Minimum notice periods regarding Materiality and Disclosure Management",
+        "context_after": "operational changes Approach page 7 Occupational health and safety: GRI 403 103-1 Management Approach Types of injury and rates of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": false,
+    "403-2": {
+        "page": "21.txt",
+        "context_before": "health and safety: GRI 403 103-1 Management Approach Types of injury and rates of injury, occupational diseases, lost days, and",
+        "context_after": "Quality is the biggest award page 10 absenteeism, and number of work- related fatalities Training and education: GRI 404 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "22.txt",
+        "context_before": "Aspect Description Chapter  page  Omissions SDGs Alignment Average hours of training per year per Materiality and Disclosure Management",
+        "context_after": "employee Approach page 7 Programs for upgrading employee skills Materiality and Disclosure Management 404-2 and transition assistance programs Approach page",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "22.txt",
+        "context_before": "year per Materiality and Disclosure Management 404-1 employee Approach page 7 Programs for upgrading employee skills Materiality and Disclosure Management",
+        "context_after": "and transition assistance programs Approach page 7 Percentage of employees receiving Materiality and Disclosure Management 404-3 regular performance and career",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "22.txt",
+        "context_before": "Materiality and Disclosure Management 404-2 and transition assistance programs Approach page 7 Percentage of employees receiving Materiality and Disclosure Management",
+        "context_after": "regular performance and career Approach page 7 development reviews Diversity and equal opportunity: GRI 405 103-1 Management Approach Diversity of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "22.txt",
+        "context_before": "career Approach page 7 development reviews Diversity and equal opportunity: GRI 405 103-1 Management Approach Diversity of governance bodies and",
+        "context_after": "Our engine page 9 employees Ratio of basic salary and remuneration of 405-2 Quality is the biggest award page 10",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "22.txt",
+        "context_before": "Management Approach Diversity of governance bodies and 405-1 Our engine page 9 employees Ratio of basic salary and remuneration of",
+        "context_after": "Quality is the biggest award page 10 women to men Non-discrimination: GRI 406 103-1 Management Approach Incidents of discrimination and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "22.txt",
+        "context_before": "award page 10 women to men Non-discrimination: GRI 406 103-1 Management Approach Incidents of discrimination and Materiality and Disclosure Management",
+        "context_after": "corrective actions taken Approach page 7 Freedom of Association and Collective GRI 407 Bargaining: 103-1 Management Approach Operations and suppliers",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "22.txt",
+        "context_before": "of Association and Collective GRI 407 Bargaining: 103-1 Management Approach Operations and suppliers in which the Materiality and Disclosure Management",
+        "context_after": "right to freedom of association and Approach page 7 collective bargaining may be at risk Human Rights Assessment: GRI 412",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": {
+        "page": "22.txt",
+        "context_before": "at risk Human Rights Assessment: GRI 412 103-1 Management Approach Operations that have been subject to Materiality and Disclosure Management",
+        "context_after": "human rights reviews or impact Approach page 7 assessments Employee training on human rights Materiality and Disclosure Management 412-2 policies",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "22.txt",
+        "context_before": "Management 412-1 human rights reviews or impact Approach page 7 assessments Employee training on human rights Materiality and Disclosure Management",
+        "context_after": "policies or procedures Approach page 7 Significant investment agreements and contracts that include human rights Materiality and Disclosure Management 412-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "22.txt",
+        "context_before": "412-2 policies or procedures Approach page 7 Significant investment agreements and contracts that include human rights Materiality and Disclosure Management",
+        "context_after": "clauses or that underwent human rights Approach page 7 screening Local communities: GRI 413 103-1 Management Approach Operations with local",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "22.txt",
+        "context_before": "or that underwent human rights Approach page 7 screening Local communities: GRI 413 103-1 Management Approach Operations with local community",
+        "context_after": "engagement, impact assessments, and VIVIDAs soial engagement page 16 development programs Supplier Social Assessment: GRI 414 103-1 Management Approach New",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": {
+        "page": "22.txt",
+        "context_before": "development programs Supplier Social Assessment: GRI 414 103-1 Management Approach New suppliers that were screened using Materiality and Disclosure Management",
+        "context_after": "social criteria Approach page 7 Negative social impacts in the supply Materiality and Disclosure Management 414-2 chain and actions taken",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "22.txt",
+        "context_before": "Materiality and Disclosure Management 414-1 social criteria Approach page 7 Negative social impacts in the supply Materiality and Disclosure Management",
+        "context_after": "chain and actions taken Approach page 7 Public policy: GRI 415 103-1 Management Approach 415-1 Political contributions VIVIDAs soial engagement",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "22.txt",
+        "context_before": "supply Materiality and Disclosure Management 414-2 chain and actions taken Approach page 7 Public policy: GRI 415 103-1 Management Approach",
+        "context_after": "Political contributions VIVIDAs soial engagement page 16 GRI 418 Customer Privacy: 22",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": {
+        "page": "23.txt",
+        "context_before": "Standard Aspect Description Chapter  page  Omissions SDGs Alignment 103-1 Management Approach Substantiated complaints concerning Materiality and Disclosure Management",
+        "context_after": "breaches of customer privacy and losses Approach page 7 of customer data Socio-economic Compliance: GRI 419 103-1 Management Approach Non-compliance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "23.txt",
+        "context_before": "page 7 of customer data Socio-economic Compliance: GRI 419 103-1 Management Approach Non-compliance with laws and Materiality and Disclosure Management",
+        "context_after": "regulations in the social and economic Approach page 7 area c) Stakeholder feedback VIVIDA wants to constantly improve its reporting",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

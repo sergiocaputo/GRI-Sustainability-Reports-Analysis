@@ -1,0 +1,541 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "4.txt",
+        "context_before": "Il processo di rendicontazione  partito dall'analisi di quanto richiesto dal Decreto e dagli indicatori ritenuti rilevanti previsti dagli Standards",
+        "context_after": "6, in termini di applicabilit e rilevanza, cos come meglio definito dall'analisi di materialit di cui al paragrafo 1.3 successivo.",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "61.txt",
+        "context_before": "Dichiarazione di compliance allo Standard GRI 1.1 4-5 102-55 GRI Content Index Allegato Allegato 102-56 Assurance esterna 1.5 Allegato ANTI-CORRUZIONE",
+        "context_after": "103 Approccio del management e spiegazione dei temi materiali 7.2 59-60 205-1 Operazioni valutate con riferimento al rischio di corruzione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": false,
+    "205-1": {
+        "page": "61.txt",
+        "context_before": "Allegato 102-56 Assurance esterna 1.5 Allegato ANTI-CORRUZIONE GRI 205 103 Approccio del management e spiegazione dei temi materiali 7.2 59-60",
+        "context_after": "Operazioni valutate con riferimento al rischio di corruzione 7.3 60-61 205-2 Comunicazione e formazione su policy e procedure anticorruzione 7.3,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "61.txt",
+        "context_before": "del management e spiegazione dei temi materiali 7.2 59-60 205-1 Operazioni valutate con riferimento al rischio di corruzione 7.3 60-61",
+        "context_after": "Comunicazione e formazione su policy e procedure anticorruzione 7.3, 4.1 60-61;40-47 205-3 Rilievi su episodi di corruzione confermati e azioni",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "61.txt",
+        "context_before": "con riferimento al rischio di corruzione 7.3 60-61 205-2 Comunicazione e formazione su policy e procedure anticorruzione 7.3, 4.1 60-61;40-47",
+        "context_after": "Rilievi su episodi di corruzione confermati e azioni intraprese 7.3 60-61 MATERIE PRIME E PRODOTTI GRI 301 103 Approccio del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "61.txt",
+        "context_before": "anticorruzione 7.3, 4.1 60-61;40-47 205-3 Rilievi su episodi di corruzione confermati e azioni intraprese 7.3 60-61 MATERIE PRIME E PRODOTTI",
+        "context_after": "103 Approccio del management e spiegazione dei temi materiali 3.1 27-28 301-1 Materiali utilizzati in peso e volume 3.2 28-31",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "61.txt",
+        "context_before": "Approccio del management e spiegazione dei temi materiali 3.1 27-28 301-1 Materiali utilizzati in peso e volume 3.2 28-31 ENERGIA",
+        "context_after": "103 Approccio del management e spiegazione dei temi materiali 3.1 27-28 302-1 Consumo di energia 3.3 32-34 302-4 Riduzione del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "62.txt",
+        "context_before": "ACQUA",
+        "context_after": "103 Approccio del management e spiegazione dei temi materiali 3.1 27-28 303-1 Prelievo di acqua per fonte 3.5 36-37 303-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": {
+        "page": "62.txt",
+        "context_before": "temi materiali 3.1 27-28 303-1 Prelievo di acqua per fonte 3.5 36-37 303-3 Acqua riciclata e riutilizzata 3.5 36-37 BIODIVERSITA",
+        "context_after": "304-1 Attivit del Gruppo in aree protette 3.6.4 39 304-2 Impatti significativi delle attivit , dei prodotti e dei servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "62.txt",
+        "context_before": "aree protette 3.6.4 39 304-2 Impatti significativi delle attivit , dei prodotti e dei servizi sulla biodiversit 3.6.4 39 EMISSIONI",
+        "context_after": "103 Approccio del management e spiegazione dei temi materiali 3.1 27-28 305-1 Emissioni dirette (Scope 1) 3.4 34-35 305-2 Emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "62.txt",
+        "context_before": "materiali 3.1 27-28 305-1 Emissioni dirette (Scope 1) 3.4 34-35 305-2 Emissioni indirette (Scope 2) 3.4 34-35 SCARICHI E RIFIUTI",
+        "context_after": "306-1 Acqua totale scaricata per qualit e destinazione 3.5 36-37 306-3 Sversamenti significativi 3.5 36-37 COMPLIANCE AMBIENTALE GRI 307 307-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "62.txt",
+        "context_before": "RIFIUTI GRI 306 306-1 Acqua totale scaricata per qualit e destinazione 3.5 36-37 306-3 Sversamenti significativi 3.5 36-37 COMPLIANCE AMBIENTALE",
+        "context_after": "307-1 Non conformit a leggi e regolamenti in materia ambientale 3.6.3 39 VALUTAZIONE AMBIENTALE DEI FORNITORI GRI 308 103 Approccio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "62.txt",
+        "context_before": "COMPLIANCE AMBIENTALE GRI 307 307-1 Non conformit a leggi e regolamenti in materia ambientale 3.6.3 39 VALUTAZIONE AMBIENTALE DEI FORNITORI",
+        "context_after": "103 Approccio del management e spiegazione dei temi materiali 5.3 53-54 308-1 Nuovi fornitori valutati utilizzando criteri ambientali 5.3 53-54",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "33.txt",
+        "context_before": "proprie performance. In particolare F.I.L.A. ha rilevato e calcolato i dati delle emissioni di CO in base 2 allindicatore del",
+        "context_after": "emissioni dirette (scope 1) e 305-2 emissioni indirette (scope 2) e in base ai fattori di emissioni desunti dallInternation Energy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "61.txt",
+        "context_before": "intraprese 7.3 60-61 MATERIE PRIME E PRODOTTI GRI 301 103 Approccio del management e spiegazione dei temi materiali 3.1 27-28",
+        "context_after": "Materiali utilizzati in peso e volume 3.2 28-31 ENERGIA GRI 302 103 Approccio del management e spiegazione dei temi materiali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "61.txt",
+        "context_before": "in peso e volume 3.2 28-31 ENERGIA GRI 302 103 Approccio del management e spiegazione dei temi materiali 3.1 27-28",
+        "context_after": "Consumo di energia 3.3 32-34 302-4 Riduzione del consumo di energia 3.3 32-34 62",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "61.txt",
+        "context_before": "ENERGIA GRI 302 103 Approccio del management e spiegazione dei temi materiali 3.1 27-28 302-1 Consumo di energia 3.3 32-34",
+        "context_after": "Riduzione del consumo di energia 3.3 32-34 62",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "62.txt",
+        "context_before": "ACQUA GRI 303 103 Approccio del management e spiegazione dei temi materiali 3.1 27-28",
+        "context_after": "Prelievo di acqua per fonte 3.5 36-37 303-3 Acqua riciclata e riutilizzata 3.5 36-37 BIODIVERSITA GRI 304 304-1 Attivit del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": {
+        "page": "62.txt",
+        "context_before": "303 103 Approccio del management e spiegazione dei temi materiali 3.1 27-28 303-1 Prelievo di acqua per fonte 3.5 36-37",
+        "context_after": "Acqua riciclata e riutilizzata 3.5 36-37 BIODIVERSITA GRI 304 304-1 Attivit del Gruppo in aree protette 3.6.4 39 304-2 Impatti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "62.txt",
+        "context_before": "3.1 27-28 303-1 Prelievo di acqua per fonte 3.5 36-37 303-3 Acqua riciclata e riutilizzata 3.5 36-37 BIODIVERSITA GRI 304",
+        "context_after": "Attivit del Gruppo in aree protette 3.6.4 39 304-2 Impatti significativi delle attivit , dei prodotti e dei servizi sulla",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-2": {
+        "page": "62.txt",
+        "context_before": "36-37 303-3 Acqua riciclata e riutilizzata 3.5 36-37 BIODIVERSITA GRI 304 304-1 Attivit del Gruppo in aree protette 3.6.4 39",
+        "context_after": "Impatti significativi delle attivit , dei prodotti e dei servizi sulla biodiversit 3.6.4 39 EMISSIONI GRI 305 103 Approccio del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "62.txt",
+        "context_before": "dei servizi sulla biodiversit 3.6.4 39 EMISSIONI GRI 305 103 Approccio del management e spiegazione dei temi materiali 3.1 27-28",
+        "context_after": "Emissioni dirette (Scope 1) 3.4 34-35 305-2 Emissioni indirette (Scope 2) 3.4 34-35 SCARICHI E RIFIUTI GRI 306 306-1 Acqua",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "62.txt",
+        "context_before": "GRI 305 103 Approccio del management e spiegazione dei temi materiali 3.1 27-28 305-1 Emissioni dirette (Scope 1) 3.4 34-35",
+        "context_after": "Emissioni indirette (Scope 2) 3.4 34-35 SCARICHI E RIFIUTI GRI 306 306-1 Acqua totale scaricata per qualit e destinazione 3.5",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": {
+        "page": "62.txt",
+        "context_before": "27-28 305-1 Emissioni dirette (Scope 1) 3.4 34-35 305-2 Emissioni indirette (Scope 2) 3.4 34-35 SCARICHI E RIFIUTI GRI 306",
+        "context_after": "Acqua totale scaricata per qualit e destinazione 3.5 36-37 306-3 Sversamenti significativi 3.5 36-37 COMPLIANCE AMBIENTALE GRI 307 307-1 Non",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": false,
+    "306-3": {
+        "page": "62.txt",
+        "context_before": "indirette (Scope 2) 3.4 34-35 SCARICHI E RIFIUTI GRI 306 306-1 Acqua totale scaricata per qualit e destinazione 3.5 36-37",
+        "context_after": "Sversamenti significativi 3.5 36-37 COMPLIANCE AMBIENTALE GRI 307 307-1 Non conformit a leggi e regolamenti in materia ambientale 3.6.3 39",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "62.txt",
+        "context_before": "306 306-1 Acqua totale scaricata per qualit e destinazione 3.5 36-37 306-3 Sversamenti significativi 3.5 36-37 COMPLIANCE AMBIENTALE GRI 307",
+        "context_after": "Non conformit a leggi e regolamenti in materia ambientale 3.6.3 39 VALUTAZIONE AMBIENTALE DEI FORNITORI GRI 308 103 Approccio del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "62.txt",
+        "context_before": "ambientale 3.6.3 39 VALUTAZIONE AMBIENTALE DEI FORNITORI GRI 308 103 Approccio del management e spiegazione dei temi materiali 5.3 53-54",
+        "context_after": "Nuovi fornitori valutati utilizzando criteri ambientali 5.3 53-54 OCCUPAZIONE GRI 401 103-1 Approccio del management e spiegazione dei temi materiali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "62.txt",
+        "context_before": "Approccio del management e spiegazione dei temi materiali 5.3 53-54 308-1 Nuovi fornitori valutati utilizzando criteri ambientali 5.3 53-54 OCCUPAZIONE",
+        "context_after": "103-1 Approccio del management e spiegazione dei temi materiali 4.1 40-47 401-1 Ingresso di nuovi dipendenti e turnover 4.1 40-47",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": false,
+    "GRI 403": false,
+    "GRI 404": {
+        "page": "62.txt",
+        "context_before": "infortuni sul lavoro, di malattia, giornate di lavoro perse, assenteismo e numero totale 4.3 48-50 dei decessi EDUCAZIONE E FORMAZIONE",
+        "context_after": "404-1 Ore medie di formazione annuali per lavoratore 4.1 40-47 DIVERSITA E PARI OPPORTUNITA GRI 405 103 Approccio del management",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "62.txt",
+        "context_before": "decessi EDUCAZIONE E FORMAZIONE GRI 404 404-1 Ore medie di formazione annuali per lavoratore 4.1 40-47 DIVERSITA E PARI OPPORTUNITA",
+        "context_after": "103 Approccio del management e spiegazione dei temi materiali 2.4.1;4.2 22-25; 47-48 405-1 Diversit degli organi di governo e dei",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": {
+        "page": "62.txt",
+        "context_before": "dei temi materiali 2.4.1;4.2 22-25; 47-48 405-1 Diversit degli organi di governo e dei lavoratori 2.4.1;4.2 22-25; 47-48 NON DISCRIMINAZIONE",
+        "context_after": "406-1 Casi di discriminazione e azioni correttive intraprese 6.1 57 LIBERTA DI ASSOCIAZIONE E CONTRATTAZIONE COLLETTIVA GRI 407 407-1 Attivit",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 407": {
+        "page": "62.txt",
+        "context_before": "NON DISCRIMINAZIONE GRI 406 406-1 Casi di discriminazione e azioni correttive intraprese 6.1 57 LIBERTA DI ASSOCIAZIONE E CONTRATTAZIONE COLLETTIVA",
+        "context_after": "407-1 Attivit del Gruppo dove la libert di associazione possa essere a rischio 6.2 58 LAVORO MINORILE GRI 408 408-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 408": {
+        "page": "62.txt",
+        "context_before": "COLLETTIVA GRI 407 407-1 Attivit del Gruppo dove la libert di associazione possa essere a rischio 6.2 58 LAVORO MINORILE",
+        "context_after": "408-1 Attivit del Gruppo o di fornitori a rischio significativo di casi di lavoro minorile 6.1 57 LAVORO FORZATO O",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 409": {
+        "page": "62.txt",
+        "context_before": "Attivit del Gruppo o di fornitori a rischio significativo di casi di lavoro minorile 6.1 57 LAVORO FORZATO O COATTO",
+        "context_after": "409-1 Attivit del Gruppo o di fornitori a rischio significativo di casi di lavoro forzato o coatto 6.1 57 VALUTAZIONE",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "62.txt",
+        "context_before": "Gruppo o di fornitori a rischio significativo di casi di lavoro forzato o coatto 6.1 57 VALUTAZIONE DEI DIRITTI UMANI",
+        "context_after": "412-3 Accordi di investimento significativi e contratti che prevedono clausole sui diritti umani o con una valutazione dei 6.1 57",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "62.txt",
+        "context_before": "significativi e contratti che prevedono clausole sui diritti umani o con una valutazione dei 6.1 57 diritti umani COMUNITA LOCALI",
+        "context_after": "413-2 Attivit del Gruppo con impatto negativo attuale o potenziale sulle comunit locali 6.1 57 VALUTAZIONE SOCIALE DEI FORNITORI GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 414": {
+        "page": "62.txt",
+        "context_before": "413 413-2 Attivit del Gruppo con impatto negativo attuale o potenziale sulle comunit locali 6.1 57 VALUTAZIONE SOCIALE DEI FORNITORI",
+        "context_after": "103 Approccio del management e spiegazione dei temi materiali 5.3 53 414.1 Nuovi fornitori selezionati utilizzando criteri di natura sociale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "62.txt",
+        "context_before": "temi materiali 5.3 53 414.1 Nuovi fornitori selezionati utilizzando criteri di natura sociale 5.3 53 SALUTE E SICUREZZA DEI CONSUMATORI",
+        "context_after": "103-1 Approccio del management e spiegazione dei temi materiali 5.2 50-53 416-1 Valutazione di impatti in tema di salute e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417": {
+        "page": "62.txt",
+        "context_before": "Casi di non conformit relativi a temi di salute e sicurezza di prodotti e servizi 5.2 50-53 MARKETING ED ETICHETTATURA",
+        "context_after": "417-1 Requisiti informativi e di etichettatura di prodotti e servizi 5.2 50-53 417-2 Casi di non conformit relativi a temi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "62.txt",
+        "context_before": "valutati utilizzando criteri ambientali 5.3 53-54 OCCUPAZIONE GRI 401 103-1 Approccio del management e spiegazione dei temi materiali 4.1 40-47",
+        "context_after": "Ingresso di nuovi dipendenti e turnover 4.1 40-47 SALUTE E SICUREZZA DEI LAVORATORI GRI 103-1 Approccio del management e spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": false,
+    "403-1": false,
+    "403-2": {
+        "page": "62.txt",
+        "context_before": "turnover 4.1 40-47 SALUTE E SICUREZZA DEI LAVORATORI GRI 103-1 Approccio del management e spiegazione dei temi materiali 4.3 48-50",
+        "context_after": "Tipologia di infortuni e tasso di infortuni sul lavoro, di malattia, giornate di lavoro perse, assenteismo e numero totale 4.3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "62.txt",
+        "context_before": "lavoro, di malattia, giornate di lavoro perse, assenteismo e numero totale 4.3 48-50 dei decessi EDUCAZIONE E FORMAZIONE GRI 404",
+        "context_after": "Ore medie di formazione annuali per lavoratore 4.1 40-47 DIVERSITA E PARI OPPORTUNITA GRI 405 103 Approccio del management e",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "62.txt",
+        "context_before": "4.1 40-47 DIVERSITA E PARI OPPORTUNITA GRI 405 103 Approccio del management e spiegazione dei temi materiali 2.4.1;4.2 22-25; 47-48",
+        "context_after": "Diversit degli organi di governo e dei lavoratori 2.4.1;4.2 22-25; 47-48 NON DISCRIMINAZIONE GRI 406 406-1 Casi di discriminazione e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "405-2": false,
+    "406-1": {
+        "page": "62.txt",
+        "context_before": "materiali 2.4.1;4.2 22-25; 47-48 405-1 Diversit degli organi di governo e dei lavoratori 2.4.1;4.2 22-25; 47-48 NON DISCRIMINAZIONE GRI 406",
+        "context_after": "Casi di discriminazione e azioni correttive intraprese 6.1 57 LIBERTA DI ASSOCIAZIONE E CONTRATTAZIONE COLLETTIVA GRI 407 407-1 Attivit del",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "407-1": {
+        "page": "62.txt",
+        "context_before": "GRI 406 406-1 Casi di discriminazione e azioni correttive intraprese 6.1 57 LIBERTA DI ASSOCIAZIONE E CONTRATTAZIONE COLLETTIVA GRI 407",
+        "context_after": "Attivit del Gruppo dove la libert di associazione possa essere a rischio 6.2 58 LAVORO MINORILE GRI 408 408-1 Attivit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "62.txt",
+        "context_before": "407 407-1 Attivit del Gruppo dove la libert di associazione possa essere a rischio 6.2 58 LAVORO MINORILE GRI 408",
+        "context_after": "Attivit del Gruppo o di fornitori a rischio significativo di casi di lavoro minorile 6.1 57 LAVORO FORZATO O COATTO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "62.txt",
+        "context_before": "Gruppo o di fornitori a rischio significativo di casi di lavoro minorile 6.1 57 LAVORO FORZATO O COATTO GRI 409",
+        "context_after": "Attivit del Gruppo o di fornitori a rischio significativo di casi di lavoro forzato o coatto 6.1 57 VALUTAZIONE DEI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": {
+        "page": "62.txt",
+        "context_before": "di fornitori a rischio significativo di casi di lavoro forzato o coatto 6.1 57 VALUTAZIONE DEI DIRITTI UMANI GRI 412",
+        "context_after": "Accordi di investimento significativi e contratti che prevedono clausole sui diritti umani o con una valutazione dei 6.1 57 diritti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "413-1": false,
+    "413-2": {
+        "page": "62.txt",
+        "context_before": "contratti che prevedono clausole sui diritti umani o con una valutazione dei 6.1 57 diritti umani COMUNITA LOCALI GRI 413",
+        "context_after": "Attivit del Gruppo con impatto negativo attuale o potenziale sulle comunit locali 6.1 57 VALUTAZIONE SOCIALE DEI FORNITORI GRI 414",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "62.txt",
+        "context_before": "5.3 53 SALUTE E SICUREZZA DEI CONSUMATORI GRI 416 103-1 Approccio del management e spiegazione dei temi materiali 5.2 50-53",
+        "context_after": "Valutazione di impatti in tema di salute e sicurezza dei prodotti e dei servizi offerti per categoria 5.2 50-53 416-2",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "416-2": {
+        "page": "62.txt",
+        "context_before": "416-1 Valutazione di impatti in tema di salute e sicurezza dei prodotti e dei servizi offerti per categoria 5.2 50-53",
+        "context_after": "Casi di non conformit relativi a temi di salute e sicurezza di prodotti e servizi 5.2 50-53 MARKETING ED ETICHETTATURA",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "62.txt",
+        "context_before": "non conformit relativi a temi di salute e sicurezza di prodotti e servizi 5.2 50-53 MARKETING ED ETICHETTATURA GRI 417",
+        "context_after": "Requisiti informativi e di etichettatura di prodotti e servizi 5.2 50-53 417-2 Casi di non conformit relativi a temi di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "62.txt",
+        "context_before": "servizi 5.2 50-53 MARKETING ED ETICHETTATURA GRI 417 417-1 Requisiti informativi e di etichettatura di prodotti e servizi 5.2 50-53",
+        "context_after": "Casi di non conformit relativi a temi di etichettatura 5.2 50-53 417-3 Casi di non conformit relativi a temi di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "62.txt",
+        "context_before": "di etichettatura di prodotti e servizi 5.2 50-53 417-2 Casi di non conformit relativi a temi di etichettatura 5.2 50-53",
+        "context_after": "Casi di non conformit relativi a temi di comunicazioni commerciali 5.2 50-53 63",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": false,
+    "419-1": false
+}

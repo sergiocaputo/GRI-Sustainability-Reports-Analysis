@@ -1,0 +1,1117 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "54.txt",
+        "context_before": "Eco-efficiency indicator  Up % of waste recycled  Constant Fight against climate change: risks and opportunities for TIM [",
+        "context_after": "-2] Digitization and dematerialization to achieve energy saving and reduction of CO emissions into the 2 atmosphere: TIM solutions and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "86.txt",
+        "context_before": "in the phase of emergency management and in the medium/long term, to protect their needs. [GRI 103-2: Management Approach] [",
+        "context_after": "] [GRI 203-2] In Brazil, TIM Participaes has continued to promote commercial offers to encourage the spread of the mobile",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "32.txt",
+        "context_before": "are periodic and, in any case, are held when internal regulations, such as the 231 Organizational Model, are updated. [",
+        "context_after": "-2] Training campaigns TIM S.p.A 2019 2018 2017 number %* number % number % Senior Managers 8 1.4% 2 0.3%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "32.txt",
+        "context_before": "the same percentage for the Code of Ethics online course. Legal framework and compliance [GRI 103-1, 103-3: Management Approach] [",
+        "context_after": "] [GRI 415] The Groups activities are conducted in full compliance with current laws in the countries in which it",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "162.txt",
+        "context_before": "TIM Sustainability Report 2019 APPENDIX [",
+        "context_after": "] Economic value produced and distributed (millions of euros) 2019 2018 2017 a) Total operating revenues and 18,907 19,281 20,351",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": {
+        "page": "54.txt",
+        "context_before": "Eco-efficiency indicator  Up % of waste recycled  Constant Fight against climate change: risks and opportunities for TIM [",
+        "context_after": "] Digitization and dematerialization to achieve energy saving and reduction of CO emissions into the 2 atmosphere: TIM solutions and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-3": {
+        "page": "112.txt",
+        "context_before": "dedicated content for employees' children, with lectures and workshops on careers, social networking and business. Other initiatives for employees [",
+        "context_after": "] To promote employee personal and family well-being through enhanced investments, TIM has put in place a company loan scheme",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-4": {
+        "page": "161.txt",
+        "context_before": "to the Note \"Accounting Policies\" to the Consolidated Financial Statement as of December 31, 2019 of the TIM Group. [",
+        "context_after": "] The total contributions, collected as part of research and innovation projects financed by national and international public bodies, amounted",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "84.txt",
+        "context_before": "in a host of sectors, including health, safety, city \"management\" and rural manufacturing. [GRI 103-2: [Management Approach] [GRI 203] [",
+        "context_after": "] [GRI 203-2] The principal objectives to increase Italian geographical digital inclusion in TIM Participaes for 2021 are shown in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-2": {
+        "page": "86.txt",
+        "context_before": "phase of emergency management and in the medium/long term, to protect their needs. [GRI 103-2: Management Approach] [GRI 203] [",
+        "context_after": "] In Brazil, TIM Participaes has continued to promote commercial offers to encourage the spread of the mobile web, particularly",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204-1": false,
+    "GRI 205-1": {
+        "page": "31.txt",
+        "context_before": "TIM Sustainability Report 2019 THE GROUP [",
+        "context_after": "b] When the corruption risk assessment process was over, TIM identified a low corruption risk related: (i) to specific categories",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-2": {
+        "page": "32.txt",
+        "context_before": "are periodic and, in any case, are held when internal regulations, such as the 231 Organizational Model, are updated. [",
+        "context_after": "] Training campaigns TIM S.p.A 2019 2018 2017 number %* number % number % Senior Managers 8 1.4% 2 0.3%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-3": {
+        "page": "31.txt",
+        "context_before": "of the Code of Ethics and Conduct and/or the 231 Organizational Model and/or the Anti- corruption Policy against reprisals. [",
+        "context_after": "a] [GRI 205-3b] [GRI 205-3d] No incident of corruption has taken place in the Group companies in the past 3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206-1": {
+        "page": "32.txt",
+        "context_before": "or benefits of any kind to political parties, political movements or trade unions or to their representatives or candidates. [",
+        "context_after": "] The TIM Group was identified as a participant in the following major litigations related to anti-competitive behavior, violations of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "180.txt",
+        "context_before": "management approach 8, 14, 85 OTHER DISCLOSURES Page number(s) GRI Standard 2016 Disclosure Omission and URL(s) Material Topics Economic Performance",
+        "context_after": "Direct economic value generated and distributed 16,163 Financial implications and other risks and opportunities 201-2 55 due to climate change",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "54.txt",
+        "context_before": "Eco-efficiency indicator  Up % of waste recycled  Constant Fight against climate change: risks and opportunities for TIM [GRI",
+        "context_after": "] Digitization and dematerialization to achieve energy saving and reduction of CO emissions into the 2 atmosphere: TIM solutions and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": {
+        "page": "180.txt",
+        "context_before": "Financial implications and other risks and opportunities 201-2 55 due to climate change Defined benefit plan obligations and other retirement",
+        "context_after": "113 plans 201-4 Financial assistance received from government 162 Water 303-1 Water withdrawal by source 64 Effluents and Waste 306-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "180.txt",
+        "context_before": "other risks and opportunities 201-2 55 due to climate change Defined benefit plan obligations and other retirement 201-3 113 plans",
+        "context_after": "Financial assistance received from government 162 Water 303-1 Water withdrawal by source 64 Effluents and Waste 306-2 Waste by type",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "84.txt",
+        "context_before": "in a host of sectors, including health, safety, city \"management\" and rural manufacturing. [GRI 103-2: [Management Approach] [GRI 203] [GRI",
+        "context_after": "] [GRI 203-2] The principal objectives to increase Italian geographical digital inclusion in TIM Participaes for 2021 are shown in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "86.txt",
+        "context_before": "phase of emergency management and in the medium/long term, to protect their needs. [GRI 103-2: Management Approach] [GRI 203] [GRI",
+        "context_after": "] In Brazil, TIM Participaes has continued to promote commercial offers to encourage the spread of the mobile web, particularly",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": false,
+    "205-1": {
+        "page": "31.txt",
+        "context_before": "TIM Sustainability Report 2019 THE GROUP [GRI",
+        "context_after": "b] When the corruption risk assessment process was over, TIM identified a low corruption risk related: (i) to specific categories",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "32.txt",
+        "context_before": "are periodic and, in any case, are held when internal regulations, such as the 231 Organizational Model, are updated. [GRI",
+        "context_after": "] Training campaigns TIM S.p.A 2019 2018 2017 number %* number % number % Senior Managers 8 1.4% 2 0.3%",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "31.txt",
+        "context_before": "of the Code of Ethics and Conduct and/or the 231 Organizational Model and/or the Anti- corruption Policy against reprisals. [GRI",
+        "context_after": "a] [GRI 205-3b] [GRI 205-3d] No incident of corruption has taken place in the Group companies in the past 3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": {
+        "page": "32.txt",
+        "context_before": "or benefits of any kind to political parties, political movements or trade unions or to their representatives or candidates. [GRI",
+        "context_after": "] The TIM Group was identified as a participant in the following major litigations related to anti-competitive behavior, violations of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "63.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Electricity consumption over the last 3 years and share of renewable energy [",
+        "context_after": "-3] The Group measures its energy efficiency by using an eco-efficiency indicator that establishes a relationship between the service offered",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "64.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Water consumption [",
+        "context_after": "-1] The downward trend in water consumption is continuing thanks to targeted management and awareness actions. Group Domestic Brazil Consumption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "68.txt",
+        "context_before": "Total HCFC 346 0.01903 626,857 Total other gases 0 0 0 Total 4,580.69 0.01903 9,166,334 [GRI 103-3: Management Approach] [",
+        "context_after": "]The table shows some categories of Group's Scope 3 emissions. Group Domestic Brazil CO emissions from work-home 2 kg 54,014,018",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306": {
+        "page": "69.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Waste [",
+        "context_after": "-2] The data shown in the table refer to the quantity of waste consigned1 and recorded by law2. Group Domestic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "57.txt",
+        "context_before": "de Telecomunicaes (ANATEL). All the radio base stations of TIM Participaes have a license to operate issued by ANATEL. [",
+        "context_after": "-1] On the issue of Compliance, the Group provides everyone with a single channel through which to submit requests for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308": {
+        "page": "173.txt",
+        "context_before": "with operations GRI 305: Emissions suppliers and business partners Environmental Group TIM contributes indirectly Integrating social and environmental aspects in",
+        "context_after": ": Supplier Environmental Assessment Group TIM through the relationship with the supply chain GRI 414: Supplier Social Assessment suppliers and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "60.txt",
+        "context_before": "with excellent results in environmental tests and an appropriate environmental declaration1. TIMs environmental performance Energy and natural resources consumption [",
+        "context_after": "], [GRI 302-2], [GRI 302-4] The Groups energy consumption is presented broken-down into consumption for heating, transport and purchased and",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-2": {
+        "page": "60.txt",
+        "context_before": "results in environmental tests and an appropriate environmental declaration1. TIMs environmental performance Energy and natural resources consumption [GRI 302-1], [",
+        "context_after": "], [GRI 302-4] The Groups energy consumption is presented broken-down into consumption for heating, transport and purchased and produced electricity.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-3": {
+        "page": "63.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Electricity consumption over the last 3 years and share of renewable energy [",
+        "context_after": "] The Group measures its energy efficiency by using an eco-efficiency indicator that establishes a relationship between the service offered",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-4": {
+        "page": "60.txt",
+        "context_before": "environmental tests and an appropriate environmental declaration1. TIMs environmental performance Energy and natural resources consumption [GRI 302-1], [GRI 302-2], [",
+        "context_after": "] The Groups energy consumption is presented broken-down into consumption for heating, transport and purchased and produced electricity. Heating The",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "64.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Water consumption [",
+        "context_after": "] The downward trend in water consumption is continuing thanks to targeted management and awareness actions. Group Domestic Brazil Consumption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [",
+        "context_after": "] [GRI 305-2] [GRI 305-3] [GRI 305-5] [GRI 305-6] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI 305-1] [",
+        "context_after": "] [GRI 305-3] [GRI 305-5] [GRI 305-6] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide generated by",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI 305-1] [GRI 305-2] [",
+        "context_after": "] [GRI 305-5] [GRI 305-6] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide generated by fossil fuels",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-4": {
+        "page": "68.txt",
+        "context_before": "on the number of journeys actually made, subdivided by the duration of each individual journey (short, medium or long). [",
+        "context_after": "] TIM also measures the Carbon Intensity of its Domestic1 BU by using an indicator that establishes a relationship between",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-5": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI 305-1] [GRI 305-2] [GRI 305-3] [",
+        "context_after": "] [GRI 305-6] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide generated by fossil fuels for heating,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-6": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI 305-1] [GRI 305-2] [GRI 305-3] [GRI 305-5] [",
+        "context_after": "] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide generated by fossil fuels for heating, transport, power",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-7": {
+        "page": "66.txt",
+        "context_before": "industrial and civil use) and other indirect or Scope 3 emissions. Nitrogen oxides (NOx) and sulphur oxides (SOx) emissions [",
+        "context_after": "] are negligible in Group emissions. The following table shows market based Scope 1 and Scope 2 emissions. [GRI 103-3:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "69.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Waste [",
+        "context_after": "] The data shown in the table refer to the quantity of waste consigned1 and recorded by law2. Group Domestic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "57.txt",
+        "context_before": "de Telecomunicaes (ANATEL). All the radio base stations of TIM Participaes have a license to operate issued by ANATEL. [",
+        "context_after": "] On the issue of Compliance, the Group provides everyone with a single channel through which to submit requests for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 308-1": {
+        "page": "148.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN [",
+        "context_after": "] [GRI 407-11] [GRI 408-1] [GRI 409-1] [GRI 414-2] All suppliers of the Domestic BU have been assessed to consider",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-2": {
+        "page": "149.txt",
+        "context_before": "and sub-sub-suppliers);  share tools to address common and relevant international issues, such as climate change or circular economy. [",
+        "context_after": "] [GRI 407-1] [GRI 408-1] [GRI 409-1] [GRI 414-2] Between 2010 and -2019, thanks to the gradual increase in the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "60.txt",
+        "context_before": "with excellent results in environmental tests and an appropriate environmental declaration1. TIMs environmental performance Energy and natural resources consumption [GRI",
+        "context_after": "], [GRI 302-2], [GRI 302-4] The Groups energy consumption is presented broken-down into consumption for heating, transport and purchased and",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "302-2": {
+        "page": "60.txt",
+        "context_before": "results in environmental tests and an appropriate environmental declaration1. TIMs environmental performance Energy and natural resources consumption [GRI 302-1], [GRI",
+        "context_after": "], [GRI 302-4] The Groups energy consumption is presented broken-down into consumption for heating, transport and purchased and produced electricity.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "63.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Electricity consumption over the last 3 years and share of renewable energy [GRI",
+        "context_after": "] The Group measures its energy efficiency by using an eco-efficiency indicator that establishes a relationship between the service offered",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "60.txt",
+        "context_before": "environmental tests and an appropriate environmental declaration1. TIMs environmental performance Energy and natural resources consumption [GRI 302-1], [GRI 302-2], [GRI",
+        "context_after": "] The Groups energy consumption is presented broken-down into consumption for heating, transport and purchased and produced electricity. Heating The",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "176.txt",
+        "context_before": "intensity 64 302-4 Reduction of energy consumption 61 The quantity of product consumption Reductions in energy requirements of products and",
+        "context_after": "60 reductions is not expressed as the services company has no product lines. Emissions 103-1 Explanation of the material topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "64.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Water consumption [GRI",
+        "context_after": "] The downward trend in water consumption is continuing thanks to targeted management and awareness actions. Group Domestic Brazil Consumption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI",
+        "context_after": "] [GRI 305-2] [GRI 305-3] [GRI 305-5] [GRI 305-6] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI 305-1] [GRI",
+        "context_after": "] [GRI 305-3] [GRI 305-5] [GRI 305-6] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide generated by",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI 305-1] [GRI 305-2] [GRI",
+        "context_after": "] [GRI 305-5] [GRI 305-6] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide generated by fossil fuels",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "68.txt",
+        "context_before": "on the number of journeys actually made, subdivided by the duration of each individual journey (short, medium or long). [GRI",
+        "context_after": "] TIM also measures the Carbon Intensity of its Domestic1 BU by using an indicator that establishes a relationship between",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI 305-1] [GRI 305-2] [GRI 305-3] [GRI",
+        "context_after": "] [GRI 305-6] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide generated by fossil fuels for heating,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "66.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Atmospheric emissions [GRI 305-1] [GRI 305-2] [GRI 305-3] [GRI 305-5] [GRI",
+        "context_after": "] The Groups greenhouse gas emissions consist almost exclusively of carbon dioxide generated by fossil fuels for heating, transport, power",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "66.txt",
+        "context_before": "industrial and civil use) and other indirect or Scope 3 emissions. Nitrogen oxides (NOx) and sulphur oxides (SOx) emissions [GRI",
+        "context_after": "] are negligible in Group emissions. The following table shows market based Scope 1 and Scope 2 emissions. [GRI 103-3:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "69.txt",
+        "context_before": "TIM Sustainability Report 2019 ENVIRONMENT Waste [GRI",
+        "context_after": "] The data shown in the table refer to the quantity of waste consigned1 and recorded by law2. Group Domestic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "57.txt",
+        "context_before": "de Telecomunicaes (ANATEL). All the radio base stations of TIM Participaes have a license to operate issued by ANATEL. [GRI",
+        "context_after": "] On the issue of Compliance, the Group provides everyone with a single channel through which to submit requests for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "308-1": {
+        "page": "177.txt",
+        "context_before": "management approach and its components 151 103-3 Evaluation of the management approach 152 New suppliers that were screened using environmental",
+        "context_after": "148, 149 criteria Negative environmental impacts in the supply chain and 308-2 148, 150 actions taken Employment 103-1 Explanation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "177.txt",
+        "context_before": "152 New suppliers that were screened using environmental 308-1 148, 149 criteria Negative environmental impacts in the supply chain and",
+        "context_after": "148, 150 actions taken Employment 103-1 Explanation of the material topic and its Boundaries 88 103-2 The management approach and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "91.txt",
+        "context_before": "Groups activities do not vary seasonally, hence changes in the workforce are correctly shown by the annual trends;  [",
+        "context_after": "-3a] All employees are entitled to parental leave. Gender balance [GRI 103-1: Management Approach] [GRI 405] There is still a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "88.txt",
+        "context_before": "worked. ** In 2019, final figures were calculated from the average workforce number [GRI 103-2: Management Approach] [GRI 401] [",
+        "context_after": "] [GRI 404] In the Brazilian scenario, TIM Participaes has also developed and updated policies, programs and initiatives seeking to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403": {
+        "page": "90.txt",
+        "context_before": "which, with respect to the requirements of the GRI Standard, gives these KPIs [GRI 102-8], [GRI 401-1], [GRI 401-3], [",
+        "context_after": "-2], [GRI 405-2], [GRI 404-1]. As detailed later, and stated in the respective KPIs, policies for hiring, training and developing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "98.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN Group training figures [",
+        "context_after": "-1] The tables below show Group training hours by professional category and gender. The appendix contains a comparative focus for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "92.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN [",
+        "context_after": "-1] Members of the Board of Directors by age and 12/31/2019 12/31/2018 12/31/2017 gender Total number of members 15 15",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 406": {
+        "page": "173.txt",
+        "context_before": "Gruppo TIM Protect diversity and promote equal GRI 405: Diversity and Equal Opportunity Gruppo TIM - opportunities in the company",
+        "context_after": ": Non-discrimination GRI 406: Non-discrimination GRI 407: Freedom of Association and Collective Bargaining Group TIM contributes indirectly Respect of human",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "173.txt",
+        "context_before": "equal GRI 405: Diversity and Equal Opportunity Gruppo TIM - opportunities in the company GRI 406: Non-discrimination GRI 406: Non-discrimination",
+        "context_after": ": Freedom of Association and Collective Bargaining Group TIM contributes indirectly Respect of human Promoting and safeguarding human rights GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": {
+        "page": "173.txt",
+        "context_before": "GRI 407: Freedom of Association and Collective Bargaining Group TIM contributes indirectly Respect of human Promoting and safeguarding human rights",
+        "context_after": ": Child Labor Group TIM through the relationship with rights GRI 409: Forced or Compulsory Labor suppliers and business partners",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409": {
+        "page": "173.txt",
+        "context_before": "indirectly Respect of human Promoting and safeguarding human rights GRI 408: Child Labor Group TIM through the relationship with rights",
+        "context_after": ": Forced or Compulsory Labor suppliers and business partners GRI 410: Security Practices GRI 412: Human Rights Assessment ) GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": {
+        "page": "173.txt",
+        "context_before": "408: Child Labor Group TIM through the relationship with rights GRI 409: Forced or Compulsory Labor suppliers and business partners",
+        "context_after": ": Security Practices GRI 412: Human Rights Assessment ) GRI 205: Anti-corruption Group TIM contributes indirectly Fight against GRI 206:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 411": {
+        "page": "158.txt",
+        "context_before": "TIM Sustainability Report 2019 HUMAN RIGHTS [GRI 406-1] [",
+        "context_after": "-1] Complaints received and handled regarding discrimination issues Italy of which of which of which 2019 2018 2017 substantiated substantiated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412": {
+        "page": "173.txt",
+        "context_before": "TIM through the relationship with rights GRI 409: Forced or Compulsory Labor suppliers and business partners GRI 410: Security Practices",
+        "context_after": ": Human Rights Assessment ) GRI 205: Anti-corruption Group TIM contributes indirectly Fight against GRI 206: Anti-competitive Behavior Correctness of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "19.txt",
+        "context_before": "TIM Sustainability Report 2019 THE GROUP [",
+        "context_after": "-2] The potential negative impacts arising exclusively from excavations for installing cable ducts or positioning radio base stations are mitigated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 414": {
+        "page": "173.txt",
+        "context_before": "Integrating social and environmental aspects in GRI 308: Supplier Environmental Assessment Group TIM through the relationship with the supply chain",
+        "context_after": ": Supplier Social Assessment suppliers and business partners GRI 417: Marketing and Labeling - Fair management of customer relations Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": {
+        "page": "32.txt",
+        "context_before": "percentage for the Code of Ethics online course. Legal framework and compliance [GRI 103-1, 103-3: Management Approach] [GRI 206] [",
+        "context_after": "] The Groups activities are conducted in full compliance with current laws in the countries in which it operates and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "173.txt",
+        "context_before": "aspects into corporate strategies GRI 102-43: Approach to stakeholder - Stakeholders engagement Group TIM engagement - Impacts of electromagnetic emissions",
+        "context_after": ": Customer Health and Safety BU Domestic Fostering te development of an inclusive digital - Non GRI topic Group TIM",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "173.txt",
+        "context_before": "Environmental Assessment Group TIM through the relationship with the supply chain GRI 414: Supplier Social Assessment suppliers and business partners",
+        "context_after": ": Marketing and Labeling - Fair management of customer relations Group TIM Safeguarding privacy and personal data - GRI 418:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "173.txt",
+        "context_before": "partners GRI 417: Marketing and Labeling - Fair management of customer relations Group TIM Safeguarding privacy and personal data -",
+        "context_after": ": Customer Privacy Group TIM security and protection - Integrating social, environmental and Non GRI topic BU Domestic governance aspects",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "33.txt",
+        "context_before": "further information please refer to the \"Contingent liabilities, other information, commitments and guarantees\" Note of the Consolidated Financial Statements. [",
+        "context_after": "-1] The same Note contains a description of all the Group's other disputes. Stakeholder engagement TIM believes it is fundamentally",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": {
+        "page": "90.txt",
+        "context_before": "Appendix to this chapter, which, with respect to the requirements of the GRI Standard, gives these KPIs [GRI 102-8], [",
+        "context_after": "], [GRI 401-3], [GRI 403-2], [GRI 405-2], [GRI 404-1]. As detailed later, and stated in the respective KPIs, policies for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": {
+        "page": "113.txt",
+        "context_before": "As of January 1, 2020, there were 33,376 employees subscribed to Telemaco, from 9 associated companies with active members. [",
+        "context_after": "] All Group workers, whether full or part-time, on permanent or fixed-term contracts, enjoy the same benefits, whilst, in Italy,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-3": {
+        "page": "91.txt",
+        "context_before": "Groups activities do not vary seasonally, hence changes in the workforce are correctly shown by the annual trends;  [",
+        "context_after": "a] All employees are entitled to parental leave. Gender balance [GRI 103-1: Management Approach] [GRI 405] There is still a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402-1": {
+        "page": "102.txt",
+        "context_before": "the ways in which these rights can be enforced and establish the bodies in charge of controlling compliance therewith. [",
+        "context_after": "] TIM takes care to listen to and engage with workers' representatives, including through reorganization processes.The search for constant, constructive",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-1": {
+        "page": "105.txt",
+        "context_before": "that participate in the safety process: company management, operational coordination figures, appointed doctors, workers and Workers Safety Representatives (WSR). [",
+        "context_after": "] In relation to the latter, the legislation requires that they are or appointed by the workers within the framework",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-2": {
+        "page": "90.txt",
+        "context_before": "which, with respect to the requirements of the GRI Standard, gives these KPIs [GRI 102-8], [GRI 401-1], [GRI 401-3], [",
+        "context_after": "], [GRI 405-2], [GRI 404-1]. As detailed later, and stated in the respective KPIs, policies for hiring, training and developing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-3": {
+        "page": "154.txt",
+        "context_before": "respect Human Rights and has identified those that may be negatively influenced by the Companys activities, such as:  [",
+        "context_after": "] [GRI 406-1] [GRI 408-1] [GRI 409-1] Human rights common to all industry sectors (e.g. rights concerning health and safety",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-4": {
+        "page": "108.txt",
+        "context_before": "Report 2019 THE VALUE CHAIN 2019, occupational diseases reported by workers related to musculoskeletal, respiratory, auditory and mental/psychosomatic illnesses. [",
+        "context_after": "] In Brazil the collective agreements state as a rule that information must be provided on the prevention of accidents",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "98.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN Group training figures [",
+        "context_after": "] The tables below show Group training hours by professional category and gender. The appendix contains a comparative focus for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": {
+        "page": "96.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN Management education  [",
+        "context_after": "] Coaching/Mentorship: in-person and online coaching courses were launched to support managerial roles.  Online library: all managers have access",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-3": {
+        "page": "94.txt",
+        "context_before": "market is made for specific positions of particular corporate interest, considered \"core\" but difficult to cover with internal resources. [",
+        "context_after": "] Percentage of employees receiving periodic performance and professional development reviews 2019 2018 2017 Domestic BU 97.9% 99.9% 99.7% Brazil",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-1": {
+        "page": "92.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN [",
+        "context_after": "] Members of the Board of Directors by age and 12/31/2019 12/31/2018 12/31/2017 gender Total number of members 15 15",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-2": {
+        "page": "119.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN Year 2017 1,317,426 97.9% [",
+        "context_after": "] Ratio of women/men according to basic salary and ratio of women/men according to remuneration, broken down according to each",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406-1": {
+        "page": "158.txt",
+        "context_before": "TIM Sustainability Report 2019 HUMAN RIGHTS [",
+        "context_after": "] [GRI 411-1] Complaints received and handled regarding discrimination issues Italy of which of which of which 2019 2018 2017",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": {
+        "page": "154.txt",
+        "context_before": "responsible advertising, rights related to the use of armed security, according to the highest international standards and practices);  [",
+        "context_after": "] rights agreed with the unions and included in National Labour Agreements (in line with the principles of the International",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408-1": {
+        "page": "154.txt",
+        "context_before": "has identified those that may be negatively influenced by the Companys activities, such as:  [GRI 403-3] [GRI 406-1] [",
+        "context_after": "] [GRI 409-1] Human rights common to all industry sectors (e.g. rights concerning health and safety at work, diversity, equality",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409-1": {
+        "page": "154.txt",
+        "context_before": "those that may be negatively influenced by the Companys activities, such as:  [GRI 403-3] [GRI 406-1] [GRI 408-1] [",
+        "context_after": "] Human rights common to all industry sectors (e.g. rights concerning health and safety at work, diversity, equality and non-discrimination,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410-1": {
+        "page": "148.txt",
+        "context_before": "areas are considered to be at greatest social risk: Asia, Central and South America, North Africa and Eastern Europe. [",
+        "context_after": "] For the employees of organizations which supply security guard services in Italy, the Consolidated Law on Public Security must",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 411-1": {
+        "page": "158.txt",
+        "context_before": "TIM Sustainability Report 2019 HUMAN RIGHTS [GRI 406-1] [",
+        "context_after": "] Complaints received and handled regarding discrimination issues Italy of which of which of which 2019 2018 2017 substantiated substantiated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412-1": {
+        "page": "154.txt",
+        "context_before": "and/or between the different companies of the Group;  the possibility to discuss Human Rights with the other companies. [",
+        "context_after": "] TIM carried out the first due diligence on Human Rights (concluded in 2014) using the tool OCAI1, and the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412-2": {
+        "page": "156.txt",
+        "context_before": "TIM Sustainability Report 2019 HUMAN RIGHTS [",
+        "context_after": "]The training activities mainly concerned the dissemination of the Groups Policy for the Respect of Human Rights and observance of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412-3": {
+        "page": "146.txt",
+        "context_before": "for Human Rights, workers rights and the environment -is positive, the suppliers are registered on the Group Supplier Database. [",
+        "context_after": "] In all the contracts signed, there is a specific clause which makes it mandatory for the supplier to accept",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-1": {
+        "page": "18.txt",
+        "context_before": "work of regional commissions and specialist working groups. TIM frequently organizes communication initiatives on specific issues of local interest. [",
+        "context_after": "] Among the main subjects of dialog with local authorities during 2019 we would highlight the following:  development of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413-2": {
+        "page": "19.txt",
+        "context_before": "TIM Sustainability Report 2019 THE GROUP [",
+        "context_after": "] The potential negative impacts arising exclusively from excavations for installing cable ducts or positioning radio base stations are mitigated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 414-1": {
+        "page": "154.txt",
+        "context_before": "(around 2/3 of the insufficient self-assessments regarded this aspect);  the usefulness of organising internal Human Rights training courses. [",
+        "context_after": "] [GRI 414-2] The results of the audit on Human Rights carried out on the suppliers of the Group are",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414-2": {
+        "page": "154.txt",
+        "context_before": "of the insufficient self-assessments regarded this aspect);  the usefulness of organising internal Human Rights training courses. [GRI 414-1] [",
+        "context_after": "] The results of the audit on Human Rights carried out on the suppliers of the Group are set out",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415-1": {
+        "page": "32.txt",
+        "context_before": "with universally accepted ethical principles, based on transparency, fairness and loyalty. [GRI 103-2: Management Approach] [GRI 415] [GRI 206] [",
+        "context_after": "] In particular, the Code of Ethics explicitly bans any direct or indirect disbursements, contributions, advantages or benefits of any",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-1": {
+        "page": "131.txt",
+        "context_before": "describes the management approach assessments for each of the above mentioned Standards, with the relative methods used and results. [",
+        "context_after": "] In its laboratories, TIM validates the satisfaction of the essential requirements envisaged by the current Directives for the release",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-2": {
+        "page": "132.txt",
+        "context_before": "each kind of equipment; TIM Participaes asks its suppliers to ensure that devices have the ANATEL certificate of approval. [",
+        "context_after": "] Over the past three years, no non-conformities with European customer health and safety legislation have been found in any",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-1": {
+        "page": "132.txt",
+        "context_before": "have been found in any product that has reached the final marketing stage, neither in Italy nor in Brazil. [",
+        "context_after": "] When contracts are drafted, for all fixed telephony products, TIM requires packaging to include an environmental statement, a statement",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417-2": {
+        "page": "132.txt",
+        "context_before": "in detail in the Environment chapter (TIM ecofriendly), all the relevant environmental parameters are also shown (e.g. energy consumption). [",
+        "context_after": "] Over the past three years, no non-conformities regarding product information and labelling have been found in any product that",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 417-3": {
+        "page": "134.txt",
+        "context_before": "non-conformities with legislation 0 1 0 resulting in a warning Number of non-conformities with voluntary 0 2 1 codes2 [",
+        "context_after": "] In Brazil the only notifications relating to advertising and marketing communications are issued by CONAR3, a non-governmental self-regulation organisation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 418-1": {
+        "page": "138.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN [GRI 103-3: Management Approach] [GRI 418] [",
+        "context_after": "] TIM Participaes:  at December 31, 2019 there were 892 pending complaints from customers, of which 801 were opened",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419-1": {
+        "page": "33.txt",
+        "context_before": "further information please refer to the \"Contingent liabilities, other information, commitments and guarantees\" Note of the Consolidated Financial Statements. [",
+        "context_after": "] The same Note contains a description of all the Group's other disputes. Stakeholder engagement TIM believes it is fundamentally",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-1": {
+        "page": "90.txt",
+        "context_before": "Appendix to this chapter, which, with respect to the requirements of the GRI Standard, gives these KPIs [GRI 102-8], [GRI",
+        "context_after": "], [GRI 401-3], [GRI 403-2], [GRI 405-2], [GRI 404-1]. As detailed later, and stated in the respective KPIs, policies for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "177.txt",
+        "context_before": "approach 88 401-1 New employee hires and employee turnover 91, 116, 117 Benefits provided to full-time employees that are not",
+        "context_after": "114 provided to temporary or part-time employees 401-3 Parental leave 91, 117 Labor/Management Relations 103-1 Explanation of the material topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "91.txt",
+        "context_before": "Groups activities do not vary seasonally, hence changes in the workforce are correctly shown by the annual trends;  [GRI",
+        "context_after": "a] All employees are entitled to parental leave. Gender balance [GRI 103-1: Management Approach] [GRI 405] There is still a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": {
+        "page": "177.txt",
+        "context_before": "and its Boundaries 103 103-2 The management approach and its components 89, 103 103-3 Evaluation of the management approach 104",
+        "context_after": "Minimum notice periods regarding operational changes 103 Occupational Health and Safety 103-1 Explanation of material topic and its Boundaries 106",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "177.txt",
+        "context_before": "103-2 The management approach and its components 106 103-3 Evaluation of the management approach 88 Workers representation in formal joint",
+        "context_after": "106 managementworker health and safety committees Types of injury and rates of injury, occupational diseases, The number and rate of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "90.txt",
+        "context_before": "which, with respect to the requirements of the GRI Standard, gives these KPIs [GRI 102-8], [GRI 401-1], [GRI 401-3], [GRI",
+        "context_after": "], [GRI 405-2], [GRI 404-1]. As detailed later, and stated in the respective KPIs, policies for hiring, training and developing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "177.txt",
+        "context_before": "work-related 108, 118 relating to external workers are not fatalities shown Workers with high incidence or high risk of diseases",
+        "context_after": "107, 155 related to their occupation Health and safety topics covered in formal agreements 403-4 106, 109 with trade unions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "177.txt",
+        "context_before": "or high risk of diseases 403-3 107, 155 related to their occupation Health and safety topics covered in formal agreements",
+        "context_after": "106, 109 with trade unions Training and Education 103-1 Explanation of the material topic and its Boundaries 94 103-2 The",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "98.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN Group training figures [GRI",
+        "context_after": "] The tables below show Group training hours by professional category and gender. The appendix contains a comparative focus for",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "96.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN Management education  [GRI",
+        "context_after": "] Coaching/Mentorship: in-person and online coaching courses were launched to support managerial roles.  Online library: all managers have access",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "94.txt",
+        "context_before": "market is made for specific positions of particular corporate interest, considered \"core\" but difficult to cover with internal resources. [GRI",
+        "context_after": "] Percentage of employees receiving periodic performance and professional development reviews 2019 2018 2017 Domestic BU 97.9% 99.9% 99.7% Brazil",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "92.txt",
+        "context_before": "TIM Sustainability Report 2019 THE VALUE CHAIN [GRI",
+        "context_after": "] Members of the Board of Directors by age and 12/31/2019 12/31/2018 12/31/2017 gender Total number of members 15 15",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "90.txt",
+        "context_before": "respect to the requirements of the GRI Standard, gives these KPIs [GRI 102-8], [GRI 401-1], [GRI 401-3], [GRI 403-2], [GRI",
+        "context_after": "], [GRI 404-1]. As detailed later, and stated in the respective KPIs, policies for hiring, training and developing employees are",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "178.txt",
+        "context_before": "and its Boundaries 154 103-2 The management approach and its components 111, 154 103-3 Evaluation of the management approach 111",
+        "context_after": "Incidents of discrimination and corrective actions taken 155, 159 Freedom of Association and Collective Bargaining 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "178.txt",
+        "context_before": "components 154, 155 103-3 Evaluation of the management approach 111 Operations and suppliers in which the right to freedom of",
+        "context_after": "148, 150, 156 association and collective bargaining may be at risk Child Labor 103-1 Explanation of the material topic and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "408-1": {
+        "page": "178.txt",
+        "context_before": "its components 154, 156 103-3 Evaluation of the management approach 103 Operations and suppliers at significant risk for incidents of",
+        "context_after": "103, 148, 155 child labor Forced or Compulsory Labor 103-1 Explanation of the material topic and its Boundaries 154 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "409-1": {
+        "page": "178.txt",
+        "context_before": "its components 154, 156 103-3 Evaluation of the management approach 154 Operations and suppliers at significant risk for incidents of",
+        "context_after": "103, 148, 150,155 forced or compulsory labor Security Practices 103-1 Explanation of the material topic and its Boundaries 154 103-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "410-1": {
+        "page": "178.txt",
+        "context_before": "approach and its components 154 103-3 Evaluation of the management approach 154 Security personnel trained in human rights policies or",
+        "context_after": "149 procedures Human Rights Assessment 103-1 Explanation of the material topict and its Boundary 154 103-2 The management approach and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "411-1": {
+        "page": "180.txt",
+        "context_before": "Compliance 307-1 Non-compliance with environmental laws and regulations 58 Rights of Indigenous Peoples Incidents of violations involving rights of indigenous",
+        "context_after": "159 peoples Local Communities Operations with local community engagement, impact 413-1 19 assessments, and development programs Operations with significant actual",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-1": {
+        "page": "178.txt",
+        "context_before": "approach and its components 154 103-3 Evaluation of the management approach 154 Operations that have been subject to human rights",
+        "context_after": "155 reviews or impact assessments 412-2 Employee training on human rights policies or procedures 157 Significant investment agreements and contracts",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "178.txt",
+        "context_before": "Evaluation of the management approach 154 Operations that have been subject to human rights 412-1 155 reviews or impact assessments",
+        "context_after": "Employee training on human rights policies or procedures 157 Significant investment agreements and contracts that 412-3 include human rights clauses",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "178.txt",
+        "context_before": "reviews or impact assessments 412-2 Employee training on human rights policies or procedures 157 Significant investment agreements and contracts that",
+        "context_after": "include human rights clauses or that underwent human 147 rights screening 179",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "180.txt",
+        "context_before": "Indigenous Peoples Incidents of violations involving rights of indigenous 411-1 159 peoples Local Communities Operations with local community engagement, impact",
+        "context_after": "19 assessments, and development programs Operations with significant actual and potential negative 413-2 19 impacts on local communities 181",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "19.txt",
+        "context_before": "TIM Sustainability Report 2019 THE GROUP [GRI",
+        "context_after": "] The potential negative impacts arising exclusively from excavations for installing cable ducts or positioning radio base stations are mitigated",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "414-1": {
+        "page": "179.txt",
+        "context_before": "Boundaries 147 103-2 The management approach and its components 147, 148, 150 103-3 Evaluation of the management approach 150, 152",
+        "context_after": "New suppliers that were screened using social criteria 148 Negative social impacts in the supply chain and actions 414-2 148,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "179.txt",
+        "context_before": "152 414-1 New suppliers that were screened using social criteria 148 Negative social impacts in the supply chain and actions",
+        "context_after": "148, 150 taken Public Policy 103-1 Explanation of the material topic and its Boundaries 33 103-2 The management approach and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": {
+        "page": "32.txt",
+        "context_before": "with universally accepted ethical principles, based on transparency, fairness and loyalty. [GRI 103-2: Management Approach] [GRI 415] [GRI 206] [GRI",
+        "context_after": "] In particular, the Code of Ethics explicitly bans any direct or indirect disbursements, contributions, advantages or benefits of any",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "179.txt",
+        "context_before": "its components 132, 133 103-3 Evaluation of the management approach 132 Assessment of the health and safety impacts of product",
+        "context_after": "132 and service categories Incidents of non-compliance concerning the health and 416-2 133 safety impacts of products and services Marketing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "179.txt",
+        "context_before": "of the health and safety impacts of product 416-1 132 and service categories Incidents of non-compliance concerning the health and",
+        "context_after": "133 safety impacts of products and services Marketing and Labeling 103-1 Explanation of the material topic and its Boundaries 132",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "179.txt",
+        "context_before": "approach and its components 132, 133 103-3 Evaluation of the management approach 132 Requirements for product and service information and",
+        "context_after": "133 labeling Incidents of non-compliance concerning product and 417-2 133 service information and labeling Incidents of non-compliance concerning marketing 417-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "179.txt",
+        "context_before": "the management approach 132 Requirements for product and service information and 417-1 133 labeling Incidents of non-compliance concerning product and",
+        "context_after": "133 service information and labeling Incidents of non-compliance concerning marketing 417-3 135 communications Customer Privacy 103-1 Explanation of the material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "179.txt",
+        "context_before": "417-1 133 labeling Incidents of non-compliance concerning product and 417-2 133 service information and labeling Incidents of non-compliance concerning marketing",
+        "context_after": "135 communications Customer Privacy 103-1 Explanation of the material topic and its Boundary 136, 137 103-2 The management approach and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "179.txt",
+        "context_before": "management approach and its components 136, 137 103-3 Evaluation of the management approach 136, 139 Substantiated complaints concerning breaches of",
+        "context_after": "136, 139 customer privacy and losses of customer data Socioeconomic Compliance 103-1 Explanation of the material topic and its Boundaries",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "33.txt",
+        "context_before": "further information please refer to the \"Contingent liabilities, other information, commitments and guarantees\" Note of the Consolidated Financial Statements. [GRI",
+        "context_after": "] The same Note contains a description of all the Group's other disputes. Stakeholder engagement TIM believes it is fundamentally",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

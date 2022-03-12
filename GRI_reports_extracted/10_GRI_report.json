@@ -1,0 +1,535 @@
+{
+    "GRI 200": {
+        "page": "86.txt",
+        "context_before": "DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019 GRI Standards Informativa Note e pagine Omissione TOPIC SPECIFIC STANDARDS",
+        "context_after": ": ECONOMIC SERIES Impatti economici indiretti GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del 30,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "86.txt",
+        "context_before": "GRI 103-2 Modalit di gestione e le sue caratteristiche 41, 42, 53-56 GRI 103-3 Valutazione dell'approccio manageriale 41, 42, 53-56",
+        "context_after": "- Impatti economici indiretti (2016) GRI 203-1 Investimenti infrastrutturali e servizi 41,42, 53-56 supportati Pratiche di approvvigionamento GRI 103: Modalit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": {
+        "page": "86.txt",
+        "context_before": "103-1 Spiegazione dellaspetto materiale e del 30, 31 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 80-83",
+        "context_after": "- Pratiche di approvvigionamento (2016) GRI 204-1 Proporzione di spesa verso i fornitori locali 84 Anticorruzione GRI 103: Modalit di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "86.txt",
+        "context_before": "34, 35 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 34-37 GRI 103-3 Valutazione dell'approccio manageriale 36",
+        "context_after": " Anticorruzione (2016) GRI 205-3 Episodi di corruzione accertati e azioni 36 intraprese Comportamento anticoncorrenziale GRI 103: Modalit di gestione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "86.txt",
+        "context_before": "36 intraprese Comportamento anticoncorrenziale GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del 30-31 relativo perimetro",
+        "context_after": " Comportamento anticoncorrenziale (2016) Azioni legali per comportamento GRI 206-1 anticoncorrenziale, antitrust e pratiche 36 monopolistiche GRI 300: ENVIRONMENTAL SERIES",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "86.txt",
+        "context_before": "sue caratteristiche 41, 42, 53-56 GRI 103-3 Valutazione dell'approccio manageriale 41, 42, 53-56 GRI 203 - Impatti economici indiretti (2016)",
+        "context_after": "Investimenti infrastrutturali e servizi 41,42, 53-56 supportati Pratiche di approvvigionamento GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": {
+        "page": "86.txt",
+        "context_before": "31 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 80-83 GRI 204 - Pratiche di approvvigionamento (2016)",
+        "context_after": "Proporzione di spesa verso i fornitori locali 84 Anticorruzione GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": {
+        "page": "86.txt",
+        "context_before": "103-2 Modalit di gestione e le sue caratteristiche 34-37 GRI 103-3 Valutazione dell'approccio manageriale 36 GRI 205  Anticorruzione (2016)",
+        "context_after": "Episodi di corruzione accertati e azioni 36 intraprese Comportamento anticoncorrenziale GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206-1": {
+        "page": "86.txt",
+        "context_before": "GRI 103-1 Spiegazione dellaspetto materiale e del 30-31 relativo perimetro GRI 206  Comportamento anticoncorrenziale (2016) Azioni legali per comportamento",
+        "context_after": "anticoncorrenziale, antitrust e pratiche 36 monopolistiche GRI 300: ENVIRONMENTAL SERIES Energia GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "86.txt",
+        "context_before": "caratteristiche 41, 42, 53-56 GRI 103-3 Valutazione dell'approccio manageriale 41, 42, 53-56 GRI 203 - Impatti economici indiretti (2016) GRI",
+        "context_after": "Investimenti infrastrutturali e servizi 41,42, 53-56 supportati Pratiche di approvvigionamento GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": false,
+    "204-1": {
+        "page": "86.txt",
+        "context_before": "relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 80-83 GRI 204 - Pratiche di approvvigionamento (2016) GRI",
+        "context_after": "Proporzione di spesa verso i fornitori locali 84 Anticorruzione GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "86.txt",
+        "context_before": "Modalit di gestione e le sue caratteristiche 34-37 GRI 103-3 Valutazione dell'approccio manageriale 36 GRI 205  Anticorruzione (2016) GRI",
+        "context_after": "Episodi di corruzione accertati e azioni 36 intraprese Comportamento anticoncorrenziale GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": {
+        "page": "86.txt",
+        "context_before": "103-1 Spiegazione dellaspetto materiale e del 30-31 relativo perimetro GRI 206  Comportamento anticoncorrenziale (2016) Azioni legali per comportamento GRI",
+        "context_after": "anticoncorrenziale, antitrust e pratiche 36 monopolistiche GRI 300: ENVIRONMENTAL SERIES Energia GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "86.txt",
+        "context_before": "relativo perimetro GRI 206  Comportamento anticoncorrenziale (2016) Azioni legali per comportamento GRI 206-1 anticoncorrenziale, antitrust e pratiche 36 monopolistiche",
+        "context_after": ": ENVIRONMENTAL SERIES Energia GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del 30, 31, 57,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": {
+        "page": "86.txt",
+        "context_before": "57, 58 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 57,58 GRI 103-3 Valutazione dell'approccio manageriale 58,59",
+        "context_after": " Energia (2016) GRI 302-1 Energia consumata allinterno 58 dellorganizzazione 86",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "87.txt",
+        "context_before": "103-1 Spiegazione dellaspetto materiale e del 30, 31 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 57,58",
+        "context_after": "Emissioni (2016) GRI 305-1 Emissioni dirette di GHG (Scope 1) 59 GRI 305-2 Emissioni indirette di GHG da consumi 59",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "87.txt",
+        "context_before": "31, 60 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 59-61 GRI 103-3 Valutazione dell'approccio manageriale 60-61",
+        "context_after": " Scarichi idrici e rifiuti (2016) GRI 306-2 Rifiuti per tipo e metodo di smaltimento 61 GRI 400: SOCIAL SERIES",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "86.txt",
+        "context_before": "103-2 Modalit di gestione e le sue caratteristiche 57,58 GRI 103-3 Valutazione dell'approccio manageriale 58,59 GRI 302  Energia (2016)",
+        "context_after": "Energia consumata allinterno 58 dellorganizzazione 86",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "87.txt",
+        "context_before": "e del 30, 31 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 57,58 GRI 305 Emissioni (2016)",
+        "context_after": "Emissioni dirette di GHG (Scope 1) 59 GRI 305-2 Emissioni indirette di GHG da consumi 59 energetici (Scope 2) Scarichi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "87.txt",
+        "context_before": "di gestione e le sue caratteristiche 57,58 GRI 305 Emissioni (2016) GRI 305-1 Emissioni dirette di GHG (Scope 1) 59",
+        "context_after": "Emissioni indirette di GHG da consumi 59 energetici (Scope 2) Scarichi idrici e rifiuti GRI 103: Modalit di gestione (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "87.txt",
+        "context_before": "gestione e le sue caratteristiche 59-61 GRI 103-3 Valutazione dell'approccio manageriale 60-61 GRI 306  Scarichi idrici e rifiuti (2016)",
+        "context_after": "Rifiuti per tipo e metodo di smaltimento 61 GRI 400: SOCIAL SERIES Occupazione GRI 103: Modalit di gestione (2016) GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "86.txt",
+        "context_before": "Modalit di gestione e le sue caratteristiche 57,58 GRI 103-3 Valutazione dell'approccio manageriale 58,59 GRI 302  Energia (2016) GRI",
+        "context_after": "Energia consumata allinterno 58 dellorganizzazione 86",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "87.txt",
+        "context_before": "del 30, 31 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 57,58 GRI 305 Emissioni (2016) GRI",
+        "context_after": "Emissioni dirette di GHG (Scope 1) 59 GRI 305-2 Emissioni indirette di GHG da consumi 59 energetici (Scope 2) Scarichi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "87.txt",
+        "context_before": "gestione e le sue caratteristiche 57,58 GRI 305 Emissioni (2016) GRI 305-1 Emissioni dirette di GHG (Scope 1) 59 GRI",
+        "context_after": "Emissioni indirette di GHG da consumi 59 energetici (Scope 2) Scarichi idrici e rifiuti GRI 103: Modalit di gestione (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "87.txt",
+        "context_before": "e le sue caratteristiche 59-61 GRI 103-3 Valutazione dell'approccio manageriale 60-61 GRI 306  Scarichi idrici e rifiuti (2016) GRI",
+        "context_after": "Rifiuti per tipo e metodo di smaltimento 61 GRI 400: SOCIAL SERIES Occupazione GRI 103: Modalit di gestione (2016) GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": {
+        "page": "87.txt",
+        "context_before": "manageriale 60-61 GRI 306  Scarichi idrici e rifiuti (2016) GRI 306-2 Rifiuti per tipo e metodo di smaltimento 61",
+        "context_after": ": SOCIAL SERIES Occupazione GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del 30, 31 relativo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "87.txt",
+        "context_before": "dellaspetto materiale e del 30, 31 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 63, 66, 67",
+        "context_after": " Occupazione (2016) GRI 401-1 Nuove assunzioni e turnover 65,66 GRI 401-2 Benefit previsti per i dipendenti 66, 67 Salute",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "87.txt",
+        "context_before": "103-2 Modalit di gestione e le sue caratteristiche 75, 76, 78, 79 GRI 103-3 Valutazione dell'approccio manageriale 76, 77, 79",
+        "context_after": "- Salute e sicurezza (2018) GRI 403-9 Infortuni sul lavoro 76, 77 GRI 403-10 Malattie professionali 79 Formazione e istruzione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "87.txt",
+        "context_before": "31, 68 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 68-70 GRI 103-3 Valutazione dell'approccio manageriale 68-70",
+        "context_after": "- Formazione ed istruzione (2016) GRI 404-1 Ore medie di formazione annua per 70 dipendente 87",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "88.txt",
+        "context_before": "e pagine Omissione GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del 30, 31 relativo perimetro",
+        "context_after": " Diversit e pari opportunit (2016) GRI 405-1 Diversit negli organi di governo e tra i 71 dipendenti Non discriminazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "88.txt",
+        "context_before": "relativo perimetro GRI 103-2 Modalit di gestione e sue caratteristiche 14, 33, 70, 72 GRI 103-3 Valutazione dell'approccio manageriale 73",
+        "context_after": " Non discriminazione (2016) GRI 406-1 Casi di non discriminazione 73 Marketing ed etichettatura GRI 103: Modalit di gestione (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "88.txt",
+        "context_before": "relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 50 -52 GRI 103-3 Valutazione dell'approccio manageriale 51, 52",
+        "context_after": " Marketing ed etichettatura (2016) Episodi di non conformit in materia di GRI 417-2 informazione ed etichettatura di prodotti e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "88.txt",
+        "context_before": "30, 31 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 38 GRI 103-3 Valutazione dell'approccio manageriale 38",
+        "context_after": "- Privacy dei clienti (2016) Denunce comprovate riguardanti le GRI 418-1 violazioni della privacy dei clienti e perdita 38 di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "87.txt",
+        "context_before": "31 relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 63, 66, 67 GRI 401  Occupazione (2016)",
+        "context_after": "Nuove assunzioni e turnover 65,66 GRI 401-2 Benefit previsti per i dipendenti 66, 67 Salute e sicurezza sul lavoro GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": {
+        "page": "87.txt",
+        "context_before": "gestione e le sue caratteristiche 63, 66, 67 GRI 401  Occupazione (2016) GRI 401-1 Nuove assunzioni e turnover 65,66",
+        "context_after": "Benefit previsti per i dipendenti 66, 67 Salute e sicurezza sul lavoro GRI 103: Modalit di gestione (2016) GRI 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": {
+        "page": "87.txt",
+        "context_before": "Valutazione dell'approccio manageriale 76, 77, 79 GRI 403 - Salute e sicurezza (2018) GRI 403-9 Infortuni sul lavoro 76, 77",
+        "context_after": "0 Malattie professionali 79 Formazione e istruzione GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": {
+        "page": "87.txt",
+        "context_before": "caratteristiche 75, 76, 78, 79 GRI 103-3 Valutazione dell'approccio manageriale 76, 77, 79 GRI 403 - Salute e sicurezza (2018)",
+        "context_after": "Infortuni sul lavoro 76, 77 GRI 403-10 Malattie professionali 79 Formazione e istruzione GRI 103: Modalit di gestione (2016) GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-10": {
+        "page": "87.txt",
+        "context_before": "Valutazione dell'approccio manageriale 76, 77, 79 GRI 403 - Salute e sicurezza (2018) GRI 403-9 Infortuni sul lavoro 76, 77",
+        "context_after": "Malattie professionali 79 Formazione e istruzione GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del 30,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-1": {
+        "page": "87.txt",
+        "context_before": "di gestione e le sue caratteristiche 68-70 GRI 103-3 Valutazione dell'approccio manageriale 68-70 GRI 404 - Formazione ed istruzione (2016)",
+        "context_after": "Ore medie di formazione annua per 70 dipendente 87",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "88.txt",
+        "context_before": "(2016) GRI 103-1 Spiegazione dellaspetto materiale e del 30, 31 relativo perimetro GRI 405  Diversit e pari opportunit (2016)",
+        "context_after": "Diversit negli organi di governo e tra i 71 dipendenti Non discriminazione GRI 103: Modalit di gestione (2016) GRI 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": false,
+    "GRI 406-1": {
+        "page": "88.txt",
+        "context_before": "gestione e sue caratteristiche 14, 33, 70, 72 GRI 103-3 Valutazione dell'approccio manageriale 73 GRI 406  Non discriminazione (2016)",
+        "context_after": "Casi di non discriminazione 73 Marketing ed etichettatura GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": {
+        "page": "88.txt",
+        "context_before": "103-3 Valutazione dell'approccio manageriale 51, 52 GRI 417  Marketing ed etichettatura (2016) Episodi di non conformit in materia di",
+        "context_after": "informazione ed etichettatura di prodotti e 50 servizi Privacy dei clienti GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-3": false,
+    "GRI 418-1": {
+        "page": "88.txt",
+        "context_before": "sue caratteristiche 38 GRI 103-3 Valutazione dell'approccio manageriale 38 GRI 418 - Privacy dei clienti (2016) Denunce comprovate riguardanti le",
+        "context_after": "violazioni della privacy dei clienti e perdita 38 di dati dei clienti Innovazione tecnologica GRI 103: Modalit di gestione (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "87.txt",
+        "context_before": "relativo perimetro GRI 103-2 Modalit di gestione e le sue caratteristiche 63, 66, 67 GRI 401  Occupazione (2016) GRI",
+        "context_after": "Nuove assunzioni e turnover 65,66 GRI 401-2 Benefit previsti per i dipendenti 66, 67 Salute e sicurezza sul lavoro GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "87.txt",
+        "context_before": "e le sue caratteristiche 63, 66, 67 GRI 401  Occupazione (2016) GRI 401-1 Nuove assunzioni e turnover 65,66 GRI",
+        "context_after": "Benefit previsti per i dipendenti 66, 67 Salute e sicurezza sul lavoro GRI 103: Modalit di gestione (2016) GRI 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": false,
+    "402-1": false,
+    "403-1": {
+        "page": "87.txt",
+        "context_before": "dell'approccio manageriale 76, 77, 79 GRI 403 - Salute e sicurezza (2018) GRI 403-9 Infortuni sul lavoro 76, 77 GRI",
+        "context_after": "0 Malattie professionali 79 Formazione e istruzione GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": false,
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": {
+        "page": "87.txt",
+        "context_before": "75, 76, 78, 79 GRI 103-3 Valutazione dell'approccio manageriale 76, 77, 79 GRI 403 - Salute e sicurezza (2018) GRI",
+        "context_after": "Infortuni sul lavoro 76, 77 GRI 403-10 Malattie professionali 79 Formazione e istruzione GRI 103: Modalit di gestione (2016) GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-10": {
+        "page": "87.txt",
+        "context_before": "dell'approccio manageriale 76, 77, 79 GRI 403 - Salute e sicurezza (2018) GRI 403-9 Infortuni sul lavoro 76, 77 GRI",
+        "context_after": "Malattie professionali 79 Formazione e istruzione GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e del 30,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-1": {
+        "page": "87.txt",
+        "context_before": "gestione e le sue caratteristiche 68-70 GRI 103-3 Valutazione dell'approccio manageriale 68-70 GRI 404 - Formazione ed istruzione (2016) GRI",
+        "context_after": "Ore medie di formazione annua per 70 dipendente 87",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "88.txt",
+        "context_before": "GRI 103-1 Spiegazione dellaspetto materiale e del 30, 31 relativo perimetro GRI 405  Diversit e pari opportunit (2016) GRI",
+        "context_after": "Diversit negli organi di governo e tra i 71 dipendenti Non discriminazione GRI 103: Modalit di gestione (2016) GRI 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": {
+        "page": "88.txt",
+        "context_before": "e sue caratteristiche 14, 33, 70, 72 GRI 103-3 Valutazione dell'approccio manageriale 73 GRI 406  Non discriminazione (2016) GRI",
+        "context_after": "Casi di non discriminazione 73 Marketing ed etichettatura GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione dellaspetto materiale e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": false,
+    "417-2": {
+        "page": "88.txt",
+        "context_before": "Valutazione dell'approccio manageriale 51, 52 GRI 417  Marketing ed etichettatura (2016) Episodi di non conformit in materia di GRI",
+        "context_after": "informazione ed etichettatura di prodotti e 50 servizi Privacy dei clienti GRI 103: Modalit di gestione (2016) GRI 103-1 Spiegazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": false,
+    "418-1": {
+        "page": "88.txt",
+        "context_before": "caratteristiche 38 GRI 103-3 Valutazione dell'approccio manageriale 38 GRI 418 - Privacy dei clienti (2016) Denunce comprovate riguardanti le GRI",
+        "context_after": "violazioni della privacy dei clienti e perdita 38 di dati dei clienti Innovazione tecnologica GRI 103: Modalit di gestione (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": false
+}

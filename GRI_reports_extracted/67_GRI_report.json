@@ -1,0 +1,571 @@
+{
+    "GRI 200": {
+        "page": "67.txt",
+        "context_before": "metodologica - Pag. 6 302-1 societ . dellorganizzazione Il Gruppo si impegna nel corso Material topic-specific standard disclosures 2016 (",
+        "context_after": ", 300, 400) dei prossimi esercizi, ad integrare 9 la rendicontazione su questa 9 1 1 0 disclosure, anche attraverso",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": {
+        "page": "67.txt",
+        "context_before": "2 2  GRI 200: INDICATORI DI PERFORMANCE ECONOMICA lutilizzo di stime.  t t bili bili ni ni ste",
+        "context_after": ": 302-4 Riduzione del consumo di energia Certificati bianchi - Pag. 94 ste o 103-1 - 103-2 o S Performance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "67.txt",
+        "context_before": "del 2016 103-3 Bilan generato e distribuito Valore Aggiunto - Pag. 44 Gestione delle emissioni in atmosfera - Pag. 98",
+        "context_after": ": Pratiche di 103-1 - 103-2 approvvigionamento Creazione di valore economico Risultati di gestione- Pag. 42 103-3 Omission - Per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "67.txt",
+        "context_before": "concentrate sui fornitori Fornitori - Pag. 47 locali Il Gruppo si impegna, nel corso dei prossimi esercizi, ad integrare ex",
+        "context_after": ": Anti- 103-1 - 103-2 Politiche e approccio alla gestione Pag. 42 la rendicontazione su questa ex nd corruzione 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "67.txt",
+        "context_before": "GRI standard Disclosure Descrizione Pagina e note GRI standard Disclosure Descrizione Pagina e note Spiegazione degli effetti di qualsiasi",
+        "context_after": ": modifica di informazioni inserite nei Comportamento 103-1 - 103-2 102-48 Risultati - Pag. 41 Politiche e approccio alla gestione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": {
+        "page": "22.txt",
+        "context_before": "Patrimonio netto 289.828.221 307.037.238 324.240.807 Oneri diversi di gestione* -35.062.618 -34.956.028 -32.493.255 COSTI INTERMEDI DELLA PRODUZIONE -252.026.393 -339.931.721 -415.890.780 [",
+        "context_after": "] Produzione e distribuzione VALORE AGGIUNTO CARATTERISTICO LORDO 69.008.036 65.867.212 72.278.919 9 9 1 1 20 (+/-) Saldo gestione accessoria",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "67.txt",
+        "context_before": "2016 103-3 GRI 305: Emissioni 103-1 - 103-2 o di ci Politiche e approccio alla gestione Pag. 84 ci Bilan",
+        "context_after": "Valore economico direttamente Produzione e distribuzione del 2016 103-3 Bilan generato e distribuito Valore Aggiunto - Pag. 44 Gestione delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "67.txt",
+        "context_before": "dirette ed indirette di gas Politiche, pratiche e percentuale 305-1 - 305-2 sono disponibili per tutte le societ . serra",
+        "context_after": "di spesa concentrate sui fornitori Fornitori - Pag. 47 locali Il Gruppo si impegna, nel corso dei prossimi esercizi, ad",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "67.txt",
+        "context_before": "Riduzione delle emissioni di GHG Elem aitstsivioitn i ddii CGOru2p epvoit SatGeR a t-t Praavge. r1s0o1 onte c c Gri",
+        "context_after": "ianlltae rcnoer rmuozinoitnoerate per rischi legati Plinerfo qrumeasttiov aa n ndois dpio rneinbdileic soonltoa pzieorn e Gestione dlle emissioni in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-2": false,
+    "205-3": {
+        "page": "67.txt",
+        "context_before": "lItalia. NO, SOx e altre emissioni atmosfera- Pag. 98 8 305-7 8 significative nellaria Episodi di corruzione segnalati Parzialmente rendicontato",
+        "context_after": "e confermati e relative azioni Nessuno intraprese GRI 306: Effluenti e 103-1 - 103-2 Politiche e approccio alla gestione Pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "67.txt",
+        "context_before": "intraprese p rendicontazione nei temi materiali e per comportamenti anti- Perimetro limitato alle societ u Nota Metodologica - Pag. 6",
+        "context_after": "Gr nel perimetro del Report competitivi, antitrust, e pratiche italiane Gruppo Societ Gas Rimini, monopolistiche SGR Servizi, ADRIGAS, Intervento Periodo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "67.txt",
+        "context_before": "di rendicontazione delle Pronto 24H, Utila e Utila Service. Profilo del report 102-50 Nota metodologica - Pag. 6 informazioni fornite",
+        "context_after": ": INDICATORI DI PERFOMANCE AMBIENTALE Data di pubblicazione del report 102-51 Nota metodologica - Pag. 6 pi recente GRI 301:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": {
+        "page": "67.txt",
+        "context_before": "fornite GRI 300: INDICATORI DI PERFOMANCE AMBIENTALE Data di pubblicazione del report 102-51 Nota metodologica - Pag. 6 pi recente",
+        "context_after": ": Materiali 103-1 - 103-2 Politiche e approccio alla gestione Pag. 30 Periodicit di rendicontazione 2016 103-3 102-52 Nota metodologica",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "67.txt",
+        "context_before": "richiedere volume - Pag. 84 102-53 informazioni sul Report di Nota metodologica - Pag. 6 sostenibilit e sui suoi contenuti",
+        "context_after": ": Energia 103-1 - 103-2 Politiche e approccio alla gestione Pag. 84 Indicazione dellopzione In 2016 103-3 102-54 accordance con",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "67.txt",
+        "context_before": "o 103-1 - 103-2 o S Performance Politiche e approccio alla gestione Pag. 42 S o di economica 2016 103-3",
+        "context_after": ": Emissioni 103-1 - 103-2 o di ci Politiche e approccio alla gestione Pag. 84 ci Bilan 201-1 Valore economico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "67.txt",
+        "context_before": "98 8 305-7 8 significative nellaria Episodi di corruzione segnalati Parzialmente rendicontato 205-3 e confermati e relative azioni Nessuno intraprese",
+        "context_after": ": Effluenti e 103-1 - 103-2 Politiche e approccio alla gestione Pag. 84 Rifiuti 2016 103-3 134 135",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "68.txt",
+        "context_before": "informazioni relative Sicurezza e continuit del Servizio 417-1 a prodotti e servizi richiesti dalle Distribuzione Gas - Pag. 78 procedure",
+        "context_after": ": Conformit 103-1 - 103-2 Politiche e approccio alla gestione Pag. 84 ambientale 2016 103-3 Non conformit riguardanti le Sicurezza",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "49.txt",
+        "context_before": "[",
+        "context_after": "] Consumi di materie prime I materiali dellattivit di distribuzione Lodorizzazione  loperazione indu- intende lintroduzione nel gas distri- quisto",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "47.txt",
+        "context_before": "nominale installata (kW) 1.909 1.909 1.909 o p p u r G Energia termica prodotta (kWh) 7.213.889 6.765.000 7.345.350 [",
+        "context_after": "] Energia elettrica prodotta (kWh) 5.829.167 5.654.722 6.455.893 Consumi energetici I consumi di energia primaria soddi- energia primaria non rinnovabile",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": {
+        "page": "47.txt",
+        "context_before": "cabine di primo e mentazione delle centrali termiche. termiche, caldaie), nonch i flussi di secondo salto dellattivit di distri- [",
+        "context_after": "] Certificati Bianchi Consumi energetici diretti e indiretti 2017 2018 2019 I Certificati Bianchi, anche noti come stributrici di energia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "49.txt",
+        "context_before": "Utilia Service. e e t t n n e Scope 2 - Emissioni indirette di CO per e bi [",
+        "context_after": ", 305-2, 305-3, 305-7] 2 2017 2018 2019 bi m riscaldamento e illuminazione sedi aziendali m A A Gestione delle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": {
+        "page": "50.txt",
+        "context_before": "[",
+        "context_after": "] Scope 3 - Emissioni di CO prodotte dai 2 consumi dei clienti gas ed energia elettrica 2017 2018 2019",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": {
+        "page": "51.txt",
+        "context_before": "Gruppo SGR genera, attraverso le sue attivit , diverse ti- [",
+        "context_after": "] pologie di rifiuti: solidi assimilabili urbani (prodotti dallattivi- Rifiuti prodotti t di ufficio e congressuale) o speciali (toner, filtri",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "43.txt",
+        "context_before": "[",
+        "context_after": "] Gestione ambientale Economia circolare e biometano di Gruppo SGR R G Leconomia circolare  un approccio basato sulla conoscenza,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "67.txt",
+        "context_before": "Nota metodologica - Pag. 6 (annuale, biennale, ) Materie prime utilizzate per peso o Consumi di energia e materie prime",
+        "context_after": "Contatti per richiedere volume - Pag. 84 102-53 informazioni sul Report di Nota metodologica - Pag. 6 sostenibilit e sui",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "67.txt",
+        "context_before": "non  disponibile per tutte le Consumo di energia allinterno 102-56 Documento di Assurance esterna Nota metodologica - Pag. 6",
+        "context_after": "societ . dellorganizzazione Il Gruppo si impegna nel corso Material topic-specific standard disclosures 2016 (GRI 200, 300, 400) dei prossimi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": {
+        "page": "67.txt",
+        "context_before": " GRI 200: INDICATORI DI PERFORMANCE ECONOMICA lutilizzo di stime.  t t bili bili ni ni ste GRI 201:",
+        "context_after": "Riduzione del consumo di energia Certificati bianchi - Pag. 94 ste o 103-1 - 103-2 o S Performance Politiche e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": false,
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "67.txt",
+        "context_before": "- Per questo anno di 2016 rendicontazione le informazioni non Emissioni dirette ed indirette di gas Politiche, pratiche e percentuale",
+        "context_after": "- 305-2 sono disponibili per tutte le societ . serra 204-1 di spesa concentrate sui fornitori Fornitori - Pag. 47",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "67.txt",
+        "context_before": "questo anno di 2016 rendicontazione le informazioni non Emissioni dirette ed indirette di gas Politiche, pratiche e percentuale 305-1 -",
+        "context_after": "sono disponibili per tutte le societ . serra 204-1 di spesa concentrate sui fornitori Fornitori - Pag. 47 locali Il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "49.txt",
+        "context_before": "e e t t n n e Scope 2 - Emissioni indirette di CO per e bi [GRI 305-1, 305-2,",
+        "context_after": ", 305-7] 2 2017 2018 2019 bi m riscaldamento e illuminazione sedi aziendali m A A Gestione delle emissioni in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": false,
+    "305-5": {
+        "page": "67.txt",
+        "context_before": "su questa ex nd corruzione 2016 103-3 disclosure. nd nt i nt i onte Percentuale e numero di divisioni 100%",
+        "context_after": "Riduzione delle emissioni di GHG Elem aitstsivioitn i ddii CGOru2p epvoit SatGeR a t-t Praavge. r1s0o1 onte c c Gri",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-6": false,
+    "305-7": {
+        "page": "67.txt",
+        "context_before": "dpio rneinbdileic soonltoa pzieorn e Gestione dlle emissioni in Gri lItalia. NO, SOx e altre emissioni atmosfera- Pag. 98 8",
+        "context_after": "8 significative nellaria Episodi di corruzione segnalati Parzialmente rendicontato 205-3 e confermati e relative azioni Nessuno intraprese GRI 306: Effluenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "68.txt",
+        "context_before": "per il settore Electric Il Gruppo si impegna nel corso Valutazione degli impatti sulla Sicurezza e continuit del Servizio R",
+        "context_after": "Utilities, richiede di rendicontare G dei prossimi esercizi, ad integrare 416-1 salute e sicurezza derivanti dai Distribuzione Gas - Pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": {
+        "page": "68.txt",
+        "context_before": "di stime. Etichettatura di 103-1 - 103-2 Politiche e approccio alla gestione Pag. 66 103-3 prodotti e servizi Rifiuti prodotti",
+        "context_after": "Rifiuti pericolosi trasportati dallAzienda - Pag. 102 Tipologie di informazioni relative Sicurezza e continuit del Servizio 417-1 a prodotti e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-5": false,
+    "307-1": {
+        "page": "68.txt",
+        "context_before": "informazioni e le etichettature dei Distribuzione Gas - Pag. 78 Valore monetario delle multe prodotti/servizi significative e numero delle sanzioni",
+        "context_after": "non monetarie per il mancato Nessuna sanzione Incidenti di non conformit a rispetto di regolamenti e leggi in 417-3 regolamenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": {
+        "page": "68.txt",
+        "context_before": "regolamenti o codici volontari Nessun caso registrato materia ambientale riguardanti lattivit di marketing GRI 418: Privacy dei 103-1 - 103-2",
+        "context_after": ": INDICATORI DI PERFORMANCE SOCIALE Politiche e approccio alla gestione Pag. 66 consumatori 2016 103-3 Numero di reclami documentati GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "68.txt",
+        "context_before": "GRI 400: INDICATORI DI PERFORMANCE SOCIALE Politiche e approccio alla gestione Pag. 66 consumatori 2016 103-3 Numero di reclami documentati",
+        "context_after": ": 103-1 - 103-2 Politiche e approccio alla gestione Pag. 50 418-1 relativi a violazioni della privacy e a Zero",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "31.txt",
+        "context_before": "[",
+        "context_after": "-2] Salute e sicurezza sul lavoro R G S o p p u r G Gruppo SGR investe in salute",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "68.txt",
+        "context_before": "o S incidenti legati al tipo di lavoro S di di o GRI standard Descrizione Pagina e note o ci",
+        "context_after": ": Formazione 103-1 - 103-2 ci n Politiche e approccio alla gestione Pag. 49 n Bila e istruzione 2016 103-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "68.txt",
+        "context_before": "ed ni dita. Gri content index altri indicatori di diversit qualifica/genere e qualifica/et 8 8 sono disponibili solo per 2019.",
+        "context_after": ": Collettivit 103-1 - 103-2 e comunit locali Politiche e approccio alla gestione Pag. 106 103-3 2016 Attivit con importanti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "68.txt",
+        "context_before": "GRI standard Disclosure Descrizione Pagina e note GRI standard Disclosure Descrizione Pagina e note Peso totale dei rifiuti per tipologia",
+        "context_after": ": Salute Rifiuti prodotti 103-1 - 103-2 e per modalit di smaltimento e sicurezza dei Politiche e approccio alla gestione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "68.txt",
+        "context_before": "ai policlorobifenili ppo e trifenili, individuati pi ldai srcelnodsiucroen, taanzciohnee a sttur aqvueersstoa prodotti/servizi u comunemente dalle sigle PCB e",
+        "context_after": ": Gr PCT. lutilizzo di stime. Etichettatura di 103-1 - 103-2 Politiche e approccio alla gestione Pag. 66 103-3 prodotti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "68.txt",
+        "context_before": "rispetto di regolamenti e leggi in 417-3 regolamenti o codici volontari Nessun caso registrato materia ambientale riguardanti lattivit di marketing",
+        "context_after": ": Privacy dei 103-1 - 103-2 GRI 400: INDICATORI DI PERFORMANCE SOCIALE Politiche e approccio alla gestione Pag. 66 consumatori",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "68.txt",
+        "context_before": "della privacy e a Zero Occupazione 2016 103-3 perdita dei dati dei consumatori Persone di Gruppo SGR - Pag. 52",
+        "context_after": ": Conformit 103-1 - 103-2 socio-economica Politiche e approccio alla gestione Pag. 66 Omission - Dati non disponibili per 103-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "31.txt",
+        "context_before": "[",
+        "context_after": "] Salute e sicurezza sul lavoro R G S o p p u r G Gruppo SGR investe in salute",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "30.txt",
+        "context_before": "[",
+        "context_after": "] Formazione erogata Formazione per qualifica e genere Uomini Donne Totale FOCUS 2019 Ore medie Ore medie Ore medie Ore",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": {
+        "page": "13.txt",
+        "context_before": "[",
+        "context_after": "] Sistemi di gestione R G S o Per contribuire a uno sviluppo sostenibile, Gruppo SGR ha sviluppato un effi-",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": {
+        "page": "39.txt",
+        "context_before": "rete ispezionata in alta e media pressione a 198,3% 200,2% 133,3% z (obbligo di servizio 100% in 3 anni) [",
+        "context_after": ", 417-1, 417-2] n e t Sicurezza e continuit del Po % rete ispezionata in bassa pressione 203% 299,3% 253%",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "68.txt",
+        "context_before": "Pag. 66 Omission - Dati non disponibili per 103-3 (compliance) 2016 Numero totale e tasso di turnover 2017 e 2018.",
+        "context_after": "del personale e dei nuovi dipendenti Multe e ammende pari a 128.787 I dati suddivisi per genere e per Inosservanza",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": false,
+    "403-1": false,
+    "403-2": {
+        "page": "68.txt",
+        "context_before": "2 2   bilit Tasso di infortuni sul lavoro, bilit ni malattia professionale, giorni Salute e Sicurezza ni ste",
+        "context_after": "di lavoro persi, assenteismo ed sul Lavoro - Pag. 62 EU: ELECTRIC UTILITIES SECTOR DISCLOSURES 2016 ste o o S",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "68.txt",
+        "context_before": "Pag. 60 Energia netta prodotta per tipologia di Produzione di energia elettrica da Ore medie di formazione annue per EU-2",
+        "context_after": "Omission - I dati della formazione impianto cogenerazione e rinnovabili - Pag. 93 dipendente media per genere e per qualifica",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "26.txt",
+        "context_before": "[GRI 102-7, 102-8, 401-1,",
+        "context_after": "] Composizione Dipendenti Persone di Gruppo SGR suddivisi per 2017 2018 2019 genere per genere Uomini 298 330 335 R",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": false,
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": {
+        "page": "68.txt",
+        "context_before": "locali Politiche e approccio alla gestione Pag. 106 103-3 2016 Attivit con importanti impatti Sistemi di gestione - Pag. 26",
+        "context_after": "negativi - attuali o potenziali - sulle Sicurezza e continuit del Servizio comunit locali di Distribuzione Gas - Pag. 53",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "68.txt",
+        "context_before": "degli impatti sulla Sicurezza e continuit del Servizio R 306-2 Utilities, richiede di rendicontare G dei prossimi esercizi, ad integrare",
+        "context_after": "salute e sicurezza derivanti dai Distribuzione Gas - Pag. 78 S relativamente ai policlorobifenili ppo e trifenili, individuati pi ldai",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": false,
+    "417-1": {
+        "page": "68.txt",
+        "context_before": "servizi Rifiuti prodotti 306-4 Rifiuti pericolosi trasportati dallAzienda - Pag. 102 Tipologie di informazioni relative Sicurezza e continuit del Servizio",
+        "context_after": "a prodotti e servizi richiesti dalle Distribuzione Gas - Pag. 78 procedure GRI 307: Conformit 103-1 - 103-2 Politiche e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "68.txt",
+        "context_before": "103-2 Politiche e approccio alla gestione Pag. 84 ambientale 2016 103-3 Non conformit riguardanti le Sicurezza e continuit del Servizio",
+        "context_after": "informazioni e le etichettature dei Distribuzione Gas - Pag. 78 Valore monetario delle multe prodotti/servizi significative e numero delle sanzioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "68.txt",
+        "context_before": "sanzioni 307-1 non monetarie per il mancato Nessuna sanzione Incidenti di non conformit a rispetto di regolamenti e leggi in",
+        "context_after": "regolamenti o codici volontari Nessun caso registrato materia ambientale riguardanti lattivit di marketing GRI 418: Privacy dei 103-1 - 103-2",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "418-1": {
+        "page": "68.txt",
+        "context_before": "66 consumatori 2016 103-3 Numero di reclami documentati GRI 401: 103-1 - 103-2 Politiche e approccio alla gestione Pag. 50",
+        "context_after": "relativi a violazioni della privacy e a Zero Occupazione 2016 103-3 perdita dei dati dei consumatori Persone di Gruppo SGR",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "68.txt",
+        "context_before": "pari a 128.787 I dati suddivisi per genere e per Inosservanza di leggi o regolamenti Euro, per indennizzi su tempistiche",
+        "context_after": "9 qualifica sono disponibili solo per il in ambito sociale ed economico fissate da Autorit e Agenzie delle 9 1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

@@ -1,0 +1,529 @@
+{
+    "GRI 200": false,
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": {
+        "page": "49.txt",
+        "context_before": "definito in Nota 2016 per i quali sono Metodologica valutati gli impatti sulla salute e sicurezza dei clienti Sociali Relazioni",
+        "context_after": ": GRI 203-1 2016 Cap. Coinvolgi- - - con Impatti Investimenti in mento delle comunit economici infrastrutture e comunit locali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "53.txt",
+        "context_before": "rischi Disclosure segnalazioni di passiva pag. 46 consolidate come 2016 carattere etico definito in Nota Metodologica Lotta alla Lotta alla",
+        "context_after": ": GRI 205-3 2016 Cap. Lotta alla Il Gruppo Parmalat, - corruzione corruzione Corruzione Incidenti di corruzione attiva e tutte",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": {
+        "page": "49.txt",
+        "context_before": "Nota 2016 per i quali sono Metodologica valutati gli impatti sulla salute e sicurezza dei clienti Sociali Relazioni GRI 203:",
+        "context_after": "2016 Cap. Coinvolgi- - - con Impatti Investimenti in mento delle comunit economici infrastrutture e comunit locali pag. ed enti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": {
+        "page": "53.txt",
+        "context_before": "segnalazioni di passiva pag. 46 consolidate come 2016 carattere etico definito in Nota Metodologica Lotta alla Lotta alla GRI 205:",
+        "context_after": "2016 Cap. Lotta alla Il Gruppo Parmalat, - corruzione corruzione Corruzione Incidenti di corruzione attiva e tutte le societ 2016",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": {
+        "page": "49.txt",
+        "context_before": "2016 per i quali sono Metodologica valutati gli impatti sulla salute e sicurezza dei clienti Sociali Relazioni GRI 203: GRI",
+        "context_after": "2016 Cap. Coinvolgi- - - con Impatti Investimenti in mento delle comunit economici infrastrutture e comunit locali pag. ed enti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": false,
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": {
+        "page": "53.txt",
+        "context_before": "di passiva pag. 46 consolidate come 2016 carattere etico definito in Nota Metodologica Lotta alla Lotta alla GRI 205: GRI",
+        "context_after": "2016 Cap. Lotta alla Il Gruppo Parmalat, - corruzione corruzione Corruzione Incidenti di corruzione attiva e tutte le societ 2016",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "48.txt",
+        "context_before": "tipologia e dei rifiuti pag. 40 eccezione delle locazione societ con sede in Argentina, Venezuela, Zambia ed Uruguay. Ambientali Gestione",
+        "context_after": ": GRI 301-2 2016 Paragrafo Rifiuti e Il Gruppo Parmalat, Il Gruppo si  ispirato a delle Materiali Percentuale di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "47.txt",
+        "context_before": "2016 indirette consolidate come definito in Nota Metodologica ad eccezione delle societ con sede in Argentina ed Uruguay. Ambientali Efficienta-",
+        "context_after": ": GRI 302-1 2016 Paragrafo Utilizzo di Il Gruppo Parmalat, - mento Energia 2016 Consumi di energia pag. 36 e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "48.txt",
+        "context_before": "CAPITOLO /PARA- PERIMETRO DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Ambientali Gestione",
+        "context_after": ": GRI 303-1 2016 Paragrafo Risorse Il Gruppo Parmalat, - del Acqua 2016 Acqua totale idriche, acque tutte le societ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "47.txt",
+        "context_before": "societ Approach Management socio-ambientale consolidate come 2016 Approach pag. 13 definito in Nota Metodologica Cap. Ambiente pag. 35 Ambientali Gestione",
+        "context_after": ": GRI 305-1 2016 Paragrafo Emissioni Il Gruppo Parmalat, - delle Emissioni Emissioni dirette pag. 36 e pag. 39 tutte",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "48.txt",
+        "context_before": "Gestione Metodologica ad idrici nto delle risorse idriche eccezione delle pag.39 societ con sede in Argentina ed Uruguay. Ambientali Gestione",
+        "context_after": ": GRI 306-1 2016 Paragrafo Risorse Il Gruppo Parmalat, - del Scarichi e Scarichi totali di idriche, acque tutte le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": {
+        "page": "48.txt",
+        "context_before": "dei rifiuti pag. 40 eccezione delle locazione societ con sede in Argentina, Venezuela, Zambia ed Uruguay. Ambientali Gestione GRI 301:",
+        "context_after": "2016 Paragrafo Rifiuti e Il Gruppo Parmalat, Il Gruppo si  ispirato a delle Materiali Percentuale di imballi primari e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "47.txt",
+        "context_before": "consolidate come definito in Nota Metodologica ad eccezione delle societ con sede in Argentina ed Uruguay. Ambientali Efficienta- GRI 302:",
+        "context_after": "2016 Paragrafo Utilizzo di Il Gruppo Parmalat, - mento Energia 2016 Consumi di energia pag. 36 e tutte le societ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "48.txt",
+        "context_before": "PERIMETRO DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Ambientali Gestione GRI 303:",
+        "context_after": "2016 Paragrafo Risorse Il Gruppo Parmalat, - del Acqua 2016 Acqua totale idriche, acque tutte le societ consumo e prelevata",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "47.txt",
+        "context_before": "Management socio-ambientale consolidate come 2016 Approach pag. 13 definito in Nota Metodologica Cap. Ambiente pag. 35 Ambientali Gestione GRI 305:",
+        "context_after": "2016 Paragrafo Emissioni Il Gruppo Parmalat, - delle Emissioni Emissioni dirette pag. 36 e pag. 39 tutte le societ emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "47.txt",
+        "context_before": "consolidate come definito in Nota Metodologica ad eccezione delle societ con sede in Argentina ed Uruguay. Ambientali Gestione GRI 305:",
+        "context_after": "2016 Paragrafo Emissioni Il Gruppo Parmalat, - delle Emissioni Emissioni pag. 36 e pag. 39 tutte le societ emissioni 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": {
+        "page": "48.txt",
+        "context_before": "ad idrici nto delle risorse idriche eccezione delle pag.39 societ con sede in Argentina ed Uruguay. Ambientali Gestione GRI 306:",
+        "context_after": "2016 Paragrafo Risorse Il Gruppo Parmalat, - del Scarichi e Scarichi totali di idriche, acque tutte le societ consumo e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-2": {
+        "page": "48.txt",
+        "context_before": "ad idrici delle risorse idriche eccezione delle pag.39 societ con sede in Messico, Argentina ed Uruguay. Ambientali Gestione GRI 306:",
+        "context_after": "2016 Paragrafo Rifiuti e Il Gruppo Parmalat, I dati dei rifiuti non dei rifiuti Scarichi e Peso totale dei imballi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": {
+        "page": "48.txt",
+        "context_before": "il dato non  al eccezione delle momento disponibile. societ con sede in Argentina e Uruguay. Ambientali Gestione GRI 306:",
+        "context_after": "2016 Paragrafo Risorse Il Gruppo Parmalat, - del Scarichi e Numero totale, idriche, acque tutte le societ consumo e rifiuti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": {
+        "page": "48.txt",
+        "context_before": "rifiuti pag. 40 eccezione delle locazione societ con sede in Argentina, Venezuela, Zambia ed Uruguay. Ambientali Gestione GRI 301: GRI",
+        "context_after": "2016 Paragrafo Rifiuti e Il Gruppo Parmalat, Il Gruppo si  ispirato a delle Materiali Percentuale di imballi primari e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "47.txt",
+        "context_before": "come definito in Nota Metodologica ad eccezione delle societ con sede in Argentina ed Uruguay. Ambientali Efficienta- GRI 302: GRI",
+        "context_after": "2016 Paragrafo Utilizzo di Il Gruppo Parmalat, - mento Energia 2016 Consumi di energia pag. 36 e tutte le societ",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": false,
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "48.txt",
+        "context_before": "DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Ambientali Gestione GRI 303: GRI",
+        "context_after": "2016 Paragrafo Risorse Il Gruppo Parmalat, - del Acqua 2016 Acqua totale idriche, acque tutte le societ consumo e prelevata",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "47.txt",
+        "context_before": "socio-ambientale consolidate come 2016 Approach pag. 13 definito in Nota Metodologica Cap. Ambiente pag. 35 Ambientali Gestione GRI 305: GRI",
+        "context_after": "2016 Paragrafo Emissioni Il Gruppo Parmalat, - delle Emissioni Emissioni dirette pag. 36 e pag. 39 tutte le societ emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "47.txt",
+        "context_before": "come definito in Nota Metodologica ad eccezione delle societ con sede in Argentina ed Uruguay. Ambientali Gestione GRI 305: GRI",
+        "context_after": "2016 Paragrafo Emissioni Il Gruppo Parmalat, - delle Emissioni Emissioni pag. 36 e pag. 39 tutte le societ emissioni 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": {
+        "page": "48.txt",
+        "context_before": "idrici nto delle risorse idriche eccezione delle pag.39 societ con sede in Argentina ed Uruguay. Ambientali Gestione GRI 306: GRI",
+        "context_after": "2016 Paragrafo Risorse Il Gruppo Parmalat, - del Scarichi e Scarichi totali di idriche, acque tutte le societ consumo e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "48.txt",
+        "context_before": "idrici delle risorse idriche eccezione delle pag.39 societ con sede in Messico, Argentina ed Uruguay. Ambientali Gestione GRI 306: GRI",
+        "context_after": "2016 Paragrafo Rifiuti e Il Gruppo Parmalat, I dati dei rifiuti non dei rifiuti Scarichi e Peso totale dei imballi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "48.txt",
+        "context_before": "dato non  al eccezione delle momento disponibile. societ con sede in Argentina e Uruguay. Ambientali Gestione GRI 306: GRI",
+        "context_after": "2016 Paragrafo Risorse Il Gruppo Parmalat, - del Scarichi e Numero totale, idriche, acque tutte le societ consumo e rifiuti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "51.txt",
+        "context_before": "/PARA- PERIMETRO DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Attinenti al Gestione",
+        "context_after": ": GRI 401-1 2016 Cap. Gestione del Il Gruppo Parmalat, - personale del capitale Occupazione Nuovi assunti e personale e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "50.txt",
+        "context_before": "come 2016 Approach pag. 13 definito in Nota Metodologica Cap. salute e sicurezza sul lavoro pag. 25 Attinenti al Gestione",
+        "context_after": ": GRI 403-2 2016 Paragrafo Salute e Il Gruppo Parmalat, Il Gruppo non rendiconta il personale della salute Salute e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "52.txt",
+        "context_before": "/PARA- PERIMETRO DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Attinenti al Formazione",
+        "context_after": ": GRI 404-1 2016 Paragrafo Diversit Il Gruppo Parmalat, Il Gruppo reputa il tema personale e sviluppo Educazione e Ore",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "51.txt",
+        "context_before": "con sede in disomogenee all'interno del genere  Overview pag. 17 Argentina, USA ed Gruppo. Uruguay. Attinenti al Tutela della",
+        "context_after": ": GRI 405-1 2016 Paragrafo Diversit Il Gruppo Parmalat, - personale diversity Diversit e Composizione e pari opportunit tutte le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "51.txt",
+        "context_before": "quello eccezione delle zione degli uomini societ con sede in Argentina, Uruguay e Colombia (solo remuneration). Attinenti al Tutela della",
+        "context_after": ": Non GRI 406-1 2016 Paragrafo Diritti Il Gruppo Parmalat, - personale diversity discriminazio Episodi di umani pag. 24 tutte",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "53.txt",
+        "context_before": "CAPITOLO /PARA- PERIMETRO DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Rispetto Rispetto",
+        "context_after": ": GRI 412-1 2016 Cap. Gestione del - Nonostante il Gruppo non dei diritti dei diritti Valutazione Aree di personale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "49.txt",
+        "context_before": "come 2016 Approach pag. 13 definito in Nota Metodologica Cap. Salute e sicurezza dei consumatori pag. 29 Sociali Salute e",
+        "context_after": ": GRI 416-1 2016 Paragrafo Sicurezza Il Gruppo Parmalat, - sicurezza Salute e Percentuale di dei prodotti tutte le societ",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "51.txt",
+        "context_before": "DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Attinenti al Gestione GRI 401:",
+        "context_after": "2016 Cap. Gestione del Il Gruppo Parmalat, - personale del capitale Occupazione Nuovi assunti e personale e diritti tutte le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": false,
+    "GRI 401-3": {
+        "page": "51.txt",
+        "context_before": "Dipendenti Parmalat eccezione delle  Overview pag. 17 societ con sede in Argentina ed Uruguay. Attinenti al Gestione GRI 401:",
+        "context_after": "2016 Cap. Gestione del Il Gruppo Parmalat, Non rendicontato il numero personale del capitale Occupazione Dipendenti aventi personale e diritti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": {
+        "page": "50.txt",
+        "context_before": "Approach pag. 13 definito in Nota Metodologica Cap. salute e sicurezza sul lavoro pag. 25 Attinenti al Gestione GRI 403:",
+        "context_after": "2016 Paragrafo Salute e Il Gruppo Parmalat, Il Gruppo non rendiconta il personale della salute Salute e Tipologie di sicurezza",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "52.txt",
+        "context_before": "DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Attinenti al Formazione GRI 404:",
+        "context_after": "2016 Paragrafo Diversit Il Gruppo Parmalat, Il Gruppo reputa il tema personale e sviluppo Educazione e Ore di formazione e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": {
+        "page": "51.txt",
+        "context_before": "in disomogenee all'interno del genere  Overview pag. 17 Argentina, USA ed Gruppo. Uruguay. Attinenti al Tutela della GRI 405:",
+        "context_after": "2016 Paragrafo Diversit Il Gruppo Parmalat, - personale diversity Diversit e Composizione e pari opportunit tutte le societ dei pari",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": {
+        "page": "51.txt",
+        "context_before": "2016 suddivisione dei Metodologica per i discrimina- dipendenti componenti degli zione Organi di Controllo. Attinenti al Tutela della GRI 405:",
+        "context_after": "2016 Paragrafo Diversit Il Gruppo Parmalat, - personale diversity Diversit e Rapporto dello e pari opportunit tutte le societ dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406-1": {
+        "page": "51.txt",
+        "context_before": "zione degli uomini societ con sede in Argentina, Uruguay e Colombia (solo remuneration). Attinenti al Tutela della GRI 406: Non",
+        "context_after": "2016 Paragrafo Diritti Il Gruppo Parmalat, - personale diversity discriminazio Episodi di umani pag. 24 tutte le societ dei ne",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": {
+        "page": "53.txt",
+        "context_before": "PERIMETRO DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Rispetto Rispetto GRI 412:",
+        "context_after": "2016 Cap. Gestione del - Nonostante il Gruppo non dei diritti dei diritti Valutazione Aree di personale e diritti rendiconti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": {
+        "page": "49.txt",
+        "context_before": "Approach pag. 13 definito in Nota Metodologica Cap. Salute e sicurezza dei consumatori pag. 29 Sociali Salute e GRI 416:",
+        "context_after": "2016 Paragrafo Sicurezza Il Gruppo Parmalat, - sicurezza Salute e Percentuale di dei prodotti tutte le societ dei consu- sicurezza",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "51.txt",
+        "context_before": "TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Attinenti al Gestione GRI 401: GRI",
+        "context_after": "2016 Cap. Gestione del Il Gruppo Parmalat, - personale del capitale Occupazione Nuovi assunti e personale e diritti tutte le",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": {
+        "page": "51.txt",
+        "context_before": "Parmalat eccezione delle  Overview pag. 17 societ con sede in Argentina ed Uruguay. Attinenti al Gestione GRI 401: GRI",
+        "context_after": "2016 Cap. Gestione del Il Gruppo Parmalat, Non rendicontato il numero personale del capitale Occupazione Dipendenti aventi personale e diritti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": false,
+    "403-1": false,
+    "403-2": {
+        "page": "50.txt",
+        "context_before": "pag. 13 definito in Nota Metodologica Cap. salute e sicurezza sul lavoro pag. 25 Attinenti al Gestione GRI 403: GRI",
+        "context_after": "2016 Paragrafo Salute e Il Gruppo Parmalat, Il Gruppo non rendiconta il personale della salute Salute e Tipologie di sicurezza",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "52.txt",
+        "context_before": "TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Attinenti al Formazione GRI 404: GRI",
+        "context_after": "2016 Paragrafo Diversit Il Gruppo Parmalat, Il Gruppo reputa il tema personale e sviluppo Educazione e Ore di formazione e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "51.txt",
+        "context_before": "disomogenee all'interno del genere  Overview pag. 17 Argentina, USA ed Gruppo. Uruguay. Attinenti al Tutela della GRI 405: GRI",
+        "context_after": "2016 Paragrafo Diversit Il Gruppo Parmalat, - personale diversity Diversit e Composizione e pari opportunit tutte le societ dei pari",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "51.txt",
+        "context_before": "suddivisione dei Metodologica per i discrimina- dipendenti componenti degli zione Organi di Controllo. Attinenti al Tutela della GRI 405: GRI",
+        "context_after": "2016 Paragrafo Diversit Il Gruppo Parmalat, - personale diversity Diversit e Rapporto dello e pari opportunit tutte le societ dei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "51.txt",
+        "context_before": "degli uomini societ con sede in Argentina, Uruguay e Colombia (solo remuneration). Attinenti al Tutela della GRI 406: Non GRI",
+        "context_after": "2016 Paragrafo Diritti Il Gruppo Parmalat, - personale diversity discriminazio Episodi di umani pag. 24 tutte le societ dei ne",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": {
+        "page": "53.txt",
+        "context_before": "DI TEMA D.LGS. TOPIC-SPECIFIC STANDARD E GRAFO DI RENDICONTA- OMISSIONI MATERIALE 254/2016 DISCLOSURE RIFERIMENTO ZIONE Rispetto Rispetto GRI 412: GRI",
+        "context_after": "2016 Cap. Gestione del - Nonostante il Gruppo non dei diritti dei diritti Valutazione Aree di personale e diritti rendiconti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": {
+        "page": "49.txt",
+        "context_before": "pag. 13 definito in Nota Metodologica Cap. Salute e sicurezza dei consumatori pag. 29 Sociali Salute e GRI 416: GRI",
+        "context_after": "2016 Paragrafo Sicurezza Il Gruppo Parmalat, - sicurezza Salute e Percentuale di dei prodotti tutte le societ dei consu- sicurezza",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": false,
+    "418-1": false,
+    "419-1": false
+}

@@ -1,0 +1,571 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "96.txt",
+        "context_before": "index e scelta dellopzione in accordance 102-55 index 102-56 Attestazione esterna Pag. 100 - 102 ECONOMIC PERFORMANCE: TOPIC SPECIFIC STANDARDS",
+        "context_after": ": ECONOMIC PERFORMANCE 2016 GRI 103 Management approach 2016 Pag. 24-26 201-1 Valore economico diretto generato e distribuito Pag. 26",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "96.txt",
+        "context_before": "201: ECONOMIC PERFORMANCE 2016 GRI 103 Management approach 2016 Pag. 24-26 201-1 Valore economico diretto generato e distribuito Pag. 26",
+        "context_after": ": PROCUREMENT PRACTICES 2016 GRI 103 Management approach 2016 Pag. 51-52 Percentuale di spesa concentrata su fornitori locali in 204-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": {
+        "page": "96.txt",
+        "context_before": "2016 Pag. 51-52 Percentuale di spesa concentrata su fornitori locali in 204-1 Pag. 52 relazione alle sedi operative pi significative",
+        "context_after": ": ANTI-CORRUPTION 2016 GRI 103 Management approach 2016 Pag. 34-35 Attivit di comunicazione e training in merito a politiche e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "96.txt",
+        "context_before": "100 - 102 ECONOMIC PERFORMANCE: TOPIC SPECIFIC STANDARDS GRI 201: ECONOMIC PERFORMANCE 2016 GRI 103 Management approach 2016 Pag. 24-26",
+        "context_after": "Valore economico diretto generato e distribuito Pag. 26 GRI 204: PROCUREMENT PRACTICES 2016 GRI 103 Management approach 2016 Pag. 51-52",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "96.txt",
+        "context_before": "GRI 204: PROCUREMENT PRACTICES 2016 GRI 103 Management approach 2016 Pag. 51-52 Percentuale di spesa concentrata su fornitori locali in",
+        "context_after": "Pag. 52 relazione alle sedi operative pi significative GRI 205: ANTI-CORRUPTION 2016 GRI 103 Management approach 2016 Pag. 34-35 Attivit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "96.txt",
+        "context_before": "205: ANTI-CORRUPTION 2016 GRI 103 Management approach 2016 Pag. 34-35 Attivit di comunicazione e training in merito a politiche e",
+        "context_after": "Pag. 35 procedure per prevenire e contrastare la corruzione Eventuali episodi di corruzione riscontrati e attivit 205-3 Pag. 35 correttive",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "205-3": {
+        "page": "96.txt",
+        "context_before": "a politiche e 205-2 Pag. 35 procedure per prevenire e contrastare la corruzione Eventuali episodi di corruzione riscontrati e attivit",
+        "context_after": "Pag. 35 correttive implementate ENVIRONMENTAL PERFORMANCE: TOPIC SPECIFIC STANDARDS GRI 301: MATERIALS 2016 GRI 103 Management approach 2016 Pag. 81,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "96.txt",
+        "context_before": "contrastare la corruzione Eventuali episodi di corruzione riscontrati e attivit 205-3 Pag. 35 correttive implementate ENVIRONMENTAL PERFORMANCE: TOPIC SPECIFIC STANDARDS",
+        "context_after": ": MATERIALS 2016 GRI 103 Management approach 2016 Pag. 81, 84 301-1 Materiali utilizzati suddivisi per peso e volume Pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "97.txt",
+        "context_before": "",
+        "context_after": ": ENERGY 2016 GRI 103 Management approach 2016 Pag. 78-80 302-1 Consumi di energia allinterno dellorganizzazione Pag. 80 302-2 Consumi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "97.txt",
+        "context_before": "Consumi di energia allesterno dellorganizzazione Pag. 80 302-3 Energy Intensity Pag. 80 303-4 Riduzione dei consumi energetici Pag. 79, 84",
+        "context_after": ": WATER 2016 GRI 103 Management approach 2016 Pag. 82-83 303-1 Acqua totale prelevata per fonte di approvvigionamento Pag. 83",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "97.txt",
+        "context_before": "303: WATER 2016 GRI 103 Management approach 2016 Pag. 82-83 303-1 Acqua totale prelevata per fonte di approvvigionamento Pag. 83",
+        "context_after": ": EMISSIONS 2016 GRI 103 Management approach 2016 Pag. 79-80, 83 305-1 Emissioni di gas serra dirette (Scope 1) Pag.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "97.txt",
+        "context_before": "Riduzione delle emissioni di gas serra Pag. 79 Emissioni di sostanze che danneggiano l'ozono in peso 305-6 Pag. 81 (ODS)",
+        "context_after": ": EFFLUENTS AND WASTE 2016 GRI 103 Management approach 2016 Pag. 81-82 306-2 Rifiuti prodotti per tipologia e modalit di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "97.txt",
+        "context_before": "WASTE 2016 GRI 103 Management approach 2016 Pag. 81-82 306-2 Rifiuti prodotti per tipologia e modalit di smaltimento Pag. 82",
+        "context_after": ": ENVIRONMENTAL COMPLIANCE 2016 GRI 103 Management approach 2016 Pag. 78 Valore monetario delle multe significative e numero delle 307-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": {
+        "page": "97.txt",
+        "context_before": "significative e numero delle 307-1 sanzioni non monetarie per mancato rispetto di Pag. 79 regolamenti e leggi in materia ambientale",
+        "context_after": ": SUPPLIER ENVIRONMENTAL ASSESSMENT 2016 GRI 103 Management approach 2016 Pag. 52-54 Percentuale di nuovi fornitori che sono stati valutati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "96.txt",
+        "context_before": "35 correttive implementate ENVIRONMENTAL PERFORMANCE: TOPIC SPECIFIC STANDARDS GRI 301: MATERIALS 2016 GRI 103 Management approach 2016 Pag. 81, 84",
+        "context_after": "Materiali utilizzati suddivisi per peso e volume Pag. 81 Percentuale di materiali utilizzati che provengono da 301-2 Pag. 81 riciclaggio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "96.txt",
+        "context_before": "Pag. 81, 84 301-1 Materiali utilizzati suddivisi per peso e volume Pag. 81 Percentuale di materiali utilizzati che provengono da",
+        "context_after": "Pag. 81 riciclaggio 96",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "97.txt",
+        "context_before": "GRI 302: ENERGY 2016 GRI 103 Management approach 2016 Pag. 78-80",
+        "context_after": "Consumi di energia allinterno dellorganizzazione Pag. 80 302-2 Consumi di energia allesterno dellorganizzazione Pag. 80 302-3 Energy Intensity Pag. 80",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "97.txt",
+        "context_before": "GRI 302: ENERGY 2016 GRI 103 Management approach 2016 Pag. 78-80 302-1 Consumi di energia allinterno dellorganizzazione Pag. 80",
+        "context_after": "Consumi di energia allesterno dellorganizzazione Pag. 80 302-3 Energy Intensity Pag. 80 303-4 Riduzione dei consumi energetici Pag. 79, 84",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "97.txt",
+        "context_before": "approach 2016 Pag. 78-80 302-1 Consumi di energia allinterno dellorganizzazione Pag. 80 302-2 Consumi di energia allesterno dellorganizzazione Pag. 80",
+        "context_after": "Energy Intensity Pag. 80 303-4 Riduzione dei consumi energetici Pag. 79, 84 GRI 303: WATER 2016 GRI 103 Management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "97.txt",
+        "context_before": "80 303-4 Riduzione dei consumi energetici Pag. 79, 84 GRI 303: WATER 2016 GRI 103 Management approach 2016 Pag. 82-83",
+        "context_after": "Acqua totale prelevata per fonte di approvvigionamento Pag. 83 GRI 305: EMISSIONS 2016 GRI 103 Management approach 2016 Pag. 79-80,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": {
+        "page": "97.txt",
+        "context_before": "Consumi di energia allinterno dellorganizzazione Pag. 80 302-2 Consumi di energia allesterno dellorganizzazione Pag. 80 302-3 Energy Intensity Pag. 80",
+        "context_after": "Riduzione dei consumi energetici Pag. 79, 84 GRI 303: WATER 2016 GRI 103 Management approach 2016 Pag. 82-83 303-1 Acqua",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "97.txt",
+        "context_before": "totale prelevata per fonte di approvvigionamento Pag. 83 GRI 305: EMISSIONS 2016 GRI 103 Management approach 2016 Pag. 79-80, 83",
+        "context_after": "Emissioni di gas serra dirette (Scope 1) Pag. 80 Emissioni di gas serra generate da consumi energetici 305-2 Pag. 80",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-2": {
+        "page": "97.txt",
+        "context_before": "79-80, 83 305-1 Emissioni di gas serra dirette (Scope 1) Pag. 80 Emissioni di gas serra generate da consumi energetici",
+        "context_after": "Pag. 80 (Scope 2) 305-3 Altre emissioni di gas serra indirette (Scope 3) Pag. 81, 85 305-4 Greenhouse gas (GHG)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-3": {
+        "page": "97.txt",
+        "context_before": "gas serra dirette (Scope 1) Pag. 80 Emissioni di gas serra generate da consumi energetici 305-2 Pag. 80 (Scope 2)",
+        "context_after": "Altre emissioni di gas serra indirette (Scope 3) Pag. 81, 85 305-4 Greenhouse gas (GHG) emissions intensity Pag. 80 305-5",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-4": {
+        "page": "97.txt",
+        "context_before": "da consumi energetici 305-2 Pag. 80 (Scope 2) 305-3 Altre emissioni di gas serra indirette (Scope 3) Pag. 81, 85",
+        "context_after": "Greenhouse gas (GHG) emissions intensity Pag. 80 305-5 Riduzione delle emissioni di gas serra Pag. 79 Emissioni di sostanze che",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-5": {
+        "page": "97.txt",
+        "context_before": "305-3 Altre emissioni di gas serra indirette (Scope 3) Pag. 81, 85 305-4 Greenhouse gas (GHG) emissions intensity Pag. 80",
+        "context_after": "Riduzione delle emissioni di gas serra Pag. 79 Emissioni di sostanze che danneggiano l'ozono in peso 305-6 Pag. 81 (ODS)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-6": {
+        "page": "97.txt",
+        "context_before": "intensity Pag. 80 305-5 Riduzione delle emissioni di gas serra Pag. 79 Emissioni di sostanze che danneggiano l'ozono in peso",
+        "context_after": "Pag. 81 (ODS) GRI 306: EFFLUENTS AND WASTE 2016 GRI 103 Management approach 2016 Pag. 81-82 306-2 Rifiuti prodotti per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "97.txt",
+        "context_before": "l'ozono in peso 305-6 Pag. 81 (ODS) GRI 306: EFFLUENTS AND WASTE 2016 GRI 103 Management approach 2016 Pag. 81-82",
+        "context_after": "Rifiuti prodotti per tipologia e modalit di smaltimento Pag. 82 GRI 307: ENVIRONMENTAL COMPLIANCE 2016 GRI 103 Management approach 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "97.txt",
+        "context_before": "GRI 307: ENVIRONMENTAL COMPLIANCE 2016 GRI 103 Management approach 2016 Pag. 78 Valore monetario delle multe significative e numero delle",
+        "context_after": "sanzioni non monetarie per mancato rispetto di Pag. 79 regolamenti e leggi in materia ambientale GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "97.txt",
+        "context_before": "308: SUPPLIER ENVIRONMENTAL ASSESSMENT 2016 GRI 103 Management approach 2016 Pag. 52-54 Percentuale di nuovi fornitori che sono stati valutati",
+        "context_after": "Pag. 52-53 secondo criteri ambientali Impatti ambientali negativi attuali e potenziali significativi 308-2 Pag. 53-54 nella catena di fornitura e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "97.txt",
+        "context_before": "di nuovi fornitori che sono stati valutati 308-1 Pag. 52-53 secondo criteri ambientali Impatti ambientali negativi attuali e potenziali significativi",
+        "context_after": "Pag. 53-54 nella catena di fornitura e azioni intraprese SOCIAL PERFORMANCE: TOPIC SPECIFIC STANDARDS GRI 401: EMPLOYMENT 2016 GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "97.txt",
+        "context_before": "negativi attuali e potenziali significativi 308-2 Pag. 53-54 nella catena di fornitura e azioni intraprese SOCIAL PERFORMANCE: TOPIC SPECIFIC STANDARDS",
+        "context_after": ": EMPLOYMENT 2016 GRI 103 Management approach 2016 Pag. 58-61 Numero totale e tasso di assunzioni e turnover del 401-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "97.txt",
+        "context_before": "GRI 103 Management approach 2016 Pag. 58-61 Numero totale e tasso di assunzioni e turnover del 401-1 Pag. 60-61 personale",
+        "context_after": ": OCCUPATIONAL HEALTH AND SAFETY 2016 GRI 103 Management approach 2016 Pag. 66-68 Tipologia di infortuni, tasso di infortunio, malattie",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "97.txt",
+        "context_before": "persi e assenteismo e 403-2 Pag. 68 numero di incidenti mortali collegati al lavoro suddivisi per regione e per genere",
+        "context_after": ": TRAINING AND EDUCATION 2016 GRI 103 Management approach 2016 Pag. 64 97",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "98.txt",
+        "context_before": "Ore di formazione medie annue per dipendente, per 404-1 Pag. 65 genere e per categoria",
+        "context_after": ": DIVERSITY AND EQUAL OPPORTUNITY 2016 GRI 103 Management approach 2016 Pag. 58, 61-62 Composizione degli organi di governo e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "98.txt",
+        "context_before": "categoria rispetto al genere, et , 405-1 Pag. 29, 58-59, 62 appartenenza a categorie protette e altri indicatori di diversit",
+        "context_after": ": NON-DISCRIMINATION 2016 GRI 103 Management approach 2016 Pag. 61-62 Eventuali episodi di discriminazione riscontrati e azioni 406-1 Pag. 62",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": {
+        "page": "98.txt",
+        "context_before": "2016 GRI 103 Management approach 2016 Pag. 61-62 Eventuali episodi di discriminazione riscontrati e azioni 406-1 Pag. 62 correttive implementate",
+        "context_after": ": CHILD LABOR 2016 GRI 103 Management approach 2016 Pag. 61-62 Identificazione delle operazioni con elevato rischio al 408-1 lavoro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409": {
+        "page": "98.txt",
+        "context_before": "delle operazioni con elevato rischio al 408-1 lavoro minorile delle misure adottate per contribuire alla Pag. 53-54, 61-62 sua eliminazione",
+        "context_after": ": FORCED OR COMPULSORY LABOR 2016 GRI 103 Management approach 2016 Pag. 61-62 Attivit con alto rischio di ricorso al",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": {
+        "page": "98.txt",
+        "context_before": "rischio di ricorso al lavoro forzato o 409-1 obbligatorio e misure intraprese per contribuire alla loro Pag. 53-54, 61-62 abolizione",
+        "context_after": ": HUMAN RIGHTS ASSESSMENT 2016 GRI 103 Management approach 2016 Pag. 53-54 Numero e percentuale di attivit sottoposte a valutazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 413": false,
+    "GRI 414": {
+        "page": "98.txt",
+        "context_before": "approach 2016 Pag. 53-54 Numero e percentuale di attivit sottoposte a valutazione 412-1 Pag. 53-54 del rispetto dei diritti umani",
+        "context_after": ": SUPPLIER SOCIAL ASSESSMENT 2016 GRI 103 Management approach 2016 Pag. 52-54 Percentuale dei nuovi fornitori valutati sulla base di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 415": false,
+    "GRI 416": {
+        "page": "98.txt",
+        "context_before": "societ Impatti negativi, attuali e potenziali significativi, sulla 414-2 Pag. 53-54 societ , nella catena di fornitura e azioni intraprese",
+        "context_after": ": CUSTOMER HEALTH AND SAFETY 2016 GRI 103 Management approach 2016 Pag. 44-48 Percentuale delle categorie di prodotto e servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "98.txt",
+        "context_before": "volontari riguardanti gli impatti sulla salute e Pag. 49 sicurezza dei prodotti e servizi durante il loro ciclo di vita",
+        "context_after": ": MARKETING AND LABELING 2016 GRI 103 Management approach 2016 Pag. 75-76 Tipologia di informazioni relative ai prodotti e servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "99.txt",
+        "context_before": "regolamenti o 417-3 codici volontari riferiti allattivit di marketing incluse la Pag. 76 pubblicit , la promozione e la sponsorizzazione",
+        "context_after": ": CUSTOMER PRIVACY 2016 GRI 103 Management approach 2016 Pag. 73-74 Numero di reclami documentati relativi a violazioni della 418-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "97.txt",
+        "context_before": "GRI 401: EMPLOYMENT 2016 GRI 103 Management approach 2016 Pag. 58-61 Numero totale e tasso di assunzioni e turnover del",
+        "context_after": "Pag. 60-61 personale GRI 403: OCCUPATIONAL HEALTH AND SAFETY 2016 GRI 103 Management approach 2016 Pag. 66-68 Tipologia di infortuni,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": false,
+    "403-1": false,
+    "403-2": {
+        "page": "97.txt",
+        "context_before": "Management approach 2016 Pag. 66-68 Tipologia di infortuni, tasso di infortunio, malattie professionali, giorni di lavoro persi e assenteismo e",
+        "context_after": "Pag. 68 numero di incidenti mortali collegati al lavoro suddivisi per regione e per genere GRI 404: TRAINING AND EDUCATION",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": false,
+    "403-4": false,
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "98.txt",
+        "context_before": "Ore di formazione medie annue per dipendente, per",
+        "context_after": "Pag. 65 genere e per categoria GRI 405: DIVERSITY AND EQUAL OPPORTUNITY 2016 GRI 103 Management approach 2016 Pag. 58,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "98.txt",
+        "context_before": "2016 Pag. 58, 61-62 Composizione degli organi di governo e suddivisione dei dipendenti per categoria rispetto al genere, et ,",
+        "context_after": "Pag. 29, 58-59, 62 appartenenza a categorie protette e altri indicatori di diversit GRI 406: NON-DISCRIMINATION 2016 GRI 103 Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": false,
+    "406-1": {
+        "page": "98.txt",
+        "context_before": "di diversit GRI 406: NON-DISCRIMINATION 2016 GRI 103 Management approach 2016 Pag. 61-62 Eventuali episodi di discriminazione riscontrati e azioni",
+        "context_after": "Pag. 62 correttive implementate GRI 408: CHILD LABOR 2016 GRI 103 Management approach 2016 Pag. 61-62 Identificazione delle operazioni con",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": {
+        "page": "98.txt",
+        "context_before": "implementate GRI 408: CHILD LABOR 2016 GRI 103 Management approach 2016 Pag. 61-62 Identificazione delle operazioni con elevato rischio al",
+        "context_after": "lavoro minorile delle misure adottate per contribuire alla Pag. 53-54, 61-62 sua eliminazione GRI 409: FORCED OR COMPULSORY LABOR 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "98.txt",
+        "context_before": "COMPULSORY LABOR 2016 GRI 103 Management approach 2016 Pag. 61-62 Attivit con alto rischio di ricorso al lavoro forzato o",
+        "context_after": "obbligatorio e misure intraprese per contribuire alla loro Pag. 53-54, 61-62 abolizione GRI 412: HUMAN RIGHTS ASSESSMENT 2016 GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": false,
+    "411-1": false,
+    "412-1": {
+        "page": "98.txt",
+        "context_before": "412: HUMAN RIGHTS ASSESSMENT 2016 GRI 103 Management approach 2016 Pag. 53-54 Numero e percentuale di attivit sottoposte a valutazione",
+        "context_after": "Pag. 53-54 del rispetto dei diritti umani GRI 414: SUPPLIER SOCIAL ASSESSMENT 2016 GRI 103 Management approach 2016 Pag. 52-54",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": {
+        "page": "98.txt",
+        "context_before": "SUPPLIER SOCIAL ASSESSMENT 2016 GRI 103 Management approach 2016 Pag. 52-54 Percentuale dei nuovi fornitori valutati sulla base di criteri",
+        "context_after": "Pag. 52-53 riguardanti gli impatti sulla societ Impatti negativi, attuali e potenziali significativi, sulla 414-2 Pag. 53-54 societ , nella",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "414-2": {
+        "page": "98.txt",
+        "context_before": "valutati sulla base di criteri 414-1 Pag. 52-53 riguardanti gli impatti sulla societ Impatti negativi, attuali e potenziali significativi, sulla",
+        "context_after": "Pag. 53-54 societ , nella catena di fornitura e azioni intraprese GRI 416: CUSTOMER HEALTH AND SAFETY 2016 GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "415-1": false,
+    "416-1": {
+        "page": "98.txt",
+        "context_before": "HEALTH AND SAFETY 2016 GRI 103 Management approach 2016 Pag. 44-48 Percentuale delle categorie di prodotto e servizi per i",
+        "context_after": "Pag. 47-48 quali gli impatti sulla salute e sicurezza sono valutati Numero totale di casi di non-conformit a regolamenti e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "98.txt",
+        "context_before": "Pag. 47-48 quali gli impatti sulla salute e sicurezza sono valutati Numero totale di casi di non-conformit a regolamenti e",
+        "context_after": "codici volontari riguardanti gli impatti sulla salute e Pag. 49 sicurezza dei prodotti e servizi durante il loro ciclo di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "417-1": {
+        "page": "98.txt",
+        "context_before": "417: MARKETING AND LABELING 2016 GRI 103 Management approach 2016 Pag. 75-76 Tipologia di informazioni relative ai prodotti e servizi",
+        "context_after": "richiesti dalle procedure e percentuale di prodotti e Pag. 75-76 servizi significativi soggetti a tali requisiti informativi 98",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "99.txt",
+        "context_before": "vi sono stati casi di non Numero totale di casi di non conformit a regolamenti o conformit con regolamenti o",
+        "context_after": "codici volontari riguardanti le informazioni e le codici volontari riguardanti le etichettature dei prodotti/servizi informazioni e le etichettature dei prodotti.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "99.txt",
+        "context_before": "le etichettature dei prodotti/servizi informazioni e le etichettature dei prodotti. Numero totale di casi di non conformit a regolamenti o",
+        "context_after": "codici volontari riferiti allattivit di marketing incluse la Pag. 76 pubblicit , la promozione e la sponsorizzazione GRI 418: CUSTOMER",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "99.txt",
+        "context_before": "GRI 418: CUSTOMER PRIVACY 2016 GRI 103 Management approach 2016 Pag. 73-74 Numero di reclami documentati relativi a violazioni della",
+        "context_after": "Pag. 74 privacy e a perdita dei dati dei consumatori 99",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": false
+}

@@ -1,0 +1,733 @@
+{
+    "GRI 200": false,
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "8.txt",
+        "context_before": "BY MEDIOBANCA STANDARDS IMPACT IMPACTS Ethics and integrity in business Ethics and integrity (GRI 102-16) Whole Community CORRUPTION Anti-corruption (",
+        "context_after": ") Group Stability, regulation and resilience of (*) Whole financial system Group Systematic risk and brand reputation (*) Whole Clients",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": {
+        "page": "44.txt",
+        "context_before": "22 10% TOTAL 4,228 86% 1,512 32% 734 16% 4.2 Relevant risks in the area of corruption [GRI 102-15], [",
+        "context_after": "], [GRI 205-3] Further to the details provided in the previous section, with reference to the internal regulations adopted to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-2": {
+        "page": "39.txt",
+        "context_before": "and anti-corruption 4.1 Policies and initiatives to prevent and tackle corruption [GRI 102-16], [GRI 103-1], [GRI 103-2], [GRI 103-3], [",
+        "context_after": "] As stated inter alia in the Sustainability Policy, the Mediobanca Group is committed to conducting its business in accordance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205-3": {
+        "page": "44.txt",
+        "context_before": "TOTAL 4,228 86% 1,512 32% 734 16% 4.2 Relevant risks in the area of corruption [GRI 102-15], [GRI 205-1], [",
+        "context_after": "] Further to the details provided in the previous section, with reference to the internal regulations adopted to tackle corruption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": false,
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": false,
+    "205-1": {
+        "page": "44.txt",
+        "context_before": "22 10% TOTAL 4,228 86% 1,512 32% 734 16% 4.2 Relevant risks in the area of corruption [GRI 102-15], [GRI",
+        "context_after": "], [GRI 205-3] Further to the details provided in the previous section, with reference to the internal regulations adopted to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "39.txt",
+        "context_before": "and anti-corruption 4.1 Policies and initiatives to prevent and tackle corruption [GRI 102-16], [GRI 103-1], [GRI 103-2], [GRI 103-3], [GRI",
+        "context_after": "] As stated inter alia in the Sustainability Policy, the Mediobanca Group is committed to conducting its business in accordance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "44.txt",
+        "context_before": "TOTAL 4,228 86% 1,512 32% 734 16% 4.2 Relevant risks in the area of corruption [GRI 102-15], [GRI 205-1], [GRI",
+        "context_after": "] Further to the details provided in the previous section, with reference to the internal regulations adopted to tackle corruption",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "9.txt",
+        "context_before": "Energy consumption and CO2 Energia (GRI 302) Whole Environment emissions Emissioni (GRI 305) Group Purchase and consumption of Materiali (",
+        "context_after": ") Whole Environment sustainable products Group SUPPLY CHAIN Responsible supply chain management (*) Whole Suppliers Group * For issues marked",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 302": {
+        "page": "9.txt",
+        "context_before": "Acqua (303) Whole Environment (direct and indirect) linked to business Rifiuti (306) Group ENVIRONMENT Energy consumption and CO2 Energia (",
+        "context_after": ") Whole Environment emissions Emissioni (GRI 305) Group Purchase and consumption of Materiali (GRI 301) Whole Environment sustainable products Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "144.txt",
+        "context_before": "145 ENVIRONMENTAL PERFORMANCE: TOPIC SPECIFIC STANDARDS DISCLOSURE INDICATOR DESCRIPTION PAGE NO./NOTES",
+        "context_after": ": water 103-3 Assessment of management approach Pp. 122-124, 129 303-1 Water withdrawal by source P. 129 GRI 305: emissions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "9.txt",
+        "context_before": "indirect) linked to business Rifiuti (306) Group ENVIRONMENT Energy consumption and CO2 Energia (GRI 302) Whole Environment emissions Emissioni (",
+        "context_after": ") Group Purchase and consumption of Materiali (GRI 301) Whole Environment sustainable products Group SUPPLY CHAIN Responsible supply chain management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "144.txt",
+        "context_before": "of ozone-depleting substances (ODS) P. 128 305-7 Nitrogen oxides (NOx), sulphur oxides (SOx), or other significant air emissions P. 128",
+        "context_after": ": effluents and waste 103-1 Material topic and scope Pp. 122-124, 131-132 103-2 Management approach Pp. 122-124, 131-132 103-3 Assessment",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "123.txt",
+        "context_before": "124 8.2 Managing the businesss impact on the environment [GRI 103-3], [",
+        "context_after": "-1] The Mediobanca Group is committed to limiting the impact on the environment generated by its operations, through: Ongoing monitoring",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": {
+        "page": "129.txt",
+        "context_before": "130 8.4.2 Paper consumption and waste management [",
+        "context_after": "], [GRI 301-2], [GRI 306-2] Monitoring of paper and waste is an important issue, in that it allows the Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-2": {
+        "page": "129.txt",
+        "context_before": "130 8.4.2 Paper consumption and waste management [GRI 301-1], [",
+        "context_after": "], [GRI 306-2] Monitoring of paper and waste is an important issue, in that it allows the Group to intervene",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-3": false,
+    "GRI 302-1": {
+        "page": "123.txt",
+        "context_before": "in the months that followed, resulting in Scope 3 emissions39 declining steeply. 8.3 Energy consumption and CO emissions 2 [",
+        "context_after": "], [GRI 302-2], [GRI 302-3], [GRI 302-4], [GRI 305-1], [GRI 305-2], [GRI 305-3], [GRI 305-4], [GRI 305-5], [GRI 305-6], [GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-2": {
+        "page": "123.txt",
+        "context_before": "months that followed, resulting in Scope 3 emissions39 declining steeply. 8.3 Energy consumption and CO emissions 2 [GRI 302-1], [",
+        "context_after": "], [GRI 302-3], [GRI 302-4], [GRI 305-1], [GRI 305-2], [GRI 305-3], [GRI 305-4], [GRI 305-5], [GRI 305-6], [GRI 305-7] The",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-3": {
+        "page": "123.txt",
+        "context_before": "followed, resulting in Scope 3 emissions39 declining steeply. 8.3 Energy consumption and CO emissions 2 [GRI 302-1], [GRI 302-2], [",
+        "context_after": "], [GRI 302-4], [GRI 305-1], [GRI 305-2], [GRI 305-3], [GRI 305-4], [GRI 305-5], [GRI 305-6], [GRI 305-7] The Groups energy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-4": {
+        "page": "123.txt",
+        "context_before": "in Scope 3 emissions39 declining steeply. 8.3 Energy consumption and CO emissions 2 [GRI 302-1], [GRI 302-2], [GRI 302-3], [",
+        "context_after": "], [GRI 305-1], [GRI 305-2], [GRI 305-3], [GRI 305-4], [GRI 305-5], [GRI 305-6], [GRI 305-7] The Groups energy consumption is",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302-5": false,
+    "GRI 303-1": {
+        "page": "128.txt",
+        "context_before": "consumes, promoting the use of recycled and/or FSC-certified paper, and gradually eliminating plastic from its premises. 8.4.1 Water consumption [",
+        "context_after": "], [GRI 306-1] The Group, on account of the sector in which it operates, does not consume large amounts of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": {
+        "page": "123.txt",
+        "context_before": "3 emissions39 declining steeply. 8.3 Energy consumption and CO emissions 2 [GRI 302-1], [GRI 302-2], [GRI 302-3], [GRI 302-4], [",
+        "context_after": "], [GRI 305-2], [GRI 305-3], [GRI 305-4], [GRI 305-5], [GRI 305-6], [GRI 305-7] The Groups energy consumption is linked primarily",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-2": {
+        "page": "123.txt",
+        "context_before": "declining steeply. 8.3 Energy consumption and CO emissions 2 [GRI 302-1], [GRI 302-2], [GRI 302-3], [GRI 302-4], [GRI 305-1], [",
+        "context_after": "], [GRI 305-3], [GRI 305-4], [GRI 305-5], [GRI 305-6], [GRI 305-7] The Groups energy consumption is linked primarily to its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-3": {
+        "page": "123.txt",
+        "context_before": "8.3 Energy consumption and CO emissions 2 [GRI 302-1], [GRI 302-2], [GRI 302-3], [GRI 302-4], [GRI 305-1], [GRI 305-2], [",
+        "context_after": "], [GRI 305-4], [GRI 305-5], [GRI 305-6], [GRI 305-7] The Groups energy consumption is linked primarily to its use of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-4": {
+        "page": "123.txt",
+        "context_before": "consumption and CO emissions 2 [GRI 302-1], [GRI 302-2], [GRI 302-3], [GRI 302-4], [GRI 305-1], [GRI 305-2], [GRI 305-3], [",
+        "context_after": "], [GRI 305-5], [GRI 305-6], [GRI 305-7] The Groups energy consumption is linked primarily to its use of heating and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-5": {
+        "page": "123.txt",
+        "context_before": "CO emissions 2 [GRI 302-1], [GRI 302-2], [GRI 302-3], [GRI 302-4], [GRI 305-1], [GRI 305-2], [GRI 305-3], [GRI 305-4], [",
+        "context_after": "], [GRI 305-6], [GRI 305-7] The Groups energy consumption is linked primarily to its use of heating and air-conditioning systems,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-6": {
+        "page": "123.txt",
+        "context_before": "2 [GRI 302-1], [GRI 302-2], [GRI 302-3], [GRI 302-4], [GRI 305-1], [GRI 305-2], [GRI 305-3], [GRI 305-4], [GRI 305-5], [",
+        "context_after": "], [GRI 305-7] The Groups energy consumption is linked primarily to its use of heating and air-conditioning systems, the functioning",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305-7": {
+        "page": "123.txt",
+        "context_before": "302-1], [GRI 302-2], [GRI 302-3], [GRI 302-4], [GRI 305-1], [GRI 305-2], [GRI 305-3], [GRI 305-4], [GRI 305-5], [GRI 305-6], [",
+        "context_after": "] The Groups energy consumption is linked primarily to its use of heating and air-conditioning systems, the functioning of its",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-1": {
+        "page": "128.txt",
+        "context_before": "the use of recycled and/or FSC-certified paper, and gradually eliminating plastic from its premises. 8.4.1 Water consumption [GRI 303-1], [",
+        "context_after": "] The Group, on account of the sector in which it operates, does not consume large amounts of water. At",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-2": {
+        "page": "129.txt",
+        "context_before": "130 8.4.2 Paper consumption and waste management [GRI 301-1], [GRI 301-2], [",
+        "context_after": "] Monitoring of paper and waste is an important issue, in that it allows the Group to intervene with campaigns",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": {
+        "page": "123.txt",
+        "context_before": "124 8.2 Managing the businesss impact on the environment [GRI 103-3], [",
+        "context_after": "] The Mediobanca Group is committed to limiting the impact on the environment generated by its operations, through: Ongoing monitoring",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "143.txt",
+        "context_before": "topic and scope Pp. 122-124, 130-131 103-2 Management approach Pp. 122-124, 130-131 103-3 Assessment of management approach Pp. 122-124, 130-131",
+        "context_after": "Materials used by weight or volume Pp. 130-131 301-2 Reclaimed products and their packaging materials Pp. 130-131 GRI 302: energy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "143.txt",
+        "context_before": "Pp. 122-124, 130-131 103-3 Assessment of management approach Pp. 122-124, 130-131 301-1 Materials used by weight or volume Pp. 130-131",
+        "context_after": "Reclaimed products and their packaging materials Pp. 130-131 GRI 302: energy 103-1 Material topic and scope Pp. 122-127 103-2 Management",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": false,
+    "302-1": {
+        "page": "143.txt",
+        "context_before": "energy 103-1 Material topic and scope Pp. 122-127 103-2 Management approach Pp. 122-127 103-3 Assessment of management approach Pp. 122-127",
+        "context_after": "Energy consumption within the organization Pp. 126-127 302-2 Energy consumption outside of the organization Pp. 126-127 302-3 Energy Intensity Pp.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "143.txt",
+        "context_before": "103-2 Management approach Pp. 122-127 103-3 Assessment of management approach Pp. 122-127 302-1 Energy consumption within the organization Pp. 126-127",
+        "context_after": "Energy consumption outside of the organization Pp. 126-127 302-3 Energy Intensity Pp. 129 302-4 Reduction of energy consumption Pp. 125-127",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "143.txt",
+        "context_before": "approach Pp. 122-127 302-1 Energy consumption within the organization Pp. 126-127 302-2 Energy consumption outside of the organization Pp. 126-127",
+        "context_after": "Energy Intensity Pp. 129 302-4 Reduction of energy consumption Pp. 125-127 GRI 303: water 103-1 Material topic and scope Pp.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "143.txt",
+        "context_before": "consumption within the organization Pp. 126-127 302-2 Energy consumption outside of the organization Pp. 126-127 302-3 Energy Intensity Pp. 129",
+        "context_after": "Reduction of energy consumption Pp. 125-127 GRI 303: water 103-1 Material topic and scope Pp. 122-124, 129 103-2 Management approach",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": false,
+    "303-1": {
+        "page": "144.txt",
+        "context_before": "PERFORMANCE: TOPIC SPECIFIC STANDARDS DISCLOSURE INDICATOR DESCRIPTION PAGE NO./NOTES GRI 303: water 103-3 Assessment of management approach Pp. 122-124, 129",
+        "context_after": "Water withdrawal by source P. 129 GRI 305: emissions 103-1 Material topic and scope Pp. 122-129 103-2 Management approach Pp.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": false,
+    "303-3": false,
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "144.txt",
+        "context_before": "emissions 103-1 Material topic and scope Pp. 122-129 103-2 Management approach Pp. 122-129 103-3 Assessment of management approach Pp. 122-129",
+        "context_after": "Direct (Scope 1) GHG emissions P. 128 305-2 Energy indirect (Scope 2) GHG emissions P. 128 305-3 Other indirect (Scope",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "144.txt",
+        "context_before": "103-2 Management approach Pp. 122-129 103-3 Assessment of management approach Pp. 122-129 305-1 Direct (Scope 1) GHG emissions P. 128",
+        "context_after": "Energy indirect (Scope 2) GHG emissions P. 128 305-3 Other indirect (Scope 3) GHG emissions P. 128 305-4 GHG emissions",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "144.txt",
+        "context_before": "approach Pp. 122-129 305-1 Direct (Scope 1) GHG emissions P. 128 305-2 Energy indirect (Scope 2) GHG emissions P. 128",
+        "context_after": "Other indirect (Scope 3) GHG emissions P. 128 305-4 GHG emissions intensity P. 129 305-5 Reduction of GHG emissions Pp.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "144.txt",
+        "context_before": "P. 128 305-2 Energy indirect (Scope 2) GHG emissions P. 128 305-3 Other indirect (Scope 3) GHG emissions P. 128",
+        "context_after": "GHG emissions intensity P. 129 305-5 Reduction of GHG emissions Pp. 125-126 305-6 Emissions of ozone-depleting substances (ODS) P. 128",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "144.txt",
+        "context_before": "2) GHG emissions P. 128 305-3 Other indirect (Scope 3) GHG emissions P. 128 305-4 GHG emissions intensity P. 129",
+        "context_after": "Reduction of GHG emissions Pp. 125-126 305-6 Emissions of ozone-depleting substances (ODS) P. 128 305-7 Nitrogen oxides (NOx), sulphur oxides",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "144.txt",
+        "context_before": "indirect (Scope 3) GHG emissions P. 128 305-4 GHG emissions intensity P. 129 305-5 Reduction of GHG emissions Pp. 125-126",
+        "context_after": "Emissions of ozone-depleting substances (ODS) P. 128 305-7 Nitrogen oxides (NOx), sulphur oxides (SOx), or other significant air emissions P.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-7": {
+        "page": "144.txt",
+        "context_before": "GHG emissions intensity P. 129 305-5 Reduction of GHG emissions Pp. 125-126 305-6 Emissions of ozone-depleting substances (ODS) P. 128",
+        "context_after": "Nitrogen oxides (NOx), sulphur oxides (SOx), or other significant air emissions P. 128 GRI 306: effluents and waste 103-1 Material",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "144.txt",
+        "context_before": "topic and scope Pp. 122-124, 131-132 103-2 Management approach Pp. 122-124, 131-132 103-3 Assessment of management approach Pp. 122-124, 131-132",
+        "context_after": "Water discharge by quality and destination P. 129 306-2 Waste by type and disposal method P. 132 SOCIAL PERFORMANCE: TOPIC",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "144.txt",
+        "context_before": "Pp. 122-124, 131-132 103-3 Assessment of management approach Pp. 122-124, 131-132 306-1 Water discharge by quality and destination P. 129",
+        "context_after": "Waste by type and disposal method P. 132 SOCIAL PERFORMANCE: TOPIC SPECIFIC STANDARDS DISCLOSURE INDICATOR DESCRIPTION PAGE NO./NOTES GRI 401:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": {
+        "page": "123.txt",
+        "context_before": "124 8.2 Managing the businesss impact on the environment [GRI 103-3], [GRI",
+        "context_after": "] The Mediobanca Group is committed to limiting the impact on the environment generated by its operations, through: Ongoing monitoring",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "9.txt",
+        "context_before": "Diversity, inclusion and equal Diversity and equal opportunities Whole opportunity (GRI 405) Group STAFF Staff incentives, benefits and Employment (",
+        "context_after": ") Whole remuneration Group Staff health, safety and well-being Health and safety (GRI 403) Whole Group ENVIRONMENT AND Responsible investments",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "60.txt",
+        "context_before": "programme has been enhanced with a session dedicated to parents of teenagers. 5.4 Protection of Human Rights [GRI 102-41], [",
+        "context_after": "-1], [GRI 406-1] The Group believes that respect of human rights is a fundamental prerequisite to its own sustainability. For",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "9.txt",
+        "context_before": "STAFF Staff incentives, benefits and Employment (GRI 401) Whole remuneration Group Staff health, safety and well-being Health and safety (",
+        "context_after": ") Whole Group ENVIRONMENT AND Responsible investments and (*) Whole Clients HUMAN RIGHTS sustainable products Group Management of environmental impacts",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "8.txt",
+        "context_before": "Community Impact on and investment in the (*) Whole Community community Group Training and professional development Training and education (",
+        "context_after": ") Whole Group Managing, attracting, developing and Employment (GRI 401) Whole STAFF retaining talent Training and education (GRI 404) Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "9.txt",
+        "context_before": "IMPACTS Staff commitment, engagement and (*) Whole satisfaction Group Diversity, inclusion and equal Diversity and equal opportunities Whole opportunity (",
+        "context_after": ") Group STAFF Staff incentives, benefits and Employment (GRI 401) Whole remuneration Group Staff health, safety and well-being Health and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "60.txt",
+        "context_before": "been enhanced with a session dedicated to parents of teenagers. 5.4 Protection of Human Rights [GRI 102-41], [GRI 402-1], [",
+        "context_after": "-1] The Group believes that respect of human rights is a fundamental prerequisite to its own sustainability. For this reason",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "90.txt",
+        "context_before": "most successful deals in the Mid Cap space over the year. 6.1.4 Transparency of information on products and services [",
+        "context_after": "-1] Transparency and clarity of information are of particular importance in the area of customer relations. Compass has always paid",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "99.txt",
+        "context_before": "made in the technology area and a consolidated culture of risk management. 6.1.8 Personal data protection and data security [",
+        "context_after": "-1] Protection of customers personal data and information is a key factor in providing our activities, and as such requires",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 419": false,
+    "GRI 401-1": {
+        "page": "54.txt",
+        "context_before": "section (5.9. Staff health, safety and welfare). 5.2 Mediobanca Group staff: job creation and protection [GRI 102-7], [GRI 102-8], [",
+        "context_after": "], [GRI 405-1] At the end of the financial year under review, the Mediobanca Group had a total of 4,920",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-2": {
+        "page": "67.txt",
+        "context_before": "roles; the promotion must also be consistent with the management succession planning adopted. 5.7 Staff incentives, benefits and remuneration [",
+        "context_after": "], [GRI 401-3], [GRI 405-2] The remuneration system is structured so as to attract, motivate and valorize staff with the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-3": {
+        "page": "67.txt",
+        "context_before": "promotion must also be consistent with the management succession planning adopted. 5.7 Staff incentives, benefits and remuneration [GRI 401-2], [",
+        "context_after": "], [GRI 405-2] The remuneration system is structured so as to attract, motivate and valorize staff with the professional qualities",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402-1": {
+        "page": "60.txt",
+        "context_before": "programme has been enhanced with a session dedicated to parents of teenagers. 5.4 Protection of Human Rights [GRI 102-41], [",
+        "context_after": "], [GRI 406-1] The Group believes that respect of human rights is a fundamental prerequisite to its own sustainability. For",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-1": {
+        "page": "72.txt",
+        "context_before": "73 5.9 Staff health, safety and welfare [GRI 102-15], [",
+        "context_after": "], [GRI 403-2], [GRI 403-3], [GRI 403-4] The Group considers the promotion of health and safety as one of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-2": {
+        "page": "72.txt",
+        "context_before": "73 5.9 Staff health, safety and welfare [GRI 102-15], [GRI 403-1], [",
+        "context_after": "], [GRI 403-3], [GRI 403-4] The Group considers the promotion of health and safety as one of the priorities of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-3": {
+        "page": "72.txt",
+        "context_before": "73 5.9 Staff health, safety and welfare [GRI 102-15], [GRI 403-1], [GRI 403-2], [",
+        "context_after": "], [GRI 403-4] The Group considers the promotion of health and safety as one of the priorities of its way",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-4": {
+        "page": "72.txt",
+        "context_before": "73 5.9 Staff health, safety and welfare [GRI 102-15], [GRI 403-1], [GRI 403-2], [GRI 403-3], [",
+        "context_after": "] The Group considers the promotion of health and safety as one of the priorities of its way of doing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": {
+        "page": "62.txt",
+        "context_before": "of the year, to demonstrate the focus placed by the Group on these issues. 5.5 Professional training and development [",
+        "context_after": "] In view of the increasing international dimension of the Groups activities, developments in technology, innovation in products and banking",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404-2": false,
+    "GRI 404-3": {
+        "page": "64.txt",
+        "context_before": "offering mandatory training courses for their own FAs with coverage of 100%. 5.6 Managing, attracting, developing and retaining talent [",
+        "context_after": "] The Mediobanca Group devotes considerable attention to the issue talent management and retention which is considered to be a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405-1": {
+        "page": "58.txt",
+        "context_before": "those open during the twelve months were filled by internal candidates (internal moves). 5.3 Diversity, inclusion and equal opportunities [",
+        "context_after": "] As stated in the Group Sustainability Policy, the Mediobanca Group considers diversity of gender and thought to be an",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405-2": {
+        "page": "67.txt",
+        "context_before": "also be consistent with the management succession planning adopted. 5.7 Staff incentives, benefits and remuneration [GRI 401-2], [GRI 401-3], [",
+        "context_after": "] The remuneration system is structured so as to attract, motivate and valorize staff with the professional qualities required by",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406-1": {
+        "page": "60.txt",
+        "context_before": "been enhanced with a session dedicated to parents of teenagers. 5.4 Protection of Human Rights [GRI 102-41], [GRI 402-1], [",
+        "context_after": "] The Group believes that respect of human rights is a fundamental prerequisite to its own sustainability. For this reason",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": {
+        "page": "90.txt",
+        "context_before": "most successful deals in the Mid Cap space over the year. 6.1.4 Transparency of information on products and services [",
+        "context_after": "] Transparency and clarity of information are of particular importance in the area of customer relations. Compass has always paid",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": {
+        "page": "99.txt",
+        "context_before": "made in the technology area and a consolidated culture of risk management. 6.1.8 Personal data protection and data security [",
+        "context_after": "] Protection of customers personal data and information is a key factor in providing our activities, and as such requires",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "54.txt",
+        "context_before": "section (5.9. Staff health, safety and welfare). 5.2 Mediobanca Group staff: job creation and protection [GRI 102-7], [GRI 102-8], [GRI",
+        "context_after": "], [GRI 405-1] At the end of the financial year under review, the Mediobanca Group had a total of 4,920",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": {
+        "page": "67.txt",
+        "context_before": "roles; the promotion must also be consistent with the management succession planning adopted. 5.7 Staff incentives, benefits and remuneration [GRI",
+        "context_after": "], [GRI 401-3], [GRI 405-2] The remuneration system is structured so as to attract, motivate and valorize staff with the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "67.txt",
+        "context_before": "promotion must also be consistent with the management succession planning adopted. 5.7 Staff incentives, benefits and remuneration [GRI 401-2], [GRI",
+        "context_after": "], [GRI 405-2] The remuneration system is structured so as to attract, motivate and valorize staff with the professional qualities",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "402-1": {
+        "page": "60.txt",
+        "context_before": "programme has been enhanced with a session dedicated to parents of teenagers. 5.4 Protection of Human Rights [GRI 102-41], [GRI",
+        "context_after": "], [GRI 406-1] The Group believes that respect of human rights is a fundamental prerequisite to its own sustainability. For",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "72.txt",
+        "context_before": "73 5.9 Staff health, safety and welfare [GRI 102-15], [GRI",
+        "context_after": "], [GRI 403-2], [GRI 403-3], [GRI 403-4] The Group considers the promotion of health and safety as one of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "72.txt",
+        "context_before": "73 5.9 Staff health, safety and welfare [GRI 102-15], [GRI 403-1], [GRI",
+        "context_after": "], [GRI 403-3], [GRI 403-4] The Group considers the promotion of health and safety as one of the priorities of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "72.txt",
+        "context_before": "73 5.9 Staff health, safety and welfare [GRI 102-15], [GRI 403-1], [GRI 403-2], [GRI",
+        "context_after": "], [GRI 403-4] The Group considers the promotion of health and safety as one of the priorities of its way",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "72.txt",
+        "context_before": "73 5.9 Staff health, safety and welfare [GRI 102-15], [GRI 403-1], [GRI 403-2], [GRI 403-3], [GRI",
+        "context_after": "] The Group considers the promotion of health and safety as one of the priorities of its way of doing",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "62.txt",
+        "context_before": "of the year, to demonstrate the focus placed by the Group on these issues. 5.5 Professional training and development [GRI",
+        "context_after": "] In view of the increasing international dimension of the Groups activities, developments in technology, innovation in products and banking",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": {
+        "page": "64.txt",
+        "context_before": "offering mandatory training courses for their own FAs with coverage of 100%. 5.6 Managing, attracting, developing and retaining talent [GRI",
+        "context_after": "] The Mediobanca Group devotes considerable attention to the issue talent management and retention which is considered to be a",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-1": {
+        "page": "58.txt",
+        "context_before": "those open during the twelve months were filled by internal candidates (internal moves). 5.3 Diversity, inclusion and equal opportunities [GRI",
+        "context_after": "] As stated in the Group Sustainability Policy, the Mediobanca Group considers diversity of gender and thought to be an",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "67.txt",
+        "context_before": "also be consistent with the management succession planning adopted. 5.7 Staff incentives, benefits and remuneration [GRI 401-2], [GRI 401-3], [GRI",
+        "context_after": "] The remuneration system is structured so as to attract, motivate and valorize staff with the professional qualities required by",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "60.txt",
+        "context_before": "been enhanced with a session dedicated to parents of teenagers. 5.4 Protection of Human Rights [GRI 102-41], [GRI 402-1], [GRI",
+        "context_after": "] The Group believes that respect of human rights is a fundamental prerequisite to its own sustainability. For this reason",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": {
+        "page": "90.txt",
+        "context_before": "most successful deals in the Mid Cap space over the year. 6.1.4 Transparency of information on products and services [GRI",
+        "context_after": "] Transparency and clarity of information are of particular importance in the area of customer relations. Compass has always paid",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": false,
+    "417-3": {
+        "page": "146.txt",
+        "context_before": "approach Pp. 80-85, 91-92 417-1 Requirements for product and service information and labelling Pp. 91-92 P. 17 of Consolidated Review",
+        "context_after": "Incidents of non-compliance concerning marketing communications of Operations GRI 418: customer privacy 103-1 Material topic and scope Pp. 80-85, 100-103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "99.txt",
+        "context_before": "made in the technology area and a consolidated culture of risk management. 6.1.8 Personal data protection and data security [GRI",
+        "context_after": "] Protection of customers personal data and information is a key factor in providing our activities, and as such requires",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "419-1": false
+}

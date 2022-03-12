@@ -1,0 +1,511 @@
+{
+    "GRI 200": {
+        "page": "95.txt",
+        "context_before": "sulla rendicontazione in 3 conformit ai GRI Standards 102-55 Indice dei contenuti GRI 94-100 102-56 Attestazione esterna 101-103 TEMATICHE MATERIALI",
+        "context_after": ": ECONOMIC SERIES Performance economica Pagine Omission Note 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 GRI 103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": {
+        "page": "95.txt",
+        "context_before": "Management 103-2 La modalit di gestione e le sue componenti 75-79 Approach (2016) 103-3 Valutazione delle modalit di gestione 75-79",
+        "context_after": ": Pratiche di 75 approvvigionamento 204-1 Proporzione di spesa verso fornitori locali (2016) Anticorruzione GRI 103: 103-1 Spiegazione del tema",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "95.txt",
+        "context_before": "modalit di gestione e le sue componenti 46-48 Approach (2016) 103-3 Valutazione delle modalit di gestione 46-48 GRI 201: Economic",
+        "context_after": "Valore economico direttamente generato e 46-48; 83 Performance (2016) distribuito Pratiche di approvvigionamento 103-1 Spiegazione del tema materiale e del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": false,
+    "201-3": false,
+    "201-4": false,
+    "202-1": false,
+    "202-2": false,
+    "203-1": false,
+    "203-2": false,
+    "204-1": {
+        "page": "95.txt",
+        "context_before": "e le sue componenti 75-79 Approach (2016) 103-3 Valutazione delle modalit di gestione 75-79 GRI 204: Pratiche di 75 approvvigionamento",
+        "context_after": "Proporzione di spesa verso fornitori locali (2016) Anticorruzione GRI 103: 103-1 Spiegazione del tema materiale e del relativo 23; 80-82",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": false,
+    "205-2": {
+        "page": "96.txt",
+        "context_before": "103-3 Valutazione delle modalit di gestione 33-34 33-34",
+        "context_after": "Comunicazione e formazione in materia di politiche e procedure anticorruzione GRI 205: Anti- Nel 2019 non si corruzione (2016) sono",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "96.txt",
+        "context_before": "formazione in materia di politiche e procedure anticorruzione GRI 205: Anti- Nel 2019 non si corruzione (2016) sono registrati casi",
+        "context_after": "Episodi di corruzione accertati e azioni di corruzione e/o intraprese segnalazioni in merito GRI 300: ENVIRONMENTAL SERIES (2016) Materiali 103-1",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "96.txt",
+        "context_before": "si corruzione (2016) sono registrati casi 205-3 Episodi di corruzione accertati e azioni di corruzione e/o intraprese segnalazioni in merito",
+        "context_after": ": ENVIRONMENTAL SERIES (2016) Materiali 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 GRI 103: perimetro Management 103-2",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 301": false,
+    "GRI 302": false,
+    "GRI 303": {
+        "page": "3.txt",
+        "context_before": "secondo lopzione in accordance  Core. Per quanto riguarda gli Standard specifici GRI 403 (Salute e sicurezza sul lavoro) e",
+        "context_after": "(Acqua e scarichi idrici)  stata adottata la pi recente versione del 2018. Con riferimento ai dati economici, il perimetro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": {
+        "page": "97.txt",
+        "context_before": "La modalit di gestione e le sue componenti 71 Approach (2016) 103-3 Valutazione delle modalit di gestione 71 71-72; 90",
+        "context_after": ": Rifiuti (2016) 306-2 Rifiuti per tipo e metodo di smaltimento Valutazione ambientale dei fornitori 103-1 Spiegazione del tema materiale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": false,
+    "GRI 308": {
+        "page": "97.txt",
+        "context_before": "Management 103-2 La modalit di gestione e le sue componenti 75-79 Approach (2016) 103-3 Valutazione delle modalit di gestione 75-79",
+        "context_after": ": Valutazione 77-79 308-2 Impatti ambientali negativi nella catena di ambientale dei fornitura e azioni intraprese fornitori (2016) GRI 400:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "96.txt",
+        "context_before": "di gestione e le sue componenti 75-79 Approach (2016) 103-3 Valutazione delle modalit di gestione 75-79 77-78 GRI 301: Materiali",
+        "context_after": "Materiali utilizzati per peso e volume (2016) Energia 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 GRI 103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": false,
+    "301-3": false,
+    "302-1": {
+        "page": "96.txt",
+        "context_before": "La modalit di gestione e le sue componenti 64 Approach (2016) 103-3 Valutazione delle modalit di gestione 64 64-66; 88",
+        "context_after": "Energia consumata all'interno GRI 302: Energia dell'organizzazione (2016) 66-67 302-3 Intensit energetica Acqua 103-1 Spiegazione del tema materiale e del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": false,
+    "302-3": {
+        "page": "96.txt",
+        "context_before": "(2016) 103-3 Valutazione delle modalit di gestione 64 64-66; 88 302-1 Energia consumata all'interno GRI 302: Energia dell'organizzazione (2016) 66-67",
+        "context_after": "Intensit energetica Acqua 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 GRI 103: perimetro Management 103-2 La modalit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": false,
+    "302-5": false,
+    "303-1": {
+        "page": "96.txt",
+        "context_before": "103-2 La modalit di gestione e le sue componenti 73 Approach (2016) 103-3 Valutazione delle modalit di gestione 73 73-74",
+        "context_after": "Interazione con lacqua come risorsa condivisa 73-74 303-2 Gestione degli impatti correlati allo scarico di GRI 303: Acqua e acqua",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "96.txt",
+        "context_before": "componenti 73 Approach (2016) 103-3 Valutazione delle modalit di gestione 73 73-74 303-1 Interazione con lacqua come risorsa condivisa 73-74",
+        "context_after": "Gestione degli impatti correlati allo scarico di GRI 303: Acqua e acqua scarichi idrici (2018) 73-74; 91 303-3 Prelievo idrico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "96.txt",
+        "context_before": "condivisa 73-74 303-2 Gestione degli impatti correlati allo scarico di GRI 303: Acqua e acqua scarichi idrici (2018) 73-74; 91",
+        "context_after": "Prelievo idrico 74-75; 92 303-4 Scarico di acqua Emissioni 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 GRI",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "303-4": {
+        "page": "96.txt",
+        "context_before": "impatti correlati allo scarico di GRI 303: Acqua e acqua scarichi idrici (2018) 73-74; 91 303-3 Prelievo idrico 74-75; 92",
+        "context_after": "Scarico di acqua Emissioni 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 GRI 103: perimetro Management 103-2 La",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "96.txt",
+        "context_before": "Management 103-2 La modalit di gestione e le sue componenti 67 Approach (2016) 103-3 Valutazione delle modalit di gestione 67",
+        "context_after": "Emissioni dirette di GHG (Scope 1) 68-69; 88 305-2 Emissioni indirette di GHG da consumi 305: Emissioni (2016) 68-69; 88",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "96.txt",
+        "context_before": "componenti 67 Approach (2016) 103-3 Valutazione delle modalit di gestione 67 305-1 Emissioni dirette di GHG (Scope 1) 68-69; 88",
+        "context_after": "Emissioni indirette di GHG da consumi 305: Emissioni (2016) 68-69; 88 energetici (Scope 2) 305-4 Intensit delle emissioni di GHG",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": false,
+    "305-4": {
+        "page": "96.txt",
+        "context_before": "GHG (Scope 1) 68-69; 88 305-2 Emissioni indirette di GHG da consumi 305: Emissioni (2016) 68-69; 88 energetici (Scope 2)",
+        "context_after": "Intensit delle emissioni di GHG 69-70 96",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": false,
+    "305-6": false,
+    "305-7": {
+        "page": "97.txt",
+        "context_before": "",
+        "context_after": "Ossidi di azoto (NOx), ossidi di zolfo (SOx) e 70; 89 altre emissioni significative Scarichi e rifiuti 103-1 Spiegazione del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": false,
+    "306-2": {
+        "page": "97.txt",
+        "context_before": "e le sue componenti 71 Approach (2016) 103-3 Valutazione delle modalit di gestione 71 71-72; 90 GRI 306: Rifiuti (2016)",
+        "context_after": "Rifiuti per tipo e metodo di smaltimento Valutazione ambientale dei fornitori 103-1 Spiegazione del tema materiale e del relativo 23;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": false,
+    "306-4": false,
+    "306-5": false,
+    "307-1": false,
+    "308-1": false,
+    "308-2": {
+        "page": "97.txt",
+        "context_before": "di gestione e le sue componenti 75-79 Approach (2016) 103-3 Valutazione delle modalit di gestione 75-79 GRI 308: Valutazione 77-79",
+        "context_after": "Impatti ambientali negativi nella catena di ambientale dei fornitura e azioni intraprese fornitori (2016) GRI 400: SOCIAL SERIES Occupazione 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 400": {
+        "page": "97.txt",
+        "context_before": "75-79 GRI 308: Valutazione 77-79 308-2 Impatti ambientali negativi nella catena di ambientale dei fornitura e azioni intraprese fornitori (2016)",
+        "context_after": ": SOCIAL SERIES Occupazione 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 perimetro GRI 103: Management 103-2 La",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": {
+        "page": "97.txt",
+        "context_before": "Management 103-2 La modalit di gestione e le sue componenti 49-50 Approach (2016) 103-3 Valutazione delle modalit di gestione 49-50",
+        "context_after": ": Occupazione 50; 85-86 401-1 Nuove assunzioni e turnover (2016) Lavoro e relazioni industriali 103-1 Spiegazione del tema materiale e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": false,
+    "GRI 403": {
+        "page": "56.txt",
+        "context_before": "Per il 2019  stato deciso di procedere con la rendicontazione dei dati relativi agli infortuni utilizzando il nuovo Standard",
+        "context_after": ", pubblicato dal Global Reporting Initiative (GRI) nel 2018 in sostituzione della versione finora utilizzata, pubblicata nel 2016. A fini",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "98.txt",
+        "context_before": "Management 103-2 La modalit di gestione e le sue componenti 51-52 Approach (2016) 103-3 Valutazione delle modalit di gestione 51-52",
+        "context_after": ": Formazione 404-1 Ore medie di formazione annua per 51; 86 e istruzione (2016) dipendente Diversit e pari opportunit 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "99.txt",
+        "context_before": "Valutazione delle modalit di gestione 41-43 Nel corso del 2019, non  stato riscontrato nessun caso di non conformit con",
+        "context_after": ": Etichettatura regolamenti e 417-3 Casi di non conformit riguardanti di prodotti e servizi codici volontari comunicazioni di marketing (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "99.txt",
+        "context_before": "Management 103-2 La modalit di gestione e le sue componenti 37-40 Approach (2016) 103-3 Valutazione delle modalit di gestione 37-40",
+        "context_after": ": Privacy dei 418-1 Denunce comprovate riguardanti le violazioni 40 consumatori (2016) della privacy dei clienti e perdita di dati",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "99.txt",
+        "context_before": "Approach (2016) 103-3 Valutazione delle modalit di gestione 28-31; 36 Nel corso del 2019 non sono stati registrati casi di",
+        "context_after": ": Conformit 419-1 Non conformit con leggi e normative in non-conformit a socio-economica materia sociale ed economica regolamenti e (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "97.txt",
+        "context_before": "gestione e le sue componenti 49-50 Approach (2016) 103-3 Valutazione delle modalit di gestione 49-50 GRI 401: Occupazione 50; 85-86",
+        "context_after": "Nuove assunzioni e turnover (2016) Lavoro e relazioni industriali 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": {
+        "page": "97.txt",
+        "context_before": "gestione e le sue componenti 49-50 Approach (2016) 103-3 Valutazione delle modalit di gestione 49-50 GRI 402: Lavoro e 50",
+        "context_after": "Periodo minimo di preavviso per cambiamenti relazioni industriali operativi (2016) Salute e sicurezza sul lavoro 103-1 Spiegazione del tema materiale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "97.txt",
+        "context_before": "Management 103-2 La modalit di gestione e le sue componenti 53-56 Approach (2016) 103-3 Valutazione delle modalit di gestione 53-56",
+        "context_after": "Sistema di gestione della salute e sicurezza sul 53-57 lavoro 403-2 Identificazione dei pericoli, valutazione dei 53-57 rischi e indagini",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "97.txt",
+        "context_before": "Approach (2016) 103-3 Valutazione delle modalit di gestione 53-56 403-1 Sistema di gestione della salute e sicurezza sul 53-57 lavoro",
+        "context_after": "Identificazione dei pericoli, valutazione dei 53-57 rischi e indagini sugli incidenti 403-3 Servizi di medicina del lavoro 53-57 403-4 Partecipazione",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "97.txt",
+        "context_before": "gestione della salute e sicurezza sul 53-57 lavoro 403-2 Identificazione dei pericoli, valutazione dei 53-57 rischi e indagini sugli incidenti",
+        "context_after": "Servizi di medicina del lavoro 53-57 403-4 Partecipazione e consultazione dei lavoratori 53-57 e comunicazione in materia di salute e",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "97.txt",
+        "context_before": "lavoro 403-2 Identificazione dei pericoli, valutazione dei 53-57 rischi e indagini sugli incidenti 403-3 Servizi di medicina del lavoro 53-57",
+        "context_after": "Partecipazione e consultazione dei lavoratori 53-57 e comunicazione in materia di salute e sicurezza sul GRI-403: Salute e lavoro sicurezza",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-5": {
+        "page": "97.txt",
+        "context_before": "consultazione dei lavoratori 53-57 e comunicazione in materia di salute e sicurezza sul GRI-403: Salute e lavoro sicurezza sul lavoro",
+        "context_after": "Formazione dei lavoratori in materia di salute 53-57 (2018) e sicurezza 403-6 Promozione della salute dei lavoratori 53-57 97",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-6": {
+        "page": "97.txt",
+        "context_before": "sul GRI-403: Salute e lavoro sicurezza sul lavoro 403-5 Formazione dei lavoratori in materia di salute 53-57 (2018) e sicurezza",
+        "context_after": "Promozione della salute dei lavoratori 53-57 97",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-7": {
+        "page": "98.txt",
+        "context_before": "",
+        "context_after": "Prevenzione e mitigazione degli impatti in 53-57 materia di salute e sicurezza sul lavoro allinterno delle relazioni commerciali 403-9 Infortuni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-8": false,
+    "403-9": {
+        "page": "98.txt",
+        "context_before": "403-7 Prevenzione e mitigazione degli impatti in 53-57 materia di salute e sicurezza sul lavoro allinterno delle relazioni commerciali",
+        "context_after": "Infortuni sul lavoro 56-57; 87 Formazione e istruzione 103-1 Spiegazione del tema materiale e del relativo 23; 80-82 GRI 103:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-10": false,
+    "404-1": {
+        "page": "98.txt",
+        "context_before": "modalit di gestione e le sue componenti 51-52 Approach (2016) 103-3 Valutazione delle modalit di gestione 51-52 GRI 404: Formazione",
+        "context_after": "Ore medie di formazione annua per 51; 86 e istruzione (2016) dipendente Diversit e pari opportunit 103-1 Spiegazione del tema",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": false,
+    "404-3": false,
+    "405-1": {
+        "page": "98.txt",
+        "context_before": "modalit di gestione e le sue componenti Approach (2016) 49; 52-53 103-3 Valutazione delle modalit di gestione 26; 49-50; 84",
+        "context_after": "Diversit negli organi di governo e tra i dipendenti 405: Diversit e pari opportunit (2016) 52-53 405-2 Rapporto dello stipendio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "98.txt",
+        "context_before": "26; 49-50; 84 405-1 Diversit negli organi di governo e tra i dipendenti 405: Diversit e pari opportunit (2016) 52-53",
+        "context_after": "Rapporto dello stipendio base e retribuzione delle donne rispetto agli uomini Non discriminazione 103-1 Spiegazione del tema materiale e del",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "98.txt",
+        "context_before": "componenti 50-51 Approach (2016) 103-3 Valutazione delle modalit di gestione 50-51 Nel corso del 2019, nessun caso di GRI-406: Non",
+        "context_after": "Episodi di discriminazione e misure correttive discriminazione Discriminazione adottate  stato (2016) confermato nelle diverse societ del Gruppo. Valutazione sociale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": false,
+    "413-2": false,
+    "414-1": false,
+    "414-2": {
+        "page": "98.txt",
+        "context_before": "di gestione 75-79 Nel corso del 2019 il Gruppo non ha effettuato specifiche valutazioni sui GRI-414: Valutazione fornitori in merito",
+        "context_after": "Impatti sociali negativi sulla catena di sociale dei fornitori agli impatti sociali, fornitura e azioni intraprese (2016) ma ad inizio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "415-1": false,
+    "416-1": {
+        "page": "100.txt",
+        "context_before": "103-3 Valutazione delle modalit di gestione 44-45 Rispetto ai servizi alberghieri, ogni struttura alberghiera GRI 416: Salute e effettua una",
+        "context_after": "Valutazione degli impatti sulla salute e sulla sicurezza dei clienti valutazione dei sicurezza per categorie di prodotto e servizi (2016)",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-2": false,
+    "417-1": false,
+    "417-2": false,
+    "417-3": {
+        "page": "99.txt",
+        "context_before": "41-43 Nel corso del 2019, non  stato riscontrato nessun caso di non conformit con GRI 417: Etichettatura regolamenti e",
+        "context_after": "Casi di non conformit riguardanti di prodotti e servizi codici volontari comunicazioni di marketing (2016) riferiti allattivit di marketing incluse",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "99.txt",
+        "context_before": "di gestione e le sue componenti 37-40 Approach (2016) 103-3 Valutazione delle modalit di gestione 37-40 GRI 418: Privacy dei",
+        "context_after": "Denunce comprovate riguardanti le violazioni 40 consumatori (2016) della privacy dei clienti e perdita di dati dei clienti Conformit socio-economica",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "99.txt",
+        "context_before": "Valutazione delle modalit di gestione 28-31; 36 Nel corso del 2019 non sono stati registrati casi di GRI 419: Conformit",
+        "context_after": "Non conformit con leggi e normative in non-conformit a socio-economica materia sociale ed economica regolamenti e (2016) leggi in materia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}

@@ -1,0 +1,583 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "92.txt",
+        "context_before": "44 manageriale e le sue per gli stakeholders caratteristiche 103-3 Valutazione Affidabilit nel tempo 44 dellapproccio per gli stakeholders manageriale",
+        "context_after": "Performance economiche 201-1 Valore economico Affidabilit nel tempo 44 direttamente generato per gli stakeholders e distribuito Le persone e il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 202": {
+        "page": "92.txt",
+        "context_before": "sue valori che generano valore caratteristiche 103-3 Valutazione Le persone e il territorio: 46 dellapproccio valori che generano valore manageriale",
+        "context_after": "Presenza sul mercato 202-1 Rapporto tra il salario Le persone e il territorio: 46 dingresso di base valori che generano",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "93.txt",
+        "context_before": "la comunit locale 38 manageriale e le sue caratteristiche 103-3 Valutazione Il territorio e la comunit locale 38 dellapproccio manageriale",
+        "context_after": "Impatti economici indiretti 203-1 Sviluppo e impatto Il territorio e la comunit locale 38 degli investimenti nelle infrastrutture e nei",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "92.txt",
+        "context_before": "sue per gli stakeholders caratteristiche 103-3 Valutazione Affidabilit nel tempo 44 dellapproccio per gli stakeholders manageriale GRI 201 Performance economiche",
+        "context_after": "Valore economico Affidabilit nel tempo 44 direttamente generato per gli stakeholders e distribuito Le persone e il territorio: 46 valori",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-2": {
+        "page": "92.txt",
+        "context_before": "nel tempo 44 direttamente generato per gli stakeholders e distribuito Le persone e il territorio: 46 valori che generano valore",
+        "context_after": "Rischi ed opportunit Rischi ed opportunit legati 79 legati ai cambiamenti ai cambiamenti climatici climatici: possibili implicazioni economico- finanziarie 201-3",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "201-3": {
+        "page": "92.txt",
+        "context_before": "201-2 Rischi ed opportunit Rischi ed opportunit legati 79 legati ai cambiamenti ai cambiamenti climatici climatici: possibili implicazioni economico- finanziarie",
+        "context_after": "Politiche e pratiche di Un positivo clima aziendale 53 assurance 201-4 Aiuti pubblici ricevuti Isap non ha beneficiato di aiuti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "201-4": {
+        "page": "92.txt",
+        "context_before": "cambiamenti ai cambiamenti climatici climatici: possibili implicazioni economico- finanziarie 201-3 Politiche e pratiche di Un positivo clima aziendale 53 assurance",
+        "context_after": "Aiuti pubblici ricevuti Isap non ha beneficiato di aiuti pubblici Presenza sul mercato GRI 103 Approccio Manageriale 103-1 Aspetti materiali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "202-1": {
+        "page": "92.txt",
+        "context_before": "caratteristiche 103-3 Valutazione Le persone e il territorio: 46 dellapproccio valori che generano valore manageriale GRI 202 Presenza sul mercato",
+        "context_after": "Rapporto tra il salario Le persone e il territorio: 46 dingresso di base valori che generano valore suddiviso per genere",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "93.txt",
+        "context_before": "ISAP - Report di Sostenibilit / 2018 TABELLA DI CORRELAZIONE 94 RIFERIMENTO CAPITOLO STANDARDS DESCRIZIONE PAG. NOTE PARAGRAFO",
+        "context_after": "Proporzione di senior Le persone e il territorio: 46 management assunto valori che generano valore localmente per le principali sedi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "93.txt",
+        "context_before": "e le sue caratteristiche 103-3 Valutazione Il territorio e la comunit locale 38 dellapproccio manageriale GRI 203 Impatti economici indiretti",
+        "context_after": "Sviluppo e impatto Il territorio e la comunit locale 38 degli investimenti nelle infrastrutture e nei servizi di supporto (vedi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "93.txt",
+        "context_before": "impatto Il territorio e la comunit locale 38 degli investimenti nelle infrastrutture e nei servizi di supporto (vedi dettaglio standards)",
+        "context_after": "Impatti economici Impegno e responsabilit 43 indiretti significativi alla base dei valori economici Dipendenti GRI 103 Approccio Manageriale 103-1 Aspetti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "204-1": false,
+    "205-1": false,
+    "205-2": false,
+    "205-3": false,
+    "206-1": false,
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "97.txt",
+        "context_before": "loro perimetro e nota metodologica 103-2 Lapproccio Materiali 73 manageriale e le sue caratteristiche 103-3 Valutazione Materiali 73 dellapproccio manageriale",
+        "context_after": "Materiali 3011 Consumo di materiali Materiali 73 (peso e volume)  per prodotti, imballaggi e servizi dellazienda 301-2 Percentuale di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "97.txt",
+        "context_before": "loro perimetro e nota metodologica 103-2 Lapproccio Energia 76 manageriale e le sue caratteristiche 103-3 Valutazione Energia 76 dellapproccio manageriale",
+        "context_after": "Energia 302-1 Consumo energetico Energia 76 interno dellazienda 302-2 Consumo energetico Non rendicontato esterno allazienda (fornitori, trasporti, distribuzione, ecc) 302-3",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "98.txt",
+        "context_before": "metodologica 103-2 Lapproccio Acqua e rifiuti 77 manageriale e le sue caratteristiche 103-3 Valutazione Acqua e rifiuti 77 dellapproccio manageriale",
+        "context_after": "Acqua 303-1 Volume totale di acqua Non rendicontato prelevata per tipo di sorgente 303-2 Sorgenti di Acqua e rifiuti 77",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 304": {
+        "page": "98.txt",
+        "context_before": "loro perimetro e nota metodologica 103-2 Lapproccio Biodiversit 78 manageriale e le sue caratteristiche 103-3 Valutazione Biodiversit 78 dellapproccio manageriale",
+        "context_after": "Biodiversit 304-1 Siti operativi propri, Biodiversit 78 affittati, gestiti in aree protette o adiacenti ad aree protette e in aree",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 305": {
+        "page": "99.txt",
+        "context_before": "loro perimetro e nota metodologica 103-2 Lapproccio Emissioni 78 manageriale e le sue caratteristiche 103-3 Valutazione Emissioni 78 dellapproccio manageriale",
+        "context_after": "Emissioni 305-1 Emissioni dirette Non rendicontato di gas GHG 305-2 Emissioni indirette Non rendicontato di gas GHG 305-3 Altre emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 306": {
+        "page": "99.txt",
+        "context_before": "metodologica 103-2 Lapproccio Acqua e rifiuti 77 manageriale e le sue caratteristiche 103-3 Valutazione Acqua e rifiuti 77 dellapproccio manageriale",
+        "context_after": "Acque reflue e rifiuti 306-2 Peso totale dei rifiuti Acqua e rifiuti 77 smaltiti suddivisi per tipo e modalit di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": false,
+    "301-2": {
+        "page": "97.txt",
+        "context_before": "manageriale GRI 301 Materiali 3011 Consumo di materiali Materiali 73 (peso e volume)  per prodotti, imballaggi e servizi dellazienda",
+        "context_after": "Percentuale di materiali Materiali 73 utilizzati provenienti dal Un sistema logistico distributivo 74 riciclo intelligente per minimizzare gli impatti ambientali",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "97.txt",
+        "context_before": "Materiali 73 utilizzati provenienti dal Un sistema logistico distributivo 74 riciclo intelligente per minimizzare gli impatti ambientali Certificazione PSV 75",
+        "context_after": "Percentuale di Certificazione PSV 75 prodotto venduto e di Plastica Seconda Vita imballaggio riciclato o riutilizzato Energia GRI 103 Approccio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "97.txt",
+        "context_before": "nota metodologica 103-2 Lapproccio Energia 76 manageriale e le sue caratteristiche 103-3 Valutazione Energia 76 dellapproccio manageriale GRI 302 Energia",
+        "context_after": "Consumo energetico Energia 76 interno dellazienda 302-2 Consumo energetico Non rendicontato esterno allazienda (fornitori, trasporti, distribuzione, ecc) 302-3 Intensit energetica",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "97.txt",
+        "context_before": "e le sue caratteristiche 103-3 Valutazione Energia 76 dellapproccio manageriale GRI 302 Energia 302-1 Consumo energetico Energia 76 interno dellazienda",
+        "context_after": "Consumo energetico Non rendicontato esterno allazienda (fornitori, trasporti, distribuzione, ecc) 302-3 Intensit energetica Non rendicontato 302-4 Riduzione del La Trigenerazione,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "97.txt",
+        "context_before": "302 Energia 302-1 Consumo energetico Energia 76 interno dellazienda 302-2 Consumo energetico Non rendicontato esterno allazienda (fornitori, trasporti, distribuzione, ecc)",
+        "context_after": "Intensit energetica Non rendicontato 302-4 Riduzione del La Trigenerazione, 76 consumo energetico risparmio ed efficientamento energetico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "302-4": {
+        "page": "97.txt",
+        "context_before": "Energia 76 interno dellazienda 302-2 Consumo energetico Non rendicontato esterno allazienda (fornitori, trasporti, distribuzione, ecc) 302-3 Intensit energetica Non rendicontato",
+        "context_after": "Riduzione del La Trigenerazione, 76 consumo energetico risparmio ed efficientamento energetico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "98.txt",
+        "context_before": "TABELLA DI CORRELAZIONE ISAP - Report di Sostenibilit / 2018 99 RIFERIMENTO CAPITOLO STANDARDS DESCRIZIONE PAG. NOTE PARAGRAFO",
+        "context_after": "Riduzione del Non rendicontato fabbisogno energetico per prodotti e servizi Acqua GRI 103 Approccio Manageriale 103-1 Aspetti materiali e il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "98.txt",
+        "context_before": "Acqua e rifiuti 77 manageriale e le sue caratteristiche 103-3 Valutazione Acqua e rifiuti 77 dellapproccio manageriale GRI 303 Acqua",
+        "context_after": "Volume totale di acqua Non rendicontato prelevata per tipo di sorgente 303-2 Sorgenti di Acqua e rifiuti 77 approvvigionamento dacqua",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "303-2": {
+        "page": "98.txt",
+        "context_before": "e rifiuti 77 dellapproccio manageriale GRI 303 Acqua 303-1 Volume totale di acqua Non rendicontato prelevata per tipo di sorgente",
+        "context_after": "Sorgenti di Acqua e rifiuti 77 approvvigionamento dacqua pi utilizzate 303-3 Quantit di acqua Non rendicontato riciclata e riutilizzata Biodiversit",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "303-3": {
+        "page": "98.txt",
+        "context_before": "di acqua Non rendicontato prelevata per tipo di sorgente 303-2 Sorgenti di Acqua e rifiuti 77 approvvigionamento dacqua pi utilizzate",
+        "context_after": "Quantit di acqua Non rendicontato riciclata e riutilizzata Biodiversit GRI 103 Approccio Manageriale 103-1 Aspetti materiali e il Analisi di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": {
+        "page": "98.txt",
+        "context_before": "nota metodologica 103-2 Lapproccio Biodiversit 78 manageriale e le sue caratteristiche 103-3 Valutazione Biodiversit 78 dellapproccio manageriale GRI 304 Biodiversit",
+        "context_after": "Siti operativi propri, Biodiversit 78 affittati, gestiti in aree protette o adiacenti ad aree protette e in aree ad alta",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-2": {
+        "page": "98.txt",
+        "context_before": "operativi propri, Biodiversit 78 affittati, gestiti in aree protette o adiacenti ad aree protette e in aree ad alta biodiversit",
+        "context_after": "Descrizione di impatti Non rendicontato Non si ravvisano impatti significativi provocati significativi provocati da da attivit , prodotti e attivit",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "304-3": {
+        "page": "99.txt",
+        "context_before": "ISAP - Report di Sostenibilit / 2018 TABELLA DI CORRELAZIONE 100 RIFERIMENTO CAPITOLO STANDARDS DESCRIZIONE PAG. NOTE PARAGRAFO",
+        "context_after": "Habitat protetti o Non rendicontato restaurati 304-4 Habitat di specie Non rendicontato minacciate presso i siti aziendali Emissioni GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-4": {
+        "page": "99.txt",
+        "context_before": "/ 2018 TABELLA DI CORRELAZIONE 100 RIFERIMENTO CAPITOLO STANDARDS DESCRIZIONE PAG. NOTE PARAGRAFO 304-3 Habitat protetti o Non rendicontato restaurati",
+        "context_after": "Habitat di specie Non rendicontato minacciate presso i siti aziendali Emissioni GRI 103 Approccio Manageriale 103-1 Aspetti materiali e il",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-1": {
+        "page": "99.txt",
+        "context_before": "nota metodologica 103-2 Lapproccio Emissioni 78 manageriale e le sue caratteristiche 103-3 Valutazione Emissioni 78 dellapproccio manageriale GRI 305 Emissioni",
+        "context_after": "Emissioni dirette Non rendicontato di gas GHG 305-2 Emissioni indirette Non rendicontato di gas GHG 305-3 Altre emissioni indirette Emissioni",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "99.txt",
+        "context_before": "le sue caratteristiche 103-3 Valutazione Emissioni 78 dellapproccio manageriale GRI 305 Emissioni 305-1 Emissioni dirette Non rendicontato di gas GHG",
+        "context_after": "Emissioni indirette Non rendicontato di gas GHG 305-3 Altre emissioni indirette Emissioni 78 di gas GHG Acque reflue e rifiuti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "99.txt",
+        "context_before": "manageriale GRI 305 Emissioni 305-1 Emissioni dirette Non rendicontato di gas GHG 305-2 Emissioni indirette Non rendicontato di gas GHG",
+        "context_after": "Altre emissioni indirette Emissioni 78 di gas GHG Acque reflue e rifiuti GRI 103 Approccio Manageriale 103-1 Aspetti materiali e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": false,
+    "305-5": false,
+    "305-6": false,
+    "305-7": false,
+    "306-1": false,
+    "306-2": {
+        "page": "99.txt",
+        "context_before": "77 manageriale e le sue caratteristiche 103-3 Valutazione Acqua e rifiuti 77 dellapproccio manageriale GRI 306 Acque reflue e rifiuti",
+        "context_after": "Peso totale dei rifiuti Acqua e rifiuti 77 smaltiti suddivisi per tipo e modalit di trattamento 306-3 Numero e volume",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-3": {
+        "page": "99.txt",
+        "context_before": "reflue e rifiuti 306-2 Peso totale dei rifiuti Acqua e rifiuti 77 smaltiti suddivisi per tipo e modalit di trattamento",
+        "context_after": "Numero e volume di Acqua e rifiuti 77 scarichi significativi 306-5 Ecosistemi acquatici e Non rendicontato corsi dacqua toccati da",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-4": false,
+    "306-5": {
+        "page": "99.txt",
+        "context_before": "77 smaltiti suddivisi per tipo e modalit di trattamento 306-3 Numero e volume di Acqua e rifiuti 77 scarichi significativi",
+        "context_after": "Ecosistemi acquatici e Non rendicontato corsi dacqua toccati da scarichi e fuoriuscita di acque dallazienda",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "307-1": false,
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "93.txt",
+        "context_before": "50 manageriale e le sue e il capitale umano caratteristiche 103-3 Valutazione Lorganizzazione 50 dellapproccio e il capitale umano manageriale",
+        "context_after": "Dipendenti 401-1 Totale nuove assunzioni Lorganizzazione 50 e turnover e il capitale umano 401-2 Benefit previsti per Le persone e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 402": {
+        "page": "94.txt",
+        "context_before": "materialit 23-33 e le sue caratteristiche e nota metodologica 103-3 Valutazione Analisi di materialit 23-33 dellapproccio e nota metodologica manageriale",
+        "context_after": "Relazioni Industriali 402-1 Periodo di preavviso LOrganizzazione si ade- minimo in caso gua alle normative cogenti di cambiamenti organizzativi Salute",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 403": {
+        "page": "94.txt",
+        "context_before": "miliare nella storia di Isap 103-3 Valutazione La cultura della sicurezza, 60 dellapproccio pietra miliare nella storia di Isap manageriale",
+        "context_after": "Salute e sicurezza sul lavoro 403-1 Percentuale di La cultura della sicurezza, 60 rappresentanza dei pietra miliare nella storia di",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 404": {
+        "page": "95.txt",
+        "context_before": "manageriale e le sue strategica per competere caratteristiche 103-3 Valutazione La formazione, una leva 56 dellapproccio strategica per competere manageriale",
+        "context_after": "Formazione e Sviluppo 404-1 Numero medio di ore La formazione, una leva 56 annue di formazione strategica per competere per",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "GRI 405": {
+        "page": "95.txt",
+        "context_before": "50 manageriale e le sue e il capitale umano caratteristiche 103-3 Valutazione Lorganizzazione 50 dellapproccio e il capitale umano manageriale",
+        "context_after": "Diversit e Pari Opportunit 405-1 Composizione della Lorganizzazione 50 governance e dei e il capitale umano dipendenti per vari indicatori",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": {
+        "page": "96.txt",
+        "context_before": "la comunit locale 38 manageriale e le sue caratteristiche 103-3 Valutazione Il territorio e la comunit locale 38 dellapproccio manageriale",
+        "context_after": "Comunit locali 413-1 Operations che Il territorio e la comunit locale 38 hanno previsto la partecipazione delle comunit locali, loro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": {
+        "page": "96.txt",
+        "context_before": "sue per il benessere della collettivit caratteristiche 103-3 Valutazione Un prodotto sicuro 64 dellapproccio per il benessere della collettivit manageriale",
+        "context_after": "Marketing e etichettatura 417-1 Informazioni richieste Un prodotto sicuro 64 dalle procedure per il benessere della collettivit organizzative per prodotti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "93.txt",
+        "context_before": "le sue e il capitale umano caratteristiche 103-3 Valutazione Lorganizzazione 50 dellapproccio e il capitale umano manageriale GRI 401 Dipendenti",
+        "context_after": "Totale nuove assunzioni Lorganizzazione 50 e turnover e il capitale umano 401-2 Benefit previsti per Le persone e il territorio:",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": {
+        "page": "93.txt",
+        "context_before": "e il capitale umano manageriale GRI 401 Dipendenti 401-1 Totale nuove assunzioni Lorganizzazione 50 e turnover e il capitale umano",
+        "context_after": "Benefit previsti per Le persone e il territorio: 46 lavoratori full-time ma valori che generano valore non per lavoratori part-time",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "401-3": {
+        "page": "93.txt",
+        "context_before": "Le persone e il territorio: 46 lavoratori full-time ma valori che generano valore non per lavoratori part-time o a termine",
+        "context_after": "Congedi parentali Lorganizzazione 50 e il capitale umano",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "94.txt",
+        "context_before": "sue caratteristiche e nota metodologica 103-3 Valutazione Analisi di materialit 23-33 dellapproccio e nota metodologica manageriale GRI 402 Relazioni Industriali",
+        "context_after": "Periodo di preavviso LOrganizzazione si ade- minimo in caso gua alle normative cogenti di cambiamenti organizzativi Salute e sicurezza sul",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-1": {
+        "page": "94.txt",
+        "context_before": "La cultura della sicurezza, 60 dellapproccio pietra miliare nella storia di Isap manageriale GRI 403 Salute e sicurezza sul lavoro",
+        "context_after": "Percentuale di La cultura della sicurezza, 60 rappresentanza dei pietra miliare nella storia di Isap dipendenti in comitati Salute e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "94.txt",
+        "context_before": "dipendenti in comitati Salute e sicurezza, un impegno 60 di salute e sicurezza sul che coinvolge azienda e lavoratori lavoro",
+        "context_after": "Tasso e tipo di incidenti La cultura della sicurezza, 60 sul lavoro, di malattie pietra miliare nella storia di Isap",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "94.txt",
+        "context_before": "miliare nella storia di Isap professionali, di giornate di lavoro perse, di assenteismo e numero di decessi legati allattivit lavorativa",
+        "context_after": "Dipendenti esposti ad Non rendicontato In Isap i dipendenti alto rischio di malattie nellesecuzione delle attivit lavorative non sono legate",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "95.txt",
+        "context_before": "ISAP - Report di Sostenibilit / 2018 TABELLA DI CORRELAZIONE 96 RIFERIMENTO CAPITOLO STANDARDS DESCRIZIONE PAG. NOTE PARAGRAFO",
+        "context_after": "Problematiche di salute Lavoro Sicuro 62 e sicurezza coperte da accordi formali con i sindacati Formazione e Sviluppo GRI 103",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "95.txt",
+        "context_before": "per competere caratteristiche 103-3 Valutazione La formazione, una leva 56 dellapproccio strategica per competere manageriale GRI 404 Formazione e Sviluppo",
+        "context_after": "Numero medio di ore La formazione, una leva 56 annue di formazione strategica per competere per dipendente 404-2 Programmi per",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "95.txt",
+        "context_before": "e Sviluppo 404-1 Numero medio di ore La formazione, una leva 56 annue di formazione strategica per competere per dipendente",
+        "context_after": "Programmi per Lettera agli stakeholders 6 lo sviluppo di Innovazione di processo 28 competenze e e di prodotto avanzamento di",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "95.txt",
+        "context_before": "di carriera La formazione, una leva 56 e per la gestione della strategica per competere fase finale della carriera lavorativa",
+        "context_after": "Percentuale di La formazione, una leva 56 dipendenti per i quali  strategica per competere prevista una valutazione periodica regolare",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "95.txt",
+        "context_before": "il capitale umano caratteristiche 103-3 Valutazione Lorganizzazione 50 dellapproccio e il capitale umano manageriale GRI 405 Diversit e Pari Opportunit",
+        "context_after": "Composizione della Lorganizzazione 50 governance e dei e il capitale umano dipendenti per vari indicatori di diversit (genere, et ,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "405-2": {
+        "page": "96.txt",
+        "context_before": "TABELLA DI CORRELAZIONE ISAP - Report di Sostenibilit / 2018 97 RIFERIMENTO CAPITOLO STANDARDS DESCRIZIONE PAG. NOTE PARAGRAFO",
+        "context_after": "Rapporto tra stipendio Lorganizzazione 50 di base di donne e e il capitale umano uomini Comunit locali GRI 103 Approccio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": false,
+    "407-1": false,
+    "408-1": false,
+    "409-1": false,
+    "410-1": false,
+    "411-1": false,
+    "412-1": false,
+    "412-2": false,
+    "412-3": false,
+    "413-1": {
+        "page": "96.txt",
+        "context_before": "manageriale e le sue caratteristiche 103-3 Valutazione Il territorio e la comunit locale 38 dellapproccio manageriale GRI 413 Comunit locali",
+        "context_after": "Operations che Il territorio e la comunit locale 38 hanno previsto la partecipazione delle comunit locali, loro impatto e programmi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": false,
+    "414-1": false,
+    "414-2": false,
+    "415-1": false,
+    "416-1": false,
+    "416-2": false,
+    "417-1": {
+        "page": "96.txt",
+        "context_before": "collettivit caratteristiche 103-3 Valutazione Un prodotto sicuro 64 dellapproccio per il benessere della collettivit manageriale GRI 417 Marketing e etichettatura",
+        "context_after": "Informazioni richieste Un prodotto sicuro 64 dalle procedure per il benessere della collettivit organizzative per prodotti e servizi e loro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "96.txt",
+        "context_before": "richieste Un prodotto sicuro 64 dalle procedure per il benessere della collettivit organizzative per prodotti e servizi e loro etichettatura",
+        "context_after": "Incidenti di non Un prodotto sicuro 64 conformit su prodotti, per il benessere della collettivit servizi ed etichettatura 417-3 Incidenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "96.txt",
+        "context_before": "etichettatura 417-2 Incidenti di non Un prodotto sicuro 64 conformit su prodotti, per il benessere della collettivit servizi ed etichettatura",
+        "context_after": "Incidenti di non Non si riscontrano conformit legati incidenti di non alle attivit di conformit legati alle comunicazione attivit di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "418-1": false,
+    "419-1": false
+}

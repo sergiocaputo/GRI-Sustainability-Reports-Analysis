@@ -1,0 +1,733 @@
+{
+    "GRI 200": {
+        "page": "88.txt",
+        "context_before": "GRI INFORMAZIONE CAPITOLI",
+        "context_after": ": ECONOMICS TOPICS Performance Economica 103-1 Spiegazione degli aspetti materiali e loro perimetro Capitolo 6 103-2 Approccio gestionale e sue",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 201": false,
+    "GRI 202": false,
+    "GRI 203": false,
+    "GRI 204": false,
+    "GRI 205": false,
+    "GRI 206": false,
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "88.txt",
+        "context_before": "e loro perimetro Capitolo 6 103-2 Approccio gestionale e sue componenti Capitolo 6 103-3 valutazione dellapproccio di gestione Capitolo 6",
+        "context_after": "Valore economico direttamente generato e distribuito Capitolo 6 201-2 Implicazioni finanziarie e altri rischi e opportunit dovuti ai cambiamenti climatici",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-2": {
+        "page": "88.txt",
+        "context_before": "sue componenti Capitolo 6 103-3 valutazione dellapproccio di gestione Capitolo 6 201-1 Valore economico direttamente generato e distribuito Capitolo 6",
+        "context_after": "Implicazioni finanziarie e altri rischi e opportunit dovuti ai cambiamenti climatici 201-3 Piani pensionistici a benefici definiti a altri piani",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-3": {
+        "page": "88.txt",
+        "context_before": "Valore economico direttamente generato e distribuito Capitolo 6 201-2 Implicazioni finanziarie e altri rischi e opportunit dovuti ai cambiamenti climatici",
+        "context_after": "Piani pensionistici a benefici definiti a altri piani di pensionamento 201-4 Assistenza finanziaria ricevuta dal governo 202-1 Rapporto tra lo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "88.txt",
+        "context_before": "e altri rischi e opportunit dovuti ai cambiamenti climatici 201-3 Piani pensionistici a benefici definiti a altri piani di pensionamento",
+        "context_after": "Assistenza finanziaria ricevuta dal governo 202-1 Rapporto tra lo stipendio standard dei neoassunti, suddiviso per genere, e lo stipendio minimo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "88.txt",
+        "context_before": "ai cambiamenti climatici 201-3 Piani pensionistici a benefici definiti a altri piani di pensionamento 201-4 Assistenza finanziaria ricevuta dal governo",
+        "context_after": "Rapporto tra lo stipendio standard dei neoassunti, suddiviso per genere, e lo stipendio minimo locale 202-2 Proporzione di senior manager",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "88.txt",
+        "context_before": "finanziaria ricevuta dal governo 202-1 Rapporto tra lo stipendio standard dei neoassunti, suddiviso per genere, e lo stipendio minimo locale",
+        "context_after": "Proporzione di senior manager assunti dalla comunit locale 203-1 Investimenti infrastrutturali e servizi finanziati Capitolo 5 203-2 Impatti economici indiretti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "88.txt",
+        "context_before": "standard dei neoassunti, suddiviso per genere, e lo stipendio minimo locale 202-2 Proporzione di senior manager assunti dalla comunit locale",
+        "context_after": "Investimenti infrastrutturali e servizi finanziati Capitolo 5 203-2 Impatti economici indiretti 204-1 Proporzione di spesa verso fornitori locali Anti-corruzione 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-2": {
+        "page": "88.txt",
+        "context_before": "stipendio minimo locale 202-2 Proporzione di senior manager assunti dalla comunit locale 203-1 Investimenti infrastrutturali e servizi finanziati Capitolo 5",
+        "context_after": "Impatti economici indiretti 204-1 Proporzione di spesa verso fornitori locali Anti-corruzione 103-1 Spiegazione degli aspetti materiali e loro perimetro Capitolo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": {
+        "page": "88.txt",
+        "context_before": "Proporzione di senior manager assunti dalla comunit locale 203-1 Investimenti infrastrutturali e servizi finanziati Capitolo 5 203-2 Impatti economici indiretti",
+        "context_after": "Proporzione di spesa verso fornitori locali Anti-corruzione 103-1 Spiegazione degli aspetti materiali e loro perimetro Capitolo 6 103-2 Approccio gestionale",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-1": {
+        "page": "88.txt",
+        "context_before": "e loro perimetro Capitolo 6 103-2 Approccio gestionale e sue componenti Capitolo 6 103-3 Valutazione dellapproccio di gestione Capitolo 6",
+        "context_after": "Operazioni valutate per i rischi legati alla corruzione 205-2 Comunicazione e formazione in materia di politiche e procedure anticorruzione Capitolo",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "88.txt",
+        "context_before": "sue componenti Capitolo 6 103-3 Valutazione dellapproccio di gestione Capitolo 6 205-1 Operazioni valutate per i rischi legati alla corruzione",
+        "context_after": "Comunicazione e formazione in materia di politiche e procedure anticorruzione Capitolo 1, Capitolo 2 205-3 Episodi di corruzione accertati e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "88.txt",
+        "context_before": "i rischi legati alla corruzione 205-2 Comunicazione e formazione in materia di politiche e procedure anticorruzione Capitolo 1, Capitolo 2",
+        "context_after": "Episodi di corruzione accertati e azioni intraprese Capitolo 1 206-1 Azioni legali per comportamento anticoncorrenziale, Capitolo 1 antitrust e pratiche",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "88.txt",
+        "context_before": "materia di politiche e procedure anticorruzione Capitolo 1, Capitolo 2 205-3 Episodi di corruzione accertati e azioni intraprese Capitolo 1",
+        "context_after": "Azioni legali per comportamento anticoncorrenziale, Capitolo 1 antitrust e pratiche monopolistiche. 89",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": {
+        "page": "89.txt",
+        "context_before": "GRI INFORMAZIONE CAPITOLI",
+        "context_after": ": ENVIRONMENTALS TOPICS Energia 103-1 Spiegazione degli aspetti materiali e loro perimetro Capitolo 4 103-2 Approccio gestionale e sue componenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 301": false,
+    "GRI 302": false,
+    "GRI 303": false,
+    "GRI 304": false,
+    "GRI 305": false,
+    "GRI 306": false,
+    "GRI 307": false,
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "89.txt",
+        "context_before": "e loro perimetro Capitolo 4 103-2 Approccio gestionale e sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4",
+        "context_after": "Materiali utilizzati per peso e volume Capitolo 4 301-2 Materiali utilizzati che provengono da riciclo Capitolo 4 parziale 301-3 Prodotti",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "89.txt",
+        "context_before": "sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4 301-1 Materiali utilizzati per peso e volume Capitolo 4",
+        "context_after": "Materiali utilizzati che provengono da riciclo Capitolo 4 parziale 301-3 Prodotti recuperati o rigenerati e relativi materiali di imballaggio 302-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "89.txt",
+        "context_before": "4 301-1 Materiali utilizzati per peso e volume Capitolo 4 301-2 Materiali utilizzati che provengono da riciclo Capitolo 4 parziale",
+        "context_after": "Prodotti recuperati o rigenerati e relativi materiali di imballaggio 302-1 Energia consumata allinterno dellorganizzazione Capitolo 4 302-2 Energia consumata allesterno",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "89.txt",
+        "context_before": "301-2 Materiali utilizzati che provengono da riciclo Capitolo 4 parziale 301-3 Prodotti recuperati o rigenerati e relativi materiali di imballaggio",
+        "context_after": "Energia consumata allinterno dellorganizzazione Capitolo 4 302-2 Energia consumata allesterno dellorganizzazione 302-3 Intensit energetica 302-4 Riduzione del consumo di energia",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "89.txt",
+        "context_before": "Capitolo 4 parziale 301-3 Prodotti recuperati o rigenerati e relativi materiali di imballaggio 302-1 Energia consumata allinterno dellorganizzazione Capitolo 4",
+        "context_after": "Energia consumata allesterno dellorganizzazione 302-3 Intensit energetica 302-4 Riduzione del consumo di energia Capitolo 4 302-5 Riduzione del fabbisogno energetico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "89.txt",
+        "context_before": "recuperati o rigenerati e relativi materiali di imballaggio 302-1 Energia consumata allinterno dellorganizzazione Capitolo 4 302-2 Energia consumata allesterno dellorganizzazione",
+        "context_after": "Intensit energetica 302-4 Riduzione del consumo di energia Capitolo 4 302-5 Riduzione del fabbisogno energetico dei prodotti e dei servizi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "89.txt",
+        "context_before": "e relativi materiali di imballaggio 302-1 Energia consumata allinterno dellorganizzazione Capitolo 4 302-2 Energia consumata allesterno dellorganizzazione 302-3 Intensit energetica",
+        "context_after": "Riduzione del consumo di energia Capitolo 4 302-5 Riduzione del fabbisogno energetico dei prodotti e dei servizi Capitolo 4 Acqua",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "89.txt",
+        "context_before": "allinterno dellorganizzazione Capitolo 4 302-2 Energia consumata allesterno dellorganizzazione 302-3 Intensit energetica 302-4 Riduzione del consumo di energia Capitolo 4",
+        "context_after": "Riduzione del fabbisogno energetico dei prodotti e dei servizi Capitolo 4 Acqua 103-1 Spiegazione degli aspetti materiali e loro perimetro",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "89.txt",
+        "context_before": "e loro perimetro Capitolo 4 103-2 Approccio gestionale e sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4",
+        "context_after": "Prelievo dacqua per fonte Capitolo 4 303-2 Gestione degli impatti correlati allo scarico di acqua 303-3 Prelievo idrico 303-4 Scarico",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-2": {
+        "page": "89.txt",
+        "context_before": "gestionale e sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4 303-1 Prelievo dacqua per fonte Capitolo 4",
+        "context_after": "Gestione degli impatti correlati allo scarico di acqua 303-3 Prelievo idrico 303-4 Scarico di acqua 303-5 Consumo di acqua Biodiversit",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-3": {
+        "page": "89.txt",
+        "context_before": "di gestione Capitolo 4 303-1 Prelievo dacqua per fonte Capitolo 4 303-2 Gestione degli impatti correlati allo scarico di acqua",
+        "context_after": "Prelievo idrico 303-4 Scarico di acqua 303-5 Consumo di acqua Biodiversit 304-1 Siti operativi di propriet ti, affittati, o gestiti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-4": {
+        "page": "89.txt",
+        "context_before": "4 303-1 Prelievo dacqua per fonte Capitolo 4 303-2 Gestione degli impatti correlati allo scarico di acqua 303-3 Prelievo idrico",
+        "context_after": "Scarico di acqua 303-5 Consumo di acqua Biodiversit 304-1 Siti operativi di propriet ti, affittati, o gestiti in aree (o",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-5": {
+        "page": "89.txt",
+        "context_before": "per fonte Capitolo 4 303-2 Gestione degli impatti correlati allo scarico di acqua 303-3 Prelievo idrico 303-4 Scarico di acqua",
+        "context_after": "Consumo di acqua Biodiversit 304-1 Siti operativi di propriet ti, affittati, o gestiti in aree (o adiacenti ad aree) protette",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "304-1": {
+        "page": "89.txt",
+        "context_before": "Gestione degli impatti correlati allo scarico di acqua 303-3 Prelievo idrico 303-4 Scarico di acqua 303-5 Consumo di acqua Biodiversit",
+        "context_after": "Siti operativi di propriet ti, affittati, o gestiti in aree (o adiacenti ad aree) protette o in aree ad elevata",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "304-2": {
+        "page": "89.txt",
+        "context_before": "affittati, o gestiti in aree (o adiacenti ad aree) protette o in aree ad elevata biodiversit esterne alle aree protette",
+        "context_after": "Impatti significativi di attivit , prodotti e servizi sulla biodiversit 304-3 Habitat protetti o ripristinati 304-4 Specie elencate nella lista",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "304-3": {
+        "page": "89.txt",
+        "context_before": "in aree ad elevata biodiversit esterne alle aree protette 304-2 Impatti significativi di attivit , prodotti e servizi sulla biodiversit",
+        "context_after": "Habitat protetti o ripristinati 304-4 Specie elencate nella lista rossa IUCN e nelle liste nazionali delle specie protette che trovano",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "304-4": {
+        "page": "89.txt",
+        "context_before": "esterne alle aree protette 304-2 Impatti significativi di attivit , prodotti e servizi sulla biodiversit 304-3 Habitat protetti o ripristinati",
+        "context_after": "Specie elencate nella lista rossa IUCN e nelle liste nazionali delle specie protette che trovano il proprio habitat nelle aree",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-1": {
+        "page": "90.txt",
+        "context_before": "e loro perimetro Capitolo 4 103-2 Approccio gestionale e sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4",
+        "context_after": "Emissioni dirette di gas serra (Scopo1) Capitolo 4 305-2 Emissioni indirette di gas serra da consumi energetici (Scopo2) Capitolo 4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "90.txt",
+        "context_before": "sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4 305-1 Emissioni dirette di gas serra (Scopo1) Capitolo 4",
+        "context_after": "Emissioni indirette di gas serra da consumi energetici (Scopo2) Capitolo 4 305-3 Altre emissioni indirette di gas serra (Scopo3) 305-4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "90.txt",
+        "context_before": "Emissioni dirette di gas serra (Scopo1) Capitolo 4 305-2 Emissioni indirette di gas serra da consumi energetici (Scopo2) Capitolo 4",
+        "context_after": "Altre emissioni indirette di gas serra (Scopo3) 305-4 Intensit delle emissioni di gas serra 305-5 Riduzione delle emissioni di gas",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "90.txt",
+        "context_before": "305-2 Emissioni indirette di gas serra da consumi energetici (Scopo2) Capitolo 4 305-3 Altre emissioni indirette di gas serra (Scopo3)",
+        "context_after": "Intensit delle emissioni di gas serra 305-5 Riduzione delle emissioni di gas serra Capitolo 4 305-6 Emissioni di sostanze nocive",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "90.txt",
+        "context_before": "consumi energetici (Scopo2) Capitolo 4 305-3 Altre emissioni indirette di gas serra (Scopo3) 305-4 Intensit delle emissioni di gas serra",
+        "context_after": "Riduzione delle emissioni di gas serra Capitolo 4 305-6 Emissioni di sostanze nocive per lozono 305-7 NOx, SOx, e altre",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-6": {
+        "page": "90.txt",
+        "context_before": "di gas serra (Scopo3) 305-4 Intensit delle emissioni di gas serra 305-5 Riduzione delle emissioni di gas serra Capitolo 4",
+        "context_after": "Emissioni di sostanze nocive per lozono 305-7 NOx, SOx, e altre emissioni significative nellaria per tipologia e peso Scarichi e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-7": {
+        "page": "90.txt",
+        "context_before": "emissioni di gas serra 305-5 Riduzione delle emissioni di gas serra Capitolo 4 305-6 Emissioni di sostanze nocive per lozono",
+        "context_after": "NOx, SOx, e altre emissioni significative nellaria per tipologia e peso Scarichi e rifiuti 103-1 Spiegazione degli aspetti materiali e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "90.txt",
+        "context_before": "e loro perimetro Capitolo 4 103-2 Approccio gestionale e sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4",
+        "context_after": "Scarico Idrico per qualit e destinazione 306-2 Rifiuti per tipologia e per metodi di smaltimento Capitolo 4 306-3 Sversamenti significativi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "90.txt",
+        "context_before": "gestionale e sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4 306-1 Scarico Idrico per qualit e destinazione",
+        "context_after": "Rifiuti per tipologia e per metodi di smaltimento Capitolo 4 306-3 Sversamenti significativi 306-4 Peso dei rifiuti classificati come pericolosi",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "90.txt",
+        "context_before": "Capitolo 4 306-1 Scarico Idrico per qualit e destinazione 306-2 Rifiuti per tipologia e per metodi di smaltimento Capitolo 4",
+        "context_after": "Sversamenti significativi 306-4 Peso dei rifiuti classificati come pericolosi in base alla Convenzione di Basilea (allegati I, II,II, VIII) che",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-4": {
+        "page": "90.txt",
+        "context_before": "Scarico Idrico per qualit e destinazione 306-2 Rifiuti per tipologia e per metodi di smaltimento Capitolo 4 306-3 Sversamenti significativi",
+        "context_after": "Peso dei rifiuti classificati come pericolosi in base alla Convenzione di Basilea (allegati I, II,II, VIII) che sono trasportati, importati,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "306-5": {
+        "page": "90.txt",
+        "context_before": "alla Convenzione di Basilea (allegati I, II,II, VIII) che sono trasportati, importati, esportati o trattati e loro percentuale trasportata allestero",
+        "context_after": "Bacini idrici interessati da scarichi idrici e/o ruscellamento Compliance ambientale 103-1 Spiegazione degli aspetti materiali e loro perimetro Capitolo 4",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "307-1": {
+        "page": "90.txt",
+        "context_before": "e loro perimetro Capitolo 4 103-2 Approccio gestionale e sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4",
+        "context_after": "Non conformit con leggi e normative in materia ambientale Capitolo 4 Valutazione ambientale dei fornitori 308-1 Percentuale di nuovi fornitori",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": {
+        "page": "90.txt",
+        "context_before": "di gestione Capitolo 4 307-1 Non conformit con leggi e normative in materia ambientale Capitolo 4 Valutazione ambientale dei fornitori",
+        "context_after": "Percentuale di nuovi fornitori che sono stati studiati utilizzando criteri ambientali 308-2 Impatto ambientale negativo nella catena di fornitura e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-2": {
+        "page": "90.txt",
+        "context_before": "materia ambientale Capitolo 4 Valutazione ambientale dei fornitori 308-1 Percentuale di nuovi fornitori che sono stati studiati utilizzando criteri ambientali",
+        "context_after": "Impatto ambientale negativo nella catena di fornitura e le azioni prese 91",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 400": {
+        "page": "91.txt",
+        "context_before": "GRI INFORMAZIONE CAPITOLI",
+        "context_after": ": SOCIAL SERIES Occupazione 103-1 Spiegazione degli aspetti materiali e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401": false,
+    "GRI 402": false,
+    "GRI 403": false,
+    "GRI 404": false,
+    "GRI 405": false,
+    "GRI 406": false,
+    "GRI 407": false,
+    "GRI 408": false,
+    "GRI 409": false,
+    "GRI 410": false,
+    "GRI 411": false,
+    "GRI 412": false,
+    "GRI 413": false,
+    "GRI 414": false,
+    "GRI 415": false,
+    "GRI 416": false,
+    "GRI 417": false,
+    "GRI 418": false,
+    "GRI 419": false,
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "91.txt",
+        "context_before": "e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti Capitolo 3 103-3 Valutazione dellapproccio di gestione Capitolo 3",
+        "context_after": "Nuove assunzioni e turnover del personale per et , genere e area geografica Capitolo 3 402-2 Benefit previsti per i",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-2": false,
+    "401-3": false,
+    "402-1": {
+        "page": "91.txt",
+        "context_before": "tempo pieno ma non per i lavoratori part-time e/o a Capitolo 3 termine, suddivisi per sedi operative pi rilevanti parziale",
+        "context_after": "Periodo minimo di preavviso per modifiche operative (cambiamenti organizzativi) Salute e sicurezza sul lavoro 103-1 Spiegazione degli aspetti materiali e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-1": {
+        "page": "91.txt",
+        "context_before": "e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti Capitolo 3 103-3 Valutazione dellapproccio di gestione Capitolo 3",
+        "context_after": "Sistema di gestione della salute e sicurezza sul lavoro Capitolo 3 403-2 Identificazione dei pericoli, valutazione dei rischi e indagini",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-2": {
+        "page": "91.txt",
+        "context_before": "3 103-3 Valutazione dellapproccio di gestione Capitolo 3 403-1 Sistema di gestione della salute e sicurezza sul lavoro Capitolo 3",
+        "context_after": "Identificazione dei pericoli, valutazione dei rischi e indagini sugli incidenti Capitolo 3 parziale 403-3 Servizi di medicina del lavoro 403-4",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "403-3": {
+        "page": "91.txt",
+        "context_before": "e sicurezza sul lavoro Capitolo 3 403-2 Identificazione dei pericoli, valutazione dei rischi e indagini sugli incidenti Capitolo 3 parziale",
+        "context_after": "Servizi di medicina del lavoro 403-4 Partecipazione e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza sul",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-4": {
+        "page": "91.txt",
+        "context_before": "403-2 Identificazione dei pericoli, valutazione dei rischi e indagini sugli incidenti Capitolo 3 parziale 403-3 Servizi di medicina del lavoro",
+        "context_after": "Partecipazione e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza sul lavoro 403-5 Formazione dei lavoratori in",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "403-5": {
+        "page": "91.txt",
+        "context_before": "di medicina del lavoro 403-4 Partecipazione e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza sul lavoro",
+        "context_after": "Formazione dei lavoratori in materia di salute e sicurezza sul lavoro Capitolo 3 403-6 Promozione della salute dei lavoratori Capitolo",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "403-6": {
+        "page": "91.txt",
+        "context_before": "di salute e sicurezza sul lavoro 403-5 Formazione dei lavoratori in materia di salute e sicurezza sul lavoro Capitolo 3",
+        "context_after": "Promozione della salute dei lavoratori Capitolo 3 403-7 Prevenzione e mitigazione degli impatti in materia di salute e sicurezza sul",
+        "context_sentiment": "posneg",
+        "context_subjectivity": "subj"
+    },
+    "403-7": {
+        "page": "91.txt",
+        "context_before": "dei lavoratori in materia di salute e sicurezza sul lavoro Capitolo 3 403-6 Promozione della salute dei lavoratori Capitolo 3",
+        "context_after": "Prevenzione e mitigazione degli impatti in materia di salute e sicurezza sul lavoro allinterno delle relazioni commerciali 403-8 Lavoratori coperti",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "403-8": {
+        "page": "91.txt",
+        "context_before": "Capitolo 3 403-7 Prevenzione e mitigazione degli impatti in materia di salute e sicurezza sul lavoro allinterno delle relazioni commerciali",
+        "context_after": "Lavoratori coperti da un sistema di gestione della salute e sicurezza sul lavoro 403-9 Tasso di infortuni sul lavoro, di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-9": {
+        "page": "91.txt",
+        "context_before": "sul lavoro allinterno delle relazioni commerciali 403-8 Lavoratori coperti da un sistema di gestione della salute e sicurezza sul lavoro",
+        "context_after": "Tasso di infortuni sul lavoro, di malattia, di giornate di lavoro perse, assenteismo Capitolo 3 e numero totale di decessi,",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "403-10": {
+        "page": "91.txt",
+        "context_before": "malattia, di giornate di lavoro perse, assenteismo Capitolo 3 e numero totale di decessi, divisi per area geografica e genere",
+        "context_after": "Indicare se ci sono lavoratori con alta incidenza e alto rischio di malattie Capitolo 3 derivanti dal proprio lavoro 92",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "404-1": {
+        "page": "92.txt",
+        "context_before": "e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti Capitolo 3 103-3 Valutazione dellapproccio di gestione Capitolo 3",
+        "context_after": "Ore medie di formazione annue per dipendente, suddiviso per genere e per categoria Capitolo 3 di lavoratori 404-2 Programmi per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "92.txt",
+        "context_before": "Capitolo 3 404-1 Ore medie di formazione annue per dipendente, suddiviso per genere e per categoria Capitolo 3 di lavoratori",
+        "context_after": "Programmi per la gestione delle competenze e per promuovere una formazione/aggiornamento progressivo a sostegno dellimpiego continuativo dei dipendenti e per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "404-3": {
+        "page": "92.txt",
+        "context_before": "per promuovere una formazione/aggiornamento progressivo a sostegno dellimpiego continuativo dei dipendenti e per la gestione della fase di fine carriera",
+        "context_after": "Percentuale di dipendenti che ricevono regolarmente valutazioni delle performance e dello sviluppo della propria carriera, suddivisi per genere e categoria",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "405-1": {
+        "page": "92.txt",
+        "context_before": "e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti Capitolo 3 103-3 Valutazione dellapproccio di gestione Capitolo 3",
+        "context_after": "Composizione degli organi di governo dellimpresa e ripartizione dei dipendenti per Capitolo 3 categoria in base a sesso, et ,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "92.txt",
+        "context_before": "dipendenti per Capitolo 3 categoria in base a sesso, et , appartenenza a categorie protette e altri indicatori di diversit",
+        "context_after": "Rapporto dello stipendio base e della remunerazione totale delle donne rispetto a quelli Capitolo 3 degli uomini a parit di",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "92.txt",
+        "context_before": "e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti Capitolo 3 103-3 valutazione dellapproccio di gestione Capitolo 3",
+        "context_after": "Episodi di discriminazione e misure correttive Capitolo 3 Libert di associazione e contrattazione collettiva 103-1 Spiegazione degli aspetti materiali e",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "92.txt",
+        "context_before": "e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti Capitolo 3 103-3 valutazione dellapproccio di gestione Capitolo 3",
+        "context_after": "Identificazione delle attivit e dei principali fornitori in cui la libert di associazione e contrattazione collettiva pu essere violata o",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "93.txt",
+        "context_before": "e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti Capitolo 3 103-3 Valutazione dellapproccio di gestione Capitolo 3",
+        "context_after": "Identificazione delle operazioni e dei principali fornitori con elevato rischio di ricorso Capitolo 3 al lavoro minorile e delle misure",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "93.txt",
+        "context_before": "e loro perimetro Capitolo 3 103-2 Approccio gestionale e sue componenti Capitolo 3 103-3 Valutazione dellapproccio di gestione Capitolo 3",
+        "context_after": "Attivit e principali fornitori con alto rischio di ricorso al lavoro forzato o obbligato e Capitolo 3 misure intraprese per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": {
+        "page": "93.txt",
+        "context_before": "rischio di ricorso al lavoro forzato o obbligato e Capitolo 3 misure intraprese per contribuire allabolizione di ogni loro forma",
+        "context_after": "Personale addetto alla sicurezza che ha ricevuto una formazione sulle procedure e sulle politiche riguardanti i diritti umani rilevanti per",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "411-1": {
+        "page": "93.txt",
+        "context_before": "sicurezza che ha ricevuto una formazione sulle procedure e sulle politiche riguardanti i diritti umani rilevanti per le attivit dellorganizzazione",
+        "context_after": "Episodi di violazioni dei diritti dei popoli indigeni 412-1 Attivit sottoposte a controlli e/o valutazioni di impatto relativi ai diritti",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "412-1": {
+        "page": "93.txt",
+        "context_before": "sulle politiche riguardanti i diritti umani rilevanti per le attivit dellorganizzazione 411-1 Episodi di violazioni dei diritti dei popoli indigeni",
+        "context_after": "Attivit sottoposte a controlli e/o valutazioni di impatto relativi ai diritti umani 412-2 Formazione dei dipendenti sulle politiche o le",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "412-2": {
+        "page": "93.txt",
+        "context_before": "di violazioni dei diritti dei popoli indigeni 412-1 Attivit sottoposte a controlli e/o valutazioni di impatto relativi ai diritti umani",
+        "context_after": "Formazione dei dipendenti sulle politiche o le procedure sui diritti umani 412-3 Accordi di investimento e contratti significativi che includono",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "412-3": {
+        "page": "93.txt",
+        "context_before": "e/o valutazioni di impatto relativi ai diritti umani 412-2 Formazione dei dipendenti sulle politiche o le procedure sui diritti umani",
+        "context_after": "Accordi di investimento e contratti significativi che includono clausole relative ai diritti umani o che sono stati sottoposti a una",
+        "context_sentiment": "neg",
+        "context_subjectivity": "subj"
+    },
+    "413-1": {
+        "page": "93.txt",
+        "context_before": "e loro perimetro Capitolo 5 103-2 Approccio gestionale e sue componenti Capitolo 5 103-3 Valutazione dellapproccio di gestione Capitolo 5",
+        "context_after": "Attivit che prevedono il coinvolgimento delle comunit locale, Capitolo 5 valutazioni dimpatto e programmi di sviluppo 413-2 Impatti negativi sulla",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "93.txt",
+        "context_before": "gestione Capitolo 5 413-1 Attivit che prevedono il coinvolgimento delle comunit locale, Capitolo 5 valutazioni dimpatto e programmi di sviluppo",
+        "context_after": "Impatti negativi sulla societ , attuali e potenziali, nella distribuzione e azioni prese 94",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": {
+        "page": "94.txt",
+        "context_before": "e loro perimetro Capitolo 5 103-2 Approccio gestionale e sue componenti Capitolo 5 103-3 Valutazione dellapproccio di gestione Capitolo 5",
+        "context_after": "Percentuale di nuovi fornitori che sono stati valutati su criteri di impatto sulla societ Capitolo 5 parziale 414-2 Impatti sociali",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "414-2": {
+        "page": "94.txt",
+        "context_before": "Capitolo 5 414-1 Percentuale di nuovi fornitori che sono stati valutati su criteri di impatto sulla societ Capitolo 5 parziale",
+        "context_after": "Impatti sociali negativi sulla catena di fornitura e azioni intraprese 415-1 Totale dei contributi finanziari e benefici prestati a partiti",
+        "context_sentiment": "pos",
+        "context_subjectivity": "subj"
+    },
+    "415-1": {
+        "page": "94.txt",
+        "context_before": "su criteri di impatto sulla societ Capitolo 5 parziale 414-2 Impatti sociali negativi sulla catena di fornitura e azioni intraprese",
+        "context_after": "Totale dei contributi finanziari e benefici prestati a partiti politici e relative istituzioni per Paese 419-1 Non conformit con leggi",
+        "context_sentiment": "neg",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "94.txt",
+        "context_before": "5 103-2 Approccio gestionale e sue componenti Capitolo 4, Capitolo 5 103-3 Valutazione dellapproccio di gestione Capitolo 4, Capitolo 5",
+        "context_after": "Valutazione degli impatti sulla salute e sulla sicurezza per categorie Capitolo 4, di prodotto e servizi Capitolo 5 416-2 Episodi",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "416-2": {
+        "page": "94.txt",
+        "context_before": "5 416-1 Valutazione degli impatti sulla salute e sulla sicurezza per categorie Capitolo 4, di prodotto e servizi Capitolo 5",
+        "context_after": "Episodi di non conformit riguardanti impatti sulla salute Capitolo 4 e sulla sicurezza di prodotti e servizi Marketing ed etichettatura",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "94.txt",
+        "context_before": "5 103-2 Approccio gestionale e sue componenti Capitolo 4, Capitolo 5 103-3 Valutazione dellapproccio di gestione Capitolo 4, Capitolo 5",
+        "context_after": "Requisiti in materia di informazione ed etichettatura capitolo 5 di prodotti e servizi parziale 417-2 Numero totale (suddiviso per tipologia)",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "94.txt",
+        "context_before": "gestione Capitolo 4, Capitolo 5 417-1 Requisiti in materia di informazione ed etichettatura capitolo 5 di prodotti e servizi parziale",
+        "context_after": "Numero totale (suddiviso per tipologia) di casi di non-conformit a regolamenti o codici volontari riguardanti le informazioni e le etichettature",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-3": {
+        "page": "94.txt",
+        "context_before": "(suddiviso per tipologia) di casi di non-conformit a regolamenti o codici volontari riguardanti le informazioni e le etichettature dei prodotti/servizi",
+        "context_after": "Numero totale (suddiviso per tipologia) di casi di non-conformit a regolamenti o codici volontari riferiti allattivit di marketing incluse la",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "418-1": {
+        "page": "95.txt",
+        "context_before": "e loro perimetro Capitolo 2 103-2 Approccio gestionale e sue componenti Capitolo 2 103-3 Valutazione dellapproccio di gestione Capitolo 2",
+        "context_after": "Numero di reclami documentati relativi a violazioni della privacy e a perdita dei dati Capitolo 2 dei consumatori Compliance Socio",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "95.txt",
+        "context_before": "e loro perimetro Capitolo 4 103-2 Approccio gestionale e sue componenti Capitolo 4 103-3 Valutazione dellapproccio di gestione Capitolo 4",
+        "context_after": "Non conformit con leggi e normative in materia sociale ed economica Capitolo 4 Soddisfazione della clientela 103-1 Spiegazione degli aspetti",
+        "context_sentiment": "pos",
+        "context_subjectivity": "obj"
+    }
+}

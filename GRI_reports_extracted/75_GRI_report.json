@@ -1,0 +1,787 @@
+{
+    "GRI 200": false,
+    "GRI 201": {
+        "page": "200.txt",
+        "context_before": "40; Report on Corporate Governance Evaluation of the 103-3 and Ownership Structures management approach (pages 54-58; pages 71- 72) [i]",
+        "context_after": ": 5, 7, Direct economic value pages 17-18; page 95; Economic 201-1 8, 9, generated and distributed page 163 Performance",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 202": {
+        "page": "201.txt",
+        "context_before": "pages 14-16; page 40; 103-2 and its components page 215 Evaluation of the 103-3 page 36; page 40 management approach",
+        "context_after": ": Market Ratios of standard entry Presence 2016 level wage by gender Principle 1, 2, 202-1 page 182 compared to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 203": {
+        "page": "201.txt",
+        "context_before": "14-16; page 40; 103-2 1 and its components page 215 Evaluation of the 103-3 page 36; page 40 management approach",
+        "context_after": ": Indirect 2, 5, Infrastructure investments Economic 203-1 pages 45-46; page 95 7, 9, and services supported Impacts 2016 11",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 204": false,
+    "GRI 205": {
+        "page": "201.txt",
+        "context_before": "page 216 FN-CB- Evaluation of the page 25; pages 40-41; 510a.2 103-3 management approach page 52; pages 59-60 FN-AC- 510a.2",
+        "context_after": ": Anti- Operations assessed for Principle 205-1 page 59 16 corruption 2016 risks related to corruption 10 Communication and training",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 206": {
+        "page": "202.txt",
+        "context_before": "Standards Disclosure Omissions SDG's* SASB** or URL(s) Compact FN-CB- Evaluation of the 510a.2 103-3 page 57 management approach FN-AC- 510a.2",
+        "context_after": ": In 2019, no lawsuits Anti-competitive were filed nor penalties FN-CB- Legal actions for anti- Behavior 2016 imposed against the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 207": false,
+    "GRI 201-1": false,
+    "GRI 201-2": false,
+    "GRI 201-3": false,
+    "GRI 201-4": false,
+    "GRI 202-1": false,
+    "GRI 202-2": false,
+    "GRI 203-1": false,
+    "GRI 203-2": false,
+    "GRI 204-1": false,
+    "GRI 205-1": false,
+    "GRI 205-2": false,
+    "GRI 205-3": false,
+    "GRI 206-1": false,
+    "GRI 207-1": false,
+    "GRI 207-2": false,
+    "GRI 207-3": false,
+    "GRI 207-4": false,
+    "201-1": {
+        "page": "94.txt",
+        "context_before": "",
+        "context_after": "; 203-1; RELATIONS WITH THE COMMUNITY 103-2 Society Relations with the community COMPANY POLICIES The Group plays an active role",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-2": {
+        "page": "49.txt",
+        "context_before": "Governance and management of risks 102-11; 102-29;",
+        "context_after": "With reference to direct impacts, Intesa Sanpaolo is committed to analysing and containing possible risks on its properties. The Risk",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "201-3": {
+        "page": "200.txt",
+        "context_before": "change Change [i] 410a.2 page 120; Financial Reports (Annual Report 2019 \"Notes to the consolidated Defined benefit plan financial statements",
+        "context_after": "obligations and other - Part B SECTION 10 retirement plans  ALLOWANCES FOR RISKS AND CHARGES  CAPTION 100\" pages",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "201-4": {
+        "page": "201.txt",
+        "context_before": "102-55 Page number(s) and/ Global GRI Standards Disclosure Omissions SDG's* SASB** or URL(s) Compact Financial assistance pages 15-16; page 147;",
+        "context_after": "received from government page 184 MARKET PRESENCE GRI 103: Explanation of the material 103-1 page 15; page 215 Management topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-1": {
+        "page": "201.txt",
+        "context_before": "page 40 management approach GRI 202: Market Ratios of standard entry Presence 2016 level wage by gender Principle 1, 2,",
+        "context_after": "page 182 compared to local minimum 6 5, 8 wage Proportion of senior 202-2 management hired from the page 178",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "202-2": {
+        "page": "201.txt",
+        "context_before": "wage by gender Principle 1, 2, 202-1 page 182 compared to local minimum 6 5, 8 wage Proportion of senior",
+        "context_after": "management hired from the page 178 8 local community INDIRECT ECONOMIC IMPACTS GRI 103: Explanation of the material 103-1 page",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "203-1": {
+        "page": "94.txt",
+        "context_before": "201-1;",
+        "context_after": "; RELATIONS WITH THE COMMUNITY 103-2 Society Relations with the community COMPANY POLICIES The Group plays an active role in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "203-2": {
+        "page": "75.txt",
+        "context_before": "Society",
+        "context_after": "; LOCAL COMMUNITIES 103-2; PRODUCT PORTFOLIO 103-2; EX FS1; FS7; FS14; ACCESS TO CREDIT AND FINANCIAL INCLUSION 103-2 Access to",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "204-1": false,
+    "205-1": {
+        "page": "58.txt",
+        "context_before": "NON DISCRIMINATION 103-2/103-3; 406-1; AUDIT 103-2; ANTI-CORRUPTION 103-3;",
+        "context_after": "; EX FS9 AUDIT 103-2; EX FS9 Governance and management of risks There is no evidence of cases of discrimination",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-2": {
+        "page": "53.txt",
+        "context_before": "Governance and management of risks ANTI-CORRUPTION 103-2;",
+        "context_after": "; SOCIOECONOMIC COMPLIANCE 103-2; AUDIT 103-3 The Guidelines define the commitment to comply with the regulatory provisions aimed at combating",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "205-3": {
+        "page": "201.txt",
+        "context_before": "35; pages 51-54; Principle 205-2 about anti-corruption 16 pages 107-108; page 159 10 policies and procedures Confirmed incidents of Principle",
+        "context_after": "page 161 16 corruption and actions taken 10 ANTI-COMPETITIVE BEHAVIOR GRI 103: Explanation of the material 103-1 page 51; page",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "206-1": {
+        "page": "202.txt",
+        "context_before": "In 2019, no lawsuits Anti-competitive were filed nor penalties FN-CB- Legal actions for anti- Behavior 2016 imposed against the 510a.1",
+        "context_after": "competitive behavior, anti- 16 Intesa Sanpaolo Group FN-AC- trust, and monopoly practices in the area of free 510a.1 competition. MATERIALS",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "207-1": false,
+    "207-2": false,
+    "207-3": false,
+    "207-4": false,
+    "GRI 300": false,
+    "GRI 301": {
+        "page": "202.txt",
+        "context_before": "approach 103-2 134-135; page 156; page and its components 215; Evaluation of the pages 40-41; pages 103-3 management approach 134-135",
+        "context_after": ": Materials Materials used by page 129; pages 134- Principle 301-1 8, 12 2016 weight or volume 135; page 193",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 302": {
+        "page": "202.txt",
+        "context_before": "approach 103-2 Climate Change Action and its components Plan [i] Evaluation of the pages 40-41; pages 103-3 management approach 130-131",
+        "context_after": ": 7, 8, Energy 2016 Energy consumption within pages 129 -133; page Principle 11, 302-1 the organization 192 7, 8",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 303": {
+        "page": "203.txt",
+        "context_before": "management approach 103-2 pages 130-131; page 215 and its components Evaluation of the 103-3 pages 40-41; page 135 management approach",
+        "context_after": ": page 129; page 135; Principle 303-1 Water withdrawal by source 6 Water 2016 page 193 7, 8 Water sources",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 304": false,
+    "GRI 305": {
+        "page": "203.txt",
+        "context_before": "103-2 pages 130-132; page 215 and its components 14, 15 Evaluation of the pages 40-41; pages 103-3 management approach 130-132",
+        "context_after": ": 3, 11, Emissions 2016 page 129; page 131; 12, Direct (Scope1) Principle 305-1 page 191; 13, GHG emissions 7,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 306": {
+        "page": "204.txt",
+        "context_before": "103-2 pages 130-131; page 215 and its components 14, 15 Evaluation of the 103-3 pages 40-41; page 136 management approach",
+        "context_after": ": Water discharge by quality Principle 3, 6, 306-1 page 135 Effluents and and destination 8 12 Waste 2016 Waste",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 307": {
+        "page": "204.txt",
+        "context_before": "103-2 pages 130-131; page 216 and its components 14, 15 Evaluation of the pages 40-41; pages 103-3 management approach 135-136",
+        "context_after": ": Non-compliance with Principle Environmental 307-1 environmental laws and page 160 16 8 Compliance 2016 regulations EMPLOYMENT GRI 103: Explanation",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 308": false,
+    "GRI 301-1": false,
+    "GRI 301-2": false,
+    "GRI 301-3": false,
+    "GRI 302-1": false,
+    "GRI 302-2": false,
+    "GRI 302-3": false,
+    "GRI 302-4": false,
+    "GRI 302-5": false,
+    "GRI 303-1": false,
+    "GRI 303-2": false,
+    "GRI 303-3": false,
+    "GRI 303-4": false,
+    "GRI 303-5": false,
+    "GRI 304-1": false,
+    "GRI 304-2": false,
+    "GRI 304-3": false,
+    "GRI 304-4": false,
+    "GRI 305-1": false,
+    "GRI 305-2": false,
+    "GRI 305-3": false,
+    "GRI 305-4": false,
+    "GRI 305-5": false,
+    "GRI 305-6": false,
+    "GRI 305-7": false,
+    "GRI 306-1": false,
+    "GRI 306-2": false,
+    "GRI 306-3": false,
+    "GRI 306-4": false,
+    "GRI 306-5": false,
+    "GRI 307-1": false,
+    "GRI 308-1": false,
+    "GRI 308-2": false,
+    "301-1": {
+        "page": "202.txt",
+        "context_before": "of the pages 40-41; pages 103-3 management approach 134-135 GRI 301: Materials Materials used by page 129; pages 134- Principle",
+        "context_after": "8, 12 2016 weight or volume 135; page 193 7, 8 Recycled input materials page 129; page 134-135; Principle 301-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-2": {
+        "page": "202.txt",
+        "context_before": "301-1 8, 12 2016 weight or volume 135; page 193 7, 8 Recycled input materials page 129; page 134-135; Principle",
+        "context_after": "8, 12 used page 193 8 The topic is not applicable to the banking sector and to the Group since",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "301-3": {
+        "page": "202.txt",
+        "context_before": "applicable to the banking sector and to the Group since physical products Reclaimed products and their to be recalled/withdrawn Principle",
+        "context_after": "8, 12 packaging materials from the market and 8 the related packaging products are not envisaged for the type of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-1": {
+        "page": "202.txt",
+        "context_before": "pages 103-3 management approach 130-131 GRI 302: 7, 8, Energy 2016 Energy consumption within pages 129 -133; page Principle 11,",
+        "context_after": "the organization 192 7, 8 12, 13 7, 8, Energy consumption Principle 11, 302-2 page 192 outside of the organization",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-2": {
+        "page": "202.txt",
+        "context_before": "pages 129 -133; page Principle 11, 302-1 the organization 192 7, 8 12, 13 7, 8, Energy consumption Principle 11,",
+        "context_after": "page 192 outside of the organization 8 12, 13 7, 8, Principle 302-3 Energy intensity page 192 11, 8 13",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-3": {
+        "page": "202.txt",
+        "context_before": "13 7, 8, Energy consumption Principle 11, 302-2 page 192 outside of the organization 8 12, 13 7, 8, Principle",
+        "context_after": "Energy intensity page 192 11, 8 13 7, 8, Reduction of energy Principle 302-4 pages 131-132 11, consumption 8, 9",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-4": {
+        "page": "202.txt",
+        "context_before": "8 12, 13 7, 8, Principle 302-3 Energy intensity page 192 11, 8 13 7, 8, Reduction of energy Principle",
+        "context_after": "pages 131-132 11, consumption 8, 9 13 Reductions in energy 7, 8, Principle 302-5 requirements of products pages 137-141 11,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "302-5": {
+        "page": "214.txt",
+        "context_before": "as a finanancial institution ECONOMIC PERFORMANCE (201-2) Unit di business, Crediti, Risk Environment, Shareholders, that supports production and ENERGY (",
+        "context_after": ") Management, Innovazione, Customers, Suppliers, Community consumption systems oriented to Compliance PRODUCT RESPONSIBILITY: environmental sustainability, also in the PRODUCT PORTFOLIO",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "303-1": {
+        "page": "203.txt",
+        "context_before": "and its components Evaluation of the 103-3 pages 40-41; page 135 management approach GRI 303: page 129; page 135; Principle",
+        "context_after": "Water withdrawal by source 6 Water 2016 page 193 7, 8 Water sources significantly page 129; page 135; Principle 303-2",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-2": {
+        "page": "203.txt",
+        "context_before": "303-1 Water withdrawal by source 6 Water 2016 page 193 7, 8 Water sources significantly page 129; page 135; Principle",
+        "context_after": "6 affected by withdrawal of water page 193 7, 8 The topic is not significant for the banking sector and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-3": {
+        "page": "203.txt",
+        "context_before": "The topic is not significant for the banking sector and the Group. In the properties managed by the Group, Principle",
+        "context_after": "Water recycled and reused water consumption is mainly 6 7, 8 attributable to sanitary purposes and there are no significant",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "303-4": false,
+    "303-5": false,
+    "304-1": false,
+    "304-2": false,
+    "304-3": false,
+    "304-4": false,
+    "305-1": {
+        "page": "203.txt",
+        "context_before": "40-41; pages 103-3 management approach 130-132 GRI 305: 3, 11, Emissions 2016 page 129; page 131; 12, Direct (Scope1) Principle",
+        "context_after": "page 191; 13, GHG emissions 7, 8 Emission Factors [i] 14, 15 3, 11, page 129; page 131; 12, Energy",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-2": {
+        "page": "203.txt",
+        "context_before": "GHG emissions 7, 8 Emission Factors [i] 14, 15 3, 11, page 129; page 131; 12, Energy indirect (Scope2) Principle",
+        "context_after": "page 191; 13, GHG emissions 7, 8 Emission Factors [i] 14, 15 3, 11, 12, Other indirect (Scope3) page 129;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-3": {
+        "page": "203.txt",
+        "context_before": "GHG emissions 7, 8 Emission Factors [i] 14, 15 3, 11, 12, Other indirect (Scope3) page 129; page 191; Principle",
+        "context_after": "13, GHG emissions Emission Factors [i] 7, 8 14, 15 13, Principle 305-4 GHG emissions intensity page 129; page 191",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-4": {
+        "page": "203.txt",
+        "context_before": "indirect (Scope3) page 129; page 191; Principle 305-3 13, GHG emissions Emission Factors [i] 7, 8 14, 15 13, Principle",
+        "context_after": "GHG emissions intensity page 129; page 191 14, 8 15 Reduction of GHG Principle 13, 305-5 pages 131-132 emissions 8,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "305-5": {
+        "page": "203.txt",
+        "context_before": "14, 15 13, Principle 305-4 GHG emissions intensity page 129; page 191 14, 8 15 Reduction of GHG Principle 13,",
+        "context_after": "pages 131-132 emissions 8, 9 14 page 191; The topic is not significant for the banking sector and for the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-6": {
+        "page": "203.txt",
+        "context_before": "is not significant for the banking sector and for the Group. There are no Emissions of ozone- Principle 3, 11,",
+        "context_after": "significant use, within the depleting substances (ODS) 7, 8 13 Group, of ozone-depleting substance related to air conditioning. Emission Factors",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "305-7": {
+        "page": "204.txt",
+        "context_before": "Standards Disclosure Omissions SDG's* SASB** or URL(s) Compact Nitrogen oxides (NOX), 3, 11, sulfur oxides (SOX), page 192 Principle 13,",
+        "context_after": "and other significant air Emission Factors [i] 7, 8 14, emissions 15 EFFLUENTS AND WASTE GRI 103: Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-1": {
+        "page": "204.txt",
+        "context_before": "15 Evaluation of the 103-3 pages 40-41; page 136 management approach GRI 306: Water discharge by quality Principle 3, 6,",
+        "context_after": "page 135 Effluents and and destination 8 12 Waste 2016 Waste by type and disposal page 129; page 136; Principle",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-2": {
+        "page": "204.txt",
+        "context_before": "Effluents and and destination 8 12 Waste 2016 Waste by type and disposal page 129; page 136; Principle 3, 6,",
+        "context_after": "method pages 193-194 8 12 The topic is not significant for the banking sector and the Group. There are no",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "306-3": {
+        "page": "204.txt",
+        "context_before": "method pages 193-194 8 12 The topic is not significant for the banking sector and the Group. There are no",
+        "context_after": "Significant spills significant polluting spills deriving from the activities carried out by the Group in the reporting year. The topic",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-4": {
+        "page": "204.txt",
+        "context_before": "Group in the reporting year. The topic is not significant for the banking Transport of hazardous sector and the Group.",
+        "context_after": "waste There are no cases of transportation of hazardous waste. The topic is not significant for the banking sector and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "306-5": {
+        "page": "204.txt",
+        "context_before": "is not significant for the banking sector and the Group. In the Water bodies affected by properties managed by the",
+        "context_after": "water discharges and/or Group, water consumption runoff is mainly attributable to sanitary purposes and water discharges flow into the public",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "307-1": {
+        "page": "204.txt",
+        "context_before": "its components 14, 15 Evaluation of the pages 40-41; pages 103-3 management approach 135-136 GRI 307: Non-compliance with Principle Environmental",
+        "context_after": "environmental laws and page 160 16 8 Compliance 2016 regulations EMPLOYMENT GRI 103: Explanation of the material 103-1 page 110;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "308-1": false,
+    "308-2": false,
+    "GRI 400": false,
+    "GRI 401": {
+        "page": "205.txt",
+        "context_before": "GRI Content Index 102-55 Page number(s) and/ Global GRI Standards Disclosure Omissions SDG's* SASB** or URL(s) Compact",
+        "context_after": ": New employee hires and Principle 401-1 pages 179-180 5, 8 Employment 2016 employee turnover 6 pages 186. In general,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 402": {
+        "page": "205.txt",
+        "context_before": "page 112; 103-2 and its components page 156; page 215 Evaluation of the 103-3 pages 40-41; page 113 management approach",
+        "context_after": ": Labor/ Minimum notice periods Principle Management 402-1 regarding operational page 161 3 Relations 2016 changes OCCUPATIONAL HEALTH AND SAFETY",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 403": {
+        "page": "205.txt",
+        "context_before": "page 119; 103-2 and its components pages 123-126; page 215 Evaluation of the pages 40-41; 103-3 management approach pages 123-126",
+        "context_after": ": Workers representation in Occupational formal joint management 403-1 page 126 8 Health and Safety worker health and safety 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 404": {
+        "page": "206.txt",
+        "context_before": "113; page 103-2 5 and its components 156; page 215 Evaluation of the 103-3 pages 40-41; page 116 management approach",
+        "context_after": ": Training Average hours of training Principle 4, 404-1 pages 183-184 and Education per year per employee 6 5, 8",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 405": {
+        "page": "206.txt",
+        "context_before": "approach 103-2 117-118; page 156; page and its components 215 Evaluation of the pages 40-41; pages 103-3 management approach 117-118",
+        "context_after": ": Diversity Diversity of governance Principle FN-AC- 405-1 page 158; pages 175-180 5, 8 and Equal bodies and employees 6",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 406": {
+        "page": "206.txt",
+        "context_before": "page 40; pages 58-59; 103-2 and its components page 216 Evaluation of the 103-3 pages 40-41; pages 58-60 management approach",
+        "context_after": ": Non Incidents of discrimination Principle 5, 8, Discrimination 406-1 pages 59-60; page 147 and corrective actions taken 6 16",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 407": {
+        "page": "207.txt",
+        "context_before": "GRI Content Index 102-55 Page number(s) and/ Global GRI Standards Disclosure Omissions SDG's* SASB** or URL(s) Compact",
+        "context_after": ": Freedom Part of the information does not apply. of Association The issue of relations with suppliers is and Collective",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 408": {
+        "page": "207.txt",
+        "context_before": "page 45; page 103-2 and its components 146; pages 215-216 Evaluation of the pages 40-41; pages 103-3 management approach 147-148",
+        "context_after": ": Child Part of the information does not apply. Labor 2016 The issue of relations with suppliers is not considered",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 409": {
+        "page": "207.txt",
+        "context_before": "page 45; page 103-2 and its components 146; pages 215-216 Evaluation of the pages 40-41; pages 103-3 management approach 147-148",
+        "context_after": ": Forced Part of the information does not apply. or Compulsory The issue of relations with suppliers is Labor 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 410": false,
+    "GRI 411": {
+        "page": "207.txt",
+        "context_before": "page 45; page 103-2 and its components 147; page 216 Evaluation of the pages 40-41; pages 103-3 management approach 147-148",
+        "context_after": ": Rights In 2019 no reports of Indigenous Incidents of violations emerged on possible Principle Peoples 2016 411-1 involving rights",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "GRI 412": {
+        "page": "208.txt",
+        "context_before": "pages 147-148; Principle 103-2 and its components page 216 1 Evaluation of the pages 40-41; pages 103-3 management approach 147-148",
+        "context_after": ": Human Operations that have FN-CB- Rights been subject to human Principle 410a.2 412-1 pages 45-46 Assessment 2016 rights reviews",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 413": {
+        "page": "208.txt",
+        "context_before": "page 103-2 and its components 76; page 155; page 216 Evaluation of the pages 40-41; pages 103-3 management approach 147-148",
+        "context_after": ": Local Operations with local Communities community engagement, Principle FN-CB- 413-1 pages 45-46 2016 impact assessments, and 1 240a.1 development",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 414": false,
+    "GRI 415": {
+        "page": "208.txt",
+        "context_before": "management approach page 40; page 55; page 103-2 and its components 216 Evaluation of the 103-3 pages 40-41 management approach",
+        "context_after": ": Public Principle 415-1 Political contributions page 55 16 Policy 2016 10 CUSTOMER HEALTH SAFETY GRI 103: Explanation of the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 416": {
+        "page": "208.txt",
+        "context_before": "management approach page 40; pages 72-75; 103-2 and its components page 216 Evaluation of the 103-3 pages 40-41 management approach",
+        "context_after": ": Assessment of the health Customer Health 416-1 and safety impacts of product pages 72-75 Safety 2016 and service categories",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 417": {
+        "page": "209.txt",
+        "context_before": "103-2 and its components page 216 FN-CB- 510a.2 Evaluation of the FN-AC- 103-3 pages 40-41 management approach 270a.3 FN-AC- 510a.2",
+        "context_after": ": Requirements for product FN-AC- Marketing and 417-1 and service information and pages 72-73 270a.3 Labelling 2016 labeling Incidents of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 418": {
+        "page": "209.txt",
+        "context_before": "page 40; pages 57-58; FN-CB- 103-2 and its components page 216 230a.2 Evaluation of the 103-3 pages 40-41 management approach",
+        "context_after": ": Substantiated complaints Customer Privacy concerning breaches of FN-CB- 418-1 page 58 16 2016 customer privacy and 230a.1 losses of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 419": {
+        "page": "209.txt",
+        "context_before": "103-2 and its components page 60; page 216 FN-CB- Evaluation of the 510a.2 103-3 pages 40-41 management approach FN-AC- 510a.2",
+        "context_after": ": 419-1 Non-compliance with laws Financial Reports (Annual 16 FN-CB- Socioeconomic and regulations in the social Report 2019 \"Notes 510a.1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "GRI 401-1": false,
+    "GRI 401-2": false,
+    "GRI 401-3": false,
+    "GRI 402-1": false,
+    "GRI 403-1": false,
+    "GRI 403-2": false,
+    "GRI 403-3": false,
+    "GRI 403-4": false,
+    "GRI 403-5": false,
+    "GRI 403-6": false,
+    "GRI 403-7": false,
+    "GRI 403-8": false,
+    "GRI 403-9": false,
+    "GRI 403-10": false,
+    "GRI 404-1": false,
+    "GRI 404-2": false,
+    "GRI 404-3": false,
+    "GRI 405-1": false,
+    "GRI 405-2": false,
+    "GRI 406-1": false,
+    "GRI 407-1": false,
+    "GRI 408-1": false,
+    "GRI 409-1": false,
+    "GRI 410-1": false,
+    "GRI 411-1": false,
+    "GRI 412-1": false,
+    "GRI 412-2": false,
+    "GRI 412-3": false,
+    "GRI 413-1": false,
+    "GRI 413-2": false,
+    "GRI 414-1": false,
+    "GRI 414-2": false,
+    "GRI 415-1": false,
+    "GRI 416-1": false,
+    "GRI 416-2": false,
+    "GRI 417-1": false,
+    "GRI 417-2": false,
+    "GRI 417-3": false,
+    "GRI 418-1": false,
+    "GRI 419-1": false,
+    "401-1": {
+        "page": "214.txt",
+        "context_before": "600 people are allocated for the strategic and operational management of the activities. LABOR RIGHTS Responsible employment management EMPLOYMENT (",
+        "context_after": ") Intesa Sanpaolo Group Community, Shareholders and development of labor/management LABOR MANAGEMENT RELATIONS relations shaped towards shared FREEDOM OF ASSOCIATION",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "401-2": {
+        "page": "214.txt",
+        "context_before": "are allocated for the strategic and operational management of the activities. EMPLOYEE WELFARE To promote work-life balance in EMPLOYMENT (",
+        "context_after": "; 401-3) Intesa Sanpaolo Group Customers, Community, workplace to protect and foster OCCUPATIONAL HEALTH AND Shareholders wellbeing for employees. SAFETY",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "401-3": {
+        "page": "214.txt",
+        "context_before": "are allocated for the strategic and operational management of the activities. EMPLOYEE WELFARE To promote work-life balance in EMPLOYMENT (401-2;",
+        "context_after": ") Intesa Sanpaolo Group Customers, Community, workplace to protect and foster OCCUPATIONAL HEALTH AND Shareholders wellbeing for employees. SAFETY More",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "402-1": {
+        "page": "205.txt",
+        "context_before": "page 215 Evaluation of the 103-3 pages 40-41; page 113 management approach GRI 402: Labor/ Minimum notice periods Principle Management",
+        "context_after": "regarding operational page 161 3 Relations 2016 changes OCCUPATIONAL HEALTH AND SAFETY GRI 103: Explanation of the material Management 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-1": {
+        "page": "205.txt",
+        "context_before": "215 Evaluation of the pages 40-41; 103-3 management approach pages 123-126 GRI 403: Workers representation in Occupational formal joint management",
+        "context_after": "page 126 8 Health and Safety worker health and safety 2016 committees Part of the information is not available: the",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-2": {
+        "page": "214.txt",
+        "context_before": "103-1/103-2; WATER 103-1/103- 2; EMISSIONS 103-1/103-2; EFFLUENTS AND WASTE 103-1/103-2; EMPLOYMENT 103-1/103-2; LABOR/MANAGEMENT RELATIONS 103-1/103-2; OCCUPATIONAL HEALTH AND SAFETY 103-1/103-2;",
+        "context_after": "; TRAINING AND EDUCATION 103-1/103-2; DIVERSITY AND EQUAL OPPORTUNITY 103-1/103-2; FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING 103-1/103-2; CHILD LABOR 103-1/103-2;",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-3": {
+        "page": "205.txt",
+        "context_before": "and making said information available as from 2025 will be assessed. Based on European Workers with high incidence legislation, banking",
+        "context_after": "or high risk of diseases sector personnel are at 3, 8 related to their occupation low risk of accidents or",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-4": {
+        "page": "206.txt",
+        "context_before": "GRI Content Index Page number(s) and/ Global GRI Standards Disclosure Omissions SDG's* SASB** or URL(s) Compact Health and safety topics",
+        "context_after": "covered in formal agreements page 126 8 with trade unions TRAINING AND EDUCATION GRI 103: Explanation of the material 103-1",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "403-5": false,
+    "403-6": false,
+    "403-7": false,
+    "403-8": false,
+    "403-9": false,
+    "403-10": false,
+    "404-1": {
+        "page": "206.txt",
+        "context_before": "215 Evaluation of the 103-3 pages 40-41; page 116 management approach GRI 404: Training Average hours of training Principle 4,",
+        "context_after": "pages 183-184 and Education per year per employee 6 5, 8 2016 Programs for upgrading employee skills and 404-2 pages",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-2": {
+        "page": "206.txt",
+        "context_before": "4, 404-1 pages 183-184 and Education per year per employee 6 5, 8 2016 Programs for upgrading employee skills and",
+        "context_after": "pages 112-113; page 116 8 transition assistance programs Percentage of employees receiving regular Principle 404-3 pages 115-116; page 182 5,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "404-3": {
+        "page": "206.txt",
+        "context_before": "for upgrading employee skills and 404-2 pages 112-113; page 116 8 transition assistance programs Percentage of employees receiving regular Principle",
+        "context_after": "pages 115-116; page 182 5, 8 performance and career 6 development reviews DIVERSITY AND EQUAL OPPORTUNITY GRI 103: Explanation of",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-1": {
+        "page": "206.txt",
+        "context_before": "components 215 Evaluation of the pages 40-41; pages 103-3 management approach 117-118 GRI 405: Diversity Diversity of governance Principle FN-AC-",
+        "context_after": "page 158; pages 175-180 5, 8 and Equal bodies and employees 6 330a.1 Opportunity 2016 Ratio of basic salary and",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "405-2": {
+        "page": "206.txt",
+        "context_before": "175-180 5, 8 and Equal bodies and employees 6 330a.1 Opportunity 2016 Ratio of basic salary and Principle 5, 8,",
+        "context_after": "remuneration of women page 181 6 10 to men NON DISCRIMINATION GRI 103: Explanation of the material page 51; page",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "406-1": {
+        "page": "59.txt",
+        "context_before": "Governance and management of risks NON DISCRIMINATION 103-3;",
+        "context_after": "; ANTI-CORRUPTION 103-2/103-3; SOCIOECONOMIC COMPLIANCE 103-2; AUDIT 103-2; EX FS9 WHISTLEBLOWING Since 2016, a whistleblowing system has been in place,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "407-1": {
+        "page": "45.txt",
+        "context_before": "Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1;",
+        "context_after": "; 408-1; 409-1; 412-1; 412-3; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "408-1": {
+        "page": "45.txt",
+        "context_before": "Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1;",
+        "context_after": "; 409-1; 412-1; 412-3; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "409-1": {
+        "page": "45.txt",
+        "context_before": "Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1;",
+        "context_after": "; 412-1; 412-3; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached financial",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "410-1": false,
+    "411-1": {
+        "page": "207.txt",
+        "context_before": "approach 147-148 GRI 411: Rights In 2019 no reports of Indigenous Incidents of violations emerged on possible Principle Peoples 2016",
+        "context_after": "involving rights of violations of the rights 1 indigenous peoples of the natives; Equator Principles [i] HUMAN RIGHTS ASSESSMENT GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "412-1": {
+        "page": "45.txt",
+        "context_before": "Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1; 409-1;",
+        "context_after": "; 412-3; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached financial close",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-2": {
+        "page": "40.txt",
+        "context_before": "COLLECTIVE BARGAINING 103-3; CHILD LABOR 103-3; FORCED OR COMPULSORY LABOR 103-3; RIGHTS OF INDIGENOUS PEOPLE 103-3; HUMAN RIGHT ASSESSMENT 103-3;",
+        "context_after": "; LOCAL COMMUNITIES 103-3; PUBLIC POLICY 103-3; CUSTOMER HEALTH AND SAFETY 103-3; MARKETING AND LABELLING 103-3; CUSTOMER PRIVACY 103-3; SOCIOECONOMIC",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "412-3": {
+        "page": "45.txt",
+        "context_before": "Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1; 409-1; 412-1;",
+        "context_after": "; 413-1; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached financial close in",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-1": {
+        "page": "45.txt",
+        "context_before": "Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1; 409-1; 412-1; 412-3;",
+        "context_after": "; 413-2; EX FS1; EX FS5 The table below shows the number of projects that reached financial close in 2019,",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "413-2": {
+        "page": "45.txt",
+        "context_before": "Governance and management of risks 102-11; 102-29; 102-33; 201-2; 203-1; 407-1; 408-1; 409-1; 412-1; 412-3; 413-1;",
+        "context_after": "; EX FS1; EX FS5 The table below shows the number of projects that reached financial close in 2019, with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "414-1": false,
+    "414-2": false,
+    "415-1": {
+        "page": "54.txt",
+        "context_before": "PUBLIC POLICY 103-2;",
+        "context_after": "Governance and management of risks Guidelines that constitute a systematic and functional reference framework, with active collaboration by the Group",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "416-1": {
+        "page": "74.txt",
+        "context_before": "CUSTOMER HEALTH AND SAFETY 103-2;",
+        "context_after": "; MARKETING AND LABELLING 103-2; 416-1; 417-2; 417-3; EX FS15 Society related investments necessary for the implementation of the initiatives",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "416-2": {
+        "page": "209.txt",
+        "context_before": "No penalty or fines for non Incidents of non-compliance compliance with regulation, concerning the health and no incidents of non",
+        "context_after": "16 safety impacts of products compliance with voluntary and services codes regarding customer Health and Safety. MARKETING AND LABELLING GRI",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-1": {
+        "page": "72.txt",
+        "context_before": "CUSTOMER HEALTH AND SAFETY 103-2; 416-1; MARKETING AND LABELLING 103-2; 416-1;",
+        "context_after": "; 417-2; 417-3; EX FS15 Society DIALOGUE WITH CONSUMER ASSOCIATIONS As part of a long-established, open and constructive dialogue with",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "417-2": {
+        "page": "74.txt",
+        "context_before": "CUSTOMER HEALTH AND SAFETY 103-2; 416-1; MARKETING AND LABELLING 103-2; 416-1;",
+        "context_after": "; 417-3; EX FS15 Society related investments necessary for the implementation of the initiatives set out in the Master Plan.",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "417-3": {
+        "page": "74.txt",
+        "context_before": "CUSTOMER HEALTH AND SAFETY 103-2; 416-1; MARKETING AND LABELLING 103-2; 416-1; 417-2;",
+        "context_after": "; EX FS15 Society related investments necessary for the implementation of the initiatives set out in the Master Plan. Some",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "subj"
+    },
+    "418-1": {
+        "page": "57.txt",
+        "context_before": "Governance and management of risks NON DISCRIMINATION 103-2/103-3; CUSTOMER PRIVACY 103-2;",
+        "context_after": "alignment, in addition to compliance with the provisions of the Italian Data Protection Authority. This structure conducts prior assessments on",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    },
+    "419-1": {
+        "page": "209.txt",
+        "context_before": "its components page 60; page 216 FN-CB- Evaluation of the 510a.2 103-3 pages 40-41 management approach FN-AC- 510a.2 GRI 419:",
+        "context_after": "Non-compliance with laws Financial Reports (Annual 16 FN-CB- Socioeconomic and regulations in the social Report 2019 \"Notes 510a.1 Compliance 2016",
+        "context_sentiment": "neutral",
+        "context_subjectivity": "obj"
+    }
+}
