@@ -1,0 +1,42 @@
+4
+
+Assunti dal mercato per eta e genere
+
+ 
+
+sepgrs us aone 209
+<25 " *° ®
+uomini ” °° ©
+donne " ° °
+tra 25 e 29 " *° 7
+uomini ” * *
+donne " ° ®
+tra 3034 " ° °
+uomini ” we °
+donne " ° °
+tra 3539 " ° °
+uomini ” ° ‘
+donne " ‘ ‘
+tra40e 44 " ‘ ‘
+uomini ” ‘ °
+
+401-1
+donne " ° °
+tra 45 49 " ° °
+uomini ” ' °
+donne " ° °
+tras0e54 " °
+uomini ” °
+donne " ° °
+tra 55e59 " ' °
+uomini ” ' °
+donne " ° °
+>60 " ° °
+uomini ” ° °
+donne " ° °
+Totale n. 12 81
+
+(*) | dati si riferiscono alle entrate dal mercato.
+
+ItaLGas DICHIARAZIONE NON FINANZIARIA CONSOLIDATA 2017
+

@@ -1,0 +1,201 @@
+| rifiuti per tipologia e metodo di smaltimento
+
+yw,
+Tipologia
+Pericolosi 23,796
+Non pericolosi 31.044,581
+Totale 31.068,377
+
+PT
+0)
+
+66,403
+
+34.552,32
+34.618,720
+
+| rifiuti pericolosi si riferiscono prevalentemente a: cemento amianto derivante dalle attivitita di
+manutenzione delle condotte idriche e fognarie del territorio; rifiuti derivanti dalle analisi e attivita
+eseguite dal laboratorio chimico aziendale.
+
+Cocice
+ea}
+90805
+90902
+90802
+200306
+90206
+
+90801
+90904
+70504
+70405
+50106
+50102
+50103
+60214
+
+60306
+70203
+70401
+70407
+200139
+Totale
+
+ 
+
+Descrizione
+
+fanghi prodotti dal trattamento delle acque reflue urbane
+
+fanghi prodotti dai processi di chiarificazione dell'acqua
+
+rifiuti dell'eliminazione della sabbia
+
+rifiuti della pulizia delle fognature
+
+fanghi prodotti da trattamenti chimico-fisici, diversi da quelli di cui
+alla voce 19 02 05
+
+vaglio
+
+carbone attivo esaurito
+
+terra e rocce, diverse da quelle di cui alla voce 17 05 03
+
+ferro e acciaio
+
+imballaggi in materiali misti
+
+imballaggi in plastica
+
+imballaggi in legno
+
+apparecchiature fuori uso, diverse da quelle di cui alle voci da 16 02
+09 a 1602 13
+
+rifiuti organici, diversi da quelli di cui alla voce 16 03 05
+
+plastica
+
+rame, bronzo, ottone
+
+metalli misti
+
+plastica
+
+Rifiuti — Modalita di smaltimento
+
+Rifuti pericolosi
+
+D15
+D9
+R13
+
+Giacenza / deposito preliminare ante trattamenti
+Trattamento fisico-chimico
+Giacenza / messa in riserva per successivo recupero
+
+Rifiuti non pericolosi
+
+R13
+R10
+
+Giacenza / messa in riserva per successivo recupero
+Spandimento sul suolo a beneficio dell’agricoltura
+Recupero prodotti che captano inquinanti
+
+Recupero di altre sostanze inorganiche
+
+Recupero sostanze organiche
+
+Recupero di energia - Utilizzo come combustibile
+Discarica
+
+Trattamento fisico-chimico
+
+Trattamento biologivo
+
+acquevenete - Bilancio di sostenibilita 2017
+
+Plan]
+(t)
+22.998,97
+4.650,04
+1412,16
+454,14
+584,76
+
+359,26
+507,46
+11,22
+28,3
+30,39
+0,539
+1,23
+2,711
+
+1,77
+0,871
+0,24
+
+0,52
+31.044,58
+
+Phy,
+
+11,781
+7,204
+4,811
+
+23,796
+
+14.072,92
+3.005,87
+437,24
+708,48
+10.675,14
+3,90
+313,28
+407,52
+454,14
+
+yAenl)
+(t)
+23.704,98
+5.389,77
+1.170,13
+3.060,28
+
+345,18
+19,04
+769,200
+47,262
+39,7
+1,68
+
+2,1
+
+2,15
+
+0,407
+0,438
+
+34.552,32
+
+PAeRKS)
+
+16,923
+47,41
+2,07
+66,403
+
+14,823,98
+3.771,71
+19,04
+767,39
+9.977,64
+1.147,92
+331,57
+3.060,28
+

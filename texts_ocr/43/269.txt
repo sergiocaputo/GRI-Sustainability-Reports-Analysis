@@ -1,0 +1,142 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+Con riferimento alla rappresentazione contabile dei suddetti
+effetti valutativi, le rettifiche di valore riferite a questa tipolo-
+gia di attivita sono rilevate nel conto economico:
+
+e all’atto dell‘iscrizione iniziale, per un ammontare pari alla
+perdita attesa a dodici mesi;
+
+¢ all'atto della valutazione successiva dell'attivita, ove il rischio
+creditizio non sia risultato significativamente incrementa-
+to rispetto all’iscrizione iniziale, in relazione alle variazioni
+dell‘ammontare delle rettifiche di valore per perdite attese
+nei dodici mesi successivi;
+
+all'atto della valutazione successiva dell’attivita, ove il ri-
+schio creditizio sia risultato significativamente incrementato
+rispetto all’iscrizione iniziale, in relazione alla rilevazione di
+rettifiche di valore per perdite attese riferibili all’intera vita
+residua prevista contrattualmente per I’attivita;
+
+all’atto della valutazione successiva dell’attivita, ove - dopo
+che si é verificato un incremento significativo del rischio di
+credito rispetto all‘iscrizione iniziale — la significativita di tale
+incremento sia poi venuta meno, in relazione all’adegua-
+mento delle rettifiche di valore cumulate per tener conto del
+passaggio da una perdita attesa lungo l'intera vita residua
+dello strumento (lifetime) ad una a dodici mesi.
+
+Le attivita finanziarie in esame, ove risultino in bonis,
+sono sottoposte ad una valutazione volta a definire le rettifi-
+che di valore da rilevare in bilancio, a livello di singolo rappor-
+to creditizio (o “tranche” di titolo), in funzione dei parametri
+di rischio rappresentati da Probability of Default (PD), Loss
+Given Default (LGD) ed Exposure At Default (EAD). Se, oltre
+ad un incremento significativo del rischio di credito, si ri-
+scontrano anche oggettive evidenze di una perdita di valore,
+l‘importo della perdita viene misurato come differenza tra il
+valore contabile dell‘attivita — classificata come deteriorata,
+al pari di tutti gli altri rapporti intercorrenti con la medesima
+controparte - e il valore attuale dei futuri flussi finanziari
+stimati, scontati al tasso di interesse effettivo originario.
+Uimporto della perdita, da rilevare a conto economico, é
+definito sulla base di un processo di valutazione analitica o
+determinato per categorie omogenee e, quindi, attribuito
+analiticamente ad ogni posizione. Rientrano nell’ambito del-
+le attivita deteriorate gli strumenti finanziari ai quali é stato
+attribuito lo status di sofferenza, inadempienza probabile o
+di scaduto/sconfinante da oltre novanta giorni secondo le
+regole di Banca d'Italia, coerenti con la normativa IAS/IFRS e
+di Vigilanza europea.
+
+| flussi di cassa previsti tengono conto dei tempi di recupero
+attesi e del presumibile valore di realizzo delle eventuali ga-
+ranzie. Il tasso effettivo originario di ciascuna attivita rimane
+invariato nel tempo ancorché sia intervenuta una ristruttu-
+razione del rapporto che abbia comportato la variazione del
+tasso contrattuale ed anche qualora il rapporto divenga, nel-
+la pratica, infruttifero di interessi contrattuali. Qualora i mo-
+tivi della perdita di valore siano rimossi a seguito di un evento
+verificatosi successivamente alla rilevazione della riduzione di
+valore, vengono effettuate riprese di valore con imputazione
+a conto economico. La ripresa di valore non pud eccedere
+il costo ammortizzato che lo strumento finanziario avrebbe
+avuto in assenza di precedent rettifiche. | ripristini di valore
+connessi con il trascorrere del tempo sono appostati nel mar-
+gine di interesse. In alcuni casi, durante la vita delle attivita
+finanziarie in esame e, in particolare, dei crediti, le condizio-
+ni contrattuali originarie sono oggetto di successiva modifica
+
+per volonta delle parti del contratto. Quando, nel corso della
+vita di uno strumento, le clausole contrattuali sono ogget-
+to di modifica occorre verificare se |’attivita originaria deve
+continuare ad essere rilevata in bilancio o se, al contrario,
+lo strumento originario deve essere oggetto di cancellazione
+dal bilancio (derecognition) e debba essere rilevato un nuovo
+strumento finanziario. In generale, le modifiche di un‘attivi-
+ta finanziaria conducono alla cancellazione della stessa ed
+all‘iscrizione di una nuova attivita quando sono sostanziali.
+La valutazione circa la sostanzialita della modifica deve esse-
+re effettuata considerando elementi sia qualitativi sia quan-
+titativi.
+
+Le analisi volte a definire la sostanzialita delle modifiche con-
+trattuali apportate ad un’attivita finanziaria dovranno pertan-
+to considerare:
+
+ele finalita per cui le modifiche sono state effettuate, ad
+esempio, rinegoziazioni per motivi commerciali e concessio-
+ni per difficolta finanziarie della controparte:
+
+-le prime, volte a “trattenere” il cliente, vedono coinvol-
+to un debitore che non versa in una situazione di diffi-
+colta finanziaria. In questa casistica sono incluse tutte le
+operazioni di rinegoziazione che sono volte ad adeguare
+l‘onerosita del debito alle condizioni di mercato. Tali ope-
+razioni comportano una variazione delle condizioni origi-
+narie del contratto, solitamente richieste dal debitore, che
+attiene ad aspetti connessi all‘onerosita del debito, con un
+conseguente beneficio economico per il debitore stesso.
+In linea generale si ritiene che, ogniqualvolta la banca ef-
+fettui una rinegoziazione al fine di evitare di perdere il pro-
+prio cliente, tale rinegoziazione debba essere considerata
+come sostanziale in quanto, ove non fosse effettuata, il
+cliente potrebbe finanziarsi presso un altro intermediario e
+la banca subirebbe un decremento dei ricavi futuri previsti;
+
+le seconde, effettuate per ragioni di rischio creditizio (mi-
+sure di forbearance), sono riconducibili al tentativo della
+banca di massimizzare il recupero dei flussi di cassa del
+credito originario. | rischi e i benefici sottostanti, succes-
+sivamente alle modifiche, di norma, non sono sostanzial-
+mente trasferiti e, conseguentemente, la rappresenta-
+zione contabile che offre informazioni pili rilevanti per il
+lettore del bilancio é quella effettuata tramite il “modi-
+fication accounting” — che implica la rilevazione a conto
+economico della differenza tra valore contabile e valore
+attuale dei flussi di cassa modificati scontati al tasso di
+interesse originario — e non tramite la derecognition;
+
+ela presenza di specifici elementi oggettivi (“trigger”) che
+incidono sulle caratteristiche e/o sui flussi contrattuali del-
+lo strumento finanziario (quali ad esempio il cambiamento
+di divisa o la modifica della tipologia di rischio a cui si é
+esposti) che si ritiene comportino la derecognition in con-
+siderazione del loro impatto significativo sui flussi contrat-
+tuali originari.
+
+Le attivita finanziarie vengono cancellate dal bilancio sola-
+mente se la cessione ha comportato il sostanziale trasferimen-
+to di tutti i rischi e benefici connessi alle attivita stesse.
+
+SEZIONE 4 - OPERAZIONI DI COPERTURA
+
+|| Gruppo si é avvalso della possibilita, prevista in sede di
+introduzione dell’IFRS9, di continuare ad applicare integral-
+mente le previsioni del principio contabile |AS39 in tema di
+
+266 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

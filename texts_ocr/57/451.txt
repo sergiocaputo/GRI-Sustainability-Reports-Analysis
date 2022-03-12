@@ -1,0 +1,135 @@
+Bilancio Consolidato 2017
+
+ 
+
+Sezione 8 — Derivati di copertura — Voce 80
+
+8.1 Derivati di copertura: composizione per tipologia di copertura e per livelli
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FV 31/12/2017 ww FV 31/12/2016 ww
+ni D oD 31/12/2017 ni D DB 31/12/2016
+A) Derivati finanziari
+1) Fair value 152 104.248
+2) Flussi finanziari
+3) Investimenti esteri
+B) Derivati creditizi
+1) Fair value
+2) Flussi finanziari
+Totale 152 104248
+SaaS
+
+ 
+
+Legenda:
+VN = valore nozionale
+L1= Livello1
+L2= Livello 2
+L3 = Livello 3
+
+8.2 Derivati di copertura: composizione per portafogli coperti e per tipologia di copertura
+
+Nel corso del 2017 sono state awiate nuove relazioni di macrocopertura di mutui a tasso fisso individuati in cluster
+distinti ed omogenei, con maturity superiore a 8 anni, attraverso la stipula di appositi contratti di interest rate swap
+di tipo “fixed to floating” come strumenti di copertura. La strategia di efficientamento a medio/lungo termine del
+complessivo profilo di asset management a livello di Gruppo ha previsto, infatti, specifiche operazioni di macro
+hedging di impieghi a lungo termine, al fine di contenere la complessiva esposizione al rischio di tasso di interesse
+del Gruppo su livelli coerenti con gli obiettivi stabiliti. La relazione di copertura € formalmente documentata da una
+hedging card e la tenuta della stessa é verificata sia attraverso test prospettici che retrospettivi. La copertura é
+considerata efficace se il rapporto tra la variazione del fair value dell’elemento coperto rispetto allo strumento di
+copertura é ricompreso nell'intervallo 80-125%.
+
+ 
+
+Sezione 9 - Adeguamento di valore delle attivita finanziarie oggetto di copertura generica —- Voce 90
+
+9.1 Adeguamento di valore delle attivita coperte: composizione per portafogli coperti
+
+ 
+
+Adeguamento di valore delle attivita coperte / Componenti del Gruppo 31/12/2017 31/12/2016
+
+ 
+
+ 
+
+ 
+
+1. Adeguamento positivo 3.618 4.176
+3.618 4.176
+3.618 4.176
+
+ 
+
+1.1 di specifici portafogli
+a) crediti
+
+b) attivita finanziarie disponibili per la vendita
+
+ 
+
+1.2 complessivo
+
+ 
+
+2. Adeguamento negativo
+2.1 di specifici portafogli:
+a) crediti
+
+ 
+
+b) attivita finanziarie disponibili per la vendita
+
+ 
+
+2.2 complessivo
+
+ 
+
+Totale 4.176
+
+ 
+
+ 
+
+ 
+
+451
+

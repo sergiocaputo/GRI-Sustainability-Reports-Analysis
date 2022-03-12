@@ -1,0 +1,153 @@
+ 
+
+Page
+
+GRI Standard
+number
+
+Notes Omissions
+
+ 
+
+ENVIRONMENTAL TOPIC
+
+ 
+
+GRI 103: MANAGEMENT APPROACH 2016 -> This reference to the management approach and its disclosures (103-1, 103-2, 103-3) cover all the material
+topics of GRI 301, GRI 302, GRI 303, GRI 304, GRI 305, GRI 306, GRI 307, GRI 308.
+
+ 
+
+ 
+
+ 
+
+103-1 18
+
+Explanation of the material subject and its
+
+limits
+
+103-2 15,20,56,57,
+
+Management approach and its components 61,62,
+63,65,68,69
+
+103-3 55
+
+Assessment of the management approach
+
+ 
+
+GRI 301: MATERIALS 2016
+
+ 
+
+ 
+
+301-1 69
+
+Raw materials used by weight or volume
+
+301-2 Information unavailable
+
+Percentage of materials used that come from The company is going to be implemented this kind of ratio in next
+
+assessment of ISO 14001-
+
+recycled material
+The company will have this information in the next reporting
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+period.
+301-3 Information unavailable
+Regenerated products and related packaging The company is going to be implemented this kind of information
+materials in next assessment of ISO 14001
+The company will have this information in the next reporting
+period.
+GRI 302: ENERGY 2016
+302-1 63
+Energy consumption within the organisation
+302-2 63
+Energy consumption outside the organisation
+302-3 63
+Energy intensity
+302-4 63
+Reduction of energy consumption
+302-5 63
+Reducing the energy consumption of
+products and services
+GRI 303: WATER AND EFFLUENTS 2018
+303-1 62
+Interactions with water as a shared resource
+303-2 62,65,69
+Management of water discharge-related
+impacts
+303-3 62
+Water withdrawal
+303-4 62
+Water discharge
+303-5 Information unavailable
+Water consumption The company is going to be implemented this kind of ratio in next
+
+assessment of ISO 14001
+The company will have this information in the next reporting
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+period.
+GRI 304: BIODIVERSITY 2016
+304-1 Not applicable
+Operational sites owned, leased, managed in, We do not own nor our operations are placed in areas of
+or adjacent to, protected areas and area of importance for biodiversity.
+high biodiversity value outside protected
+areas.
+304-2 Not applicable
+Significant impacts of activities, products and We do not own nor our operations are placed in areas of
+services of biodiversity importance for biodiversity.
+304-3 Not applicable
+Habitants protected or restores We do not own nor our operations are placed in areas of
+importance for biodiversity.
+304-4 Not applicable
+IUCN Red List species and national We do not own nor our operations are placed in areas of
+conservation list species with habitants in importance for biodiversity.
+
+areas affected by operations
+
+ 
+
+@O 77
+

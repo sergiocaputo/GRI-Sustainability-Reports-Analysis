@@ -1,0 +1,72 @@
+Calculation method
+
+Paper : consumption is multiplied by the underlying CEPI coefficient which refers to energy consumed for the
+production of pulp, paper and cardboard in firms/paper mills. The Confederation of European Paper Industries
+(CEPI) is a nonprofit organisation which represents approximately 495 companies that produce pulp, paper and
+cardboard and 900 paper mills for an overall total that accounts for approximately 22% of world production.
+Business travel: energy consumption by the company car fleet already reported under disclosure 302-1 is
+excluded. The kilometres travelled by air were retrieved from the IATA certified management app provided by the
+travel agency. The International Air Transport Association (IATA) is a trade association to which airlines from all
+over the world belong and it represents approximately 280 airlines (83% of total air traffic). On the basis of the
+method provided by the Italian Banking Association, the kilometres travelled for domestic, international and
+intercontinental trips were multiplied by the respective coefficients calculated as the weighted average of the
+main routes (number of trips and distances). The kilometres travelled by high-speed train and other types of train
+were retrieved from the management app provided by the travel agency. On the basis of the method provided
+by the Italian Banking Association, the kilometres travelled by train were multiplied by the respective coefficients
+calculated as the weighted average of the main routes (number of trips and distances) using the app
+Ecopassenger. For business travel using personal cars, the CO2 emissions (see 305-3) were divided by the
+following "ISPRA - Database of average road transport emission factors in Italy" coefficients: 3,127944 tons
+CO2/tons petrol and 2,992202 tons CO2/tons gas oil. The tons of fuel of obtained were multiplied by the
+underlying coefficients.
+
+Shuttle coach: the tons of gas oil were multiplied by the underlying coefficient.
+
+ENERGY INTENSITY
+
+Calculation method
+
+Energy intensity does not include energy consumption outside the organisation (302-2) and was
+calculated by dividing total energy consumption within the organisation (302-1) by the number of
+employees and associate workers (21.465 amounting to 100 % of the Group total) and by the net internal
+floor area of properties (1.267.931 sq m) of the Group companies within the relative scope.
+
+ 
+
+ 
+
+ 
+
+DIRECT GHG ; ; ;
+EMISSIONS Source Coett.coUntot  — CoettcHsUmtor  — Coett. Nacunitot |
+(Scope 1)
+
+Heating
+
+Natural gas Italian Banking Association Guidelines 1.96 Kg/Mc 0.0857 G/Mc 0.03427 G/Mc
+Gas oil Italian Banking Association Guidelines 3.16 Kg/Ton 300.2 G/Ton 85.76 G/Ton
+LPG Italian Banking Association Guidelines 3,024 Kg/Ton 46.1 G/Ton 92.20 G/Ton
+Transport Italian Banking Association Guidelines
+
+Petrol Italian Banking Association Guidelines 3,140 Kg/Ton 730.0 G/Ton 50.0 G/Ton
+Gas oil Italian Banking Association Guidelines 3,151 Kg/Ton 46.2 G/Ton 110.0 G/Ton
+LPG Italian Banking Association Guidelines 3,024 Kg/Ton 0.3807 Kg/Ton 0.0469 Kg/Ton
+
+Calculation method
+CO, equivalent emissions include CO 2, CH, and N20 and have been calculated using the IPCC 100 year GWPs for CH, (28)
+and N,0 (265)
+
+ 
+
+ENERGY INDIRECT GHG Unit of
+
+EMISSIONS (scope 2) Source measure co, CO2. CH, N20
+Electricity - Location Based ABI Guidelines G/kWh 332.00 : 0.02 0.00
+Electricity - Market Based European Residual Mix G/kWh 465.11 471.00 : :
+
+Calculation method
+Emissions resulting from district heating have not been included in the calculation, because the heat used is a thermal by-product
+of power generation.
+
+Consolidated non-financial declaration pursuant to Legislative Decree No. 254/2016
+2017 Sustainability Report - Commitment to the environment - Pg.98
+

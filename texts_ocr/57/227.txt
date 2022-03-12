@@ -1,0 +1,100 @@
+ 
+
+C.3 Societa veicolo per la cartolarizzazione
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Attivita Passivita
+Nome cartolarizzazione / Titoli di
+De enero rcolo | Sede legale | Consotidamento | Crediti dacares Altre Senior Mezzanine Junior
+Popolare Bari NPLs 2016 Sot CConeglano (7) 0. HLs98 12541 hiisez 14.000 10.035
+PPopolare Bari NPLs 2017 Sol Coneglano (7 0. 94.48 hier 80.900 10.100 13.450
+2017 Popolare Bari SME Srl Coneglano (7 st 052.602 40276 sz0544 351.800
+2017 Popolare Bari RMBS Srl Conegliane (F¥) st 078.068, sri s72 58.264 92516
+NT Portioo SPV Sol Conegliane (F) 10 235.092 325.260
+Adriatiko Finance SME Se Mano st 27.881 2uar 25.015 19.027
+
+ 
+
+In merito alla Popolare Bari NPLs 2016 Srl e alla Popolare Bari NPLs 2017 Srl, la Banca detiene le tranche Senior
+emesse dalle Societa veicolo. Alla luce della struttura dell'operazione di cartolarizzazione con trasferimento a terzi
+del rischio di credito, non ricorrono i presupposti previsti dall'IFRS 10 per il consolidamento delle Societa Veicolo.
+
+Riguardo alla cartolarizzazione di terzi “BNT Portfolio SPV Srl”, la Banca detiene una quota marginale dei titoli ABS
+emessi nell’ambito dell’operazione. Al riguardo, non ricorrono i presupposti previsti dallIFRS 10 per il consolidamen-
+to delle Societa Veicolo.
+
+Il patrimonio separato della “Adriatico Finance SME” afferente i contratti di leasing € oggetto di consolidamento
+integrale nel bilancio del Gruppo Banca Popolare di Bari.
+
+C.4 Societa veicolo per la cartolarizzazione non consolidate
+
+Popolare Bari NPLs 2016 Srl
+
+Aseguito dell’operazione di cartolarizzazione di sofferenze alla societa veicolo “Popolare Bari NPLs 2016 Srl” la Ban-
+ca detiene l'intera tranche Senior emessa dalla SPV, assistita dalla garanzia GACS dello Stato Italiano, con un valore
+di bilancio pari ad euro 113.190 al 31 dicembre 2017.
+
+Di seguito si riportano i dettagli della tranche Senior:
+
+ 
+
+ 
+
+ 
+
+Data Vatore Valore
+Titolo Piazza Quotazione _Tasso/Spread Rating rimborso nominale—_residuo a Sottoscrittore
+finale remesso. fine esercizio
+Euribor6M/ DBRS BBB-, Moodys
+Senior Non quotato ee BBs Moody's 1/12/2036 126.500 113.190 Banca Popolare di Bari
+Totale 126.500 113.190
+
+ 
+
+(import in mighoi a eure)
+
+Nell’ambito dell’operazione, la Banca, in ottemperanza alle richieste delle agenzie di rating, ha erogato alla societa
+veicolo un mutuo a ricorso limitato, finalizzato a finanziare la cash reserve. In particolare, il mutuo ha un profillo
+amortizing correlato al debito residuo delle notes Senior e Mezzanine e sara estinto alla data di pagamento in cui
+verra integralmente rimborsata la tranche Senior. La cascata dei pagamenti prevista dal Regolamento delle notes
+prevede che gli interessi sul mutuo a ricorso limitato sono antergati rispetto al pagamento degli interessi sulle no-
+tes Senior e Mezzanine, cosi come il rimborso delle quote capitale del mutuo é antergato rispetto al rimborso delle
+quote capitale delle notes Senior e Mezzanine. II debito residuo alla reporting date ammonta ad euro 3.884 mila.
+
+ 
+
+227
+

@@ -1,0 +1,60 @@
+Priorita strategiche
+
+ 
+
+In dettaglio, dal 2015 al 2017 il gruppo ha partecipato a 3 progetti pluriennali nell’ambito
+di Horizon 2020, i| Programma Quadro europeo per la Ricerca e |'Innovazione, destinato
+a fornire supporto finanziario a progetti di ricerca e sviluppo caratterizzati da un forte
+potenziale in termini di innovazione. | contributi hanno consentito di intraprendere diversi
+percorsi di innovazione dei dati come per esempio quello che ha consentito lo sviluppo di
+nuovi algoritmi relativi agli ambiti territoriali e al mondo del Real Estate.
+
+A tal fine, sono stati creati specifici score che supportano |'innovazione di tutte e tre le
+principali linee di business di Cerved e si suddividono in:
+* score immobiliari, che permettono di migliorare lo scoring della Credit Information
+* score socio-economici geolocalizzati che garantiscono una migliore conoscenza del
+territorio attingendo, per altro, anche ai dati di OpenStreetMap
+
+Anche sul fronte dei Web Data sono stati avviati importanti progetti relativi all’utilizzo
+di informazioni ricavate principalmente dai siti aziendali. Sono state introdotte tecniche
+semantiche che offrono una chiave di ricerca migliore e piu granulare, strategica per tutti
+i clienti, soprattutto per chi opera nell'area delle Marketing Solutions.
+
+In maniera complementare e integrata da algoritmi di machine learning, questa tipologia
+di dati é utilizzata per effettuare I’analisi del rischio delle aziende e per offrire analisi di
+cluster specifici relativi al territorio, all’ambito industriale e alle fasi di vita delle imprese.
+
+E su questa innovazione metodologica e strutturale che nasce Similarity Score: |a
+piattaforma permette di fornire un servizio di raccomandazione e comparabilita dei
+clienti presenti nel portafoglio, con criteri che tengono conto dei settori merceologici,
+delle dimensioni, dell'ubicazione e di altri fattori di valutazione.
+
+Per sfruttare diverse tecnologie di archiviazione dei dati (data storage) sono stati
+intrapresi progetti ad hoc.
+
+Cerved, infatti, ha in produzione 18 dei primi 30 modelli di database
+
+piu. diffusi a livello mondiale: questa diversificazione tecnologica
+
+consente al Gruppo di capitalizzare e sfruttare prodotti piu innovativi, Abbiamo 18 database
+con paradigmi diversi che vanno oltre il classico database relazionale, dei primi 30 in produzione
+. . . . a livello mondiale
+includendo tutti i nuovi framework (come Hadoop) che consentono di
+
+lavorare con migliaia di nodi e petabyte di dati, elaborando velocemente
+
+anche i dati non strutturati.
+
+Queste tecnologie, estremamente complesse, forniscono un incredibile
+
+vantaggio competitivo di settore; in particolare la tecnologia Neo4j (detta “a grafo") in
+ottica di sostenibilita economica, ha consentito a Cerved la realizzazione di algoritmi (ad
+esempio titolare effettivo) con costi molto pil contenuti e prestazioni superiori.
+
+Siinnesta su questo filone Graph4You, una piattaforma innovativa che permette a Cerved
+di formulare analisi dei dati in maniera massiva ed estremamente veloce, includendo non
+solo la singola azienda 0 persona ma tutta la serie di relazioni esistenti tra soggetti diversi
+e con una rappresentazione estremamente intuitiva.
+
+49
+

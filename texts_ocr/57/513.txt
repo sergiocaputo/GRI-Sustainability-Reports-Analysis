@@ -1,0 +1,70 @@
+Bilancio Consolidato 2017
+
+ 
+
+Con specifico riferimento alla complessiva gestione del! portafoglio deteriorato il Gruppo si € dotato di una specifica
+Strategia sui non performing loans in linea con le indicazioni contenute nei documenti rilasciati sulla materia dalle
+Autorita di Vigilanza che prevedono tre linee di azioni, finalizzate ad incidere sull’entita dell'aggregato, quali:
+
+* Gestione interne delle posizioni rilevanti;
+* Gestione esternalizzata di quelle di entita minore;
++ Cessione di portafogli di sofferenze.
+
+A tale impianto si associa un sistema di Monitoraggio e di Early Intervention come detto in precedenza finalizzato
+ad utilizzare misure di forbearance alle quali associare il potenziale superamento della situazione di difficolta delle
+controparti sia in bonis (forborne performing) che deteriorate (forborne non performing).
+
+Pertanto il Gruppo si é dotato di strutture centrali che si occupano del monitoraggio e della gestione anche delle
+posizioni ricondotte nell'ambito del Default Regolamentare nelle classi delle “Esposizioni Scadute da oltre 90 giorni”
+(Past due) e “Inadempienze Probabili”. La gestione attiva delle posizioni si estrinseca principalmente nel seguire
+l'andamento delle posizioni e nel sottoporre agli Organi competenti gli eventuali piani di ristrutturazione.
+
+Le posizioni in “sofferenza” sono quelle relative ai clienti in stato di insolvenza, anche non rilevata giudizialmente, o
+quelle sostanzialmente equiparabili. Tali posizioni sono gestite al fine di perseguire in prima istanza la possibilita di
+sistemazione stragiudiziale. Obiettivo prioritario in materia di gestione dei crediti in sofferenza é quello di favorire
+le azioni di recupero dei crediti, privilegiando le azioni stragiudiziali e assicurando - con principi di proporzionalita —
+lattivazione delle iniziative legali di tutela dei crediti.
+
+In virtu della problematica connessa alla gestione dei crediti anomali e delle potenziali ricadute di natura finanziaria
+ed economica, i vertici aziendali e lo stesso Consiglio di Amministrazione vengono regolarmente e periodicamente
+informati sull'andamento complessivo del portafoglio credito e sulle attivita gestionali poste in essere.
+
+1.5 Attivita finanziarie in bonis
+
+| crediti in bonis sono sottoposti alla valutazione di perdita di valore collettiva. In particolare, la determinazione del
+fondo svalutazione collettiva avviene mediante l’individuazione di categorie omogenee di rischio e la stima, per cia-
+scuna di esse, delle relative perdite latenti.
+
+La determinazione delle svalutazioni collettive sui crediti in bonis viene eseguita sfruttando le maggiori sinergie
+possibili con l'approccio previsto ai fini di Vigilanza dalle disposizioni di “Basilea” In tale ottica il Gruppo ha scelto di
+utilizzare un modello caratterizzato dalle seguenti fasi:
+
+a) Creazione di portafogli omogenei per profili di rischio
+
+La segmentazione dei crediti performing prevede la creazione di gruppi omogenei in relazione alle loro caratteristi-
+che di rischio. Ai fini del calcolo del fondo collettivo viene mutuata la segmentazione con cui é suddivisa la clientela
+per l'attribuzione del rating. Nello specifico sono previste le seguenti classi: Privati, Small Business, Piccole e Medie
+Imprese, Large Corporate, Immobiliari, Banche e |stituzioni finanziarie, Enti.
+
+b) Individuazione della “probabilita di default” (PD) e della “Loss given default” (LGD)
+
+Il modello in uso identifica i gruppi omogenei di crediti sulla base del proprio contenuto di rischio e associa ad essi
+una previsione di perdita stimata sulla base dei seguenti parametri Probability of Default (“PD”) e Loss Given Default
+(“LGD”). In particolare, la PD é stimata utilizzando l'approccio cosiddetto “historical default experience”, ossia osser-
+vando il tasso di default empirico verificatosi sul portafoglio crediti.
+
+La definizione di default utilizzata ai fini della stima include le controparti classificate scadute e/o sconfinate, unlikely
+to pay (owero le inadempienze probabili) e sofferenze.
+
+Per i segmenti Banche/Istituti finanziari ed Enti, le probabilita di default sono quantificate ricorrendo ai dati pubbli-
+cati annualmente dalle maggiori Agenzie di Rating. 'orizzonte temporale di un anno utilizzato per la determinazione
+della probabilita di default si ritiene possa approssimare, in via prudenziale, la nozione di “incurred loss”, ovvero di
+perdita fondata su eventi attuali, ma non ancora acquisiti dall’impresa nella revisione del grado di rischio dello spe-
+cifico cliente, prevista dagli IAS/IFRS (loss confirmation period fissato prudenzialmente pari a 1).
+
+La Loss Given Default, per le controparti in sofferenza, rappresenta il complemento del tasso di recupero storico
+
+ 
+
+513
+

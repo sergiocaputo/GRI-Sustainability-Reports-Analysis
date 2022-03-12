@@ -1,0 +1,74 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+Safeguarding privacy and personal data protection
+GRI 103-1: Management Approach] [GRI 418] The 2019 materiality analysis identified the safeguarding of privacy and
+personal data protection as a material topic for the Group.
+
+GRI 103-2: Management Approach] [GRI 418] Respecting privacy regulations is a priority for TIM, which since 2003 has
+had a structured organizational model in place which is capable of overseeing the correct application of this legislation
+at Group level. Company departments are committed to ensuring the correct processing of personal data of data
+subjects, including customers and employees, in carrying out business activities.
+
+n May 2018, the Data Protection Officer function was established at TIM Group level, dealing with control, consultation,
+training and information regarding the application of privacy legislation, in compliance with the specific provisions of
+Regulation (EU) no. 2016/679 on the protection of individuals with regard to the processing of personal data (so-called
+"General Data Protection Regulation," or GDPR), applicable in Italy and in the other countries of the European Union from
+May 25, 2018.
+The GDPR is the primary source of the applicable regulatory framework on data protection in Italy and the Personal Data
+Protection Code (Legislative Decree 196/2003, as extensively amended by Legislative Decree 101/2018) now contains the
+national provisions completing those of the GDPR.
+
+The adoption of legal measures and the instructions of the Italian Data Protection Authority for personal data protection
+is assured by constantly updating the Group regulations and policies. Of these, the “System of rules for the application of
+the regulations relating to the protection of personal data in the TIM Group” (System of Rules) is particularly important;
+it defines the provisions and operating instructions to comply with these provisions.
+
+Already in the course of 2018, the System of Rules was thoroughly revised in the light of the application of the GDPR; in
+2019, the System of Rules was further updated with reference to regulatory developments, in particular in relation to
+Legislative Decree 101/2018, which adapted the Privacy Code to the GDPR, and to the additional provisions of the law and
+the Italian Data Protection Authority's Decisions that followed during the year.
+
+In 2019, the work continued to adapt policies and procedures, including those setting out data breach’ obligations
+(extended to all types of personal data) and those regulating the management of the requests of data subjects
+concerning the exercise of their rights regarding personal data protection.
+
+With regard to training, the online training module on GDPR, already prepared in 2018 for the start of GDPR application,
+was updated and its mandatory use was extended to all TIM Group employees; this form must also be used by newly
+recruited staff.
+In addition, specific measures have been planned for certain company sectors. An ad hoc training course has been set up
+for TIM's customer care resources (consumer and business), as well as for outsourcer staff, who have a coordinating and
+supervisory role. The course focused on topics of interest such as:
+
+i) processing of customer/prospect requests concerning the exercise of privacy rights;
+
+ii) data breach and management. In all, 11 training sessions were held with the participation of about 400 people. An
+online training module on the above topics was prepared for Customer Care employees.
+
+TIM’s management staff tasked with managing relations with other electronic communication operators, as well as with
+the activation and technical assistance activities for equipment and connections, was the target of a training course on
+the topic of data breaches, which saw the participation of 37 TIM employees.
+
+Finally, as part of training on Big Data Transformation, a module on the GDPR and Big Data, delivered in several editions
+and attended by 50 employees of the TIM departments involved, was organized.
+
+ 
+
+ 
+
+ 
+
+[GRI 103-3: Management Approach] [GRI 418-1] The effective application of the internal policies is monitored through an
+extensive control system based on regular self-assessment procedures, sample checks carried out by the relevant central
+and regional departments, based on established procedures and methods, as well as for planned and identified second
+level controls, also due to the inherent risk level of processing.
+
+In the light of these activities, the Personal Data Processing Activity Register was revised and updated, with the support
+of a special IT tool, both to further improve its compliance with GDPR provisions and with a view to its use as a corporate
+compliance catalogue, to address the compliance requirements of Information Technology systems, identify possible
+areas for improvement and manage the related action plans.
+
+1 Data breach.
+
+136
+

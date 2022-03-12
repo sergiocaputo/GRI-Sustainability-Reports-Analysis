@@ -1,0 +1,37 @@
+% Banco Desio
+
+ 
+
+EMISSIONI DI GAS AD EFFETTO SERRA
+
+Le informazioni richieste dallo standard GRI sulle emissioni di gas ad effetto serra si basano sui requisiti del
+GHG protocol" che contiene una classificazione delle emissioni distinte in “Scope 1”, “Scope 2” e “Scope
+3” in base ai seguenti parametri:
+
+® Scope 1 - Il relativo indicatore considera le emissioni derivanti dalla combustione diretta di combustibili
+fossili, acquistati per il riscaldamento, per la produzione di energia elettrica e termica, per il rifornimento
+di veicoli di trasporto; le fonti delle emissioni classificate come Scopel sono generalmente possedute
+e controllate direttamente dall’organizzazione.
+
+®@ Scope 2 - II relativo indicatore considera le emissioni derivanti dalla produzione di energia elettrica
+acquistata dall’organizzazione e consumata per le apparecchiature elettriche e I’illuminazione alll’in-
+terno degli edifici; l'importatore é indirettamente responsabile per le emissioni generate dal fornitore
+per la produzione dell’energia elettrica richiesta.
+
+® Scope 3 - Il relativo indicatore considera le emissioni diverse dalle emissioni indirette di GHG da con-
+sumo energetico, che sono conseguenza delle attivita di un’organizzazione, ma che scaturiscono da
+sorgenti di gas ad effetto serra non di proprieta o controllate da altre organizzazioni; quali le emissioni
+connesse ai viaggi di lavoro e dalla mobilita dei dipendenti.
+
+In particolare, gli indicatori che seguono sono espressi in tonnellate di anidride carbonica (CO2) e ton-
+nellate di CO2 equivalenti, ove tale misura esprime anche la quantita, in aggiunta all’anidride carbonica,
+degli altri gas effetto serra riportati nel protocollo di Kyoto e nel GHG protocol, ossia Metano (CHA) e ossido
+di diazoto (N20).
+
+(1) The Greenhouse Gas Protocol "A Corporate Accounting
+and Reporting Standard” - World Business Council for Su-
+stainable Development e World Resources Institute - http://
+www.ghgprotocol.org/standards/corporate-standard
+
+147)
+

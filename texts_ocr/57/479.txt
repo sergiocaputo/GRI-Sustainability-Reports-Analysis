@@ -1,0 +1,83 @@
+Bilancio Consolidato 2017
+
+ 
+
+che prevede, appunto, la proiezione degli esborsi futuri sulla base di analisi storiche statistiche e della curva demo-
+grafica e l'attualizzazione finanziaria di tali flussi sulla base di un tasso di interesse di mercato.
+
+A seguito della riforma della previdenza complementare prevista dal D. Lgs. n. 252 del dicembre 2005 anticipata
+nell'applicazione dalla Legge n. 296 del 27 dicembre 2006, per le imprese con almeno 50 dipendenti le quote di TFR
+maturate sino al 31.12.2006 restano in azienda mentre quelle maturande a partire dal 1° gennaio 2007 sono state,
+a scelta del dipendente, destinate a forme di previdenza complementare ovvero trasferite al Fondo di Tesoreria
+dell'INPS.
+
+Le quote di TFR maturate a tutto il 31.12.2006 anche successivamente all'introduzione della riforma, continuano ad
+essere configurate come piani a benefici definiti cosi come previsto dallo IAS 19. Le quote di TFR maturande dal 1°
+gennaio 2007 configurano ai fini dello [AS 19 un piano a contribuzione definita e pertanto il loro ammontare non é
+assoggettato ad alcuna ipotesi attuariale.
+
+Le principali ipotesi attuariali sono cosi sintetizzate:
+
+ 
+
+ 
+
+ 
+
+Tasso annuo di attualizzazione 1,30%
+Tasso annuo di incremento salariale 1,50%
+anno anno
+2017 2016
+‘Tasso annuo di inflazione 1,50% 1,50%
+
+ 
+
+Tasso annuo di incremento del TFR 2.63% 2.62%
+
+In merito al tasso di attualizzazione, utilizzato per la determinazione del valore attuale dell'obbligazione é stato
+desunto dallindice Iboxx Eurozone Corporate AA con duration 10+ rilevato alla data della valutazione. A tal fine si
+é scelto il rendimento avente durata comparabile alla duration del collettivo di lavoratori oggetto della valutazione.
+
+Si fa presente che i risultati cosi determinati, tengono anche conto delle modifiche relative ai requisiti pensionistici
+introdotte dal D.L. n. 201/2011 (c.d. “decreto Salva Italia”) convertito nella Legge 214/2011.
+
+Si riporta di seguito l'analisi di sensitivity relativi ai principali parametri valutativi.
+
+Analisi di sensitivity dei principali parametri valutativi sui dati al 31/12/2017
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VariazoneTFR in Nuoyp importoTFR termint
+
+percentuali
+Tasso di turnover + 1,00% (186) 43.282 -0,42%
+Tasso di turnover - 1,00% 204 43.672 0.46%
+Tasso di inflazione + 0,25% 591 44.060 1,33%
+Tasso di inflazione - 0,25% (581) 42.887 -1,31%
+Tasso di attualizzazione + 0,25% (932) 42.536 -2,10%
+Tasso di attualizzazione - 0,25% 964 44.431 2,18%
+
+ 
+
+La durata media finanziaria dellobbligazione é stata calcolata pari a 10 anni.
+
+ 
+
+479
+

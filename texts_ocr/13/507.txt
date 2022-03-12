@@ -1,0 +1,51 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+A.4.3 Gerarchia del fair value
+
+Il principio IFRSI3 stabilisce una gerarchia del fair value in funzione del
+
+grado di osservabilita degli input e dei parametri utilizzati per addivenire alle
+
+valutazioni. Sono previsti, in particolare, tre livelli:
+
+> Livello |: il FV degli strumenti classificati in questo livello € determinato
+in base a prezzi di quotazioni osservati su mercati attivi;
+
+> Livello 2: il FV degli strumenti classificati in questo livello € determinato
+in base a modelli valutativi che utilizzano in maniera prevalente input
+osservabili in mercati attivi:
+
+> Livello 3: il FV degli strumenti classificati in questo livello € determinato
+sulla base di modelli valutativi che utilizzano prevalentemente
+significativi input non osservabili su mercati attivi.
+
+La Societa adotta una policy per il riconoscimento del livello di fair value
+delle singole posizioni. La policy stabilisce le regole sia per la definizione di
+“mercato attivo”, sia per la conseguente procedura operativa di valorizzazione
+dei portafogli col fine di annullare ogni discrezionalitd nell'individuazione
+dei livelli. | titoli non appartenenti alle categorie precedenti sono considerati
+appartenenti ad un mercato non attivo. Sono esclusi da questa definizione
+i titoli a copertura delle polizze di ramo terzo per cui sussiste un patto di
+riacquisto con |'emittente. La funzione di Risk Management, nell’ambito delle
+attivita di coordinamento per tutte le societa del Gruppo, fornisce il proprio
+supporto metodologico e/o operativo alle corrispondenti strutture di risk delle
+societa del conglomerato anche in materia di definizione di mercato attivo.
+Si considerano quotati in un mercato attivo:
+> titoli negoziati su mercati regolamentati italiani (es. MTS, MOT);
+> titoli negoziati su sistemi di scambi organizzati autorizzati o riconosciuti
+dalla Consob (detti MTF) per i quali sia stata determinata la
+significativita di prezzo tramite procedura descritta di seguito;
+> titoli per i quali sia disponibile una quotazione executable che rispetta
+i criteri di seguito definiti:
+> completezza della serie storica di riferimento;
+>» soglie di tolleranza tra prezzo Denaro e Lettera differenziate in base
+allo strumento finanziario;
+> significativa variabilita del prezzo giornaliero nel mese di
+riferimento;
+> limite massimo di scostamento mensile del prezzo;
+> limite massimo dello scostamento del prezzo rispetto ad una
+quotazione benchmark.
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018
+

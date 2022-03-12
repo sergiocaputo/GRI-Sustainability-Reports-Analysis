@@ -1,0 +1,93 @@
+€ Indice generale | — fp)
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+6. Analisi e presidio dei rischi
+
+ 
+
+ 
+
+ 
+
+Esposizione Delta Effetto su Passivita Risultato prima Riserve di
+al rischio valore differite verso gli delle imposte Patrimonio netto al
+. assicurati lordo delle imposte
+Descrizione a
+(milioni di euro) Nominale Fairvalue +100bps -100bps +100bps -100bps +100bps -100bps +100bps -100bps
+Effetti 2016
+Attivita finanziarie
+Investimenti disponibill per la 113.211 126.903 (6.386) 6.319 (6.144) 5.144 - = (1.242) 1.175
+vendita
+Titoli a reddito fisso 113.202 126.098 (6.359) 6.292 (5.117) 5.117 - - (1.242) 1.175
+Altri investimenti 9 805 (27) 27 (27) 27 - - - -
+
+ 
+
+Stumenti finanziari
+
+al fair value rilevato a CE 9.879 10.117 (341) 329 (340) 328 (1) 1 - -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Titoli a reddito fisso 9.379 9.566 (326) 326 (325) 325 (1) 1 - -
+Obbligazioni Strutturate 500 551 (15) 3 (15) 3 - - - -
+Strumenti finanziari derivati 200 6 (28) 33 - - - - (28) 33
+Cash flow Hedging 200 6 (28) 33 - - - - (28) 33
+Fair value Hedging - - - - - - - - - -
+Passivita finanziarie -
+Strumenti finanziari derivati 150 (10) (23) 27 - - - - (23) 27
+
+ 
+
+Fair value rilevato a CE - - - - - - - - - -
+Cash flow Hedging 150 (10) (23) 27 - - - - (23) 27
+Variabilita al 31 dicembre 2016 123.440 137.016 (6.778) 6.708 (5.484) 5.472 (1) 1 (1.293) 1.235
+
+ 
+
+Gli Investimenti disponibili per la vendita che rilevano al rischio in commento, riguardano principalmente:
+
+m titoli di Stato a reddito fisso detenuti da Poste Vita S.p.A. per complessivi 81.099 milioni di euro; di tale importo, 77.768
+milioni di euro sono a copertura di impegni contrattuali di Ramo | e V collegati alle Gestioni separate e 3.331 milioni di euro
+riferiti al patrimonio libero della Compagnia;
+
+@ titoli di Stato a reddito fisso detenuti dal Patrimonio BancoPosta per 36.614 milioni di euro, costituiti da: titoli a tasso fisso
+per 11.460 milioni di euro, titoli a tasso variabile ricondotti a posizioni di tasso fisso mediante asset swap di cash flow hedge
+per 1.400 milioni di euro, titoli a tasso variabile per 2.594 milioni di euro (di cui 2.508 milioni di euro indicizzati all’inflazione) e
+titoli a tasso fisso o variabile ricondotti a posizioni a tasso variabile mediante contratti derivati di fair value hedge per 21.160
+milioni di euro (di cui 19.013 milioni di euro con partenza forward start);
+
+altri titoli di debito non governativi del portafoglio di Poste Vita S.p.A. per 13.376 milioni di euro, principalmente posti a coper-
+tura di impegni assunti nei confronti degli assicurati nell’ambito delle Gestioni separate di Ramo | e V;
+
+a titoli di debito a tasso fisso emessi da CDP e garantiti dallo Stato italiano per 2.485 milioni di euro, detenuti dal Patrimonio
+BancoPosta.
+
+Gli Strumenti finanziari al fair value rilevato a Conto economico, attengono a una quota degli investimenti di Poste Vita
+S.p.A. impiegata in titoli a reddito fisso per complessivi 6.220 milioni di euro (costituiti per un fair value di 2.152 milioni di euro
+da BTP coupon stripped’ principalmente posti a copertura di polizze di Ramo Ill e per un fair value di 4.068 milioni di euro
+da titoli corporate principalmente posti a copertura di impegni contrattuali di Ramo | e V collegati alle Gestioni separate e ad
+investimenti riferiti al patrimonio libero della Compagnia), a titoli emessi dalla CDP S.p.A. per un fair value di 546 milioni di euro
+principalmente posti a copertura di polizze di Ramo Ill e, in misura residuale, alla posizione di Poste Vita S.p.A. in Altri investi-
+menti costituita da quote di fondi comuni per 120 milioni di euro.
+
+ 
+
+106. Il coupon stripping é l’operazione di separazione delle componenti cedolari dal valore di rimborso di un titolo. Loperazione di coupon stripping consente di
+ottenere una serie di titoli zero coupon da ciascun titolo di Stato. Ciascuna componente pud essere negoziata separatamente.
+
+Le
+355
+

@@ -1,0 +1,230 @@
+zione dell’identita digitale necessario per
+accedere ai sistemi di e-banking o di paga-
+mento da remoto basandosi sul principio
+della cosiddetta “autenticazione a due fat-
+tori” per superare le criticita della sicurez-
+za dell’accesso legato all’inserimento di una
+sola password. Il nuovo sistema si basa cosi
+su almeno due diversi metodi di autentica-
+zione tra i tre di seguito indicati:
+
+» “un dato noto” - Password o PIN;
+
+« “un oggetto a disposizione” - telefono
+cellulare, carta di credito 0 token;
+
+» “un riconoscimento personale” - impron-
+ta digitale, timbro di voce, retina o iride
+ovvero metodi di riconoscimento attra-
+verso caratteristiche uniche di ogni sin-
+golo individuo (biometria).
+
+La scelta tecnica di Creval permette di
+
+rispettare queste caratteristiche e la prescri-
+
+zione che lalgoritmo di generazione delle
+
+“password valide una sola volta” di auten-
+
+ticazione preveda un meccanismo di col-
+
+legamento dinamico ed univoco - “dyna-
+
+mic linking” - ai dati relativi alle operazioni di
+
+pagamento dispositive impostate.
+
+Lofferta digitale Bancaperta ha introdotto
+
+due importanti novita nell’anno:
+
+» € stata sviluppata la piattaforma di
+onboarding che consente l’apertura di
+
+Migliori app home banking,
+vince il Credito Valtellinese
+
+Le rilevazioni effettuate sul Play Store di Google
+
+assegnano alla nostra app bancaria il maggior gradimento
+da parte dei clienti: il giudizio espresso dagli utenti di
+e-banking tramite le recensioni pubblicate all’interno
+
+degli app store delle piattaforme IOS e Android ha
+
+premiato Bancaperta che tra gennaio e giugno 2019 é
+sempre stata in testa nella classifica con un punteggio
+
+costante di 4.5/5.
+
+conti correnti online anche da parte della
+potenziale clientela focalizzata sulla ricer-
+ca della migliore user experience che la
+tecnologia é in grado di fornire e sul pieno
+rispetto delle recenti evoluzioni della nor-
+mativa di Banca d'ltalia in relazione alle
+regole di identificazione a distanza del
+cliente e della normativa antiriciclaggio;
+
+in ottica di ampliamento dell’offerta multi-
+canale dallo scorso anno i titolari di uten-
+za Bancaperta possono acquistare online
+le carte di debito (Bancomat V-Pay e Car-
+ta Debit Consumer) e aprire conti correnti.
+
+ 
+
+Accessi totali
+
+Accessi unici medi
+
+Web
+Smartphone
+Tablet
+Watch
+Totale
+
+34
+
+ 
+
+Accessi medi giornalieri
+
+Accessi per canale
+
+Accessi all’offerta digitale Bancaperta
+
+| dati quantitativi per il monitoraggio dell’uso di Bancaperta sono forniti
+automaticamente ogni mattina e rielaborati con cadenza mensile - l’evidenza annuale
+é rappresentata di seguito.
+
+2017 2018
+41.103.004 44.248.949
+112.611 121.230
+64.275 67.487
+2017 2018
+22.459.585 21.806.823
+17.868.385 21.743.435
+772.157 691.460
+2.877 7.231
+41.103.004 44.248.949
+
+2019
+46.912.695
+128.528
+68.641
+
+2019
+20.541.338
+25.722.988
+
+641.737
+6.632
+46.912.695
+
+ 
+
+Principali rischi
+
+Dall'utilizzo della tecnologia consegue la
+necessita di monitoraggio costante di alcu-
+ne categorie di rischi da un lato mediante
+strumenti di sicurezza informatica (presidia-
+ta dal Servizio Security e Business Conti-
+nuity) e dall’altro con l'adeguamento del-
+le piattaforme supervisionato dal Servizio
+
+Applicazioni Multicanale. | profili legati al
+
+progresso tecnologico e alle mutazioni della
+
+normativa vigente sono presidiati dall’Area
+legale, dal Servizio CRM e Campaign e dal
+
+Servizio Canali Diretti. La perdita di compe-
+
+titivita dell’offerta rappresenta uno dei rischi
+
+piu visibili e viene gestita dal Servizio Orga-
+nizzazione e Innovazione Digitale in concer-
+
+to con il Servizio Sistemi di Pagamento e il
+
+Servizio Canali Diretti per le analisi di mer-
+
+cato.
+
+Nell’'ambito delle sfide connesse all’utiliz-
+
+Zo della tecnologia dell’informazione e del-
+
+la comunicazione Creval identifica i seguen-
+
+ti rischi per i quali implementa un presidio e
+
+una supervisione tecnica continuativa:
+
+= perdita di competitivita tecnologica - pre-
+sidiata per mezzo di un monitoraggio e
+un’analisi continua di benchmark sia tra-
+dizionali sia Fintech, gestiti dal Servizio
+Organizzazione e Innovazione Digitale
+unitamente al Servizio Canali Diretti e al
+Servizio Sistemi di Pagamento;
+
+« Information Technology - viene effettuata
+un’attivita di valutazione dei rischi gene-
+rati dall’utilizzo degli strumenti informati-
+ci, come previsto dalla normativa di Ban-
+
+ca d'ltalia contenuta nella Circolare 285
+del 17 dicembre 2013, su cui vigila il Ser-
+vizio Security e Business Continuity uni-
+tamente al Servizio Operational e Repu-
+tational Risk;
+
+Cyber risk derivante dagli attacchi infor-
+matici allinfrastruttura di ICT - sono in
+vigore misure di mitigazione e controllo
+mediante monitoraggi attivi 24 ore al gior-
+no da parte del Servizio Security e Busi-
+ness Continuity con l’ausilio del Servizio
+Infrastrutture;
+
+frodi - la gestione € basata su un’infra-
+struttura dedicata al monitoraggio del-
+le transazioni online ed é collegata ad un
+servizio di call center per la verifica delle
+operazioni a rischio con sospetto di fro-
+de;
+
+mancata compliance - i presidi attivi sono
+rappresentati dal monitoraggio e dalla
+partecipazione a tavoli congiunti in Abi-
+Lab per la costante verifica dei requisiti
+legislativi in merito alla sicurezza e busi-
+ness continuity;
+
+continuita operativa - lattivita e i servi-
+zi informatici erogati per i processi criti-
+ci sono valutati e monitorati al fine di pre-
+venire discontinuita operative derivanti
+da fenomeni non prevedibili (ad esempio
+calamita naturali ed attacchi esterni). Le
+procedure vengono riviste e testate per
+gli scenari senza tecnologia, persone o
+edifici.
+
+La nostra impronta sul territorio:
+’offerta per famiglie e PMI
+
+Modello di gestione e organizzazione
+
+| profili di gestione e organizzazione fanno questo Documento nell’ambito del tema “La
+
+capo alla Divisione Prodctti il cui modello é
+declinato all’interno dell’omonima sezione di
+
+qualita al centro dell’offerta commerciale”.
+

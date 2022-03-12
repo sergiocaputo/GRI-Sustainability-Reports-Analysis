@@ -1,0 +1,69 @@
+Bilancio Individuale 2017
+
+ 
+
+esistano concreti elementi di impairment la riserva di patrimonio netto iscritta viene riversata a conto economico.
+Normalmente, si procede a rilevare un impairment sui titoli di capitale quando:
++ il fair value del titolo risulta inferiore al 50% rispetto al valore di carico; oppure
+
++ il fair value risulta inferiore rispetto al valore di prima iscrizione per un arco temporale continuativo di almeno 24
+mesi.
+
+Con riferimento alle interessenze 0.1.C.R. in fondi comuni d'investimento, un indicatore di obiettiva evidenza di im-
+pairment é rintracciabile in un significativo o prolungato declino del NAV al di sotto dell’investimento iniziale o valore
+di carico delle quote nel fondo.
+
+Il NAV (Net Asset Value) dellinteressenza é desumibile dal rendiconto di gestione approvato del fondo, che viene
+trasmesso periodicamente dalla societa di gestione del risparmio (SGR).
+
+Normalmente, si procede a rilevare un impairment su tali interessenze quando:
++ il NAV dell'interessenza risulta inferiore al 50% rispetto al valore di carico; oppure
+
++ il NAV dellinteressenza risulta inferiore rispetto al valore di prima iscrizione per un periodo continuativo di alme-
+no 60 mesi con riferimento ai fondi di tipo “chiuso” aventi una durata di medio-lungo periodo (ossia con durata
+superiore a 10 anni tenuto conto dell’eventuale periodo massimo di proroga previsto nel regolamento del fon-
+do), owero di almeno 24 mesi relativamente a quelli con durata di breve periodo (quindi non superiore a 10 anni
+sempre tenuto conto dell’eventuale periodo massimo di proroga previsto nel regolamento del fondo), nonché ai
+fondi d'investimento di tipo “aperto”,
+
+Altre attivita non finanziarie
+
+Le attivita materiali ed immateriali con vita utile definita sono soggette a test di impairment se esiste un’indica-
+zione che il valore contabile del bene non puo piu essere recuperato. || valore recuperabile viene determinato con
+riferimento al fair value dell'attivita materiale o immateriale al netto degli oneri di dismissione o al valore d’uso se
+determinabile e se esso risulta superiore al fair value.
+
+Per le altre immobilizzazioni materiali e le immobilizzazioni immateriali (diverse da quelle rilevate a seguito di opera-
+zioni di aggregazione) si assume che il valore di carico corrisponda normalmente al valore d’uso, in quanto determi-
+nato da un processo di ammortamento stimato sulla base dell’effettivo contributo del bene al processo produttivo
+e risultando estremamente aleatoria la determinazione di un fair value. | due valori si discostano, dando luogo a
+impairment, in caso di danneggiamenti, uscita dal processo produttivo o altre circostanze similari non ricorrenti.
+
+Le attivita immateriali rilevate a seguito di operazioni di acquisizione ed in applicazione del principio IFRS 3 revised
+sono sottoposte con periodicita almeno annuale ad un test di impairment al fine di verificare se esistono obiettive
+evidenze che I’attivita possa aver subito una riduzione di valore.
+
+Per lillustrazione delle modalita di esecuzione degli impairment test degli avviamenti si rimanda alla precedente
+Sezione 9.
+
+Conto economico
+
+ 
+
+Interessi attivi e passivi
+Per tutti gli strumenti valutati con il criterio del costo ammortizzato, gli interessi attivi e passivi sono imputati al
+conto economico sulla base del tasso di rendimento effettivo dello strumento.
+
+Il metodo del tasso di rendimento effettivo é un metodo per calcolare il costo ammortizzato di un‘attivita o passivita
+finanziaria e di allocare gli interessi attivi o passivi nel periodo di competenzaa. II tasso d'interesse effettivo é il tas-
+so che attualizza il flusso dei pagamenti futuri stimati per la durata attesa del finanziamento in modo da ottenere
+esattamente il valore contabile netto all'atto della rilevazione iniziale, che comprende sia i costi di transazione diret-
+tamente attribuibili sia tutti i compensi pagati o ricevuti tra contraenti.
+
+Il tasso d'interesse effettivo rilevato inizialmente é quello originario che é sempre utilizzato per attualizzare i previsti
+flussi di cassa e determinare il costo ammortizzato, successivamente alla rilevazione iniziale.
+
+ 
+
+133
+

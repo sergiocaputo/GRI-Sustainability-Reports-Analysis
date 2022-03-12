@@ -1,0 +1,167 @@
+SMaITeCCH
+
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2017
+
+ 
+
+3.4.
+
+» CONSUMI DI CARTA
+
+(GRIN.301-1)
+
+SNAITECH e stata impegnata nel corso dell’ultimo triennio in un programma di dematerializzazione ed efficienta-
+
+mento dei processi, finalizzato ad una riduzione progressiva dell’utilizzo della carta attraverso la realizzazione
+
+dell‘area documentale, l’integrazione delle informazioni e della documentazione, Ia digitalizzazione, che coin-
+volge anche i rapporti con Ia rete di vendita e i fornitori.
+
+Nel corso dell’esercizio sono proseguiti i programmi volti alla razionalizzazione delle attivita aziendali destinate ad
+
+esercitare un effetto di mitigazione dell’impatto ambientale dell’attivita tipica:
+
+1. virtualizzazione Server Farm: sono state completate le attivita di virtualizzazione delle server farm, con la
+conseguente dismissione degli apparcti fisici non pid necessari;
+
+2. Green Computing: € proseguita la sostituzione delle postazioni di lavoro obsolete, che comportano ridu-
+Zione dei consumi energetici delle macchine. Per il 2018 € stato sottoscritto un nuovo accordo quadro al
+fine di rinnovare ulteriori 300 postazioni;
+
+3. dematerializzazione ed efficientamento dei processi nell‘ambito della certificazione UNI CEI ISO 27001/2017
+che nel corso dell’ultimo anno é stata estesa dalla sola sede di Porcari anche alle sedi di Roma e di Milano.
+
+SNAITECH e gli altri operatori del settore sono in attesa delle linee guida da parte di ADM a seguito dell’introdu-
+Zione della legge 2015 del 27 dicembre 2017 (“Bilancio di Previsione dello Stato”), che introduce, tra l’altro, dispo-
+sizioni per lo smaltimento e la distruzione delle AWP che vengono dismesse dal mercato.
+
+I risultati raggiunti"' "9%
+
+Nella tabella seguente vengono riportati i risultati relativi ai consumi di carta, che rappresentano il principale
+materiale utilizzato nelle attivita d’ufficio e che non presentano variazioni di rilievo rispetto all‘anno precedente
+che aveva visto und forte riduzione dei consumi in seguito al processo di dematerializzazione dei processi ormai
+
+ 
+
+consolidato.
+TONNELLATE CARTA ACQUISTATA 39,68 38,62
+
+Nel corso del 2017 si mantengono praticamente stabili i consumi di metano e GPL per riscaldamento. Per quanto
+riguarda i carburanti per autotrazione, aumenta in misura contenuta il consumo di benzina a fronte di una signifi-
+cativa riduzione del consumo di diesel. Si riducono i consumi di gasolio per gruppi elettrogeni da parte di Trenno
+in seguito all’ottimizzazione delle accensioni delle luci della pista e dell’area riservata al pubblico.
+
+La riduzione dei consumi pil significativa si rileva nel comparto dell’energia elettrica (-22,3%) nonostante l’e-
+state 2017 abbia presentato temperature esterne particolarmente elevate per lunghi periodi, che hanno richiesto
+un uso pil prolungato degli impianti di condizionamento. Un’analisi dei consumi delle societd rientranti nel peri-
+metro di rilevazione, presenta una riduzione del 10,9% da parte della societa SNAITECH S.p.A. che comprende
+le sedi di Milano, Roma, Porcari e Teleippica mentre i consumi elettrici dei comprensori ippici si sono ridotti del
+18,6% grazie a misure volte al risparmio che comprendono controlli puntuali delle utenze e attivazione di chiu-
+sure e sezionamenti di impianti. La riduzione piv significativa si riferisce alla societa Snai Rete Italia (-53%) ed é
+imputabile in massima parte alla dismissione di immobili in seguito alla riduzione del numero delle agenzie dirette,
+attraverso chiusure e cessioni di ramo d‘azienda.
+
+» CONSUMI ENERGETIC!
+PER FONTE (GJ)
+
+(GRIN.302-1)
+
+» CONSUMI
+DI ACQUA* (mc)
+
+(GRIN.303-1, 306-1)
+
+La riduzione della percentuale di energia elettrica proveniente da fonti rinnovabili dipende dalle diverse percen-
+tuali dichiarate dai fornitori di energia che sono in parte cambiati rispetto all‘anno precedente in un‘ottica di
+contenimento dei costi.
+
+2017 2016
+
+CONSUMI DIRETTI (NON RINNOVABILI)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metano per riscaldamento 8.141,58 8.101,21
+Gasolio gruppi elettrogeni 28,09 413,38
+Gpl per riscaldamento 953,88 953,26
+Diesel per autotrazione 8.278,37 10.792,557
+Benzina per autotrazione 224,76 177,66
+CONSUMI INDIRETTI
+Energia elettrica acquistata 31.426,74 41.185,22
+Di cui da fonti rinnovabili* 10.258,36 16.714,41
+Teleriscaldamento (rinnovabile) 548,60 857,16
+TOTALE 31.975,34 42.042,38
+
+ 
+
+% energia proveniente da fonti rinnovabili (energia
+
+)O) }0/
+elettrica+teleriscaldamento) su totale consumi indiretti 34,39% 479%
+
+ 
+
+*l| calcolo della quota di elettricitt proveniente da fonti rinnovabili risulta dalla media delle percentuali fornite dai singoli
+fornitori di energia elettrica nel 2016 non essendo ancora disponibile I’aggiornamento 2017 e in particolare:
+
+2017 2016
+
+ 
+
+ 
+
+ 
+
+Acquedotto municipale 40.263 102.050
+Estrazione da pozzi 464.174 362.982
+PRELIEVO TOTALE 504.437 465.032
+Irrigazione** 232.087 181.491
+
+ 
+
+*| consumi di acqua della rete di agenzie SNAI Rete Italia Srl e di Teleippica (sede di Roma) sono condominiali e non sono inseriti
+nei consumi totall
+
+** Gli scarichi dell’acqua sono stati calcolati solo per le aree degli ippodromi alla voce “irrigazione”, ad esclusione degli utilizzi
+degli uffici
+
+Nel 2017 il 97,7% dei consumi di acqua del Gruppo é di competenza dei comprensori ippici. Il contenimento dei
+consumi di acqua é stato effettuato intensificando i controlli puntuali delle utenze e adottando chiusure e sezio-
+Namenti degli impianti. aumento dei consumi avvenuto nel corso dell‘esercizio é dipeso in massima parte delle
+condizioni meteorologiche, in quanto lirrigazione, che é la maggiore causa di consumo, deve essere intensificata
+con il protrarsi della stagione secca. Azienda utilizza soltanto acqua proveniente dagli acquedotti municipali
+e da pozzi, limitatamente all‘unita locale di Trenno. Inoltre nel corso del 2017 il comprensorio ippico di Trenno
+ha rilevato due utenze dell’acquedotto comunale con consumi non nella norma e ha provveduto alla richiesta
+di sostituzione di due contatori e alla riparazione di alcune tubature. La discrepanza fra i consumi 2016 e 2017
+si colloca pertanto nell‘ambito di queste riparazioni e dei problemi di contabilizzazione dei consumi reali che ne
+sono derivati.
+
+E inoltre da segnalare che l’Azienda commissiona periodicamente analisi chimiche e microbiologiche su campioni
+di acqua estratta dai pozzi Trenno e ottiene regolari certificazioni di potabilita.
+
+ 
+
+40
+
+ 
+
+4
+

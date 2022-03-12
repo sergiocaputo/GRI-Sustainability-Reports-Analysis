@@ -1,0 +1,170 @@
+190
+
+ 
+
+TABELLA N.55- PARAMETRI IN USCITA DEI DEPURATORI PRINCIPALI GESTITI DA ACEA ATO 2, ACEA ATO 5, GORI E GESESA (2019)
+
+ 
+
+ 
+
+ 
+
+ 
+
+limiti
+. Gesesa di concentrazione
+Acea Ato 2 Acea Ato 5 Gori . we
+(Benevento) in acque superficiali
+(D. Lgs. n. 152/06)
+
+parametro media dei valori (mg/l)
+BOD, 4 i 1 £25
+COD 25 20 27 40 $125
+SST "1 6 14 29 $35
+azoto (ammoniacale, nitrico e nitroso) 6 7 1 -
+fosforo 1 1 2 -
+
+quantita in uscita (t)
+
+COD 19.587 1.099 1.203 nd -
+SST 10.267 424 661 n.d. -
+
+(*) Al momento Gesesa non ha installato misuratori di portata, pertanto il dato non é disponibile.
+
+| fanghi prodotti durante il processo di depurazione sono per
+la maggior parte awviati a recupero di materia (si veda in Area
+Ambiente, il paragrafo L’intermediazione e il trasporto dei rifiuti).
+
+Numerose sono state le azioni messe in campo nel 2019 per la ri-
+duzione del quantitativo di fanghi prodotti dagli impianti di depu-
+razione gestiti dalle Societa del Gruppo. In particolare, Acea Ato 2
+
+ha sviluppato diverse sperimentazioni insieme ad Acea Elabori,
+tra le quali la messa a regime dellimpianto di ozonolisi di Ostia,
+dell’essiccatore dellimpianto di depurazione di Roma Nord e Pav-
+vio della digestione anaerobica presso l’impianto di depurazione di
+Roma Sud (si veda il box di approfondimento ed anche L’impegno
+in ricerca e innovazione nel capitolo Istituzioni e impresa).
+
+IL BIOMETANO COME OPPORTUNITA PER | GESTORI DEL SERVIZIO IDRICO INTEGRATO
+
+Uno dei metodi pil consolidati per conseguire la riduzione della quanti-
+ta dei fanghi é la digestione anaerobica: alla temperatura di circa 38°C e
+in assenza di ossigeno, nella massa di fango si seleziona in modo del tutto
+naturale un ceppo batterico costituito da microrganismi di tipo anaerobico
+in grado di trasformare la sostanza organica di partenza (carboidrati, grassi
+e proteine) in una miscela di metano (CH,) ed anidride carbonica (CO,),
+denominata biogas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+batt ere T= 38°C
+
+° eae anaerobici zero
+8 ossigeno
+Zz >)
+q carboidrati grassi proteine
+oO
+6
+
+| | |
+
+v v v
+ws
+zY zuccheri acidi grassi polipeptiti
+6a
+=o
+Be u J
+aw
+os
+4
+Oo
+
+ 
+
+ 
+
+ 
+
+BIOGAS
+
+ 
+
+ 
+
+Tra le molteplici azioni di Acea Ato 2 volte a mitigare gli ef-
+fetti delle acque parassite’”* nella rete fognaria e migliorare la
+resilienza degli impianti agli eventi atmosferici eccezionali, nel
+
+Ww
+
+Il processo determina una riduzione di circa il 30-35% della massa totale
+di fango i In ingresso al trattamento, permettendo una gestione piu agevole
+e meno costosa del fango da smaltire, ed una produzione, per ogni tonnel-
+lata di fango, di circa 35 Sm? di metano, con un conseguente vantaggio
+energetico.
+
+Di recente, é stato aggiunto un vantaggio economico non trascurabile le-
+
+gato ad un incentivo'””
+
+che premia la trasformazione del biogas in biome-
+tano e la sua successiva utilizzazione in autotrazione, nel rispetto di rigorosi
+vincoli di sostenibilita che devono essere certificati da un soggetto terzo.
+
+Il processo di trasformazione del biogas in biometano prende il nome di
+up-grading, al termine del quale il prodotto ottenuto risulta quasi del tut-
+to privo di sostanze diverse dal metano (CH, al 98% circa), in particolare
+di anidride carbonica, presente nel biogas di origine. La sua eliminazione,
+insieme ad altre sostanze indesiderate, awiene per filtrazione su speciali
+membrane selettive.
+
+II biometano é idoneo ad essere immesso in rete di distribuzione del gas
+naturale.
+
+Acea Ato 2 @ in procinto di awiare la produzione di biometano per up-gra-
+ding del biogas gia disponibile negli impianti di depurazione di Roma Est e
+Roma Nord, con una produzione complessiva annua prevista di circa 2,5
+milioni di Sm? ed un corrispondente abbattimento di circa 25.000 t/anno
+di fango.
+
+In questa prospettiva é gia stata completata la fase di progettazione esecu-
+tiva dei due Impianti di up-grading, consentendo l'awio dell’iter di qualifica
+presso il Gestore Servizi Energetici (GSE), Ente Pubblico responsabile
+della corretta gestione dell’incentivo, e lawio delle gare per la realizzazione
+delle opere tecnologiche, incluse quelle necessarie per linterconnessione
+del biometano prodotto con la rete di distribuzione gas naturale.
+
+2019, sono stati completati 16 studi che hanno riguardato la
+verifica di circa 800 km di rete fognaria presente nel territo-
+no gestito.
+
+Con il DM 2 marzo 2018, che incentiva la produzione di biometano dal trattamento di materiali di scarto (Fango di depurazione ma anche frazione organica dei rifiuti
+
+urbani), I'Italia si allinea a quanto richiesto dall’obiettivo della direttiva europea detta RED II — cioé la Direttiva sulle rinnovabili 2018/2001/Ue che abroga la Direttiva
+2009/28 - RED |: raggiungere una quota dei consumi finali lordi di energia nel settore trasporti coperta da FER almeno pari al 14% (di cui biocarburanti avanzati
+
+> 0,2% al 2022, > 1% al 2025, almeno 3,5% al 2030).
+
+128
+
+Le acque parassite sono quelle che possono entrare in fognatura e rappresentano una componente non conforme, per qualita e/o per quantita, al sistema fognario
+
+dimensionato. Possono essere di natura: meteorica, superficiale, di falda, antropica (perdite acquedotto, allacci abusivi, ecc.).
+
+GRUPPO ACEA / BILANCIO DI SOSTENIBILITA 2019
+

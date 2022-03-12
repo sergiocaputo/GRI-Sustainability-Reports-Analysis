@@ -1,0 +1,75 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+Modalita di determinazione delle perdite di valore
+Attivita finanziarie
+
+Ad ogni data di bilancio le attivita finanziarie non classificate nella voce Attivita finanziarie detenute per la negozia-
+zione sono sottoposte ad un test di impairment (perdita di valore) al fine di verificare se esistono obiettive evidenze
+che possano far ritenere non interamente recuperabile il valore di iscrizione delle attivita stesse.
+
+Si é in presenza di perdite di valore se vi € evidenza oggettiva di una riduzione dei flussi di cassa futuri, rispetto a
+quelli originariamente stimati, a seguito di specifici eventi; la perdita deve poter essere quantificata in maniera affi-
+dabile ed essere correlata ad eventi attuali, non meramente attesi.
+
+ll test di impairment viene effettuato su base analitica per le attivita finanziarie che presentano specifiche evidenze
+di perdite di valore e collettivamente, per le attivita finanziarie per le quali non é richiesta la valutazione analitica o
+per le quali la valutazione analitica non ha determinato una rettifica di valore. La valutazione collettiva si basa sull'in-
+dividuazione di classi di rischio omogenee delle attivita finanziarie con riferimento alle caratteristiche del debitore/
+emittente, al settore economico, all’area geografica, alla presenza di eventuali garanzie e di altri fattori rilevanti.
+
+Con riferimento ai crediti verso clientela, sono sottoposti a valutazione analitica i crediti ai quali € stato attribuito
+lo status di sofferenza, incaglio, ristrutturato o di scaduto secondo le definizioni della Banca d'Italia, coerenti con i
+principi IAS/IFRS.
+
+Detti crediti deteriorati sono oggetto di un processo di valutazione analitica e l'ammontare della rettifica di valore
+di ciascun credito é pari alla differenza tra il valore di bilancio dello stesso al momento della valutazione (costo am-
+mortizzato) ed il valore attuale dei previsti flussi di cassa futuri, calcolato applicando il tasso di interesse effettivo
+originario.
+
+| flussi di cassa previsti tengono conto dei tempi di recupero attesi, del presumibile valore di realizzo delle eventuali
+garanzie nonché dei costi che si ritiene verranno sostenuti per il recupero dell'esposizione creditizia. | flussi di cassa
+relativi a crediti il cui recupero é previsto nel breve termine non vengono attualizzati, in quanto il fattore finanziario
+risulta non significativo. | crediti per i quali non sono state individuate singolarmente evidenze oggettive di perdita
+sono sottoposti alla valutazione di una perdita di valore collettiva. Tale valutazione awiene per categorie di crediti
+omogenee in termini di rischio di credito e le relative percentuali di perdita sono stimate tenendo conto di serie
+storiche, fondate su elementi osservabili alla data della valutazione, che consentano di stimare il valore della perdita
+latente in ciascuna categoria di crediti.
+
+Con riferimento alle attivita disponibili per la vendita, il processo di rilevazione di eventuali impairment prevede la
+verifica della presenza di indicatori di impairment e la determinazione dell'eventuale svalutazione.
+
+    
+
+Gli indicatori di impairment sono sostanzialmente suddivisibili in due categorie: indicatori derivanti da fattori interni
+inerenti la societa oggetto di valutazione, e quindi di tipo qualitativo, e indicatori esterni derivanti dai valori di mer-
+cato dell'impresa (per il solo caso di titoli di capitale quotati).
+
+La verifica consiste in un’analisi approfondita delle ragioni che hanno determinato la perdita di valore al fine di iden-
+tificare eventuali situazioni di difficolta dell’emittente quali a titolo di esempio:
+
+- significative difficolta finanziare o rischi di avvio di procedure concorsuali;
+- annuncio/avvio di piani di ristrutturazione finanziaria;
+
+-  variazioni significative con impatto negativo nell’ambiente tecnologico, economico o normativo in cui opera |'im-
+presa.
+
+Ove disponibili vengono inoltre esaminati i business plan e le prospettive strategiche delle predette societa al fine
+di stimarne il valore in uso secondo quanto previsto dallo IAS 36. Se le predette analisi inducono il Gruppo a ritenere
+che esistano concreti elementi di impairment la riserva di patrimonio netto iscritta viene riversata a conto econo-
+mico.
+
+Normalmente, si procede a rilevare un impairment sui titoli di capitale quando:
+
++ il fair value del titolo risulta inferiore al 50% rispetto al valore di carico; oppure
+
++ il fair value risulta inferiore rispetto al valore di prima iscrizione per un arco temporale continuativo di almeno 24
+mesi.
+
+Con riferimento alle interessenze 0.1.C.R. in fondi comuni d’investimento, un indicatore di obiettiva evidenza di im-
+
+432
+
+ 
+

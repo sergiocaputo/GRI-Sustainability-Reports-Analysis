@@ -1,0 +1,138 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+le), il locatario riconosce sia la passivita sia l’attivita consisten-
+te nel diritto di utilizzo. In particolare il diritto d’'uso acquisito
+con il leasing é rilevato come somma del valore attuale dei
+canoni futuri da pagare per la durata contrattuale, dei paga-
+menti per leasing corrisposti alla data o prima della decorren-
+za del leasing, degli eventuali incentivi ricevuti, dei costi diretti
+iniziali e degli eventuali costi stimati per lo smantellamento o
+il ripristino dell’attivita sottostante il leasing.
+
+Successivamente alla rilevazione iniziale, le attivita materiali
+sono valutate al costo, dedotti gli ammortamenti e le even-
+tuali perdite di valore ad eccezione degli immobili ad uso fun-
+zionale e del patrimonio artistico di pregio che sono valutati
+secondo il metodo della rideterminazione del valore.
+
+Per le attivita materiali soggette alla valutazione secondo il
+metodo della rideterminazione del valore:
+
+¢ se il valore contabile del bene é incrementato a seguito di
+una rideterminazione di valore, I’incremento deve essere
+rilevato nel prospetto della redditivita complessiva e accu-
+mulato nel patrimonio netto tra le riserve da valutazione;
+invece nel caso in cui venga ripristinata una svalutazione
+della stessa attivita rilevata precedentemente nel conto eco-
+nomico si deve rilevare un provento;
+
+se il valore contabile di un bene é diminuito a seguito della
+rideterminazione di valore, la diminuzione deve essere rile-
+vata nel prospetto della redditivita complessiva come ecce-
+denza di rivalutazione nella misura in cui vi siano eventuali
+saldi a credito nella riserva da valutazione in riferimento a
+tale attivita; altrimenti tale riduzione va contabilizzata nel
+conto economico.
+
+ll valore ammortizzabile é ripartito sistematicamente lungo la
+vita utile, adottando come criterio di ammortamento il meto-
+do a quote costanti, ad eccezione:
+
+¢ dei terreni, che hanno vita utile indefinita e quindi non sono
+ammortizzabili. Si precisa inoltre che il valore dei terreni vie-
+ne contabilmente separato da quello dei fabbricati anche
+se acquistati congiuntamente. La suddivisione tra il valore
+del terreno ed il valore del fabbricato awiene in base a una
+perizia di esperti indipendenti per i soli immobili detenuti
+“cielo-terra”;
+
+¢ delle opere d’arte, in quanto la vita utile non é@ stimabile
+ed il loro valore non @ normalmente destinato a ridursi in
+funzione del decorrere del tempo.
+
+La vita utile delle attivita materiali soggette ad ammortamen-
+to é periodicamente sottoposta a verifica; in caso di rettifiche
+delle stime iniziali, viene modificata anche la relativa quota di
+ammortamento.
+
+Viene inoltre valutato, ad ogni data di bilancio, se esiste qual-
+che indicazione che dimostri che un‘attivita possa aver subi-
+to una perdita di valore. In tal caso si procede al confronto
+tra il valore di carico del cespite ed il suo valore di recupero.
+Le eventuali rettifiche vengono rilevate a conto economico.
+Qualora vengano meno i presupposti che hanno portato alla
+rilevazione della perdita, si da luogo ad una ripresa di valore,
+che non puo superare il valore che l’attivita avrebbe avuto,
+al netto degli ammortamenti calcolati, in assenza di preceden-
+ti perdite di valore.
+
+Con riferimento all’attivita consistente nel diritto d’uso conta-
+bilizzata in base all’IFRS16, essa viene misurata utilizzando il
+modello del costo secondo lo IAS16; in questo caso I'attivita
+é successivamente ammortizzata e soggetta a un impairment
+test nel caso emergano degli indicatori di impairment.
+
+Un‘immobilizzazione materiale é eliminata dallo stato patri-
+moniale al momento della dismissione o quando il bene é per-
+manentemente ritirato dall’uso e dalla sua dismissione non
+sono attesi benefici economici futuri.
+
+SEZIONE 7 - ATTIVITA IMMATERIALI
+
+Le attivita immateriali sono attivita non monetarie, identifica-
+bili e prive di consistenza fisica, che trovano origine in diritti
+legali o contrattuali. Esse comprendono il software sviluppato
+internamente o acquisito da terzi, l'awiamento e le attivita
+intangibili legate alla clientela rilevate in bilancio in seguito ad
+operazioni di aggregazione aziendale.
+
+Le attivita immateriali sono iscritte al costo, rettificato per
+eventuali oneri accessori solo se é probabile che i futuri be-
+nefici economici attribuibili all’attivita si realizzino e se il costo
+dell’attivita stessa pud essere determinato attendibilmente.
+In caso contrario il costo dell’attivita immateriale é rilevato a
+conto economico nell’esercizio in cui @ stato sostenuto. Per le
+attivita a vita utile definita, il costo € ammortizzato in quote
+costanti determinate in funzione dell‘afflusso dei benefici eco-
+nomici attesi dall‘attivita. Le attivita a vita utile indefinita non
+sono invece soggette ad ammortamento sistematico, bensi
+ad un test periodico di verifica dell‘'adeguatezza del relativo
+valore di iscrizione in bilancio. Se esiste qualche indicazione
+che dimostri che un’‘attivita possa avere subito una perdita di
+valore, si procede alla stima del valore di recupero dell’attivita.
+Uammontare della perdita, rilevato a conto economico, é pari
+alla differenza tra il valore contabile dell’attivita ed il valore
+recuperabile.
+
+In particolare tra le attivita immateriali sono incluse:
+
+¢ le attivita immateriali basate sulla tecnologia, quali il softwa-
+te applicativo, che sono ammortizzate in funzione della
+prevista obsolescenza tecnologica delle stesse e comunque
+non oltre un periodo massimo di sette anni; le spese relative
+allo sviluppo interno di software sono iscritte in bilancio tra
+le attivita immateriali previa verifica della fattibilita tecnica
+del completamento e della loro capacita di generare bene-
+fici economici futuri. Nella fase di sviluppo tali attivita sono
+valutate al costo, comprensivo di eventuali oneri accessori
+diretti ed incluse eventuali spese per il personale impiegato
+nei progetti. In caso di esito negativo della verifica, le spese
+sono imputate a conto economico;
+
+le attivita immateriali legate alla clientela rappresentate dal-
+la valorizzazione, in occasione di operazioni di aggregazio-
+ne, dei rapporti di asset management e delle attivita non fi-
+nanziarie correlate a prestazioni di servizi. Tali attivita, a vita
+definita, sono originariamente valorizzate attraverso |'at-
+tualizzazione, con |’utilizzo di un tasso rappresentativo del
+valore temporale del denaro e dei rischi specifici dell’attivita,
+dei flussi rappresentativi dei margini reddituali lungo un pe-
+riodo esprimente la durata residua, contrattuale o stimata,
+dei rapporti in essere al momento dell’operazione di aggre-
+gazione. Esse sono ammortizzate in quote costanti lungo il
+periodo di afflusso dei benefici economici attesi.
+
+268 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

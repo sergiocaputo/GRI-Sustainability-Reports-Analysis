@@ -1,0 +1,99 @@
+@
+
+for managing executive risk management
+functions in everyday business activities.
+
+3.4 DATA PROTECTION AND
+PRIVACY
+
+The protection of privacy and the data and
+information pertaining to clients and
+subscribers is one of the principal concerns
+of the Mediaset Group.
+
+The Group has prepared a special set of
+Organisational Guidelines on Information
+Security Policy, management of personal
+data and the protection of data. These
+activities observe the following principles:
+
+e compliance with national and
+international legal requirements, with
+particular reference to Legislative Decree
+231/2001, L.262/2005 on the protection
+of savings and_ financial markets
+regulations, and the European Regulation
+(EU) 2016/679 on the processing of
+personal data.
+
+e safeguards on adequate measures of
+protection of data against threats,
+including cybersecurity; these measures
+
+are identified in accordance with the level
+of risk associated with the loss of
+confidentiality, integrity and availability of
+information. This protection must also be
+guaranteed in regard to relations with
+third parties.
+
+e protection of data against unauthorised
+access, while ensuring accessibility for
+legitimate purposes, with a_ suitable
+degree of traceability.
+
+A cyber risk assessment process has also
+been implemented, and _has_ recently
+identified the principal areas of IT risk for the
+Mediaset Group as well as the measures best
+suited to resisting threats and mitigating
+residual risk.
+
+Among the most important initiatives
+undertaken is the creation of a Security
+Operation Centre (SOC). The duties of the
+SOC include an early warning mechanism
+which analyses the correlation between
+accesses to information systems and the
+respective alarms so that security can be
+managed preventively, identifying
+vulnerabilities in network components and
+tracing anomalous or dangerous activity
+
+(unauthorised exploration of the network,
+
+access to systems, spreading of viruses,
+general attacks).
+
+On 25 May 2018, European Regulation
+679/2016 (a.k.a. the GDPR) on the protection
+of natural persons with regard to the
+processing of personal data and on the free
+movement of such data took effect. The
+Mediaset Group - in observance of the
+regulations in force (especially the European
+Regulation, Legislative Decree No. 196 of 30
+June 2003 “Personal Data Protection Code”
+and national privacy regulations) - has
+adopted a compliance programme for
+privacy management (“Privacy Compliance
+Programme”) with the aim of optimising
+company processes linked to personal data
+protection.
+
+Mediaset has also issued an Organisational
+Guideline on data breaches that accidentally
+or unlawfully result in destruction, loss,
+alteration, unauthorised disclosure or access
+to personal data. The data’ breach
+management plan was prepared in order to
+implement, where necessary, the action plan
+and any notification of the Supervisory
+Authority within 72 hours of identification of
+the breach and communicate the breach to
+the data subject should the rights and
+
+ 
+
+58
+

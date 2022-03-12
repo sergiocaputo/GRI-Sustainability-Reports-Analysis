@@ -1,0 +1,72 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+the arrival of 5G), regarding health, education, safety, entertainment and games, i.e. the context in which we live and
+work; some demonstrations have been developed in conjunction with Ericsson, Qualcomm, Cisco and Inatel, and also
+with ABB, Intel and LG.
+
+GRI 103-3: Management Approach] [GRI 203] loT Open Lab
+
+n 2017, TIM Participagdes took part in the Telecom Infra Project (TIP), an initiative set up by Facebook, SK Telecom,
+Deutsche Telekom, Nokia, Intel and other companies, with the aim of creating a new approach to constructing and
+implementing the telecommunications network infrastructure. TIM Participagdes has transformed TIM Lab into the first
+TIP Community Lab in Latin America, for use by TIP members to create universal standards relating to solutions (initially
+or transport networks, the Open Optical Packet Transport work team) in order to overcome the challenges linked to the
+interoperability of the different providers. This initiative is an open, cooperative approach to developing and testing out
+new technologies and solutions, such as whitebox! and disaggregated devices, for back haul architectures and data
+centers.
+n 2018, TIM Participagées also took part in a new work team inside TIP, together with Vodafone and Telefonica, called
+DCSG (Disaggregated Cell Site Gateway’). This project is an opportunity to define a set of common requirements for
+operators, and coordinate with companies that produce devices, that have greater, more flexible capacities and are
+cheaper. In June 2019, supported by Facebook, TIM Participagdes organized a Proof of Concepts of the DCSG solution of
+Pinfusion and Core EDGE suppliers and TIP members, in order to demonstrate the main functions of the solution.
+
+ 
+
+ 
+
+ 
+
+Digital inclusion
+
+[GRI 103-1: Management Approach] [GRI 203] The 2019 materiality analysis confirmed geographical and social digital
+inclusion in Italy and Brazil as a material topic. Amongst other things, the ICT? sector offers both potential to allow
+everyone to participate in social and economic life and solutions for a better future, saving time and natural resources‘.
+
+Geographical digital inclusion
+
+[GRI 103-2: Management Approach] [GRI 203] The 5G technology*
+
+At the end of 2018, the assignment of 5G frequencies in Italy, available until 2037, was completed.
+
+This new technology goes beyond a simple evolution of 4G performance, aiming to create an entire innovative network
+and service platform capable of meeting the future demands of the 2020 digital society®.
+
+According to the ITU-R IMT.2083 (IMT Vision) Recommendation’ of 2015, the 5G system includes a number of business
+scenarios that can be grouped into three main macro-categories (each characterized by different requirements)
+summarized in the following figure (scenarios for IMT use for 2020 and beyond).
+
+The use scenarios are:
+* Enhanced Mobile Broadband (eMBB), for video transmission and Gbps® communication (enabling Augmented/Virtual
+Reality);
+
+1 Software not associated with hardware.
+
+? Based on an open, disaggregated architecture, the new DCSG is designed for the economic back haul of mobile site traffic in existing mobile
+networks and in emerging 5G infrastructure.
+
+3 Information & Communication Technology.
+
+* According to “McKinsey Global Institute 2018/smart cities: digital solutions for a more liveable future” it also produces less waste.
+
+5 Acronym for fifth generation mobile technology and standards.
+
+© 5G will be introduced gradually because, in the first phase (early drop), 5G radio access will be “supported” by the LTE (Long Term Evolution)
+network, which will play an integral and subordinate role.
+
+7 International Telecommunication Union-Radiocommunication Sector, International Mobile Telecommunications.
+
+® Giga byte per second (over one billion bytes of information per second).
+
+81
+

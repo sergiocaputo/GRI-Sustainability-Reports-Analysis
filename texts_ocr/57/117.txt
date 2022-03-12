@@ -1,0 +1,83 @@
+Bilancio Individuale 2017
+
+ 
+
+Parte A.2 - PARTE RELATIVA ALLE PRINCIPALI VOCI DI BILANCIO
+
+Sezione 1 - Attivita finanziarie detenute per la negoziazione
+Criteri di classificazione
+
+In questa categoria sono comprese le attivita finanziarie detenute principalmente con lo scopo di trarre profitto
+dalle fluttuazioni a breve termine del prezzo. In particolare un’attivita finanziaria é classificata come posseduta per
+essere negoziata se, indipendentemente dal motivo per cui é stata acquistata, é parte di un portafoglio per cui vi
+é evidenza di una recente ed effettiva strategia rivolta all’ottenimento di un profitto nel breve periodo. In questa
+categoria sono inclusi esclusivamente titoli di debito e di capitale ed il valore positivo di tutti i derivati ad eccezione
+di quelli designati come efficaci strumenti di copertura.
+
+Il derivato € uno strumento finanziario 0 un altro contratto avente tutte e tre le seguenti caratteristiche:
+
+1)
+
+il suo valore cambia in risposta ai cambiamenti di uno specifico tasso di interesse, del prezzo di uno strumento
+finanziario, del prezzo di una merce, del tasso di cambio di una valuta estera, di un indice di prezzi o tassi, di un
+rating creditizio o di altre variabili;
+
+2)
+
+non richiede un investimento netto iniziale o richiede un investimento netto iniziale inferiore a quello che sareb-
+be richiesto da altri tipi di contratti da cui ci si possono aspettare risposte simili al variare dei fattori di mercato;
+
+3)
+
+sara regolato ad una data futura.
+
+In tale categoria rientrano i contratti a termine su valute, i contratti di swap, i contratti future su valute, interessi o
+titoli di stato, le opzioni su valute, su interessi o su titoli di stato e i contratti derivati creditizi.
+
+Frai contratti derivati sono inclusi quelli incorporati in strumenti finanziari complessi che sono oggetto di rilevazione
+separata in quanto:
+
++ le caratteristiche economiche ed i rischi del derivato incorporato non sono strettamente correlati alle caratteri-
+stiche economiche ed ai rischi del contratto primario;
+
+* gli strumenti incorporati, anche se separati, soddisfano la definizione di derivato;
+
+* gli strumenti ibridi cui appartengono non sono valutati al fair value con imputazione al conto economico delle
+variazioni di valore.
+
+| derivati sono inclusi tra le attivitaé quando il loro fair value é positivo e tra le passivita quando é negativo.
+
+Criteri d’iscrizione
+
+Liscrizione iniziale delle attivita finanziarie avviene alla data di regolamento (settlement date) se le stesse sono re-
+golate con tempistiche previste dalla prassi di mercato (regular way), altrimenti si fa riferimento alla data di contrat-
+tazione (trade date). Le attivita finanziarie detenute per la negoziazione sono contabilizzate inizialmente al fair value
+senza considerare i costi o proventi di transazione direttamente attribuibili allo strumento stesso.
+
+Criteri di valutazione e rilevazione delle componenti reddituali
+
+   
+
+In seguito alliscrizione iniziale le attivita finanziarie detenute per la negoziazione sono valorizzate al fair value, ad
+eccezione degli strumenti rappresentativi di capitale non quotati in un mercato attivo, mantenuti al costo, qualora il
+fair value non possa essere determinato in modo attendibile. In quest’ultimo caso viene periodicamente valutata la
+presenza di indicatori di impairment. Nel caso in cui il fair value di un’attivita finanziaria diventi negativo, tale attivita
+é contabilizzata come passivita finanziaria.
+
+ 
+
+Il fair value degli investimenti quotati in mercati attivi é determinato con riferimento a tali quotazioni di mercato. Per
+gli investimenti per i quali non é disponibile la quotazione in un mercato attivo il fair value é determinato utilizzando
+metodi di stima e modelli valutativi che tengono conto di tutti i fattori di rischio correlati agli strumenti e che sono
+basati su dati rilevabili sul mercato. Tali tecniche possono considerare i prezzi rilevati per recenti transazioni simili
+concluse a condizioni di mercato, flussi di cassa scontati, modelli di determinazione del prezzo di opzioni ed altre
+tecniche comunemente utilizzate dagli operatori di mercato.
+
+Gli utili e le perdite realizzati sulla cessione o sul rimborso e gli utili e le perdite non realizzati derivanti dalle variazioni
+del fair value rispetto al costo di acquisto, determinato sulla base del costo medio ponderato, sono imputate a conto
+economico del periodo nel quale emergono, alla voce “Risultato netto dell'attivita di negoziazione”.
+
+ 
+
+117
+

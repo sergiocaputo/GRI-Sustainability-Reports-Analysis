@@ -1,0 +1,37 @@
+ 
+
+ 
+
+Our Consolidated Non-Financial | Appendices to the Consolidated Financial
+We, Generali | performance | Risk Report Outlook Statement Management Report Statements 113
+Sensitivity Analysis
+
+In addition to the calculation of the Solvency Capital For this purpose, several sensitivity analyses have been
+Requirement, the Group regularly performs sensitivity performed as at 31 December 2018, in particular:
+
+analyses of the variability of its Solvency Ratio to chang- —- increase and decrease of interest rates by 50bps;
+
+es in specific risk factors. The aim of these analyses is to — increase of Italian government bonds spread (Buoni del
+assess the resilience of Generali Group capital position Tesoro Poliennali - BTP) by 100bps;
+
+to the main risk drivers and evaluate the impact of awide - increase of corporate bonds spread by 50bps;
+
+range of shocks. — increase and decrease of equity values by 25%.
+
+The changes in terms of percentage points in respect to baseline scenario as at 31 December 2018 (Solvency Ratio
+equal to 216%) are the following:
+
+ 
+
+Sensitivity Analysis
+Interest Interest BTP Corporate Equity Equity
+rates rates spread spread +25% -25%
++50bps -50bps +100bps +50bps
+Delta on Solvency Ratio +4p.p. -7p.p. -7p.p. -Ap.p. +4p.p. -4p.p.
+
+Preliminary figures for 2018 Valori preliminari per il 2018
+
+During 2019, following EIOPA’s review of the Solvency II risk free rates term structure, the UFR (Ultimate Forward Rate)
+will be further modified (for Euro, the UFR will be decreased by 15bps): the anticipated impact of such change as at
+31 December 2018 Solvency Ratio amounts to -1 p.p..
+

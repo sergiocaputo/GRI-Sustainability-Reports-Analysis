@@ -1,0 +1,242 @@
+88
+
+(tep)
+
+Universita degli Studi di Firenze e Bilaneie Sociale 2018
+
+© Consumienerget
+
+per pl
+
+ 
+
+inTEP {Mj Gas
+lesso/isolato (anno 2018) | Energiaelettrica
+BB Gasolio
+
+ 
+
+3000
+
+ 
+
+2800
+
+ 
+
+2600
+
+ 
+
+2400
+
+ 
+
+2200
+
+ 
+
+2000
+
+ 
+
+1800
+
+ 
+
+1600
+
+ 
+
+1400
+
+ 
+
+1200
+
+ 
+
+1000
+
+ 
+
+800
+
+ 
+
+600
+
+ 
+
+400
+
+ 
+
+200
+i)
+
+Viale Morgagni
+Via Bolognese
+ViaCittadella
+Calenzano
+Reggello
+
+SanGallo ft
+Arcetri
+
+Alfani-Pergola-Brunelleschi =
+Porta Romana
+
+5.2.2 Il patrimonio edilizio: confini
+organizzativi ed operativi dell’inventario
+delle emissioni
+
+Secondo la norma ISO 14064-1*, la prima
+fase della costruzione dell’inventario del-
+le emissioni é la definizione dei confini orga-
+nizzativi e l'individuazione delle installazioni
+di cui l’organizzazione si compone. Da questo
+punto di vista per le universita sono conside-
+rate tutte le attivita svolte
+
+1. entroi suoi confini geografici;
+
+2. negli edificiin suo possesso e/o sotto il suo
+controllo diretto;
+
+negli edifici per i quali essa abbia in carico
+la liquidazione delle fatture di energia elet-
+trica.
+
+In conformita alle Linee Guida RUS, la scel-
+ta sulle sedi e gli edifici da considerare é ef-
+fettuata con sufficiente chiarezza, indican-
+do quali parti dell’ateneo sono considerate
+nell’inventario, e quali non sono considerate.
+Con l’eccezione della zona di Careggi per le ra-
+gioni esposte (contratto di fornitura energia
+
+"
+
+Santa Reparata
+
+34 UNI EN (2012) 1S0 14064-1-2-3, Gas ad effetto ser-
+
+ra — Parte 1: Specifiche e guida, al livello dell’orga-
+nizzazione, per la quantificazione e la rendiconta-
+zione delle emissioni di gas ad effetto serra e della
+loro rimozione; Gas ad effetto serra — Parte 2: Spe-
+cifiche e guida, al livello di progetto, per la quanti-
+ficazione, il monitoraggio e la rendicontazione del-
+le emissioni di gas ad effetto serra o dell’aumento
+della loro rimozione; Gas ad effetto serra — Parte
+3: Specifiche e guida per la validazione e la verifi-
+ca delle asserzioni relative ai gas ad effetto serra.
+
+ZonaVialaura fy
+Prato
+Novoli
+
+Architettura fly
+
+VillaCristina  -mos
+
+Cascine
+Polo di Sesto Fiorentino
+Ponte diMezzo
+
+Piazza San Marco
+Borgo Albizi
+
+San Niccolo
+
+Piazza Indipendenza
+Borgo San Lorenzo
+
+mediante trigenerazione), ai fini dell'inven-
+tario dei consumi energetici il patrimonio edi-
+lizio dell'Ateneo é suddiviso in 31 zone o iso-
+lati per 67 complessi edilizi o edifici singo-
+li costituiti da appartamenti e magazzini. Al
+momento sono disponibili i dati dei consumi
+per singola utenza che sono stati raccolti per
+Plessi, mentre é@ in programma un incrocio dei
+dati dei consumi con i dati dimensionali de-
+gli edifici.
+
+Nella Tabella 5.1 é riportata la suddivisione
+delle forniture energetiche facenti capo alle
+rilevazioni dei consumi energetici per zona/
+isolato riferite al 2018
+
+Nella figura sono graficizzati i consumi per
+plesso/isolato da cui si evince il peso rilevan-
+te di alcune zone rispetto alle altre: il polo di
+Sesto F.no da solo é pari ai consumi energe-
+tici di Viale Morgagni, P.zza S.Marco e Novoli;
+aloro volta i consumi di questi quattro plessi
+rappresentano il 63% dei consumi comples-
+sivi di Gas e |'81% dei consumi di energia elet-
+trica
+
+Per un confronto di larga massima dei con-
+sumi elettrici, in termini di energia primaria,
+rispetto al valore di benchmark (122 kWh/
+m?anno circa 40 kWh/m?anno), a partire dal
+Volume totale climatizzato del patrimonio
+immobiliare pari a circa 1.170.000 m?, dedot-
+to dalle certificazioni energetiche degli edi-
+fici, con un fattore di conversione energetica
+1 tep = 11630 kWh termici, nel 2018 si ha un
+consumo specifico di 88 kWh/m?anno supe-
+
+Viadella Torretta
+Via Maragliano
+
+Via Donizetti
+
+Via delle Gore
+
+Via delle Quiete
+
+Via San Bonaventura
+Messina
+
+Piazza Savonarola
+
+Appartamenti e Magazzini
+
+riore del 50% rispetto al valore stimato per il
+terziario a Firenze; se fosse rispettata analo-
+gamente l'incidenza dell’illuminazione artifi-
+ciale, valutata per Firenze al 24% dei consu-
+mi globali, si pud stimare che tale settore po-
+trebbe assorbire 21 kWh/m?anno.
+
+Con j dati ipotizzati e le dovute distinzioni in
+termini tipologici, tali valori, pur suscettibili
+di ampia variazione, forniscono una prima in-
+dicazione di larga massima da cui partire per
+le analisi successive finalizzate alla definizio-
+ne dei Piani di riduzione delle emissioni di CO,
+dell’Ateneo.
+
+Si ricorda che, in merito alla climatizzazio-
+ne invernale, si hanno informazioni sui ples-
+si edilizi serviti grazie agli attestati di presta-
+zione energetica (APE) risalenti al 2011-2012.
+Il patrimonio edilizio per circa la meta é stato
+costruito prima del 1900, e solo alcuni edifici
+sono stati oggetto di importanti ristruttura-
+zioni/riqualificazioni
+
+Questa situazione si riflette sulla classe ener-
+getica degli edifici da cui si evince che nes-
+suno degli stessi va oltre la classe E (20%),
+mentre a pari merito, con il 40% ciascuno, si
+trovano i restanti fabbricati posti nelle classi
+F eG (quest’ultima la peggiore in assoluto).
+Siamo quindi ben lontani dall’obiettivo di
+avere edifici a basso consumo energetico
+(classe Ao nZEB).
+

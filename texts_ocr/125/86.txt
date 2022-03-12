@@ -1,0 +1,36 @@
+0,03
+
+0,025 -________ A "SS ss---...___ 3a
+0,02
+0,015
+0,01
+0,005
+
+2017 2018 2019
+WATER CONSUMPTION Offices/HOURS WORKED SECH [mc/h]
+
+Mmmm =WATER CONSUMPTION Offices/HOURS WORKED TDT [mc/h]
+Linear (WATER CONSUMPTION Offices/HOURS WORKED SECH [mc/h])
+
+=—=-== Linear (WATER CONSUMPTION Offices/HOURS WORKED TDT [mc/h])
+
+Chart 14: Water consumption trend
+
+ 
+
+is
+a
+oy
+<
+=
+fe
+Pa
+Es
+FA
+=
+2
+fo)
+=
+=
+Fa
+

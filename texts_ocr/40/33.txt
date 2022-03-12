@@ -1,0 +1,105 @@
+The Fastweb network: how it works
+
+The landline network connections essentially consist
+of a cable linking the user's home or business
+
+to the cabinet. In turn, the cabinet is connected
+
+to a data traffic station. The type of connection
+between the various network elements, which may
+be via copper wires (DSL) or fiber, determine their
+capacity in terms of connection speed.
+
+Fiber optic cable, which can handle a higher band
+of frequencies than copper, produces the best
+digital data transmission capacity performance.
+The connection type is defined by the type of
+technologies and cables used.
+
+FTTN (Fiber to the Node) refers to connections
+
+in which fiber optics run from the station to the
+cabinet, thereby retaining the copper wires only in
+the last section from cabinet to the user's home
+or business. Generally with this solution, the
+copper section never exceeds 250 meters and,
+therefore, does not significantly impact the signal
+transmission speed.
+
+FTTH (Fiber to the Home) refers to all connections
+in which fiber optics cover the entire line from the
+station to the user's home or business.
+
+GPON (Gigabit Passive Optical Network) is a recently
+developed and even more recently implemented
+FTTH technology, aimed at optimizing network
+infrastructure and offering users avant-garde
+connection speeds (up to 1 Gbps).
+
+FTTN
+
+17
+LL”
+
+Node
+FTTH
+ULL
+7
+Node U
+
+copper wire
+——— fiber optics
+
+Again this year, the company remained highly focused
+on Internet network access technologies to provide
+its customers with service quality in line with the best
+market standards in terms of Internet connection and
+voice speed, performance, reliability and continuity. In
+2018, the technological upgrade involved roughly 300
+thousand customers, who were able to make use of
+the best access technology available in their homes
+or offices (74 thousand via optical fiber). Thanks to
+this plan, at the end of 2018, 8 million homes and
+businesses are active on Fastweb's ultra-broadband
+infrastructure.
+
+In addition to working to improve the coverage ensured
+by its network infrastructure, Fastweb has expanded
+the coverage of its connection services through VULA
+(Virtual Unbundling Line Access) and Bitstream NGA
+(New Generation Access) infrastructure.
+
+With these types of ultra-broadband connection,
+other operators provide Fastweb with certain sections
+of the network between the central station and end
+user. Thanks to this new infrastructure, Fastweb
+
+now reaches roughly 14 million homes/businesses,
+
+in addition to the 8 million with access from the
+proprietary infrastructure, for total coverage of over 22
+million of homes/businesses.
+
+Finally, during the year, Fastweb has invested in the
+completion of the FON network, with a transmission
+grid covering roughly 7,500 km throughout the country.
+The new infrastructure, established in 2017 through
+
+a partnership with Huawei, is the first fully resilient
+network capable of ensuring service continuity in the
+event of temporary interruptions. The high degree
+
+of flexibility, in terms of resilience, scalability and
+simplification for both the network itself and service
+provision processes, and the high degree of security
+make the FON network ideal for the transmission of
+Fastweb's Backbone IP and high-capacity international
+connectivity services between Europe, the Middle East,
+Asia and Africa transiting through Sicily. Furthermore,
+the FON network is also open to high-capacity
+Enterprise connectivity and other types of services.
+
+Smart digital community enabler 33
+
+ 
+

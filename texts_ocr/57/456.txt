@@ -1,0 +1,66 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+
+ 
+
+2. determinazione del valore recuperabile della/e CGU;
+
+3. confronto tra valore contabile e valore recuperabile della/e CGU.
+
+Identificazione delle unita generatrici di flussi finanziari (CGU)
+
+Secondo Io IAS 36, qualora non sia possibile determinare in via diretta il valore recuperabile della specifica attivita
+iscritta in bilancio, occorre determinare il valore recuperabile dell'unita generatrice di flussi finanziari (CGU) alla quale
+lattivita appartiene.
+
+La CGU é definita dallo IAS 36 come “il pil piccolo gruppo identificabile di attivita che genera flussi finanziari in en-
+trata largamente indipendenti dai flussi finanziari in entrata generati da altre attivita, o gruppi di attivita”.
+
+Ai fini dell'identificazione delle unita generatrici di flussi finanziari alle quali attribuire le attivita da sottoporre a
+impairment test @ necessario che le CGU identificate generino flussi finanziari in entrata ampiamente indipendenti
+da quelli derivanti da altre unita identificate. In tal senso nell‘ottica di identificazione delle CGU estrema rilevanza
+assumono I'organizzazione interna e le modalita di gestione e controllo del business.
+
+In relazione a quanto sopra ai fini del test di impairment sono state identificate le seguenti Cash Generating Unit
+(CGU):
+
++ BP Bari;
+
+* CR Orvieto.
+
+Per quanto concerne la CGU CR Orvieto, questa rimane distinta rispetto a “BP Bari” in relazione al fatto che dal punto
+di vista strategico gli indirizzi forniti centralmente dalla Capogruppo sono integrati a livello locale anche in relazione
+alla presenza di un socio di minoranza fortemente radicato sul territorio di insediamento della Cassa. Cid comporta
+che la responsabilita per il raggiungimento dei risultati € assegnata alla singola /ega/ entity che pertanto configura
+autonoma CGU.
+
+Si precisa, infine, che le descritte logiche di definizione delle CGU sono coerenti con I'informativa di settore presen-
+tata nella Parte L del presente bilancio consolidato, nel senso che le CGU identificate non sono maggiori rispetto ai
+settori operativi individuati secondo quanto previsto dall'IFRS 8.
+
+Allocazione dell’avviamento contabile alle CGU identificate
+
+Per quanto evidenziato in precedenza l'avviamento iscritto nel bilancio consolidato al 31 dicembre 2017 é stato
+allocato alle CGU rappresentate da “BP Bari” e da “CR Orvieto”.
+
+Nella tabella che segue viene riportata l’allocazione dell'avviamento tra le CGU individuate al 31 dicembre 2017 ante
+impairment test:
+
+Importi in milioni di euro
+
+CGU BP Bari 93,5
+
+CGU CR Orvieto 30,9
+
+In particolare:
+
++ laCGU “Bp Bari” comprende gli avviamenti consolidati rivenienti dalle operazioni di “business combination” effet-
+tuate dalla Capogruppo (fusioni con ex Nuova Banca Mediterranea, ex Banca Popolare di Calabria ed ex Gruppo
+Tercas e conferimento 11 sportelli da BP Bari a CR Orvieto afferenti il ramo sportelli acquisito dal Gruppo Intesa
+Sanpaolo nel 2008 e nel 2009);
+
++ laCGU “CR Orvieto” include gli avviamenti riconducibili alla Cassa di Risparmio di Orvieto S.p.A..
+
+456
+
+ 
+

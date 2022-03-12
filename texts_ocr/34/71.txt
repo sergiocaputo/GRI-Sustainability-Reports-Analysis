@@ -1,0 +1,64 @@
+The Competence Centre of Rome is also a guidance and training centre for companies, as
+well as giving support in the implementation of innovation projects, industrial research and
+experimental development. It focuses on the general aspects of Cyber security and its various
+specific applications: Electronic Warfare, e-health, automotive and space. In each of the listed
+fields, the systems are increasingly software-based and net-centric: the growing complexity
+that derives from systems makes it necessary to take into account spasmodic cyber security in
+order to increase the resilience of the systems and to protect the information with which they
+deal.
+
+Digital projects
+
+In 2017, we launched the Digital Transformation Strategic Plan, defining the IT architectures
+that will support the businesses of the future and the creation of the "Digital Farm". This project
+falls within the "Digital Transformation" IT plan launched in 2018 with the SCO & S - Smart
+Connected Operation & Service - project, and it represents a complex challenge as it will
+involve all Company departments and will lead, in a very short time, to profound changes in
+the working methods of Elettronica’s individual resources.
+
+The Strategic Setup of the Digital Transformation has identified a roadmap of 9 priority use
+cases that will be developed in the next three years (2020-2022). For 2020 three have been
+selected.
+
+The following Clusters will be the target of this project:
+
+1. Clean Sheet & Should Cost - to increase the effectiveness of the execution of tenders and
+the negotiation of passive contracts and to improve Make-Buy decisions, through a fact-
+based cost baseline
+
+2. Digital Proposal Configurator - to enhance and accelerate the development of proposals
+to customers in consideration of the high engineering and complexity of the offers
+
+3. Leads Management in Service - to promote the commercial excellence of Elettronica and
+to obtain new maintenance contracts by forecasting operational and maintenance needs on
+the installed products.
+
+Cluster 1 includes the development of the three use cases identified as priorities for 2020.
+Cluster 2 provides for the “Launch” of the Centre of Expertise (CoE), with the start of the
+capability building process of the resources involved and the processes of engaging the
+departments.
+
+Taking advantage of the opportunities offered by the National Industry 4.0 Plan, Elettronica has
+carried forward the following projects:
+
+e Integration of product development and construction processes through the
+implementation of Concurrent and Simultaneous Engineering techniques (Virtual
+Platforms, High Level Synthesis, System Modelling)
+
+e Adoption of a new technological architecture combining IT (Information Technology) and
+OT (Operational Technology) through:
+
+—  cross-connections of systems (SAP, PLM, MES) and devices (PC, sensors, hololens,
+PLC)
+
+— incorporation of edge computing solutions for connectivity, cou, and storage
+
+— addition of intelligence and machine learning algorithms.
+
+e Creation of its own iSOC (Intelligent Security Operation Centre) dedicated to internal cyber
+security and the needs of the customers of the subsidiary CY4GATE, featuring a fifth
+generation solution that combines human intelligence and information technology to support
+and enhance human capabilities and CY4GATE products (RTA and DISINT).
+
+61
+

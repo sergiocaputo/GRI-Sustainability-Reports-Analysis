@@ -1,0 +1,127 @@
+2019 RAPPORTO INTEGRATO
+
+Questo capitolo del Rapporto analizza le prestazioni
+di OLT relativamente all'impatto delle sue attivita
+in termini ambientali. In tale ottica, sono stati
+semplificati i concetti tecnici, mantenendo sempre
+il rigore scientifico delle informazioni che, in modo
+esaustivo, sono contenute nei documenti ufficiali che
+la Societa produce per le Autorita competenti® . OLT
+attribuisce una grande importanza al monitoraggio
+delle performance in tale ambito, in primo luogo
+per definire le opportune azioni di miglioramento;
+in secondo luogo, perché la rendicontazione delle
+prestazioni ambientali risulta di primario interesse per
+i propri stakeholder.
+
+Si evidenzia che, per effettuare una valutazione
+accurata delle performance ambientali, oltre a
+consentire un chiaro confronto con gli obblighi
+normativi, @ necessario esprimere tali prestazioni
+indicatori, in
+
+sottoforma di modo _ pertinente
+
+con lattivita svolta dal Terminale, consentendo
+un‘esaustiva comparazione tra gli anni indagati. Cid
+consiste nel rapportare i dati ambientali selezionati
+alla produzione annua dell'impianto (Sm? di gas
+naturale rigassificati nell’'anno) e alla produzione
+
+elettrica (espressa in MWh).
+
+3.1
+| consumi energetici’
+
+ENERGIA ELETTRICA
+
+“FSRU_ Toscana”
+
+un sistema di autosostentamento energetico che
+
+IL Terminale € caratterizzato da
+consente di ottimizzare i consumi compensando
+interamente |’energia elettrica utilizzata con quella
+prodotta. II quantitativo energetico consumato su
+base annua é€ ottenuto dalla somma dell’energia
+elettrica prodotta dai 4 turbogeneratori a vapore e
+
+dal generatore diesel presenti a bordo dell’impianto.
+
+38
+
+Energia Totale prodotta e consumata (MWh)
+
+ 
+
+vA
+
+   
+
+ih
+
+46.007 49.440 70.079
+
+Nella tabella vengono riportati i valori dell’energia
+totale prodotta, espressa in MWh, il cui aumento
+dell’attivita di
+rigassificazione nel triennio 2017 - 2019 (per i dettagli
+
+€  dovuto _ all’intensificazione
+
+sul GNL rigassificato, vedere capitolo 2).
+Per valutare l’efficienza energetica del Terminale
+occorre quindi fare riferimento all'indice specifico
+
+rappresentato in figura.
+
+Indice di prestazione energetica del Terminale
+
+0,060
+
+ 
+
+0,050
+
+ 
+
+0,040
+
+ 
+
+0,030
+
+ 
+
+0,020
+
+ 
+
+0,010
+
+ 
+
+0,000
+
+ 
+
+2017 2018 2019
+
+BB Mwh/1.000 sm:
+
+2017
+
+2018 2019
+
+MWh/1.000 Sm 0,053 0,048 0,020
+
+ 
+
+(5) Questo materiale fa riferimento a GRI 103-1, GRI 103-2 e GRI 103-3 del GRI 103:
+Modialita di gestione 2016.
+
+(6) Per approfondimenti vedere la Dichiarazione Ambientale redatta ai fini EMAS
+presente nel sito www.oltoffshore. it
+
+(7) Questo materiale fa riferimento a GRI 302-1 e GRI 302-3 del GRI 302: Energy 2016.
+

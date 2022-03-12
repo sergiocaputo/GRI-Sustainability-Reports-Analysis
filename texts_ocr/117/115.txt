@@ -1,0 +1,136 @@
+IMPATTI DELLA GESTIONE E DELLO SVILUPPO DEL CAPITALE INFRASTRUTTURALE
+
+lattivazione di una serie di azioni
+per il controllo e la riduzione delle
+emissioni dirette e indirette di CO,
+da parte del gestore aeroportuale,
+degli operatori, degli aeromobili e
+di tutti i soggetti che lavorano nel
+sistema aeroportuale.
+
+UAirport Carbon Accreditation pre-
+vede quattro possibili livelli di ac-
+creditamento:
+
+= Mapping- verifica delle emissioni
+sotto il diretto controllo del ge-
+store aeroportuale (scopo 1 e 2);
+
+= Reduction - creazione di un pia-
+no di riduzione delle emissioni
+(scopo 1 e 2);
+
+= Optimisation - calcolo delle
+emissioni prodotte dagli sta-
+keholder aeroportuali e coinvol-
+gimento degli stessi nei piani di
+riduzione (scopo 3);
+
+= Neutrality- raggiungimento della
+“Carbon Neutrality” per le emis-
+sioni, sotto il diretto controllo del
+gestore aeroportuale (scopo 1 e
+2), con l'acquisto di off-set
+
+Nel 2018 abbiamo confermato la
+
+nostra posizione di leadership eu-
+ropea per entrambi gli aeroporti
+di Linate e Malpensa, all'interno
+del gruppo “3+ neutralita”, insie-
+me ad altri 40 aeroporti, di cui 4
+italiani (Napoli, Roma, Treviso e
+Venezia), che rappresentano il
+24,2% del traffico europeo.
+
+Uandamento delle emissioni di
+Scopo 1 nel 2018 @ sostanzialmen-
+te in linea con gli anni precedenti.
+Si segnala invece un aumento si-
+gnificativo delle emissioni di Scopo
+2 rispetto al 2017 con riferimento
+allo scalo di Linate, attribuibile ad
+un periodo di Fuori-servizio della
+centrale di co-generazione di SEA
+Energia avuto durante il mese di
+febbraio 2018. La produzione di
+energia era stata sospesa per moti-
+vi di sicurezza legati ad un malfun-
+zionamento dell'impianto di spe-
+gnimento automatico in “caso di
+incendio” nei locali motore e quindi
+ha comportato un ingente acqui-
+sto di energia elettrica dalla rete.
+
+Lo standard di rendicontazione
+utilizzato (GRI Sustainability Re-
+
+EMISSIONI DI CO, DEL GRUPPO SEA (TON)
+
+porting Standards 2016) prevede
+due diversi approcci di calcolo
+delle emissioni di Scopo 2: "Loca-
+tion-based"e "Market-based".
+
+Lapproccio “Location-based” pre-
+vede l'utilizzo di Fattori di emissio-
+ne medi relativi agli specifici mix
+energetici nazionali di produzione
+di energia elettrica (coefficiente di
+emissione utilizzato per l'Italia pari
+a 321,3 gCO,/kWh, Fonte: Fattori di
+emissione atmosferica di CO, e altri
+gas a effetto serra nel settore elet-
+trico, ISPRA 280/2018). Lapproccio
+“Market-based” prevede l'utilizzo
+di fattori di emissione definiti su
+base contrattuale con il Fornitore
+di energia elettrica. In assenza di
+specifici accordi contrattuali tra le
+Societa del Gruppo ed il fornitore
+di energia elettrica (es. acquisto
+di Garanzie di Origine), per questo
+approccio é stato utilizzato il Fatto-
+re di emissione relativo al “residual
+mix" nazionale che per l'Italia é pari
+a 476,53 gCO,/kWh (Fonte: Europe-
+an Residual Mixes 2017, AIB).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2018 2017 2016
+Malpensa Linate Malpensa Linate Malpensa Linate
+Scopo 1° 121.816 60.809 128.878 66.566 121.608 62.963
+Scopo 2 Location-based 90 172 142 66 322 89
+Scopo 2 Market-based 133 255 163 76 369 101
+Scopo 3 2.149 809 2.298 854 2.369 876
+
+ 
+
+Si segnala che le emissioni di scopo 1 relative al 2018 includono anche le emissioni di CO2 derivanti dai consumi di metano della mensa del T2
+di Malpensa. | dati 2016 non includono SEA Prime.
+Nota: Per le emissioni discopo 1 del 2018 sono stati utilizzati: i fattori di emissione della “Tabella parametri standard nazionali: coefficienti utilizzati
+per Uinventario delle emissioni di CO, nell’inventario nazionale UNFCCC (media dei valori degli anni 2015-2017). Tali dati possono essere utilizzati
+per il calcolo delle emissioni dall’1 gennaio 2018 al 31 Dicembre 2018” per il gas naturale e per il gasolio per il riscaldamento e, in linea con gli
+anni precedenti, i fattori di emissione del “GHG Protocol: Transport Tool, V2_6” per il gasolio per autotrazione e la benzina, mentre le emissioni di
+urea sono state calcolate in maniera specifica. Sempre in linea con gli anni precedenti, per le emissioni di scopo 3 sono stati utilizzati i fattori di
+emissione del “GHG Protocol: Transport Tool, V2_6”. Invece, per il 2018 é stata modificata la fonte del fattore di emissione utilizzato per l’energia
+elettrica [32 1,3 gCO,/kWh. Fonte: Fattori di emissione atmosferica di CO, e altri gas a effetto serra nel settore elettrico, ISPRA 280/20 18] rispetto
+a quella utilizzata per gli anni 2017 e 2016 [406,309 gCO./kWh. Fonte: Emission factor for grid electricity @ Airport Carbon Accreditation Guidance
+Document. Issue 9 v2: August 2015]. Per comparabilita dei dati, si segnala che, utilizzando il coefficiente ISPRA, il dato delle emissioni di Scopo 2
+Location-based é pari a 113 t CO, (Malpensa) e 52 t CO, (Linate) per il 2017 e 255 t CO, (Malpensa) e 70 t CO, (Linate) per il 2016.
+
+Fonte: SEA
+
+Dichiarazione consolidata non finanziaria 2018 -
+
+114
+

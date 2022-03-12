@@ -1,0 +1,72 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+gruppo di attivita e beni integrati condotti e gestiti unitariamente.
+
+La definizione di controllo viene esplicitata nell'IFRS 10 Bilancio consolidato, paragrafo 7 nel modo seguente: “Un
+investitore controlla un’entita oggetto di investimento se e solo se ha contemporaneamente:
+
+- il potere sull’entita oggetto di investimento;
+-  lesposizione o i diritti a rendimenti variabili derivanti dal rapporto con I’entita oggetto di investimento;
+
+- lacapacita di esercitare il proprio potere sull’entita oggetto di investimento per incidere sull’ammontare dei suoi
+rendimenti.”
+
+In base a quanto disposto dall’IFRS 3 revised, le aggregazioni aziendali devono essere contabilizzate applicando il
+metodo dell’'acquisto che prevede le seguenti fasi:
+
+a) identificazione dell’acquirente;
+b) determinazione del costo dell’'aggregazione aziendale;
+
+c) allocazione, alla data di acquisizione, del costo dell'aggregazione aziendale alle attivita acquisite e alle passivita
+e passivita potenziali assunte.
+
+In particolare, il costo di una aggregazione aziendale € determinato come la somma complessiva dei fair value, alla
+data dello scambio, delle attivita cedute, delle passivita sostenute o assunte e degli strumenti rappresentativi di
+capitale emessi, in cambio del controllo dell’'acquisito.
+
+| costi correlati all’acquisizione sono i costi che l'acquirente sostiene per realizzare una aggregazione aziendale. L’ac-
+quirente deve contabilizzare i costi correlati all'acquisizione come spese nei periodi in cui tali costi sono sostenuti e
+i servizi sono ricevuti.
+
+La data di acquisizione é la datain cui si ottiene effettivamente il controllo sull’acquisito. Quando l’acquisizione viene
+realizzata con un’unica operazione di scambio, la data dello scambio coincide con quella di acquisizione.
+
+Qualora l’aggregazione aziendale sia realizzata tramite pit. operazioni di scambio il costo dell’'aggregazione é il costo
+complessivo delle singole operazioni e la data dello scambio é la data di ciascuna operazione di scambio, mentre la
+data di acquisizione é quella in cui si ottiene il controllo sull’acquisito.
+
+Il costo di un'aggregazione aziendale viene allocato rilevando le attivita, le passivita e le passivita potenziali identifi-
+cabili dell’acquisito ai relativi fair value alla data di acquisizione.
+
+Le attivita, le passivita e le passivita potenziali identificabili dell'acquisito sono rilevate separatamente alla data di
+acquisizione solo se, a tale data, esse soddisfano i criteri seguenti:
+
+a) nel caso di un’attivita diversa da unvattivita immateriale, € probabile che gli eventuali futuri benefici economici
+connessi affluiscano all’acquirente ed é possibile valutarne il fair value attendibilmente;
+
+b) nel caso di una passivita diversa da una passivita potenziale, € probabile che per estinguere l'obbligazione sara
+richiesto l’impiego di risorse atte a produrre benefici economici ed é possibile valutarne il fair value attendibil-
+mente;
+
+c) nel caso di unvattivita immateriale o di una passivita potenziale, il relativo fair value pud essere valutato attendi-
+bilmente.
+
+La differenza positiva tra il costo dell’aggregazione aziendale e l'interessenza dell’acquirente al fair value netto delle
+attivita, passivita e passivita potenziali identificabili, deve essere contabilizzata come avviamento.
+
+Le quote del patrimonio netto e dell'utile di competenza delle interessenze di terzi sono iscritte in apposite voci del
+patrimonio netto e del conto economico. Nel caso di assunzione non totalitaria del controllo, la quota di patrimonio
+netto delle interessenze di terzi € determinata sulla base della quota di spettanza dei valori correnti attribuiti alle
+attivita e passivita alla data di assunzione del controllo, escluso |’eventuale goodwill a essi attribuibile (cd. partial
+goodwill method); in alternativa, é rilevato l'intero ammontare del goodwill generato dall’'acquisizione consideran-
+do, pertanto, anche la quota attribuibile alle interessenze di terzi (cd. full goodwill method); in quest'ultimo caso le
+interessenze di terzi sono espresse al loro complessivo fair value includendo pertanto anche il goodwill di loro com-
+petenza. La scelta delle modalita di determinazione del goodwill (partial goodwill method o full goodwill method) €
+operata in maniera selettiva per ciascuna operazione di business combination.
+
+434
+
+ 
+

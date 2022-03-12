@@ -1,0 +1,294 @@
+9 Capitale Intellettuale
+
+agricoli. | maggiori vantaggi per agronomi e coltivatori
+sono stati il miglioramento dell'utilizzo e il risparmio
+delle risorse idriche, con il duplice obiettivo di migliorare
+il rendimento delle colture mediante un pil ponderato e
+mirato utilizzo dell’acqua e di ridurre i costi. A2ZA Smart
+City ha inoltre offerto la sua competenza tecnologica per
+tre anni al fine di sostenere il processo di trasformazione
+diAlperia come referente loT per l'‘Alto Adige.
+
+Progetto Sharing Cities
+
+Sharing Cities é un progetto di ricerca in ambito multi-
+servizio cofinanziato dalla UE, in cui sono coinvolte
+
+le municipalita di Milano, Londra, Lisbona, Bordeaux,
+Burgas e Varsavia. Liniziativa, partita a gennaio 2016
+
+e che terminera nel 2020, prevede un budget di circa
+28 milioni di euro. Il Gruppo (con le sue societa A2A
+S.p.A., Unareti ed A2A Smart City) é partner primario del
+progetto che mira a sviluppare piattaforme IT in grado
+di raccogliere le informazioni e trasformarle in servizi,
+trasformando cosi l’idea di smart city in realta. Il Gruppo
+é in particolare impegnato nel favorire la riduzione
+delle emissioni di CO, da parte degli edifici e dei mezzi
+di trasporto, attraverso: la partecipazione attiva della
+cittadinanza ai meccanismi di riduzione dei consumi,
+
+la ristrutturazione e il miglioramento energetico
+
+degli edifici, la gestione integrata della produzionee
+della distribuzione di energia, la mobilita elettrica e la
+gestione efficiente dell’illuminazione pubblica.
+
+Ad oggi, nell’area milanese interessata dal progetto
+sono monitorate circa 1.200 utenze di elettricita
+
+9.2 Smart Grid
+
+e gas, con lobiettivo di rendere i cittadini pit
+consapevoli e sensibilizzarli sui propri consumi
+nonché sulla loro riduzione. Inoltre, ad oggi, é stata
+realizzata l'infrastruttura LoRa nella zona e sono
+stati installati 20 pali smart lamppost sui quali sono
+stati montati 25 set di sensori ambientali: monitorano
+temperatura, umidita e grado di inquinamento.
+
+Smart Bin a Milano
+
+Nel 2018 sono stati installati a Milano i primi 6.000
+smart bin, i contenitori tecnologici dotati di sensori,
+che ne monitorano il livello di riempimento,
+consentendo di ottimizzare i percorsi dei mezzi per lo
+svuotamento. Le attivita di posizionamento e di sviluppo
+del nuovo modello di gestione del servizio basato sulla
+raccolta ed elaborazione dei dati provenienti dagli smart
+bin si concluderanno nel corso del 2019.
+
+ 
+
+Figura 39_Mappa contenitori pos
+
+ 
+
+Col termine generico Smart Grid si intende, nell’ambito del mondo della distribuzione, una gestione intelligente e
+coordinata delle reti di distribuzione. La smart grid é basata sull’adozione di tecnologie innovative che prevedono
+la sensorizzazione della rete, la comunicazione in tempo reale tra campo e sala controllo, lo sviluppo di algoritmi
+
+di gestione e controllo ottimizzati per la massimizzazione dell’efficienza energetica del sistema. Nei diversi ambiti
+(elettrico, gas e calore) queste tecnologie prendono direzioni diverse e specifiche ed originano soluzioni ad hoc.
+Nell’ambito della Business Unit Reti e Calore, Unareti é stata partner di diversi progetti di ricerca tra cui il progetto
+IDE4L (IDEal grid 4 alL), finalizzato allo studio e all’implementazione di soluzioni avanzate per la gestione e
+Vautomazione della rete elettrica e co-finanziato dell'Unione Europea all’interno del Settimo Programma Quadro.
+Il progetto é finalizzato alla definizione delle caratteristiche delle reti di distribuzione “ative”, sulle quali cioé
+insistono sia utenti passivi, sia utenti attivi (prosumer). A livello di utenza domestica, con rete in bassa tensione,
+Unareti é stata impegnata inoltre nel progetto di ricerca Smart Domo Grid, finalizzato ad integrare gli utenti
+domestici nel sistema di gestione della distribuzione (DMS). All’interno di questi ampi progetti di ricerca sono stati
+sviluppati metodi ed applicate tecnologie che sono in parte confluite in una serie di progetti per la smart grid.
+
+Interventi di miglioramento
+sulle cabine secondarie
+
+Unareti ha sviluppato un piano che implementi su larga
+scala alcune delle tecnologie studiate nei progetti di ricerca.
+Questo include un piano di telecontrollo avanzato
+e automazione delle cabine secondarie che
+
+114
+
+consentira di ridurre rispettivamente la durata
+
+ed il numero delle interruzioni migliorando di
+conseguenza gli indicatori di continuita di servizio;
+tali attivita garantiranno inoltre la riduzione dei costi
+operativi, ottimizzando l’intervento delle squadre sul
+territorio. Il piano sviluppato prevede di aumentare
+le cabine secondarie telecontrollate dell’area di
+
+Milano di circa 720 unita tra il 2017 e il 2020, il
+che consentira di rispristinare il servizio in
+caso di guasti ad una percentuale di utenti
+maggiore. Con l'iniziativa di automazione delle
+cabine secondarie si andra invece ad installare
+sistemi di protezione in circa 400 cabine
+secondarie tra il 2017 e il 2020 evitando fin dal
+principio che alcuni utenti siano impattati dal
+disservizio.
+
+Al fine di abilitare le funzionalita telecontrollo
+
+e automazione, é necessario disporre di
+
+una rete di comunicazione che garantisca
+adeguati livelli di prestazione e affidabilita. A
+tal proposito é stato avviato un programma
+
+per il cablaggio in fibra ottica di circa 4.500
+cabine (principalmente in area Milano) tra il
+2017 e il 2020, che é ulteriormente sfruttato per
+migliorare anche le prestazioni del sistema di
+telegestione delle utenze.
+
+Integrated Distribution
+Management System (IDMS)
+
+Il sistema IDMS, un innovativo applicativo di
+gestione della rete di distribuzione, costituisce
+evoluzione dei sistemi di telecontrollo e
+automazione della rete (attuali SCADA) e
+rappresenta di fatto il “cervello” della futura
+smart grid. Le numerose funzionalita evolute
+dell’IDMS consentono infatti di migliorare
+lefficienza e l'efficacia operativa nella gestione
+della rete elettrica tramite l'integrazione
+automatizzata di tutte le fasi del processo di
+gestione della rete di distribuzione: dall’analisi
+di nuove richieste di connessione o nuove
+urbanizzazioni, alla progettazione di alto livello
+ed esecutiva, alla realizzazione di nuove porzioni
+di rete, alla gestione quotidiana della rete (anche
+in situazioni di emergenza) e alla produzione
+
+di indicatori che stabiliscano la bonta delle
+prestazioni complessive.
+
+Nel 2016 Unareti ha bandito una gara europea
+per la selezione di una piattaforma applicativa
+ed infrastrutturale, IDMS, a supporto dei processi
+di gestione della rete elettrica. Tale gara sié
+conclusa con l’assegnazione della fornitura a
+Schneider Electric. La fase di implementazione
+dello strumento IDMS é iniziata nel 2017 e vedra
+il primo go-live delle funzionalita di pianificazione
+edi supporto al call center nel marzo 2019,
+integrate con gli altri applicativi IT in uso ad
+Unareti.
+
+Lutilizzo di IDMS consente di ottenere una
+pluralita di vantaggi rispetto agli attuali
+sistemi SCADA, tra cui la possibilita di avere
+
+A2A Bilancio Integrato 2018
+
+interfacce per tutte le principali figure che
+compartecipano nella gestione della rete
+(operatori della sala controllo, operatori del
+call center per le segnalazioni lato cliente, le
+squadre operative).
+
+In particolare, il sistema IDMS consente
+
+di ottimizzare le attivita e gli interventi
+soprattutto a seguito delle chiamate dei
+clienti. In effetti, con questo sistema l’operatore
+che gestisce le chiamate é in grado di effettuare
+diverse operazioni e registrazioni in tempo
+reale, passando automaticamente le richieste
+alla sala controllo in cui si avvia il processo di
+lsolamento e Ripristino del Servizio (FLISR),
+secondo diversi criteri configurabili, come ad
+esempio la riduzione della durata del fuori
+servizio o la prioritizzazione del ripristino dei
+clienti con apparecchiature elettromedicali. Tali
+manovre possono essere eseguite in automatico
+(in presenza di telecontrollo) o manualmente
+da una squadra dedicata. Anche in questo caso,
+IDMS permette all’operatore di sala di assegnare
+alle squadre le manovre calcolate dall’algoritmo
+FLISR, utilizzando informazioni sulla
+disponibilita delle squadre stesse, sulla loro
+posizione geografica e sui tempi necessari al
+raggiungimento della posizione dell’intervento
+grazie ad integrazioni con sistemi terzi. La
+squadra in campo, arrivata sul luogo indicato a
+sistema, pud utilizzare l’applicazione mobile, il
+Field Client, per registrare a sistema la manovra,
+evitando di fatto il prolungato colloquio
+telefonico con la sala controllo caratteristico
+dell’attuale processo di gestione di tali attivita.
+
+Predizione fughe gas
+
+Nel corso del 2018 la BU Retie il team di
+Innovazione di A2A hanno avviato nel comune di
+Concesio una importante sperimentazione volta
+a migliorare il processo di ricerca delle perdite di
+gas dalla rete di distribuzione.
+
+La sperimentazione prevede l'impiego di un
+algoritmo di machine learning per sviluppare
+analisi predittive sull’occorrenza spaziale e
+temporale delle fughe di gas.
+
+La capacita di prevedere con maggiore
+accuratezza il verificarsi delle perdite dovrebbe
+permettere di rilevarle e ripararle pit rapidamente,
+con effetti positivi sulla sicurezza degli utenti
+
+e sulla riduzione delle emissioni. La previsione
+delle aree in cui le perdite si verificheranno con
+maggiore probabilita dovrebbe inoltre consentire
+di ottimizzare il routing delle squadre di ricerca
+incrementandone la produttivita.
+
+115
+
+Lettera agli
+stakeholder
+
+Nota
+metodologica
+
+1
+
+|LGruppo A2A
+eilsuo modello
+di business
+
+2
+Governance
+
+3
+Strategia di
+sostenibilita
+
+4
+Stakeholder
+engagement
+e Analisi di
+materialita
+
+5
+Capitale
+Finanziario
+
+6
+Capitale
+Manifatturiero
+
+7
+Capitale
+Naturale
+
+8
+Capitale
+Umano
+
+9
+Capitale
+Intellettuale
+
+   
+
+Ricerca e Sviluppo
+per l'Economia
+Circolare
+
+Knowledge
+Spillover
+
+10
+Capitale
+Relazionale
+
+Relazione
+della Societa
+di Revisione
+
+GRI
+Content
+Index
+

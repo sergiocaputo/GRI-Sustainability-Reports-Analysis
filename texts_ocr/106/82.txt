@@ -1,0 +1,52 @@
+| Consolidated Non-Financial Information Statement 2019 81
+
+ 
+
+Cyber security risks
+
+The increasing spread of technologies that allow the transfer and sharing of sensitive information via virtual
+spaces leads to the emergence of IT vulnerabilities. In particular, the exposure to potential cyber attacks derives
+from several factors, such as the global distribution of IT systems and the cloud storage of high value-added
+information (such as patents, technological innovation projects, as well as financial projections and strategic
+plans not yet disclosed to the market). The Group IT Security Department, in collaboration with the Risk Mana-
+gement function, periodically carries out specific assessments to identify any vulnerabilities in IT systems at
+local and central level that could compromise business continuity.
+
+In 2016, Prysmian defined:
+
+e anInformation Security Strategy that clarifies the related governance structure adopted by the Group and gui-
+delines for cyber risk management in the field of IT architectures and company processes.
+
+e anInformation Security Risk Management (ISRM) Manual that, in line with the Group ERM Policy, defines the
+methodology and the responsibilities for the identification, assessment and treatment of risks that could com-
+promise the achievement of security objectives and therefore the confidentiality, integrity and availability of
+Group information. The Threat Model was defined in 2019. As one of the data sources for ISRM, this metho-
+dology is used to assess the relevance of events and the cyber threats posed by agents within and external to
+the Group. The model makes it possible to characterise and prioritise cyber risks based on the actual scale and
+importance of the threats to which the Group is exposed, drawing on national and international threat intelli-
+gence sources, as well as the productive and geographical contexts in which the Group operates.
+
+e aspecial Information Security Committee, comprising the main players involved in the management of cyber
+risk'®. The task of this committee is to define the strategic and operational cyber security objectives, coordina-
+te major initiatives and review and approve policies, procedures and operational instructions. The Committee
+meets ona regular basis (twice annually) and in the case of crises or remarkable events.
+
+ 
+
+During 2019, social engineering and phishing campaigns were carried out within the entire Prysmian Group (in-
+cluding the former General Cable), aimed at testing the readiness of personnel to recognise these specific types
+of cyber attack, and various security training sessions were provided to all employees and new hires, including
+the coverage of specific security initiatives.
+
+With particular reference to the former General Cable perimeter, two technical vulnerability assessments and
+penetration tests were completed in 2019, as part of the integration programme, one at the US HQ and the other
+at the most important EMEA plant. The activities envisaged in the integration plan will continue in 2020.
+
+16 The permanent members of the Information Security Committee are: the Chief Operating Officer, the Vice-President HR & Organisation, the Chief Security Officer, the
+Chief Information Officer, the Chief Risk Officer, the Internal Audit & Compliance Director and the IT Security Manager of the Group.
+
+ 
+
+PRYSMIAN GROUP, LINKING THE FUTURE LEADING INNOVATION GOVERNANCE AND RISK MANAGEMENT
+SUSTAINABILITY IN OUR DNA A PUBLIC COMPANY OUR COMMITMENT
+

@@ -1,0 +1,140 @@
+Back
+
+> 06_SUPPLEMENTAL INFORMATION_GRI STANDARDS CONTENT INDEX
+
+GRI Standard Title
+GRI-301: Materials (2016)
+
+Publications
+
+Menu
+
+Page number Omissions and comments
+
+301-1 Materials used by weight or volume
+
+SR
+
+116 The renewable and nonrenewable percentage
+refers to the average weight of materials within
+‘the 2018 existing range of type-approved
+vehicles in Europe. The global absolute value
+cannot be communicated externally.
+
+ 
+
+301-2 Recycled input materials used
+
+SR
+
+79 Information provided is limited to Europe and
+refers only to selected aluminum and plastic
+circular economy applications.
+
+ 
+
+301-3 Reclaimed products and their packaging materials
+
+- For information related to reclaimed products
+please refer to the “Remanufactured Parts”
+section.
+
+Information is not applicable for 301-3 for
+reclaimed packaging, as vehicles are delivered
+to the end customer without packaging.
+
+GRI-302: Energy (2016)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+103-1 Explanation of the material topic and its Boundary SR 12, 89-91, 135-136
+
+103-2 The management approach and its components SR 28, 34, 71-75, 89-90
+
+103-3 Evaluation of the management approach SR 71-75, 89-90
+
+302-1 Energy consumption within the organization SR 118-120
+
+302-2 Energy consumption outside of the organization - - Information unavailable for 302-2. The
+necessary information cannot be obtained
+because the information is not directly controlled
+by FCA. See CO, emissions reported in the
+“Logistics” section for estimated environmental
+impact outside of the organization.
+
+302-3 Energy intensity SR 91,121
+
+302-4 Reduction of energy consumption SR 91
+
+302-5 Reductions in energy requirements of products and services. SR 71-75
+
+GRI-303: Water (2018)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+103-1 Explanation of the material topic and its Boundary SR 12, 92, 135-136
+103-2 The management approach and its components SR 28, 34, 89-90, 92
+103-3 Evaluation of the management approach SR 89-90, 92
+303-41 Interactions with water as a shared resource AR 150
+SR 92, 98
+303-2 Management of water discharge-related impacts SR 92
+303-3 Water withdrawal AR 150
+SR 92, 125
+303-4 Water discharge AR 150
+SR 92, 125
+303-5 Water consumption AR 150
+SR 92
+GRI-304: Biodiversity (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 130, 135-136
+103-2 The management approach and its components SR 28, 34, 89-90
+103-3 Evaluation of the management approach SR 89-90
+304-1 Operational sites owned, leased, managed in, or adjacent to, SR 130
+protected areas and areas of high biodiversity value outside
+protected areas
+304-2 Significant impacts of activities, products, and services on SR 130
+biodiversity
+304-3 Habitats protected or restored SR 130
+304-4 IUCN Red List species and national conservation list species SR 130
+with habitats in areas affected by operations
+FE A. 2018
+144 SUSTAINABILITY
+FIAT CHRYSLER AUTOMOBILES REPORT
+
+ 
+

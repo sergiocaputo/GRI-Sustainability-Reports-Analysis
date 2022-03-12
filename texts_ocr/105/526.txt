@@ -1,0 +1,38 @@
+€ Indice generale < Sezione 12
+
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte E
+
+mento del threshold amount" nel caso in cui il rating di Poste Italiane S.p.A. dovesse risultare inferiore a “BBB-“. Sono pari
+a zero i threshold amount relativi ai contratti di marginazione delle operazioni di Pronti contro termine passive, per cui a questi
+non é riconducibile alcun rischio di liquidita.
+
+La posizione di liquidita del Patrimonio BancoPosta é valutata, in ottica di stress test, attraverso gli indicatori di rischio (Liquidity
+Coverage Ratio e Net Stable Funding Ratio) definiti dalla normativa prudenziale Basilea 3. Tali indicatori hanno |’obiettivo di
+valutare se |’azienda disponga di sufficienti attivita liquide di elevata qualita per superare una situazione di stress acuto della
+durata di un mese e per verificare che le attivita e le passivita presentino una struttura per scadenze sostenibile considerando
+uno scenario di stress di un anno. Grazie alle caratteristiche del suo Stato patrimoniale (presenza di un elevato ammontare di
+titoli governativi UE e raccolta prevalentemente composta da depositi retail), tali indicatori risultano per BancoPosta ampia-
+mente superiori ai limiti imposti dalla normativa prudenziale.
+
+Inoltre, il monitoraggio del rischio di liquidita awiene attraverso I’elaborazione di indicatori di early warning che, oltre che consi-
+derare ipotesi di deflusso della raccolta in condizioni di stress, intendono monitorare i deflussi del funding coerenti con il profilo
+comportamentale stimato ad un livello di confidenza del 99%.
+
+Informazioni di natura quantitativa
+
+1. Distribuzione temporale per durata residua contrattuale delle attivita
+e passivita finanziarie
+La distribuzione temporale delle attivita e passivita finanziarie € rappresentata nelle tabelle che seguono secondo le regole
+
+stabilite dalla normativa di bilancio (Circolare n. 262/2005 della Banca d'Italia terzo aggiornamento e relativi chiarimenti emessi
+dall’Organo di Vigilanza), ricorrendo all’utilizzo di informazioni di natura contabile esposte per durata residua contrattuale.
+
+Non sono stati utilizzati pertanto dati di natura gestionale che prevedono, ad esempio, la modellizzazione delle poste a vista
+del passivo e la rappresentazione delle poste per cassa secondo il loro grado di liquidabilita.
+
+184. ll threshold rappresenta |’'ammontare di collateral che non deve essere contrattualmente versato; rappresenta quindi il rischio di controparte residuo che
+rimane in carico ad una controparte.
+
+525
+

@@ -1,0 +1,124 @@
+| 258 | Generali Group
+
+Additional information
+
+43 Disclosure regarding the
+deferred application of IFRS 9
+“Financial Instruments”
+
+The Group adopted the temporary exemption from the
+application of IFRS 9, as provided for in the amendment to
+IFRS 4 “Applying IFRS 9 Financial Instruments with IFRS
+4 Insurance Contracts”. The Group qualifies for temporary
+exemption from application of IFRS 9. In fact, the carrying
+amount of liabilities for insurance operations (€ 443 billion)
+is higher than 90% of the carrying amount of total liabil-
+ities (€ 476 billion) as of 31 December 2015 (application
+period required by the principle. Specifically, the liabilities
+related to insurance operations not included in the scope
+of IFRS 4 are listed below:
+— non-derivative liabilities linked to investment contracts
+measured at fair value through profit and loss, for
+which IAS 39 applies (€ 22 billion);
+
+| Annual Integrated Report and Consolidated Financial Statements 2018
+
+— subordinated liabilities that qualify as own funds pur-
+suant to the Solvency II regulations (€ 9 billion);
+
+— liabilities arising from defined benefit plans of Group
+companies operating in the Life and P&C segments
+(€ 4 billion);
+
+— tax liabilities related to insurance operations (€ 4 billion).
+
+The other liabilities, not related to insurance operations,
+consist mainly of liabilities to banks and bank customers.
+
+The information required by the amendment to IFRS 4 for
+financial instruments as at 31 December 2018 is provid-
+ed below.
+
+Change in the fair value of financial instruments included
+in the scope of application of IFRS 9 with the details of
+financial instruments that give rise to specific dates for
+cash flows that consist exclusively of payment of princi-
+pal and interest.
+
+Change in fair value of financial instruments in scope of IFRS 9
+
+31/12/2018
+
+31/12/2018 Change in the fair value since
+31 December 2017
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Financial assets managed on fair value basis and held for trading* 77,459 -
+Equities 87 -
+Investment funds 8,457 =
+Derivatives 1,261 :
+Investments back to policies where the risk is borne by the policyholders and pension 63,749 .
+funds** 4
+Other financial instruments managed on fair value basis 3,905 -
+
+Available for sale financial assets (AFS), held to maturity and loans and receivables*** 339,848 11,134
+
+a ae Mil lve rise on specified dates to cash flows that are solely payments of 297.588 -3,199
+Bonds 277,472 -8,283
+Loans and other debt instruments. 18,400 84
+Receivables from banks and customers 1,648 0
+Other investments 69 0
+
+Financial assets that do not give rise on specified dates to cash flows that are solely 42.260 2.935
+
+payments of principal and interest**** B
+Equities 10,379 1,722
+Investment funds 22,830 -921
+Bonds 8,705 -284
+Loans and other debt instruments 295 -8
+Receivables from banks and customers 49 0
+Other financial instruments that do not give rise on specified dates to cash flows that 1 0
+
+are solely payments of principal and interest
+
+*** The fair value change of financial assets measured at fair value through profit or loss is provided in the relative section in the notes.
+** Policy loans and leashold assets are excluded from the scope of SPPI test because in the scope respectively of insurance contracts and leases
+“* These assets would be measured as at fair value through profit or loss if IFRS 9 was applied.
+

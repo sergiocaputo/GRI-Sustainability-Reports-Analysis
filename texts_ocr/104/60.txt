@@ -1,0 +1,48 @@
+)
+
+ll gruppo PLT energia gestisce 95 MW di impianti a tariffa Feed-in e 105 MW di impianti con tariffa
+
+incentivante GRIN.
+
+ 
+
+ 
+
+impianto e classe n°impianti MW
+eolico T.O. 3 2,45
+da 200 a 1.000 kw 3 245
+grande elico FER-E 3 92,55
+> 5.000 kw 3 92,55
+grande eolico GRIN 10 105,1
+> 5.000 kw 8 100,95
+da 1.000 a 5.000 kw 2 415
+mini-eolico FER 16 1,93
+da 20 a 60 kw 9 0,53
+da 60 a 200 kw 7 14
+mini-eolico T.O. 2 0,39
+da 60 a 200 kw 2 0,39
+
+totale 34 202,42
+BILANCIO
+SOCIALE
+
+2017
+
+Le ore equivalenti degli impianti con incentivi GRIN
+del Gruppo PLT energia, pari a 2.184, per una classe
+di potenza da 1.000 a 5.000 kWh sono il 9% pit alte
+rispetto alle stime elaborate dal GSE, cosi come gli
+impianti del gruppo con una classe di potenza oltre i
+5.000 kWh (ore equivalenti pari a 2.063 ore) hanno
+registrato valori superiori del 12% rispetto alla media
+
+delle ore del GSE.
+
+Le ore equivalenti degli impianti a tariffa FER-E del
+Gruppo, pari a 2 .571, per fanno 2016 hanno registrato
+un +20% rispetto alla media del GSE.
+
+pagina
+
+60
+

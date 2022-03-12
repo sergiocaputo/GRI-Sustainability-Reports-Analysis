@@ -1,0 +1,58 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+B.3 Consolidato prudenziale - Distribuzione territoriale delle
+esposizioni creditizie per cassa e fuori bilancio verso banche
+
+(parte 2 di 2)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASIA RESTO DEL MONDO
+Euro/migliaia Esposizione Rettifiche valore Esposizione Rettifiche valore
+netta complessive netta complessive
+
+A. Esposizioni creditizie per cassa
+
+A.l Sofferenze - = Hs =
+
+A.2 Inadempienze probabili - - - -
+
+A.3 Esposizioni scadute deteriorate - - = 1s
+
+A.4 Esposizioni non deteriorate 25 - - -
+TOTALE A 25 - - a
+B. Esposizioni creditizie fuori bilancio
+
+B.1 Esposizioni deteriorate - - a ws
+
+B.2 Esposizioni non deteriorate - - im -
+TOTALE B - - s is
+TOTALE (A+B) 31/12/2018 25 - - a
+TOTALE (A+B) 31/12/2017 69 - - -
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 305
+

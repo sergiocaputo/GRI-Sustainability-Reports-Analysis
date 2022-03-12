@@ -1,0 +1,53 @@
+33
+
+Per eseguire questa importante attivita, oltre ai tradizionali apparecchi a ionizzazione di
+fiamma o a semiconduttore, vengono utilizzate strumentazioni con tecnologie evolute,
+come i rilevatori laser che permettono di ottenere una migliore selettivita, risoluzione e ca-
+pacita di intervento. Un’area di particolare interesse tra gli interventi di tipo innova-
+tivo che Italgas sta intraprendendo, infatti, 6 stata individuata nella digitalizzazione SORED\
+della rete che ne consentira un attento monitoraggio con la possibilita di passare da {]
+interventi di manutenzione programmata a interventi di manutenzione predittiva.
+Questo consente la tempestiva eliminazione di eventuali fuoriuscite di gas dall’impianto di
+distribuzione, anche molto piccole, e costituisce un esame dell’affidabilita della rete su cui
+fondare la programmazione degli interventi di manutenzione e di riqualificazione di tratte di
+tubazioni. A supporto della sicurezza della rete, nel corso del 2017 € proseguito il piano di
+sostituzione delle tubazioni in ghisa grigia con giunti in canapa e piombo e con giunti mec-
+canici che oltre ad aumentare i livelli di sicurezza, contribuisce anche a ridurre i rilasci di gas
+in atmosfera. Nel 2017 sono stati sostituiti circa 35 km di ghisa grigia con giunti in canapa e
+piombo e sono stati sostituiti circa 40 km di ghisa grigia con giunti meccanici. Nel corso del
+2017 sono stati avviati alcuni progetti di innovazione tecnologica, che si collocano nel con-
+testo del Piano nazionale Industria 4.0 predisposto dal Ministero dello Sviluppo Economico.
+In particolare, sono stati identificati alcuni settori d’intervento, quali ad esempio:
+= digitalizzazione delle reti gas - Si tratta di reti di distribuzione del gas non interconnes-
+se (in antenna) che saranno monitorate utilizzando trasduttori, sensori e dispositivi di
+acquisizione dei dati che trasmetteranno le informazioni ad un centro di supervisione.
+Le informazioni saranno trattate con algoritmi che consentiranno di predire eventuali
+disservizi causati da guasti e/o malfunzionamenti della rete, nel suo complesso (pre-
+venzione dispersioni, prevenzione guasti, monitoraggio della qualita del gas distribuito,
+bilanciamento dei consumi).
+= Monitoraggio delle pressioni - Finalizzato per individuare il parametro di efficienza
+dell’'impianto di distribuzione delle reti di gas in bassa pressione.
+= Localizzazione delle tubazioni interrate tramite marker RFID - | marker RFID sono etichet-
+te elettroniche costituite da un circuito integrato e da un’antenna per la trasmissione di
+dati a corto raggio; si posizionano a ridosso delle tubazioni interrate e si localizzano utiliz-
+zando un ricetrasmettitore manovrato, sulla strada, da un operatore. Possono contenere
+informazioni strutturate a proposito della tubazione interrata (tipo di materiale, profondi-
+ta di posa, posizione, ecc.); lo scambio dei dati col ricetrasmettitore avviene per induzione
+elettromagnetica; pertanto i marker RFID non sono alimentati da fonti di energia elettrica
+che si esaurisce nel tempo (pile). Le informazioni contenute nei Marker sono utilizzabili
+sia dal proprietario della rete, sia dalle imprese che operano per il medesimo o per terzi
+(segnalazione puntuale della presenza di altri servizi adiacenti alla tubazione gas).
+= Interruzione dell’erogazione domestica del gas per morosita - Si sta procedendo, in col-
+laborazione con l’istituto di biorobotica della Scuola Superiore Sant’Anna di Pisa, con lo
+sviluppo prototipale di un robot in grado di muoversi all’interno delle colonne montanti
+per attuare l’interruzione del servizio gas ai clienti morosi.
+Anche nel 2017 Italgas ha proseguito a investire sul progetto “Ottimizzazione del volume di
+odorizzante immesso in rete”, che ha visto la realizzazione, presso alcuni impianti di riduzio-
+ne, di prove sperimentali relative ad un sistema innovativo di controllo del grado di odoriz-
+zazione al variare delle condizioni di erogazione del gas o dell’assetto fluidodinamico della
+rete. Lodorizzazione é infatti un’attivita fondamentale per la sicurezza della distribuzione,
+perché consente di riconoscere la presenza del gas, altrimenti inodore e incolore, in caso di
+dispersioni accidentali.
+
+ItaLGas DICHIARAZIONE NON FINANZIARIA CONSOLIDATA 2017
+

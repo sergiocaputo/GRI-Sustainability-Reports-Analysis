@@ -1,0 +1,64 @@
+In order to avoid this, after the pilot project started in 2017 on Modena and Ferrara, in 2018 the new
+system for scheduling the meter-reading rounds was extended to all areas, which resumed the maximum
+possible synergy of multi-service readings for each customer, in compliance with the constraints imposed
+on the reading frequencies.
+
+As regards the water service, ARERA’s resolution 218/2016/R/idr added new reading frequencies, and the
+concept of a minimum time between readings. In the face of this resolution, and thanks to Hera Group’s
+orientation which already went in the direction of maximizing the collection of measurement data, the new
+reading plan, initiated on 1 July 2016 includes:
+
+¢ twelve attempts per year to take a reading for all customers with annual consumption above 1,800
+m? instead of the two required for customers with annual consumption between 1,800 and 3,000
+and the three required for customers with annual consumption above 3,000.
+
+e four attempts per year to take a reading for all customers with annual consumption between 500
+and 1,800 m3, instead of the two required;
+
+two attempts per year to take a reading for all customers with annual consumption between 0 and
+500 m3, in line with the requirements of the resolution.
+
+By doing so, the reading schedule has made it possible to increase the number of readings actually taken,
+making it easier to identify leaks, and improve the quality of the invoicing (a smaller percentage of
+consumption is estimated).
+
+During 2018, the provisions of ARERA’s Resolution 218/2016 were also followed up with regard to the
+advanced notification of a second pass to read meters for non-accessible water meters, when the first pass
+failed.
+
+For those who have not opted for a specific notification system, the reading companies have implemented
+preventive notification with leaflet distribution using stickers, which also give users the opportunity to
+leave a self-meter reading if they expect to be absent.
+
+Also in the field of remote readings, intense operational and control and monitoring activities were carried
+out during the year from the remote reading systems control room, which is also fundamental for
+optimizing maintenance activities in the field, thus ensuring excellent availability of reading data. An
+optimization introduced during the year was the systematization of the management of the electronic
+meters undergoing temporary maintenance, by means of a manual reading run, always with the aim of
+minimizing the use of estimated readings.
+
+As of the end of 2018, the Hera Group achieved its targets for the year by installing almost 650,000 smart
+gas meters, amounting to 34% of the total (the target for the end of 2018 was 30%), 315,313 of which were
+installed in 2018. We plan to continue the installation plan for electronic gas meters, which in 2019 will
+include an improved meter with advanced security features designed and developed by Hera and which will
+become a standard component of the Group’s equipment. In 2018, following the consolidation of the
+UNI/TR 11689 standard for remote management, the Italian Gas Committee completed its first phase of
+testing, a pilot project that also involved Inrete Distribuzione. In 2018, Hera Group successfully continued to
+develop an advanced version of the gas meter that incorporated specific safety functions. After the
+research phases, in 2017, the product was developed in 2018 and industrialization, metrology certification
+and field testing will take place in 2019. According to current plans, the first commercial installations will
+occur in the last months of this year. To this end, the Group has entered into a technological partnership
+with a multinational leader in high-tech technologies (Panasonic) and has identified Pietro Fiorentini S.p.A.
+as a leading assembler in the national manufacturing scenario of this specific sector.
+
+As in 2017, also for 2018, investments in smart metering gas benefited from the “Industry 4.0”
+
+hyperamortization incentives for investments in the high-tech sector. During 2018, the operating tools used
+
+to manage equipment for mass-market remote meter reading (meter classes G4-G6) were further
+
+consolidated. The radio network used for remote meter reading has been extended to more towns and in
+
+2019 it will cover almost all the major city centres served by the Group, and for the main cities, will to
+233
+

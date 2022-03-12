@@ -1,0 +1,57 @@
+Finally, in the company’s reference sector, the objective of contractual outputs (milestones) refers to, inter alia,
+modulation of cash flows to obtain financial resources useful to perform the contract and the definition of
+
+technical specifications of the works and related performance timing.
+
+4. Determining the transaction price
+
+Given the engineering and operating complexities, the size and length of time involved in completing the
+contracts, in addition to the fixed consideration agreed in the contract, the transaction price also includes
+additional consideration, whose conditions need to be assessed. A claim is an amount that the contract seeks
+to collect as reimbursement for costs incurred (and/or to be incurred) due to reasons or events that could not
+be foreseen and are not attributable to the contractor, for more work performed (and/or to be performed) or
+
+variations that were not formalised in riders.
+
+The measurement of the additional consideration arising from claims is subject to a high level of uncertainty,
+given its nature, both in terms of the amounts that the customer will pay and the collection times, which usually
+
+depend on the outcome of negotiations between the parties or decisions taken by judicial/arbitration bodies.
+
+This type of consideration is regulated by IFRS 15 as “contract modifications”. The standard provides that a
+contract modification exists if it is approved by the parties to the contract. IFRS 15 provides that a contract
+modification could be approved in writing, by oral agreement or implied by customary business practices. A
+contract modification may exist even though the parties to the contract have a dispute about the scope or price
+(or both) of the modification. The rights to the consideration shall be provided for contractually generating an
+enforceable right. Once the enforceable right has been identified, in order to recognise the claims and amount
+of the additional consideration requested, the company shall apply the guidance about the variable
+consideration given in IFRS 15. Therefore, in order to adjust the transaction price to include the additional
+consideration arising from the claims, the company shall decide whether it is highly probable that the revenue
+
+will not be reversed in the future.
+
+The company considers all the relevant aspects and circumstances such as the contract terms, business and
+
+negotiating practices of the sector or other supporting evidence when taking the above decision.
+4.a Optional works
+
+The consideration for optional works is additional consideration for future works that have not yet been agreed
+
+and/or ordered by the customer when it signs the contract.
+
+The consideration for optional works is provided for in the contracts with the customer as it represents potential
+future work interrelated with the main contract object. However, most of the contracts provide that the additional
+works shall be specifically defined and approved by the customer before they start. Otherwise, the contractor
+
+does not have an enforceable right to payment for this performance.
+
+Accordingly and based on sector practices, this type of consideration is a contract modification and, under
+IFRS 15, shall be considered when measuring the transaction price if approved by both parties to the contract.
+In this case, the enforceable right can only be identified after specific approval or instructions from the customer
+
+in line with its customary business practices or operating methods.
+
+ 
+
+411
+

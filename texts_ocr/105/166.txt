@@ -1,0 +1,72 @@
+ 
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalita di presentazione dei bilanci, metodologie e principi contabili applicati
+
+giornaliero come fornito dall’info provider Bloomberg o dal gestore del fondo. La quotazione degli strumenti di tipo obbliga-
+zionario di Livello 1 incorpora la componente di rischio credito. Nella valutazione degli strumenti finanziari denominati in valuta
+diversa dall’Euro si utilizzano i tassi di cambio forniti dalla Banca Centrale Europea.
+
+Livello 2: appartengono a tale livello le valutazioni effettuate impiegando input diversi dai prezzi quotati inclusi nel Livello 1
+ed osservabili direttamente o indirettamente per l’attivita o per la passivita. Considerate le caratteristiche dell’operativita del
+Gruppo Poste Italiane, i dati di input osservabili, impiegati ai fini della determinazione del fair value delle singole forme tecniche,
+includono curve dei rendimenti e di inflazione, tassi di cambio forniti dalla Banca Centrale Europea, superfici di volatilita su tassi,
+premi delle opzioni su inflazione, asset swap spread o credit default spread rappresentativi del merito creditizio delle specifiche
+controparti, eventuali adjustment di liquidita quotati da primarie controparti di mercato.
+
+Per il gruppo Poste Italiane rilevano le seguenti categorie di strumenti finanziari:
+
+Titoli obbligazionari quotati su mercati non attivi o non quotati:
+
+= Titoli obbligazionari plain governativi e non, italiani e esteri: la valutazione viene effettuata tramite tecniche di discoun-
+ted cash flow che prevedono |’attualizzazione dei flussi futuri utilizzando in input una curva dei rendimenti che incorpora lo
+spread rappresentativo del rischio credito in base a spread determinati su titoli benchmark dell’emittente o di altre societa
+con caratteristiche similari all’emittente, quotati e liquidi. La curva dei rendimenti pud essere soggetta a rettifiche di importo
+contenuto, per tenere conto del rischio di liquidita derivante dalla mancanza di un mercato attivo.
+
+= Titoli obbligazionari strutturati: la valutazione avwviene applicando |’approccio building block che prevede la scomposi-
+zione della posizione strutturata nelle sue componenti elementari: componente obbligazionaria e componente opzionale. La
+valutazione della componente obbligazionaria viene effettuata sulla base di tecniche di discounted cash flow applicabili ai
+titoli obbligazionari plain cosi come definite al punto precedente. La componente opzionale che, considerate le caratteristi-
+che dei titoli obbligazionari compresi nei portafogli del Gruppo Poste Italiane, é riconducibile al rischio tasso, viene valutata
+mediante un approccio in formula chiusa secondo modelli classici di valutazione delle opzioni aventi come sottostante tale
+specifico fattore di rischio. Con riferimento ai titoli strutturati a copertura di polizze index linked (ante regolamento ISVAP n.
+32), la valutazione viene effettuata facendo riferimento al prezzo bid fornito dalle controparti finanziarie con cui sono stati
+stipulati accordi di buy-back.
+
+Titoli azionari non quotati: sono compresi in tale categoria i titoli azionari non quotati quando é possibile fare riferimento al
+prezzo quotato di titoli azionari emessi dal medesimo emittente. Ad essi é applicato un fattore di sconto, quotato da primarie
+controparti di mercato, che rappresenta il costo implicito nel processo di conversione delle azioni non quotate in azioni quotate.
+
+Fondi mobiliari di investimento aperti non quotati: la valutazione viene effettuata considerando |’ultimo NAV (Net Asset
+Value) disponibile del fondo cosi come fornito dall’info provider Bloomberg o determinato dal gestore del fondo.
+
+Strumenti finanziari derivati:
+
+u Interest Rate Swap:
+
+Plain vanilla interest rate swap: |a valutazione viene effettuata utilizzando tecniche di discounted cash flow che prevedono
+l’'attualizzazione dei differenziali tra i flussi cedolari propri delle due gambe (receiver e payer) previste dal contratto. La costru-
+zione delle curve dei rendimenti per la stima dei futuri flussi contrattuali indicizzati a parametri di mercato (tassi monetari e/o
+inflazione) e l’attualizzazione dei differenziali viene effettuata applicando le prassi in vigore sui mercati dei capitali.
+
+Interest rate swap con opzione implicita: la valutazione awiene applicando |’approccio building block che prevede la scom-
+posizione della posizione strutturata nelle sue componenti elementari: componente lineare e componente opzionale. La valutazio-
+ne della componente lineare viene effettuata applicando le tecniche di discounted cash flow definite per i plain vanilla interest rate
+swap al punto precedente. La componente opzionale che, considerate le caratteristiche degli strumenti finanziari derivati presenti
+nei portafogli di Poste Italiane, é riconducibile ai fattori di rischio tasso 0 inflazione, viene valutata mediante un approccio in formula
+chiusa secondo modell classici di valutazione delle opzioni aventi come sottostante tali specifici fattori di rischio.
+
+= Bond forward: la valutazione viene effettuata attualizzando il differenziale tra il prezzo forward del titolo sottostante il deri-
+vato aggiornato alla data di valutazione ed il prezzo di regolamento.
+
+= Warrant: considerate le caratteristiche degli strumenti presenti in portafoglio, la valutazione viene effettuata tramite modello
+di equity local volatility. In particolare, poiché per tali strumenti sono stati stipulati accordi di buy-back con le controparti
+finanziarie strutturatrici dei warrants, e considerando che i modelli di valutazione utilizzati da queste ultime sono coerenti con
+quelli utilizzati dal Gruppo, la valutazione viene effettuata utilizzando le quotazioni bid fornite dalle controparti stesse.
+
+= Forward su Cambi: la valutazione viene effettuata facendo la differenza tra il reciproco del cambio forward registrato alla
+data di valutazione ed il reciproco del cambio forward fissato alla Trade Date.
+
+165
+

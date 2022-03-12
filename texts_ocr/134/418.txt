@@ -1,0 +1,54 @@
+When the expected cash flows are included in an estimate range with the same probability of occurrence, the
+
+median value is discounted to measure the liability.
+
+Provision for restructuring costs is recognised when the company has approved a detailed formal plan that has
+
+been implemented and communicated to the third parties involved.
+Translation criteria for foreign currency items
+The translation criteria for foreign currency items adopted by the company are as follows:
+
+e foreign currency monetary assets and liabilities, excluding property, plant and equipment, intangible assets
+and equity investments measured at cost, are translated at the closing spot rate with any exchange rate
+
+gains or losses taken to profit or loss;
+
+e non-monetary foreign currency assets and liabilities are recognised at historical cost denominated in the
+
+foreign currency and translated using the historical exchange rate;
+
+e revenue and costs related to foreign currency transactions are recognised in profit or loss at the exchange
+
+rate ruling on the date of the transaction;
+
+e any material effects deriving from changes in exchange rates after the reporting date are disclosed in the
+
+notes.
+The foreign branches’ functional currency is the Euro, as it is the primary currency they use in their operations.
+Non-current assets held for sale and discontinued operations
+
+Non-current assets (and disposal groups) are classified as held for sale if their carrying amount will be recovered
+
+through a sale transaction rather than through continuing use.
+Assets held for sale are recognised as such when the following events take place:
+e signing of a binding sales agreement;
+¢ approval and communication of a formal sales plan by directors.
+In order to be correctly measured, the assets shall be:
+e available for immediate sale in their present condition,
+e subject only to terms that are usual and customary for sales of such assets, and
+e the sale must be highly probable and expected to take place within twelve months.
+
+Non-current assets (and disposal groups) classified as held for sale are measured at the lower of their previous
+
+carrying amount and fair value less costs to sell.
+
+A discontinued operation is a component of an entity that either has been disposed of or classified as held for
+sale and that meets any of the following criteria: i) it represents a separate major line of business or geographical
+area of operations; ii) it is part of a single coordinated plan to dispose of a separate major line of business or
+
+geographical area of operations; or iii) it is a subsidiary acquired exclusively with a plan to resell.
+
+ 
+
+419
+

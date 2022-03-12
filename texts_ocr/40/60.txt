@@ -1,0 +1,130 @@
+In its cyber security efforts, Fastweb works at several
+levels to prevent any loss or damage to data and, in the
+event of incidents, to limit damage and recover normal
+company operations as rapidly as possible.
+
+Through a specific internal division, the company
+constantly monitors developments in legislation and
+technology to readily adapt and update its business
+models. Since 2007, Fastweb is ISO 27001 certified
+for information security management, and it has
+supplemented this certification with other more
+specific certificates in the past few years. Indeed, in
+2016, Fastweb obtained ISO 27018 certification for
+cloud privacy and, in 2018, it obtained a certificate
+
+of compliance with ISO 27017, which introduces
+guidelines for specific information security controls
+applicable to cloud service providers, and a certificate
+of compliance with ISO 27035, which provides guidance
+on information security incident management and
+prevention (see chapter 1).
+
+To further strengthen the culture of cyber security
+within the company, during the year, Fastweb
+
+also promoted various awareness campaigns for
+employees. They included “YOU - the most secure
+technology is you" for all employees, launched on
+Agora, the company's Intranet. The “YOU" campaign
+was publicized using various means, from six videos
+in which Fastweb employees appeared as actors and
+podcasts written and narrated by an expert, to an
+online quiz and a small treasure hunt. In addition to
+this campaign, leaflets were published on Agora with
+useful tips and guides on how to manage all sensitive
+information securely.
+
+Cyber Security Hub was another awareness driver, a
+ull day devoted to cyber security and involving around
+50 employees, during which cyber security experts
+discussed contemporary issues related to online
+security. During this event, employees learned about the
+undamental steps in the history of the Internet, to gain
+an understanding of the reasons for the birth of online
+crime and privacy violations. In addition, the human
+actor was examined, diversifying the “seven sins”
+
+hat commonly lead someone to become a victim of a
+cyberattack.
+
+Fastweb has also rolled out a series of local initiatives
+‘0 raise more awareness of the importance of cyber
+security at customer and market level. In particular,
+
+in April and May 2018, it held two editions of “Digital
+Defense" for customers, dealing with IT security on
+
+he cloud, data backup and personal data protection.
+lot only did the meetings inform participants on cyber
+security issues, but they also made it possible to gain
+eedback from customers on their specific needs,
+identifying potential priorities on which to develop
+
+ 
+
+60 Trusted and lean customer partner
+
+investment strategies.
+
+In addition, Fastweb participated in the first edition of
+the Cyber Conference in Rome and Milan organized by
+Trend Micro, a global leader in data security and cyber
+security solutions for companies. These events involved
+a total of 500 people, including telecommunications
+operators, consumers and companies. Fastweb
+participated in the “System Integration on State" round
+table with major Italian cyber security operators to
+discuss hot information security issues by proposing
+specific solutions.
+
+Fastweb also demonstrated its cyber security
+commitment by guiding customers as they
+progressively reinforce their defense systems, through
+avant-garde solutions and offers tailored to the
+different needs of business customers (see paragraph
+4.2 of this chapter).
+
+PERSONAL DATA PROTECTION
+
+Personal data protection is of vital importance to the
+telecommunications sector and an aspect to which
+Fastweb has always devoted its utmost attention. Since
+2016, the company has held a certificate of conformity
+with ISO 27018 for the protection of personally
+identifiable information in public clouds, guaranteeing
+compliance with privacy standards in cloud computing
+services and constituting the best practices concerning
+personal data protection by public cloud providers.
+
+In 2016, Regulation (EU) 2016/679, known as the GDPR,
+was approved, updating personal data processing
+rules. Among other things, the GDPR specifically
+emphasizes the principle of accountability, whereby
+
+the data controller must adopt, and always be able to
+demonstrate that it has adopted, appropriate technical or
+organizational measures to ensure that the processing is
+effectively carried out in accordance with the Regulation.
+The protection of personal data must be incorporated
+
+in business processes from the start of their design
+(privacy by design) and the data processing must be
+minimized by default (privacy by default). The Regulation
+also gave data subjects additional rights, such as the
+right to data portability and the right to be forgotten.
+
+Between 2017 and 2018, as the date when the
+Regulation would take full effect approached, Fastweb
+carried out activities for compliance with the new
+legislation, planning to update constantly over time,
+
+to ensure that data are always processed correctly
+
+and are protected by adequate security measures.
+
+The GDPR organizational model has updated and/or
+defined roles within the company, processes to support
+business functions in the design and implementation
+of products and services up to the highest protection
+

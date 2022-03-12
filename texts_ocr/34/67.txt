@@ -1,0 +1,129 @@
+ 
+
+European tenders in which Subject Partner
+Elettronica participated in
+
+2019
+
+ADR-EMS-03-2019: Definition and development NDRA SISTEMAS,
+
+Combined radar,
+communications, and
+electronic warfare functions
+based on European Active
+Electronically Scanned
+Arrays for military
+applications (CROWN)
+
+of an integrated system with
+Radar, COMM and EW
+functions for defence
+applications in different
+military sectors and based on
+AESA Multifunction Radar
+technology.
+
+Coordinatore), LEONARDO,
+HENSOLDT, Thales DMS - F,
+Fraunhofer-Institut fur
+Hochfrequenzphysik und
+Radartechnik
+
+FHR, Netherlands Organisation
+or Applied Scientific Research
+TNO, SAAB, Elettronica, Baltijos
+Pazangiu Technologiju Institutas,
+Onera, Totalforsvarets
+Forskningsinstitut
+
+ 
+
+EDIDP-ACC-AEAC-2019:
+
+Airborne Electronic Attack
+Capability (REACT)
+
+Definition and development
+of an Airborne Modular and
+scalable European Electronic
+Attack system with Stand Off
+Jamming, Stand In Jamming,
+Escort Jamming, EW C2,
+CEMA, Network and Datalink
+capacities
+
+NDRA SISTEMAS,
+Coordinatore), ELETTRONICA
+THALES -F, HENSOLDT, SAAB
+
+ 
+
+ 
+
+EDIDP-PNTSCC-2019:
+
+Positioning, Navigation and
+Timing (PNT) and satellite
+communication capabilities
+(GEODE)
+
+Definition and development
+of a Galileo PRS (Public
+Regulated Service) Dual
+mode receiver, compatible
+with GPS/PRS GNSS37
+reception equipment for
+military applications in the
+air, land, sea and possibly
+space sectors with the aim of
+achieving full compliance
+with the European Common
+Minimum Standards (CMS)
+
+FDC (Coordinatore), THALES
+AVS, SAFRAN, THALES SIX,
+OROLIA, FhG IIS, ADS, DIEHL,
+SIEMENS, LEONARDO,
+TELESPAZIO, THALES-I,
+ELETTRONICA, CY4GATE,
+ANTWERP-S. GMV, INDRA,
+TECNOBIT
+
+ 
+
+EDIDP-ISR-EHAPS-2019:
+
+European High Altitude
+Platform Station (Euro-
+HAPS) solution for Union
+defence (surveillance of
+maritime zones, land borders
+or critical assets) (STARS)
+
+Definition and development
+of a System of Systems that
+contemplates the use of
+platforms in the stratosphere
+(HAPS - High Altitude
+Platform Stations) for the
+surveillance of maritime
+areas, borders or critical
+assets.
+
+57
+
+THALES - F (Coordinatore),
+LEONARDO, INDRA SISTEMAS,
+AIRSTAR AEROSPACE,
+TRONICOALCEN, Commissariat
+a l’énergie atomique et aux
+énergies alternatives (CEA),
+THALES DEFENSE MISSION
+SYSTEM, THALES ALENIA
+SPACE ESPANA, THALES
+ALENIA SPACE ITALIA,
+TELESPAZIO, ELETTRONICA,
+CIRA, IDS Ingegneria Dei
+Sistemi, Logic, ALI, Consorzio
+Hypatia
+

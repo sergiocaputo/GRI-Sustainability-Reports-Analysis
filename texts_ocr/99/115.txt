@@ -1,0 +1,96 @@
+& ALLEGATI
+
+ 
+
+Allegato 5 - Valutazione dell’impatto del ciclo di vita (LCIA)
+
+ 
+
+| risultati emersi dall'inventario del ciclo di vita (LCI) sono stati correlati con specifiche categorie ambientali attraverso
+l'utilizzo di indicatori di categoria di impatto, i quali rappresentano in maniera quantificabile la categoria in questione.
+Una volta scelte le categorie di impatto ed i relativi indicatori, sono stati convertiti i risultati dell'LCl mediante i fattori di
+caratterizzazione, ottenendo i risultati dei diversi indicatori di categoria.
+
+La somma dei contributi relativi a ciascuna categoria permette di ottenere il profilo LCIA (Life Cycle Impact Assessment), il
+quale ha lo scopo di fornire le informazioni riguardo ai fattori ambientali associati ai flussi in ingresso e in uscita dal sistema
+scelto.
+
+Selezione delle categorie di impatto
+
+Vengono riportate di seguito le categorie ambientali proposte dalla Society of Environmental Toxicology and Chemistry
+
+(SETAC Europe) nel proprio “Working Group on LCIA":
+
+e —Estrazione di risorse abiotiche: questo tipo di risorse comprende tre diverse tipologie di elementi naturali:
+- Risorse non rinnovabili (combustibili fossili o minerali);
+- Risorse (acque sotterranee, sabbia e ghiaia);
+- Risorse rinnovabili (acque superficiali, energia solare, eolica ecc.).
+
+e — Estrazione di risorse biotiche: comprendenti biomasse raccolte sia in maniera sostenibile, sia in maniera non sostenibile
+(deforestazione).
+
+e Uso del territorio: riduzione delle specie animali e vegetali presenti in un determinato territorio.
+
+e Global Warming (Effetto Serra): aumento della temperatura nella bassa atmosfera in conseguenza della presenza dei
+gas serra che intrappolano le radiazioni infrarosse
+
+e Impoverimento dell'ozono atmosferico: conseguente incremento dell'incidenza dei raggi ultravioletti, dannosi per
+l'uomo e per tutti gli ecosistemi in generale.
+
+e Eco-tossicita: impatti sulle specie e sugli ecosistemi dovuti ad emissioni dirette o degradazioni successive dei prodotti.
+
+e — Tossicité umana: dovuta alla presenza di sostanze chimiche o biologiche emesse nell’ambiente.
+
+e $mog fotoechimico: dovuto alla formazione di ozono troposferico in seguito alle reazioni di componenti organici volatili
+in presenza di luce e NOx.
+
+ne: rilascio di protoni (H*) negli ecosistemi acquatici e terrestri.
+
+e — Eutrofizzazione: a causa di un eccesso di nitrati, fosfati, sostanze organiche ed elementi nutrienti.
+
+ 
+
+Classificazione
+Noti gli effetti e i danni potenziali delle emissioni sulla salute umana e sull'ambiente, i risultati emersi dalla fase di inventario
+del ciclo di vita possono essere associati a una o pil categorie di impatto.
+
+Caratterizzazione
+In questa fase avviene la quantificazione dell'impatto generato. | dati presenti nell'inventario vengono trasformati in
+indicatori di carattere numerico, determinando cosi il contributo relativo di ogni singola sostanza o risorsa usata.
+
+Applicazione a Palladio Group
+
+Facendo riferimento ai risultati emersi dalla fase di inventario del ciclo di vita si elencano di seguito le categorie di impatto
+
+pertinenti:
+
+e le emissioni di gas serra sono state associate alla categoria GLOBAL WARMING;
+
+e il consumo di acqua é stato associato alla categoria ESTRAZIONE DI RISORSE ABIOTICHE;
+
+e la produzione di scarti e quindi, seppur indirettamente, il consumo di carta e cartone, é stata associata alla categoria
+ESTRAZIONE DI RISORSE BIOTICHE;
+
+¢ laproduzione di reflui é stata associata alla categoria ECOTOSSICITA.
+
+Global Warming totale e confronto tra gli stabilimenti
+
+In seguito alla classificazione, sono state associate a questa categoria di impatto le emissioni di gas serra derivanti da:
+Trasporto materie prime e prodotti venduti;
+
+Materiale cartaceo in ingresso;
+
+Consumo di gas naturale;
+
+Consumo di energia elettrica;
+
+Consumo di gasolio per riscaldamento.
+
+ 
+
+ 
+
+ 
+
+REPORT SOSTENIBILITA 2019 Pag. 115 di 132
+

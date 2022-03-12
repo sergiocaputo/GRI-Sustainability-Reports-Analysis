@@ -1,0 +1,189 @@
+Nota integrativa consolidata
+
+ 
+
+quote alla data di bilancio, a cui vengono sommati eventuali
+premi puri non ancora investiti alla data di valutazione.
+
+\l comparto derivati del portafoglio bancario si compone prin-
+cipalmente di contratti di Interest Rate Swap. Nel Gruppo Fi-
+deuram vengono di regola poste in essere coperture specifiche
+tramite strumenti finanziari derivati (fair value hedge) al fine
+di ridurre l’esposizione a variazioni awerse di fair value dovute
+al rischio di tasso di interesse. L’attivita di verifica dell’efficacia
+delle coperture é@ svolta dal Chief Risk Officer, che esamina
+preventivamente le condizioni che rendono applicabile |’hed-
+ge accounting e mantiene formale documentazione per ogni
+relazione di copertura. Tali verifiche sono effettuate attraver-
+so test prospettici all’attivazione della copertura, cui seguono
+test retrospettivi svolti a cadenza mensile.
+
+Il ricorso a derivati (prevalentemente IRS) é legato alla strategia
+di copertura dal rischio di tasso di interesse tramite l’acquisto
+di contratti swap collegati ai singoli titoli obbligazionari a ce-
+dola fissa presenti in portafoglio; tale strategia ha reso il por-
+tafoglio titoli con scadenze di lungo periodo meno sensibile al
+rischio tasso. Per quanto riguarda la concentrazione dei rischi,
+il portafoglio risulta estremamente diversificato in ragione degli
+stringenti limiti previsti dalla Financial Portfolio Policy, che fis-
+sa un limite di esposizione massima verso un singolo Gruppo
+corporate pari al 5% con la sola eccezione di Intesa Sanpaolo.
+
+Per la valutazione dei derivati é utilizzato un approccio coeren-
+te con il secondo livello della gerarchia di fair value, fondato
+su processi valutativi di comune accettazione ed alimentato da
+data provider di mercato. | derivati di copertura e tesoreria sti-
+pulati nell’ordinaria operativita di investimento - in particolare
+quelli di tasso e cambio - laddove non scambiati su mercati
+regolamentati, sono strumenti over the counter (OTC) owero
+negoziati bilateralmente con controparti di mercato e la loro
+valutazione é effettuata mediante appositi modelli di pricing.
+
+\l portafoglio bancario € composto da titoli detenuti per I’in-
+vestimento a carattere durevole e da derivati di copertura del
+rischio di tasso, da finanziamenti a breve/medio lungo termi-
+ne. Al 31 dicembre 2019 il portafoglio bancario ammontava
+ad €45 miliardi.
+
+INFORMAZIONI DI NATURA QUANTITATIVA
+
+Portafoglio bancario
+
+(milioni di euro)
+
+31.12.2019
+
+31.12.2018 VARIAZIONE
+ASSOLUTA %
+
+Attivita finanziarie valutate al
+fair value con impatto sulla
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+redditivita complessiva 3.294 (105) -3
+Titoli di debito classificati nei
+
+crediti verso banche I 10.764 2.002 19
+Titoli di debito classificati nei
+
+crediti verso clientela 2.535 (26) -1
+Derivati di copertura - 20 n.s.
+Totale Titoli e derivati 16.593 1.891 11
+Finanziamenti verso clientela 9.531 (202) -2
+Finanziamenti verso banche 12.301 4.897 40
+Totale Finanziamenti 21.832 4.695 22
+Totale Portafoglio Bancario 38.425 6.586 17
+
+ 
+
+ 
+
+n.s.: non significativo
+
+Fideuram - Intesa Sanpaolo Private Banking Annual Report Integrato 2019 ——. 341
+
+Il sistema interno di misurazione del rischio di tasso di interes-
+se valuta e descrive l’effetto delle variazioni dei tassi di interes-
+se sul valore economico e sul margine d'interesse e individua
+tutte le fonti significative di rischio che influenzano il banking
+book:
+
+e repricing risk: rischio originato da disallineamenti nelle sca-
+denze (per le posizioni a tasso fisso) e nella data di revisione
+del tasso (per le posizioni a tasso variabile) delle poste fi-
+nanziarie dovuto a movimenti paralleli della curva dei ren-
+dimenti;
+
+e yield curve risk: rischio originato da disallineamenti nelle
+scadenze e nella data di revisione del tasso dovuto a mu-
+tamenti nell’inclinazione e conformazione della curva dei
+rendimenti;
+
+° basis risk (rischio di base): rischio originato dall’imperfetta
+correlazione nell’aggiustamento dei tassi attivi e passivi di
+strumenti a tasso variabile che possono differire per para-
+metro di indicizzazione, modalita di revisione del tasso, al-
+goritmo di indicizzazione, ecc.. Tale rischio emerge a segui-
+to di variazioni non parallele dei tassi di mercato.
+
+Per la misurazione del rischio di tasso d’interesse generato
+dal portafoglio bancario, sono adottate le seguenti metriche:
+1. shift sensitivity del valore economico (AEVE);
+2. margine d’interesse:
+
+- shift sensitivity del margine (ANII);
+
+- simulazione dinamica del margine di interesse (NIl);
+3. Value at Risk (VaR).
+
+Shift sensitivity
+
+La shift sensitivity del valore economico (0 shift sensitivity del
+fair value) misura la variazione del valore economico del ban-
+king book ed é calcolata a livello di singolo cash flow per
+ciascuno strumento finanziario, sulla base di diversi shock
+istantanei di tasso e riflette le variazioni del valore attuale dei
+flussi di cassa delle posizioni gia in bilancio per tutta la durata
+residua fino a scadenza (run-off balance sheet).
+
+Nelle misurazioni le poste patrimoniali sono rappresentate in
+base al loro profilo contrattuale fatta eccezione per quelle ca-
+tegorie di strumenti che presentano profili di rischio diversi
+da quelli contrattualmente previsti. Per tale operativita si é
+pertanto scelto di utilizzare, ai fini del calcolo delle misure di
+rischio, una rappresentazione comportamentale ed in parti-
+colare:
+
+* per i mutui, si tiene conto del fenomeno del prepayment, al
+fine di ridurre l’esposizione al rischio tasso (overhedge) ed al
+rischio liquidita (overfunding);
+
+¢ per le poste contrattualmente a vista, viene adottato un
+modello di rappresentazione finanziaria volto a riflettere
+le caratteristiche comportamentali di stabilita delle masse
+e di reattivita parziale e ritardata alle variazioni dei tassi di
+mercato, al fine di stabilizzare il margine di interesse sia in
+termini assoluti sia di variabilita nel tempo;
+
+ei flussi di cassa utilizzati sia per il profilo contrattuale che
+comportamentale sono sviluppati al tasso contrattuale o al
+TIT.
+
+Per la determinazione del Present Value si adotta un sistema
+multicurva che prevede diverse curve di attualizzazione e di
+“forwarding” a seconda del tipo di strumento e del tenor della
+sua indicizzazione. Per la determinazione della shift sensitivity
+lo shock standard a cui sono sottoposte tutte le curve é definito
+
+JINVINNOIYd “Y OLVIYIW Id OLSILNOD *€ FOILVULS “Z SSANISNE Id OTIAGOW “1
+
+JINVNYIAOD *S
+
+°
+a
+2
+ba
+Bs
+a
+fo}
+5
+°
+4
+4
+iS
+5
+>
+5
+fo}
+
+ 
+

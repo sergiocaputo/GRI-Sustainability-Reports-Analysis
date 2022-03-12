@@ -1,0 +1,63 @@
+non-hazardous waste located in the Municipality of Baricella (BO) and project to move the existing
+medium-voltage line ENEL” approved by DGP 248 of 23/07/2013 (EIA).
+
+This project involves extending the existing landfill for non-hazardous waste in order to increase its
+storage capacity for a quantity of waste equal to approximately 600,000 tonnes.
+
+The extension consists in building a new module for the landfill unit, substantially similar to the
+current one, and as a result adapting the primary and service infrastructure of the disposal plant.
+Like the existing landfill, the planned extension of the landfill is also designed to meet the needs for
+the disposal of municipal waste and special non-hazardous waste.
+
+With Regional Authority Decision 13238 of 10/08/2018, the Vipsa Service of the Emilia-Romagna
+Regional Government extended by 21 months the validity of DGP 248/2013 concerning the
+approval of the landfill extension project. Following this resolution, ARPAE’s permits and
+concessions department announced the start of the AIA Review procedure.
+
+Recovery plant qualification for Hera Group’s waste-to-energy plants
+
+Directive 2008/98/EC, implemented in Italy by Legislative Decree 205/2010, introduces a criterion to
+calculate energy efficiency which makes it possible to classify a municipal waste incineration plant as an
+energy recovery plant. This criterion makes it possible to calculate the energy efficiency of the incineration
+process on the basis of the energy introduced with the waste, the amount of energy consumed and the
+amount of energy produced (thermal and electrical). In order to ensure that the methods used to apply this
+criterion are consistent, a reference document has been issued at European level to calculate energy
+efficiency.
+
+The formula used to calculate energy efficiency provided by Directive 2008/98/EC is, in fact, a performance
+index. Therefore, it does not match the plant performance calculated using the classical thermodynamic
+criteria, but is an indicator of energy recovery capacity aimed at comparing different plants.
+
+In addition, Decree 134 of 19 May 2016 of the Italian Ministry of the Environment and for the Protection of
+Land and Sea, added a “climatic factor” to the formula to account for the climate type at the plant’s
+location. This factor was added to offset climate-related effects both on electricity generation and on the
+quantity of unused heat produced; in fact, the energy performance of plants located in countries with
+warm climates is “physiologically” lower than those of plants located in colder areas. As well as reflecting
+the quality of the investments made over the years to upgrade the plants to use the best available
+techniques, the status of “recovery plant” also makes it possible to attribute to the plant a role of primary
+importance in the waste management system.
+
+In fact, while the municipal waste to be disposed of is subject to the “principle of self-sufficiency in the
+water and waste regulatory area (ATO)”, the municipal waste to be recovered is subject to the “principle of
+proximity”, meaning that it can be sent to the nearest recovery plant, not necessarily located in the same
+ATO (Waste Regulatory Authority area) it is located in.
+
+After having determined compliance with the energy efficiency criterion, as set by the regulation, the
+authorization that governs its activities (Integrated Environmental Authorization) must be modified so that
+an incineration plant can be operated as a recovery plant. These changes to the authorization are not
+substantial since they do not increase the plant’s potential nor change previously-authorized emission
+levels.
+
+All the waste-to-energy plants operated by the Herambiente Group (including those of Hestambiente) are
+R1 recovery plants, except for the Ravenna special waste plant (F3). In this regard, an evaluation process is
+being initiated in European round-tables to define a common criterion to assign R1 operation also to special
+waste plants.
+
+The total installed capacity of the WTE plants managed by the Group (besides that of Ravenna) is
+approximately 140 MWe (equivalent to a medium-small thermoelectric power plant).
+
+The Community framework further investigated the matter, determining at European level a climate
+correction factor (CCF) applicable to the R1 energy efficiency formula, in Commission Directive (EU)
+
+76
+

@@ -1,0 +1,87 @@
+5.1.6 Emissions in the atmosphere
+
+5.1.6.1 DIFFUSE EMISSIONS
+
+Pe The entire area of the terminals is affected by the presence of diffuse
+
+emissions, mainly attributable to:
+
+e Exhaust gas emissions from handling equipment;
+
+ 
+
+e methane, sulphates and other emissions from purification plants
+Pastis il
+Pas (only for TDT).
+
+ea
+
+To such emissions the following ones add up from neighbouring activities
+upstream and downstream of the process (treated in the indirect aspects
+section, paragraph 5.2), like:
+
+ 
+
+Pa
+
+19 sem e Exhaust gas emissions from vessels, trucks and trains in transit;
+
+e diffuse dust emissions from the filling operations of the reclaiming tank
+with dredging sludge (TDT only).
+
+(re) §—CO, emissions related to diffuse direct and indirect emissions due to
+diesel and electricity consumption are quantified and reported in
+paragraph 5.1.6.1 “Diffuse emissions” (air pollutant).
+
+= Emissions related to diffuse direct and indirect emissions due to the
+itn consumption of diesel and electricity can be quantified in terms of
+emission of tons of CO,equivalent and greenhouse gases.
+
+ 
+
+The production of these substances depends, in addition to the type of diesel used, on
+he conditions of use and the technologies used (especially with reference to NM-VOC,
+CO, PM)"; it is therefore recalled how the reported values are useful at an indicative
+level to evaluate the trend over time, in order to have an indication on the polluting
+potential of the equipment, even if they may differ significantly from the real emissions
+into the atmosphere. The plurality of equipment types and conditions of use does not
+currently allow a more accurate estimate for the purposes of the report.
+
+The terminals intervened (where possible for budgets, types of vehicles available on
+he market and fuel available on site) by replacing the older vehicles with new vehicles
+(cranes and reachstackers for TDT, reachstackers for SECH), designed to reduce NO,
+nitrogen emissions at the exhaust, through the Selective Catalytic Reduction (SCR)
+system, which works by adding urea to the exhaust gases.
+
+Below are some tables showing the quantification of pollutant emissions deriving from
+he combustion of diesel engines of yard equipment. The calculation of the emissions
+was estimated using standard emission factors reported in “EMEP / EEA - Emission
+nventory Guidebook 2013" published by the EEA".
+
+ 
+
+17.NM-VOC: non-methane volatile organic compounds; CO: carbon monoxide; PM: particulate matter.
+18. European Environment Agency: “Non-road mobile sources and machinery”, GB, 2013.
+
+2019 Sustainability Report
+
+S
+i=
+=
+a
+=?
+FE
+Ee
+a
+rq
+fe
+fq
+=
+Fa
+Ss
+E4
+S
+Fra
+
+ 
+

@@ -1,0 +1,72 @@
+Bilancio Individuale 2017
+
+ 
+
+strumento, mediante un processo dij targeting in grado di integrare i dati tradizionali con i feedback provenienti
+dalla rete commerciale e da tutti i canali remoti, permettera l’ottimale proposizione delle offerte (via ATM, Sito,
+Home Banking, etc) anche in ottica “real time”.
+
+La rete commerciale potra inoltre beneficiare di miglioramenti funzionali degli strumenti di Front End (FEU), finaliz-
+zati a semplificare l'operativita dei gestori e favorirne l'eventuale interazione con il Customer Center.
+
+Nel corso dell’anno sono stati sviluppati e rilasciati due modelli predittivi sulla customer base del Gruppo BPB, in
+collaborazione con la societa di consulenza Crisma: il next best product e il customer lifetime value. || primo modello
+individua il prossimo miglior prodotto/servizio da proporre al cliente; il secondo, invece, attribuisce ad ogni cliente
+il suo valore, in termini di potenzialita generata durante la sua relazione con la banca. Entrambi i modelli offriranno
+validi criteri di targeting nelle iniziative commerciali del 2018, oltre a rappresentare un valido strumento qualitativo
+per il gestore, nel percorso di conoscenza del cliente.
+
+Sono stati, inoltre, oggetto d’analisi, test e interventi di miglioria/reingegnerizzazione quasi tutte le strutture tabel-
+lari e gli indicatori del Database Commerciale (il Data Mart utilizzato dal CRM della Banca per le attivita di analisi,
+profiling e monitoraggio dei clienti), al fine di rendere sempre piu coerente, integro e multiforme il patrimonio infor-
+mativo della clientela.
+
+Sempre in ottica di “conoscenza del cliente e sua centralita nella relazione con la Banca’, é stata avviata un’indagine
+di customer experience e customer satisfaction con il supporto di una delle maggiori societa italiane di ricerche di
+mercato Doxa, basata su interviste telefoniche alla clientela, focalizzate sulla rilevazione e successiva misurazione
+del loro livello di soddisfazione.
+
+Dal lato operativo |'Area Canali Diretti, nata nel 2016 dalla fusione del Customer Center e della Filiale Online, ha pro-
+seguito nel supporto all’attivita commerciale contribuendo fin da subito tramite l'integrazione delle diverse modalita
+di contatto.
+
+In particolare nel 2017 l'Area Canali Diretti ha avuto un sensibile incremento delle risorse allocate su 6 diversi poli
+territoriali, garantendo un maggiore contributo in termini qualitativi e quantitativi sui seguenti_ fronti:
+
+* Customer Center attivita inbound: rispetto al 2016 le attivita gestite sono cresciute del 30% con un ulteriore
+aumento della complessita e della tipologia (raddoppiato il numero di chat ed email), supportando le principali
+iniziative della Banca verso la clientela Retail (Assemblea dei Soci, campagne di animazione commerciale, cam-
+pagne pubblicitarie ed iniziative di sponsorizzazione/eventi) oltre che in maniera mirata per la crescente clientela
+online. Nel corso dell’anno é stato portato a termine il progetto di centralizzazione delle chiamate dalle filiali al
+Customer Center (al momento attivato sulle prime 60 filiali). Oltre il 30% delle chiamate gestite ha ricevuto una
+informativa o proposizione commerciale per servizi e prodotti della Banca. Per quanto riguarda il controllo della
+qualita del servizio é stato introdotto un questionario per i clienti alla fine di ogni chiamata inbound che ha regi-
+strato un voto medio anno di 4 su una scala da 1a 5.
+
+* Customer Center attivita outbound: le attivita sono rimaste sostanzialmente stabili rispetto al 2016 anche se
+con una maggiore efficacia commerciale in quanto gestite da risorse interne alla Banca. Significativo invece
+lincremento delle attivita di spinta commerciale via email e via sms verso i clienti passate da 230.000 contatti a
+600.000 contatti nel 2017. In crescita anche le attivita di caring principalmente orientate verso la nuova clientela
+online.
+
++ Filiale Online: nel corso dell’anno é stato lanciato il nuovo conto Quick supportato da campagne commerciali che,
+in particolare, in primavera ed autunno hanno permesso di acquisire quasi 2.000 nuovi clienti. La Filiale Online é
+stata ulteriormente rafforzata in termini di risorse e competenze ed ha beneficiato per processi di acquisizione
+e gestione della nuova clientela delle sinergie con il Customer Center migliorando, in maniera importante anche
+il cross selling generato sulla clientela online.
+
++ Nucleo Sviluppo: nel secondo semestre del 2017 é stato awiato in modalita sperimentale il nuovo canale com-
+merciale degli sviluppatori con l’obiettivo di massimizzare l’acquisizione di nuova clientela prospect per la Banca
+e presidiare in maniera strategica il territorio in sinergia con la rete delle filiali ed i Canali Diretti. La struttura é
+dotata di un sistema di pianificazione e rendicontazione dell'attivita commerciale automatizzato ed ha contribu-
+ito, fin da subito, alle attivita commerciali promosse dall'lstituto.
+
+Nel 2018, il Gruppo proseguira il suo percorso finalizzato alla realizzazione di un completo modello multicanale
+che migliori la digital customer experience; a tal fine, in particolare, sara rilasciato a tutti i Clienti il nuovo servizio
+di Internet e Mobile banking con logiche in forte discontinuita rispetto all'attuale piattaforma, oltre all’ulteriore am-
+pliamento della gamma dei prodotti vendibili online (nello specifico con soluzioni in ambito impieghi e risparmio).
+
+ 
+
+39
+

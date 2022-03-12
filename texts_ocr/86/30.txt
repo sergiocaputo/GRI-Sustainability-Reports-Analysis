@@ -1,0 +1,206 @@
+Tutela delle persone, dei
+prodotti e dei processi
+
+Nelle attivita quotidiane di raccolta
+e gestione dei dati riferibili a
+rsone e transazioni, Lottomatica
+
+  
+
+p
+
+&@ consapevole di assumersi un alto
+grado di responsabilité nei confronti
+di individui, partner e mercati. Oltre
+
+   
+
+al costante controllo e miglioramento
+
+ 
+
+delle procedure interne affinché
+vengano implementati processi
+efficaci pienamente conformi ai
+
+di Legge,
+Lottomatica persegue lobiettivo
+
+requisiti € al regolamenti
+
+ 
+
+fondamentale di conservare la fiducia
+alla base della relazione con tutti gli
+
+O
+
+stakeholder. Programmi e soluzioni
+
+ 
+
+ 
+
+di conseguen
+
+ 
+
+NO progettati per
+
+ 
+
+garantire la tra
+aspetti del gioco e la protezione dei
+
+dati.
+
+ 
+
+enza in tutti gli
+
+Cybersecurity
+
+Lottomatica adotta un modello di
+yestione della sicurezza Information
+
+  
+  
+
+   
+
+Communication Technologies
+
+ 
+
+) costituito da processi e
+
+dai prodotti, servizi e processi, alle
+
+a massima sicurezza end-to-end
+transazionie ai clienti.
+
+La funzione ICT Security di
+Lottomatica garantisce la sicurezza
+dei prodotti e delle soluzion
+sviluppate gia a partire dalle fasi d
+
+ 
+
+analisi e progettazione dei sistemi,
+in base a security impact analysis
+
+e valutazioni di rischio in grado di
+assicurare la conformita normativa e
+il rispetto degli s
+oltre, prima d
+
+andard di sicurezza
+
+ 
+
+informatica. |
+
+ 
+
+nlascio
+
+ 
+
+in produzione, vengono effettuat
+per lidentifica
+
+ 
+
+test di sicurez
+
+   
+
+e la risoluzione preventiva di
+
+ 
+
+  
+
+ 
+
+LA PROMOZIONE DELLA RESPONSABILITA
+
+ 
+
+ 
+
+eventuali criticita. viene verificata da costanti an
+
+static
+
+ 
+
+dinamiche di vulnerabilita.
+
+   
+
+Larchitettura a difesa dellinfrastruttura La sicurezza infrastrutturale si avvale
+nformatica e delle informazioni
+comprende quattro ambiti d
+
+one: sicurezza funzionale, di
+
+ 
+
+di soluzioni trasversali, come “security
+incident and event management” e
+“identity and access management ,
+so, infrastrutturale e fisica. Oltre | completata dalle soluzioni d
+
+alla sicurezza funzionale (per esempio sicurezza per la protezione fisica
+
+  
+
+controllo accessi e la crittografia di di edifici e ambienti, come la
+
+ 
+
+dati e canall), la s a di processo
+
+oO
+
+Z.
+
+ 
+
+videosorveglianza e luso dei badge
+
+PRESERVARE LA FIDUCIA DEI CLIENTI
+
+Il modello di gestione della sicurezza ICT, adottato da Lottomatica, garantisce
+l'integrazione delle misure per la sicurezza e la compliance normativa dei
+prodotti e delle soluzioni sviluppate, sin dalle primissime fasi di progettazione.
+Inoltre, i test di sicurezza per l’identificazione e la risoluzione preventiva
+
+di eventuali criticita sono effettuati prima del rilascio in produzione. Tale
+approccio, in aggiunta alla strategia di “difesa in profondita’, esequita
+mediante l’adozione delle soluzioni tecnologiche di sicurezza pit innovative e
+la costante attenzione alla prevenzione e al contrasto delle frodi informatiche,
+garantisce i piu elevati standard di sicurezza per i clienti finali.
+
+Le soluzioni specifiche per il monitoraggio e il contrasto degli attacchi
+informatici mirati al furto delle credenziali e delle informazioni personali dei
+clienti, comprendono:
+
+* La soluzione Anti-Phishing che permette l’identificazione tempestiva di
+portali clone, ossia siti web fraudolenti creati con l’intento di rubare le
+credenziali degli utenti;
+
+* ll monitoraggio continuo di Internet e degli store delle App mobile che
+consente di individuare eventuali App non ufficiali oppure domini Internet
+fittizi che utilizzano impropriamente loghi e marchi di Lottomatica e che
+Lome MaMa llama tart h
+
+* ll monitoraggio continuo delle zone di raccolta ed interscambio di dati delle
+carte di credito rubate dai Cyber-criminali attraverso attacchi di phishing
+(Drop Zone), che permette l’identificazione e la sospensione cautelativa
+delle carte prepagate emesse dall/Azienda e precedentemente oggetto di
+furto su portali clone di terze parti.
+
+32
+

@@ -1,0 +1,55 @@
+ 
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalita di presentazione dei bilanci, metodologie e principi contabili applicati
+
+Contratti assicurativi
+
+| principi e i criteri di classificazione e valutazione di seguito esposti si riferiscono specificamente all’operativita delle compagnie
+assicurative del Gruppo Poste Italiane.
+
+| contratti sono distinti e valutati in base alla prevalenza della loro natura fra assicurativi e finanziari. | contratti emessi dalla com-
+pagnia Poste Vita S.p.A. sono relativi ai Rami Vita. Dal 2010 é operativa nei Rami Danni la compagnia Poste Assicura S.p.A..
+
+| criteri di classificazione e valutazione delle principali fattispecie esistenti nel Gruppo sono i seguenti.
+
+Contratti assicurativi
+
+| contratti classificati come assicurativi in base alle disposizioni dell’IFRS 4 si riferiscono alle polizze Vita di Ramo |, Ramo V, le
+polizze di Ramo Ill qualificate come contratti assicurativi e i contratti dei Rami Danni. Tali prodotti sono classificati tra i ricavi e
+rilevati nel modo che segue:
+
+= i premi, contabilizzati al momento della sottoscrizione, vengono iscritti tra le componenti positive di reddito (ed esposti al
+netto delle cessioni in riassicurazione); comprendono, al netto degli annullamenti, gli importi maturati nell’esercizio per premi
+annuali, unici o pluriennali, derivanti da contratti di assicurazione in essere alla data di bilancio;
+
+= a fronte delle componenti positive di reddito dovute ai premi, € accantonato alle riserve tecniche l’importo degli impegni
+verso gli assicurati, calcolati analiticamente per ciascun contratto con il metodo prospettico, sulla base di assunzioni attua-
+riali appropriate per fronteggiare tutti gli impegni in essere. La variazione in aumento delle riserve tecniche e gli oneri relativi
+ai sinistri sono iscritti tra le Componenti negative di reddito, mentre un eventuale decremento delle riserve tecniche, rispetto
+al periodo precedente, sara iscritto tra i componenti positivi di reddito.
+
+Contratti relativi a Gestioni separate con
+partecipazione discrezionale agli utili
+
+Per i contratti relativi alle Gestioni separate e contenenti un elemento di partecipazione discrezionale agli utili#* (c.d. DPF,
+Discretionary Participation Feature come definito nell’Appendice A all’IFRS 4), I'IFRS 4 rimanda alla disciplina contabile prevista
+dai principi nazionali; trattasi, in particolare, di contratti classificati come “finanziari”, ma contabilizzati come “assicurativi” con
+le seguenti modalita:
+
+= i premi, la variazione delle riserve tecniche e gli oneri relativi ai sinistri sono rilevati in modo analogo a quanto previsto per i
+contratti assicurativi sopra descritti;
+
+= le quote di utili e perdite da valutazione di competenza degli assicurati sono loro attribuite e rilevate nelle riserve tecniche
+(passivita differite verso gli assicurati) secondo il meccanismo dello shadow accounting (IFRS 4.30).
+
+La tecnica di calcolo utilizzata per l’applicazione del metodo dello shadow accounting si basa sulla determinazione del rendi-
+mento prospettico di ogni Gestione separata, tenendo conto di un ipotetico realizzo delle plusvalenze e minusvalenze latenti
+lungo un orizzonte temporale coerente con le caratteristiche delle attivita e passivita presenti nel portafoglio. Per la determi-
+nazione della quota da rilevare nella specifica passivita differita verso gli assicurati si tiene conto altresi, per ciascuna Gestione
+separata, delle clausole contrattuali, dei livelli di minimo garantito e delle eventuali garanzie finanziarie offerte.
+
+43. Partecipazione, da parte degli assicurati, ai rendimenti realizzati dalla Gestione separata.
+
+153
+

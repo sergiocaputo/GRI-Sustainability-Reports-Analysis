@@ -1,0 +1,226 @@
+90
+
+Universita degli Studi di Firenze e Bilaneie Sociale 2018
+
+5.2.4 Fattori di emissione per consumi di
+
+gas e gasolio
+
+Analogamente a quanto fatto per l’elettrici-
+
+ta, ii fattore di emissione di CO, per gas e ga-
+
+solio sono desumibili da diverse fonti quali:
+
++ ISPRA National Inventory report;
+
++ Ministero dell’Ambiente — tabella parame-
+tri standard nazionali;
+
++ dati del fornitore di gas.
+
+Il GdL RUS, suggerisce di usare, ove disponi-
+
+bilii dati specifici del fornitore; in assenza di
+
+questi dati, si suggerisce di usare i dati pro-
+
+posti dal ministero dell'Ambiente e riporta-
+
+ti nella Tabella 5.3 per l’'anno 2018 (ottenuti
+
+come media dei valori 2014-2017). Per gli an-
+
+ni precedenti, le differenze fra i dati dei diver-
+
+si periodi sono dal GdL RUS ritenute minime
+
+e quindi trascurabili.
+
+5.2.5 Consumi per fonte energetica
+
+Le fonti energetiche non rinnovabili principa-
+li a servizio dell’Ateneo sono rimaste invaria-
+te rispetto agli anni precedenti (vedi Tabelle
+5.4e5.5) esono costituite da energia elettri-
+cae gas, che rappresentano rispettivamente
+il 78,8% e il 19,8% dell’energia fornita espres-
+sa in tep** (tonnellate equivalenti di petrolio)
+e quindi complessivamente oltre il 98% del
+consumo energetico annuale, mentre il gaso-
+lio, maggiormente inquinante, con I'l % @ una
+fonte energetica oramai trascurabile in ter-
+mine di emissioni, e presente in solo sei cen-
+trali termiche.
+
+\l gasolio per autotrazione ammonta a 16.263
+It e quindi pari a circa il 13,8% del consumo
+complessivo di gasolio.
+
+Nella Tabella 5.6, per l’anno di riferimen-
+to 2018, sono riportati i consumi energetici,
+suddivisi per fonte e convertite in tep al fine
+di poter avere un confronto coerente in ter-
+mini energetici, da cui si evince un fabbiso-
+gno annuo totale di energia di 8984,2 tep, in
+leggero calo rispetto al 2016 e al 2017.
+
+Nelle figure sono riportati rispettivamente
+\'andamento dei consumi per I’energia elet-
+trica, per il gas ed il gasolio espressi in TEP.
+
+** Per convenzione, i consumi per fonte vengono
+riportati in tep (tonnellate equivalenti di petrolio)
+di energia primaria. II calcolo del tep si differen-
+zia a seconda del tipo di fonte e della convenzio-
+ne di normalizzazione tecnica adottata. Nel caso
+in esame si sono assunti i coefficienti di conversio-
+ne adottati da FIRE in base alla circolare MISE del
+18.12.2014: 1 MWh di energia elettrica provenien-
+te dalla rete equivale 0,187 tep, mentre 1000 sm?
+di gas equivalgono a circa 0,83 tep; tali valori sono
+stati usati in Tabella 5.1
+
+   
+
+  
+
+Periodo mbustibile
+Gas naturale (metano)
+Gasolio riscaldamento
+2014-2016 — (dati sperimentali)
+
+GPL (Gas di petrolio liquefatto)
+(dati sperimentali)
+
+1,964
+
+Ll eee
+
+55,90 35,13
+
+73,58 3,155 42,88
+
+3,026 46,14
+
+@ Tabella 5.3. Fattori di emissione per Gas, GPL, Gasolio riscaldamento (valori medi 2014-2016 con anno
+
+di riferimento il 2017 e assunti validi per il 2018)
+
+Fonte o vettore energetico
+pea os tep
+
+Gasolio
+
+Benzine autotrazione
+
+Gas naturale
+
+Elettricita approwvigionata dalla rete elettrica
+
+Elettricita prodotta in loco da idraulico, eolico e fotovoltaico
+
+Totale consumi espressiin TEP
+
+117.143,0 _litri 100,743
+46.914,0 — litri 35,889
+2.087.540,0 Sm? 1,745,183
+37.873,4 MWh 7.082,335
+54,5 MWh 10,192
+8.974,3
+
+@ Tabella 5.4. Consumi energetici di Ateneo per fonte (anno di riferimento 2016)
+
+Fonte o vettore energetico antita da | Unita 0 ec)
+OT convertita in tep
+
+Gasolio
+
+Benzine autotrazione
+
+Gas naturale
+
+Elettricita approwvigionata dalla rete elettrica
+
+Elettricita prodotta in loco da idraulico, eolico e fotovoltaico
+
+Totale consumi espressiin TEP
+
+@ Tabella 5.5. Consumi energetici di Ateneo per fonte (anno di riferimento 2017)
+
+Fonte o vettore energetico E] da} Uni
+ay
+
+Gasolio
+
+Benzine autotrazione
+
+Gas naturale
+
+Elettricita approwvigionata dalla rete elettrica
+
+Elettricita prodotta in loco da idraulico, eolico e fotovoltaico
+
+Totale consumi espressiin TEP
+
+ 
+
+119.577,0 itr 102,836
+46.9140 — litri 35,889
+2.063.455,0 Sm3 1.725,048
+39.598,7_ MWh 7.404,952
+58,0 MWh 10,837
+9.279,6
+
+convertita in tep
+
+117.9034 — litri 101,397
+46.9140 — litri 35,889
+2.172.845,4 Sm 1.816,499
+37.244,6 MWh 6.964,744
+47,6 MWh 8,897
+8.927,4
+
+@ Tabella 5.6. Consumi energetici di Ateneo per fonte (anno di riferimento 2018)
+
+143 ier Gasolio | Totale anno
+(Tep) (Tep) | (Tep) (Tep) Fee on
+
+2010 7626 1941 191 9758
+2011 7120 1940 145 9205
+2012 7199 1912 38 9209
+2013 7077 1829 38 3004
+2014 6753 1763 89 8605
+2015 7583 1818 103 9504
+2016 7082 1725 101 8908
+2017 7405 1755 103 9263
+2018 6952 1782 34 8828
+
+40'781 18270 4627
+
+38'077 16678 4625 464
+38'499 16478 4558 313
+37'845 14268 4360 313
+36'113 12965 4203 285
+40'549 14922 4334 329
+37'873 13445 4n2 323
+39'599 14295 4184 329
+37'174 13420 4248 301
+
+@ Tabella 5.7. Consumi energetici di Ateneo per fonte e relative emissioni di CO, (2010-2018)
+
+Nei consumi di gasolio sono compresi quelli
+per autotrazione.
+
+Dai dati si rileva che la quota di energia elet-
+trica prodotta da fonti rinnovabili in questo
+periodo ammonta a 0,12 %: se si riflette sul
+fatto che le norme attuali prevedono per gli
+
+edifici pubblici di nuova costruzione, 0 sog-
+getti a importanti ristrutturazioni, un con-
+sumo massimo di energia da fonti tradizio-
+nali (per climatizzazione estiva ed invernale
+e ACS) non superiore al 40% del fabbisogno
+energetico globale, con le dovute proporzioni
+

@@ -1,0 +1,84 @@
+The ICT policy defines the following:
+
++ information security responsibilities of Reply’s
+ICT and more generally of the personnel involved
+in central information system management,
+the individual operating companies, and Reply
+personnel;
+
+* asset management methods (for example,
+servers, laptops, etc.) to ensure that assets are
+identified and classified so that the company is
+fully aware of their existence and can implement
+appropriate measures to protect them;
+
++ logical access control methods to prevent
+unauthorised processing of information by
+defining correct access and methods for users;
+
++ physical protection of IT assets to ensure
+physical security of information, preventing
+unauthorised access to company premises,
+and guaranteeing an adequate security level of
+information processing resources;
+
++ operative management methods of systems,
+networks, and telecommunications to ensure
+the attainment of a high level of logical security
+for the data processed through information
+infrastructures;
+
++ information system development, maintenance,
+and acquisition to ensure that IT systems
+(applications, operating systems, middleware,
+etc.) are developed or acquired and maintained
+over time ensuring integrity, confidentiality, and
+availability of information;
+
++ relationships with third parties and outsourcers
+to ensure the security of business assets also
+when third parties/outsourcers are involved,
+monitoring their access to information and work
+
+areas;
+
++ security incidents management to ensure the
+design and implementation of solutions to identify
+and manage unexpected events or incidents, also
+considering the need to maintain adequate levels
+of continuity despite unforeseen events that may
+have a serious impact on business;
+
++ business continuity management guidelines to
+ensure the continuity of ICT services that must
+also be available in emergency situations;
+
++ compliance criteria to ensure that the Group’s
+operations and information security management
+methods are implemented in compliance with
+standards, regulations, and contracts stipulated
+
+with third parties.
+
+Reply has adopted a policy for supplying services
+on behalf of the customer, with the scope of
+providing guidelines to all Group employees
+regarding conduct to be observed to ensure that
+services provided are in line with current legislation
+and to prevent computer crimes (Legislative Decree
+231/01; Legislative Decree 196/03).
+
+The Group has formalised a policy regarding
+conduct rules and regulations for the secure
+management of assets and information to
+
+define the rules that all personnel must respect to
+guarantee the correct and secure use of assets
+made available by the company (premises and
+physical resources, paper documentation, ICT tools
+and company services).
+
+The policy was adapted to local legal requirements
+in the European countries where Group subsidiaries
+are based.
+

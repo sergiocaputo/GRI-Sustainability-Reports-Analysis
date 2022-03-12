@@ -1,0 +1,62 @@
+| consumi di energia
+
+ 
+
+GRI302-1
+
+ 
+
+ 
+
+ 
+
+Unita di
+ALU E-]
+
+Fonte energetica
+
+ 
+
+Carburante per attivita di supporto (automezzi,
+gruppi elettrogeni di emergenza, riscaldamento _Tep 293,162 295,595
+uffici)
+
+Gjoule 12.274 12.376
+
+Energia elettrica
+
+ 
+
+Acquedotto kWh 22.007.612 21.187.773
+Fognatura 4.769.614 5.458.772
+Depurazione 24.813.955 25.061.195
+Altro 625.538 573.532
+Totale 52.216.719 52.281.272
+Acquedotto Gjoule 79.227 76.276
+Fognatura 17.171 19.652
+Depurazione 89.330 90.220
+Altro 2.252 2.065
+Totale 187.980 188.213
+Di cui: Energia elettrica — autoprodotta
+mpianto fotovoltaico kWh 543.000 520.000
+Gjoule 1.954,8 1.872,0
+Totale complessivo Gjoule 200.254 200.589
+
+(1) L’energia prodotta dall’impianto fotovoltaico non @ stata sommata in quanto compresa nel totale complessivo
+dell’energia elettrica consumata.
+
+| consumi di energia di carburanti per autoveicoli sono relativi ai mezzi aziendali circolanti
+(autovetture, autocarri leggeri inferiori ai 35q.li ed autocarri pesanti superiori ai 35 q.li), per un totale
+di 190 mezzi, di cui 180 a gasolio, 8 a benzina e 2 alimentati a metano. Le quantita di carburanti sono
+state stimate sulla base del costo sostenuto, del costo medio del carburante e dei consumi medi per
+le diverse tipologie di mezzi utilizzati. II dato non risulta disponibile per esercizio 2016. La politica dei
+fornitori per il futuro passa anche attraverso affidamenti tramite gara ad officine strutturate per il
+corretto servizio affidato rispettoso degli adempimenti in materia ambientale
+
+| mantenimento dell'efficienza di tre impianti fotovoltaici con produzione per autoconsumo a servizio
+
+di tre tra i principali impianti di potabilizzazione/depurazione ha contribuito alla riduzione delle
+emissioni, mediante I'utilizzo di una energia rinnovabile, quale quella solare.
+
+acquevenete - Bilancio di sostenibilita 2017
+

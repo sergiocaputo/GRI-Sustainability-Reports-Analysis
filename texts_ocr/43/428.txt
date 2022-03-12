@@ -1,0 +1,164 @@
+10. Glossario
+
+ 
+
+Mercati emergenti
+Si definiscono cosi i mercati finanziari dei Paesi in via di svilup-
+po. Questi mercati offrono notevoli opportunita di ottenere
+elevati rendimenti, ma sono caratterizzati da un elevato grado
+di rischio e volatilita.
+
+Mercato
+
+E il luogo dove si incontrano domanda e offerta di uno o pil
+beni o servizi, e dove questo incontro porta alla definizione di
+un prezzo a cui i venditori sono disposti a cedere i propri beni
+e gli acquirenti ad acquistarli.
+
+Mercato interbancario
+
+Mercato del denaro residuale, offerto dalle banche con eccesso
+di liquidita e prelevato dalle banche che necessitano di risorse
+liquide. L'awento dell’euro ha creato un unico grande mercato
+interbancario europeo il cui tasso di riferimento é |’Euribor.
+
+Mercato interbancario dei depositi (e-MID)
+Mercato per la negoziazione di depositi interbancari attraver-
+so il circuito telematico gestito dalla societa e-MID S.p.A..
+
+Mercato primario
+Complesso delle operazioni di sottoscrizione o collocamento
+di titoli fra il pubblico.
+
+Mercato secondario
+Mercato nel quale si trattano titoli gia in circolazione.
+
+Mercato Telematico Azionario (MTA)
+
+Comparto della Borsa valori italiana in cui si negoziano azioni or-
+dinarie, azioni privilegiate, azioni di risparmio, obbligazioni con-
+vertibili, diritti di opzione, warrant, covered warrant, certificati
+rappresentativi di quote di fondi chiusi mobiliari e immobiliari.
+
+Mezzanine bond
+
+In un‘operazione di cartolarizzazione, é la tranche con grado
+di subordinazione intermedio tra quello della tranche junior e
+quello della tranche senior.
+
+MiFID
+
+Markets in Financial Instruments Directive, é la Direttiva
+2004/39/CE del Parlamento Europeo e del Consiglio del 21
+aprile 2004, in materia di servizi di investimento nel settore
+degli strumenti finanziari.
+
+MiFID 2
+
+La nuova direttiva europea sui servizi di investimento rientra
+nell’obiettivo di creazione di un mercato unico dei servizi finan-
+ziari in Europa, nella quale vengono assicurate una completa e
+corretta informativa per gli investitori, la gestione dei potenziali
+conflitti di interesse e un‘adeguata profilatura del cliente.
+
+Moneta
+
+Strumento di pagamento convenzionalmente accettato per
+l‘acquisto di beni e servizi. Costituisce il mezzo universale de-
+gli scambi. II suo utilizzo si fonda sulla fiducia degli operatori
+economici nei confronti dell’ente emittente, la banca centrale.
+
+Monte Titoli S.p.A.
+
+Societa per azioni che svolge il ruolo di gestione accentrata dei
+titoli azionari e delle obbligazioni emesse da societa private. Gli
+strumenti finanziari quotati in Italia sono sottoposti al regime
+di dematerializzazione e all'obbligo di accentramento presso
+Monte Titoli che ne registra ogni passaggio di proprieta.
+
+Fideuram - Intesa Sanpaolo Private Banking Annual Report Integrato 2019 ——. 425
+
+Morgan Stanley Capital International All Country World
+Index (MSCI ACWI)
+
+Indice che misura |’andamento dei prezzi delle principali
+aziende quotate nel mondo. L'indice, per la vastita della base
+di calcolo, riflette la situazione media dei mercati azionari di
+tutto il mondo e fornisce indicazioni sull‘’andamento del va-
+lore di un ipotetico investimento azionario sul mercato mon-
+diale, calcolato come media ponderata delle performance dei
+mercati regionali. LMSCI ACWI si compone di 49 indici nazio-
+nali, di cui 23 composti da titoli scambiati su mercati di Paesi
+sviluppati, 26 su mercati di Paesi emergenti.
+
+NASDAQ
+
+Acronimo di National Association of Securities Dealers Auto-
+mated Quotation. E il mercato azionario telematico statuni-
+tense che tratta titoli solitamente a capitalizzazione inferiore
+rispetto a quelli trattati sul New York Stock Exchange.
+
+Net Asset Value (NAV)
+E il valore della quota in cui é frazionato il patrimonio dei fondi.
+
+Net Promoter Score (NPS)
+
+E un indicatore che misura la propensione dei clienti a
+
+consigliare un prodotto, un servizio 0 un‘azienda. L'NPS si
+
+basa su una semplice domanda posta al cliente per rilevare
+
+quanto consiglierebbe |’azienda a un amico, parente o impre-
+
+sa partner (a seconda dell’interlocutore). Sulla base del giudi-
+
+zio espresso, i rispondenti vengono suddivisi in:
+
+- detrattori: clienti insoddisfatti che potrebbero danneggiare
+\'azienda attraverso un passaparola negativo;
+
+- passivi: clienti soddisfatti ma non affezionati, che potrebbe-
+ro essere influenzati dalla concorrenza;
+
+- promotori: clienti fedeli all’azienda che la consigliano ad al-
+tre persone.
+
+UNPS viene calcolato sottraendo la percentuale di detrattori
+
+alla percentuale di promotori ottenuta. II risultato pero non
+
+viene espresso in punti percentuali, ma come numero assolu-
+
+to compreso tra -100 e +100.
+
+Network Italiano Business Reporting (NIBR)
+Associazione che rappresenta il referente italiano ufficiale per
+il World Intellectual Capital Initiative (WICI) a livello globale ed
+europeo con |'obiettivo di fornire un contributo rilevante allo
+sviluppo del Business Reporting, specie nella sua dimensione
+non finanziaria e riferita agli intangibili, tramite l'individuazio-
+ne di KPls settoriali, critici per lo sviluppo delle organizzazioni
+e la gestione della loro capacita di creazione di valore.
+
+New York Stock Exchange (NYSE)
+
+Borsa valori di New York, la pit grande del mondo per volume
+di scambi. II NYSE é@ stato fondato nel 1817 e nel 2007 si é
+fuso con Euronext creando un mercato dei capitali globale
+che comprende anche i principali mercati europei.
+
+Nikkei 225
+
+Indice della Borsa di Tokyo costituito dalle prime 225 azioni
+quotate nella prima sezione della Borsa, a pili elevata capita-
+lizzazione e liquidita.
+
+Obbligazione
+
+Titolo rappresentativo di un prestito contratto da una persona
+giuridica presso il pubblico. Incorpora due diritti: la restituzione
+del valore nominale a scadenza e il pagamento degli inte-
+ressi sull'importo (cedola). L'obbligazione frutta un interesse
+calcolato sul valore nominale, che puo essere fisso, variabile
+

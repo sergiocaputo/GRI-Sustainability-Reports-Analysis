@@ -1,0 +1,97 @@
+| 184 | Generali Group
+
+However, due to the complexity and uncertainty affecting
+the above mentioned items, future events and actions,
+actual results ultimately may differ from those estimates,
+possibly significantly.
+
+Further information on the process used to determine
+assumptions affecting the above mentioned items and
+the main risk factors are included in the paragraphs on
+accounting principles and in the risk report.
+
+Share based payments
+
+The stock option plans granted by the Board in past pe-
+riods configure as share based payments to compensate
+officers and employees. The fair value of the share options
+granted is estimated at the grant date and is based on
+the option pricing model that takes into account, at the
+grant date, factors such as the exercise price and the life
+of the options, the current price of the underlying shares,
+the expected volatility of the share price, the dividends ex-
+pected on the shares and the risk-free interest rate as well
+as the specific characteristics of the plan itself. The pricing
+model is based on a binomial simulation that takes into
+account the possibility of early exercise of the options. If
+present, the pricing model estimates separately the option
+value and the probability that the market conditions are
+satisfied. Therefore, the abovementioned values deter-
+mine the fair value of equity instruments granted.
+
+Long term incentive plans, aimed at strengthening the
+bond between the remuneration of management and ex-
+pected performance in accordance with the Group stra-
+tegic plan, as well as the link between remuneration and
+generation of value in comparison with peers, are also
+treated as an equity-settled share-based payment.
+
+The fair value of the right to obtain free shares in rela-
+tion to market condition is assessed at grant date and is
+based on a model that takes into account factors such as
+historical volatility of the Generali share price and of the
+peer group, the correlation between these shares, the div-
+idends expected on the shares, the risk-free interest rate
+as well as the specific characteristics of the plan itself. The
+pricing model is based on simulation models generally
+used for this type of estimation. Other conditions different
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+than market condition are considered external to this val-
+uation. The probability that these conditions are satisfied,
+combined with the estimated fair value of the right to ob-
+tain free shares, defines the overall plan cost.
+
+The cost is charged to the profit and loss account and, as
+a double-entry, to equity during the vesting period, taking
+into account, where possible, the probability of satisfac-
+tion of the vesting condition related to the rights granted.
+
+The charge or credit to the profit or loss for a period repre-
+sents the change in cumulative expense recognised as at
+the beginning and end of that period.
+
+No expense is recognised for awards that do not ultimate-
+ly vest, except for equity-settled transactions for which
+vesting is conditional upon a market or a non-vesting con-
+dition. These are treated as vested irrespective of wheth-
+er or not the market or non-vesting condition is satisfied,
+provided that all other performance and/or service condi-
+tions are satisfied.
+
+When the terms of an equity-settled award are modified,
+the minimum expense to be recognised is the expense
+had the terms had not been modified, only if the original
+terms of the award are met.
+
+An additional expense is recognized for any modification
+that increases the total fair value of the share-based pay-
+ment transaction, or is otherwise beneficial to the employ-
+ee as measured at the date of modification.
+
+When an equity-settled award is cancelled, it is treated as
+if it vested on the date of cancellation, and any expense
+not yet recognised for the award is recognized immedi-
+ately. This includes any award where non-vesting condi-
+tions within the control of either the entity or the employee
+are not met. However, if a new award is substituted for
+the cancelled award, and designated as a replacement
+award on the date that it is granted, the cancelled and new
+awards are treated as if they were a modification of the
+original award, as described in the previous paragraph.
+
+The dilutive effect of outstanding options is reflected as
+additional share dilution in the computation of diluted
+earnings per share.
+

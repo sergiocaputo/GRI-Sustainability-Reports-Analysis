@@ -1,0 +1,74 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+Criteri di cancellazione
+
+Le attivita finanziarie sono cancellate quando il diritto a ricevere i flussi di cassa dall'attivita finanziaria € estinto, o
+laddove siano trasferiti in maniera sostanziale tutti i rischi ed i benefici connessi alla detenzione di quella determi-
+nata attivita.
+
+ 
+
+Sezione 2 - Atti
+
+ 
+
+ita finanziarie disponibili per la vendita
+Criteri di classificazione
+
+Gli investimenti “disponibili per la vendita” sono attivita finanziarie (titoli del mercato monetario, altri strumenti di
+debito e di capitale) che si intende mantenere per un periodo di tempo indefinito e che possono essere vendute per
+esigenze di liquidita, variazioni nei tassi d'interesse, nei tassi di cambio e nei prezzi di mercato. In tale categoria sono
+esclusi i derivati mentre sono compresi gli investimenti in titoli azionari non di controllo, collegamento e controllo
+congiunto (cd. partecipazioni di minoranza).
+
+ 
+
+Liscrizione iniziale delle attivita finanziarie avviene alla data di regolamento (settlement date) se regolate con tem-
+pistiche previste dalla prassi di mercato (regular way), altrimenti alla data di contrattazione (trade date).
+
+Le attivita finanziarie disponibili per la vendita sono contabilizzate inizialmente al costo, inteso come il fair value dello
+strumento.
+
+Criteri di valutazione e rilevazione delle componenti reddituali
+Le attivita finanziarie disponibili per la vendita sono valutate al fair value, rilevando:
+
+* aconto economico, gli interessi calcolati con il metodo del tasso d’interesse effettivo, che tiene conto dell’ammor-
+tamento sia dei costi di transazione sia delle differenze tra il costo e il valore di rimborso (scarto di emissione);
+
+* apatrimonio netto, in una specifica riserva, al netto dell'imposizione fiscale, i proventi ed oneri che derivano dalla
+variazione del fair value. Tale variazione viene indicata anche nei prospetti relativi alla redditivita complessiva.
+
+Alcuni titoli di capitale non quotati, per i quali il fair value non risulta determinabile in modo attendibile o verifica-
+bile, anche in considerazione della rilevanza dei range di valori ritraibili dall’applicazione dei modelli di valutazione
+adottati nella prassi di mercato, sono iscritti in bilancio al costo, rettificato a fronte dell'accertamento di perdite per
+riduzione di valore.
+
+All'atto della cancellazione dell'attivita finanziaria dal bilancio (ad esempio nel caso di realizzo dell’attivita) o della ri-
+levazione di una perdita di valore, la riserva di patrimonio netto precedentemente costituita viene imputata a conto
+economico.
+
+Una perdita di valore é registrata a conto economico nel momento in cui il costo d’acquisizione (al netto di qualsiasi
+rimborso di capitale e ammortamento) eccede il suo valore recuperabile. Per gli investimenti azionari non quotati
+il valore di recupero é determinato applicando tecniche di valutazione comunemente utilizzate dagli operatori di
+mercato. Per gli investimenti azionari quotati, il valore di recupero é determinato sulla base del prezzo di mercato:
+si procede alla svalutazione se vi é un’evidenza oggettiva di una riduzione significativa o prolungata dei prezzi di
+mercato. Eventuali riprese di valore sono imputate a conto economico nel caso di titoli di debito ed a patrimonio
+netto nel caso di titoli di capitale. Lammontare della ripresa non pud in ogni caso superare il costo ammortizzato
+che lo strumento avrebbe avuto in assenza di precedenti rettifiche.
+
+La verifica dell’esistenza di obiettive evidenze di riduzione di valore viene effettuata ad ogni chiusura di bilancio o di
+situazione infrannuale.
+
+Criteri di cancellazione
+
+Le attivita finanziarie sono cancellate quando il diritto a ricevere i flussi di cassa dall'attivita finanziaria ¢ estinto, o
+
+laddove siano trasferiti in maniera sostanziale tutti i rischi ed i benefici connessi alla detenzione di quella determi-
+nata attivita.
+
+118
+
+ 
+

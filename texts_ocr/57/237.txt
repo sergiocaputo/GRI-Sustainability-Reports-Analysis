@@ -1,0 +1,103 @@
+Bilancio Individuale 2017
+
+ 
+
+Informazioni di natura quantitativa
+
+1. Pe
+si
+
+ 
+
+‘afoglio bancario: distribuzione per durata residua (per data di riprezzamento) delle attivita e delle pas-
+‘a finanziarie
+
+  
+ 
+
+La presente tavola non é stata redatta poiché di seguito viene fornita un’analisi di sensitivita al rischio di tasso di
+interesse basata su modelli interni ed altre metodologie.
+
+2. Portafoglio bancario — modelli interni e altre metodologie per l’analisi di sensitivita
+
+Nella presente sezione vengono sinteticamente esposti i risultati delle analisi di rischio di tasso di interesse nell'am-
+bito del portafoglio bancario. In particolare, le tabelle sotto riportate mostrano i dati relativi all'impatto sul margine
+di interesse (modello di “repricing flussi” con modellizzazione delle poste a vista) nell’ipotesi di una variazione paral-
+lela dei tassi di interesse di +/- 100 punti base.
+
+ 
+
+Modello di “Repricing Flussi” —\potesi di “shifting”
+Descrizione Shock +1% Shock -1%
+Valore al 31.12.17 +30.287 -27.964
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dati in migliaia di euro
+
+La tabella sottostante mostra, invece, i dati relativi all'impatto sul valore del patrimonio (modello di “Full Evaluation
+con modellizzazione delle poste a vista’) nell'ipotesi di una variazione dei tassi di interesse di +/- 100 punti base.
+
+ 
+
+Modello di “Full Evaluation” / Analisi di Sensitivity
+Descrizione Shock +1% Shock -1%
+Valore al 31.12.17 -19.735 +77.223
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dati in migliaia di euro
+
+In ogni caso, tutte le analisi effettuate considerano in che misura (elasticita) ed in quanto tempo (vischiosita) i tassi
+della Banca si adeguano a variazioni dei tassi di mercato.
+
+2.3 Rischio di cambio
+Informazioni di natura qualitativa
+A. Aspetti generali, processi di gestione e metodi di misurazione del rischio di cambio
+
+Loperativita in valuta della Banca si € costantemente attestata, nel corso del 2017, su livelli complessivamente
+residuali rispetto al totale degli impieghi. Le politiche di gestione sono infatti orientate a non assumere posizioni di
+rischio rilevanti sul mercato dei cambi, anche mediante la puntuale compensazione fra volumi di attivita, passivita e
+derivati nelle principali valute trattate.
+
+Le attivita di copertura sono gestite dalle Funzione Finanza e sono monitorate periodicamente dalle competenti
+strutture aziendali di controllo.
+
+Allo stato, il monitoraggio dell’esposizione al rischio di cambio é effettuata mediante un’apposita procedura di ALM
+(Asset and Liability Management). In particolare, le competenti strutture del Gruppo stimano periodicamente l'e-
+sposizione netta nelle principali valute oggetto di operativita e prowedono alla verifica del rispetto di specifici limiti
+gestionali adottati in sede di definizione delle Deleghe Operative.
+
+B. Attivita di copertura del rischio di cambio
+
+Nel corso del 2017, la copertura gestionale del rischio di cambio generato dalloperativita in valuta sui portafogli
+“obbligazionario” ed “azionario”, é stata effettuata sia attraverso depositi in divisa, sia attraverso strumenti derivati.
+
+ 
+
+237
+

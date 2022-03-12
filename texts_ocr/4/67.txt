@@ -1,0 +1,125 @@
+The change in composition of the types of electricity consumed is due to the activation of the renewable energy supply
+contract in 2019.
+
+The assessment of indicator 302-1 refers to energy consumed as defined by Law No.10/91 and Ministry of Economic
+Development (MISE) Circular of 12/2014, i.e. the energy consumed for the production of goods (semi-finished products,
+manufactured products, etc.) or for the provision of services (transport of people or goods, lighting, air conditioning,
+electricity supply, etc.).
+
+The relevant scope includes the entire Aeroporto di Bologna Group. Consumption relating to the firefighters’ station and
+concessionaires, which is billed directly to AdB S.p.A under the agreements between the parties, but is directly available
+to third parties, has been excluded. Energy accounting for AdB S.p.A and TAG Bologna S.r.l. is carried out separately,
+while the energy consumed by FFM is expressed in its entirety within the energy consumed by AdB S.p.A. Information
+regarding diesel consumption for TAG generators is not available, while fuel consumption attributed to TAG is a mix
+between petrol and diesel.
+
+ 
+
+ 
+
+Energy intensity (GRI Standard Unit Ven 2018 2019
+
+302-3)
+
+Energy consumption GJ 102,562 107,156 107,053
+Number of passengers N. 8,198,156 8,506,658 9,405,920
+Energy intensity GJIN. 0.0125 0.0126 0.0114
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The energy intensity is calculated as the ratio of gigajoules consumed over the number of passengers in transit.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total emissions (GRI 305-1, 305-2) Unit Ven 2018 2019
+Direct emissions (scope 1) tCOz 4,164.1 4,850.4 4,929.0
+Methane gas 3,486.7 4,534.0 4,613.9
+
+Diesel fuel (for heating and generators) tCO, 422.2 27.6 26.0
+
+Petrol (for the fleet) 50.6 35.7 38.9
+
+Diesel (for the fleet) 204.6 253.0 250.2
+
+Indirect emissions (scope 2)
+
+Electricity - Market-based | t CO2 3,658.9 124.5 104.5
+
+Electricity — Location-based | t CO, 2,611.8 1,773.5 1,654.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Direct and indirect emissions are calculated using Airport Carbon Accreditation’s (ACA) market-based method.
+Regarding emission factors, reference is made to the ‘Airport Carbon Footprint’ Annual Report. The change in emissions
+in 2019 is attributable to the purchase by AGB of certified electricity generated from renewable sources. This difference is
+even more apparent in the change of approach to calculating emissions from the “market-based” method to the “location-
+based method”. The location-based method involves the use of average emissions factors characteristic of the
+geographical location, whereas the market-based method contemplates emissions factors specific to the energy actually
+supplied by the provider of the service, which may in fact differ from the overall distribution grid. Finally, the change in
+diesel fuel consumption relates to the decommissioning of the diesel power stations in the office building, cargo building
+and COS building.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Emissions intensity (GRI 305-4) Unit 2017 2018 2019
+
+Total emissions~ tCOz 7,823 4,975 5,033
+Number of passengers N. 8,198,156 8,506,658 9,405,920
+Emissions intensity tCO2/ N. 0.000954. 0.000585 0.000535
+
+ 
+
+ 
+
+ 
+
+ 
+
+The reduction in emissions intensity is linked to the reduction in Scope 2 (market-based) emissions, and
+attributable to AdB’s acquisition of energy certified from renewable sources.
+
+21 Total emissions used to calculate intensity include Scope 1 emissions and Scope 2 emissions, the latter of which are
+calculated according to the market-based method
+
+68
+
+ 
+
+ 
+

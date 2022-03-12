@@ -1,0 +1,63 @@
+GRUPPO CREDEM
+ONES 018
+
+DISCLOSURE 305-1 EMISSIONI DIRETTE DI GAS AD EFFETTO SERRA (SCOPO 1)
+
+ 
+
+EMISSIONI DI SCOPO 1 [TCO,EQ] 2017 PAT
+Utilizzo di combustibile per riscaldamento 1.658,7 1.522,4
+di cui da gas naturale 1.643,8 1.510,1
+di cui da GPL 14,9 12,3
+Utilizzo di combustibile per flotta aziendale 1.483,1 1.344,9
+Auto diesel ad uso servizio 130,3 126,4
+Auto diesel ad uso promiscuo 1.351,9 1.218,2
+Auto ibrida benzina ad uso servizio 0,9 0,3
+TOTALE 3.141,8 2.867,3
+
+ 
+
+ 
+
+ 
+
+METODOLOGIA DI CALCOLO
+- Le emissioni di CO, equivalente comprendono CO,, CH, e N,O e sono state calcolate utilizzando il GWP (Global Warming Potential) a 100
+anni della CO,, CH, e del N,O dell'IPCC (Intergovernmental Panel on Climate Change), rispettivamente pari a 1, 28 e 265.
+
+- Le emissioni di gas ad effetto serra derivanti dall'utilizzo di carburante per le auto aziendali a diesel sono state stimate allocando i km
+totali percorsi alle fasce di cilindrata medium e large previste dalle Linee Guida ABI 2018 sulla base della porzione del parco auto aziendale
+relativa alla fascia di cilindrata corrispondente, assumendo pari intensita di utilizzo delle auto appartenenti alle due fasce di cilindrata.
+| fattori di emissione [kgCO,eq/km] per le due fasce di cilindrata sono stati stimati come media dei fattori di emissione associati alle
+tecnologie Euro da 7 a 6 delle auto diesel appartenenti alle due fasce di cilindrata, indicati nelle Linee Guida ABI 2078.
+
+- Per l'allocazione dei km percorsi per scopi lavorativi dalle auto ad uso promiscuo é stato considerato i! 70% dei km totali, come da
+indicazioni delle Linee Guida ABI 2018.
+
+ 
+
+FATTORI DI EMISSIONE Coefficiente UTE cic)
+Combustibile per riscaldamento
+
+Gas naturale Linee Guida ABI 2018 1,989 kgCO, eq/Smc
+GPL (densita 0,56 kg/I) Linee Guida ABI 2018 3,052 kgCO, eq/kg
+Auto uso servizio e promiscuo
+
+Diesel medium Linee Guida ABI 2018 0,169 kgCO, eq/km
+Diesel large Linee Guida ABI 2018 0,231 kgCO, eq/km
+Ibrida benzina Linee Guida ABI 2018 0,131 kgCO,eq/km
+
+ 
+
+ 
+
+9
+
+| dati delle emissioni di Scopo 1 relativi agli anni 2016 e 2017 sono stati riesposti rispetto a quelli indicati nella DNF 2017 per effetto di conguagli significativi
+(dellordine del 10%) su consumi di gas naturale pervenuti nel corso del 2018, a seguito dell’aggiornamento della metodologia di calcolo dei fattori di conversione dei
+consumi energetici da flotta auto in coerenza con l'aggiornamento delle Linee guida ABI Lab sull'applicazione in banca degli Indicatori Ambiente del GRI, e a seguito
+del periodico aggiornamento dei fattori di emissione volto a garantire una migliore comparabilita. Per i dati storici precedentemente pubblicati, si faccia riferimento
+alla DNF 2017 pubblicata nella sezione Sostenibilita del sito istituzionale del Gruppo.
+
+108
+

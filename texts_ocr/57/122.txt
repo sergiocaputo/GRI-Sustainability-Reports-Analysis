@@ -1,0 +1,73 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+elementi osservabili alla data della valutazione, che consentono di stimare il valore della perdita relativa a ciascuna
+categoria di crediti.
+
+c) Stima della svalutazione collettiva
+Per la determinazione della svalutazione collettiva si procede a:
+
+- determinare l'esposizione di ogni rapporto creditizio (sia esposizioni per cassa che esposizioni di firma), sulla
+base di informazioni estratte dalle procedure di bilancio;
+
+- applicare la percentuale di perdita stimata media (il prodotto di PD per LGD) relativa a ciascun gruppo omoge-
+neo di rischio determinato dalla chiave segmento di rischio/forma tecnica.
+
+La somma delle perdite stimate per ogni singolo rapporto di cassa e di firma rappresenta il calcolo del fondo di
+accantonamento collettivo, mentre il confronto dellimporto cosi determinato con quello riferito alla valutazione del
+periodo precedente determina la rettifica di valore o la potenziale ripresa di valore complessiva da applicare ai cre-
+diti verso la clientela in bonis. Ai fini della quantificazione del fondo di accantonamento collettivo non sono svalutate,
+per la sola parte secured, le esposizioni garantite da Medio Credito Centrale (MCC), Fondo Tranched Cover (TC) e
+Fondo Europeo degli Investimenti (FEI). Tale impostazione é, peraltro, coerente con il calcolo ai fini segnaletici delle
+attivita ponderate per il rischio. La quota di esposizione garantita da tali soggetti ha, infatti, una ponderazione di
+rischio pari allo zero percento.
+
+Criteri di rilevazione delle componenti reddituali
+
+Gli interessi sono classificati negli “Interessi attivi e proventi assimilati” derivanti da crediti verso banche e clientela
+e sono iscritti in base al principio della competenza temporale.
+
+Criteri di cancellazione
+
+| crediti sono cancellati allorché il diritto a ricevere i flussi di cassa dall’attivita finanziaria € estinto, quando sono
+stati trasferiti in maniera sostanziale tutti i rischi ed i benefici connessi alla detenzione di quella determinata attivita
+o nel caso in cui il credito € considerato definitivamente irrecuperabile dopo che tutte le necessarie procedure di
+recupero sono state completate. Per contro, qualora siano stati mantenuti i rischi e benefici relativi ai crediti ceduti,
+questi continuano ad essere iscritti tra le attivita del bilancio, ancorché giuridicamente la titolarita del credito sia
+stata effettivamente trasferita.
+
+  
+
+Sezione 5 - Attivita finanziarie valutate al fair value
+
+La Banca non ha classificato attivita finanziarie in tale categoria.
+
+Sezione 6 - Operazioni di copertura
+
+Criteri di classificazione
+
+Le operazioni di copertura hanno la funzione di ridurre o trasferire i rischi connessi a singole attivita e passivita o di
+insiemi di attivita e passivita. Gli strumenti che possono essere utilizzati per la copertura, sono i contratti derivati
+(comprese le opzioni acquistate) e gli strumenti finanziari non derivati, per la sola copertura del rischio cambio. Tali
+strumenti sono classificati nello stato patrimoniale alla voce “Derivati di copertura”,
+
+Le tipologie di coperture possibili sono le seguenti:
+
+1) copertura di fair value (fair value hedge): é la copertura dell’esposizione alle variazioni del fair value di attivita,
+passivita, impegni non contabilizzati, o di una porzione di essi, attribuibile a un rischio particolare;
+
+2)
+
+copertura di flussi finanziari (cash flow hedge): é la copertura dell’esposizione alla variabilita dei flussi di cassa
+futuri attribuibili a particolari rischi associati ad un’attivita o passivita (come i futuri pagamenti di interessi a tasso
+variabile o i flussi finanziari relativi ad una programmata operazione altamente probabile);
+
+3)
+
+copertura di un investimento netto in una gestione estera (hedge of a net investment in a foreign operation as
+
+122
+
+ 
+

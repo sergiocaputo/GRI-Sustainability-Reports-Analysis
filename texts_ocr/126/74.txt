@@ -1,0 +1,68 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+the relevant standards governing quality (ISO9001), environmental factors (ISO14001) and operational processes of
+innovation; TIM’s processes are generally based on the Telemanagement Forum's E-Tom reference standard’.
+
+[GRI 203-1] In 2019 TIM committed a total of around 1,300 employees to working on technological innovation and
+engineering activities in 2019, representing an overall investment of 1,113 million euros, for the S.p.A.
+
+[GRI 103-3: Management Approach] [GRI 203] Activities for the future of mobility and networks: initiatives for 5G
+
+TIM switched on the new 5G network in Sanremo in February 2019 as main sponsor to the 69th Festival della Canzone
+Italiana song festival and also introduced the new mobile network to stadiums in Rome and Udine, doubling the
+performance of the 4.5G mobile network and laying the foundations for fans to enjoy the new digital experience of
+football matches in 5G.
+In the same month, TIM introduced ten start-ups developed within the Group's TIMWCAP open innovation incubator at
+the Mobile World Congress 2019 in Barcelona. The ten projects spanned various fields of application, including
+entertainment and new e-sports, personal finance, digital commerce and mobile payment solutions right through to loT
+solutions based on artificial intelligence.
+Also in February 2019, TIM launched a 5G infrastructure partnership with Vodafone with a view to optimizing investment
+in 5th-generation networks.
+In May, meanwhile, the first innovative 5G service tests on using drones and rover-type vehicles controlled remotely via
+the mobile network for the purposes of regional control and monitoring were launched as part of an agreement signed
+between the Liguria Region, the Municipality of Genoa, Liguria Digitale, Ericsson and TIM for the Digital Lab 5G.
+
+TIM officially launched 5G in Rome on July 5, 2019 and announced the cities that were already covered (Naples, Rome
+and Turin), along with development plans, commercial offerings and the initial services already available for consumers
+and business customers.
+During the summer of 2019, and thanks to TIM, the Jova Beach Party was the first music tour of the 5G era in Italy to use
+drones, virtual reality applications, 360° panoramic live video and multiview (multiple systems on a single screen) on 5G-
+
+ 
+
+enabled smartphones; all set up in demo corners right on Italy’s main beaches.
+
+In late July, TIM brought 5G to Naples and, in early August, signed a memorandum of understanding with the City of Turin
+that strengthened their partnership with a view to using 5G to make the Piedmontese capital a pioneering model of a
+digital city. The agreement notably concerned the joint development of operations and solutions in the digital field
+together within the Turin region for the purposes of creating innovative applications for the smart city.
+
+TIM turned on 5G at the 40th Rimini Meeting in August 2019 and introduced the digital services of the future in an area
+dedicated entirely to 5G solutions and innovative start-ups, from smart benches for the smart city model to virtual reality
+sightseeing tools and even digital entertainment applications.
+
+In November 2019, TIM and the City of Turin introduced Europe’s first 5G Edge Cloud live network with connected drones
+in Turin, enabling the big data collected from loT platforms to be processed in an integrated manner and analyses by
+artificial intelligence systems, consequently making the 5G Edge Cloud central to developing and deploying Smart City
+digital services, including public safety and driverless cars, environmental monitoring and Industry 4.0. The 5G Edge Cloud
+network guarantees an ultra-high bandwidth and low latency and allows extremely high amounts of data to be combined
+
+ 
+
+and processed, providing secure digital services of an extremely high quality that respect customer privacy and offer
+greater agility and flexibility when it comes to configuring services and applications according to the typical cloud logic.
+5G also took center stage at the global 5GAA event in Turin, where TIM presented a series of exclusive live demos of
+connected driving aids designed to ensure safe, comfortable driving. The highway demos showcased at the event were
+produced in conjunction with the City of Turin and other partners, and they were part of the Smart Roads project and
+included the following: cameras and sensors on pedestrian crossings (Road Site Units) connected to the 5G network to
+indicate the presence of a pedestrian crossing to vehicles in the area; on-board units (OBUs) positioned on a bicycle and
+a vehicle with the ability to display messages on the cyclist's smartwatch and on the vehicle's display in order to indicate
+their respective positions and increase attention levels.
+
+1 The Business Process Framework (eTOM) can be considered an operational model structure for telecommunications service providers; the model
+describes the required business processes, defines the key elements and the way in which they should interact. eTOM is a standard managed by
+the TM Forum - an association for service providers and their suppliers in the telecommunications and entertainment sectors.
+
+715
+

@@ -1,0 +1,68 @@
+Relazione sulla gestione
+
+ 
+
+ta, una serie di informazioni desunte dagli attuali strumenti di misurazione del rischio e di individuazione dei crediti
+problematici e vulnerabili.
+
+In particolare, la procedura distingue le esposizioni creditizie in posizioni ad alto rischio (posizioni in area di “atten-
+zione aziendale”) e posizioni a rischio medio (“area di segnalazione”), consentendo:
+
++ larilevazione tempestiva e l'evidenziazione delle posizioni da segnalare ai gestori;
+
+* una efficiente attivita di gestione delle posizioni di rischio “anomale” o “vulnerabili” da parte dei gestori di primo
+livello;
+
+* unsistema di “escalation” nella gestione delle posizioni anomale sulle diverse strutture aziendali in funzione della
+gravita del rischio;
+
+* unrattivita di monitoraggio sull’'adeguatezza delle azioni gestionali intraprese.
+
+Nell’ottica di garantire un costante efficientamento dei sistemi di detection delle potenziali anomalie andamentali
+sui crediti, il Gruppo sta finalizzando un cantiere progettuale volto ad evolvere ulteriormente il modello operativo ed
+organizzativo di monitoraggio del credito.
+
+Quale ulteriore strumento di gestione / mitigazione del rischio di credito, il Gruppo adotta un sistema di monitorag-
+gio di specifici limiti operativi. In particolare, sono periodicamente monitorati i limiti di concentrazione verso singoli
+prenditori e verso settori di attivita economica ed i limiti di frazionamento che, congiuntamente alla normativa sulle
+Grandi Esposizioni prevista da Banca d'ltalia, rappresentano il perimetro all'interno del quale deve essere svolto il
+processo di affidamento.
+
+Il rischio di mercato
+
+ll sistema di controlli adottato dal Gruppo, coerentemente con quanto previsto dalla vigente normativa prudenziale,
+é orientato a conseguire una sana e prudente gestione dei rischi di mercato, assicurando che gli stessi siano corret-
+tamente identificati e misurati secondo metodologie e procedure formalizzate.
+
+Atal proposito, il Gruppo si € dotato di un’apposita policy che definisce gli attori coinvolti nella gestione del rischio,
+i processi e le procedure in uso, nonché gli strumenti di monitoraggio e mitigazione utilizzati al fine di amministrare
+lo stesso coerentemente con il complessivo profilo di rischio ritenuto congruo dagli Organi con Funzione di indirizzo
+strategico.
+
+La normativa interna definisce uno specifico sistema di limiti e deleghe operative declinati con riferimento sia al por-
+tafoglio di trading, sia al banking book. Tale sistema é oggetto di periodico aggiornamento, al fine di assicurarne la
+coerenza con la propensione al rischio definita nell'ambito del Risk Appetite Framework di Gruppo e con l'evoluzione
+della struttura organizzativa interna.
+
+Nel dettaglio, il Gruppo ha provveduto ad individuare una serie di indicatori di rischiosita in grado di cogliere i princi-
+pali aspetti che caratterizzano i rischi di mercato: i capitali investiti, le variazioni giornaliere del valore dei portafogli
+detenuti, i relativi livelli di concentrazione (articolati per rating e controparte), il livello di Value at Risk ripartito per
+tipologia di fattore di rischio.
+
+In considerazione degli elevati livelli di volatilita che contraddistinguono i rischi di mercato, la stima dei requisiti
+patrimoniali mediante |’utilizzo di metodologie standard é affiancata dal monitoraggio, a fini gestionali, di misure di
+“Value at Risk” (VaR) calcolate mediante un modello basato su un approccio parametrico.
+
+Il modello é periodicamente sottoposto ad attivita di “back testing” e “stress testing” al fine sia di verificarne la ca-
+pacita previsionale, sia di simulare l'impatto di movimenti estremi dei fattori di rischio sul portafoglio di trading del
+Gruppo.
+
+Il Gruppo, infine, ha provveduto ad affiancare alla sopra citata struttura di limiti operativi un set di indicatori di early
+warning riferito ai portafogli del banking book, al fine di consentire ai competenti Organi aziendali di monitorare I’e-
+voluzione della rischiosita delle posizioni in essere ed individuare tempestivamente le eventuali azioni di mitigazione
+necessarie.
+
+310
+
+ 
+

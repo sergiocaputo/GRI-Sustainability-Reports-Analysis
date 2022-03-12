@@ -1,0 +1,71 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+* modello di valutazione (a titolo esemplificativo: Discounted Cash Flow) che ricorra esclusivamente a input os-
+servabili sul mercato o corroborati dal mercato (a titolo esemplificativo: tassi di interesse, curve dei rendimenti,
+volatilité ecc.).
+
+“Livello 3”: qualora non si ricada nelle circostanze precedenti (Livello 1 e 2), si dovra ricorrere a una tecnica valutativa
+basata su un modello di valutazione che sia coerente con lo strumento che si intende valutare e che massimizzi l'uso
+di input osservabili sul mercato. Nel Livello 3 ricadono, quindi, tutti gli strumenti la cui valutazione si basa su almeno
+un input significativo non osservabile.
+
+In alcuni casi, i dati utilizzati per valutare il Fair value di un’attivita o passivita potrebbero essere classificati in diversi
+livelli della gerarchia del Fair value. In tali casi, la valutazione del Fair value é classificata interamente nello stesso
+Livello in cui é classificato l'input, purché “significativo”, di piu basso Livello di gerarchia del Fair value utilizzato per
+la valutazione. La valutazione dell’importanza di un particolare input per l'intera valutazione richiede un giudizio che
+tenga conto di fattori specifici dello strumento.
+
+Pertanto nei casi in cui nella valutazione di uno strumento finanziario siano utilizzati sia input osservabili sul merca-
+to (Livello 2) sia input non osservabili (Livello 3) purché significativi come meglio definito di seguito, lo strumento é
+classificato nel Livello 3 della gerarchia del Fair value.
+
+Le tecniche valutative sono utilizzate con continuita e in maniera coerente nel tempo a meno che esistano delle tec-
+niche alternative che forniscono una valutazione piu rappresentativa del Fair Value (ad esempio nel caso di sviluppo
+nuovi mercati, informazioni non piu disponibili o nuove informazioni, condizioni di mercato diverse).
+
+Nei casi in cui non risulta possibile stimare ragionevolmente il Fair value, gli strumenti finanziari sono mantenuti al
+costo di acquisto originario, in base a quanto previsto dallo IAS 39, paragrafo AG81.
+
+A4.1 Livelli di fair value 2 e 3: tecniche di valutazione e input utilizzati
+Uno strumento finanziario viene classificato nei livelli 2 ¢ 3 in assenza di prezzi quotati in mercati attivi.
+
+La classificazione nel livello 2 piuttosto che nel livello 3 € invece determinata in base all’osservabilita sui mercati
+degli input significativi utilizzati ai fini della determinazione del fair value.
+
+Gliinput osservabili sono parametri elaborati utilizzando dati di mercato, come le informazioni disponibili al pubblico
+su operazioni o fatti effettivi, e che riflettono le assunzioni che gli operatori di mercato utilizzerebbero nel deter-
+minare il prezzo dell'attivita o della passivita; invece gli input non osservabili sono parametri per i quali non sono
+disponibili informazioni di mercato e che sono elaborati utilizzando le migliori informazioni disponibili relative alle
+assunzioni che gli operatori di mercato utilizzerebbero per determinare il prezzo dello strumento finanziario.
+
+Nei casi in cui nella valutazione di uno strumento finanziario sono utilizzati sia input osservabili sul mercato (livello
+2) sia input non osservabili (livello 3), se quest’ultimo é ritenuto significativo, lo strumento é classificato nel livello 3
+della gerarchia del Fair value.
+
+Come richiesto dall'IFRS 13, il Gruppo utilizza tecniche di valutazione “adatte alle circostanze e tali da massimizzare
+lutilizzo di input osservabili rilevanti”.
+
+Le tecniche valutative sono utilizzate con continuita e in maniera coerente nel tempo a meno che esistano delle tec-
+niche alternative che forniscono una valutazione pill rappresentativa del Fair value (ad esempio nel caso di sviluppo
+nuovi mercati, informazioni non piu disponibili o nuove informazioni, condizioni di mercato diverse).
+
+ll Fair value utilizzato ai fini della valutazione degli strumenti finanziari € determinato sulla base dei criteri, di seguito
+esposti, che assumono, come sopra descritto, |’utilizzo di input osservabili o non osservabili.
+
+LIVELLO 2 - Metodi di valutazione basati su parametri di mercato osservabili
+
+Per gli strumenti di livello 2 un dato di input € considerato “osservabile’, direttamente o indirettamente, quando
+é disponibile con continuita a tutti i partecipanti al mercato, grazie ad una distribuzione regolare tramite specifici
+canali informativi (Borse, info provider, broker, market maker, siti internet, etc.).
+
+La valutazione dello strumento finanziario si basa su prezzi desumibili dalle quotazioni di mercato di attivita simili
+
+(comparable approach) o mediante tecniche di valutazione per le quali tutti i fattori significativi — tra i quali spread
+creditizi e di liquidita - sono desunti da parametri osservabili di mercato (mark-to-model approach).
+
+438
+
+ 
+

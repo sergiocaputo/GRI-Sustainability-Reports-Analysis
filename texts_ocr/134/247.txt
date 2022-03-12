@@ -1,0 +1,59 @@
+Since they mainly relate to consortia and consortium companies of which the Group holds less than 20%, in
+
+accordance with IFRS 9, such investments are stated as non-current assets.
+
+Dividend income from such financial instruments is recognised in profit or loss under financial income when
+
+the group companies holding the investments are given the right to such dividend.
+Financial instruments
+Financial assets — Debt instruments
+
+Financial assets, which are debt instruments, are classified in the following three categories depending on the
+
+instruments’ contractual cash flow characteristics and the business model for managing them:
+(i) financial assets at amortised cost;
+
+(ii) financial assets at fair value through other comprehensive income (FVTOCI);
+
+(iii) financial assets at fair value through profit or loss (FVTPL).
+
+Financial assets are initially recognised at fair value. Trade receivables that do not contain a significant
+
+financing component are measured at their transaction price.
+
+After initial recognition, financial assets that generate contractual cash flows that are solely payments of
+principal and interest on the principal amount outstanding are measured at amortised cost if they are held
+within a business model whose objective is to hold them in order to collect contractual cash flows (hold to
+collect business model). Under the amortised cost method, the financial assets’ amount at initial recognition is
+decreased by principal repayments, any loss allowance and cumulated amortisation of the difference between
+
+that initial amount and the maturity amount.
+
+Amortisation is calculated using the effective interest rate that exactly discounts the expected future cash flows
+
+to their initial carrying amount.
+
+Loans and receivables and other financial assets at amortised cost are recognised net of the related loss
+
+allowance.
+
+Debt instruments held within a business model whose objective is to collect contractual cash flows and sell
+financial assets (hold to collect and sell model) are measured at fair value through other comprehensive
+income. Fair value gains and losses on these financial assets are recognised in other comprehensive income
+(OCI). The cumulative fair value gains and losses previously recognised in OCI are reclassified to profit or loss
+when the financial asset is derecognised. Interest income calculated using the effective interest method,
+
+exchange differences and impairment losses are recognised in profit or loss.
+
+Debt instruments that are not measured at amortised cost or FVTOCI are measured at fair value through profit
+
+or loss.
+
+Financial assets that are transferred are derecognised when the contractual rights to the cash flows from the
+
+financial asset expire or are transferred to third parties.
+
+ 
+
+248
+

@@ -1,0 +1,60 @@
+The following paragraphs describe the elements presented in the above chart.
+
+Raw materials
+
+Construction of motorways, bridges, dams, railway and metro lines and civil and industrial buildings requires the
+use of large quantities of water, aggregates, iron, cement and backfill: all raw materials which are mostly not
+
+renewable.
+
+The environmental assessments made at the start of a new contract consider these aspects and the related
+mitigation measures are designed to ensure the efficient management of these resources and, when possible,
+the use of alternative materials, such as recycled materials, without reducing the quality, performance, security
+
+and functioning of the asset. The main raw materials used are shown in the following table:
+
+ 
+
+ 
+
+ 
+
+Materials used (GRI 301-1) Unit 2017 2018 2019
+Aggregates t 23,018,778 15,399,193 4,063,905
+Bitumen t 245,468 257,541 77,705
+Cement t 558,395 662,052 357,757
+Reinforcing bars t 506,843 1,065,914 488,085
+Ready-mixed and pre-cast concrete t 5,500,060 4,608,609 2,808,654
+Ready-mixed asphalt t 1,083,235 790,547 560,039
+Total non-renewable materials t 30,912,780 22,783,854 8,356,146
+
+Water use (GRI 303-1) Unit 2017 2018 2019
+Wells ms 2,399,423 2,880,660 3,739,539
+Rivers ms 10,640,606 6,793,150 3,810,030
+Lakes ms 383,197 291,623 -
+Sea me 5,014 - -
+Aqueducts ms 2,864,234 2,259,390 2,417,294
+Rainwater and wastewater from other organisations m3 18,762 116,795 158
+Total ms 16,311,237 12,341,619 9,967,021
+
+ 
+
+The main variations on the previous year relate to the sale of Lane’s Plants & Paving Division in the US and the
+stage of completion of the Group’s projects. Specifically, the reduction in aggregates and bitumen is mostly due
+to this sale. The decrease in aggregates is also due to progress on the projects of Salini Polska (Poland) and
+the GERD project in Ethiopia. The reduction in concrete is mainly a result of progress on the Riyadh Metro
+(Saudi Arabia), Meydan One Mall (UAE) projects and those of Lane (USA) while the decrease in the use of
+asphalt is due to progress on the projects of Salini Polska (Poland) and the reduction in the utilisation of
+
+reinforcing bars reflects the progress on Lane’s projects (USA).
+
+With respect to water resources, the increase in withdrawals from wells is due to the greater use by the South
+Al Mutlaa (Kuwait) and COCIV (Italy) projects while the reduction in withdrawals from rivers is mostly attributable
+to the progress on the GERD and Koysha projects in Ethiopia. There were no withdrawals from lakes in 2019
+
+which is entirely related to Lane’s projects (USA) and, specifically, the sale of its Plants & Paving Division.
+
+ 
+
+146
+

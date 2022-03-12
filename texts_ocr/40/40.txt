@@ -1,0 +1,68 @@
+ICT for sustainable development:
+examples of Fastweb services
+contribution
+
+= Protecting Vesuvius
+
+A video-surveillance system has been set up at
+the National Mount Vesuvius Park, reusing certain
+pre-existing video cameras partly integrated with
+new infrastructures and video cameras installed
+for environmental control, as well as license plate
+reading and infra-red night vision devices. This new
+technological solution, which can monitor 35 sites
+linked to three central operating stations, will keep
+the area under control and prevent criminal activity
+and critical situations.
+
+= Presence Analytics
+
+Designed in partnership with the Turin municipal
+authorities, this solution analyses the data
+gathered via the public wi-fi infrastructure in the
+city of Turin. The data, after having been made
+anonymous, range from people counts to the
+analysis of mobility of flows, walkability indices
+and origin/destination matrices forming a set of
+statistics enabling the municipal authorities to
+analyze irregular concentrations of people that
+could compromise public order and to better plan
+public transport in the city."
+
+mu FastSense
+
+This testing, the result of a partnership with the
+Turin municipal authorities, consists of monitoring
+the temperature, humidity, wind direction and
+intensity and the concentration of PM10, PM2.5,
+CO, NO2, VOC, ozone and SO2 in the air by installing
+weather stations in certain areas of the city to
+gauge these environmental parameters. It is one
+of the first solutions of its kind in Italy and includes
+noise sensors to measure the level of noise
+pollution. This information will feed an analytics
+platform supporting the local authorities’ analyses
+and decisions.'4
+
+ 
+
+14.The project will be realized within the first quarter 2019.
+
+40 Smart digital community enabler
+
+u FastPark
+
+Created in partnership with the Turin municipal
+authorities, this is a smart parking solution in which
+sensors and video cameras are installed to monitor
+the occupancy of parking spaces in the city. It is
+expected to help reduce traffic and emissions and
+to optimize the search for a parking space, while
+generating big data on mobility. The data generated
+will feed an analytics platform supporting the local
+authorities’ analyses and decisions, which will in
+turn create a real-time view of the occupancy of
+car parks and mobility flows in the city.'4
+
+ 
+

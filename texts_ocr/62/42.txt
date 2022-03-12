@@ -1,0 +1,85 @@
+plants, the estimate was carried out by considering the carbon dioxide during combustion of the non-biodegradable
+portion of waste and of the other fuels used in the plant; the gas network losses were estimated and considered
+completely dispersed in the atmosphere - the GWP considered is 25 for methane and 298 for N20, (4th Assessment
+Report IPCC). On the other hand, the NIR 2017 coefficients of ISPRA for the location-based method and the 2016 AIB
+European Residual Mix for the market-based method (expressed in CO2) were used to estimate electricity
+consumption emissions (Scope 2). The indicator does not include the Ravenna waste disposal plant for special waste
+and the Trieste trigeneration plant, the emissions of which can be estimated at 3.5% of the total.
+
+In 2018, the Hera Group released 1.5 million tonnes of carbon dioxide (-7.2% compared to 2017). Direct
+emissions (scope 1) amounted to 1.3 million tonnes, down 5.0% compared to 2017 mainly due to (i) a
+reduction in gas network losses (-22.3%); (ii) a reduction in emissions from landfills (-12.0%), which was
+affected by lower landfill use for the disposal of municipal waste and; (iii) a reduction in greenhouse gas
+emissions from district heating (-4.0%) due to lower energy production, particularly electricity, from
+cogeneration plants (as indicated in the relevant paragraph).
+
+Emissions indirectly caused by electricity consumption (scope 2) amounted to 148 thousand tonnes, down
+compared to 2017 (-23.4%), as a result of the extension of Hera Spa’s choice — made in 2017 to purchase
+electricity from renewable sources — to AcegasApsAmga and Marche Multiservizi (57% of the total
+electricity consumption of the entire Group). This has allowed the Group to save about 200 thousand
+tonnes of CO2, 13% of the Group’s total. The value of the scope 2 emissions indicated above is calculated
+taking into account the company’s energy purchase choices (“market based” method), i.e. the share of
+renewable energy purchased with Guarantee of Origin (GO) certificates and the share of electricity
+purchased without certificates. For this second component, the emission factor relative to the national
+residual mix was used. The scope 2 emissions calculated with the location based method are equal to
+234,638 tonnes. This value is based on the company’s location and therefore uses the average emission
+factor of the national fuel mix, without taking into account the company’s purchase choices.
+
+As part of the ISO 50001 management system, 303 energy consumption reduction measures have been
+defined by Hera Spa, InRete, AcegasApsAmga and Marche Multiservizi, some of which have been
+implemented and some of which will be implemented by 2020, and which achieve an overall savings of
+over 12,315 toe/year (over the 2020 target of reducing consumption by 5% compared to 2013) and over 21
+thousand tonnes of CO; per year. In addition, 69 other energy efficiency improvement measures have been
+implemented, are in progress or are planned by Herambiente, Hera Servizi Energia and Hera Luce, for a
+total of 12,095 toe/year of overall savings, reaching approximately 21 thousand tonnes of CO: per year.
+
+The ratio between carbon dioxide emissions and the Group’s gross operating margin shows for 2018 a
+decrease compared to 2017 (-11%) mainly due to the reasons described above as well as the trend in
+EBITDA (+12% in the three-year period considered). The ratio versus revenues has also significantly
+decreased in 2017-2018 (-15%), from 288 to 245 t of CO2 per million Euro.
+
+The Carbon Footprint of Energy Production
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2015 2016 2017 2018
+Waste-to-energy plants (t) 487,162 462,258 421,236 412,162
+District heating (t) 216,699 204,025 206,552 190,181
+Anaerobic digesters (t) 13,489 21,625 18,565 20,725
+Purification plant biogas (t) 4,156 3,853 4,877 5,243
+Landfills (t) 361,807 269,965 252,429 222,342
+Total (t) 1,083,313 961,726 903,660 850,652
+mats (Na thermal energy produced by | 4 364 399 | 1,812,811 | 1,815,543 | 1,764,084
+Carbon footprint of energy production
+(kg/Mwh) 575 531 498 482
+
+ 
+
+43
+

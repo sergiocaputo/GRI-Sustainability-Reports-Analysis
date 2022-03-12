@@ -1,0 +1,50 @@
+ 
+
+© Standardize IT processes, as envisaged by the programme to outsource IT infrastructure
+© Reduce the technology gap by updating obsolete infrastructure systems and components
+© Exploiting Data Value
+© Develop the data quality processes and architectures
+© Improve the quality and effectiveness of the regulatory reporting
+© Resilience of Systems and Risk Management
+
+© Improve the resilience and high reliability of the IT systems (DR consolidation and IT
+systems resilience)
+
+© Strengthen the ongoing governance of IT risk and cyber security issues.
+
+The Group has therefore set itself the objective of systematically observing the development of
+strongly innovative technologies, including at the experimental phase when they are potentially
+disruptive to business models, using a highly selective test-and-learn approach leading to targeted
+implementation of innovative projects.
+
+The digitalization issue has been developed coherently in different ways within the Group.
+
+CheBanca!, which was conceived with an_ innovative multi-channel model, has
+grown in terms of both product offering and service model, accompanying and in
+many cases anticipating market changes. The bank makes cutting-edge technology
+instruments available to its clients, thus enabling integrated multi-channel interaction.
+During the financial year under review, work has continued on developing the CheBanca! app, and
+the virtual assistant or chatbots EDO featured on both website and app has been enhanced further.
+The assistant is able to accompany the client when they register, supporting them through the most
+complicated steps which historically are the ones where the highest drop-out rates are recorded.
+As at January 2020 the virtual assistant managed 15% of incoming contacts, while in April,
+during the Covid-19 emergency, it was managing something like 26%, rising from an average
+of 800 chats per day to 1,500, with 70% of responses not having to pass via the operator.
+There was also further enhancement of RPA (Robot Process Automation) in 2020, allowing back
+office processes to be automated further. At last, management of editorial contents has been
+migrated to the innovative HCL Digital Experience 9.5 platform, which provides much higher
+flexibility and protection in managing the new institutional website expected to launch in September
+2020.At last, management of editorial contents has been migrated to the innovative HCL Digital
+Experience 9.5 platform, which provides much higher flexibility and protection in managing the
+new institutional website expected to launch in September 2020.
+
+During the financial year under review and in line with the Digital Strategy Plan previously adopted,
+Compass has consolidated the implementation ofvarious initiatives which areinnovative bothin terms
+of process and technology adopted, in order to improve the customer experience of its own clients.
+Some of the more noteworthy initiatives include customization and optimization of the workflow
+for granting loans via the internet (requests for documentation, identification, signature, approval)
+and for client management (accounts managed from branch offices, with on-phone loans granted
+to applicants who are already customers) in order to speed up the timescales and remove possible
+
+99
+

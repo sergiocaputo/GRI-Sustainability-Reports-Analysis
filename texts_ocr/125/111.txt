@@ -1,0 +1,21 @@
+Table 51: SECH AC machines situation
+
+2017 171 187,495 354,395 9 3 0 0 7,64
+2018 180 204,905 386,522 11 9 0 0 7,64
+2019 181 212,865 402,711 9 1 0 1,15 6,49
+
+Table 52:TDT AC machines situation
+
+2017 202 194 403 21 3 0 0 0
+2018 203 255 465 14 1 0 0 0
+2019 208 273 489% 19 0 0 0 0
+
+ 
+
+30. The tons of CO,eq indicated are not emitted, they are the accounting of the gases included.
+Emissions are only there in case of losses. In 2019 equal to: R134A = kg 2.5; R410A = Kg 2,5; R404A = Kg
+4, for a total of 24.483 tons CO,eq emitted (2.5 * 1430 + 2.5 * 2088 + 4 * 3922) / 1000), NOT included in
+scope 1 and 2 emissions.
+
+2019 Sustainability Report
+

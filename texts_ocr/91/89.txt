@@ -1,0 +1,138 @@
+Altre emissioni*?
+
+Emissioni di NOx nel Gruppo (Kg NOx)
+
+Gas naturale
+Gasolio
+Totale
+
+Emissioni di SOx nel Gruppo (Kg SOx)
+
+Gas naturale
+Gasolio
+Totale
+
+Energia Elettrica
+
+Based
+
+Energia Elettrica
+Market Based
+
+Gas naturale
+
+2019 2018
+Gruppo EGA Totale Gruppo EGA
+Poligrafici Poligrafici
+426 571 997 403 557
+276 - 276 275 -
+701 557 1.273 678 557
+2019 2018
+Gruppo EGA Totale Gruppo EGA
+Poligrafici Poligrafici
+4 6 10 4 6
+258 0 258 258 0
+263 6 268 262 6
+Fattori di conversione utilizzati per il calcolo dei consumi e delle emissioni
+2018 2019
+Valore Fonte Valore
+Location 360 gCO2/kWh Terna Confronti 359 gCO2/kWh
+internazionali 2016
+477 g CO2/ kWh European Residual 483 g CO2/ kWh
+Mixes 2017
+0,001972 tCO2/ Ministero 0,001975 tCO2/
+Sm3 dell’Ambiente — Sm3
+
+Gasolio
+
+Gas naturale
+NOx
+
+0,035253 GJ/Smc
+
+3,155 tCO2/ton
+
+42,877 GJ/ton
+
+0,00104 KgNOx/smc
+
+Tabella parametri
+standard nazionali
+2018
+
+Ministero
+dell’Ambiente —
+Tabella parametri
+standard nazionali
+2018
+
+Ministero Ambiente
+—Tabella parametri
+standard nazionali
+2018
+
+Ministero Ambiente
+- Tabella parametri
+standard nazionali
+2018
+
+Linee Guida ABI
+2018
+
+0,035303 GJ/Smc
+
+3,155 tCO2/ton
+
+42,877 GJ/ton
+
+0,00104
+KgNOx/smc
+
+Totale
+
+960
+275
+1.235
+
+Totale
+
+10
+258
+268
+
+Fonte
+
+Terna Confronti
+internazionali 2019
+
+European Residual
+Mixes 2018
+
+Ministero
+dell’Ambiente —
+Tabella parametri
+standard nazionali
+2019
+
+Ministero
+dell’Ambiente —
+Tabella parametri
+standard nazionali
+2019
+
+Ministero
+Ambiente —Tabella
+parametri standard
+nazionali 2019
+Ministero
+Ambiente - Tabella
+parametri standard
+nazionali 2019
+Linee Guida ABI
+2018
+
+49 Ber il calcolo delle emissioni di NOx e SOx si é fatto riferimento ai fattori di conversione dell’ISPRA 2019 e al potere
+calorifico inferiore dei combustibili considerati.
+
+89
+

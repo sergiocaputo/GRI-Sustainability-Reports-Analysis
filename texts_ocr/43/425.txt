@@ -1,0 +1,154 @@
+10. Glossario
+
+ 
+
+European Stability Mechanism (ESM)
+
+Strumento di assistenza finanziaria di cui si é dotata |'Area
+Euro, con una capacita di intervento per €500 miliardi, a
+disposizione dei Paesi in difficolta finanziaria. La novita prin-
+cipale rispetto al precedente strumento di sostegno (I'EFSF)
+riguarda il coinvolgimento dei creditori privati. LESM potra
+fornire prestiti, comprare titoli di Stato sul mercato primario
+e secondario e ricapitalizzare le banche, anche se non anco-
+ra direttamente.
+
+Exchange-traded funds (ETF)
+
+Fondi comuni di investimento che hanno la stessa composi-
+zione di un determinato indice di mercato; i certificati rappre-
+sentativi delle quote sono ammessi alla negoziazione in un
+mercato regolamentato.
+
+Gli ETF hanno come unico obiettivo d’investimento quello di
+replicare passivamente la composizione ed il rendimento di un
+indice di mercato (azionario, settoriale, geografico, obbliga-
+zionario) chiamato benchmark: quando uno dei component
+del benchmark viene sostituito anche la corrispondente attivi-
+ta finanziaria all‘interno del fondo viene sostituita.
+
+Expected loss (perdita attesa)
+
+Perdita attesa sulle attivita creditizie. Si pone I’obiettivo di una
+tempestiva contabilizzazione in bilancio delle perdite sulle
+posizioni in essere. Sulla base dello stage in cui gli strumen-
+ti sono classificati l’ECL sara calcolata, gia in sede di prima
+iscrizione, con un orizzonte temporale di 12 mesi (stage 1)
+oppure lifetime (stage 2 e 3).
+
+Exposure At Default (EAD)
+
+Relativa alle posizioni in o fuori bilancio, é definita come la
+stima del valore futuro di un‘esposizione al momento del de-
+fault del debitore.
+
+Fair value
+
+Corrispettivo al quale un’attivita pud essere scambiata o una
+passivita estinta in una libera transazione tra parti consapevoli
+e indipendenti.
+
+Fair value hedge
+E la copertura dell’esposizione alla variazione del fair value
+di una posta di bilancio attribuibile ad un particolare rischio.
+
+Fair value option (FVO)
+
+La fair value option costituisce un‘opzione per la classificazio-
+ne di uno strumento finanziario. Attraverso l'esercizio dell’op-
+zione anche uno strumento finanziario non derivato e non
+detenuto con finalita di trading pud essere valutato al fair
+value con imputazione al conto economico.
+
+Fairness/Legal opinion
+
+Parere rilasciato, su richiesta, da esperti di riconosciuta profes-
+sionalita e competenza, in merito alla congruita delle condi-
+zioni economiche e/o alla legittimita e/o sugli aspetti tecnici di
+una determinata operazione.
+
+Fattori di rischio
+
+Si indicano con questo termine i fattori che determinano il
+rischio di uno strumento finanziario o di un portafoglio (tassi
+di cambio, tassi di interesse, ecc.).
+
+Federal Reserve (FED)
+Federal Reserve (Bank) o semplicemente FED é la Banca Cen-
+trale degli Stati Uniti.
+
+Filiali
+Strutture territoriali della Banca rappresentate dagli sportelli
+bancari.
+
+Filtri prudenziali
+
+Correzioni apportate alle voci di bilancio, nell’'ambito delle mo-
+dalita di calcolo dei Fondi propri, allo scopo di salvaguardare la
+qualita dei Fondi propri e di ridurne la potenziale volatilita indot-
+ta dall’applicazione dei principi contabili internazionali IAS/FRS.
+
+Financial Crisis Advisory Group (FCAG)
+
+Organismo consultivo di supporto allo IASB e al FASB (U.S. Fi-
+nancial Accounting Standards Board), il cui compito é eviden-
+ziare le criticita nella regolamentazione contabile proponendo
+soluzioni per la loro rimozione.
+
+Financial Stability Board (FSB)
+
+Organismo Internazionale con il compito di monitorare il si-
+stema finanziario mondiale per poi promuovere politiche tese
+al rafforzamento della stabilita finanziaria.
+
+Fondi comuni armonizzati
+
+Fondi comuni caratterizzati dalla forma aperta, dalla possibilita
+dell’offerta al pubblico delle quote e da taluni limiti agli investi-
+menti. Con riferimento a questi ultimi si ricorda, tra I’altro, l’ob-
+bligo di investire prevalentemente in strumenti finanziari quotati.
+
+Fondi pensione
+
+Forme/gestioni (dotate in alcuni casi di personalita giuridica)
+cui fa capo I’erogazione delle prestazioni pensionistiche com-
+plementari.
+
+Fondi propri (Own funds)
+Il nuovo framework normativo prevede che i Fondi propri sia-
+no costituiti dalla somma del Capitale di classe 1 (Tier 1) e del
+Capitale di classe 2 (Tier 2).
+
+Fondo comune di investimento (OICR)
+
+Patrimonio autonomo costituito da un portafoglio diversifi-
+cato di attivita finanziarie, suddiviso in quote di pertinenza di
+una pluralita di partecipanti e gestito in monte da un’apposita
+societa di gestione.
+
+Fondo interbancario di tutela dei depositi (FITD)
+Sistema di garanzia dei depositanti, costituito in forma di con-
+sorzio di diritto privato e riconosciuto dalla Banca d'Italia, cui
+aderiscono le banche italiane diverse da quelle di credito coo-
+perativo, avente lo scopo di garantire i depositanti delle con-
+sorziate entro limiti previsti (€100.000). Il Fondo interviene,
+previa autorizzazione della Banca d'Italia, nei casi di liquida-
+zione coatta amministrativa e amministrazione straordinaria.
+Le risorse per gli interventi vengono corrisposte dalle banche
+aderenti successivamente alla manifestazione della crisi della
+banca (ex post), a richiesta del Fondo.
+
+Fondo Monetario Internazionale (FMI)
+
+Organismo che raggruppa quasi duecento Paesi membri ed
+ha come obiettivo la promozione di iniziative finalizzate a sti-
+molare la cooperazione monetaria internazionale, lo sviluppo
+del commercio mondiale ed il supporto nella risoluzione di cri-
+si finanziarie causate da squilibri nella bilancia dei pagamenti.
+
+Forma tecnica
+Modalita contrattuale prestabilita per un determinato rappor-
+to di raccolta o impiego.
+
+422 »— Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

@@ -1,0 +1,49 @@
+64
+
+Energia ed emissioni
+
+| consumi energetici e le emissioni di gas ad effetto serra di Lidl Italia derivano principalmente
+dall’illuminazione, dal riscaldamento e dal raffrescamento degli ambienti lavoro degli uffici,
+delle piattaforme logistiche e dei punti vendita, nonché dal carburante impiegato dalla flotta
+aziendale.
+
+| consumi e le emissioni sono monitorati dal reparto Facility Management e in particolare
+dall’EnMT. | dati sono stati rilevati, ove disponibili dal software BMS! per la gestione dei
+consumi 0 da analisi su elementi fatturati.
+
+LItalia registra una quota di consumi finali energetici da
+fonti rinnovabili pari al 17,4%, in linea con il trend europeo
+(17,0%), a fronte di una produzione elettrica coperta
+da rinnovabili per oltre il 35% (EUROSTAT, 2016). Il mix
+
+energetico nazionale!? é dato da gas naturale (42,34%),
+fonti rinnovabili (36,60%), carbone (13,75%), nucleare
+(3,68%) pili una quota residuale che include altre fonti e
+prodotti petroliferi.
+
+Nonostante le condizioni climatiche sfavorevoli per la
+produzione idroelettrica, |’ltalia ha raggiunto gli obiettivi
+previsti per il 2020 in relazione alla quota di consumi
+energetici derivanti da energie rinnovabili, fissati al 17%.
+
+ 
+
+Lidl Italia, grazie alla propria politica di approvvigionamento responsabile di energia elettrica,
+utilizza ad oggi quasi esclusivamente energia proveniente da fonti rinnovabili per una quota di
+1.099.620 GJ (1.020.017 GJ nel 2017), con un aumento dell’8% rispetto all’anno precedente. Le
+certificazioni denominate Garanzie di Origine tracciate dal GSE (Gestore dei Servizi Energetici),
+attestano infatti che la quota di energia rinnovabile utilizzata dalla nostra Azienda corrisponde
+al 100% per Lidl Servizi Immobiliari S.r.1 e al 97% per Lidl Italia. Il restante 3% @ dato da nuove
+aperture, servite provvisoriamente da fornitori non convenzionati.
+
+Grazie all’impiego di energia rinnovabile siamo riusciti ad evitare la produzione di 90.158
+tonnellate di CO, nel 2017 e di 97.201 tonnellate nel 2018".
+
+12 || software implementato secondo lo standard ISO 50001.
+
+13 Composizione del mix iniziale nazionale utilizzato per la produzione dell’energia elettrica immessa nella rete di distribuzione
+italiana nel 2017
+
+* Dato stimato in termini di KWh risparmiati e convertito in tonnellate di CO, utilizzando per il calcolo il fattore di emissioni
+ISPRA (2018). Per il calcolo dei chilometri é stata utilizzata la media di emissione di un TIR Euro 6 (fonte: Logistica Lidl Italia).
+

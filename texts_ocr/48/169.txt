@@ -1,0 +1,102 @@
+| 168 | Generali Group
+
+For a financial asset reclassified from the available-for
+sale category, the fair value carrying amount at the date
+of reclassification becomes its new amortised cost and
+any previous gain or loss on the asset that has been rec-
+ognised in equity is amortised to profit or loss over the
+remaining life of the investment using the EIR. Any differ-
+ence between the new amortised cost and the maturity
+amount is also amortised over the remaining life of the
+asset using the EIR. If the asset is subsequently deter-
+mined to be impaired, then the amount recorded in equity
+is reclassified to the income statement.
+
+Financial assets at fair value through profit or
+loss
+
+This category comprises financial assets held for trading,
+i.e. acquired mainly to be sold in a short term, and finan-
+cial assets that upon initial recognition are designated as
+at fair value through profit or loss.
+
+In particular both bonds and equities, mainly quoted, and
+all derivative assets, held for both trading and hedging
+purposes, are included in this category. Financial assets
+at fair value through profit or loss also take into account
+investments back to policies where the investment risk
+is borne by the policyholders and back to pension funds
+in order to significantly reduce the valuation mismatch
+between assets and related liabilities.
+
+Structured instruments, whose embedded derivatives
+cannot be separated from the host contracts, are classi-
+fied as financial assets at fair value through profit or loss.
+
+The financial assets at fair value through profit or loss are
+accounted for at settlement date and are measured at
+fair value. Their unrealized and realized gains and losses
+at the end of the period are immediately accounted for in
+the profit and loss account.
+
+The Group evaluates its financial assets held for trading,
+other than derivatives, to determine whether the intention
+to sell them in the near term is still appropriate. When, in
+rare circumstances, the Group is unable to trade these
+financial assets due to inactive markets and manage-
+ment’s intention to sell them in the foreseeable future
+significantly changes, the Group may elect to reclassi-
+fy them. The reclassification to loans and receivables,
+Available for sale or held to maturity depends on the
+nature of the asset. This evaluation does not affect any
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+financial assets designated at fair value through profit or
+loss using the fair value option at designation, as these
+instruments cannot be reclassified after initial recognition
+
+Derecognition
+
+A financial asset (or, where applicable, a part of a finan-
+cial asset or part of a group of similar financial assets) is
+de-recognised when:
+
+- the rights to receive cash flows from the asset have
+expired;
+
+— the Group has transferred its rights to receive cash
+flows from the asset or has assumed an obligation to
+pay the received cash flows in full without material de-
+lay to a third party under a ‘pass-through’ arrangement;
+and either (a) the Group has transferred substantially all
+the risks and rewards of the asset, or (b) the Group
+has neither transferred nor retained substantially all the
+risks and rewards of the asset, but has transferred con-
+trol of the asset.
+
+When the Group has transferred its rights to receive cash
+flows from an asset or has entered into a pass-through
+arrangement, it evaluates if and to what extent it has re-
+tained the risks and rewards of ownership. When it has
+neither transferred nor retained substantially all of the
+risks and rewards of the asset, nor transferred control
+of the asset, the asset is recognised to the extent of the
+Group’s continuing involvement in the asset. In that case,
+the Group also recognises an associated liability. The
+transferred asset and the associated liability are meas-
+ured on a basis that reflects the rights and obligations
+that the Group has retained. Continuing involvement that
+takes the form of a guarantee over the transferred asset
+is measured at the lower of the original carrying amount
+of the asset and the maximum amount of consideration
+that the Group could be required to repay.
+
+Receivables
+
+This item includes receivables arising out of direct insur-
+ance and reinsurance operations, and other receivables.
+
+Receivables arising out of direct insurance
+and reinsurance operations
+

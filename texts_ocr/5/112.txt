@@ -1,0 +1,68 @@
+Alperia Sustainability Report 2019
+
+were installed in the fields of 60 South Tyrolean fruit and vine growers, recording and monitoring irrigation
+data. The system advises the farmer about soil-moisture levels and combines weather and current temperature
+data. Modern data transmission technology makes it possible to give farmers the collected information directly,
+online and in real-time. Alperia Smart Region, the Alperia business unit in charge of the project, has made its
+know-how available to develop the technology that will allow farmers to manage the irrigation process without
+waste. In the future, farmers will be able to retrieve sensor data on their mobile phones in real time, allowing
+them to react promptly to water shortages. This will not only increase crop quality and ensure volumes, but will
+also allow for an increasingly sustainable and natural agriculture industry.
+
+Sybil
+
+Alperia Bartucci has developed Sybil, an innovative system that regulates heat distribution by adjusting
+generators and mixing valves, within the required comfort levels for the building. The technology works with
+Artificial Intelligence algorithms and allows a lower average temperature to be maintained in boilers and
+distribution circuits. The system produces intelligent alerts that correct non-optimum user behaviour and report
+system malfunctions to the thermal power plant. All this generates savings of up to 30% on heating and
+guarantees remote management of systems. The technology is unique (international patent pending) and
+innovative in comparison to traditional control and monitoring systems.
+
+Flexi-Grid
+
+The electricity sector has seen a radical transformation in recent years: On one hand, there has been
+exponential growth of non-programmable renewable source (NPRS) plants connected to the medium- and
+low-voltage grid and, on the other, conventional plants capable of providing the necessary regulation services
+to ensure safe system operation have been decommissioned. The Flexi-Grid project was launched to make
+the electricity grid increasingly safe, reliable, sustainable and innovative. It involves 16 partners from five
+European countries (Spain, France, Italy, Croatia and Greece) and will lead to the development of:
+
+- future secondary electrical substations with the use of new generation smart meters
+
+- protection systems that allow for and integrate a high penetration of renewable source produced
+energy into the grid
+
+- software modules that can identify anomalies or malfunctions along the network, first attempting
+to resolve them automatically and then, if necessary, requesting the intervention of on-call staff
+from the remote monitoring centre
+
+In addition, a platform will be developed integrating hardware and software solutions to exploit data provided
+by local energy resources and distributed with Flexi-Grid solutions, which will be interoperable with stakeholder
+IT systems, increasing their potential to be replicated. This will allow the distribution operations along the DSO
+(Distribution System Operator) electricity grid to be rendered more flexible, reliable and cost-efficient,
+promoting market growth and development.
+
+Edyna, as the main DSO of South Tyrol, participates in the project with the MV and LV grid at the Sarentino
+primary substation. Here the medium-voltage and low-voltage grids are powered by a primary system. We
+want to test the technical feasibility of modulating the production and loads connected to the medium-voltage
+grid (to optimise grid power flows and reduce congestion) and use the available production for isolated
+management of the electricity grid in emergency conditions. The project began on 30 October 2019 at the
+CIRCE headquarters in Zaragoza, a research centre leading the consortium of partners; it will continue for 48
+months.
+
+Alperia Startup Factory
+
+Alperia launched the Alperia Startup Factory, a competition for innovative ideas in the field of renewable energy
+and the green economy. The project brings together start-ups, innovative SMEs, university researchers and
+talented young people. The international call for innovative ideas covered five sectors: smart mobility, smart
+home & building automation, public lighting, hydropower and call-centre optimisation. After a multi-stage
+selection procedure, the candidates with the most interesting projects were invited to South Tyrol to participate
+in a two-day workshop, the Innovation Camp. In a second phase, the finalists worked on creating prototypes
+and carrying out market testing with a view to possible product marketing. The winning start-ups were
+FieldBox.ai and Beedata, beating out 142 other candidates from across Europe. They then began a
+collaboration with Alperia to implement the projects for customers and the company. FieldBox.ai, specialised
+in artificial intelligence solutions for the industrial sector, put forward the Hydrobox project, a digital solution for
+
+113
+

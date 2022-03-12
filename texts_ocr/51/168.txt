@@ -1,0 +1,127 @@
+168
+
+8. Ambiente 4
+
+8.1 Gli impatti ambientali diretti: consumi di uffici e filiali @
+
+EMISSIONI DA CONSUMI AL DI FUORI DELL'ORGANIZZAZIONE - 2019
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMISSIONI DA VOLI AEREI KM TCO2EQ (SCOPE 3)"
+VOLI BREVI: X < 500 KM
+
+ECONOMY CLASS 231.153,58 3599754701
+BUSINESS CLASS 11.406 26644416
+VOLI MEDI: 500 KM < X > 1600 KM
+
+ECONOMY CLASS 1.390.698,43 208,3405318
+PREMIUM ECONOMY CLASS 17.936 4,2992592
+BUSINESS CLASS 6.997 3,03991662
+FIRST CLASS 0 0
+VOLI LUNGHI: X > 1600 KM
+
+ECONOMY CLASS 10.2785 1,423010016
+PREMIUM ECONOMY CLASS 0 0
+BUSINESS CLASS 0 0
+FIRST CLASS 0 0
+TOTALE 1.668.469,51 255,7647062
+EMISSIONI DA VIAGGI IN TRENO KM TCO2EQ (SCOPE 3)"
+TRENI NAZIONALI 1.261.132,32 51,89559497
+TRENI INTERNAZIONALI 0 0
+TOTALE 1.261.132,32 51,89559497
+EMISSIONI DA AUTO PRIVATA PER TRASFERTA AZIENDALE** KM TCO2EQ (SCOPE 3)"
+SMALL CAR 4.036.233,83 603,7398562
+MEDIUM CAR 3.870.406,259 699,421115
+LARGE CAR 610.785,1316 139,6071575
+TOTALE 8.517.425,22 1.442,7681287
+
+ 
+
+* Per il calcolo delle emissioni Scope 3 sono stati considerati i fattori di conversione forniti dal DEFRA 2019.
+
+“ Per applicare i fattori di conversione del DEFRA 2019 secondo la divisione delle auto in Small Car, Medium Car e Large Car, sono
+stati calcolati i contributi espressi in km del parco auto nazionale elaborati dalle serie storiche dell'ISPRA, successivamente appli-
+cati in % al totale dei Km rendicontati dalle BCC. |! parco auto delle BCC é stato dunque ricategorizzato come riportato in tabella.
+
+EMISSIONI SCOPE 3 (% TCO,EQ SUL TOTALE)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+82,4%
+80,0%
+70,0%
+-
+60,0% -
+x
+50,0% _-
+:
+40,0% -
+.
+.
+30,0% = .
+7 =
+20,0% 14,6% >
+.
+10,0% .
+ee
+0,0% |
+EMISSIONI DA VOLI EMISSIONI DA VIAGGI EMISSIONI DA AUTO PRIVATA
+AEREI IN TRENO PER TRASFERTA AZIENDALE
+
+PERSONE ECOSISTEMA RESPONSABILITA
+

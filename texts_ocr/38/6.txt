@@ -1,0 +1,120 @@
+Per la redazione del capitolo dedicato agli impatti ambientali, il calcolo
+delle emissioni di CO2 (scope 2) Location based é stato effettuato tramite
+un coefficiente di emissione per l'energia elettrica di Terna basato sulla
+produzione lorda globale del parco nazionale, pari a 0,359 kgCO2/
+kWh per l'Italia e 0,296 kgCO2/kWh per la Spagna. Per il calcolo delle
+emissioni di CO2 (scope 2) Market Based sono stati usati i fattori di
+emissione del residual mix di AIB (Association of Issuing Bodies), nella sua
+ultima versione disponibile.
+
+Per le emissioni di gas ad effetto serra (scope 1), derivanti dai consumi
+di gas naturale, gasolio e benzina, sono stati utilizzati i coefficienti di
+emissione presenti nella tabella dei parametri standard nazionali del
+Ministero dell’Ambiente, pari rispettivamente a 1,972 tCO2/1000 Sm3, a
+3,155 tCO2/t e a 3,140 tCO2/t.
+
+Inoltre, sempre per il calcolo delle emissioni (scopo 1) legate alle perdite
+di F-Gas, sono stati utilizzati i fattori di emissione Defra per l'anno di
+riferimento.
+
+In aggiunta, é stato svolto il calcolo delle emissioni (scope 3) per il triennio
+oggetto di analisi derivanti dalle consegne dirette ed indirette utilizzando
+i seguenti fattori di emissione: per trasporti effettuati con veicoli dal peso
+maggiore di 3,5 tonnellate Defra per l'anno di riferimento, HGV, All rigid,
+Avarage Laden; per trasporti effettuati con veicoli del peso inferiore a 3,5
+tonnellate Defra per l'anno di riferimento, Vans, Class III, Diesel.
+
+Per il calcolo di altre emissioni di inquinanti, sono stati usati i coefficienti
+dall'European Environmental Agency per Heavy-duty vehicles, Diesel
+>32 t - Euro V - 2008 (per veicoli con peso maggiore di 3,5 tonnellate) e
+Light commercial vehicles, Diesel - Euro 5 - EC 715/2007 (per veicoli con
+peso minore di 3,5 tonnellate).
+
+Nel calcolo degli impatti ambientali del Gruppo non sono stati considerati
+gli uffici del Gruppo con meno di 15 dipendenti.
+
+Rispetto allo scorso anno, si segnala che, con l'aggiornamento
+dell'analisi di materialita, é risultato essere materiale il tema "Privacy
+cliente". | temi "Conformita a leggi/ regolamenti in ambito ambientale"
+e "Innovazione dei prodotti" non rientrano invece pit all'interno dei
+temi materiali, rimanendo comunque temi rilevanti, gestiti e presidiati
+dall'organizzazione. Nel 2019, come richiesto dal Decreto 254/2016, la
+Dichiarazione Non Finanziaria é stata sottoposta a revisione da parte di
+una Societa terza indipendente, la cui relazione é riportata nell’allegato “La
+Relazione della Societa di Revisione”.
+
+Aspetti D.Lgs. 2254/2016
+
+Ambiente
+
+Sociale
+
+Personale
+
+Rispetto dei diritti umani
+
+Lotta contro la corruzione
+attiva e passiva
+
+ 
+
+O::-
+
+O-:::
+
+O::-
+
+Aspetti Materiali
+
+ 
+
+« Materie prime (utilizzo e riciclo)
+* Consumi energetici
+« Emissioni di gas ad effetto serra (GHG)
+¢ Emissioni inquinanti
+¢ Rifiuti
+¢Valutazione dei fornitori in base
+acriteri ambientali
+
+« Performance economica
+«Pari opportunita e diversita
+
+« Sanzioni per non conformita a leggi e
+regolamenti in ambito socio-economico
+
+« Privacy del cliente
+
+« Salute e sicurezza sul lavoro
+
+« Formazione aziendale e valutazione
+competenze
+
+¢ Condizioni di impiego e welfare aziendale
+
+«Non discriminazione
+
+«Aspetto non emerso come materiale
+dal processo di analisi di materialita,
+tuttavia riportato all'interno DNF per via
+dell'importanza della tematica
+
+@) 1 § Bilancio diSostenibilits 2019
+
+1- Introduzione
++ Nota metodologica
++ Aspetti materiali
+
++ Highlights
+
+2 - Chi siamo
+
+3 - Esprinet & il mercato
+4 - Esprinet & l'ambiente
+5 - Esprinet & le persone
+6 - Esprinet & la comunita
+
+7 - Altre informazioni -
+DNF
+
+© esprinet
+

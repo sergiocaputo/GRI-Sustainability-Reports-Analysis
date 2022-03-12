@@ -1,0 +1,44 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+di Supervisione Strategica (anche in ottica del rispetto degli indicatori definiti in
+ambito RAF).
+
+Procedure di Stress Test sul rischio liquidita
+
+Banca Mediolanum ha predisposto il monitoraggio della liquidita giornaliera
+in condizioni di “normale corso degli affari” ed integra queste indicazioni con
+le analisi che conduce periodicamente simulando scenari di stress. Queste
+simulazioni mirano a replicare eventi sia di carattere sistemico (Market Stress
+Scenarios - turbolenze nello scenario macroeconomico di riferimento), sia
+specifico della Banca (Bank Specific Stress Scenarios - variazioni nelle politiche
+commerciali o nei comportamenti della clientela). Gli eventi di carattere
+sistemico considerate nella simulazione degli scenari di stress tendenzialmente
+riguardano:
+>» shock sui mercati finanziari che comportano una variazione significativa
+nel livello dei tassi di interesse € negli spread creditizi:
+>» shock sulle condizioni di accesso al mercato monetario, che replica la
+restrizione significativa avutasi post Il settembre;
+>» shock sul mercato interbancario, che accentua la tensione data da una
+condizione di scarsa liquidita.
+> Gli eventi di carattere specifico per Banca Mediolanum tendenzialmente
+riguardano:
+> il ritiro significativo dei depositi da clientela;
+> il danno reputazionale subito, con conseguente difficolta di rinnovare le
+fonti di finanziamento sul mercato monetario;
+> il default di un‘importante controparte di mercato o di una fonte di
+funding rilevante;
+> il peggioramento della qualita dell’attivo creditizio;
+> il forte incremento dell'utilizzo delle linee garantite “Committed”;
+> la significativa riduzione nella capacitd di roll-over della raccolta a
+breve termine;
+> i maggiori haircut da applicare agli assets inclusi nella Counterbalancing
+Capacity.
+Ricalcolando gli indicatori sopra descritti nel contesto dei diversi scenari di
+stress, vengono simulati gli effetti sul comportamento atteso dei flussi di cassa
+in entrata e in uscita nell’orizzonte temporale considerato, in termini di livelli dei
+cash flow attesi e di timing, portando alla ri-definizione di una Maturity Ladder
+per ogni scenario simulato.
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 664
+

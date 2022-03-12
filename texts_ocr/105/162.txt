@@ -1,0 +1,59 @@
+ 
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalita di presentazione dei bilanci, metodologie e principi contabili applicati
+
+Fondi per rischi e oneri
+
+ll Gruppo accerta nei Fondi per rischi e oneri le probabili passivita riconducibili a vertenze e oneri con il personale, fornitori, terzi
+e, in genere, gli altri oneri derivanti da obbligazioni assunte. Tali accertamenti comprendono, tra |’altro, la valutazione di passi-
+vita che potrebbero emergere da contenziosi e procedimenti di diversa natura, degli effetti economici di pignoramenti subiti e
+non ancora definitivamente assegnati, nonché di prevedibili conguagli o rimborsi da corrispondere alla clientela nei casi in cui
+non siano definitivamente determinati.
+
+ll calcolo degli accantonamenti a Fondi per rischi e oneri comporta l’assunzione di stime basate sulle correnti conoscenze di
+fattori che possono modificarsi nel tempo, potendo generare esiti finali anche significativamente diversi da quelli tenuti in conto
+nella redazione dei presenti bilanci.
+
+Impairment test unita generatrici di flussi di
+cassa e partecipazioni
+
+Sul valore degli avwwiamenti e sugli altri attivi immobilizzati sono svolte le analisi previste dai principi contabili di riferimento volte
+a verificare l’eventuale necessita di impairment.
+
+Leffettuazione dei test comporta l’assunzione di stime che dipendono da fattori che possono cambiare nel corso del tempo,
+con conseguenti effetti anche significativi rispetto alle valutazioni effettuate negli esercizio precedenti.
+
+In particolare, per la Capogruppo il test di impairment € stato svolto sul segmento Corrispondenza, Pacchi e Distribuzione al
+quale non sono allocati Avviamenti. Ciascuna altra societa del Gruppo é considerata una separata unita generatrice di flussi
+finanziari. Gli Avviamenti iscritti sono dettagliati nella tabella A3.2.
+
+Per l’esecuzione degli impairment test al 31 dicembre 2017, si é fatto riferimento alle risultanze dei piani quinquennali delle
+unita organizzative interessate o comunque alle pili recenti previsioni disponibili. | dati dell’ultimo anno di Piano sono stati uti-
+lizzati per la previsione dei flussi di cassa degli anni successivi con un orizzonte temporale illimitato. E stato quindi applicato il
+metodo DOF (Discounted Cash Flow) ai valori risultanti. Per la determinazione dei valori d’uso, il NOPLAT (Net Operating Profit
+Less Adjusted Taxes) é stato capitalizzato utilizzando un appropriato tasso di crescita e attualizzato utilizzando il relativo WACC.
+(Weighted Average Cost of Capital)**.
+
+Con riguardo alla sola Poste Italiane S.p.A., sono state altresi effettuate le analisi di impairment sul valore delle partecipazioni.
+La metodologia e i parametri di riferimento per |l’esecuzione del test sono in linea con quanto descritto per avviamenti e altri
+attivi immobilizzati. Per le evidenze emerse dai test si rinvia alla nota 5.3 — A4 Partecipazioni.
+
+Avviamento
+
+L’Awiamento é almeno annualmente oggetto di verifica al fine di accertare l’esistenza di eventuali riduzioni di valore da rilevare
+a Conto economico.
+
+In particolare, la verifica in oggetto comporta |’allocazione dell’avviamento alle unita generatrici di flussi finanziari e la successiva
+determinazione del relativo valore recuperabile; se il valore recuperabile risulta inferiore al valore contabile delle unita generatrici
+di flussi finanziari, si procede a una svalutazione dell’awiamento allocato alle stesse. L'allocazione dell’awiamento alle unita
+generatrici di flussi finanziari e la determinazione del loro fair value comporta l’assunzione di stime che dipendono da fattori che
+possono cambiare nel tempo, con conseguenti effetti anche significativi rispetto alle valutazioni effettuate.
+
+48. Per le valutazioni al 31 dicembre 2017 si é assunto un tasso di crescita di lungo periodo pari all’1,4% mentre i WACC, determinati coerentemente con le migliori
+prassi di mercato e per Settore Operativo, sono compresi tra un valore minimo del 5,71% e un valore massimo del 6,74%. Il costo del capitale proprio (Ke) €
+del 6,74% per l’attivita bancaria e del 7,24% per l’attivita di gestione del risparmio.
+
+EE
+161
+

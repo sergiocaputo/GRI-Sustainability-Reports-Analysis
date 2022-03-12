@@ -1,0 +1,52 @@
+Goodwill and intangible assets with indefinite lives
+Goodwill and other intangible assets with indefinite lives are recognised at cost net of impairment losses.
+
+Goodwill acquired as part of a business combination is measured as the difference between the aggregate of
+the acquisition-date fair value of the consideration considered, the amount of any NCI and the acquisition-date
+fair value of the acquirer’s previously-held equity interest in the acquiree, and the net of the acquisition-date
+
+amounts of the identifiable assets acquired and the liabilities assumed.
+
+Goodwill deriving from acquisitions is not amortised. It is tested annually for impairment or whenever conditions
+
+arise that presume impairment as per IAS 36 - Impairment of assets.
+
+For impairment testing purposes, goodwill acquired as part of a business combination is allocated at the
+acquisition date to each of the cash-generating units (or groups of cash-generating units - CGU) that will benefit
+from the acquisition. The carrying amount of goodwill is monitored at cash-generating unit level for internal
+
+management purposes.
+
+Impairment is determined by defining the recoverable amount of the cash-generating unit (or group of units) to
+which the goodwill is allocated. When the recoverable amount of the CGU (or group of CGUs) is lower than
+the carrying amount, an impairment loss is recognised. When goodwill is allocated to a CGU (or group of
+CGUs), the asset of which has been partly disposed of, the goodwill allocated to the disposed of asset is
+considered to determine any gain or loss deriving from the transaction. In this case, the transferred goodwill is
+
+measured using the amounts related to the disposed of asset compared to the asset still held by the unit.
+Other intangible assets
+
+Other intangible assets acquired or generated internally are recognised under assets in accordance with IAS
+38 - Intangible assets when it is probable that the use of the asset will generate future economic benefits and
+the cost of the asset can be measured reliably. Those assets with finite useful lives are measured at acquisition
+or development cost and amortised on a straight-line basis over their estimated useful lives. Recoverability of
+their carrying amount is checked by using the criteria set out in the section on “Impairment of non-financial
+
+assets”.
+Other non-current assets (recognised in Other assets)
+
+Other non-current assets mainly consist of loans and receivables and claims related to completed or nearly
+completed contracts and companies in liquidation when their liquidation plan provides for the realisation of the
+
+assets after twelve months from the reporting date.
+
+These assets are measured at their estimated realisable value, by recognising allowances to adjust their
+carrying amount accordingly. Claims are only recognised for the amounts matured and that part which is held
+to be reasonably recoverable. The estimated realisable value is discounted if the time value of money is
+
+material depending on when settlement is expected to take place.
+
+ 
+
+240
+

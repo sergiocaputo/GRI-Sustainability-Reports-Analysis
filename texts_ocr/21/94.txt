@@ -1,0 +1,135 @@
+of specific clusters regarding the ter-
+ritory, the industrial environment and
+the life phases of businesses.
+
+Capitalising different data storage
+technologies, the Group is develop-
+ing projects aimed at exploiting the
+most innovative products. Specifically,
+Cerved has 18 of the top 30 database
+models in production worldwide and
+uses paradigms that include all of the
+new frameworks (such as Hadoop)
+and allow fast processing even of
+non-structured data.
+
+Extremely complex methodologies
+and solutions provide Cerved with an
+incredible competitive advantage.
+An example is the Neo4j technolo-
+gy, also called “graph based”, which
+makes it possible to develop algo-
+rithms at a reasonable cost and with
+superior performance. Also in this
+area, the Group developed Graph4yY-
+ou, an innovative platform that, using
+the API (Application Programming In-
+terface) ecosystem, enables Cerved to
+formulate data analyses in a massive
+and fast way, including not only a sin-
+gle company or person but a whole se-
+ries of existing relationships between
+a plurality of different parties.
+
+By adopting DevOps models”, a set
+of practices supported by automated
+and Lean Management tools, Cerved
+introduced new automation pro-
+cesses for the software production
+and release chain, enabling customers
+to expect secure and high quality ap-
+plications delivered much more quick-
+ly. Special attention paid to the API
+(Application Programming Interface)
+ecosystem enables Cerved to simplify
+the dialogue between applications.
+A strong integration and information
+exchange component makes for fast-
+er accesses, while ensuring the scala-
+bility, control and flexibility of the de-
+veloped application platforms.
+
+Thanks to this system of application
+interfaces, Cerved allows a_ select
+group of developers and Fintech?' to
+access its data for the purpose of cre-
+ating new programs and services.
+
+EXAMPLES OF INNOVATION
+
+@ Cerved
+Money&GO
+
+> Fully digital fintech commercial
+credit transfer platform.
+
+Cerved Money&GO is a latest-genera-
+tion technological platform for the
+purchase of commercial credits that
+was created to satisfy companies’
+need for working capital and is avail-
+able to banks and financial companies
+that want to use it to serve their cus-
+tomers efficiently and digitally.
+
+The credits transferred by the compa-
+nies will be purchased from a special
+purpose vehicle financed through a
+securitisation program implemented
+pursuant to Italian Law 130/99.
+
+With Cerved Money&GO, companies
+and lenders will be able to evaluate
+credits on the basis of official data
+such as balance sheets, ownership re-
+ports, protests, real estate data, list of
+members; data provided by Cerved
+PayLine, a database of commercial
+payment experiences; open data
+such as tenders, public funding and
+many others obtained by analysing
+web pages, corporate sites and social
+networks.
+
+?
+atokd®
+
+>» Big data platform for commercial
+purposes
+
+A latest-generation platform that
+draws on the wealth of official Cerved
+data on all Italian companies (over 6
+million) and data collected from open
+sources such as the web, social net-
+works, news and makes them avail-
+able through different channels.
+
+The platform is equipped with se-
+mantic analysis algorithms which
+are the basis of the proprietary
+search engine SpazioDati (subsidiary
+of the Cerved Group), which helps to
+
+3° Software development
+methodology used in
+computer science which
+aims at communication,
+collaboration and inte-
+gration between deve-
+lopers and operators in
+information technology
+operations
+
+31 Ecosystem of businesses
+that are accelerating the
+digitisation and auto-
+mation of the banking
+and financial system,
+using innovative tech-
+nologies that make the
+
+system more efficient. ‘
+
+5 ©
+

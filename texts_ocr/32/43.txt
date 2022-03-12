@@ -1,0 +1,92 @@
+Durante i! 2018 sono proseguite le
+attivita di Ricerca e Sviluppo con parti-
+colare riferimento agli aspetti relativi alla
+gestione delle reti di contribuzione e di
+trasporto dei segnali televisivi, la Televi-
+sione Digitale Terrestre (DTT) e i relativi
+nuovi sviluppi di diffusione (DVB-T2) e
+di compressione (HEVC) in funzione del
+processo di riordino delle bande UHF e
+VHF dovuto all’asta delle frequenze della
+Banda 700 Mhz e al loro conseguente
+rilascio da parte dei Network Operator
+televisivi (cd. processo di Refarming).
+
+ 
+
+ 
+
+Nel corso del 2018 sono proseguite
+diverse attivita tra le quali:
+
+valutazione degli apparati di compres-
+sione audio/video in tecnologia HEVC
+e degli apparati di trasporto per la
+contribuzione e la diffusione di eventi
+sportivi in standard UHD;
+
+valutazione, tramite opportuni Pro-
+of-of-Concept, delle architetture e
+degli apparati di trasporto in Ponte
+Radio, in tecnologia IP, per l'upgrading
+
+tecnologico delle reti di distribuzione;
+
+stesura dei capitolati tecnici relativi
+alle diverse tipologie di apparati da
+utilizzarsi, nella transizione alla tecno-
+logia IP, della rete di distribuzione in
+Ponte Radio;
+
+analisi e partecipazione a field trials
+riguardanti lo sviluppo di sistemi
+alternativi alla sincronizzazione di rete,
+attualmente realizzata tramite sistema
+GPS;
+
+proseguimento dell'attivita di valuta-
+zione degli apparati di “test & monito-
+ring” necessari alla comprensione del
+corretto funzionamento della infra-
+struttura di rete.
+
+Nell'ambito della gestione delle infrastrut-
+ture di Head-End per la Televisione Digi-
+tale Terrestre sono proseguite le attivita
+di benchmarking e di approfondimento
+tecnico per presidiare l’evoluzione delle
+
+apparecchiature attualmente in produ-
+zione allo scopo di predisporci al futuro
+passaggio dalla compressione MPEG-2 e
+MPEG-4, attualmente in uso per la diffu-
+sione dei canali in Definizione Standard
+(SD) e in Alta Definizione (HD) sul Digitale
+Terrestre DVB-T, alla futura compressione
+HEVC che si imporra congiuntamente con
+il passaggio al DVB-T2 previsto nel 2022.
+
+Nel corso del 2016, anche grazie alla
+costituzione della societa controllata Net-
+trotter S.r.l, € stata awviata la realizzazione
+di una rete loT in Italia. Limplementazione
+di tale progetto, proseguita nel corso
+
+del 2017 e nel 2018, anno in cui é stata
+completata la realizzazione della rete,
+permette a Nettrotter di fornire una vasta
+gamma di servizi ai potenziali clienti. Cosi
+facendo il Gruppo mira a collocarsi come
+principale player in questo specifico set-
+tore, in particolare nel segmento del Low
+Power Wide Area (LPWA), contribuendo
+cosi allo sviluppo tecnologico del Paese
+
+e favorendo l’awvio di nuove modalita e
+possibilita di sviluppo nel mondo dell'loT.
+Tale tecnologia offre la possibilita di
+creare nuovi prodotti e servizi di valore
+non solo per i clienti, ma anche per le
+
+ 
+

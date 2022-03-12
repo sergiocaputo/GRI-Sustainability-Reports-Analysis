@@ -1,0 +1,118 @@
+Sustainability Report at 31 March 2019 of the Piquadro Group
+
+ 
+
+Type of risk
+
+Method of handling
+
+ 
+
+Risks related to the production activity
+and supply of raw materials, linked to
+significant changes in the
+macroeconomic, political, fiscal or
+legislative framework in areas where
+the Group's products are
+manufactured, as well as the Group's
+inability to maintain and renew its
+business relationships.
+
+The Group has a historical presence in the countries
+where it operates at the production level and employs
+its staff in both the production and financial
+administrative areas. In addition, the Group operates a
+constant analysis of possible local issues ensuring full
+updating in terms of local regulations. In addition, the
+scouting of possible new suppliers in different
+geographical areas continues.
+
+ 
+
+Risks related to the operation on
+multiple international markets and the
+distribution network, linked to possible
+changes in the political and economic
+situation in different countries, the
+need to face competition from
+operators in different markets,
+difficulty in being able to satisfy the
+clientele tastes of different countries,
+the greater difficulty in protecting their
+products from counterfeiting activities.
+
+For a long time, the Group has diversified its
+investments and its presence in Europe and Asia. In
+addition, although the indirect sales channel still
+accounts for a significant percentage of sales, the
+Group has been in a policy of retail expansion for
+several years, leading to the opening of direct-to-
+manage stores throughout the and thus to increase the
+sales channel managed directly by the organisation.
+
+ 
+
+Risks related to the protection of
+intellectual property rights and
+counterfeiting related, therefore, to the
+protection of rights related to design,
+processes and production
+technologies, utility models as well as
+brands and other trademarks signs all
+of which are crucial for the success of
+the products on the market and the
+Group's competitive positioning.
+
+The Group employs a company that specialises in
+protecting everything related to intellectual property
+(brands, trademarks, ornamental models, utility
+models, patents, etc.).
+
+Trademarks are registered in virtually every country in
+the world; even in those where the Group does not yet
+operate.
+
+With regard to the protection of trademarks, the Group
+has also been operating for many years a system of
+monitoring new registration requests, so that, already
+at the initial stage, it can counter any registration
+concessions of brands that have relevance to their
+own.
+
+ 
+
+Risks related to the integrity of the
+information system identified in
+particular in data integrity, continuity
+of the I.T. system and segregation to
+external and internal access to
+information (vulnerabilities).
+
+The Group implements updating procedures to ensure
+that it is defended against external attacks of computer
+viruses. On the continuity of the information system:
+Piquadro has a data centre with redundant virtualised
+servers on three equivalent nodes renewed in January
+2019. The server room, armoured and fireproof, is
+equipped with: intrusion and smoke detectors, flood
+and temperature sensors all connected to the alarm
+control unit that can alert selected personnel in the
+event of problems detected. The Disaster Recovery
+site has been relocated to Florence in the server room
+of The Bridge, it is updated via VPN via a 100 MB
+connection with fully dedicated bandwidth at night and
+partially reserved during the day. Almost all servers are
+replicated (all critical ones) with a maximum RPO of 24
+hours. During this exercise, Piquadro replaced the
+firewall with single sign-on integration with active
+directory and internet access profiling. The antivirus
+used on all systems connected to the corporate
+network is NOD 32 kept up to date with the latest
+version and monitored through its administration
+console. With regard to data integrity, this is stored on
+databases whose access by developers and
+
+ 
+
+15
+

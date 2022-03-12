@@ -1,0 +1,68 @@
+Bilancio Individuale 2017
+
+ 
+
+*  efficientamento della macchina operativa e della compliance;
+* commerciali e finanza;
+
++ strumenti di governo e reporting;
+
++ infrastruttura tecnologica e della sicurezza.
+
+Si riportano nel seguito i principali progetti awiati e/o conclusi nell’anno.
+
+Multicanalita
+
+Portale di vendita: sono state introdotte nuove soluzioni che permettono di eseguire l'acquisto, da canale internet,
+dei prodotti di Time Deposit e carta prepagata Cart@gile, inoltre é stata completata lintroduzione del processo di
+Firma digitale per la sottoscrizione dei contratti del nuovo Home Banking.
+
+Nuova piattaforma di Home e Mobile Banking: la realizzazione della nuova piattaforma, innovativa rispetto alle
+migliori soluzioni oggi presenti sul mercato, é entrata nella fase di rilascio in produzione per un gruppo ristretto di
+utenti. Nel corso del 2018 sara completata l’estensione a tutti gli utenti.
+
+Realizzazione del sito “E un Paese per Giovani”, che ha permesso di pubblicizzare su larga scala l’incubatore d’im-
+presa per il Mezzogiorno.
+
+Customer Care: sono state realizzate significative evoluzioni della piattaforma di back-office, utilizzata dal Contact
+Center, per l'evoluzione della reportistica e l’ottimizzazione della gestione delle pratiche.
+
+Efficientamento della macchina operativa e della compliance
+
+Adeguamenti normativi: sono stati effettuati sia delle strutture interne, sia dall’outsourcer, gli sviluppi necessari
+all’'adeguamento del sistema informativo a seguito della entrata in vigore di numerose nuove normative con alto
+impatto sui sistemi informativi
+
+Evoluzione strumenti a supporto operativita: sono state realizzate importanti evoluzioni sugli strumenti a supporto
+dei processi interni: sviluppo di procedure e di processi interni alla banca e di strumenti a supporto della gestione
+della sicurezza delle applicazioni interne.
+
+Evoluzioni commerciali e finanza
+
+Esternalizzazione NPL (sofferenze) e UTP: awviate le attivita di integrazione con il sistema informativo Banca e Cer-
+ved per l'esternalizzazione dell'asset dei Non Performing Loans (sofferenze) e degli Unlikely to pay.
+
+Integrazione Business Intelligence Cerved: sono state sviluppate le soluzioni di integrazione tra la PEF e il nuovo
+provider per le BI / VIPO / PERIZIE.
+
+Evoluzioni commerciali: sono state realizzate soluzioni informatiche specifiche a supporto delle iniziative commer-
+ciali, per rendere il processo di vendita di prodotti di terzi integrato con gli strumenti della Banca.
+
+Offerta fuori sede: é stata completata la messa in opera dell'infrastruttura applicativa e tecnologica per effettuare
+la vendita e loperativita “fuori sede”; é stato attivato un canale specifico per i promotori finanziari, integrato con i
+sistemi banca, che permette l’operativita “fuori sede” attraverso la FEA (Firma Elettronica Avanzata) che consente la
+dematerializzazione della documentazione contrattuale.
+
+La piattaforma di Wealth Management é stata arricchita con ulteriori sviluppi, nella componente PFP e Budget, per
+
+gli adeguamenti normativi previsti dalla normativa Mifid Il.
+
+Strumenti di governo e reporting
+
+Evoluzioni Datawarehouse: proseguita l'attivita di consolidamento ed estensione del Datawarehouse aziendale alla
+base egli strumenti di reporting, di monitoraggio e controllo.
+
+ 
+
+69
+

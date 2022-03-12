@@ -1,0 +1,49 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+ristimata la clausola di earn-out da corrispondere alla parte venditrice. Tale
+ammontare, che si é ridotto da II,2 milioni a 7,3 milioni di euro, rappresenta
+al momento la miglior stima del valore intangibile dell’awviamento assegnato
+alla CGU in esame.
+
+ll test di impairment € stato, pertanto, svolto considerando le seguenti CGU:
+
+Euro/milioni Descrizione Avviamento
+
+ 
+
+ 
+
+allocato
+CGU Spagna Banco Mediolanum S.A. 102,8
+CGU Italia Gamax Management AG - Divisione Italia 227
+
+ 
+
+CGU EuroCQs EuroCQ$ S.p.A. 3
+
+METODOLOGIE DI VALUTAZIONE
+
+In continuita con i precedenti esercizi, il valore recuperabile delle CGU é
+stato determinato, ove non diversamente indicato, facendo riferimento al
+valore d’uso. Per la determinazione del valore d’uso lo IAS 36 prevede la
+possibilita di utilizzare il metodo finanziario conosciuto nella dottrina come
+Discounted Cash Flow (DCF). Tale metodo individua il valore d’uso di una
+CGU, o di un’azienda, tramite la stima dei flussi di cassa (operativi) futuri da
+essa generati, attualizzati in funzione dell’arco temporale esplicito in cui si
+ipotizza saranno conseguiti. Nella prassi operativa, nel caso di valutazione
+
+di aziende di credito si ricorre al Free Cash Flow to Equity (FCFE), noto come
+Dividend Discount Model (DDM) nella versione Excess Capital, che determina
+il valore di un’azienda sulla base dei flussi di cassa futuri che sara in grado
+di distribuire ai suoi azionisti, senza intaccare gli assets necessari a sostenere
+lo sviluppo atteso e nel rispetto delle regolamentazioni sul capitale imposte
+dall‘Autorita di Vigilanza, scontati ad un tasso che esprime lo specifico rischio.
+Si nota peraltro che nonostante |’espressione Dividend Discount Model
+richiami la parola dividendo, i flussi di cassa considerati dal modello non
+sono i dividendi che si prevede verranno distribuiti agli azionisti, ma i flussi di
+cassa di cui un’azionista potenzialmente potrebbe beneficiare nel rispetto dei
+limiti delle dotazioni patrimoniali richieste dall’operativita aziendale.
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 210
+

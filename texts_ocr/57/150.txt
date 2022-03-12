@@ -1,0 +1,143 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+
+ 
+
+Sezione 8 — Derivati di copertura - Voce 80
+
+8.1 Derivati di copertura: composizione per tipologia di copertura e per livelli
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FV 31/12/2017 ‘ie FV 31/12/2016 ‘ie
+Livello 1 ivetlo2 | tivettos | 9217/27 1 qivettor | tivetioz | tivetlos | 31/12/2016
+‘A) Derivati finanziari
+1) Fair value 152 104.248
+2 Flussi inariart
+53) Investimenti esterh
+B) Derivati creditizi
+1) Fair value
+2 Flussi inanaiarh
+Totale 152 108.248
+Saas
+
+ 
+
+8.2 Derivati di copertura: composizione per portafogli coperti e per tipologia di copertura
+
+Nel corso del 2017 sono state awiate nuove relazioni di macrocopertura di mutui a tasso fisso individuati in cluster
+distinti ed omogenei, con maturity superiore a 8 anni, attraverso la stipula di appositi contratti di interest rate swap
+di tipo “fixed to floating” come strumenti di copertura. La strategia di efficientamento a medio/lungo termine del
+complessivo profilo di asset management a livello di Gruppo ha previsto, infatti, specifiche operazioni di macro he-
+dging di impieghi a lungo termine, al fine di contenere la complessiva esposizione al rischio di tasso di interesse del
+Gruppo su livelli coerenti con gli obiettivi stabiliti.
+
+La relazione di copertura é formalmente documentata da una hedging card e la tenuta della stessa é verificata sia
+
+attraverso test prospettici che retrospettivi. La copertura é considerata efficace se i] rapporto tra la variazione del
+fair value dell’elemento coperto rispetto allo strumento di copertura é ricompreso nell'intervallo 80-125%.
+
+Sezione 9 - Adeguamento di valore delle attivita finanzi
+
+ 
+
+‘ie oggetto di copertura generica - Voce 90
+
+9.1 Adeguamento di valore delle attivita coperte: composizione per portafogli coperti
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Adeguamento di valore delle attivita coperte / Valori at eesoi7 aint 6
+
+1. Adeguamento positivo 3.618 4.176
+1.1 di specifici portafogli 3.618 4.176
+a) crediti 3.618 4.176
+b) attivita finanziarie disponibili per la vendita 2 2
+1.2 complessivo - -
+2, Adeguamento negativo ; -
+2.1 di specifici portafogti - -
+a) crediti Z “
+b) attivita finanziarie disponibili per la vendita : =
+2.2 complessivo 8 E
+Totale 3.618 4.176
+
+ 
+
+ 
+
+ 
+
+9.2 Attivita oggetto di copertura generica del rischio di tasso di interesse
+
+Apartire dall’esercizio 2009 sono state poste in essere talune operazioni per le quali si é adottata la metodologia del
+“Macro Fair Value Hedge” per la copertura del rischio tasso relativo alle esposizioni di mutui residenziali a tasso fisso.
+Ladeguamento di valore ha per oggetto mutui che sono stati oggetto di copertura generica di fair value con con-
+tratti derivati (interest rate swap). || metodo contabile utilizzato permette di rappresentare in modo simmetrico gli
+
+150
+
+ 
+

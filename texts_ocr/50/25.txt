@@ -1,0 +1,69 @@
+stabilisce un set di indicatori e di soglie di recovery. Tali soglie, una volta superate, comportano
+l‘attivazione di processi manageriali finalizzati al ripristino di una situazione di adeguatezza sui
+diversi profili di rischio; l’eventuale raggiungimento delle suddette soglie comporta una
+tempestiva notifica agli Organi societari oltre che alla BCE. Grazie al Recovery Plan é possibile
+individuare una serie di azioni (c.d. recovery options) che potrebbero essere utili in status di
+Recovery”.
+
+| profili di rischio da monitorare in ambito di RAF e relativi indicatori sono essenzialmente i
+seguenti: solvibilita, redditivita, rischio di credito, rischio di mercato, rischio operativo, rischio di
+tasso di interesse e rischio di liquidita. In coerenza con quanto previsto dalla normativa di
+Vigilanza, per tutti gli indicatori selezionati & stato definito un sistema di soglie quantitative
+articolato in termini di risk appetite, risk tolerance, risk capacity® e risk profile.
+
+In relazione ai principali profili di rischio inclusi nel RAF, il Consiglio di Amministrazione ha
+definito soglie di risk appetite coerenti con la strategia delineata nel piano strategico e limiti di
+tolerance tali da garantire il rispetto delle capacity anche in condizioni di stress.
+Contestualmente alla definizione degli indicatori, il Consiglio di Amministrazione ha approvato
+anche i meccanismi che regolano la governance del processo di RAF in termini di processo di
+aggiornamento e revisione, monitoraggio e escalation.
+
+La struttura di Risk Management é coinvolta in un controllo periodico degli indicatori di RAF al
+fine verificare |’evoluzione dei diversi profili di rischio nel corso del tempo e di misurarne la
+coerenza con i target di rischio/rendimento statuiti. Questa informativa viene fornita al
+Consiglio di Amministrazione che é a sua volta partecipe ai meccanismi di escalation, laddove
+dovessero essere violati i livelli di risk tolerance fissati per i diversi indicatori. In questo caso si
+richiede un intervento per l’attuazione di piani di recovery predisposti dalle funzioni
+assegnatarie.
+
+Coerentemente a quanto statuito dal RAF, approvato dal Consiglio di Amministrazione della
+Capogruppo in data 24 aprile 2018, e come attivita preliminari alla rendicontazione
+ICAAP/ILAAP sono stati identificati i rischi a cui il Gruppo potrebbe essere esposto analizzando
+sia i mercati di riferimento che le tipologie di operativita:
+
+= Rischio di credito e di controparte = Rischio reputazionale
+"  Rischio di mercato = Rischio paese
+
+= Rischio operativo = Rischio trasferimento
+= Rischio di concentrazione = Rischio base
+
+® Rischio di tasso del banking book = Rischio sovrano
+
+Rischio immobiliare
+
+Rischio di liquidita
+
+Rischio residuo
+
+Rischio derivante da operazioni di cartolarizzazione
+Rischio strategico
+
+Rischio di business
+
+Rischio da fondi pensione a prestazioni definite
+Rischio di leva finanziaria eccessiva
+
+Rischio di partecipazione
+
+Rischio di riciclaggio
+
+Rischio modello
+
+Rischio informatico
+
+5 Identifica lo stato in cui la Banca si trova a mettere in atto misure e processi volti al ripristino della propria situazione
+patrimoniale, economica e finanziaria a seguito di un deterioramento significativo della stessa.
+° E’ definita come " livello massimo di rischio che il Gruppo é in grado di assumere senza violare i requisiti regolamentari”.
+
+26
+

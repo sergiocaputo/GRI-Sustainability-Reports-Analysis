@@ -1,0 +1,54 @@
+The impairment test of the item “Equity investments”, carried out also to assess the need for any reversals of
+previously recognised impairment losses, has been performed on an individual basis, considering each
+
+investee’s specific operating objectives.
+
+Based on such approach, the item can be analysed as follows:
+
+(€000) 31 December 2018 31 December 2019 Variation
+Investments in SPEs 481,699 615,973 134,274
+
+ 
+
+Other investments 842,431 697,366 (145,065)
+Total 1,324,130 1,313,339 (10,791)
+
+Special purpose entities (SPEs) are legal entities set up specifically and solely to carry out construction
+contracts that Salini Impregilo is not expected to carry out directly and in which it has an interest equal to its
+share of the tender. These entities have a corporate structure compliant with the customers’ requirements as
+communicated during the tender procedure and considering the specific legal context of the country in which
+the contract will be performed. They are classified depending on whether they are: (i) SPEs, the profit or loss
+of which are allocated to their venturers in line with their interests as provided for by law (i.e., Italian-based
+consortia and consortium companies which operate on a “recharges of costs” basis), and (ii) other SPEs for
+
+which this allocation is not provided for by law.
+
+Due to the periodic allocation of the contract profit or loss to the venturers, the SPEs in item (i) always
+substantially reach breakeven point. Any losses recorded in the contracts performed by these entities are
+recognised by the venturers upon allocation of the contract profits and losses. For the SPEs in item (ii), the
+existence of any losses should be considered in the separate financial statements of Salini Impregilo as their
+contract profit or loss is included in the consolidated financial statements only. The contracts performed by
+these SPEs are therefore considered when testing the company’s investment for impairment. Specifically, the
+SPEs’ financial statements, which include the estimated contract profit or loss and are prepared in accordance
+with the IFRS as interpreted by the company’s accounting policies, are considered as they show the entity’s
+
+estimated cash flows.
+
+The company adjusted the impairment losses in 2019 through the provision for risks on equity investments
+related to the SPEs CMT Copenaghen Metro (€5.3 million), Grupo ICT II (€0.9 million) and Salini Australia Pty
+(€2.3 million).
+
+Following the amendments to IAS 28 (applicable from 1 January 2019), the loan given to the SPE Grupo Unidos
+por el Canal S.A. (Panama) was tested for impairment as it was disbursed to financially support the SPE and,
+therefore, increases the equity investment’s carrying amount. The impairment test was performed by
+discounting the expected cash flows using the assumed settlement of the claims and other assets recognised
+by the SPE as the drivers. Specifically, the cash flows comprised the operating expenses (mainly legal fees)
+
+and collections expected in line with the estimated payment timeline of the claims.
+
+The discount rate (4.2% - 4.5%) was defined considering:
+
+ 
+
+433
+

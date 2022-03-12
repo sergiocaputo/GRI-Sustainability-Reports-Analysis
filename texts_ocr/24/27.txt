@@ -1,0 +1,58 @@
+>
+
+m IMPIEGATO 1°
+m IMPIEGATO 2°
+m IMPIEGATO 3°
+m IMPIEGATO 4°
+im IMPIEGATO 5°
+IMPIEGATO 6°
+OPERAIO 6°
+
+ 
+
+CATEGORIA LAVORATORI
+
+CTE TOM LS Cy
+
+MASCHIO/FEMMINA
+
+TEM RTC)
+TUE MINOR nny
+TOMO eG)
+TOMO nC)
+Impiegato/a livello secondo
+
+Impiegato/a livello primo
+
+ 
+
+Di seguito sono mostrate le assunzioni e cessazioni di contratto negli ultimi
+cinque anni, dal 2011 alla fine del 2018.
+
+Solitamente i contratti di collaborazione riportano anche la data di cessazione,
+quindi le interruzioni dei rapporti di lavoro avvengono per cessazione
+“naturale” del contratto. Nel 2018 i licenziamenti sono avwenuti con il cessare
+del contratto, 0 per fine rapporto stagionale, o per dimissioni volontarie, o
+per risoluzione consensuale, 0 per pensionamento. II turnover in Coldiretti
+
+TURNOVER
+
+SALDO y
+
+2011 2012 2013 2014
+
+FULL/PART-TIME INDETERMINATO /DETERMINATO
+
+Verona é legato alla stagionalita in quanto le mansioni della maggior parte dei
+dipendenti sono legate a scadenze annuali, soprattutto fiscali, che richiedono
+maggior personale in particolari periodi dell’anno.
+
+Con “turnover” ci si riferisce a un turnover assoluto, cioé ai dipendenti assunti
+nel 2018 che hanno concluso |’esperienza lavorativa nel 2018.
+
+Tale dato nel 2018 ammonta a 28, con picchi di lavoro stagionale.
+
+2015 2016 2017 2018
+
+ 
+

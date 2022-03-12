@@ -1,0 +1,63 @@
+Responsabilita ambientale
+
+:@ Banco Desio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2019
+Auto personale Fonte Unita Coefficiente CO, Coefficiente CH, Coefficiente N,O
+(@> Banca dati ISPRA 2016 dei fattori emissivi medi
+CT \ Benzina . A g/Km 169,941 0,02364 0,00240
+del trasporto stradale in Italia
+Banca dati ISPRA 2016 dei fattorl emissivi medi g/km 98,335 0.01772 0,00166
+del trasporto stradale in Italia
+Banca dati ISPRA 2016 dei fattorl emissivi medi g/km 175,244 0,00031 0,00652
+del trasporto stradale in Italia
+Banca dati ISPRA 2016 dei fattorl emissivi medi g/km 180,392 0,01857 0,00282
+del trasporto stradale in Italia
+2018
+Auto Unita di H . .
+personale Fonte misura Coefficiente CO, Coefficiente CH, Coefficiente N,O
+Benzina Banca dati ISPRA 2016 dei fattori emnissivi medi del trasporto stradale in Italia g/Km 183,915 0,02399 0,00252
+Benzing Banca dati ISPRA 2016 dei fattori ernissivi medi del trasporto stradale in Italia 130,837 0,01766 0,00165
+Diesel Banca dati ISPRA 2016 dei fattori emnissivi medi del trasporto stradale in Italia g/Km 171,567 0,00037 0,00665
+GPL Banca dati ISPRA 2016 dei fattori emnissivi medi del trasporto stradale in Italia g/Km 182,723 0,02315 0,00253
+2017
+Auto Unita di ; . .
+personale Fonte misura Coefficiente CO, Coefficiente CH, Coefficiente N,O
+Benzina Banca dati ISPRA 2015 dei fattori emissivi medi del trasporto stradale in Italia g/Km 181,276 0,02446 0,00265
+Diesel Banca dati ISPRA 2015 dei fattori emissivi medi del trasporto stradale in Italia g/Km 155,612 0,00052 0,00676
+GPL Banca dati ISPRA 2015 dei fattori emissivi medi del trasporto stradale in Italia g/Km 180,359 0,02271 0,00280
+
+ 
+
+ 
+
+1571
+

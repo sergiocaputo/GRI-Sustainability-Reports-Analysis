@@ -1,0 +1,238 @@
+ 
+
+(segue)
+Implementare
+sistemi di
+telecontrollo e
+intervento da
+remoto
+
+Installare smart meters sul 70% delle utenze di Acea Ato 2.
+
+ACEAATO 2
+
+N. utenze con smart meter
+/n. utenze di Acea Ato
+2 (662.000 perimetro
+2017) = 17.095/662.000,
+
+paria circa il 3%
+
+Nellanno sono stati installati
+17.095 smart meter
+
+con modulo proteus, un
+trasmettitore che consente
+di inviare a distanza i dati
+
+del contatore.
+
+ 
+
+Telecontrollare il 100% degli impianti IP.
+ARETI CIlluminazione Pubblica)
+
+% di quadri comando
+telecontrollati = 28,5%
+
+Sono stati attivati 1.226
+quadri telecontrollati.
+
+ 
+
+Implementare lattuale sistema di telecontrollo (225 impianti)
+con lobiettivo di raggiungere in remoto un totale pari
+
+a 450 impianti.
+
+ACEAATO5
+
+N. impianti portati in TLC
+= 278 di cui 91 nel 2019
+
+Sono stati installati 91 impianti
+per il telecontrollo.
+
+ 
+
+Telecontrollare almeno il 15% del totale di linee BT.
+
+ARETI
+
+% di linee BT
+
+telecontrollate
+
+Implementato il progetto pilota
+per il telecontrollo delle linee
+
+BT su 20 cabine.
+
+ 
+
+Telecontrollare il 100% degli impianti depurativi con capacita
+>2000 AE (pari a 13 impianti), il 100% degli impianti di
+sollevamento fognario (13 impianti) e il 100% degli impianti in
+
+acquedotto della Citta di Benevento (27 impianti).
+GESESA
+
+N. impianti depurativi
+>2000 AE
+telecontrollati/n. impianti
+depurativi >2000 AE
+totali
+
+N. impianti sollevamento
+fognario telecontrollati/n.
+impianti sollevamento
+fognario totali
+
+N. impianti acquedotto
+Benevento telecontrollati/n.
+impianti acquedotto
+Benevento totali
+
+Nel corso dell’anno sono
+stati realizzati interventi
+di: adeguamento di
+hardware e software del
+TLC, reindirizzamento
+delle postazioni di
+telecontrollo, sostituzione
+e ammodernamento
+
+di sensoristiche ed
+implementazione di sistemi
+di allarmi. | siti dotati
+
+di tecnologia dedicata
+
+ai sistemi di telecontrollo,
+
+al 31.12.2019, sono 26.
+
+ 
+
+Applicazione di nuove tecnologie lol e sensoristica avanzata con
+linstallazione di 300 sensori, finalizzata alla tutela ambientale,
+con il monitoraggio, attraverso il telecontrollo, degli scaricatori
+di piena delle acque reflue.
+
+GORI
+
+Applicazione tecnologie:
+Si/No
+
+N. sensori installati/n.
+sensori da installare
+
+Sono state awiate le attivita per
+il raggiungimento del target.
+
+ 
+
+Applicazione di
+nuove tecnologie
+a ricerca perdite
+e altri processi
+operativi
+
+Testare in area pilota 5 nuove tecnologie di ricerca
+perdite e implementare la distrettualizzazione sul bacino
+depurativo romano.
+
+ACEA ELABORI
+
+N. tecnologie testate = 3
+
+Completati test pilota di 3
+tecniche satellitari.
+
+ 
+
+Ampliare lo spettro di indagini analitiche alle matrici solide
+derivanti dal trattamento dei rifluti attraverso ’implementazione
+di tecniche analitiche ad alto contenuto tecnologico.
+
+ACEA ELABORI
+
+N. indagini introdotte = 2
+
+Introdotta la ricerca con
+tecnica spettrometrica di massa
+su decabromodifeniletere,
+penatclorofenolo e derivati, per
+la valutazione dell’ammissibilita
+in discarica della matrice solida.
+E in fase di sperimentazione
+
+un metodo di prova per la
+determinazione del contenuto
+di cloro organico nei fanghi
+
+di depurazione.
+
+ 
+
+Implementare tecniche per la rilevazione di microplastiche |
+n matrici ambientali (acque trattate - Tevere, acque
+
+reflue e fanghi) e applicarle nei piani di monitoraggio
+
+su matrici ambientali.
+
+ACEA ELABORI
+
+Implementazione tecniche
+rilevazioni microplastiche:
+Si/No = Si
+
+Applicazione in piano di
+monitoraggio su matrici
+
+ambientali: Si/No = No
+
+Individuata la tecnica
+Microscopia Raman
+
+per lidentificazione e
+
+la quantificazione delle
+microplastiche anche inferiori
+a5 um e definito un accordo
+con ENEA e [Universita
+
+La Sapienza di Roma per la
+messa a punto di programmi
+di ricerca e monitoraggio su
+matrice acquosa.
+
+ 
+
+Applicazione di nuove tecnologie lol e sensoristica avanzata
+con Iinstallazione di 300 sensori per lo sviluppo di sistemi di
+telecontrollo delle reti idriche e la ricerca perdite.
+
+GORI
+
+Applicazione tecnologie:
+Si/No = Si
+
+N. sensori installati/n.
+sensori da istallare =
+
+55/300
+
+Installati complessivamente
+55 apparati tra strumenti di
+monitoraggio delle pressioni
+basati sullo standard LoORaWAN
+e misuratori di portata collegati
+
+allo standard NB-loT.
+
+ 
+
+66 GRUPPO ACEA/BILANCIO DI SOSTENIBILITA 2019
+

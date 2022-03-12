@@ -1,0 +1,57 @@
+ 
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalita di presentazione dei bilanci, metodologie e principi contabili applicati
+
+effettuato con riferimento all’unita organizzativa generatrice dei flussi finanziari (di seguito anche cash generating unit 0 CGU)
+cui attribuire l’awviamento. La metodologia adottata per |’effettuazione del test e gli effetti contabili dell’eventuale riduzione di
+valore é descritta al paragrafo “Riduzione di valore di attivita”.
+
+Diritti di brevetto industriale e di utilizzazione
+delle opere dell’ingegno, di licenze
+e di diritti simili
+
+| costi relativi all’acquisizione di Diritti di brevetto industriale e di utilizzazione delle opere dell'ingegno, di licenze e di diritti simili
+sono ammortizzati in base al metodo lineare, in modo da distribuire il costo sostenuto per l’acquisizione del diritto lungo il
+periodo piu breve tra quello di atteso utilizzo e la durata dei relativi contratti, a partire dal momento in cui il diritto acquisito
+diviene esercitabile.
+
+| costi riguardanti lo sviluppo e la manutenzione dei programmi software sono imputati al Conto economico nell’esercizio in cui
+sono sostenuti. | costi che sono direttamente associati alla produzione di prodotti software unici e identificabili e che generano
+benefici economici futuri con orizzonte temporale superiore a un anno vengono imputati alla voce Attivita immateriali. | costi
+diretti — ove identificabili e misurabili — includono l’onere relativo ai dipendenti che sviluppano il software, nonché eventuali costi
+direttamente correlati. L'ammmortamento é calcolato in base alla stimata vita utile del software, di norma in 3 anni. | costi di
+ricerca non sono mai capitalizzati.
+
+Beni in leasing
+
+| beni posseduti mediante contratti di /easing finanziario, attraverso i quali sono sostanzialmente trasferiti al Gruppo i rischi e i
+benefici legati alla proprieta, sono iscritti nelle attivita al loro valore corrente 0, se inferiore, al valore attuale dei pagamenti minimi
+dovuti per il easing. La corrispondente passivita verso il locatore, pari alla quota capitale dei canoni futuri da rimborsare, é
+iscritta nei debiti finanziari. | beni sono ammortizzati applicando il metodo lineare, in base alla vita utile delle varie categorie di
+beni, stimata con le stesse modalita indicate per le attivita materiali e immateriali.
+
+Le locazioni nelle quali il locatore mantiene sostanzialmente i rischi e benefici legati alla proprieta dei beni sono classificate nei
+leasing operativi. | costi per leasing operativi sono rilevati linearmente a Conto economico lungo la durata del contratto di /easing.
+
+Riduzione di valore di attivita
+
+Aciascuna data di riferimento di bilancio, le Attivita materiali e immateriali con vita definita sono analizzate al fine di identificare
+l’esistenza di eventuali indicatori di riduzione del loro valore (ai sensi dello IAS 36). Se si manifesta la presenza di tali indicatori, si
+procede alla stima del! valore recuperabile delle attivita interessate. Il valore recuperabile di un’attivita é il maggiore tra il suo fair
+value, ridotto dei costi di vendita, e il suo valore d’uso, laddove quest’ultimo é il valore attuale dei flussi finanziari futuri stimati
+per tale attivita. Nel determinare il valore d’uso, i flussi finanziari futuri attesi sono attualizzati con un tasso di sconto che riflette
+la valutazione corrente di mercato del costo del denaro, rapportato al periodo dell’investimento e ai rischi specifici dell’attivita.
+ll valore d’uso delle attivita che non generano flussi finanziari indipendenti € determinato in relazione alla cash generating unit
+(CGU) cui tale attivita appartiene.
+
+Prescindendo dal riscontro di eventuali indicatori di riduzione di valore, viene effettuato impairment test almeno una volta
+l’anno per le seguenti specifiche attivita:
+
+= attivita immateriali con una vita utile indefinita o che non sono ancora disponibili: tale verifica pud essere fatta in qualsiasi
+momento durante un esercizio, a patto che awwenga nello stesso momento ogni anno;
+
+a l’awiamento acquisito in un’aggregazione aziendale.
+
+145
+

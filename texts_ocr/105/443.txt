@@ -1,0 +1,77 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Per il Patrimonio BancoPosta rilevano le seguenti categorie di strumenti finanziari:
+
+= Titoli obbligazionari plain governativi e non, italiani ed esteri, quotati su mercati non attivi o non quotati: la valutazione viene
+effettuata tramite tecniche di discounted cash flow che prevedono |’attualizzazione dei flussi futuri utilizzando in input una curva
+dei rendimenti che incorpora lo spread rappresentativo del rischio credito in base a spread determinati su titoli benchmark
+dell’emittente, o di altre societa con caratteristiche similari all’emittente, quotati e liquidi. La curva dei rendimenti pud essere
+soggetta a rettifiche di importo contenuto, per tenere conto del rischio di liquidita derivante dalla mancanza di un mercato attivo.
+
+= Titoli azionari non quotati per i quali € possibile fare riferimento al prezzo quotato di titoli azionari emessi dal medesimo
+emittente. A essi é applicato un fattore di sconto, quotato da primarie controparti di mercato, che rappresenta il costo impli-
+cito nel processo di conversione delle azioni non quotate in azioni quotate.
+
+= Strumenti finanziari derivati:
+
+e Plain vanilla interest rate swap: la valutazione viene effettuata utilizzando tecniche di discounted cash flow che
+prevedono |’attualizzazione dei differenziali tra i flussi cedolari propri delle due gambe (receiver e payer) previste dal
+contratto. La costruzione delle curve dei rendimenti per la stima dei futuri flussi contrattuali indicizzati a parametri di
+mercato (tassi monetari e/o inflazione) e l’attualizzazione dei differenziali viene effettuata applicando le prassi in vigore
+sui mercati dei capitali.
+
+e Interest rate swap con opzione implicita: la valutazione avviene applicando l’approccio building block che prevede
+la scomposizione della posizione strutturata nelle sue componenti elementari: componente lineare e componente
+opzionale. La valutazione della componente lineare viene effettuata applicando le tecniche di discounted cash flow
+definite per i plain vanilla interest rate swap al punto precedente. La componente opzionale che, considerate le
+caratteristiche degli strumenti finanziari derivati presenti nei portafogli del Patrimonio BancoPosta, é riconducibile ai
+fattori di rischio tasso 0 inflazione, viene valutata mediante un approccio in formula chiusa secondo modelli classici
+di valutazione delle opzioni aventi come sottostante tali specifici fattori di rischio.
+
+¢ Bond forward: la valutazione viene effettuata attualizzando il differenziale tra il prezzo forward del titolo sottostante il
+derivato aggiornato alla data di valutazione ed il prezzo di regolamento.
+
+e Forward su Cambi: la valutazione viene effettuata sulla base del differenziale tra il reciproco del cambio forward regi-
+strato alla data di valutazione ed il reciproco del cambio forward fissato alla Trade Date.
+
+ 
+
+Gli strumenti finanziari derivati presenti nei portafogli del Patrimonio BancoPosta sono soggetti a collateralizzazione e pertan-
+to il fair value non necessita di aggiustamenti per tener conto del merito creditizio della controparte. La curva dei rendimenti
+impiegata per |’attualizzazione é selezionata in coerenza con le modalita di remunerazione previste per il cash collateral.
+Lapproccio descritto € confermato anche nel caso di garanzie rappresentate da titoli di debito, considerato il livello conte-
+nuto di rischio di credito che contraddistingue gli effettivi titoli che costituiscono collateral per BancoPosta.
+
+= Buy and Sell Back per impiego temporaneo della liquidita: la valutazione viene effettuata tramite tecniche di discounted cash
+flow che prevedono |’attualizzazione dei futuri flussi contrattuali. | Buy and Sell Back sono soggetti a collateralizzazione e
+pertanto il fair value non necessita di aggiustamenti per tenere in considerazione il merito creditizio.
+
+= Passivita finanziarie quotate su mercati non attivi o non quotate costituite da Repo di finanziamento: la valutazione viene
+effettuata tramite tecniche di discounted cash flow che prevedono |’attualizzazione dei futuri flussi contrattuali. | Repo sono
+soggetti a collateralizzazione e pertanto il fair value non necessita di aggiustamenti per tenere in considerazione il merito
+creditizio.
+
+ 
+
+Livello 3: appartengono a tale livello le valutazioni di fair value effettuate utilizzando oltre agli input di Livello 2 anche input non
+osservabili per |’attivita o per la passivita. Per il Patrimonio BancoPosta rientrano in tale categoria titoli azionari per i quali non sono
+disponibili prezzi osservabili direttamente o indirettamente sul mercato. La valutazione di tali strumenti viene effettuata a partire
+dal prezzo quotato di titoli azionari emessi dal medesimo emittente al quale viene applicato un fattore di sconto, calcolato tramite
+modello interno, che rappresenta il costo implicito nel processo di conversione delle azioni non quotate in azioni quotate.
+
+A.4.2 Processi e sensibilita delle valutazioni
+
+| processi utilizzati per le valutazioni di fair value ricorrenti e non ricorrenti classificate al Livello 3 sono descritti rispettivamente
+ai paragrafi A.4.1 e A.4.5 della presente Parte A.
+
+Lanalisi di sensitivita delle valutazioni del fair value ricorrenti classificate nel Livello 3 della gerarchia € condotta sulle azioni
+Series C Visa Incorporated Convertible Participating Preferred Stock. In particolare la valutazione di tali strumenti finanziari pud
+subire modifiche a seguito dei cambiamenti che potrebbero intervenire nel fattore di sconto applicato nella determinazione del
+fair value per tenere conto dell’illiquidita propria di tali azioni. Il fattore di sconto, stimato tramite un modello interno di valutazio-
+ne, in particolare, é influenzato dalla volatilita annua registrata dall’azione sottostante. Applicando la volatilita massima prevista
+dal modello utilizzato, la riduzione del fair value ipotizzabile pud raggiungere il 31% circa.
+
+|
+442
+

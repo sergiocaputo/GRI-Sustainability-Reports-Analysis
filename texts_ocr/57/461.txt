@@ -1,0 +1,90 @@
+Bilancio Consolidato 2017
+
+ 
+
+di primarie partnership, nonché (iv) gli investimenti in buona parte gia realizzati, rendono probabile e sostenibile il
+raggiungimento dei target prefissati.
+
+Sulla scorta delle analisi appena esposte, partendo dalle evidenze fattuali storiche e tenuto conto degli avanzamenti
+recenti, si é ritenuto necessario prefigurare degli scenari probabilistici utili a cogliere il rischio di mancato raggiungi-
+mento (c.d. execution risk) dei predetti obiettivi (anche parziale), secondo delle predefinite tassonomie.
+
+In particolare, a fronte dello scenario probabilistico combinato di raggiungimento:
+
++ del 90% di “extra-performance” sul costo della raccolta (-10 bps nel 2019), a cui corrisponde un grado di proba-
+bilita classificato secondo la tassonomia prima richiamata come “Virtualmente certo”, e
+
++ del 60% di “extra-performance” sulla raccolta indiretta assicurativa (+150 milioni di euro annui negli esercizi
+2019-2022), a cui corrisponde un grado di probabilita classificato come “Probabile”, che allineerebbe la crescita
+prospettica dell'aggregato di raccolta indiretta ai piu recenti piani industriali pubblicati,
+
+l'impairment test ha evidenziato un valore recuperabile dell’avviamento consolidato relativo alla CGU BP Bari al di
+sotto del rispettivo valore contabile, per euro 18,5 milioni.
+
+Di seguito si riporta l'analisi di sensitivity, che riporta il dettaglio dei differenziali tra valore d’uso e valore contabile
+dell'avviamento al variare delle probabilita associate agli obiettivi di contrazione del costo della raccolta e dicrescita
+della raccolta indiretta.
+
+ 
+
+ 
+
+ 
+
+Contrazione costo raccolta
+
+100% 90% 80% 70% 60% 50% 40% 30% 20% 10% 0%
+
+100% 49 17,5 -24,9 32,4 39,8 -47,3 54,7 -62,2  -69,6
+
+90% 0,9 -214 -28,9 363 -43,8 -51,2 587 -66,1 -73,6
+
+g 80% -3,0 -25,4 -32,8 40,3 -47,7 -55,2 62,6 -70,1 -77,5
+5 70% 6,9 29,3 -36,8 44,2 51,7 -591 666 -74,0 -81,5
+. 60% -10,9 -33,2 40,7 481 -55,6 -63,1 -70,5 -78,0 -85,4
+8 50% -14,8 -37,2 44,6 52,1 59,5 -67,0 744 -81,9 89,4
+c 40% -18,8 “41,1 -48,6 56,0 -63,5 -70,9 784 -85,8  -93,3
+$ 30% -22,7 -45,1 -52,5 60,0 -67,4 -74,9 -82,3 -89,8  -97,2
+g 20% -26,7 -49,0 56,5 63,9 -71,4 -78,8 -863 -93,7 -101,2
+10% -30,6 -53,0 -60,4 67,9 -75,3 -82,8 -90,2 -97,7 -105,1
+
+0% -34,5 56,9 -644 -71,8 -79,3 -86,7 -94,2 -101,6 -109,1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quanto appena espresso risulta ancora maggiormente corroborato se si considera la stima aggiornata del Ke alla
+data piu recente (febbraio 2018), pari all’8,7% circa (in decrescita rispetto all’8,9% di dicembre 2017 e sostanzial-
+mente stabile rispetto all’8,6% del 30 giugno 2017). Laggiornamento del parametro induce quindi a ritenere che la
+crescita del ke osservata nel secondo semestre del 2017 - poi venuta meno nel corso dei primi mesi del 2018 - sia
+riconducibile in special modo a meri fenomeni di volatilita delle condizioni di mercato. Considerando il Ke alla data
+della presente informativa, l’esito del test al 31 dicembre 2017, scaturito dalle suddette combinazioni di scenari
+probabilistici, ha evidenziato pertanto un delta negativo (18,5 milioni di euro) piu conservativo rispetto a quello che
+si sarebbe determinato in assenza dei predetti fenomeni di volatilita.
+
+Sulla base di quanto sopra esposto, gli Amministratori della Capogruppo, preso atto degli approfondimenti svolti,
+hanno pertanto ritenuto opportuno sterilizzare parzialmente gli effetti delle due suddette componenti di extra-per-
+formance secondo le modalita sopra illustrate, ravvisando la necessita di rilevare una rettifica di valore dell’avvia-
+mento consolidato pari ad euro 18,5 milioni riferibile alla CGU BP Bari, con contropartita a conto economico nella
+voce 260 “Rettifiche di valore dell’avviamento”.
+
+Al 31 dicembre 2017, pertanto, gli avviamenti consolidati residui ammontano ad euro 105,9 milioni, contro gli Euro
+124,4 milioni dell’esercizio precedente.
+
+Lesito del test di impairment a livello consolidato ha assunto rilevanza nel Bilancio individuale della Capogruppo.
+Anche nel Bilancio individuale di BP Bari é stata infatti effettuata una rettifica di valore dell'avviamento, pari ad euro
+18,5 milioni.
+
+ 
+
+461
+

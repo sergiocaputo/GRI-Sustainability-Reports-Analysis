@@ -1,0 +1,80 @@
+Bilancio Individuale 2017
+
+ 
+
+iii. per le attivita e le passivita a vista o con scadenza nel breve periodo (inferiore a 12 mesi) o indeterminata, il valore
+contabile di iscrizione, al netto della svalutazione collettiva, é considerato una buona approssimazione del Fair
+value.
+
+Visto che tali attivita finanziarie non vengono generalmente scambiate sul mercato, la determinazione del Fair value
+si basa sull’utilizzo di parametri interni non direttamente osservabili sul mercato e quindi tali strumenti sono classi-
+ficati nel Livello 3 del Fair value.
+
+Debiti verso banche e clientela e altri titoli in circolazione
+
+Per strumenti del passivo iscritti nelle voci debiti verso banche e debiti verso la clientela, il cui Fair value € deter-
+minato ai soli fini dell'informativa di bilancio, si distingue a seconda che si tratti di debiti a vista o a medio/lungo
+termine.
+
+In particolare:
+
++ peri debiti a vista o con scadenza nel breve periodo (inferiore a 12 mesi) 0 indeterminata, per i quali risulta tra-
+scurabile il fattore tempo, il valore contabile si assume rappresentativo del Fair value;
+
++ peri debiti a medio/lungo termine il Fair value é determinato mediante l'utilizzo di tecniche di valutazione quali il
+“Discounted Cash Flow”, ossia attualizzazione dei flussi di cassa futuri, scontati a un tasso di mercato che tenga
+comundque conto di tutti i fattori di rischio a cui € esposto lo strumento.
+
+Visto che tali passivita finanziarie non vengono generalmente scambiate sul mercato, la determinazione del Fair
+value si basa sull'utilizzo di parametri interni non direttamente osservabili sul mercato e quindi tali strumenti sono
+classificati nel Livello 3 del Fair value.
+
+ 
+
+A.4.2 Processi e sensibilita delle valutazioni
+
+La valutazione, anche ai fini contabili, di tutte le attivita e passivita finanziarie sono effettuate dalle funzioni interne
+specifiche della Banca.
+
+La Banca Popolare di Bari si é dotata di procedure e di policy che descrivono i modelli valutativi e gli input utilizzati.
+
+Nella seguente tabella si riporta l’analisi di sensitivity del Fair value degli strumenti di livello 3 alla variazione degli
+input non osservabili utilizzati nell'ambito della valutazione degli stessi.
+
+La tabella evidenzia, per portafoglio di classificazione, le variazioni plusvalenti o minusvalenti del Fair value degli
+strumenti finanziari di livello 3 rispetto a un range percentuale di scostamento degli input significativi non osserva-
+bili.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Imports tm Euro/000
+Sensitivity del Fair value rispetto ad una variazione percentuale di +/-10% deWinput significativo
+Tipologia strumento
+
+ditto vah Input significative a Variazione _Variazione
+‘Dispenthtia por a wena” non osservabile 31/12/2017 minusvalente plusvalente
+Transazione diretta Prezzo della transazione 24.238 24m 2426
+Titoli di capitale Attual.ne flussi di cassa (DCF) EBITDA 8.000 1.695 °
+‘Metodo reddituale (income approach) Netincome 707 ° ss79
+
+Quote di fondi ws
+iemebitent ONCE Adjustment del NAV Parametri di rischio 100.168 3050 4558
+
+ 
+
+Lanalisi di sensibilita viene svolta per gli strumenti finanziari per cui i modelli valutativi adottati rendono possibile
+leffettuazione di tale esercizio. La sensitivity non é applicabile, invece, in relazione a modelli basati su valutazioni e/o
+informazioni fornite da terze parti.
+
+ 
+
+141
+

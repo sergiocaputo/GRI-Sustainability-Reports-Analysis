@@ -1,0 +1,47 @@
+U'anno base per il calcolo delle emissioni di CO2 é il 2017 per gli scope 1 e 2, 2018 per lo scope
+3. | Gas serra inclusi nel calcolo sono CO2, CH4, N20. La fonte dei fattori di emissione utilizzati
+per il calcolo delle emissioni di CO2 equivalente con il metodo “location based” é il registrio AIB
+(Association of Issuing Bodies) per le sedi europee e IEA (International Energy Agency) per le sedi
+cilene. Per il calcolo delle emissioni di CO2 equivalente con il metodo “market based” sono state
+considerate le emissioni residue attribuibili all'energia acquistata non da fonti rinnovabili, e a
+queste é stato applicato il fattore di emissione comunicato dal fornitore (registro ISPRA 2016). Per
+i GWP (Global Warming Potential), utilizzati per CH4 e N20, la fonte é il report dell’IPCC “Climate
+Change 2013: The Physical Science Basis".
+
+| fattori utilizzati per la conversione dei Gj e dei Kwh sono quelli riportati nelle linee guida per il
+reporting di sostenibilita.
+
+| dati relativi al 2018 e al 2019 si riferiscono a5 sedi Italiane (Via Corte d’Appello, Via Traiano, New
+Building Bertola, Via Carnia e Udine), 3 sedi spagnole (Barcellona, Madrid e Valencia) e 1 sede cilena.
+| dati del 2016 e2017 non si riferiscono alle sedi locali/filiali. Si segnala che nel 2019 é stata
+chiusa la sede di Italiana di via Carnia (ex Uniqa).
+
+Il criterio adottato nel 2018 e nel 2019 per selezionare gli immobili di cui rendicontare i relativi
+consumi é stato quello di considerare soltanto le sedi strumentali con pit di 50 dipendenti.
+
+Si segnala che i dati relativi al periodo 1° ottobre 2016/30 settembre 2017 sono stati oggetto di
+restatement.
+
+Il calcolo delle emissioni di Scope 3 per I’'anno 2019 é il risultato di una stima numerica per
+approssimazione, proposta a partire dai risultati dello studio condotto sui dati raccolti per i viaggi
+di lavoro e gli spostamenti casa-lavoro dei dipendenti al 31 dicembre 2018.
+
+In particolare, se da un lato non si prevedono particolari modifiche relative al numero di tonnellate
+di CO2 emesse per i viaggi di lavoro, é stato invece possibile stimare un decremento del numero
+di tonnellate di CO2 emesse per gli spostamenti casa-lavoro, principalmente dovuto alla larga
+fruizione dell'iniziativa di smart working.
+
+ll risparmio di CO2 per una giornata in cui il dipendente non si é recato al lavoro, lavorando da
+casa, @ stimato a 4 Kg di CO2. Moltiplicando questo numero per il numero totale di giornate di
+smart working fruite dai dipendenti delle Societa italiane e spagnole (totale di 24.605 giorni) é
+stato possibile ipotizzare un decremento di 98,42 tonnellate di CO2 nel corso del 2019, per un
+totale di 2970 tonnellate, come illustrato nella tabella seguente.
+
+=< REALE
+
+BN GROUP
+
+TOGETHERMORE
+
+ 
+

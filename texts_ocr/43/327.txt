@@ -1,0 +1,145 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+3. ESPOSIZIONI CREDITIZIE DETERIORATE
+
+3.1 Strategie e politiche di gestione
+
+La possibile insorgenza di eventuali attivita deteriorate viene
+puntualmente e costantemente monitorata attraverso |’e-
+same delle posizioni scadute e sconfinate, nonché median-
+te accurata analisi di tutti gli ulteriori indicatori disponibili.
+Le posizioni alle quali viene attribuita una valutazione di rischio-
+sita elevata, confermata nel tempo, vengono evidenziate ed
+allocate in differenti categorie a seconda del profilo di rischio.
+Sono classificate tra le sofferenze le esposizioni nei confronti
+di soggetti in stato di insolvenza (anche non accertato giudi-
+zialmente) o in situazioni sostanzialmente equiparabili, indi-
+pendentemente dalle eventuali previsioni di perdita formulate
+dall‘intermediario.
+
+Sono classificate tra le inadempienze probabili le esposizioni
+per le quali si ravvisa l’improbabilita che il debitore adempia
+integralmente (in linea capitale e/o linea interessi) alle obbli-
+gazioni creditizie.
+
+Infine sono incluse tra i crediti ad andamento anomalo anche
+le posizioni scadute e/o sconfinate che abbiano superato le
+condizioni oggettive di arretrati di pagamento, in relazione
+a quanto disposto dalla Banca d'Italia. Le normative interne
+in tema di attivita creditizia disciplinano le modalita di tra-
+sferimento delle posizioni in bonis ad attivita deteriorate,
+la tipologia di crediti anomali, la loro Gestione nonché gli Or-
+gani Aziendali che hanno facolta di autorizzare il passaggio
+delle posizioni tra le diverse classificazioni di credito.
+
+Le sofferenze, al netto delle rettifiche, risultano contenute
+(0,01% degli impieghi a clientela). Le previsioni di perdita
+sono formulate analiticamente per ogni singola posizione sul-
+la base di tutti gli elementi di valutazione rilevanti (consisten-
+za patrimoniale del debitore, proventi da attivita lavorativa,
+data di presunto recupero, ecc.). Le valutazioni sono esamina-
+te periodicamente ed in presenza di nuovi e significativi ele-
+menti sono oggetto di revisione.
+
+3.2 Write-off
+
+Per quel che attiene ai crediti deteriorati, si ricorda, infine,
+
+che il Gruppo Fideuram ricorre allo stralcio/cancellazione - in-
+
+tegrale o parziale - di partite contabili inesigibili (c.d. write off)
+
+e procede alla conseguente imputazione a perdite del residuo
+
+non ancora rettificato nei seguenti casi:
+
+a) irrecuperabilita del credito, risultante da elementi certi e
+precisi (quali, a titolo di esempio, irreperibilita e nullatenen-
+za del debitore, mancati recuperi da esecuzioni mobiliari ed
+immobiliari, pignoramenti negativi, procedure concorsuali
+chiuse senza completo ristoro, se non vi sono ulteriori ga-
+ranzie utilmente escutibili, ecc.);
+
+b) rinuncia al credito, in conseguenza di remissione unilaterale
+del debito o residuo a fronte di contratti transattivi;
+
+©) cessioni di credito.
+
+Gli eventuali recuperi da incasso successivi al write-off sono
+rilevati fra le riprese di valore del conto economico.
+
+3.3 Attivita finanziarie impaired acquisite o originate
+
+In base al principio IFRS9, i crediti considerati deteriorati gia
+dal momento della rilevazione iniziale in bilancio, in ragione
+dell’elevato rischio di credito associato, vengono definiti Pur-
+chased or Originated Credit Impaired Asset (POCI). Tali crediti,
+
+qualora rientrino nel perimetro di applicazione dell'impair-
+ment ai sensi dell’IFRS9, vengono valutati appostando - sin
+dalla data di rilevazione iniziale - fondi a copertura delle per-
+dite che coprano |‘intera vita residua del credito (c.d. Expected
+Credit Loss lifetime). Trattandosi di crediti deteriorati, ne é
+prevista liscrizione iniziale nell‘'ambito dello Stage 3, ferma
+restando la possibilita di essere spostati, nel corso della vita,
+a Stage 2 nel caso in cui, sulla base dell’analisi del rischio cre-
+ditizio, non risultino pit impaired.
+
+Al 31 dicembre non si registrano posizioni POC! nel portafo-
+glio del Gruppo Fideuram.
+
+4. ATTIVITA FINANZIARIE OGGETTO DI
+RINEGOZIAZIONI COMMERCIALI E ESPOSIZIONI
+OGGETTO DI CONCESSIONI
+
+Le misure di concessione (forbearance measures) rappresenta-
+no quelle concessioni nei confronti di un debitore che affronta,
+0 @ in procinto di affrontare, difficolta nel rispetto dei propri
+impegni di pagamento (troubled debt). Con il termine “con-
+cessioni” si indicano sia le modifiche contrattuali accordate al
+debitore in difficolta finanziaria (modification), sia l’erogazione
+di un nuovo finanziamento per consentire il soddisfacimento
+dell’obbligazione preesistente (refinancing). Rientrano nelle
+“concessioni” anche le modifiche contrattuali, liberamente ri-
+chiedibili da un debitore nel contesto di un contratto gia sotto-
+scritto, ma solamente allorché il creditore ritenga che quel debi-
+tore risulti in difficolta finanziaria (c.d. embedded forbearance
+clauses). Sono pertanto da escludere dalla nozione di forborne
+le rinegoziazioni effettuate per motivi/prassi commerciali, che
+prescindono dalle difficolta finanziarie del debitore.
+
+individuazione delle esposizioni oggetto di misure di con-
+cessione (“forborne assets” o “esposizioni forborne”), coe-
+rentemente con quanto previsto dalla normativa EBA, awiene
+necessariamente secondo un approccio “per transazione”.
+Con il termine “esposizione”, in questo contesto, si fa riferi-
+mento al contratto rinegoziato e non al complesso delle espo-
+sizioni nei confronti del medesimo debitore.
+
+A differenza delle misure di forbearance, che riguardano
+crediti relativi a controparti in difficolta finanziaria, le rinego-
+ziazioni per motivi commerciali vedono coinvolti debitori che
+non versano in condizioni di difficolta finanziaria e includono
+tutte le operazioni volte ad adeguare |’onerosita del debito
+alle condizioni di mercato.
+
+Le operazioni aventi per oggetto le rinegoziazioni commercia-
+li comportano una variazione delle condizioni originarie del
+contratto, solitamente richieste dal debitore, che attiene in
+genere ad aspetti connessi alla onerosita del debito (0 alla
+sua durata), con un conseguente beneficio economico per il
+debitore. In linea generale si ritiene che, ogniqualvolta la ban-
+ca effettui una rinegoziazione al fine di evitare di perdere il
+proprio cliente, tale rinegoziazione debba essere considerata
+come sostanziale in quanto, se non fosse effettuata, il cliente
+si finanzierebbe presso un altro intermediario e la banca subi-
+rebbe un decremento dei ricavi futuri previsti.
+
+Tali operazioni, a determinate condizioni, sono contabilmente
+assimilate ad un‘estinzione anticipata del debito originario e
+all'apertura di un nuovo finanziamento.
+
+324 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

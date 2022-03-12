@@ -1,0 +1,187 @@
+d INNOVATORI
+
+190
+
+2017
+
+2018
+
+2019
+
+Il luogo fisico che permette la condivisione
+
+e la diffusione di tutti i dati raccolti é la
+
+Control Room (0 centrale operativa) che sara
+implementata nel 2020 e, grazie all’utilizzo di
+algoritmi di intelligenza artificiale, permettera di
+migliorare le performance gestionali del sistema
+idrico.
+
+Attualmente risultano telecontrollati:
+
+e 565 impianti di acquedotto;
+
+143 interconnessioni;
+
+141 case dell’acqua;
+
+210 sistemi di rilevazione dell'attivazione degli
+sfiori fognari;
+
+36 impianti di depurazione;
+
+318 sollevamenti fognari;
+
+28 vasche volano;
+
+oltre 100.000 contatori di utenza dotati di
+sistemi smart.
+
+WEBGIS ACQUE DI LOMBARDIA
+
+Per mappare in tempo reale le strutture del
+servizio idrico integrato, CAP ha sviluppato
+WebGis, un’innovazione nata dal connubio
+
+tra GIS (Geographic Information System) e le
+possibilita offerte dal web. II sistema consente
+di divulgare in modo trasparente ed efficace
+informazioni relative alle reti del servizio
+idrico. Oltre ad acquisire, estrarre e gestire le
+tante informazioni derivanti dai dati georiferiti,
+il WebGis di Gruppo CAP le rende disponibili in
+remoto per un’utenza variegata e potenzialmente
+illimitata.
+
+ 
+
+Questa innovazione é stata sviluppata per l’area
+della Citta metropolitana di Milano, ma una
+delle sue caratteristiche é che l’applicativo é
+predisposto per accogliere anche i dati di altri
+territori: in un unico sistema possono essere
+racchiuse le reti di pit: gestori, un esempio di
+sharing economy che verra applicato a gran
+parte della regione lombarda, attraverso la rete
+della Water Alliance. E per questo che il progetto
+si é allargato ed é diventato WebGis Acque di
+Lombardia.
+
+Il WebGIS sviluppato ad oggi consente di
+divulgare in modo trasparente ed efficace
+informazioni relative alle reti e a tutte le
+strutture legate al servizio idrico integrato della
+Citta Metropolitana di Milano, della Provincia di
+Bergamo, della Provincia di Lecco, della Provincia
+di Lodi,
+
+Il WebGIS che gia includeva i dati di 5 gestori
+del SII lombardo (Gruppo CAP, BrianzAcque,
+Uniacque, Lario Reti Holding e SAL), nel corso
+del 2019 ha visto l’inserimento anche delle reti
+di acquedotto e fognatura di altri due soggetti
+gestori: Pavia Acque e Padania Acque.
+
+WEB GIS ACQUE DI LOMBARDIA
+
+km di rete fognatura inseriti a sistema @
+km di rete acquedotto inseritia sistema @
+
+19.700
+22.220
+
+18.445
+20.842
+
+SS 24.716
+
+28.744
+
+DNF - Bilancio di Sostenibilita 2019
+
+Gruppo CAP
+
+WEB GIS GRUPPO CAP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2018 2019
+n. investimenti inseriti su WEB GIS 81 174
+n. scarichi rete fognaria inseriti su WEB GIS 866 881
+n. scarichi industriali inseriti su WEB GIS 1.662 1.662
+n. interventi di manutenzione straordinaria inseriti su WEB GIS 43 34
+n. interventi di manutenzione a rottura inseriti su WEB GIS 27 10
+n. as built da terzi inseriti su WEB GIS 37 50
+Km di rete di acquedotto e fognatura inseriti su WEB GIS 13.327 13.053
+n. monografie pozzi inseriti su WEB GIS 467 592
+n. video ispezioni inseriti su WEB GIS 231 77
+n. servizi manutenzione caditoie inserito su WEB GIS. 5.370 4.920
+n. autorizzazioni allo scarico inserite su WEB GIS 866 881
+n. monografie camerette rete fognaria interrogabili su WEB GIS 180.510 181.004
+WEB GIS ACQUE DI LOMBARDIA WEB GIS ACQUE DI LOMBARDIA
+n. camerette fognarie a sistema n. pozzi - rete acquedotto
+550.000 3.500
+500.000 709.968 3.000
+2.903
+450.000 2.500
+2.365
+400.000 406.526 2.000 2050
+350.000 368.554 1.500
+2017 2018 2019 2017 2018 2019
+191
+

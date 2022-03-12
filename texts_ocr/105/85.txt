@@ -1,0 +1,139 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Dati sulla flotta aziendale
+
+eccecKelis-y4at-m < Indice generale
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2016 2017
+
+Totale km percorsi 328.223.769
+Totale veicoli 50.528
+ii cui:
+
+veicoli tradizionali (n.) 45.176
+veicoli alternativi (n.) 5.676
+ii cui:
+
+Biciclette 324
+
+ 
+
+Veicoli elettrici
+
+1.091
+
+ 
+
+Auto ibride
+
+32
+
+ 
+
+Veicoli alimentati a benzina-metano
+
+2.963
+
+ 
+
+Veicoli alimentati a benzina-GPL
+
+ 
+
+Veicoli alimentati a gasolio-metano
+
+339
+
+ 
+
+Veicoli alimentati a GPL
+
+927
+
+ 
+
+Percentuale veicoli alternativi
+
+11,2%
+
+ 
+
+gr CO, /Km
+
+215
+
+ 
+
+ 
+
+Consumi di energia ed Emissioni di CO, interni della flotta aziendale su gomma
+
+[GRI- 302-1; GRI- 305-1 GRI- 305-2]
+
+ 
+
+ 
+
+ 
+
+2016 2017
+Gasolio (GJ) 422.061
+Benzina (GJ) 553.678
+Metano (GJ) 55.890
+GPL (GJ) 1.693
+
+ 
+
+Energia Elettrica certificata garanzia di origine (GJ)
+
+Totale energia (GJ)
+
+Emissioni dirette - Scope 1 (t)
+
+1.540
+1.034.862
+72.873
+
+ 
+
+Emissioni indirette - Scope 2 (t)*
+
+0
+
+ 
+
+ 
+
+* Lenergia elettrica utilizzata per alimentare i veicoli proviene tutta da fonti rinnovabili.
+
+La logistica in appalto
+
+Una parte dei servizi logistici, pari a circa 2/3 in termini di consumi energetici e una quota significativa di risorse umane dedi-
+cate, sono gestiti da Poste Italiane e SDA Express Courier (la societa del Gruppo che si occupa dei servizi di corriere espresso
+per la clientela Business) con |’ausilio di una rete di fornitori.
+
+Consumi di energia ed Emissioni di CO, della logistica su gomma in appalto
+[GRI- 302-2; GRI- 305-3]
+
+ 
+
+2016 2017
+Energia esterna al gruppo (Gu) 1.861.003
+Emissioni di altro tipo esterne al Gruppo - Scope 3 (t) 137.488
+
+ 
+
+EE
+84
+

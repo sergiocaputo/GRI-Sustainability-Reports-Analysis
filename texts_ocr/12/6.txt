@@ -1,0 +1,86 @@
+Banca Valsabbina - Dichiarazione di carattere non finanziario 2017
+
+Metodologie di calcolo adottate
+Per il calcolo delle emissioni di gas ad effetto serra sono state considerate unicamente le emissioni di CO2. Le emissioni
+di CO2z vengono calcolate moltiplicando i GJ di energia per i fattori di emissione derivanti dalla letteratura tecnica
+vigente. In particolare per i combustibili fossili é stata utilizzata la tabella dei parametri standard nazionali del Ministero
+Ambiente che utilizza i dati ISPRA, aggiornati al 2017.
+
+fattori di emissione utilizzati per trasformare l’energia in tonnellate di CO2 sono i seguenti:
+
+fattore conversione in GJ Selene) CMa Cieat om yh eed
+
+ 
+
+ 
+
+ 
+
+teleriscaldamento (KWh) 0,0036 (GJ/KWh) 330,6 (gCO2/KWh)
+energia elettrica (KWh) 0,0036 (GJ/KWh) 330,6 (gCO2/KWh)
+gas naturale (Sm3) 0,035134(GJ/Sm3) 55,897 (tCO2/TJ)
+GPL (sm3) 46,141 (GJ/ton) * 3,026 (tCO2/ton)
+
+1m3 di GPL = 0,00052 ton
+1 ton GPL = 46,141 G!
+
+Diesel (1) 42,877 (GJ/ton)* 73,578 (tCO2/TJ)
+11 = 1dm3=0,850 kg
+
+ 
+
+ 
+
+Benzina (I) 42,817 (GJ/ton)* 3,14 (tCO2/ton)
+
+1 ton = 42,817 GJ
+1 dm3 = 11 = 0,68kg
+* Viene considerato il potere calorifico inferiore.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. IDENTITA’ E GOVERNANCE
+
+La presente sezione copre le tematiche rilevanti indicate nel precedente paragrafo “Analisi di rilevanza e
+materialita” e riepilogate nella tabella seguente. La Direzione di Banca Valsabbina ha identificato i
+principali rischi, generati o subiti, connessi ai suddetti temi e che derivano dalle attivita d’impresa,
+individuando le idonee azioni di prevenzione e mitigazione.
+
+ 
+
+ 
+
+PRICIPALI RISCHI CONNESSI
+ DEMNITAY E COVERNANCE (cfr. § “Il sistema di gestione dei rischi” della Relazione sulla
+Gestione)
+
+= Reputazione e dialogo con gli = Rischi relativi a reati legati alla corruzione
+
+stakeholder = Rischi legati ai reati societari
+= Trasparenza bancaria = Rischi relativi alla mancata compliance o violazione della
+= Conformita a leggi e normativa di riferimento
+
+regolamenti = Rischio reputazionale
+= Anti- corruzione = Rischi legati alla conflittualita con gli stakeholder
+
+ 
+
+ 
+
+ 
+
+ 
+
+Segue una descrizione del modello di gestione ed organizzazione delle attivita dell’impresa adottato da
+Banca Valsabbina anche con riferimento alla gestione dei suddetti temi, le politiche praticate dalla Banca,
+i risultati conseguiti tramite di esse e i relativi indicatori fondamentali di prestazione di carattere non
+finanziario.
+

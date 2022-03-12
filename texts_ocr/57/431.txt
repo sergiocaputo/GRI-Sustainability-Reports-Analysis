@@ -1,0 +1,63 @@
+Bilancio Consolidato 2017
+
+ 
+
+Criteri di valutazione e rilevazione delle componenti reddituali
+Ad ogni chiusura di bilancio le poste di bilancio in valuta estera vengono valorizzate come segue:
++ le poste monetarie sono convertite al tasso di cambio alla data di chiusura;
+
++ le poste non monetarie valutate al costo storico sono convertite al tasso di cambio in essere alla data dell’ope-
+razione.
+
+Le differenze di cambio che derivano dal regolamento di elementi monetari o dalla conversione di elementi mo-
+netari a tassi diversi da quelli di conversione iniziali, sono rilevate nel conto economico del periodo in cui sorgono.
+Quando un utile o una perdita relativi ad un elemento non monetario sono rilevati a patrimonio netto, la differenza
+di cambio relativa a tale elemento é rilevata anch’essa a patrimonio. Per contro, quando un utile o una perdita sono
+rilevati a conto economico, é rilevata in conto economico anche la relativa differenza di cambio.
+
+Sezione 17 - Altre informazioni
+
+Stato patrimoniale
+Azioni proprie
+
+Le eventuali azioni proprie detenute sono portate in riduzione del patrimonio netto. Analogamente, il costo ori-
+ginario delle stesse e gli utili o le perdite derivanti dalla loro successiva vendita sono rilevati come movimenti del
+patrimonio netto.
+
+Ratei e risconti
+
+| ratei ed i risconti che accolgono oneri e proventi di competenza del periodo maturati su attivita e passivita sono
+iscritti in bilancio a rettifica delle attivita e passivita a cui si riferiscono.
+
+Spese per migliorie su beni di terzi
+
+| costi di ristrutturazione di immobili non di proprieta vengono capitalizzati in considerazione del fatto che per la
+durata del contratto di affitto la societa utilizzatrice ha il controllo dei beni e puod trarre da essi benefici economici
+futuri. | suddetti costi, classificati tra le Altre attivita come previsto dalle Istruzioni della Banca d'Italia, vengono am-
+mortizzati per un periodo non superiore alla durata del contratto di locazione comprensivo dell'eventuale rinnovo,
+se questo dipende dal conduttore.
+
+Modalita di determinazione del costo ammortizzato
+
+Il costo ammortizzato di un’attivita o passivita finanziaria é il valore a cui é stata misurata alla rilevazione iniziale,
+lattivita o la passivita finanziaria al netto dei rimborsi di capitale, accresciuto o diminuito dall’'ammortamento com-
+plessivo, calcolato usando i] metodo dell'interesse effettivo, delle differenze tra il valore iniziale e quello a scadenza
+e al netto di qualsiasi perdita di valore.
+
+Il tasso di interesse effettivo é quel tasso che eguaglia il valore attuale di un’attivita o passivita finanziaria al flusso
+contrattuale dei pagamenti futuri in denaro o ricevuti fino alla scadenza 0 alla successiva data di ricalcolo del prezzo.
+Per il calcolo del valore attuale si applica il tasso di interesse effettivo al flusso dei futuri incassi o pagamenti lungo
+lintera vita utile dell’attivita o passivita finanziaria - o per un periodo piu breve in presenza di talune condizioni (per
+esempio revisione dei tassi di mercato).
+
+Si considerano rilevanti ai fini del costo ammortizzato tutti i costi/proventi direttamente riconducibili e determinabili
+sin dall’origine dell’operazione, ancorché liquidati in un momento successivo. Sono esclusi i costi che, pur avendo le
+caratteristiche suddette, sono oggetto di rimborso da parte del debitore.
+
+Successivamente alla rilevazione iniziale, il costo ammortizzato permette di allocare ricavi e costi portati in diminu-
+zione o aumento dello strumento lungo I'intera vita attesa dello stesso per il tramite del processo diammortamento.
+
+ 
+
+431
+

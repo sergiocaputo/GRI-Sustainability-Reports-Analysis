@@ -1,0 +1,53 @@
+&
+Umani
+a
+Le attivita di Pininfarina non generano alcun tipo di emissione nociva di sostanze che danneggino Il’ozono (es.
+CFC, HCFC, R-22), in quanto le Societa del Gruppo non producono, né importano 0 esportano alcuna sostanza
+rientrante in tale categoria.**
+
+Riguardo alle apparecchiature utilizzate per la climatizzazione degli ambienti di lavoro e di produzione del
+freddo ad uso tecnologico, I'Azienda Pininfarina S.p.A. mantiene attivo l'elenco delle apparecchiature contenti
+gas refrigeranti al fine di garantire le corrette operazioni di manutenzione e poter effettuare le dichiarazioni
+previste dalla normativa vigente (cd. "Dichiarazione F-gas" ex D.P.R. 43/2012) ed effettua periodicamente, per
+tramite di ditte specializzate, le necessarie attivita di manutenzione, compreso il controllo della tenuta dei circuiti
+contenti i gas refrigeranti.
+
+Pininfarina registra in Italia un’emissione contenuta di ossidi di azoto (cd. NO,), pari a 252.442 kg annui,
+generati come sottoprodotto della combustione di gas metano usata per la climatizzazione invernale degli
+ambienti di lavoro. II dato é stato stimato sulla base dei consumi di combustibile di gas metano e delle misure
+effettuate sulle emissioni ai camini in cui si rileva il valore del NO, espresso in (ppm) rapportato ad un tenore di
+ossigeno del 3% nei fumi stessi.
+
+Sempre in Italia é stimata inoltre una limitata emissione di Composti Organici Volatili (COV), pari a ca. 220 kg
+nell’arco dell’anno, per effetto delle attivité del reparto di Verniciatura che utilizza prodotti contenti solventi
+organici. Rispetto all’anno scorso si é riscontrato un aumento dei Composti Organici Volatili dovuto alla maggior
+attivita nei laboratori di Cambiano.
+
+Il dato € stato stimato tramite la metodologia di calcolo richiesta dall'Ente pubblico (Citté Metropolitana di
+Torino) preposto al rilascio dell'autorizzazione ambientale secondo le norme vigenti. La metodologia considera: i
+quantitativi e le caratteristiche dei prodotti vernicianti contenenti solventi organici, gli impianti di abbattimento a
+carboni attivi dei solventi e i quantitativi di prodotti vernicianti smaltiti contenti solventi organici.
+
+NOx, SOx, e altre emissioni
+significative (oa
+
+Brut RPAOHEY PAs)
+
+Italia 252.642,07 238.905,58
+NOx 252.442,00 238.752,00
+Composti organici volatili (COV) 220,07 153,58
+
+ 
+
+ 
+
+ 
+
+NOTA: II dato riportato é relativo all'ltalia in quanto negli altri Paesi non si registra emissione di sostanze
+significative in termini di impatti ambientali.
+
+31 GRI 305-6: Emissioni di sostanze che danneggiano I'ozono in peso.
+32 GRI 305-7: Emissioni NOx, SOx 0 altro tipo di emissioni significative.
+
+31
+

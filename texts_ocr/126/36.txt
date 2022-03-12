@@ -1,0 +1,72 @@
+TIM Sustainability Report 2019
+THE GROUP
+
+In 2019, with the aim of knowing and analyzing the external vision with respect to the most relevant issues for its strategy,
+TIM invited a selection of its stakeholders to register in the area reserved for consultation on the RE2N collaborative
+platform. Specifically, this initiative is part of the new methodology adopted by TIM for materiality analysis (described in
+the dedicated paragraph in this chapter) that leverages the potential of digital, including through sustainability activities.
+
+Each initiative mentioned in the table provided in the Appendix includes a reference to the relevant chapter and section
+of this report in which the initiative is discussed in detail.
+
+Materiality Matrix
+
+[GRI 102-46] In 2019, in compliance with Legislative Decree 254/2016 and the requirements of the Global Reporting
+Initiative Standards, TIM conducted a materiality analysis with the aim of identifying the material topics as regards the
+socio-environmental and economic impacts of the business activities both within and outside the Company.
+
+Methodology
+
+In keeping with the methodology started in 2017, TIM assessed the validity of the material issues identified the previous
+year, validating or revising categories and definitions to make them more specific, adopting evolved semantic analysis!
+techniques, to analyze a larger number of information sources and analyze big data and digital engagement, in order to
+collect external points of view.
+
+The process followed is in compliance with the “Guidelines for updating the TIM materiality analysis”, updated in 2017 in
+line with the Global Reporting Initiative (GRI) standards and was created and managed in collaboration with RE2N?, a
+company that develops innovative tools for sustainability and shared value, using computational approaches to semantic
+and big data analysis.
+
+The SRM&R function held one-to-one meetings with the company's frontlines during which, in addition to presenting the
+methodology and the path of materiality analysis starting from the 2018 matrix, it collected information and useful
+indications on the tree of the topics to be evaluated. At the same time the taxonomy? to adopt in the semantic engine
+was updated, using the same sustainability and digital references as those in 2017, in more recent versions and expanding
+the number. In particular:
+
+e Global Reporting Initiative Standard, ISO 26000, Sustainable Development Goals and specialist assessments’;
+
+e Italian Digital Agenda, Objectives of the European Digital Single Market and dedicated indexes®, besides regulatory
+
+references which are relevant for TIM and its stakeholders.
+
+At the same time, the documents linked to the Group’s core business were updated and integrated with new
+documentary sources for analysis, selecting Italian and international, public and non-public sources, internal and external
+to TIM®.
+
+The semantic engine analyses all the sources of information with different interactions. This process led to the definition
+of a list of themes based on the occurrences’ found in the various documents and the logical correlations between them.
+
+‘The techniques involve automatic text analyses designed to extract structural data which codify the semantic component of textual content.
+
+The algorithms of the semantic engine that analyses all the sources of information were trained with “sustainability” and “digital” components.
+
+2https://www.re2n.com/welcome. RE2N collaborated with the University of Bologna to develop the methodology.
+
+3 Each taxonomy is made up of interrelated concepts and keywords with different correlation and significance levels. Each taxonomy was
+
+constructed using both Italian and English terms.
+
+*“ For example RobecoSam (Dow Jones Sustainability Index), FTSE4good and Sustainalytics questionnaires.
+
+5 For example, the Digital Economy Society Index which monitors different aspects of the digitization level of the individual European countries.
+
+®For example: The Italian government's “Piano nazionale italiano per l’Agenda 2030” ("Italian national plan for the 2030 Agenda"), the “Ernst &
+Young Megatrends report 2018”, the “Fair and Sustainable Well-Being in Italy 2018” (BES) report promoted by the National Council for
+Economy and Labour (CNEL) and the National Institute for Statistics (ISTAT).
+
+7 The occurrences identify the number of times that a concept (or a specific term) is detected within the document by the semantic engine and
+
+provide an indication of the significance of the topic detected in the context of the document.
+
+37
+

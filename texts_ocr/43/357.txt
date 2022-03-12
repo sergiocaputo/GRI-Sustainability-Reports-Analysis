@@ -1,0 +1,137 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+1.4 RISCHIO DI LIQUIDITA
+
+INFORMAZIONI DI NATURA QUALITATIVA
+
+A. Aspetti generali, processi di gestione e metodi di
+misurazione del rischio di liquidita
+
+Si definisce rischio di liquidita il rischio che il Gruppo non rie-
+sca a far fronte ai propri impegni di pagamento per |’incapa-
+cita sia di reperire fondi sul mercato (funding liquidity risk) sia
+di smobilizzare i propri attivi (market liquidity risk).
+
+Il sistema interno di controllo e gestione del rischio di liqui-
+dita si sviluppa nel quadro del Risk Appetite Framework del
+Gruppo e nel rispetto delle soglie massime di tolleranza al
+rischio di liquidita ivi approvate, che stabiliscono che il Grup-
+po debba mantenere una posizione di liquidita adeguata in
+modo da fronteggiare periodi di tensione, anche prolunga-
+ti, sui diversi mercati di approwigionamento del funding,
+anche attraverso la costituzione di adeguate riserve di liqui-
+dita rappresentate da titoli marketable e rifinanziabili presso
+Banche Centrali. A tal fine, é richiesto il mantenimento di un
+equilibrato rapporto fra fonti in entrata e flussi in uscita, sia
+nel breve sia nel medio-lungo termine. Tale obiettivo é svi-
+luppato dalle “Linee Guida di Governo del rischio Liquidita di
+Gruppo” approvate dagli Organi Societari di Intesa Sanpaolo.
+
+Tali linee guida recepiscono le ultime disposizioni regola-
+mentari in materia di rischio di liquidita ed illustrano i com-
+piti delle diverse funzioni aziendali, le norme e |‘insieme dei
+processi di controllo e gestione finalizzati ad assicurare un
+prudente presidio di tale rischio, prevenendo |‘insorgere
+di situazioni di crisi. In particolare, dal punto di vista or-
+ganizzativo, sono definiti in dettaglio i compiti attribuiti
+al Consiglio di Amministrazione e sono riportati al vertice
+alcuni importanti adempimenti quali l’approvazione delle
+metodologie di misurazione, la definizione delle principali
+ipotesi sottostanti agli scenari di stress e la composizione
+degli indicatori di attenzione utilizzati per |‘attivazione dei
+piani di emergenza.
+
+In tema di metriche di misurazione e strumenti di attenuazio-
+ne del rischio di liquidita, oltre a definire l’impianto metodo-
+logico di misurazione degli indicatori della liquidita di breve
+termine e strutturale, sono formalizzate la soglia massima di
+tolleranza (risk appetite) al rischio di liquidita, i criteri per la
+definizione delle Riserve di Liquidita e le regole e i parametri
+per lo svolgimento delle prove di stress.
+
+Gli indicatori della liquidita di breve termine intendono assicu-
+rare un livello adeguato e bilanciato tra flussi di cassa in uscita
+e in entrata aventi scadenza certa o stimata compresa nell’o-
+rizzonte temporale di 12 mesi, con l'obiettivo di fronteggiare
+periodi di tensione, anche prolungata, sui diversi mercati di
+approvwvigionamento del funding, anche attraverso la costitu-
+zione di adeguate riserve di liquidita rappresentate da asset li-
+quidi sui mercati privati o rifinanziabili presso Banche Centrali.
+A tal fine e in coerenza con la soglia massima di tolleranza al
+rischio di liquidita, il sistema dei limiti @ declinato prevedendo
+due indicatori di breve termine su un orizzonte temporale ri-
+spettivamente di una settimana (sbilancio previsionale cumu-
+lato dell’operativita wholesale) e un mese (Liquidity Coverage
+Ratio — LCR).
+
+Uindicatore degli sbilanci previsionali cumulati wholesa-
+le misura l‘indipendenza dal funding wholesale unsecured
+in ipotesi di blocco del mercato monetario e mira ad assi-
+curare l’autonomia finanziaria ipotizzando I'utilizzo sul
+mercato delle sole riserve di liquidita di pil elevata qualita.
+Uindicatore di LCR, la cui soglia minima é@ pari al 100%,
+ha la finalita di rafforzare il profilo di rischio di liquidita di
+breve termine, assicurando la detenzione di sufficienti attivita
+liquide di elevata qualita (HQLA) non vincolate che possano
+essere facilmente e immediatamente convertite in contanti
+nei mercati privati per soddisfare i fabbisogni di liquidita a
+30 giorni in uno scenario di stress di liquidita, come definito
+dal Regolamento Delegato (UE) 2015/61.
+
+La Politica di Liquidita strutturale prevede |’adozione del re-
+quisito strutturale previsto dalla normativa regolamentare di
+Basilea Ill Net Stable Funding Ratio (NSFR). Tale indicatore é fi-
+nalizzato a promuovere un maggiore ricorso alla raccolta sta-
+bile, evitando che l’operativita a medio e lungo termine possa
+dare luogo ad eccessivi squilibri da finanziare a breve termine.
+A tal fine, esso stabilisce un ammontare minimo “accettabile”
+di prowvista superiore all’anno in relazione alle necessita origi-
+nate dalle caratteristiche di liquidita e di durata residua delle
+attivita e delle esposizioni fuori bilancio.
+
+Nell’ambito delle Linee Guida di Governo del Rischio di Liqui-
+ita del Gruppo, é altresi prevista l’estensione temporale dello
+scenario di stress contemplato dal quadro regolamentare ai
+fini dell’indicatore LCR, misurando sino a 3 mesi l’effetto di
+tensioni acute di liquidita specifiche combinate ad una crisi
+di mercato estesa e generalizzata. A tal fine le linee guida
+di governo interne prevedono anche una soglia di attenzio-
+ne (“Stressed soft ratio”) sull‘indicatore LCR sino a 3 mesi,
+finalizzata a prevedere un livello complessivo di riserve in gra-
+do di fronteggiare le maggiori uscite di cassa in un interval-
+lo di tempo adeguato a porre in essere i necessari interventi
+operativi per ricondurre il Gruppo in condizioni di equilibrio.
+
+ 
+
+In tale ambito, @ stato previsto il Contingency Funding Plan
+(CFP), che contiene le diverse linee d‘azione attivabili allo sco-
+po di fronteggiare potenziali situazioni di stress, indicando la
+dimensione degli effetti mitiganti perseguibili in un orizzonte
+temporale di breve termine.
+
+E inoltre previsto che siano assicurate le modalita di governo
+di un’eventuale crisi di liquidita, definita come una situazione
+di difficolta 0 incapacita di far fronte ai propri impegni di cas-
+sa in scadenza, a meno di attivare procedure e/o utilizzare
+strumenti in maniera non riconducibile, per intensita o mo-
+dalita, all'ordinaria amministrazione. || Contingency Liquidity
+Plan, prefiggendosi gli obiettivi di salvaguardia del patrimonio
+del Gruppo e, contestualmente, di garanzia della continuita
+operativa in condizioni di grave emergenza sul fronte della
+liquidita, assicura l‘identificazione dei segnali di preallarme,
+il loro continuo monitoraggio, la definizione delle procedu-
+re da attivare nel caso si manifestino tensioni sulla liquidita,
+le linee di azione immediate e gli strumenti di intervento per
+la risoluzione dell’emergenza.
+
+Adeguata e tempestiva informativa sull‘evolversi delle condi-
+zioni di mercato e della posizione del Gruppo é stata rilasciata
+agli Organi aziendali e ai Comitati interni, al fine di assicurare
+la piena conoscenza e governabilita dei diversi fattori di ri-
+schio.
+
+354 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

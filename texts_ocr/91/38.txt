@@ -1,0 +1,49 @@
+Tramite il portale intranet ha comunicato a tutti i propri dipendenti la struttura della funzione
+privacy, le linee guida per il trattamento dei dati personali nonché la fruibilita di corsi di
+aggiornamento on line.
+
+CYBER SECURITY
+
+Il Gruppo si @ dotato di un processo formalizzato di gestione di un eventuale “data breach”
+volto ad assicurare la tempestivita delle azioni di rimedio, la raccolta delle informazioni
+connesse e la notifica alle Autorita e agli interessati, laddove richiesto e qualora necessario o
+opportuno.
+
+Vengono svolte periodicamente attivita di Audit sulle modalita di trattamento dei dati. Tali
+dati sono trattati anche per finalita commerciali a favore del Gruppo o di terzi laddove il
+consenso ricevuto lo permetta, nonché possono essere oggetto di profilazione nel rispetto
+della normativa per l’acquisizione del consenso per |’uso dei cookie. Per quanto attiene ai
+rischi che possono emergere in occasione dello svolgimento dell’attivita giornalistica, é attiva
+una funzione di ufficio permanente di valutazione ed esecuzione delle richieste di oblio. La
+societa si € dotata di un presidio interno strutturato che effettua l’attivita di controllo, che
+riceve le segnalazioni, le richieste di rettifica, la segnalazione degli abusi da utenti e clienti
+mediante la casella di posta elettronica dedicata. Tale presidio agisce per la miglior tutela dei
+dati personali nel rispetto delle normative vigenti, anche nell’ottica della sempre maggior
+attenzione degli utenti a queste tematiche.
+
+ll Gruppo si impegna a proteggere i dati personali con specifiche misure di sicurezza
+tecnologiche e organizzative, tese a prevenire che i dati personali possano essere utilizzati in
+maniera illegittima o fraudolenta, procedendo anche a testare, verificare e valutare
+regolarmente I'efficacia delle misure di sicurezza, al fine di garantire il miglioramento
+continuo nella sicurezza dei trattamenti.
+
+Per contrastare i cyberisk il Gruppo adotta tutte le precauzioni possibili.
+
+Nello specifico i ransomware (cryptolocker) o in generale gli attacchi che sfruttano software
+involontariamente eseguiti dagli utenti, vengono bloccati limitando i permessi degli stessi alle
+sole operazioni richieste per svolgere il loro incarico.
+
+Le Policy utilizzate per la configurazione degli utenti non gli consentono di installare
+programmi sui computer aziendali e possono eseguire solo l’elenco dei programmi a loro
+riservati per svolgere le attivita lavorative di competenza.
+
+Automaticamente vengono distribuiti e applicati tutti gli aggiornamenti dei sistemi operativi
+per bloccare eventuali vulnerabilita che potenzialmente potrebbero essere sfruttate dai
+malware.
+
+Sempre in ottica preventiva non é consentivo I’accesso alla rete di Gruppo a computer di
+dubbia provenienza di fornitori esterni. Concediamo solo voucher temporanei wifi per
+consentire l’accesso alla rete internet, ma non alla rete interna di Gruppo.
+
+38
+

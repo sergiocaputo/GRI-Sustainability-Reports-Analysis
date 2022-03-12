@@ -1,0 +1,79 @@
+Stakeholder Esterni
+
+45
+
+3,5
+
+Matrice della dimensione ambientale
+
+SICUREZZA, AMBIENTE, TERRITORIO
+
+PERFORMANCE AMBIENTALE
+
+3 3,5
+
+4
+
+ 
+
+42 45 5
+
+Stakeholder Interni
+
+Emissioni in aria
+
+Prelievi di acqua in mare
+
+Concentrazioni cloro e scarichi idrici
+Composizione rifiuti
+
+Consumi energetici per fonti energetiche
+Consumo vapore
+
+Riciclo/recupero materie prime
+Qualificazione ambientale dei fornitori
+Conformita aspetti ambientali
+
+Impegni ambientali raggiunti
+
+Emissioni di gas a effetto serra
+
+Delta termico
+
+Produzione rifiuti
+
+% Riciclo/recupero
+
+Consumo combustibili fossili
+
+Consumo materie prime
+
+Effetti sulla biodiversita
+
+Certificazioni in campo ambientale
+Reclami - Contenziosi su aspetti ambientali
+Impegni ambientali prefissati
+
+Scala di rilevanza
+
+ 
+
+ 
+
+. Medi, t .
+Poco importante meciamens® Importante Molto importante Fondamentale
+importante
+1 2 3 4 5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Le scale “poco importante” e “mediamente importante” non sono graficate perché non rappresentative dell'indagine svolta
+

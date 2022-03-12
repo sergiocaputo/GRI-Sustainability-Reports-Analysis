@@ -1,0 +1,63 @@
+€ Indice generale | — fp)
+
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte F
+
+2.2 Adeguatezza patrimoniale
+
+A. Informazioni di natura qualitativa
+
+Sulla base delle disposizioni di vigilanza prudenziale, BancoPosta é tenuta a rispettare i seguenti coefficienti minimi patrimoniali:
+
+= Total Capital ratio (rappresentato dal rapporto tra il totale fondi propri e il totale Risk Weighted Assets - RWA"%”) pari al 10,5%
+(8% come requisito minimo e 2,5% come riserva di conservazione di capitale"*);
+
+= Common Equity Tier 7 ratio (rappresentato dal rapporto tra il CET1 e il totale RWA): pari al 7,0% (4,5% come requisito mini-
+mo e 2,5% come riserva di conservazione di capitale);
+
+= Tier 71 ratio (rappresentato dal rapporto tra il T1 e il totale RWA): pari all’8,5% (6,0% come requisito minimo e 2,5% come
+riserva di conservazione di capitale).
+
+Tanto per il calcolo dei requisiti patrimoniali relativi al rischio di credito e al rischio di controparte, quanto per il calcolo del
+requisito patrimoniale relativo al Credit Valuation Adjustment (CVA), BancoPosta applica le metodologie standard previste dal
+Regolamento (UE) n. 575/2013.
+
+Per il Patrimonio BancoPosta, il rischio di credito deriva principalmente dalle esposizioni relative a depositi di contanti e a titoli
+consegnati a garanzia (collateralizzazioni previste da accordi di mitigazione del rischio di controparte: CSA e GMRA), e a crediti
+commerciali verso partner derivanti dall’attivita di collocamento di prodotti finanziari/assicurativi®®. Le esposizioni derivanti
+dall’impiego della liquidita raccolta tramite i conti correnti da clientela privata e da Pubblica Amministrazione (titoli emessi o
+garantiti dallo Stato italiano e depositi presso il MEF) e, eventualmente, dei crediti verso la Tesoreria dello Stato, dovuti ai versa-
+menti della raccolta al netto del debito per anticipazioni erogate, non determinano, ai fini del rischio di credito, un assorbimento
+patrimoniale in quanto a tali esposizioni 6 associato un fattore di ponderazione nullo.
+
+ll rischio di controparte deriva dalle esposizioni in contratti derivati, stipulati a fini di copertura di cash flow e di fair value, e dalle
+esposizioni derivanti dai contratti di Pronti contro termine’?.
+
+| rischi di mercato fanno riferimento esclusivamente al rischio di cambio che, per il Patrimonio BancoPosta, deriva principal-
+mente dai conti correnti bancari in valuta, dalla cassa valute e dalle azioni VISA. Per il calcolo del requisito patrimoniale relativo
+al rischio di cambio, si applica la metodologia standard riportata nel Regolamento (UE) n. 575/2013.
+
+Per il calcolo del requisito patrimoniale di primo pilastro relativo ai rischi operativi, BancoPosta applica la metodologia sempilifi-
+cata (BIA — Basic Indicator Approach) prevista dal Regolamento (UE) n. 575/2013 che consiste nell’applicare una percentuale
+del 15% alla media delle ultime tre osservazioni dell’indicatore rilevante™' riferite alla situazione di fine esercizio.
+
+187. Le attivita ponderate per il rischio, o RWA, sono calcolate applicando alle attivita esposte al rischio di credito, di controparte, di mercato e operativo un fattore
+di ponderazione che tiene conto della rischiosita.
+
+138. La riserva di conservazione del capitale é volta a preservare il livello minimo di capitale regolamentare in momenti di mercato awersi attraverso l’accantonamento
+di risorse patrimoniali di elevata qualita in periodi non caratterizzati da tensioni di mercato. E previsto dal 01/01/2017 un regime transitorio che riduce tale
+buffer, con lo scopo di assicurare parita di trattamento alle banche italiane rispetto agli altri intermediari dell’area dell’ Euro. | nuovi coefficient minimi sono ora:
+1,250% dal 1° gennaio 2017 al 31 dicembre 2017; 1,875% dal 1° gennaio 2018 al 31 dicembre 2018; 2,500% a partire dal 1° gennaio 2019.
+
+139. Confronta quanto gia descritto nella Parte E, Sezione 1 - Rischio di credito.
+
+140. La stima dell’esposizione a rischio per gli strumenti derivati finanziari é basata sulla metodologia del “Valore di mercato”, mentre per le operazioni passive di
+Pronti contro termine vengono applicate tecniche di Credit Risk Mitigation (CRM) — “Metodo integrale”. Per ulteriori approfondimenti si rimanda alla Parte E,
+Sezione 1 - Rischio di credito.
+
+141. Il Patrimonio BancoPosta calcola l’indicatore rilevante come somma delle seguenti voci di Conto economico (secondo i principi contabili IAS): margine di
+interesse (Voci 10-20); commissioni nette (Voci 40-50); quota riferita agli “altri proventi di gestione” non derivanti da partite straordinarie e irregolari (quota della
+componente positiva della Voce 190); risultato netto del portafoglio di negoziazione (Voce 80, 90, 100b, 100c, 110); dividendi (Voce 70).
+
+535
+

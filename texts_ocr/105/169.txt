@@ -1,0 +1,74 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Tra tali componenti, particolare rilevanza assumono le penali (diverse da quelle previste per risarcimento danni), con
+riguardo alle quali lo IAS 18 rimandava implicitamente all’applicazione dello IAS 37 — Accantonamenti, passivita e
+attivita potenziali. Per tali componenti negative di reddito, il nuovo principio prevede la rilevazione in diretta diminu-
+zione dei ricavi, in luogo del preesistente accantonamento a fondi rischi e oneri.
+
+Le componenti variabili andranno individuate all’inception del contratto e stimate alla fine di ogni chiusura contabile
+(sia di esercizio che infrannuale) durante tutto il periodo di vigenza contrattuale, per tener conto sia delle nuove cir-
+costanze intercorse, sia dei cambiamenti nelle circostanze gia considerate ai fini delle precedenti valutazioni.
+
+b. Rilevazione separata dei ricavi per singola performance obligation
+
+Ogni singola obbligazione del fornitore nei confronti del cliente (c.d. “performance obligation”) rappresenta oggetto
+di separata valutazione, misurazione e contabilizzazione.
+
+Tale approccio presuppone una preliminare accurata analisi del contratto, che porti ad identificare ogni “singolo
+prodotto/servizio” owvero ogni “singola componente” di un prodotto/servizio che il fornitore si obbliga ad offrire®*
+attribuendo a ciascuno/a il relativo corrispettivo di vendita, e a consentirne il monitoraggio nel corso della durata
+contrattuale (sia in termini di modalita e tempistiche di adempimento che del livello di soddisfazione del cliente).
+
+c. Rilevazione in base all’adempimento
+
+E definito un modello di rilevazione del ricavo non pit correlato alle caratteristiche dell’oggetto di scambio con il
+Cliente (merci, prestazioni di servizi, interessi, royalties, ecc.), ma basato sulla distinzione tra obbligazione “adempiuta
+in un unico momento” e obbligazione “adempiuta nel corso del tempo”.
+
+Nel caso di obbligazione adempiuta in un unico momento, il ricavo deve riflettersi in bilancio solo nel momento di
+passaggio al cliente del totale “controllo” sul bene o servizio oggetto di scambio. Rilevano al riguardo, non solo |’e-
+sposizione significativa dei rischi e benefici connessi al bene o servizio, ma anche il possesso fisico, |’accettazione
+del cliente, l’esistenza di diritti legali, ecc.
+
+Nel caso di obbligazione adempiuta nel corso del tempo, la misurazione e contabilizzazione dei ricavi riflette, virtual-
+mente, i progressi del livello di soddisfazione del cliente. II principio fornisce una specifica guida pratica per orientare
+le entita nella scelta del metodo contabile piu. appropriato.
+
+d. Informativa specifica
+
+Linformativa resa in bilancio sui ricavi (sia quantitativa che qualitativa) é richiesta in termini pil. ampi e analitici di
+quanto precedentemente previsto.
+
+a IFRS 9 - Strumenti finanziari, adottato con Regolamento (UE) n. 2067/2016.
+Il nuovo principio contabile che sostituisce in gran parte l’attuale IAS 39 - Strumenti finanziari: rilevazione e valutazione, é fina-
+lizzato a migliorare l’informativa finanziaria sugli strumenti finanziari nell’intento di tener conto delle difficolta sorte nel corso
+della crisi finanziaria, introducendo altresi un modello contabile volto a riflettere con tempestivita anche perdite attese sulle
+attivita finanziarie. Le novita introdotte dallo standard possono essere sintetizzate nei seguenti tre ambiti:
+
+i. Classificazione e valutazione delle attivita finanziarie, basata sia sul modello di business formalizzato dall’Alta
+Direzione per definire le modalita di gestione delle attivita finanziarie e le relative finalita, sia sulle caratteristiche dei
+flussi di cassa contrattuali attesi. II nuovo principio prevede tre differenti categorie di attivita finanziarie (in luogo delle
+quattro previste dal vigente IAS 39):
+Costo ammortizzato; attivita finanziarie detenute al fine di incassare i flussi di cassa contrattuali rappresentati esclu-
+sivamente dal pagamento del capitale e degli interessi;
+Fair value rilevato nelle Altre componenti di Conto economico complessivo (FVTOC)I); attivita finanziarie
+detenute al fine di incassare sia i flussi di cassa contrattuali, rappresentati esclusivamente dal pagamento del capitale
+e degli interessi, sia i flussi derivanti dalla vendita delle attivita;
+Fair value rilevato nell’utile/(perdita) d’esercizio (FVTPL); categoria residuale all’interno della quale sono classi
+ficate le attivita finanziarie non rientranti nelle categorie precedenti.
+
+ii. Impairment; basato sul nuovo modello Expected Losses o perdite attese, presuppone una visione prospettica delle
+perdite su crediti lungo la vita dello strumento finanziario, richiedendone la rilevazione immediata piuttosto che al
+verificarsi di un trigger event come richiesto dal modello Incurred Losses attualmente previsto. LIFRS 9 richiede alle
+imprese di contabilizzare le perdite attese nei 12 mesi successivi (stage 1) sin dall’iscrizione iniziale dello strumento
+finanziario. Lorizzonte temporale di calcolo della perdita attesa diventa, invece, |’intera vita residua dell’asset oggetto
+
+ 
+
+50. Per “singolo prodotto/servizio” owero per “singole componenti” di un prodotto/servizio si fa riferimento all’unita minima offerta al cliente, identificabile e
+singolarmente/potenzialmente collocabile sul mercato.
+
+|
+168
+

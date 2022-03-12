@@ -1,0 +1,38 @@
+| Consolidated Non-Financial Information Statement 2019 53
+
+ 
+
+RATIONALISATION AND MANAGEMENT OF MATERIALS
+
+Work on the approval of alternative materials, especially those of major technical or commercial importance,
+is continuing throughout the Group to reduce the use of single suppliers. The new version for the preparation
+of supply specifications (PrySpec) is currently being introduced in all countries where the Group operates. In
+addition, the compounds database (CompounDS) has been supplemented by including all compounds normally
+purchased by the Group. Anew formulations database has been created to manage more effectively the use and
+distribution of compounds at Group level.
+
+MONITORING OF HAZARDOUS SUBSTANCES
+
+Development work is progressing in France on asystem for the monitoring of hazardous substances, witha view
+to report their presence (classified in accordance with the REACH/RoHS regulations) in all products managed
+using CA/SAP, and warning about any concentration of hazardous substances that exceeds the maximum allowed
+threshold. The system is based ona special routine developed in SAP that makes possible to carry out a detailed
+analysis of the materials (BOM) comprising the product and identify any hazardous substances. This analysis is
+made possible by applying a specific flag to the raw materials used to produce cables, ina given country, which
+contains an hazardous substance. Obviously enough, the first task is to gather the necessary information from
+suppliers about the possible presence of hazardous substances in their raw materials. This information can be
+obtained from the material safety data sheets (MSDS) or froma specific declaration released by the supplier.
+
+The system is already in use in France and can provide this type of information, on demand, for a specific product
+ora limited series of products. If the concentration of hazardous materials exceeds the maximum allowed thre-
+shold, a specific declaration is prepared for the end customer.
+
+The system is now being extended to other countries in southern Europe (Italy and Spain) and to Germany. The-
+se countries are currently collecting information from the suppliers of raw materials, with a view to activating
+the SAP system in early 2020. This new SAP system may also be applied in other regions/countries during 2020.
+
+ 
+
+PRYSMIAN GROUP, LINKING THE FUTURE LEADING INNOVATION GOVERNANCE AND RISK MANAGEMENT
+SUSTAINABILITY IN OUR DNA A PUBLIC COMPANY OUR COMMITMENT
+

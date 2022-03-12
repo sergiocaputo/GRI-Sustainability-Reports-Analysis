@@ -1,0 +1,49 @@
+Table 47: emission intensity GHG/unit
+
+ 
+
+ 
+
+ 
+
+SITE EMISSION INTENSITY GHG/UNIT
+imensty (Scope 1) SECH diesel+natural | [tCO,eq/unit] | 0,0103 0.0114 0,0126
+SECH Intensity (Scope 2) SECH electricity | [tCO,eq/unit] | 0,0087 | 0,0084 | 0,0089
+Total intensity | [tCO,eq/unit] | 0.0190 | 0.0198 | 0,0215
+Denominator [tot. unit] | [unit] | 178.952 | 188.013 | 187.898
+Intensity (Scope 1) TDT diesel | [tCO,eq/unit] | 0,0126 | 0,0128 | 0,0115
+Intensity (Scope 2) TDT electricity | [tCO,eq/unit] | 0,0078 | 0,0080 | 0,0055
+TDT
+Total intensity | [tCO,eq/unit] | 0,0204 | 0,0208 | 0,0170
+Denominator [tot. unit] | [unit] | 333.171 | 318.887 | 349.275
+
+For both terminals all energy performance indicators are affected by the number of
+‘emperature controlled containers stored, whose units are kept at certain temperatures
+by means of electrical columns, partly connected to the electricity network (plus
+rented diesel generators added for this purpose). In the three-year period 2017-2019,
+he plugging registered significant variations, with a consumption that depends on the
+energy efficiency of the reefer, on the quantities and on the dwell times and therefore
+hides the reductions obtained with the energy saving measures adopted.
+
+ 
+
+Table 48: Reefer units
+
+ag men
+
+ 
+
+SECH | 8.165 | 9.341 | 14.834
+TDT | 98.14 | 102.065 | 80.466
+
+For TDT, emission intensity has decreased over time thanks to the energy efficiency
+actions listed in paragraph 5.3 “Impacts reduction”. Any non-reduction values are due
+to logistical/operational aspects. The consequent GHG emissions are therefore also
+decreased, both in absolute and normalised terms. Please note that emissions from
+electricity are calculated with the ISPRA database for GHG factors and the composition
+of the national energy mix, equal to 43% of renewable energy in 2019, even if TDT
+electricity is 100% from renewable sources. Therefore emissions and emission intensities
+would be close to zero.
+
+108 | SECH - TDT 2019 Sustainability Report
+

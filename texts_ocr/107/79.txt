@@ -1,0 +1,81 @@
+5.2 ENERGY CONSUMPTION
+
+In the table, the types of fuel used by PSC, as well as energy consumption, are detailed.
+
+         
+ 
+  
+   
+
+   
+ 
+ 
+
+Sole
+Components
+
+Natural gas Natural gas Natural gas Natural gas Fuel oil LPG
+
+152864,2 106754,9 51195,6
+po po po
+Source of emission factors used:
+
+Natural gas + Emission factors and LHV (PCI): Ecoinvent 3.3 “Heat, district or industrial, natural gas {Europe without Switzerland} | heat production, natural gas, at
+industrial low-NOx furnace> 100kw Alloc Rec. U “
++ Density: GESTIS Substance Database Information system on hazardous substances of the German Social Accident Insurance (IFA, www.dguv.de)
+Fuel oil + Emission factors and LHV (PCI): Ecoinvent 3.3 "Heat, central or small-scale, other than natural gas (without Europe), heat production, light fuel oil, at
+100kW, non-modulating boiler | Alloc Rec, U “
++ Density: GESTIS Substance Database Information system on hazardous substances of the German Social Accident Insurance (IFA, www.dguv.de)
+LPG + Emission factors: ISPRA, national inventory emission factors (http://.sinanet.isprambiente.it/it/sia-ispra/serie-storiche-emissioni)
++ Density and LHV (PCI): ENEA, Experimentation of an integrated fuel processor / polymer electrolyte fuel cell system powered by LPG for stationary power generation.
+Standards, methodologies, hypotheses and / or calculation tools used
++ for fuels: invoices
+
+ML Eldoprima TWICE PS
+
+   
+
+Prima Components
+
+_
+
+133132,5
+
+   
+
+Types of fuel used
+from non-renewable of mea
+sources
+
+Total consumption of
+fuel (separated for
+typology) from
+non-renewable sources
+
+      
+
+140384,2
+
+      
+
+Total electric consumption GJ
+
+     
+
+Heat - steam
+
+Heat - warm water
+
+  
+
+Total electric
+consumption within
+the organization
+
++ for electricity: invoices
+
+a
+PAGE 80 wed HP, S55
+
+PRIMA SOLE COMPONENTS Spa,
+

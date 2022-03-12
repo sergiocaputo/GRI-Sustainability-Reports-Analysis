@@ -1,0 +1,90 @@
+— Wels cs--  ~€& Indice generale
+
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+La sensitivita allo spread é calcolata applicando uno shift di +/- 100 bps al fattore di rischio che influenza le diverse tipologie di
+titoli in portafoglio rappresentato dalla curva dei rendimenti dei titoli governativi italiani.
+
+Di seguito, l’esito dell’analisi di sensitivita al rischio Paese, effettuata al 31 dicembre 2017 limitatamente, per rilevanza, alle
+posizioni della Capogruppo e del Gruppo Poste Vita.
+
+Poste Italiane S.p.A. - Rischio spread su fair value
+
+Esposizione Delta Risultato prima Riserve di Patrimonio
+al rischio valore delle imposte netto al lordo delle
+imposte
+
+Descrizione Oe
+
+(milioni di euro) Nominale Fairvalue +100bps -100bps +100bps -100bps +100bps -100bps
+
+Effetti 2017
+
+Attivita finanziarie BancoPosta
+
+Investimenti disponibili per la vendita
+Titoli a reddito fisso
+
+Strumenti finanziari derivati
+
+Cash flow hedge
+
+ 
+
+Attivita finanziarie
+Investimenti disponibili per la vendita
+Titoli a reddito fisso
+Passivita finanziarie BancoPosta
+Strumenti finanziari derivati
+Cash flow hedge
+
+Variabilita al
+31 dicembre 2017
+
+Effetti 2016
+
+ 
+
+Investimenti disponibili per la vendita 32.178 37.159 (8.615) 4.292 - - (3.615) 4.292
+Titoli a reddito fisso 32.178 37.159 (8.615) 4.292 - - (3.615) 4.292
+
+Strumenti finanziari derivati 200 6 (28) 33 - - (28) 33
+Cash flow hedge 200 6 (28) 33 - - (28) 33
+
+Attivita finanziarie
+
+Investimenti disponibili per la vendita 500 562 (21) 22 - - (21) 22
+Titoli a reddito fisso 500 562 (21) 22 - - (21) 22
+
+Passivita finanziarie BancoPosta
+
+Strumenti finanziari derivati 200 (3) (26) 31 - - (26) 31
+Cash flow hedge 200 (3) (26) 31 - - (26) 31
+
+Attivita finanziarie BancoPosta
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Variabilita al
+
+31 dicembre 2016 33.078 37.724 (3.690) 4.378 -
+
+(3.690) 4.378
+
+358
+

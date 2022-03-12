@@ -1,0 +1,140 @@
+VALORE GENERATO DA QUALITA E DIGITALIZZAZIONE
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aeroporti Brand e servizi E-commerce Corporate
+MilanoMalpensa-airport FlyViamilano ViaMilanoEshop SeaMilano
+MilanoLinate-airport ViamilanoParking ParkWing Sea-energia
+MilanoMalpensaCargo ViaMilanoProgram SeaParking
+
+MilanoLinate-Prime Boutique.Milan airports ClubSEA
+
+ 
+
+Area10Minuti
+
+White Label (ie Easyjet)
+
+ 
+
+FamilyFriendlyAirport
+
+ 
+
+Fin dal 2013 tutti i siti del network
+SEA sono stati sviluppati con tec-
+nologia responsive per perseguire
+una strategia mobile first. Grazie a
+questo sviluppo possiamo contare
+sui seguenti utenti unici e pagine
+viste:
+
+Strategia IoT e Indoor
+navigation
+
+Uno dei progetti pit rilevanti e quali-
+Ficanti della strategia digital dei pros-
+simi anni é la digitalizzazione dello
+spazio Fisico delle nostre infrastrut-
+ture aeroportuali grazie all’'adozione
+di nuove tecnologie, proprie dell’am-
+bito loT, capaci di massimizzare l'in-
+terazione con i passeggeri/operatori
+dei nostri aeroporti.
+
+Verra implementata una piattafor-
+ma capace di gestire in maniera cen-
+tralizzata la sensoristica installata nei
+nostri aeroporti (es. wi-fi, telecamere
+e beacon) e di mettere a disposizione
+dell’'azienda le informazioni raccolte
+per lo sviluppo di applicazioni verti-
+cali ad alto valore aggiunto.
+
+| Big Data cosi raccolti potranno
+essere utilizzati per sviluppare ap-
+
+Dichiarazione consolidata non finanziaria 2018 -
+
+WEBSITE SEA - UTENTI UNICI E PAGINE VISTE
+
+Dati di traffico - Media mensile 2018 Fonte: Google Analytics
+
+Sito Malpensa:
+1.951.719 pagine viste
+302.321 utenti unici
+
+Sito Linate
+542.800 pagine viste
+95.102 utenti unici
+
+IL 46% delle visite sui siti di Linate e Malpensa arrivano da smar-
+tphone, |'8% da tablet.
+In dettaglio:
+
+53,3% Linate e 56,1% Malpensa delle visite sui siti arrivano da
+smartphone
+7,4% Linate e 7,3% Malpensa delle visite sui siti arrivano da tablet.
+
+ 
+
+plicazioni in ambito B2C, B2B e
+Operations come ad esempio: adver-
+tising mirato in base alla posizione
+dell’'utente (Marketing di prossimi-
+ta), creazione di modelli predittivi in
+ambito security e operations, indoor
+navigation, mappe di calore delle
+presenze in aeroporto real time, ecc.
+
+Per questo progetto SEA prevede
+di installare pit. di 2.000 beacon
+nel Terminal 1 di Malpensa entro
+il 1° semestre 2019.
+
+Nel 2018 abbiamo deciso di Far
+evolvere il proprio sistema di indo-
+or navigation - sino ad allora affida-
+to a Google e Apple per guidare il
+passeggero all’interno dei nostri
+sedimi aeroportuali, con ritardi di
+aggiornamento - utilizzando una
+propria rete di beacon e wi-fi (indo-
+or positioning) per permettere al
+
+passeggero di navigare all’interno
+dei terminal dei nostri aeroporti
+sfruttando la realta aumentate dei
+propri smartphone.
+
+Stiamo quindi mettendo a punto una
+app dedicata all'/ndoor Positioning &
+Navigation che sara in grado di:
+
+= localizzare l’utente negli spazi
+al chiuso con un livello di preci-
+sione fino a un metro;
+
+= offrire all’utente un’esperienza
+di navigazione indoor in Aug-
+mented Reality;
+
+™ accompagnare l’utente nel
+raggiungimento di Po! (Point of
+Interest) precedentemente da
+esso selezionati;
+
+= mostrare all’utente informazio-
+ni, Coupon e proposte commer-
+ciali basate sulla propria posi-
+zione, sotto forma di notifiche
+di prossimita.
+
+169
+

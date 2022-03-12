@@ -1,0 +1,99 @@
+Tabella GRI Content
+
+—— @
+
+TOPIC-SPECIFIC STANDARDS
+
+ 
+
+GRI Standard N. pagina Omissione Informazione
+GRI 302: Energia
+302-1 81 Consumi di energia allinterno dell’organizzazione
+
+ 
+
+Topic materiale: SCARICHI E RIFIUTI
+
+GRI 103: Management Approach
+
+103-1 9, 30, 82
+103-2 82
+103-3 82
+
+Spiegazione degli aspetti materiali e relativi confini
+
+Informazioni generali sull’approccio del management
+e relative caratteristiche
+
+Valutazione sull'approccio del management
+
+ 
+
+GRI 306: Scarichi e rifiuti
+306-2 82
+
+Peso totale di rifiuti divisi per tipo e metodo di smaltimento
+
+ 
+
+Topic materiale: CONFORMITA AMBIENTALE
+
+GRI 103: Management Approach
+
+103-1 8, 30, 22-23
+103-2 22-23
+103-3 22-23
+
+Spiegazione degli aspetti materiali e relativi confini
+
+Informazioni generali sull’approccio del management
+e relative caratteristiche
+
+Valutazione sull'approccio del management
+
+ 
+
+GRI 307: Conformita ambientale
+
+Non si sono verificati casi di non
+conformita a leggi e regolamenti
+ambientali
+
+307-1
+
+Valore monetario delle multe significative e numero totale
+di sanzioni non monetarie per il non rispetto di leggi
+e regolamenti ambientali
+
+ 
+
+Topic materiale: VALUTAZIONE AMBIENTALE DEI FORNITORI
+
+GRI 103: Management Approach
+
+103-1 9, 30, 78-80
+103-2 78-80
+103-3 78-80
+
+GRI 308: Valutazione ambientale dei fornitori
+
+| criteri ambientali non sono stati utilizzati
+nella valutazione dei fornitori nell’anno
+2017
+
+308-1
+
+Spiegazione degli aspetti materiali e relativi confini
+
+Informazioni generali sull’approccio del management
+e relative caratteristiche
+
+Valutazione sull'approccio del management
+
+Percentuale di nuovi fornitori valutati sulla base dei criteri
+ambientali
+
+ 
+
+103
+

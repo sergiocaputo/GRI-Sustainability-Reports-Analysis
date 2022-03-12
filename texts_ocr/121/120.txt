@@ -1,0 +1,39 @@
+Di seguito, sono rappresentate le emissioni generate complessivamente dal Gruppo.
+
+Emissioni CO,¢ [t CO,] %¢
+
+ 
+
+2018 2017
+Scope | 1.105 1.178
+Scope 2 (Location-based) 1.762 1.842
+Scope 2 (Market-based) 2.520 1.992
+Scope 3 2.056 1.767
+
+ 
+
+ 
+
+36 Con riferimento al calcolo delle emissioni secondo il metodo market based si é fatto riferimento, per il biennio considerato, al dato pit aggiornato disponibile. Per il calcolo
+delle emissioni sono stati utilizzati | seguenti fattori di emissione:
+
+* Scope 1: ISPRA con trasformazione in CO, equivalente secondo la procedura riportata nelle linee Guida ABI (versione 13.12.2018 per i dati 2018, e versione
+novembre 2017 per i dati 2017]
+
+* Scope 2
+
+- Teleriscaldamento: ISPRA come da linee Guida ABI (versione 13.12.2018 per i dati 2018, e versione novembre 2017 per i dati 2017]. le emissioni dello Scope 2
+dovute al teleriscaldamento sono espresse in tonnellate di CO, tuttavia la percentuale di metano e protossido di azoto ha un effetto trascurabile sulle emissioni totali di
+gas serra (CO,,e] come indicato nel rapporto ISPRA “Fattori di emissione atmosferica di CO, e altri gas serra nel settore elettrico";
+
+- Energia elettrica (location-based): [SPRA con trasformazione in CO, equivalente secondo la procedura riportata nelle linee Guida ABI (versione 13.12.2018 per i dati
+2018, e versione novembre 2017 per i dati 2017);
+
+- Energia elettrica (Market-based): AIB - European Residual Mixes 2018 [versione 11.07.2018]. Si segnala che il fattore di emissione fa riferimento a t CO,e
+* Scope 3
+- Aulo, aereo e treno [km]: DEFRA 2018 - Conversion factors 2018 - Full set (versione DEFRA 2017 per i dati 2017]
+
+37 Si segnala che per le auto ad uso promiscuo, nei dati relativi all’anno 2018 & stato considerato il 70% dei consumi complessivi come indicato dalle linee Guida ABI 2018
+
+Intro * Valori * Sostenibilita * ESG * Cliente * Comunita * Persone Valore Economico * Bottom Line * Appendici 119
+

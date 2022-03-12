@@ -1,0 +1,150 @@
+10. Glossario
+
+ 
+
+Basilea 3
+
+Insieme di prowedimenti di riforma, predisposti dal Comitato
+di Basilea per la vigilanza bancaria in seguito alla crisi finanzia-
+ria del 2007-2008, con Iintento di perfezionare la preesisten-
+te regolamentazione prudenziale del settore bancario (Basilea
+2), \'efficacia dell’azione di vigilanza e la capacita degli inter-
+mediari di gestire i rischi che assumono.
+
+Basis point
+Unita che misura uno spread o una variazione dei tassi di inte-
+resse, pari a un centesimo di punto percentuale. Ad esempio:
+se i tassi salgono dal 9,65% al 9,80%, la variazione é di 15
+basis point.
+
+Benchmark
+
+Parametro finanziario, o indice, o strumento finanziario che,
+per le sue caratteristiche di rappresentativita viene considera-
+to dagli intermediari come riferimento per capire se uno stru-
+mento finanziario dalle caratteristiche analoghe ha registrato,
+in un dato periodo, migliori o peggiori performance in termini
+di rendimento rispetto al benchmark stesso.
+
+Best practice
+
+In genere identifica un comportamento commisurato al mi-
+glior livello raggiunto dalle conoscenze riferite ad un certo
+ambito tecnico-professionale.
+
+Bid-ask spread
+E la differenza rilevabile tra i prezzi denaro e lettera su un deter-
+minato strumento finanziario o gruppo di strumenti finanziari.
+
+Borsa Italiana S.p.A.
+Societa privata che si occupa della gestione, dell’organizza-
+zione e del funzionamento dei mercati finanziari nazionali.
+
+Broker
+
+Intermediario finanziario che esegue gli ordini di acquisto e
+vendita ricevuti dai propri clienti ottenendone in cambio una
+commissione di solito espressa come percentuale del valore
+dell’operazione.
+
+Budget
+Stato previsionale dell’andamento dei costi e dei ricavi futuri
+di un’azienda.
+
+Bund
+Titoli di Stato a lungo termine emessi dal governo tedesco.
+
+Buono del Tesoro Poliennale (BTP)
+
+Titolo a medio-lungo termine emesso dal Ministero dell’Eco-
+nomia e delle Finanze per finanziare il debito pubblico che
+garantisce un rendimento a tasso fisso.
+
+Buono Ordinario del Tesoro (BOT)
+
+\| BOT é un titolo a breve termine emesso dal Ministero dell’E-
+conomia e delle Finanze per prowedere al fabbisogno statale;
+ha durata variabile e non vengono pagate cedole periodiche
+ma solo il rimborso del capitale alla scadenza.
+
+Business model
+
+Sistema di input, attivita a valore aggiunto e output attraver-
+so i quali un’organizzazione crea e preserva valore nel breve,
+medio e lungo periodo.
+
+Dal punto di vista della redazione del bilancio é invece un
+driver che guida, insieme all’SPPI test, la classificazione de-
+
+gli strumenti finanziari nelle categorie previste dal principio
+contabile IFRS9. Obiettivo del business model é riflettere le
+modalita con cui gruppi di attivita finanziarie sono gestiti per
+generare flussi di cassa.
+
+Cambio
+Rapporto fra due monete indicante il valore della moneta di
+un Paese espresso nella moneta dell’altro.
+
+Capitale aggiuntivo di classe 1 (Additional Tier 1, AT1)
+E composto dagli strumenti di capitale diversi dalle azioni or-
+dinarie (che sono computabili nel CET1) e che rispettano i
+requisiti normativi per I’inclusione in tale livello dei Fondi pro-
+pri (ad esempio le azioni di risparmio). Dall’ammontare di cui
+sopra sono poi detratte una serie di voci.
+
+Capitale di classe 1 (Tier 1, T1)
+E costituito dalla somma del Capitale primario di classe 1
+(CET1) e Capitale aggiuntivo di classe 1 (AT1).
+
+Capitale di classe 2 (Tier 2, T2)
+
+E composto principalmente dalle passivita subordinate com-
+putabili e dalle eventuali eccedenze delle rettifiche di valore ri-
+spetto alle perdite attese (excess reserve) per le posizioni pon-
+derate secondo i metodi IRB - Internal rating based approach.
+
+Capitale primario di classe 1 (Common Equity Tier 1, CET1)
+E il capitale di qualité primaria, come definito dalle nuove
+disposizioni di vigilanza prudenziali per le banche contenute
+nel Regolamento UE n. 575/2013 (c.d. CRR) e nella Direttiva
+2013/36/UE (c.d. CRD IV), che introducono nell’Unione Euro-
+pea gli standard definiti dal Comitato di Basilea per la vigilanza
+bancaria (c.d. Basilea 3). E calcolato come la somma algebrica
+di azioni ordinarie emesse dalla Banca che soddisfino i criteri
+di classificazione ai fini regolamentari, del sovrapprezzo azioni
+derivante dall‘emissione degli strumenti ricompresi nel CET1,
+di utili portati a nuovo, riserve di rivalutazione e altre riserve.
+Dall’ammontare di cui sopra sono poi detratte una serie di
+voci (es. perdita attesa, partecipazioni finanziarie, attivita fi-
+scali differite) soggette peraltro al beneficio del meccanismo
+della franchigia e, nel periodo transitorio, ad una graduale
+applicazione attraverso il meccanismo del phase-in.
+
+Capitale Sociale
+
+Insieme dei valori nominali di tutte le azioni o quote emesse
+da una societa e corrispondente al capitale conferito dai soci
+alla costituzione e alle variazioni successive.
+
+Capitali
+
+Insieme di valori che costituiscono gli input al business model
+di un‘organizzazione, che vengono utilizzati, migliorati, con-
+sumati, modificati o influenzati attraverso le sue attivita nel
+processo di creazione del valore.
+
+Capitalizzazione di Borsa
+
+E il valore di un‘azienda in borsa, risultante dal prezzo di mer-
+cato delle varie categorie di azioni, moltiplicato per il numero
+di azioni emesse.
+
+Cartolarizzazioni
+Operazioni che prevedono il trasferimento di portafogli di
+attivita ad una Societa Veicolo “Special Purpose Vehicle” e
+l'emissione da parte di quest’ultima di titoli aventi diversi gra-
+di di subordinazione nel sopportare le eventuali perdite sulle
+attivita sottostanti.
+
+418 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

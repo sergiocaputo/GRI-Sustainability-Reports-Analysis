@@ -1,0 +1,64 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+[GRI 103-2: Management Approach] [GRI 203-1] [GRI 203-2] TIM’s ultra-broadband network
+
+Starting from 2012, TIM has been developing its ultra-broadband? network with the aim of bringing high speed
+connectivity services with fiber optics to most of the Italian territory and contribute to the economic growth of the country.
+
+TIM chose to implement two different NGAN network architectures for the supply of high speed services with fiber optics:
+* FTTC (Fibre To The Cabinet) architecture. The fibre optic cables leave the exchange and go to the street cabinet, where
+an active device is installed (ONU) that transfers data traffic on twisted double copper cables to reach the
+modem/routers at the customer’s site. The FTTC network, thanks to eVDSL? technology, can reach speeds of 200
+Megabits per second and, with further technological developments, possibly up to 300 Mb/s;
+
+* FTTH (Fibre To The Home) architecture. The fibre optic cables leave the exchange and arrive directly inside apartments
+through the so-called “vertical”). At the customer site, an active device is installed (ONT) that transfers data traffic
+from the fibre optics to the modem/routers. The FTTH network technology GPON? can reach speeds of one gigabit
+per second and is developed in areas already covered by FTTC technology, so as to ensure to customers choice in
+terms of connection speed.
+
+ 
+
+ 
+
+ 
+
+ 
+
+La rete NGAN di TIM
+
+Dal rame alla fibra con soluzioni complementari e scalabili!
+
+aa
+Rame dolla centrate Fibro fine ogtt Fivra fino agli
+egti eppertomenti armedi oppartamenti
+
+ 
+
+In order to deal with the digital divide that has arisen in the so-called marginal areas of Italy, which would otherwise
+remain excluded from the mainstream plans of telecommunications operators due to the low profitability of investments,
+between 2005 and December 2019, TIM implemented a programme of investments allowing ADSL coverage (gross*
+coverage > 70%) to be provided for 7,672 municipalities in total.
+
+[GRI 103-3: Management Approach] [GRI 203-1] As of December 2019, TIM, in Italy, had activated the ADSL service in
+around 9,700exchanges, including 8,580 with optic fiber carriers. Alongside its plan to extend coverage, TIM has launched
+an additional plan to expand the active network®, where necessary, to guarantee full usability of the service by customers
+and the development of digital inclusion
+
+1 Also known as NGAN, Next Access Generation Network.
+
+Enhanced Very High-speed Digital Subscriber Line.
+
+3Gigabit Passive Optical Network.
+
+* Official TIM coverage data refer to the technical coverage of the telephone population (in terms of 64 kbit/s equivalent lines) gross of areas that
+cannot technically be served due to the characteristics of the copper access network (presence of digital devices such as multiplexes - MPX,
+Remote Concentration Units (RCUs), Multiplexes with Fibre Optic Backhauling - MD48, excessive distance from the exchange, etc.).
+
+5 The plan consists of actions to ensure full availability of the service by customers by expanding the capacity of equipment used, in terms of both
+user ports and bandwidth available on the Internet. The technical term for this is desaturation of DSLAM equipment, performed either in advance
+or once specific broadband quality and availability thresholds are exceeded.
+
+83
+

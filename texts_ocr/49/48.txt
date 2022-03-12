@@ -1,0 +1,110 @@
+Arn.
+
+-—_ Ne
+
+AVI©S
+
+[GRI 305-2] Emissioni GHG indirette (Scope 2).
+
+ 
+
+Emissioni GHG indirette
+suddivise per tipologia di
+consumi energetici (espresse in
+tonn CO2 eq/anno)
+
+Energia elettrica 4.749,03 3.535,.51 8.284,.54
+Energia termica 13.957,63 - 13.957,63
+
+Italia* Guyana Francese** Totale
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Utilizzato Fattore di conversione ricevuto da Termica Colleferro (dati relativi alle emissioni di CO2 della centrale nel 2017: Fattore di
+emissione del gas naturale (media pesata anno): 57,133 ton. CO2/TJ equivalenza: 205,6 gCO2/KWh)
+**Non avendo a disposizione un fattore di conversione per la Guyana Francese é stato utilizzato il coefficiente relativo al Brasile (KWh
+-->KgCO2e = 0,186 Fonte: Dati Statistici sull'energia elettrica in Italia - Anno 2016 redatto da Terna nella sezione “Confronti
+Internazionali”) che si ritiene presenti un mix energetico non troppo dissimile dalla Guyana Francese.
+
+Con riferimento alle emissioni inquinanti in atmosfera il processo produttivo delle societa non determina
+produzione di Ossidi di Azoto (NOx) o Ossidi di zolfo (SOx). Le uniche fonti di emissione sono rappresentate
+dai motori ausiliari del sito in cui opera Regulus, per i quali non é previsto un monitoraggio e la responsabilita
+é del gestore del sito in Guyana Francese. Le informazioni relative alle altre emissioni sono state fornite dalle
+Societa in linea con le unita di misura richieste dalle normative locali e comunicate alle autorita
+competenti (per Avio S.p.A. la concentrazione media in mg/Nm? mentre per Regulus é misurata in Kg/anno).
+
+[GRI 305-7] Emissioni di sostanze inquinanti in aria.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inquinanti rilevanti (espressi in Italia
+concentrazione media mg/Nm?)
+
+Composti organici volatili (COV) 0,9
+
+Polveri totali 0,51
+Totale 1,41
+
+ 
+
+ 
+
+[GRI 305-7] Emissioni di sostanze inquinanti in aria?2.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inquinanti rilevanti (espressi in Guyana Francese
+Kg/anno)
+
+Composti organici volatili (COV) 1.329
+Totale 1.329
+
+ 
+
+ 
+
+Le emissioni in atmosfera derivanti dalle attivita di stabilimento sono controllate, con regolarita e secondo
+prescrizioni di legge, grazie ad impianti di aspirazione e di abbattimento degli inquinanti. Analisi di
+autocontrollo delle concentrazioni di inquinanti vengono effettuate, come da prescrizioni autorizzative.
+
+8.2 La gestione della risorsa idrica e dei rifiuti
+
+Con riferimento al sito di Colleferro, la Societa opera all’interno del comprensorio industriale utilizzando la
+risorsa idrica sia per scopi industriali che civili. In riferimento alla gestione degli approvvigionamenti idrici, le
+societa effettuano tre prelievi idrici differenti in base all’uso:
+
+e acqua industriale: fornita dalla Societa Consortile Servizi Colleferro (SC), tramite prelievo dal fiume
+Sacco e/o dai pozzi autorizzati per acqua industriale e/o ricircolo dall'emissione del depuratore.
+
+22 Dato stimato sulla base delle quantita di materiale utilizzato e dalle specifiche di prodotto.
+
+47
+

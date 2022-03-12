@@ -1,0 +1,167 @@
+| PRODOTTI - AREA ENERGIA
+
+| dati di bilancio per la generazione di energia elettrica riguardano Acea Produzione ed Acea Ambiente — termovalorizzazione (impianti di
+San Vittore del Lazio e Terni) e produzione di biogas (impianto di Orvieto).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENERGIA ELETTRICA - GENERAZIONE® u.m. 2017 2018 2019 sooo
+
+dati riassuntivi
+
+energia elettrica totale lorda prodotta (1) = (3+11+14+19) GWh 837,90 968,38 904,12 -6,6
+
+energia elettrica totale netta prodotta (2) = (10+13+18+21) GWh 773,32 900,19 839,36 -6,8
+da fonti fossili (termoelettrica) GWh 229,45 272,88 269,10 4A
+(5+ 049x153... se #0,53016,,,) DALI —-28,2% di) —-29,8% di (1)
+Gafocetion slo, asione biodegradbie fs) cwh 08S Sass 65.02 87
+(440,515. eso tong 0-476, +1119)
+
+Acea Produzione ~ idroelettrico e termoelettrico
+
+energia elettrica totale lorda prodotta (3) = (4+5) GWh 420,18 549,84 516,23 -6,1
+
+energia idroelettrica totale lorda (4) GWh 380,48 476,52 425,95 -10,6
+A. Volta Castel Madama GWh 6,92 31,64 26,17 -17,3
+G. Ferraris Mandela GWh 3,27 0,00 0,00
+G. Marconi Orte GWh 56,32 73,01 57,06 -21,8
+Sant'Angelo GWh 128,42 188,68 162,05 14]
+Salisano GWh 182,82 180,49 178,42 “1
+altre minori GWh 2,73 2,70 2,24 -17,0
+
+energia termoelettrica totale lorda (5) GWh 39,70 73,32 90,29 23,1
+
+da gasolio a GWh 215 0,56 1,36 1431
+centrale Montemartini “?
+
+da gas naturale GWh 37,55 72,76 88,93 22,2
+Tor di Valle cogenerazione GWh 8,22 0,00 0,00 -
+Tor di Valle modulo CAR GWh 29,33 72,76 88,93 22,2
+
+perdite totali di energia elettrica (6) = (7+8+9) GWh 10,12 12,32 12,19 -1,0
+autoconsumi impianti idro (7) GWh 1,98 2,00 240 19,8
+autoconsumi impianti termo (Tor di Valle, Montemartini) (8) GWh 3,63 5,39 5,27 -2)
+perdite prima trasformazione (9) GWh 4,51 4,93 4,52 -8,3
+
+soe sealer cm sone ss sous
+
+Acea Produzione — fotovoltaico
+
+energia elettrica fotovoltaica lorda (11) GWh 11,60 10,20 10,89 ° 6,8
+
+perdite totali di energia elettrica inclusi gli autoconsumi (12) GWh 1,98 218 2,29 5,0
+
+energia elettrica fotovoltaica netta (13) = (11-12) GWh 9,62 8,02 8,61 7,2
+
+Acea Ambiente - termovalorizzazione
+
+energia elettrica lorda prodotta totale (14) = (15)+(16) GWh 384,25 389,71 357,20 -8,3
+impianto di San Vittore del Lazio (15) GWh 301,15 307,30 276,27 -10,1
+impianto di Terni (16) GWh 83,10 8241 80,93 -1,8
+
+autoconsumi + perdite di prima trasformazione (17) GWh 51,30 52,73 49,12 -6,8
+impianto di San Vittore del Lazio GWh 42,78 44,35 41,12 7,3
+impianto di Terni GWh 8,52 8,38 8,00 -4,6
+
+energia elettrica totale netta prodotta (18) = (14-17) GWh 332,95 336,98 308,08 -8,6
+
+Acea Ambiente — biogas
+
+energia elettrica lorda prodotta totale da biogas (19) GWh 21,87 18,63 19,79 6,3
+impianto di Orvieto GWh 21,87 18,63 19,79 6,3
+autoconsumi (20) GWh 1417 0,97 1,16 19,4
+
+energia elettrica totale ceduta in rete (21) = (19-20) GWh 20,69 17,66 18,63 5,5
+
+ 
+
+©) Alcuni dati del biennio precedente all’anno di pubblicazione sono stati rettificati in quanto stimati
+(")_ La centrale Montemartini é mantenuta in esercizio ma con modalita di riserva
+(") Lenergia prodotta da FV non include Penergia prodotta dagli impianti acquisiti nel secondo semestre 2019
+
+244 GRUPPO ACEA/BILANCIO DI SOSTENIBILITA 2019
+

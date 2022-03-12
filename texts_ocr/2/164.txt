@@ -1,0 +1,198 @@
+A RICERCA E LINNOVAZIONE IN AREA INFRASTRUTTURE ENERGETICHE
+
+Nel 2019 la Societa Areti, nell’ambito delle attivita di distribuzione dell’e-
+
+nergia elettrica, ha awiato o realizzato numerosi progetti innovativi, tra cui:
+
+* il progetto PlatOne, finanziato dalla Comunita Europea, coordinato
+da Areti e partecipato da 12 partner distribuiti tra Germania, Belgio,
+Grecia ed Italia, promuove un nuovo approccio di gestione delle reti
+di distribuzione che le rende piu stabili in presenza di grandi carichi
+di energia da fonti rinnovabili variabili, mediante l’impiego di misure
+di flessibilita, storage e servizi di demand response, con tecnologie
+smart grid e strumenti di automazione e controllo della rete e delle
+fonti energetiche distribuite;
+
+* il progetto LUCE+, per l’ingegnerizzazione e l'utilizzazione massiva
+di un palo di illuminazione pubblica intelligente, in grado di gestire
+sensori e funzionalita del servizio di illuminazione pubblica, e forni-
+re al contempo servizi utili al distributore elettrico (come modem
+integrati, ecc.) e a terzi (come sensori ambientali, video analisi,
+ecc.); nell’ambito di tale progetto, nel corso dell’anno, sono sta-
+
+A RICERCA E LINNOVAZIONE IN AREA IDRICO
+
+Acea Ato 2, in collaborazione con Acea Elabori, ha svolto nell’anno, at-
+tivita di ricerca e di innovazione tecnologico-digitale, con l’obiettivo di
+migliorare le performance operative.
+
+Per quanto riguarda l’innovazione dei processi di gestione delle reti di
+
+distribuzione idrica, sono state sperimentate tecniche di nuova gene-
+
+razione ~ satellite, registratore di rumore e fibra ottica per la ricerca di
+
+perdite occulte (Noise Logger e Interferometria Radar Satellitare) — ed
+
+é stata realizzata la distrettualizzazione di oltre 6.000 km di rete, con
+
+Pintegrazione di un modello matematico per la predisposizione di valvo-
+
+le di regolazione delle pressioni e linstallazione di strumentazione per la
+
+gestione avanzata da remoto.
+
+Con riferimento alla depurazione delle acque reflue, i principali progetti
+
+hanno riguardato:
+
+* la valutazione di tecnologie innovative di riduzione dei fanghi, con lo
+studio sperimentale del sistema di ozonolisi e la sperimentazione di un
+sistema di disidratazione fanghi mediante essiccamento solare, pres-
+so il depuratore di Ostia;
+
++ lottimizzazione dei comparti di digestione anaerobica dei fanghi, at-
+tivati presso alcuni dei maggiori depuratori gestiti, anche in relazione
+al potere di biometanizzazione dei fanghi (primari, secondari, ecc.);
+
+* la ricerca di microinquinanti organici emergenti (MOE) per limi-
+tarne ’immissione nell’ambiente naturale in quanto potenzialmen-
+te pericolosi (interferenti endocrini, sostanze non target e prodot-
+ti di trasformazione);
+
+* la ricognizione di tecnologie e tecniche di spettrometria RAMAN per
+il monitoraggio Micro-nanoplastiche, in collaborazione con ENEA;
+
+* lo sviluppo di analisi di processo-modellistiche inerenti alla capacita
+residua degli impianti di depurazione e la simulazione della propaga-
+zione degli odori in atmosfera prodotti dai depuratori stessi.
+
+Nell’ambito della tutela delle risorse idriche, 6 proseguito il monitorag-
+
+gio satellitare delle aree di salvaguardia delle fonti di approwigionamen-
+
+to idropotabile, volto a rilevare le variazioni morfologiche (nuove costru-
+
+ 
+
+ 
+
+A RICERCA E LINNOVAZIONE IN AREA AMBIENTE
+
+Nel 2019 in Area Ambiente si segnalano le seguenti attivita di ri-
+
+cerca e innovazione:
+
++ il completamento dello studio relativo allo sviluppo di una solu-
+zione impiantistica finalizzata al recupero di bicarbonato di sodio
+e di cloruro di calcio diidrato (sotto-prodotti di reazione) dal
+trattamento del Prodotto Sodico Residuo (PSR), derivante dalla
+fase di neutralizzazione dei fumi acidi prodotti dagli impianti di
+termovalorizzazione; attualmente in fase di contrattualizzazione;
+
++ lawvio di uno studio sperimentale per il trattamento delle ceneri
+leggere (fly-ash) per il recupero della frazione inerte presente
+ed il trattamento ai fini della derubricazione delle caratteristiche
+di pericolosita;
+
+* l'awio, con il Politecnico di Milano ed il Consorzio Interuniversi-
+tario Nazionale per la Scienza e Tecnologia dei Materiali, di uno
+
+te presentate 5 domande di brevetto per invenzione industriale;
+
++ il progetto G.I.M.M.I. (Gestione Ispezioni Massive e Mirate |n-
+frastrutture), per ridurre i guasti non reperiti sulle linee aeree e il
+monitoraggio degli asset, mediante analisi periodica di immagini sa-
+tellitari e ispezioni mirate eseguite con droni,
+
++ il progetto AUTONOMOUS, per ridurre lincidenza guasti in cabi-
+na primaria, mediante ispezioni preventive in autonomia o guidate da
+remoto da un drone terrestre UGV (Unmanned Ground Vehicle);
+
++ il progetto FIBRA, per la realizzazione della rete in fibra ottica in
+sinergia con Open Fiber.
+
+Con riferimento alla mobilita elettrica, nel corso dell’anno, Areti ha
+
+sviluppato soluzioni progettuali mirate, in ottica smart grid, all’intera-
+
+zione tra veicoli elettrici e rete di distribuzione
+
+Sempre nel corso dell’anno, Acea Produzione, ha awviato lo studio di
+
+fattibilita tecnico-economica per la realizzazione di un sistema di ac-
+
+cumulo di energia elettrica a batterie.
+
+   
+
+Zioni, movimenti terra ed altro) e condurre le relative attivita di verifica.
+Nel corso dell’anno é inoltre proseguito l’iter di individuazione di un
+partner tecnologico per lo sviluppo del progetto Water Management
+System (WMS): una soluzione applicativa multi-channel, di facile
+utilizzo, in grado di rappresentare, analizzare, monitorare e relazio-
+nare enormi quantita di dati ed informazioni provenienti da molteplici
+sistemni informativi.
+Con riferimento alle attivita di potabilizzazione delle acque, presso
+Pimpianto di Grottarossa, sono stati condotti studi sui microinquinanti
+emergenti presenti nell’acqua trattata (Tevere) e sul loro destino nelle
+fasi del trattamento, nonché sulla formazione di sottoprodotti da disin-
+fezione (biossido di cloro e ipoclorito di sodio) ed é stata awiata la spe-
+rimentazione per la ricerca di virus emergenti nelle acque potabilizzate
+destinate al consumo umano.
+
+Acea Ato 5 ha condotto sperimentazioni su:
+
+* un sistema per letti di essiccamento costituito da un tubolare in
+geotessile permeabile per la disidratazione dei fanghi di supero misce-
+lati con polielettrolita;
+
+* tecniche di riduzione degli idrocarburi nei fanghi con miscele di mi-
+croorganismi in vasca di stabilizzazione,
+
+*e un polarizzatore magnetico per acque potabili.
+
+Inoltre, relativamente alle aree di salvaguardia delle fonti di approwigio-
+
+namento idropotabile, sono stati sviluppati studi per la caratterizzazio-
+
+ne del territorio circostante le fonti (aspetti geologici, stratigrafici e di
+
+circolazione idrica sotterranea), elaborate proposte per la delimitazione
+
+delle aree di tutela assoluta e protezione di alcune fonti (derivazioni di
+
+Anagni Tufano, Castrocielo Capodacqua, Collepardo Capofiume e Po-
+
+sta Fibreno) e predisposta, presso tre ulteriori sorgenti, la strumenta-
+
+zione per acquisire localmente le misure di livello idrico per l’attivita di
+
+monitoraggio propedeutica allo studio dell’area di salvaguardia.
+
+Gori ha implementato tecnologie loT e sensoristica avanzata per il mo-
+
+nitoraggio degli scaricatori di piena delle acque reflue.
+
+studio per l’implementazione di una tipologia di conversione del
+contenuto energetico del plasmix (scarto non altrimenti differen-
+ziabile dei processi di selezione meccanici della plastica) ai fini del-
+la produzione di metanolo;
+
+* il progetto Sludge Mining per la realizzazione di fertilizzanti, biocom-
+bustibili e biomateriali dai fanghi di depurazione;
+
+* il progetto Acea SmartComp, awiato da Acea Elabori per la waste
+transition e lo sviluppo del compostaggio diffuso e di prossimita con
+mini-impianti dotati di una tecnologia sensoristica in grado di trasfor-
+mare localmente i rifiuti umidi in compost, tramite un processo aero-
+bico che in circa 90 giorni produce fertilizzante pronto per l’utilizzo. Il
+primo Acea SmartComp € stato installato presso la mensa della sede
+centrale di Acea, diventata cosi organic waste free, ed Acea punta a
+
+installare 250 Acea SmartComp entro il 2022.
+
+LE RELAZIONI CON GLI STAKEHOLDER
+
+169
+

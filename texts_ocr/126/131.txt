@@ -1,0 +1,87 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+Product responsibility
+
+[GRI 103-1: Management Approach] [GRI 416] [GRI 417] [GRI 419] The 2019 materiality analysis confirmed customer
+
+relations quality as a material topic which, for the TIM Group, also incorporates responsibility for the products and services
+
+offered.
+
+[GRI 103-2: Management Approach] [GRI 416] [GRI 417] [GRI 419] TIM is primarily an operator of telecommunications
+
+services, which do not endanger the physical health of users’, and it does not produce the telecommunications equipment
+
+it sells.
+
+In order to verify that the products placed on the market comply with health and safety legislation, the Company has:
+
+* appropriate internal structures that check the incoming quality of the products it markets (fixed and cordless
+telephones’, access gateways’, etc.), both in Italy and in the production centers of manufacturers overseas;
+
+* laboratories that test the products marketed by the Group, particularly as regards the electromagnetic emissions of
+the mobile devices’.
+
+In this way, any non-conformities of products are detected prior to their market release, ensuring that products that do
+not conform with the essential requirements of the European Directives do not reach the end customer.
+
+Services provided to customers are subject to the requirements set out in the Service Charters and in the Terms &
+Conditions of Subscription, available at telecomitalia.com.
+
+[GRI 103-3: Management Approach] [GRI 416] [GRI 417] [GRI 419] This paragraph describes the management approach
+assessments for each of the above mentioned Standards, with the relative methods used and results.
+
+[GRI 416-1] In its laboratories, TIM validates the satisfaction of the essential requirements envisaged by the current
+Directives for the release of CE marking; conformity with these requirements is certified at source by the manufacturer.
+For products sold in Italy, the reference framework is the set of standards that support RED Directive 2014/53/EU, EMC
+Directive52014/30/EU, and Low Voltage Directive 2014/35/EU, divided by product macro-family®.
+
+In relation to electrical safety in the use of equipment by customers, as required by the Low Voltage Directive 2014/35/EU,
+TIM carries out checks on the technical provisions introduced to reduce the risk of electrocution, overheating, fire and
+mechanical hazards, by applying standards EN 60950-1, EN 60065 and EN62368-1.
+
+Furthermore, TIM checks:
+
+* energy efficiency aspects, required by Directive 2009/125/EC ErP (Energy-related Products), as equipment placed on
+
+the market, are checked against the stand-by/off-mode power consumption and performance limits set by European
+
+Regulations 1275/2008/EC, 801/2013/EC and 278/2009/EC, for equipment and their external power supplies (available
+
+as accessories);
+
+* device functionality under various environmental conditions of terminal installation and use including potential
+
+accessory components for connection to the fixed network is checked. Checks are carried out in compliance with
+
+temperature and humidity ranges established by ETS! (European Telecommunications Standards Institute) standards
+
+for the specific “service condition”, on which different “severity” levels are based. The checks are carried out based on
+
+the provisions of the ETSI EN 300019 standards, with the tests set out under IEC-EN series 60068-2-1 (cold), 2 (dry
+heat), 14 (temperature changes), 30 (moisture changes), 78 (continuous humidity);
+
+* electromagnetic compatibility, regulated by Directive 2014/30/EU, since unintentional electromagnetic signal
+emissions are checked - to avoid interference that can harm radio communication - and to fulfil certain
+electromagnetic interference immunity requirements. In TIM, constant checks are carried out on terminals and
+
+ 
+
+1 Threats of a psychological, security and privacy nature are dealt with in the paragraphs Protection of Minors, E-security, Privacy.
+
+Wireless.
+
+3Concentrator for voice, data and video traffic of residential customers on telecommunications networks for private use.
+
+* In 2019, ten mobile network devices were checked in TIM laboratories.
+
+5 Electro Magnetic Compatibility.
+
+® For “Corded terminals” (connected with a cord), the following standards may be applied: EN 55022 and EN 55024, EN 55032, EN 55035, EN 60950
+and EN62368-1; for “Cordless terminals” (wireless), standards EN 301489-1, EN 301406, EN 50371, EN 60950-1, EN 62311 and ITU-T P360; for
+“mobile terminals (smartphones, data cards etc.)”, standards EN 300328, EN 300440, EN 301489, EN 301511, EN301893, EN 301908, EN 302291,
+EN 60950-1 and EN 62209.
+
+132
+

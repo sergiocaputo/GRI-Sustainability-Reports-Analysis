@@ -1,0 +1,70 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+[GRI 308-1] [GRI 407-1!] [GRI 408-1] [GRI 409-1] [GRI 414-2] All suppliers of the Domestic BU have been assessed to
+consider the social/environmental risk; in 2019, there were 42 at higher risk (no change from 2018 and down 18% from
+2017). 17 purchase and suppliers? operating in the following geographical areas are considered to be at greatest social
+risk: Asia, Central and South America, North Africa and Eastern Europe.
+
+[GRI 410-1] For the employees of organizations which supply security guard services in Italy, the Consolidated Law on
+Public Security must be complied with, in particular Art. 138, subsection 2, which specifies the professional and training
+requirements of sworn guards. In Brazil, law 7102/83 establishes the rules relating to private security. Among other things,
+it ensures that all those intending to be hired as security guards for a security business must have attended a training
+course, delivered by schools accredited by the Federal Police. After hiring, once every two years the guards must take an
+update course.
+
+[GRI 103-2: Management Approach] [GRI 308] [GRI 414] Since 2014, all suppliers interested in a qualification process (new,
+extension, renewal), relating to areas of procurement that present the greatest risk in terms of sustainability answer a
+specific self-assessment questionnaire to determine the socio-environmental sustainability risk. Periodically updated
+based on the results and evolution of the qualification process, the questionnaire was developed according to the main
+requirements of the relevant responsible corporate management standards relating to respect for ethical values and to
+safeguarding the environment (including SA 8000, UN Global Compact and ISO 14001) and to the best industry practices.
+[GRI 308-1] [GRI 414-1] The self-assessment sustainability questionnaire is integrated into the application that handles
+the supplier qualification process, which automatically extended it to all new suppliers operating in markets where
+sustainability is considered to be at risk. Refresher campaigns were mounted for suppliers previously qualified in TIM’s
+Register of suppliers. The results of the questionnaire will make it possible to refine the risk matrix described above.
+
+[GRI 308-1] The application of the green procurement policy, which contains guidelines for establishing the environmental
+requirements of products/services purchased, continues to be an integral part of the procurement process. The policy
+covers all stages of the product life: design, production, use and end of life. Published on the “vendors hub” supplier portal
+of TIM and in the sustainability section of the telecomitalia.com website, the document helps to orient purchasing policies
+towards low environmental impact products and services.
+
+ 
+
+ 
+
+ 
+
+[GRI 414-1] [GRI 414-2] In 2019 in Brazil a self-assessment questionnaire on sustainability issues was sent to suppliers
+whose orders exceeded one million reais, equal to 71% of the total number of suppliers. All 831 suppliers involved
+responded by the end of 2019. The results are used as an indication for future selection processes.
+
+Sustainability checks
+
+[GRI 103-2: Management Approach] [GRI 308] [GRI 414] Activities intended to verify the sustainability performance level
+of common suppliers and sub-suppliers continued in 2019 in the framework of the Joint Audit Cooperation? (JAC) initiative,
+in accordance with the memorandum of understanding signed at the end of 2009 by TIM, Orange and Deutsche Telekom.
+Proximus, KPN, Swisscom, Vodafone Group subsequently joined the initiative in 2011; Telenor and Telia Company in 2012;
+Verizon in 2013; AT&T, Telefonica and Rogers in 2016; MTS, Telstra and Veon in 2018 and Elisa OYJ in 2019.
+
+The purposes of the Joint Audit Cooperation are:
+
+1 [GRI 103-2: Management Approach] [GRI 407] The Group policy aimed at preventing the risk of violation of trade union rights is that relating to
+“Relations with Suppliers in the TIM procurement process”, which reads: “...the Group demands of its suppliers and promotes, through them,
+and including with regards to sub-suppliers, respect for the following principles and provisions of law in force in the countries where these
+stakeholders operate... all employees have the legal right to constitute and/or belong to trade union organizations aimed at safeguarding the
+individual and collective interest. The role of the workers’ trade union representatives must be acknowledged, and they must not be subject to
+any form of discrimination; in order to go about their union activities, they must be guaranteed remunerated permits and the means necessary
+to communicate with the workers on the workplace”. The same concepts are also stressed in the Group’s policy on respect for Human Rights.
+
+NGAN (Next Generation Access Network, i.e. the next generation network), antennae, cables, data - GBE (Gigabit Ethernet, i.e. the evolution to
+1,000 Mbit/s of the Fast Ethernet -IEEE 802.3u standard -protocol operating at 100 Mbit/s), DWDM (Dense Wavelength Division Multiplexing, i.e.
+the technology used to increase the amount of bandwidth available on a fibre optic channel) equipment, 3G access, LTE mobile access (Long
+Term Evolution), assurance, creation; delivery, civil works, industrial works, industrial maintenance, call center, telesales, access gateway, and
+handset.
+
+3 Further information is available on the jac-initiative.com website.
+
+149
+

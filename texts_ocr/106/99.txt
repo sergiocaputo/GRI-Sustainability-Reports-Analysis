@@ -1,0 +1,84 @@
+98
+
+| Consolidated Non-Financial Information Statement 2019
+
+ 
+
+The six main initiatives (streams) were completed during 2019.
+
+1.
+
+IS Metrics and Indicators: definition of a series of key performance and risk metrics and indicators (30 busi-
+
+ness oriented and 50 more technically driven) for mon
+
+bed in ISO/IEC 27005 and methodologically based ont!
+
+. Vendor Management Security: definition of a baseline
+
+with access to the Group's confidential data and critica
+can be managed more effectively as a structured and
+process.
+
+. Threat Model: definition of a methodology for assessi
+
+reference to intelligence reports and sources relevant
+such internal and external players as hacktivists, hac
+agencies, so that the Group can identify and prioritize
+
+itoring the level of security on a regular basis;
+
+. IS Risk Management: definition of a process for analysing and tackling information security risks, as descri-
+
+he IRAM2 standard from ISF.
+
+of security requirements for third parties (suppliers)
+systems, so that the risks deriving from third parties
+ormalised part of the existing supplier management
+
+ng risk events and information security threats with
+o the contexts in which Prysmian operates, including
+ers, organised crime, competitors and government
+hem in order to take mitigating action.
+
+. General Cable Integration: a series of activities in support of the acquisition process, assessing the level of
+maturity and formalising a development plan for alignment with Group practices. These assessments have
+been carried out in relation to the LATAM and NA regions. As part of the integration program, two vulnerabi-
+lity assessment and penetration test initiatives were also completed in 2019: one at the US HQ and the other
+at the most important EMEA plant.
+
+ 
+
+. IS Culture: alongside established initiatives (multi-channel awareness campaigns) to promote a culture of
+security among all Group employees, a range of mandatory training courses was introduced during 2019 for
+new hires and in relation to specific initiatives, such as the adoption of second factor authentication. The
+purpose of this training is to improve behaviour in response to threats and cyber attacks that exploit the ha-
+bits and expectations of users, making them more responsible for helping to protect corporate information,
+both in the office and when on business trips.
+
+The cyber security programme will continue in the coming years and new initiatives have already been planned,
+in accordance with the strategy agreed at Group level. This strategy was revised and updated in 2019 following
+the acquisition of General Cable, resulting in additions to the existing roadmap.
+
+Security initiatives are also key elements in the integration of Group companies. They commenced in 2011 with
+the acquisition of Draka and continued in 2018 on the purchase of General Cable: companies that basically had
+different architectures to be harmonised. Programs for the secure redesign of plant data networks (network
+segregation and segmentation programme) and the application of security frameworks are therefore becoming
+even more important.
+
+The process for managing the risks associated with information security was approved and released at the be-
+ginning of 2019. It is based on the ISO/IEC 27005 international standard and extends the existing general pro-
+cess for the management of business risks adopted by the Group. This process attaches proper importance to
+security measures, linking them with known threats and risks, and draws on the results of the analysis driven by
+the Threat Model.
+
+After this analysis, any unacceptable risks will be mitigated by defining and implementing risk management
+actions, which will be appropriately prioritised with reference to the levels of risk identified.
+
+The risks associated with third parties (Group suppliers) were also considered during 2019, including the out-
+sourcing services that support critical IT systems and operations and increase risk and the extent of vulnerabi-
+lities. This potential source of cyber attacks is evolving and expanding significantly, making additional require-
+ments necessary for the supervision and monitoring of security at the third parties used by the Group.
+
+ 
+

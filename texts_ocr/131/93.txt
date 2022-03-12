@@ -1,0 +1,182 @@
+92
+
+Universita degli Studi di Firenze e Bilaneie Sociale 2018
+
+RUS é pari a 0,361 tCO,/MWh, quindi pit al-
+to rispetto al valore desunto da ISPRA, men-
+tre per il gas il valore é pari a 2,176 tCO,/tepe
+quindi inferiore al valore 2,384 tCO,/tep.
+
+Con i fattori di trasformazione utilizzati si
+sono calcolate le emissioni di CO, per fonte
+energetica e globali riassunte in Tabella 5.7.
+Nella figura é rappresentato il grafico dell’an-
+damento delle emissioni per fonte e totali in
+tonnellate di CO,, dal 2010 al 2018: come ap-
+pare evidente il contributo dell’energia elet-
+trica nell’emissione di CO,, pari mediamente
+a14.971 tCO,/anno, é oltre tre volte superio-
+re a quella del gas, mediamente pari a 4.361
+tCO,/anno, mentre é ormai quasi trascurabi-
+le il contributo alle emissioni del gasolio pari
+mediamente a 346 tCO,,/anno.
+
+Solo una consistente riduzione dei consumi
+elettrici, pertanto, pud portare ad una altret-
+tanto consistente riduzione nell’emissione di
+CO,. Dal 2010, limitatamente ai consumi esa-
+minati, si stima che siano state globalmente
+emesse 177103 tCO,, con una media annua di
+19.678 tCO,, in progressiva riduzione sotto la
+media a partire dal 2013
+
+5.2.7. Fornitura energia elettrica
+
+Nel 2015 LUniversita di Firenze ha consuma-
+to energia elettrica, fornita in media e bassa
+tensione, per 37,24 milioni di kWh, per un co-
+sto medio Vendita di circa 0,051 €/kWh.
+
+Nel periodo 2016-2018 il consumo di energia
+si €é mediamente ridotto a circa 35 milioni di
+kWh con un risparmio complessivo dell’ordi-
+ne di 370.000 €
+
+Non é possibile al momento conoscere I'en-
+tita dell’energia suddivisa per singolo edifi-
+cio e per le diverse utilizzazioni (climatizza-
+zione, illuminazione, apparecchiature per uf-
+ficio, ecc.), anche se é presumibile che la quo-
+ta di consumo piu rilevante si ha nel caso di
+impianti di condizionamento per la climatiz-
+zazione invernale ed estiva, e nei locali desti-
+nati a laboratori.
+
+5.2.8. Fornitura di gas per climatizzazione
+
+eACS
+
+| circa 2.100.000 sm? di gas metano vanno
+essenzialmente a soddisfare la richiesta di
+energia per la climatizzazione e la produzione
+di acqua calda sanitaria (ACS), di cui, analo-
+gamente all’energia elettrica, non é possibile
+sapere le rispettive quote distinte. In termini
+energetici (TEP) si @ passati dai 1941 Tep del
+2010 ai 1782 del 2018 in diminuzione, e que-
+sto pud essere attribuito alle politiche di ef-
+ficientamento energetico di edifici e impian-
+
+24000
+22000
+20000
+18000
+16000
+14000
+12000
+10000
+8000
+6000
+4000
+2000
+
+o
+
+2010 2011 2012 2013
+
+I 0, EE
+HB Co, Gas
+| Co, Gasolio
+a Co, Totale
+
+2014 2015 2016 2017 2018
+
+@ Andamento dell’emissione di tCO, per fonte e globali dal 2010 al 2018
+
+24000
+22000
+
+2010 2011 2012 2013
+
+20000... ---- ---4o-|----------
+18000
+16000
+14000
+12000
+10000
+8000
+6000
+4000
+2000
+0
+
+media annua
+
+2014 2015 2016 2017 2018
+
+@ Andamento dell’emissione globale di tCO, dal 2010 al 2018
+
+tiin atto da anni di cui si avvertono i benefici.
+In questo periodo sono in corso di reperimen-
+to presso il Servizio Tecnico i dati relativi al
+costo della fornitura del gas, che comprende
+anche i servizi di gestione e manutenzione.
+
+1111.03% circa dei consumi annuali di gas natu-
+rale sono acquistati sul libero mercato tramite
+le gare del Soggetto Aggregatore Regione To-
+scana mentre la restante quota viene coper-
+ta dal contratto di Servizio Energia Plus sti-
+pulato con la ditta ENGIE e si riferisce ai ples-
+si universitari energeticamente piu rilevanti
+Inoltre, il gas fornito non assolve al totale
+fabbisogno di energia termica per la climatiz-
+zazione, dato che una quota parte dienergiaé
+fornita dall’elettricita (pompe di calore, termi-
+nali elettrici, stufe, impianti mini-split, ecc.).
+
+5.2.9. Interventi di efficientamento
+
+energetico realizzati
+
+L'Universita ha stipulato un contratto di
+Servizio Energia Plus ai sensi del D. Lgs. N.
+15/2008.
+
+Il contratto di servizio energia “Plus” é un
+
+contratto di rendimento energetico e rappre-
+
+senta uno “strumento finanziario per i rispar-
+
+mi energetici” finalizzato alla realizzazione
+
+di specifici interventi volti al miglioramen-
+
+to del processo di trasformazione e di utiliz-
+
+zo dell’energia, alla riqualificazione energe-
+
+tica dell'involucro edilizio e alla produzione di
+
+energia da fonti rinnovabili.
+
+Dall'esecuzione del contratto sono stati rea-
+
+lizzati i seguenti interventi:
+
+* adeguamento del telecontrollo degli im-
+pianti termici;
+
++ istallazione caldaie a condensazione (Ples-
+so SVerdiana 2, CERM1e 2, Polo Scienze
+Sociali, Plesso didattico Morgagni);
+
++ istallazione gruppo VRV (SIAF);
+
+* sostituzione gruppi frigo (Rettorato, Ples-
+so didattico Morgagni, Scienze Farmaceu-
+tiche, Ortoflorofruitticoltura);
+
+* sostituzione UTA (Ortoflorofruitticoltura).
+

@@ -1,0 +1,67 @@
+b) the lease term was estimated based on the contract clauses to identify the non-cancellable period of the
+lease; the company considered the contracts in which the leased assets are used for the termination
+
+and renewal options;
+
+The captions “Right-of-use assets” and “Lease liabilities” include the effect of applying IFRS 16. The leased
+assets and the related financial liabilities that, under the previous standard applicable at 31 December 2018,
+were recognised in the captions “Property, plant and equipment” and “Finance lease liabilities”, respectively,
+
+have been reclassified as set out below.
+The company is a lessor of right-of-use assets which it accounts for as operating leases.
+
+It is not required to reclassify those leases in which it is the lessor under IFRS 16, except for subleases. The
+company has assessed its classification of subleases considering the right-of-use asset rather than the
+
+underlying asset and has found that they comply with the definition of operating leases as per IFRS 16.
+
+The following table shows the effect of application of the new standard on opening equity at 1 January 2019:
+
+Equity at 1 January 2019
+
+ 
+
+ 
+
+(€000)
+
+Equity and profit 845,199
+Total equity before introduction of the new standard 845,199
+Effects of the application of the new standard 828
+
+ 
+
+Equity after introduction of the new standard
+
+ 
+
+ 
+
+846,027
+
+Equity and profit
+
+ 
+
+Total equity before introduction of the new standard 846,027
+
+ 
+
+Lease liabilities presented in the above statement of financial position at the date of initial application amount to
+€41.1 million. Commitments arising from operating leases presented under IAS 17 at 31 December 2018,
+discounted using the incremental borrowing rate at the date of initial application, amounted to €51.2 million. The
+decrease is mostly due to the better estimate made of the lease term and the application of the practical
+expedients for short-term leases (less than 12 months) and leases for which the underlying asset is of low value.
+IFRIC 23 provides guidance on the determination of taxable profit where there is uncertainty over income tax
+treatments. The interpretation establishes that if it is not probable that a particular tax treatment will be accepted
+by the tax authority, the entity shall reflect this uncertainty in its financial statements. Accordingly, based on past
+experience of tax assessments performed by the Ethiopian tax authorities, the company recognised a higher
+tax liability of €8 million compared to 2017 and 2018 as these years are still open to assessment. The
+interpretation’s transition provisions allow this effect to be recognised under retained earnings at 1 January 2019
+
+and the comparative figures do not have to be restated.
+
+ 
+
+403
+

@@ -1,0 +1,75 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+
+ 
+
+7. Passivita finanziarie oggetto di compensazione in bilancio, oppure soggette ad accordi-quadro di
+compensazione o ad accordi similari
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—
+Ammontare | “""Smpensasione in Bilancio. | Ammontare
+Ammontare | Ammontare | ctto delle —————ee ecto
+Reeeteatets ‘oma oy tonite Rn ce a
+finanziarie (a) ae riportato in Strumenti aia he
+| mento] scien) | mma gg | cotanteponia | eo i
+1 Denia 16.176 16176 16.176
+2. rant conto termine 115.708 115.708 115.708
+2. Presto tal
+4. Altre operaviont
+Totale 31/12/2017 131.984 iaL9s 115.708 16.176
+Totale 31/12/2016 1638173 1ea4.173 617.680 16.493
+
+ 
+
+ 
+
+Per le tipologie di accordi quadro valgono le stesse considerazioni della tabella precedente, inoltre, per i derivati otc,
+gli accordi effettuati con lo standard ISDA prevedono la compensazione delle partite debitorie e creditorie in caso di
+default delle controparti e, alla quasi totalita delle controparti istituzionali, sono abbinati al CSA che prevede anche
+una garanzia in contanti da rivedere periodicamente in base all'andamento del valore dei contratti sottostanti.
+
+Tutti gli importi indicati non sono stati compensati in bilancio in quanto non sono soddisfatti i criteri previsti dal
+paragrafo 42 dello IAS 32.
+
+Gli importi lordi (a) indicati nella tabella relativi ai derivati sono contabilizzati nella voce 60 “Derivati di copertura”; i
+relativi depositi in contante effettuati (e) sono contabilizzati nella voce 60 “Crediti verso banche” e voce 70 “Crediti
+verso clientela”
+
+Gli importi lordi (a) indicati nella tabella relativi alle operazioni di pronti contro termine sono contabilizzati nella voce
+10 “Debiti verso Banche” e nella voce “Debiti verso clientela”; i relativi strumenti finanziari correlati (d) sono rappre-
+sentati dal valore dei titoli oggetto delle operazioni stesse, mentre i depositi in contante effettuati (e) sono contabi-
+lizzati nella voce 60 “Crediti verso banche”.
+
+ 
+
+492
+

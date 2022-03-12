@@ -1,0 +1,98 @@
+| 164 | Generali Group
+
+Balance Sheet — Assets
+Intangible assets
+
+In accordance with IAS 38, an intangible asset is recog-
+nised if, and only if, it is identifiable and controllable and
+it is probable that the expected future economic benefits
+attributable to the asset will flow to the company and the
+cost of the asset can be measured reliably.
+
+This category includes goodwill and other intangible as-
+sets, such as goodwill recognised in the separate finan-
+cial statements of the consolidated companies, software
+and purchased insurance portfolio.
+
+Goodwill
+
+Goodwill is the sum of future benefits not separate-
+ly identifiable in a business combination. At the date of
+acquisition, the goodwill is equal to the excess between
+the sum of the consideration transferred, including con-
+tingent consideration, liabilities assumed towards the
+previous owners the fair value of non-controlling interests
+as well as, in a business combination achieved in stag-
+es, the fair value of the acquirer’s previously held equity
+interest in the acquiree and the fair value (present value)
+of net amount of the separately identifiable assets and
+liabilities acquired.
+
+After initial recognition, goodwill is measured at cost less
+any impairment losses and it is no longer amortised. Ac-
+cording to IAS 36, goodwill is not subject to amortization.
+Realized gains and losses on investments in subsidiaries
+include the related goodwill. Goodwill is tested at least
+annually in order to identify any impairment losses.
+
+The purpose of the impairment test on goodwill is to
+identify the existence of any impairment losses on the
+carrying amount recognised as intangible asset. In this
+context, cash-generating units to which the goodwill
+is allocated are identified and tested for impairment.
+Cash-generating units (CGU) units usually represent the
+consolidated units within the same primary segment in
+each country. Any impairment is equal to the difference,
+if negative, between the carrying amount and the recov-
+erable amount, which is the higher between the fair value
+of the cash-generating unit and its value in use, i.e. the
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+present value of the future cash flows expected to be de-
+rived from the cash-generating units. The fair value of the
+CGU is determined on the basis of current market quota-
+tion or usually adopted valuation techniques (mainly DDM
+or alternatively Market Value Balance Sheet or appraisal
+value). The Dividend Discount Model is a variant of the
+Cash flow method. In particular the Dividend Discount
+Model, in the excess capital methodology, states that the
+economic value of an entity is equal to the discounted
+dividends flow calculated considering the minimum cap-
+ital requirements. Such models are based on projections
+on budgets/forecasts approved by management or con-
+servative or prudential assumptions covering a maximum
+period of five years. Cash flow projections for a period
+longer than five years are extrapolated using estimated
+among others growth rates. The discount rates reflect the
+free risk rate, adjusted to take into account specific risks.
+Should any previous impairment losses no longer exist,
+they cannot be reversed.
+
+For further details see paragraph “Information on consol-
+idation perimeter and Group companies” in the Notes.
+
+Other intangible assets
+
+Intangible assets with finite useful life are measured at
+acquisition or production cost less any accumulated
+amortisation and impairment losses. The amortisation
+is based on the useful life and begins when the asset
+is available for use. Specifically, the purchased software
+expenses are capitalised on the basis of the cost for pur-
+chase and usage.
+
+The costs related to their development and maintenance
+are charged to the profit and loss account of the period
+in which they are incurred.
+
+Other intangible assets with indefinite useful life are not
+subject to amortization. They are periodically tested for
+impairment.
+
+Gains or losses arising from de-recognition of an intangi-
+ble asset are measured as the difference between the net
+disposal proceeds and the carrying amount of the asset
+and are recognised in the income statement when the
+asset is de-recognised.
+

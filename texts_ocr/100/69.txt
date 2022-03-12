@@ -1,0 +1,212 @@
+136
+
+EMISSIONI
+
+EMISSIONI TOTALI DI CO,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2016 2017
+IT PT US TOTALE IT PT. US TOTALE
+Emissioni dirette - Scope 1 72.237 37.975 23.884 134.096 78.113 37.789 25.231 141.133
+() Energia
+Emissioni dirette - Scope 1 793 3.778 - 4.571 573 4.031 281 4.885
+(t) Materiale
+Emissioni dirette - Scope 1 73.030 41.753 23.884 138.667 78.686 41.819 25.512 146.018
+(t) Totale
+Emissioni indirette = Scope 2 28.141 16.370 11.078 55.590 29.041 16.756 14.569 60.366
+(t) - Location Based
+Emissioni indirette - Scope 2 34.904 12.139 11.078 58.121 36.019 12.426 14.569 63.014
+(t) - Market Based
+Intensita emissiva totali
+Scope +2 ((CO,/mn) 0,009 0,009 0,010 0,009 0,009 0,009 0,010 0,009
+NOx, SOx E ALTRE EMISSIONI INQUINANTI
+2017
+t/ANNO
+NOx 109
+SOx 43
+Persistent organic pollutants (POP) 6
+Volatile organic compounds (VOC) 30
+Hazardous air pollutants (HAP) -
+Particulate matter (PM) 80
+Other standard categories of air emissions identified in relevant 150
+regulations
+ENERGIA
+COEFFICIENT ELETTRICA GAS NATURALE GPL GASOLIO BENZINA
+DI EMISSIONE (gCO,/kWh) (tCO,/Smc) (tCO,/t) (tCO,/t) (tCO,/t)
+Italia 375
+Portogallo 390 0,001964 3,026 3,151 3,14
+US 455
+Ministero Ministero Ministero dell‘Ambiente Ministero
+dell'Ambiente e della dell’Ambiente e della __e della tutela del Territorio e _dell’Ambiente e della
+Fonte TERNA, Confronti _tuteladel Territorio _tutela del Territorio del Mare, Tabella Parametri__tutela del Territorio
+
+Internazionali, 2015
+
+e del Mare, Tabella
+Parametri Standard
+Nazionali, 2017
+
+e del Mare, Tabella
+Parametri Standard
+
+Nazionali, 2017
+
+Standard Nazionali, 2017
+e National Inventory
+Report 2017 (per il gasolio)
+
+e del Mare, Tabella
+Parametri Standard
+Nazionali, 2017
+
+ 
+
+ 
+
+ 
+
+ 
+
+POTERE CALORIFICO INFERIORE DEI COMBUSTIBILI PCI
+
+Gas Naturale (GJ/Sme) 0,035134
+GPL (GJ/ton) 46,141
+Gasolio (GJ/ton) 42,785
+Benzina (GJ/ton) 42,817
+
+ 
+
+Fonte
+
+Ministero dell‘Ambiente e della tutela del Territorio e del Mare,
+Tabella Parametri Standard Nazionali, 2017 e National Inventory
+Report 2017 (per il gasolio)
+
+ACQUA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACQUA PRELEVATA
+2016 2017
+IT PT US TOTALE IT* PT US TOTALE
+Consumo idrico 180.673 151.625 32.596 364.894 190.829 151.350 45.467 387.645
+totale (m’)
+ae da pozzo 165.759 147.753 - 313.512 178.237 147.035 : 325.272
+~di cui da 14.914 3.872 32.596 51.382 12.592 4.315 45.467 62.373
+acquedotto (m:)
+Intensita consumi 0,016 0,024 0,009 0,017 0,016 0,024 0,011 0,017
+idrici (m?/m?)
+* II dato non include il consumo idrico del centro di stoccaggio di Casalgrande
+ACQUA RICILATA E RIUSATA*
+2016 2017
+IT PT US TOTALE IT PT US TOTALE
+Totale di acqua
+riciclata e riusata 206.456 89.329 12.206 307.991 202.714 126.439 14.723 343.877
+(m°)
+* II dato 2016 relativo all’acqua riciclata e riusata é stato riesposto ai fini di una maggiore omogeneita dei dati
+SCARICHI DI ACQUE REFLUE
+2016 2017
+IT PT Us* TOTALE IT PT US TOTALE
+Totale di acque - 41.354 9.770 51.124 - 34.140 10.844 44.984
+reflue (m*)
+* II dato 2016 US é stato riesposto ai fini di una maggiore omogeneita dei dati
+RIFIUT| PER MODALITA DI TRATTAMENTO
+2016 2017
+IT PT US | TOTALE IT PT US TOTALE
+Recupero (t) 49.803 16.105 193 66.101 53.827 18.234 15.173 87.234
+di cui pericolosi (t) 148 ir : 159 67 15 : 82
+Smaltimento (t) 3.310 53 2.581 5.944 3.182 52 3.147 6.381
+di cui pericolosi (t) 109 : : 162 152 52 : 204
+Percentuale di rift 0,48% 0,40% 0,00% 0,4% 0,38% 0,37% 0,00% 0,31%
+pericolosi sul totale
+2016 2017
+IT PT US TOTALE IT PT US TOTALE
+Superficie
+piastrelle prodotte 1.203.095 6.433.397 3.629.219 -21.265.711 12.202.884 6.389.720 4.098.111 22.690.715
+(m*)
+Tonnellate di
+piastrelle prodotte 262.117 127.732 72.066 461.915 297.003 128.235 81.367 506.605
+
+(o)
+
+Panariagroup - Bilancio di Sostenibilita 137
+

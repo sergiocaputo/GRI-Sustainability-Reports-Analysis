@@ -1,0 +1,49 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+2 - Attivita finanziarie disponibili per la
+vendita
+
+a) Criteri di iscrizione
+
+Liscrizione iniziale delle Attivita finanziarie disponibili per la vendita avviene alla data di regolamento. All’atto della rilevazione
+iniziale, tali attivita vengono rilevate al loro fair value, che corrisponde normalmente al corrispettivo pagato. Le variazioni di
+fair value tra la data di negoziazione e quella di regolamento sono in ogni caso riflesse nel Rendiconto separato. Laddove,
+eccezionalmente, l’iscrizione awvenisse a seguito di riclassificazione dalle Attivita finanziarie detenute sino a scadenza, il valore
+di iscrizione é rappresentato dal fair value al momento del trasferimento. Nel caso di titoli di debito l’eventuale differenza tra il
+valore iniziale e il valore di rimborso viene ripartita lungo la vita del titolo.
+
+b) Criteri di classificazione
+
+Sono strumenti finanziari non derivati esplicitamente designati in questa categoria, ovvero che non trovano classificazione in
+nessuna delle altre categorie commentate nei paragrafi 1, 3 e 4.
+
+c) Criteri di valutazione
+
+Tali strumenti finanziari sono valutati al fair value e gli utili o perdite da valutazione vengono imputati a una riserva di Patrimonio
+netto; la loro imputazione a Conto economico é eseguita solo nel momento in cui l’attivita finanziaria viene effettivamente cedu-
+ta (0 estinta) 0, nel caso di variazioni cumulate negative, quando si valuta che la riduzione di valore gia rilevata a Patrimonio
+netto non potra essere recuperata in futuro. Limitatamente ai titoli di debito, se in un periodo successivo il fair value aumenta
+come oggettiva conseguenza di un evento verificatosi dopo che una perdita di valore era stata rilevata nel Conto economico, il
+valore dello strumento finanziario é ripristinato con accredito dell'importo a Conto economico. Inoltre, sempre per i titoli di debi-
+to, la rilevazione dei relativi rendimenti in base alla tecnica del costo ammortizzatot® awviene con effetto sul Conto economico,
+analogamente agli effetti relativi alle variazioni dei tassi di cambio, mentre le variazioni dei tassi di cambio relative agli strumenti
+di capitale disponibili per la vendita sono rilevate nell’ambito della specifica riserva del Patrimonio netto.
+
+d) Criteri di cancellazione
+
+Le Attivita finanziarie disponibili per la vendita vengono cancellate quando scadono i diritti contrattuali sui flussi finanziari deri-
+vanti dalle attivita stesse o quando I’attivita finanziaria viene ceduta trasferendo sostanzialmente tutti i rischi e i benefici a essa
+connessi. | titoli ricevuti nell’ambito di una operazione che contrattualmente prevede la successiva vendita e i titoli consegnati
+nell’ambito di una operazione che contrattualmente prevede il successivo riacquisto non sono, rispettivamente, registrati o
+cancellati dal Rendiconto separato.
+
+118. ll costo ammortizzato di un'attivita o passivita finanziaria € l’'ammontare a cui l’attivita o passivita é valutata al momento della rilevazione iniziale, meno i
+rimborsi di capitale, pil. o meno l'ammortamento accumulato, utilizzando il metodo dell’interesse effettivo, di tutte le differenze tra il valore iniziale e quello a
+scadenza, e meno le riduzioni per perdite di valore o per insolvenza. Il tasso di interesse effettivo é il tasso che rende equivalente il valore attuale dei futuri flussi
+di cassa contrattuali (0 attesi) con il valore contabile iniziale dell'attivita o passivita. Il calcolo del costo ammortizzato deve comprendere anche i costi esterni
+ei proventi direttamente imputabili in sede di iscrizione iniziale dell’attivita o passivita.
+
+|
+432
+

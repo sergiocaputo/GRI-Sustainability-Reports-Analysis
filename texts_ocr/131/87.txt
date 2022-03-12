@@ -1,0 +1,204 @@
+86
+
+Universita degli Studi di Firenze e Bilaneie Sociale 2018
+
+ihc
+
+Aiea
+
+ 
+
+E importante porre attenzione all’analisi delle
+risorse energetiche utilizzate dall’Ateneo per
+meglio capire quali azioni possono essere
+intraprese per un miglioramento nell’ottica
+della sostenibilita e per aumentare la quota di
+utilizzo di energia elettrica prodotta da fonti
+rinnovabili, attualmente intorno allo 0,12%.
+
+ 
+
+5.2 Le p he energetiche di
+approvvigionamento
+Con il decreto-legge 24 aprile 2014, n. 66é@
+stata introdotta la figura dei Soggetti Aggre-
+gatori di cui fanno parte Consip S.p.A. e una
+centrale di committenza per ciascuna regio-
+ne, gualora costituita ai sensi dell’articolo 1,
+comma 455, della legge 27 dicembre 2006,
+n. 296. A livello nazionale sono stati previsti
+35 Soggetti Aggregatori. In Regione Toscana
+il Soggetto Aggregatore é la Giunta regiona-
+le che si awvale, quale articolazione funziona-
+le dello stesso, di
+« ESTAR per le procedure di gara di benie
+servizi per le strutture sanitarie relativa-
+mente a determinate categorie merceolo-
+giche;
+¢ CET scrl per lo svolgimento delle procedu-
+re di gara relative alla fornitura di energia
+elettrica, gas naturale e combustibile per
+riscaldamento e per gli interventi di effi-
+cientamento energetico (deliberazione di
+Giunta Regionale n. 718 del 14.07.2015).
+|| presente rapporto fornisce un contributo
+conoscitivo generale limitatamente ai consu-
+mi dei vettori energetici di cui sono disponibili
+dati e specificatamente energia elettrica, gas
+e gasolio, ed é stato redatto in collaborazione
+tra il Laboratorio di Fisica Ambientale per la
+Qualita Edilizia-LabFAQE e il Consorzio Ener-
+gia Toscana-CET, avente l'incarico di Ener-
+gy Manager, che gestisce per conto di UNIFI
+i contratti di fornitura energia (elettrica, gas
+e gasolio) per i vari complessi immobiliari co-
+stituenti il patrimonio edilizio universitario,
+ad eccezione di quelli inseriti nel contratto
+di Servizio Energia PLUS nella titolarita dalla
+societa ENGIE e di quelli relativi al complesso
+universitario di Careggi servito dall’impianto
+ditrigenerazione.
+Saranno quindi messi a confronto i dati 2016-
+17 con quelli 2018 e aggiornato il calcolo dei
+consumi e delle emissioni inquinanti di CO,
+a partire dal 2010, utilizzando per l’energia
+
+elettrica i fattori di emissione disponibili su
+base nazionale a partire dal 1990.
+
+La conoscenza dei consumi energetici sud-
+detti, correlata alla qualita del patrimonio
+edilizio dell’ateneo, é la premessa necessaria
+per individuare le azioni prioritarie d'interven-
+to con l’obiettivo di raggiungere il target legi-
+slativo nZEB (edifici a bassissimo consumo
+di energia e alimentati da fonti rinnovabili)
+in vigore da Gennaio 2019 per gli edifici pub-
+blici. Il Target nZEB per Firenze é di circa 60
+kWh/m2anno, owero circa la meta del para-
+metro preliminare di confronto (benchmark)
+dei consumi energetici27 in termini di ener-
+gia primaria, dell’ordine di 122 kWh/m?anno
+(circa 40 kWh/manno assumendo un’altez-
+za media prudenziale dei locali di 3 m); di que-
+sti la componente per la sola illuminazione28
+é valutata pari a circa 30 kWh/m?anno (il 24%
+dei consumi globali).
+
+Tale consumo di energia, in sinergia con gli al-
+tri edifici su scala nazionale, provoca l'immis-
+sione di quantita non trascurabili di gas con
+effetto serra su scala globale e creazione di
+isole dicalore su base locale”.
+
+In questo contesto si colloca l’azione finaliz-
+zata al controllo ed alla riduzione dei consumi
+energetici elettrici e termici dell’Ateneo, de-
+scritti in seguito, cui é possibile anche rappor-
+tare l'immissione in atmosfera di gas climal-
+teranti. Da qui la necessita di comprendere,
+in un’ottica di sostenibilita energetico-am-
+bientale, quali azioni possano essere intra-
+prese per ridurre gli effetti di tale problemati-
+ca (Piani di riduzione delle emissioni di CO,) a
+partire da una diagnosi energetica di ciascu-
+no degli edifici costituenti il patrimonio edili-
+zio dell’Ateneo, premessa indispensabile per
+raggiungere l'obiettivo di riduzione dei con-
+sumi energetici (assunzione di impegni di ri-
+duzione delle emissioni)
+
+Tale patrimonio é costituito da edifici realiz-
+zati in periodi storici completamente diversi
+dal punto di vista tecnologico e dell’attenzio-
+ne rivolta al tema in esame. A questa diver-
+sita si deve aggiungere la varieta di funzioni
+che sono svolte nei vari edifici spesso non di-
+rettamente confrontabili in tema d’intensi-
+
+?” Santini E., Elia S., Fasano G. 2009. Caratterizza-
+zione dei consumi energetici nazionali delle strut-
+ture ad uso ufficio. ENEA, Report RSE/2009/121
+
+28 ELTERTIARY, Monitoring Electricity Consump-
+tion in the Tertiary Sector. 2008. Available at:
+http://ec.europa.eu/energy/intelligent/projects/
+en/projects/el-tertiary.
+
+*8 Vedasi in merito il Progetto RUM — Rete Urbana
+Mobile di Firenze coordinato dal Prof. Marco Bindi
+
+ta energetica (ad esempio laboratori vs au-
+le didattiche o uffici) che pud essere espres-
+sa sinteticamente da diversi parametri qua-
+li, a titolo esemplificativo, consumo di ener-
+giain kWh/m? di superficie o m? di volume cli-
+matizzato*”’. Ulteriori parametri di riferimen-
+to possono essere il rapporto tra consumi di
+energia e utenza costituita dal personale (do-
+cente e amministrativo) a vario titolo presen-
+te negli edifici e dagli studenti iscritti ai vari
+corsi di laurea riconducibili agli edifici in esa-
+me e che presumibilmente frequentano gli
+stessi.
+
+Linsieme dei parametri di intensita energe-
+tica costituisce un osservatorio in grado di
+orientare la politica energetica dell’ateneo
+volta alla riduzione delle emissioni di gas cli-
+malteranti.
+
+5.2.1 Linee Guida GdL RUS —
+
+Cambiamenti Climatici
+
+Per la redazione di questo rapporto, aggior-
+
+namento dei dati globali 2018 (anno di riferi-
+
+mento 2017), ci siamo avvalsi delle Linee Gui-
+da Operative per la redazione degli Inventari
+delle Emissioni di Gas Serra degli Atenei Ita-
+lian’?! emanate a cura del Gruppo di Lavoro
+
+Cambiamenti Climatici* facente parte della
+
+Rete Universita sostenibili (RUS). Al fine di
+
+assicurare la massima diffusione della cono-
+
+scenza delle suddette Linee Guida nel testo
+sono riportati ampi stralci e sintesi in relazio-
+ne agli obiettivi del presente rapporto.
+
+|| Gruppo di Lavoro Cambiamenti climatici
+
+supporta gli atenei italiani in particolare per
+
+quanto attiene:
+
++ l'inventario delle emissioni di CO, degli ate-
+nei;
+
++ la definizione dei Piani di riduzione delle
+emissioni di CO, degli atenei;
+
++ l'assunzione di impegni di riduzione del-
+le emissioni e comunicazione degli stes-
+siin ambito UNFCCC (United Nations Fra-
+mework Convention on Climate Change);
+
+3° Per j consumi attribuibili ai singoli edifici si ri-
+manda al rapporto Bilancio Sociale del 2016 para-
+grafo 41
+
+*'Ver. 1.0 del 21/3/2019 GdL RUS — Cambiamenti
+Climatici
+
+* || Gruppo di Lavoro Cambiamenti climatici @ sta-
+to costituito nel marzo del 2017 per supportare gli
+atenei italiani nelle attivita sul tema dei cambia-
+menti climatici; é composto da rappresentanti del-
+le diverse universita pubbliche e private italiane
+che hanno aderito alla RUS.
+

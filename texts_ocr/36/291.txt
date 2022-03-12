@@ -1,0 +1,133 @@
+since they are reported under Scope 2.
+
+(7) Interms of minor pollutants, mercury emissions in 2019 amounted to 109 kg, associated with thermoelectric generation for Italy, Spain, Russia and
+Chile, which account for almost 100% of coal-fired thermoelectric generation throughout the Group. This is in addition to the mercury emissions
+from the geothermal sector amounting to 403 kg. In Europe, mercury emissions are declared to the competent authorities for registration in the
+European Pollutant Release and Transfer Register (E-PRTR) in accordance with EU Regulation no. 16/2006 and are subject to the relevant checks
+in terms of completeness, consistency and credibility (Article 2 of Regulation no. 16/2006).
+
+(8) The 2019 and 2018 data was classified according to a different method from that applied in 2017. The figures are therefore not comparable.
+
+(9) The increase recorded in 2019 is mainly due to penalties imposed on the distribution company in Spain.
+
+(10) Following the adoption of the new standard GRI 303 in the 2018 data reporting, the figure previously indicated as specific consumption now
+refers to specific requirements. Requirement means the total amount of water withdrawn, including the re-use of external wastewater, which is
+necessary for the plants to operate. This figure does not include water used for oper-cycle cooling, since the water is then put back into the original
+water body.
+
+(11) Specific requirements for thermoelectric generation are calculated considering the total consumption of water from thermoelectric generation, in
+proportion to the total thermoelectric generation (including the contribution of heat in MWh)
+
+(12) Specific requirements for nuclear power generation are calculated considering total water consumption from nuclear generation, in proportion to
+the total nuclear power generation.
+
+(13) Specific requirements for total generation are calculated considering the total water consumption for thermoelectric and nuclear generation, in
+proportion to the total thermoelectric (including the heat contribution in MWh), renewable and nuclear generation.
+
+(14) Following the adoption of the standard GRI 303, since 2019 the figures relating to the withdrawal classes by water source are divided into fresh
+water (= < 1,000 mg/l total dissolved solids) and other water (> 1,000 mg/ total dissolved solids). This division is not available for previous years.
+
+(15) The difference in the 2019 figure from the previous year is due to a different data collection method following the introduction of a new environmen-
+tal data tool. The figures were gathered by adopting the withdrawal classes and discharges according to the new standard GRI 303.
+
+(16) Following the adoption of the new standard GRI 303, as of 2019 the figures relating to discharges were collected by destination. This division is not
+available for previous years.
+
+(17) With regard to waste production, the table below shows the 2019 figures by significant geographical area only.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+KPI uM December 2019 Scope
+Hazardous waste by significant geographical area
+
+Italy (o 16,112 Italy
+Iberia (o 14,381 Iberia
+Latin America (t) 9,258 Latin America
+Chile o 968 Chile
+Argentina 0 928 Argentina
+Colombia o 400 Colombia
+Peru Oo 860 Peru
+Brazil o 6,112 Brazil
+Europe and Euro-Mediterranean Affairs w 10,337 Eareonees ‘aia ee
+Russia o 8,649 Russia
+Romania o 1,581 Romania
+Greece a 106 Greece
+Bulgaria o 1 Bulgaria
+Non-hazardous waste by significant geographical area
+
+Italy o 956,529 Italy
+Iberia o 1,044,461 Iberia
+Latin America o 2,132,446 Latin America
+Chile o 1,768,964 Chile
+Argentina o 92,906 Argentina
+Colombia 0 142,225 Colombia
+Peru Oo 41,990 Peru
+Brazil o 86,361 Brazil
+Europe and Euro-Mediterranean Affairs w 3,034,059 incite fone Ren
+Russia (t) 3,030,190 Russia
+Romania o 3,863 Romania
+Greece o 13 Greece
+Bulgaria o 3 Bulgaria
+
+ 
+
+(18) The cabling ratio is calculated by proportioning the km of cabled lines (both underground and aerial insulated cables) to the total km of lines. The
+increase in the cabling ratio over the years is due to a general increase, in terms of length, of aerial and underground cable sections at the expense
+of the bare conductor line.
+
+290 Sustainability Report 2019 enel
+

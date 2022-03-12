@@ -1,0 +1,53 @@
+[305-1] Nel Gruppo le emissioni di Scopo 1 corrispondono alle emissioni di GHG derivanti:
+o dall’utilizzo di combustibili (benzina, gasolio, olio combustibile e gas naturale);
+o dalle perdite di gas refrigeranti dagli impianti di condizionamento/refrigerazione.
+
+Nel 2017 le emissioni derivanti dai combustibili sono state pari a 10.866 tonnellate di CO2eq, mentre il
+contributo relativo ai refilling @ stato di 321 tonnellate di CO2eq. Il totale delle emissioni di Scopo | del
+Gruppo Interpump é pertanto di 11.187 tonnellate di CO2eq (in aumento rispetto all’anno precedente,
++13%).
+
+ 
+
+Emissioni di GHG - Dirette U.M. 2016 2017
+Combustibili ton CO2eq 9.810 10.866
+Refilling gas refrigeranti ton CO2eq 95 321
+Totale emissioni Scopo 1 ton CO2eq 9.905 11.187
+
+ 
+
+Le maggiori emissioni derivanti dai combustibili rispetto al 2016 sono riconducibili alla variazione del
+perimetro di rendicontazione e all’incremento della produzione.
+
+[305-2] Le emissioni di Scopo 2 sono legate principalmente all’energia elettrica acquistata e solo
+marginalmente a quella termica acquistata. Premesso che |’energia necessaria per le attivita Gruppo, ad
+eccezione di quanto autoprodotto con gli impianti fotovoltaici, 6 fornita da aziende esterne, nel 2017 le
+emissioni riconducibili allo Scopo 2 ammontano a 34.148 tonnellate di CO2eq (in aumento rispetto all’anno
+precedente del 10%).
+
+ 
+
+Emissioni di GHG - Indirette U.M. 2016 2017
+Indirette da elettricita tonCO2eq 30.908 34.146
+indirette da energia termica ton CO2eq 3 2
+Totale emissioni Scopo 2 tonCO2eq 30.911 34.148
+
+Le maggiori emissioni di Scopo 2 rispetto al 2016 sono riconducibili alla variazione del perimetro di
+rendicontazione e all’incremento della produzione; a tale riguardo si sottolinea che l’incremento é@ stato
+contenuto in Cina e in India grazie ai nuovi stabilimenti che hanno coefficienti di efficienza energetica
+migliori rispetto al passato.
+
+[305-4] U’intensita di emissione di GHG” per il 2017 é@ di poco inferiore al dato del 2016: 0,042 tCO2/k€
+rispetto a 0,044 tCO2/k€ relativo all’anno precedente grazie ai migliori coefficienti di efficienza energetica
+sopra descritti, con il medesimo trascurabile effetto-valuta indicato nella disclosure [302-3].
+
+ 
+
+Intensita emissioni di GHG U.M. 2016 2017
+Totale emissioni GHG ton CO2eq 40.816 45.335
+Ricavi consolidati k€ 922.818 1.086.547
+Intensita emissioni GHG GJ/k€ 0,044. 0,042
+
+48 Calcolata come di seguito: emissioni totali GHG [tonCO2eq] / fatturato [k€]
+19
+

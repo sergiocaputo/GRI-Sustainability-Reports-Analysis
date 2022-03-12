@@ -1,0 +1,33 @@
+OTHER SIGNIFICANT EMISSIONS
+
+Tired Prima Components Sole Components Eldoprima TWICE PS
+MaeSUiCuasal P Components
+
+1,799 3,738 0,099
+
+Particolate
+emissions (PM)
+
+Total of
+significant
+emissions
+
+ 
+
+Source of emission factors used
+Natural gas + mission factors and LHV (PCI): Ecoinvent 3.3 “Heat, district or industrial, natural gas (Europe without Switzerland) | heat production, natural gas, at
+industrial furnace low-NOx> 100k | Alloc Rec, U"
++ Density: GESTIS Substance Database Information system on hazardous substances of the German Social Accident Insurance (IFA, www.dguv.de) Diesel’
+Diesel + Emission factors and LHV (PCI): Ecoinvent 3.3 “Heat, central or small-scale, other than natural gas [Europe without Switzerlandl | heat production, light
+fuel oil, 100kW at-boiler, non-modulating | Alloc Rec, U “
++ Density: GESTIS Substance Database Information system on hazardous substances of the German Social Accident Insurance (IFA, www.dguv.de)
+LPG + Emission factors: ISPRA, national inventory emission factors (http://www.sinanet.isprambiente.it/it/sia-ispra/serie-storiche-emissioni)
++ Density and LHV (PCI): ENEA, Experimentation of an integrated fuel processor / polymer electrolyte fuel cell system powered by LPG for stationary
+power generation.
+Data on VOC is analytical and retrieved on the basis of direct measurement.
+
+a
+PAGE 83 TIP.
+
+PRIMA SOLE COMPONENTS Spa,
+

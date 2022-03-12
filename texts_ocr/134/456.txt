@@ -1,0 +1,77 @@
+20. Lease liabilities
+
+Lease liabilities may be broken down as follows at 31 December 2019:
+
+ 
+
+(€000) 31 December 2018 31 December 2019 Variation
+Non-current portion 16,596 39,147 22,551
+Current portion 17,113 18,547 1,434
+Total 33,709 57,694 23,985
+
+This item, previously called “Finance lease liabilities” amounted to €33.7 million at 31 December 2018. It was
+renamed “Lease liabilities” with the introduction of IFRS 16 (more information is available in note 2 “Changes
+
+in standards”).
+
+This item includes the principal of minimum lease payments at the reporting date. Liabilities for these leases
+
+are guaranteed to the lessor via rights to the leased assets.
+
+The present value of the minimum lease payments is €57.7 million (31 December 2018: €33.7 million) as
+
+follows:
+
+ 
+
+(€:000) 31 December 2018 31 December 2019
+
+Mi
+Due within one year
+
+ 
+
+ 
+
+ 
+ 
+ 
+  
+
+Due between one and five years
+Due after five years
+Total
+
+Future interest expense
+
+ 
+
+Net present value 33,709 57,694
+
+The net present value is as follo
+Due within one year 17,113 18,547
+Due between one and five years
+
+Due after five years
+
+Total 33,709 57,694
+
+21. Derivatives and other current financial liabilities
+
+At the reporting date, the balance of the item “Derivatives” was €2.0 million and includes the negative fair value
+
+of the currency hedges that do not meet the IFRS hedge accounting requirements for cash flow hedges.
+
+ 
+
+31 December 2018 31 December 2019
+(€000)
+Forward currency purchases and sales - FVTPL - 2,012
+Total derivatives presented in net financial . 2,012
+
+indebtedness
+
+ 
+
+457
+

@@ -1,0 +1,76 @@
+| Consolidated Non-Financial Information Statement 2019 99
+
+ 
+
+If the risk factors are not properly managed with corrective actions and treatment plans, the confidentiality,
+integrity and availability of Group information cannot be properly protected. This may result in damage or finan-
+cial losses (loss of market competitiveness due to margin reduction or cost increases), reputational losses (loss
+of brand reputation), operational losses (business interruption or process delays) and legal losses (non-com-
+pliance with regulations, laws and contractual requirements).
+
+At the beginning of 2019, the Group defined and adopted a series of performance indicators to evaluate the le-
+vel of information security. By using KPIs and KRIs systematically, Prysmian Group can obtain a continuous and
+updated overview of security, detecting potential deficiencies and addressing them in a timely manner.
+
+These indicators cover all areas of the information security framework defined at Group level, targeting two dif-
+ferent needs: business metrics provide management with the clearest and most direct status information, while
+echnical metrics measure the efficiency and adequacy of the technological solutions adopted.
+
+Once again, during 2019 the Information Security Committee supervised the operating plans for the implemen-
+ation of planned initiatives, with periodic updates.
+
+Over 40 information security events (“incidents”) of varying severity were managed every month during 2019.
+
+In addition, 105 Internet domains used for phishing and ransomware campaigns were identified and reported to
+he competent authorities. Each month, more than 130 security clearances were issued, authorising significant
+changes to IT systems or providing access to critical resources. Lastly, 26 internal investigations were conducted
+o contain and prevent theft and fraud, and to tackle potential reputational losses.
+
+There were no known violations of the confidential personal data of Group customers during 2019.
+
+ 
+
+Furthermore, no reports were received from external parties or public or private regulatory bodies, as identified
+from the periodic investigations carried out by the Security organisation using OSINT intelligence sources.
+
+Group procedures and operating instructions for the management of data breaches were formalised in 2018.
+
+Commitment and support for this topic by the Group resulted in the publication during 2019 of hardening gui-
+delines for IT systems (internal and external) subject to the GDPR, as well as a draft data disposal and retention
+policy. In addition, various awareness initiatives regarding the corporate intranet were carried out.
+
+ 
+
+Anumber of KPIs relevant to cyber security are presented below:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Description Unit 2019 yA} ts}
+Training courses delivered on information security number 10 4
+Average time to resolve high-risk vulnerabilities weeks 37 37
+Percentage of log sources integrated with the SIEM solution percentage 79 44
+Number of information security incidents number 534 584
+Cyber attacks as a percentage of total recorded incidents percentage 19 10
+Average time for forensic investigations following an incident hours 3 6
+PRYSMIAN GROUP, LINKING THE FUTURE LEADING INNOVATION GOVERNANCE AND RISK MANAGEMENT
+
+SUSTAINABILITY IN OUR DNA A PUBLIC COMPANY OUR COMMITMENT
+

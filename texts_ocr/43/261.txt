@@ -1,0 +1,125 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+PARTE A — POLITICHE CONTABILI
+
+A.1 - PARTE GENERALE
+
+SEZIONE 1 - DICHIARAZIONE DI CONFORMITA
+Al PRINCIPI CONTABILI INTERNAZIONALI
+
+II Bilancio consolidato del Gruppo Fideuram - Intesa Sanpaolo
+Private Banking, in applicazione del D. Lgs. 28 febbraio 2005
+n. 38, é redatto secondo i principi contabili internazionali [AS/
+IFRS emanati dall'International Accounting Standards Board
+(IASB), cosi come omologati dalla Commissione Europea a
+tutto il 31 dicembre 2019 in base alla procedura prevista dal
+Regolamento comunitario n. 1606/2002. Per meglio orienta-
+re l’applicazione dei principi contabili, si é fatto riferimento
+alle interpretazioni fornite dall'International Financial Repor-
+ting Interpretations Committee (IFRIC). Non sono state effet-
+tuate deroghe all’applicazione dei principi contabili IAS/IFRS.
+
+Il Bilancio consolidato al 31 dicembre 2019 é stato predispo-
+sto sulla base della Circolare della Banca d'Italia n. 262 del
+22 dicembre 2005 e successivi aggiornamenti e chiarimenti
+interpretativi forniti dalla Banca d'Italia. In particolare si é te-
+nuto conto del sesto aggiornamento del 30 novembre 2018
+che ha comportato la ristampa integrale del prowedimento.
+
+Si riportano di seguito i nuovi principi contabili internazionali
+o le modifiche ai principi contabili gia in vigore, con i relativi
+Regolamenti di omologazione della Commissione Europea,
+entrati in vigore nel 2019:
+
+¢ Regolamento 1986/2017: IFRS16 - Leasing.
+
+¢ Regolamento 498/2018: Modifiche all’IFRS9 - Strumenti fi-
+nanziari.
+
+e Regolamento 1595/2018: IFRIC23 - Incertezza sui tratta-
+menti ai fini dell'imposta sul reddito.
+
+¢ Regolamento 237/2019: Modifiche allo IAS28 - Partecipa-
+zioni in societa collegate e joint venture.
+
+¢ Regolamento 402/2019: Modifiche allo IAS19 - Benefici ai
+dipendenti.
+
+¢ Regolamento 412/2019: Modifiche allo IAS12 - Imposte sul
+reddito, allo IAS23 - Oneri finanziari, all’IFRS3 - Aggrega-
+zioni aziendali e all’IFRS11 - Accordi a controllo congiunto.
+
+La transizione al principio contabile IFRS16
+
+Il nuovo principio contabile IFRS16 - Leasing é entrato in vigo-
+re a decorrere dal 1° gennaio 2019 ed ha sostituito lo IAS17
+- Leasing, I’IFRIC 4 “Determinare se un accordo contiene un
+leasing”, il SIC 15 “Leasing operativo - Incentivi” e il SIC 27
+“Valutare la sostanza delle operazioni che coinvolgono la
+forma legale di un leasing”. L'IFRS16 disciplina le modalita
+di contabilizzazione dei contratti di leasing, nonché dei con-
+tratti di affitto, noleggio, locazione e comodato, introducen-
+do una nuova definizione di leasing basata sul trasferimen-
+to del diritto d’uso del bene oggetto di locazione. || nuovo
+
+principio richiede di identificare se un contratto é o contiene
+un leasing, basandosi sul concetto di controllo dell’utilizzo di
+un bene identificato per un determinato periodo di tempo.
+Ne consegue che anche i contratti di affitto, noleggio, locazio-
+ne o comodato, in precedenza non assimilati al leasing, posso-
+no rientrare nel perimetro di applicazione del nuovo principio.
+
+LIFRS16 introduce significative modifiche alla modalita di
+contabilizzazione delle operazioni di leasing nel bilancio del
+locatario/utilizzatore prevedendo un unico modello di rileva-
+zione contabile dei contratti da parte del locatario. || nuovo
+modello di contabilizzazione prevede la rilevazione nell’atti-
+vo di stato patrimoniale del diritto d‘uso dell’attivita oggetto
+di leasing, mentre nel passivo di stato patrimoniale vengono
+rappresentati i debiti per canoni di leasing ancora da corri-
+spondere al locatore. Viene modificata anche la modalita di
+rilevazione delle componenti di conto economico: mentre per
+lo IAS17 i canoni di leasing trovano rappresentazione tra le
+spese amministrative, il principio IFRS16 prevede che gli oneri
+siano rilevati tra gli ammortamenti del “diritto d’uso” e tra gli
+interessi passivi sul debito.
+
+A livello di informativa nel bilancio del locatario si deve indi-
+care:
+
+¢ la suddivisione dei beni in leasing tra le diverse “classi”;
+
+e |’analisi per scadenze delle passivita correlate ai contratti di
+leasing;
+
+¢ altre informazioni utili per comprendere meglio |'attivita
+dell‘impresa con riferimento ai contratti di leasing (ad esem-
+pio le opzioni di rimborso anticipato o di estensione).
+
+Non vi sono sostanziali cambiamenti, invece, al di fuori di al-
+cune maggiori richieste di informativa, nella contabilita dei
+leasing da parte dei locatori.
+
+In base ai requisiti del principio IFRS16 e ai chiarimenti dell’l-
+FRIC i software sono esclusi dall’ambito di applicazione dell’l-
+FRS16 e verranno pertanto contabilizzati secondo il principio
+1AS38 ed i relativi requisiti.
+
+Uapplicazione dell’IFRS16 a decorrere dal 1° gennaio 2019
+ha prodotto per il locatario — a parita di redditivita e di cash
+flow finali - un aumento delle attivita registrate in bilancio
+(gli asset in locazione), un aumento delle passivita (il debito
+a fronte degli asset locati), una riduzione delle spese ammi-
+nistrative (i canoni di locazione) e un contestuale incremento
+dei costi finanziari (la remunerazione del debito iscritto) e de-
+gli ammortamenti (relativi al diritto d’uso rilevato nell’attivo).
+Con riferimento al conto economico, considerando |'intera
+durata dei contratti, l'impatto economico non cambia nell’o-
+rizzonte temporale del leasing ma si manifesta con una di-
+versa ripartizione temporale rispetto a quanto avveniva con
+l'applicazione del previgente IAS17.
+
+258 +— Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

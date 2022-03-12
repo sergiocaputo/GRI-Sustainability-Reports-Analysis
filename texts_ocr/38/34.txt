@@ -1,0 +1,94 @@
+Consumi energetici ed emissioni di gas ad effetto serra - scope 2
+
+Uelettricita é una delle fonti energetiche pit utilizzate in tutte le sedi del Gruppo
+(uffici, Esprivillage, magazzini). Nel corso del triennio oggetto di analisi si registra
+un lieve calo del consumo di elettricita del -2% nel 2019 rispetto al 2018 grazie al
+progetto di Energy Management avviato nel 2019, all’utilizzo dell’apparecchiatura
+1CO-F1000 ed alla piattaforma BEMS, come illustrato in precedenza.
+
+Per il calcolo delle emissioni indirette di CO, (scope 2) imputabili alla produzione
+di energia elettrica, sono state seguite entrambe le metodologie richieste dai GRI
+Standards.
+
+Da un lato sono state infatti calcolate le emissioni di CO, con l'approccio Location
+Based, per cui al totale dell'energia elettrica consumata, indipendentemente dalla
+fonte energetica di provenienza, viene applicato un coefficiente di emissione medio
+basato sulla produzione lorda nazionale. Secondo tale metodologia la CO, emessa
+per il fabbisogno di elettricita del Gruppo é aumentata del 3,8% dal 2017 al 2018 e del
+1,0% dal 2018 al 2019.
+
+Il calcolo delle emissioni di CO, secondo l'approccio Market Based va invece a
+differenziare l'effettiva provenienza dell'elettricita utilizzata, andando cosi a
+calcolare tali emissioni solamente per l'energia elettrica utilizzata proveniente da
+fonte non rinnovabile.
+
+Dalla comparazione dei risultati ottenuti dalle due metodologie di calcolo, emerge
+chiaramente come Esprinet si stia effettivamente impegnando nella riduzione degli
+impatti ambientali privilegiando in modo consistente l'utilizzo di energia elettrica
+proveniente da fonte rinnovabile. Infatti, le emissioni calcolate secondo l'approccio
+Market Based risultano nettamente inferiori rispetto a quelle Location Based per
+tutto il triennio oggetto di analisi.
+
+ 
+
+Energia Elettrica*
+
+2019 2018 2017
+
+ 
+
+ 
+
+ 
+
+     
+
+7.010.847 kwh 7.181.665 kWh 6.915.573 kWh
+
+ 
+
+ 
+
+ 
+
+2019 2018 2017
+Location
+Based 2.393 tCO, 2.369 tCO, 2.300 tcO,
+Market
+Based 148 tCO, 671tCO, 799 tCO,
+
+Emissioni di CO2 indirette (scope 2)
+
+*Si segnala che i valori del triennio non includono i consumi energetici relativi al CED (Centro
+Elaborazione Dati), in quanto servizio esternalizzato. Le emissioni Scope 2 di CO, (emissioni
+indirette energetiche) riflettono, di conseguenza, l'approccio illustrato a sinistra.
+
+ 
+
+(3s) 1 = Bilancio diSostenibilits 2019
+
+1 - Introduzione
+2 - Chi siamo
+
+3 - Esprinet & il mercato
+
+4 - Esprinet & l'ambiente
++ Cultura ambientale
++ Limpegno di Esprinet
+per l'ambiente
++ Gli impatti sull’ambiente
++ La supply chain integrata
++ Consumi energetici ed emissioni
++ Le emissioni dei trasporti
+- La filiera del Gruppo
++ Materie prime
++ Rifiuti
+
+5 - Esprinet & le persone
+6 - Esprinet & la comunita
+
+7 - Altre informazioni -
+DNF
+
+© esprinet
+

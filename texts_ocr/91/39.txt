@@ -1,0 +1,51 @@
+Come ulteriore protezione esiste il Firewall (Palo alto) sulla connessione internet aziendale
+costantemente aggiornato con le varie definizioni di siti malevoli. In questo modo anche se
+dovesse partire una “chiamata” ai siti che forniscono le chiavi di criptazione, questi non
+riuscirebbero ad essere raggiunti.
+
+Per quanto riguarda i backup e i disaster recovery il Gruppo si é dotato di Server Virtuali al
+fine di limitare il rischio di “attacchi” provenienti dall’interno o dall’esterno; questo approccio
+consente di creare backup giornalieri facilmente ripristinabili a fronte di problematiche.
+
+| server considerati strategici per il Gruppo, sono ridondati in due cluster separati, distinti e
+allineati fra loro da applicazioni e non direttamente dai tools di replica degli storage. Quale
+Disaster Recovery “freddo”, e quindi non accendibile, viene salvata quotidianamente una
+copia dei server virtuali su uno storage dedicato al backup remoto installato presso una sede
+remota del gruppo.
+
+Interventi migliorativi
+
+Nel 2019 é stato installato presso il DataCenter un impianto di spegnimento automatico
+incendi a gas NOVEC.
+
+Sempre nel corso del 2019 sono stati sostituiti i cellulari aziendali, in questa occasione si é
+provveduto a distribuire agli utilizzatori un documento di aggiornamento sul corretto uso del
+cellulare in materia di privacy e sicurezza. Tra le attivita svolte per adeguarci al nuovo
+Regolamento Europeo 2016/679 per la protezione dei dati, abbiamo introdotto l’obbligo di
+utilizzo di una password o PIN per lo sblocco dello schermo, per limitare il rischio di data
+breach. Questo ha fatto si che a fronte di furto di alcuni dispositivi non si sia verificata una
+violazione sulla protezione dei dati.
+
+Interventi in atto e in previsione
+
+A partire dal 2020 il Gruppo iniziera la sostituzione di tutti i computer pit datati, al fine di
+rinnovare i dispositivi che supportano sistemi operativi considerati ormai obsoleti. Questa
+attivita consentira |’utilizzo di un sistema operativo pil aggiornato nonché di un hardware piu
+performante che permettera al Gruppo di adottare nuovi ed avanzati strumenti di protezione
+per i computer riducendo i cyberisk.
+
+DIRITTO ALL’OBLIO
+
+Per quanto riguarda la protezione della privacy nell’editoria, 6’ opportuno un rimando alla
+gestione di competenza del settore delle richieste di cancellazione c.d. “ Diritto all’Oblio” ex
+art. 17 del Regolamento (UE) 2016/679 “GDPR” che sono gestite dalla Business Unit Legale.
+In particolare il rimando comunicatario di origine é riferibile alla Corte di Giustizia delle
+Comunita europee, in occasione della Sentenza 13 maggio 2014, n. 131/12, applicata e
+ribadita nel nostro ordinamento da una pluralita di sentenze della Corte di Cassazione (n.
+5525/2012, n.13161/2016 e n.19681/2019) e recepita dalle Autorita Ue Garanti della privacy.
+Con l'armonizzazione dei criteri, procedurali e sostanziali indicati dal Garante della Privacy il
+Gruppo adotta una serie di procedure autorizzative interne con il coinvolgimento dell’Internet
+Service Provider Monrif Net Srl per gestire le fattispecie.
+
+39
+

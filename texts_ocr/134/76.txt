@@ -1,0 +1,95 @@
+The Group’s financial position
+The following table shows the Group's reclassified IFRS statement of financial position:
+
+Table 2 - Reclassified statement of financial position
+
+ 
+
+31 December 31 December Variation
+Note (*)
+2018 2019
+(€000)
+Non-current assets 1,153,554 1,305,277 151,723
+
+ 
+
+Goodwill 10 74,713 76,062 1,349
+Net non-current assets held for sale 21 5,683 11,976 6,293
+Provisions for risks 28 (84,213) (137,922) (53,709)
+Post-employment benefits and employee benefits 27 (57,025) (61,868) (4,843)
+Net tax assets 13-18-30 259,066 333,352 74,286
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Inventories 14 192,304 156,368 (35,936)
+- Contract assets 15 1,512,866 2,040,450 527,584
+- Contract liabilities 15 (1,149,588) (1,186,076) (36,488)
+
+ 
+
+ 
+
+16 1,929,562 1,824,875 (104,687)
+
+- Receivables
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Liabilities ( 29 (2,363,438) (2,588,844) (225,406)
+- Other current assets 19 640,269 684,995 44,726
+- Other current liabilities 31 (322,061) (323,077) (1,016)
+
+ 
+
+ 
+
+ 
+
+Working capital 439,914 608,691 168,777
+Net invested capital 1,791,692 2,135,568 343,876
+Equity attributable to the owners of the parent 835,710 1,395,395 559,685
+Non-controlling interests 96,354 108,750 12,396
+
+ 
+
+ 
+
+ 
+
+Equity 22 932,064 1,504,145 572,081
+Net financial indebtedness 859,628 631,423 (228,205)
+Total financial resources 1,791,692 2,135,568 343,876
+
+ 
+
+(*) The note numbers refer to the notes to the consolidated financial statements where the items are analysed in detail.
+
+(**) This item shows liabilities of €23.9 million and loans and receivables of €2.3 million classified in net financial indebtedness and related
+to the Group's net amounts due from/to consortia and consortium companies (SPEs) operating under a cost recharging system and not
+included in the consolidation scope. The balance reflects the Group’s share of cash and cash equivalents or debt of the SPEs. The
+Group’s exposure to the SPEs was shown under “Liabilities” for €22.2 million and “Loans and eceivables” for €1.1 million at 31 December
+
+2018.
+
+ 
+
+77
+

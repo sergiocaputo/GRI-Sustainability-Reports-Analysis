@@ -1,0 +1,57 @@
+Bilancio Individuale 2017
+
+ 
+
+Il margine di intermediazione
+
+ll margine di intermediazione si attesta al 31 dicembre 2017 a circa 360,6 milioni di euro, rispetto ai 364,4 milioni di
+euro del pari epoca, con una variazione negativa dell'1,0%.
+
+RAN
+
+  
+
+ 
+
+Boer Sern e DWC MDE ec CK)
+‘Margine di interesse 182.289 208.149 24%)
+‘Commissioni attive 166.010 147.607 125%
+‘Commissioni passive (8.651)| (8.459) 2.3%
+‘Commissioni nette 157.359 139,148 13.1%
+Dividendi e proventi simili 7.598 9.404 (19.2%)
+Risultato netto dell'attivita di negoziazione 1791 3.442 (48.0%)
+Risultato netto dell'attivita di copertura 53 a9) ns
+Utili (perdite) da cessione o riacquisto di 10.705 4.087 161,9%
+~ Crediti (7.269) (6.400) ns
+~ Attivita finanziarie disponibili per 1a vendita 6.567 10.253 (36.0%)
+~ Attivita finanziarie detenute sino alla scadenza 21.575 =
+~ Passivita finanziarie (168)| (766)| (78.1%)
+Risultato netto delle attivita e passivita finanziarie valutate al fair value 806 1s4 423.4%
+‘Margine di intermediazione 360.601 364.368 0%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(import in mighiata dt euro)
+
+Margine di intermediazione
+
+3606 3644
+
+Plan, Pst
+
+import in milion’ euro
+
+ 
+
+57
+

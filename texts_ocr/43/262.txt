@@ -1,0 +1,161 @@
+Nota integrativa consolidata
+
+ 
+
+| contratti rientranti nell’ambito di applicazione del nuovo
+principio riguardano in particolare quelli relativi agli immo-
+bili, alle autovetture e all'hardware. | contratti di locazione
+immobiliare rappresentano |'area d’impatto maggiormente
+significativa.
+
+Si riportano di seguito le principali scelte di carattere genera-
+le adottate dal Gruppo con riferimento alle modalita di rap-
+presentazione degli effetti di prima applicazione del principio
+e alcune regole applicate a regime al fine di contabilizzare i
+contratti di leasing:
+
+e || Gruppo ha scelto di rilevare gli effetti della prima applica-
+zione del principio secondo |'approccio retrospettivo modi-
+ficato, che prevede la facolta di rilevare |’effetto cumulativo
+dell‘applicazione del nuovo standard interamente alla data
+di prima applicazione, senza riesporre i dati comparativi.
+Pertanto i dati relativi all’esercizio 2019 non saranno com-
+parabili con riferimento alla valorizzazione dei diritti d’uso e
+del corrispondente debito per leasing.
+
+¢ In sede di prima applicazione (come consentito dal princi-
+pio) il Gruppo ha adottato l’espediente pratico di escludere
+i contratti con durata residua inferiore o uguale a 12 mesi.
+Anche a regime, il Gruppo ha stabilito di non applicare il
+nuovo principio ai contratti con durata complessiva inferio-
+re o uguale a 12 mesi ed ai contratti con valore unitario
+del bene sottostante, quando nuovo, inferiore o uguale a
+€5.000.
+
+¢ Con riferimento alla durata del leasing, il Gruppo ha deciso
+di considerare alla data di prima applicazione (e a regime sui
+nuovi contratti) solo il primo periodo di rinnovo contrattuale
+come ragionevolmente certo, a meno che non ci siano clau-
+sole particolari, fatti o circostanze, che portino a considerare
+rinnovi aggiuntivi o a determinare la fine del leasing.
+
+e Il Gruppo ha valutato di non separare le componenti di ser-
+vizio da quelle di leasing e di contabilizzare di conseguenza
+l'intero contratto come leasing in quanto le componenti di
+servizio sono ritenute non significative.
+
+Uadeguamento del bilancio di apertura a seguito della prima
+applicazione dell’IFRS16 utilizzando l’approccio retrospettivo
+modificato ha determinato un aumento delle attivita a se-
+guito dell‘iscrizione del diritto d‘'uso di €267 milioni e delle
+passivita finanziarie (debito verso il locatore) del medesimo
+importo. Non sono emersi pertanto impatti sul patrimonio
+netto in quanto i valori delle nuove attivita e passivita iscritte
+in bilancio coincidono.
+
+Riforma degli indici di riferimento per la determinazio-
+ne dei tassi di interesse
+
+ll Gruppo si avwale della possibilita di applicare anticipa-
+tamente nel Bilancio 2019 il Regolamento n. 34/2020 del
+15 gennaio 2020 che ha adottato il documento emesso dal-
+lo IASB in tema di “Riforma degli indici di riferimento per la
+determinazione dei tassi di interesse (modifiche all’IFRS9 Stru-
+menti finanziari, allo IAS39 Strumenti finanziari: rilevazione e
+valutazione e all'IFRS7 Strumenti finanziari: informazioni in-
+tegrative)”, con cui sono state introdotte alcune modifiche in
+tema di coperture (hedge accounting) con la finalita di evitare
+che le incertezze sull‘’ammontare e sulle tempistiche dei flussi
+di cassa derivanti dalla riforma dei tassi possano comportare
+l'interruzione delle coperture in essere e difficolta a designare
+
+Fideuram - Intesa Sanpaolo Private Banking Annual Report Integrato 2019 —_ 259
+
+nuove relazioni di copertura. Le modifiche in oggetto si col-
+locano nell’‘ambito del progetto volto ad analizzare gli effetti
+sul bilancio della riforma sui tassi interbancari — la cosiddetta
+Interest Rate Benchmark Reform o IBOR Reform. La tematica
+é relativa ai recenti sviluppi connessi alla revisione o sostitu-
+zione di alcuni indici di riferimento per la determinazione dei
+tassi di interesse in varie giurisdizioni, come il LIBOR, il TIBOR
+e, in ambito europeo, |’'EONIA e |’Euribor, sulla base delle in-
+dicazioni del G20 e del Financial Stability Board. Lo IASB si sta
+occupando dei possibili impatti contabili della riforma dei tassi
+benchmark con un progetto articolato in due fasi: la prima
+riguarda in particolare i possibili impatti contabili nel periodo
+che precede la sostituzione dei tassi benchmark esistenti con
+i nuovi tassi; la seconda fase del progetto, ancora in corso,
+riguarda invece |'analisi dei possibili impatti contabili derivanti
+dall’applicazione dei nuovi tassi e altre tematiche di minore
+urgenza.
+
+Con la prima fase del progetto, conclusasi con la pubblica-
+zione del citato Regolamento n. 34/2020, vengono quindi
+introdotte alcune modifiche per evitare l'interruzione delle
+coperture in essere. Lo IASB ritiene infatti che |’interruzione
+delle coperture per il solo effetto dell’incertezza, in questo
+scenario, non fornisca informazioni utili per i lettori dei bilanci
+e, pertanto, ha deciso di apportare alcune deroghe tempora-
+nee alla normativa in essere per evitare questi effetti distorsivi,
+da applicare fino a quando non sia stata completata la rifor-
+ma degli indici di riferimento.
+
+A tale riguardo lo IASB ha identificato le seguenti previsioni
+contabili dell’hedge accounting che potrebbero essere im-
+pattate dalla riforma degli indici di riferimento nella fase di
+“pre-replacement”:
+
+1. il requisito dell’altamente probabile: lo [AS39 e I’IFRS9 pre-
+vedono che le operazioni programmate, per poter essere
+designate quale elemento coperto, devono rispettare il re-
+quisito dell’altamente probabile;
+
+2. la valutazione prospettica e retrospettiva dell’efficacia delle
+coperture: in merito al superamento dei test di efficacia
+previsti dall'IFRS9 e dallo |AS39 per consentire l’applicazio-
+ne dell’hedge accounting;
+
+3. la designazione delle componenti di rischio: |'IFRS9 e lo
+IAS39 consentono di designare una componente di rischio
+non contrattualmente definita quando é separatamente
+individuabile e attendibilmente misurabile. Per ognuna di
+tali previsioni lo IASB ha previsto una semplificazione, pre-
+sumendo che gli indici di riferimento per la determinazione
+dei tassi di interesse esistenti non siano modificati a seguito
+della riforma dei tassi interbancari. Le modifiche sono ap-
+plicabili obbligatoriamente a partire dal 1° gennaio 2020,
+prevedendo la possibilita di applicazione anticipata, di cui
+si € awalso il Gruppo.
+
+SEZIONE 2 - PRINCIP! GENERALI DI REDAZIONE
+
+ll Bilancio consolidato @ costituito dai prospetti contabili
+consolidati obbligatori previsti dallo IAS1 (owero stato patri-
+moniale, conto economico, prospetto della redditivita com-
+plessiva, prospetto delle variazioni del patrimonio netto e
+rendiconto finanziario) e dalla Nota integrativa. Esso é inoltre
+corredato da una Relazione sull'andamento della gestione.
+
+JINVINNOIYSd “Y OLVIYIW Id OLSILNOD *€ FOILVULS “Z SSANISNE Id OTIAGOW “1
+
+JINVNYIAOD *S
+
+Ca
+=
+2
+ba
+Bs
+a
+°
+5
+°
+Zz
+Fl
+iS
+5
+>
+5
+fo}
+
+ 
+

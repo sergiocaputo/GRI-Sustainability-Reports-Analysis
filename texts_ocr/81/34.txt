@@ -1,0 +1,109 @@
+Gruppo Italiaonline Dichiarazione consolidata di carattere non finanziario 2017
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Viaggi in auto Pare
+Diesel L 466.936,54
+Benzina 2.296,68
+Totale 469.233,22
+Diesel GJ 17.814
+Benzina 88
+Totale 17.901
+Emissioni generate per tipologia di mezzo utilizzato
+Eee 2017
+Auto kg COze 1.219.159
+Diesel 99,6%
+Benzina % 0,4%
+Aereo kg COze 420.228
+Voli a breve raggio (<3700 km) 65%
+Voli a lungo raggio (>3700 km) % 35%
+Totale kg COze 1.639.388
+
+ 
+
+ 
+
+ 
+
+Nota: le emissioni di CO2 generate in conseguenza degli spostamenti del personale sono state calcolate applicando fattori di
+conversione in emissioni derivati dal “UK Government GHG Conversion Factors for Company Reporting”, documento emesso dal
+Department for Business, Energy and Industrial Strategy (BEIS) del governo inglese, aggiornato al 2017.
+
+Consumi energetici per l’utilizzo di server esterni
+Consumi - Server
+
+ 
+
+Energia elettrica KWh 5.082.374
+
+Nota: le emissioni di CO2 generate in seguito ai consumi di energia elettrica dei server del gruppo sono state calcolate applicando
+fattori di conversione in emissioni derivati dal “UK Government GHG Conversion Factors for Company Reporting”, aggiornato al 2015.
+
+ 
+
+Emissioni generate dall’utilizzo di server esterni
+ey eee
+
+ 
+
+Energia elettrica kg COze 2.027.816
+
+ 
+
+Nota: per il calcolo dei consumi di energia elettrica dei server, due datacenter hanno fornito direttamente ad Italiaonline il dato esatto
+relativo ai consumi di energia dovuto ai server. Per gli altri due datacenter il consumo é stato stimato. | dati riportati per il consumo
+inglobano anche i server delle consociate di Italiaonline installati presso i fornitori.
+
+Consumi di carta
+
+Tra i diversi servizi di Italiaonline S.p.A., la produzione di elenchi telefonici rappresenta il prodotto
+maggiormente responsabile del consumo di materie prime e nello specifico di carta.
+
+La carta ed il cartoncino per la stampa degli elenchi non vengono acquistati direttamente dalla
+Societa ma sono acquistati da uno stampatore che fattura a Italiaonline S.p.A. il valore della carta
+sulla base di una tariffa definita contrattualmente.
+
+| fabbisogni di carta e cartoncino per gli elenchi vengono calcolati da Italiaonline S.p.A.
+sviluppando le tirature concordate con le compagnie telefoniche, mentre le foliazioni sono stimate
+sulla base degli andamenti pubblicitari attesi. Viene determinato cosi il numero di segnature di
+stampa (unita elementare di stampa in uscita dalla rotativa definita da un fascicolo di 32 pagine)
+da realizzare. Infine, partendo da un valore di 34 grammi di peso per metro quadro della carta
+viene determinato il fabbisogno complessivo di carta per la produzione degli elenchi.
+
+Nel 2017, per la produzione degli elenchi telefonici la Societa ha acquistato nel complesso 13.450
+tonnellate di carta e cartoncino da fornitori e stampatori che osservano severi standard di
+

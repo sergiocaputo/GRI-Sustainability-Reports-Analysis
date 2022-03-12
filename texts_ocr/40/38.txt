@@ -1,0 +1,132 @@
+ 
+
+INDUSTRY 4.0
+
+Augmented Reality applied to
+Industry 4.0
+
+The service, provided for Isotta
+Fraschini Motori, a ship engine
+manufacturer, will use augmented
+
+SMART PORT
+
+Security and access control at the
+Bari port
+
+At the Bari port, in collaboration with
+Leonardo and Bosch and with the
+support of the Southern Adriatic
+Sea Port Authority and the bodies
+responsible for port security (the
+harbor master, Tax Police and State
+Police), the consortium is developing
+a security and control monitoring
+system. There are two objectives:
+on one hand, offering the port police
+a face recognition tool to help them
+
+reality to train technicians and
+facilitate machinery maintenance. A
+specific application connected to a
+Smart Helmet - a helmet equipped
+with virtual viewers - via the 5G
+network, guides expert operators
+
+in real time during all maintenance
+and training on the engine, making
+it more rapid and effective.
+
+In addition, using the 5G network,
+technicians may go online to make
+video calls using Skype and consult
+with their colleagues and experts
+video remotely. Furthermore, the
+company's customers may use the
+same device to carry out simpler
+engine maintenance on their own.
+
+Other projects have begun in
+the same field and will, through
+
+identify potential suspects, while, on
+the other, providing the harbor master
+with an alternative to counting
+passengers on water vessels, which
+is currently done manually and is,
+therefore, at risk of error.
+
+Both services are based on an open
+system of sensors, video cameras,
+wearable devices, terminals, drones
+and movable gates that involve, via
+the 5G network, information on a
+centralized command and control
+platform to count the number of
+
+synergies, develop additional smart
+industry applications, such as:
+
+g Asset Tracking for monitoring via
+using sensors to detect the real-
+time location of company assets
+and machinery and to improve
+logistics within the facilities;
+
+um Smart Maintenance, using a
+wireless network of sensors
+to monitor devices in the
+production facilities for predictive
+maintenance;
+
+mu Smart Safety, i.e., the use of
+systems to verify that individual
+protective devices have
+been properly distributed in
+accordance with occupational
+safety legislation.
+
+people or recognize their faces. The
+system also makes it possible to
+manage security procedures and to
+alert the police or set off an alarm.
+
+In addition, within the Bari port,
+the consortium will introduce
+
+a sensor-based environmental
+monitoring and control system to
+gather information and prevent
+potential risks tied to, for example,
+fuel spillage, weather conditions
+or pollution due to the transport of
+containers by lorries.
+
+ 
+
+KEY FIGURES
+
+5 5 PARTNERS
+
+3 lead players
+
+7 universities and research centers
+11 public bodies involved
+
+34 companies
+
+38 Smart digital community enabler
+
+| O AREAS OF APPLICATION
+
+With over 70 use cases to be
+tested in Bari and Matera
+
+6 O MILLION EUROS
+
+In investments by
+
+the lead companies
+Total value of the project
+over four years
+

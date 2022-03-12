@@ -1,0 +1,95 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Natura del rischio
+
+Gli investimenti della Compagnia nei fondi in commento sono valutati a fair value (principalmente livello 2 della gerarchica del
+fair value) sulla base del Net Asset Value comunicato periodicamente dal gestore de! fondo stesso. Tali investimenti sono stati
+effettuati nell’ambito delle Polizze di Ramo | e pertanto le variazioni di fair value sono ribaltate all’assicurato sulla base del
+meccanismo dello shadow accounting.
+
+Di seguito si forniscono alcune informazioni di dettaglio al 31 dicembre 2017.
+
+Natura del rischio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodologia
+Confronto tra determinazione
+Massima valore contabile massima
+ISIN Categoria di Valore contabile esposizione e massima esposizione alla
+(milioni di euro) Denominazione bilancio investimento alla perdita * esposizione perdita
+LU1379774190 Multiflex- Attivita finanziaria 5.804 1.701 4.108 Analytical
+Diversified a fair value VaR 99,5%
+Dis-Cm rilevato a CE annualizzato
+LU1193254122 Mfx - Global Fund — Attivita finanziaria 4.098 318 3.780 Analytical VaR
+- Asset Global a fair value 99,5% ly
+
+Fund (Pimco Multi rilevato a CE
+
+Asset)
+
+LU1407712014 Multiflex - Global Attivita finanziaria 3.602 158 3.444 Analytical VaR
+Optimal Multi a fair value 99,5% ly
+
+Asset Fund rilevato a CE
+LU1407711800 Multiflex -  Attivita finanziaria 3.580 158 3.422 Analytical VaR
+Dynamic Multi a fair value 99,5% ly
+
+Asset Fund rilevato a CE
+LU1407712287 Multiflex -  Attivita finanziaria 3.343 357 2.986 Historical VaR
+Strategic a fair value 99,5% ly
+
+Insurance rilevato a CE
+
+Distribution
+
+1T0004937691 Tages Platinum — Attivita finanziarie 437 382 405 VaR al 99,5%
+Growth — disponibili per la su un orizzonte
+vendita temporale di 1
+anno
+IT0005212193 Diamond Italian Attivita finanziaria 155 39 116 Analytical
+Properties a fair value VaR 99,5%
+rilevato a CE annualizzato
+LU1500341752 Multiflex-Dynamic — Attivita finanziaria 152 7 145 Analytical VaR
+Lt M/A-Cm a fair value 99,5% ly
+
+rilevato a CE
+LU1500341240 Multiflex-Lt — Attivita finanziaria 151 8 143 Analytical VaR
+Optimal M/A-Cm a fair value 99,5% ly
+
+rilevato a CE
+IT0005174450 Fondo Diamond _ Attivita finanziaria 129 43 86 Analytical
+Eurozone Office a fair value VaR 99,5%
+Ubs rilevato a CE annualizzato
+IT0005210387 Diamond  Attivita finanziaria 94 23 71 Analytical
+Eurozone Retail a fair value VaR 99,5%
+Property Fund rilevato a CE annualizzato
+LU1081427665 Shopping  Attivita finanziarie 57 24 33 Analytical
+Property Fund 2 disponibili per la VaR 99,5%
+vendita annualizzato
+
+ 
+
+400
+

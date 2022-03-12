@@ -1,0 +1,69 @@
+€ Indice generale | — fp)
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalita di presentazione dei bilanci, metodologie e principi contabili applicati
+
+= Finanziamenti e crediti
+Sono strumenti finanziari prevalentemente relativi a crediti verso clienti, anche di natura commerciale, non-derivati e non
+quotati in un mercato attivo, dai quali sono attesi pagamenti fissi o determinabili. Vengono inclusi nella parte corrente, a
+eccezione di quelli con scadenza contrattuale superiore a dodici mesi rispetto alla data di bilancio, che sono classificati nella
+parte non corrente. Tali attivita sono valutate al costo ammortizzato*’, sulla base del metodo del tasso di interesse effettivo.
+Se vi € un’obiettiva evidenza di elementi che indicano riduzioni di valore, |’attivita é ridotta in misura tale da risultare pari al
+valore scontato dei flussi di cassa ottenibili in futuro. Le perdite di valore sono rilevate a Conto economico. Se nei periodi suc-
+cessivi vengono meno le motivazioni delle precedenti svalutazioni, il valore delle attivita viene ripristinato fino a concorrenza
+del valore che sarebbe derivato dall’applicazione del costo ammortizzato. Il procedimento logico valutativo di stima adottato
+nella determinazione dell’accantonamento a fondo svalutazione crediti, owvero dei ricavi d’esercizio da sospendere in tale
+fondo, riflette in primo luogo l’accertamento e la valutazione di elementi che comportino specifiche riduzioni di valore delle
+attivita individualmente significative. Successivamente, sono valutate collettivamente le attivita finanziarie con caratteristiche
+similari di rischio, tenendo conto, tra l’altro, dell’anzianita del credito, della natura della controparte, dell’esperienza passata
+di perdite e incassi su crediti simili e delle informazioni sui mercati di riferimento.
+
+= Investimenti detenuti fino alla scadenza
+
+Sono strumenti finanziari non-derivati, con pagamenti fissi o determinabili e scadenza fissa, che il Gruppo ha l’intenzione e
+la capacita di detenere sino a scadenza. Tali attivita sono valutate secondo il metodo del costo ammortizzato, utilizzando il
+criterio del tasso effettivo di interesse, rettificato in caso di riduzione di valore. Nel caso di perdite di valore si applicano gli
+stessi principi sopra descritti in relazione ai Finanziamenti e crediti.
+
+= Investimenti disponibili per la vendita
+
+Sono strumenti finanziari non-derivati esplicitamente designati in questa categoria, ovvero che non trovano classificazione
+in nessuna delle precedenti categorie. Tali strumenti finanziari sono valutati al fair value e gli utili o perdite da valutazione
+vengono imputati a una riserva di Patrimonio netto la cui movimentazione é rappresentata nelle A/tre componenti di Conto
+economico complessivo (Riserva di fair value); la loro imputazione a Conto economico é eseguita solo nel momento in cui
+attivita finanziaria viene effettivamente ceduta (0 estinta) 0, nel caso di variazioni cumulate negative, quando si valuta che la
+riduzione di valore gia rilevata a Patrimonio netto non potra essere recuperata in futuro. Limitatamente ai titoli di debito se,
+in un periodo successivo, il fair value aumenta come oggettiva conseguenza di un evento verificatosi dopo che una perdita
+di valore era stata rilevata nel Conto economico, il valore dello strumento finanziario é ripristinato con accredito dell’importo
+a Conto economico. Inoltre, sempre per i titoli di debito, la rilevazione dei relativi rendimenti in base alla tecnica del costo
+ammortizzato avwiene con effetto sul Conto economico, analogamente agli effetti relativi alle variazioni dei tassi di cambio,
+mentre le variazioni dei tassi di cambio relative agli strumenti di capitale disponibili per la vendita sono rilevate nell’ambito
+della specifica riserva del Patrimonio netto la cui movimentazione é rappresentata nelle Altre componenti di Conto economi-
+co complessivo. La classificazione nelle attivita correnti o non correnti dipende dalla scadenza contrattuale dello strumento
+finanziario, posto che sono rilevate nelle attivita correnti quelle il cui realizzo é atteso entro dodici mesi dalla data di riferimento
+del bilancio.
+
+ 
+
+Le Attivita finanziarie sono rimosse dallo Stato patrimoniale quando il diritto di ricevere i flussi di cassa dallo strumento si é
+estinto owero sono stati sostanzialmente trasferiti tutti i rischi e benefici relativi allo strumento stesso 0 il relativo controllo.
+
+Passivita finanziarie
+
+Le Passivita finanziarie, relative a finanziamenti, debiti commerciali e altre obbligazioni a pagare, sono valutate al costo ammor-
+tizzato, applicando il criterio del tasso effettivo di interesse. Se i flussi di cassa attesi si modificano ed esiste la possibilita di
+stimarli attendibilmente, il valore dei prestiti é ricalcolato per riflettere le modifiche sulla base del valore attuale dei nuovi flussi di
+cassa attesi e del tasso interno di rendimento inizialmente determinato. Le passivita finanziarie sono classificate nelle Passivita
+correnti, salvo che si abbia un diritto incondizionato a differire il loro pagamento per almeno dodici mesi dopo la data di bilancio.
+
+Le passivita finanziarie vengono rimosse dal bilancio al momento dell’estinzione owvero del trasferimento di tutti i rischi e oneri
+relativi allo strumento stesso.
+
+37. ll costo ammortizzato di un’attivita o passivita finanziaria é l’'ammontare cui l’attivita o passivita é valutata al momento della rilevazione iniziale, meno i rimborsi
+di capitale, piu o meno l’'ammortamento accumulato, utilizzando il metodo dell'interesse effettivo, di tutte le differenze tra il valore iniziale e quello a scadenza,
+meno le riduzioni per perdite di valore o per insolvenza. || tasso di interesse effettivo é il tasso che rende equivalente il valore attuale dei futuri flussi di cassa
+contrattuali (0 attesi) con il valore contabile iniziale dell'attivita o passivita. Il calcolo del costo ammortizzato deve comprendere anche i costi esterni e i proventi
+direttamente imputabili in sede di iscrizione iniziale dell’attivita o passivita.
+
+147
+

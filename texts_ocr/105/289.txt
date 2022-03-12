@@ -1,0 +1,80 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Crediti
+
+La voce Crediti include:
+
+= Depositi presso il MEF, costituiti dagli impieghi della raccolta da conti correnti postali appartenenti alla clientela pubblica,
+remunerati ad un tasso variabile calcolato su un paniere di titoli di Stato e indici del mercato monetario®”.
+
+= Altri crediti finanziari, relativi a depositi in garanzia per 1.179 milioni di euro, di cui 1.110 milioni di euro per somme versate
+a controparti con le quali sono in essere operazioni di Asset Swap (collateral previsti da appositi Credit Support Annex) e 69
+milioni di euro per somme versate a controparti con le quali sono in essere operazioni di repo passivi su titoli a reddito fisso
+(collateral previsti da appositi Global Master Repurchase Agreement).
+
+Investimenti in titoli
+
+Riguardano titoli governativi a reddito fisso dell’area euro, costituiti da titoli di Stato di emissione italiana, e titoli garantiti dallo
+Stato italiano del valore nominale di 48.430 milioni di euro.
+
+tab. A5.2 - Movimentazione degli Investimenti in titoli
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HTM AFS FV vs CE Totale
+(milioni di euro) Nominale bilancio —Nominale bilancio = Nominale bilancio — Nominale bilancio
+Saldo al 1° gennaio 2017 12.392 12.683 32.178 37.159 - -
+Acquisti 1.600 1.582 8.640 8.997 - -
+Rimborsi (1.300) (1.300) (990) (1.020) - -
+Trasf.ti riserve di PN - - (6590) -
+Var. costo ammortizzato (9) - (77) -
+Variazioni fair value a PN - - (3828) -
+Variazioni fair value a CE - - (496) -
+Var.ni per op. di CFH © (22) - - -
+Effetti delle vendite a CE - - 506 -
+Ratei esercizio corrente 152 - 331 -
+Vendite ed estinzione ratei - (174) (4.090) (5.388) - -
+Saldo al 31 dicembre 2017 = 12.692 12.912 35.738 39.099 - -
+
+ 
+
+(‘) La voce della tabella Variazioni per operazioni di CFH, riferita agli acquisti a termine effettuati nell’ambito di operazioni di cash flow hedge, accoglie le variazioni
+di fair value dei titoli acquistati intercorse tra la data di stipula e quella di regolamento e trova contropartita nella corrispondente variazione della riserva di Cash
+flow hedge.
+
+Al 31 dicembre 2017, il fair value® del portafoglio titoli posseduti sino a scadenza é di 14.384 milioni di euro (di cui 152 milioni
+di euro dovuto a ratei di interesse in maturazione).
+
+| titoli disponibili per la vendita sono iscritti al fair value di 39.099 milioni di euro (di cui 331 milioni di euro dovuto a ratei di inte-
+resse in maturazione). Loscillazione complessiva del fair value nell’esercizio in commento € negativa per 819 milioni di euro ed
+é rilevata nell’apposita riserva di Patrimonio netto per |’importo negativo di 323 milioni di euro relativo alla parte non coperta
+da strumenti di fair value hedge, e a Conto economico per l’importo negativo di 496 milioni di euro relativo alla parte coperta.
+
+87. ll tasso variabile in commento é cosi calcolato: per il 50% in base al rendimento BOT a sei mesi e per il restante 50% in base alla media mensile del Rendistato.
+Quest’ultimo é un parametro costituito dal costo medio de! debito pubblico con durata superiore ad un anno che pué ritenersi approssimato dal rendimento
+dei BTP a sette anni.
+
+88. Ai fini della scala gerarchica del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore indicato é di Livello 1.
+
+|
+288
+

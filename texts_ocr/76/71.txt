@@ -1,0 +1,110 @@
+Produzione di energia e risparmio energetico (") (2)
+
+ 
+
+Produzione da impianti idroelettrici e fotovoltaici
+
+Energia elettrica prodotta GWh 1.136 1.259 1.499
+Energia risparmiata Tep/000 200 227 281
+Energia risparmiata Gj 8.370.190 9.515.456 11.746.765
+Produzione da impianti di cogenerazione, caldaie e termoelettrico
+
+Energia elettrica prodotta GWh 7.287 7.345 6.411
+Energia termica prodotta GWh 2.865 2.738 2.769
+Energia risparmiata Tep/000 283 305 333
+Energia risparmiata Gj 11.860.704 12.752.370 — 13.935.058
+Produzione da termovalorizzatori e discariche
+
+Energia elettrica prodotta GWh 610 500 214
+Energia termica prodotta GWh 131 130 103
+Energia risparmiata () Tep/000 63 58 26
+Energia risparmiata Gj 2.647.945 4.044.194 1.776.257
+Produzione da impianti a biogas
+
+Energia elettrica prodotta GWh 0,25 0,96 0,88
+Energia risparmiata(*) Tep/000 1,24 1,57 1,74
+Energia risparmiata) Gj 51.741 65.775 72.187
+
+() | valori sono calcolati secondo i seguenti criteri:
+© per cogenerazione, caldaie e termoelettrico, confronto tra la produzione lorda e gli effettivi consumi di combustibile del Gruppo con i consumi che il sistema elettrico
+nazionale e il sistema “medio nazione” di produzione termica avrebbero registrato per produrre le stesse quantita di energia elettrica e termica;
+© per produzione idroelettrica e fotovoltaica, assunzione nulla dei consumi di combustibile e confronto con i consumi registrati dal sistema elettrico nazionale per produrre
+le stesse quantita di energia elettrica;
+
+© per termovalorizzatori e discariche, somma della produzione di energia elettrica e termica (per il PAI di Parma il coefficiente di conversione di energia termica in energia
+
+elettrica é pari a 6,88, modificato rispetto al 2016) che viene moltiplicata per il coefficiente per I'energia elettrica (187 Tep/GWh);
+© per gli impianti a biogas, moltiplicazione dei metri cubi di metano prodotto (60% del biogas) per il fattore di conversione Smc/Tep 0,836.
+In alcuni casi l'energia risparmiata pud aumentare/diminuire in modo non direttamente proporzionale alla crescita/diminuzione della produzione, in forza di una variazione
+nei consumi specifici utilizzati per il calcolo.
+) L’energia risparmiata viene espressa anche in Gu, utilizzando il fattore di conversione 1 Tep = 41,86 GJ.
+) | valori del 2015 e 2016 hanno un restatement.
+(4) | valori del 2015 e 2016 hanno subito un restatement in quanto é stato modificato il criterio di calcolo, sottraendo le perdite in torcia dal totale del biogas prodotto.
+
+I Gruppo Iren, attraverso i progetti attuati nel
+2017, ha consentito un risparmio energetico pari
+a oltre 5.600 Tep/annue
+
+Progetto
+
+IIluminazione a Led
+
+Efficientamento
+energetico degli
+edifici
+
+Riqualificazione
+tecnologica degli
+edifici
+
+Impianti fotovoltaici
+
+Riduzione
+fabbisogno
+energetico per
+clienti privati
+
+Descrizione
+
+“Torino Led”: sostituzione di circa 53.000 punti luce con nuove lampade a Led. Nel 2017
+il progetto, interamente finanziato da Iren in ottica ESCO, ha consentito di risparmiare
+21.000 MWh di energia primaria e circa 11.000 t di COz, pari a quasi 4.000 Tep.
+
+“Revamping 2014-2016”: progetto realizzato per conto del Comune di Torino relativo
+a lavori di riqualificazione ed efficientamento energetico di una parte significativa del
+patrimonio immobiliare: 183 strutture, di cui 104 scuole, corrispondenti al 63% della
+volumetria totale riscaldata. Sono stati effettuati interventi su 333 caldaie con
+l'allacciamento di 24 centrali alla rete di teleriscaldamento.
+
+Interventi per incrementare l'efficienza energetica di edifici privati: nel 2017 Iren ha
+installato 350 valvole termostatiche e ripartitori.
+
+96 impianti fotovoltaici (potenza complessiva 5MW) installati sulle coperture di
+immobili di proprieta o nella disponibilita dei Comuni della provincia di Reggio Emilia.
+Il progetto é a pieno regime gia dal 2015 e consente di produrre un quantitativo annuo
+di circa 3.760 MWh.
+
+Iren Rinnovabili, nell’ambito di progetti presso clienti industriali, fornisce supporto
+nell'identificazione e pianificazione di interventi sugli impianti per ridurre il loro
+fabbisogno energetico. In seguito ai nuovi interventi, monitorati nel corso del 2017, é
+stata conseguita una quota di risparmio netto integrale pari a 222 Tep, per la quale é
+stata richiesta la verifica e la certificazione al GSE.
+
+72 Bilancio di Sostenibilita 2017
+
+Sul fronte del risparmio energetico il Gruppo ha sviluppato
+progetti che generano impatti esterni e che hanno consentito un
+tisparmio annuo pari a 5.594 Tep, descritti nella tabella seguente.
+
+Risparmi ottenuti
+
+3.900 Tep
+
+766 Tep
+
+6 Tep
+
+700 Tep
+
+222 Tep
+

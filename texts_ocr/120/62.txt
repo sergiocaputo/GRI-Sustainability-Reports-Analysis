@@ -1,0 +1,85 @@
+INDIRECT CO,,, ENERGY EMISSIONS
+(SCOPE 2)
+
+Indirect energy CO,,, emissions are due to the procurement
+of electricity and heat produced by third parties and used by
+Snam For its activities. Indirect emissions are calculated both
+through the Market Based approach (MB), which allocates a
+zero CO,,, emission factor for the energy consumption from
+certified renewable sources, and a Location Based approach
+(LB), that considers an average CO... emission Factor for the
+national electricity grid.
+
+Electricity consumption, equal to around 117,380 MWh,
+increased by 12% compared to 2018. Specifically, the
+increased consumption is due to the LNG regasification
+Facility, which, in 2019, regasified a greater quantity of gas,
+and the Digital Transformation and Technology (DT&T)
+activities For the redistribution and movement of the
+
+data centres. The greater consumption resulting from the
+LNG site was completely neutralised in terms of Scope 2
+emissions thanks to the procurement of green electricity,
+while the emissions due to the greater consumption
+recorded on the other sites were partly mitigated by a new
+gas power plant switching to an electricity power plant
+certified as renewable on the Enna site. This plant joins those
+of Messina and Terranuova B. (SRG), Brugherio (STG), the
+Panigaglia LNG Plant and several areas of Snam4Mobility.
+CO,,, emissions calculated according to the MB method
+stood at around 32 thousand tonnes, in line with 2018 in
+spite of an increase in total electricity and heat consumption
+of 13% if calculated using the LB method, evidence of the
+continuous increase in energy produced from renewable
+sources.
+
+Indirect GHG emissions
+
+Green electricity/Electricity
+
+Specifically, the ratio between the use of electricity
+produced from renewable sources and total electricity
+consumption increased further going from 37% in 2018
+to 44% in 2019, thereby preventing the emission into the
+atmosphere of around 16,100 tonnes of CO, (+ 4,000 t
+compared to 2018).
+
+OTHER INDIRECT CO,,, EMISSIONS
+(SCOPE 3)
+
+Indirect CO,,, emissions stood at approximately 538
+thousand tonnes, a 22.8% increase compared to 2018
+Following an increase in procurement and the different
+nature of the supplied materials and goods. This category of
+emissions stems around 99% from the supply chain and the
+remaining share is due to employees’ business travels.
+Further initiatives are ongoing and aimed at promoting a
+culture of energy saving and minimising indirect emissions
+associated with Snam's activities: the adoption of green
+Procurement criteria for goods and services, sustainable
+mobility initiatives and the implementation of initiatives
+
+For energy savings directed at employees (company shuttle
+services, public transport subsidies, smart working and the
+use of video-conferencing for meetings) and the launch
+
+of the supply chain CDP programme are just some of the
+initiatives in progress that contribute to the reduction of this
+type of emissions.
+
+Indirect emissions
+
+Scope 2 (kt COzeq) consumption (%) Scope 3 (kt COzeq)
+8 4a 538
+34 5
+32 32 32
+39 354 37.0 438
+4
+217 oe
+3 434
+214
+2017 2018 2019 2017 2018 2019 2017 2018 2019
+@. @ms ®@ Supply chain @ Business Travel
+
+Environment 61
+

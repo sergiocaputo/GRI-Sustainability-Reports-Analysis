@@ -1,0 +1,78 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+con l’obiettivo di ridurre l’esposizione a variazioni avverse di
+fair value dovute al rischio di tasso di interesse. Infine, dal
+mese di febbraio 2019 sono state introdotte anche copertu-
+re volte a mitigare il rischio dell’esposizione a variazioni dei
+flussi di cassa futuri attribuibili ai movimenti della curva dei
+tassi di interesse (c.d. Cash Flow Hedge), a copertura di ob-
+bligazioni a tasso variabile. L'attivita di verifica dell’efficacia
+delle coperture é svolta dalla funzione Risk Management,
+che esamina preventivamente le condizioni che rendono
+applicabile I'hedge accounting e mantiene formale docu-
+
+INFORMATIVA DI NATURA QUANTITATIVA
+
+A.4.5 Gerarchia del fair value
+
+mentazione per ogni relazione di copertura. Tali verifiche
+sono effettuate attraverso test prospettici all’attivazione
+della copertura, cui seguono test retrospettivi e prospettici
+svolti con cadenza mensile fino alla scadenza o chiusura
+anticipata della copertura. Il processo di verifica delle co-
+perture di tipo generico prevede, oltre ai test retrospettivi
+e prospettici di tipo contabile, anche dei preventivi test di
+capienza della sensitivity e del fair value, che si rendono
+necessari in ragione della mancata identificazione puntuale
+dei singoli sottostanti oggetto di copertura.
+
+A.4.5.1 Attivita e passivita valutate al fair value su base ricorrente: ripartizione per livelli di fair value
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+31.12.2019 31.12.2018
+ATTIVITA/PASSIVITA FINANZIARIE LIVELLO 1 LIVELLO 2 LIVELLO 3 LIVELLO 1 LIVELLO 2 LIVELLO 3
+MISURATE AL FAIR VALUE
+1. Attivita finanziarie valutate al fair value con impatto a
+conto economico 16 278 s.
+a) attivita finanziarie detenute per la negoziazione - 27 -
+b) attivita finanziarie designate al fair value - - -
+c) altre attivita finanziarie obbligatoriamente valutate
+al fair value 16 251 -
+2. Attivita finanziarie valutate al fair value con impatto
+sulla redditivita complessiva 3.269 25 -
+3. Derivati di copertura - - -
+4. Attivita materiali - - 70
+5. Attivita immateriali - 7 =
+Totale 3.285 303 70
+1. Passivita finanziarie detenute per la negoziazione - 28 -
+2. Passivita finanziarie designate al fair value - - :
+3. Derivati di copertura - 808 -
+Totale - 836 -
+
+ 
+
+ 
+
+280 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

@@ -1,0 +1,67 @@
+Atmospheric emissions
+
+ 
+
+In 2016, the Group produced a total of 16,640 tonnes of CO."°, with a decrease of about 12% with respect to 2015.
+These carbon dioxide emissions can be broken down as follows:
+
+Scope 1 - Direct emissions associated with proprietary sources or under the control of the companies in the Group,
+such as fuels used for heating and for the work vehicles necessary for the Group’s activities.
+
+Scope 2 - Indirect emissions associated with the generation of energy purchased and subsequently consumed at
+the Group’s plants.
+
+In 2016, the direct CO, emissions (Scope 71 emissions) were 8,175 tonnes, recording a decrease of over 15%'° with
+respect to the previous year. The indirect CO2 emissions (Scope 2 emissions) amounted to 8,465 tonnes, again with
+a reduction compared to 2015, albeit lower, equivalent to about 8%.
+
+Breakdown of the Group’s C02 emissions by Scope 1 and Scope 2 (tonnes of C02)
+m Scope 1 The GRI Sustainability Reporting
+mScope2 Standards establish two methods for
+
+10.500 . ci
+calculating the Scope 2 emissions:
+
+9.649 9.216
+
+9.500 8.175 8.465 “Location-based” and “Market-based”.
+7.500 The “Location-based” method, used
+6.000 to calculate the emissions indicated
+4.500 above, reflects the average intensity
+3,000 of the emissions produced by the total
+4.500 national electricity production, while the
+
+5 “Market-based” method reflects the
+
+2016 2015 emissions produced by the electricity
+
+that the companies have chosen to use
+
+and can be calculated using the default emission factors that represent the "residual mix", that is the unmonitored
+
+and unclaimed energy and emissions (approach adopted for Italy'”), and regional, subnational or national average
+emission factors (approach adopted for India).
+
+The Group’s Scope 2 C02 emissions using the Location-based and Market-based methods
+
+(tonnes of CO)
+12.000
+10.236
+10.000 9.415 9.216 Scope 2
+8.465 Location-based method
+8.000 | Scope 2
+Market-based method
+6.000
+4.000
+2.000
+2016 2015
+
+‘5 Source of the emission factors for natural gas, diesel and LPG: Table of national standard parameters: coefficients used for the CO2 emissions
+inventory in the UNFCCC national inventory (mean value of the years 2013-2015). This data can be used to calculate emissions from 1 January
+2016 to 31 December 2016.
+
+Source of the emission factor for electricity: Terna, 2014 international comparisons. 55
+*8 It is pointed out that, for 2016, the emission factor for natural gas was updated.
+
+‘7 Source of the emission factor for electricity “Market based - Italy”: European Residual Mixes 2015.
+

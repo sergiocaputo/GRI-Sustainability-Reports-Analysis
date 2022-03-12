@@ -1,0 +1,50 @@
+electricity grid in 2019, the emission factors .
+
+used came from the following sources: ISPRA
+(2017) for Italy; the German UBA (2017) for
+Germany; DEFRA (2019) for the United Kingdom;
+Terna International Comparisons (2016) for all
+other countries. Emissions from district heating
+were considered with the emission factor
+supplied by DEFRA (2018);
+
+indirect emissions (Scope II — Market-based):
+
+v
+
+the source used for the residual national mix
+of European countries is AIB (Association
+of Issuing Bodies); for the USA the factors
+published by the Centre for Resource Solutions
+(“2016 Green-e Energy Residual Mix Emissions
+Rates” and the relative 2019 update); for the
+countries for which residual mix factors are not
+available, the same emission factors applied for
+the location-based approach were used;
+the absenteeism rate was calculated considering
+absence due to accident, illness, unpaid leave,
+strikes;
+working hours, where not available, were
+estimated starting from an average of working
+hours per employee;
+the injury rate is the ratio between the total
+number of accidents with absence exceeding
+one working day and the total number of hours
+worked, multiplied by 1,000,000.
+the lost day rate is the ratio between the total
+number of workdays lost and the total number of
+working hours, multiplied by 1,000;
+workdays lost represent calendar days lost due
+to accidents starting from the day following the
+
+accident;
+
+43
+
+as regards hours worked, in the case of
+employees for whom this value is not available, an
+estimate was made based on the hours actually
+worked by the remaining Reply workforce.
+
+Consolidated disclosure of non-financial information in accordance with Decree 254/2016
+

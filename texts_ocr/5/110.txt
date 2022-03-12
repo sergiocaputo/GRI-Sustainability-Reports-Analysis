@@ -1,0 +1,89 @@
+Alperia Sustainability Report 2019
+
+ELISA) and five are still in progress. Each project is executed and developed to achieve maximum added value
+for the company, region and customer.
+
+These activities are managed through a governance and control system with a dedicated budget of over
+€937.842 in 2019 (almost €600.000 more than in 2018), out of more than €100.560 invested in research and
+development. A periodic report follows up on the issues addressed, chosen because they were in line with the
+areas of interest defined in the 2017—2021 Strategic Plan. These activities are also the subject of a quarterly
+meeting with progress update.
+
+Figure 35: Innovation, R&D and expenditures aimed at providing reliable electricity and
+promoting sustainable development
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+variation
+(%)
+Number of employees working on Number of 88 46| Not available 91%
+R&D projects employees
+Total R&D expenditure EUR | 1.560.934,00) 1.056.716,73| 1.554.247,59 48%
+thereof
+EU projects EUR 167.293,00 393.168,80
+Other research projects EUR 455.799,00 317.195,54
+Innovation Board projects EUR 937.842,00 346.352,39
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alperia is preparing group-wide innovation guidelines to support the Innovation Board's activities. The
+objectives of these guidelines is to systematise the group's innovation process, identifying criteria for finding
+innovative ideas, their selection, details on the prototyping and go-to-market process, specifying the chain of
+responsibility involved in the various projects, since these are interdisciplinary activities.
+
+We also launched Innovate, an intranet initiative where we asked our employees to come up with innovative
+ideas. Twelve ideas submitted through the system are now being assessed.
+
+UVAMs
+
+One of the peculiarities of electricity systems is the need to constantly guarantee that energy required by
+consumers as a whole is balanced with the energy produced by power plants. Terna is the operator of the
+Italian transmission grid, and thus guarantees this balance using a highly technical control system, through a
+dedicated market. In the past, there were a few large power plants that guaranteed energy supply on a national
+scale. But the growing expansion of renewable energy is leading to many changes for the Italian and European
+electricity grid. The system has been opened up to many small production, consumption and storage units,
+the flexibility of which contributes to stabilisation of the electricity grid. Because of this, we now deal with
+UVAMs (Mixed Enabled Virtual Units), or an aggregation of peripheral units of production, consumption and
+storage. The aggregated plants, connected to the Virtual Power Plant grid, provide reserve power to be used
+in the electricity grid should stability problems arise. Terna has established 15 aggregation zones, within which
+participants in the UVAM project must offer at least 1 MW of positive or negative reserve power. Alperia also
+took part in these tenders in 2019. The project, which was extremely challenging and carried out within the
+Innovation Board, involved building a sophisticated IT system to allow the data recorded at some of its plants
+to be submitted online through dedicated sensors. In addition, the district heating plant in Bolzano was
+successfully connected. The pilot phase, which has now officially ended, brought the project directly to market,
+with the intention of introducing other production and consumption units in 2020.
+
+In relation to the financial regulation of UVAMs, the system provides, in addition to the ordinary revenues linked
+to activated energy (€/MWh), the revenue of resource availability (fixed fee, €/MW).
+
+Currently in Italy, UVAMs are enabled to provide services such as congestion resolution, balancing and tertiary
+reserves, but Terna's intention is to test how UVAMs can be used for other services (such as secondary
+frequency/power regulation) and to also involve consumers in the tertiary and/or domestic sector. Indeed, UVAMs
+are considered fundamental to the redesign of the service market, with a view to a full energy transition. It should
+
+111
+

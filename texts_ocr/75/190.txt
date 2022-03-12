@@ -1,0 +1,543 @@
+305-1; 305-2; 305-3; 305-4; 305-6
+
+Environment
+
+DIRECT ENVIRONMENTAL IMPACTS
+
+Parameters Unit
+
+Operators = Staff
+
++ Consultants No.
+Staff No.
+Consultants No.
+Total transfers No.
+
+Total transport thousands of km
+
+Floor area thousands of m?
+
+Greenhouse gas
+
+emissions [CO,e] Uo
+
+Direct emissions (Scope1) tCO,eq
+
+Natural gas emissions for
+
+independent heating 'CO,eq
+Natural gas emissions for tC0,eq
+cogeneration 2
+Diesel emissions for
+
+independent heating 'CO,eq
+HFC emissions tCO,eq
+Gasoline emissions for tC0,eq
+company fleet 2
+Diesel emissions for tCO,eq
+company fleet 2
+Indirect emissions (Scope2
+Market-based) tc0,eq
+Electricity emissions
+
+(excluding cogeneration) tCO,eq
+Natural gas emissions for
+
+building heating (including tCO,eq
+district heating)
+
+Diesel emissions for tCO,eq
+
+building heating
+
+Total direct + indirect
+emissions (Scope1 + 2 tCO,eq
+Market-based)
+
+Total direct + indirect {CO,eq/
+«i staff
+emissions per staff member
+member
+Total direct + indirect kgCO,eq/
+emissions per square meter m2
+
+Total direct + indirect
+emissions (Scope1 + 2 tCO,eq
+Location-based)
+
+Other indirect emissions
+
+(Scope3) tCO,eq
+Business trips tCO,eq
+Purchased paper tCO,eq
+Waste tCO,eq
+Office machinery tCO,eq
+Internet banking* tCO,eq
+Energy carriers** tCO,eq
+Cash-in-transit (CIT) tCO,eq
+
+Italy
+70,834
+
+65,612
+5,222
+609,980
+140,679
+
+2,971
+
+Italy
+37,521
+
+22,567
+
+5,110
+
+925
+1,824
+
+10
+
+7,086
+
+5,735
+
+2,310
+
+3,424
+
+43,256
+
+0.6
+
+14.6
+
+151,279
+
+38,209
+
+8,015
+2,911
+252
+4,293
+116
+14,684
+
+7,938
+
+2019
+Abroad
+
+24,379
+
+23,070
+
+1,309
+21,210
+32,678
+
+648
+
+2019
+Abroad
+7,877
+
+3,026
+
+524
+
+122
+266
+
+901
+
+3,039
+
+27,974
+
+27,167
+
+765
+
+42
+
+35,851
+
+55.3
+
+39,090
+
+19,270
+
+1,514
+1,673
+26
+1,509
+100
+11,444
+
+3,003
+
+Group
+95,213
+
+88,682
+6,531
+631,190
+173,357
+
+3,619
+
+Group
+45,398
+
+25,592
+
+5,634
+
+1,046
+2,090
+
+911
+
+10,124
+
+33,709
+
+29,478
+
+4,189
+
+42
+
+79,107
+
+0.8
+
+21.9
+
+190,369
+
+57,479
+
+9,528
+4,584
+279
+5,802
+217
+26,128
+
+10,942
+
+Italy
+72,680
+
+68,392
+4,288
+654,263
+145,128
+
+3,169
+
+Italy
+51,581
+
+30,422
+
+6,826
+
+1,407
+5,720
+
+20
+
+7,186
+
+8,135
+
+3,926
+
+3,752
+
+456
+
+59,716
+
+0.8
+
+18.8
+
+177.395
+
+60,507
+
+8,614
+3,981
+260
+6,537
+123
+32,822
+
+8,172
+
+2018
+Abroad
+
+23,244
+
+23,134
+
+110
+21,225
+33,895
+
+626
+
+2018
+Abroad
+5,584
+
+1,847
+
+418
+
+55
+159
+
+562
+
+2,544
+
+35,326
+
+33,286
+
+1,949
+
+91
+
+40,911
+
+1.8
+
+65.3
+
+38.515
+
+29,027
+
+2,258
+1,881
+12
+2,211
+53
+19,400
+
+3,212
+
+* In 2017 the methodology was made consistent at Group level, limiting the perimeter to the main transactions.
+** Scope3 emissions generated: (a) in the natural gas supply chain, (b) in the production of the energy sources used in the electricity mix and (c) in the distribution and transformation
+
+of the electricity.
+
+Group
+95,924
+
+91,526
+4,398
+675,488
+179,023
+
+3,795
+
+Group
+57,165
+
+32,268
+
+7,244
+
+1,462
+5,879
+
+582
+
+9,729
+
+43,461
+
+37,212
+
+5,701
+
+548
+
+100,626
+
+1.0
+
+26.5
+
+215,910
+
+89,534
+
+10,871
+5,861
+272
+8,748
+176
+52,222
+
+11,383
+
+Italy
+67,606
+
+63,859
+3,747
+626,149
+137,339
+
+2,828
+
+Italy
+34,239
+
+24,257
+
+2,150
+
+1,861
+n.a.
+
+33
+
+5,938
+
+5,055
+
+1,470
+
+2,948
+
+637
+
+39,294
+
+0.6
+
+13.9
+
+156,817
+
+51,116
+
+8,510
+3,876
+147
+14,089
+114
+24,379
+
+na.
+
+2017
+Abroad
+
+23,876
+
+23,763
+113
+20,961
+32,442
+
+658
+
+2017
+Abroad
+6,510
+
+2,964
+
+354
+
+696
+
+2,495
+
+33,181
+
+30,734
+
+2,354
+
+93
+
+39,691
+
+1.7
+
+60.3
+
+44,996
+
+29,310
+
+1,725
+1,783
+22
+5,243
+122
+20.414
+
+Indicators
+
+Group
+91,482
+
+87,622
+3,860
+647,110
+169,781
+
+3,485
+
+Group
+40,749
+
+27,221
+
+2,150
+
+2,216
+
+730
+
+8,433
+
+38,235
+
+32,204
+
+5,302
+
+730
+
+78,985
+
+0.9
+
+22.7
+
+201,813
+
+80,425
+
+10,235
+5,659
+170
+19,332
+236
+44.794
+

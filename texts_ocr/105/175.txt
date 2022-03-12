@@ -1,0 +1,57 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Patrimonio netto di Gruppo
+
+Per quanto sopra esposto, gli effetti attesi sul Patrimonio Netto di Gruppo al 1° gennaio 2018 sono i seguenti (al lordo del
+relativo effetto imposte):
+
+a Incremento della riserva di fair value di circa 1,7 miliardi di euro.
+
+= Riduzione della riserva di utili di circa 23 milioni di euro di cui:
+e un decremento di 39 milioni di euro derivanti dalle nuove modalita di determinazione dell’ECL;
+e un incremento di 16 milioni di euro, derivante principalmente dalla riclassifica di partecipazioni non qualificate nel
+portafoglio FVPL.
+
+IFRS 15 - Ricavi provenienti da contratti con i
+clienti
+
+ll Gruppo Poste Italiane ha scelto di applicare |'IFRS 15 a partire dalla sua effettiva entrata in vigore 1° gennaio 2018 senza
+applicazione anticipata e adottando il Simplified transition method (|'effetto cumulativo del cambiamento di disciplina conta-
+bile é rilevato al 1° gennaio 2018 negli utili portati a nuovo, senza effettuare il restatement del comparativo), avvalendosi della
+facolta prevista di non tener conto dei cosiddetti “contratti completati” alla data di transizione, per i quali €é mantenuta la con-
+tabilizzazione secondo le previgenti regole dello IAS 18 e relative interpretazioni.
+
+Le attivita di assessment, design e implementation del progetto di recepimento del nuovo principio sono state completate
+entro l’ultimo trimestre dell’esercizio 2017.
+
+Per la fase di assessment, unica in cui si é ricorso all’ausilio di un consulente esterno di provata competenza e professionalita,
+il Gruppo ha adottato una metodologia che ripercorre gli step logici in cui si articola il processo di identificazione e misurazione
+dei ricavi secondo |’IFRS 15. In tale contesto, é stato utilizzato un tool informatico elaborato internamente che ha consentito
+l'assessment dei contratti di vendita, raggruppati per tipologia di attivita, l’individuazione delle singole performance obligations
+in essere, e l'identificazione di eventuali differenze tra preesistente e nuova disciplina. In tale fase, sono stati analizzati i pro-
+cessi amministrativo/contabili, i sistemi informatici disponibili, e le procedure in essere per valutare la compliance alla nuova
+disciplina.
+
+Qui di seguito si riportano, in via preliminare, le principali conclusioni.delle valutazioni effettuate:
+
+= solo per la controllata PosteMobile S.p.A. si é rilevata l’esigenza, in applicazione dell’IFRS 15, di rettificare il saldo di patri-
+monio netto iniziale in presenza di contratti non completati alla data di transizione e di contratti composti da pill performance
+obligation per i quali sono state riviste le regole di revenue recognition (si é trattato in particolare delle conseguenze della
+differente imputazione dei ricavi previsti per taluni servizi come ad esempio commissioni per cambio piano tariffario, offerte
+bundle, ecc);
+
+= é stata rilevata la presenza di penali a favore di clienti (nel caso di mancato raggiungimento di prestabiliti livelli di servizio) e di
+clausole in cui é prevista la restituzione di commissioni percepite per il collocamento di mutui e prestiti a fronte di estinzioni
+anticipate (sino ad oggi trattate nell’ambito dei fondi rischi e oneri) per le quali € stato previsto a partire dal 1° gennaio 2018
+un modello di imputazione contabile con diretta decurtazione dei ricavi;
+
+= gli effetti di quanto sopra descritto generano alla data di transizione un decremento delle riserve di utili per circa 1,5 milioni
+di euro al lordo del relativo effetto imposte. Sui dati esposti sono tuttora in corso le attivita di verifica.
+
+Con riguardo alla gestione amministrativo delle componenti variabili di corrispettivo, (tra queste, anche le citate penali) sono
+stati aggiornati i processi aziendali sottesi, le responsabilita e le attivita anche di controllo per |’elaborazione dei calcoli sotto-
+stanti le rilevazioni contabili.
+
+174
+

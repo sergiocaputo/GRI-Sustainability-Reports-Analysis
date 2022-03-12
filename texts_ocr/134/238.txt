@@ -1,0 +1,58 @@
+of a public sector asset that it constructs or upgrades. The amounts are contingent on the extent to which the
+public uses the service (demand risk). Finally, the third model is applicable when both of the above situations
+are present. In this case, the intangible asset is determined as the difference between the fair value of the
+investment made and the present value of the financial asset obtained by discounting the cash flows from the
+
+minimum specified amount.
+
+The Group’s concession arrangements (via the operators consolidated on a line-by-line or proportionate basis)
+fall under the intangible asset model except for two immaterial concessions held by the subsidiaries of HCE
+Costruzioni Generali S.p.A., wholly owned by the parent, which fall under the “mixed model”. The financial
+
+asset model is applicable to certain equity-accounted associates.
+
+Recognition of the intangible asset: the intangible asset is recognised during construction of the infrastructure.
+The main identified cases are as follows:
+
+a. Arrangements that cover the construction of a new infrastructure: the operator recognises the intangible
+asset in line with the stage of completion of the construction project. During construction, the operator
+
+recognises revenue and costs in line with IFRS 15 - Revenue from contracts with customers.
+
+b. Arrangements that cover management of an existing infrastructure and its extension or upgrading against
+which the operator acquires specific additional financial benefits: the operator recognises these
+construction and/or upgrade services in line with IFRS 15 - Revenue from contracts with customers.
+Arrangements that cover management of an existing infrastructure and specific obligations to extend or
+upgrade it against which the operator does not acquire additional specific financial benefits: at initial
+recognition, the operator recognises a liability equal to the present value of the forecast outlay for the
+construction services to be provided in the future with, as a balancing item, an additional component of
+
+the intangible asset for the contract consideration, which begins to be amortised.
+
+Contractual obligations for the infrastructure’s efficiency levels: given that the operator does not meet the
+
+ 
+
+requirements for recognition of the infrastructure as “Property, plant and equipment”, the accounting treatment
+differs depending on the nature of the work carried out and can be spit into two categories: (i) work related to
+
+normal maintenance of the infrastructure; (ii) replacement and scheduled maintenance at a future date.
+
+The first category relates to normal ordinary maintenance of the infrastructure, the cost of which is recognised
+in profit or loss when incurred, also under IFRIC 12. Given that the interpretation does not provide for the
+recognition of the physical asset but of a right, the second category is recognised in line with IAS 37 -
+Provisions, contingent liabilities and contingent assets, which requires: (i) recognition of an accrual to a
+
+provision in profit or loss; and (ii) recognition of a provision for charges in the statement of financial position.
+
+Amortisation of the intangible asset: amortisation of the intangible asset recognised for the rights acquired
+under the concession arrangement is calculated in line with paragraph 97 of IAS 38 - Intangible assets: “The
+amortisation method used shall reflect the pattern in which the asset’s future economic benefits are expected
+to be consumed by the entity. If that pattern cannot be determined reliably, the straight-line method shall be
+
+used”.
+
+ 
+
+239
+

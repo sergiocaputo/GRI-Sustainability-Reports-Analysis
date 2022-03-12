@@ -1,0 +1,142 @@
+Supplement
+~ Risk Management and Compliance
+
+European regulatory evolutions. The Group DPA is a Data Processing Agreement agreed at Group Level that ensures
+that whenever there is a Controller and a Processor within the UniCredit Group, this DPA is used.
+
+Key achievements 2019 Priorities 2020
+
+1. Extension of DPO function appointment to minor Legal Entities _ 1. Completion of Right to be forgotten implementation on GDPR
+and UniCredit SpA foreign branches relevant IT applications
+
+2. Adoption of new version of Group GDPR second Level Controls 2. Set up of a DPO cockpit to assure a better oversight by each
+Catalogue DPO at local level and Group DPO at group level through
+
+3. Definition of GDPR applicability to non-EU Legal Entities and collection of specific information flows on data protection
+UniCredit SpA foreign branches status (e.g. data subjects’ requests, data breaches occurred,
+
+4. Fine-tuning of Data Protection Impact assessment etc.)
+methodology 3. Fine-tuning of GDPR second level controls catalogue with
+
+5. Definition and implementation of Group process for particular reference to the definition of second level controls
+management of Data Processors (Vendors), including Data related to “Right to Be Forgotten” to be implemented through
+
+Processing Agreement (DPA) with particular reference to Group Data Discovery system
+DPA to cover common Data Processors among different Legal 4. New certification campaign of Record of processing activities
+Entities of UniCredit Group by involving Bank process owners
+
+6. Definition and implementation of Group process for Fine-tuning of GDPR global policies already in place and
+management and notification of personal data breaches issuing of a new dedicated Global Policy concerning GDPR
+
+7. Data Protection Risk Assessment has been completed at Risk assessment and second level controls methodology
+Group level and progressively extended to minor Legal Entities
+(Ireland and Luxembourg) and foreign branches
+
+w
+
+Whistleblowing
+
+In 2011 we adopted a system implemented at Group level which provides employees with a way to report unacceptable
+conduct (i.e. whistleblowing). By unacceptable conduct we mean any action and/or omission performed during
+
+the working activity that could in any way affect it. This could be a violation of bank activity rules or any violation
+that causes or could cause damage or bias to UniCredit and/or its employees. Any employee can make use of this
+mechanism to report a reasonable suspicion of unlawful conduct that could be potentially harmful or detrimental
+to the Group or its employees.
+
+The Group’s approach to whistleblowing is set out in a specific Global Policy. In order to promote a corporate culture
+based on ethical behaviour and good corporate governance, the Policy governs reports of unacceptable conduct by
+employees within the Group.
+
+The Policy is intended to:
+¢ grant a corporate environment where employees may feel free to make reports on unacceptable conduct
+define adequate communication channels for the receipt, analysis and use of the reports.
+
+The management of this process is designed to ensure the greatest possible protection and confidentiality of the
+
+identity of the whistleblower and of the accused individual and to prevent any possible retaliatory or discriminatory
+
+behaviour in response to the report.
+
+At local level, for example in Italy, UniCredit SpA has identified the Head of Group Compliance CEE, ABC,
+
+Governance, Education & Business Management, as the person responsible for internal whistleblowing systems
+
+and for ensuring that the procedure is followed correctly. If the people referred to above are hierarchically and
+
+functionally subordinate to the person to whom the whistleblowing report relates or if they themselves are
+
+accused of violation or if they have a potential interest in the report that would compromise their impartiality and
+
+independence of judgment, then they may contact Internal Audit directly as the reserve function.
+
+The channels (some of which are available 24 hours a day) provided by UniCredit SpA for employees to make
+
+whistleblowing reports, anonymously - if desired, are as follows:
+
+« by phone. The UniCredit SpeakUp line allows the employee to leave a voice message report with an option to
+remain anonymous
+
+- on the website, where the UniCredit SpeakUp web service allows the employee to submit a written report with an
+option to remain anonymous
+
+by e-mail to the UniCredit Italy Whistleblowing e-mail address
+
+« by letter to the dedicated UniCredit Italy Whistleblowing postal address
+
+« by physical meeting.
+
+In June 2019 a new Policy was issued which introduces the opening of the whistleblowing channels to Third Parties.
+
+S.28 UniCredit » 2019 Integrated Report
+
+Supplement
+» Risk Management and Compliance
+
+Number of cases by category, 2019
+
+ 
+
+Total Out of which Closed Pending Categories of closed cases‘
+reported reports Reported reported =
+5 3
+cases' received Casesasof cases as of $ > a a
+resultedin 31/12/2019 31/12/2019 = , 2 eS. 8 = $55
+3 c = a ts o s es
+real policy or = Ss o o cs a = =e
+requirement s 3 2 s 2£3 2 , 34 Boe
+og § 2 sf 2 h FS Bea
+breaches > 6 &® v o £ $8 € 5 BE 385 §
+s 23s £ 8s §2 € F ER Bee =
+> $2 €©€& = zs £8 o@ € 83 Est 6
+s <¢ 3s 2 o& @ < gs ges
+2 s = c £4 > o ess
+o = # 5 22 & £ 236
+2 « € S es & 2 eps
+2 < a = 3 Sst Ee
+é a & 275
+¢
+346 87 258 88 3.2.4 :,8:3 4 7 9 0. 107 25 12
+
+A. This data is drawn from the following subset of Group legal entities: UniCredit SpA (Milan — included branches in Abu Dhabi, London, Madrid ,Munich, New
+York, Paris, Shangai), UniCredit Bank AG (included branches in Athens, Hong Kong, Londan, Luxemburg, Milan, New York, Paris, Singapore, Tokyo, Vienna,
+Zurich); UniCredit Bank Austria AG, UniCredit Bank Ireland, UniCredit International Luxemburg Sa, Schoellerbank AG, Schoellerbank Invest AG, UniCredit
+Bank ad Banja Luka, UniCredit Bank d.d. Mostar, UniCredit Bulbank AD, Zagrebatka Banka DD, UniCredit Bank Czech Republic and Slovakia as, UniCredit Bank
+Hungary Zrt, UniCredit Bank SA, AO UniCredit Bank, UniCredit Bank Serbia Jsc, UniCredit Banka Slovenija DD, Yapi Kredi, UniCredit Leasing SpA, Cordusio
+Societa Fiduciaria per Azioni, Cordusio SIM SpA, UniCredit Factoring SpA, UniCredit Leasing (Austria) GmbH, UniCredit Leasing EAD, UniCredit Leasing Croatia
+doo za Leasing, UniCredit Leasing CZ as, UniCredit Leasing Hungary Zrt., UniCredit Operativ Lizing Kft, UniCredit Biztositaskézvetitd Kft, OOO UniCredit Leasing
+Russia, UniCredit Leasing Corporation IFN Romania, UniCredit Leasing Srbija doo, UniCredit Leasing, leasing, doo, SIA UniCredit Leasing, UniCredit Subito Casa
+SpA, Zb Invest D.0.0. Za Upravjanje Investicijskim Fondovima, UniCredit Consumer Financing IFN SA, Factorbank Aktiengesellschaft,0oo Unicredit Garant,
+Unicredit Factoring Czech Republic And Slovakia, A.S., UniCredit Consumer Financing EAD, UniCredit Factoring EAD, Bank Austria Real Invest Immobilien-
+Management GmbH, DC Bank AG, UniCredit Services (Austria) Gmbh, Card Complete Service Bank AG, Bank Austria Finanzservice GmbH, Wealthcap
+Kapitalverwaltungsgesellschaft GmbH, Food & More GmbH, UniCredit Leasing Gmbh, UniCredit Jelzalogbank Zrt., UniCredit Services ScpA (included branches
+in Czech Republic, Germany, Great Bretain, Hungary, Poland, Romania, Singapore, Slovakia, United States).
+
+B. Data includes also n. 30 claims/complaints/allegations (of which n. 5 pending as of 31/12/2019) which have been reported through channels not fully
+dedicated to whistleblowing and that are sent to the competent function for investigation (e.g. complaint management)
+
+C. Please note that the categories of clased cases refer to whistleblowing cases with sufficient elements to perform investigations. In 2019 n. 49 reports
+received which were in the scope of the Glabal Policy on whistleblowing did not have sufficient elements.
+
+UniCredit + 2019 Integrated Report S. 29
+

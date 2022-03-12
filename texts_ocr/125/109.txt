@@ -1,0 +1,66 @@
+Table 50: Reference value
+
+ 
+
+SU] Sa NN Gls TLV-TWA?> 1/10 OF TLV-TWA
+Carbon monoxide | 25 ppm | 2.5 ppm
+Sulfur dioxide | 2 ppm | 0.2 ppm
+Nitrogen dioxide | 3 ppm | 0.3 ppm
+Breathable dusts | 3 mg/m3 | 0.3 mg/m3
+PM,,,”° | 40 pg/m3 | -
+
+At SECH, the analysis was conducted during 2017: seven sensitive areas were identified,
+where the measuring instruments were positioned and maintained.The survey revealed
+concentration values below the limits taken as a reference for all the parameters
+observed.
+
+As for TDT, the analysis was carried out in 2008-2010 (11 sensitive areas) and repeated
+in 2013 (3 sensitive areas), following to the dredging activities of some areas of the port,
+the consequent creation of the second reclamation tank and the related transport
+of sludge to the aforementioned tank. In 2019, the risk assessment review began, the
+results of which will be published in 2020.
+
+5.1.6.2 CONVEYED EMISSIONS
+
+ 
+
+Pn The conveyed emissions inside the terminals are represented by:
+a sted)
+ws e Hot water heater emissions;
+9
+e emissions from welding activities (from mechanical maintenance
+activities at SECH - internal - and at TDT - contracted), regulated by
+1 Paeat the provisions of art. 272 Legislative Decree 152/2006 and Regional
+
+Ca
+
+Deliberation 1260/2010 (SECH only);
+
+emissions from mechanical metalworking and/or surface treatments
+and/or other metalworking (from mechanical maintenance activities
+Rr at SECH - internal - and at TDT - contracted), regulated by the provisions
+
+of art. 272 Legislative Decree 152/2006 and Regional Deliberation
+G 1260/2010 (SECH only).
+
+Conveyed emissions are due to thermal plants. Emissions in abnormal or
+emergency conditions of the air conditioning systems add also up to these ones.
+
+ 
+
+The thermal power plants, both at SECH and at TDT, are used for the heating of sanitary
+water in the changing rooms”, whereas the heating of the offices is guaranteed by
+a system of heat pumps, used in air conditioning mode in the summer season. This
+solution significantly reduces the consumption of traditional fuels (diesel or natural
+gas), as well as emissions, however it must be kept under control due to the presence
+
+25. Threshold limit value.
+
+26. There is no TLV for PM,,. For this reason, the limit referred to urban areas as per Ministerial Decree,
+dated 25/11/1994, was taken as reference.
+
+27.At SECH the thermal power plant is also functional for the heating of the same and of the two offices
+of the maintenance department.
+
+2019 Sustainability Report
+

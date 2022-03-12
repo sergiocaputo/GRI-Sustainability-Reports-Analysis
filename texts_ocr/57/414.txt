@@ -1,0 +1,73 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+IFRS9 “Strumenti finanziari”
+
+Il 24 luglio 2014 lo IASB ha pubblicato la versione finale dell’IFRS9 “Strumenti Finanziari” che sostituisce lo IAS 39.
+Tale standard contabile internazionale non disciplina gli aspetti connessi al cd. macro-heaging, per il quale lo IASB
+ha deciso di intraprendere un progetto autonomo.
+
+ll principio é stato omologato dalla Commissione Europea in data 22 settembre 2016 con Regolamento n 2016/2067
+e dovra trovare applicazione obbligatoriamente a partire dall’1 gennaio 2018.
+
+Nel corso del 2017 il Gruppo ha svolto un’analisi dettagliata sugli impatti di tutti gli aspetti trattati dall'IFRS 9.
+
+Tale analisi si € basata sulle informazioni disponibili e potrebbe essere soggetta a cambiamenti a seguito di ulteriori
+informazioni che diverranno disponibili nel corso del 2018, quando il Gruppo adottera I'lIFRS9.
+
+Complessivamente, non si prevedono impatti significativi sulla situazione patrimoniale/finanziaria e sul patrimonio
+netto di Gruppo, ad eccezione degli effetti dell’applicazione dei requisiti previsti dallIFRS9 in tema di perdite di va-
+lore (impairment) su crediti, come di seguito pi compiutamente illustrato.
+
+Classificazione e valutazione delle attivita finanziarie
+
+Il nuovo principio contabile prevede tre categorie di classificazione e valutazione delle attivita finanziarie: costo am-
+mortizzato, fair value con variazioni a conto economico (“Fair Value Through Profit and Loss —- FVTP&L’), e fair value
+con le variazioni rilevate tra le componenti reddituali (Fair Value Through Other Comprehensive Income - FVOC)).
+
+Per quanto riguarda gli strumenti di debito, il principio prevede un unico metodo per determinare la classificazione
+in una delle tre categorie. Tale metodo si basa sulla combinazione di due driver, rappresentati dalla modalita di ge-
+stione degli strumenti finanziari adottata dall’entita (business model) e dalle caratteristiche contrattuali dei flussi di
+cassa degli strumenti medesimi, che devono essere costituiti esclusivamente da pagamenti di capitale e interessi
+(Solely Payment of Principal and Interest — SPP). In caso di fallimento dell’SPPI test, lo strumento finanziario deve
+essere valutato obbligatoriamente al fair value e le differenze derivanti dalle valutazioni successive saranno imputa-
+te direttamente a conto economico.
+
+Piu specificamente, il principio individua tre possibili business mode! rappresentativi delle finalita di gestione delle
+attivita finanziarie da parte dell’entita, quali:
+
+* Business model “Hold To Collect”: modello di business in cui vi rientrano le attivita finanziarie detenute con I’o-
+biettivo di realizzare i flussi di cassa contrattuali, mantenendo lo strumento finanziario sino alla scadenza;
+
++ Business model “Hold to Collect and Sell”: modello di business che include le attivita finanziarie detenute con
+lobiettivo sia di realizzare i flussi di cassa contrattuali nel corso della durata dell'attivita, sia di incassare i proventi
+della vendita della stessa;
+
+* Business model “Other”: modello di business avente natura residuale e che comprende gli strumenti finanziari
+non classificabili nelle precedenti categorie, principalmente rappresentati dalle attivita finanziarie detenute al
+fine di realizzare flussi di cassa tramite la vendita.
+
+In relazione agli strumenti di capitale, é prevista sia la classificazione nel portafoglio FVTPL (con variazioni di fair
+value a conto economico), sia la facolta di classificare irrevocabilmente, nella categoria FVOCI, alla data di prima
+iscrizione, gli strumenti di capitale non detenuti per la negoziazione. In tal caso sono imputati a conto economico
+soltanto i dividendi, mentre le valutazioni ed i risultati derivanti dalla cessione sono imputati a patrimonio netto. Per
+essi non é previsto, quindi, l'impairment test.
+
+Classificazione e valutazione delle passivita finanziarie
+
+Con riferimento alle passivita finanziarie, é stato mantenuto l’obbligo di scorporare eventuali derivati ivi incorporati.
+
+La rilevazione integrale delle variazioni di fair value in contropartita del conto economico é prevista, per gli strumenti
+diversi dai derivati, solo per le passivita finanziarie detenute per la negoziazione.
+
+Per le passivita finanziarie designate nell'ambito della cd. fair value option, la variazione di fair value attribuibile alle
+variazioni del rischio di credito delle passivita é rilevata direttamente tra le altre componenti reddituali (Other Com-
+prehensive Income - OCI), a meno che questo non crei o incrementi il mismatching contabile, nel qual caso l’intera
+variazione di fair value € imputata a conto economico. L'importo che é imputato tra le altre componenti reddituali
+non viene riversato a conto economico quando la passivita é regolata o estinta.
+
+414
+
+ 
+

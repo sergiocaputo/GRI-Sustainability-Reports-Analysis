@@ -1,0 +1,65 @@
+e investigation by the Italian Higher Institute of Health with possible requests for changes or
+additions;
+
+e conclusion of the investigation with a positive outcome;
+
+e final approval by the Ministry of Health.
+
+Bearing in mind the date by which the Security Plans must be completed, presumably by 2025, and the
+large number of supply areas served by Hera (over 400), we must try to work to set up Security Plans by
+structure types assessing, at the same time, how to automate, as much as possible, the completion of check
+lists and risk matrices. In terms of priorities, we envisage gradually implementing the Plans for the most
+densely populated supply areas.
+
+In 2018, for AcegasApsAmga, 224 check lists were collected on the entire aqueduct network of Trieste and
+Padua in order to assess the source of the risks that a dangerous event can generate and the related
+damage. The main hazard classes identified were: microbiological hazards, chemical hazards, physical
+hazards, radiological hazards and acceptability hazards.
+
+To process the risk model, AcegasApsAmga prepared a business intelligence model that will support it in
+the processing the risk matrices. For the 2019-2020 two-year period AcegasApsAmga expects to:
+
+e identify the hazards and dangerous events;
+
+e implement the business intelligence model;
+
+e risk assessment;
+
+e identification of control and monitoring measures;
+
+e risk reassessment and identification of the priorities of the Water Safety Plan.
+
+Safety and continuity of the service
+
+Safety and continuity of the electricity service
+
+In 2018, the distribution grids operated by Inrete distributed approximately 2,246 GWh of electricity to
+around 259,000 users in 24 municipalities of the provinces of Bologna, Modena and Ravenna in Emilia-
+Romagna. In addition, the over 163,300 users served by AcegasApsAmga, to whom about 833 GWh of
+electricity was distributed in the municipalities of Gorizia and Trieste.
+
+The electricity grids operated by Inrete in Emilia-Romagna are 10,370 kilometres long, 73.2% of them carry
+low voltage, 26.5% medium voltage, and 0.3% high voltage. 41.6% of the lines are underground, and the
+rest are overhead lines. In the Triveneto region AcegasApsAmga operated 2,280 kilometres of network,
+65.2% of them carry low voltage, 34.6% medium voltage, and 0.2% high voltage. 69% of the lines are
+underground.
+
+The continuity of electricity distribution service is regulated by ARERA provisions on the service quality of
+distribution, measurement and sales of electricity for the 2016-2023 regulatory period, approved by
+resolution 646/2015/R/eel.
+
+That resolution also identifies the indicators to use to measure power cuts, the monitoring systems and the
+reference standards.
+
+The indicators related to power cuts originating in the medium and low voltage grids express:
+
+e the total annual duration of long power cuts without advance notice for low voltage customers;
+e the total annual number of long and short power cuts without advance notice for low voltage
+customers.
+
+For the 2016-2023 regulatory period, Inrete and AcegasApsAmga have approved the reduction of power
+cuts originating from the medium and low voltage grids attributable to external causes. The above
+indicators, therefore, are calculated inclusive of external causes. Target levels and trend levels for these
+
+238
+

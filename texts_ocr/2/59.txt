@@ -1,0 +1,175 @@
+88
+
+OBIETTIVI
+(oda
+
+MACRO-OBIETTIVO N. 5
+
+Investire in innovazione per la sostenibilita
+
+TARGET AL 2022
+FUNZIONI/SOCIETA OWNER DEL PROCESSO
+
+AMBITO DI AZIONE 1: Innovazione organizzativa
+
+KPI DI PERFORMANCE) AZIONI 2019
+
+ 
+
+Promuovere
+processi e modalita
+di lavoro “smart”
+
+Attivare lo smart working come modalita di lavoro agile per
+lintero Gruppo, soddisfacendo il 100% delle richieste di
+adesione pervenute dalla popolazione candidabile da accordo
+sindacale e interessata.
+
+ACEA SpA - SVILUPPO CAPITALE UMANO
+
+N. dipendenti coinvolti/n.
+dipendenti interessati e
+candidabili da accordo
+
+= 508/1.500
+
+Nel 2019 é proseguito il
+progetto di smart working
+denominato “Smart People”
+che ha coinvolto oltre 500
+persone. E stato inoltre rivisto
+l'accordo sindacale sul lavoro
+agile e lanciato il progetto
+
+Smart Working 2020.
+
+ 
+
+Progettare e abilitare almeno 5 ambienti (fisici e virtuali)
+di co-working aziendale ed extra-aziendale
+per promuovere modalita di lavoro smart.
+
+ACEA SpA - SVILUPPO CAPITALE UMANO
+
+N. ambienti di co-working
+attivati/n. ambienti da
+attivare = 1/5
+
+Nellanno, contestualmente
+all'awio dello smart working,
+
+é stato lanciato l’applicativo
+Microsoft Teams, un luogo
+virtuale di lavoro da remoto
+che permette di condividere
+ed archiviare file, scambiare
+messaggi istantanei, fare video
+call e meeting online.
+
+ 
+
+Implementare un Modello di innovazione di Gruppo che
+definisca procedure di governance (ruoli e responsabilita),
+processi aziendali e strumenti dedicati.
+
+ACEA SpA - Information, Technology & Solutions (Open
+
+Innovation)
+
+Si/No = Si
+Target al 2022 raggiunto
+
+Target al 2022 raggiunto
+nel 2018.
+
+ 
+
+AMBITO DI AZIONE 2: Innovazione tecnologica e di processo
+
+ 
+
+Promuovere la
+resilienza del
+territorio urbano
+e Pinnovazione in
+ottica smart city
+
+Installazione di un sistema pilota per il monitoraggio
+delle condizioni meteo ai fini della stima della resilienza
+della rete elettrica.
+
+ARETI
+
+Si/No = Si
+Target al 2022 raggiunto
+
+Target al 2022 raggiunto
+nel 2018.
+
+ 
+
+Identificazione (target intermedio al 2020) e realizzazione
+di azioni di miglioramento della resilienza della rete elettrica
+a seguito del monitoraggio delle condizioni meteo.
+
+ARETI
+
+N. azioni identificate
+N. azioni realizzate
+
+Awiate le attivita propedeutiche
+alla realizzazione di una
+piattaforma per l'acquisizione e
+il monitoraggio, in tempo reale,
+di dati metereologici in grado di
+alterare le condizioni di esercizio
+dell’asset di rete.
+
+ 
+
+Realizzare la connettivita a banda larga su rete proprietaria
+in fibra ottica (0 altra connettivita a banda larga) a servizio
+
+N. CP connesse a banda
+
+ 
+
+dellesercizio della rete elettrica per tutte le 70 Cabine Primarie larga/ 70 CP Nessuna azione nell’anno.
+: N. CS connesse a banda
+(CP) e per 250 Cabine Secondarie (CS). larga’ 250 CS
+ARETI aes
+Dotare di apparecchiature intelligenti 1.500 pali di illuminazione N. pali dotati di Sono state awviate le attivita
+
+pubblica (Luce +).
+ARETI
+
+apparecchiature intelligenti
+
+correlate al raggiungimento
+del target.
+
+ 
+
+Strumenti di analitics nelle applicazioni di Business Intelligence
+con un target associato alla quantita di dati analizzati (8.000
+Thyte) e alle dimensioni di analisi (2.800).
+
+ARETI
+
+Quantita di dati analizzati
+Dimensioni di analisi
+
+Completata la definizione
+del modello per lo sviluppo
+una base dati unica integrata
+(data lake) per le Unita
+
+di business dell’area
+Infrastrutture Energetiche.
+
+ 
+
+64
+
+GRUPPO ACEA / BILANCIO DI SOSTENIBILITA 2019
+

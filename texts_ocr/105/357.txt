@@ -1,0 +1,52 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Nell’ambito degli Strumenti finanziari derivati, il rischio in commento riguarda contratti di vendita a termine di titoli di Stato,
+classificati come derivati di copertura di cash flow hedge, per un valore nominale complessivo di 1.408 milioni di euro, stipulati
+dal Patrimonio BancoPosta ne! corso dell’esercizio, nonché un contratto derivato stipulato dalla Capogruppo nell’esercizio
+2018 finalizzato alla protezione dei flussi finanziari relativi al Prestito obbligazionario a tasso variabile di 50 milioni di euro.
+
+Al 31 dicembre 2017, con riferimento all’esposizione al rischio di tasso dovuta alla durata media finanziaria dei portafogli, la
+duration” degli impieghi complessivi BancoPosta é passata da 5,56 a 5,30. Con riguardo invece alle polizze di Ramo | e V
+emesse dalla Compagnia Poste Vita S.p.A., la duration degli attivia copertura é passata da 6,08 al 31 dicembre 2016 a 6,13 al
+31 dicembre 2017, mentre la duration delle passivita é passata da 7,26 a 7,84. Gli strumenti finanziari a copertura delle Riserve
+tecniche di Ramo Ill hanno invece scadenza coincidente con quella delle passivita.
+
+Si riportano di seguito, per completezza di informativa, le posizioni esposte al rischio in commento per Poste Italiane S.p.A..
+
+Poste Italiane S.p.A. - Rischio tasso interesse su fair value
+
+Esposizione Delta Risultato prima Riserve di Patrimonio
+al rischio valore delle imposte netto al lordo delle
+imposte
+Descrizione . Fair
+(milioni di euro) Nominale value +100bps -100bps = +100bps -100bps = +100bps -100bps
+Effetti 2017
+
+Attivita finanziarie BancoPosta
+Investimenti disponibili per la vendita
+Titoli a reddito fisso
+Strumenti finanziari derivati
+Cash flow hedge
+
+ 
+
+ 
+
+ 
+
+Attivita finanziarie
+Investimenti disponibili per la vendita
+Titoli a reddito fisso
+Passivita finanziarie BancoPosta
+Strumenti finanziari derivati
+Cash flow hedge
+Passivita finanziarie
+Strumenti finanziari derivati
+Cash flow hedge
+Variabilita al 31 dicembre 2017
+
+ 
+
+107. La duration é l’indicatore utilizzato per stimare la variazione percentuale del prezzo corrispondente ad una determinata variazione dei rendimenti di mercato.
+

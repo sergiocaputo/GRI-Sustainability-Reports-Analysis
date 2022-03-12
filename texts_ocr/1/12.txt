@@ -1,0 +1,274 @@
+2 Governance
+
+Progetto di adequamento al GDPR
+
+Dal 25 maggio del 2018 é applicabile in tutti i
+
+Paesi facenti parte dell’'Unione Europea, il nuovo
+regolamento sulla protezione dei dati personali
+2016/679, denominato GDPR. Al fine di rispondere
+
+ai requisiti del GDPR, il Gruppo A2A si é dotato di un
+modello di organizzazione e gestione dei dati personali
+in grado di tutelare l'interessato e garantire la corretta
+applicazione della normativa in materia di protezione
+dei dati personali.
+
+In particolare, il modello organizzativo di A2A prevede
+ruoli e responsabilita dei soggetti coinvolti, nonché
+misure organizzative e tecniche necessarie per un
+corretto governo dei trattamenti, in linea con la
+normativa vigente. Nello specifico sono stati individuati
+i seguenti ruoli, oltre a quelli previsti dalla normativa
+vigente (Titolare del trattamento, Responsabile del
+trattamento, Responsabile della Protezione dei Dati,
+persone autorizzate al trattamento):
+
++ Referenti Privacy, che agiscono quali focal point per
+tutte le tematiche inerenti la Privacy all’interno della
+propria struttura organizzativa/societa;
+
++ Data Manager, identificati nelle persone fisiche
+preposte alla conduzione delle strutture
+organizzative aziendali di particolare rilevanza
+rispetto al trattamento dei dati personali.
+
+\L Gruppo, inoltre, ha avviato una serie di azioni
+
+di adeguamento che hanno previsto una fase
+preliminare di assessment, con lo scopo di: analizzare
+il modello di governo della Data Privacy in essere;
+rilevare le principali aree di intervento e le relative
+azioni da attuare al fine di adeguarsi al regolamento;
+definire le priorita e il piano di adeguamento.
+
+Secondo le priorita definite dallo Steering Committee
+del progetto, sono stati avviati tavoli di lavoro specifici,
+composti dai referenti del business di ciascuna delle
+societa in perimetro, delle service line ICT e delle
+strutture organizzative di Affari Legali e Compliance,
+allo scopo di individuare le opportune soluzioni di
+processo e tecnologiche. Il piano di interventi articolato
+dalla Capogruppo ha previsto le attivita descritte nel
+seguito.
+
+22
+
+Impianto organizzativo:
+
++ identificazione del citato modello organizzativo
+privacy, con la relativa definizione dei ruolie
+responsabilita e l'introduzione della nuova figura
+del Data Protection Officer (DPO) e del modello di
+gestione;
+
++ predisposizione degli strumenti a supporto del
+trattamento dei dati personali. In particolare,
+
+é stato introdotto il Registro dei Trattamenti.
+
+Sulla base dei trattamenti ad alto rischio nei confronti
+dei diritti e della liberta degli interessati, viene
+pianificata e condotta una valutazione dell’impatto
+del trattamento (DPIA) con lo scopo di individuare
+
+le misure di sicurezza necessarie a ridurre il livello
+
+di rischio;
+
+* mappatura e revisione delle informative verso i
+dipendenti e clienti e creazione di un processo di
+nomina dei responsabili del trattamento, con la
+definizione di clausole contrattuali standard verso i
+fornitori;
+
++ formazione verso tutto il personale ed, in particolare,
+il personale coinvolto nel trattamento dei dati
+personali.
+
+Trattamento dei dati, con particolare focus sui diritti
+
+degli interessati, tracciatura dei consensi e politiche di
+
+Data Retention:
+
++ individuazione di soluzioni “tattiche”, di processo e
+tecnologiche, da mettere in atto nel breve termine;
+
++ attivita di mappatura dei processi e dati per il disegno
+e analisi funzionale di soluzioni di “ottimizzazione” di
+medio-lungo periodo.
+
+Protezione dei dati, in termini di sicurezza e gestione
+
+dei data breach:
+
++ attivita di Vulnerability Assessment e Penetration
+Test (VAPT), ricertificazione delle utenze e attivita di
+verifica sulle terze parti che trattano dati personali di
+titolarita delle societa del Gruppo;
+
++ implementazione di soluzioni infrastrutturali relative
+alla realizzazione di un nuovo File Server, cifratura dei
+notebook, ecc..
+
+Il piano definito dalla struttura organizzativa Group ICT
+prevede interventi di ottimizzazione ed investimenti da
+qui al 2020.
+
+A2A Bilancio Integrato 2018
+
+Politica per la Qualita, Ambiente e la Sicurezza e Politica di
+
+Sostenibilita
+
+Con riferimento alle politiche adottate
+dall’impresa relative alle tematiche di
+sostenibilita, A2A si é dotata nel tempo di
+specifiche policy aziendali, decidendo di adottare
+sempre piu politiche, estese a tutto il Gruppo,
+volte a regolare in maniera omogenea gli aspetti
+legati a temi di governance, ambientali e sociali.
+
+In particolare si fa riferimento a:
+
+- la Politica per la Qualita, Ambiente e la
+Sicurezza del Gruppo (QAS), con cui A2A
+si impegna a garantire, nell’ambito delle
+proprie attivita e nel rispetto del MOG, del
+Codice Etico e dei valori aziendali, un sempre
+maggiore coinvolgimento degli stakeholder,
+una solida compliance nei confronti della
+normativa che riguarda l’azienda, una forte
+attenzione alla tutela della salute e della
+sicurezza dei lavoratori (attraverso strumenti
+
+di identificazione e valutazione dei rischi
+avanzati), una costante tensione all’innovazione
+tecnologica e un orientamento allo sviluppo del
+proprio capitale umano;
+
+- la Politica di Sostenibilita, definita in linea con
+le priorita dell’Agenda 2030 ei 17 Obiettivi di
+Sviluppo Sostenibile (SDGs) definiti dall’ONU
+(si veda pag. 33).
+
+A2A ha inoltre predisposto diverse linee guida e
+procedure interne sugli aspetti di sostenibilita,
+adottate a livello di Gruppo e declinate nello
+specifico dalle Societd del Gruppo, quali ad
+esempio: la Linea guida 001.0020 (Gestione
+degli scarichi idrici), la Linea guida 001.0023
+(Emissioni in atmosfera), la Linea guida 001.0028
+(Gestione sistema ambiente, salute e sicurezza),
+la procedura 201.001 (Selezioni ed assunzioni
+diA2A).
+
+Sistemi di Gestione Qualita, Ambiente e Sicurezza
+
+Uattuazione di queste politiche é in parte svolta attraverso sistemi di gestione certificati secondo le
+principali norme volontarie, riconosciute a livello internazionale, quali la |S014001 per l’'ambiente,
+la 1SO9001 per la qualita, la OHSAS18001 per la salute e la sicurezza sul lavoro e la ISO 50001 sui
+sistemi di gestione dell'energia, o comunitario, come la Registrazione EMAS, che fa riferimento al
+
+Regolamento CE 1221/09.
+
+Figura 2_Certificazioni del Gruppo
+
+NUMERO TOTALE DI CERTIFICATI E ne AMBIENTE SICUREZZA
+REGISTRAZIONI ATTIVE [oleh ISO 14001 | OHSAS 18!
+20 18 16
+
+ 
+
+1so50001| EMAS
+: 24
+
+ 
+
+ 
+
+2016
+2017 34 29 29 1 28
+2018 28 25 25 3 27
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23
+
+Lettera agli
+stakeholder
+
+Nota
+metodologica
+
+1
+
+|LGruppo A2A
+eilsuo modello
+di business
+
+2
+Governance
+
+Governance
+di Sostenibilita
+
+ 
+
+Analisi e gestione
+dei rischie delle
+opportunita
+
+3
+Strategia di
+sostenibilita
+
+4
+Stakeholder
+engagement
+e Analisi di
+materialita
+
+5
+Capitale
+Finanziario
+
+6
+Capitale
+Manifatturiero
+
+7
+Capitale
+Naturale
+
+8
+Capitale
+Umano
+
+9
+Capitale
+Intellettuale
+
+10
+Capitale
+Relazionale
+
+Relazione
+della Societa
+di Revisione
+
+GRI
+Content
+Index
+

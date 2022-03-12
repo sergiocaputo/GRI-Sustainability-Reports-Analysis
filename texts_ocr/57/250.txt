@@ -1,0 +1,123 @@
+Nota Integrativa | Parte E | Informazio
+
+  
+
+copertura
+
+ 
+
+ 
+
+Data Valore Valore
+
+ 
+
+ 
+
+ 
+
+ 
+
+Titolo Classe Piazza Quotazione —_Tasso/Spread DBRS) Meady’s Fimborso nominate residuo a Sottoscrittore
+le femesso fine esercizio
+A Senior Borsa Irlandese —-Euribor 3M/1—Aaa/AA 30/11/2065 322.900 95.377 Bx panes ce Ex Bane:
+Bi Junior nq Euribor 3/2 not rated 30/11/2065 154.920 154.920 Ex Banca Tercas
+B2 Junior nq. Euribor 3M/2 —notrated 30/11/2065 79.205 79.205 Ex Banca Caripe
+Totale 557.025 329.502
+
+ 
+
+(import in mighoie dieuro)
+
+2013 Popolare Bari RMBS Srl
+
+Nel corso dell’esercizio 2013 la Banca ha realizzato, assieme alla controllata Cassa di Risparmio di Orvieto, un’opera-
+zione di cartolarizzazione “multi-originator” di mutui residenziali in bonis e individuati sulla base di criteri predefiniti
+in modo da costituire un “blocco” ai sensi della legge sulla Cartolarizzazione, per un ammontare di crediti in linea
+capitale di euro 369,8 milioni, su un totale complessivo di euro 486,4 milioni. arranger dell’operazione é stato JP-
+Morgan.
+
+| crediti sono stati acquistati pro-soluto dalla societa “2013 Popolare Bari RMBS Srl”, appositamente costituita per
+l'esecuzione dell’operazione di cartolarizzazione ai sensi della legge 130 del 30 aprile 1999.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Societa Veicolo 2013 Popolare Bari RMBS Srl
+Tipologia operazione Autocartolarizzazione
+Originator Banca Popolare di Bari - Cassa di Risparmio di Orvieto
+Servicer Banca Popolare di Bari
+Arranger JPMorgan
+Computation Agent Securitisation Services SpA
+Corporate Servicer Securitisation Services SpA
+Tipologia attivita cartolarizzate RMBS - Mutui residenziali ipotecari
+Qualita attivita cartolarizzate In bonis
+Data di godimento 09/12/2013
+Prezzo di cessione del portafoglio (*) 486.393.676
+~ di cui Originator Banca Popolare di Bari 369.817.793
+~ di cui Originator Cassa di Risparmio di Orvieto 116.575.884
+Agenzie di Rating DBRS Ratings Limited / Fitch Ratings
+(7 eschiso rateo interessi e interessi sospesi (impordi in euro)
+
+ 
+
+A fronte dei crediti ceduti, nonché della costituzione di una riserva di liquidita per complessivi euro 15.612 mila, la
+Societa Veicolo ha finanziato l'’operazione attraverso l’emissione di titoli obbligazionari di tipo “asset backed” con
+tranche senior (A1 e A2) e junior (B1 e B2) in stretta relazione al portafoglio ceduto da ciascun Originator.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rist Data Valore Valore
+Titolo Classe Piazza Quotazione Tasso/Spread ppreir.y, rimborso —nominale—_residuo a Sottoscrittore
+a finale emesso _ fine esercizio
+Al Senior Borsa Irlandese _Euribor3M/0,30 AAH/AA+ 31/12/2058 295.900 107.374 Banca Popolare di Bari
+AZ Senior Borsa Irlandese _Euribor3M/0,30  AAH/AA+ 31/12/2058 93.300 33.177 Cassa di Risparmio di Orvieto
+Bi Junior nq. Euribor3M/1,30 31/12/2058 85.788 85.788 Banca Popolare di Bari
+B2 Junior nq. Euribor3M/1,30 31/12/2058 27.018 27.018 Cassa di Risparmio di Orvieto
+Totale 502.006 253.357
+
+ 
+
+{impardin mighiaia di euro)
+
+250
+
+ 
+

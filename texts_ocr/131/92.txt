@@ -1,0 +1,157 @@
+7800
+7600
+7400
+7200
+
+7000
+6800
+6600
+6400 ]
+6200
+
+2010 2011 2012 2013 2014 2015 2016
+
+@ Andamento dei consumi di Energia Elettrica dal 2010 al 2018
+
+2000
+1950
+
+1900
+1850
+1800
+1750
+1700
+1650
+1600
+
+2010 2011 2012 2013 2014 2015 2016
+
+@Andamento dei consumi di Gas dal 2010 al 2018
+
+250
+200
+
+150
+
+. L
+
+2010 2011 2012 2013 2014 2015 2016
+
+a
+
+o
+
+© Andamento dei consumi di Gasolio dal 2010 al 2018 (escluso autotrazione)
+
+(Tep) 10000
+
+9000
+8000
+
+2010 2011 2012 2013 2014 2015 2016
+
+© Andamento per fonte dei consumienergeticidal 2010 al2018 jj EE (Tep)
+
+ 
+
+Gas(Tep)
+
+2017
+
+2017
+
+2017
+
+2017
+
+BB Gasolio (Tep)
+
+ 
+ 
+
+Totale (Tep)
+
+2018
+
+2018
+
+2018
+
+7000
+6000
+5000
+4000
+3000
+2000
+: LMU L
+Oe a a a a ee a a
+
+2018
+
+sezione 5 e Ateneo sostenibile
+
+dovute all’incidenza dei vecchi edifici si deve
+constatare che molta strada occorre percor-
+rere per awvicinarsi al valore ritenuto il mini-
+mo accettabile dalle vigenti norme
+Landamento complessivo dei consumi stori-
+ci per fonte energetica sono riportati nella fi-
+gura (valori in tep), da cui si evince che i con-
+sumi sia di energia elettrica (EE) che del gas e
+gasolio sono andati calando fino al 2014, an-
+no in cuic’é stata un'inversione di tendenza,
+probabilmente sia a seguito dell’attivita a re-
+gime di edifici universitari nuovie ristruttura-
+ti sia per le condizioni climatiche, particolar-
+mente critiche in regime estivo nel 2015: cid
+sembra confermato dal fatto che i consumi
+per riscaldamento sono stabili in costante e
+leggera riduzione, mentre i consumi elettri-
+ci sono decisamente in aumento nel 2017 ri-
+spetto al 2016, sia per fattori climatici che per
+il maggior numero di edifici serviti, per poi ca-
+lare nuovamente nel 2018
+
+Negli anni 2010-2018 il valore medio del con-
+sumo totale di energia é stato pari a 9142 tep.
+Dal grafico si evince che i consumi di energia
+elettrica sono sempre stati percentualmente
+rilevanti con un valore medio di 7.199 tep pa-
+ri acirca il 78,9% del consumo medio totale,
+a conferma che questa é la fonte energetica
+su cui occorre agire in via prioritaria per una
+efficace politica di riduzione dei consumi e
+dell’immissione di gas serra. Owiamente an-
+che in termini economici la bolletta elettrica é
+decisamente la pil pesante nel bilancio ener-
+getico di Ateneo.
+
+5.2.6. Immissioni di CO, per fonte
+energetica e globali
+
+Al fine di riportare ad un valore di emissione
+maggiormente coerente con gli anni di emis-
+sione si sono usati i fattori di trasformazione
+della Tabella 5.2 per l'energia elettrica, paria
+0,361tCO,/MWh per il 2017, mentre per il gas
+ed il gasolio si sono utilizzati i fattori di tra-
+sformazione utilizzati per la relazione 2016*°;
+in sintesi i fattori di trasformazione utilizzati
+sono i seguenti
+
+° Gas 2,384 tCO,/tep;
+
+* Gasolio 3,197 tCO,/tep;
+
+° Elettricita 0,361tCO,/MWh.
+
+In particolare per l’energia elettrica il fatto-
+re di conversione per il 2017 suggerito dal GdL
+
+© |SPRA — Istituto Superiore per la Protezione e la
+Ricerca Ambientale — Fattori di emissione atmo-
+sferica di CO, e sviluppo delle fonti rinnovabili —
+Rapporti 212/2015
+
+91
+

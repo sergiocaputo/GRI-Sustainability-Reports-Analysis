@@ -1,0 +1,129 @@
+Figure 17: GHG Emissions’ (cri 305)
+
+Alperia Sustainability Report 2019
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+organization 4
+
+ 
+
+energy (gross)
+
+ 
+
+rts 2019 2018 YtY Vari
+
+Gross direct (Scope 1) GHG emissions tCOze} 52.709} 45.019 17%
+biogenic CO? emissions tCOze 3.551 3.368 5%
+Gross location-based energy indirect (Scope 2) 9
+GHG emissions? tCOze} 34.622) 34.559 0%
+Gross market-based energy indirect (Scope 2) 490
+GHG emissions? 39.393] 44.538 12%
+Gross other indirect (Scope 3) GHG emissions® tCOze} 32.096] 27.931 15%
+Total GHG emission location based tCOze| 122.978 | 110.877 11%
+Total GHG emission marked based tCOze| 127.749 | 120.857 6%
+GHG emissions intensity(location) ratio for the tCOze /Mwh of produced
+
+4 0,03 0,02
+organization energy (gross)
+GHG emissions intensity(marked) ratio for the tCOze /Mwh of produced 0.03 0.03
+
+ 
+
+ 
+
+ 
+
+‘The main gases included are COz and SF6; emission factors used according to DEFRA (car fleet, biogenic emission) and ISPRA (gas, gasoline); data
+consolidated according to financial control; data aggregated based on the GHG Protocol
+Biogenic emissions out of wood-chip biomass are calculated with the IPPC Guidebook (2006); palm oil with DEFRA.
+
+Data for 2018 restated due to an update in calculation method.
+
+Location-based emission factor used for purchased electricity: TERNA (2017) based on the Italian energy mix; emission factor used for purchased
+heat: EURAC. Market-based emissions have been calculated considering all renewable-certified electricity by an emission factor equal to 0. The
+remaining, non-renewable certified electrical energy has instead been multiplied by the residual mix as per the European Residual Mix provided by AIB.
+
+3Includes rental car fleet and well-to-tank associated emissions (emissions associated for the extraction, refining and transport pf raw fuel material
+
+sources)
+
+4Scope 1,2 and 3 emissions are included in the intensity ratios. Biogenic emissions are included in ratio.
+
+Proportion of emissions
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Scope 1 46%
+
+Scope 2 28%
+
+Scope 3 26%
+Customers
+
+Customer Satisfaction
+
+Figure 18: Number of customer accounts’ (GRI EU3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘customer accounts= connections to the grid (POD) as per 31.12.
+
+ 
+
+ 
+
+ 
+
+Electricity customer accounts no. 261.000 236.000 193.000 11%
+Heating customer accounts no. 1.722 1.716 1.674 3%
+Gas customer accounts no. 61.000 60.000 59.000 2%
+Total customer accounts no. 323.772 297.716 253.674 9%
+
+ 
+
+152
+

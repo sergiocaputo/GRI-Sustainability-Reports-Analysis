@@ -1,0 +1,133 @@
+Our
+We, Generali | performance
+
+ 
+
+Risk Report | Outlook | Statement
+
+ment to assess if the nature of the contractual cash flows
+characteristics exclusively consists in payments of princi-
+pal and interest (SPPI.,). If a modification of the time value
+of the interest results in cash flows that are significantly
+different than those of a basic lending agreement then the
+instrument must be classified and measured at fair value
+through profit or loss.
+
+Impairment
+
+IFRS 9 introduced a new impairment approach for debt
+instruments measured at amortized cost or fair value re-
+corded in other comprehensive income, which is based
+on expected losses. In particular, the new standard out-
+lines an approach for the impairment in three stages
+based on the assessment of credit quality from the date
+of initial recognition at each balance sheet date:
+
+— Stage 1 includes the financial instruments that have
+not had a significant increase in credit risk since initial
+recognition or that have low credit risk at the report-
+ing date (investment grade). For these assets expected
+losses (ECL) over the next 12 months (12-month ex-
+pected credit losses - losses expected in view of the
+possible occurrence of events of default in the next 12
+months) are recognized in the profit or loss account. In-
+terest is calculated on the carrying amount (ie without
+deduction of the loss allowance);
+
+— Stage 2 includes financial instruments that have had
+a significant increase in credit risk since initial recog-
+nition (unless they have low credit risk at the reporting
+date) but that do not have objective evidence of impair-
+ment. For these assets, lifetime ECL are recognised in
+a capital reserve (loss allowance), and in the profit or
+loss account , but interest revenue is still calculated
+on the gross carrying amount of the asset. (i.e. without
+deduction of the loss allowance);
+
+- Stage 3 includes financial assets that have objective
+evidence of impairment at the reporting date. For these
+assets, lifetime ECL are recognised in a capital reserve
+(loss allowance), and in the profit or loss account. In-
+terest revenue is calculated on the net carrying amount
+(that is, net of credit allowance).
+
+The model also introduces a simplified approach to
+trade receivables and leases for which it is not neces-
+sary to calculate the 12-month expected credit losses
+but are always recognized the lifetime expected credit
+losses.
+
+The Group is assessing the impact of the new impair-
+ment model introduced by the standard and expects
+significant operational impacts related to the implemen-
+tation of the calculation process of the abovementioned
+
+Consolidated Non-Financial
+
+Consolidated Financial
+Statements
+
+Appendices to the
+Management Report
+
+ 
+
+161 |
+
+expected credit losses. In light of the high creditworthi-
+ness of the debt securities, the new model Expected
+Credit Losses should not result in significant impacts for
+the Group.
+
+Hedge accounting
+
+IFRS 9 introduces a model substantially reformed for
+hedge accounting that allows better than in IAS 39 to
+reflect in financial statements the hedging activities un-
+dertaken by risk management.
+
+In particular there is a significant simplification of the
+
+effectiveness test. There are no more predetermined
+
+thresholds of coverage to achieve effective hedge (ie 80-
+
+125% in the current IAS 39),but it is sufficient that:
+
+— there is an economic relationship between the hedging
+instrument and the hedged item; and
+
+- credit risk should not be the key component of the
+hedged risk (i.e. the change in fair value of the hedging
+relationship must not be dominated by the component
+of credit risk).
+
+The standard will be effective, in the case of endorse-
+ment, from annual periods beginning on or after 1 Jan-
+uary 2018. A transitional provision allows continuing to
+apply IAS 39 for all hedging transactions until comple-
+tion of the macrohedging project. The principle has been
+endorsed by the European Union by the EU Regulation
+2016/1905.
+
+IFRS 4 — Applying IFRS 9 Financial
+Instruments with IFRS 4 Insurance
+Contracts (Amendment to IFRS 4)
+
+On 12 September 2016 the IASB published the amend-
+ment “Applying IFRS 9 Financial Instruments with IFRS
+4 Insurance Contracts”, endorsed by EU Regulation
+2017/1988 on 3 November 2017, that introduces the
+possibility to defer the application of IFRS 9 for predom-
+inantly insurers. The amendment aims to address the
+concerns of the insurance industry arising from the mis-
+alignment of effective dates of the new financial instru-
+ments standard and IFRS 17, the international standard
+on insurance contracts with effective date of 1 January
+2021.
+
+Both IFRS 9 and IFRS 17 are relevant for insurance en-
+tities. The amendment aims to address the concerns of
+insurance sector arising from the different effective dates
+of IFRS 9 and IFRS 17.
+

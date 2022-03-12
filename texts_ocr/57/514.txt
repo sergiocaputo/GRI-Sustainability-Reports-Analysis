@@ -1,0 +1,44 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+
+ 
+
+di lungo periodo ottenuto sulla base di dati interni. Il parametro di LGD viene riproporzionato, tramite il “cure rate”,
+che é un fattore di mitigazione che tiene conto della percentuale di posizioni che rientrano in bonis e che quindi non
+generano perdite.
+
+In dettaglio, si sottolinea che:
+
++ il parametro LGD é stimato sulla base di dati interni che coprono un orizzonte temporale funzionale a cogliere le
+“current economic conditions”;
+
++ ivalori di LGD da applicare nel calcolo del fondo collettivo sono ottenuti con il metodo “a media di cella’, ossia
+come media semplice delle LGD individuali a livello di segmento, forma tecnica e tipologia di garanzia;
+
++ ilparametro Danger Rate? é stimato su dati interni e su un orizzonte temporale coerente con quanto previsto per
+lastima del parametro di PD.
+
+c) Stima della svalutazione collettiva
+Per la determinazione della svalutazione collettiva:
+
+* si procede a determinare l'esposizione di ogni rapporto creditizio (sia esposizioni per cassa che esposizioni di
+firma), sulla base di informazioni estratte dalle procedure di bilancio;
+
++ si procede ad applicare la percentuale di perdita stimata media (il prodotto di PD per LGD) relativa a ciascun
+gruppo omogeneo determinato dalla chiave segmento di rischio/forma tecnica.
+
+La somma delle perdite stimate per ogni singolo rapporto di cassa e di firma fornisce la misura della svalutazione
+collettiva. Il confronto dellimporto cosi determinato con quello riferito alla valutazione del periodo precedente de-
+termina la rettifica di valore o la potenziale ripresa di valore complessiva da applicare ai crediti verso la clientela in
+bonis.
+
+Ai fini della quantificazione del fondo di accantonamento collettivo, in coerenza con l'approccio segnaletico per il
+calcolo delle attivita ponderate per il rischio, la quota secured delle esposizioni garantite da Soggetti a ponderazio-
+ne di rischio nulla (e.g. Medio Credito Centrale, fondi nazionali o internazionali per lo sviluppo, etc.) non é soggetta
+asvalutazione.
+
+| Danger Rate é un parametro che misura la probabilita che un‘esposizione deteriorata peggior’ il suo merito creditizio fino allo status di sofferenza.
+
+ 
+
+514
+

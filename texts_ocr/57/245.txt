@@ -1,0 +1,80 @@
+ 
+
+Bilancio In
+
+ 
+
+SEZIONE 3 - RISCHIO DI LIQUIDITA
+
+Informazioni di natura qualitativa
+
+   
+
+A. Aspetti generali, processi di gestione e metodi di misurazione del rischio di li
+
+ 
+
+Il principale obiettivo del sistema di monitoraggio e gestione del rischio di liquidita implementato dalla Banca €
+rappresentato dal costante mantenimento di un equilibrio operativo e strutturale fra entrate ed uscite di cassa,
+mediante un’attenta gestione delle poste dell'attivo e del passivo ed una prudente pianificazione delle esigenze di
+funding.
+
+In conformita con quanto disposto dalla normativa prudenziale in vigore, il rischio di liquidita é gestito sulla base
+delle linee guida definite nell'ambito di una specifica policy che illustra:
+
+-  icriteri adottati per l'identificazione e la definizione del rischio di liquidita, in linea con quanto previsto dalla Cir-
+colare 285/13 di Banca d'ltalia;
+
+- ilmodello organizzativo che regola il processo di gestione del rischio liquidita (attualmente accentrato presso la
+Capogruppo) e le responsabilita di Organi e strutture aziendali;
+
+- le metodologie utilizzate ai fini della misurazione del rischio di liquidita e della conduzione delle prove di stress;
+
+- le caratteristiche ed i requisiti che le diverse attivita devono soddisfare per rientrare nel novero della Counterba-
+lancing Capacity;
+
+- i limiti operativi e gli indicatori di early warning relativi alla liquidita operativa ed alla liquidita strutturale.
+
+Agli Organi Aziendali della Banca é attribuita la responsabilita primaria di assicurare l'efficacia del sistema di gestio-
+nee controllo del rischio di liquidita. In particolare, stante il modello di gestione in uso, il Consiglio di Amministrazio-
+ne provvede a definire gli orientamenti e gli indirizzi strategici relativamente all’assunzione del rischio, in termini di
+obiettivi e relative soglie di tolleranza.
+
+Il Comitato di Gruppo ALM, Tesoreria e Capital Management sovrintende alle funzioni di monitoraggio e decisionali
+relative al rischio di liquidita, sia con riferimento alla gestione ordinaria, sia in relazione alle scelte di indirizzo stra-
+tegico.
+
+LAmministratore Delegato, nel suo ruolo di gestione, é responsabile della realizzazione e del mantenimento di un si-
+stema efficace di gestione e controllo del rischio liquidita, oltre che dell'implementazione delle politiche strategiche.
+
+La Funzione Finanza contribuisce alla gestione del rischio di liquidita coerentemente con le linee guida definite dai
+competenti organi collegiali a supporto del Consiglio di Amministrazione.
+
+La Funzione Risk Management garantisce invece il presidio del rischio di liquidita, sia attraverso la misurazione ed il
+monitoraggio periodico degli indicatori di rischio, sia attraverso specifiche analisi ed informative direzionali.
+
+La principale metrica adottata per la misurazione ed il monitoraggio del rischio di liquidita ¢ rappresentata dalla
+“Maturity Ladder’, strumento che permette di valutare le disponibilita residue della Banca in un determinato oriz-
+zonte temporale, individuando potenziali criticita e consentendo la tempestiva pianificazione degli opportuni inter-
+venti correttivi di carattere tattico e/o strategico.
+
+Nello specifico, le competenti strutture aziendali provvedono alla predisposizione di apposite maturity ladder per
+il monitoraggio sia della liquidita operativa dell'Istituto (al fine di gestire i gap tra afflussi e deflussi di cassa attesi
+nel breve periodo), sia del profilo di liquidita strutturale, nell’ottica di prudente gestione del tendenziale equilibrio
+finanziario nel medio/lungo periodo.
+
+Al fine di segnalare tempestivamente eventuali tensioni di liquidita, la Funzione di Risk Management monitora con
+periodicita giornaliera un apposito sistema di limiti operativi ed indicatori di early warning, fissati coerentemente con
+le metriche di misurazione adottate e con la soglia di tolleranza al rischio definita dai competenti Organi aziendali.
+
+La Banca effettua quindi regolari prove di stress al fine di valutare l'impatto sulla propria posizione di liquidita di
+eventi sfavorevoli determinati dai fattori di rischio a cui la stessa risulta esposta. In particolare, sono stati definiti
+scenari di stress di natura sistemica ed idiosincratica con impatti sugli aggregati di raccolta, sugli impieghi e sulla
+Counterbalancing Capacity. Coerentemente con quanto previsto dalla normativa prudenziale, il sistema di limiti
+operativi e soglie di early warning in vigore é costantemente raccordato agli esiti delle prove di stress periodica-
+mente condotte.
+
+ 
+
+245
+

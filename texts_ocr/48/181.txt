@@ -1,0 +1,106 @@
+| 180 | Generali Group
+
+As for measurement and disclosure, the fair value de-
+pends on the unit of account, depending on whether the
+asset or liability is a stand-alone asset or liability, a group
+of assets, a group of liabilities or a group of assets and
+liabilities in accordance with the related IFRS.
+
+However when determining fair value, the valuation
+should reflect its use if in combination with other assets.
+
+With reference to non-financial assets, fair value meas-
+urement of a non-financial asset takes into account a
+market participant's ability to generate economic bene-
+fits by using the asset in its highest and best use or by
+selling it to another market participant that would use the
+asset in its highest and best use. The highest and best
+use of a non-financial asset takes into account the use of
+the asset that is physically possible, legally permissible
+and financially feasible. However, an entity’s current use
+of a non-financial asset is presumed to be its highest and
+best use unless market or other factors suggest that a
+different use by market participants would maximise the
+value of the asset.
+
+For the liabilities, the fair value is represented by the
+price that would be paid to transfer a liability in an or-
+derly transaction in the principal (or most advantageous)
+market at the measurement date under current market
+conditions (i.e. an exit price).
+
+When a quoted price for the transfer of an identical or
+a similar liability or entity’s own equity instrument is not
+available and the identical item is held by another par-
+ty as an asset, an entity shall measure the fair value of
+the liability or equity instrument from the perspective of
+a market participant that holds the identical item as an
+asset at the measurement date.
+
+Fair value hierarchy
+
+Assets and liabilities measured at fair value in the consol-
+idated financial statements are measured and classified
+in accordance with the fair value hierarchy in IFRS13,
+which consists of three levels based on the observability
+of inputs within the corresponding valuation techniques
+used.
+
+The fair value hierarchy levels are based on the type of
+inputs used to determine the fair value with the use of
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+adequate valuation techniques, which shall maximize the
+
+market observable inputs and limit the use of unobserv-
+
+able inputs:
+
+— Level 1 inputs are quoted prices (unadjusted) in active
+markets for identical assets or liabilities that the entity
+can access at the measurement date.
+
+— Level 2 inputs other than quoted prices included with-
+in Level 1 that are observable for the asset or liability,
+either directly or indirectly (i.e. quoted prices for similar
+assets or liabilities in active markets; quoted prices for
+identical or similar assets or liabilities in markets that
+are not active; inputs other than quoted prices that are
+observable for the asset or liability; market-corroborat-
+ed inputs).
+
+— Level 3: inputs are unobservable inputs for the asset or
+liability, which reflect the assumptions that market par-
+ticipants would use when pricing the asset or liability,
+including assumptions about risk (of the model used
+and of inputs used).
+
+The fair value measurement is categorised in its entirety
+in the same level of the fair value hierarchy as the lowest
+level input that is significant to the entire measurement.
+Assessing the significance of a particular input to the en-
+tire measurement requires judgement, taking into account
+factors specific to the asset or liability.
+
+A fair value measurement developed using a present value
+technique might be categorised within Level 2 or Level 3,
+depending on the inputs that are significant to the entire
+measurement and the level of the fair value hierarchy with-
+in which those inputs are categorised.
+
+If an observable input requires an adjustment using an
+unobservable input and that adjustment results in a signif-
+icantly higher or lower fair value measurement, the result-
+ing measurement would be categorised within the level
+attributable to the input with the lowest level utilized.
+
+Adequate controls have been set up to monitor all meas-
+urements including those provided by third parties. If
+these checks show that the measurement is not con-
+sidered as market corroborated the instrument must be
+classified in level 3. In this case, generally the main inputs
+used in the valuation techniques are volatility, interest rate,
+yield curves, credit spreads, dividend estimates and for-
+eign exchange rates.
+

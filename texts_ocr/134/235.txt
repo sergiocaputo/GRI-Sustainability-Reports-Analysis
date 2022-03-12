@@ -1,0 +1,52 @@
+The contingent consideration, included as part of the transfer price, is measured at acquisition-date fair value.
+
+Any subsequent changes in fair value are recognised in profit or loss.
+The identifiable assets acquired and the liabilities assumed are recognised at their acquisition-date fair value.
+
+Goodwill is measured as the difference between the aggregate of the consideration transferred, the amount of
+any non-controlling interests (NCI) and the acquisition-date fair value of the acquirer’s previously held equity
+interest in the acquiree and the net fair value of the acquisition-date amounts of the identifiable assets acquired
+and the liabilities assumed. If the difference is negative, the resulting gain is recognised as a bargain purchase
+
+in profit or loss.
+
+NCI can be measured at fair value or at its proportionate share of the fair value of the net assets of the acquiree
+
+at the acquisition date. The measurement method is decided on a transaction by transaction basis.
+Business combination achieved in stages (step acquisition)
+
+In the case of step acquisitions, the Group’s existing investment in the acquiree is measured at fair value on the
+date that control is obtained. Any resulting adjustments to previously recognised assets and liabilities are
+recognised in profit or loss. Therefore, the previously held investment is treated as if it had been sold and
+
+reacquired on the date that control is obtained.
+Transactions involving NCI
+
+Changes to the investment percentage of a subsidiary that does not entail loss of control are treated as equity
+transactions. Therefore, any differences between the acquisition price and the related share of equity in
+subsequent acquisitions of investments in entities already controlled by the Group are recognised directly in
+equity. With respect to partial disposals of an investment in a subsidiary while control is retained, any gain or
+
+loss is recognised in equity.
+Basis of preparation
+
+The accounting policies adopted to draw up the Group’s consolidated financial statements at 31 December 2019
+comply with the IFRS and are consistent with those used to prepare the 2018 consolidated financial statements,
+except for the amendments enacted after 1 January 2019, summarised in the section on the “Changes in
+
+standards’.
+Accounting policies
+Property, plant and equipment
+
+Salini Impregilo Group has opted to recognise property, plant and equipment at purchase or production cost net
+
+of accumulated depreciation and any impairment losses.
+
+Depreciation is calculated on a straight-line basis using rates determined based on the assets’ residual possible
+
+use. The annual rates are as follows:
+
+ 
+
+236
+

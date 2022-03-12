@@ -1,0 +1,53 @@
+Contract assets and liabilities are presented in the statement of financial position items “Contract assets” and
+“Contract liabilities”, respectively under assets and liabilities. The classification in line with IFRS 15 depends
+on the relationship between the Group’s performance obligation and payment by the customer. These items
+
+show the sum of the following components analysed individually for each customer:
+
+(+) Amount of work performed calculated using the cost-to-cost method pursuant to IFRS 15
+(-) Progress payments and advances received
+
+(-) Contractual advances.
+
+When the total is positive, the net balance is recognised as a "Contract asset". If it is negative, it is recognised
+as a "Contract liability". When the amounts represent an unconditional right to payment of the consideration,
+
+they are recognised as financial assets.
+
+The Group’s statement of profit or loss includes a revenue item “Revenue from contracts with customers” to
+comply with IFRS 15. This revenue is presented and measured in accordance with the new standard. The item
+“Other income” includes income from transactions other than contracts with customers and is measured in line
+with other standards or the Group’s specific accounting policy elections. It includes income related to gains on
+the sale of non-current assets, income on cost recharges, prior year income and income from the recharging
+
+of costs of Italian consortia and consortium companies.
+
+With respect to the last item, the Group’s activities involve its participation in numerous SPEs that, especially
+in Italy, use the consortium structure, which works using a cost recharging system. Under IFRS 10 and IFRS
+11, these entities have been classified as subsidiaries, associates and joint ventures. As this income does not
+
+arise on the performance of the contract obligations or contract negotiations, it is recognised as “Other income”.
+Real estate projects
+
+Closing inventories of real estate projects are those real estate areas developed with a view to selling them.
+They are measured at the lower of cost and estimated realisable value. Costs incurred consist of the
+consideration paid for purchasing the areas and related charges, construction costs and borrowing costs
+
+related to the project up to and not exceeding its completion.
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash on hand, demand deposits and other short-term, highly liquid
+investments with a term of less than three months. This item is shown in the statement of cash flows net of
+
+bank borrowings at the reporting date.
+Equity investments
+
+Investments in entities other than subsidiaries, associates, joint operations and joint ventures (reference for
+which should be made to the section on “Consolidation scope”) are classified as “Equity investments” at the
+time of their acquisition and are included in the financial assets at fair value through profit or loss category
+required by IFRS 9.
+
+ 
+
+247
+

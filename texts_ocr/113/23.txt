@@ -1,0 +1,88 @@
+Reply has adopted the Global GDPR Compliance
+Program, allowing the Group to update its
+organisational model with respect to privacy and
+fulfilling the regulatory requirements of the new EU
+Regulation 2016/679 GDPR (General Data Protection
+Regulation), which came into effect on 25 May
+
+2018. This program also put in place to standardise
+
+data and privacy protection practices for all Group
+
+companies and holdings, was applied through the
+definition of a Privacy Management system which
+envisaged the following actions:
+
++ Preparation and regular updating of GDPR
+Registers (inventory of actions by the company
+and its holdings involving personal data);
+
++ Privacy by Design Process, which involves,
+the implementation of privacy risk assessment
+practices that identify technical and organisational
+measures to ensure that each new project or
+significant change meets GDPR privacy and
+security requirements;
+
++ Data Breach notification process, which provides
+for the management and any notification of a data
+breach to the personal data protection authority,
+and, if necessary, to individuals impacted by the
+data breach;
+
++ Data Protection Impact Assessment (DPIA)
+process, which allows the identification and
+mitigation of privacy risks for the treatment of
+data that are most at risk, for example, conducted
+on special data, and large-scale profiling and
+monitoring activities;
+
++ Privacy Request handling process, namely
+management of the requests of interested parties
+
+regarding application of their personal data
+
+rights (for example, portability, data access and
+cancellation, etc.).
+
+In addition, the Group has defined a policy to be
+followed to verify that privacy legislation (Data
+Processing Agreement) is respected during the
+negotiation phase with the customer, and during
+the service delivery phase, providing operational
+instructions for Group employees, who must accept
+
+and apply the policy to guarantee Reply compliance.
+
+As part of the reporting of incidents related to data
+loss, an “ICT security incident management” policy
+is in place, regarding the definition of incident
+management methods that can compromise
+
+one or more information security requirements
+(confidentiality, integrity, and availability of data) with
+the potential violation of applicable legislation (for
+example, the GDPR). The procedure describes the
+three phases defined by the incident management
+process (identification/classification, response, and
+“lessons learned”) and the roles and responsibilities
+
+for the different phases identified.
+
+In addition, the Group has put in place a data
+protection and privacy e-learning training
+programme for all its employees, as well as a
+classroom course for partners. These courses are in
+addition to established awareness raising activities
+
+for employees such as the “Awareness” course (for
+
+executives), IT security, and the “Simulated Phishing”
+
+initiative, aimed at increasing worker awareness of
+data protection risks.
+
+23
+
+Consolidated disclosure of non-financial information
+

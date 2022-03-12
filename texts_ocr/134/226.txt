@@ -1,0 +1,60 @@
+1. it has applied a single discount rate to portfolios of leases with similar characteristics and a similar
+
+remaining lease term for a similar class of underlying assets in a similar economic environment;
+
+2. leases that expire before 31 December 2019 have been classified as short-term;
+3. it has excluded initial direct costs from the measurement of the right-of-use asset;
+4. it has used hindsight to determine contract variables (specifically the lease term).
+
+In addition to the practical expedients set out above for transition, the Group also elected to use the practical
+expedients for low-value assets and leases with a term of less than 12 months. Therefore, when the value of
+the underlying new individual asset is less than €5,000 or the lease term is less than 12 months, it expenses the
+
+lease payments on a straight-line basis and when incurred.
+
+The Group elected not to separate non-lease components from lease components for vehicles, office furniture
+and equipment and other assets. It elected to separate non-lease components from lease components for land
+
+and buildings, plant and machinery and industrial and commercial equipment.
+
+It has estimated the lease liability and the right-of-use asset for leases previously classified as operating leases
+under IAS 17 and considering the elections made about the transition method and the practical expedients as
+follows:
+
+a) the lease liability at 1 January 2019 has been measured at the present value of the remaining lease
+
+payments, discounted using the incremental borrowing rate at the date of initial application;
+
+b) the right-of-use asset has been estimated using two methods defined on a lease-by-lease basis and,
+
+specifically, at:
+
+- its carrying amount as if the standard had been applied since the commencement date, but
+
+discounted using the lessee’s incremental borrowing rate at 1 January 2019;
+
+- an amount equal to the lease liability, adjusted by the amount of any prepaid or accrued lease
+payments relating to that lease recognised in the statement of financial position at 31 December
+2018 under IAS 17.
+
+The significant judgements made to apply IFRS 16 that had a material impact on the estimate of the assets and
+
+liabilities related to the discount rate and the lease term include:
+
+a) the lessee’s incremental borrowing rate was used to discount the lease payments, estimated using the
+lease’s reference currency, economic context and class of underlying asset. The weighted average of the
+rates applied is 4.4%.
+
+b) the lease term was estimated considering the contract clauses to identify the non-cancellable period of
+the lease; the Group considered the contracts in which the leased assets are used for the termination and
+
+renewal options;
+
+The captions “Right-of-use assets” and “Lease liabilities” include the effect of applying IFRS 16. The leased
+
+assets and the related financial liabilities that, under the previous standard applicable at 31 December 2018,
+
+ 
+
+227
+

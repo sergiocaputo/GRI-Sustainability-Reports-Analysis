@@ -1,0 +1,433 @@
+GRI/
+
+EUSS KA
+
+Average availability
+thermoelectric generation
+Iberia
+
+UM
+
+(%)
+
+ 
+
+mber 2019
+
+December 2018 December 2017
+
+2019-2018
+
+%
+
+Scope
+
+ 
+
+o14
+
+93.0
+
+92.6
+
+“1.6
+
+Iberia
+
+ 
+
+Average availability
+thermoelectric generation
+Chile
+
+(%)
+
+92.3
+
+915
+
+90.6
+
+os
+
+Chile
+
+ 
+
+Average availability
+thermoelectric generation
+Argentina
+
+(%)
+
+74.6
+
+82.2
+
+95
+
+Argentina
+
+ 
+
+Average availability
+thermoelectric generation
+Brazil
+
+(%)
+
+95.3
+
+100.0
+
+99.6
+
+47
+
+Brazil
+
+ 
+
+Average availability
+thermoelectric generation
+Peru
+
+(%)
+
+88.6
+
+89.3
+
+0.1
+
+Peru
+
+ 
+
+Average availablity
+thermoelectric generation
+Colombia
+
+(%)
+
+84.6
+
+94.1
+
+4.0
+
+Colombia
+
+ 
+
+Service interruptions -
+
+FURS enuoncy (AI?
+
+ 
+
+Frequency of interruptions
+by customer Italy
+
+{no.)
+
+19
+
+18
+
+16
+
+0.1
+
+56
+
+Italy
+
+ 
+
+Frequency of interruptions
+by customer Romania
+
+{no.)
+
+41
+
+38
+
+41
+
+03
+
+73
+
+Romania
+
+ 
+
+Frequency of interruptions
+by customer Iberia
+
+{no.)
+
+14
+
+16
+
+18
+
+12.5
+
+Iberia
+
+ 
+
+Frequency of interruptions
+by customer Peru
+
+{no.)
+
+28
+
+28
+
+25
+
+Peru
+
+ 
+
+Frequency of interruptions
+by customer Chile
+
+(no.)
+
+16
+
+15
+
+Az
+
+0.1
+
+67
+
+Chile
+
+ 
+
+Frequency of interruptions
+by customer Argentina
+
+(no.)
+
+6.0
+
+67
+
+68
+
+0.7
+
+-10.4
+
+Argentina
+
+ 
+
+Frequency of interruptions
+by customer Brazil
+(Ampla)
+
+(no.)
+
+8.0
+
+1
+
+98
+
+03
+
+39
+
+Brazil
+
+ 
+
+Frequency of interruptions
+by customer Brazil
+(Coelce)
+
+{no.)
+
+54
+
+44
+
+49
+
+1.0
+
+22.7
+
+Brazil
+
+ 
+
+Frequency of interruptions
+by customer Brazil (CELG)
+
+(no.)
+
+97
+
+12.3
+
+15.8
+
+-20.1
+
+Brazil
+
+ 
+
+Frequency of interruptions
+by customer Brazil (ELPL)
+
+{no.)
+
+35
+
+43
+
+-18.6
+
+Brazil
+
+ 
+
+Frequency of interruptions
+by customer Colombia
+
+{no.)
+
+68
+
+9.0
+
+10.0
+
+“24.4
+
+Colombia
+
+ 
+
+Service interruptions -
+
+FU29 duration (SAID)
+
+ 
+
+Service continuity index
+Italy
+
+(min)
+
+47
+
+43
+
+Italy
+
+ 
+
+Service continuity index
+Romania
+
+(min)
+
+170
+
+174
+
+191
+
+64
+
+Romania
+
+ 
+
+Service continuity index
+Iberia
+
+(min)
+
+80
+
+84
+
+Iberia
+
+ 
+
+Service continuity index
+Peru
+
+(min)
+
+419
+
+436
+
+469
+
+17
+
+Peru
+
+ 
+
+Service continuity index
+Chile
+
+(min)
+
+184
+
+178
+
+230
+
+34
+
+Chile
+
+ 
+
+Service continuity index
+Argentina
+
+(min)
+
+1,214
+
+1,485
+
+1,770
+
+ 
+
+-271
+
+“18.2
+
+Argentina
+
+ 
+
+Performance indicators
+
+293
+

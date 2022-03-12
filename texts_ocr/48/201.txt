@@ -1,0 +1,97 @@
+| 200 | Generali Group
+
+The cost of equity (Ke) for each entity is extrapolated
+based on the Capital Asset Pricing Model (CAPM) for-
+mula.
+
+In detail:
+
+— the risk free rate was defined as the average value -
+observed during the last three months of 2018 of the
+10-years government bond of the reference country of
+operation of the CGU, on which the goodwill has been
+allocated;
+
+— the Beta coefficient was determined based on a ho-
+mogeneous basket of securities of the non-life and life
+insurance sectors, which was compared to market in-
+dexes. The observation period was 5 years with weekly
+frequency;
+
+— the market risk premium amounts to 5.5% for all
+Group’s CGUs.
+
+All CGUs passed the impairment test, being their re-
+coverable amounts higher than their carrying amounts.
+Furthermore a sensitivity analysis was performed on the
+results changing the cost of own capital of the company
+(Ke) (+/-1%) and the perpetual growth rate of distributa-
+ble future cash flows (g) (+/-1%) and for Non-life segment
+also for the main non-financial assumptions. This sensi-
+tivity did not highlight any negative difference between
+the carrying amount and the recoverable amount.
+
+5 Non-current assets or disposal
+group classified as held for sale
+
+With reference to policy of divestment of non-core and
+not strategic assets set by Generali Group, please note
+the following:
+
+— Colombia
+
+In April 2018, the Group finalized the sale of insurance ac-
+tivities held in Guatemala undertaken in 2016, following
+the release of the necessary regulatory authorizations.
+Therefore, the related investment and the related assets
+and liabilities, profits and losses are no longer recorded
+in the Group financial statements.
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+The consideration for the sale is € 27 million with a con-
+sequent realized profit of € 8 million, net of taxes.
+
+— The Netherlands
+
+In February 2018, the Group finalized the sale of its en-
+tire investment in The Netherlands. Therefore, the related
+investment and the related assets and liabilities, profits
+and losses are no longer recorded in the Group financial
+statements.
+
+The consideration for the sale is € 143 million. The related
+economics effects have been accounted for in 2017.
+
+— Ireland
+
+In June 2018, the Group finalized also the sale of its en-
+tire investment in Generali Pan Europe. Therefore, the
+related investment and the related assets and liabilities,
+profits and losses are no longer recorded in the Group
+financial statements.
+
+The consideration for the sale is € 233 million with an
+overall impact on the result of the period of € 49 million,
+net of taxes.
+
+— Liechtenstein
+
+The Group no longer considers this Company as
+“non-current assets classified as held for sale”. Conse-
+quently, assets in Liechtenstein are presented within in-
+dividual items of the balance sheet.
+
+— Belgium
+
+In April 2018, Generali has signed an agreement for the
+sale of its investment in Generali Belgium SA.
+
+Pending the release of the necessary regulatory author-
+isation, in accordance with IFRS 5, Generali Belgium SA
+was classified as disposal group held for sale. As a result,
+this investment was not excluded from consolidation, but
+both the total assets and liabilities and the related profit
+or loss, net of tax effects, have been recorded separately
+in the specific lines of the financial statements.
+

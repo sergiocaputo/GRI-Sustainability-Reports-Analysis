@@ -1,0 +1,60 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Leventuale riduzione di valore di un’attivita/CGU, riscontrata nel caso e nella misura in cui il valore recuperabile risulti inferiore
+al valore di iscrizione in bilancio, viene immediatamente rilevata e imputata a Conto economico come svalutazione. In parti-
+colare, nel caso in cui l’eventuale impairment riguardi l'awiamento e risulti superiore al relativo valore di iscrizione in bilancio,
+l'ammontare residuo viene allocato alle attivita incluse nella cash generating unit cui |’avwviamento é attribuito, in proporzione
+al loro valore di carico*. Se, in un periodo successivo, vengono meno i presupposti per una svalutazione precedentemente
+effettuata, il valore contabile dell’attivita/CGU, a eccezione dell’awviamento, é ripristinato con imputazione a Conto economico,
+nei limiti del valore netto di carico che l’attivo in oggetto avrebbe avuto se non fosse stata effettuata la svalutazione e fossero
+stati effettuati gli ammortamenti.
+
+Partecipazioni
+
+Nell’ambito del bilancio consolidato del Gruppo Poste Italiane, le partecipazioni in societa controllate non significative (indivi-
+dualmente ed in aggregato) e non consolidate, in societa nelle quali il Gruppo ha un’influenza notevole, cd. “societa collegate”,
+e in societa a controllo congiunto sono valutate con il metodo del Patrimonio netto. Si veda inoltre la nota 2.4 - Criteri e meto-
+dologie di consolidamento.
+
+Nell’ambito del bilancio separato di Poste Italiane S.p.A., le partecipazioni in imprese controllate e collegate sono iscritte al
+costo (comprensivo dei costi accessori di diretta imputazione) rettificato per eventuali perdite di valore. In presenza di eventi
+che ne fanno presumere una riduzione, il valore delle partecipazioni in imprese controllate e collegate € oggetto di verifica di
+recuperabilita. Eventuali perdite di valore (owero successivi ripristini) sono rilevate nelle medesime modalita e limiti descritti per
+le Attivita materiali e immateriali al paragrafo “Riduzione di valore di attivita”.
+
+Strumenti finanziari
+
+Gli Strumenti finanziari riguardano le attivita e le passivita finanziarie la cui classificazione € determinata al momento della loro
+iniziale rilevazione in contabilita, che awiene al relativo fair value, in funzione dello scopo per cui sono stati acquisiti. La data di
+rilevazione contabile degli acquisti e delle vendite di strumenti finanziari € determinata per categorie omogenee e corrisponde al
+momento in cui il Gruppo si impegna ad acquistare o vendere |’attivita (data di negoziazione o Transaction date) ovvero, come
+nel caso dell’operativita del BancoPosta, alla data di regolamento (Settlement date)**; nel caso del BancoPosta tale data cor-
+risponde, nella quasi totalita dei casi, alla data di negoziazione. Le variazioni di fair value intervenute tra la data di negoziazione
+e quella di regolamento sono in ogni caso riflesse in bilancio.
+
+= mg . . .
+Attivita finanziarie
+Le Attivita finanziarie sono classificate al momento della prima iscrizione in una delle seguenti categorie e valutate come segue:
+
+= Attivita finanziarie valutate al fair value con variazioni di valore imputate al Conto economico
+
+Tale categoria include: (a) le attivita finanziarie acquisite principalmente per essere rivendute nel breve termine; (b) quelle desi-
+gnate nella categoria in oggetto al momento della rilevazione iniziale, qualora ricorrano i presupposti per tale designazione,
+owero sia esercitabile la fair value option; (Cc) gli strumenti derivati, salvo la parte efficace di quelli designati come strumenti
+di copertura dei flussi di cassa cash flow heage. Le attivita finanziarie appartenenti alla categoria in oggetto sono valutate al
+fair value; le relative variazioni durante il periodo di possesso sono imputate a Conto economico. Gli strumenti finanziari di
+questa categoria sono classificati nel breve termine se sono “detenuti per la negoziazione” o ne é prevista la cessione entro
+dodici mesi rispetto alla data di bilancio. | derivati valutati al fair value con variazioni di valore imputate al Conto economico
+sono trattati come attivita o passivita, a seconda che il fair value sia positivo o negativo; i fair value positivi e negativi derivanti
+da operazioni in essere con la medesima controparte sono compensati, ove previsto contrattualmente.
+
+ 
+
+35. Laddove l’'ammontare dell’eventuale rettifica di valore non fosse assorbito interamente dal valore contabile della attivita/CGU, ai sensi dello IAS 36 nessuna
+passivita é rilevata, a meno che non risulti integrata una fattispecie di passivita prevista da principi contabili internazionali diversi dallo |AS36.
+36. Cid é possibile trattandosi di operazioni effettuate in mercati organizzati (c.d. regular way).
+
+|
+146
+

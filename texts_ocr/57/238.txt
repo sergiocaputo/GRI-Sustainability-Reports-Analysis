@@ -1,0 +1,136 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+
+ 
+
+Informazioni di natura quantitativa
+
+Qui di seguito si riporta il dettaglio delle attivita e passivita in valuta che si riferiscono essenzialmente ad operazioni
+in dollari USA, Lira Sterlina e Franco svizzero.
+
+1. Distribuzione per valuta di denominazione delle attivita e passivita e dei derivati
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Valute
+Voei
+usp cEP cAD AUD CHF ALTRE VALUTE
+A. Attivita finanziarie 37.586 204 121 121 210 308
+‘A.1 Titoli di debito 26.864
+‘A2 Titoli di capitale
+‘AS Finanziamenti a banche 2.723 204 121 va 210 sit
+‘AA Finanziamenti a clientela 7.999
+AS Altre attivita finanziarie
+B. Altre attivita 520 206 117 e aun as
+. Passivita finanziarie 33.343 303 504 a 80 ‘aa
+C.1 Debiti verso banche 25.705 20 a 3 ise
+€.2 Debiti verso clientela 7.638 393 484 17 58
+€.3 Titoli di debito
+Cl Altre passivita finanziarie
+D. Altre passivita
+E, Derivati finanziari 37.693, 79 501 182 324 301
+- Opzioni
++ Posizioni lunghe
++ Posizioni corte
+Altri derivati 37.693 79 501 ia 324 a0.
+“+ Posizioni lunghe 14.495, 23 434 50 Ti
++ Posizioni corte 23.198 56 67 tas 274 ia
+Totale attivita 52.601 433 672 ies a7 ee
+Totale Passivita 56.541 449 3871 ise 354 ‘me
+Sbilancio (+/-) (3.940) (16) 101 a7 117 ie
+
+ 
+
+ 
+
+2. Modelli interni e altre metodologie per l’analisi di sensiti
+
+Nella presente sezione vengono sinteticamente esposti i risultati delle analisi di rischio di cambio nell'ambito del
+portafoglio bancario. In particolare, la tabella sotto riportata mostra i dati relativi all'indicatore gestionale definito
+come rapporto tra esposizione netta in cambi e Fondi Propri.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Esposizione al Rischio Cambio
+Valore al 31.12.17 1,24%
+Media 1,07%
+Minimo 0,17%
+Massimo 2,37%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+238
+

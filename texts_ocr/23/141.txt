@@ -1,0 +1,140 @@
+An introduction from
+our management
+
+- Chairman's Statement
+
+- Letter from the CEO
+
+o1
+Chiesi at a Glance
+
+02
+Positive Impacts
+and Challenges
+
+- Products and Patients
+~ Processes
+
+- Global Value Chain
+
+- Corporate Citizenship
+
+03
+
+Chiesi’s contribution
+to the UN Sustainable
+Development Goals
+
+04
+
+Annexes
+
+- Impact Report
+
+- Data, Methodology
+and GRI Content Index
+
+Energy intensity
+
+po 2018
+
+ 
+
+Energy intensity (GJ / mln eq. units) 2,386 2,649
+
+Energy intensity related to production processes is calculated considering the energy con-
+sumption of the production plants divided by the production volume (reported as million
+of Equivalent Units produced). The production sites considered are: Blois, Santana de Par-
+naiba, Parma (Via Palermo-Via San Leonardo).
+
+Direct (Scope 1) GHG emissions
+
+Direct (Scope 1) GHG emissions (Tonnes CO,,) 2018
+
+Direct emissions 20,533 21,843
+
+Energy indirect (Scope 2) GHG emissions
+
+ 
+
+ 
+
+ 
+
+Energy indirect (Scope 2) GHG emissions
+
+(Tonnes CO,,) 2018
+
+15,525 15,283
+
+Energy indirect emissions (market based) 15,583 18,851
+
+ 
+
+Energy indirect emissions (location based)
+
+ 
+
+ 
+
+ 
+
+Other indirect (Scope 3) GHG emissions
+
+Other indirect (Scope 3) GHG emissions 2018
+(Tonnes CO,,)
+
+Other indirect emissions 14,063 Not available
+
+ 
+
+ 
+
+GHG Protocol definition: Direct (Scope 1) GHG emissions come from sources (physical units or
+
+rocesses that release GHG into the atmosphere) that are owned or controlled by the organi-
+sation. Direct (Scope 1) GHG emissions include, but are not limited to, the CO2 emissions from
+the fuel consumption. Energy Indirect (Scope 2) GHG emissions result from the generation of
+urchased or acquired electricity, heating, cooling, and steam consumed by the organisation.
+Methodology:
+Scope 1 emission coefficient data for natural gas, diesel, gasoline, bioethanol and LPG were
+calculated using DEFRA (Department for Environment Food Rural Affairs,
+UK, 2019) data as source for emission factors (expressed in tCO2 equivalent).
+The GRI Sustainability Reporting Standards, in accordance with the GHG Protocol, include two
+methodologies for calculating Scope 2 emissions, the “Location-based” approach and the “Mar-
+
+ket-based” approach. The “Location-based” approach provides for the use of a national average
+emission factor related to the specific national energy mix for the production of electricity (Sour-
+
+ce: Terna, Confronti Internazionali 2016). The “Market-based” approach contemplates the use
+of an emission factor defined on a contractual basis with the electricity supplier. Given the pre-
+sence of specific contractual agreements between some Affiliates of the Group and the electri-
+city supplier (purchase of certificates of Guarantee of Origin), this approach foresees the use of
+the emission actors relating to the national “residual mix”, without considering that electricity
+purchased from renewable sources (Source: Association of Issuing Bodies, European Residual
+Mixes 2018). When the “residual mix” emission factors is not available (for countries outside the
+EU), the factor of location based method has been used.
+
+Scope 2 emissions are expressed in tCO2, the amount of CH4 and NO2 (percentage) has a not
+significant effect on the overall GHG emissions (CO2.) as deductible from technical literature.
+Scope 3 emissions include emissions from employees’ own private vehicles used for commer-
+cial activities, business travels (only for Italy - Chiesi Farmaceutici, Brazil, France, Germany, Mexi-
+co, Netherlands, UK and USA) and primary logistics. Emission coefficient data were calculated
+using DEFRA (Department for Environment Food Rural Affairs, UK, 2019).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annexes
+

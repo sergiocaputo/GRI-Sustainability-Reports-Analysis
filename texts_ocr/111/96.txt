@@ -1,0 +1,62 @@
+Secondo i contributori al Global Risk Landscape, i cyber-attacks comportano un rischio pit elevato
+rispetto ai piu tradizionali rischi legati ad attacchi terroristici, crisi alimentari e disoccupazione.
+
+Il rischio cyber @ un rischio particolare, dotato di caratteristiche in grado di amplificarne il
+potenziale negativo. Il rischio Cyber, infatti, é un rischio di sistema. Infatti il funzionamento delle
+infrastrutture @ sempre pil’ basato sulle tecnologie digitali e l'interdipendenza delle “Critical
+Information Infrastructure” aumenta costantemente e di conseguenza, aumenta il rischio che
+un danno prodotto in un nodo del sistema si ripercuota sui nodi circostanti con effetti a catena
+potenzialmente catastrofici.
+
+Esistono altri due fattori che contribuiscono a sostenere una valutazione di rischio cosi elevata:
+l‘'anonimia, ovvero, il fatto che é praticamente impossibile attribuire la responsabilita di un cyber-
+attack ad un individuo o gruppi; l'asimmetria, ovvero, il fatto che un attaccante pud concentrarsi
+su di una singola vulnerabilita ed un ambito anche ristretto, mentre chi difende non pud esimersi
+dal considerare tutto il contesto degli asset dell'istituzione/ente/azienda e tutte le vulnerabilita, il
+che aumenta esponenzialmente la complessita da gestire.
+
+In tale contesto occorre inoltre tenere presente che le informazioni gestite dalle Imprese spesso si
+riferiscono a persone fisiche, identificate o identificabili; i trattamenti di tali dati (che rientrano nella
+categoria di “dati personali”) devono avvenire nel rispetto dei diritti e delle liberta fondamentali
+dell'individuo e, soprattutto, nel rispetto del diritto alla protezione dei dati personaii.
+
+Per taliragioni, Reale Group daun lato adotta un processo strutturato volto a misurare l’esposizione
+al rischio di violazione delle informazioni e a individuare le misure di sicurezza fisica, logica e
+procedurale per la loro protezione; dall’altro, adotta processi idonei a garantire che il trattamento
+dei dati personali avvenga secondo le disposizioni previste della normativa vigente in materia e
+nel rispetto dei diritti e delle liberta dell'individuo.
+
+Nel 2019 é stata costituita la Commissione Nuove Tecnologie, Innovazione e Cyber Security con il
+compito di supportare il Consiglio di Reale Mutua e quelli delle altre Societa del Gruppo:
+
+@ rafforzando le competenze tecnologiche-informatiche, di innovazione e di sicurezza
+informatica;
+
+@ adeguandosi tempestivamente alle innovazioni di carattere tecnologico e digitale (es.
+InsurTech);
+
+@ rispondendo sempre piti velocemente ai cambiamenti dell'attuale contesto di mercato e
+nella ricerca di nuovi modelli di business, con un’attenzione rinnovata verso i clienti;
+
+@ intercettando in anticipo i mutati rischi che possono scaturire dalle nuove tecnologie (es.
+Technology Risk e Cyber Risk) e sviluppando processi di sicurezza informatica e dei dati e di
+business continuity.
+
+Il Consiglio d'Amministrazione approva un piano strategico sulla gestione dell’informazione e
+comunicazione, volto ad assicurare l’esistenza e il mantenimento di una architettura complessiva
+dei sistemi integrata e sicura, adeguata ai bisogni delle imprese, oltre che degli altri soggetti
+proprietari di informazioni o comunque a queste interessati, e basata su standard e linee guida
+internazionali e definiti dalla regolamentazione di settore (di seguito “Piano Strategico”), coerente
+con gli obiettivi strategici di business.
+
+Lattuazione del piano strategico é garantita dal Sistema di Gestione della Sicurezza delle
+Informazioni adottato da Reale Group (di seguito “SGSI"), composto dall'insieme di tutti i
+processi, le risorse, i controlli procedurali, organizzativi e tecnologici necessari a raggiungere un
+
+J
+ae
+
+TOGETHERMORE
+
+ 
+

@@ -1,0 +1,66 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+-  Classificazione tra i crediti cd. forborne;
+-  probabilita di default (PD) superiore al doppio di quella rilevata alla prima iscrizione del credito;
+
+- classe di rating interno peggiore o uguale ad una specifica classe di rischio pit elevato;
+
+- degli scenari macroeconomici e prospettici (“forward looking”) su un portafoglio identificato di crediti deterio-
+rati (stage 3) a cui € stata associata una probabilita di cessione ed un prezzo stimato di cessione, in coerenza
+con le linee-guida indicate nel “NPLs strategy” di Gruppo.
+
+Si ricorda che le ultime due tematiche sopra indicate potranno comportare, successivamente alla data di prima
+applicazione, anche una maggiore volatilita del conto economico, dovuta al possibile maggior numero di strumenti
+obbligatoriamente valutati la fair value, nonché al passaggio dallo stage 1 allo stage 2 0 viceversa.
+
+Impatti attesi sul Patrimonio di Vigilanza
+
+Con particolare riferimento agli impatti regolamentari del nuovo modello di impairment, si segnala che in data
+27 dicembre 2017 é stato pubblicato nella Gazzetta Ufficiale dell'Unione Europea il Regolamento UE n 2017/2395
+emesso in data 12 dicembre 2017 dal Parlamento Europeo e dal Consiglio, che modifica il Regolamento 2013/575
+ed introduce disposizioni transitorie (misure di phase-in) volte ad attenuare limpatto dell'introduzione IFRS9 sui
+Fondi Propri, oltre a modificare il trattamento delle grandi esposizioni del settore pubblico denominate nella valuta
+nazionale di uno Stato membro. II Regolamento é entrato in vigore il 28 dicembre 2017 e si applicaa decorrere dall’1
+gennaio 2018.
+
+Piu specificamente, le misure di phase-in prevedono che l'ammontare complessivo delle maggiori rettifiche su cre-
+diti determinate in sede di FTA incida gradualmente sul CET1, secondo il seguente piano di decurtazioni della riser-
+va negativa FTA lungo i prossimi 5 esercizi (dal 2018 al 2022):
+
++ (95%) nel 2018;
+* (85%) nel 2019;
+* (70%) nel 2020;
++ (60%) nel 2021;
+* (25%) nel 2022.
+
+Lintroduzione del regime transitorio consente, pertanto, di rilevare gradualmente I'impatto negativo derivante
+dall'applicazione dell'ECL model ai fini della determinazione delle rettifiche di valore su crediti, come previsto dal
+passaggio al nuovo principio IFRS9.
+
+Al riguardo, la Banca ha esercitato la facolta di adottare il regime transitorio di tipo “statico” nel mese di gennaio
+2018, dandone comunicazione all'Organo di Vigilanza. Per effetto di tale regime transitorio, gli impatti attesi sui Fon-
+di Propri all’1 gennaio 2018 risultano essere non significativi.
+
+Per quanto riguarda l'esercizio delle opzionalita contenute nel principio, si evidenzia che la Banca si avvarra:
+
++ dell’opzione di mantenimento delle attuali regole di rilevazioni dell’hedge accounting contenute nello |AS39;
+
++ della facolta di non presentare le informazioni comparative nell’esercizio di prima applicazione.
+
+Per quanto attiene agli impatti sui processi operativi, si segnala che sono in corso gli aggiornamenti delle normative
+interne, al fine di recepire le novita operative/organizzative connesse alla classificazione e misurazione degli stru-
+menti finanziari, oltre alle implementazioni e rilasci IT, previsti dai piani di progetto.
+
+Revisione legale dei conti
+
+Il bilancio € sottoposto a revisione contabile ai sensi dell’art. 14 del D.Lgs. n. 39/10 da parte della Societa Pricewa-
+
+terhouseCoopers S.p.A., conformemente all'incarico di revisione legale dei conti conferitole dall'assemblea dei soci
+per gli esercizi 2010-2018.
+
+116
+
+ 
+

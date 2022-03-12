@@ -1,0 +1,78 @@
+€ Indice generale | — fp)
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+6. Analisi e presidio dei rischi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Esposizione Delta Risultato prima Riserve di Patrimonio
+al rischio valore delle imposte netto al lordo delle
+imposte
+tations euro) Nominale an +100bps -100bps = +100bps -100bps = +100bps -100bps
+Effetti 2016
+Attivita finanziarie BancoPosta
+Investimenti disponibili per la vendita 32.178 37.159 (1.099) 1.031 - - (1.099) 1.031
+Titoli a reddito fisso 32.178 37.159 (1.099) 1.031 - - (1.099) 1.031
+Strumenti finanziari derivati 200 6 (28) 33 - - (28) 33
+Cash flow hedge 200 6 (28) 33 - - (28) 33
+Attivita finanziarie
+Investimenti disponibili per la vendita 500 562 (5) 6 - - (5)
+Titoli a reddito fisso 500 562 (5) 6 - - (5)
+Passivita finanziarie BancoPosta
+Strumenti finanziari derivati 200 (3) (26) 31 - - (26) 31
+Cash flow hedge 200 (3) (26) 31 - - (26) 31
+Passivita finanziarie
+Strumenti finanziari derivati (50) (7) 3 (4) - - 3 (4)
+Cash flow hedge (50) (7) 3 (4) - - 3 (4)
+Variabilita al 31 dicembre 2016 33.028 37.717 (1.155) 1.097 - - (1.155) 1.097
+
+Rischio spread
+
+E il rischio riconducibile a possibili flessioni dei prezzi dei titoli obbligazionari detenuti in portafoglio, dovute al deterioramento
+della valutazione di mercato della qualita creditizia dell’emittente. Il fenomeno é riconducibile alla significativita assunta dall’im-
+patto dello spread tra tassi di rendimento dei debiti sovrani sul fair value dei titoli eurogovernativi e corporate, dove lo spread
+riflette la percezione di mercato del merito creditizio degli enti emittenti.
+
+La sensitivita del valore del portafoglio dei Titoli emessi o garantiti dallo Stato italiano al rischio creditizio della Repubblica
+Italiana risulta superiore a quella riferita al solo movimento dei tassi di interesse c.d. “risk free”. Tale situazione ha origine dal
+fatto che la variazione dello spread creditizio non € oggetto di copertura e riguarda l’intero portafoglio titoli e quindi sia la com-
+ponente a tasso fisso, sia quella a tasso variabile. Infatti in quest’ultimo caso i derivati di fair value, che trasformano il titolo in
+tasso variabile, coprono solo il rischio tasso di interesse “risk free” e non anche il rischio creditizio. Pertanto, una variazione
+dello spread creditizio impatta in eguale misura tanto sui titoli a tasso fisso che sui titoli a tasso variabile.
+
+Nel corso dell’esercizio 2017 si é rilevato in media un aumento dei rendimenti dei Titoli di Stato italiani rispetto all’esercizio
+precedente, mentre, al 31 dicembre 2017 il differenziale di rendimento dei Titoli di Stato italiani a dieci anni rispetto al Bund
+tedesco (cd Spread) presenta un valore di circa 159 bps, tendenzialmente in linea con il valore dello scorso anno (161 bps al
+31 dicembre 2016). Di seguito il dettaglio degli effetti prodotti sul portafoglio del Gruppo nel periodo in commento:
+
+i. il portafoglio Available for Sale detenuto dal Patrimonio BancoPosta (nozionale di circa 36 miliardi) ha subito una comples-
+siva variazione netta negativa del fair value di circa 0,8 miliardi di euro: la variazione negativa di fair value dei titoli oggetto di
+copertura dal rischio tasso di interesse di circa 0,5 miliardi di euro ha trovato compensazione nella variazione positiva di fair
+value dei derivati corrispondenti, mentre la variazione negativa del fair value dei titoli non coperti e della componente relativa
+al rischio spread (non oggetto di copertura), si é riflessa nel patrimonio netto consolidato per circa 0,3 miliardi di euro;
+
+ii. il portafoglio Available for Sale detenuto dal Gruppo assicurativo Poste Vita (nozionale dei titoli a reddito fisso di circa 88
+miliardi) ha registrato una variazione di fair value negativa complessiva di circa 1 miliardo di euro quasi interamente retro-
+cessa agli assicurati e rilevata in apposita riserva tecnica con il meccanismo dello shadow accounting (gli effetti rilevati nella
+specifica riserva di fair value ammontano a circa 2 milioni di euro).
+
+357
+

@@ -1,0 +1,34 @@
+ 
+
+LA MOBILITA DI ATM
+PAG 42
+
+A tal fine, ATM ha adottato politiche basate sulla digitalizzazione dei processi e dei sistemi di informazione al pubblico,
+vendita e accettazione dei titoli di viaggio e sosta elettronici, monitoraggio dei passeggeri trasportati in metro ed una
+piattaforma di gestione dei reclami e delle segnalazioni clienti che é possibile inviare attraverso il sito internet aziendale
+0 il canale Twitter ufficiale. In aggiunta, ATM sta lavorando alla realizzazione di un sistema di bigliettazione integrato ed
+interoperabile con tutti gli operatori TPL dei bacini di Regione Lombardia. Nell’ambito di questo obiettivo ATM partecipa
+ai tavoli tecnici del gruppo di lavoro per definire la soluzione tecnologica da adottare. Contestualmente, ATM si € posta
+lobiettivo di ampliare le funzionalita del proprio motore di calcolo del percorso online, sottoscrivendo dapprima una
+serie di accordi con gli operatori di mobilita condivisa operanti sul territorio lombardo e successivamente avviando gli
+sviluppi necessari a fare in modo che il cliente possa effettuare una ricerca di percorso che fornisca in risposta una
+soluzione di tipo multimodale.
+
+| rischi legati ad una digitalizzazione sempre pill crescente hanno portato ad un incremento dei rischi di intrusioni e
+di frodi informatiche. ATM ha quindi iniziato ad adottare politiche di protezione dai rischi informatici, che vengono rese
+note a tutti i dipendenti tramite il Codice Etico informatico, pubblicato sulla intranet aziendale. Nel corso del periodo di
+esercizio sono stati inoltre potenziati i programmi antivirus e i sistemi di firewalling al fine di ridurre tali rischi. ATM ha
+anche sottoscritto una convenzione con CNAIPIC, il Centro Nazionale Anticrimine Informatico per la Protezione delle
+Infrastrutture Critiche, per garantire un’azione pit efficace di prevenzione e contrasto alla criminalita informatica in
+appoggio al Comitato Sicurezza interno alla Direzione IT.
+
+In particolare, si segnala che nel corso del biennio 2017/2016 l’infrastruttura IT di ATM é stata completata con la messa
+in esercizio di un datacenter dedicato al disaster recovery/business continuity. Questo datacenter secondario, realizzato
+a circa 15 km di distanza dal primario, é sincronizzato in tempo reale con quest’ultimo, 6 connesso all’intera rete dati
+geografica e dotato di una propria connettivita Internet garantendo la continuita operativa in presenza di guasti a vari
+livelli di severita, il maggiore dei quali € la totale indisponibilita del sito primario anche per periodi prolungati. Inoltre, €
+stata completamente reingegnerizzata e ammodernata l’infrastruttura IT del sistema AVM (Automatic Vehicle Monitoring),
+tramite il quale la Sala Operativa governa la flotta dei mezzi di superficie in esercizio. Con l’adozione di tecnologie allo stato
+dell’arte, la principale delle quali é la virtualizzazione dei sistemi, é stato innalzato il livello di disponibilita dell’infrastruttura,
+aumentate le prestazioni e garantita la continuita del sistema per i prossimi anni.
+

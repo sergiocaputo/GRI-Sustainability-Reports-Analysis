@@ -1,0 +1,32 @@
+6. Clienti e prodotti @
+6.3 La qualita e l'adeguatezza di prodotti e servizi ©
+
+fornire al Consiglio di Amministrazione della societa, cui spetta la delibera finale, tutte le informa-
+zioni e le analisi necessarie per l’'assunzione di scelte strategiche consapevoli.
+
+Rimanendo in tema di qualita ed adeguatezza dei servizi, € partito nel gennaio 2019 il programma di
+evoluzione del sistema informativo target di BCC SI. Comprende i seguenti principali cantieri:
+
+ 
+
+evoluzione architetturale del sistema informativo, con l'obiettivo di migliorare I'esperienza utente
+delle Banche affiliate (unificando e ottimizzando il front-end); predisporre la componente di back-
+end a un’architettura a servizi per abilitarne le future evoluzioni; rafforzare gli strumenti di base del
+sistema con riferimento agli aspetti di sicurezza;
+
+dati e reporting, focalizzati sulla realizzazione del nuovo data-warehouse commerciale (DWH) e del
+reporting a supporto degli utilizzi specialistici per il mercato;
+
+front-end relazionale, per semplificare la gestione del rapporto con la clientela/controparti, la ge-
+stione dei contatti, l'attivazione della vendita, il monitoraggio delle performance e suggerire even-
+tuali aree di miglioramento;
+
+realizzazione del nuovo motore per la generazione di iniziative multicanale e multistep integrato con
+i canali e-mail, SMS, landing page, internet banking, push notification, filiale, contact center e ATM;
+
+adeguamento del sistema informativo alla luce delle policy di gruppo in materia di credito;
+
+realizzazione della strategia sui canali digitali del Gruppo Iccrea.
+
+12a 9 rss ECOSISTEMA RESPONSABILITA
+

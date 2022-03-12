@@ -1,0 +1,65 @@
+ 
+
+ 
+
+6.8 DANGEROUS GOODS MANAGEMENT
+
+Regarding the management of dangerous goods, SECH and TDT
+guarantee compliance with national and international regulations and
+with recommendations issued by the IMO in the “Revised
+Recommendations on the Safe Transport of Dangerous Cargoes and
+Related Activities in Port Areas". In order to allow the segregation of units,
+SECH and TDT have dedicated stacking areas for the storage of containers used for the
+transport of dangerous goods (IMO).
+
+Dee
+tT
+
+rr
+
+Within these areas dedicated to the storage of dangerous goods, the containers must be
+positioned in compliance with the relevant hazard classes and segregation constraints,
+imposed for reasons of compatibility between the different materials stored in the containers.
+Dangerous goods belonging to the following hazard classes are excluded from storage:
+class 1 (except class 1.4 S), class 6.2 and class 7, which can be accepted only with the
+prior authorisation of the authorities, based on the provisions of legal requirements.
+
+The procedures require that the structure of the IMO storage areas, the correct
+segregation and the presence of any anomalies are constantly monitored.The presence
+of dangerous goods within a temporary port depot is, in fact, subject to continuous
+changes, being constantly influenced by the handling (loading/unloading, receiving/
+delivery) activity that takes place within its areas. Therefore, the risk analysis is dynamic
+and is managed through a dedicated software, Hacpack, which is used in many other
+ltalian terminals and allows to constantly assess the risk based on the type of goods, the
+hazard class, the packaging, the weight of each single package and the total weight
+of the containers in the dedicated stacking area. Furthermore, the software is also able
+to provide in real time the safety data sheets of the goods extant in the storage area
+to allow a rapid and correct management of any emergency interventions, both for
+environmental and health as well as safety aspects for workers. Furthermore, SECH
+and TDT set up specific monitoring procedures and systems in order to guarantee the
+management of dangerous goods and the response to emergencies. In this regard,
+the Terminals ensure specific training of all employees, as well as information to all third-
+party personnel accessing their areas, about the existent risks, the behaviours to be
+held and the emergency procedures adopted.
+
+Table 79: Total IMO cargo at SECH and TDT 2017 - 2019
+
+ 
+
+IMO CARGO A @i5) amps SECH apy
+Import | 1.611 | 972 | 1932 | 1.072 | 1913 | 1.192
+Export | 3.506 | 3.075 | 4.098 | 2.695 | 5040 | 1.865
+Total containers?” | 5.117 | 4.047 | 6.030 | 3.767 | 6.953 | 3.057
+CSC/NSN/TSC?8 | 353 | 1.659 | 439 | 1.216 | 228 | 2.501
+TOTAL | 5.470 | 5.706 | 6.469 | 4.983 | 7.181 | 5.558
+
+ 
+
+27. For safety reasons the unit of measurement taken into consideration is the container and not the
+weight or volume of the substances handled.
+
+28. CSC: out-of-vessel cycle truck/truck; NSN: transshipment; TSC: out-of-vessel cycle rail/truck. For TDT
+the value is relevant only to the NSN (transshipment) movements; CSC and TSC are equal to 0.
+
+176 | SECH - TDT 2019 Sustainability Report
+

@@ -1,0 +1,61 @@
+ 
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalita di presentazione dei bilanci, metodologie e principi contabili applicati
+
+Classificazione dei crediti e debiti del
+Patrimonio BancoPosta
+
+| crediti e i debiti del Patrimonio BancoPosta sono considerati aventi natura di attivita e passivita finanziarie se attinenti alle
+attivita caratteristiche di raccolta e impiego del BancoPosta, owero ai servizi delegati dalla clientela. Le contropartite dei costi
+e dei ricavi operativi, se non liquidate o ricondotte a forma propria secondo quanto previsto dalla Circolare della Banca d'Italia
+n. 272 del 30 luglio 2008 - Matrice dei conti, sono iscritte nell’ambito dei debiti e crediti commercial.
+
+Own use exemption
+
+| principi previsti per la rilevazione e valutazione degli strumenti finanziari sono applicati anche ai contratti derivati di acquisto e
+vendita di elementi non finanziari che possono essere regolati tramite disponibilita liquide o altri strumenti finanziari, ad eccezio-
+ne di quei contratti che sono stati sottoscritti e continuano a essere posseduti per la consegna di un elemento non finanziario
+secondo le esigenze di acquisto, vendita o uso della societa che li stipula (cd. Own use exemption).
+
+Tale eccezione é applicata nella rilevazione e valutazione dei contratti di acquisto a termine di energia elettrica effettuati dalla
+controllata EGI S.p.A. se le condizioni di seguito riportate sono rispettate:
+
+= vi sia la consegna fisica del bene oggetto del contratto;
+= non vi sia la possibilita di compensare le transazioni di acquisto e vendita;
+
+= l’operazione deve essere effettuata sulla base delle aspettative di acquisto e/o vendita o per esigenze d’uso.
+
+Nel caso di applicazione della Own use exemption gli impegni assunti sono riportati nella Nota 11 Ulteriori Informazioni - Impegni.
+
+Imposte
+
+Le Imposte correnti IRES e IRAP sono calcolate sulla base della migliore stima del reddito imponibile dell’esercizio e della nor-
+mativa di riferimento, applicando le aliquote fiscali vigenti. Le Imposte differite attive e passive sono calcolate a fronte di tutte
+le differenze temporanee che emergono tra il valore fiscale di un’attivita o passivita e il relativo valore contabile, sulla base delle
+aliquote fiscali che si prevede saranno applicabili negli esercizi nei quali le differenze temporanee saranno realizzate o estinte.
+Fanno eccezione a tale principio le imposte differite relative a differenze temporanee rivenienti dalle partecipazioni in societa
+controllate, collegate e joint venture, nel caso in cui il Gruppo sia in grado di controllare i loro tempi di annullamento o é@ pro-
+babile che le differenze non si annullino (IAS12 paragrafi 39 e 40). Inoltre, in conformita con lo IAS 12, a fronte dell’avwviamento
+che deriva da un’aggregazione aziendale non sono rilevate passivita fiscali differite.
+
+Le imposte differite attive sono iscritte nella misura in cui € probabile che sia disponibile un reddito imponibile futuro a fronte
+del quale possano essere recuperate.
+
+Le imposte correnti e differite sono imputate al Conto economico, a eccezione di quelle relative a voci direttamente addebitate
+0 accreditate al Patrimonio netto; in tal caso l’effetto fiscale é imputato direttamente alla specifica voce del Patrimonio netto.
+Le attivita e le passivita fiscali, nonché quelle differite relative alle imposte sul reddito, sono compensate quando esse sono
+applicate dalla medesima autorita fiscale sullo stesso soggetto passivo d’imposta, che ha il diritto legalmente esercitabile
+di compensare gli importi rilevati e che intende esercitare tale diritto. Pertanto, la passivita fiscale in maturazione in periodi
+intermedi pit: brevi di quello di imposta, ancorché iscritta nei debiti, non € compensata con i corrispondenti crediti per acconti
+versati o ritenute subite.
+
+La fiscalita del Gruppo e la sua rappresentazione contabile tengono conto degli effetti derivanti dall’adesione di Poste Italiane
+S.p.A. all’istituto del Consolidato Fiscale nazionale, per il quale é stata esercitata l’opzione a norma di legge unitamente alle
+seguenti societa controllate: Poste Vita S.p.A., SDA Express Courier S.p.A., Mistral Air Srl, Postel S.p.A. e, dal 1° gennaio
+2017, Risparmio Holding S.p.A.. La materia é disciplinata da un Regolamento di Gruppo basato sul principio della neutralita e
+della parita di trattamento, con il quale si intende garantire che le societa che aderiscono al consolidamento fiscale non siano
+
+Le
+149
+

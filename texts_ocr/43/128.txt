@@ -1,0 +1,208 @@
+RST SSEIEE 4.8 | risultati finanziari e non financiari
+
+ 
+
+L'ORGANIZZAZIONE E | SISTEM! INFORMATIVI
+
+ORGANIZZAZIONE
+
+Il presidio dell’evoluzione del model-
+lo organizzativo della Banca e delle
+societa controllate, con riferimento a
+strutture organizzative, dimensiona-
+menti e governo di processi é@ assicu-
+rato da Organizzazione che collabora,
+tra l’altro, ad assicurare il rispetto dei
+piani progettuali, garantendo il moni-
+toraggio e l'informativa sia ai vertici
+aziendali sia alle strutture interessate,
+oltre che il governo degli eventuali im-
+patti trasversali tra progetti. In linea
+con gli obiettivi strategici del Piano
+d‘Impresa 2018-2021, Organizzazione
+é stata impegnata in molteplici iniziati-
+ve progettuali sia a valenza di business
+sia normativa, garantendo un costan-
+te monitoraggio dell’avanzamento dei
+progetti e della produzione dei delive-
+rables pianificati, attivandosi in caso di
+criticita con le strutture competenti e
+facilitando la comunicazione e la colla-
+borazione tra i vari gruppi di lavoro. Le
+principali iniziative presidiate nel 2019
+sono state:
+
+1. Progetti normativi
+
+e Evoluzione del progetto MiFID 2 per
+la Divisione.
+
+* Completamento delle attivita di im-
+plementazione degli interventi neces-
+sari per rispondere ai requisiti di sicu-
+rezza e open banking previsti dalla
+Direttiva Europea sui servizi di paga-
+mento (PSD2).
+
+2. Progetti societari
+
+¢ Presidio degli aspetti organizzativi
+nell'ambito del progetto internazio-
+nale e integrazione della Filiale di Lon-
+dra di Intesa Sanpaolo Private Banking
+nel perimetro della controllata svizze-
+ra Intesa Sanpaolo Private Bank (Suis-
+se) Morval.
+
+3. Progetti gestionali
+
+e Prosecuzione delle attivita per |’a-
+dozione della Nuova Anagrafe delle
+Controparti del Gruppo Intesa Sanpa-
+olo (NAG).
+
+e Awvio delle progettualita per il Poten-
+ziamento dei Modelli Operativi delle
+Reti di Fideuram e Intesa Sanpaolo
+Private Banking finalizzate alla sem-
+plificazione operativa dei processi,
+nell‘ottica di garantire un pit efficace
+governo dei rischi operativi.
+
+¢ Presidio dell’evoluzione del Sistema
+dei Controlli Interni con accentramen-
+to in Intesa Sanpaolo delle strutture
+dell’Area di Chief Compliance Officer
+e di Data Protection Officer.
+
+4. Progetti commerciali
+
+¢ Presidio dell’evoluzione verso la piat-
+taforma Internet di Gruppo New Digi-
+tal Customer Experience (NDCE).
+
+e Prosecuzione delle attivita di poten-
+ziamento del modello organizzativo
+dedicato al segmento degli High Net
+Worth Individuals.
+
+¢ Presidio delle attivita per |’evoluzione
+del modello organizzativo dedicato ai
+segmenti di clientela Mass e Affluent.
+
+Organizzazione presidia altresi |’evolu-
+zione e la manutenzione dell’impianto
+normativo aziendale costituito da “Do-
+cumenti di Governance”, che sovrain-
+tendono al funzionamento della Banca
+(Statuto, Codice Etico, Regolamento di
+Gruppo, Facolta e Poteri, Linee Guida,
+Organigrammi e Funzionigrammi delle
+strutture organizzative), e da norme piu
+strettamente operative che regolamen-
+tano i processi aziendali, le singole atti-
+vita e i relativi controlli (Regole, Guide
+Operative, Comunicazioni alle Reti dei
+Private Banker). In tale ambito, nel corso
+del 2019 @ stato portato a compimen-
+to il progetto di adozione di un sistema
+di gestione della Normativa aziendale
+integrato, che consente ad Organizza-
+zione di coordinare |'attivita di tutte le
+societa controllate, garantendo |’unifor-
+mita e la coerenza dell‘impianto norma-
+tivo aziendale all'interno della Divisione
+Private Banking e il raccordo con la Nor-
+mativa aziendale di Intesa Sanpaolo.
+
+Nell’ambito del presidio delle attivita
+esternalizzate, previsto dalla normativa
+vigente, Organizzazione ha coordinato
+le attivita di monitoraggio dei livelli di
+servizio svolte dai rispettivi Process Ow-
+ner, attraverso controlli periodici degli
+indicatori di performance (KPI) dei ser-
+vizi erogati, informando la Direzione
+aziendale dell’andamento complessivo
+con un reporting periodico.
+
+INFORMATION SECURITY E BUSI-
+NESS CONTINUITY
+
+\l Gruppo Fideuram pone particolare at-
+tenzione alle tematiche legate alla Sicu-
+rezza Informatica ed alle sue evoluzioni
+in ambito Cybersecurity. In un contesto
+
+Fideuram - Intesa Sanpaolo Private Banking Annual Report Integrato 2019 .—. 125
+
+dove queste tematiche assumono sem-
+pre maggior rilievo per il regolare svolgi-
+mento delle attivita di business e in cui
+diventa fondamentale poter garantire
+livelli di sicurezza adeguati al contesto
+di minaccia a cui sono esposti i servizi
+offerti alla clientela, Fideuram si é dota-
+ta di una propria funzione di sicurezza
+informatica e di continuita operativa,
+definendo una coerente strategia di Cy-
+bersecurity.
+
+Tale strategia é sviluppata su due princi-
+pali direttrici di intervento, che delinea-
+no il passaggio da un approccio basato
+sulla sicurezza dei confini al concetto di
+security by design:
+
+¢ il miglioramento dei presidi di Cyber-
+security tramite il completamento di
+una serie di iniziative previste all’inter-
+no del Masterplan incluso nel Piano
+d'lmpresa 2018-2021;
+
+e l'estensione dei presidi di Cybersecuri-
+ty al Gruppo tramite il completamen-
+to di una serie di iniziative di integra-
+zione delle diverse societa controllate
+per adeguarsi al Modello di Sicurezza
+Informatica e ai presidi target definiti
+da Intesa Sanpaolo (“progetto Securi-
+ty Integration Plan”).
+
+Nel 2019 si sono affiancate, alla pro-
+gressiva implementazione ed esten-
+sione del modello di sicurezza, tutte le
+attivita ricorrenti della Cybersecurity
+che costituiscono la base su cui fon-
+dare la Cyber Readiness del Gruppo e
+che hanno visto un ampliamento del
+perimetro e di ambito anche in virtu
+della conclusione di importanti pro-
+gettualita, quali:
+
+e l'aggiornamento del framework nor-
+mativo allo scopo di essere compliant
+all’evoluzione delle normative italia-
+ne, europee e di settore (progetto
+“Reengineering del framework nor-
+mativo di Cybersecurity e Business
+Continuity”);
+
+l'aggiornamento del processo di ge-
+stione degli eventi critici, che ha visto la
+definizione della struttura deputata al
+governo degli eventi critici (GEC), che
+funge da layer intermedio tra le funzio-
+ni impattate e le unita di emergenza e
+crisi, in seguito all'ampliamento degli
+scenari gestiti dal Modello Organizza-
+tivo per la Gestione delle Crisi (MOGC)
+di Fideuram. LInformation Security
+Officer, in tale processo, procede alla
+classificazione degli eventi secondo la
+metodologia definita da Intesa San-
+
+JINVNYIAOD *S ERI Tier El meg OLVIYIW 1d OLSILNOD *€ FOILWULS “Z SSANISNE Id OTIAGOW “1
+
+OLVGNOSNOD OIDNV18 “9
+

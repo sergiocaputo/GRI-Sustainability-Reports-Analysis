@@ -1,0 +1,74 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+
+ 
+
+4. Descrizione delle principali ipotesi attuariali
+
+Ipotesi demografiche
+
+Fondo interno Cassa di Risparmio di Orvieto
+
+Sono state utilizzate le seguenti probabilita:
+
+* per le probabilita di morte del personale in pensione, si é usata la tavola di mortalité A62 pubblicata dall'ANIA alla
+fine di Gennaio 2014 in linea con la significativa riduzione della mortalita della popolazione italiana ormai in atto
+da un consistente numero di anni;
+
+* per lareversibilita dei pensionati diretti si é tenuto conto della effettiva presenza o meno del nucleo familiare in
+modo puntuale, basandosi sulle informazioni fornite dalla societa;
+
+Fondo Interno ex Banca Tercas
+
+Sono state utilizzate le seguenti ipotesi:
+
+* per le probabilita di morte del personale in pensione, si é usata la tavola di mortalité A62 pubblicata dall’ANIA alla
+fine di Gennaio 2014 in linea con la significativa riduzione della mortalita della popolazione italiana ormai in atto
+da un consistente numero di anni;
+
+* per le probabilita di lasciare famiglia quelle pubblicate nei rendiconti degli Istituti di Previdenza, distinte per ses-
+SO;
+
+Ipotesi economico finanziarie
+
+Fondo interno Cassa di Risparmio di Orvieto
+
+Alla luce dell'assenza di rivalutazione delle prestazioni l'unica base tecnica economico - finanziario da adottare
+
+riguarda il tasso di attualizzazione; coerentemente con la durata media residua delle prestazioni, con il testo del
+
+principio contabile internazionale IAS 19 e le linee guida degli attuari é stato adottato un tasso di attualizzazione
+
+pari al 130% sulla base dei tassi Iboxx Eurozone Corporate AA con duration pari a 10+ del mese di Dicembre 2016.
+
+Di conseguenza le ipotesi di natura economica e finanziaria adottate, in base alle indicazioni dello IAS 19, sono le
+seguenti:
+
+- tasso annuo di incremento delle pensioni, pari all’ 1,75% per tutto il periodo di valutazione;
+
+- tasso annuo tecnico di attualizzazione, pari all’ 1,30%.
+
+Lincremento annuale delle prestazioni del Fondo, dal 2007 in poi, awiene in base a quanto stabilito dal regolamento
+
+e quindi come disciplinato dalle norme vigenti per le pensioni erogate dall’INPS.
+
+Fondo Interno ex Banca Tercas
+
+Le ipotesi di natura economica e finanziaria adottate, in base alle indicazioni dello IAS 19, sono le seguenti:
+
+* un tasso annuo medio di inflazione del 1,50%;
+
+* un tasso annuo medio tecnico di attualizzazione del 1,55%; per la determinazione del valore attuale dell’obbliga-
+zione @ stato determinato, coerentemente con il par. 83 dello IAS 19, con riferimento all'indice IBoxx Eurozone
+Corporate AA;
+
+* un tasso annuo medio di aumento delle pensioni Fondo e AGO pari al 2,00% (desunto dalla media degli incre-
+menti attribuiti alle singole pensioni per 'anno 2008). Per gli anni 2014, 2015 e 2016 si é tenuto conto delle mo-
+
+difiche introdotte dalla Legge di stabilita attualmente vigente.
+
+* pagamento mensile posticipato delle pensioni.
+
+482
+
+ 
+

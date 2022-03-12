@@ -1,0 +1,128 @@
+@Q22
+
+CERVED GROUP SUSTAINABILITY REPORT 2019
+
+line with international best practices,
+the Cerved Group has launched a
+certification path for its operational
+processes for the creation and provi-
+sion of services, according to the pro-
+visions of ISO 22301 Certification on
+business continuity management,
+whose achievement is anticipated by
+the end of 2020.
+
+With a view to an approach of contin-
+uous improvement and taking into ac-
+count the evolution of IT technologies
+available in the market, Cerved con-
+tinues to follow a multipronged ap-
+proach to improve its management
+system, including:
+
+> Organisational issues, relying on
+the Security Committee to perform
+a coordination and monitoring role
+with regard to security activities;
+
+> Verification, updating and mon-
+itoring of the policies and opera-
+tional procedures adopted, includ-
+ing the two internal procedures for
+Disaster Recovery and Incident and
+Problem Management;
+
+> Adoption of new technologies in
+the cybersecurity area;
+
+> Stipulation of a specific insurance
+policy to cover cyber risks;
+
+> Monitoring specific risk indicators
+(also using a third-party Cyber Secu-
+rity Rating system);
+
+> Monitoring the risk of information
+security with third parties;
+
+>Vulnerability assessment and
+penetration test activities, carried
+out both with company tools and the
+skills of internal resources, and by
+assigning the activities to specialized
+external companies;
+
+> Continuous technological upgrad-
+ing activities to ensure the updat-
+ing of the IT system and reduce ob-
+solescence;
+
+> Maintenance and testing of a Dis-
+aster Recovery system, which du-
+plicates the production farm and
+guarantees the alignment of data,
+ensuring business continuity in the
+event of catastrophic events.
+
+Data security and protection is one
+of Cerved Group's priorities, which
+
+has information protection programs,
+specialised personnel responsible for
+supervising the systems and periodic
+training plans. The IT security systems
+operate according to three principles
+defined Availability, Integrity and
+Confidentiality, implemented with
+control systems aimed at preventing:
+
+> data loss (backup, systems redun-
+dancy), or alteration of the same
+(antivirus, Web/URL filtering);
+
+> access to IT systems from the out-
+side (anti-intrusion systems, fire-
+walls, WAF, encryption, HTTPS);
+
+> unexpected access to IT systems
+by unauthorised internal personnel
+(authentication systems, access poli-
+cies, management of system admin-
+istrators according to the current
+regulatory requirements - Privileged
+Access Management PAM).
+
+The Cerved Group's IT system oper-
+ates through two data centers locat-
+ed in Italy, in Padua and Cosenza.
+
+> Padua: the data center located in
+Padua is dedicated to production
+systems, i.e. those systems that
+guarantee the production and provi-
+sion processes of customer services,
+as well as data storage and man-
+agement activities. The data center
+in Padua uses redundant systems,
+which allow immediate interven-
+tions to guarantee the operational
+continuity of the Cerved Group.
+
+> Cosenza: the data center in the
+province of Cosenza is home to the
+Disaster Recovery systems which
+allow the restoration of the Cerved
+Group's operations within 24 hours,
+as well as the environments in which
+development and testing activities
+take place.
+
+The Cerved Group has two other data
+centers in Milan and Turin, connected
+via an integrated computer network to
+the main data centers. They host the
+systems and applications relating to
+the production and provision of ser-
+vices of the recently acquired Cerved
+Group companies.
+

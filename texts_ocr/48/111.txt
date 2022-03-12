@@ -1,0 +1,122 @@
+| 110 | Generali Group
+
+impact of these changes on any interest rate sensitive
+asset and also on the value of future liability cash-flows
+alike;
+
+— interest rate volatility risk models the impact that the
+variability in interest rate curves can have on both the
+market value of derivatives and the value of liabilities
+sensitive to interest rate volatility assumptions (such as
+minimum pension guarantees);
+
+— property risk models the returns on a selection of pub-
+lished property investment indices and the associated
+impact on the value of the Group’s property assets.
+These are mapped to various indices based on proper-
+ty location and type of use;
+
+— for currency risk, the plausible movements in exchange
+rate of the reporting currency of the Group in respect
+to foreign currencies are modelled, as well as the con-
+sequent impact on the value of asset holdings not de-
+nominated in the domestic currency;
+
+— for concentration risk the extent of additional risk borne
+by the Group due to insufficient diversification in its eq-
+uity, property and bond portfolios is assessed.
+
+The SCR for financial risk amounts to € 13,437 million
+before diversification (equal to 42% of total SCR before
+diversification). This is mainly driven by equity risk, fol-
+lowed by interest rate, property and currency risk.
+
+Credit Risk
+
+The Group is exposed to credit risks related to invested
+assets and those arising from other counterparties (e.g.
+cash, reinsurance).
+
+Credit risks include the following two categories:
+
+- spread widening risk, defined as the risk of adverse
+changes in the market value of debt security assets.
+Spread widening can be linked either to the market’s
+assessment of the creditworthiness of the specific obli-
+gor (often implying also a decrease in rating) or to a
+market-wide systemic reduction in the price of credit
+assets;
+
+— default risk, defined as the risk of incurring in losses
+because of the inability of a counterparty to honour its
+financial obligations.
+
+ 
+
+ee Investments in the Notes for the overall volume of assets
+subject to credit risk
+
+ 
+
+ 
+
+ 
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+Credit risks are measured by means of the Group PIM"®.
+
+In particular:
+
+- credit spread risk models the possible movement of
+the credit spread levels for bond exposures of differ-
+ent rating, industrial sector and geography based on
+the historical analysis of a set of representative bond
+indices. Spread-sensitive assets held by the Group are
+associated with specific indices based on the charac-
+teristics of their issuer and currency;
+
+— default risk models the impact of default of bond is-
+suers or counterparties to derivatives, reinsurance and
+other transactions on the value of the Group’s assets.
+Distinct modelling approaches have been implemented
+to model default risk for the bond portfolio (i.e. cred-
+it default risk) and the risk arising from the default of
+counterparties in cash deposits, risk mitigation con-
+tracts (such as reinsurance), and other types of expo-
+sures (i.e. counterparty default risk).
+
+The Group PIM’s credit risk model evaluates spread risk
+and default risk also for sovereign bond exposures. This
+approach is more prudent than the standard formula,
+which treats bonds issued by EU Central Governments
+and denominated in domestic currency as exempt from
+credit risk.
+
+The SCR for credit risk amounts to € 8,342 million before
+diversification (equal to 26% of total SCR before diversifi-
+cation). Credit risk is mostly driven by spread risk on fixed
+income securities, while the contribution to SCR of the
+counterparty risk (including reinsurance default) remains
+more limited.
+
+The credit risk assessment is based on the credit rating
+assigned to counterparties and financial instruments. To
+limit the reliance on external rating assessments provided
+by rating agencies, an internal credit rating assignment
+framework has been set within the Risk Management
+Group Policy.
+
+Within this framework additional rating assessments can
+be performed at counterparty and/or financial instrument
+level and ratings need to be renewed at least annually.
+This process applies even where an external rating is
+available. Moreover, additional assessments shall be per-
+formed each time the parties involved in the process pos-
+sess any information, coming from reliable sources, that
+may affect the creditworthiness of the issuer/issues.
+
+18 For the scope of the Group PIM please refer to section A. Executive Summary. Entities not included in the Group PIM scope calculate the capital requirement based on standard
+
+formula.
+

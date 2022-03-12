@@ -1,0 +1,89 @@
+io
+
+Croccolatieri.
+1946
+
+ 
+
+Ore medie di formazione erogate ai dipendenti per genere e inquadramento (404-1)'4
+Average hours of training by gender and employee category (404-1) '*
+
+_
+
+  
+
+Dirigenti / Directors 0,67 3,00 2,50 6,33 18,00
+Quadri / Executives 0,89 0,00 3,17 3,33 29,10
+Impiegati / Office workers 3,88 6,32 8,42 5,28 41,17
+Operai / Laborours 8,17 14,48 17,12 10,45 29,64
+Anna a Foo ne
+Samia eles ros 2893 M6 12550
+Totale per genere / Total by gender 24,89 17,37 69,32 55,05 70,28
+Totale / Total 17,24 43,55 62,82
+
+Numero di infortuni e indicatori sulla salute e sicurezza dei dipendenti (403-9)
+Number of employees’ injuries and health and safety rates (403-9)
+
+Morti sul lavoro / Fatalities
+Infortuni / Injuries 7 8 23
+Di cui infortuni gravi / Of which high-consequence work-related injuries - - -
+
+Ore lavorate complessive / Number of hours worked 451.501 444.424 483.118
+
+Tasso di decessi dovuti ad infortuni sul lavoro
+a aaa 0 0 0
+Rate of fatalities as a result of work-related injuries
+Tasso di infortuni sul lavoro registrati
+
+Rate of recordable work-related injuries
+
+Tasso di infortuni gravi sul lavoro esclusi i decessi 0 0 0
+
+Rate of high-consequence work-related injuries
+
+3,10 3,60 9,52
+
+Numero di infortuni e indicatori sulla salute e sicurezza dei lavoratori (403-9)
+Number of workers’ injuries and health and safety rates (403-9)
+
+Morti sul lavoro / Fatalities
+Infortuni / Injuries 4 8 -
+Di cui infortuni gravi / Of which high-consequence work-related injuries - - -
+
+Ore lavorate complessive / Number of hours worked 77.777 138.442 80.571
+
+Tasso di decessi dovuti ad infortuni sul lavoro
+
+Rate of fatalities as a result of work-related injuries y co y
+Tasso di infortuni sul lavoro registrati
+
+Rate of recordable work-related injuries oe ae y
+Tasso di infortuni gravi sul lavoro esclusi i decessi 0 0 0
+
+Rate of high-consequence work-related injuries
+
+14 Per fornire una rappresentazione pit significativa, ¢ in coerenza con l'approccio ¢ la 14 To provide a more significant representation, and in line with ICAM‘ approach and vision,
+the training data takes into account the training provided to the agency workers (not seasonal)
+
+who work at the ICAM S.p.A. offices.
+
+visione di ICAM, il dato della formazione tiene conto della formazione erogata al
+
+personale somministrato (non stagionale) che lavora presso le sedi di ICAM S.p.A..
+
+15 Per la formazione pro capite relativa ai somministrati per gli anni 2017 ¢ 2018, non 15 For what concerns the average hours of training for the agency workers for the years 2017 and
+
+essendo ancora presente la suddivisione tra somministrati stagionali ¢ stabilizzati, &
+stato utilizzato come denominatore il dato complessivo della categoria. Dal 2019, con
+Pattuazione del Decreto Dignita emanato nel 2018 ¢ la conseguente suddivisione delle
+due tipologie di lavoratori in somministrazione, & stato utilizzato al denominatore il
+
+numero di lavoratori stabilizzati.
+
+2018, since the division between seasonal and temporary agency worker was not yet present,
+the overall data of the category (Temporary Workers) was used to calculate the data, Since
+2019, with the implementation of the Dignity Decree issued in 2018 and the consequent
+subdivision of the two types of temporary workers (Agency and Seasonal), the number of agency
+
+workers (12-month contract) category was been used at the denominator.
+

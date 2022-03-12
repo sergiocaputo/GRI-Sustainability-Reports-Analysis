@@ -1,0 +1,111 @@
+38
+
+Composizione del personale per inquadramento
+
+Standard
+
+Dirigenti
+Quadri
+Impiegati
+Operai
+
+Totale
+
+Composizione del personale per genere
+
+Standard
+
+Totale
+uomini
+
+donne
+
+Dipendenti per fasce di eta
+
+Standard
+
+< 25
+
+tra 25 e 29
+tra 30 e 34
+tra 35 e 39
+tra 40 e 44
+tra 45e 49
+tra 50 e 54
+tra 55 e 59
+>60
+
+Totale
+
+ItaLcas DICHIARAZIONE NON FINANZIARIA CONSOLIDATA 2017
+
+GRI
+
+102-8
+
+GRI
+
+401-1
+
+GRI
+
+102-8
+
+Unita
+misura
+
+Unita
+misura
+
+n.
+n.
+
+n.
+
+Unita
+misura
+
+n.
+
+n.
+
+2016
+
+56
+237
+1.896
+1.381
+3.570
+
+2016
+
+3.570
+3.187
+383
+
+2016
+
+1.208
+586
+3.570
+
+2017
+
+60
+251
+1.938
+1.335
+3.584
+
+2017
+
+3.584
+3.168
+Al6
+
+2017
+
+1.239
+583
+3.584
+

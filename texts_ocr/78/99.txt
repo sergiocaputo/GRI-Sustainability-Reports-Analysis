@@ -1,0 +1,116 @@
+ISAP - Report di Sostenibilita / 2018
+
+TABELLA DI CORRELAZIONE
+
+ 
+
+RIFERIMENTO CAPI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STANDARDS DESCRIZIONE PARAGRAFO PAG.
+
+304-3 Habitat protetti o Non rendicontato
+“restaurati”
+
+304-4 Habitat di specie Non rendicontato
+minacciate presso
+i siti aziendali
+
+Emissioni
+
+GRI 103 Approccio Manageriale
+
+103-1 Aspetti materiali e il Analisi di materialita 23-33
+loro perimetro e nota metodologica
+
+103-2 L’approccio Emissioni 78
+manageriale e le sue
+caratteristiche
+
+103-3 Valutazione Emissioni 78
+dell’approccio
+manageriale
+
+GRI 305 Emissioni
+
+305-1 Emissioni dirette Non rendicontato
+di gas GHG
+
+305-2 Emissioni indirette Non rendicontato
+di gas GHG
+
+305-3 Altre emissioni indirette | Emissioni 78
+di gas GHG
+
+Acque reflue e rifiuti
+
+GRI 103 Approccio Manageriale
+
+103-1 Aspetti materiali e il Analisi di materialita 23-33
+loro perimetro e nota metodologica
+
+103-2 L’approccio Acqua é rifiuti 77
+manageriale e le sue
+caratteristiche
+
+103-3 Valutazione Acqua é rifiuti 77
+dell’approccio
+manageriale
+
+GRI 306 Acque reflue e rifiuti
+
+306-2 Peso totale dei rifiuti Acqua eé rifiuti 77
+smaltiti suddivisi per
+tipo e modalita di
+trattamento
+
+306-3 Numero e volume di Acqua é rifiuti 77
+scarichi significativi
+
+306-5 Ecosistemi acquatici e Non rendicontato
+
+corsi d’acqua toccati da
+scarichi e fuoriuscita di
+acque dall’azienda
+

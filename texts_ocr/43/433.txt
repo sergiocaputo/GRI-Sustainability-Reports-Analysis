@@ -1,0 +1,157 @@
+10. Glossario
+
+ 
+
+tramite Borse, Mediatori, Intermediari, Societa del settore, ser-
+vizi di quotazione o enti autorizzati, e tali prezzi rappresentano
+effettive e regolari operazioni di mercato verificatesi sulla base
+di un normale periodo di riferimento.
+
+Subprime
+
+Un mutuo subprime é, per definizione, un mutuo concesso
+ad un soggetto che non poteva avere accesso ad un tasso
+piu. favorevole nel mercato del credito. | debitori subprime
+hanno tipicamente un basso punteggio di credito e storie
+creditizie fatte di inadempienze, pignoramenti, fallimenti e
+ritardi. Poiché i debitori subprime vengono considerati ad
+alto rischio di insolvenza, i prestiti subprime hanno tipica-
+mente condizioni meno favorevoli delle altre tipologie di cre-
+dito. Queste condizioni includono tassi di interesse, parcelle
+e premi pit elevati.
+
+Sustainability Reporting
+
+Letteralmente “Reporting di sostenibilita”, é il processo at-
+traverso il quale un’organizzazione misura, comunica e si as-
+sume le responsabilita della sua performance nell’ottica del
+raggiungimento dell’obiettivo dello sviluppo sostenibile.
+
+Swaps
+
+Operazioni consistenti, di norma, nello scambio di flussi fi-
+nanziari tra operatori secondo diverse modalita contrattua-
+li. Nel caso di uno swap di tassi d’interesse, le controparti si
+scambiano flussi di pagamento indicizzati o meno a tassi d’in-
+teresse, calcolati su un capitale nozionale di riferimento (ad
+esempio: una controparte corrisponde un flusso sulla base di
+un tasso fisso, |’altra sulla base di un tasso variabile). Nel caso
+di uno swap di valute, le controparti si scambiano specific
+ammontari di due diverse valute, restituendoli nel tempo se-
+condo modalita predefinite che possono riguardare sia il capi-
+tale nozionale sia i flussi indicizzati ai tassi d’interesse.
+
+Tassi di interesse di riferimento della BCE
+
+Tassi di interesse fissati dal Consiglio direttivo che riflettono
+l‘orientamento di politica monetaria della Banca Centrale Eu-
+ropea. Attualmente comprendono il tasso minimo di offerta
+sulle operazioni di rifinanziamento principali, il tasso di inte-
+resse sulle operazioni di rifinanziamento marginale e quello
+sui depositi presso la Banca Centrale.
+
+Tasso d’interesse privo di rischio (Risk-free interest rate)
+Rappresenta il tasso d’interesse di un investimento privo di ri-
+schio ossia caratterizzato da assenza di incertezza associata ai
+flussi di cassa prodotti. Generalmente, gli investimenti senza
+rischio vengono identificati con i titoli di Stato High invest-
+ment grade a breve termine. Il rendimento richiesto da un
+titolo qualsiasi pud essere espresso come la somma del tasso
+nominale privo di rischio pit il premio per il rischio.
+
+Tasso di disoccupazione
+La percentuale di lavoratori, owero di forza lavoro, che non
+trovano un‘occupazione.
+
+Tasso di interesse effettivo
+
+\l tasso di interesse effettivo é il tasso che eguaglia il valore
+attuale dei flussi futuri del credito, per capitale ed inte-
+resse, all'ammontare erogato inclusivo dei costi/proventi
+ricondotti al credito. Tale modalita di contabilizzazione,
+utilizzando una logica finanziaria, consente di distribuire
+l'effetto economico dei costi/proventi lungo la vita residua
+attesa del credito.
+
+Tasso sui federal funds
+
+Tasso di interesse a brevissimo termine sul mercato statunitense
+dei fondi federali, in cui si scambiano le riserve in eccesso dete-
+nute dalle aziende di credito presso la Riserva federale. Sebbene
+si tratti di un rendimento di mercato, la Riserva federale annuncia
+un livello di tale tasso come |'obiettivo di breve termine per le
+sue operazioni di mercato aperto; gli scostamenti tra il tasso di
+mercato e il tasso obiettivo sono generalmente di lieve entita.
+
+Tax rate
+Aliquota fiscale effettiva, determinata dal rapporto tra le im-
+poste sul reddito e I’utile ante imposte.
+
+Test d’‘impairment
+
+ll test d'impairment consiste nella stima del valore recupera-
+
+bile (che é il maggiore fra il fair value dedotti i costi di vendita
+
+e il valore d’uso) di un‘attivita o di un gruppo di attivita. Ai
+
+sensi dello IAS36, debbono essere sottoposte annualmente
+
+ad impairment test:
+
+- le attivita immateriali a vita utile indefinita;
+
+-|'awiamento acquisito in un‘operazione di aggregazione
+aziendale;
+
+- qualsiasi attivita, se esiste un‘indicazione che possa aver su-
+bito una riduzione durevole di valore.
+
+Tier 1 ratio (Coefficiente di capitale di classe 1)
+Indicatore dato dal rapporto tra il Capitale di classe 1 (Tier 1)
+ed il totale delle attivita ponderate per il rischio (RWA).
+
+Time value
+
+Variazione del valore finanziario di uno strumento in relazione
+al diverso orizzonte temporale in corrispondenza del quale
+saranno disponibili 0 esigibili determinati flussi monetari.
+
+Titolo strutturato
+
+Titolo composto da una componente fissa, simile ad una
+normale obbligazione, e una componente derivata, simile ad
+un‘opzione, collegata all’'andamento di un fattore esterno.
+
+Total Capital ratio (Coefficiente di capitale totale)
+Indicatore dato dal rapporto tra il Totale Fondi Propri ed il
+totale delle attivita ponderate per il rischio (RWA).
+
+Trading book
+
+Solitamente riferito a titoli o comunque a strumenti finanziari
+in genere, identifica la parte di portafoglio destinato all’attivi-
+ta di negoziazione.
+
+Trading online
+Sistema di compravendita di attivita finanziarie in borsa, at-
+tuato in via telematica.
+
+Unione Europea (UE)
+
+Attualmente composta da 27 membri, |'Unione Europea
+é governata da cinque istituzioni: il Parlamento Europeo, il
+Consiglio dell'Unione, la Commissione Europea, la Corte di
+Giustizia e la Corte dei Conti.
+
+Valore aggiunto
+
+Rappresenta la ricchezza creata complessivamente dall’impre-
+sa e distribuita agli stakeholder (comunita, partner finanziari,
+risorse umane, soci/azionisti, Stato ed Enti Locali) o reinvestita
+all’interno dell’azienda (utile non distribuito e ammortamen-
+ti). Esso é@ individuabile come differenza tra la produzione lor-
+da e il consumo di beni e servizi.
+
+430 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

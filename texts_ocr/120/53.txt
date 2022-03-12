@@ -1,0 +1,94 @@
+ 
+
+Snamtec:
+
+4O projects
+1 0 different initiatives:
+
+* energy efficiency
+
+* reduction of emissions
+
+* new energy vectors
+
+* optimisation of the
+management
+
+* remote control of assets
+
+52 Sustainability Report 2019
+
+INNOVATION FOR BUSINESS DEVELOPMENT
+
+The development of more efficient and sustainable technologies is of vital
+importance in the reduction of the environmental impacts of a company. In
+2019, various research and development activities launched in previous years
+were either continued or completed. At the same time, some new projects were
+launched with a potential impact on various areas of corporate operations. Many
+of these projects have been conducted with the Snamtec (Tomorrow's Energy
+Company).
+
+| RP | Governance and monitoring
+
+oy
+
+—!, of the network and plants
+
+Installation of innovative systems for controlling and monitoring the network and
+
+facilities in the following areas:
+
+@ Remote control: development of the Smart Tel project aimed at analysing
+the requirements of data acquisition and management processes relating to
+the control and running of the network, in particular:
+
+- adoption of IlloT solutions (Industrial Internet of Things) for reporting field
+data not available to date, for the diagnostics and operation of equipment
+aimed at making the gas transportation network increasingly more smart
+also defining supervision and maintenance logics that are appropriate and
+optimised For all equipment (for example, predictive maintenance);
+
+- study of preheating plant engineering solutions with automated
+management aimed at optimising energy efficiency and reducing
+emissions;
+
+- rationalisation of transmission equipment in order to have standardised,
+modular equipment to make the management and maintenance
+processes for the actual equipment more efficient;
+
+- creation of a repository with all the data to facilitate the maximum
+integration and availability of validated data and the implementation of
+Big Data and Advanced Analytics.
+
+@ = Security:
+
+- initiatives for protection against fire in plant control rooms through
+vacuum technology. A project was later launched to install similar
+fire detection/extinguishing systems in the technical rooms of the
+compression stations.
+
+- replacement of plant security management systems by installing
+electronic systems with SIL certification (Safety Integrity Level)
+
+@ Monitoring compression units: in 2019 a project was launched For the
+modernisation of a telediagnostic system for the compression units through
+the acquisition of thermodynamic and Functional parameters for the Future
+development of predictive analysis aimed at improving performance.
+
+In addition, in 2019 a project was completed for the development of a
+
+dashboard that collects the main important parameters needed for dispatch
+
+for the improved management of the turbochargers.
+
+@ Electro-compressors: study for the introduction of electro-compressors at
+storage sits.
+
+@ Trigeneration: in 2019 works were completed to put high-efficiency
+trigeneration plants into operation at the Gallese and Istrana compressor
+stations. The start up of the system at the Gallese station took place in the
+last quarter of 2019 achieving an energy saving of more than 65% with
+further improvement margins Following the tuning in 2020.
+
+ 
+

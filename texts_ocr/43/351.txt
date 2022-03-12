@@ -1,0 +1,89 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+D. Strumenti di copertura
+
+Le principali cause di inefficacia del modello adottato dal
+Gruppo Fideuram per la verifica dell'efficacia delle coperture
+sono imputabili ai seguenti fenomeni:
+
+¢ disallineamento tra nozionale del derivato e del sottostante
+rilevato al momento della designazione iniziale o generato
+successivamente, come nel caso di rimborsi parziali dei mu-
+tui o riacquisto dei prestiti obbligazionari;
+
+ applicazione di curve diverse su derivato di copertura ed og-
+getto coperto. | derivati, normalmente collateralizzati, sono
+scontati alla curva Eonia, gli oggetti coperti sono scontati
+alla curva di indicizzazione dello strumento di copertura;
+
+¢ inclusione nel test di efficacia del valore della gamba variabi-
+le del derivato di copertura, nell’ipotesi di copertura di tipo
+“fair value hedge”.
+
+Uinefficacia della copertura é prontamente rilevata ai fini:
+
+¢ della determinazione dell’effetto a conto economico;
+
+e della valutazione in merito alla possibilita di continuare ad
+applicare le regole di hedge accounting.
+
+\| Gruppo Fideuram non utilizza le coperture dinamiche,
+cosi come definite nell'IFRS7, paragrafo 23C.
+
+E. Elementi coperti
+
+Le principali tipologie di elementi coperti sono:
+e titoli di debito dell’attivo;
+
+¢ impieghi a tasso fisso;
+
+ cedola gia fissata di impieghi a tasso variabile.
+Titoli di debito dell’attivo
+
+Sono coperti in relazioni di copertura di tipo micro Fair Value
+Hedge, utilizzando IRS, OIS e CCS come strumenti di copertura.
+
+E coperto il rischio tasso per tutta la durata dell’obbligazione.
+Per verificare l’efficacia della copertura é utilizzato il Dollar
+Offset Method. Tale metodo é basato sul rapporto tra le va-
+riazioni cumulate (da inizio copertura) di fair value dello stru-
+mento di copertura, attribuibili al rischio coperto, e le varia-
+zioni passate di fair value dell’elemento coperto (c.d. delta fair
+value), al netto del rateo di interesse.
+
+Impieghi a tasso fisso
+
+|| Gruppo ha designato relazioni di copertura di tipo micro Fair
+Value Hedge o macro Fair Value Hedge, utilizzando principal-
+mente IRS come strumenti di copertura. E coperto il rischio
+tasso per tutta la durata del sottostante.
+
+Per le coperture di tipo micro, l'efficacia della copertura é ve-
+rificata utilizzando il Dollar Offset Method.
+
+Per le coperture di tipo macro, il portafoglio di impieghi og-
+getto di copertura é di tipo aperto, cioé é costituito dinamica-
+mente dagli strumenti a tasso fisso gestiti a livello aggregato
+tramite i derivati di copertura stipulati nel tempo. Lefficacia
+delle macro coperture sugli impieghi a tasso fisso é periodica-
+mente verificata sulla base di specifici test prospettici e retro-
+spettivi volti a dimostrare che il portafoglio oggetto di possi-
+bile copertura contiene un ammontare di attivita il cui profilo
+di sensitivity e le cui variazioni di fair value per il rischio tasso
+rispecchiano quelle dei derivati utilizzati per la copertura.
+
+Cedola gia fissata di impieghi a tasso variabile
+
+La cedola fissata di impieghi a tasso variabile é coperta in re-
+lazioni di copertura di tipo micro Fair Vale Hedge, utilizzando
+OIS come strumenti di copertura. Scopo di questo tipo di co-
+pertura é quello di immunizzare il rischio tasso determinato
+dalle cedole gia fissate degli impieghi a tasso variabile.
+
+Per verificare l’efficacia della copertura é utilizzato il Dollar
+Offset Method.
+
+348 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

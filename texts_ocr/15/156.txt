@@ -1,0 +1,60 @@
+Responsabilita ambientale
+
+:@ Banco Desio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2019
+Fattori di Emissioni Fonte Unita di misura Coefficiente CO, Coefficiente CO,eq Coefficiente CH, Coefficiente N,O
+Riscaldamento
+Location Based Linee Guida ABI g/kWh 316 - 0,0176 0,0037
+Market Based European Residual Mix | g/kWh 483 487 - -
+2018
+Fattori di Emissioni Fonte Unita di misura Coefficiente CO, Coefficiente CO,eq Coefficiente CH, Coefficiente N,O
+Riscaldamento
+Location Based Linee Guida ABI g/kWh 321 - 0,0181 0,004
+Market Based European Residual Mix g/kWh 477 480 - -
+2017
+Fattori di Emissioni Fonte Unita di misura Coefficiente CO, Coefficiente CO,eq Coefficiente CH, Coefficiente N,O
+Riscaldamento
+Location Based Linee Guida ABI g/kWh 332 - 0,0151 0,004
+Market Based European Residual Mix g/kWh 465 47) - -
+
+Si precisa, inoltre, che per il calcolo delle emissioni indirette (di cui allo Scope 2) non sono state conteggiate quelle relative al
+Teleriscaldamento, in quanto |’energia termica utilizzata deriva dall’impianto di termovalorizzazione situato in via Gaetana Agnesi a
+Desio che trasforma i rifiuti dapprima in energia termica (vapore) e poi in energia elettrica. Il calore residuo di questo procedimento
+viene ulteriormente recuperato da una centrale termica connessa al termovalorizzatore di Desio, che raccoglie l’acqua calda
+prodotta e, attraverso un impianto di pompaggio, la avwvia a una rete di condotte diffuse sul territorio.
+
+ 
+
+1551
+

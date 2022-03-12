@@ -1,0 +1,110 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+
+ 
+
+4.2 Attivita finanziarie disponibili per la vendita: composizione per debitori/emittenti
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Voci/Valori 31/12/2017 31/12/2016
+1. Titoli di debito 155.598 1.425.712
+a) Governi e Banche Centrali 155.598 1.425.712
+b) Altri enti pubblici = =
+c) Banche s :
+@) Altri emittenti = =
+2. Titoli di capitale 58.092 102.225
+a) Banche 12.032 17.543
+b) Altri emittenti: 46.060 84.682
+
+- imprese di assicurazione 7.895 12.595
+
+- societa finanziarie 222 4.190
+
+- imprese non finanziarie 37.943 67.897
+
+~ altri : :
+
+3. Quote di O.LC.R. 177.384 200.567
+4. Finanziamenti Z a
+a) Governi e Banche Centrali es z
+b) Altri enti pubblici z :
+¢) Banche = :
+d) Altri soggetti = =
+Totale 391.074 1.728.504
+
+Limporto relativo alle quote di O.I.C.R. si riferisce a fondi mobiliari riservati per un controvalore pari a euro 3,2 min,
+a fondi immobiliari chiusi per euro 100,2 min, fondi private equity e private debt pari a 36,9 mln ed a ETF quotati su
+mercati regolamentati per euro 37,1 min.
+
+4.3 Attivita finanziarie disponibili per la vendita oggetto di copertura specifica
+
+Copertura di fair value (fair value hedge)
+
+Apartire dall’esercizio 2009 la Capogruppo ha posto in essere talune operazioni di copertura specifica di titoli clas-
+sificati nel portafoglio disponibile per la vendita.
+
+In particolare sono state poste in essere operazioni di copertura specifiche di fair value (fair value hedge) relative al
+rischio di variazione dei tassi di interesse.
+
+| titoli oggetto di copertura sono obbligazioni governative a tasso fisso, il cui fair value al 31 dicembre 2017 ammonta
+a 36 milioni di euro (37 milioni di euro al 31 dicembre 2016).
+
+La relazione di copertura é formalmente documentata da una hedging card e la tenuta della stessa é verificata at-
+
+traverso test sia prospettici che retrospettivi. La copertura é considerata efficace se il rapporto tra la variazione del
+fair value dell’elemento coperto rispetto allo strumento di copertura é ricompreso nell'intervallo 80-125%.
+
+448
+
+ 
+

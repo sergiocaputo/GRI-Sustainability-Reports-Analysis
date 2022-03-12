@@ -1,0 +1,46 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+non inclusi nel portafoglio di negoziazione, owero I’insieme delle poste di
+bilancio (attivo e passivo) e fuori bilancio che non sono detenute con finalita
+di trading. All'interno del Banking Book quindi si ritrovano gli impieghi, le fonti
+di finanziamento, gli assets classificati nel portafoglio HtC&S e la componente
+immobilizzata del portafoglio titoli (categoria IFRS: Held to Collect). Il presidio
+del rischio di tasso di interesse sul Banking Book @ seguito dalla capogruppo e
+si basa su un modello di Asset Liability Management. Gli obiettivi che vengono
+perseguiti nell‘ambito di un corretto processo di governo del rischio tasso sono:
+> gestire la stabilita del margine di interesse, minimizzando |’impatto
+negativo delle variazioni dei tassi (prospettiva degli Utili Correnti), in
+un‘ottica focalizzata principalmente sul breve periodo. La stabilita
+del margine di interesse é influenzata principalmente dal Repricing
+RiskYield Curve Risk, Basis Risk, Refixing Risk e Optionality Risk;
+> salvaguardare il valore economico, inteso come sommatoria dei
+Present Value dei cash flow attesi, generati da entrambi i lati del
+Bilancio. La prospettiva del Valore Economico, a differenza di quella
+degli Utili Correnti, si pone in un‘ottica di medio/lungo termine ed &
+legata principalmente al Repricing Risk;
+> assicurare che il rischio di tasso assunto o assumibile sia
+correttamente identificato, misurato, controllato e gestito secondo
+metodologie e procedure formalizzate e condivise;
+> verificare che i modelli di misurazione dei rischi siano coerenti con gli
+effettivi risultati reddituali conseguiti dai diversi risk owner;
+> mantenere la qualita dei sistemi di misurazione dei rischi e dei
+processi di gestione dei rischi allineati agli standard delle best practice
+di mercato;
+> definire il sistema dei limiti e delle deleghe attribuiti ai diversi livelli di
+responsabilita;
+>» garantire la produzione di informativa e reportistica accurate per
+i diversi livelli organizzativi responsabili delle attivita di gestione e
+controllo;
+> assicurare il rispetto dei requisiti organizzativi previsti in materia degli
+organismi di vigilanza nazionali e internazionali.
+Il rispetto dei principi sopra richiamati e degli orientamenti strategici definiti
+dai vertici aziendali € garantito dall‘attivazione di un processo di controllo
+delle prassi operative, coordinato a diversi livelli della struttura organizzativa.
+Questi controlli sono affiancati da un sistema di procedure che guida il presidio
+degli indicatori di sensitivity del margine e di sensitivity del valore economico,
+entrambi basati sull’ipotesi di uno shift parallelo della Yield Curve. Sulla base
+delle analisi condotte sul profilo di rischio del Gruppo Bancario Mediolanum
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 646
+

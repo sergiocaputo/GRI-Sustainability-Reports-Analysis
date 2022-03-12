@@ -1,0 +1,114 @@
+Our
+performance
+
+ 
+
+| We, Generali | Risk Report | Outlook |
+
+Derivative financial instruments
+
+The Group’s balance sheet exposure to derivative in-
+struments is mainly associated with economic hedging
+transactions of financial assets or liabilities, in line with
+strategies aiming at mitigating financial and currency
+risks. The total exposure amounts to € 409 million for a
+corresponding notional amount of € 39,430 million. The
+notional exposure is presented in absolute amounts, in-
+cluding positions with both positive and negative balanc-
+es, and it arises for an amount of € 8,172 million from
+instruments for which a hedge accounting relationship
+has been formally designated, in accordance with the
+international accounting standard IAS 39. The remaining
+notional amount is attributable to derivative instruments
+for which, notwithstanding their purpose as economic
+hedging instruments, a formal hedge accounting rela-
+tionship has not been activated.
+
+Derivative instruments designated for hedge
+accounting
+
+The exposure in terms of amounts recognised in the fi-
+nancial statements amounts to € -185 million.
+
+- Fair value hedge
+
+Fair value hedging relationships mainly relate to hedging
+strategies implemented in Life portfolios of subsidiaries
+operating in Central-Eastern Europe, with particular ref-
+erence to risks arising from fluctuations in interest rates
+
+and foreign exchange rates
+
+- Cash flow hedge
+
+Details on exposure in derivative instruments
+
+Consolidated Non-Financial
+Statement
+
+Consolidated Financial
+Statements
+
+Appendices to the
+Management Report
+
+ 
+
+219 |
+
+The cash flow hedging relationships mainly relate to cross
+currency swaps hedging subordinated liabilities issued
+by the Group in British pound and to micro-hedge and re-
+investment risk reduction operations in the life portfolios
+
+— Hedge of net investment in foreign operations
+
+The Group continued the hedging strategy aimed at neu-
+tralising risks arising from foreign exchange fluctuations
+of its subsidiaries whose functional currency is the Swiss
+franc, Czech crowns and British pound.
+
+Other derivative instruments
+
+The recognised amounts in the financial statements for
+these exposures at 31 December 2018 amounted to € 593
+million for a corresponding notional amount of € 31,257
+million, which mainly relates to over-the-counter positions.
+The exposure is mainly associated with operations relat-
+ing to interest rates hedges and foreign exchange rates
+hedges. Furthermore the Group undertakes macro hedge
+strategies aimed at protecting the capital and the income
+statement from the risk of a significant reduction in share
+prices.
+
+In general, in order to mitigate the credit risk arising from
+over-the-counter transactions, the Group collateralises
+most of them. Furthermore, a list of selected authorised
+counterparties is identified for the opening of new deriva-
+tive transactions.
+
+Below the detail on exposures in derivatives instruments
+designated as hedge accounting and other derivative in-
+struments.
+
+ 
+
+ 
+
+ 
+
+ 
+
+(€ million) Maturity distribution by nominal amount Total notional =‘ Positive fair Negative fair Net fair value
+Within 1 year Between1 More than5 value value
+and 5 years years
+Total equity/index contracts 2,241 131 0 2,372 207 -14 193
+Total interest rate contracts 1,202 14,500. 9,938 25,639 1,192 -598 594
+Total foreign exchange contracts 6,797 1,431 3,189 11,418 226 -604 -379
+Total 10,240 16,062 13,128 39,430 1,625 -1,216 409
+
+Sensitivity analysis to market and credit risks
+
+The Generali Group makes its own analysis of sensitivity to market and credit risks following the logic of Solvency Il.
+For further information and the relevant numerical evidence please refer to the Risk Report in the Management Report.
+

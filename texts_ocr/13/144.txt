@@ -1,0 +1,53 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+1 - Attivita finanziarie valutate al fair value con impatto a conto economico
+
+Nella voce “20 Attivita finanziarie valutate al fair value con impatto a conto
+economico” sono classificate:
+
+a) Attivita finanziarie detenute per la negoziazione;
+b)Attivita finanziarie designate al fair value;
+c) Altre attivita finanziarie obbligatoriamente valutate al fair value.
+
+Attivita finanziarie detenute per la negoziazione
+
+Un’‘attivitd finanziaria (titoli di debito, titoli di capitale, finanziamenti, quote
+
+di O.1.C.R. e derivati) é iscritta in tale voce se @ acquisita principalmente con
+l‘obiettivo di realizzare flussi finanziari dalla vendita della stessa (Business Model
+“OTHER’) al fine di cogliere opportunita di profitto. Tale voce ricomprende il
+valore positivo di contratti derivati non designati ed efficaci quali strumenti di
+copertura.
+
+Attivita finanziarie designate al fair value
+
+Un‘attivitd finanziaria (titolo di debito e finanziamenti) pud essere designata
+
+al fair value con i risultati valutativi iscritti a conto economico sulla base della
+facolta (c.d. Fair Value Option) riconosciuta dall’IFRS 9. Tale designazione é
+ammessa solo se elimina o riduce in maniera significativa l’asimmetria contabile
+che deriverebbe dalla valutazione/rilevazione di utili/perdite su basi diverse per
+attivita o passivita gestionalmente tra loro collegate.
+
+Altre attivita finanziarie obbligatoriamente valutate al fair value
+
+Un‘attivita finanziaria (titolo di debito, quota di O.1.C.R. e finanziamenti) é@ iscritta
+in questa voce se @ uno strumento finanziario il cui rendimento é valutato in
+
+base al fair value ed é caratterizzato dall‘assenza, in termini contrattuali, di flussi
+finanziari a date prestabilite che rappresentino unicamente pagamenti di capitale
+ed interesse sul capitale da restituire owero nel caso in cui il Solely Payment of
+Principal and Interest test (c.d. SPPI test) risulti non superato.
+
+Liscrizione iniziale di tali strumenti avviene al momento del regolamento se sono
+titoli di debito, di capitale o crediti. Il valore di prima iscrizione é pari al fair value
+dello strumento (generalmente coincidente con il corrispettivo pagato), senza
+considerare eventuali costi o proventi di transazione direttamente attribuibili agli
+strumenti stessi.
+
+Successivamente all’iscrizione iniziale la valutazione é fatta al fair value con
+imputazione a conto economico delle relative variazioni. In particolare:
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 145
+

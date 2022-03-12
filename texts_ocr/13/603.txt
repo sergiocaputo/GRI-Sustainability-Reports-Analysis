@@ -1,0 +1,47 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+Qualora alla data di valutazione sia riscontrabile un significativo
+incremento della rischiosita creditizia dello strumento, la perdita
+attesa é misurata entro un orizzonte temporale che copra la vita dello
+strumento fino a scadenza (Lifetime Expected Credit Loss). Per quanto
+riguarda il portafoglio crediti, i criteri definiti per la determinazione
+dello stage 2 sono: deterioramento del rating, classificazione forborne,
+scaduto oltre i 30 giorni e classificazione interna nell‘ambito del
+processo di monitoraggio andamentale. Con riferimento al portafoglio
+titoli, la classificazione in stage 2 € funzione del deterioramento del
+rating dell‘isin o dell’emittente in base alle politiche interne definite
+dalla banca.
+
+> Stage 3: esposizioni il cui rischio creditizio si € incrementato al punto
+che lo strumento é considerato impaired, ossia classificato tra i crediti
+non-performing; questo stage include anche gli strumenti finanziari
+in default. In quest’ultima categoria rientrano tutte quelle attivita che
+presentano oggettive evidenze di impairment.
+
+Il calcolo dell’ECL del portafoglio crediti awiene sulla base dei rating attribuiti
+ai differenti segmenti di clientela (Retail/Corporate) elaborati dalla procedura
+Cedacri CRS (Credit Rating System). Per il calcolo dell’ECL lifetime ad ogni
+singolo rating si associa una curva di PD fino ad un massimo di 30 anni. La
+curva di PD lifetime individua la probabilita che un prenditore (associato ad
+una certa classe di rating) partendo dalla data di reporting vada in default
+entro l’anno relativo al nodo della curva. II processo di aggiornamento si
+completa con I'integrazione nelle stime di una componente forward looking
+sui primi tre anni della curva PD in dipendenza degli scenari macroeconomici
+stimati. Per quanto riguarda la valutazione dell’LGD, si distingue tra il
+“segmento privati” per il quale si applica una percentuale di LGD distinta per
+tipologia di rapporto e quantificata sulla base delle analisi di benchmark di
+mercato e delle evidenze interne in termini di tassi di recupero ed il “segmento
+corporate” per il quale si applicano i modelli econometrici implementati
+
+da Cedacri nell’ambito della procedura CRS. Per il calcolo della ECL del
+portafoglio titoli, gli strumenti finanziari sono suddivisi in tre categorie in base
+al segmento di appartenenza dell’emittente: Istituzioni finanziarie, Imprese
+
+e Governativi. || rating associato ad ogni emissione viene stabilito tramite i
+criteri descritti nelle policy interne. Per ogni segmento sono state sviluppate le
+relative curve di PD ed LGD impiegando le best practice di mercato e tenendo
+conto delle peculiarita dei portafogli.
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 604
+

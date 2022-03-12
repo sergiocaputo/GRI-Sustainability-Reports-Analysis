@@ -1,0 +1,109 @@
+| 182 | Generali Group
+
+In the opposite case, the fair value of derivatives is de-
+termined using internal valuation models or provided by
+third parties. In particular, the fair value is determined
+primarily on the basis of income approach using deter-
+ministic or stochastic models of discounted cash flows
+commonly shared and used by the market.
+
+The main input used in the valuation include volatility,
+interest rates, yield curves, credit spreads, dividend es-
+timates and exchange rates observed at frequent inter-
+vals.
+
+With reference to the fair value adjustment for credit and
+debt risk of derivatives (credit and debt valuation adjust-
+ment CVA / DVA), the Group considered this adjustment
+as not material for the valuation of its positive and neg-
+ative derivatives, as almost entirely of them is collater-
+alized. Their evaluation does not take into account for
+these adjustments.
+
+- Financial assets where the investment risk is borne by
+the policyholders and related to pension funds
+
+Generally, if available and if the market is defined as ac-
+tive, fair value is equal to the market price. On the contra-
+ry, valuation methodologies listed above for the different
+asset classes shall be used.
+
+— Financial liabilities
+
+Generally, if available and if the market is defined as ac-
+tive, fair value is equal to the market price.
+
+The fair value is determined primarily on the basis of the
+income approach using discounting techniques.
+
+In particular, the fair value of debt instruments issued by
+the Group are valued using discounted cash flow mod-
+els based on the current marginal rates of funding of the
+Group for similar types of loans, with maturities consist-
+ent with the maturity of the debt instruments subject to
+valuation.
+
+The fair value of other liabilities relating to investment
+contracts is determined using discounted cash flow
+models that incorporate several factors, including the
+credit risk embedded derivatives, volatility, servicing
+costs and redemptions. In general, however, are subject
+to the same valuation techniques used for financial as-
+sets linked policies.
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+Accounting for derivatives
+
+Derivatives are financial instruments or other contracts
+
+with the following characteristics:
+
+- their value changes in response to the change in interest
+rate, security price, commodity price, foreign exchange
+rate, index of prices or rates, credit rating or other
+pre-defined underlying variables;
+
+— they require no initial net investment or, if necessary,
+an initial net investment that is smaller than one which
+would be required for other types of contracts that
+would be expected to have a similar response to chang-
+es in market factors;
+
+— they are settled at a future date. Derivatives are classi-
+fied as at fair value through profit or loss.
+
+According to this accounting model the portion of the
+gain or loss on the hedging instrument that is determined
+to be an effective hedge is recognized directly in an ap-
+propriate item of comprehensive income while the inef-
+fective portion of the gains or loss on the hedging instru-
+ment is recognized in profit or loss.
+
+The amount accumulated in the other components of
+comprehensive income is reversed to profit and loss ac-
+count in line with the economic changes of the hedged
+item.
+
+When the hedging instrument expires or is sold, or the
+hedge no longer meets the criteria for hedge accounting,
+the cumulative gain or loss on the hedging instruments,
+that remains recognized directly in the other components
+of other comprehensive income from the period when the
+hedge was effective, remains separately recognized in
+comprehensive income until the forecast transaction oc-
+curs. However, if the forecasted transaction is no longer
+expected to occur, any related cumulative gain or loss on
+the hedging instrument that remains recognized directly
+in the other components of comprehensive income from
+the period when the hedge was effective is immediately
+recognized in profit or loss.
+
+With reference to emissions of some subordinated lia-
+bilities, the Group has entered into hedging transactions
+of the interest rates volatility and exchange rate fluctua-
+tions GBP/EURO, which for accounting purposes is des-
+ignated as hedging the volatility of cash flows (cash flow
+hedge) and accounted adopting the hedge accounting
+technique.
+

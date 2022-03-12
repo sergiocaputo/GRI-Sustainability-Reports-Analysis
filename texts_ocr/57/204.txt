@@ -1,0 +1,76 @@
+ 
+
+relative politiche di copertura
+
+ 
+
+Pertanto la Banca si é dotata di strutture centrali che si occupano del monitoraggio e della gestione anche delle
+posizioni ricondotte nell’'ambito del Default Regolamentare nelle classi delle “Esposizioni Scadute da oltre 90 giorni”
+(Past due) e “Inadempienze Probabili”. La gestione attiva delle posizioni si estrinseca principalmente nel seguire
+l'andamento delle posizioni ¢ nel sottoporre agli Organi competenti gli eventuali piani di ristrutturazione.
+
+Le posizioni in “sofferenza” sono quelle relative ai clienti in stato di insolvenza, anche non rilevata giudizialmente, o
+quelle sostanzialmente equiparabili. Tali posizioni sono gestite al fine di perseguire in prima istanza la possibilita di
+sistemazione stragiudiziale. Obiettivo prioritario in materia di gestione dei crediti in sofferenza € quello di favorire
+le azioni di recupero dei crediti, privilegiando le azioni stragiudiziali e assicurando - con principi di proporzionalita —
+lattivazione delle iniziative legali di tutela dei crediti.
+
+In virtu della problematica connessa alla gestione dei crediti anomali e delle potenziali ricadute di natura finanziaria
+ed economica, i vertici aziendali e lo stesso Consiglio di Amministrazione vengono regolarmente e periodicamente
+informati sull'andamento complessivo del portafoglio credito e sulle attivita gestionali poste in essere.
+
+2.5 Attivita finanziarie in bonis
+
+| crediti in bonis sono sottoposti alla valutazione di perdita di valore collettiva. In particolare, la determinazione del
+fondo svalutazione collettiva avviene mediante l’individuazione di categorie omogenee di rischio e la stima, per cia-
+scuna di esse, delle relative perdite latenti.
+
+La determinazione delle svalutazioni collettive sui crediti in bonis viene eseguita sfruttando le maggiori sinergie
+possibili con l'approccio previsto ai fini di Vigilanza dalle disposizioni di “Basilea”.
+
+In tale ottica la Banca, ai fini del calcolo della svalutazione collettiva, ha scelto di utilizzare un modello caratterizzato
+dalle seguenti fasi:
+
+a) Creazione di portafogli omogenei per profili di rischio
+
+La segmentazione dei crediti performing prevede la creazione di gruppi omogenei in relazione alle loro caratteristi-
+che di rischio. Ai fini del calcolo del fondo collettive viene mutuata la segmentazione con cui é suddivisa la clientela
+per l'attribuzione del rating. Nello specifico sono previste le seguenti classi: Privati, Small Business, Piccole e Medie
+Imprese, Large Corporate, Immobiliari, Banche e |stituzioni finanziarie, Enti.
+
+b) Individuazione della “probabilita di default” (PD) e della “Loss given default” (LGD)
+
+Il modello in uso identifica i gruppi omogenei di crediti sulla base del proprio contenuto di rischio e associa ad essi
+una previsione di perdita stimata sulla base dei seguenti parametri Probability of Default (“PD”) e Loss Given Default
+(“LGD”). In particolare, la PD é stimata utilizzando l'approccio cosiddetto “historical default experience”, ovvero os-
+servando il tasso di default empirico verificatosi sul portafoglio crediti.
+
+La definizione di default utilizzata ai fini della stima include le controparti classificate scadute e/o sconfinate, unlikely
+to pay e sofferenze.
+
+Per i segmenti Banche / Istituti finanziari ed Enti, le probabilita di default sono quantificate ricorrendo ai dati pubbli-
+cati annualmente dalle maggiori Agenzie di Rating. Lorizzonte temporale di un anno utilizzato per la determinazione
+della probabilita di default si ritiene possa approssimare, in via prudenziale, la nozione di “incurred loss”, ovvero di
+perdita fondata su eventi attuali, ma non ancora acquisiti dallimpresa nella revisione del grado di rischio dello spe-
+cifico cliente, prevista dagli IAS/IFRS (loss confirmation period fissato prudenzialmente pari a 1).
+
+La Loss Given Default, per le controparti in sofferenza, rappresenta il complemento del tasso di recupero storico
+di lungo periodo ottenuto sulla base di dati interni. Il parametro di LGD viene riproporzionato, tramite il “cure rate”,
+che é un fattore di mitigazione che tiene conto della percentuale di posizioni che rientrano in bonis e che quindi non
+generano perdite. In dettaglio si sottolinea che:
+
++ il parametro LGD é stimato sulla base di dati interni (e non piu sulla base dei dati consortili) e di un orizzonte
+temporale funzionale a cogliere le “current economic conditions”;
+
++ ivalori di LGD da applicare nel calcolo del fondo collettivo sono ottenuti con il metodo “a media di cella”, ossia
+come media semplice delle LGD individuali a livello di segmento, forma tecnica e tipologia di garanzia;
+
++ il parametro Danger Rate é stimato su dati interni e su un orizzonte temporale coerente con quanto previsto
+
+per la stima del parametro di PD. Inoltre, valgono le stesse regole descritte relativamente al parametro PD in
+relazione alla “bonifica per continuita” e “bonifica per continuita e materialita”.
+
+204
+
+ 
+

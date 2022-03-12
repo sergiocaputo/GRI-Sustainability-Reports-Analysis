@@ -1,0 +1,142 @@
+RISORSE UTILIZZATE - AREA ENERGIA (segue)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dato n. spiegazione ~ commento
+
+13 Rappresenta la quantita totale di isolante gassoso (SFe) negli impianti di Areti. Il dato é stimato. II dato riferito ai reintegri,
+anchesso stimato, rappresenta la quantita totale di SFs immesso ex-novo nel circuito produttivo nell’arco dell’anno.
+Rappresenta la quantita totale di fluidi refrigeranti in esercizio. | reintegri rappresentano la quantita di fluidi refrigeranti
+utilizzati in occasione di manutenzioni delle apparecchiature di condizionamento, durante le quali il gas in esercizio viene
+
+"4 recuperato e sostituito con il nuovo. | dati si riferiscono all’anno precedente rispetto allanno di esercizio in esame, in quanto
+si basano su dichiarazioni annuali ISPRA, successive alla pubblicazione del Bilancio di Sostenibilita. Entrambi i dati sono
+calcolati attribuendo il totale di gas complessivamente approwvigionato dalla Capogruppo all’area energia e all’area idrica, in
+parti uguali (50%).
+
+"5 Totale sostanze chimiche utilizzate nel processo di generazione elettrica e termica nelle centrali di Acea Produzione e negli
+impianti di termovalorizzazione di Acea Ambiente. Il dato é calcolato.
+
+16 Quantita di oli e grassi lubrificanti utilizzati da Acea Produzione. Il dato é misurato con incertezza paria + 0,5%.
+
+117 Coincide con il dato 28.
+
+118 Coincide con la differenza tra i dati 1 e 2.
+Energia elettrica consumata dai processi non direttamente legati alla fase produttiva (uffici). Il dato é calcolato in misura pari
+
+119 al 50% dell’energia elettrica complessivamente consumata dalla Capogruppo. La restante quota del 50% é imputata come
+consumo all’area idrica.
+
+120 Consumi di energia elettrica presso altre sedi ed impianti, tra cui i consumi degli impianti di termovalorizzazione (Terni e San
+Vittore del Lazio). Il dato é stimato.
+
+121 Altri usi dell’energia elettrica nell’area energia. II dato é calcolato.
+
+122 Totale dell’energia elettrica consumata dai sistemi di prodotto compresi nell’area energia. Il dato é calcolato.
+Totale energia elettrica consumata per illuminazione pubblica nel comune di Roma. La forte riduzione dei consumi nel 2019
+
+123 dipende dal completamento delle trasformazioni previste con il piano LED. II dato viene calcolato sulla base delle consistenze
+
+degli impianti in esercizio nell’anno.
+
+ 
+
+RISORSE UTILIZZATE - AREA AMBIENTE
+
+ 
+
+dato n.
+
+splegazione — commento
+
+ 
+
+IMPIANTO DI ORVIETO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+124 Totale sostanze chimiche utilizzate presso limpianto di Orvieto. Il dato é calcolato.
+
+125 Energia elettrica consumata nell’impianto di Orvieto. Il dato é misurato con incertezza del + 1%.
+
+126 Quantita totale di gasolio consumato presso l’impianto di Orvieto. I! dato é misurato con incertezza paria + 2%.
+
+107 Quantita di acqua consumata presso l’impianto di Orvieto. Si precisa che tale risorsa proviene in parte dalle tettoie (acqua
+pluviale) e in parte dall’alveo (acqua fluviale). II dato é stimato.
+
+128 Quantita di acqua utilizzata per scopi civili nel polo impiantistico di Orvieto. E fornita da autobotti in quanto il polo impiantistico
+
+non é collegato all’acquedotto. Il dato é stimato.
+
+ 
+
+PRODUZIONE DI COMPOST
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+129 Totale sostanze chimiche utilizzate presso gli impianti di Aprilia, Monterotondo Marittimo e Sabaudia. Il dato é calcolato.
+
+130 Energia elettrica consumata presso gli impianti di Aprilia, Monterotondo Marittimo e Sabaudia. Il dato é misurato con
+incertezza del + 1%.
+
+131 Quantita totale di gasolio consumato presso gli impianti di Aprilia, Monterotondo Marittimo e Sabaudia. I! dato 6 misurato
+con incertezza paria + 2%.
+
+132 Quantita di biogas prodotto presso i nuovi impianti di Aprilia e Monterotondo; lo scopo finale sara quello di produrre energia
+elettrica. Nel 2019, anno di awio, il gas é stato bruciato in torcia. Il dato é misurato con incertezza del + 1%.
+
+133 Quantita di acqua consumata presso gli impianti di Aprilia, Monterotondo Marittimo e Sabaudia. Sono inclusi i quantitativi
+di acqua riciclata. Il dato é stimato.
+
+134 Quantita di acqua utilizzata per scopi civili degli impianti di compostaggio di Aprilia, Monterotondo Marittimo e Sabaudia.
+
+Il dato é in parte stimato.
+
+ 
+
+BILANCIO AMBIENTALE
+
+269
+

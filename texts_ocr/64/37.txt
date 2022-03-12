@@ -1,0 +1,54 @@
+&
+Umani
+
+4.3.3. Risorse idriche
+
+La suddivisione dei consumi idrici del Gruppo Pininfarina ricalca Consumi idrici 2017
+
+quella dei consumi energetici, con le Societa del perimetro Italiano che (per Paese)
+registrano nel 2018 il 96,5% dei prelievi idrici totali. Anche in questo al i
+caso il dato origina dal fatto che le controllate estere registrano
+
+esclusivamente consumi per usi civili degli uffici.
+
+Per quanto riguarda il dato relativo ai consumi idrici della Cina, il
+notevole incremento é da ricondursi alla disponibilita di consumi non
+rendicontabili in precedenza che ha reso conseguentemente non
+comparabili i dati tra i due esercizi.
+
+La totalita dell’acqua prelevata € acqua comunale o derivante da altri
+servizi idrici pubblici o privati. Non si registrano prelievi idrici da acque
+superficiali, acque sotterranee, acque piovane raccolte direttamente e
+acque reflue da altre aziende.
+
+= Italia = Germania = Cina = Stati Uniti
+
+Si segnala che, al fine di ridurre l'impatto ambientale del sistema di condizionamento dell’aria per i test condotti
+nel tunnel del vento, Pininfarina Italia ha adottato un sistema di produzione del freddo con utilizzo di una “torre
+evaporativa” in combinazione con gruppo di refrigerazione; tale sistema rende piu efficiente dal punto di vista
+energetico la gestione della Galleria del Vento.
+
+Temi ied Trend (2018/2017)
+Italia 18.573.000 26.525.000 -30%
+Germania 587.000 605.000 -3%
+
+ 
+
+ 
+
+Cina 88.000 248 +35384%
+USA 2.860 - -
+TOTALE 19.250.860 27.130.248 -29%
+NOTA: i dati relativi ai consumi idrici di Pininfarina of America Corp. (USA) sono stimati sulla media dei
+consumi di un ufficio negli Stati Uniti.
+
+ 
+
+ 
+
+ 
+
+33 GRI 303-3: Prelievi idrici degli uffici e delle strutture.
+
+32
+

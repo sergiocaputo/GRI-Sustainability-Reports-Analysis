@@ -1,0 +1,98 @@
+COz emissions
+From ETS plants (10°t)
+
+0.67
+og 0.61
+
+0.25 0.20 0.20
+ee
+
+2017 2018 2019
+
+@ Certified emissions
+
+@ Allowances Allocated
+
+Total NOx emissions (t)
+
+564
+532
+
+452
+
+2017 2018 2019
+
+NOx emissions/energy used
+(kg/GJ)
+
+0.042 0.042
+0.037
+
+2017 2018 2019
+
+62 Sustainability Report 2019
+
+ 
+
+EMISSIONS TRADING SYSTEM (ETS)
+
+The carbon dioxide emissions of the Snam Group facilities subject to the ETS were
+overall greater than the emission shares allocated. The annual allocation of free
+allowances by the competent national authority gradually reduced over the years
+as set out From the third regulatory period in Article 10 bis of Directive 2009/29/
+EC. In view of around 0.609 million tonnes of carbon dioxide emitted into the
+atmosphere, around 0.202 million tonnes were allocated free of charge, resulting
+in a 0.407 million tonne deficit. The allowances allocated also include those
+intended For the new gas compression plants of Minerbio and Sergnano in 2018
+and 2019.
+
+Snam Emissions Trading Systems
+
+ 
+
+Number
+
+of plants Name of plants
+
+Gas compression stations in Enna, Gallese, Istrana, Malborghetto,
+Transportation 13 Masera, Melizzano, Messina, Montesano, Poggio Renatico, Tarsia,
+Terranuova Bracciolini, Minerbio, Sergnano
+
+ 
+
+Storage gas compression stations in Cortemaggiore, Fiume
+
+ 
+
+Storage 8 Treste, Minerbio, Ripalta, Sabbioncello, Sergnano, Settala and
+Bordolano
+Regasification 1 Panigaglia LNG regasification Facility
+
+ 
+
+NITROGEN OXIDE EMISSIONS
+
+The use of natural gas as the main energy source allows sulphur oxides and
+particle emissions to be minimised compared to the use of other fossil fuels. OF
+these, the only significant emissions are those of nitrogen oxides (NOx) , that
+derive mainly From the combustion of natural gas in the gas turbines installed in
+the compression plants (thrust and storage). A programme was launched in recent
+years to curb these emissions by replacing traditional turbines with low emission
+turbines which, to date, account for almost all the turbines installed. Specifically,
+with the DLE turbine coming into operation in 2019 in the Minerbio storage plant
+as well, all the storage sites were operating with low emission units.
+
+The reduction in energy consumption and the virtually total use of DLE turbines
+has led to a reduction in total nitrogen oxide emissions, in absolute terms of -20%
+compared to 2018 and a reduction in the ratio between nitrogen oxide emissions
+and energy use of 12%.
+
+Average NOx emissions for the installed power of the storage machinery were
+further reduced by almost 30% going from 5.2 to 3.7 ([mg/Nm?]/MW) while those
+for thrust remained unchanged, taking into account that they had already reached
+3.8 ([mg/Nm*]/MW) last year.
+
+Emissions of NOx into the atmosphere were calculated based on direct measurements or, if not available,
+through emission factors in literature (EMEP/EEA “Air pollutant emission inventory guidebook” European
+Monitoring and Evaluation Programme/European Environment Agency).
+

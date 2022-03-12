@@ -1,0 +1,109 @@
+© eurosuole spa
+SUSTAINABILITY REPORT 2018
+Explanatory notes
+
+Deferred tax assets and liabilities
+(Ref. art. 2427, first paragraph, no. 14, Civil Code)
+
+Given that there is no deferred tax liability, it should be noted that:
+
+- Deferred tax assets have been calculated according to the global allocation criterion, taking into account the
+cumulative amount of all the temporary differences and the IRES and IRAP rates presumably in force in the
+years in which these differences will be eliminated.
+
+- Deferred tax assets have been recognized because there is a reasonable certainty that, in the years in which
+the deductible temporary differences against which they were recognized will be reversed, taxable income
+will not be less than the differences that will be reversed.
+
+The evolution of deferred tax assets during the year was as follows:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Description Anticipated IRES_ Anticipated IRAP Total
+Initial balance of taxes from previous years 473.850 5.994 479.844
+Utilisation 2018 taxes from previous years (56.187) (56.187)
+Deferred tax assets formed in 2018 (14.597) (14.597)
+Rounding 1 1
+Deferred tax assets at 31/12/2018 403.067 5.994 409.061
+
+ 
+
+The algebraic sum of deferred tax assets formed in 2018 and the use of those formed in previous years has
+been included, for the amount of € 74.784, in item 20 of the income statement as an increase in taxes for the
+year. The final balance as at 31/12/2018 has been entered among the assets in the Financial Statements and
+precisely under item C.II.5 ter "Deferred tax assets". The main temporary differences that led to the recognition
+of deferred and prepaid taxes are shown in the following tables together with their effects.
+
+Recognition of deferred and prepaid taxes and consequent effects
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IRES IRAP
+
+A) Temporary differences
+
+Total deductible temporary differences 1.679.443 145.144
+
+Net temporary differences (1.679.443) (145.144)
+
+B) Tax effects
+
+Deferred (prepaid) taxes for the year (403.067) -
+
+Provision for deferred (prepaid) taxes at the end of the year (403.067) (5.994)
+
+Details of deductible temporary differences
+
+Amount at Change in Amount at IRES IRES IRAP IRAP
+the end of during the the end of rate value rate value
+the previous year the year
+year
+
+Higher civil
+depreciation than 1.679.953 (234.110) 1.445.843 24% 347.002 - -
+physically allowed
+Provisions for possible
+losses on receivables 149.277 - 149.277 24% 35.827 - -
+Civil provisions for
+agents' indemnities 145.144 - 145.144 24% 34.835 413%  4,13%
+Advance payments - (60.821) (60.821) 24% (14.597) - -
+
+deducted on a cash
+basis
+
+ 
+
+6 52
+

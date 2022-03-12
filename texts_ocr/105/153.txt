@@ -1,0 +1,46 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Qualora l’impegno al programma di dismissione sia assunto dopo la data di chiusura del bilancio d’esercizio, e/o l’attivita o il
+gruppo in dismissione possono essere oggetto della transazione solo in condizioni diverse da quelle attuali, la riclassifica non
+ha luogo e viene fornita adeguata informativa.
+
+Se, successivamente alla data di redazione del bilancio, un’attivita (0 gruppo in dismissione) non soddisfa piu i criteri per essere
+classificata come posseduta per la vendita, la stessa dovra essere oggetto di riclassifica previa valutazione al minore tra:
+
+a il valore contabile prima che |’attivita (0 gruppo in dismissione) fosse classificata come posseduta per la vendita, rettificato
+per tutti gli ammortamenti, svalutazioni o ripristini di valore che sarebbero stati altrimenti rilevati se l’attivita (0 il gruppo in
+dismissione) non fosse stata classificata come posseduta per la vendita;
+
+= lasomma recuperabile calcolata alla data in cui € stata presa la decisione successiva di non vendere.
+
+Qualsiasi rettifica necessaria del valore contabile di un’attivita non corrente che cessa di essere classificata come posseduta
+per la vendita é inclusa nell’utile (perdita) d’esercizio derivante dalle attivita operative in esercizio (continuing operations) nel
+periodo in cui i criteri per essere classificata come posseduta per la vendita non sono piu soddisfatti. Se una singola attivita o
+passivita é rimossa da un gruppo in dismissione classificato come posseduto per la vendita, le rimanenti attivita e passivita del
+gruppo in dismissione da vendere continuano a essere valutate come un unico gruppo soltanto se lo stesso soddisfa i criteri
+per essere classificato come posseduto per la vendita.
+
+Patrimonio netto
+
+Capitale sociale
+
+ll Capitale sociale é rappresentato dal capitale sottoscritto e versato di Poste Italiane S.p.A.. | costi strettamente correlati all’e-
+missione di nuove azioni sono imputati in riduzione del Capitale sociale, al netto dell’eventuale effetto fiscale differito.
+
+Riserve
+
+Sono costituite da riserve di capitale o di utili. Includono, tra le altre, la Riserva per il Patrimonio BancoPosta che costituisce
+le dotazioni iniziale e successive del Patrimonio destinato, giuridicamente autonomo, del BancoPosta, la Riserva legale della
+Capogruppo, la Riserva da fair value relativa alle partite contabilizzate con tale criterio con contropartita nel Patrimonio netto
+e la Riserva da cash flow hedge, relativa alla rilevazione della quota “efficace” delle coperture in essere alla data di riferimento
+del bilancio.
+
+Risultati portati a nuovo
+
+Riguardano i risultati economici dell’esercizio in corso e degli esercizi precedenti, per la parte non distribuita né imputata a riser-
+va 0 a copertura di perdite, gli utili e le perdite attuariali derivanti dal calcolo della passivita per TFR. La voce accoglie, inoltre, i
+trasferimenti da altre riserve di patrimonio quando viene meno il vincolo al quale erano sottoposte.
+
+152
+

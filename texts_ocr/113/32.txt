@@ -1,0 +1,82 @@
+Energy consumption
+
+The Reply Group energy consumption refers to:
+
++ Electricity, sourced from the national grid to
+supply offices and premises lighting systems,
+and technological and IT equipment (computers,
+printers, servers, data centres).
+
++ Natural gas for the operation of the heating
+systems installed in the Reply offices and whose
+consumption is strictly linked to the volume of
+corporate activities and number of offices.
+
++ Diesel and gasoline fuel for corporate vehicles.
+
++ Diesel used for heating.
+
++ District heating for offices and/or producing hot
+water, with a reduction in environmental impact.
+District heating is used mainly in Italy, Poland,
+
+Belarus, England, Luxembourg and Germany.
+
+TABLE 2. ENERGY CONSUMPTION BY TYPE
+
+The table below shows energy consumption by type
+for 2017, 2018 and 2019.
+
+The data reported show an increase in electricity
+
+(+ 33,8%) and diesel for running vehicles (+ 22,9%)
+consumption over the three-year period, mainly due
+to the growth of the organisation in terms of activities
+managed, the increase in the workforce, expansion
+of premises and offices, as well as the acquisition
+
+of new companies during 2019. Conversely, there
+was a decrease in the consumption of natural gas
+(-27,8%) and district heating energy (-19.1%) thanks
+
+to enhanced efficiency in building heating systems
+management with a reduction in the number of hours
+boilers were in use and in office opening hours, as
+well as continuous improvement in data collection
+methods. Heating figures are also affected by climate
+change, the effects of which overlap with initiatives to
+
+boost efficiency.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TYPE OF CONSUMPTION UNIT OF MEASURE 2017 2018 2019
+Electricity kWh/ year 9,571,010 10,259,103 12,820,844
+Natural gas m?/ year 1,417,462 982,642 1,022,743
+Diesel (vehicles) ltrs/ year 1,630,992 1,913,664 2,005,255
+Diesel (heating) ltrs/ year - - 17,000
+Gasoline ltrs/ year 210,934 150,335 12,613
+District heating kWh/ year 3,678,126 2,937,108 2,976,796
+
+ 
+
+The energy consumption figures demonstrate Reply’s commitment to protecting the environment and limiting
+
+greenhouse gas emissions, with a reduction in both consumption and emissions for both Scopes.
+
+With respect to Scope 2 consumption (district heating and electricity) the kWh consumption per employee
+
+dropped by 2.6%, with an average consumption of 1,846 kWh against last year’s figure of 1,896 kWh.
+
+32
+

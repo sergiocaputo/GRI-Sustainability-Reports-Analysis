@@ -1,0 +1,76 @@
+The exchange rates used to translate the foreign currency financial statements into Euros are as follows:
+
+  
+   
+  
+   
+  
+    
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+
+ 
+
+Closing Closing
+2018 2019
+rate 31 rate 31
+Currency average average
+December December
+rate rate
+2018 2019
+ZAR South African Rand 16.4594 15.6186 15.7773 16.1757
+BRL Brazilian Real 4.444 4.3085 4.5157 4.4134
+
+BGN Bulgarian New Lev
+
+DZD Algerian Dinar : 135.4881 137.6525 : 133.8916 : 133.6757
+INR Indian Rupee : 79.7298 80.7332 : 80.187 : 78.8361
+LYD Libyan Dinar : 1.5972 1.6102 : 1.5709 : 1.5653
+MYR Malaysian Ringgit : 4.7317 4.7634 : 4.5953 : 4.6374
+NGN Nigerian Naira : 350.9425 360.9013 : 344.3221 : 343.0512
+
+PES Chilean Peso 794.37 756.94 844.86 786.89
+PLN Polish Zloty
+
+USD US Dollar 1.145 1.181 1.1234 1.1195
+NAM Namibian Dollar : 16.4594 15.6188 : 15.7773 : 16.1753
+CHF Swiss Franc : 1.1269 1.155 : 1.0854 : 1.1124
+GBP British Pound : 0.89453 0.88471 : 0.8508 : 0.87777
+DOP Dominican Peso : 57.5242 58.3906 : 59.4629 : 57.3487
+PKR Pakistani Rupee : 160.1149 143.2823 : 173.9591 : 168.318
+QAR Qatari Riyal : 4.1678 4.2987 : 4.0892 : 4.0749
+DKK Danish Krone : 7.467300 7.453200 : 7.4715 : 7.4661
+OMR Omani Rial : 0.440300 0.454100 : 0.4319 : 0.4304
+
+BsS Bolivar Soberano (VEF 2017) 729.8027 137.6549 52308.3738 14692.8696
+
+ 
+
+When an investment in a consolidated entity is sold, the accumulated gain or loss recognised in equity is
+
+released to profit or loss.
+
+The consolidation criteria used to prepare these consolidated financial statements may be summarised as
+follows:
+
+- subsidiaries are consolidated on a line-by-line basis, whereby:
+
+ 
+
+234
+

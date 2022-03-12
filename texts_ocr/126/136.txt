@@ -1,0 +1,79 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+Finally, also during the course of 2019, TIM continued to take the steps required to ensure the implementation of
+provisions in its internal processes to deal with any violation of personal data security (so-called “data breaches”), as well
+as to respond to the numerous customer requests (for example, to know what personal data is being processed by TIM
+or exercise other rights) and the information requests submitted to TIM by the Italian Data Protection Authority.
+
+The table below shows:
+
+(i) the information requests made to TIM, in Italy, by the Italian Data Protection Authority, including those made following
+reports/complaints by customers;
+
+(ii) the answers provided to requests for the exercise of privacy rights made by TIM customers to Customer Care or directly
+to the Data Protection Officer.
+
+ 
+
+ 
+
+2019 2018 2017
+Requests received (number of cases/complaints
+116 71 124
+reported)
+Replies to requests for the exercise of customers'
+864,417 583,285 -
+
+privacy rights addressed to TIM Customer Care
+
+ 
+
+-of which answers to requests for the exercise of
+privacy rights made by customers directly to the 2,680 867* -
+Data Protection Officer
+
+ 
+
+* Data referring to the period 05/25/18 (effective date of the GDPR) as of 12/31/18.
+
+[GRI 103-1: Management Approach] [GRI 418] In Brazil, TIM Participagdes believes that the confidentiality of customer
+information is a primary commitment for telecommunications companies and monitors its systems uninterruptedly in
+order to prevent and detect any unauthorized access attempts.
+
+[GRI 103-2: Management Approach] [GRI 418] As pursuant to article 5 of the Federal Constitution, and article 3 of the
+General Law on Telecommunications No. 9,472 of 1997, the right of customers to the confidentiality of their personal data
+is established (with the exception of cases provided for by the law). The Personal Mobile Service regulation, in articles 89,
+90 and 91 of Resolution No. 477 of the national telecommunications agency (ANATEL), requires companies to take
+responsibility in this respect and establishes that any waiver of confidentiality must take place only if requested by the
+relevant authority in the cases provided for by law. The 2014 Federal Law (Marco Civil) No. 12,965 (Brazilian Civil Rights
+Framework for the Internet), under articles 10 and 11, ensures the privacy and protection of personal data for Internet
+users.
+On August 14, 2018 the President of the Republic approved the General Data Protection Act No. 13,709/2018, which will
+come into force in August 2020. This law applies to any data processing by a legal person or entity under the control of
+public or private companies, regardless of the area and country in which the headquarters are located or in which the
+data is located, on condition that:
+* the processing is carried out in the national territory;
+
+* the purpose of data processing is the provision of goods or services or the processing of data of persons located in the
+
+national territory;
+* the personal data subject to processing has been collected in the national territory.
+
+ 
+
+ 
+
+ 
+
+ 
+
+To guarantee the confidentiality of the its customers’ information, in accordance with national legislation (including
+Articles 10 and 11 of the “Marco Civil”), TIM Participagdes has issued relevant internal policies and procedures to ensure
+the confidentiality of information relating to its customers, based on the “need to know” principle (personal data
+processing is restricted to the minimum required to carry out the work) and the separation of duties. These policies and
+procedures set out the methods for the classification and management of information to guarantee suitable protection
+levels.
+
+137
+

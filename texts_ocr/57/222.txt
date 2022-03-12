@@ -1,0 +1,130 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+
+ 
+
+All'atto della cessione, le attivita cartolarizzate presentavano un valore di bilancio pari ad euro 601.660.922 cosi
+distribuito:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Distribuzione delle attivita cartolarizzate per aree territoriali Principali settori di attivita economica dei debitori ceduti
+
+Italia Nord-Ovest 6.145.791 Stati
+
+Italia Nord-Est 4.171.102, Altri enti pubblici
+
+Italia Centro 38.300.548, Banche
+
+Italia Sud e Isole 552.985.470 Societa finanziarie
+
+Altri Paesi europei 58.011 Assicurazioni
+
+America Imprese non finanziarie 601.660.922
+
+Resto del mondo Altri soggetti
+
+Totale 601.660.922 Totale 601.660.922
+‘mporineve} (import n euro)
+
+2017 Popolare Bari SME Srl
+
+In data 13 marzo 2017 Banca Popolare di Bari, insieme alla controllata Cassa di Risparmio di Orvieto, nell’ottica di
+rafforzamento degli indicatori di liquidita della Banca, hanno perfezionato un’operazione di cartolarizzazione mul-
+ti-originator, cedendo un portafoglio di mutui ipotecari e chirografari in bonis concessi a Piccole e Medie imprese
+(PMI) per un ammontare complessivo pari ad euro 839,19 milioni, di cui 722,52 milioni derivanti da BPB e 116,67
+milioni da CRO.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Societa Veicolo 2017 Popolare Bari SME Srl
+Tipologia operazione Tradizionale
+Originator Banca Popolare di Bari - Cassa di Risparmio di Orvieto
+Servicer Banca Popolare di Bari
+Arranger J-P-Morgan
+‘Computation Agent Securitisation Services SpA
+Corporate Servicer Securitisation Services SpA
+Tipologia attivita cartolarizzate Finanziamenti a piccole e medie imprese (PMI)
+Qualita attivita cartolarizzate In bonis
+Data di godimento 13/03/2017
+Prezzo di cessione del portafogtio 839.191.018
+- di cui Originator Banca Popolare di Bari 722.516.624
+- di cui Originator Cassa di Risparmio di Orvieto 116.674.3904
+
+ 
+
+Totale “Decartolarizzazioni” a fine esercizio
+
+ 
+
+Mutuo a ricorso limitato concesso dell'Originator Banca Popolare di Bari
+
+ 
+
+Mutuo a ricorso limitato concesso dell’Originator Cassa di Risparmio di Orvieto
+
+ 
+
+Agenzie di Rating
+
+ 
+
+(import in euro)
+
+ 
+
+Loriginator Banca Popolare di Bari ha ceduto alla Societa Veicolo “2017 Popolare Bari SME Srl” un ammontare com-
+plessivo di crediti pari ad euro 722.516 mila.
+
+Afronte dei crediti ceduti nonché della costituzione di una riserva di liquidita e di un retention amount pari a com-
+plessivi euro 10.856 mila, la Societa Veicolo “2017 Popolare Bari SME Srl” ha emesso quattro distinte classi di titoli
+Asset Backed Securities (ABS), di cui una senior (A1), e due junior (B1 e B2), per un ammontare complessivo di euro
+851.800 mila.
+
+ 
+
+222
+

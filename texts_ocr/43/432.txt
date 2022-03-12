@@ -1,0 +1,156 @@
+10. Glossario
+
+ 
+
+Senior bond
+
+In un‘operazione di cartolarizzazione é la tranche con il mag-
+giore grado di privilegio in termini di priorita di remunerazio-
+ne e rimborso.
+
+Sensitivity
+
+Identifica la situazione di maggiore o minore sensibilita con la
+quale determinate attivita o passivita reagiscono a variazioni
+dei tassi o di altri parametri di riferimento.
+
+SEPA
+
+Single Euro Payments Area (Area Unica dei Pagamenti in Euro)
+cui aderiscono i 28 Paesi membri dell’UE e altri Paesi non ap-
+partenenti all’UE. All’interno di quest’area tutti gli operatori
+economici possono effettuare e ricevere pagamenti in euro
+secondo regole, procedure e prassi uniformi.
+
+Single Resolution Mechanism (SRM)
+
+E uno dei tre pilastri su cui si fonda I’Unione bancaria all'in-
+terno dell’Area Euro realizzati nel 2014 per fronteggiare la
+frammentazione del mercato finanziario europeo. Prevede
+che la risoluzione delle crisi delle banche e delle imprese di
+investimento dell‘Area Euro sia gestita dal Comitato unico di
+risoluzione che opera secondo regole armonizzate e si avvale,
+per gli interventi, di un Fondo di risoluzione unico.
+
+Single Supervisory Mechanism (SSM)
+
+E uno dei tre pilastri su cui si fonda I’Unione bancaria all'in-
+terno dell'Area Euro realizzati nel 2014 per fronteggiare la
+frammentazione del mercato finanziario europeo. Prevede
+l'esercizio diretto della vigilanza sulle banche significative
+dell’area euro da parte della BCE al fine di garantire criteri di
+vigilanza uniformi.
+
+Sistema informativo
+
+Complesso di infrastrutture, personale e procedure destinato
+alla gestione delle informazioni rilevanti per la societa; la par-
+te di esso gestita mediante |'utilizzo di tecnologie informati-
+che viene in genere chiamata sistema informatico.
+
+Societa di gestione del risparmio (SGR)
+
+Si tratta di una societa per azioni di diritto italiano, con sede
+legale e direzione generale in Italia, autorizzata a prestare
+il servizio di gestione collettiva del risparmio, il servizio di
+gestione su base individuale di portafogli di investimento
+per conto terzi nonché gli altri servizi e attivita previsti dalla
+normativa.
+
+Societa di intermediazione mobiliare (SIM)
+
+Si tratta di un intermediario autorizzato a prestare servizi di
+investimento, quali, tra gli altri, la negoziazione per conto
+proprio e per conto terzi, la ricezione e trasmissione di ordini
+e la mediazione, la gestione patrimoniale.
+
+Societa di investimento a capitale variabile (SICAV)
+
+Si tratta di un OICR strutturato in forma di societa per azioni,
+avente per oggetto esclusivo |’investimento del proprio patri-
+monio. A differenza della partecipazione al fondo, la parteci-
+pazione alla SICAV é data dalla titolarita non di quote bensi di
+azioni. Il sottoscrittore della SICAV pud pertanto partecipare
+all'assemblea degli azionisti.
+
+Sottostante
+Strumento finanziario dal cui valore dipende quello di uno
+strumento derivato o di un titolo strutturato.
+
+Fideuram - Intesa Sanpaolo Private Banking Annual Report Integrato 2019 .—. 429
+
+Special Purpose Vehicles (SPV)
+
+Le Special Purpose Vehicles sono societa appositamente costi-
+tuite da uno o pili soggetti per lo svolgimento di una specifica
+operazione.
+
+Speculative grade
+
+Termine che si riferisce al rating di un emittente o di un titolo ob-
+bligazionario basso (inferiore a BBB di S&P’s e Baa2 di Moody's).
+Implicitamente, la classificazione di speculative grade sottinten-
+de un elevato rischio creditizio dello strumento finanziario.
+
+Spin off
+Si riferisce allo scorporo di una parte dei beni di un‘azienda in
+una nuova entita giuridica.
+
+SPPI test
+
+Test rivolto ad analizzare se i flussi di cassa di un dato stru-
+mento finanziario rappresentano “solely payments of principal
+and interest”, cioé se la remunerazione dello stesso sia legata
+esclusivamente al pagamento degli interessi e al rimborso del
+capitale. II risultato del test, unitamente al modello di business
+adottato, determina la classificazione in bilancio dello strumen-
+to finanziario ai sensi del principio contabile IFRS9.
+
+Spread
+
+E il differenziale tra i tassi di interesse tra titoli di uguale
+scadenza. Normalmente si usa per misurare il differenziale
+di rendimento tra il Bund decennale tedesco, che é il titolo
+di Stato della Germania con scadenza a dieci anni, e il BTP,
+l'equivalente italiano. Quando lo spread BTP-Bund sale signi-
+fica che salgono gli interessi che lo Stato italiano dovra pagare
+agli investitori di mercato rispetto agli omologhi titoli tede-
+schi. In pratica é una misura del rischio Italia rispetto al paese
+guida che é la Germania.
+
+Stakeholder
+
+Soggetti che, a vario titolo, interagiscono con I’attivita dell'im-
+presa, partecipando ai risultati, influenzandone le prestazioni,
+valutandone |l’impatto economico, sociale e ambientale.
+
+Stakeholder engagement
+
+E il processo di scambio delle informazioni, ascolto e appren-
+dimento dagli stakeholder al fine di creare reciproca compren-
+sione e fiducia su problemi di mutuo interesse. La sua utilita si
+deve alla possibilita di coniugare gli obiettivi aziendali con le
+esigenze e le aspettative dei vari stakeholder.
+
+Stock option
+
+Contratti di opzione di acquisto delle azioni della societa che
+concedono il diritto di acquistare entro un tempo prestabilito e
+ad un prezzo prefissato le azioni stesse. Vengono utilizzati quale
+forma di remunerazione integrativa, incentivante e fidelizzante.
+
+Stress test
+
+Procedura di simulazione utilizzata al fine di misurare I’impat-
+to di scenari di mercato estremi sull’esposizione complessiva
+al rischio della Banca.
+
+Strike price
+Rappresenta il prezzo di esercizio di un‘opzione.
+
+Strumenti finanziari quotati in un mercato attivo
+
+Uno strumento finanziario é considerato come quotato su un
+mercato attivo se le quotazioni, che riflettono normali opera-
+zioni di mercato, sono prontamente e regolarmente disponibili
+

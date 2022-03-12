@@ -1,0 +1,67 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Strumenti derivati
+
+Alla data di stipula del contratto gli Strumenti derivati sono contabilizzati al fair value e, se essi non soddisfano i requisiti per
+la contabilizzazione quali strumenti di copertura, le variazioni del fair value rilevate successivamente alla prima iscrizione sono
+separatamente contabilizzate nel Conto economico dell’esercizio.
+
+Se, invece, gli strumenti derivati soddisfano i requisiti per essere classificati come strumenti di copertura, le successive varia-
+zioni del fair value vengono contabilizzate seguendo gli specifici criteri di seguito indicati.
+
+Di ciascuno strumento finanziario derivato qualificato per la rilevazione come strumento di copertura 6 documentata la sua
+relazione con l’oggetto di copertura, compresi gli obiettivi di gestione del rischio, la strategia di copertura e i metodi per la
+verifica dell’efficacia. La verifica dell’efficacia di ciascuna copertura é fatta sia al momento di accensione di ciascuno strumento
+derivato, sia durante la sua vita.
+
+= Fair value hedge*
+
+Quando la copertura riguarda attivita o passivita iscritte in bilancio, owero riguarda un impegno irrevocabile non iscritto, sia
+la variazione di fair value dello strumento di copertura, sia la variazioni di fair value dell’oggetto della copertura sono impu-
+tate al Conto economico. Quando la copertura non é perfettamente “efficace”, ossia sono rilevate differenze tra le suddette
+variazioni, la parte non “efficace” rappresenta un onere o provento separatamente iscritto tra le componenti del reddito
+dell’esercizio.
+
+Lo IAS 39 consente che l’oggetto di copertura dal fair value possa essere individuato non solo in una singola attivita o
+passivita finanziaria ma anche in un importo monetario, riveniente da una molteplicita di attivita e passivita finanziarie (o di
+loro porzioni), in modo che un insieme di contratti derivati possa essere utilizzato per ridurre le oscillazioni da fair value degli
+strumenti oggetto di copertura al modificarsi dei tassi di interesse di mercato (cd. copertura generica o macrohedging). Non
+possono essere oggetto di copertura generica importi netti rivenienti dallo sbilancio di attivita e passivita. Analogamente alle
+coperture classiche di fair value (microhedging), una copertura generica viene considerata altamente efficace se, sia all’inizio
+che durante la sua vita, i cambiamenti del fair value dell’importo monetario coperto sono compensati dai cambiamenti del
+fair value dei derivati di copertura, e se i risultati effettivi siano all’interno dell’intervallo richiesto dallo IAS 39.
+
+= Cash flow hedge**
+Nel caso di cash flow hedge, le variazioni del fair value dello strumento derivato registrate successivamente alla prima rileva-
+zione sono imputate, limitatamente alla sola quota efficace, a una specifica riserva di Patrimonio netto la cui movimentazione
+é rappresentata nelle Altre componenti di Conto economico complessivo (Riserva da cash flow hedge). Una copertura é
+in genere considerata altamente efficace se, sia all’inizio che durante la sua vita, i cambiamenti dei flussi di cassa attesi nel
+futuro per l’elemento coperto sono sostanzialmente compensati dai cambiamenti del fair value dello strumento di copertura.
+Quando la copertura non é€ perfettamente efficace, la variazione di fair value dello strumento di copertura, riferibile alla por-
+zione inefficace dello stesso, é immediatamente rilevata nel Conto economico del periodo considerato.
+Quando si manifestano gli effetti economici originati dall’oggetto della copertura, la riserva é imputata a Conto economico. In
+particolare, nel caso in cui la copertura é relativa a una programmata operazione altamente probabile (per esempio, acquisto
+a termine di titoli di debito a reddito fisso), la riserva é attribuita alle componenti positive o negative di reddito nell’esercizio o
+negli esercizi in cui le attivita o le passivita, successivamente iscritte e connesse alla citata operazione, influenzano il Conto
+economico (nell’es. a correzione del rendimento del titolo).
+Se, durante la vita di uno strumento derivato, il manifestarsi dei flussi di cassa previsti e oggetto della copertura non é pil
+ritenuto altamente probabile, la quota della Riserva da cash flow heage relativa a tale strumento viene immediatamente attri-
+buita al Conto economico dell’esercizio considerato. Viceversa, se lo strumento derivato 6 ceduto o non é pit qualificabile
+come strumento di copertura “efficace”, la Riserva da cash flow hedge sino a quel momento rilevata viene mantenuta quale
+componente del Patrimonio netto ed é imputata a Conto economico seguendo il criterio di imputazione sopra descritto,
+contestualmente al manifestarsi dell’operazione originariamente oggetto della copertura.
+
+ 
+
+ 
+
+38. Copertura dell’esposizione alle variazioni di fair value di un’attivita o passivita rilevata o un impegno irrevocabile non iscritto che € attribuibile a un rischio
+particolare e potrebbe influenzare il Conto economico.
+
+39. Copertura dell’esposizione alla variabilita dei flussi finanziari che é attribuibile a un particolare rischio associato a un’attivita o passivita rilevata o a una
+programmata operazione altamente probabile e che potrebbe influenzare il Conto economico.
+
+|
+148
+

@@ -1,0 +1,85 @@
+Inspections and leaks in the gas network
+
+ 
+
+2016 2017 2018
+Percentage of total high and medium
+pressure network inspected (service 56.3% 58.0% 60.5%
+obligation 100% in 3 years)
+
+ 
+
+Percentage of total low pressure network
+
+ 
+
+ 
+
+ 
+
+inspected (service obligation 100% in 4 years) 78.1% 74.7% 78.9%
+Number of leaks on distribution network
+
+located upon inspection per kilometre of 0.065 0.059 0.114
+network
+
+Number of leaks on distribution network
+
+located upon notification by third parties, per 0.041 0.037 0.035
+
+ 
+
+ 
+
+ 
+
+ 
+
+kilometre of network
+
+ 
+
+In 2018, the percentage of the grid that was inspected was significantly above the minimum standard
+required by ARERA (100% for the high and medium pressure grid in 3 years and 100% of the low pressure
+grid in 4 years). In fact, at Group level, the high and medium pressure grid inspected was over 60% and the
+low pressure grid was 79%.
+
+In 2018 the scheduled inspections of the network, network elements and gas metering units were
+performed by internal staff, ensuring the highest quality of service and compliance with ARERA’s
+regulations and with the Group’s guidelines.
+
+In addition to applying the criteria and rationale contained in the Group’s operating instructions, the data
+obtained from a prediction algorithm of the predisposition to pipeline failure, empirically applied and
+adapted to the planned gas dispersion research activity, were also taken into consideration. In 2018, as part
+of the data analysis and application of the algorithm, we decided to start another project consisting in the
+development of a dynamic optimization workframe for scheduled gas leak detection work on gas networks,
+which will be available from January 2019.
+
+2018 is the second year of the second three-year period of application of the regulatory period in
+accordance with ARERA Resolution 574/2013. The results achieved in 2018 must therefore be considered in
+relation to future performance in 2019 and past performance in 2017 and to the standards set in
+Resolution 574/2013.
+
+In 2018, in the Group’s entire gas distribution network, 35 leaks were reported by third parties, per
+thousand kilometres of network, compared to 37 in 2018. On the other hand, in 2018, 114 leaks were
+identified by means of inspections on the Group’s distribution network per thousand kilometres of
+network, compared to 59 in 2017. The number of third-party leakages on buried networks following
+notification decreased compared to 2018, while the number of planned inspections for leaks has increased,
+proving that the plan for planned inspections of leaks on high-risk and obsolescent networks is effective.
+
+The network with high probability of leakage that was inspected was consistent with the network
+inspected in 2017. In 2018, the criteria for planning and carrying out gas network inspections, as set out in
+the Group’s operating instructions, were applied, with the objective of increasing the inspection
+effectiveness pursuant to ARERA’s Resolution 574/2013. Furthermore, in 2018, gas network inspections
+were carried out completely by internal staff thus ensuring a high quality service. In addition, in 2018,
+Hera’s distribution company, Inrete, continued to plan and execute a series of inspection campaigns for
+underground and above-ground connections.
+
+Scheduled searches for gas leaks continued throughout 2018, applied also to above-ground system
+components, in particular:
+
+e the systematic check for the absence of leaks on network elements (valves, vents, crossings, etc.)
+is carried out during scheduled periodic operating/maintenance activities;
+
+241
+

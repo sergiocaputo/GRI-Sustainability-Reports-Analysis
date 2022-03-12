@@ -1,0 +1,76 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+golate con tempistiche previste dalla prassi di mercato (regular way), altrimenti si fa riferimento alla data di contrat-
+tazione (trade date). Le attivita finanziarie detenute per la negoziazione sono contabilizzate inizialmente al fair value
+senza considerare i costi o proventi di transazione direttamente attribuibili allo strumento stesso.
+
+Criteri di valutazione e rilevazione delle componenti reddituali
+
+In seguito alliscrizione iniziale le attivita finanziarie detenute per la negoziazione sono valorizzate al fair value, ad
+eccezione degli strumenti rappresentativi di capitale non quotati in un mercato attivo, mantenuti al costo, qualora il
+fair value non possa essere determinato in modo attendibile. In quest’ultimo caso viene periodicamente valutata la
+presenza di indicatori di impairment. Nel caso in cui il fair value di un’attivita finanziaria diventi negativo, tale attivita
+é contabilizzata come passivita finanziaria.
+
+ll fair value degli investimenti quotati in mercati attivi é determinato con riferimento a tali quotazioni di mercato. Per
+gli investimenti peri quali non é disponibile la quotazione in un mercato attivo il fair value € determinato utilizzando
+metodi di stima e modelli valutativi che tengono conto di tutti i fattori di rischio correlati agli strumenti e che sono
+basati su dati rilevabili sul mercato. Tali tecniche possono considerare i prezzi rilevati per recenti transazioni simili
+concluse a condizioni di mercato, flussi di cassa scontati, modelli di determinazione del prezzo di opzioni ed altre
+tecniche comunemente utilizzate dagli operatori di mercato.
+
+Gli utili e le perdite realizzati sulla cessione o sul rimborso e gli utili e le perdite non realizzati derivanti dalle variazioni
+del fair value rispetto al costo di acquisto, determinato sulla base del costo medio ponderato, sono imputate a conto
+economico del periodo nel quale emergono, alla voce “Risultato netto dell'attivita di negoziazione”.
+
+Criteri di cancellazione
+
+Le attivita finanziarie sono cancellate quando il diritto a ricevere i flussi di cassa dall'attivita finanziaria ¢ estinto, o
+laddove siano trasferiti in maniera sostanziale tutti i rischi ed i benefici connessi alla detenzione di quella determi-
+nata attivita.
+
+ 
+
+Sezione 2 - Atti
+
+ 
+
+ita finanziarie disponibili per la vendita
+Criteri di classificazione
+
+Gli investimenti “disponibili per la vendita” sono attivita finanziarie (titoli del mercato monetario, altri strumenti di
+debito e di capitale) che si intende mantenere per un periodo di tempo indefinito e che possono essere vendute per
+esigenze di liquidita, variazioni nei tassi d'interesse, nei tassi di cambio e nei prezzi di mercato. In tale categoria sono
+esclusi i derivati mentre sono compresi gli investimenti in titoli azionari non di controllo, collegamento e controllo
+congiunto (cd. partecipazioni di minoranza).
+
+ 
+
+Liscrizione iniziale delle attivita finanziarie avviene alla data di regolamento (settlement date) se regolate con tem-
+pistiche previste dalla prassi di mercato (regular way), altrimenti alla data di contrattazione (trade date).
+
+Le attivita finanziarie disponibili per la vendita sono contabilizzate inizialmente al costo, inteso come il fair value
+
+dello strumento.
+
+Criteri di valutazione e rilevazione delle componenti reddituali
+
+Le attivita finanziarie disponibili per la vendita sono valutate al fair value, rilevando:
+
+* aconto economico, gli interessi calcolati con il metodo del tasso d'interesse effettivo, che tiene conto dell’am-
+mortamento sia dei costi di transazione sia delle differenze tra il costo e il valore di rimborso (scarto di emissio-
+
+ne);
+
+* apatrimonio netto, in una specifica riserva, al netto dell’imposizione fiscale, i proventi ed oneri che derivano dalla
+variazione del fair value. Tale variazione viene indicata anche nei prospetti relativi alla redditivita complessiva.
+
+Alcuni titoli di capitale non quotati, per i quali il fair value non risulta determinabile in modo attendibile o verifica-
+bile, anche in considerazione della rilevanza dei range di valori ritraibili dall’applicazione dei modelli di valutazione
+
+418
+
+ 
+

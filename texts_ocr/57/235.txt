@@ -1,0 +1,98 @@
+Bilancio Individuale 2017
+
+ 
+
+3. Portafoglio di negoziazione di vigilanza: modelli interni e altre metodologie di analisi della sensitivita
+
+Nella presente sezione vengono sinteticamente esposti i risultati delle analisi di rischio ditasso e di rischio di prezzo
+nell'ambito del portafoglio di negoziazione di vigilanza.
+
+In particolare, le tabelle sotto riportate evidenziano i dettagli relativi al VaR generato rispettivamente dal fattore di
+rischio “tasso di interesse” e dal fattore di rischio “prezzo”.
+
+ 
+
+ 
+
+ 
+
+Interest Rate VaR Valore puntuale Media Minimo Massimo
+31.12.16 705.531 228.984 5.144 1.252.139
+31.12.17 1,328 604.913 1.328 1.027.876
+
+ 
+
+*valori in unita di euro
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Equity VaR Valore puntuale Media Minimo Massimo
+31.12.16 181.817 327.042 181.817 625.475
+31.12.17 82.125 377.354 82.125 606.871
+
+ 
+
+*valori in unita di euro
+
+2.2 Rischio di tasso di interesse e di prezzo - portafoglio bancario
+Informazioni di natura qualitativa
+
+A. Aspetti generali, procedure di gestione e metodi di misurazione del rischio di tasso di interesse e del rischio
+di prezzo
+
+In coerenza con quanto previsto dalla Circolare 285/2013, la Banca definisce il rischio di tasso come rischio di va-
+riazioni del valore economico del patrimonio e del margine di interesse determinate da variazioni inattese dei tassi
+che impattano sul portafoglio bancario, con esclusione delle poste detenute nel portafoglio di negoziazione ai fini
+di vigilanza.
+
+Al fine di misurare e gestire la propria esposizione al rischio di tasso di interesse, la Banca si é dotata di una specifica
+policy e ha implementato idonee procedure volte a monitorare i livelli di rischio assunti e contenere gli stessi entro
+il complessivo profilo definito dagli Organi con funzione di indirizzo strategico.
+
+Agli Organi Aziendali della Banca é attribuita infatti la responsabilita primaria di assicurare l’efficacia del sistema di
+gestione e controllo del rischio tasso. In qualita di Organo di Supervisione Strategica, il Consiglio di Amministrazione
+stabilisce le linee guida per la gestione del rischio tasso, attraverso la definizione degli orientamenti e degli indirizzi
+strategici declinati in termini di obiettivi di rischio/rendimento.
+
+LAmministratore Delegato, al fine di supportare il Consiglio di Amministrazione nel suo ruolo di gestione, € respon-
+sabile della realizzazione e del mantenimento di un sistema efficace di gestione e di controllo del rischio tasso,
+implementando le politiche strategiche.
+
+La Funzione Finanza contribuisce alla gestione del rischio di tasso di interesse coerentemente con le linee guida
+definite dai competenti Organi collegiali (Comitato di Gruppo ALM, Tesoreria e Capital Management) a supporto del
+Consiglio di Amministrazione.
+
+Il Risk Management definisce, infine, i principi e le metodologie per la misurazione ed il monitoraggio del rischio di
+tasso, garantendone un adeguato presidio. Gli esiti delle attivita di controllo effettuate dalla Funzione sono riportati
+ai competenti Organi e strutture aziendali mediante apposite informative. La Funzione invia, infatti, periodiche evi-
+denze dei seguenti impatti derivanti da shock delle curve dei tassi:
+
+- impatto sul valore del patrimonio (modello di “full evaluation” con modellizzazione delle poste a vista e del feno-
+meno di prepayment degli impieghi);
+
+- impatto sul margine d’interesse stimato con riferimento ad un orizzonte temporale di dodici mesi (modello di
+“repricing flussi”).
+
+In particolare, le stime dell’esposizione al rischio di tasso d’interesse sul banking book sono effettuate mediante un
+modello interno basato su un’apposita procedura di Asset and Liability Management (ALM). Le analisi di sensitivity
+
+ 
+
+235
+

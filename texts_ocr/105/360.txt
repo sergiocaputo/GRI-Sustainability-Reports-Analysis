@@ -1,0 +1,68 @@
+€ Indice generale | — fp)
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+6. Analisi e presidio dei rischi
+
+Gruppo Poste Vita - Rischio spread su fair value
+
+ 
+
+Esposizione Delta Effetto su Passivita Risultato prima Riserve di Patrimonio
+al rischio valore differite verso gli delle imposte netto al lordo delle
+Descrizione assicurati imposte
+(milioni di euro) Nozionale Fairvalue +100bps -100bps +100bps -100bps +100bps -100bps +100bps -100bps
+Effetti 2017
+Attivita finanziarie
+Investimenti
+disponibili per la
+vendita
+Titoli a reddito fisso
+Altri investimenti
+Strumenti finanziari
+al fair value rilevato
+aCE
+Titoli a reddito fisso
+Obbligazioni
+strutturate
+Altri investimenti
+Variabilita al
+31 dicembre 2017
+Effetti 2016
+
+ 
+
+Attivita finanziarie
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Investimenti
+disponibili per la 80.533 89.182 (6.071) 6.071 (6.895) 5.895 - - (176) 176
+vendita
+Titoli a reddito fisso 80.524 88.377 (6.009) 6.009 (5.833) 5.833 - - (176) 176
+Altri investimenti 9 805 (62) 62 (62) 62 - - - -
+Strumenti finanziari al
+fair value rilevato a CE 9.879 10.117 (364) 364 (363) 363 (1) 1 - -
+Titoli a reddito fisso 9.379 9.566 (329) 329 (328) 328 (1) 1 - -
+Obbligazioni
+strutturate 500 561 (35) 35 (35) 35 - - - -
+Ser ee 90.412 99.299 (6.435) 6.435 (6.258) 6.258 (1) 1 (176) 176
+
+31 dicembre 2016
+
+Oltre che con l’analisi di sensitivita sopra menzionata, Poste Italiane S.p.A. e il Gruppo Poste Vita monitorano il rischio Spread
+mediante il calcolo della massima perdita potenziale (VaR - Value at Risk) stimata su basi statistiche con un orizzonte temporale
+di 1 giorno e un livello di confidenza de! 99%. L’analisi effettuata tramite il VaR tiene in considerazione la variabilita del fattore di
+rischio (spread) che storicamente si € manifestata, non limitando |’analisi ad uno shift parallelo di tutta la curva.
+
+359
+

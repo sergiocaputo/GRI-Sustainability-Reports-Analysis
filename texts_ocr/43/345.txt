@@ -1,0 +1,84 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+come spostamento parallelo ed uniforme di +100 punti base
+delle curve. Oltre allo scenario +100 standard, la misura del
+valore economico (EVE) viene calcolata anche sulla base dei 6
+scenari prescritti dal documento BCBS e sulla base di simula-
+zioni storiche di stress volte ad identificare i worst e best case.
+
+La shift sensitivity del margine di interesse quantifica l'impatto
+sul margine d’interesse di breve termine di uno shock paralle-
+lo, istantaneo e permanente della curva dei tassi di interesse.
+La sensitivity del margine viene misurata con una metodolo-
+gia che consente di stimare la variazione attesa del margine
+d'interesse, a seguito di uno shock delle curve prodotta dalle
+poste suscettibili di una revisione del tasso all’interno di un
+orizzonte temporale (gapping period) fissato in 12 mesi a par-
+tire dalla data di analisi.
+
+Tale misura evidenzia l’effetto delle variazioni dei tassi di mer-
+cato sul margine di interesse prodotto dal portafoglio oggetto
+di misurazione in un‘ottica constant balance sheet, escluden-
+do potenziali effetti derivanti dalla nuova operativita e da fu-
+turi cambiamenti nel mix delle attivita e passivita e pertanto
+non puo considerarsi un indicatore previsionale sul livello fu-
+turo del margine di interesse.
+
+Per la determinazione delle variazioni del margine di interesse
+(ANII) si applicano gli scenari standard di shock parallelo dei
+tassi di +/ 50 punti base, avendo a riferimento un orizzon-
+te temporale di dodici mesi. Vengono inoltre condotte delle
+analisi di simulazione dinamica del margine che combinano
+spostamenti delle curve dei rendimenti a variazioni dei diffe-
+renziali di base e di liquidita, nonché a mutamenti nel com-
+portamento della clientela in diversi scenari di mercato.
+
+Le variazioni del margine d’interesse e del valore economico
+sono sottoposte ad un monitoraggio mensile di rispetto dei
+limiti e dei sotto limiti approvati dal Comitato Rischi Finanziari
+di Gruppo (CRFG).
+
+A tale fine le misurazioni sono esposte tenendo conto dell’ar-
+ticolazione funzionale alla verifica, in termini di plafond e
+sub-plafond, bucket temporali (breve, medio e lungo termi-
+ne), societa e divisa. Gli scenari utilizzati per la verifica dei
+limiti sono:
+
+¢ per il controllo dell’esposizione in termini di AEVE: shock
+istantaneo e parallelo di +100 bp;
+
+e per il controllo dell’esposizione in termini di ANII: shock
+istantaneo e parallelo di +/- 50 bp.
+
+Al 31 dicembre il valore della sensitivity, per un movimento
+parallelo verso |‘alto di 100 punti base della curva dei tassi,
+era negativo per -€6 milioni; parimenti anche la sensitivity
+del margine d’interesse, per uno shock di -50 punti base,
+si attestava in territorio negativo, a -€114,7 milioni.
+
+Value at Risk
+
+Il Value at Risk @ calcolato come massima perdita potenziale
+del valore di mercato del portafoglio che potrebbe registrarsi
+nei dieci giorni lavorativi successivi con un intervallo statistico di
+confidenza del 99% (VaR parametrico). Il VaR viene utilizzato
+anche per consolidare l’esposizione ai rischi finanziari assunti
+a seguito delle attivita di banking book, tenendo pertanto in
+considerazione anche i benefici prodotti dall’effetto diversifi-
+cazione. | modelli di calcolo del VaR presentano alcune limita-
+zioni, essendo basati sull’assunzione statistica di distribuzione
+normale dei rendimenti e sull’osservazione di dati storici che
+potrebbero non essere rispettati in futuro. Per tali motivazioni,
+i risultati del VaR non garantiscono che eventuali perdite future
+non possano eccedere le stime statistiche calcolate.
+
+Al 31 dicembre 2019 il VaR, calcolato su un orizzonte tempo-
+rale di un giorno, tenuto conto delle componenti tasso, credit
+spread e volatilita. é risultato pari ad €2,2 milioni, presentan-
+do una contenuta volatilita pur in presenza di movimentazio-
+ne del portafoglio per acquisti e vendite in corso d’anno.
+
+342 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

@@ -1,0 +1,57 @@
+4.b Penalties
+
+Contracts with customers may include penalties due to non-compliance with certain contract terms (such as,
+
+for example, non-compliance with delivery times).
+
+When the contract penalties are “reasonably expected”, the transaction price is reduced accordingly. The
+company analyses all the indicators available at the reporting date to assess the probability of a contract default
+
+that would lead to the application of penalties.
+4.c Significant financing component
+
+It is normal practice in the construction and large-scale infrastructure sector that the transaction price for the
+project (which is usually completed over more than one year) is paid in the form of an advance and subsequent
+
+progress billing (based on progress reports).
+
+This method of allocating cash flows is often defined in the calls for tenders. The customer’s payment flows
+(advances and subsequent progress billing) are usually organised to make construction of the project by the
+contractor feasible, limiting its financial exposure. Constructors in the large-scale infrastructure sector build
+
+projects for large amounts of money and the initial outlay is usually high.
+
+The contract advance is used for the following reasons:
+
+° to finance the initial contract investments and pay the related advances to subcontractors;
+° as a form of guarantee to cover any risks of contractual breach by the customer.
+
+The advance is reabsorbed by the subsequent progress billing in line with the stage of completion of the
+
+contract.
+
+Furthermore, the company’s operating cycle is generally several years. Therefore, it considers the correct time-
+
+scale of its works to determine whether its contracts include a significant financing component.
+
+Based on the above, it has not identified significant financing components in the transaction price for the
+contracts that include changes in the advances or progress billings in line with sector practices and/or of
+amounts that are suitable as guarantees and have a timeframe in line with the cash flows required to complete
+
+the contract.
+5. Losses to complete
+
+The new standard does not specifically cover the accounting treatment of loss-making contracts but refers to
+IAS 15, which regulates the measurement and classification (previously covered by IAS 11) of onerous
+contracts. IAS 37 provides that an onerous contract is one in which the unavoidable costs of meeting the
+obligations under the contract exceed the economic benefits expected to be received under it. The present
+obligation under the contract shall be recognised and measured as a provision when the loss is probable based
+
+on the most recent forecasts prepared by management.
+
+The unavoidable costs are all those costs that:
+
+ 
+
+412
+

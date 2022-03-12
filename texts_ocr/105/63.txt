@@ -1,0 +1,60 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Lobiettivo é gestire, in ottica non solo di protezione ma anche e soprattutto di prevenzione, i nuovi rischi emergenti in un
+contesto che richiede, per la crescita del Business, prodotti, processi e servizi con caratteristiche inedite, nuove tecnologie e
+un’elevata competitivita. La partecipazione a tali progetti ha comportato vantaggi di natura tecnologica, procedurale ed eco-
+nomica, oltre a consentire l’inclusione di Poste in un network di oltre 50 partner, nei diversi paesi membri, tra cui Universita e
+centri di ricerca, istituzioni pubbliche (Ministeri e Agenzie) e imprese private.
+
+Limpegno di Poste Italiane nella cyber security si ttaduce anche nella partecipazione a organizzazioni internazionali del settore,
+tra cui l’European Electronic Crime Task Force (EECTF) * e il Global Cyber Security Center (GCSEC)"®.
+
+Nel corso del 2017 I’Azienda ha organizzato anche diverse attivita di formazione che si sono svolte con 7 workshop che hanno
+riguardato il nuovo Regolamento Privacy con i relativi adempimenti, |’Information Resilience e la protezione del Business,
+Internet of Things, il fattore umano e la cyber security, open data e data science, la sicurezza nella nuova banca digitale e infine
+il tema della fiducia nell’era digitale.
+
+I piani per la continuita del business
+
+ll Gruppo ha sviluppato e mantiene attivi ai sensi della circolare della Banca D’ Italia 285/13:
+
+= un piano di Continuita operativa BancoPosta, che ha |l’obiettivo di illustrare le scelte strategiche, organizzative e di attribu-
+zione di ruoli e responsabilita, effettuate in tema di continuita del Business;
+
+= un piano di Disaster Recovery, che definisce le misure tecniche e organizzative per fronteggiare eventi che potrebbero
+provocare l’indisponibilita dei centri di elaborazione dati a supporto dell’operativita;
+
+= un piano di Crisis management volto a supportare i diversi attori aziendali coinvolti in una situazione di emergenza con
+impatti sui servizi finanziari.
+
+Risorse del piano di continuita del business
+
+ 
+
+ 
+
+ 
+
+2016 2017
+Investimenti (milioni di euro) 41
+Esercitazioni (n.) 4
+n. persone coinvolte 180
+Servizi su Mainframe (servizi Open in elaborazione) coperti da piani di disaster recovery (%) 100%
+
+ 
+
+ 
+
+Gli investimenti si riferiscono ai progetti di Business Continuity Management e Adeguamento disaster recovery tecnologico.
+
+18. Fondata nel 2009 da Poste Italiane, d’intesa con la Polizia Postale e delle Comunicazioni, il Dipartimento di Pubblica Sicurezza del Ministero dell’Interno e la
+United States Secret Service, con l’obiettivo di costruire un’alleanza strategica a livello europeo per reprimere e perseguire penalmente le attivita connesse ai
+crimini informatici.
+
+19. Organizzazione senza scopo di lucro, creata per promuovere la sicurezza informatica in Italia e nel resto del mondo. II Centro, é stato fondato e finanziato da
+Poste Italiane e da altre aziende associate.
+
+|
+62
+

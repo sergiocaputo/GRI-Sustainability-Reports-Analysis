@@ -1,0 +1,60 @@
+Hera, Iren, Smat and A2A together to improve the integrated water service
+
+On 8 April 2014 Hera, Iren and Smat signed a 5-year partnership agreement to carry out applied research to
+develop joint research, innovation and training projects in the sectors and activities connected with the
+integrated water service.
+
+Three projects were developed in 2017-2018, on:
+e breakage of aqueduct networks: analysis and decision support systems;
+e integrated environmental modelling used to assess the impact of intense weather events to
+support the management of urban drainage networks;
+recovery of material from the urban wastewater purification cycle: struvite.
+
+The latter was coordinated by Hera and was the subject of reporting in a Beacon Event of Ecomondo 2018
+organized by the European Platform on Phosphorus, an event supported by the Hera Group.
+
+At the end of 2018 the Partnership Agreement was extended to A2A.
+
+For the 2019-2020 period we plan to develop further projects related to:
+recovery of material from the urban wastewater purification cycle, the PHA for the production of
+bioplastics (coordinated by Hera);
+e early warning systems for monitoring the microbiological quality of drinking water (coordinated by
+lren);
+¢ control systems of the production of chlorites and chlorates in drinking water, monitoring of
+Legionella in the aqueduct networks (coordinated by A2A).
+
+Besides the specific issues of each project, sharing the diverse experiences and approaches helps critically
+analyse the methods used, so as to set up a network of relationships - both within the companies and with
+the relevant external qualified partners - that will surely be very useful even after the end of the projects.
+
+Forli remote control hub
+
+The Remote Control Centre of Forli is the heart of Hera Group’s plants and networks: this facility is unique
+in Italy, and controls over 5,600 plants. Among the main innovative development and evolution projects
+implemented in 2018:
+
+e Cloud Upgrading, which provided better interaction between map and systems (<2 sec);
+significantly increased speed (updates <3 sec) and the possibility for the operating structures to
+autonomously “take charge” of the systems in the cloud without the need to call the Technical Call
+Centre Room and have the operator deal with it.
+
+e Cameras Project, to allow internal staff to view plant sections. The project became operational in
+October, installing the first cameras in the plants of the Rimini wastewater drainage system.
+
+e Satellite Vector, to allow the connection of “isolated” plants that currently could not connect (lack
+of GPRS coverage) or as a redundant system for critical and/or important plants. Ten systems have
+been installed that are shared with the Hera group’s internal operating structures.
+
+e Voice commands, to make the experience of using the device for operational activities faster and
+more efficient.
+
+e 3D plants: the innovative function developed in 2017 for the Forli and Servola (TR) treatment plants
+has been extended to other plants. This function provides a very realistic 3D overview of the plant
+with the integrated representation of all functional parameters.
+
+I Rifiutologo, an app for separate waste collection and more: over 300 thousand citizens use it!
+
+Il Rifiutologo is a free app for mobile devices with several features, also available online.
+
+159
+

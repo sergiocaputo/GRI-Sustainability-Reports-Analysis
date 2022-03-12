@@ -1,0 +1,74 @@
+GRUPPO CREDEM
+ONES 018 Introduzione | || Cliente! Le nostre Persone | LAmbiente | La Societa
+
+DISCLOSURE 305-2 EMISSIONI INDIRETTE DI GAS AD EFFETTO SERRA (SCOPO 2)
+
+Le emissioni di Scopo 2, sono state calcolate con il metodo “Location-based” e con il metodo “Market-based” %5.
+
+ 
+ 
+
+EMISSIONI DI SCOPO 2 [TCO,EQ] LOCATION-BASED 2018
+
+  
+   
+  
+   
+
+Energia elettrica acquistata da rete nazionale 9.537,7 9.672,4 9.347,9
+Calore da teleriscaldamento 571,4 552,3 525,8
+Freddo da teleraffrescamento 15,5 20,5 22,0
+Riscaldamento condominiale 405,1 383,1 417,8
+TOTALE 10.529,7 10.628,3 10.313,5
+
+ 
+
+ 
+
+EMISSIONI DI SCOPO 2 [TCO,EQ] MARKET-BASED
+
+ 
+
+Energia elettrica acquistata da rete nazionale 0 0,0
+Calore da teleriscaldamento 552,3 525,8
+Freddo da teleraffrescamento 20,5 22,0
+Riscaldamento condominiale 383,1 417,8
+TOTALE 955,9 965,6
+
+ 
+
+ 
+
+METODOLOGIA DI CALCOLO
+Le emissioni di CO, equivalente comprendono CO, CH,e N,0 e sono state calcolate utilizzando il GWP (Global Warming Potential) a 100
+anni della CO,, CH, e del N,O dell'IPCC (Intergovernmental Panel on Climate Change), rispettivamente pari a 1, 28 e 265.
+
+ 
+
+     
+
+FATTORI DI EMISSIONE Fonte Coefficiente Ue tc)
+
+  
+       
+
+Energia elettrica acquistata da rete nazionale (Italia) Linee Guida ABI 2018 kgCO, eq/kWh
+Teleriscaldamento /Teleraffrescamento (Italia) Linee Guida ABI 2018 0,2193 kgCO, eq/kWh
+Teleriscaldamento (Lussemburgo)
+
+Energia elettrica acquistata da rete nazionale TERNA 2014 0,223 kgCO, eq/kWh
+(Lussemburgo)
+
+Gas naturale per riscaldamento condominiale Linee Guida ABI 2018 1,989 kgCO, eq/Sme
+
+ 
+
+——————_Saq|a_qjs§
+
+| dati delle emissioni di Scopo 2 relativi agli anni 2016 e 2017 sono stati riesposti rispetto a quelli
+indicati nella DNF 2017 a seguito del periodico aggiornamento dei fattori di emissione volto a garantire
+una migliore comparabilita. Per i dati storici precedentemente pubblicati, si facia riferimento alla DNF
+2017 pubblicata nella sezione Sostenibilita del sito istituzionale del Gruppo.
+
+109
+

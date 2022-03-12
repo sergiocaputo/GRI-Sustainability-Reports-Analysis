@@ -1,0 +1,72 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+The RAN sharing agreement enables TIM to promote the dissemination of LTE in the Brazilian countryside, effectively
+access and back haul’. At present, the 4G Sharing RAN is based on three national partners, extending the benefits and
+efficiency of this technical model.
+
+Following continual testing and the consequent enabling of energy saving functions and solutions, mainly during low
+traffic periods, for the 2G, 3G and 4G access layers,the energy consumption recorded for the site, dependent on the access
+technology and coverage conditions, showed a reduction of up to 10%.
+
+[GRI 103-3: Management Approach] [GRI 203] New generation network projects, future Internet applications, positive
+impacts on the environment and company
+
+loT - In 2018, TIM Participagdes launched the first NB-loT? commercial network in South America, in the city of Santa Rita
+do Sapucai, to develop innovative services together with INATEL (Telecommunication National Institut) University, a
+leading research center in Brazil. TIM also enabled NB-loT coverage in 2018, in the cities of Itajubd, in conjunction with
+UNIFEI (Universita Federale di Itajuba), and Rio de Janeiro. TIM Participagdes is aware that the mass introduction of the
+loT can significantly change the mobile telephone market, as it drives the creation of services and - among others - is a
+potential tool for agricultural applications, vehicle connections, traceability solutions and social/health assistance.
+Two important goals were achieved in 2019, and namely the activation of an E-SIM (Embedded SIM?) platform, and the
+acquisition of a loT/M2M platform. These two infrastructures will enable TIM Participagdes to adopt an E2E M2M*/loT
+system, allowing TIM to promote important innovations and new products, aimed at using the potential of the loT in
+different vertical sectors.
+
+Agrobusiness - Since 2018, TIM Participagdes together with Nokia and BR Digital has been focusing on the potential
+agrifood business in Brazil, offering connections in rural areas (not only for company applications, but also the digital
+inclusion of agrobusiness employees and residents in small towns). One of the projects delivered in April 2018 to Jalles
+Machado, an energy group in the city of Goianésia, replaced manual appointments with mobile ones, improving
+communication between the office and field; plus computers on board agricultural machines mean that information can
+be managed in real time. The project integrates 812 smartphones and 1006 company lines, with 650 smartphones for
+appointments in the field. In 2019, TIM consolidated its positioning in relation to vertical agriculture’, by creating the
+ConnectarAgro agrosystem (https://conectaragro.com.br/) that brings together TIM, suppliers of solutions for the
+agroindustry and suppliers of telecommunications solutions.
+
+ 
+
+5G - In April 2018, the “Architecture & Innovation Technology” Department completed its studies and tests on interference
+in the city of Guaratiba (State of Rio de Janeiro) in the 3.5 GHz band, considered to be the band at the forefront of 5G. The
+aim was to demonstrate that IMT (International mobile Communication) in Brazil, in the 3.5 GHz band, and the reception
+of the fixed satellite service (FCSS), in the adjacent C band (3625-4200 MHz)°®, can co-exist without any limitation on the
+use of 3.5 GHz. During the first half of 2019, ANATEL planned rules for the use of 3.5 GHz and an auction for the first
+quarter of 2020 concerning the 3.5 GHz e 2.3 GHz bands.
+
+ 
+
+In June 2019, TIM Participagées selected three cities, Florianopolis, Santa Rita do Sapucai and Campina Grande to test the
+5G technology. In September, TIM set up a TIM 5G Home, in particular during HackTown 2019, the innovation festival
+sponsored for the first time by TIM Participacgdes, which is held each year in Santa Rita do Sapucai (in the State of Minas
+Gerais). With a specific ANATEL license, the TIM 5G home demonstrates accessible solutions on an interactive basis (with
+
+ 
+
+1In the telecommunications sector, a back haul network (return loading) or return network is the portion of a hierarchical network that includes
+intermediate connections between the central network (or core or backbone), and small subnetworks at the "edges" of the hierarchical network.
+? Narrowband Internet of Things (NB-loT) is a standard LPWAN (Low Power Wide Area Network) radio technology developed by the 3GPP for
+communication to a wide range of mobile devices and services.
+
+3 This is a minuscule chip embedded in the device (in particular smartphones), which is extremely compact compared to conventional telephone
+SIMs.
+
+* Machine to Machine means the technologies and services that allow for the automatic transfer of information from one machine to another,
+with limited or no human interaction.
+
+5 These are crops above ground, in closed greenhouses, that grow to height on several, automated, climate-controlled levels, with reference to
+large plants. These systems are 75% more productive than traditional field crops, and use around 95% less water. Plus, they have no geographic
+constraints, as they can be used in urban areas, offering locally grown fresh produce.
+
+© Mainly the application of only TV reception (TVRO).
+
+80
+

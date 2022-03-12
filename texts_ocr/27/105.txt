@@ -1,0 +1,128 @@
+GRUPPO CREDEM
+ONES 018
+
+DISCLOSURE 302-2 CONSUMI ENERGETICI
+ESTERNI ALLORGANIZZAZIONE
+
+FATTORI DI Fonte
+foto) aS i0e) 1S
+
+  
+     
+   
+   
+    
+
+CONSUMI
+ENERGETICI ESTERNI
+ALLORGANIZZAZIONE
+
+Combustibile per
+riscaldamento
+
+ 
+
+ 
+
+ 
+
+ 
+
+gas naturale Linee Guida 0,03428 GJ/Sme GJ
+ABI 2018 [Gs]
+GPL Linee Guida 0,04613 Gu/kg Auto private dei Dipendenti 36.252 36.390
+(densita 0,56 kg/1) ABI 2018 Treno 3.973 4.041
+Calore da Linee Guida 0,0036 GJ/kWh Aereo 4.786 5.385
+teleriscaldamento ABI 2018
+TOTALE © 45.011 45.816
+Freddo da Linee Guida 0,0036 GJ/kWh
+teleraffrescamento ABI 2018
+Energia elettrica Linee Guida 0,0036 GJ/kWh
+cred METODOLOGIA DI CALCOLO
+Auto uso servizio - II fattore di conversione utilizzato per il calcolo dei consumi
+e promiscuo energetici derivanti dai viaggi lavorativi in aereo é stato stimato
+Medium Linee Guida 0,00225 GJ/km sulla base dei dati di CO, eq messi a disposizione dal fornitore
+ABI 2018 del servizio di ticketing, calcolando la quantita corrispondente
+Large Linee Guida 0,00308  GJ/km di CO, emessa con i fattori di conversione del Department
+ABI 2018 for Environment, Food and Rural Affairs (DEFRA), con
+Ibrida benzina Linee Guida 000177. GJ/km lapplicazione del fattore di conversione all’energia consumata
+ABI 2018 indicato nelle Linee Guida ABI 2078.
+Elettriche Specifiche 0,00046 = GJ/km - II fattore di conversione utilizzato per il calcolo dei consumi
+tecniche energetici derivanti dai viaggi lavorativi in treno é stato
+- auto; stimato come media dei fattori di conversione per le tratte
+Linee Guida piu frequentate durante l'anno 2018, elaborati a loro volta con
+ABI 2018
+
+la metodologia indicata dalle Linee Guida ABI 2018 tramite
+lapplicativo Ecopassanger (http://ecopassenger.hafas.de) per
+DISCLOSURE 302-3 INTENSITA ENERGETICA il calcolo dei coefficienti chilometrici. Per le precedenti annualita,
+in assenza di sufficiente dettagli, é stato applicato il fattore di
+conversione correlato alla percorrenza chilometrica individuato
+2017 Pn per i! 2018 (dati non rendicontati nella precedente DNF).
+
+ 
+
+INTENSITA ENERGETICA
+- Per il calcolo dei consumi energetici derivanti dall'utilizzo delle
+auto private dei Dipendenti per viaggi lavorativi, in mancanza
+
+dell'informazione sulla tipologia di carburante delle auto
+stesse, é stato utilizzato il fattore di conversione per le auto a
+benzina, ponendosi tuttavia nello scenario pil probabile di un
+
+Consumi energetici interni
+per utilizzo degli edifici
+
+Dipendenti e promotori 7.364 7.305 7.319
+finanziari al 31/12 [numero]
+
+Superficie netta [m7] 301.124 | 302.325 301.377 utilizzo di autovetture con classe di cilindrata media; il fattore
+Intensita energetica per 20,67 21,07 20,27 di conversione é stato stimato come media dei fattori di
+persona [GJ/persona] ® conversione associati alle tecnologie Euro da 1 a 6 (riferimento
+Intensita energetica per 0,51 0,51 0,49 alle Linee Guida ABI 2018). Alle precedenti annualita é stata
+
+superficie netta [GJ/m?] applicata retroattivamente la stessa scelta metodologica
+riguardante la classe di cilindrata, considerato che nelle
+precedenti annualita erano state considerate tra le auto a
+
+benzina anche quelle con cilindrata maggiore di 2,0 It.
+METODOLOGIA DI CALCOLO \ J
+In considerazione dellimportante variazione della consistenza
+
+immobiliare avvenuta nel corso dell’anno 2018, la superficie
+
+utilizzata per il calcolo é stata pesata in relazione al reale
+
+possesso (0 utilizzo) delledificio, considerando anche
+
+acquisizioni, nuove locazioni, restituzioni immobiliari al termine
+
+di locazioni esistenti avvenute in corso d'anno.
+
+gp lw
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tra le Persone considerate per il calcolo dellindice di | dati dei consumi energetici per flotta auto relativi agli anni 2016 e 2017 sono stati riesposti
+intensita energetica sono stati inseriti anche i subagenti rispetto a quelli indicati nella DNF 2017 a seguito dell’aggiornamento della metodologia
+
+di Creacasa, i Consulenti finanziari e gli Agenti del di calcolo dei fattori di conversione in coerenza con l'aggiornamento delle Linee guida
+Quinto che, nonostante operino in autonomia e alle ABI Lab sull'applicazione in banca degli Indicatori Ambiente del GRI. Per i dati storici
+
+dirette dipendenze del Gruppo, occupano stabilmente gli precedentemente pubblicati, si faccia riferimento alla DNF 2017 pubblicata nella sezione
+spazi loro assegnati. Sostenibilita del sito istituzionale del Gruppo.
+
+104
+

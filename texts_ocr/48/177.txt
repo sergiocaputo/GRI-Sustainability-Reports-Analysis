@@ -1,0 +1,44 @@
+| 176 | Generali Group
+
+Other liabilities
+
+This item includes provisions for defined benefit plans,
+such as termination benefit liabilities and other long-term
+employee benefits (the Italian provision for “trattamento
+di fine rapporto” is excluded and classified as other pay-
+ables). In compliance with IAS 19, these provisions are
+measured according to the project unit credit method.
+This method implies that the defined benefit liability is
+influenced by many variables, such as mortality, employ-
+ee turnover, salary trends, expected inflation, expected
+rate of return on investments, etc. The liability recognised
+in the balance sheet represents the net present value of
+the defined benefit obligation less the fair value of plan
+assets (if any), adjusted for any actuarial gains and losses
+and any past service costs not amortised. The rate used
+to discount future cash flows is determined by reference
+to market yields on high-quality corporate bonds. The
+actuarial assumptions are periodically tested to confirm
+their consistency. The actuarial gains and losses arising
+from subsequent changes in variables used to make es-
+timates are recognised shall be accounted for in other
+comprehensive income without any possibility of recy-
+cling to profit and loss.
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+Deferred fee and commission income includes acqui-
+sition loadings related to investment contracts without
+DPF, which are classified as financial liabilities at fair val-
+ue through profit or loss, according to IAS 39.
+
+Acquisition loadings related to these products are ac-
+counted for in accordance with IAS 18 treatment of the
+investment management service component during the
+product life. They are recognised by reference to the
+stage of completion of the service rendered.
+
+Therefore, the acquisition commissions have been reclas-
+sified in the balance sheet, as liabilities to be released to
+the profit and loss account during the life of the product.
+

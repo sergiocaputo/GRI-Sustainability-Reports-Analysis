@@ -1,0 +1,35 @@
+Assunzioni e cessazioni
+
+ 
+
+ 
+
+ 
+
+10 10
+— Nuove assunzioni
+6
+6 — Turnover dei dipendenti
+4
+2
+2016 2017 2018
+Turnover per genere ed eta
+6
+4
+3 oO > 50 anni
+[LJ 30-50 anni
+oO < 30 anni
+1 1 1
+Uomini Donne Uomini Donne Uomini Donne
+2016 2017 2018
+Nuove assunzioni per genere ed eta
+5
+4 4 4
+[J > 50 anni
+LJ 30-50 anni
+1 1 1 1 1 LD <30 anni
+Uomini Donne Uomini Donne Uomini Donne
+2016 2017 2018
+
+100
+

@@ -1,0 +1,71 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+* theft protection: protects the device from loss and/or theft, ensuring remote control by sending a simple instruction
+(block device, find device, delete data, SIM change notification);
+
+* protection and privacy: protects all access to e-commerce, home banking and social media websites. Ensures privacy
+by filtering unwanted calls and messages;
+
+* antivirus: manages the device securely without affecting its operation, protecting it during use against viruses,
+malware? and other threats.
+
+The Company is particularly focusing attention on parental control, with the launch of offers dedicated to the younger
+generation (under 12s) with the TIM Protect service included, at no additional cost. The Company is also implementing
+co-marketing? initiatives with certain operating partners in the “kids” segment, which is particularly sensitive to matters
+of child protection. [GRI 103-3: Management Approach] [GRI 102-2b] At the end of December 2019, 142,764 TIM Protect
+had been activated.
+
+TIM is constantly looking for ways to develop its offer portfolio to meet customer needs; among other things, an annual
+offer with a TIM Protect license has been available to customers since May 2018.
+
+TIM also wants to help customers to make the best use of the TIM Protect service and, from October 2018, it made a
+freephone number 800 500 500 available; through this, an operator can give the customer step by step assistance and
+maximum support in the installation and use of the TIM Protect service.
+
+Since September 2, 2019 TIM has launched a new, clearer and simpler landing page for the TIM Protect service, to provide
+customers with a better user experience.
+
+[GRI 103-2: Management Approach] [GRI 102-2b] In terms of tackling online child pornography and computer crime, from
+an organizational perspective, TIM has established - within the Security Department and, specifically, as part of the
+Security Operations Center (SOC) - the role of “Key Contact for the Postal Police”.
+
+This person manages relations, and the flow of information, with the Postal Police? and the competent authorities, and
+has the task of coordinating, within the TIM Group, the process of abuse management, in accordance with the relevant
+legislative framework. Furthermore, TIM has adopted an organizational and management model pursuant to Legislative
+Decree 231/2001, aimed at preventing offenses that may result in liability for the Company.
+
+TIM has deployed resources, technologies, processes and tools to prevent and tackle “abuse”, i.e. any activity committed
+in violation of the rules of conduct and the legislation that governs the use of network services, digital systems or means
+of communication in general. The SOC oversees the following initiatives and activities:
+
+* form available on TIM’s corporate and commercial portals, which can be used by TIM’s customers, or by outside users,
+to report any crimes involving child pornography encountered while browsing the internet. There is a guide to
+completion, and reports can also be submitted anonymously. This activity is managed in collaboration with the
+Assurance Competence Center, under Open Access/Wholesale, which receives reports and forwards them to be
+managed by the SOC;
+
+* management of the abuse desks, operational groups that handle abuse differentiated by type of service (set up in
+accordance with national and EU regulations on child protection), the prevention of cybercrime and the fight against
+sexual exploitation (child pornography). The abuse desks receive reports from external users/customers on alleged
+cybercrimes or the presence of child pornography on the Group’s networks, then direct them to the relevant
+department, where necessary involving the relevant authorities (through the Key Contact for the Postal Police);
+
++ — filtering: in accordance with the implementing Decree of Law 38/2006 (Gentiloni Decree) which defines the technical
+prerequisites of filtering tools that providers of Internet network connections must use in order to prevent access to
+sites identified by the Postal Police through the CNCPO, TIM has also introduced a filtering system for foreign websites
+with child pornography content;
+
+ 
+
+1 Software created to compromise the security of a computer or IT systems and devices. The term is a combination of the words malicious and
+software.
+
+2 Commercial agreement between companies that have the same objective, are not in direct competition and decide to coordinate their
+marketing activities.
+
+3 CNCPO -National Center for the Fight against Online Child Pornography, CNAIPIC - National Center against Digital Crime for the Protection of
+Critical Infrastructure.
+
+130
+

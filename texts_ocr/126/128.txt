@@ -1,0 +1,67 @@
+TIM Sustainability Report 2019
+THE VALUE CHAIN
+
+* fulfilment of the AGID (Digital Italy Agency) requirements to perform the role of:
+v Accredited Operator for Certified Email;
+¥ Accredited Custodian for storing electronic documents pursuant Italian Legislative Decree 82/2005;
+v Accredited digital identity manager for SPID services (public service manager) pursuant EU Regulation 910/2014;
+Y Qualified trust service providers for the issuance of elDAS qualified electronic time stamps (EU Regulation
+910/2014).
+
+In Brazil, as required by ANATEL (National Telecommunications Agency, the Brazilian telecommunications authority), KPI
+Survey Method Quality Certificates were also achieved for the whole Country regarding:
+
+* personal mobile services (TIM S.A.);
+
+* switched fixed telephone services (TIM S.A.);
+
+* multimedia communications services (TIM S.A.).
+
+Detailed information about the certifications achieved by the various functions/companies of the Group can be found in
+the sustainability section of the telecomitalia.com website.
+
+Child protection
+
+[GRI 103-1: Management Approach] [GRI 102-2b] The 2019 materiality analysis highlighted - for the TIM Group - the online
+protection of children (cyberbullying, child pornography, gambling), as a material topic.
+
+[GRI 103-2: Management Approach] [GRI 102-2b] Group Companies have undertaken numerous initiatives to protect
+children from content that may harm their psychological and physical development (for example, content that is violent,
+racist, offensive to religious sentiment, etc.).
+
+Adult services come under value added services, also called premium or content-based services, and can be supplied by
+TIM or external companies that own the content via SMS, MMS or mobile internet services (WAP - wireless application
+protocol), which can be activated, received and/or used on mobile phones, tablets and PCs. From its activation, the TIM
+card is already enabled to use value added services with adult content, with the exception of TIM cards registered to
+minors, whose adult-content services are disabled.
+
+The Group - in accordance with current regulations - provides the customer with a series of tools to protect minors from
+
+accessing the sensitive content provided; TIM constantly updates and communicates these tools to the customer,
+
+through its own information channels (including the 119 customer service and the website tim.it). The tools to protect
+minors currently available to customers are:
+
+* permanent restriction (black listing) of mobile users from accessing adult content;
+
+* adult content provided on the TIM mobile portal (“TIM WAP”) can only be accessed by entering a code (adult content
+PIN) on the user’s mobile device, which is different from all other codes used on the device itself in order to prevent
+minors from accessing said content. The customer is provided with the adult content PIN confidentially, and is
+responsible for its proper use and safeguarding;
+
+* customers can ask for their mobile number to be black listed only for sensitive content other than adult content at
+any time via TIM’s usual information channels.
+
+Further information regarding the activation and deactivation of the above protection tools is available at tim.it, from
+Customer Services on 119 and from authorized TIM retail outlets.
+
+The TIM-Protect solution is the exclusive TIM option for total protection against web threats:
+* parental control: protects young people while surfing the Net, filters web searches, gives warnings in the case of
+behavior that is judged to be dangerous, allows you to block access to sites or apps or limit their use (maximum usage
+
+time setting);
+
+1Gambling.
+
+129
+

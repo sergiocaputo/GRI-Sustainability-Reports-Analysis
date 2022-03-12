@@ -1,0 +1,62 @@
+° financial assets at fair value through other comprehensive income (FVTOCI);
+° financial assets at fair value through profit or loss (FVTPL).
+
+Financial assets are initially recognised at fair value. Trade receivables that do not contain a significant
+
+financing component are measured at their transaction price.
+
+After initial recognition, financial assets that generate contractual cash flows that are solely payments of
+principal and interest on the principal amount outstanding are measured at amortised cost if they are held
+within a business model whose objective is to hold them in order to collect contractual cash flows (hold to
+collect business model). Under the amortised cost method, the financial assets’ amount at initial recognition is
+decreased by principal repayments, any loss allowance and cumulated amortisation of the difference between
+
+that initial amount and the maturity amount.
+
+Amortisation is calculated using the effective interest rate that exactly discounts the estimated future cash
+payments or receipts through the expected life of the financial asset to the gross carrying amount of the financial
+
+asset at initial recognition.
+
+Loans and receivables and other financial assets at amortised cost are recognised net of the related loss
+
+allowance.
+
+Debt instruments held within a business model whose objective is to collect contractual cash flows and sell
+financial assets (hold to collect and sell model) are measured at fair value through other comprehensive
+income. Fair value gains and losses on these financial assets are recognised in other comprehensive income
+(OCI). The cumulative fair value gains and losses previously recognised in OCI are reclassified to profit or loss
+when the financial asset is derecognised. Interest income calculated using the effective interest method,
+
+exchange differences and impairment losses are recognised in profit or loss.
+
+Debt instruments that are not measured at amortised cost or FVTOCI are measured at fair value through profit
+
+or loss.
+
+Financial assets that are transferred are derecognised when the contractual rights to the cash flows from the
+
+financial asset expire or are transferred to third parties.
+Impairment losses on financial assets
+
+The company tests the recoverable amount of debt instruments not measured at fair value through profit or
+
+loss using the expected credit loss model.
+
+The new model entails development of judgement about the impact of changes in economic factors on the
+
+expected credit losses, which are weighted by probability of occurrence.
+
+Credit risk is that deriving from the company’s exposure to potential losses arising from the customers’ (which
+
+are mostly governments or state bodies) non-compliance with their obligations.
+
+Management of this risk is complex, starting as early as the assessment of offers, through a careful analysis
+of the characteristics of the countries in which the company’s activities should be carried out and the customers,
+
+which are usually state or similar bodies, requesting an offer.
+
+ 
+
+415
+

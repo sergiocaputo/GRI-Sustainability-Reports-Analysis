@@ -1,0 +1,80 @@
+Bilancio Consolidato 2017
+
+ 
+
+Criteri di valutazione
+
+In seguito alla rilevazione iniziale, i crediti sono valutati al costo ammortizzato, pari al valore iscritto all’origine dimi-
+nuito dei rimborsi di capitale e delle rettifiche di valore e aumentato dalle eventuali riprese di valore e dell'ammorta-
+mento, calcolato con il metodo del tasso di interesse effettivo, della differenza tra ammontare erogato e ammontare
+rimborsabile a scadenza, riconducibile ai costi/proventi imputati direttamente al singolo credito. Il tasso d’interesse
+effettivo é il tasso che attualizza il flusso dei pagamenti futuri stimati per la durata attesa del finanziamento in modo
+da ottenere esattamente il valore contabile netto all'atto della rilevazione iniziale, che comprende sia i costi di tran-
+sazione direttamente attribuibili sia tutti i compensi pagati o ricevuti tra contraenti.
+
+Il metodo del costo ammortizzato non viene utilizzato per i crediti a breve termine e per quelli senza una scadenza
+definita o a revoca, che conseguentemente vengono valorizzati al costo storico.
+
+In caso di rinegoziazione, la componente costo ammortizzato viene rideterminata secondo i nuovi parametri con-
+trattuali.
+
+Per crediti a breve termine si intendono quelli con scadenza entro 12 mesi.
+
+Ad ogni chiusura di bilancio viene effettuata una ricognizione dei crediti volta ad individuare quelli che, a seguito
+del verificarsi di eventi occorsi dopo la loro iscrizione, mostrino oggettive evidenze di una possibile perdita di valo-
+re. Rientrano in tale ambito essenzialmente i crediti ai quali € stato attribuito lo status di sofferenza, inadempienza
+probabile, esposizione scaduta e/o sconfinante deteriorata secondo le attuali regole di Banca d'ltalia. Detti crediti
+deteriorati (non performing) sono oggetto di un processo di valutazione analitica e l'ammontare della rettifica di va-
+lore di ciascun credito é pari alla differenza tra il valore di bilancio dello stesso al momento della valutazione (costo
+ammortizzato) ed il valore attuale dei previsti flussi di cassa futuri, calcolato applicando il tasso di interesse effettivo
+originario.
+
+| flussi di cassa previsti tengono conto dei tempi di recupero attesi, del presumibile valore di realizzo delle eventuali
+garanzie nonché dei costi che si ritiene verranno sostenuti per il recupero dell'esposizione creditizia. | flussi di cassa
+relativi a crediti il cui recupero é previsto entro breve durata non vengono attualizzati. La rettifica di valore é iscritta
+aconto economico. La componente della rettifica riconducibile all’attualizzazione dei flussi finanziari viene rilasciata
+per competenza secondo i] meccanismo del tasso di interesse effettivo. Il valore originario dei crediti viene ripristi-
+nato negli esercizi successivi nella misura in cui vengano meno i motivi che ne hanno determinato la rettifica purché
+tale valutazione sia oggettivamente collegabile ad un evento verificatosi successivamente alla rettifica stessa.
+
+La ripresa di valore é iscritta nel conto economico e non pud in ogni caso superare i] costo ammortizzato che il cre-
+dito avrebbe avuto in assenza di precedenti rettifiche.
+
+| crediti per i quali non sono state individuate singolarmente evidenze oggettive di perdita e cioé, di norma, i crediti
+in bonis, sono sottoposti alla valutazione di una perdita di valore collettiva.
+
+Le rettifiche di valore determinate collettivamente sono imputate nel conto economico. Analoga metodologia €
+utilizzata per la determinazione delle svalutazioni analitiche a fronte delle garanzie rilasciate. Le passivita risultanti
+dal processo valutativo sono iscritte nella voce “Altre passivita”.
+
+ 
+
+La determinazione delle svalutazioni collettive sui crediti in bonis viene eseguita sfruttando le maggiori sinergie
+possibili con l'approccio previsto ai fini di Vigilanza dalle disposizioni di “Basilea”.
+
+In tale ottica il Gruppo ha scelto di utilizzare un modello caratterizzato dalle seguenti fasi:
+
+a) Creazione di portafogli omogenei per profili di rischio
+
+La segmentazione dei crediti performing prevede la creazione di gruppi omogenei in relazione alle loro caratteristi-
+che di rischio. Ai fini del calcolo del fondo collettivo viene mutuata la segmentazione con cui é suddivisa la clientela
+
+per l'attribuzione del rating. Nello specifico sono previste le seguenti classi: Privati, Small Business, Piccole e Medie
+Imprese, Large Corporate, Immobiliari, Banche e |stituzioni finanziarie, Enti.
+
+ 
+
+b) Ini juazione della “probabilita di default” (PD) e della “Loss given default” (LGD)
+
+Il modello in uso, come citato in precedenza, identifica i gruppi omogenei di crediti sulla base del proprio contenuto
+di rischio e associa ad essi una previsione di perdita stimata sulla base dei seguenti parametri: Probability of Default
+(“PD”) e Loss Given Default (“LGD”). In particolare, la PD é stimata utilizzando l'approccio cosiddetto “historical defau-
+It experience”, ovvero osservando il tasso di default empirico verificatosi sul portafoglio crediti: per ognuna delle 10
+classi di rating viene conteggiato il numero di default avvenuto sull’orizzonte di performance annuale (default entro
+12 mesi). Il tasso di default € quindi pari al rapporto fra il numero di default verificatisi e il totale dei clienti in bonis
+all'inizio del periodo osservato. La valutazione delle PD é effettuata per le classi gestionali Privati, Small Business e
+
+ 
+
+421
+

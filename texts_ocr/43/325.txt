@@ -1,0 +1,139 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+la concentrazione dell’esposizione nell’ambito del Gruppo In-
+tesa Sanpaolo. A tal fine sono utilizzati anche strumenti e tec-
+niche di monitoraggio e di misurazione del rischio sviluppati
+all‘interno del Gruppo.
+
+2.3 Metodi di misurazione delle perdite attese
+La perdita attesa risulta dal prodotto di esposizione, probabi-
+lita di default e Loss Given Default.
+
+Nel Gruppo la probabilita di default @ misurata attraver-
+so modelli di rating differenziati a seconda del segmento di
+operativita della controparte (Corporate, SME Retail, Retail,
+Stati Sovrani, Enti del Settore Pubblico e Banche). Tali model-
+li, sviluppati da Intesa Sanpaolo, consentono di sintetizzare
+la qualita creditizia della controparte in una misura, il rating,
+che ne riflette la probabilita di insolvenza con un orizzonte
+temporale di un anno, calibrata su un livello medio del ciclo
+economico. | rating calcolati sono, inoltre, raccordati alle clas-
+sificazioni delle agenzie ufficiali di rating per mezzo di una
+scala omogenea di riferimento.
+
+| modelli LGD sono basati sulla nozione di “Economic LGD”,
+owero il valore attuale dei flussi di cassa ricavati nelle varie
+fasi del processo di recupero al netto degli eventuali costi am-
+ministrativi di diretta imputazione, oltre che di quelli indiret-
+ti di gestione sostenuti dal Gruppo. La determinazione della
+LGD si awale di modelli differenziati e specializzati per seg-
+mento di operativita (Corporate, SME Retail, Retail, Factoring,
+Leasing, Enti pubblici e Banche). Per le banche il modello di
+determinazione della Loss Given Default (LGD) si discosta in
+parte dai modelli sviluppati per gli altri segmenti, in quanto il
+modello di stima utilizzato si basa sul prezzo degli strumenti
+di debito osservati 30 giorni dopo la data ufficiale di default e
+relativi ad un campione di banche che hanno subito il default
+in tutto il mondo, acquisito da fonte esterna.
+
+II calcolo dell’esposizione al default (EAD) si avvale di modelli
+differenziati e specializzati per segmento di operativita (Cor-
+porate, SME Retail, Retail, Factoring, Leasing, Enti pubblici e
+Banche) e considera anche la percentuale di margine dispo-
+nibile ma non utilizzato di una certa linea di credito che si
+trasformera in esposizione in un dato orizzonte temporale
+(cosiddetto Credit Conversion Factor — CCF).
+
+ll processo di stima della perdita attesa (EL) é attuato coeren-
+temente alle disposizioni di vigilanza e si fonda sui medesimi
+parametri di rischio adottati per i modelli AIRB sopra descrit-
+ti. Nell’ambito della determinazione delle rettifiche di valore
+pertinenti alle esposizioni creditizie, tali parametri vengono
+adattati al fine di assicurare una piena rispondenza ai requisiti
+previsti dal principio contabile, che comporta |’adozione di
+un approccio Point in Time per incorporare nel processo di
+computo ogni informazione disponibile al momento della va-
+lutazione, incluse quelle di natura prospettica, quali gli scenari
+e le stime previsionali macroeconomiche, laddove l’approccio
+adottato nello sviluppo dei modelli interni utilizzati ai fini di
+determinazione dei requisiti patrimoniali regolamentari pre-
+vede invece che i rating siano calibrati sul livello medio atte-
+so del ciclo economico nel lungo periodo (c.d. Through The
+Cycle), riflettendo quindi in misura solo parziale le condizioni
+correnti.
+
+La determinazione delle perdite di valore su esposizioni credi-
+tizie in bonis e scadute viene effettuata sulla base di un mo-
+dello basato sul concetto di “expected loss” (perdita attesa)
+
+in modo da contabilizzare con tempestivita le perdite a conto
+economico. L'IFRS9 richiede alle imprese di contabilizzare le
+perdite attese nei 12 mesi successivi (stage 1) sin dall’iscrizio-
+ne iniziale dello strumento finanziario, risultato del prodot-
+to di PD, EAD e LGD. Vorizzonte temporale di calcolo della
+perdita attesa diventa invece l’intera vita residua dell’asset
+oggetto di valutazione, ove la qualita creditizia dello strumen-
+to finanziario abbia subito un deterioramento significativo
+rispetto alla misurazione iniziale (stage 2) o nel caso lo stru-
+mento finanziario risulti deteriorato (stage 3).
+
+La metodologia di valutazione illustrata @ estesa anche ai cre-
+diti di firma e agli impegni. Con riferimento a questi ultimi,
+non sono inclusi nella base di calcolo i margini inutilizzati su
+linee di credito irrevocabili.
+
+2.4 Tecniche di mitigazione del rischio di credito
+
+Con l'obiettivo di mitigare il rischio di credito verso cliente-
+la, vengono normalmente acquisite garanzie reali, bancarie o
+mandato irrevocabile a vendere strumenti finanziari, a tutela
+degli affidamenti concessi. Le garanzie acquisite sono prin-
+cipalmente rappresentate da prodotti collocati dal Gruppo
+Fideuram (fondi e gestioni patrimoniali) o da strumenti finan-
+ziari quotati nei maggiori mercati regolamentati. Per |’acqui-
+sizione in garanzia di titoli obbligazionari é necessaria la pre-
+senza di un adeguato rating (assegnato da primaria agenzia
+di rating) sull’emittente o sul prestito.
+
+Ai fini della determinazione dell‘importo di fido concedibile
+e nell’ottica di una maggior tutela per il Gruppo da eventuali
+oscillazioni dei valori di mercato, sugli strumenti finanziari
+acquisiti in garanzia vengono applicati degli scarti cautelativi
+differenziati a seconda del tipo di prodotto e della forma
+tecnica. La percentuale di concentrazione sugli emittenti
+delle garanzie acquisite é molto bassa, fatta eccezione per
+i fondi ed altri prodotti del Gruppo Fideuram. Non risulta-
+no allo stato attuale vincoli che possano intaccare l’efficacia
+giuridica degli atti di garanzia, la cui validita viene periodi-
+camente verificata.
+
+Per quanto riguarda la mitigazione del rischio di controparte,
+e per le operazioni di tipo SFT (Security Financing Transactions,
+ossia prestito titoli e pronti contro termine), il Gruppo utiliz-
+za accordi bilaterali di netting che consentono, nel caso di
+default della controparte, la compensazione delle posizioni
+creditorie e debitorie. Per i derivati Over The Counter (non
+regolamentati) oltre a quanto precedentemente indicato (net-
+ting bilaterale) laddove soggetti a Clearing House, il rischio
+controparte viene mitigato attraverso un livello aggiuntivo di
+collateralizzazione rappresentato dalla marginazione centra-
+lizzata. Questo awiene tramite la sottoscrizione di accordi di
+tipo ISDA e ISMA/GMRA che permettono, nel rispetto della
+normativa di vigilanza, anche la riduzione degli assorbimenti
+di capitale regolamentare.
+
+In ambito mitigazione del rischio di credito, la piattaforma
+“Portale Garanzie Attive” (PGA) ha consentito il corretto trat-
+tamento ai fini del calcolo degli RWA delle garanzie costituite
+da pegno su Gestioni Patrimoniali, per le quali é ora possibile
+gestire il look-through dei sottostanti, requisito obbligatorio
+per il riconoscimento della mitigazione a fini regolamentari.
+
+Con I’adozione del “Portale Garanzie Attive” le garanzie sono
+sottoposte a un puntuale e periodico controllo mediante un
+apposito applicativo all'interno del quale sono stati imple-
+
+322 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

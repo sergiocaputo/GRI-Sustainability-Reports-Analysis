@@ -1,0 +1,80 @@
+Bilancio Consolidato 2017
+
+ 
+
+adottati nella prassi di mercato, sono iscritti in bilancio al costo, rettificato a fronte dell’accertamento di perdite per
+riduzione di valore.
+
+All'atto della cancellazione dell'attivita finanziaria dal bilancio (ad esempio nel caso di realizzo dell’attivita) o della ri-
+levazione di una perdita di valore, la riserva di patrimonio netto precedentemente costituita viene imputata a conto
+economico.
+
+Una perdita di valore é registrata a conto economico nel momento in cui il costo d'acquisizione (al netto di qualsiasi
+rimborso di capitale e ammortamento) eccede il suo valore recuperabile. Per gli investimenti azionari non quotati
+il valore di recupero é determinato applicando tecniche di valutazione comunemente utilizzate dagli operatori di
+mercato. Per gli investimenti azionari quotati, il valore di recupero é determinato sulla base del prezzo di mercato:
+si procede alla svalutazione se vi é un’evidenza oggettiva di una riduzione significativa o prolungata dei prezzi di
+mercato. Eventuali riprese di valore sono imputate a conto economico nel caso di titoli di debito ed a patrimonio
+netto nel caso di titoli di capitale. Lammontare della ripresa non pud in ogni caso superare il costo ammortizzato
+che lo strumento avrebbe avuto in assenza di precedenti rettifiche.
+
+La verifica dell’esistenza di obiettive evidenze di riduzione di valore viene effettuata ad ogni chiusura di bilancio o di
+situazione infrannuale.
+
+Criteri di cancella:
+
+ 
+
+Le attivita finanziarie sono cancellate quando il diritto a ricevere i flussi di cassa dall'attivita finanziaria é estinto, o
+laddove siano trasferiti in maniera sostanziale tutti i rischi ed i benefici connessi alla detenzione di quella determi-
+
+ 
+
+Sezione 3 - Attivita finanziarie detenute sino alla scadenza
+
+ 
+
+Sono classificati nella presente categoria i titoli di debito con pagamenti fissi o determinabili e a scadenza fissa, che
+si ha intenzione e capacita di detenere sino a scadenza. Se in seguito ad un cambiamento di volonta o di capacita
+non risulta piu appropriato mantenere un investimento come detenuto sino a scadenza, questo viene riclassificato
+tra le “Attivita finanziarie disponibili per la vendita”. Qualora nel corso di un esercizio venisse venduto 0 riclassificato,
+prima della scadenza, un importo non irrilevante degli investimenti classificati in tale categoria, le rimanenti attivita
+finanziarie detenute fino a scadenza verrebbero riclassificate come “Attivita finanziarie disponibili per la vendita” e
+uso del portafoglio in questione sarebbe precluso per i successivi due esercizi, a meno che le vendite o riclassifi-
+cazioni:
+
+- siano cosi prossime alla scadenza 0 alla data dell’opzione dell’attivita finanziaria, che le oscillazioni del tasso di
+interesse di mercato non avrebbero un effetto significativo sul fair value dell’attivita stessa;
+
+- si siano verificate dopo l'incasso sostanzialmente di tutto i] capitale originario dell'attivita finanziaria attraverso
+pagamenti ordinari programmati o anticipati; o
+
+-  siano attribuibili a un evento isolato non controllabile, che non sia ricorrente e non si possa pertanto ragionevol-
+mente prevedere.
+
+Criteri di iscrizione
+
+Liscrizione iniziale dell'attivita finanziaria avviene alla data di regolamento.
+
+All'atto della rilevazione iniziale le attivita finanziarie classificate nella presente categoria sono rilevate al fair value,
+
+comprensivo degli eventuali costi e proventi direttamente attribuibili. Se la rilevazione in questa categoria awiene
+
+per riclassificazione da altre categorie, il fair value dell'attivita alla data di riclassificazione viene assunto come nuovo
+costo ammortizzato dellattivita stessa.
+
+ 
+
+ 
+
+ 
+
+Criteri di valutazione e di rilevazione delle componenti reddituali
+
+Successivamente alla rilevazione iniziale, le “Attivita finanziarie detenute sino alla scadenza” sono valutate al costo
+ammortizzato, utilizzando il metodo del tasso di interesse effettivo. La verifica dell'esistenza di obiettive evidenze di
+
+ 
+
+419
+

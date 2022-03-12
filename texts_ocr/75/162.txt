@@ -1,0 +1,83 @@
+102-48; 201-1 Indicators
+
+ 
+
+CALCULATION AND DISTRIBUTION OF ECONOMIC VALUE
+
+[IM EURO]
+
+FINANCIAL STATEMENT ITEMS*
+2019 2018
+10. Interest and similar income 10,193 10,486
+20. Interest and similar expense -3,269 -3,144
+40. Active commissions 9,658 9,548
+50. Passive commissions' -1,471 -1,354
+70. Dividend and similar income 117 94
+80. Profits (Losses) on trading 506 445
+90. Fair value adjustments in hedge accounting -61 -111
+100. Profits (Losses) on disposal or repurchase of: 1,385 549
+a) financial assets measured at amortised cost 97 -19
+b) financial assets measured at fair value through other comprehensive income 1,218 508
+c) financial liabilities 70 60
+110. Profits (Losses) on other financial assets and liabilities measured at fair value through profit or loss 123 298
+a) financial assets and liabilities designated at fair value -103 28
+b) other financial assets mandatorily measured at fair value 226 270
+115. Profits (Losses) on financial assets and liabilities pertaining to insurance companies pursuant to IAS 39 3,991 3,240
+130. Net losses/recoveries for credit risks associated with: -2,201 -2,509
+a) financial assets measured at amortised cost -2,175 -2,507
+b) financial assets measured at fair value through other comprehensive income -26 -2
+135. Net losses/recoveries pertaining to insurance companies pursuant to |AS39 9 -26
+140. Profits (Losses) on changes in contracts without derecognition 6 -11
+160. Net insurance premiums 10,147 8,180
+170. Other net insurance income (expense) -12,673 -9,968
+230. Other operating expenses (income) 774 733,
+250. (partial) Profits (Losses) on investments in associates and companies subject to joint control (realised gains/losses)? 7 10
+280. Profits (Losses) on disposal of investments 96 452
+320. Profit (loss) from discontinued operations after tax 64 48
+A Total economic value generated 17,371 16,960
+190.b (partial) Gonentquaranteey. expenses (net of indirect taxes and donations and charges for resolution funds and -2,437 “2,731
+ECONOMIC VALUE DISTRIBUTED TO SUPPLIERS -2,437 -2,731
+190.2 Personnel expenses* ~6,513 -6,600
+ECONOMIC VALUE DISTRIBUTED TO EMPLOYEES AND COLLABORATORS -6,513 -6,600
+340. Minority interests 10 -22
+ECONOMIC VALUE DISTRIBUTED TO THIRD PARTIES 10 -22
+350. (partial) Parent Company net income (loss) - Share allocated to Shareholders® -3,362 -3,449
+350. (partial) | Parent Company net income (loss) - Share allocated to holders of equity instruments® -218 -199
+ECONOMIC VALUE DISTRIBUTED TO SHAREHOLDERS AND HOLDERS OF EQUITY INSTRUMENTS -3,580 -3,648
+190.b (partial) Other administrative expenses: indirect taxes -895 -915
+190.b (partial) Other administrative expenses: charges for resolution funds and deposit guarantee -526 -422
+300. (partial) Income taxes for the year (current taxes)’ -1,724 -474
+ECONOMIC VALUE DISTRIBUTED TO GOVERNMENT, ORGANISATIONS AND INSTITUTIONS -3,145 -1,811
+190.b (partial) Other administrative expenses: donations® 9 -1
+350. (partial) | Parent Company net income (loss) - Share allocated to charity funds? -13 -14
+ECONOMIC VALUE DISTRIBUTED TO THE COMMUNITY AND ENVIRONMENT -22 15
+B Totale Total economic value distributed -15,687 -14,827
+c Total economic value retained (withdrawn) by the corporate system’? 1,684 2,133
+
+* The 2019 data includes the effects of the application of IFRS 16. For additional details, please refer to the 2019 Consolidated Financial Statements.
+
+ 
+
+1 The figures differ from those of the income statement in the annual report, as the remuneration of the financial consultant networks was reclassified as “Personnel expenses’.
+2 The figures differ from those of the income statement in the annual report due to the exclusion of unrealised gains/losses, now recognised in a separate item.
+
+3 The figures differ from those of the income statement in the annual report due to the exclusion of indirect taxes and donations and gifts, and taxes and other charges regarding the banking
+industry, now recognised in a separate item. As of 2019, in application of IFRS 16, leasing payments are no longer included, since the charge is represented through the amortisation of the
+asset relating to the right of use and as interest expense on the debt.
+
+4 The figures differ from those of the income statement in the annual report, as they also include the remuneration paid to the financial consultant networks.
+
+5 For 2019, the economic value distributed to shareholders is partially drawn from the reserves of the Parent Company.
+
+6 Accrued interest relative to coupons on additional class 1 (AT1) equity instruments, recognised directly in the shareholders’ equity.
+
+7 The figures differ from those of the income statement in the annual report due to the exclusion of deferred tax assets and liabilities, now recognised in a separate item.
+
+8 The figures differ from those in the “Relations with the community” chapter, as they only consider the “Donations and charity” caption of the income statement.
+
+9 The figures include amounts allocated to charity funds by the Group banks.
+
+10 Represented by adjustments/recoveries and provisions, deferred tax assets and liabilities, and by the consolidated profit net of dividends distributed by the Parent Company.
+
+163
+

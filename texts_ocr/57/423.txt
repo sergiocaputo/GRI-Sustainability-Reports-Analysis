@@ -1,0 +1,76 @@
+Bilancio Consolidato 2017
+
+ 
+
+Sezione 5 - Attivita finanziarie valutate al fair value
+
+Il Gruppo non ha classificato attivita finanziarie in tale categoria.
+
+Sezione 6 - Operazioni di copertura
+
+Criteri di classificazione
+
+Le operazioni di copertura hanno la funzione di ridurre o trasferire i rischi connessi a singole attivita e passivita o di
+insiemi di attivita e passivita. Gli strumenti che possono essere utilizzati per la copertura, sono i contratti derivati
+(comprese le opzioni acquistate) e gli strumenti finanziari non derivati, per la sola copertura del rischio cambio. Tali
+strumenti sono classificati nello stato patrimoniale alla voce “Derivati di copertura’,
+
+Le tipologie di coperture possibili sono le seguenti:
+
+1) copertura di fair value (fair value hedge): é la copertura dell’esposizione alle variazioni del fair value di attivita,
+passivita, impegni non contabilizzati, o di una porzione di essi, attribuibile a un rischio particolare;
+
+2)
+
+copertura di flussi finanziari (cash flow hedge): é la copertura dell’esposizione alla variabilita dei flussi di cassa
+futuri attribuibili a particolari rischi associati ad un’attivita o passivita (come i futuri pagamenti di interessi a tasso
+variabile o i flussi finanziari relativi ad una programmata operazione altamente probabile);
+
+3) copertura di un investimento netto in una gestione estera (hedge of a net investment in a foreign operation as
+defined in IAS 21): é la copertura dei rischi di un investimento in un'iimpresa estera espresso in valuta.
+
+Loperazione é considerata di copertura se esiste una documentazione formalizzata della relazione tra lo strumento
+di copertura e i rischi coperti che rilevi gli obiettivi di gestione del rischio, la strategia per effettuare la copertura e
+i metodi che saranno utilizzati per verificare l'efficacia della copertura. Inoltre deve essere testato che la copertura
+sia efficace nel momento in cui ha inizio e, prospetticamente, durante tutta la vita della stessa.
+
+Lattivita di controllo dell’efficacia della copertura si articola in:
+
+* test prospettici: giustificano l’applicazione dell’hedge accounting in quanto dimostrano I'attesa efficacia della
+copertura nei periodi futuri;
+
+* test retrospettici: misurano nel tempo quanto i risultati effettivi si siano discostati dalla copertura perfetta.
+
+La copertura si assume altamente efficace quando le variazioni attese ed effettive del fair value o dei flussi di cassa
+dello strumento finanziario di copertura neutralizzano quasi integralmente le variazioni dell’elemento coperto, nei
+limiti stabiliti dall’intervallo 80-125%.
+
+Per le operazioni di copertura “forword sale"(rientranti nell'ambito della cash flow hedge) considerate le caratteri-
+stiche peculiari delle stesse, la copertura viene assunta sempre pienamente efficace (esito test 100%) con conse-
+guente iscrizione contabile a patrimonio netto della intera variazione di fair value del derivato. Quando l’operazione
+programmata si verifichera, o ci si attende che non debba pit accadere, lutile o la perdita complessivo che era stato
+rilevato direttamente a patrimonio netto dovra essere imputato a conto economico.
+
+La contabilizzazione delle operazioni di copertura viene interrotta nei seguenti casi:
+
+a) lacopertura operata tramite il derivato cessa o non é pili altamente efficace;
+
+b) il derivato scade, viene venduto, rescisso o esercitato;
+
+c) l’elemento coperto é venduto, scade o é rimborsato;
+
+d) viene revocata la definizione di copertura.
+
+Nei casi (a), (c) e (d) il contratto derivato di copertura viene riclassificato tra gli strumenti di negoziazione.
+
+Nel caso di operazioni di copertura generica, lo IAS 39 consente che oggetto di copertura di fair value dal rischio di
+tasso di interesse sia non solo una singola attivita o passivita finanziaria ma anche un importo monetario, contenuto
+in una molteplicita di attivita e passivita finanziarie (0 di loro porzioni), in modo che un insieme di contratti derivati
+
+possa essere utilizzato per ridurre le oscillazioni di fair value delle poste coperte al modificarsi dei tassi di interesse
+di mercato.
+
+ 
+
+423
+

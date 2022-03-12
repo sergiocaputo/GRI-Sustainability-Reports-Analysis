@@ -1,0 +1,159 @@
+10. Glossario
+
+ 
+
+Assogestioni
+
+Associazione italiana delle societa di gestione del risparmio che
+rappresenta le principali SGR italiane operanti in Italia, diverse
+banche e imprese di assicurazione che operano nell’ambito del-
+la gestione individuale e della previdenza complementare. Fan-
+no parte dell‘associazione anche alcune societa di gestione este-
+re che operano in Italia. Tra le varie attivita svolte, Assogestioni
+elabora la classificazione dei fondi comuni di investimento.
+
+Assoreti
+
+Associazione delle banche e delle imprese di investimento che
+prestano il servizio di consulenza in materia di investimenti,
+come definito dall’art. 1, comma 5, lett. f) del D. Lgs. 24 feb-
+braio 1998, n. 58, awalendosi dei propri consulenti finanziari
+abilitati all’offerta fuori sede. Ha lo scopo di seguire lo studio
+e l’evoluzione della normativa, garantire il costante contatto
+con le Istituzioni, fornire |‘elaborazione statistica di dati che
+permettano I’analisi dell’evoluzione del settore.
+
+ 
+
+Atti ponderate per il rischio (RWA)
+
+Attivita per cassa e fuori bilancio (derivati e garanzie) classifi-
+cate e ponderate in base a coefficienti legati ai rischi, ai sensi
+della normativa bancaria emanata dagli organi di vigilanza
+per il calcolo dei coefficienti di solvibilita.
+
+Audit
+
+Linsieme delle attivita di controllo sui processi e sulla contabilita
+societaria che vengono svolte sia da strutture interne (internal
+audit) sia da societa di revisione indipendenti (external audit).
+
+Automated Teller Machine (ATM)
+
+Apparecchiatura automatica per |’effettuazione da parte della
+clientela di operazioni quali prelievo di contante, versamento
+di contante o assegni, richiesta di informazioni sul conto, pa-
+gamento di utenze, ricariche telefoniche, ecc.. 'attivazione del
+terminale awiene da parte del cliente introducendo una carta
+magnetica e digitando il codice personale di identificazione.
+
+Azione
+
+Titolo rappresentativo di una quota del capitale di una societa
+per azioni o in accomandita per azioni. azione da diritto al
+suo possessore allo status di socio. In caso di liquidazione
+della societa, il rimborso del capitale avviene in via residuale
+dopo aver soddisfatto gli altri creditori.
+
+Backtesting
+
+Analisi retrospettive volte a verificare |’affidabilita delle misu-
+razioni delle fonti di rischio associate alle posizioni dei porta-
+fogli di attivita.
+
+Banca-assicurazione
+Espressione che indica l’offerta di prodotti assicurativi attra-
+verso la rete operativa delle aziende di credito.
+
+Banca Centrale Europea (BCE)
+
+Istituzione comunitaria deputata alla gestione della politica
+monetaria nell’Area Euro. Il suo obiettivo é@ la stabilita dei
+prezzi. | principali organi direttivi della BCE sono il Consiglio
+Direttivo, il Comitato Esecutivo e il Consiglio Generale.
+
+Banca d'Italia
+
+Istituto di diritto pubblico che persegue finalita d’interesse ge-
+nerale nel settore monetario e finanziario: il mantenimento della
+stabilita dei prezzi, la stabilita e l'efficienza del sistema finanzia-
+rio e gli altri compiti ad essa affidati dall’ordinamento nazionale.
+
+Fideuram - Intesa Sanpaolo Private Banking Annual Report Integrato 2019 ._. 417
+
+Banca dei Regolamenti Internazionali (BRI)
+
+Organismo internazionale con sede a Basilea, fondato nel
+1930. Le sue funzioni riguardano I'assistenza finanziaria alle
+istituzioni monetarie nazionali e la promozione di regole di
+carattere generale che riguardano il sistema bancario mon-
+diale.
+
+Banca depositaria
+
+Banca a cui é affidato il servizio di custodia ed amministrazio-
+ne dei valori di terzi (liquidita e strumenti finanziari) in gestio-
+ne presso la societa di gestione. Nel caso di fondi comuni di
+investimento e di fondi pensione la banca depositaria svolge
+anche un ruolo di controllo dell’operato della societa di ge-
+stione, sia in termini di rispetto del regolamento del fondo sia
+in termini di correttezza contabile delle transazioni eseguite
+ed effettua il calcolo del NAV.
+
+Banca Europea per gli Investimenti (BEI)
+
+stituzione finanziaria dell'Unione Europea che si occupa di
+investimenti pubblici o privati in linea con gli obiettivi dell’U-
+nione.
+
+Banca Europea per la Ricostruzione e lo Sviluppo (BERS)
+stituto di credito internazionale che fornisce assistenza fi-
+nanziaria a quei Paesi europei che awviano processi di riforma
+economica.
+
+Banca Mondiale
+stituto di credito che, tra gli obiettivi principali, contribuisce
+allo sviluppo dei Paesi emergenti.
+
+Banking book
+dentifica la parte del portafoglio, in particolare titoli, non de-
+stinata all’attivita di negoziazione.
+
+Basilea 2
+
+Denominazione comune del Nuovo Accordo sul capitale in
+vigore dal 1° gennaio 2007.
+
+L'accordo si basa su tre pilastri:
+
+- Pillar 1 (primo pilastro): fermo restando |’obiettivo di un livel-
+lo di capitalizzazione pari all’8% delle esposizioni ponderate
+per il rischio, 6 stato delineato un nuovo sistema di regole
+per la misurazione dei rischi tipici dell’attivita bancaria e fi-
+nanziaria (di credito, di controparte, di mercato e operativi)
+che prevede metodologie alternative di calcolo caratterizza-
+te da diversi livelli di complessita con la possibilita di utiliz-
+zare, previa autorizzazione dell’Organo di Vigilanza, modelli
+sviluppati internamente;
+
+Pillar 2 (secondo pilastro): prevede che le banche devono
+dotarsi di processi e strumenti per determinare il livello di
+capitale interno complessivo (Internal Capital Adequacy As-
+sessment Process - ICAAP) adeguato a fronteggiare tutte le
+tipologie di rischio, anche diverse da quelle presidiate dal
+requisito patrimoniale complessivo (primo pilastro), nell’am-
+bito di una valutazione dell’esposizione, attuale e prospet-
+tica, che tenga conto delle strategie e dell’evoluzione del
+contesto di riferimento. All’Autorita di Vigilanza spetta il
+compito di esaminare il processo ICAAP, formulare un giu-
+dizio complessivo ed attivare, ove necessario, le opportune
+misure correttive;
+
+Pillar 3 (terzo pilastro): introduce obblighi di pubblicazione
+delle informazioni riguardanti |’adeguatezza patrimoniale,
+l'esposizione ai rischi e le caratteristiche generali dei sistemi
+preposti all‘identificazione, alla misurazione e alla gestione
+di tali rischi.
+
+ 
+

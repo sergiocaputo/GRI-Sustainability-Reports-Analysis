@@ -1,0 +1,155 @@
+Units of measure
+
+,000 thousands
+
+,000 d thousands of days
+
+,000 h thousands of hours
+
+,000 t thousands of tons
+
+% percent
+
+bn m billions of cubic metres
+
+cent euro euro cents
+
+dd days
+
+g/kWh grams per kilowatt hour
+g/kWh eq grams per equivalent kilowatt hour’
+GBq per unit gigabequerels per unit
+GW gigawatts
+
+GWh gigawatt hours
+
+h hours
+
+h/per cap hours per capita
+
+i index
+
+kg kilograms
+
+km kilometres
+
+kWh kilowatt hours
+
+kWh eq equivalent kilowatt hours”
+kWh/t kilowatt hours per ton
+
+kWp peak kilowatts
+
+kWh litres per kilowatt hour
+
+kWh eq litres per equivalent kilowatt hours”
+mil millions
+
+mil A4 eq millions of equivalent A4 sheets
+mil euros millions of euros
+
+mil h millions of hours
+
+mil I millions of litres
+
+mil m? millions of cubic metres
+
+mil t millions of tons
+
+mil t eq millions of equivalent tons
+min minutes
+
+MJ/kWh eq megajoules per equivalent kilowatt hours”
+ML megalitres
+
+Mtoe millions of tons of oil equivalent
+MW megawatts
+
+MWh megawatt hours
+
+no. number
+
+sec seconds
+
+t tons
+
+TBq per unit terabecquerels per unit
+TOE tons of oil equivalent
+
+TJ terajoules
+
+TWh Terawatt hours
+
+years years
+
+7 Corresponding to the sum of energy and heat production
+
+248
+
+Acronyms
+
+BOD Biochemical Oxygen Demand
+
+BoD Board of Directors
+
+CCGT Combined Cycle Gas Turbine
+
+CERT Cyber Emergency Readiness Team
+
+COD Chemical Oxygen Demand
+
+CSR Corporate Social Responsibility
+
+CSV Creating Shared Value
+
+EBIT Earnings Before Interest and Tax
+
+EBITDA Earnings Before Interest, Tax, Depreciation and
+Amortization
+
+EBT Earnings Before Tax
+
+EGP Enel Green Power
+
+EIB European Investment Bank
+
+EPS Earnings per Share
+
+ESG Environmental Social & Governance
+
+HV High Voltage
+
+IPO Initial Public Offering
+
+IRAP Imposta Regionale sulle Attivita Produttive (Regional
+Business Tax)
+
+IRES Imposta sul Reddito delle Societa (Corporate Income
+Tax)
+
+LBG London Benchmarking Group
+
+LV Low Voltage
+
+MV Medium Voltage
+
+PCBs Polychlorinated Biphenyls
+
+R&D Research & Development
+
+RT Remote Training
+
+S&P Standard & Poor's
+
+SCIGR Internal Control and Risk Management System
+SDG Sustainable Development Goal
+
+SRI Socially Responsible Investor
+
+TCFD Task Force on Climate-related Financial Disclosure
+TSR Total Shareholder Return
+
+UN United Nations
+
+Sustainability Report 2019 enet
+

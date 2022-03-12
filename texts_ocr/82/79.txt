@@ -1,0 +1,43 @@
+F80 |
+
+ITALMOBILIARE
+
+INVESTMENT HOLDING
+
+ 
+
+ 
+
+HUNGARY 2019 2018
+Number of fatalities as a result of work-related injury 0 0
+Number of high-consequence work-related injuries (excluding fatalities) 0 0
+Number of recordable work-related injuries 0 0
+Number of hours worked 65,956 75,103
+Rate of fatalities as a result of work-related injuries 0.0 0.0
+Rate of high-consequence work-related injuries (excluding fatalities) 0.0 0.0
+Rate of recordable work-related injuries 0.0 0.0
+UK 2019 2018
+Number of fatalities as a result of work-related injury 0 0
+Number of high-consequence work-related injuries (excluding fatalities) 0 0
+Number of recordable work-related injuries a 3
+Number of hours worked 207,910 256,540
+Rate of fatalities as a result of work-related injuries 0,0 0.0
+Rate of high-consequence work-related injuries (excluding fatalities) 0,0 0.0
+Rate of recordable work-related injuries 481 117
+POLAND 2019 2018
+Number of fatalities as a result of work-related injury 0 0
+Number of high-consequence work-related injuries (excluding fatalities) 0 0
+Number of recordable work-related injuries 5 a
+Number of hours worked 527,021 645,559
+Rate of fatalities as a result of work-related injuries 0,0 0.0
+Rate of high-consequence work-related injuries (excluding fatalities) 0,0 0.0
+Rate of recordable work-related injuries 9.49 1.5
+SPAIN 2019 2018
+Number of fatalities as a result of work-related injury 0 0
+Number of high-consequence work-related injuries (excluding fatalities) 0 0
+Number of recordable work-related injuries a 5
+Number of hours worked 107,021 143,927
+Rate of fatalities as a result of work-related injuries 0.0 0.0
+Rate of high-consequence work-related injuries (excluding fatalities) 0.0 0.0
+Rate of recordable work-related injuries 9.34 34.7
+

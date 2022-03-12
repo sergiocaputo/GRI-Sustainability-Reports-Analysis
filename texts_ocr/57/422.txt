@@ -1,0 +1,74 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+per un macrosegmento che accorpa PMI, Large Corporate ed Immobiliari.
+
+La definizione di default utilizzata ai fini della stima include le controparti classificate scadute e/o sconfinate, unlikely
+to pay (owero le inadempienze probabili) e sofferenze.
+
+Per i segmenti Banche / Istituti finanziari ed Enti, le probabilita di default sono quantificate ricorrendo ai dati pubbli-
+cati annualmente dalle maggiori Agenzie di Rating. Lorizzonte temporale di un anno utilizzato per la determinazione
+della probabilita di default si ritiene possa approssimare, in via prudenziale, la nozione di “incurred loss”, ovvero di
+perdita fondata su eventi attuali, ma non ancora acquisiti dall’impresa nella revisione del grado di rischio dello spe-
+cifico cliente, prevista dagli IAS/IFRS (loss confirmation period fissato prudenzialmente pari a 1).
+
+ 
+
+La Loss Given Default, per le controparti in sofferenza, rappresenta il complemento del tasso di recupero storico
+di lungo periodo ottenuto sulla base di dati interni. Il parametro di LGD viene riproporzionato, tramite il “cure rate”,
+che é un fattore di mitigazione che tiene conto della percentuale di posizioni che rientrano in bonis e che quindi non
+generano perdite. In dettaglio si sottolinea che:
+
++ il parametro LGD é stimato sulla base di dati interni che coprono un orizzonte temporale funzionale a cogliere le
+“current economic conditions”;
+
++ ivalori di LGD da applicare nel calcolo del fondo collettivo sono ottenuti con il metodo “a media di cella’, ossia
+come media semplice delle LGD individuali a livello di segmento, forma tecnica e tipologia di garanzia;
+
++ ilparametro Danger Rate? é stimato su dati interni e su un orizzonte temporale coerente con quanto previsto per
+la stima del parametro di PD.
+
+Come evidenziato in precedenza, quindi, le PD e le LGD sono stimate tenendo conto di serie storiche, fondate su
+elementi osservabili alla data della valutazione, che consentono di stimare il valore della perdita relativa a ciascuna
+categoria di crediti.
+
+c) stima della svalutazione collettiva
+Per la determinazione della svalutazione collettiva si procede a:
+
+- determinare l’esposizione di ogni rapporto creditizio (sia esposizioni per cassa sia esposizioni di firma) sulla base
+di informazioni estratte dalle procedure di bilancio;
+
+- si procede ad applicare la percentuale di perdita stimata media (il prodotto di PD per LGD) relativa a ciascun
+gruppo omogeneo di rischio determinato dalla chiave segmento di rischio / forma tecnica.
+
+La somma delle perdite stimate per ogni singolo rapporto di cassa e di firma rappresenta il calcolo del fondo di
+accantonamento collettivo, mentre il confronto dell'importo cosi determinato con quello riferito alla valutazione del
+periodo precedente, determina la rettifica di valore o la potenziale ripresa di valore complessiva da applicare ai cre-
+diti verso la clientela in bonis. Ai fini della quantificazione del fondo di accantonamento collettivo non sono svalutate,
+per la sola parte secured, le esposizioni garantite da Medio Credito Centrale (MCC), Fondo Tranched Cover (TC) e
+Fondo Europeo degli Investimenti (FEI). Tale impostazione é, peraltro, coerente con il calcolo ai fini segnaletici delle
+attivita ponderate per il rischio. La quota di esposizione garantita da tali soggetti ha, infatti, una ponderazione di
+rischio pari allo zero per cento.
+
+Criteri di rilevazione delle componenti reddituali
+
+Gli interessi sono classificati negli “Interessi attivi e proventi assimilati” derivanti da crediti verso banche e clientela
+e sono iscritti in base al principio della competenza temporale.
+
+Criteri di cancellazione
+
+| crediti sono cancellati allorché il diritto a ricevere i flussi di cassa dall’attivita finanziaria € estinto, quando sono
+stati trasferiti in maniera sostanziale tutti i rischi ed i benefici connessi alla detenzione di quella determinata attivita
+o nel caso in cui il credito € considerato definitivamente irrecuperabile dopo che tutte le necessarie procedure di
+recupero sono state completate. Per contro, qualora siano stati mantenuti i rischi e benefici relativi ai crediti ceduti,
+questi continuano ad essere iscritti tra le attivita del bilancio, ancorché giuridicamente la titolarita del credito sia
+stata effettivamente trasferita.
+
+il Danger Rate é un parametro che misura la probabilita che un’esposizione deteriorata peggior’ il suo merito creditizio fino alllo
+status di sofferenza.
+
+422
+
+ 
+

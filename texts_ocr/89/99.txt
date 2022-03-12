@@ -1,0 +1,56 @@
+100
+
+6.1.8
+
+ 
+
+issues. Since the project was launched (June 2018), more than 9,700 full digital loans have been
+granted, involving finance of more than €71m.
+
+A project has also been completed to adapt the existing CRM/SFA systems to the Salesforce
+solution, in order to make the operating and sales processes more streamlined, effective and
+aligned with the new trends in technology.
+
+The Private Banking division, as a result of the emergency situation caused by Covid-19, is
+accelerating its own digitalization process in order to ensure continuity of the services provided to
+its clients, on the back of a major effort made in the technology area and a consolidated culture of
+risk management.
+
+Personal data protection and data security
+[GRI 418-1]
+
+Protection of customers’ personal data and information is a key factor in providing our activities,
+and as such requires proper governance. The Group is committed to ensuring that personal data
+is collected and processed in compliance with the legal provisions in force. This includes electronic
+data, paper documents and verbal exchanges via phone calls or direct communications.
+
+Information of different kinds is processed and managed regarding significant issues such as:
+transactions, contracts, and confidential customer and staff. The Group undertakes to protect such
+data from unauthorized or accidental alteration, loss or unauthorized disclosure. It also ensures,
+in accordance with the business requirements, the availability and integrity of information which
+must be reliable and usable on the part of the users.
+
+The regulations on personal data protection are applied within the Mediobanca Group based on
+the following model:
+
+© Mediobanca and all Italian Group companies which process personal data, apply in full the
+provisions of the Regulation (EU) 2016/679 (the “General Data Protection Regulation”, or
+“G@DPR"), along with those of the Italian regulations (cluster 1);
+
+© The Group companies established in the EU that process personal data and the non-ltalian
+Group companies not established in the EU but which provide goods or services — exclusively
+or even only in part —to natural persons in the EU, process their data by applying the provisions
+of the GDPR, along with the relevant local regulations (cluster 2);
+
+© The non-Italian Group companies not included in the first two clusters, when processing
+personal data, comprise cluster 3.
+
+Each Group company is responsible its own data processing and protection, to guarantee which
+security objectives and principles have been identified.
+
+Governance of the risks associated with the processing of personal data is guaranteed: for cluster
+1, via (i) adoption of the general measures contained in the Group Personal Data Protection Policy,
+and (ii) appointment of a DPO, permitted under Article 37 of the GDPR; for clusters 2 and 3, via
+co-ordination between the DPO of Mediobanca and the local compliance officers, or the DPO of the
+company concerned if one has been appointed.
+

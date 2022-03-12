@@ -1,0 +1,100 @@
+Alperia Sustainability Report 2019
+
+Security figures
+
+In 2019, Alperia’s protection systems blocked an average of 4.000 spam emails and 6.000 malicious
+connection attempts every day, the latter falling by 73% compared to 2018. This reduction resulted from a
+change to the measurement paradigm: since 2019, only attempts to access Microsoft systems outside the
+Alperia (Bolzano office) perimeter are identified, avoiding the inclusion of user password errors. Spam emails,
+on the other hand, were up 33% compared to 2018 (around 1.000 more). This increase is the result of greater
+Cloud openness and new internet applications.
+
+Each month, Alperia identifies and blocks an average of:
+
+- 2.930 viruses: This figure is significantly higher than 2018 (70 viruses) resulting from two internally
+blocked episodes of targeted attacks over the course of two months.
+
+- 31 pieces of spyware (software that collects information about a user’s online activity): The figure
+went down 23% due to more efficient internal security systems and greater user awareness.
+
+- 2 million malicious, suspicious or prohibited internet use incidents (activities related to
+suspicious or prohibited browsing): exactly 100% more than in 2018, also here attributable to more
+open access/exposure to the cloud and new internet applications;
+
+- 200 malicious or unauthorised applications: a 67% increase compared to 2018, due to more open
+access/exposure to the cloud and new internet applications
+
+- 250.000 malicious or prohibited items of content: in line with 2018 numbers
+
+The figures show that the threat is constantly growing. Defence systems must always be up to date to ensure
+they are able to fight off attacks effectively, guaranteeing the necessary security for company systems.
+
+Figure 25: Other indicators related to cyber security
+
+ 
+
+During the year Alperia’s protection systems blocked (daily average):
+
+ 
+
+spam e-mails 4.000 3.000 5.000 33%
+malicious connection attempts 6.000 22.000 20.000 -73%
+
+ 
+
+ 
+
+ 
+
+Each month Alperia identifies and blocks an average of:
+
+viruses 2.930 70 17 4.086%
+
+ 
+
+ 
+
+pieces of spyware (software that collects
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+920,
+information about a user's online activity) wu 40 22 23%
+malicious, suspicious or prohibited internet 2.000.000 1.000.000 600.000 100%
+activities
+malicious or unauthorised applications 200 120 80 67%
+malicious or prohibited items of content 250.000 250.000 300.000 0%
+
+Digitisation
+
+Alperia must complete its digital transformation in order to become a modern, fully efficient and intelligent
+company. This change will not only streamline daily activities, but also contribute significantly to reducing
+energy consumption. By increasing the interconnectivity of buildings, equipment, facilities and transport
+systems, digitisation offers advantages for energy efficiency that are clearly superior to analogue management.
+In addition, digital systems make it possible to analyse available data in order to make improvements and
+efficiencies in activity management. Alperia has an extensive plan for this process, supported by cutting-edge
+technology solutions, such as sensors, meters, distributed registers and interfaces. The group’s digitisation
+process is divided into twelve areas. Marketing was the first area to be completed in 2019, which will be
+followed by sales in 2020, with integration of the billing and accounting processes. We will then bring together
+the ERMs covering the corporate and Edyna worlds into a single application, to provide common procedures
+
+89
+

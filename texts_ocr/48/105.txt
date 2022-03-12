@@ -1,0 +1,109 @@
+| 104 | Generali Group
+
+2. Group PIM Governance
+
+Governance and processes regarding the Group PIM are
+
+defined in the Group Internal Model Governance Policy,
+
+ensuring that:
+
+— models and components are appropriate for their pur-
+pose;
+
+— procedures are in place to design, implement, use and
+validate new models and model changes;
+
+— the appropriateness of models on an ongoing basis is
+verified.
+
+To rule the activities related to the Internal Model devel-
+opments necessary to ensure its appropriateness over
+time and, more in general, to support the Internal Model
+change process, the Group Internal Model Change Policy
+has been also defined with the aim to specify roles and
+responsibilities in the implementation of major and minor
+changes.
+
+A dedicated committee, the Internal Model Committee,
+has been established to approve Group PIM calibrations,
+to support the Group Chief Risk Officer (GCRO) in the
+decision-making process on Group PIM developments
+or model changes and to control the full model lifecy-
+cle, assuring proper compliance with the Group Internal
+Model Governance Policy. This Committee is chaired by
+the Model Design Authority, responsible for ensuring the
+overall consistency and reliability of the Group PIM.
+
+The GCRO defines the processes and controls to ensure
+the ongoing appropriateness of the design and oper-
+ations of the Group PIM, so that it continues to appro-
+priately reflect the Group risk profile. The GCRO is also
+responsible for defining the methodology of each mod-
+el component, on the basis of the Group Internal Model
+Committee’s proposals, as well as for the results produc-
+tion and ultimately for submitting the relevant Internal
+Model supporting documentation to the AMSB.
+
+The AMSB, assisted by the Risk and Control Committee,
+ensures the ongoing appropriateness of the design and
+operations, the ongoing compliance of the Group PIM
+and also that the Group PIM continues to appropriately
+reflect the risk profile of the Group.
+
+These roles are generally mirrored within the organization-
+al structure of each Group Legal Entity within PIM scope.
+
+No material changes have occurred during the period
+with reference to the PIM governance.
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+3. Group PIM Validation
+
+The Group PIM is subject to independent validation on
+an ongoing basis, which aims to gain assurance of the
+completeness, robustness and reliability of the processes
+and results of the Group PIM as well as their compliance
+with the Solvency II regulatory requirements.
+
+The validation process follows the principles and proce-
+dures defined within the Group Internal Model Validation
+Policy and related guidelines.
+
+In particular, the validation outputs are designed to sup-
+port Senior Management and AMSB in understanding
+the appropriateness of the Group PIM, including areas
+of weaknesses and limitations, especially with regards to
+its use.
+
+To ensure an adequate level of independence, the re-
+sources performing the validation activities are not in-
+volved in the development and operation of the Group
+PIM.
+
+Within the validation process also results obtained dur-
+ing previous validation cycles are taken into account, as
+well as developments within internal and external busi-
+ness environment, financial market trends and Group PIM
+changes. The Internal Model validation process excludes
+those aspects covered by the assurance work of the
+Actuarial Function (i.e. technical provisions and related IT
+systems, actuarial platforms and their governance).
+
+Furthermore, the validation procedures also serve as an
+incentive mechanism to ensure timely and accurate in-
+corporation of modelling refinements.
+
+In order to warrant the appropriateness of the array of
+elements contained within the Group PIM, the validation
+covers both the quantitative and qualitative aspects of
+the Internal Model, and is therefore not limited to the cal-
+culation engine and methodology. Other important items
+such as data quality, documentation and uses of the
+Model are validated accordingly.
+
+The validation process is carried out on regular annu-
+al basis and when requested by the AMSB or Senior
+Management (e.g. in case of PIM changes).
+

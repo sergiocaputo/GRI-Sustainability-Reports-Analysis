@@ -1,0 +1,89 @@
+9. Deferred tax assets and liabilities
+
+Deferred tax assets and liabilities amount to €215.1 million and €18.9 million at 31 December 2019, respectively.
+
+They are classified under non-current assets and liabilities and are offset if possible.
+
+ 
+
+ 
+
+(€000) 31 December 2018 31 December 2019 Variation
+Deferred tax assets 195,001 215,051 20,050
+Deferred tax liabilities (18,994) (18,946) 48
+
+ 
+
+Changes in 2018 and 2019 are as follows:
+
+ 
+
+ 
+
+31 December Increases Decreases Net exchange Change in taxReclassifications Other changes 31 December
+(€000) 2017 gains (losses) rate 2018
+Deferred tax assets
+Amortisation and depreciation 4,179 1,324 - - - - 1,151 6,654
+
+ 
+   
+
+Provisions for risks and 102,064 42,799 (5,395) - - - (1,234) 138,234
+
+impairment losses
+
+ 
+
+Tax effect of capital increase 301 - (301) - - - - -
+
+ 
+
+Excess maintenance 13,189 7,404 (4,770) : - : : 15,822
+
+ 
+
+Unrealised exchange losses 23,238 26,568 (23,238) - - - - 26,568
+
+ 
+
+ 
+
+ 
+
+Other 43,790 : (3,742) 4 - : (4,197) 35,856
+Deferred tax assets before 186,761 78,095 (37,446) 4 (4,280) 223,134
+offsetti
+
+Offsetting (26,197) - : - - - (1,936) (28,133)
+Net deferred tax assets 160,564 78,095 (37,446) 4 (6,216) 195,001
+
+ 
+
+Deferred tax liabilities
+
+ 
+
+Uncollected default interest (4,826) (422) - : - - (1) (6,249)
+
+ 
+
+Unrealised exchange gains (16,433) (20,052) 16,433 - - - - (20,052)
+
+ 
+
+Other (6,170) : 2,105 : - : (88) (3,153)
+
+Deferred tax liabilities before (26,429) (20,474) 18,538 (89) (28,454)
+
+     
+
+Offsetting 26,197 : : : - : 1,936 28,133
+
+ 
+
+Net deferred tax liabilities (232) (20,474) 18,538 1,847 (321)
+
+ 
+
+437
+

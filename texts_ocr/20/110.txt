@@ -1,0 +1,51 @@
+es ee
+
+3 ‘SUSTAINABILITY REPORT 2019
+LOOKING AT THE VALUE CREATED
+
+Eco-Management and Audit Scheme (EMAS): a voluntary scheme created by the European Community which
+can be joined voluntarily by organizations (companies, public bodies, etc.) to assess and improve their
+environmental performance and provide the public and other interested parties with information on their
+environmental management. The main aim of EMAS is to help creating sustainable economic development,
+highlighting the role and responsibilities of businesses. To obtain [and maintain] the EMAS certification
+(registration), organizations must subject their environmental management system to a compliance
+assessment performed by an Accredited Auditor, and have the same auditor validating their Environmental
+Report (and its updates, which are usually annual).
+
+ISO 9001: a voluntary international standard published in 1987 by the International Organization for
+Standardization, regarding the requirements of Quality Management Systems for organizations in any sector
+and of any size.
+
+OSHA (Occupational Safety and Health Administration): agency of the US Department of Labor, which
+introduced standards for occupational safety.
+
+Ut: Litres per tonne.
+
+m*: Cubic metre.
+
+NO: Nitrogen oxide.
+
+NOz: Nitrogen dioxide.
+
+NOx: Nitrogen oxides (NO and NOz).
+
+SOz: Sulphur dioxide.
+
+Emissions “Scope 1”: are all the direct emissions from the company’s own sources or those controlled by
+the company.
+Emissions “Scope 2”: are the indirect emissions of the company, those linked to the purchase of energy
+
+from sources controlled by another subject.
+
+EMISSION FACTORS USED
+
+To calculate the direct emissions of COz equivalents (Scope 1], the emission factors of the 2006 IPCC Guidelines
+for National Greenhouse Gas Inventories (2006 IPCC Guidelines] were used.
+
+To calculate the indirect emissions of CO2 equivalents (Scope 2}, the emission factors provided by Ecoinvent
+3.3 were used. The Database Ecoinvent 3.3 is a database that has emission factors linked to the electricity
+
+production mix of several countries in the world.
+
+109
+

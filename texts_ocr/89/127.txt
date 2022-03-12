@@ -1,0 +1,62 @@
+128
+
+g
+
+DIRECT AND INDIRECT CO, EMISSIONS“?
+UNIT FY 2019-20 FY 2018-19 FY 2017-18
+
+From non-renewable sources (natural gas, diesel) 1,368.05 1,463.82 1,528.12
+
+ 
+
+From company cars (petrol and diesel) 2,560.76 2.588 1,040.29
+
+From electricity and thermal energy 162.89 918.14 851.22
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+From electricity and thermal energy 7,527.66 7,542.03 ND
+
+Air travel 1,370.37 2,548.60 2,794.55
+Domestic flights 298.52 452.10 666.87
+International flights 1,071.85 2,096.50 2,127.68
+Train travel 137.37 176.92 191.41
+High speed 124.95 164.00 161.53
+Other types of train travel 12.42 12.92 29.88
+Third-party car services 19.38 28.43 18.98
+
+The increase in the supply of electricity from renewable sources has generated a reduction in Scope 2
+market-based emissions. The Group also reported a substantial decrease in Scope 3 emissions due to the
+lockdown following the Covid-19 pandemic, the main reduction regarding air travel.
+
+The Group has recorded the following emission levels for ozone-depleting substances: 40 kg of ODS (28 kg
+of which R-410A)*, 786 kg of nitrogen oxides, and 27 kg of sulphur oxides**. NOx and SO, emissions were
+lower than last year, following the reduction in consumption of electricity from non-renewable sources.
+
+49, For direct emissions (Scope 1), indirect emissions (Scope 2) and company cars (Scope 3), we have used the emission factors recommended in the “Guidelines
+on application of GRI (Global Reporting Initiative) environmental indicators in banks” released by the Italian banking association (ABI) and compiled in the Italian
+Greenhouse Gas Inventory 1990-2015 — National Inventory Report 2017 — by ISPRA (Istituto Superiore per la Protezione e la Ricerca Ambientale). For direct
+emissions deriving from air and train travel, we have used the emissions factors recommended in the ABI guidelines compiled respectively by the ICAO
+(International Civil Aviation Organization) and the UIC (Union Internationale des Chemins de Fer) via Ecopassenger.
+
+50. The indirect CO, emissions figures (Scope 2) have been restated from those published in the Consolidated Non-Financial Statement for FY 2018-19, following the
+changes to the consumption of electricity and thermal energy
+
+51. For indirect emissions (Scope 3), estimates have been used in cases where no data was available for recent months, based on the consumption figures recorded
+in the months prior to that
+
+52. Refrigerant gas used for air conditioning systems: these are refills made during the year following maintenance work
+
+53. NOx and SOx emissions are calculated on the basis of gas, diesel, GPL and energy from non-renewable sources in accordance with the guidelines issued by ABI. The
+company car fleet is never included in the calculation
+

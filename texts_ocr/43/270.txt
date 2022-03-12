@@ -1,0 +1,165 @@
+Nota integrativa consolidata
+
+ 
+
+“hedge accounting” (nella versione carved out omologata
+dalla Commissione Europea) per ogni tipologia di coper-
+tura.
+
+Le operazioni di copertura dei rischi sono finalizzate a neu-
+tralizzare potenziali perdite, attribuibili ad un determinato
+rischio e rilevabili su un determinato elemento o gruppo di
+elementi nel caso in cui quel particolare rischio dovesse ef-
+fettivamente manifestarsi.
+
+Le tipologie di coperture utilizzate sono le seguenti:
+
+© copertura di fair value: ha l’obiettivo di coprire l’esposizione
+alle variazioni di fair value (attribuibili alle diverse tipologie
+di rischio) di attivita e passivita iscritte in bilancio o porzioni
+di esse, di gruppi di attivita/passivita, di impegni irrevocabili
+e di portafogli di attivita e passivita finanziarie. Le coperture
+generiche di fair value (“macro hedge”) hanno |’obiettivo di
+ridurre le oscillazioni di fair value, imputabili al rischio di tas-
+so di interesse, di un importo monetario, riveniente da un
+portafoglio di attivita o di passivita finanziarie. Non possono
+essere oggetto di copertura generica importi netti derivanti
+dallo sbilancio di attivita e passivita;
+
+copertura di flussi finanziari: ha l’obiettivo di coprire |’e-
+sposizione a variazioni dei flussi di cassa futuri attribuibili a
+particolari rischi associati a poste del bilancio. Solo gli stru-
+menti finanziari che coinvolgono una controparte esterna
+al Gruppo possono essere designati come strumenti di co-
+pertura.
+
+| derivati di copertura, al pari di tutti i derivati, sono ini-
+zialmente iscritti e successivamente valutati al fair value. In
+particolare, nel caso di copertura di fair value si compensa
+la variazione di fair value dello strumento coperto con la
+variazione di fair value dello strumento di copertura. Tale
+compensazione é rilevata mediante |’iscrizione a conto eco-
+nomico delle variazioni di valore, riferite sia all’elemento co-
+perto (per quanto riguarda le variazioni prodotte dal fattore
+di rischio sottostante), sia allo strumento di copertura. L'e-
+ventuale differenza, che rappresenta la parziale inefficacia
+della copertura, ne costituisce |’effetto economico netto. Nel
+caso di operazioni di copertura generica di fair value (“ma
+cro hedge") le variazioni di fair value con riferimento al ri-
+schio coperto delle attivita e delle passivita oggetto di coper-
+tura sono imputate nello stato patrimoniale nella voce 60.
+“Adeguamento di valore delle attivita finanziarie oggetto di
+copertura generica” oppure nella voce 50. “Adeguamento
+di valore delle passivita finanziarie oggetto di copertura ge-
+nerica”. Nel caso di copertura di flussi finanziari, le variazioni
+di fair value del derivato sono imputate a patrimonio netto
+per la quota efficace della copertura e sono rilevate a conto
+economico solo quando, con riferimento alla posta coperta,
+si manifesta la variazione dei flussi di cassa da compensare o
+se la copertura risulta inefficace.
+
+La relazione fra gli strumenti di copertura e gli elementi
+coperti 6 documentata in modo formale e I'efficacia della
+copertura viene periodicamente verificata. Una copertura
+é considerata efficace se le variazioni di fair value dell’ele-
+mento coperto sono compensate dalle variazioni di fair va-
+lue dello strumento di copertura, mantenendo il rapporto
+tra tali variazioni all‘interno di un intervallo compreso fra
+80% e 125%. Se le verifiche non confermano l’efficacia la
+contabilizzazione delle operazioni di copertura viene inter-
+rotta a partire dalla data dell‘ultimo test di efficacia che ha
+avuto esito positivo. Il contratto derivato di copertura viene
+
+Fideuram - Intesa Sanpaolo Private Banking Annual Report Integrato 2019 —_. 267
+
+riclassificato tra gli strumenti di negoziazione e lo strumento
+finanziario coperto riacquisisce il criterio di valutazione cor-
+rispondente alla sua classificazione di bilancio.
+
+SEZIONE 5 - PARTECIPAZIONI
+
+La voce include le interessenze detenute in societa sulle quali
+il Gruppo esercita un'influenza notevole.
+
+Sono considerate come sottoposte ad influenza notevole le
+societa nelle quali il Gruppo ha il potere di partecipare alla
+determinazione delle politiche finanziarie e gestionali in forza
+di legami giuridici e situazioni di fatto esistenti. influenza
+notevole si presume quando il Gruppo detiene il 20% o una
+quota superiore dei diritti di voto.
+
+Le partecipazioni sono iscritte in bilancio al costo di acquisto e
+successivamente sono valutate con il metodo del patrimonio
+netto. II metodo del patrimonio netto prevede I’adeguamento
+del valore di carico della partecipazione in base alla quota di
+pertinenza del Gruppo nel patrimonio netto della partecipata.
+Le differenze tra il valore della partecipazione e il patrimonio
+netto della partecipata di pertinenza sono incluse nel valore
+contabile della partecipata. La quota di pertinenza del risulta-
+to d’esercizio della partecipata é rilevata nel conto economico
+consolidato. Se esistono evidenze che il valore di una parteci-
+pazione possa aver subito una riduzione di valore, si procede
+alla stima del valore recuperabile della partecipazione stessa.
+Qualora il valore recuperabile risulti inferiore al valore di bi-
+lancio, la relativa differenza é rilevata nel conto economico.
+Qualora i motivi della perdita di valore siano rimossi a seguito
+di un evento verificatosi successivamente alla rilevazione della
+riduzione di valore, vengono effettuate riprese di valore con
+imputazione a conto economico.
+
+SEZIONE 6 - ATTIVITA MATERIALI
+
+Le attivita materiali includono i terreni, gli immobili strumen-
+tali, gli impianti tecnici, i mobili e gli arredi, le macchine,
+le attrezzature e il patrimonio artistico di pregio.
+
+Le attivita materiali detenute per essere utilizzate nella produ-
+zione o nella fornitura di beni e servizi sono classificate come
+“attivita ad uso funzionale” secondo lo IAS16. Si definiscono
+immobili strumentali gli immobili posseduti (0 locati tramite
+un contratto di leasing finanziario) utilizzati nella produzione
+e fornitura di servizi o per fini amministrativi, con una vita
+utile superiore all’anno. Sono, infine, inclusi i diritti d'uso ac-
+quisiti con il leasing finanziario e relativi all’utilizzo di un‘atti-
+vita materiale (per le societa locatarie) e le attivita concesse in
+leasing operativo (per le societa locatrici).
+
+Le attivita materiali sono inizialmente iscritte al costo, inten-
+dendo per tale sia il prezzo d’acquisto sia tutti gli eventuali
+oneri accessori direttamente imputabili all’acquisto e alla mes-
+sa in funzione del bene. Le spese di manutenzione straordi-
+naria che comportano un incremento dei benefici economici
+futuri vengono imputate ad incremento del valore dei cespiti,
+mentre gli altri costi di manutenzione ordinaria sono rilevati
+nel conto economico.
+
+Secondo |’IFRS16, i leasing sono contabilizzati sulla base del
+modello del right of use per cui, alla data iniziale, il locatario
+ha un‘obbligazione finanziaria a effettuare pagamenti dovuti
+al locatore per compensare il suo diritto a utilizzare il bene
+sottostante durante la durata del leasing. Quando I'attivita é
+resa disponibile al locatario per il relativo utilizzo (data inizia-
+
+JINVINNOIYSd “Y OLVIYIW 1d OLSILNOD *€ BOILWULS “Z SSANISN 1d OTIAGOW “1
+
+JINVNYIAOD *S
+
+Cd
+a
+Sl
+ba
+Bs
+a
+°
+s
+fe}
+4
+Fl
+iS
+5
+>
+5
+fo}
+
+ 
+

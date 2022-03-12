@@ -1,0 +1,139 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019 | © 2020 GRUPPO CREVAL | 2.1 NOSTRI AMBIT! DI AZIONE
+
+66
+
+303-3
+
+305-1
+
+Prelievo idrico
+
+Prelievo idrico da tutte le aree ripartite per fonti, 2017 2018 2019
+ove applicabile (Metri cubi)
+
+Acqua provenienti da utenze municipali od altre fonti
+pubbliche e private
+
+Totale 75.769 67.803 76.825
+
+75.769 67.803 76.825
+
+lI dato di consumo del 2018 é stato rettificato a seguito di conguagli ricevuti nel corso dell’anno 2019.
+
+Per l’'anno 2019 i consumi sono frutto di stime in funzione dei costi effettivi rilevati dal sistema gestionale in usp e comprendono le
+bollette di competenza registrate a sistema entro la data del 17 gennaio 2020. Per la stima dei consumi sono stati applicati i costi
+medi (€/mc) desunti - societa per societa - dalla DCNF 2019.
+
+Emissioni dirette di GHG (Scope 1)
+
+Emissioni di gas serra dirette (tCO, equivalenti) 2017 2018 2019
+Da gas naturale per riscaldamento da impianti
+
+auton p 2.613 2.126 1.813
+Da gasolio per riscaldamento 428 410 386
+Da GPL per riscaldamento' - 14 1
+Da autoproduzione - da cogenerazione - - -
+Totale 3.041 2.550 2.210
+
+1. Nel 2018 viene rendicontato il primo impianto a GPL del Gruppo Creval.
+
+Emissioni della flotta aziendale dirette 2017 2018 2019
+(tCO, equivalenti)*
+
+Auto aziendali
+
+Diesel 26 19 14
+Benzina 70 22 24
+Ibride elettrico/benzina - - -
+Auto a noleggio
+
+Diesel 531 570 720
+Benzina 33 54 44
+Ibride elettrico/benzina 40 37 31
+Totale 700 702 833
+
+Le emissioni relative alla flotta auto riportate rilevano differenze sostanziali rispetto ai precedenti anni:
+
+= dal conteggio della sola CO, si é passati al conteggio della CO, eq;
+
+« sono stati suddivisi i veicoli della flotta auto (aziendali e noleggio) per singoli cluster in funzione di alimentazione, cilindrata,
+omologazione. Ai dati specifici di ogni cluster é stato poi associato il fattore di emissione relativo. Pertanto i dati sono privi delle
+approssimazioni dei precedenti anni (in cui le omologazioni erano considerate tutte EURO 5);
+
+« in analogia agli scorsi anni, si considera la totalita dei chilometri percorsi (anziché il solo 70% delle percorrenze delle auto
+fringe-benefits, come ipotizzato nelle linee guida ABI GRI versione dicembre 2019).
+
+*Si considerano i soli veicoli a noleggio a medio/lungo termine o di proprieta; rimangono esclusi i noleggi a breve/brevissimo
+termine.
+
+305-2
+
+305-3
+
+Emissioni indirette di GHG (Scope 2)
+
+ 
+  
+
+Emissioni di gas serra indirette (tCO0, equivalenti) 2017 2018 2019
+Da energia elettrica acquistata - Market-based 18 110 98
+Da teleriscaldamento 113 115 98
+Da gas naturale per impianti condominiali i 1138 i 1.012 876
+Di CO, equivalente indirette (EE Market-based +
+
+TLR gas condominiall) ( 1.369 1.237 1.072
+Da energia elettrica acquistata - Location-based 7.924. 6.756 6.438
+Di CO, evitate con acquisto di EE certificata GREEN "GO" 7.806 6.646 6.340
+Di CO, evitate con autoconsumo da impianti FV 14 109 72
+
+Apartire dall’anno 2017 vengono rendicontati anche i consumi energetici derivanti da impianti condominiali. Questi sono stati
+stimati interamente per l’'anno 2014 in funzione dei costi desumibili dai rendiconti delle spese condominiali, applicando i prezzi
+medi di acquisto di gas metano operati dalle societa del gruppo nell’anno di riferimento. Dai consumi del 2014 sono stati desunti i
+consumi degli anni 2017, 2018 e 2019 applicando il medesimo trend di consumo unitario rilevato per gli impianti autonomi.
+
+« Le emissioni associate all’energia elettrica proveniente da fonte non rinnovabile sono calcolate mediante i dati riportati
+dall’ISPRA nel documento: Italian Greenhouse Gas Inventory 1990 - 2016 - National Inventory Report 2018 2019 Annex 2:
+Energy Consumption For Power Generation - https://unfccc.int/process/transparency-and-reporting/reporting-and-review-
+under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2018
+
+« Le emissioni da teleriscaldamento sono desunte da fonte ISPRA-Fattori di emissione per la produzione ed il consumo di energia
+elettrica in Italia, scheda 14 produzione di calore - http://www.sinanet.isprambiente it/it/sia-ispra/serie-storiche-emissioni/
+fattori-di-emissione-per-la-produzione-ed-il-consumo-di-energia-elettrica-in-italia/view
+
+ 
+
+Altre emissioni indirette di GHG (Scope 3)
+
+Emissioni da veicoli privati (CO, equivalenti) 2017 2018 2019
+Auto private
+
+Diesel 491 427 397
+Benzina 175 169 157
+Ibride elettrico/benzina i - - -
+Totale 666 596 554
+Emissioni da treni (tCO, equivalenti) 2017 2018 2019
+Alta velocita' N.D. N.D. 57
+Altra tipologia : N.D.. N.D. 8
+Totale N.D N.D. 70
+
+A partire dalla DCNF 2019 vengono rendicontate le emissioni associate all'uso dei treni per missioni di lavoro. In accordo con le
+linee guida GRI di ABI (versione dicembre 2019) non compaiono i biglietti da treni regionali acquistati direttamente degli addetti.
+
+1. Freccia Rossa e NTV; rimangono esclusi Freccia Argento ed Eurocity.
+
+Emissioni da aerei (CO, equivalenti) 2017 2018 2019
+Voli internazionali N.D. N.D. 32
+Voli nazionali : ND. N.D. 172
+Totale N.D. N.D. 204
+
+A partire dalla DCNF 2019 vengono rendicontate le emissioni associate all'uso di aerei per missioni di lavoro.
+
+Emissioni da consumo di carta (tCO, equivalenti)* i 2017 2018 2019
+Consumo di carta 333 260 244
+
+*lI contributo delle emissioni derivanti dal consumo di carta per il 2019 é stato calcolato mediante un nuovo strumento di riferimento,
+Costituito dai fattori di emissione emanati da DEFRA:
+https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019
+
+67
+

@@ -1,0 +1,101 @@
+CONOSCERE LOTTOMATICA
+
+LIVELLI DEL SISTEMA
+DI CONTROLLO INTERNO E DI GESTIONE
+
+DEI RISCHI (SCIGR) DI LOTTOMATICA
+
+ 
+
+GOVERNO (ORGANI)
+
+TERZO LIVELLO
+DI CONTROLLO
+
+PRIMO LIVELLO
+DI CONTROLLO
+
+SECONDO LIVELLO
+DI CONTROLLO
+
+(Funzioni di
+internal audit)
+
+(Funzioni di controllo)
+
+(Management/
+funzioni di linea/
+operative)
+
+ 
+
+II SCIGR, in linea con le normative e le best practice di riferimento, si articola
+sui seguenti livelli:
+
+* Governo: definisce, valida e verifica periodicamente il Sistema di Controllo
+Interno e Gestione dei Rischi.
+
+* Primo livello di controllo: identifica, valuta, gestisce e monitora i rischi
+di competenza in relazione ai quali individua e attua specifiche azioni di
+trattamento dirette ad assicurare il corretto svolgimento delle attivita
+operative.
+
+* Secondo livello di controllo: propone le linee guida sui relativi sistemi
+di controllo e ne verifica l'adeguatezza al fine di assicurare l’efficienza
+e l'efficacia delle operazioni, un adeguato controllo dei rischi nonché
+l'affidabilita delle informazioni, la conformita a leggi, regolamenti e
+procedure interne.
+
+* Terzo livello di controllo: fornisce assurance indipendente sull’adeguatezza
+ed effettiva operativita del primo e secondo livello ed, in generale, sul
+
+SCIGR.
+
+Lottomatica ha stabilito un
+processo di segnalazione e
+gestione degli incidenti di Rischio
+Operativo, cioe il rischio di subire
+perdite economiche o mancati
+guadaghi, risultante da inefficienze
+di processo, persone, sistemi, danni
+da eventi esterni, frodi interne ed
+esterne.
+
+Il processo di gestione degli
+incidenti permette di:
+
+identificare le cause degli
+incidenti;
+
++ rafforzare i processi attraverso
+azioni immediate, finalizzate
+al contenimento del rischio, e
+Action Plan volti a prevenire il
+ripetersi dell’evento;
+
+* censire gli incidenti ei relativi
+impatti e registrarli in un Loss
+Data Collection;
+
++ informare tempestivamente il
+management/vertice aziendale
+sugli incidenti occorsi.
+
+La funzione Risk Management
+coordina l'intero processo di
+gestione dell'incidente e la
+circolazione di tutte le informazioni
+relative allo stesso. Inoltre, nel
+
+caso di incidenti con un elevato
+impatto, valuta - insieme a tutte
+
+le Unita Organizzative coinvolte -
+lopportunita di costituire un’ Unita
+di Crisi per fronteggiare l'eventuale
+emergenza.
+
+ 
+
+24
+

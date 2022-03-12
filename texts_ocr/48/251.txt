@@ -1,0 +1,123 @@
+| 250 | Generali Group
+
+Carrying amount and Fair value
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(€ million) 31/12/2018
+
+Total carrying amount Total fair value
+Available for sale financial assets 283,773 283,773
+Financial assets at fair value through profit or loss 13,70 ABTA
+Held to maturity investments 2,171 2,202
+Loans 30,167 32,498
+Land and buildings (investment properties) 13,650 20,631
+Own used land and buildings 2,505 3,350
+Investments in subsidiaries, associated companies and joint ventures 1,320 1,320
+Cash and cash equivalents 6,697 6,697
+Investments back to unit and index-linked policies 65,789 65,789
+Total investments 419,782 429,970
+Financial liabilities at fair value through profit or loss 4159 4,159
+Other liabilities 14,418 15,208
+Liabilities to banks or customers 12,995 12,995
+Total financial liabilities 31,572 32,363
+
+From the table above, in line with IFRS 13 definitions, the
+
+following items, part of below mentioned balance sheet
+
+categories, are excluded:
+
+— Loans and receivables: reinsurance deposits provided
+and term deposits;
+
+— Other financial liabilities: reinsurance deposits received
+and liabilities arising from investment contracts meas-
+ured at cost sold by insurance entities.
+
+39 Fair value hierarchy
+
+Assets and liabilities measured at fair value in the consol-
+idated financial statements are measured and classified
+in accordance with the fair value hierarchy in IFRS13,
+which consists of three levels based on the observability
+of inputs within the corresponding valuation techniques
+used.
+
+The fair value hierarchy levels are based on the type of
+
+inputs used to determine the fair value:
+
+- Level 1 inputs are quoted prices (unadjusted) in active
+markets for identical assets or liabilities that the entity
+can access at the measurement date.
+
+— Level 2 inputs other than quoted prices included with-
+in Level 1 that are observable for the asset or liability,
+either directly or indirectly (i.e. quoted prices for similar
+assets or liabilities in active markets; quoted prices for
+identical or similar assets or liabilities in markets that
+are not active; inputs other than quoted prices that are
+
+observable for the asset or liability; market-corroborat-
+ed inputs).
+
+— Level 3 inputs are unobservable inputs for the asset or
+liability, which reflect the assumptions that market par-
+ticipants would use when pricing the asset or liability,
+including assumptions about risk (of the model used
+and of inputs used).
+
+The fair value measurement is categorised in its entirety
+in the same level of the fair value hierarchy as the lowest
+level input that is significant to the entire measurement.
+Assessing the significance of a particular input to the
+entire measurement requires judgement, taking into ac-
+count factors specific to the asset or liability.
+
+A fair value measurement developed using a present
+value technique might be categorised within Level 2 or
+Level 3, depending on the inputs that are significant to
+the entire measurement and the level of the fair value hi-
+erarchy within which those inputs are categorised.
+
+If an observable input requires an adjustment using an
+unobservable input and that adjustment results in a sig-
+nificantly higher or lower fair value measurement, the
+resulting measurement would be categorised within the
+level attributable to the input with the lowest level uti-
+lized.
+
+Adequate controls have been set up to monitor all meas-
+urements including those provided by third parties. If
+

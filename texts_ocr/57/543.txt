@@ -1,0 +1,77 @@
+Bilancio Consolidato 2017
+
+ 
+
+gli indirizzi strategici relativamente all’assunzione ed alla gestione del rischio di mercato, in termini di obiettivi di
+rischio/rendimento.
+
+LAmministratore Delegato, al fine di supportare il Consiglio di Amministrazione nel suo ruolo di gestione, € respon-
+sabile della realizzazione e del mantenimento di un sistema efficace di gestione e di controllo del rischio di mercato
+e dell’implementazione delle politiche strategiche.
+
+La Funzione Finanza prowede invece all'attuazione operativa ed all’esecuzione sui mercati delle politiche di gestio-
+ne del portafoglio di negoziazione, in coerenza con le linee guida fornite dai competenti organi collegiali a supporto
+del Consiglio di Amministrazione.
+
+Il Risk Management garantisce infine il presidio dei rischi di mercato, sia attraverso la misurazione ed i] monitorag-
+gio periodico degli indicatori di rischio, sia attraverso specifiche analisi. La Funzione, inoltre, in collaborazione con le
+competenti strutture, propone al Consiglio i limiti di assunzione al rischio di mercato (metriche e valori soglia) e ne
+assicura la coerenza rispetto al complessivo framework di risk appetite.
+
+Il sistema di limiti e deleghe operative rappresenta infatti un fondamentale elemento del pil. ampio framework di
+governo dei rischi di mercato in uso presso il Gruppo e, in coerenza con quanto previsto dalla normativa interna, é
+oggetto di un costante aggiornamento, in linea con l’evoluzione dei mercati finanziari e della struttura organizzativa
+interna.
+
+In particolare, il sistema di deleghe operative in vigore si basa sull'individuazione di una serie di grandezze/indica-
+tori di rischiosita in grado di cogliere i principali aspetti che caratterizzano i rischi di mercato: i capitali investiti, le
+variazioni giornaliere del valore del portafoglio, i relativi livelli di concentrazione (articolati per rating e controparte),
+il grado di diversificazione degli strumenti finanziari detenuti (azioni, obbligazioni), il livello di Value at Risk stimato
+con riferimento a ciascun fattore di rischio.
+
+Il Gruppo utilizza, infatti, un apposito modulo disponibile all'interno della procedura ALM in uso al fine di stimare
+il “Value at Risk” (VaR) con metodo parametrico. Tale misura, determinata con periodicita giornaliera, rappresenta
+lindicazione della massima perdita di valore che il portafoglio pud subire in un determinato holding period e con un
+certo livello di confidenza.
+
+La stima del VaR con metodo parametrico é basata su matrici di volatilita e correlazione di ciascun fattore di rischio,
+calcolate a partire dalle ultime 250 osservazioni di mercato. || modello é periodicamente sottoposto ad attivita di
+“back testing” e “stress testing”, al fine sia di verificarne la capacita previsionale, sia di simulare l'impatto di movi-
+menti estremi dei fattori di rischio sul portafoglio di negoziazione.
+
+Nel dettaglio, il modello é sottoposto a regolari verifiche retrospettive basate sul confronto tra la misura giornaliera
+del VaR del portafoglio di trading e le effettive profit & loss giornaliere dell'attivita di negoziazione rilevate ex-post.
+Le attivita di verifica prevedono quindi specifici test statistici finalizzati a stabilire la significativita della frequenza
+di “failure”, ovvero del numero di volte in un intervallo di tempo in cui le P&L di portafoglio superano le stime di VaR
+ottenute mediante il modello in uso.
+
+ 
+
+Con riferimento invece al secondo aspetto, il VaR di portafoglio é ricalcolato sulla base di scenari di volatilita e cor-
+relazione dei fattori di rischio su un /ook-back pluriennale, al fine di ottenere una misura di rischio in condizioni di
+stress come 99,9° percentile della serie storica stimata.
+
+Informazioni di natura quantitativa
+
+ 
+
+1. Portafoglio di negoziazione di inza: distribuzione per durata residua (data di riprezzamento) delle attivi-
+ta e delle passivita finanziarie per cassa e derivati finanziari
+
+La presente tavola non é stata redatta poiché di seguito viene fornita un’analisi di sensitivita al rischio di tasso di
+interesse basata su modelli interni ed altre metodologie.
+
+   
+
+2. Portafoglio di negoziazione di vigilanza: distribuzione delle esposizioni in titoli
+i principali Paesi del mercato di quotazione.
+
+ji capitale e in azionari per
+
+La presente tavola non é stata redatta poiché di seguito viene fornita un’analisi di sensitivita al rischio di tasso di
+interesse basata su modelli interni ed altre metodologie.
+
+ 
+
+543
+

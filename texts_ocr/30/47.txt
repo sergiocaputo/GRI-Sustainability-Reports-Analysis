@@ -1,0 +1,26 @@
+ 
+
+48 Dichiarazione consolidata non finanziaria al 31 dicembre 2017 doBank
+
+Emissioni udm
+Emissioni dirette
+
+Gas naturale tCO2€
+Emissioni indirette tCO2e
+Energia Elettrica acquistata dalla rete tCO2e
+Intensita delle emissioni di gas a effetto serra (GHG)
+
+Emissioni GHG / n. medio dipendenti
+
+Emissioni dirette tCO2e
+Emissioni indirette tCO2e
+
+ 
+
+Fattori di conversione
+
+Natural Gas Emission Factor - Source: DEFRA 0,1842 kgCO2e/kWh
+Italy Mixed Electricity Emission Factor - Source ISPRA 0,3306 kgCO2e/kWh
+
+ 
+

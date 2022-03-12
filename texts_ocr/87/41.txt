@@ -1,0 +1,145 @@
+80
+
+ 
+
+SUSTAINABILITY REPORT 2019
+
+ 
+
+3 / METHODOLOGICAL NOTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure Chapter- section Omissions Reasons Explanation
+GRI Topic: 305
+
+Emissions
+
+DMA 305
+
+Describe the management approach for the emissions TOPIC § 7.2
+using the KPI GRI 103: Management Approach
+
+305-1 §7.2
+Direct (Scope 1) GHG emissions §83
+305-2 §7.2
+Indirect (Scope 2) GHG emissions §83
+305-3 §7.2
+Other indirect (Scope 3) GHG emissions §83
+305-4 §7.2
+GHG emission intensity § 83
+305-5 §7.2
+Reductions of GHG emissions § 83
+GRI Topic: 306
+
+Effluents and waste
+
+DMA 306
+
+Describe the management approach for the “effluents and §7.3
+waste” topic using KPI GRI 103: Management Approach
+
+306-2 §83
+Total weight of waste by type and disposal method :
+GRI Topic: 307
+
+Environmental compliance
+
+DMA 307
+
+Describe the management approach for the environmental §43
+compliance topic using KP! GRI 103: Management Approach
+
+307-1
+
+Significant fines and non-monetary sanctions for non- §43
+compliance with environmental laws and/or regulations
+
+GRI Topic: 308
+
+Supplier environmental assessment
+
+DMA 308
+
+Describe the management approach for supplier §62
+environmental assessment using GRI KPI 103: Management ,
+Approach
+
+308-2
+
+Negative environmental impacts in the supply chain and §6.2
+
+actions taken
+
+ 
+
+Disclosure Chapter-section Omissions Reasons Explanation
+400 - TOPIC SPECIFIC STANDARD: SOCIAL
+GRI Topic: 403
+Occupational health and safety
+DMA 403
+Describe the management approach for the occupational §41
+health and safety issue using KPI GRI 103: Management ,
+Approach
+403-1 641
+Workers’ health and safety management system ,
+403-2 641
+Hazard identification, risk assessment and accident analysis ,
+403-3
+Occupational medicine services §.4.1
+403-4
+Processes for participation in, consultation and §41
+communication on occupational health and safety
+403-5 641
+Worker training on occupational health and safety ,
+403-6
+Promotion of worker health S41
+403-7 §21
+Prevention and mitigation of occupational health and safety § 64
+impacts directly linked by business relationships ,
+403-8
+Workers covered by an occupational health and safety §41
+management system
+Central
+Only Lost Day aggregate
+403-9 a
+Number of work-related injuries b e 88.2 Rate data monitoring
+J y yp supplied system under
+development
+GRI Topic: 404
+Training and education
+DMA 404
+Describe the management approach for the training and §42
+education topic using KPI GRI 103: Management Approach
+404-1 ate provided Overseas Monitoring
+Average hours of training per year per employee, divided by  § 4.2 loonital boundary data system yet to be
+gender and job position y not available completed
+boundary
+404-2
+Programmes for skill management and continued training 642
+
+that support continued employment of employees and
+assist them in managing end of career
+
+81
+
+ 
+

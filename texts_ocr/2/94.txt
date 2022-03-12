@@ -1,0 +1,163 @@
+ 
+
+TABELLA N. 17 - | PRINCIPALI INTERVENTI PER LA GESTIONE E LO SVILUPPO DI RETI E CABINE ELETTRICHE (2019) (segue)
+
+misure
+
+misure resistenza di terra su 2.783 cabine secondarie;
+misure tensioni di passo e contatto e della resistenza totale di terra su 75 cabine (24 CP e 51 CS).
+
+ 
+
+linee MT e BT
+
+ 
+
+ammodernamento e potenziamento
+reti MT (trasformazione da 8,4 kV
+
+a 20 kV) e BT (trasformazione
+
+da 230 Va 400 V)
+
+manutenzione ordinaria e straordinaria
+
+messi in opera 272 km di cavo MT a 20 kV (12 km per ampliamento e 260 km per rifacimento),
+di cui 86 km per incremento resilienza a “ondate di calore”;
+
+messi in opera 328 km di cavo BT (46 km per ampliamento e 282 km per rifacimento propedeutico
+a cambio tensione).
+
+124 interventi di manutenzione straordinaria (sostituzione apparecchiature, sostegni, conduttori ecc.)
+sulle linee aeree MT.
+
+ 
+
+cabine secondarie (CS) e telecontrollo
+
+ 
+
+realizzazione, ampliamento,
+ricostruzione CS
+
+realizzate/ampliate/ricostruite 1.108 cabine secondarie (99 per nuove connessioni 0 aumenti
+di potenza, 1.009 per adeguamento tensione a 20 kV, rinnovo apparecchiature, predisposizione
+telecontrollo), di cui 106 cabine ricostruite per incremento resilienza a “ondate di calore” (33 cabine)
+
+e ad “allagamento” (73 cabine).
+
+manutenzione ordinaria
+e straordinaria su CS
+
+telecontrollo
+
+915 interventi di manutenzione straordinaria e 2.602 ispezioni su cabine secondarie.
+
+esteso a 193 CS e 77 recloser (6.994 nodi MT telecontrollati al 31.12.2019);
+
+6.696 interventi manutentivi su TLC e recloser.
+
+ 
+
+Nel?ambito del rafforzamento dei sistemi centrali per il telecon-
+trollo, nel 2019 si é prestata particolare attenzione al tema della
+Cyber security. A seguito dei risultati del “security assessment”
+condotto sulla tecnologia soggiacente alle Infrastrutture Energe-
+tiche é stato definito un piano di interventi, in ambito operativo
+(linee di comunicazione con l’esterno) e di governo. Esso ha dato
+impulso alla definizione delle prime policy di Cyber Security e allo
+svolgimento di attivita di Benefit Impact Assessment (BIA) e di
+valutazione del rischio. E stata predisposta la documentazione
+necessaria all’istituzione di un Security Operation Center (SOC)
+e sono state inoltre indirizzate attivita di innalzamento del livello di
+sicurezza informatica delle cabine primarie e secondarie.
+Durante l’anno si é anche awviata la gara, nell’ambito dell’ac-
+cordo tra Acea e Open Fiber, per la realizzazione della rete di
+comunicazione a banda larga per la smart grid nel territorio di
+Roma Capitale, che prevede il collegamento in fibra ottica delle
+cabine primarie e secondarie. Si veda anche il capitolo Istituzioni
+e impresa, per un approfondimento sulle attivita di ricerca e in-
+novazione ed i progetti implementati.
+
+LILLUMINAZIONE PUBBLICA
+
+199.779 punti LUCE
+£225.730 Lampabde
+
+GESTITIA ROMA
+
+1.91% del totale parco
+lampade é a LED:
+
+DIMINUISCONO | CONSUMI
+DI ENERGIA E AUMENTA
+ILRENDIMENTO MEDIO
+PER LAMPADA
+
+In virtu del Contratto di servizio*® tra Acea SpA e Roma Capitale,
+Areti gestisce, tramite un’Unita dedicata, gli interventi sulle infra-
+strutture di illuminazione pubblica funzionale ¢ artistico monu-
+
+36
+
+Riguardo ai contatori digitali e ai sistemni di smart metering, per so-
+stituire i contatori di prima generazione (1G) con quelli di seconda
+(2G), Areti ha bandito una gara pubblica per la fornitura degli appa-
+rati 2G e del sistema di acquisizione centrale dei dati con tecnologia
+piu avanzata, che é stata aggiudicata alla societa Enel Global Infra-
+structure & Networks. II piano di sostituzione massiva dei contatori
+in tecnologia 2G, in approvazione da parte dell’ ARERA, verra awia-
+to, a partire dal 2020 ¢ in progressione, in tutto il territorio gestito
+di Roma e Formello, per un totale di circa 1,7 milioni di misuratori.
+
+Le caratteristiche dei nuovi misuratori attribuiscono ai clienti
+una serie di opportunita e vantaggi, quali, ad esempio: la dispo-
+nibilita di dati che favoriscono una maggiore consapevolezza dei
+consumi, con la conseguente possibilita di modificare le proprie
+abitudini ai fini del risparmio energetico, la riduzione delle fattu-
+razioni in stima, la scelta di offerte commerciali piu adeguate alle
+esigenze di ciascuno, nonché la riduzione dei tempi di switching.
+
+E infine proseguita, come ogni anno, linstallazione dei contatori
+digitali in telegestione presso le utenze attive in bassa tensione, per
+un totale, al 31/12/2019, di 1.635.163 misuratori installati, pari al
+99,7% del totale dei misuratori BT.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.521 sostTEGNI ILLUMINAZIONE ARTISTICA
+
+REINSTALLATI ATECNOLOGIALED,
+
+€ 7.075 INTERVENTI rinnovati gli impianti
+INALCUNI
+
+DI MANUTENZIONE
+
+LAMAPADE/ARMATURE TRAI PIU IMPORTANT .
+LED E VISITATI MOnuMentI
+
+della Capitale
+
+mentale, per circa 199.700 punti luce dislocati su un territorio con
+un’estensione di circa 1.300 km.
+La Societa esegue le attivita di progettazione, costruzione, eser-
+
+Con Delibera della Giunta Comunale di Roma n. 130 del 22 dicembre 2010, in merito all’Adeguamento del Contratto di Servizio tra Roma Capitale ed Acea SpA, succes-
+
+sivamente stipulato il 15 marzo 2011, il rapporto contrattuale é stato rinnovato fino al 31.12.2027.
+
+LE RELAZIONI CON GLI STAKEHOLDER
+
+99
+

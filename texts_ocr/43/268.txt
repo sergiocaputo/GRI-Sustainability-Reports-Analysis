@@ -1,0 +1,162 @@
+Nota integrativa consolidata
+
+ 
+
+per la designazione al fair value con impatto sulla redditivita
+complessiva.
+
+In particolare vengono inclusi in questa voce:
+
+ej titoli di debito che sono riconducibili ad un business model
+Hold to Collect and Sell e che hanno superato il test sulle
+caratteristiche contrattuali (SPPI test);
+
+ele interessenze azionarie, non qualificabili di controllo,
+collegamento e controllo congiunto, che non sono dete-
+nute con finalita di negoziazione, per cui si é esercitata
+l‘opzione per la designazione al fair value con impatto sulla
+redditivita complessiva.
+
+Non sono ammesse riclassifiche verso altre categorie di atti-
+vita finanziarie salvo il caso in cui I’entita modifichi il proprio
+modello di business per la gestione delle attivita finanziarie.
+
+Liscrizione iniziale delle attivita finanziarie awiene alla data
+di regolamento per i titoli di debito e per i titoli di capitale.
+All'atto della rilevazione iniziale le attivita sono contabilizzate
+al fair value, comprensivo dei costi o proventi di transazione
+direttamente attribuibili allo strumento stesso.
+
+Successivamente alla rilevazione iniziale, le Attivita classificate
+al fair value con impatto sulla redditivita complessiva, diverse
+dai titoli di capitale, sono valutate al fair value, con la rilevazio-
+ne a conto economico degli impatti derivanti dall'applicazione
+del costo ammortizzato, degli effetti dell'impairment e dell'e-
+ventuale effetto cambio, mentre gli altri utili o perdite derivanti
+da una variazione di fair value vengono rilevati in una specifica
+riserva di patrimonio netto finché I’attivita finanziaria non vie-
+ne cancellata. Al momento della dismissione, totale o parziale,
+‘utile o la perdita cumulati nella riserva da valutazione vengono
+riversati, in tutto o in parte, a conto economico. Gli strumenti di
+capitale per cui é stata effettuata la scelta per la classificazione
+nella presente categoria sono valutati al fair value e gli importi
+rilevati in contropartita del patrimonio netto non devono essere
+successivamente trasferiti a conto economico, neanche in caso
+di cessione. La sola componente riferibile ai titoli di capitale in
+questione che é oggetto di rilevazione a conto economico é
+rappresentata dai dividendi.
+
+Le Attivita finanziarie valutate al fair value con impatto sulla
+redditivita complessiva sono soggette alla verifica dell'incre-
+mento significativo del rischio creditizio (impairment) prevista
+dall’IFRS9 con conseguente rilevazione a conto economico di
+una rettifica di valore a copertura delle perdite attese. Pil in
+particolare, sugli strumenti classificati in stage 1 (ossia sulle at-
+tivita finanziarie al momento dell’origination e sugli strumenti
+per cui non si é verificato un significativo incremento del rischio
+creditizio rispetto alla data di rilevazione iniziale) viene contabi-
+lizzata, alla data di rilevazione iniziale e ad ogni data di repor-
+ting successiva, una perdita attesa ad un anno. Invece, per gli
+strumenti classificati in stage 2 (esposizioni in bonis per le quali
+si é verificato un incremento significativo del rischio creditizio
+rispetto alla data di rilevazione iniziale) e in stage 3 (esposizioni
+deteriorate) viene contabilizzata una perdita attesa per |’intera
+vita residua dello strumento finanziario. Viceversa non sono as-
+soggettati al processo di impairment i titoli di capitale.
+
+Le attivita finanziarie vengono cancellate dal bilancio sola-
+mente se la cessione ha comportato il sostanziale trasferimen-
+to di tutti i rischi e benefici connessi alle attivita stesse.
+
+Fideuram - Intesa Sanpaolo Private Banking Annual Report Integrato 2019 —— 265
+
+SEZIONE 3 - ATTIVITA FINANZIARIE VALUTATE AL
+COSTO AMMORTIZZATO
+
+Sono incluse nella presente categoria le attivita finanziarie (in
+particolare finanziamenti e titoli di debito) che soddisfano en-
+trambe le seguenti condizioni:
+
+e |'attivita finanziaria € posseduta secondo un modello di bu-
+siness il cui obiettivo € conseguito mediante |'incasso dei
+flussi finanziari previsti contrattualmente (Business model
+“Hold to Collect”);
+
+ej termini contrattuali dell’attivita finanziaria prevedono,
+a determinate date, flussi finanziari rappresentati unica-
+mente da pagamenti del capitale e dell’interesse sull'impor-
+to del capitale da restituire.
+
+Pid in particolare vengono rilevati in questa voce:
+
+¢ gli impieghi con banche nelle diverse forme tecniche che
+presentano i requisiti di cui al paragrafo precedente;
+
+gli impieghi con clientela nelle diverse forme tecniche che
+presentano i requisiti di cui al paragrafo precedente;
+
+ej titoli di debito che presentano i requisiti di cui al paragrafo
+precedente.
+
+Sono inoltre inclusi in questa categoria i crediti di funziona-
+mento connessi con la prestazione di attivita e di servizi fi-
+nanziari.
+
+Non sono ammesse riclassifiche verso altre categorie di
+attivita finanziarie salvo il caso in cui |’entita modifichi il
+proprio modello di business per la gestione delle attivita
+finanziarie.
+
+Liscrizione iniziale dell'attivita finanziaria awviene alla data di
+regolamento per i titoli di debito ed alla data di erogazione
+nel caso di crediti. All’atto della rilevazione iniziale le attivita
+sono contabilizzate al fair value, comprensivo dei costi o pro-
+venti di transazione direttamente attribuibili allo strumento
+stesso.
+
+In particolare, per quel che attiene ai crediti, la data di ero-
+gazione normalmente coincide con la data di sottoscrizio-
+ne del contratto. Qualora tale coincidenza non si manifesti,
+in sede di sottoscrizione del contratto si provvede ad iscrivere
+un impegno ad erogare fondi che si chiude alla data di eroga-
+zione del finanziamento. Liscrizione del credito awiene sulla
+base del fair value dello stesso, pari all'ammontare erogato
+comprensivo dei costi/proventi direttamente riconducibili al
+singolo credito.
+
+Successivamente alla rilevazione iniziale, le attivita finanziarie
+in esame sono valutate al costo ammortizzato utilizzando il
+metodo del tasso di interesse effettivo. Tale metodo non viene
+utilizzato per le attivita valutate al costo storico, la cui breve
+durata fa ritenere trascurabile l’effetto dell’applicazione della
+logica dell’attualizzazione, per quelle senza una scadenza de-
+finita e per i crediti a revoca.
+
+| criteri di valutazione sono strettamente connessi all'inclu-
+sione degli strumenti in esame in uno dei tre stage (stadi di
+rischio creditizio) previsti dall‘IFRS9, |’ultimo dei quali (stage 3)
+comprende le attivita finanziarie deteriorate e i restanti (stage
+1 e 2) le attivita finanziarie in bonis.
+
+JINVINNOIYd “Y OLVIYIW 1d OLSILNOD *€ FOIVULS “Z SSANISNE 1d OTIAGOW “1
+
+JINVNYIAOD *S
+
+°
+5
+eS
+ba
+Bs
+a
+°
+5
+°
+4
+4
+iS
+3
+5
+fo}
+
+ 
+

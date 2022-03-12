@@ -1,0 +1,91 @@
+STAFF BY GENDER
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Male Female Total
+Senior Managers 26 1 27
+Managers 43 4 47
+Office Workers 472 166 638
+Manual Workers 1,328 3 1,331
+Total 1,869 174 2,043
+STAFF BY AGE AND LENGTH OF SERVICE
+Average age Service (year)
+
+Senior Managers 55 15
+Managers 49 15
+Office Workers 46 17
+Manual Workers 42 14
+Total Avg. 44 15
+STAFF BY EDUCATIONAL LEVEL
+Degree 55
+High-school diploma 1,388
+Middle-school diploma 472
+Other 28
+Total 2,043
+STAFF BY CONTRACT, EMPLOYMENT TYPE AND COMPANY
+
+Permanent | Fixed-term | Apprentice | Part-time Total
+
+contract contract
+
+La Spezia Container
+Terminal S.p.A. 566 3 20 32 621
+Medcenter Container
+Terminal S.p.A. 904 0 0 7 on
+Cagliari International
+Container Terminal S.p.A. 215 0 0 0 215
+Contship Italia S. 17 0 0 19
+Sogemar S.p.A. 29 0 3 4 36
+Oceanogate S.p.A. 67 0 33 1 101
+Hannibal S.p.A. 39 0 8 2 49
+RHM Sp.A. 79 1 1 90
+Industriale Canaletto S.r.1. 1 0 oO 0 1
+Total Contship Italia Group 1,917 4 75 47 2,043
+Investee companies
+(TCR, Ravenna, SCT, Salerno, EGT, Tangier) 633
+Grand Total (consolidated + others) 2,676
+
+43
+
+ 
+

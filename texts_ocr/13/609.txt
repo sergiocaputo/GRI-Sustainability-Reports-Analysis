@@ -1,0 +1,53 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+(Implementing Technical Standards; di seguito, ITS). Sono esclusi gli strumenti
+finanziari rientranti nel portafoglio “Attivita finanziarie detenute per la
+negoziazione” e i contratti derivati.
+
+| crediti deteriorati, pertanto, sono individuabili in quella tipologia di partite
+che si caratterizzano per una difficile recuperabilita della posizione in quanto
+il merito di credito della controparte risulta deteriorato. Questa categoria di
+crediti, in virtu della disciplina di Vigilanza prudenziale, presenta un maggiore
+assorbimento di capitale.
+
+| crediti deteriorati sono ripartiti, a seconda della gravita, nelle categorie delle
+esposizioni scadute e/o sconfinanti deteriorate, inadempienze probabili e
+sofferenze.
+
+Esposizioni scadute e/o sconfinanti deteriorate
+
+Si intendono le esposizioni per cassa, diverse da quelle classificate tra le
+sofferenze o le inadempienze probabili, che, alla data di riferimento della
+segnalazione, sono scadute o sconfinanti da oltre 90 giorni e rispettano le
+soglie di rilevanza definite dalla normativa.
+
+Le esposizioni scadute e/o sconfinanti deteriorate sono determinate facendo
+riferimento al singolo debitore.
+
+Lo scaduto 0 lo sconfinamento deve avere carattere continuativo. In
+particolare, nel caso di esposizioni a rimborso rateale é considerata la rata
+non pagata che presenta il ritardo maggiore. Qualora a un debitore facciano
+capo pill esposizioni scadute e/o sconfinanti da oltre 90 giorni, si considera il
+ritardo pit elevato.
+
+Nel caso di aperture di credito in conto corrente “a revoca” nelle quali il limite
+di fido accordato é stato superato (anche se per effetto della capitalizzazione
+degli interessi), il calcolo dei giorni di sconfino inizia - a seconda della
+fattispecie che si verifica prima - a partire dalla prima data di mancato
+pagamento degli interessi che determina lo sconfino oppure a partire dalla
+data della prima richiesta di rientro del capitale.
+
+L'esposizione complessiva verso un debitore é rilevata come scaduta e/o
+sconfinante qualora, alla data di riferimento della segnalazione, il maggiore
+tra i due seguenti valori sia pari o superiore alla soglia del 5%: a) media
+delle quote scadute e/o sconfinanti sull'intera esposizione rilevate su base
+giornaliera nell’ultimo trimestre precedente; b) quota scaduta e/o sconfinante
+sullintera esposizione riferita alla data di riferimento.
+
+Ai fini del calcolo della soglia di rilevanza, fermo restando il requisito della
+persistenza di una posizione scaduta e/o sconfinante da pit di 90 giorni, nel
+numeratore si considerano anche le eventuali quote scadute da meno di 90
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 610
+

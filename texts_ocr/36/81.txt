@@ -1,0 +1,88 @@
+erate in various capacities on the grid infrastructure, Enel
+carries out continuous grid development and efficiency
+measures. Maintenance and modernisation work on the
+grid is carried out to reduce the number and duration of
+service interruptions. This also allows real-time monitor-
+ing, guaranteeing timely intervention to repair faults and
+ensure an optimum energy supply. In this context, remote
+control systems play a key role, allowing local operating
+centres to carry out all the operations necessary to ensure
+continuity of the electricity service provided. Even from
+the point of view of network losses, digitalization of the
+infrastructure and the use of a remote management sys-
+tem, combined with the use of electronic smart meters,
+allow greater effectiveness to be achieved in monitoring
+energy balances, while reducing fraud and enabling new
+services that market operators can offer to customers.
+
+After several years of experience with smart grids, Enel
+has launched a new enabling technology known as Net-
+work Digital Twin®, a 3D digital model that faithfully
+replicates the electricity infrastructure, from its individual
+physical elements to the most complex operational dy-
+namics. It is a large-scale application of Industry 4.0 tech-
+nology, which integrates network automation, the Internet
+of Things and 3D modelling with advanced data manage-
+ment (machine learning, artificial intelligence, etc.). In
+addition to improving network management, it allows an
+open ‘ecosystem’ to be created to encourage information
+sharing for the benefit of people and cities, improving the
+quality of the service, the relationship and the involve-
+ment of all stakeholders. Thanks to the advanced plat-
+forms, therefore, more information can be made available
+and the data from the electricity grid can be accessed in
+amore timely and detailed manner, promoting awareness
+of the use of energy, efficiency and savings. As part of the
+ity” project, in October 2019, the dis-
+trict of Vila Olimpia in Sao Paulo, Brazil, saw the launch
+of Latin America’s first Network Digital Twin, which
+improves urban resilience and creates opportunities for
+an extraordinary range of new services and benefits for
+the cities of the future on an infinitely larger scale that is
+more compatible with the gigantic dimensions that demo-
+graphic projections envisage for megacities by 2050. This
+project shows that the digitalization of electricity grids,
+buildings and urban infrastructure can take place in a real
+living laboratory. Citizens, business owners, municipal-
+ities and universities can co-create innovative solutions
+
+ 
+
+“Urban Futural
+
+that integrate infrastructure with local needs, such as mo-
+
+80
+
+ 
+
+bility, safety, waste reduction and the urban environment.
+Smart meters are the cornerstone of distribution net-
+work innovation and digitalization work, the driving force
+behind urban redevelopment and fundamental enablers
+of advanced home automation. From the beginning, their
+installation has been accompanied by specific information
+and awareness campaigns, given that energy savings of
+10% can be achieved by using this technology, particular-
+ly thanks to the real-time availability of energy use infor-
+mation. By the end of 2019, 44.7 million end users had an
+active smart meter and 13.1 million end users had second
+generation meters (CE2G). In addition to transmitting de-
+tailed measurement data (daily four-hour load curves) to
+the concentrator, the latter provide a customer-dedicated
+communication channel called “Chain 2”, which allows
+data to be sent between the CE2G and in-home devic-
+es. Greater transparency of information relating to ener-
+gy use, energy exchanges with the grid and production
+in the case of “prosumer” users is possible and the de-
+velopment of the home automation and active demand
+market is encouraged. Customers therefore become pro-
+tagonists and have the opportunity to participate in the
+energy market and be remunerated for offering flexibility
+to the electricity system, reducing or increasing energy
+use or production/input. In particular, “Chain 2” provides
+
+Sustainability Report 2019
+
+enel
+

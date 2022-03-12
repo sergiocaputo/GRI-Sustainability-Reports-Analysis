@@ -1,0 +1,75 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+di scambio degli stessi sul mercato secondario, in particolare si applica la metodologia del “Discounted Cash Flow”,
+rettificando il tasso di attualizzazione dello “spread effettivo di emissione”.
+
+LIVELLO 3 - Metodi di valutazione basati su parametri di mercato non osservabili
+
+Sono classificati nel livello 3 tutti gli strumenti finanziari non quotati in un mercato attivo, per i quali la determina-
+zione del relativo Fair value viene effettuata facendo ricorso a modelli valutativi che presuppongono I'utilizzo di
+parametri non direttamente osservabili sul mercato.
+
+Lutilizzo di input non osservabili é richiesto nella misura in cui gli input osservabili rilevanti non siano disponibili, per-
+tanto gli stessi riflettono le assunzioni, incluse quelle relative al rischio, che gli operatori di mercato utilizzerebbero
+nel determinare il prezzo dell'attivita o passivita. La valutazione viene effettuata utilizzando le migliori informazioni
+disponibili, inclusi i dati interni.
+
+Le valutazioni delle attivita e passivita appartenenti al livello 3 sono generalmente condotte utilizzando metodologie
+valutative del tutto analoghe a quelle utilizzate per gli strumenti di livello 2; la differenza risiede nella presenza di
+parametri di input utilizzati nel modello di pricing che non risultano osservabili..
+
+Si riportano di seguito gli strumenti classificati nel livello 3:
+
++ titoli di debito. Trattasi di strumenti finanziari complessi che, ove detenuti dalla Banca, non assumono una in-
+cidenza significativa sul portafoglio complessivo. Per la determinazione del Fair value viene utilizzato il prezzo
+comunicato direttamente dall'emittente;
+
++ titoli di capitale non quotati. Si tratta essenzialmente di quote partecipative di minoranza in societa finanziarie e
+non finanziarie non quotate. Tali strumenti sono valutati utilizzando modelli valutativi quali i) il metodo delle “tran-
+sazioni dirette”, in caso di transazioni significative sullo stesso titolo o su titoli similari osservate in un congruo
+arco temporale rispetto alla data di valutazione, ii) il metodo dei “multipli di borsa e di transazioni comparabili” e
+iii) i metodi di valutazione finanziari, reddituali (quali ad es. il Discount Cash Flow, l’income approach, ecc.) e pa-
+trimoniali. Qualora dall'applicazione delle metodologie valutative sopra descritte non fosse desumibile in modo
+attendibile il Fair value, si fa riferimento alla pertinente frazione di patrimonio netto sulla base dell'ultimo bilancio
+d'esercizio approvato della partecipata (cd. book value). In mancanza di informazioni utili per 'applicazione di uno
+dei predetti modelli valutativi, il titolo di capitale é rilevato al costo di acquisto, ai sensi del par. AG81 dello IAS 39.
+
+* quote di fondi di investimento O.1.C.R. di tipo “chiuso”. Si tratta di fondi chiusi, non classificabili nei livelli 1 e 2, che,
+conformemente alle strategie dinvestimento della Banca, sono destinati ad un investimento di medio-lungo pe-
+riodo e il loro smobilizzo avviene normalmente in caso di rimborso, totale o parziale, delle quote deciso da parte
+della societa di gestione del risparmio (SGR) a seguito del realizzo degli investimenti del fondo. || Fair value di tali
+strumenti viene determinato sulla base dell'ultimo aggiornamento disponibile del NAV comunicato dalla SGR. |
+fondi di investimento immobiliari sono valutati applicando un correttivo (cd. adjustment) al NAV, che prende in
+considerazione fattori di rischio quali il credit risk, il liquidity risk nonché il market risk del fondo.
+
+Poiché i risultati delle valutazioni possono essere significativamente influenzati dalle assunzioni utilizzate, principal-
+mente per il timing dei flussi di cassa futuri, per i tassi di attualizzazione adottati e per le metodologie di stima degli
+adjustment, i Fair value stimati potrebbero differire da quelli realizzabili in una vendita immediata degli strumenti
+finanziari.
+
+ 
+
+Finanziamenti e Cre: erso banche e clientela
+
+Per gli altri strumenti finanziari iscritti in bilancio al costo (finanziamenti e crediti a vista) o al costo ammortizzato, e
+classificati sostanzialmente tra i rapporti creditizi verso banche e clientela, si determina un Fair value ai fini dell’in-
+formativa nella Nota Integrativa.
+
+In particolare:
+
+i. per gli impieghi a medio - lungo termine deteriorati (sofferenze, inadempienze probabili e scaduti), il Fair value si
+determina attualizzando, in base ai tassi di mercato o utilizzando l'ultimo tasso di interesse prima del passaggio
+a sofferenza, i flussi contrattuali o quelli quantificati sulla base dei piani di rientro, al netto delle previsioni di per-
+dita, pertanto il valore di bilancio degli stessi risulta allineato con il Fair value;
+
+ii. per gli impieghi a medio - lungo termine performing, la metodologia da utilizzare prevede lo sconto dei relativi
+
+flussi di cassa. | flussi di cassa contrattuali sono ponderati in base alla PD (Probability of Default) e alla LGD (Loss
+Given Default), cioé il tasso di perdita previsto in caso di insolvenza;
+
+140
+
+ 
+

@@ -1,0 +1,56 @@
+riscaldamento uffici) ed alle emissioni indirette (Scope 2 — GHG) originate dall’energia elettrica
+acquistata.
+
+Unita
+di
+misura
+
+Quantita sa eOyr:) Quantita tCO.e
+
+ 
+
+Emissioni dirette — Scope 1 Gjoule 12.274 648 12.376 653
+Emissione indirette — Scope 2 (energia kWh 52.216.719 18.380 52.281.272 18.403
+elettrica acquistata dalla rete)
+
+Totale 19.028 19.056
+Nota: é stato usato un fattore di conversione 352 gCO2eq/kwh energia elettrica.
+
+Non risultano al momento disponibili, in quanto si tratta in misura prevalente di dati fuori dal
+perimetro di riferimento di acquevenete, i dati inerenti le emissioni ‘indirette’ (Scope 3 - GHG). Tali
+dati si riferiscono, in particolare alla ‘catena di fornitura’ (servizi di manutenzione effettuate da terzi).
+
+Intensita delle emissioni
+
+\l dato viene distintamente calcolato in relazione a:
+
+= Rete acquedotto - Emissioni prodotte per |’immissione in rete dell’acqua potabile prodotta che
+viene consegnata all’utente;
+
+= Fognatura e depurazione - Emissioni prodotte per la depurazione dell’acqua raccolta dalle reti
+fognarie, che comprende parte dell’acqua piovana e l’acqua reflua prodotta dagli utenti.
+
+Non sono state considerate le emissioni derivanti da attivita minori o non significative.
+
+ 
+
+Intesita emissioni — acquedotto Indice intensita
+Totale emissioni Acqua immessa in rete emissioni
+saeOyr-) tural eerie
+2016 7.458,10 59.623.057 125,08
+2017 7.746,68 62.291.406 124,36
+
+ 
+
+Intensita emissioni — fognatura e Indice intensita
+depurazione Totale emissioni Acqua immessa in rete emissioni
+tCO.e [mc] Figo Ausra
+2016 10.743,028 42.796.784 251,024
+2017 10.413,416 46.776.345 222,621
+
+Emissioni di altre sostanze inquinanti
+
+Non vi sono altre emissioni significative.
+
+acquevenete - Bilancio di sostenibilita 2017
+

@@ -1,0 +1,63 @@
+The carrying amount of property, plant and equipment is tested for impairment whenever events or changes in
+circumstances take place indicating that the carrying amount may not be recovered. Reference should be made
+
+to the section on “Impairment of non-financial assets” for details on impairment testing.
+
+Borrowing costs directly related to the acquisition or construction of an asset are capitalised as part of the cost
+of the asset, to the extent of its recoverable amount. As established by IAS 23 - Borrowing costs, the company
+
+has applied this method to all qualifying assets.
+
+Borrowing costs are capitalised when the costs of the acquisition of the asset and borrowing costs are incurred,
+
+and the activities necessary to bring the asset to a condition for its use have been started.
+
+The costs provided for but not yet paid related to qualifying assets are excluded from the amount to be
+
+capitalised.
+
+Capitalisation of borrowing costs is suspended during extended periods in which active development is
+
+interrupted.
+
+Subsequent expenditure is only capitalised if it increases the future economic benefits of the related asset. All
+
+other expenditure is expensed when incurred.
+
+Ordinary maintenance costs are fully expensed when incurred. Costs that increase the carrying amount of assets
+
+are allocated thereto and depreciated over their residual economic lives.
+
+Dismantlement and restoration costs of assets used for contract work in progress are added to the cost of the
+related asset and depreciated in line with the depreciation pattern of the asset to which they refer when they are
+
+foreseeable and objectively determinable.
+
+Leasehold improvements are classified in the different items of property, plant and equipment on the basis of
+their nature. They are depreciated over the shorter of the estimated useful life of the relevant asset and the
+
+residual term of the lease.
+Right-of-use assets and lease liabilities
+
+Right-of-use assets and lease liabilities are recognised in accordance with IFRS 16. More information about
+
+the application of this standard is available in note 2 “Changes in standards”.
+Other intangible assets
+
+Other intangible assets acquired or generated internally are recognised under assets in accordance with IAS 38
+- Intangible assets when it is probable that the use of the asset will generate future economic benefits and the
+cost of the asset can be measured reliably. Those assets with finite useful lives are measured at acquisition or
+development cost and amortised on a straight-line basis over their estimated useful lives. Recoverability of their
+
+carrying amount is checked by using the criteria set out in the section on “Impairment of non-financial assets”.
+Equity investments
+
+Investments in subsidiaries and associates and interests in joint ventures are measured at cost and tested
+regularly for impairment. This test is carried out whenever there is an indication that the investment may be
+
+impaired. The method used is described in the section on “Impairment of non-financial assets”. When an
+
+ 
+
+407
+

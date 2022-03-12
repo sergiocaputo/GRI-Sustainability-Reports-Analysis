@@ -1,0 +1,100 @@
+@
+
+Group coming out of the scope of reporting.
+Its business is characterised by high energy
+consumption.
+
+In particular, it should be noted that all
+electricity purchased by the Mediaset Group
+in Spain (equal to about 17.03 GWh in 2019)
+is certified and comes from renewable
+sources through Guarantees of Origin. This
+consumption is mainly due to the technical
+equipment of the studios, including
+recording, transmission and post-production
+equipment, as well as computer equipment
+and air conditioning in IT rooms.
+
+Activity to achieve greater efficiency in terms
+of the above consumption continued in 2019,
+above all by replacing the above equipment
+which is most energy inefficient and
+obsolete.
+
+Natural gas is used to heat offices,
+laboratories and warehouses only,
+comprising around 7% of total energy
+consumption. A 26% reduction was recorded
+compared to 2018, due to the El Towers
+
+Group coming out of scope.
+
+However, the consumption of diesel and
+petrol in 2019 amounted to about 31 TJ,
+
+mainly due to the company car fleet and the
+operation of a few generators.
+
+The Mediaset Group company fleet consists
+of leased cars and a car fleet specifically
+owned for the Mediaset Group in Spain.
+
+In 2019, the Group's activities generated
+greenhouse gas emissions due to direct
+energy consumption (natural gas, petrol and
+diesel) and indirect energy consumption
+(electricity) of the Group itself. In particular,
+a high proportion of the greenhouse gas
+emissions are due to Scope 2 emissions, for
+which Mediaset is indirectly responsible, as it
+derives from the electricity supply purchased
+externally. However, the zero contribution of
+the Mediaset Group Espafia to these type of
+emissions (according to the Market-based
+approach) is noteworthy, since all electricity
+of the Group is covered by certificates of
+guarantee of origin.
+
+The reporting standard used (GRI
+Sustainability Reporting Standards 2016)
+provides for two different approaches to
+calculating Scope 2 emissions: "location-
+based" and "market-based". The "location-
+based" approach envisages the use of a
+national average emission factor related to
+
+the specific national energy mix for the
+production of electricity Cemission
+coefficient used for Italy of 359 gCO2/kWh,
+for Spain of 296 gCO2/kWh and for France
+of 72 gCO2/kWh - Source: TERNA,
+International Comparisons 2019). The
+"Market-based" approach envisages the use
+of an emission factor defined on a
+contractual basis with the electricity supplier.
+Given the absence of specific contractual
+agreements between Mediaset Group
+companies in Italy and the electricity supplier
+(e.g. purchase of Guarantees of Origin), the
+emission factor relating to the national
+"residual mix" was used for this approach
+(emission coefficient used in Italy of 483
+gCO2/kWh and for France of 51 gCO2/kWh -
+Source: Association of Issuing Bodies,
+European Residual Mixes 2018, 2019). Note
+too that Mediaset Group companies in Spain
+do not use Scope 2 emissions for the
+"market-based" approach since they
+purchase electricity from renewable sources
+certified with Guarantees of Origin.
+
+However, the direct emissions of Scope 1
+generated directly within the Group due to
+the use of fuels for heating, generators and
+the car fleet amount to approximately 4,116
+tCO2. For the latter, there was a substantial
+
+ 
+
+148
+

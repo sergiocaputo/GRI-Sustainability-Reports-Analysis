@@ -1,0 +1,66 @@
+4. Allocate the transaction price to the performance obligations in the contract;
+
+5. Recognise revenue when (or as) the entity satisfies a performance obligation.
+
+IFRS 15 also covers contract costs, contract modifications and financial statements disclosures.
+The methods used by the company to apply IFRS 15 are summarised below.
+
+1. Identify the contract with a customer
+
+The company identifies and measures contracts with customers in line with IFRS 15 after they have been
+signed and are binding, creating enforceable rights and obligations for the company and the customer. The
+
+company considers the criteria of IFRS 15.9 set out below to identify the contract:
+
+a) the parties to the contract have approved the contract (in writing, orally or in accordance with other customary
+
+business practices) and are committed to perform their respective obligations;
+b) the entity can identify each party’s rights regarding the goods or services to be transferred;
+c) the entity can identify the payment terms for the goods or services to be transferred;
+
+d) the contract has commercial substance (i.e., the risk, timing or amount of the entity’s future cash flows is
+
+expected to change as a result of the contract); and
+
+e) it is probable that the entity will collect the consideration to which it will be entitled in exchange for the goods
+
+or services that will be transferred to the customer.
+
+2. Identifying performance obligations and allocating the transaction price
+
+ 
+
+IFRS 15 identifies a performance obligation as a promise included in the contract with a customer to transfer:
+a) a good or service (or a bundle of goods or services) that is distinct; or b) a series of distinct goods or services
+
+that are substantially the same and that have the same pattern of transfer to the customer.
+
+In the company’s case, its performance obligation is usually the entire project. In fact, although the individual
+performance obligations provided for in the contract are distinct, they are highly interdependent and integrated
+
+as the contract provides for the transfer of the entire infrastructure to the customer.
+
+However, certain contractual items include additional services that should be considered as distinct
+performance obligations. For example, these may be post-completion maintenance services after final
+inspection and additional or different contract warranties compared to those provided for by law or normal
+
+sector practices .
+
+When a contract has more than one performance obligation, the appropriate portion of the contract
+consideration should be allocated to each separate performance obligation pursuant to IFRS 15. The
+
+company’s contracts with customers usually specify the price of each contractual item (detailed in the contract).
+
+3. Determining the criteria for satisfaction of the performance obligations and recognition of the revenue
+
+ 
+
+IFRS 15 provides that revenue shall be recognised when (or as) the performance obligation is satisfied
+transferring the promised good or service (or asset) to the customer. An asset is transferred when (or as) the
+
+customer obtains control.
+
+ 
+
+409
+

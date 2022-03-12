@@ -1,0 +1,60 @@
+150 | Consolidated Non-Financial Information Statement 2019
+
+ 
+
+Efficiency and Industrial footprint
+
+About 21% of total investment was allocated to achieving efficiency improvements and reductions in fixed and
+variable costs (mainly product design and material usage). The Group is continuing significant cost optimisation
+work throughout the entire production chain of the telecom business segment: in particular, the European op-
+tical fibre plants in Battipaglia (Italy) and Douvrin (France) have invested further in efficiency to reduce signifi-
+cantly the cost of fibre manufacturing, with particular emphasis on increasing the size of preforms, the lengths
+of production lots and the speed of spinning.
+
+Design optimisation opportunities have also be identified in the optical cables sector at the Calais, Santander
+and Slatina plants in Europe, drawing on joint experience with the former General Cable perimeter, which produ-
+ces this type of cable at the Montereau plant in France.
+
+As for the energy business, the new centre of excellence for South America has been inaugurated in Brazil, as
+part of the company’s production system in Sorocaba (Sao Paulo). This centre has absorbed the entire organi-
+sation of the unit located in Santo André (Sao Paulo) and, clearly enough, is one of the most modern Prysmian
+Group plant and office complexes in the world.
+
+The former General Cable plant in Pocos de Caldas, in the state of Minas Gerais, has played an important role in
+this major reorganisation of production, making it possible to maximise the synergies deriving from the conso-
+lidation process.
+
+Lastly, work is well advanced on the transfer of production from the compound plant in North Dighton, USA, to
+the nearby new construction in Taunton (both in Massachusetts). This will create a new hub for the production
+of compounds and cables for the industrial cables business throughout North America.
+
+Base-load. Capital investment to maintain capacity amounted to about 14% of the total, in line with prior years
+(check). A significant part of this amount is related to the start of work to remove all asbestos present at every
+Group plant around the world.
+
+IT, R&D. Around 14% of investment has been dedicated to the constant development of IT systems and to R&D.
+
+A significant part of investment has been allocated to the development of Group information systems and Di-
+gital Transformation initiatives. In 2019, activities continued for the completion of the “SAP Consolidation (1C)”
+programme, based on the innovative SAP HANA technological infrastructure and aimed at the harmonisation of
+back-office processes, with the geographical extension of the Group platform in ASEAN, Spain and Portugal. La-
+stly, transfer to the new SAP S4/HANA ERP by anumber of US companies is due for completion in February 2020.
+The new SAP BW/4 HANA Business Intelligence system was also implemented during 2019; both new platforms
+operate in a private cloud environment.
+
+Inthe Operations area, the pilot project for “FastTrack” - Prysmian’s first Global Manufacturing Execution System
+- was completed successfully in Calais and is now being implemented in Romania, at the Group's largest telecom
+plant which is a global leader in terms of production volume and scale. Considerable improvements in all areas
+have been made to this system.
+
+The entire platform has been optimised, with great benefits in terms of the speed and reactivity of the system.
+SAP integration is now widespread, covering an increased number of flows after adoption of the most recent
+communications protocols. The real-time collection of large quantities of data from control devices installed on
+machines is now possible, with an interface that has been completely redesigned to improve general usability
+and create a system that can be utilised easily and intuitively by end users.
+
+Work to upgrade the Group's wide area network (WAN) was also completed during the year. This has expanded ca-
+pacity considerably and improved the performance of the communications infrastructure linking the various sites.
+
+ 
+

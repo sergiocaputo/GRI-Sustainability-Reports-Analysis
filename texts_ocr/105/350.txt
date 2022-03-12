@@ -1,0 +1,71 @@
+ 
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+6. Analisi e presidio dei rischi
+
+e sull’aggiornamento, realizzato da un primario operatore di mercato, del modello statistico/econometrico dell’andamento
+previsionale e prudenziale di persistenza delle masse raccolte. Al riguardo, la composizione del portafoglio mira a replicare la
+struttura finanziaria della raccolta su conti correnti postali presso la clientela privata. Per la gestione delle relazioni finanziarie
+fra la struttura della raccolta e degli impieghi é stato realizzato un appropriato sistema di Asset & Liability Management. |
+citato sistema costituisce dunque il riferimento tendenziale della politica degli investimenti, al fine di contenere |’esposizione
+al rischio di tasso di interesse e di liquidita. Le disposizioni prudenziali introdotte con il 3° aggiornamento della circolare
+285/2013 di Banca d'Italia equiparano BancoPosta alle banche sotto il profilo dei controlli, stabilendo che le relative attivita
+vengano esercitate nel rispetto delle disposizioni del TUB e del TUF. Il Patrimonio BancoPosta deve disporre pertanto di un
+sistema di controlli interni in linea con le previsioni della Circolare 285', che prevede, tra l’altro, la definizione di un quadro di
+riferimento per la determinazione della propensione al rischio (Risk Appetite Framework - RAF'®), il contenimento del rischio
+entro i limiti indicati dal RAF, la salvaguardia del valore delle attivita e protezione dalle perdite e |’individuazione di operazioni
+di maggior rilievo da sottoporre al vaglio preventivo della funzione di controllo dei rischi.
+
+A seguito del positivo sviluppo dei volumi di raccolta dei conti correnti postali nel 2017, il monitoraggio del risk profile ha
+evidenziato, a partire da giugno, la discesa dell’indicatore di leva finanziaria al di sotto dei valori obiettivo stabiliti nel RAF.
+Lindice di leva finanziaria (leverage ratio) al 31 dicembre 2017 si attesta a circa il 3,11% (3% valore minimo di riferimento
+normativo). Al fine di riequilibrare tale indice ai valori obiettivo interni (3,15%), in data 25 gennaio 2018 il Consiglio di ammi-
+nistrazione di Poste Italiane S.p.A. ha approvato il progetto di ricapitalizzazione del BancoPosta, da attuarsi con il conferi-
+mento di riserve disponibili per 210 milioni di euro. Le funzioni competenti procederanno anche nel corso del 2018 ad un
+attento monitoraggio dell'indicatore di leva finanziaria per verificarne nel tempo |’allineamento ad obiettivi, soglie e limiti RAF.
+Per quanto riguarda invece le attivita non comprese nel Patrimonio BancoPosta, e in particolare la gestione della liquidita
+propria, la Capogruppo, in base ad apposite linee guida in materia di investimento, si avvale di strumenti di impiego quali:
+titoli di Stato, titoli corporate/bancari di elevato standing creditizio e depositi bancari a termine. Integra tali forme tecniche la
+gestione della liquidita propria con lo strumento del conto corrente postale, assoggettato allo stesso vincolo di impiego della
+raccolta effettuata da correntisti privati.
+
+= Gli strumenti finanziari detenuti da Poste Vita S.p.A. si riferiscono prevalentemente agli investimenti effettuati a copertura delle
+obbligazioni contrattuali assunte nei confronti degli assicurati, relative a polizze vita di tipo tradizionale rivalutabile e a prodotti
+index e unit linked. Ulteriori investimenti in strumenti finanziari sono relativi agli impieghi del Patrimonio libero della Compagnia.
+Le polizze vita di tipo tradizionale (Ramo | e V) si riferiscono principalmente a prodotti che prevedono la rivalutazione della pre-
+stazione assicurata parametrata al rendimento realizzato dalla gestione di attivita finanziarie iscritte in fondi aventi una particolare
+autonomia, seppur soltanto contabile, all’interno del patrimonio complessivo della Compagnia (cd. Gestioni separate). Su tali
+tipologie di prodotto la Compagnia presta di norma la garanzia di un tasso di rendimento minimo da riconoscere alla scadenza
+della polizza (al 31 dicembre 2017, compreso tra 0% e 1,5%). Gli utili e perdite da valutazione vengono integralmente retrocessi
+agli assicurati e rilevati in apposita riserva tecnica in base al metodo dello shadow accounting. La tecnica di calcolo utilizzata per
+l'applicazione di tale metodo si basa sulla determinazione del rendimento prospettico di ogni Gestione separata, tenendo conto
+di un ipotetico realizzo delle plusvalenze e minusvalenze latenti lungo un orizzonte temporale coerente con le caratteristiche
+delle attivita e passivita presenti nel portafoglio (nota 2.3 in relazione ai Contratti assicurativi).
+Limpatto economico dei rischi finanziari sugli investimenti pud essere in tutto o in parte assorbito dalle passivita assicurative.
+In particolare, tale assorbimento é generalmente funzione del livello e struttura delle garanzie di rendimento minimo e dei
+meccanismi di partecipazione all’utile della “Gestione separata” per l’assicurato. La sostenibilita dei rendimenti minimi viene
+valutata dalla Compagnia attraverso periodiche analisi, effettuate con |’ausilio di un modello interno finanziario-attuariale
+(Asset Liability Management), che, per singola Gestione separata, simula l’evoluzione del valore delle attivita finanziarie e dei
+rendimenti attesi, sia nell'ipotesi di uno “scenario centrale” (basato su ipotesi finanziarie e commerciali correnti) sia nell’ipotesi
+di scenari di stress e di diversi sviluppi commerciali. Tale modello consente una gestione quantitativa dei rischi assunti da
+Poste Vita S.p.A., favorendo una riduzione della volatilita degli utili e un’allocazione ottimale delle risorse finanziare.
+| prodotti di tipo index e unit linked, c.d. di Ramo Ill, si riferiscono invece a polizze che prevedono |’investimento del premio
+versato in titoli di Stato italiani, warrant e fondi comuni d’investimento. Sulle polizze index linked in portafoglio, la Compagnia
+assume il rischio di insolvenza del soggetto emittente i titoli a copertura e, laddove previsto contrattualmente, offre la garan-
+zia al cliente di un rendimento minimo. La Compagnia svolge una costante attivita di monitoraggio sull’evoluzione del profilo
+di rischio dei singoli prodotti con particolare focus sul rischio legato alla solvibilita dell’emittente.
+Le politiche di investimento della Compagnia assicurativa danni Poste Assicura S.p.A. hanno lo scopo di preservare la
+solidita patrimoniale dell’Azienda, cosi come delineato dalla delibera quadro approvata dal Consiglio di Amministrazione del
+19 ottobre 2017. Periodicamente vengono svolte analisi circa il contesto macroeconomico, il trend di mercato delle differenti
+asset Class @ i relativi riflessi sulla gestione integrata attivi-passivi che, per il business danni non dovra tenere conto dei citati
+vincoli circa il rendimento minimo garantito, ma sara rivolta alla ottimale gestione della liquidita per far fronte alle richieste di
+indennizzo.
+
+ 
+
+104. Cfr. in particolare le previsioni contenute nella Parte Prima - Titolo IV - Capitolo 3.
+105. Quadro di riferimento che definisce, in coerenza con il massimo rischio assumibile, il business model e il piano strategico, la propensione al rischio, le soglie
+di tolleranza, i limiti di rischio, le politiche di governo dei rischi, i processi di riferimento necessari per definirli e attuarli.
+
+349
+

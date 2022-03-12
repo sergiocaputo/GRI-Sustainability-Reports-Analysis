@@ -1,0 +1,79 @@
+Bilancio Individuale 2017
+
+ 
+
+ 
+
+2. Variazioni nell’esercizio delle passivita (attivita) nette a benefici definiti e dei rimborso
+
+Voci/Tipologie 31/12/2017
+
+Esistenze iniziali 1.933
+
+ 
+
+Accantonamento dell'esercizio =
+
+ 
+
+Utilizzi nell’esercizio (114)
+
+ 
+
+Altre variazioni in aumento
+
+ 
+
+- di cui operazioni di aggregazione aziendali
+
+ 
+
+Altre variazioni in diminuzione 0
+Totale 1.819
+
+3. Informativa sul fair value delle attivita a servizio del piano
+
+In base allo IAS 19, le attivita a servizio del piano sono quelle detenute da un’entita (un fondo) giuridicamente distinta
+dall’entita che redige il bilancio (fondo esterno) e che possono essere utilizzate esclusivamente per pagare o ac-
+cantonare i benefici per i dipendenti e che non sono quindi disponibili per i creditori dell'entita che redige il bilancio.
+Alla data di bilancio non esistono attivita a servizio del piano che rispondano a tale definizione.
+
+4. Descrizione delle principali ipotesi attuariali
+
+Ipotesi demografiche
+
+Sono state utilizzate le seguenti ipotesi:
+
+* per le probabilita di morte del personale in pensione, si é usata la tavola di mortalitaé A6é2 pubblicata dall'ANIA alla
+fine di Gennaio 2014 in linea con la significativa riduzione della mortalita della popolazione italiana ormai in atto
+da un consistente numero di anni;
+
+* per le probabilita di lasciare famiglia quelle pubblicate nei rendiconti degli Istituti di Previdenza, distinte per ses-
+SO;
+
+Ipotesi economico finan: ie
+Le ipotesi di natura economica e finanziaria adottate, in base alle indicazioni dello IAS 19, sono le seguenti:
+* un tasso annuo medio di inflazione del 1,50%;
+
+* untasso annuo medio tecnico di attualizzazione del 1,55%; per la determinazione del valore attuale dell’obbliga-
+zione € stato determinato, coerentemente con il par. 83 dello IAS 19, con riferimento all’indice IBoxx Eurozone
+Corporate AA;
+
+* un tasso annuo medio di aumento delle pensioni Fondo e AGO pari al 2,00% (desunto dalla media degli incre-
+menti attribuiti alle singole pensioni per l’anno 2008). Per gli anni 2014, 2015 e 2016 si é tenuto conto delle mo-
+difiche introdotte dalla Legge di stabilita attualmente vigente.
+
+* pagamento mensile posticipato delle pensioni.
+
+5. Informazioni su importo, tempistica e incertezza dei flussi finanziari
+
+Lo IAS 19 richiede di condurre un‘analisi di sensitivita dell'obbligazione relativa ai fondi di quiescenza rispetto alle
+ipotesi attuariali ritenute piu significative, finalizzata a mostrare di quanto varierebbe la passivita di bilancio in re-
+lazione alle oscillazioni ragionevolmente possibili di ciascuna di tali ipotesi attuariali. In particolare, nella seguente
+tabella viene fornita evidenza della variazione delle consistenze dei fondi di quiescenza, nell'ipotesi di aumentare
+o diminuire il tasso di attualizzazione e di inflazione di 25 punti base rispetto ai parametri effettivamente utilizzati.
+
+ 
+
+175
+

@@ -1,0 +1,36 @@
+54 | Consolidated Non-Financial Information Statement 2019
+
+ 
+
+CARBON FOOTPRINT (CFP)
+
+The new functionality added to the cable design system - the Common Analisi platform - makes possible to cal-
+culate the environmental parameters of each product and is applicable in full within the pre-existing Prysmian
+Group perimeter. There are two outcomes: carbon footprint and recycling potential. The CFP is expressed in kgs
+of CO, associated with the standard length (1 km) of the cable and includes the impact of the materials and pro-
+cesses. The recycling potential of the raw materials used to produce the cable is calculated, considering the
+portion recoverable at the end-of-life and the portion that will have to be treated as waste or incinerated. The
+new functionality, proprietary to Prysmian, is currently being extended to the General Cable area, where the
+“Common Analisi” and SAP1 Client platforms are being implemented. This includes, in particular, the Iberian
+peninsula, Brazil (operational from July 2019), France and Chile (scheduled for year end). For the remaining are-
+as, especially GCC NA, the new functionality will be included in Cable Builder, the software that (by 2022) will
+become the cable design tool for the entire Company.
+
+The CFP data for materials obtained from the new version of the Ecoinvent database (Ecoinvent 3.3) was input
+to the “Common Analisi” platform in January 2019, replacing the CFP data obtained from the previous version
+(Ecoinvent 3.2).
+
+Based on the CA calculations, environmental certification has been obtained for a series of cables produced for
+a global operator of power grids (DSO), which is currently adding the environmental impact of cables to its sup-
+plier classification criteria. This process has been tackled in Italy, Spain and the LATAM countries, in particular.
+Specifically, in Argentina, Brazil, Chile and Colombia, ISO 14067:2018 certification of the carbon footprint of low
+and medium voltage cables has been awarded by third-party agencies (SGS and INCOTEC).
+
+ 
+
+The above represents a fundamental initial step towards general regulation of the environmental impact and
+sustainability of commodities, which can only be implemented in full when the entire value chain achieves a
+significantly greater level of awareness.
+
+ 
+

@@ -1,0 +1,127 @@
+The availability and continuity of
+the provision of IT services are
+measured using 2 methods for each
+provision platform:
+
+> Measurement of contracted Ser-
+vice Levels, using probes that sim-
+ulate customer operations;
+
+>Timely measurement of errors
+in absolute value and percentages,
+
+Browsing service level indicators
+
+CCM tele
+
+ 
+
+As a corollary of the certifications, the
+Group has an internal procedural
+system aimed at monitoring the
+processes related to IT Project Man-
+agement, Incident and Problem Man-
+agement, Disaster Recovery and Risk
+analysis and treatment.
+
+Each Group company has also defined
+
+the action guidelines that should be
+
+adopted for:
+
+> data processing;
+
+> assigned responsibilities and the
+company’s entities responsible for
+data processing;
+
+> minimum security measures.
+
+As part of its business information
+
+activity, Cerved collects and processes
+
+information in compliance with indus-
+
+try regulations. Compliance with the
+
+provisions of the Privacy Code and the
+
+Code of Deontology ensures respect
+
+of the right of the parties being sur-
+
+veyed and any individuals or other
+
+interested parties linked with them
+
+economically.
+
+Specifically regarding the activity of
+Cerved Rating Agency, in order to
+ensure the quality and integrity of
+the rating process and the independ-
+ence of the assessments, the compa-
+ny adopted a Corporate Governance
+Code in line with the principles pro-
+posed by IOSCO (International Organ-
+ization of Securities Commissions). In
+
+and of response times where spe-
+cific SLAs (Service Level Agreements)
+have been defined with customers.
+
+For example, we report the uptime?’ -
+defined as the time interval for which
+a service is available within a given pe-
+riod of time, of some of the main com-
+pany platforms:
+
+addition, Cerved Rating Agency pub-
+lishes a Transparency Report every
+year which is designed to explain to
+the market and the interested parties
+all the information needed to under-
+stand its governance, main policies
+and the activities of the control func-
+tions.
+
+The information processed by the
+Centrale dei Bilanci (CeBi) area is rel-
+evant to the extent that it is included
+in most of the Credit Information
+services supplied by Cerved. Specifi-
+cally, CeBi oversees the development
+and maintenance of the scoring suite
+called CGS Cerved Group Score, on
+the basis of which the credit reliabili-
+ty of the parties queried on Cerved's
+platforms is assessed. The adoption
+of formally established and audited
+analysis processes and procedures
+safeguards the objectivity of the
+analyses performed, the quality of
+the analysed data and the reliability
+of the models’ results. In this context,
+official technical-operational stand-
+ards, control procedures, dedicated
+reports and a process for the continu-
+ous monitoring of proprietary models
+were formally established.
+
+REGULATORY BASE & LICENCES
+
+To conclude that which is stated
+above, it should be remembered
+
+772019 cumulative
+data, worst case cal-
+culation on working
+days only, those with
+maximum load
+
+t
+
+3 ©
+

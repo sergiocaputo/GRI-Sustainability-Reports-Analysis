@@ -1,0 +1,74 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[302-1; 303-5]
+
+| nostri consumi
+
+USI
+
+flotta automezzi
+
+USI
+
+riscaldamenti uffici
+
+USI
+
+forza uffici
+illuminazione uffici
+climatizzazione estiva
+ausiliari CT
+
+50
+
+USI SPECIFICI
+
+auto, autocarri
+
+USI SPECIFICI
+
+caldaia
+
+USI SPECIFICI
+PC, stampanti
+corpi illuminanti
+
+gruppo frigorifero
+pompe, dispositivi
+
+ 
+
+ENPI YZ
+kWh / mq (
+_ 87
+
+01
+ye)
+©
+
+[J
+ENPI
+lit 7 km 0 |
+16770
+
+.\ | /
+
+ENPI
+
+Smc / gg “) | :
+as
+
+045
+
+kWh
+
+SAmsic
+

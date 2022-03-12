@@ -1,0 +1,97 @@
+Cerved Information Solutions S.p.A. | Bilancio di Sostenibilita | 2017
+
+ 
+
+Grazie al Modello Organizzativo adottato, é stato possibile gestire e risolvere in maniera
+corretta, efficace ed efficiente tutte le tematiche presentatesi durante l’'anno relativamente
+alla Sicurezza delle Informazioni. Questo sia in ambito operativo-strategico che a livello
+contrattuale e di compliance.
+
+|| ruolo di controllo di III livello @ svolto in maniera centralizzata dalla funzione Internal
+Audit che controlla l’adeguatezza del sistema di controllo interno e di gestione dei rischi,
+il suo funzionamento e la sua efficacia.
+
+In linea con le necessita e gli obiettivi di business, i requisiti di sicurezza e la struttura
+organizzativa aziendale, il Gruppo Cerved ha definito le proprie politiche di sicurezza per:
+* garantire che il patrimonio informativo e informatico sia adeguatamente tutelato
+rispetto ai rischi di compromissione
+« istituire e mantenere un processo strutturato per l'identificazione e la valutazione del
+rischio informatico, con lo scopo di applicare gli opportuni controlli e di verificane
+l'efficacia e l'efficienza nell’ottica del miglioramento continuo e riduzione del livello di
+rischio identificato
+* assicurare la conformita ai requisiti legali, normativi e contrattuali inerenti la sicurezza
+
+40
+
+delle informazioni.
+
+La politica di sicurezza delle informazioni definita dal Gruppo Cerved é stata strutturata
+sulla base delle seguenti aree:
+
+Organizzazione
+della sicurezza
+
+Gestione degli asset IT
+
+Sicurezza del personale
+
+Sicurezza fisicae
+ambientale
+
+Sicurezza operativa
+e delle telecomunicazioni
+
+Controllo degli accessi
+
+Acquisizione, sviluppo
+e manutenzione dei sistemi
+
+Relazione con i fornitori
+
+Gestione di eventie
+incidenti di sicurezza
+informatica
+
+Gestione della continuita
+operativa
+
+Conformita a leggi
+e regolamenti
+
+definizione dei ruoli e delle responsabilita, promuovendo comportamenti
+econtrolli atti a garantire la sicurezza informatica
+
+definizione dei criteri tecnici e/o organizzativi per la gestione degli
+apparati informatici e delle regole di assegnazione del profilo di rischio
+delle informazioni
+
+definizione delle regole di comportamento cui il personale deve attenersi
+e programmazione della relativa formazione
+
+definizione delle iniziative finalizzate alla protezione del personale, dei
+componenti tecnologici, dei locali e degli archivi cartacei
+
+definizione dei controlli sui processi e sulle attivita operative come
+protezione dei dati trasmessi e monitoraggio degli accessi
+ai servizi e sistemi informatici disponibili in rete
+
+definizione del presidio degli accessi logici al sistema informativo,
+secondo modalita prestabilite
+
+definizione delle regole di gestione, modifica, test e messa in produzione
+di programmi applicativi, software di base e componenti hardware;
+
+definizione di una politica per la sicurezza delle informazioni nei rapporti
+con i fornitori al fine di indirizzare la sicurezza all'interno degli accordi
+contrattuali
+
+definizione di procedure finalizzate ad assicurare la tempestiva gestione
+e risoluzione di incidenti e malfunzionamenti che possano avere un
+impatto sulla sicurezza informatica
+
+definizione delle regole che governano il processo di erogazione del
+servizio anche a fronte di un'interruzione dovuta a un evento critico
+
+definizione dei criteri e delle procedure necessarie per gli adempimenti
+previsti dalle leggi e dai regolamenti vigenti
+

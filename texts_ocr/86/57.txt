@@ -1,0 +1,93 @@
+Lottomatica al fianco del
+Punto Vendita
+
+Al fine di facilitare i
+rapporti con il Punto
+Vendita e garantire
+l'ascolto continuo della
+
+LOTTOMATICA PER LA COMUNITA 2018
+
+rete dei rivenditori,
+Lottomatica ha realizzato,
+nel corso del 2018, uno
+strumento di Sales Force
+Management, accessibile
+
+a tutto il personale della
+Direzione Vendite (centrale
+e dislocata sul territorio),
+
+sviluppato completamente
+in house con le tecnologie
+pit avanzate (Piattaforme
+BigData, Advanced
+Analytics).
+
+Lo strumento consente di
+monitorare costantemente
+la “Voce del Punto
+
+Vendita” e di agire in modo
+proattivo nei processi di
+caring ed engagement.
+
+Il prodotto inoltre fornisce
+agli agenti commerciali gli
+strumenti piu idonei per
+supportare il rivenditore
+nel proprio business.
+
+ 
+
+ 
+
+ASSET MNG
+
+BIGDATA
+
+59
+
+ 
+
+ 
+
+LES FORCE MANAGEMENT
+
+PIATTAFORMA ERMES
+
+FRONT-END
+ORGANIZZAZIONE FORZA VENDITA
+
+=
+
+MONITORAGGIO E ANALISI
+IGESTIONE E STATISTICHE PUNTO VENDITA O
+GESTIONE DEL CONTRATTO.
+GESTIONE DEL PROSPECT
+FORZA VENDITA
+
+BACK-OFFICE
+GESTIONE DEI CONTENUTI
+
+GESTIONE CANVASS E OBIETTIVI
+AMMINISTRATORI
+
+DWH - Data warehouse aziendale. Sistema che consente l'aggregazione e la storicizzazione di dati
+strutturati, provenienti tipicamente da fonti interne operazionaii, utili a realizzare analisi e report ad
+uso strategico aziendale nei processi decisionali di business.
+
+SAP - Sistema di Enterprise Resource Planning (ERP) - @ un sistema di gestione che integra tutti i
+processi di business rilevanti di unazienda (vendite, acquisti, contabilita ecc.).
+
+ETL - Extract, Transform, Load - processo di estrazione, trasformazione e caricamento dei dati in un
+sistema.
+
+ASSET MANAGEMENT - Sistema per la gestione dei beni materiali dell’azienda.
+
+BIGDATA -£ una piattaforma ad elevate prestazioni sia in termini di risposta, sia in termini di
+capacita ed affidabilita, che consente di conservare un’enorme mole di dati eterogenei, strutturati
+enon strutturati. La piattaforma consente di analizzare i dati nella forma originaria e mettere in
+relazione qualsiasi tipo di informazione, questo allo scopo di scoprire (grazie allutilizzo di algoritmi
+statistici e matematici avanzati) i legami tra fenomeni diversi ed effettuare delle previsioni.
+

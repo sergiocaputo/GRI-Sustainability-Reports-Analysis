@@ -1,0 +1,45 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+A.4.3 Gerarchia del fair value
+
+Il passaggio di uno strumento finanziario dal Livello 1 al Livello 2 di Fair value e viceversa deriva principalmente dal
+grado di liquidita dello strumento stesso al momento della rilevazione della sua quotazione, che determina !’utilizzo
+di un prezzo rilevato su un mercato attivo (Livello 1) piuttosto che di un prezzo ottenuto sulla base di un modello di
+pricing (Livello 2).
+
+In concreto, qualora per unvattivita o passivita finanziaria vi siano oggettive indicazioni di perdita di significativita
+0 indisponibilita del prezzo (per esempio, per assenza di pluralita di prezzi da market maker, prezzi poco variati o
+inconsistenti), lo strumento viene trasferito nel Livello 2 della gerarchia del Fair value. Tale classificazione potrebbe
+tuttavia non rendersi piu necessaria qualora, per il medesimo strumento finanziario, si riscontrassero nuovamente
+quotazioni espresse da mercati attivi, con corrispondente passaggio al Livello 1.
+
+Questa dinamica si riscontra principalmente per i titoli di debito, per i titoli di capitale e per le quote di OICR, mentre
+gli strumenti derivati quotati su mercati regolamentati appartengono di norma al Livello 1, dato che per questi é
+normalmente disponibile un prezzo espresso dalle borse di riferimento.
+
+Viceversa, gli strumenti derivati OTC sono di norma valutati sulla base di modelli di pricing e quindi sono classificati
+a Livello 2 0 3 di Fair Value, a seconda della significativita dei dati di input.
+
+Il trasferimento dal Livello 2 al Livello 3 e viceversa € determinato dal peso o significativita assunta, in diversi mo-
+menti della vita dello strumento finanziario, delle variabili di input non osservabili rispetto alla complessiva valuta-
+zione dello strumento stesso.
+
+Ad ogni data di valutazione, la Banca verifica caso per caso:
+
+1. la significativita del rapporto tra il Fair value della componente dello strumento finanziario valutata con dati di
+input non osservabili e il Fair value dell'intero strumento stesso;
+
+2. lasensitivity del Fair value dello strumento finanziario al variare dell’input non osservabile utilizzato.
+
+A.4.4 Altre informazioni
+La Banca non si avvale dell’eccezione prevista dal paragrafo 48 dell'IFRS 13 (fair value sulla base della posizione
+
+netta) in relazione ad attivita e passivita finanziarie con posizioni che si compensano con riferimento al rischio di
+mercato o al rischio di controparte.
+
+142
+
+ 
+

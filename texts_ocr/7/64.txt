@@ -1,0 +1,59 @@
+ABOUT US » WHAT WE DO + WHAT WE DID + WHAT WE WILL DO + ANNEXES
+
+ 
+
+@ Injury and disease rate 2019 2018 2017
+
+No. of injuries resulting in less than 180 days lost 287 282 293
+of which women 167 167 182
+No. of injuries resulting in more than 180 days lost 1 1 -
+of which women 1 1 -
+No. of days lost due to injury 4,940 5,419 6211
+Injury rate 4.97 4.99 5.40
+No. of hours worked 11,538,074 11,313,147 10,843,632
+No. of suspected occupational diseases reported 25 23 22
+of which recognised 7 8 4
+Occupational disease rate 0.12 0.16 0.07
+
+Injury rate = (No. of injuries/nours worked)x200,000
+Hours worked = No. of hours worked as shown on the time card
+Occupational disease rate = (No. of recognised occupational diseases/hours worked)x200,000
+
+Note: data relating to injuries refer both to retail stores and to offices and warehouses. Please note that the indicator GRI 403-9 was
+restated also for previous periods in order to align the data with the new calculation method as per GRI 403: Occupational health and
+
+ 
+
+ 
+
+safety 2018.
+
+@ Absenteeism rate 2019 2018 2017
+% hours lost due to illness/regular gross working hours 3.36% 3.30% 3.13%
+% hours lost due to injury/regular gross working hours 0.33% 0.34% 0.37%
+Absenteeism rate 3.69% 3.64% 3.50%
+Absenteeism rate = ((hours lost due to injury + hours lost due to illness)/workable hours)x100
+
+Workable hours = gross workable hours - hours of leave taken
+
+@ Injury rate at outsourcing companies 2019 2018 2017
+No. of injuries resulting in less than 180 days lost 33 64 N.A.
+No. of injuries resulting in more than 180 days lost - N.A. N.A.
+Injury rate 5.39 4.41 NLA.
+
+Note: the injury rate at outsourcers does not include the distribution centres in Mestrino, Camin, and Castel San Pietro Terme.
+
+Note: the injury rate at outsourcers was restated for 2017 and 2018 based on the data available as at 31/12/2019.
+
+ 
+
+403-9
+
+ 
+
+403-10
+
+ 
+
+403-9
+

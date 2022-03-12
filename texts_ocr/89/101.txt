@@ -1,0 +1,57 @@
+102
+
+ 
+
+also carried out a cycle of four training sessions on the new data privacy measures applicable to
+management of prospective clients for the Mediobanca Private Banking division.
+
+A list of the specific structured policies and directives adopted by the Group to manage risks and at
+the same time increase the client’s confidence is provided below:
+
+© Group Personal Data Protection Policy: this document defines the general principles to which
+the Mediobanca Group must adhere in order to guarantee the protection of personal data
+which it processes in the course of its activities.
+
+© Group Information Security Policy: this describes the objectives and general principles which
+the Mediobanca Group adopts in processing information to support the needs of its business
+and to ensure that the legal or regulatory requirements and choices in respect of risk
+management are duly observed;
+
+© Group IT risk management policy: this Group policy defines the organizational and
+methodological framework which the Mediobanca Group adopts in the area of IT risk
+management, to ensure the protection measures in force for IT resources are efficient and
+effective, and to tailor mitigation measures based on the risk profile;
+
+© Group Directive on IT and Security Incident Management: describes the actions to be adopted
+in order to manage incidents relating to IT systems and the security of information which
+generate, or could generate disruptions for users or impact on the company’s business, or
+entail risks for the protection of personal data.
+
+© Group Directive on Systems Administrator Management: establishes the rules in order to
+regulate the activities performed by systems administrators, in accordance with the
+
+ 
+
+requirements of the Provision issued by the Italian Data Protection Authority, and identifies
+operating roles and responsibilities in the systems administrator process.
+
+© Directive on information classification and management: this directive sets out the criteria
+and rules with which users must comply to ensure that information is classified and managed
+correctly, and so guarantee an adequate level of protection for the company’s information
+capital;
+
+© Group Directive on data masking and encryption: this directive describes the actions and rules
+to adopt in managing the activities of encryption and masking of data, its communication
+channels and backup, for applications identified based on IT risk and privacy criticality analysis;
+
+© Group Directive on Log Tracking and Management: this directive sets down the criteria and
+general rules to be followed in systems and log management activities;
+
+© Group Directive on Security in Relations with Third Parties: this directive defines the security
+objectives and principles with which third parties must comply in accordance with the risk
+appetite defined at company level and consistent with the internal regulations on treatment of
+inside and confidential information;
+
+© Manual for data processing records: defines the methodological approach to be used in
+drawing up and maintaining personal data records, the structure and minimum content of the
+

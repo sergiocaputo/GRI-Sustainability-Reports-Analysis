@@ -1,0 +1,73 @@
+Bilancio Individuale 2017
+
+ 
+
+Sezione 3 - Attivita finanziarie detenute sino alla scadenza
+
+ 
+
+Sono classificati nella presente categoria i titoli di debito con pagamenti fissi o determinabili e a scadenza fissa, che
+si ha intenzione e capacita di detenere sino a scadenza. Se in seguito ad un cambiamento di volonta o di capacita
+non risulta piu appropriato mantenere un investimento come detenuto sino a scadenza, questo viene riclassificato
+tra le “Attivita finanziarie disponibili per la vendita”. Qualora nel corso di un esercizio venisse venduto 0 riclassificato,
+prima della scadenza, un importo non irrilevante degli investimenti classificati in tale categoria, le rimanenti attivita
+finanziarie detenute fino a scadenza verrebbero riclassificate come “Attivita finanziarie disponibili per la vendita” e
+uso del portafoglio in questione sarebbe precluso per i successivi due esercizi, a meno che le vendite o riclassifi-
+cazioni:
+
+- siano cosi prossime alla scadenza o alla data dell’opzione dell'attivita finanziaria, che le oscillazioni del tasso di
+interesse di mercato non avrebbero un effetto significativo sul fair value dell'attivita stessa;
+
+- si siano verificate dopo l'incasso sostanzialmente di tutto i] capitale originario dell'attivita finanziaria attraverso
+pagamenti ordinari programmati o anticipati; o
+
+-  siano attribuibili a un evento isolato non controllabile, che non sia ricorrente e non si possa pertanto ragionevol-
+mente prevedere.
+
+ 
+
+Criteri di iscrizione
+Liscrizione iniziale dell'attivita finanziaria avviene alla data di regolamento.
+
+All'atto della rilevazione iniziale le attivita finanziarie classificate nella presente categoria sono rilevate al fair value,
+comprensivo degli eventuali costi e proventi direttamente attribuibili. Se la rilevazione in questa categoria awiene
+per riclassificazione da altre categorie, il fair value dell'attivita alla data di riclassificazione viene assunto come nuovo
+costo ammortizzato dellattivita stessa.
+
+Criteri di valutazione e di rilevazione delle componenti reddituali
+
+Successivamente alla rilevazione iniziale, le “Attivita finanziarie detenute sino alla scadenza” sono valutate al costo
+ammortizzato, utilizzando il metodo del tasso di interesse effettivo. La verifica dell'esistenza di obiettive evidenze di
+riduzione di valore viene effettuata ad ogni chiusura di bilancio o di situazione infrannuale.
+
+Gli utili o le perdite riferiti alle “Attivita finanziarie detenute sino a scadenza”, sono rilevati nel conto economico nel
+momento in cui le attivita sono cancellate o hanno subito una riduzione di valore, nonché tramite il processo di
+ammortamento.
+
+In sede di chiusura del bilancio e delle situazioni infrannuali, viene effettuata la verifica dell’esistenza di obiettive
+evidenze di riduzione di valore.
+
+Se sussistono tali evidenze I’importo della perdita viene misurato come differenza tra il valore contabile dell’attivita
+e il valore attuale dei futuri flussi finanziari stimati, scontati al tasso di interesse effettivo originario. Limporto della
+perdita viene rilevato nel conto economico. Qualora i motivi della perdita di valore siano rimossi a seguito di un
+evento verificatosi successivamente alla rilevazione della riduzione di valore, vengono effettuate riprese di valore
+con imputazione a conto economico.
+
+Il ripristino di valore non deve determinare un valore contabile che supera il costo ammortizzato che si sarebbe
+avuto nel caso in cui la perdita per riduzione di valore non fosse stata rilevata.
+
+Criteri di cancellazione
+
+Le attivita finanziarie vengono cancellate quando scadono i diritti contrattuali sui flussi finanziari derivati dalle atti-
+vita stesse o quando Iattivita finanziaria viene ceduta trasferendo sostanzialmente tutti i rischi e benefici ad essa
+connessi. Per contro, qualora sia stata mantenuta una quota parte rilevante dei rischi e benefici relativi alle attivita
+finanziarie cedute, queste continuano ad essere iscritte in bilancio, ancorché giuridicamente la titolarita delle attivita
+stesse sia stata effettivamente trasferita. Nel caso in cui non sia possibile accertare il sostanziale trasferimento dei
+rischi e benefici, le attivita finanziarie vengono cancellate dal bilancio qualora non sia stato mantenuto alcun tipo di
+controllo sulle stesse. In caso contrario, la conservazione, anche in parte, di tale controllo comporta il mantenimento
+in bilancio delle attivita in misura pari al coinvolgimento residuo, misurato dall’esposizione ai cambiamenti di valore
+
+ 
+
+119
+

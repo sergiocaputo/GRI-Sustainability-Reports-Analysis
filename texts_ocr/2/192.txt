@@ -1,0 +1,139 @@
+ 
+
+TABELLA N. 65 - INDICATORI AMBIENTALI: EMISSIONI DI CO,, INDICI DI INTENSITA DELLE EMISSIONI A EFFETTO SERRA
+ED EMISSIONI DELLAUTOPARCO (2017-2019)
+
+EMISSIONI DI CO,
+
+ 
+
+EMISSIONI DI TIPO SCOPE 1
+
+ 
+
+DA IMPIANTI DI PRODUZIONE DI ENERGIA
+
+ 
+
+ 
+
+u.m. 2017 2018 2019
+emissioni di CO, dalle centrali termoelettriche di Acea Produzione t 33.507 42.888 48.131
+emissioni di CO, dagli impianti di termovalorizzazione t 375159 307.395 290.591
+
+di Acea Ambiente ©
+
+ 
+
+DA IMPIANTI DI GESTIONE RIFIUTI, DISTRIBUZIONE DI ENERGIA, RISCALDAMENTO, AUTOPARCO,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+emissioni di CO, da impianti di gestione rifiuti t 932 1,076 1.282
+emissioni di CO, da essiccatori impianti idrici t 2.901 3.958 5,620
+emissioni di CO, da riscaldamento t 1.008 764 840
+emissioni di CO, da autoparco t 9.753 9.407 8.314
+emissioni di CO, da impianti di Areti (da SF, °"? t 14.100 11.233 9.682
+emissioni di CO, sostanze refrigeranti (HCFC) “ t - 46 0
+TOTALE EMISSIONI DI TIPO SCOPE 1°"? t 437.360 376.767 364.460
+EMISSIONI DI TIPO SCOPE 2
+
+emissioni di CO, dal consumo di energia elettrica : 363.678 337.858 354.811
+location based (market based) “""” (214.869) (203.841) (228.590)
+EMISSIONI DI TIPO SCOPE 3
+
+emissioni di CO, derivanti dall’'acquisto di beni/servizi, e lavori “"""” t 24.134 22.805 22.303
+emissioni di CO, da pendolarismo t 3,286 4.088 7.060
+emissioni di CO, da business travel t 152 160 288
+emissioni di CO, da volumi venduti di gas t 203.085 252.987 275.580
+INDICI DI INTENSITA DELLE EMISSIONI DI GAS A EFFETTO SERRA
+
+indice di intensita delle emissioni di GHG usm. 2017 2018 2019
+emissioni di CO, (Scope 1+ Scope 2)/valore aggiunto Gruppo Acea _—(t/k€) 0,809 0,666 0,598
+emissioni di CO, di Scope I/produzione lorda “"" (g/kWh) 487,7 3617 3746
+emissioni di CO, di Scope 2 derivanti dalle perdite sulla rete CMW) 0,015 0,013 one
+
+di distribuzione dell’energia elettrica/GWh distribuiti
+
+@)
+*)
+
+(7)
+
+spe
+pe
+(#80)
+
+(seb HH)
+
+ 
+
+II dato 2018 di Terni é stato rettificato dopo certificazione ETS, mentre il dato 2019 é stimato, in attesa della certificazione da parte di Ente terzo.
+
+Il dato include le emissioni dei servizi ausiliari degli impianti di termovalorizzazione, non strettamente correlate alla produzione di energia elettrica, e, dal 2018, le
+
+emissioni non biogeniche dalla combustione det bio as prodotto in loco.
+
+| dati 2017 e 2018 sono stati rettificati includendo Cori e allineando i dati alle voci di Bilancio ambientale.
+
+Sono le tonnellate di CO, equivalente, corrispondenti alle emissioni di SF, gas isolante presente nelle apparecchiature AT di Areti (1 t di SF, equivale a 23.500 t
+
+di CO,, GHG Protocol-5th Assessment Report- ARS).
+
+Nel 2019 i reintegri dei fluidi HCFC negli impianti del Gruppo sono stati talmente esigui da non determinare emissioni di CO, significative
+
+Considerando tutto il Gruppo, le emissioni di tipo scope 1 totali, per il triennio sono le seguenti: 439.353 t, 378.671 t e 366. 371 t
+
+Le emissioni indirette (Scope 2) includono tutte le Societa in perimetro DNF. | dati 2017 e 2018 sono stati rettificati per l’inclusione di Gori. Come fattore di
+
+emissione per unita di energia elettrica consumata (t CO,/MWh), per il calcolo di tipo location based, si é utilizzato il valore 0,36, come da documento “Con-
+
+fronti internazionali” di Terna (su dati 2018). Per il calcolo delle emissioni di tipo Scope 2 col metodo Market Based, i coefficienti Residual Mixes sono rispetti-
+
+vamente per il 2017, il 2018 e 2019: 0,465 t/MWh, 0,476 t/MWh e 0,487 t/MWh (Fonte: documento AIB “European Residual Mixes 2018”). Considerando
+
+tutto il Gruppo, anche le Societa Umbra Acque, Acquedotto del Fiora, Publiacqua e Acque (fuori perimetro NES, per la sola quota parte di proprieta Acea,
+
+per il triennio 2017-2019 le emissioni di CO, Location based sono rispettivamente pari a 415.853 t, 390.552 t e 407.086 t, le emissioni Market based sono
+ari a 282.262 t, 272.502 t, e 299.664 t.
+
+| dato, stimato, si riferisce ai fornitori di beni, servizi e lavori. Il dato 2018 é stato rettificato. Il dato 2019 é cosi suddiviso: 19.050 tonnellate di CO, per fornitori
+
+di servizi e lavori e 3.253 tonnellate di CO, per fornitori di beni
+
+cereeres
+¢ ) Dal 2018 le emissioni di Scope 1 incluse inquest indice sono le emissioni da impianti di produzione di energia
+cP") Le perdite di rete considerate per le emissioni di tipo Scope 2 e per il calcolo dell’indicatore, per il triennio 2017-2019, sono le seguenti: 124.479 t 120.450 te
+
+NB
+
+118.824 t (dovute alle perdite tecniche di energia elettrica sulla rete). Il trend & in diminuzione, se pur minima, grazie alla riduzione delle perdite di rete, risultato
+diinterventi, misure ed effcientamenti
+
+| fattori di emissione per le emissioni di tipo Scope 1 sono tratti dai parametri standard - dati ISPRA 2018, da DEFRA 2018 e dal GHG Protocol-Sth Asses-
+sment Report - ARS.
+
+LE RELAZIONI CON LAMBIENTE
+
+197
+

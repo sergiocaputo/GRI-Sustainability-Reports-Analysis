@@ -1,0 +1,105 @@
+Impianto recupero energetico Casoni - inquinanti (t/anno)
+
+INQUINANTI
+
+ 
+
+Polveri totali
+
+ 
+
+Acido cloridrico
+
+ 
+
+Acido fluoridrico
+
+ 
+
+Ossido di zolfo (So,)
+
+ 
+
+Ossido di azoto (No,)
+
+ 
+
+Monossido di carbonio (CO)
+
+ 
+
+Carbonio organico totale (COT)
+
+ 
+
+Ammoniaca
+
+ 
+
+Cadmio
+
+ 
+
+ 
+
+ToT edly
+(Sb, As, Pb, Cr, Co, Cu, Mn, Ni, V)
+
+ 
+
+Combustione di metano per riscaldamento
+
+ 
+
+ 
+
+ 
+
+Impianto TMB CH, (m3)
+
+ 
+
+Impianto TMB CO, (m3)
+
+ 
+
+i Rel Pau)
+
+ 
+
+ 
+
+INQUINANTI
+
+Uffici CO, (t)
+
+2016 (E2) 2017 (E2) 2018 (E2)
+0,027 0,018 0,047
+0,007 0,003 0,003
+0,004 0,001 0,003
+0,025 0,042 0,029
+0,379 0,391 0,425
+0,021 0,060 0,068
+0,010 0,009 0,013
+0,003 0,005 0,002
+
+0,00002 0,00016 0,00003
+
+0,00005 0,00005 0,00006
+
+0,00013 0,00080 0,00217
+
+2016 2017 2018
+2.670 2.859 3.389,75
+3,67 3,92 4,65
+
+3.826,44 4.105,56 4.066
+
+5,25 5,64 5,58
+
+ 
+
+ 
+
+85
+

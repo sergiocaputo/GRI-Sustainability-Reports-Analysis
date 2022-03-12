@@ -1,0 +1,57 @@
+Utilities 4.0: HERAtech digitalization projects
+
+For HERAtech, “Digitization” is synonymous with an innovative change that involves the entire corporate
+structure, through the implementation of an “integrated” system of new functions on corporate
+management (SAP) and on apps that are accessible from mobile devices. The objective is to collect a set of
+different project initiatives, to rationalize and digitalize operational processes end-to-end, with particular
+focus on the services offered to our customers.
+
+Given the complexity of the project, it spanned two years (2017-2018) and covered several areas:
+
+e Customer quotes: an integrated dashboard centrally manages all quotes requested by customers
+and dispatches on a mobile device the individual technicians that carry out the work, which can
+then be performed “on the field” using a specific App, without the need for operators to pass
+through the company headquarters. All the data collected are immediately transferred
+automatically to the central system, where all the technical and economic information is stored and
+from which the estimate is then sent, also automatically, to the customer.
+
+e¢ Execution of work for customers: likewise, a dashboard has been developed to manage all works
+for customers, which also includes the management of the authorizations needed. Again in this
+case, each “work order” can be assigned on a mobile device both to the technicians of HERAtech’s
+Works Management office and to the subcontractors. Through specific apps, all the information to
+carry out the activities of competence are made available to these parties, which once completed
+can also be finalized in the app, automatically updating the central system.
+
+e Work progress accessible to customers: an application has been prepared, available via web with
+reserved access for each customer, which allows them to check the progress of technical activities
+that they requested and to receive a text message at each step of the process.
+
+¢ = Technical work back-office: a CRM (Customer Relationship Management) management system has
+been developed for all back-office activities for technical work. Tools have also been implemented
+to digitally manage paper-based documents which are needed for other technical customer
+account activities (e.g. supply activation/deactivation).
+
+The main environmental benefits are a reduction in the need for personnel to travel, which is due to a
+reduction in the use of company vehicles and therefore a reduction in emissions, and the digitalization of a
+set of activities previously managed in paper form, which now saves paper.
+
+Utilities 4.0: The evolution of the gas meter with Hera
+
+The innovation proposed by Hera involves a device that measures the consumption of residential gas
+customers, based on a novel approach. The current devices, required by ARERA resolution 554/2015,
+makes it possible to stop the supply of gas to users but cannot be used to identify potentially dangerous
+conditions.
+
+Hera’s new gas meter 2.0 is a device for measuring the consumption of gas customers which, besides the
+regular monitoring of consumption, also makes it possible to check the working conditions of the gas
+supply system and to intervene autonomously in the event of anomalies, both automatically and controlled
+by the customer. Anomalies can be caused by earthquakes or by abnormal network conditions in the user’s
+internal system or in the public distribution system.
+
+By checking the gas pressure and flow data, the device can intervene, blocking the supply of gas using the
+solenoid valve. Once corrective action has been taken it can perform a test to check that the user system
+works properly, to promptly resume the service. After concluding the development phase, 2019 will be the
+year in which the production of these devices and installations will begin for residential users.
+
+116
+

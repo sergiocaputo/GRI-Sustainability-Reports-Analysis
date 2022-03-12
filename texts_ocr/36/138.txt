@@ -1,0 +1,123 @@
+aligned with the Group's objectives. The cyber security strat-
+egy and initiatives are recurring topics that are subject to the
+Group's principal executive and control bodies (e.g. “Board
+of Directors”, “Control and Risks Committee”, “Supervisory
+Bodies”, etc.).
+
+In 2017 the Company also set up a specific “Cyber Security
+Framework" policy, which orients principles, organisation
+and operating processes for a global strategy of analysis,
+prevention and management of the risks and effects of cy-
+ber attacks. This framework is based ona “systemic” vision
+that integrates traditional Information Technology sector (IT)
+with the Operational Technology sector (OT), connected to
+the world of industry and the Internet of Things (loT). In the
+context of the creation of this framework, 2017 saw the
+definition also of the new Cyber Security Risk Management
+methodology applicable to all IT, OT and loT environments,
+which specifies all the necessary phases required to perform
+a risk analysis and define the associated mitigation plan, in
+line with the stated cyber security objectives. Enel has also
+created a “Cyber Emergency Readiness Team” (CERT)
+for proactive management and response to cyber incidents
+while collaborating and exchanging information within a net-
+work of accredited international partners. The existing ac-
+creditation agreements with the institutional CERTs in the
+countries in which Enel operates were upgraded in 2019.
+Following signing of the agreement with the US national
+CERT, the number of accreditations has now reached 9: Ro-
+mania, Italy, Chile, Argentina, Peru, Colombia, Brazil, Spain
+and the US. Also in 2019 the collaboration proceeds with
+the Trusted Introducer Service, which includes more than
+380 CERTs in over 60 countries, and with “FIRST” (Forum
+of Incident Response and Security Teams), the largest and
+most wide ranging community in the sector, with over 510
+members in more than 90 countries. Finally, the Enel CERT
+Global Control room in Turin was upgraded in 2019: another
+step forward in the consolidation and reinforcement of the
+Group's cyber security strategy.
+
+Cyber security
+
+incident management
+
+Every day, CERT collects more than 2 billion events from
+more than 3,700 data sources related to the corporate assets,
+
+correlating them and producing around one hundred “inci-
+dents” (cases requiring treatment). The incidents are classi-
+
+Innovation and digitalization
+
+fied in accordance with a specific evaluation matrix (Enel Cy-
+ber Impact Matrix) on a scale from 0 to 4 that considers both
+the level of their impact and the level of the existing tools
+protecting company assets. The majority of incidents identi-
+fied had no significant impact on Group systems and were
+automatically or semi-automatically blocked and/or managed
+by existing company defences (level 0/1). Incidents classified
+at levels 2/3/4 potentially have an impact on the Group and
+they are managed by the CERT analysts, bringing in the ap-
+propriate units in question in accordance with processes and
+actors that are predetermined during the monitoring service
+set-up phase. In 2019 CERT responded to 94 level “2” cyber
+incidents and 10 level “3” incidents. In all cases
+
+ 
+
+detected, all the procedures provided were activated and no
+significant damage ensued in respect of company assets. No
+level “4” cyber security incidents were recorded.
+
+If a cyber security incident were to involve a possible data
+violation, the appropriate and necessary actions would be un-
+dertaken immediately, in line with the specific Group policy
+on “Personal Data Management”. If a crisis situation should
+arise such that threatens business continuity of the Company,
+and/or the assets, reputation, and/or profitability of the Enel
+Group, the appropriate and necessary actions would be un-
+dertaken immediately, in line with the specific Group policy
+concerning “Critical Events Management”.
+
+CERT allowed Enel to block the following daily threats
+
+in 2019:
+
+> approximately 2 milli
+
+> approximately 300 viruses;
+
+> approximately 400 thousand at risk connections in
+outbound emails;
+
++> approximately 120 attacks on institutional portals.
+
+The number of connections to dangerous sites in 2019 fell
+
+thanks to the extension of the technical countermeasures
+
+ 
+
+inbound malicious or spam emails;
+
+adopted and the increase in the level of protection of Inter-
+net navigation, in relation to the extension of the perimeter
+of countries covered.
+
+Moreover, by means of Threat Intelligence services, in 2019
+Enel detected more than 1,300 Internet domains engaged
+in illicit use of the trade mark for the probable purpose of
+perpetrating fraud against customers, and reported them to
+the competent authorities.
+
+Furthermore, more than 800 safety checks were carried out
+in the sphere of IT and OT, this number representing an in-
+crease of 60% versus the checks carried out in 2018.
+Finally, since complete migration to the laaS cloud was ac-
+
+137
+
+Our pillars
+
+ 
+

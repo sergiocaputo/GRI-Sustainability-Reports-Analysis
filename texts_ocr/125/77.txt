@@ -1,0 +1,60 @@
+5.1.1.1 ENERGY RESOURCES
+
+Ng Energy consumption is due to:
+Peeing
+
+Noel e Temperature-controlled containers (reefer) plugging:
+
+e use of quay cranes/RMGs 1;
+
+nero wou‘ TS of rolling stock (RTGs 2, forklifts, prime movers, reachstackers);
+
+rr
+
+e yard lighting;
+a
+
+secs e ancillary activities.
+Pea
+ea
+
+oe) At the moment, internal metres are not installed at SECH, which allow for
+
+the reporting of electricity consumption divided by type of equipment:
+
+Ric based on the nominal power, it is however possible to estimate the
+
+energy absorption of the different equipment. In TDT, on the other hand,
+
+re there are partialised metres that have been made legible and remotely
+monitored since 2018 (SCADA project).
+
+Below is the breakdown of energy consumption.
+
+e office activities;
+
+ 
+
+At SECH, 57% of energy needs are covered by diesel, 40% by electricity and 3% by
+methane (used only to heat sanitary waters). Compared to 2018, there was a slight
+increase in the supply of methane. The total committed electrical power grew by 8%
+compared to 2018, due to the addition/modernisation of the lighting towers and
+columns for the temperature-controlled containers’ power supply. Shore cranes (41%)
+and RMGs (31%) are always the topmost users. Considerable, and growing compared
+to 2018, the electricity from reefer containers plugging (from 17% to 23%).
+
+Transtainer 31,29%
+SSGCs 41,02%
+- Lighting towers 0,27%
+
+Lights and power supply 4,77%
+
+Reefer 31,29%
+
+Chart 11: Breakdown of consumed power at SECH, year 2019
+
+1.RMG: rail mounted gantry
+2. RTG: rubber-tyred gantry
+
+2019 Sustainability Report
+

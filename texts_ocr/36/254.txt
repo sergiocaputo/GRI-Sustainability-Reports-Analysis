@@ -1,0 +1,139 @@
+ 
+
+DNV-GL
+
+VERIFICATION STATEMENT
+
+ 
+
+Statement No: First Issuance Date: Statement Validity:
+10000328013-Assessment Services-DNV 8 April 2020 8 April 2020 - 7 April 2021
+GL-ITA
+
+DNV GL Business Assurance has verified, in accordance with the Standard ISO 14064-3, the Greenhouse Gas
+(hereinafter “GHG”) emissions of the organization
+
+reported in the 2019 Enel Sustainability Report and are in line with the GHG inventory descriptive document
+entitled "Quantificazione e rendicontazione delle emissioni di gas a effetto serra secondo lo standard
+corporativo ‘The Greenhouse Gas Protocol’ del anno 2019" ( hereinafter "the GHG Inventory Report”) issued
+in April 2020 by ENEL SpA using a financial control consolidation approach and relative to the direct and the
+indirect activities below reported carried out worldwide by the Group companies described in the
+aforementioned GHG Inventory Report.
+
+Based on our verification process procedures, DNV GL states that:
+
+- the aforementioned GHG Inventory Report has been issued by ENEL SpA in compliance with the revised
+edition of ‘The Greenhouse Gas Protocol” corporate standard. The report covers the reporting period from the
+1 January 2019 to 31 December 2019 with the following results (values rounded to tons):
+
+ 
+
+ 
+
+ 
+
+2019 2017
+GHGs (tons COz-ca) CO [ Cis | NO [Nia] Ste | Wics | TOTAl |BASIINT
+DIRECT EMISSIONS (SCOPEL 59,496,043, 39,081_ | 242,171 | _10_| 196,620. £96 59,981,902 | 105,961,618
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+ 
+
+         
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+From Flectsicity Power Generaltion 69,396,339 | 37.936 | 241905] — | 24.250 | S167] 09,717,677 | 105.720.512
+From Electricity Distribution 7318 9 a7_| — | 162299 170.273 | 150,668
+From Real Estate 89.757 4135 [170 z02__ [93.164 AE
+Frown Otte Activities = = — |e 706 787 0
+ENERGY INDIRECT EMISSIONS (SCOPE2)
+From wlectrcity purchased from the grid (location based) | 1547236 | _ — = |[=T= =| ere [srs
+[From electricity purchased from the grid (market based) | 2300688 | — = [=T= =| 2:300.688_ [2,194,024
+From losses on the distribution grid (retail market) 4.331.086 | — = {== = _ [4.331.846 [4.161.933
+From losses on the distribution grid (third parties) 2,023,110 | — =f[—-_L— =| 2.098.110 | 1.975.108
+rom losses on the transmission grid (retail market) 457.194 4g7.i4 | 368.363
+[OTHER INDIRECT EMISSIONS (SCOPE3) 53,565,785 _| 3,308,734 | 13,017 56,918,186 | 57,876,885
+[Cat.3 Fuol and Enorgy related activitios —_|aserat — [= | = = _| 3328.74 [5,902,568
+(Cat.4 Upstream transportation and distribution 691,500 = = f= T= = 691.500 _[_1.224.310
+[Cat.11 electricity sold in the retall market 7.975.364 | — me feel 7.975.968 | 25 460,118
+[Cat.11 natural gas sold in the retail market zasoe.e0 | 10.650 | 13017 | — | — =| 23,922,508 | 25.280.889
+TOTAL EMISSIONS (Location Based, T0427 214 [3.367.815 132,254,823 | 168,641,008
+TOTAL EMISSIONS (Markel Based) 129,180,666 | 3,367,815 | 255,188 | 10_| 196,620 | 7.976 | 133,008,275] 169,537,920
+
+ 
+
+- Scope 1 and Scope 2 emissions and Scope 3 emission associated to use of natural gas sold in the retail market
+provide, in DNV GL opinion and with the qualification listed in the annex of this Statement, a balanced
+representation of GHG emissions associated to the reported activities of the organisation in the reporting
+period.
+
+- with regards to the Scope 3 emissions not associated to use of natural gas sold in the retail market, nothing
+has come to our attention showing that what reported by the organization is not a balanced representation of
+GHG emissions associated to the reported activities carried out by third parties in the reporting period
+
+Place and date: For the issuing DNV GL office:
+Vimercate 8 April 2020 DNV GL - Business Assurance
+
+Zeno Beltrami
+Management Representative
+
+ 
+
+Lack of fulfilnaze with the conditions laid down in the certification contract may render this certificate not valid
+DNV GL Business Assurance Italia S.rl.~ Via Energy Park, 14~ 20871 Vimercate (MB) - Italy ~ Tel. 039.68 99 905 ~ wwvw.dnvglicom/it
+
+Methodological note 253
+

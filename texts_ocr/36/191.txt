@@ -1,0 +1,103 @@
+vate parties. The data is transmitted from the fast (Juice Pump)
+and quick (JuicePole and Pole Station) infrastructures equipped
+with an internal measuring device and from the connected Jui-
+ceBoxes installed at home.
+
+The calculation of CO, saved is a combination of the data on the
+distance travelled by 100% electric-powered vehicles (BEV) or
+plugin hybrids (PHEV) only using electricity and the calculation
+of the mean consumptions of vehicles from a recent official
+study by the Milan Polytechnic. The findings compare the kilo-
+metres that can be travelled with the average emissions from
+endothermic vehicles circulating in Italy published annually by
+ISPRA (the Italian Institute for Environmental Protection and
+Research) net of the CO, emitted to produce energy based
+on the national energy mix. To reinforce the algorithm, Enel
+X converted the amount of CO, saved from the environment
+into the number of trees that would have absorbed this same
+quantity of emissions over a year. The result is measured by the
+relationship between the quantity of CO, a tree absorbs (2019
+refinement to the 2006 IPCC guidelines for National Greenhou-
+se Gas inventories) and those of the saved emissions, thereby
+obtaining the number of equivalent trees which contribute to
+the “fourwheel forest” which every Enel X client creates by
+responsible behaviour towards their surrounding environment.
+This algorithm was developed in Italy, but was designed to be
+used in other countries taking into account the average CO,
+emissions of the vehicle fleet circulating in the territory (CO/
+km) and the emissions of the national energy mix (CO /kWh).
+The dashboard is available for users on the homepage of the
+Enel X website; the calculation of the CO, saved by each indivi-
+dual recharging session will soon be available on the JuicePass
+app and on the Recharge Manager portal, dedicated to busi-
+nesses and public services. Enel X will furthermore introduce
+a system for viewing the aggregated data related to the emis-
+sions saved also on the recharging displays of the JuicePole
+and JuicePump infrastructure. Thanks to recharges, 6,800 t of
+CO, have been saved — the equivalent of 379,000 trees
+
+Distribution
+
+In order to protect the countryside and the whole country,
+Global Infrastructure and Networks have adopted specific
+strategies to mitigate the environmental impacts of building
+activities related to new networks in addition to upgrades to
+existing networks.
+
+The cabling ratio is the relationship {in percentages) betwe-
+en the lengths of the cable lines and the total length of the li-
+
+190
+
+nes, showing immediately the mitigation of the environmen-
+tal impacts of the electric lines. The increase in this index
+over time is due to an increase in the length of overhead and
+underground cable lines, reducing the quota of bare conduc-
+tors; with benefits in terms of the resilience of the network,
+curtailing plant-cutting activities and a drastic reduction in the
+tisk of electrocution for birdlife.
+
+In 2019, the confirmed cable ratio was 60.1%, also due to
+the significant contribution of the Brazilian companies in Rio
+de Janeiro and Sao Paulo. This percentage is in line with the
+targets set for the next five years
+
+The reduction of network losses is guaranteed through inter
+ventions which also contribute to reducing CO, emissions.
+These actions focus on power plants, and aim, for example,
+to progressively reduce single-phase electric lines as well as
+the construction of new electric lines to lighten the load on
+the pre-existing ones in addition to the use of low-loss tran-
+sformers. Other actions include boosting the grid by using
+conductors with a greater cross-section and rephasing primary
+transformer. Finally, the realisation of new transformer cabins
+will help reduce the length of the low-voltage lines which are
+characterised by higher levels of loss. More broadly, optimising
+the network asset will allow a significant reduction of its losses.
+
+Fuel deposit and movement
+
+Storage tanks for liquid fuels (oil and gas with adjacent pi-
+pelines) and solid fuels (coal and lignite located at dedicated
+ports) are monitored in terms of resource usage, consump-
+tion of electrical energy, emissions (air quality), wastewaters
+and wastes.
+
+Sustainable construction sites
+
+From 2013 onwards, the Enel Group launched a report on the
+main environment performance indicators relating to con-
+struction sites activities. This category includes activities of
+various types and scales: from the distribution area's yards to
+sites pertaining to thermal plants or the construction of new
+renewable hydroelectric, wind, solar, geothermal or biomass
+plants. These activities are subject to significant variations over
+the years in terms of environmental issues directly managed
+by the Group. From 2016 onwards, reporting was developed
+and based on a new model of the sustainable construction
+site and on the principles of the circular economy which are
+
+Sustainability Report 2019
+
+CMe
+

@@ -1,0 +1,49 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+valuta estera sono valorizzate come segue:
+> le attivita e passivitd finanziarie monetarie sono convertite al tasso di
+cambio alla data di chiusura;
+>» le poste non monetarie valutate al costo storico sono convertite al
+tasso di cambio in essere alla data dell’operazione;
+> le poste attivita finanziarie non monetarie valutate al fair value sono
+convertite utilizzando i tassi di cambio in essere alla data di chiusura.
+Le differenze di cambio che derivano dal regolamento di elementi monetari o
+dalla conversione di elementi monetari a tassi diversi da quelli di conversione
+iniziali, o di conversione del bilancio precedente, sono rilevate nel conto
+economico del periodo in cui sorgono.
+Quando un utile o una perdita relativi ad un elemento non monetario sono
+rilevati a patrimonio netto, la differenza cambio relativa a tale elemento é
+rilevata anch’essa a patrimonio. Per contro, quando un utile o una perdita
+sono rilevati a conto economico, é rilevata in conto economico anche la
+relativa differenza cambio.
+
+15 - Attivita e passivita assicurative
+Contratti assicurativi
+
+| contratti assicurativi secondo IIFRS 4 sono quei contratti che trasferiscono
+significativi rischi assicurativi. Tali contratti possono anche trasferire rischi
+finanziari.
+
+Un rischio assicurativo é@ significativo se, e solo se, vi € una ragionevole
+possibilita che il verificarsi dell’evento assicurato causerd un significativo
+cambiamento nel valore attuale dei flussi di cassa netti dell’assicuratore. Tale
+limite é fissato per il Gruppo Mediolanum al 5%.
+
+Riserve tecniche del ramo Vita
+
+Le riserve tecniche rappresentano gli impegni contrattualmente assunti relativi
+
+ai contratti assicurativi e ai contratti di investimento con DPF, owero con
+partecipazione discrezionale agli utili (Discretionary Participation Features).
+
+Le riserve tecniche includono la componente il cui rischio non € carico degli
+assicurati (riserve prodotti tradizionali) e le riserve il cui rischio € supportato dagli
+assicurati (riserve linked).
+
+Le riserve tecniche tradizionali del ramo vita includono Ia riserva matematica,
+determinata analiticamente per ogni contratto, sulla base degli impegni puri €
+con riferimento alle assunzioni attuariali adottate per il calcolo dei relativi premi:
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 157
+

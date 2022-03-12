@@ -1,0 +1,71 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+cizi successivi a quelli in cui vengono imputati al conto economico, determinando un differimento della tassazione
+rispetto alla competenza economico-civilistica. In sostanza le differenze temporanee generano imposte passive in
+quanto esse determineranno un maggior carico fiscale in futuro.
+
+Le “passivita per imposte differite” sono rilevate per tutte le differenze temporanee imponibili ad eccezione delle
+riserve in sospensione d'imposta per le quali non é prevista la distribuzione ai soci.
+
+Lorigine della differenza tra il minor reddito fiscale rispetto a quello civilistico € dovuta a:
+* componenti positivi di reddito tassabili in esercizi successivi a quelli in cui sono stati iscritti in bilancio;
+
+* componenti negativi di reddito deducibili in esercizi antecedenti a quello in cui saranno iscritti in bilancio secon-
+do criteri civilistici.
+
+Le attivita e le passivita fiscali differite sono contabilizzate utilizzando il c.d. “balance sheet liability method” in base
+alle differenze temporanee risultanti tra il valore contabile di attivita e passivita nello stato patrimoniale ed il loro
+valore riconosciuto fiscalmente e sono valutate utilizzando le aliquote fiscali che, in base ad una legge gia approvata
+alla data del bilancio, saranno applicate nell’esercizio in cui l’attivita sara realizzata o la passivita sara estinta.
+
+Le imposte correnti e differite sono registrate a conto economico ad eccezione di quelle relative a transazioni che
+interessano direttamente il patrimonio netto quali ad esempio utili o perdite su attivita finanziarie disponibili per la
+vendita e variazioni del fair value di strumenti finanziari di copertura (cash flow hedges).
+
+Le passivita per imposte differite e le attivita per imposte anticipate non sono oggetto di attualizzazione come pre-
+visto dallo IAS 12 e neppure, di norma, tra loro compensate.
+
+Nel caso in cui le imposte anticipate superino nell’ammontare l'aggregato dei costi per imposte correnti e imposte
+differite si consegue un provento per imposte, classificato in bilancio ad aumento dell’utile ante imposte.
+
+Sezione 12 - Fondi per rischi ed oneri e fondo trattamento di fine rapporto
+Criteri di classificazione
+
+Nella voce fondi per rischi ed oneri sono inclusi i fondi di quiescenza e per obblighi simili (benefici di lungo termine
+successivi al rapporto di lavoro, trattati dallo IAS 19) e i fondi per rischi ed oneri (trattati dallo IAS 37). Il fondo tratta-
+mento di fine rapporto di lavoro subordinato é indicato a voce propria.
+
+Trattamento di fine rapporto e piani pensione a prestazione definita
+
+Il trattamento di fine rapporto, al pari dei piani pensione a prestazione definita, € una forma di retribuzione del per-
+sonale, a corresponsione differita, rinviata alla fine del rapporto di lavoro. Esso matura in proporzione alla durata del
+rapporto e costituisce un elemento aggiuntivo del costo del personale.
+
+Limporto del TFR e dei piani a prestazione definita é iscritto in bilancio sulla base del suo valore attuariale. Ai fini
+dell'attualizzazione, si utilizza il metodo della Proiezione unitaria del credito (c.d. Projected Unit Credit Method) che
+prevede, appunto, la proiezione degli esborsi futuri sulla base di analisi storiche statistiche e della curva demogra-
+fica e l'attualizzazione finanziaria di tali flussi sulla base di un tasso di interesse di mercato.
+
+| costi per il servizio del piano sono contabilizzati trai costi del personale come ammontare netto di contributi ver-
+sati, contributi di competenza di esercizi precedenti non ancora contabilizzati, ricavi attesi derivanti dalle attivita a
+servizio del piano. | profitti/perdite attuariali sono imputati ad apposita riserva di patrimonio netto. La variazione di
+tale riserva é indicata anche nel prospetto della redditivita complessiva.
+
+A seguito della riforma della previdenza complementare prevista dal D.Lgs. n. 252 del dicembre 2005 anticipata
+nell'applicazione dalla Legge n. 296 del 27 dicembre 2006, per le imprese con almeno 50 dipendenti le quote di
+TFR maturate sino al 31 dicembre 2006 restano in azienda mentre quelle maturande a partire dal 1° gennaio 2007
+sono state, a scelta del dipendente, destinate a forme di previdenza complementare ovvero trasferite al Fondo di
+Tesoreria dell’ INPS.
+
+Le quote di TFR maturate a tutto i] 31 dicembre 2006 anche successivamente all'introduzione della riforma, conti-
+nuano ad essere configurate come piani a benefici definiti cosi come previsto dallo IAS 19.
+
+Le quote di TFR maturande dal 1° gennaio 2007 configurano ai fini dello IAS 19 un piano a contribuzione definita e
+pertanto il loro ammontare non é assoggettato ad alcuna ipotesi attuariale.
+
+128
+
+ 
+

@@ -1,0 +1,99 @@
+PC Power Management - Italy
+
+Millions of hours downtime
+
+ 
+
+2017 36
+po
+
+2018 38
+SS
+
+2019 32
+Ess
+
+tCO, produced
+
+2017 439.8
+ee
+
+2018 330.4
+—zz_EE=~_
+
+2019
+ee
+
+ 
+
+Cyber security
+
+Digitalization opens new opportunities but also throws down
+new challenges in the security field. In the electrical sector
+in particular, service continuity is of critical importance, mak-
+ing it essential to be able to withstand cyber attacks. Indeed,
+a large-scale power outage could impact private citizens,
+businesses, institutions and essential services. Enel has
+adopted a systemic model that makes it possible to increase
+prevention and the ability to respond to possible attacks for
+all of its assets.
+
+Policies and management
+model
+
+In September 2016, the “Cyber Security” unit, headed by
+the Group Chief Information Security Officer (CISO), was set
+up within the Global Digital, reporting directly to the Chief
+Information Officer (ClO). The unit is engaged in guaran-
+teeing the operation, management, and control of cyber se-
+
+136
+
+In 2019, electricity consumption outside normal working
+hours? continued to be monitored. This is related to the IT
+workstations (desktops, laptops, monitors) of Enel people
+working in Italy. This measurement is possible thanks to
+a Microsoft® feature available on the workstations, which
+made it possible to identify when they were turned on and
+not used. Following the analysis, specific awareness actions
+were defined aimed at mitigating electricity consumption.
+While showing an increase in hours of inactivity, the new IT
+tools made available to Enel people have enabled a reduc-
+tion in emissions.
+
+[data source: Blue Jeans]
+
+2 Monday-Friday (from 7pm to 7am); Saturday and Sunday. The monitoring
+excluded servers and personal computers that must always remain on (for
+example, GESI application, Enel Points, Power Exchange, etc.). Specifically,
+the indicator represents the amount of CO, associated with the electricity
+consumption of desktops, laptops and monitors, to which the average CO,
+emission value is then applied per unit of electricity produced (gCO,/kWh)
+relative to the mix of sources in Italy.
+
+3 System Center Configuration Manager.
+
+curity issues, defining strategies, policies and guidelines in
+compliance with national and international legislation, and
+monitoring Group cyber security by means of process-based
+and technical checks.
+
+The unit operates in synergy with the Business Lines and
+with the technical units responsible for design and manage-
+ment of the systems, thanks to the “Cyber Security Risk
+Managers” and “Cyber Security Response Managers”. The
+CISO and Cyber Security Risk Managers also set up the
+“Cyber Risk Working Committee” with the aim of evaluat-
+ing IT risks horizontally in order to consolidate the approach
+to risk treatment and achieve the Group's risk posture. The
+“Cyber Security Risks Committee", chaired by Enel’s
+Chief Executive Officer and composed of his main front
+lines, approves the cyber security strategy and periodically
+checks the progress of its implementation. Each Group area
+department participates actively in implementing the cyber
+security strategy by means of an integrated operating plan
+
+Sustainability Report 2019
+
+enel
+

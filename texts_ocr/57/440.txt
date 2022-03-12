@@ -1,0 +1,77 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+In particolare, per i titoli classificati nel livello 2 viene applicato il “Discounted Cash Flow Analysis”, ossia l'attualizza-
+zione dei flussi di cassa futuri, scontati a un tasso di mercato che tenga comunque conto di tutti i fattori di rischio a
+cui é esposto lo strumento (a es. il rischio di controparte in capo all’emittente). Il presupposto di tale modello valuta-
+tivo € comunque quello di utilizzare esclusivamente input osservabili sul mercato. Il merito di credito dell’emittente
+é incorporato nella valutazione dei titoli di debito ed € ottenuto dalle curve di credit spread relative all’emittente
+stesso, laddove presenti, o in base a curve rappresentative del settore di appartenenza dell’emittente. Nel caso in
+cui nella determinazione del Fair value si tenga conto di almeno un input significativo non osservabile sul mercato,
+lo strumento verrebbe classificato nel Livello 3 del Fair value.
+
+Titoli obbligazionari emessi dal Gruppo
+
+| titoli obbligazionari emessi dal Gruppo non sono quotati in un mercato regolamentato, tuttavia gli stessi sono og-
+getto di scambio in una partizione del mercato secondario HI-MTF assegnata in via esclusiva al circuito degli scambi
+del Gruppo Banca Popolare di Bari (“internalizzatore non sistematico”).
+
+La determinazione del prezzo sul mercato secondario avviene applicando la metodologia del “Discounted Cash
+Flow” Tale metodologia comporta che il Fair value dei prestiti obbligazionari emessi dal Gruppo é determinato at-
+tualizzando i flussi di cassa futuri ad un tasso osservabile sul mercato, incrementato dello “spread effettivo di emis-
+sione’, al fine di garantire una valutazione maggiormente coerente con le transazioni del mercato non istituzionale
+al quale si riferiscono.
+
+Per la determinazione del Fair value dei prestiti obbligazionari emessi, sia essa per il calcolo del valore di iscrizione
+in bilancio (nel caso di prestiti obbligazionari in Fair value option) che per meri fini informativi (nel caso di prestiti ob-
+bligazionari iscritti al costo ammortizzato), si utilizza la stessa metodologia di pricing utilizzata per definire il prezzo
+di scambio degli stessi sul mercato secondario, in particolare si applica la metodologia del “Discounted Cash Flow”,
+rettificando il tasso di attualizzazione dello “spread effettivo di emissione”.
+
+LIVELLO 3 - Metodi
+
+   
+
+ji valutazione basati su parametri di mercato non osservabili
+
+Sono classificati nel livello 3 tutti gli strumenti finanziari non quotati in un mercato attivo, per i quali la determina-
+zione del relativo Fair value viene effettuata facendo ricorso a modelli valutativi che presuppongono Iutilizzo di
+parametri non direttamente osservabili sul mercato.
+
+Lutilizzo di input non osservabili é richiesto nella misura in cui gli input osservabili rilevanti non siano disponibili, per-
+tanto gli stessi riflettono le assunzioni, incluse quelle relative al rischio, che gli operatori di mercato utilizzerebbero
+nel determinare il prezzo dell'attivita o passivita. La valutazione viene effettuata utilizzando le migliori informazioni
+disponibili, inclusi i dati interni.
+
+Le valutazioni delle attivita e passivita appartenenti al livello 3 sono generalmente condotte utilizzando metodologie
+valutative del tutto analoghe a quelle utilizzate per gli strumenti di livello 2; la differenza risiede nella presenza di
+parametri di input utilizzati nel modello di pricing che non risultano osservabili.
+
+Si riportano di seguito gli strumenti classificati nel livello 3:
+
++ titoli di debito. Trattasi di strumenti finanziari complessi che, ove detenuti dal Gruppo, non assumono una in-
+cidenza significativa sul portafoglio complessivo. Per la determinazione del Fair value viene utilizzato i] prezzo
+comunicato direttamente dall'emittente;
+
++  titoli di capitale non quotati. Si tratta essenzialmente di quote partecipative di minoranza in societa finanziarie e
+non finanziarie non quotate. Tali strumenti sono valutati utilizzando modelli valutativi quali i) il metodo delle “tran-
+sazioni dirette”, in caso di transazioni significative sullo stesso titolo o su titoli similari osservate in un congruo
+arco temporale rispetto alla data di valutazione, ii) il metodo dei “multipli di borsa e di transazioni comparabili” e
+ii) i metodi di valutazione finanziari, reddituali (quali ad es. il Discount Cash Flow, l'income approach, ecc.) e pa-
+trimoniali. Qualora dall’applicazione delle metodologie valutative sopra descritte non fosse desumibile in modo
+attendibile il Fair value, si fa riferimento alla pertinente frazione di patrimonio netto sulla base dell’ultimo bilancio
+d'esercizio approvato della partecipata (cd. book value). In mancanza di informazioni utili per l'applicazione di uno
+dei predetti modelli valutativi, il titolo di capitale é rilevato al costo di acquisto, ai sensi del par. AG81 dello IAS 39;
+
+* quote di fondi di investimento O./.C.R. di tipo “chiuso”. Si tratta di fondi chiusi, non classificabili nei livelli 1 e 2, che,
+conformemente alle strategie d’investimento del Gruppo, sono destinati ad un investimento di medio-lungo pe-
+riodo e il loro smobilizzo avviene normalmente in caso di rimborso, totale o parziale, delle quote deciso da parte
+della societa di gestione del risparmio (SGR) a seguito del realizzo degli investimenti del fondo. II Fair value di tali
+strumenti viene determinato sulla base dell'ultimo aggiornamento disponibile del NAV comunicato dalla SGR. |
+fondi di investimento immobiliari sono valutati applicando un correttivo (cd. adjustment) al NAV, che prende in
+
+440
+
+ 
+

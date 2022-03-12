@@ -1,0 +1,115 @@
+6.3 MONITORING THE IMPACTS OF CLIMATE CHANGE.
+AN ONGOING COMMITMENT
+
+Since 2015, Fastweb has monitored
+its greenhouse gas emissions by
+calculating its carbon footprint. Using
+this methodology, the company can
+record its greenhouse gas emissions
+each year according to international guidelines, i-e.,
+the “Corporate Accounting and Reporting Standard" of
+the Global Greenhouse Gas Protocol (the international
+standard for climate-changing emission monitoring)
+and the “Pilot Testing on Methodologies for Ener
+Consumption and Carbon Footprint for ICT-sector"
+developed by the European Commission.
+
+RP
+
+@&
+
+ 
+
+ 
+
+ 
+
+ 
+
+This model considers all the impacts of the offices,
+network infrastructure, Fastweb-owned stores and
+
+Greenhouse gas emissions (tCO,eq)
+Direct (Scope 1)
+Indirect (Scope 2)
+
+Other indirect emissions (Scope 3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total
+100.0%
+80.0%
+60.0%
+40.0% 92.8% 97.2% 98.0%
+20.0%
+3.8%
+O08 Bdrm 2.8% 2.0%
+2016 2017 2018
+™ Direct, Indirect Other indirect
+emissions emissions emissions
+(Scope 1) (Scope 2) (Scope 3)
+
+The survey showed that Fastweb's emissions increased
+by roughly 39% from 2017 to 2018. This was mainly
+
+franchised stores, the supply chain, distribution and
+retrieval of equipment, customers’ use of services and
+product end-of-life*’, assessing:
+
+1. Direct emissions due to Fastweb's and its subsidiaries’
+activities (such as the use of fuel for heating/cooling
+and use of company cars and car sharing) - Scope 1;
+
+2. Indirect emissions due to the acquisition of
+electricity - Scope 2;
+
+3. Other indirect emissions arising from company
+activities but from greenhouse gas sources that
+are not proprietary or are controlled by another
+organization - Scope 3.
+
+yAUi I) 2017 yA}
+6,405 4,884 4,943
+7,087 0 0
+174,434 172,691 241,170
+187,926 177,575 246,113
+
+due to the sharp growth in the acquisition of optical
+fiber, which, although it is necessary to expand the
+network and digitalize the country, generates an impact
+in terms of greater emissions in production.
+
+A detailed analysis of the individual contributions
+reveals that direct emissions (Scope 1) increased from
+4,877 tons of CO, equivalents to 4,943 tons of CO,
+equivalents, with a slight increase in fuel consumption
+for the use of company cars and car sharing.
+
+In 2017, Fastweb changed its calculation methodology
+for Scope 2 emissions to align with the parent company
+Swisscom's*: the value of Scope 2 emissions was zero
+in both 2017 and 2018, since 100% of the electricity
+that the company acquires directly is produced by
+renewable sources. Scope 2 emissions would still be
+calculated as zero applying the same calculation model
+to the consumption recorded in 2016.
+
+If Fastweb had acquired electricity from non-renewable
+sources, its emissions from energy consumption
+
+35.The map of impacts excludes multi-brand stores only, and their contribution is, in any case, negligible,
+36. Electricity consumption not acquired directly but through the lease of spaces was considered within Scope 3 emissions
+
+88 Responsibility and environmental sustainability
+

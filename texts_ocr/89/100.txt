@@ -1,0 +1,55 @@
+ 
+
+In the area of personal data protection, in the course of FY 2018, the Mediobanca Group has
+continued to consolidate the necessary activities, to comply with the provisions of the GDPR. In
+particular, Mediobanca and its Group companies have:
+
+© Consolidated dialogue with the central Group Data Protection unit and Group Data Protection
+Officer;
+
+© Enhanced the security profiles for IT applications through data masking and encryption;
+© Negotiated agreements on personal data protection with new data processors;
+
+© Drawn up internal procedures and guidelines on: (i) personal data management for prospective
+clients, (ii) management of data privacy requirements in relation to suppliers for the Group and
+for individual companies, (iii) erasure of data; and (iv) profiling for marketing purposes;
+
+© Continued with implementation of activities to meet data retention requirements;
+© Promoted and enhanced privacy by design activities within the Group.
+
+All Mediobanca Group companies with the exception of those in cluster 3 and Messier & Maris
+Associés, run a course on data privacy for their staff members.
+
+With reference to personal data protection, during the year under review a total of 520 complaints
+were received by customers of CheBanca!, Compass Banca, Futuro and MBCredit Solutions, and
+a further seven directly from the Italian personal data protection authority pursuant to Article 77
+of GDPR; with regard to the latter, in four out of the seven cases the authority found insufficient
+evidence of personal data breaches to justify action being taken, whereas in the other three, the
+authority's findings are still pending.
+
+During FY 2019-20, the Group recorded six personal data breaches. Only one of these breaches was
+sufficiently serious to warrant notification being sent to the Italian authority and the data subjects
+being informed.
+
+In the issue of Data Security, in recent years the Group has consistently enhanced its strategy in
+order to guarantee the confidentiality, integrity and availability of its information.
+
+Against this backdrop, protection in exchanges of and access to data is ensured through the
+adoption of secure communication protocols, and certificates issued by the relevant authorities
+(Global Trust Certification Authority), and where necessary access to data is possible only with strong
+authentication.
+
+Security checks and IT risk analysis activities are performed on an ongoing basis, to ensure adequate
+organizational and technological controls are in place across the entire Group scope of operations.
+The Group is committed to increasing its ability to identify threats, by means of an ongoing process
+to improve its control system and implement cyber intelligence solutions and services.
+
+Since GDPR came into force, all Mediobanca Group staff members are assigned a training course
+on the subject, which includes a final assessment test.
+
+The Group Data Protection unit regularly holds training sessions and briefings with the Compliance
+units of the Italian Group companies on specific topics (e.g. data retention, DPIA, complaints to
+the authority, data breach, balancing of interests, data privacy risk analysis, etc.). The unit has
+
+101
+

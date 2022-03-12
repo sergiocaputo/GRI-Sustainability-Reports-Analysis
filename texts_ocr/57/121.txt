@@ -1,0 +1,76 @@
+Bilancio Individuale 2017
+
+ 
+
+durata non vengono attualizzati. La rettifica di valore é iscritta a conto economico. La componente della rettifica
+riconducibile all'attualizzazione dei flussi finanziari viene rilasciata per competenza secondo il meccanismo del tasso
+di interesse effettivo. || valore originario dei crediti viene ripristinato negli esercizi successivi nella misura in cui ven-
+gano meno i motivi che ne hanno determinato la rettifica purché tale valutazione sia oggettivamente collegabile ad
+un evento verificatosi successivamente alla rettifica stessa.
+
+La ripresa di valore é iscritta nel conto economico e non pud in ogni caso superare i] costo ammortizzato che il cre-
+dito avrebbe avuto in assenza di precedenti rettifiche.
+
+| crediti per i quali non sono state individuate singolarmente evidenze oggettive di perdita e cioé, di norma, i crediti
+in bonis, sono sottoposti alla valutazione di una perdita di valore collettiva.
+
+Le rettifiche di valore determinate collettivamente sono imputate nel conto economico. Analoga metodologia €
+utilizzata per la determinazione delle svalutazioni analitiche a fronte delle garanzie rilasciate. Le passivita risultanti
+dal processo valutativo sono iscritte nella voce “Altre passivita”.
+
+La determinazione delle svalutazioni collettive sui crediti in bonis viene eseguita sfruttando le maggiori sinergie
+possibili con l'approccio previsto ai fini di Vigilanza dalle disposizioni di “Basilea”.
+
+In tale ottica la Banca, ai fini del calcolo della svalutazione collettiva, ha scelto di utilizzare un modello caratterizzato
+dalle seguenti fasi:
+
+a) Creazione di portafogli omogenei per profili di rischio.
+
+La segmentazione dei crediti performing prevede la creazione di gruppi omogenei in relazione alle loro caratteristi-
+che di rischio. Ai fini del calcolo del fondo collettivo viene mutuata la segmentazione con cui é suddivisa la clientela
+per l'attribuzione del rating. Nello specifico sono previste le seguenti classi: Privati, Small Business, Piccole e Medie
+Imprese, Large Corporate, Immobiliari, Banche e |stituzioni finanziarie, Enti.
+
+b) Individuazione della “probabilita di default” (PD) e della “Loss given default” (LGD)
+
+Il modello in uso, come citato in precedenza, identifica i gruppi omogenei di crediti sulla base del proprio contenuto
+di rischio e associa ad essi una previsione di perdita stimata sulla base dei seguenti parametri: Probability of Default
+(“PD”) e Loss Given Default (“LGD”). In particolare, la PD é stimata utilizzando l'approccio cosiddetto “historical defau-
+It experience”, ovvero osservando il tasso di default empirico verificatosi sul portafoglio crediti: per ognuna delle 10
+classi di rating viene conteggiato il numero di default avvenuto sull’orizzonte di performance annuale (default entro
+12 mesi). Il tasso di default € quindi pari al rapporto fra il numero di default verificatisi e il totale dei clienti in bonis
+all'inizio del periodo osservato. La valutazione delle PD é effettuata per le classi gestionali Privati, Small Business e
+per un macrosegmento che accorpa PMI, Large Corporate e Immobiliari.
+
+La definizione di default utilizzata ai fini della stima include le controparti classificate scadute e/o sconfinate, unlikely
+to pay (owero le inadempienze probabili) e sofferenze.
+
+Per i segmenti Banche/Istituti finanziari ed Enti, le probabilita di default sono quantificate ricorrendo ai dati pubbli-
+cati annualmente dalle maggiori Agenzie di Rating. Lorizzonte temporale di un anno utilizzato per la determinazione
+della probabilita di default si ritiene possa approssimare, in via prudenziale, la nozione di “incurred loss”, ovvero di
+perdita fondata su eventi attuali, ma non ancora acquisiti dall'impresa nella revisione del grado di rischio dello spe-
+cifico cliente, prevista dagli IAS/IFRS (loss confirmation period fissato prudenzialmente pari a 1).
+
+La Loss Given Default, per le controparti in sofferenza, rappresenta il complemento del tasso di recupero storico
+di lungo periodo ottenuto sulla base di dati interni. || parametro di LGD viene riproporzionato, tramite il “cure rate”,
+che é un fattore di mitigazione che tiene conto della percentuale di posizioni che rientrano in bonis e che quindi non
+generano perdite. In dettaglio si sottolinea che:
+
++ il parametro LGD é stimato sulla base di dati interni che coprono un orizzonte temporale funzionale a cogliere le
+“current economic conditions”;
+
++ ivalori di LGD da applicare nel calcolo de! fondo collettivo sono ottenuti con il metodo “a media di cella’, ossia
+come media semplice delle LGD individuali a livello di segmento, forma tecnica e tipologia di garanzia;
+
++ ilparametro Danger Rate’ é stimato su dati interni e su un orizzonte temporale coerente con quanto previsto per
+la stima del parametro di PD.
+
+Come evidenziato in precedenza, quindi, le PD e le LGD sono stimate tenendo conto di serie storiche, fondate su
+
+2 Il Danger Rate @ un parametro che misura la probabilita che un’esposizione deteriorata peggiori il suo merito creditizio fino
+allo status di sofferenza.
+
+ 
+
+121
+

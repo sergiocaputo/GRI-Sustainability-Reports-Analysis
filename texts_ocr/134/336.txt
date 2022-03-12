@@ -1,0 +1,106 @@
+33. Financial instruments and risk management
+
+Classes of financial instruments
+
+The Group’s financial instruments are broken down by class in the following table, which also shows their fair
+
+value:
+
+31 December 2018
+Note Financial —_ Financial
+
+assets at assets at fair
+amortised value
+cost through
+
+profit or loss
+
+(€'000)
+
+Financial assets
+
+ 
+
+Derivatives and non-current financial assets 12 235,692
+
+ 
+
+ 
+
+ 
+
+Trade receivables 16 1,930,639
+Other current financial assets 17 135,881
+Cash and cash equivalents 20 1,107,340
+Total 3,409,552
+
+Hedging
+
+derivatives
+
+Financial
+assets at
+fair value
+through
+profit or loss
+
+Total
+
+235,692)
+1,930,639)
+
+135,881
+1,107,340)
+
+ 
+
+Fair value
+
+235,692
+1,930,639
+
+135,881
+1,107,340
+
+3,409,552) 3,409,552
+
+ 
+
+31 December 2018
+
+ 
+
+ 
+
+Note Other — Financial Hedging Financial Total Fair value
+liabilities at liabilities at derivatives liabilities at
+amortised _ fair value fair value
+cost through through
+profit or loss profit or loss
+(€000)
+Financial liabilities
+Bank and other loans and borrowings 23 1,117,257 1,117,257 1,120,438
+
+ 
+
+Derivatives and other current financial
+
+liabilities...
+Trade payables 30 2,385,610
+Total 4,703,056
+
+ 
+
+2,385,610)
+
+4,703,056)
+
+ 
+
+2,385,610
+4,443,784
+
+ 
+
+337
+

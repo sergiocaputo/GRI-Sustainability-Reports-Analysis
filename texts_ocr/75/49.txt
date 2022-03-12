@@ -1,0 +1,54 @@
+50
+
+Governance and management of risks 102-11; 102-29; 201-2
+
+With reference to direct impacts, Intesa Sanpaolo is committed to analysing and containing possible risks on its
+properties.
+
+The Risk Assessment Document evaluating risks to workers’ health and safety (Italian Legislative Decree
+81/2008) also includes, for example, the assessment of the hydrogeological risk due to flooding and landslides.
+A hydrogeological risk assessment of buildings is conducted as a preventive measure in relation to local risk and
+building vulnerability, and also subsequent to an external event with a view to maintaining the practical features of
+the buildings involved. Based on the provisions of the Italian Institute for Environmental Protection and Research
+(ISPRA, Istituto Superiore per la Protezione e la Ricerca Ambientale), which divides the territory into 5 hazard
+classes (very high P4, high P3, medium P2, moderate P1 and attention areas AA), more than 1,000 Intesa Sanpaolo
+buildings in Italy are subject to landslide and flood risk. For the Bank’s assessment of flooding, the benchmark is
+based on the level of danger associated with a floodable area, and depends on the probability that the area can
+be flooded. With regard to landslides, on the other hand, the benchmark is also based on the level of danger (from
+P1 to P4) associated with an area subject to landslides, but depends on the relationship between the probability
+of occurrence of the event and its magnitude taking into account both the speed of the landslide’s movement and
+the extent of its spread over the area. These assessments enable the Intesa Sanpaolo Group in Italy to implement
+actions that take account of the effects of critical events linked to natural phenomena attributable to climate change,
+allowing for the management of different potential risk scenarios, through the implementation of specific Emergency
+Plans, in order to mitigate and reduce possible damage, particularly to workers and third parties.
+
+In addition, in order to improve the intervention and mitigation of hydrogeological risk, a pilot project was recently
+launched to define a vulnerability index for the Bank's properties. This index is useful for defining priority criteria
+for intervention or in-depth analysis when emergency situations occur. Based on the results of the pilot project,
+possible intervention measures to make the buildings safe will then be identified in order to prevent the occurrence
+of potential risk situations.
+
+In general, with regard to all direct risks related to climate change and to the occurrence of crisis events in Italy,
+the adopted model calls for the activation of CEM (Critical Events Management) at the first alert of bad weather.
+CEM guarantees the continuous and precise monitoring of the situation and supports the overall coordination of the
+actions agreed to by the territorial structures, in constant connection with the relevant central structures.
+
+In the case of very serious calamitous events, the EMOC (Emergency Management Operations Centre) of the
+Business Continuity Management Department is also activated, which monitors the situation, assesses the
+temporary closure of buildings and initiates any other actions.
+
+In order to guarantee operational continuity in the areas most affected by bad weather, the local and central
+structures’ crisis contacts are also activated for the timely reporting of critical issues, with particular reference to
+delays in the transport of valuables and correspondence, staff difficulties in reaching the workplace and difficulties
+of the branches with operations and systems.
+
+Finally, with regard to the Environmental and Energy Management System according to the UNI EN ISO 14001:2015
+standard, the Background Analysis has been updated to shed light on the needs and expectations of all stakeholders
+involved in applying the System, and on the specific associated risks. The update identified four categories of risks
+(economic/financial, management, application/operational and reputational/ethical/social).
+
+In general, a “low” level of risk is considered acceptable, whereas for “medium” and “high” level risks, corrective
+actions are foreseen within six months and one month respectively, followed by monitoring of their progress. Among
+the risks identified and monitored as part of the Context Analysis, the risks associated with failure to comply with
+mandatory environmental regulations are also considered.
+

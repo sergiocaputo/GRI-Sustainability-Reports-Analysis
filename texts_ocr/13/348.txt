@@ -1,0 +1,50 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+Rischio Tasso d’Interesse
+. Rischio Azionario
+. Rischio Valutario
+. Rischio immobiliare
+. Rischio Spread
+. Rischio di Concentrazione di mercato
+. Rischio di Liquidita
+. Rischio di credito e controparte
+. Rischio insolvenza controparti riassicurative.
+
+OONDAULF WN
+
+Rischio di tasso di interesse
+
+ll rischio di tasso esiste per tutte le attivita e le passivita il cui valore é
+“sensibile” ai cambiamenti nella struttura a termine dei tassi d'interesse o
+della volatilita dei tassi d’interesse. Questo vale per le strutture a termine
+sia reali sia nominali. Le attivita sensibili ai movimenti dei tassi d’interesse
+comprendono investimenti a reddito fisso (fixed-income), strumenti di
+finanziamento (ad esempio prestiti), presiti su polizze, derivati su tassi
+d'interesse ed eventuali attivita d’assicurazione.
+
+La valutazione dell’esposizione verso tale rischio mostra in corso d’'anno
+un impatto medio sia in termini di requisito di capitale regolamentare che
+di copertura dello stesso.
+
+Mediolanum Vita ha, inoltre, effettuato una simulazione sullimpatto di
+una riduzione di -lOObps sulla curva dei rendimenti prevedibili per il
+calcolo della riserva per garanzia del tasso d’interesse.
+
+Al 31 dicembre 201 questa variazione pud generare una perdita
+economica pari a circa 2.6 milioni di euro.
+
+Rischio azionario
+
+ll rischio azionario deriva dal livello o dalla volatilita dei prezzi di mercato per
+i titoli azionari. Lesposizione al rischio azionario si riferisce a tutte le attivita
+
+é le passivita il cui valore sia sensibile alle variazioni dei prezzi azionari. Tale
+rischio rappresenta il principale contributo al profilo di rischio del Gruppo
+Assicurativo Mediolanum in considerazione dell’elevata esposizione degli
+asset a copertura dei prodotti unit linked verso il mercato equity. Nel 2018
+l'impatto per l'allocazione del capitale regolamentare a copertura del rischio
+azionario risulta essere elevato.
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018
+

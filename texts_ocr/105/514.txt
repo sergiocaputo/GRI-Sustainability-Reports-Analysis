@@ -1,0 +1,76 @@
+€ Indice generale | — [ieee ht | Se
+
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte E
+
+Rischio di tasso di interesse sui flussi finanziari
+
+AI 31 dicembre 2016 e al 31 dicembre 2017, la sensitivity al rischio di tasso di interesse sui flussi finanziari prodotta dagli stru-
+menti interessati é riassunta nella tabella qui di seguito, calcolata ipotizzando uno shift parallelo della curva dei tassi di mercato
+di +/- 100 bps.
+
+Rischio di tasso di interesse sui flussi finanziari
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2017 2016
+Esposizione -Marginedi Esposizione Margine di
+a rischio intermediazione a rischio intermediazione
+
+(milioni di euro) “100bps —-100 bps 100bps -100 bps
+Cassa
+
+- Conto di gestione presso Banca d'ltalia 223 2 (2)
+Crediti verso banche 1.230 12 (12)
+Crediti verso clientela
+
+- Crediti verso Tesoreria MEF 6.189 62 (62)
+
+- Deposito presso il MEF (Buffer) 1.310 13 (13)
+
+- Crediti verso clientela (collateral a garanzia) 209 2 (2)
+
+- Crediti verso clientela (Patrimonio non destinato) 629 6 (6)
+Attivita finanziarie disponibili per la vendita
+
+- Titoli di debito 2.235 22 (22)
+Debiti verso banche (82) - -
+Debiti verso clientela - - -
+Debiti verso clientela (Patrimonio non destinato) (14) - -
+Totale variabilita 11.979 119 (119)
+
+ 
+
+Al 31 dicembre 2017, il rischio in commento é ascrivibile prevalentemente all’attivita di impiego presso il MEF della liquidita
+proveniente dalla raccolta su conti correnti postali della Pubblica Amministrazione.
+
+Rischio di tasso di inflazione sui flussi finanziari
+AI 31 dicembre 2017 il rischio in commento riguarda i Titoli di Stato indicizzati all’inflazione che non sono stati oggetto di coper-
+
+tura di cash flow heage o fair value hedge, detenuti dal Patrimonio BancoPosta per un nominale di 2.145 milioni di euro e un
+fair value di 2.594 milioni di euro; gli effetti dell’analisi di sensitivita sono trascurabili.
+
+513
+

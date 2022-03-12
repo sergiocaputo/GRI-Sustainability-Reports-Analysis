@@ -1,0 +1,178 @@
+Schemi del Bilancio Consolidato
+
+RENDICONTO FINANZIARIO CONSOLIDATO - (Modello indiretto)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Importo
+31/12/2017 | 31/12/2016
+A. ATTIVITA’ OPERATIVA
+1. Gestione 85.808 74.063
+= risultato d'esercizio (+/-) 1.050 5.244
+~ plus/minusvalenze su attivita finanziarie detenute per la negoziazione e su (60 ry
+attivita/passivita valutate al fair value (+/-)
+~ plus/minusvalenze su attivita di copertura (-/+) 63) 16
+= rettifiche/riprese di valore nette per deterioramento (+/-) 87.050 94.934
+= rettifiche/riprese di valore nette su immobilizzazioni materiali e immateriali (+/-) 33.581 14.614
+= accantonamenti netti ai fondi rischi ed oneri ed altri costi/ricavi (+/-) (8.259) (7879)
+~ imposte, tasse e crediti d'imposta non liquidati (+77) (10.422) (87.032)
+~ altri aggiustamenti (+/-) (21.233) 2.780
+2. Liquidita generata/assorbita dalle attivita finanziarie (953.823) 1.163.331
+~ attivita finanziarie detenute per la negoziazione 6.199 (2.731)
+~ attivita finanziarie disponibili per la vendita 1.305.246 769.958
+ crediti verso banche: a vista (1.810.769) 31.187
+~ crediti verso banche: altri crediti 4.446 90.952
+- crediti verso clientela (486.529) (76.452)
+~ altre attivita 27.584 350.417
+3. Liquidita generata/assorbita dalle passivita finanziarie 848.437 (1.233.730)
+= debiti verso banche: a vista 897.635 170.354
+= debiti verso banche: altri debiti 2.873 31.101
+= debiti verso clientela (770.642) (604.056)
+= titoli in circolazione 760.180 (477.475)
+ passivita finanziarie di negoziazione (638) (243)
+~ passivita finanziarie valutate al fair value (1.067) (25.472)
+~ altre passivita (40.004) (427.939)
+Liquidita netta generata/assorbita dall'attivita operativa (19.578) 3.664
+B. ATTIVITA’ DI INVESTIMENTO
+1. Liquidita generata da 1.686.579 201
+- vendite di partecipazioni 17.660 J
+= vendite di attivita finanziarie detenute sino alla scadenza 1.668.667 -
+ vendite di attivita materiali 252 201
+2. Liquidita assorbita da (1.669.382) (7.903)
+= acquisti di partecipazioni (30) A
+~ acquisti di attivita finanziarie detenute sino alla scadenza (1.665.507) z
+~ acquisti di attivita materiali (2.636) 6.732)
+mmateriali (1.209) (171)
+Liquidita netta generata/assorbita dall'attivita d'investimento 17.197 (7.702)
+ATTIVITA' DI PROWISTA i
+- emissioni/acquisti di azioni proprie 5 25.015
+Liquidita neta generata/assorbita dall'attivita di provvista : 25.015
+LIQUIDITA' NETTA GENERATA / ASSORBITA NELL'ESERCIZIO 2.381) 20.977
+LEGENDA:
+@ generata
+()assorbita,
+RICONCILIAZIONE (importi in euro)
+Importo
+Voei di bilancio 31/12/2017 31/12/2016
+Cassa e disponibilita liquide all'inizio dell'esercizio 112.304 91.327
+Liquidita totale netta generata/assorbita nell'esercizio (2.381) 20.977
+Cassa e disponibilita liquide alla chiusura dell'esercizio 109.923 112.304
+
+ 
+
+ 
+
+392
+
+ 
+
+ 
+

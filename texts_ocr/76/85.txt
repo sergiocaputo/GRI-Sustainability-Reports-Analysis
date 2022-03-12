@@ -1,0 +1,133 @@
+i
+
+cliente, o l’attivazione dell'allarme per gli impianti telecontrollati, e
+l'arrivo del personale nel sito di intervento.
+
+Tempo di arrivo medio sul luogo di chiamata di aa
+
+ 
+
+pronto intervento (minuti)
+
+Torino (2) 75
+Parma (2) 74
+Vercelli (3) 40
+
+() | dati sono stimati. Sono oggetto di verifica e subordinati alla consegna ad
+ARERA il 31/03/2018 per l'esercizio 2017.
+
+®) Il dato @ calcolato considerando la differenza tra l'istante di ricezione della
+chiamata e l'istante di inizio dell’intervento.
+
+® Il valore @ calcolato considerato il tempo rilevato tra l'orario di chiamata
+dell'utente e l'orario di arrivo in sede dei tecnici a cui sono aggiunti 30 minuti, in
+considerazione dell’estensione del territorio comunale.
+
+Il Gruppo Iren, nell'ambito delle procedure di controllo creditizio,
+monitora le disconnessioni di rete ai clienti a causa del mancato
+pagamento delle fatture, tuttavia ritiene opportuno non indicare
+tale numero, considerandolo un dato sensibile.
+
+L’ammodernamento del parco nazionale degli impianti di
+produzione di energia elettrica e il forte incremento della
+generazione diffusa, insieme al piano di rinnovo delle reti, hanno
+
+prodotto un sistema pit efficiente, con un conseguente trend in
+diminuzione delle perdite di rete. ARERA fissa convenzionalmente
+le perdite standard, definendo un valore percentuale sull’energia
+prelevata in funzione della tensione, con l’obiettivo di incentivare
+la riduzione delle perdite in rete, mettendo a confronto le perdite
+standard e le perdite effettive.
+
+Perdite di rete energiaelettrica() 2017 2016 Ea
+
+Gruppo Iren 3,91% 465% 587%
+Media nazionale 6.70% 6,70%  7,24%
+
+(La media nazionale é lultima disponibile da Bilancio energia elettrica GSE.
+
+RETE DI DISTRIBUZIONE ENERGIA ELETTRICA
+
+Il Gruppo Iren gestisce gli impianti della rete di distribuzione
+dell’energia elettrica nel Comune di Parma, nella Citta di Torino —
+oltre a porzioni di rete in alcuni comuni dell’area metropolitana,
+della Valle Orco e della Valle Dora - e nella Citta di Vercelli.
+
+La consistenza degli impianti di proprieta del Gruppo al 31
+dicembre 2017 é sintetizzata nella tabella seguente:
+
+ 
+
+2017
+CS sent l Li ULE: AA LON 1K 2-21
+Stazione AT/MT n. 5 9 1
+Linee AT km - 22 11
+Trasformatori AT/MT n. 13 21 2
+Potenza di trasformazione
+ATIMT MVA 605 1.353 50
+Cavi MT km 609 2001 135
+Linee aeree MT km 271 17 54
+Cabine primarie MT/MT n. - 21 2
+Cabine secondarie MT/BT n. 1.131 3.386 201
+Cabine di consegna MT n. 147 297 47
+Cabine di conversione per
+alimentazione tramvie " . ig .
+Trasformajon canine n 1379 «3.172298
+Potenza di trasformazione
+installata MT/BT Ae cod ce a
+Cavi BT km 1.001 2.231 251
+Linee aeree BT km 601 372 78
+Concentratori di cabina (LVC) n. 1.362 3.232 223
+Contatori elettronici n. 135.765 583.888 31.276
+
+( Dato rettificato per errore materiale
+
+Le attivita svolte sugli impianti possono essere indotte dai clienti o
+di iniziativa interna e vengono realizzate sia con personale interno
+sia con imprese esterne. Le attivita richieste dai clienti devono
+rispettare gli standard di qualita definiti da ARERA; il cliente é
+tenuto a versare dei corrispettivi che, a seconda del tipo di
+intervento, sono regolati oppure sono fissati da un preventivo che
+deve essere accettato dal cliente per la successiva sottoscrizione
+del contratto di somministrazione di energia elettrica. | lavori di
+iniziativa interna sono costituiti prevalentemente da investimenti di
+potenziamento degli impianti, miglioramento della qualita del
+servizio, adeguamento alla normativa di sicurezza e ambiente o
+
+86 Bilancio di Sostenibilita 2017
+
+PAT) 2015
+
+Ei Re) LO 102) || aL Ce UCL
+5 9 1 5 9 na.
+- 22 8,7 (1) - 22 na.
+13 21 2 12 22 na.
+605 1.353 50 565 1.224 n.a.
+§93 1.984 161 644 2.170 na.
+274 18 §2 220 33 na.
+- 21 2 - 21 na.
+1.129 2.945 199 1.126 3.206 na.
+142 303 46 140 348 na.
+- 18 - - 18 na.
+1.378 3.260 295 1.327 3.436 na.
+359 1.071 60 355 1.109 n.a.
+990 2.242 250 1.528 2.493 na.
+604 360 78 53 392 n.a.
+1.362 3.266 221 1.343 3.565 na.
+134.174 607.319 31.252 132.953 607.319 na.
+
+innovazione tecnologica, oltre che da attivita di esercizio e
+manutenzione impianti, ispezione cabine, pronto intervento e
+tiparazione guasti. Le strategie di manutenzione prevedono:
+
+e — per le cabine elettriche, l'ispezione ogni tre anni per Parma,
+ogni due anni per Torino e ogni anno per Vercelli. Nel 2017
+sono state ispezionate 2.698 delle 5.250 cabine totali, pari al
+51,4%.
+
+per le linee aeree in media tensione, il controllo visivo ogni
+tre anni per Parma, ogni quattro mesi per Torino e una volta
+all’anno per Vercelli. La rete aerea del Gruppo Iren é di 1.413
+
+km e nel 2017 ne é stata ispezionata circa il 19%.
+

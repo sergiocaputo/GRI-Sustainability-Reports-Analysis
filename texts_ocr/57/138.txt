@@ -1,0 +1,79 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+Nei casi in cui non risulta possibile stimare ragionevolmente il Fair value, gli strumenti finanziari sono mantenuti al
+costo di acquisto originario, in base a quanto previsto dallo IAS 39, paragrafo AG81.
+
+A.4.1 Livelli di fair value 2 e 3: tecniche di valutazione e input utilizzati
+Uno strumento finanziario viene classificato nei livelli 2 e 3 in assenza di prezzi quotati in mercati attivi.
+
+La classificazione nel livello 2 piuttosto che nel livello 3 € invece determinata in base all’osservabilita sui mercati
+degli input significativi utilizzati ai fini della determinazione del fair value.
+
+Gliinput osservabili sono parametri elaborati utilizzando dati di mercato, come le informazioni disponibili al pubblico
+su operazioni o fatti effettivi, e che riflettono le assunzioni che gli operatori di mercato utilizzerebbero nel deter-
+minare il prezzo dell'attivita o della passivita; invece gli input non osservabili sono parametri per i quali non sono
+disponibili informazioni di mercato e che sono elaborati utilizzando le migliori informazioni disponibili relative alle
+assunzioni che gli operatori di mercato utilizzerebbero per determinare il prezzo dello strumento finanziario.
+
+Nei casi in cui nella valutazione di uno strumento finanziario sono utilizzati sia input osservabili sul mercato (livello
+2) sia input non osservabili (livello 3), se quest’ultimo é ritenuto significativo, lo strumento é classificato nel livello 3
+della gerarchia del Fair value.
+
+Come richiesto dall’IFRS 13, la Banca utilizza tecniche di valutazione “adatte alle circostanze e tali da massimizzare
+lutilizzo di input osservabili rilevanti”.
+
+Le tecniche valutative sono utilizzate con continuita e in maniera coerente nel tempo a meno che esistano delle tec-
+niche alternative che forniscono una valutazione pill rappresentativa del Fair value (ad esempio nel caso di sviluppo
+nuovi mercati, informazioni non piu disponibili o nuove informazioni, condizioni di mercato diverse).
+
+ll Fair value utilizzato ai fini della valutazione degli strumenti finanziari € determinato sulla base dei criteri, di seguito
+esposti, che assumono, come sopra descritto, lutilizzo di input osservabili o non osservabili.
+
+LIVELLO 2 - Metodi
+
+   
+
+li valutazione basati su parametri di mercato osservabili
+
+Per gli strumenti di livello 2 un dato di input é considerato “osservabile’, direttamente o indirettamente, quando
+é disponibile con continuita a tutti i partecipanti al mercato, grazie ad una distribuzione regolare tramite specifici
+canali informativi (Borse, info provider, broker, market maker, siti internet, etc.).
+
+La valutazione dello strumento finanziario si basa su prezzi desumibili dalle quotazioni di mercato di attivita simili
+
+(comparable approach) o mediante tecniche di valutazione per le quali tutti i fattori significativi — tra i quali spread
+
+creditizi e di liquidita - sono desunti da parametri osservabili di mercato (mark-to-model approach).
+
+Il “comparable approach” si traduce nella ricerca di transazioni presenti su mercati attivi, relative a strumenti che
+
+sono assimilabili allo strumento oggetto di valutazione. Le tecniche di valutazione impiegate nel “mark-to-model
+
+approach” sono quelle comunemente accettate e utilizzate come “best practice” di mercato.
+
+Sono definiti input di livello 2:
+
+* i prezzi quotati su mercati attivi di passivita similari;
+
+* i prezzi quotati per lo strumento in analisi o per strumenti simili su mercati non attivi (vale a dire mercati in cui ci
+sono poche transazioni, i prezzi non sono correnti o variano in modo sostanziale nel tempo e trai diversi market
+maker 0 poca informazione é resa pubblica);
+
++ input di mercato osservabili diversi da prezzi quotati (a esempio: tassi di interesse o curve di rendimento, volati-
+lita, curve di credito, etc.);
+
++ input corroborati da dati di mercato (owero derivanti da dati osservabili di mercato 0 corroborati attraverso
+analisi di correlazione).
+
+In tal caso il dato di input é rilevato da prezzi quotati mediante opportune tecniche numeriche.
+Con riferimento al portafoglio di strumenti finanziari alla data del presente bilancio, rientrano nel livello 2 i derivati
+
+finanziari OTC (Over the counter), i titoli di capitale privi di quotazioni ufficiali espresse da un mercato attivo e gli
+strumenti finanziari del passivo valutati al Fair value.
+
+138
+
+ 
+

@@ -1,0 +1,168 @@
+| processie le soluzioni di sicurezza,
+progettati con livelli di flessibilita
+
+tali da consentire ladattamento a
+specifiche peculiarita tecnologiche
+ed esigenze regolatorie dei prodotti
+e servizi, afferiscono alle sequenti
+aree di competenza specifica:
+
++ Customer Protection Services
+a lobiettivo di garantire la
+protezione dei clienti contro
+
+gli attacchi informatici mirati
+
+al furto delle credenziali e
+
+delle informazioni personaii,
+perpetrati attraverso portali e
+applicazioni clone.
+
++ Anti-Fraud Management
+
+a il compito di prevenire
+
+e contrastare le frodi
+informatiche tramite processi,
+ecnologie e partnership
+strategici per lo scambio
+
+di informazioni utili ad
+implementare un monitoraggio
+preventivo e costante, come
+la partnership con il Centro
+Nazionale Anticrimine
+Informatico per la Protezione
+delle Infrastrutture Critiche
+(CNAIPIC, servizio interno
+della Polizia Postale e delle
+Comunicazioni) e il presidio
+per la gestione delle eventuali
+frodi interne ed esterne.
+
+ 
+
+ 
+
++ Secure Development Life
+Cycle si occupa di garantire la
+prevenzione da una potenziale
+vulnerabilita nei sistemi e nei
+prodotti software attraverso un
+processo di sviluppo e rilascio
+sicuro.
+
++ Identity and Access
+Governance gestisce il
+governo delle identita e degli
+accessi mediante |'utilizzo
+
+33
+
+LOTTOMATICA PER LA COMUNITA 2018
+
+di soluzioni integrate con
+
+tutti gli elementi tecnologici
+dell'infrastruttura Lottomatica
+(es. software applicativo,
+sistema operativo, database)
+con particolare riguardo
+
+alla gestione delle utenze
+privilegiate.
+
+Security Operations
+
+Center (SOC) assicura la
+gestione H24x7 degli eventi
+
+di sicurezza attraverso
+
+lanalisi, la classificazione, la
+segnalazione delle minacce
+
+e lattuazione tempestiva di
+azioni di contrasto. ll SOC
+
+di Lottomatica gestisce in
+maniera centralizzata tutti gli
+eventi di sicurezza, garantendo
+un monitoraggio end-to-end in
+tempo reale.
+
+Network and IT Security
+Solutions implementa le
+soluzioni tecnologiche pit
+innovative per la protezione
+da intrusioni informatiche sui
+diversi livelli dell’infrastruttura
+Lottomatica, implementando
+il concetto di “difesa in
+profondita”.
+
+Security and Privacy
+Governance permette il
+governo centralizzato sulla
+conformita di sicurezza a
+regolamenti, standard e leggi
+di riferimento all’interno di
+processi e soluzioni tecnologici,
+assicurando la gestione degli
+audit IT e di sicurezza.
+
+Certificazioni di sicurezza
+
+Lottomatica mantiene
+standard elevati di sicurezza
+informatica, certificati da
+enti terzi indipendenti.
+Larea Certification gestisce
+il processo di conformita
+e certificazione mediante
+l'analisi dei requisiti di
+sicurezza delle normative o
+degli standard di riferimento,
+l'implementazione dei
+processi e delle soluzioni
+tecnologiche richieste
+per la conformita e il
+coordinamento delle attivita
+durante le verifiche ispettive.
+Tra le certificazioni ottenute:
+* 1S027001: norma
+internazionale che
+definisce i requisiti per
+impostare e gestire un
+Sistema di Gestione
+della Sicurezza delle
+Informazioni (SGSI).
+* SGAD (Sistema di Gioco
+di Abilita a Distanza):
+certificazione per la
+sicurezza della piattaforma
+di gioco a distanza
+secondo le linee guida
+dell'Agenzia delle Dogane
+e dei Monopoli.
+PCI-DSS (Payment Card
+Industry Data Security
+Standard): standard di
+sicurezza definito dal “PCI
+Security Standard Council”
+fondato dai circuiti di carte
+di credito Visa, Master
+Card, American Express,
+Discover Financial Services
+e JCB per la protezione
+dei dati delle carte di
+pagamento
+WLA: certificazione della
+World Lottery Association
+che introduce requisiti
+e controlli specifici per
+il settore regolamentato
+degli operatori e provider
+di soluzioni di gioco.
+

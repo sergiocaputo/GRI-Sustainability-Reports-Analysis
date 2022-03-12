@@ -1,0 +1,65 @@
+Category Depreciation
+
+rate
+Land 0%
+Buildings _ 3%
+Plant and machinery _ from 10% to 20%
+Industrial and commercial equipment _ from 25% to 40%
+Other assets _ from 12% to 25%
+
+Land and buildings, plant and machinery with a carrying amount to be recovered mainly through their sale
+(rather than the asset’s continuing use) are measured at the lower of their carrying amount and fair value less
+costs to sell. Assets held for sale shall be available for immediate sale and their sale shall be highly probable
+
+(i.e., the related commitments already exist). Their price shall be reasonable compared to their fair value.
+
+Assets acquired as a result of business combinations are recognised at fair value at the acquisition date and
+
+remeasured within a year. Such amount reflects their purchase cost.
+
+After their initial recognition, they are measured at cost, depreciated over their estimated useful lives and shown
+
+net of any impairment losses.
+
+When an asset consists of different significant components with different useful lives, the significant
+
+components are recognised and subsequently measured separately.
+
+The carrying amount of property, plant and equipment is tested for impairment whenever events or changes in
+circumstances take place indicating that the carrying amount may not be recovered. Reference should be made
+
+to the section on “Impairment of non-financial assets” for details on impairment testing.
+
+Borrowing costs directly related to the acquisition or construction of an asset are capitalised as part of the cost
+of the asset, to the extent of its recoverable amount. As established by IAS 23 - Borrowing costs, the Group
+
+has applied this method to all qualifying assets.
+
+Borrowing costs are capitalised when the costs of the acquisition of the asset and borrowing costs are incurred,
+
+and the activities necessary to bring the asset to a condition for its use have been started.
+
+The costs provided for but not yet paid related to qualifying assets are excluded from the amount to be
+
+capitalised.
+
+Capitalisation of borrowing costs is suspended during extended periods in which active development is
+
+interrupted.
+
+Moreover, capitalisation of borrowing costs ceases when substantially all the activities necessary to prepare
+
+the qualifying asset for its intended use or sale are complete.
+
+Subsequent expenditure is only capitalised if it increases the future economic benefits of the related asset. All
+
+other expenditure is expensed when incurred.
+
+Ordinary maintenance costs are fully expensed when incurred. Costs that increase the carrying amount of
+
+assets are allocated thereto and depreciated over their residual economic lives.
+
+ 
+
+237
+

@@ -1,0 +1,82 @@
+Table 32: Total weight of waste produced at SECH broken down by type
+
+PAW, PAT: ) 2019
+
+DESCRIPTION RECOVERY DISPOSAL
+(Kg) (Kg) (Kg)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+010101 Metal ore mining waste 0 0 O xX
+060102* | Hydrochloric acid 0 0 0 | x
+080111* Waste paints and varnishes containing 800 0 0 x
+organic solvents or other dangerous substances
+Out of print toners, other than those mentioned
+080318 in 080317 0 55 35 xX
+120112* | Waxes and exhausted fats 0 160 0 | Xx
+1430110* Mineral oils for non-chlorinated hydraulic 6.080 4.650 8.300 x
+circuits
+130205* Waste mineral oil for engines, gears and 4.500 3.500 7.920 x
+lubrication, non-chlorinated
+130310* | Other insulating and thermo-conducting oils 0 0 2.610 | x
+130701* | Fuel oil and diesel fuel 1.550 0 0 | x
+130802* | Other emulsions 0 0 0 | Xx
+150101 Paper and cardboard 0 0 4.320 | x
+150103 Wooden packaging 1.760 0 6.280 | x
+150106 Mixed material packaging 0 0 0 | x
+150106 Mixed material packaging 0 0 0 | x
+Packaging containing residues of
+150110* | dangerous substances or contaminated by 630 787 273 x
+these substances
+450111* Gases in pressure containers (including 50 20 93 x
+halons) containing dangerous substances
+Absorbents, filter materials, rags and
+150202* | protective clothing, contaminated with 390 3.374 2.114 x
+dangerous substances
+Absorbents, filter materials, rags and
+150202* | protective clothing, contaminated with 0 0 0 x
+dangerous substances
+Absorbents, filter materials, rags and protective
+50203 clothing, other than those mentioned in 150202 2 168 a x
+Absorbents, filter materials, rags and protective
+50203 clothing, other than those mentioned in 150202 o o 0 x
+160103 End-of-life tyres 0 0 5.240 | x
+160107* | Oil filters 761 636 725 | x
+160112 Brake pads other than those mentioned in 160111 0 0 0 | x
+160114* Anti-freeze liquids containing dangerous 0 0 0 x
+substances
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11. * stands for hazardous cargo.
+
+2019 Sustainability Report
+

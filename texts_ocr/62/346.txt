@@ -1,0 +1,71 @@
+Glossary
+
+Population Equivalent (pe)
+
+The concept of population equivalent was developed to enable the comparison of various types of sewage (municipal,
+household, industrial) in terms of organic pollution. Using conversion factors, an estimation is made of how many
+inhabitants would be required to produce (with normal domestic sewage) the same amount of pollution. By
+definition, one population equivalent corresponds to 60 g of BODs per day.
+
+Regulatory Authority for Energy, Networks and the Environment (ARERA)
+
+Formally independent authority established under Law 481/1995 which has the goal of promoting the development of
+competitive markets in the electricity and methane sectors, mainly by regulating rates, network access, market
+operation and protecting the interests of end users. In 2012, the ARERA was assigned functions in the area of the
+quality, rates and costs of integrated water services and in 2018 functions concerning waste management services.
+
+Water and Waste Regulatory Authority (ATO)
+
+Pursuant to Law 36/1994, the Water and Waste Regulatory Authorities define the local level of organization of
+integrated water services to overcome the fragmentation of management and to reach suitable sizes for the areas
+served.
+
+Ammoniacal Nitrogen
+
+The term ammoniacal nitrogen (NHa) identifies the concentration of ammonia ions in water. It provides an index of
+biodegradation of nitrogenous organic substances. It is expressed in mg/l.
+
+Biogas
+
+The term biogas identifies a mixture of types of gas (mainly methane) produced by natural bacterial fermentation (in
+anaerobic conditions, i.e. in the absence of oxygen) of organic residues from waste.
+
+BOD
+
+The term BOD (biochemical oxygen demand) is used to define the amount of oxygen consumed during a specific time
+period (5 days for BODs), at a given temperature, to biodegrade the organic matter present in the water via bacterial
+action (uptake of oxygen by micro-organisms). High biochemical oxygen demand indicates intense biodegradation of
+organic matter, and may highlight the presence of organic pollution. It is therefore an indirect measure of pollution
+levels. Its value is expressed in mg/l.
+
+Bond
+
+A listed financial instrument of indebtedness issued by a company. These are long-term loans: investors are
+guaranteed the right to annual interest payments at a fixed rate, with return of the capital on a set date.
+
+Services Charter
+
+A Services Charter is a document that any entity that supplies a public service uses to outline its performance
+standards, declaring its goals and recognizing specific rights to the public/users/consumers, and therefore to pledge to
+respect specific levels of quality and quantity, with the intention of monitoring and improving its supply and
+management methods. It was set by law 273/95, which stated that all suppliers of public services must adopt their
+own Services Charters on the basis of the general guidelines issued for specific sectors.
+
+Green Certificate (GC)
+
+GCs offer incentives to generate electricity from renewable sources. As required by law 244/07, GCs are issued by the
+Energy Services Manager (ESM) and concerns the production of electricity from renewable sources of the previous
+year or the production expected during the current year or during the following year. They represent 1 MWh of
+electricity. Each individual producer or importer must feed into the grid for 2012 a 7.55% share of electricity produced
+by renewable sources: this quota decreases linearly starting in 2013 and reaches zero in the year 2015. The
+requirement can also be satisfied by purchasing GCs from other parties.
+
+coD
+
+The term COD (chemical oxygen demand) identifies the amount of oxygen required for the complete oxidation of
+organic and inorganic compounds present in a water sample. Thus, this is an index for measuring the degree of
+pollution, mainly organic, in the water from substances which can be oxidized. It is expressed in mg/l.
+
+Code of Ethics
+343
+

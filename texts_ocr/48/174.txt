@@ -1,0 +1,128 @@
+Our
+We, Generali | performance
+
+ 
+
+Investment contracts
+
+Investment contracts without DPF and that do not
+
+have a significant investment risk, mainly include unit/
+
+index-linked policies and pure capitalization contracts.
+
+These products are accounted for in accordance with
+
+IAS 39 as follows:
+
+- the products are recognised as financial liabilities at
+fair value or at amortised cost. In detail, linked prod-
+ucts classified as investment contracts are fair valued
+through profit or loss, while pure capitalization policies
+are generally valued at amortised cost;
+
+— fee and commission income and expenses are recog-
+nised in the profit and loss account. Specifically, IAS 39
+and IAS 18 require that they are separately identified
+and classified in the different components of: (i) origi-
+nation, to be charged in the profit and loss account at
+the date of the issue of the product; and (ii) investment
+management service, to be recognised throughout the
+whole policy term by reference to the stage of comple-
+tion of the service rendered;
+
+— fee and commission income and incremental costs of
+pure capitalization contracts without DPF (other than
+administration costs and other non-incremental costs)
+are included in the amortised cost measurement;
+
+— the risk component of linked products is unbundled,
+if possible, and accounted for as insurance contracts
+
+Life insurance provisions
+
+Life insurance provisions are related to insurance con-
+tracts and investment contracts with discretionary par-
+ticipation features. These provisions are accounted for
+based on local GAAP, in compliance with IFRS 4.
+
+Liabilities related to insurance contracts and investment
+contracts with discretionary participation features are
+determined analytically for each kind of contract on the
+basis of appropriate actuarial assumptions. They meet all
+the existing commitments based on best estimates.
+
+These actuarial assumptions take into consideration the
+most recent demographic tables of each country where
+the risk is underwritten, aspects of mortality, morbidity,
+determination of risk-free rates, expenses and inflation.
+The tax charge is based on laws in force.
+
+Among life insurance provisions, provisions in addition
+to mathematical provisions, already envisaged by the lo-
+cal regulations in case of adverse changes in the interest
+
+Consolidated Non-Financial
+Risk Report Outlook Statement
+
+Consolidated Financial
+Statements
+
+Appendices to the
+Management Report
+
+ 
+
+173 |
+
+rates or mortality, are classified as provisions for the lia-
+bility adequacy test.
+
+As previously mentioned, insurance provisions include
+deferred policyholder liabilities related to contracts with
+DPF. The recognition of the deferred policyholder liabil-
+ities is made in accordance to shadow accounting, as
+already mentioned in paragraph “Shadow accounting” of
+section Insurance Provision.
+
+Liability adequacy test (LAT)
+
+In accordance with IFRS 4, in order to verify the ade-
+quacy of the reserves a Liability Adequacy Test (LAT) is
+performed. The aim of the test is to verify if the technical
+provisions - inclusive of deferred policyholders liabilities
+- are adequate to cover the current value of future cash
+flows related to insurance contracts.
+
+The liability adequacy test is performed through the com-
+parison of the IFRS reserves (which include the impact
+of “shadow accounting”), net of any deferred acquisition
+costs or intangible assets related to these contracts, with
+the current value of future cash flows related to insurance
+contracts.
+
+The abovementioned amount also includes the costs of
+embedded financial options and guarantees, which are
+measured with a market-consistent methodology. Tech-
+nical reserves which are subject to the Liability Adequacy
+Test also include the interest rate risk provisions as re-
+quired by local regulations.
+
+The insurance contracts modelling and best estimates
+assumptions used are consistent with the evaluation
+process of the insurance provisions in accordance with
+Solvency Il and subject to audit process in compliance
+with the current regulation.
+
+Each inadequacy is charged to the profit and loss ac-
+count, initially reducing deferred acquisition costs and
+value of business acquired, and subsequently account-
+ing for a provision.
+
+Non-life insurance provisions
+
+The local GAAP for each country is applied to non-life
+insurance provisions, since all the existing policies fall
+under IFRS 4 scope. In conformity with the international
+standard, no provisions for future claims are recognised,
+

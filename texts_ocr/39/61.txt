@@ -1,0 +1,49 @@
+eurosuole spa
+© SUSTAINABILITY REPORT 2018
+Water
+
+WATER [303-1] [303-2] [303-3] [303-4] [103-2] [306-1] [306-5]
+
+For the water supply we use the well and the aqueduct. The meters at the water collection points directly
+measure the volume of water extracted from the two types of sources.
+
+The well derives water from the Chienti river bed; the company has been authorized to draw water from the
+Marche Region for thirty years. For some years now, we have had a closed-loop production system that
+constantly reuses the water for cooling.
+
+This means that the well water is used exclusively for the recharging of the closed-loop system and for the
+irrigation of the company's green areas. The total volume of water taken from the well amounts to 8,210 m3 and
+from the table below you can see that consumption has decreased compared to last year.
+
+For aqueduct water consumption is not attributable to the production process but to the toilets and therefore
+not related to parameters related to production activity.
+
+In 2018, the value of water consumption from the aqueduct fell sharply (about 35%), for an awareness of staff
+against waste and some technical measures on sanitary facilities (eg timers in the showers).
+
+Please note that the effluents-related contents in GRI 306: Effluents and Waste 2016 (Disclosures 306-1 and
+306-5) have been updated and can be found in GRI 303: Water and Effluents 2018.
+
+ 
+
+ 
+
+ 
+
+ 
+
+WATER CONSUMPTION (in CBM) 2018 2017 2016
+Total water consumption from the well 8.210 5.690 5.760
+Total water consumption from the aqueduct 3.735 5.742 4.932
+TOTAL WATER CONSUMPTION 11.945 11.432 10.692
+WATER CONSUMPTION (in CBM/PAIR OF SOLES PRODUCED) 2018 2017 2016
+Total water consumption from the well 0,0006 0,0004 0,0004
+(internal accettability level: 0.0005)
+
+Total water consumption from the acqueduct 0,0003 0,00041 0,00037
+(internal accettability level: 0.0003)
+
+TOTAL WATER CONSUMPTION 0,0009 0,00081 0,00077
+
+@O 62
+

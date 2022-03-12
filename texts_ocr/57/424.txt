@@ -1,0 +1,68 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+Non possono essere oggetto di copertura generica (macrohedging) importi netti rivenienti dallo sbilancio di attivita
+e passivita. La relazione di copertura é formalmente documentata da una hedging carde la tenuta della stessa é ve-
+rificata sia attraverso test prospettici che retrospettivi. La copertura € considerata efficace se i] rapporto tra la varia-
+zione del fair value dell’elemento coperto rispetto allo strumento di copertura é ricompreso nellintervallo 80-125%.
+
+Criteri di valutazione e di rilevazione delle componenti reddituali
+
+Gli strumenti finanziari derivati di copertura sono inizialmente iscritti e in seguito misurati al fair value. La determina-
+zione del fair value dei derivati é basata su prezzi desunti da mercati regolamentati 0 forniti da operatori, su modelli
+di valutazione delle opzioni, o su modelli di attualizzazione dei flussi di cassa futuri.
+
+Le modalita di contabilizzazione degli utili e delle perdite derivanti dalle variazioni del fair value sono diverse in re-
+lazione alla tipologia di copertura.
+
+1) copertura di fair value (fair value hedge):
+
+ll cambiamento del fair value dell’elemento coperto (riconducibile al rischio coperto) é registrato nel conto econo-
+mico, al pari del cambiamento del fair value dello strumento derivato; l'eventuale differenza, che rappresenta la
+parziale inefficacia della copertura, determina di conseguenza leffetto economico netto.
+
+Qualora la relazione di copertura non rispetti piu le condizioni previste per l'applicazione dell'hedge accounting la
+stessa viene interrotta, la differenza fra il valore di carico dell’elemento coperto nel momento in cui cessa la coper-
+tura e quello che sarebbe stato il suo valore di carico se la copertura non fosse mai esistita, é ammortizzata a conto
+economico lungo la vita residua dell’elemento coperto sulla base del tasso di rendimento effettivo.
+
+Qualora tale differenza sia riferita a strumenti finanziari non fruttiferi di interessi, la stessa viene registrata immedia-
+tamente a conto economico.
+
+Se l’elemento coperto é venduto o rimborsato, la quota di fair value non ancora ammortizzata é riconosciuta imme-
+diatamente a conto economico.
+
+2) copertura dei flussi finanziari (cash flow hedge):
+
+Le variazioni di fair value del derivato sono contabilizzate a patrimonio netto, per la quota efficace della copertura,
+e aconto economico per la parte non considerata efficace.
+
+Quando i flussi finanziari oggetto di copertura si manifestano e vengono registrati nel conto economico, il relativo
+profitto o la relativa perdita sullo strumento di copertura vengono trasferiti dal patrimonio netto alla corrispondente
+voce di conto economico.
+
+Quando la relazione di copertura non rispetta piu le condizioni previste per l'applicazione del hedge accounting
+la relazione viene interrotta e tutte le perdite e tutti gli utili rilevati a patrimonio netto sino a tale data rimangono
+
+sospesi all’interno di questo e riversati a conto economico nel momento in cui si verificano i flussi relativi al rischio
+originariamente coperto.
+
+Sezione 7 - Partecipazioni
+
+Il Gruppo non detiene partecipazioni in societa collegate.
+
+Sezione 8 - Attivita materiali
+
+Criteri di classificazione
+
+La voce include i terreni, gli immobili strumentali, gli investimenti immobiliari, gli impianti, i veicoli, i mobili, gli arredi
+e le attrezzature di qualsiasi tipo. | terreni e gli edifici sono beni separabili e come tali sono trattati separatamente
+
+ai fini contabili. | terreni hanno una vita illimitata e pertanto non sono ammortizzabili a differenza dei fabbricati, che
+avendo una vita limitata, sono ammortizzabili.
+
+424
+
+ 
+

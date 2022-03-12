@@ -1,0 +1,49 @@
+Indici di intensita di consumi di energia all’interno dell’organizzazione
+
+Intensita (GJ/t) - (GJ/n. 2019 2018
+di presenze)
+. _ Gruppo
+Gruppo Poligrafici EGA Poligrafici EGA
+Intensita. di energia
+all'interno
+2,91 0,26 2,99 0,27
+
+dell'organizzazione
+
+Vindice di intensita energetica all’interno dell’organizzazione (per il perimetro del Gruppo
+Poligrafici) passa da 2,99 GJ/t del 2018 a 2,91 GJ/t nel 2019 generando una diminuzione
+dell’indice. Per quanto concerne EGA l’indice di intensita energetica rimane sostanzialmente
+stabile, con una leggera diminuzione rispetto al 2018.
+
+Emissioni e cambiamenti climatici
+
+Le emissioni di anidride carbonica vengono calcolate considerando le attivita dirette del
+Gruppo Monrif cioé il riscaldamento delle sedi ed il consumo energetico per la stampa dei
+giornali.
+
+La corretta e sistematica quantificazione e rendicontazione delle emissioni di GHG (Green
+House Gas) consente di gestire gli impatti ambientali ad esse associati derivanti dalle attivita
+svolte e di stabilire appropriati obiettivi e target ambientali.
+
+Il calcolo delle emissioni @ stato basato sul GHG Protocol, il principale standard di
+rendicontazione delle emissioni, che prevede la distinzione delle emissioni in categorie o
+Scope:
+
+e Scope 1 - Emissioni associate alle fonti che sono di proprieta o che si trovano sotto il
+controllo della societa.
+
+e Scope 2 - Emissioni associate alla generazione di energia elettrica, calore o vapore
+acquistati e consumati dall’organizzazione, che fisicamente vengono immessi nel
+perimetro societario.
+
+Il GHG Protocol prevede due diversi approcci di calcolo delle emissioni di Scope 2: "Location-
+based" e "Market-based". L’approccio “Location-based” prevede |’utilizzo di un fattore di
+emissione medio nazionale relativo allo specifico mix energetico nazionale per la produzione
+di energia elettrica. L'approccio “Market-based” prevede I’utilizzo di un fattore di emissione
+definito su base contrattuale con il fornitore di energia elettrica. Vista l’assenza di specifici
+accordi contrattuali tra le societa del Gruppo ed il fornitore di energia elettrica (es. acquisto
+di Garanzie di Origine), per questo approccio é stato utilizzato il fattore di emissione relativo
+ai "residual mix" nazionale.
+
+67
+

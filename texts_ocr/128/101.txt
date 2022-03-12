@@ -1,0 +1,45 @@
+THE PRINCIPAL MEASURES UNDERTAKEN TO REDUCE THE GREENHOUSE GAS EMISSIONS
+SCOPE 1 AND 2
+
+Calculation method
+Emission savings were calculated using the emission coefficients reported for the disclosures 305-1 and 305-
+2, multiplied by the fuel and/or energy savings (302-4).
+
+; ffici F Ffici
+NOx e SOx Source Unit of Coefficients Unit of Coefficients
+
+ 
+
+ 
+
+measures Nox measures Sox
+Heating
+Naturale gas ABI Guidelines Kg/Mc 0.00 na.
+Gas oil ABI Guidelines Kg/Ton 2.14 G/Kg 2.010
+LPG Kg/Ton 2.31 na.
+Electricity ABI Guidelines G/kWh 0.15 G/kWh 0.075
+Transport
+Petrol ISPRA - Database of average Ton/Ton 0.002965 Ton/Ton 0.000011
+
+road transport emission
+factors in Italy
+
+Gas oil ISPRA - Database of average Ton/Ton 0.012680 Ton/Ton 0.000015
+road transport emission
+factors in Italy
+
+LPG ISPRA - Database of average Ton/Ton 0.001799 na.
+road transport emission
+factors in Italy
+
+WASTE
+
+Calculation method
+
+Waste by employee and by surface area was calculated by dividing total separated waste by the number of
+employees and associate workers (21.465, amounting to 100% of the Group total) and by the net internal floor area
+of the properties (1.267.931 sq.m) of the Group companies within the relative scope.
+
+Consolidated non-financial declaration pursuant to Legislative Decree No. 254/2016
+2017 Sustainability Report - Commitment to the environment - Pg.100
+

@@ -1,0 +1,30 @@
+These activities consist of Authority-Business and Business-Business relations:
+
+A2B
+
+AIDA (Integrated Customs Excise Automation). It is the information system of the
+Customs Agency, operational since November 10', 2003. This system makes the
+digitalisation of the relationship with users and administrations tangible. The portal for
+interoperability among administrations and among these ones and users (Aida Services
+for Interoperability) makes the “integrated” processes working with the administrations
+involved in a one-stop shop logic and offers new interactive services to users.
+
+PMIS (Port Management Information System). The PMIS system is employed by the
+Harbour Master's staff both in the performance of administrative procedures related
+to the arrival and departure of vessels and for the supervision of traffic within the port
+waters.
+
+B2B
+
+E-Port (since 2004) in Genoa and TPCS (since 2008) in Leghorn are sharing platforms
+or Port Community Systems (PCS), which consent the various operators of the port to
+interact in a safe environment.SECH and TDT are, starting from the design and the birth
+of the two systems, at the centre of the dialogues for the development of the structure
+which guarantees the security of information flows among different subjects that are
+part of it, allowing the elimination of paper documents, with the achievement of a
+significant goal, consisting in the normalisation and rationalisation of processes.
+
+ 
+
+2019 Sustainability Report
+

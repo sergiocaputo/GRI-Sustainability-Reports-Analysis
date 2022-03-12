@@ -1,0 +1,184 @@
+268
+
+PRODOTTI - AREA IDRICA (segue)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dato n. spiegazione ~ commento
+otale acqua reflua addotta ai principali impianti di depurazione di Gori e trattata. Laumento sostanziale dei quantitativi
+
+89 trattati nel 2019 é connesso al trasferimento gestionale di numerosi impianti di depurazione dalla regione Campania. Il dato
+totale é calcolato.
+
+90 lumero delle determinazioni analitiche complessivamente eseguite sulle acque potabili dal Gruppo Acea. Il dato include le
+analisi effettuate da Acea Elaborie le analisi effettuate autonomamente dalle Societa. Il dato é calcolato.
+
+91 lumero delle determinazioni analitiche complessivamente eseguite su acque reflue dal Gruppo Acea. II dato include le
+analisi effettuate da Acea Elaborie le analisi effettuate autonomamente dalle Societa. Il dato é calcolato.
+
+92 umero delle determinazioni analitiche complessivamente eseguite sulle acque potabili da Acea Ato 2, Acea Ato 5, Gori e
+Gesesa.
+
+93 liumero delle determinazioni analitiche complessivamente eseguite su acque reflue da Acea Ato 2, Acea Ato 5, Gori e
+Gesesa.
+
+904 jiumero delle determinazioni analitiche complessivamente eseguite sulle acque potabili da Acea Ato 2. II dato, dal 2018,
+include anche analisi su acquedotti acquisiti di recente (Civitavecchia ed altri).
+
+95 iumero delle determinazioni analitiche complessivamente eseguite su acque reflue da Acea Ato 2.
+
+96 umero delle determinazioni analitiche complessivamente eseguite sulle acque potabili da Acea Ato 5.
+
+97 iumero delle determinazioni analitiche complessivamente eseguite su acque reflue da Acea Ato 5.
+
+98 iumero delle determinazioni analitiche complessivamente eseguite sulle acque potabili da Gesesa.
+
+99 lumero delle determinazioni analitiche complessivamente eseguite su acque reflue da Gesesa.
+
+100 umero delle determinazioni analitiche complessivamente eseguite sulle acque potabili da Gori.
+
+101 iumero delle determinazioni analitiche complessivamente eseguite su acque reflue da Gori.
+
+ 
+
+RISORSE UTILIZZATE - AREA ENERGIA
+
+ 
+
+dato n.
+
+spiegazione — commento
+
+ 
+
+102=103+104
+
+Quantita totale di gas naturale utilizzato per la generazione di energia elettrica e calore presso gli impianti di Acea Produzione
+e presso i termovalorizzatori di Acea Ambiente. || dato, espresso in normal metri cubi (volume a O°C e 1 Atm), é misurato
+con incertezza pari a + 0,5%. Dato stimato.
+
+ 
+
+103
+
+Quantita totale di gas naturale utilizzato nella Centrale di Tor di Valle.
+
+ 
+
+104
+
+Quantita totale di gas naturale utilizzato dagli impianti di termovalorizzazione. || dato é misurato con incertezza pari a circa
+
+il 2%.
+
+ 
+
+105
+
+Quantita totale di gasolio utilizzato per la generazione di energia elettrica presso la Centrale Montemartini (turbogas) e per
+la gestione operativa presso il termovalorizzatore di Terni. Il consumo della Centrale Montemartini risulta rilevante negli anni
+in cui la Centrale produce pit energia elettrica al fine di ottemperare alle normali attivita di prove periodiche previste, e per
+portare avanti attivita di collaudo successivo ad interventi manutentivi straordinari. Il dato é misurato con incertezza pari a
+
++ 2%.
+
+ 
+
+106
+
+Quantita di CSS (Combustibile Solido Secondario da rifiuti) awiata a termovalorizzazione nellimpianto di San Vittore del
+Lazio. Alcune problematiche sulle turbine della linea 1 e della linea 3 hanno condizionato i quantitativi di energia elettrica
+prodotta ed il quantitativo di CSS awiato a recupero energetico. Il dato é misurato con incertezza pari al * 1%.
+
+ 
+
+107
+
+Quantita di pulper awiata a termovalorizzazione nellimpianto di Terni. II dato é misurato con incertezza pari al + 1%.
+
+ 
+
+108
+
+Quantita di biogas utilizzata per produrre energia elettrica. Il dato 6 misurato con incertezza pari al + 1%.
+
+ 
+
+109
+
+Totale acqua derivata da risorse superficiali e da acquedotti (come nel caso della Centrale idroelettrica di Salisano) per la
+produzione di energia idroelettrica. II dato é calcolato.
+
+ 
+
+110
+
+Quantita totale di acqua utilizzata nei processi industriali. | diversi contributi sono dovuti a:
+
+- reintegro perdite nella rete di teleriscaldamento. Si trata di acqua di acquedotto;
+
+- usi vari negli impianti di termovalorizzazione di San Vittore del Lazio e di Terni. Si tratta di acqua proveniente da acquedotto,
+pozzo e recupero di prima e seconda pioggia. Il dato é calcolato.
+
+ 
+
+111
+
+Quantita di acqua di acquedotto utilizzata dalle Societa comprese nell’area energia, per usi civili/sanitari. Si tratta dei consumi
+di Acea Produzione, Areti, degli impianti di termovalorizzazione e del 50% dei consumi della Holding. |I dato, calcolato, si
+riferisce a consumi fatturati.
+
+ 
+
+12
+
+Rappresenta la quantita totale di olio minerale dielettrico presente nelle cabine primarie e secondarie. Il dato include il
+quantitativo di olio presente nelle bobine Petersen istallate in alcune cabine primarie: circa 225 tonnellate in 256 sistemi
+Petersen. | dati relativi ai reintegri sono stimati. La quantita totale di nuovo olio minerale dielettrico immesso nel circuito
+produttivo (trasformatori, condensatori, depositi di stoccaggio, ec.) include sia dati di Areti che di Acea Produzione. II dato
+é stimato.
+
+ 
+
+GRUPPO ACEA / BILANCIO DI SOSTENIBILITA 2019
+

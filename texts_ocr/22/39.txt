@@ -1,0 +1,55 @@
+Priorita strategiche
+
+Dal punto di vista degli standard e delle linee guida internazionali, nell’ambito del Sistema
+di Gestione della Sicurezza delle Informazioni (SGSI) il Gruppo Cerved si ispira alla
+norma internazionale UNI CEI ISO/IEC 27001:2013'3, che stabilisce i requisiti per
+definire, attuare, gestire, manutenere e migliorare un Sistena di Gestione della Sicurezza
+delle Informazioni in merito ad aspetti di sicurezza logica, fisica e organizzativa.
+
+La sicurezza del patrimonio informativo aziendale del Gruppo Cerved si fonda sull’insieme
+di principi e requisiti necessari a proteggere e tutelare le informaziori, al fine di assicurarne
+l'integrita, la confidenzialita e la disponibilita mediante l’adozione di un adeguato sistema
+di gestione della sicurezza delle informaziori.
+
+|| Gruppo Cerved é dotato di idonee strutture organizzative per i! governo, la gestione
+operativa e il controllo della sicurezza delle informazioni. In particolare, le strutture
+preposte al governo e al controllo della sicurezza svolgono le seguenti attivita:
+* coordinamento con le strutture operative;
+* periodica informativa in merito all'evoluzione delle minacce e delle relative soluzioni
+di sicurezza;
+* periodico monitoraggio dell'efficacia operativa dei controlli implementati al fine di
+garantire la sicurezza delle informazioni.
+
+Uadeguatezza del Modello Organizzativo di Gestione della Sicurezza viene verificata
+attraverso una comparazione con le best practice di riferimento e il monitoraggio
+costante dell'evoluzione della normativa in materia. All'interno di tale modello, il ruolo
+di coordinamento é attribuito al Comitato della Sicurezza, cui compete l’'assegnazione
+di ruoli e responsabilita specifiche, la definizione di programmi di sensibilizzazione per
+i dipendenti e il controllo continuo dell'efficacia delle policy e delle procedure operative
+adottate.
+
+Le strutture preposte alla gestione operativa della sicurezza informatica si occupano
+del disegno, della implementazione e della manutenzione delle soluzioni tecniche e
+organizzative necessarie a garantire un appropriato livello di sicurezza delle informazioni
+all'interno delle piattaforme tecnologiche e applicative in uso presso le societa del Gruppo.
+A tal fine é garantita una adeguata segregazione dei ruoli e delle relative responsabilita
+tra le attivita di governo e controllo della sicurezza e le attivita di gestione operativa delle
+soluzioni informatiche.
+
+Per quanto concerne il ruolo operativo, invece, questo viene attribuito, internamente al
+Gruppo, a diversi soggetti e funzioni:
+* Responsabile della sicurezza delle Applicazioni e Responsabile della sicurezza
+dell'Infrastruttura
+* Direzione Risorse Umane
+* Proprietari dei dati
+* Utenti finali
+
+ 
+
+13. UNI CEI ISOMEC 27001:2013 (Tecnologia delle informazioni - Tecniche di sicurezza - Sistemi di gestione
+della sicurezza delle informazioni - Requisiti).
+
+ 
+
+39
+

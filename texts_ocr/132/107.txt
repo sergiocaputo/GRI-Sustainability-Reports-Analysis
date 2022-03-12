@@ -1,0 +1,116 @@
+106
+
+Sostenibili per scelta
+
+Le emissioni in
+atmosfera
+
+Al fine di determinare gli impatti
+ambientali del Gruppo Vittoria,
+
+vengono esposti in tabella le
+emissioni dirette e indirette ge-
+nerate:
+
+4 le emissioni dirette (Scope
+1), derivanti dall’utilizzo di
+combustibili per la climatiz-
+
+ 
+
+zazione e per i veicoli azien-
+dali;
+
+4 le emissioni indirette (Scope
+2), come le emissioni deri-
+
+vanti da utilizzo di energia
+elettrica acquistata.
+
+Emissioni dirette e indirette in atmosf
+
+Ton C02 Ton CH4
+
+Ton N20 Ton C02 eq
+
+ 
+
+2019 2018 2019 2018
+
+2019 2018 2019 2018
+
+ 
+
+Emissioni dirette (Scope 1)
+
+258 250 21 12
+
+5 6 2.099 2.021
+
+ 
+
+Emissioni indirette (Scope 2) -
+location based
+
+1.033 1.113 0,059 0,063
+
+0,013 0,014 1.038 1.419
+
+ 
+
+Emissioni indirette (Scope 2) -
+Market based
+
+1.592 1.665 0 -
+
+Per il “Location-based”, il coefficiente di emissione utilizzato per I’Italia é pari a 316 gCO2/kWh.
+
+Fonte: Guida ABI_LAB.
+
+Per il “Market-based”, coefficiente di emissione utilizzato per I’Italia 6 pari a 487 gC02/kWh,
+Fonte: Association of Issuing Bodies, European Residual Mixes 2019.
+
+| dati 2018 relativi allo Scope 1 sono stati riesposti per un affinamento della medologia di calcolo
+
+Per il calcolo delle emissioni in-
+dirette, lo standard di rendicon-
+tazione utilizzato (GRI Sustai-
+nability Reporting Standards
+2016) prevede due diversi ap-
+procci di calcolo:
+
+4 il “Location-based”, riporta-
+to in tabella, prevede |’utiliz-
+zo di un fattore di emissione
+medio nazionale relativo allo
+specifico mix energetico na-
+zionale per la produzione di
+
+energia elettrica;
+
+4 il “Market-based”, invece,
+si basa sull’utilizzo di un
+fattore di emissione definito
+su base contrattuale con il
+fornitore di energia elettrica.
+Vista l’'assenza di specifi-
+ci accordi contrattuali tra il
+Gruppo Vittoria ed il forni-
+tore di energia elettrica (ad
+es. acquisto di Garanzie di
+Origine), per questo approc-
+
+cio € stato utilizzato il fattore
+di emissione relativo al "resi-
+dual mix" nazionale.
+
+La tabella evidenzia i consu-
+mi del Gruppo Vittoria, anche
+prendendo in considerazione le
+emissioni dei principali gas cli-
+malteranti definiti dal Protocol-
+lo di Kyoto, i quali provocano
+effetti di surriscaldamento glo-
+bale e consentono il calcolo in
+termini di CO2 equivalenti.
+

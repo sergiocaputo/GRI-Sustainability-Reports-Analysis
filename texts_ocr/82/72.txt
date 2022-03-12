@@ -1,0 +1,185 @@
+Emission factors used
+
+Emission conversion
+factors
+
+Natural Gas (Methane)
+Butane Gas
+
+Gas Oil
+
+Diesel
+
+Petrol
+
+LPG
+
+R-407C,
+
+HFC R134
+
+ 
+
+Spain
+Poland
+Hungary
+
+Electricity Market
+based
+
+Italy
+France
+UK
+Spain
+Poland
+
+Hungary
+
+UM
+
+tC0,e/me
+1C0,e/kg
+tC0,e/I
+tCO,e/1
+tC0,e/I
+tC0,e/I
+Gwe
+Gwe
+Gwe
+
+GWP
+
+tCO,/kWh
+tCO,/kWh
+tCO,/kWh
+tCO,/kWh
+tCO,/kWh
+
+tCO,/kWh
+
++C0,/kWh
++C0,/kWh
++C0,/kWh
++C0,/kWh
++C0,/kWh
+
++C0,/kWh
+
+2019
+
+0.00204652
+
+0.003
+
+0.00297049
+
+0.00262694
+
+0.00220307
+
+0.00151906
+
+1774
+
+1100
+
+1810
+
+3922
+
+0.000359
+
+0.000072
+
+0.000285
+
+0.000296
+
+0.000765
+
+0.000277
+
+0.00048329
+
+0.00005123
+
+0.00038052
+
+0.00044839
+
+0.00089712
+
+0.00034537
+
+2018
+
+0.00203053
+
+0.003
+
+0.00275821
+
+0.00259411
+
+0.00220904
+
+0.0015226
+
+0.000360
+
+0.000053
+
+0.000310
+
+0.000254
+
+0.000783
+
+0.000288
+
+0.00047653
+
+0.00005734
+
+0.00036652
+
+0.00044638
+
+0.00083455,
+
+0.0003414
+
+Sustainability Report | ANNEX - GRI INDICATOR TABLES
+
+Fonti
+
+UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+European Regulation on fluorinated greenhouse gases 517/2014
+European Regulation on fluorinated greenhouse gases 517/2014
+European Regulation on fluorinated greenhouse gases 517/2014
+
+European Regulation on fluorinated greenhouse gases 517/2014
+
+Terna, International Comparisons 2017, 2016
+Terna, International Comparisons 2017, 2016
+Terna, International Comparisons 2017, 2016
+Terna, International Comparisons 2017, 2016
+Terna, International Comparisons 2017, 2016
+
+Terna, International Comparisons 2017, 2016
+
+European Residual Mixes 2018, 2017
+European Residual Mixes 2018, 2017
+European Residual Mixes 2018, 2017
+European Residual Mixes 2018, 2017
+European Residual Mixes 2018, 2017
+
+European Residual Mixes 2018, 2017
+
+F73
+

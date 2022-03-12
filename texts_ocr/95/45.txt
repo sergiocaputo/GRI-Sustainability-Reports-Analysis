@@ -1,0 +1,86 @@
+2019 RAPPORTO INTEGRATO
+
+3.5
+Gli scarichi idrici*’
+
+|| Terminale ha 30 scarichi idrici, tra cui:
+e scarichiidricidedicatial processo di rigassificazione;
+e carichi secondari diversi da quelli derivanti dalla
+rigassificazione;
+e scarichi per le acque reflue domestiche;
+
+e scarichi per le acque meteoriche.
+
+ll processo di rigassificazione preleva acqua che viene
+utilizzata per lo scambio termico nei vaporizzatori
+(che vaporizzano il GNL). Tale acqua viene reimmessa
+alla fine del processo in mare, attraverso il suo scarico
+principale (scarico acqua di mare necessaria alla
+
+rigassificazione).
+
+SCARICO PRINCIPALE DELL'ACQUA DI
+NECESSARIA ALLA RIGASSIFICAZIONE
+
+MARE
+
+| valori della portata di scarico dei vaporizzatori
+utilizzati nel processo di rigassificazione per il 2017,
+2018 e 2019 risultano sempre inferiori al limite
+prestabilito dall’Autorita, pari a 10.800 m%/h. |
+parametri monitorati in continuo sullo scarico sono il
+Delta Termico e il cloro attivo libero.
+
+Il Delta Termico, owero la differenza di temperatura
+tra l’acqua in ingresso al Terminale e quella in
+uscita, dopo l'utilizzo nei vaporizzatori nella fase di
+rigassificazione ha generalmente un valore negativo,
+dovuto al raffreddamento dell’acqua di mare durante
+
+la rigassificazione del GNL.
+
+| valori del Delta Termico inferiori a -4 °C sono
+associati ad un’elevata portata di rigassificazione;
+nessun valore del Delta Termico misurato nel triennio
+2017-2019 ha superato il limite orario autorizzato di
+-6 °C. Nei periodi di mancata rigassificazione si ha un
+
+lieve aumento della temperatura in uscita rispetto a
+
+46
+
+quella in ingresso, derivato da un preriscaldamento
+dell’'acqua attraverso il ricondensatore principale
+(circa +2,8 °C come media annuale, con picchi di
+Delta Termico molto alti immediatamente prima della
+rigassificazione).
+
+Se si considerano invece le frigorie correlate al
+
+raffreddamento dell’acqua di mare, dovuto al
+processo di rigassificazione, é possibile affermare
+che le frigorie immesse nel corpo ricettore (1,26x 10°
+kcal/anno nel 2017; 2,95x10? kcal/anno nel 2018;
+10,7310? kcal/anno nel 2019) sono notevolmente
+
+inferiori al limite di legge pari a 312 10° kcal/anno.
+
+Si evidenzia inoltre che il valore piu alto riscontrato
+per il 2019 @ dovuto all'incremento dell’operativita
+del Terminale e quindi agli Sm® totali rigassificati
+in tale anno, notevolmente maggiori rispetto ai
+
+precedenti anni.
+
+Dall’analisi degli indici specifici delle frigorie, si pud
+notare come, a fronte di un incremento netto delle
+frigorie immesse nei tre anni di riferimento, gli indici
+aumentino; questo perché l’aumento della quantita
+di GN rigassificato in un anno ha determinato portate
+di rigassificazione orarie maggiori, aumentando,
+di conseguenza, le frigorie immesse nel corpo
+ricettore. In ogni caso, tali frigorie risultano essere
+notevolmente inferiori ai limiti stabili dalla legge.
+
+(17) Questo materiale fa riferimento a GRI 303-4 del GRI 303: Acqua e scarichi idrici 2018.
+

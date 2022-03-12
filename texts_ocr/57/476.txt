@@ -1,0 +1,118 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+
+ 
+
+Sezione 5 - Passivita finanziarie valutate al fair value - Voce 50
+5.1 Passivita finanziarie valutate al fair value: composizione merceologica
+
+=o
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+31/12/2017 31/12/2016
+‘Tipologia operazioni/Valori FV FV
+ww FV’ vn KV
+ub 2 1s uu 2 1s
+
+1. Debiti verso banche : :
+
+1.1 Strutturat
+
+1.2 Altri
+2, Debiti verso clientela z
+
+2.1 Strutturati
+
+2.2 Altri
+3. Titoli di debito 29.496 32.207 saos2| 30.76 34119 ~ 34119
+
+3.1 Strutturati
+
+3.2 Altri 29.496 32.267 30.476 34119
+
+Totale | 29.498 32.207 sa0s2| 30.76 - aati9 34.119
+
+ 
+
+ 
+
+ 
+
+ 
+
+Legenda:
+
+FV = fair value
+
+Fv" = fair value calcolato escludendo le variazioni di valore dovute al cambiamento del merito creditizio dell'emittente rispetto alla data di emissio-
+ne
+
+VN = valore nominale o nozionale
+L1=  Livello1
+L2=  Livello 2
+L3=  Livello3
+
+ 
+
+Negli anni passati si € adottata la cosiddetta “Fair value option” per le emissioni obbligazionarie coperte da stru-
+menti derivati al fine di eliminare le difformita contabili (accounting mismatch) nella valutazione e rilevazione di utili/
+perdite conseguenti alla contabilizzazione delle obbligazioni coperte in base al criterio del costo ammortizzato e
+degli strumenti di copertura al Fair value.
+
+ll “Fair value” dei prestiti obbligazionari é determinato applicando lo “spread effettivo di emissione” al fine di garan-
+tire una valutazione pill coerente con le transazioni del mercato retail al quale si riferiscono.
+
+Nel corso dell'anno 2013, anche al fine di orientare la complessiva posizione ALM della Banca verso un approccio
+maggiormente conservativo sul rischio tasso, si € proceduto all'unwind di taluni contratti derivati destinati alla co-
+pertura gestionale di prestiti obbligazionari emessi dalla Banca, con scadenza compresa tra il 2014 e il 2019, clas-
+sificati nel portafoglio delle passivita finanziarie valutate al Fair value. | prestiti continuano a essere valutati al Fair
+value come da iniziale designazione.
+
+476
+
+ 
+

@@ -1,0 +1,44 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+B. Processi di gestione e metodi di misurazione del rischio di tasso
+di interesse e del rischio di prezzo
+
+La funzione Risk Management della Capogruppo garantisce |’uniformita delle
+metodologie di valutazione dei rischi finanziari in essere nelle diverse realta
+operative e concorre alla definizione dei limiti di affidamento e massimali
+operativi. Ogni Societa del Gruppo é tuttavia direttamente responsabile
+
+del controllo dei rischi assunti nel rispetto delle linee guida approvate dai
+rispettivi Consigli di Amministrazione seguendo il principio di congruenza tra
+la complessita degli attivi in gestione e le misure di rischio adottate. L'analisi
+del rischio di tasso d'interesse viene effettuata mediante indicatori sia di
+composizione di portafoglio (limiti di concentrazione, caratteristiche degli
+strumenti ammessi, caratteristiche degli emittenti etc..) sia di massima perdita
+(Value at Risk — VaR). Il Valore a Rischio indica la massima perdita potenziale
+osservabile con un certo livello di probabilita a in un arco temporale definito,
+a seguito del movimento dei mercati finanziari: esso viene stimato mediante
+l'utilizzo del metodo della simulazione storica. |l metodo della simulazione
+storica, adottato da Banca Mediolanum, consiste nel determinare sia il valore
+del portafoglio utilizzando i parametri per esso rilevanti osservati sul mercato
+(detti risk factors), e sia le variazioni di questo portafoglio in risposta alle
+variazioni dei parametri osservate nel passato.
+
+Lattivita di stressing in ambito VaR prevede la generazione di scenari
+stocastici per i fattori di rischio cui il portafoglio di proprieta € esposto. Lo
+stress @ dato dal fatto che, mentre il VaR ha un orizzonte temporale di |
+giorno, gli scenari stocastici hanno un orizzonte di | mese, amplificando in
+questo modo gli shock sui fattori di rischio.
+
+A tale VaR stressato si aggiungono analisi che prevedono la costruzione di
+uno scenario stressato in cui si definiscono gli shock da applicare ai fattori di
+rischio. II valore del portafoglio di proprieta viene poi ricalcolato ed utilizzato
+per calcolare i guadagni e/o le perdite rispetto al valore base. In questo
+modo non si oftiene piu una distribuzione potenziale di perdite come nel VaR,
+ma si ha il singolo valore di perdita in corrispondenza dello scenario definito.
+Gli scenari utilizzati prevedono sia uno spostamento parallelo dell’intera curva
+di rendimenti governativi Italiani, sia la replica per il rischio di credito implicito
+verificatosi nella crisi registrata nel corso dell‘anno 20Il.
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 642
+

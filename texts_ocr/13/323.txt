@@ -1,0 +1,56 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+C. Attivita di copertura di investimenti esteri
+Nulla da segnalare.
+D. Strumenti di copertura
+
+All'interno del Gruppo Bancario, Banca Mediolanum copre il rischio di tasso
+dei mutui a tasso fisso 0 variabile con cap mediante strumenti derivati Interest
+rate swap (IRS) o Interest rate option (IRO). Hedge Accounting pud essere
+adottato solo se é rispettata |efficacia della copertura, all’inizio e per tutto
+
+il corso della sua vita, ossia i cambiamenti di Fair Value o dei flussi finanziari
+dello strumento coperto devono essere quasi completamente compensati
+da corrispondenti cambiamenti rilevati per lo strumento di copertura. Tale
+efficacia € monitorata periodicamente mediante test specifici: si ha alta
+efficacia quando le variazioni di Fair Value dello strumento di copertura
+compensano esattamente le variazioni dello strumento coperto. Sono stabiliti
+limiti precisi che definiscono quanto uno strumento di copertura si possa
+allontanare dalla copertura perfetta nel compensare le variazioni dello
+strumento coperto. Lefficacia della copertura deve essere valutata nella
+
+fase iniziale e continuativamente durante la vita della stessa. La fonte di una
+possibile inefficacia della copertura nel tempo, lato hedging instrument, é da
+ricondurre ad oscillazioni di mercato che si riflettano in modo non uniforme
+sui due elementi della relazione di copertura.
+
+ 
+
+ 
+
+ 
+
+ 
+
+E. Elementi coperti
+
+Gli strumenti oggetto di copertura sono i mutui a tasso fisso e i mutui a tasso
+variabile con cap. Lo schema contabile scelto da Banca Mediolanum per
+
+la copertura di questi strumenti é il “Microhedge di Gruppo", per il quale
+I'Elemento coperto é costituito da un insieme di strumenti omogenei, sotto
+
+il profilo del rischio associato, che risultano in ogni caso singolarmente
+identificabili. Una delle possibili fonti di inefficacia della copertura é la
+dinamica nel tempo del “Gruppo” inizialmente scelto: infatti negli anni il pool
+di mutui puo ridursi in virtu di estinzioni anticipate, rinegoziazioni, surroghe,
+etc. Al variare dell‘oggetto coperto si modifica la relazione con lo strumento
+di copertura e questo genera un disallineamento che puo ridurre nel tempo
+l'efficacia.
+
+'efficacia delle coperture é valutata mediante l’esecuzione di periodici
+test di efficacia, che si distinguono in due categorie:
+
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 324
+

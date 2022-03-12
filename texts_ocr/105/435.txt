@@ -1,0 +1,55 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+b) Criteri di valutazione e di rilevazione delle componenti
+reddituali
+
+Tali attivita sono valutate al costo ammortizzato sulla base del metodo del tasso di interesse effettivo, rettificato in caso di
+riduzione di valore. Nel caso di perdite di valore si applicano gli stessi principi sopra descritti in relazione alle Attivita finanziarie
+detenute sino alla scadenza.
+
+c) Criteri di cancellazione
+
+| crediti sono cancellati quando scadono i diritti contrattuali sui flussi finanziari derivanti dalle attivita stesse o quando l’attivita
+finanziaria viene ceduta trasferendo sostanzialmente tutti i rischi e i benefici a essa connessi.
+
+6 — Operazioni di copertura
+
+a) Criteri di iscrizione e di classificazione
+
+Liscrizione iniziale dei Derivati di copertura é effettuata al momento di stipula dei relativi contratti. Le tipologie di copertura
+utilizzate sono:
+
+= Fair value hedge: Copertura dell’esposizione alle variazioni di fair value di un’attivita o passivita rilevata o un impegno irrevo-
+cabile non iscritto, che é attribuibile a un rischio particolare e potrebbe influenzare il Conto economico.
+
+= Cash flow hedge: Copertura dell’esposizione alla variabilita dei flussi finanziari che é attribuibile a un particolare rischio
+associato a un’attivita o passivita rilevata o a una programmata operazione altamente probabile e che potrebbe influenzare
+il Conto economico.
+
+b) Criteri di valutazione e di rilevazione delle componenti
+reddituali
+
+Alla data di stipula del contratto gli strumenti derivati sono contabilizzati al fair value. Se gli strumenti derivati soddisfano i requi-
+siti per essere classificati come strumenti di copertura, le successive variazioni del fair value vengono contabilizzate seguendo
+gli specifici criteri di seguito indicati. Di ciascuno strumento finanziario derivato qualificato per la rilevazione come strumento di
+copertura € documentata la sua relazione con |’oggetto di copertura, compresi gli obiettivi di gestione del rischio, la strategia
+di copertura e i metodi per la verifica dell’efficacia. La verifica dell’efficacia di ciascuna copertura é fatta sia al momento di
+accensione di ciascuno strumento derivato, sia durante la sua vita.
+
+= Fair value hedges
+Quando la copertura riguarda attivita o passivita iscritte in bilancio, owero riguarda un impegno irrevocabile non iscritto, sia
+la variazione del fair value dello strumento di copertura, sia la variazione di fair value dell’oggetto della copertura sono impu-
+tate al Conto economico. Leventuale differenza costituisce |’inefficacia della copertura che rappresenta un onere o provento
+iscritto nella “Voce 90 — Risultato netto dell’attivita di copertura”.
+
+= Cash flow hedges
+Nel caso di cash flow hedge, le variazioni del fair value dello strumento derivato registrate successivamente alla prima rile-
+vazione sono imputate, limitatamente alla sola quota efficace, a una specifica riserva di Patrimonio netto (Riserva da cash
+flow hedge). Una copertura é in genere considerata altamente efficace se, sia all’inizio, sia durante la sua vita, i cambiamenti
+dei flussi di cassa attesi nel futuro per l’elemento coperto sono sostanzialmente compensati dai cambiamenti del fair value
+dello strumento di copertura. Quando si manifestano gli effetti economici originati dall’oggetto della copertura la riserva é
+imputata a Conto economico.
+
+434
+

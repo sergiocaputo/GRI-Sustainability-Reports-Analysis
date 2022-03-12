@@ -1,0 +1,119 @@
+RESILIENTI
+
+FOCUS QUALITA TECNICA M4
+ADEGUATEZZA DEL SISTEMA FOGNARIO
+
+Lindicatore M4 monitora l’adeguatezza del
+sistemo fognario.
+In particolare, vengono rendicontati:
+
+- frequenza degli allagamenti e/o
+sversamenti da fognatura, definita dal numero
+degli episodi di allagamento da fognatura
+mista, bianca laddove ricompresa nel
+Servizio Idrico Integrato, e di sversamento da
+fognatura nera, che si verifichi ogni 100 km di
+rete fognaria totale gestita;
+
+- adeguatezza normativa degli scarichi
+di piena, definita come l'incidenza degli
+scaricatori o scolmatori 0 ancora sfioratori
+che non risultano proporzionati per attivarsi
+esclusivamente in corrispondenza di una
+portata di inizio sfioro superiore alla portata di
+acqua nera diluita, da trattare nel depuratore
+e/o non risultano dotati delle predisposizioni
+necessarie a trattenere i solidi sospesi;
+
+- controllo degli scaricatori di piena,
+definito come l’incidenza degli scaricatori o
+scolmatori 0 ancora sfioratori che non sono
+stati oggetto di ispezione da parte del gestore
+onon sono dotati di sistemi di rilevamento
+automatico dell’attivazione.
+
+Gli investimenti che impattano su questo
+
+indice sono quelli infrastrutturali, necessari
+feller) |Pee-lC-MVeWe noe el ALOU TiO (om aM Kesi ee B-] |
+depuratori e per ridurre le acque parassite.
+Altre criticita riguardanti questo indicatore sono
+state affrontate nel 2019 con interventi di tipo
+gestionale che Gruppo CAP ha avviato attraverso
+politiche finalizzate a ottimizzare i risultati e
+minimizzare i costi, anche a seguito dell’entrata
+in vigore, a marzo, del Regolamento Regionale
+che prevede il riassetto delle fognature e degli
+sfioratori.
+
+PROGETTO
+
+DI MODELLIZZAZIONE
+E TARATURA DELLE
+FOGNATURE
+
+La mappatura, cioé la realizzazione del rilievo sul
+WebGis, e la modellizzazione, cioé la costruzione
+del modello della rete mediante software di
+modellazione idraulica consentono una gestione
+ottimale del rischio idrico e idrogeologico della
+rete fognaria.
+
+Inoltre, la rete viene tarata, cioé viene calibrata
+in base ai dati acquisiti in campo mediante
+campagne di monitoraggio attraverso
+linstallazione di misuratori in punti strategici
+della rete. La calibratura ha l’obiettivo di rendere
+
+il modello il pit. possibile rappresentativo della
+realta.
+
+19 comuni
+nel 2019
+
+con fognatura
+modellizzata
+e tarata
+
+DNF - Bilancio di Sostenibilita 2019 Gruppo CAP
+
+CO CO
+
+Il numero di comuni la cui rete fognaria é stata
+modellata, cioé i comuni per cui si dispone di un
+modello, nel corso del 2019 é pari a 28 (di cui
+
+0 tarati), che sommati a quelli modellati negli
+anni precedenti fornisce un totale di 80 comuni
+modellati, di cui 19 tarati.
+
+Per questo motivo CAP, nel corso del 2019, ha
+predisposto una prima gara cosiddetta “small”,
+appaltata per un importo pari a 1.350.096,75€
+per un servizio di monitoraggio riguardante
+
+le reti fognarie di alcuni comuni/agglomerati
+prioritari, e una seconda gara cosiddetta
+
+“big”, per il completamento del servizio di
+monitoraggio nei comuni/agglomerati restanti,
+aggiudicata per un importo pari a 8.785.962,49€.
+| risultati di queste campagne di monitoraggio
+consentiranno la taratura dei modelli gia
+implementati e porteranno una consistente
+accelerazione delle attivita nel corso del 2020.
+
+ADEGUATEZZA DEL SISTEMA FOGNARIO
+
+2017 2018 2019
+
+0,36 yf ora
+
+16% 12,9% 105
+
+veZ 105 105
+
+159
+
+ 
+

@@ -1,0 +1,75 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+ment) su crediti, come di seguito piu compiutamente illustrato.
+
+Classificazione e valutazione delle attivita finanziarie
+
+Il nuovo principio contabile prevede tre categorie di classificazione e valutazione delle attivita finanziarie: costo am-
+mortizzato, fair value con variazioni a conto economico (“Fair Value Through Profit and Loss - FVTP&L’), e fair value
+con le variazioni rilevate tra le componenti reddituali (Fair Value Through Other Comprehensive Income - FVOC)).
+
+Per quanto riguarda gli strumenti di debito, il principio prevede un unico metodo per determinare la classificazione
+in una delle tre categorie. Tale metodo si basa sulla combinazione di due driver, rappresentati dalla modalita di ge-
+stione degli strumenti finanziari adottata dall’entita (business model) e dalle caratteristiche contrattuali dei flussi di
+cassa degli strumenti medesimi, che devono essere costituiti esclusivamente da pagamenti di capitale e interessi
+(Solely Payment of Principal and Interest - SPPI). In caso di fallimento dell’SPPI test, lo strumento finanziario deve
+essere valutato obbligatoriamente al fair value e le differenze derivanti dalle valutazioni successive saranno imputa-
+te direttamente a conto economico.
+
+Piu specificamente, il principio individua tre possibili business model rappresentativi delle finalita di gestione delle
+attivita finanziarie da parte dell’entita, quali:
+
++ Business model “Hold To Collect”: modello di business in cui vi rientrano le attivita finanziarie detenute con l’o-
+biettivo di realizzare i flussi di cassa contrattuali, mantenendo lo strumento finanziario sino alla scadenza;
+
++ Business model “Hold to Collect and Sell”: modello di business che include le attivita finanziarie detenute con
+lobiettivo sia di realizzare i flussi di cassa contrattuali nel corso della durata dell’attivita, sia di incassare i proventi
+della vendita della stessa;
+
++ Business model “Other”: modello di business avente natura residuale e che comprende gli strumenti finanziari
+non classificabili nelle precedenti categorie, principalmente rappresentati dalle attivita finanziarie detenute al
+fine di realizzare flussi di cassa tramite la vendita.
+
+In relazione agli strumenti di capitale, é prevista sia la classificazione nel portafoglio FVTPL (con variazioni di fair
+value a conto economico), sia la facolta di classificare irrevocabilmente, nella categoria FVOCI, alla data di prima
+iscrizione, gli strumenti di capitale non detenuti per la negoziazione. In tal caso sono imputati a conto economico
+soltanto i dividendi, mentre le valutazioni ed i risultati derivanti dalla cessione sono imputati a patrimonio netto. Per
+essi non é previsto, quindi, l'impairment test.
+
+Classificazione e valutazione delle passivita finanziarie
+
+Con riferimento alle passivita finanziarie, é stato mantenuto l'obbligo di scorporare eventuali derivati ivi incorporati.
+La rilevazione integrale delle variazioni di fair value in contropartita del conto economico é prevista, per gli strumenti
+diversi dai derivati, solo per le passivita finanziarie detenute per la negoziazione.
+
+Per le passivita finanziarie designate nell'ambito della cd. fair value option, la variazione di fair value attribuibile alle
+variazioni del rischio di credito delle passivita é rilevata direttamente tra le altre componenti reddituali (Other Com-
+prehensive Income - OCI), a meno che questo non crei o incrementi il mismatching contabile, nel qual caso l’intera
+variazione di fair value € imputata a conto economico. L'importo che é imputato tra le altre componenti reddituali
+non viene riversato a conto economico quando la passivita é regolata o estinta.
+
+Il principio prevede la facolta di applicare separatamente dal resto dell'IFRS9 le norme che regolano il trattamento
+del proprio merito creditizio sulle passivita finanziarie in fair value option.
+
+Impairment
+
+Il principio prevede un modello unico di impairment da applicare a:
+
+* tutti gli strumenti finanziari di debito non valutati a FVTPL;
+
+* attivita finanziarie valutate a costo ammortizzato;
+
++ attivita finanziarie valutate a FVOCI;
+
++ crediti derivanti da contratti di affitto e crediti commerciali.
+Tale modello, caratterizzato da una visione prospettica, richiede, a partire dalla prima iscrizione in bilancio, la rile-
+
+vazione delle perdite attese (“Expected Credit Losses —- ECL”) sullo strumento finanziario. La stima delle perdite su
+crediti va effettuata sulla base delle informazioni disponibili, senza oneri o sforzi irragionevoli e che includano dati
+
+114
+
+ 
+

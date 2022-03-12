@@ -1,0 +1,43 @@
+66
+
+GRI 103
+GRI 305-3
+
+Tale incremento @ principalmente riconducibile all’allacciamento di nuovi impianti alla rete,
+che ha pressoché raddoppiato la potenza allacciata dal 2017 al 2018; vi é stato inoltre un
+innalzamento della produzione specifica di energia grazie ad interventi di manutenzione
+dedicati a migliorare le prestazioni degli impianti.
+
+ll restante 23% delle emissioni @ associato ai consumi energetici indiretti. Dal dato si evince
+
+che la produzione di CO, é contenuta dall’utilizzo di energia da fonti rinnovabili per il
+
+97%, con emissione pari a zero. Le emissioni prodotte per le diverse fonti e quelle evitate sono
+riepilogate dai grafici di seguito riportati. Con emissioni evitate si intende la CO, non emessa in
+
+atmosfera grazie all’acquisto di energia 100% rinnovabile e grazie all’autoproduzione da
+impianti fotovoltaici.
+
+Emissioni prodotte e evitate 2017 e 2018 (tCO,)
+
+2017 2018
+| | prodotte evitate
+
+15.277 ma 15.476
+
+-90.158 -97.201
+
+Emissioni per fonte 2018 (tCO,)
+
+| Energia acquistata | Gas per riscaldamento | Diesel autotrazione
+
+ 
+
+Ulteriori emissioni generate da Lidl Italia nei propri processi aziendali sono quelle dovute al
+gas refrigerante che ammonta a 1.892 tonnellate di CO, equivalenti nel 2018 (2.200 tonnellate
+di CO, equivalenti nel 2017), riconducibili a reintegri di gas durante le attivité manutentive. In
+linea con il piano di aggiornamento degli impianti di refrigerazione Lidl Italia sostituisce su
+determinati impianti anche i gas refrigeranti fluorurati attualmente impiegati (R507, R404A,
+R410A, R407C, R134a, R448) con refrigeranti naturali (R290, R744). Infine, vi sono le emissioni
+associate al reparto logistica, a cui 6 dedicata la sezione successiva.
+

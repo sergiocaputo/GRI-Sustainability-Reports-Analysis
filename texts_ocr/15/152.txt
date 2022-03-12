@@ -1,0 +1,70 @@
+Responsabilita ambientale
+
+EMISSIONI DIRETTE DI GAS SERRA (SCOPE 1)
+
+Gli indicatori che seguono sono espressi in tonnellate di anidride carbonica (CO,) e tonnellate di CO, equivalenti, ove tale misura
+esprime anche la quantita, in aggiunta all’anidride carbonica, degli altri gas effetto serra riportati nel protocollo di Kyoto e nel
+GHG protocol, ossia Metano (CH,) € ossido di diazoto (N,O) ed € ottenuta con una formula di calcolo definita nelle “Linee Guida
+sull’applicazione in banca degli Standards GRI in materia ambientale - gennaio 2020".
+
+:@ Banco Desio
+
+ 
+
+Emissioni - Dati espressi in Ton
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+31.12.2019 31.12.2018 31.12.2017
+co, CO, Equivalenti Co, CO, Equivalenti Co, CO, Equivalenti
+9
+( Riscaldamento 1.075 1.081 1.168 1.174 1.002 1.086
+LD) Gas Naturale 1.075 1.081 1.168 1.174 994 1.000
+Ss
+C4 i
+co Gasolio 0 0 0 0 8 86
+ee)
+fo
+[——\ = Carburante flotta auto aziendali 424 427 474 478 453 457
+joo)
+C7
+(o==0)_ Benzina 7) 7) 35 35 7 7
+Gor Gasolio 353 356 439 443 445 449
+a=
+(o=| 6 | GPL 0 0 0 0 ] ]
+_——
+Totale emissioni 1.499 1.508 1.641 1.652 1.455 1.543
+
+ 
+
+ 
+
+ 
+
+ 
+
+In tabella le emissioni sono espresse nell’unita di misura di riferimento, ovvero in CO, Equivalenti; ai fini della determinazione di tall
+valori sono stati utilizzati per I’anno 2019 i fattori di emissione indicati nella tabella seguente secondo le formule definite nelle “Linee
+Guida sull’applicazione in banca degli Standards GRI in materia ambientale - gennaio 2020” di ABI.
+
+ 
+
+GRI 305-1
+151)
+

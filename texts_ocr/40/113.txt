@@ -1,0 +1,104 @@
+GPON (Gigabit Passive Optical Network)
+
+FTTH network architecture in which fiber optics arrives
+inside the customer's home. It allows for extremely high
+performance, superior to 1 Gbit/s. The GPON network
+uses passive “splitters” to subdivide the fiber repeatedly
+and to direct it towards various buildings, thus reducing
+the amount of fiber and necessary apparatus with
+respect to other FTTH architecture used in the past.
+The passive nature of the GPON network allows for the
+elimination of “active” network elements in the access
+network (which are therefore limited to the base and in
+the customers’ homes), reducing the use of electricity
+and increasing efficiency for an energy standpoint.
+
+ICT (Information and Communication(s) Technology)
+Set of methods and technologies used for
+manufacturing the transmission, reception and
+processing of information and data.
+
+IP (Internet Protocol)
+
+Set of communication standards used to exchange
+data on the Internet. This network interconnection
+protocol (Inter-Networking Protocol) is classified
+
+at network layer (3) of ISO/OSI model, created to
+interconnect heterogeneous networks for technology,
+performance, management, therefore implemented
+above other connection protocols, like Ethernet or
+ATM. It is a connectionless and best-effort delivery
+service and therefore does not guarantee reliability of
+communication in terms of error control, flow control
+and congestion control, which are handled by the higher
+transport layer (level 4) transfer protocols, such as TCP.
+The currently adopted version of the IP protocol is also
+called IPv4 to distinguish it from the more recent IPv6,
+developed to deal with the growing number of computers.
+
+Local Loop (Doppino Telefonico)
+
+The pair of twisted copper wires physically connecting
+a customer's home or office to the telephone
+company's exchange. This is the traditional foundation
+of telephone lines and is also referred to as the “last
+mile".
+
+Multimedia
+A service involving two or more communications
+
+media (e.g. voice, video, text etc.) and hybrid products
+generated through their interaction.
+
+Mobile Virtual Network Operator (MVNO)
+
+A mobile telephone services provider that uses the
+network infrastructure of another operator to provide
+services to its customers. An MVNO is a full-fledged
+telephone services provider (with its own SIM cards,
+prepaid and/or subscription promotions, customer care
+and management) that does not have its own network
+infrastructure.
+
+Alternative operator
+Alternative telecommunications provider to TIM, the
+former incumbent carrier in Italy.
+
+Administrative bodies
+
+In this report, the expression “administrative bodies"
+refers to the Management Board and the Board of
+Directors.
+
+Platform
+
+The complete set of inputs, including hardware,
+software, operating equipment and procedures,
+
+to produce (production platform) or manage
+(management platform) a particular service (service
+platform).
+
+Network
+
+A set of connected elements. In a telephone network,
+these elements consist of switches connected to
+one another and to the customer's equipment. The
+transmission equipment may consist of fiber optic or
+metal cables or of point-to-point radio connections.
+
+User Experience
+
+What a person experiences when using a product,
+system or service. User experience refers to the
+experiential and emotional aspects and the meaning
+and value of owning a product and interacting with it,
+in addition to the person's perception of aspects such
+as utility, ease of use and efficiency. It is considered
+subjective because it relates to an individual's ideas
+and feelings about a system, and it is dynamic because
+it varies over time with the user's circumstances.
+
+Additional information 113
+

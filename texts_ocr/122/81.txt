@@ -1,0 +1,137 @@
+80 GRI CONTENT INDEX
+
+ 
+
+GRI 300: ENVIRONMENTAL SERIES (2016)
+
+ 
+
+Material topic: ENERGY
+GRI 103: Management Approach (2016)
+
+103-1 69-70
+
+103-2 24-28; 47-48; 55,
+Energy management policy of SOL Group
+companies
+
+Safety and environment principles of SOL
+Group companies
+
+103-3 24-28; 47-48; 55,
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+ 
+
+GRI 302: Energy (2016)
+302-1 48
+
+302-3 48
+
+Energy consumption within the organisation
+
+Energy intensity
+
+ 
+
+Material topic: WATER AND EFFLUENTS
+GRI 103: Management Approach (2016)
+
+103-1 69-70
+
+103-2 26; 53; Safety and environment principles of
+SOL Group companies
+
+103-3 26; 53
+
+Explanation of the material topic and its boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+ 
+
+GRI 303: Management Approach (2018)
+303-1 26; 53
+
+303-2 26; 53
+
+Interactions with water as a shared resource
+
+Management of water discharge-related impacts
+
+ 
+
+GRI 303: Water and effluents (2018)
+
+303-3 53; The water withdrawn is only fresh water
+(<1,000 mg/l total dissolved solids)
+
+Material topic: EMISSIONS
+GRI 103: Management Approach (2016)
+
+103-1 69-70
+
+103-2 24-26; 29; 47; 49-50
+Safety and environment principles of SOL
+Group companies
+
+103-3 24-26; 29; 47; 49-50
+
+Water withdrawal
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+ 
+
+GRI 305: Emissions (2016)
+305-1 49-50
+
+Energy direct (Scope 1) GHG emissions
+
+305-2 49-50; Indirect emissions, calculated according Energy indirect (Scope 2) GHG emissions
+to the location-based methodology, are equal
+
+to 199,453 tonnes of CO, equivalent
+
+Material topic: EFFLUENTS AND WASTE
+GRI 103: Management Approach (2016)
+
+103-1 69-70 Explanation of the material topic and its Boundary
+
+103-2 24-25; 53 The management approach and its components
+Safety and environment principles of SOL
+Group companies
+
+103-3 24-25; 53 Evaluation of the management approach
+
+ 
+
+GRI 306: Effluents and waste (2016)
+306-2 53; 77 Waste by type and disposal method
+
+ 
+
+Material topic: SUPPLIER ENVIRONMENTAL ASSESSMENT
+GRI 103: Management Approach (2016)
+
+103-1 69-70 Explanation of the material topic and its Boundary
+103-2 44 The management approach and its components
+103-3 44 Evaluation of the management approach
+
+ 
+
+GRI 308: Supplier Environmental Assessment (2016)
+
+308-1 44 New suppliers that were screened using environmental criteria
+

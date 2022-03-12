@@ -1,0 +1,65 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Rischio di tasso di interesse sul fair value
+
+E il rischio che il valore di uno strumento finanziario fluttui per effetto di modifiche dei tassi di interesse sul mercato.
+
+Le analisi che seguono si riferiscono principalmente agli effetti delle variazioni dei tassi di mercato sul prezzo degli strumenti
+finanziari a tasso fisso o ricondotti a tasso fisso mediante operazioni di copertura di cash flow heage e, in via residuale, gli
+effetti delle variazioni dei tassi di mercato sulle component fisse degli strumenti finanziari a tasso variabile o ricondotti a tasso
+variabile mediante operazioni di copertura di fair value hedge. Tali effetti risultano tanto piu significativi quanto maggiore é la
+duration dello strumento finanziario.
+
+La sensitivita al rischio di tasso delle posizioni interessate é calcolata in conseguenza di un ipotetico shift parallelo della curva
+dei tassi di mercato di +/- 100 bps. Le misure di sensitivita indicate dall’analisi svolta offrono un riferimento di base, utilizzabile
+per apprezzare le potenziali variazioni del fair value, in caso di oscillazioni dei tassi di interesse.
+
+Di seguito, l’esito dell’analisi di sensitivita al rischio di interesse sul fair value, effettuata al 31 dicembre 2017 sulle posizioni del
+
+Gruppo Poste Italiane.
+
+Gruppo Poste Italiane - Rischio di tasso di interesse sul fair value
+
+Esposizione Delta Effetto su Passivita Risultato prima Riserve di
+al rischio valore differite verso gli delle imposte Patrimonio netto al
+. assicurati lordo delle imposte
+Descrizione a
+(milioni di euro) Nominale Fairvalue +100bps -100bps +100bps -100bps +100bps -100bps +100bps -100bps
+Effetti 2017
+
+Attivita finanziarie
+
+ 
+
+Investimenti disponibili per la vendita
+Titoli a reddito fisso
+Altri investimenti
+
+Stumenti finanziari
+al fair value rilevato a CE
+
+Titoli a reddito fisso
+Obbligazioni Strutturate
+
+Altri investimenti
+Strumenti finanziari derivati
+
+Cash flow Hedging
+
+  
+
+Fair value Hedging
+Passivita finanziarie
+Strumenti finanziari derivati
+
+Fair value rilevato a CE
+
+Cash flow Hedging
+
+Variabilita al 31 dicembre 2017
+
+ 
+
+354
+

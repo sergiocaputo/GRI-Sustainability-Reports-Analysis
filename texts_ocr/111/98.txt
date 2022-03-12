@@ -1,0 +1,61 @@
+b) le linee guida, i principi e i criteri da seguire nel trattamento dei dati personali;
+c)i processi decisionali da seguire e i sottostanti meccanismi di governo societario;
+d) i ruoli e le funzioni coinvolte.
+
+Sono state inoltre predisposte procedure che disciplinano specifiche tematiche connesse al
+trattamento dei dati personali (es. procedura per la gestione dell'esercizio dei diritti da parte degli
+interessati; procedura per la gestione dei data breach).
+
+Il funzionamento del modello di Sicurezza delle Informazioni é garantito da un processo circolare
+nell'ambito del quale:
+
+@ || Consiglio d'Amministrazione definisce la strategia della sicurezza delle informazionie verifica
+periodicamente il mantenimento del livello di sicurezza stabilito e lo stato avanzamento
+dell'adeguamento delle misure necessarie, avvalendosi anche del Comitato per il Controllo
+Interno e i Rischi di Gruppo;
+
+@ |Alta Direzione definisce la strategia di business in modo coerente con gli indirizzi definiti dal
+Consiglio di Amministrazione;
+
+@ le Funzioni di Controllo svolgono le loro attivita su tre livelli, cosi come indicato dallo standard
+di riferimento: i controlli di primo livello sono effettuati dalle strutture operative, i controlli di
+secondo livello sono svolti dalla Funzione di Sicurezza delle Informazioni che opera a livello di
+Gruppo e a cui é affidata l’analisi dei rischi inerenti la sicurezza delle informazioni, i controlli
+di terzo livello sono affidati alla funzione di Internal Audit per la verifica della coerenza e
+dell'efficienza del sistema di gestione della sicurezza delle informazioni;
+
+@ la Funzione di Sicurezza delle Informazioni presiede la gestione del rischio di sicurezza delle
+informazioni a livello di Gruppo, appoggiandosi alle diverse imprese del Gruppo per tramite
+dei Referenti di Impresa per la Sicurezza delle Informazioni e rapportandosi con il Comitato
+Interfunzionale per la Sicurezza delle Informazioni di Gruppo che svolge la funzione di
+collegamento con le diverse funzioni di business/imprese.
+
+Il modello tiene conto dell'evoluzione sia del contesto esterno sia del contesto interno, in termini
+di tecnologie, soluzioni applicative, nuove opportunita di business, nuovi mercati.
+
+Con periodicita annuale o in caso di cambiamenti significativi del contesto organizzativo o
+tecnologico, l'analisi del rischio viene rivista e sottoposta al Consiglio d'‘Amministrazione.
+
+La protezione dei dati personali é garantita da un processo circolare nell’ambito del quale:
+
+@ |'Organo Amministrativo, avvalendosi anche del Comitato per il Controllo Interno e i Rischi
+di Gruppo, definisce il livello di rischio assumibile in base alla valutazione d’impatto sulla
+sicurezza dei dati personali (DPIA — Data Protection Impact Assessment); approva la politica
+attraverso la quale sono definiti i principi da seguire nel trattamento dei dati personali.
+
+@ ilResponsabile della protezione dei dati("DPO"), anche attraverso le strutture dedicate informa
+e fornisce consulenza al Titolare del trattamento o al Responsabile del trattamento nonché
+ai dipendenti che eseguono il trattamento in merito agli obblighi derivanti dalla normativa
+relativa alla protezione dei dati; vigila sull'osservanza della normativa in materia di protezione
+dei dati personali, nonché delle politiche in materia di protezione dei dati personali, compresa
+la sensibilizzazione e la formazione del personale che partecipa ai trattamenti e alle connesse
+attivita di controllo; fornisce un parere in merito alla valutazione d'impatto sulla protezione
+dei dati relativo ai trattamenti che presentano un rischio elevato per i diritti e le liberta delle
+
+J
+ae
+
+TOGETHERMORE
+
+ 
+

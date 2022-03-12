@@ -1,0 +1,84 @@
+eurosuole spa
+© SUSTAINABILITY REPORT 2018
+Emissions
+
+EMISSIONS [305-7 point a-iv] [103-2]
+
+The table shows the fugitive air emissions from raw materials during 2018. It can be seen that all values are within
+acceptable limits. Each year Eurosuole aims to reduce volatile organic compounds (VOCs). The amount of VOCs caused
+by dyes has decreased although the amount used in production has increased. In addition, although we have increased
+the use of paint to meet fashion trends and the needs of our customers, we have managed to reduce the amount of
+solvents, which have a greater impact on the environment.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Raw materials 2018 2017 2016
+(kg) Quantity CoV Quantity cov Quantity CoV
+
+Additives 6.575 4.218 5.569 3.524 4.568 2.871
+Dyes 509 13 665 35 548 75
+Pigments 13.398 5.283 10.537 4.647 10.794 4.671
+Resins 75.900 61.313 76.141 61.950 53.567 42.697
+Solvents 175.281 175.281 158.607 158.607 155.875 155.875
+Paints 5.133 3.353 5.533 3.480 5.622 2.839
+Detachers 25.867 17.245 27.069 17.892 29.718 22.280
+Paint sold to third 80.680 61.290 86.660 66.842 80.500 52.240
+parties
+
+INDICATORS 2018 2017 2016
+
+Quantity of solvent used in gr/pair of soles produced 17,71 17,64 17,41
+
+Quantity of paint used in gr/pair of soles produced 42,22 39,25 37,92
+
+VOC on paint used (%) 89,72 88,28 88,95
+
+Scheduled maintenance on emission abatement equipment (in working hours) 660 463 1181
+
+Percentage of painted soles/soles produced 41,96% 44,85% 44,47%
+
+Percentage of internally painted soles 47,28% 45,40% 43,28%
+
+DallFrom the analysis of the internal reports that report the recordings of the ordinary maintenance of the systems for reducing
+emissions into the atmosphere, no emergency situations emerge at the plants. In 2018, however, the usual preventive
+extraordinary maintenance operations were carried out on the abatement plants in order to avoid malfunctions during the year,
+in particular:
+
+-Engines and impellers: control of all the intake motors and balancing of the impellers serving all the emission chimneys.
+-Compounds department: control of the efficiency of the sleeve plant for the abatement of the dusts of the dosing and mixing
+plant.
+
+-PU moulding: cleaning of the pipes and the precipitation towers for the abatement and recovery of the silicone,
+
+-Finishing: cleaning of the pipes of the paint dust abatement system.
+
+The indices relating to emissions into the atmosphere relate to solvent consumption and are derived from the raw material
+consumption data managed with a four-monthly solvent plan and summary for the entire calendar year. The comparison is
+always made with the previous year. The first index evaluates the quantity of total solvents used compared to the entire
+production volume. This ratio is slightly higher than in 2017, with a slight upward trend in recent years and below the value of
+internal acceptability. The second index concerns the quantity of raw materials used for the formulation of paints and the
+finishing activity compared to the painted pairs. In 2018 this index shows a further increase compared to previous years. The
+increase in these two indices can be correlated to the fact that in recent years there has been an increase in demand for thicker
+soles, i.e. soles with a larger volume and surface area, which obviously lead to an increase in the painted surface. These demands
+are strongly related to customers and the market, which are often influenced by fashion trends. The third index is maintained to
+characterise the quality of the raw materials used. This shows an increase in 2018 compared to 2017, which represents a greater
+presence of solvent in the raw material paint used. The objective over the years has been to be able to apply a water-based paint
+more in order to lower the VOC content of raw materials, but working the Eurosuole on customer orders, while offering this type
+of finish, can not impose itself significantly on the market, so the fluctuations will always be minimal. In fact, in recent years the
+trend has been towards full and fluo colours with several layers that can only be carried out using solvent-based paints.
+
+The fourth index counts the number of hours worked for maintenance operations. In 2018, the number of hours increased due
+to the shifting of the lines, the modification of the abatement systems (introduction of bag filters in the coating).
+
+@O 68
+

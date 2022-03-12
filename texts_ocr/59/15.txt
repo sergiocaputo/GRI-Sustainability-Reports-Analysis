@@ -1,0 +1,122 @@
+L’analisi di materialita
+
+Di seguito vengono riportati i temi materiali individuati ai sensi del D.Lgs. 254/2016, i relativi indicatori GRI e la correlazione
+tra i temi e gli aspetti del GRI Sustainability Reporting Standards, indicando per ciascuno di questi ultimi il perimetro di
+rendicontazione, se interno all’organizzazione o esterno.
+
+Perimetro — Perimetro
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D.Lgs. 254/2016 Tema materiale Indicatore GRI interno esterno
+Utilizzo consapevole delle 302-1 = Energy consumption within the organization xu
+risorse
+
+302-4 = Aeduction of energy consumption x
+303-1 Water witharawal by source xo
+
+Gestione responsabile delle 305-1 Direct (Scope 1) GHG emissions xe
+
+emissioni
+
+Ambiente 305-2 = Energy inalrect (Scope 2) GHG emissions x
+Gestione responsabile dei rifiuti 306-2 Waste by type and disposal method x
+Accessibilité e mobilita 302-1 = Energy consumption within the organization x
+sostenibile*
+
+Soddisfazione dei clienti 102-43 = Agproach to Stakeholder engagement x
+
+Performance economica 201-1 = Direct economic value generated and distributed x
+
+Contributo allo sviluppo 203-2 = Significant inalrect impact x
+
+7 dell’economia locale
+
+Sociale (Strumento per PMI)
+
+Sicurezza 403-2 = 7jpes of injury and rates of injury, occupational x
+diseases, lost days, and absenteeism, and number of
+work-related fatalities
+
+Crescita professionale 102-7 = Scale of the organization xX
+
+dei dipendenti
+
+102-8 = /nformation on employees and other workers x
+102-41 Collective bargaining agreements xX
+oS 401-1 New employee hires and employee turnover x
+
+ 
+
+401-2 Benefits provided to full-time employees that are not x
+provided to temporary or part-time employees
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Formazione dei dipendenti 404-1. Average hours of training per year per employee xX
+404-2 = Programs for upgrading employee skills and transition =X
+ASSISTANCE PLOGIAINS
+Diversita 405-1 Diversity of governance boales and employees x
+cH Gestione responsabile della 102-9 Supply chain x
+oo catena di fornitura **(contrasto
+Sa al lavoro sommerso @ diritti 102-10  Seniventatanges b eagantatnandis spy cran x
+umani)
+Diritti Umani 409-1 Qperations and suppliers at significant risk for incidents X
+of forced or compulsory labor
+Lotta alla corruzione attiva 205-2 §=Communication and training about anti-corruption xX
+e passiva policies and procedures
+Etica del Business 102-16  (l4lues, principles, standards, and norms of behavior xX
+Lotta alla
+ool dee alo ae 419-1 Non-compliance with laws and regulations in the social X
+attiva e passiva and economic area
+
+* Relativo anche alla categoria sociale.
+** Relativo anche alla categoria lotta alla corruzione attiva e passiva.
+*** Rendicontazione non estesa alle sedi di Roma e Stresa, in quanto non considerate significative in base alla dimensione rispetto al Gruppo.
+
+16 Report di Sostenibilita 2017
+

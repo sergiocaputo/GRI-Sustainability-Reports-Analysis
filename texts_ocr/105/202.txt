@@ -1,0 +1,71 @@
+ 
+
+| Bilanci di Poste Italiane al 31 dicembre 2017
+4. Gruppo Poste Italiane Bilancio al 31 dicembre 2017
+
+La voce Titoli a reddito fisso accoglie BTP per un valore nominale complessivo di 500 milioni di euro. Di questi, 375 milioni
+di euro sono oggetto di Asset Swap di fair value hedge.
+
+La voce Altri investimenti accoglie strumenti finanziari partecipativi (ex art. 2346 comma 6 del Codice Civile) derivanti dalla
+conversione di Contingent Convertible Notes® detenute da Poste Italiane S.p.A. il cui valore, al 31 dicembre 2017, é pari a
+zero. Come meglio descritto nella nota 3.2 Altri eventi di rilievo, nell’esercizio in commento é stata rilevata una perdita di natura
+non ricorrente pari al valore complessivo delle notes, di 82 milioni di euro comprensivo degli interessi rilevati al 31 dicembre
+2016, iscritta negli oneri finanziari.
+
+Nel corso dell’esercizio 2017, Poste Italiane S.p.A. ha effettuato la vendita di fondi comuni di investimento di tipo azionario di
+sua proprieta. Tale operazione ha generato una plusvalenza di 4 milioni di euro rilevata nella voce Proventi finanziari.
+
+La voce Azioni comprende la partecipazione in CAI S.p.A. (ex Alitalia CAI S.p.A.), acquisita per 75 milioni di euro nell’esercizio
+2013 e interamente svalutata nell’esercizio 2014.
+
+Strumenti finanziari derivati
+
+tab. A5.9 - Movimentazione degli strumenti finanziari derivati
+
+ 
+
+ 
+
+ 
+
+ 
+
+Esercizio 2017
+Cash Flow hedges Fair value hedges Fair value vs. conto Totale
+
+(milioni di euro) economico
+Saldo al 1° gennaio 2017 (7) (44) -
+Operazioni completate ” 2 10 -
+Saldo al 31 dicembre 2017 (5) (34) °
+di cui:
+
+Strumenti derivati attivi - - -
+Strumenti derivati passivi (5) (34) -
+
+ 
+
+ 
+
+* Le Operazioni completate comprendono le operazioni a termine regolate, i differenziali scaduti e in maturazione e l’estinzione di asset swap relativi a titoli ceduti.
+
+Al 31 dicembre 2017 gli strumenti derivati in essere sono rappresentati:
+
+= danove contratti di Asset Swap di fair value hedging, stipulati nell’esercizio 2010 e finalizzati alla protezione del valore di BTP
+per un nozionale di 375 milioni di euro dalle oscillazioni dei tassi di interesse; con tali strumenti la Capogruppo ha venduto il
+tasso fisso dei titoli del 3,75% acquistando un tasso variabile;
+
+= daun contratto di Swap di cash flow hedging stipulato nell’esercizio 2013 finalizzato alla protezione dei flussi finanziari relativi
+al Prestito obbligazionario di 50 milioni di euro emesso in data 25 ottobre 2013 (nota B8 — Passivita finanziarie); con tale ope-
+razione, la Capogruppo ha assunto |’obbligazione di corrispondere il tasso fisso del 4,085% e ha venduto il tasso variabile
+del prestito obbligazionario pari, al 31 dicembre 2017, al 1,843%.
+
+60. Si tratta delle Contingent Convertible Notes di originari 75 milioni di euro e durata ventennale, emesse dalla Midco S.p.A., societa che a sua volta detiene il 51%
+della compagnia Alitalia SAI S.p.A., sottoscritte da Poste Italiane S.p.A. in data 23 dicembre 2014 nell’ambito dell’operazione strategica finalizzata all’ingresso
+della Compagnia Etihad Airways nel capitale sociale di Alitalia SAl, senza alcuna interessenza di Poste Italiane nella gestione della societa emittente o della sua
+controllata. Il pagamento degli interessi e del capitale era previsto contrattualmente se, e nella misura in cui, fossero esistite risorse liquide disponibili. II prestito,
+convertibile, al verificarsi di determinate condizioni negative, in strumenti finanziari partecipativi (ex. art. 2346 comma 6 del Codice Civile) dotati degli stessi diritti
+patrimoniali associati alle Notes, ha maturato dal 1° gennaio 2015 al 31 dicembre 2016 un interesse contrattuale del 7% nominale annuo.
+
+Le
+201
+

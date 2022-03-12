@@ -1,0 +1,61 @@
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+
+Sezione 3 —- Rischio di liquidita
+
+Informazioni di natura qualitativa
+
+A. Aspetti generali, processi di gestione e metodi di misurazione del
+rischio di liquidita
+
+Per rischio di liquidita si intende il rischio di incorrere in difficolta nel reperire fondi, a condizioni di mercato, per far fronte ai propri
+impegni di pagamento quando giungono a scadenza. II rischio di liquidita pud derivare dall’incapacita di vendere un’attivita
+finanziaria rapidamente a un valore prossimo al fair value o anche dalla necessita di raccogliere fondi a tassi non equi.
+
+La politica finanziaria adottata € mirata a minimizzare questo tipo di evenienze, attraverso:
+
+a la diversificazione delle forme di finanziamento a breve e a lungo termine e delle controparti;
+
+= la distribuzione graduale e omogenea nel! tempo delle scadenze della prowista a medio e lungo termine;
+= l’adozione di modelli di analisi preposti al monitoraggio delle scadenze dell’attivo e del passivo;
+
+= la possibilita di ricorrere a operazioni interbancarie di finanziamento in Pronti contro termine fornendo in garanzia i titoli
+compresi nel portafoglio che, secondo quanto previsto dalla normativa di riferimento, sono assimilati a Attivita Prontamente
+Liquidabili (APL).
+
+Il rischio di liquidita nel Patrimonio BancoPosta é riconducibile all’attivita di impiego in titoli emessi o garantiti dallo Stato italiano
+a fronte della raccolta in conti correnti e carte prepagate nonché alla marginazione inerente all’operativita in derivati. II rischio
+eventuale pud derivare da un disallineamento (o mismatch) fra le scadenze degli investimenti in titoli e quelle contrattuali (a
+vista) delle passivita in conti correnti, tale da non consentire il fisiologico soddisfacimento delle obbligazioni verso i correntisti.
+Leventuale mismatch fra attivita e passivita viene monitorato mediante il raffronto tra le scadenze degli impieghi e della raccol-
+ta; con riferimento alle passivita da conti correnti, si utilizza il modello statistico che delinea le caratteristiche comportamentali
+di ammortamento di tale raccolta secondo i diversi livelli di probabilita di accadimento e che ne ipotizza il progressivo completo
+riscatto entro un arco temporale di 20 anni per la clientela retai/, di 10 anni per la clientela business e le PostePay ed entro 5
+anni per la clientela Pubblica Amministrazione. || Patrimonio BancoPosta esercita una stretta vigilanza sul comportamento delle
+masse raccolte al fine di verificare la validita del modello stesso.
+
+Oltre alla raccolta tramite conti correnti postali, sono da segnalare:
+@ operazioni di LTRO, per complessivi 3,9 miliardi di euro;
+
+= le forme tecniche di raccolta a breve termine operate mediante operazioni di Pronti contro termine finalizzati al versamento di
+depositi incrementali a garanzia di asset swap e Repo (collateral previsti rispettivamente da appositi CSA e GMRA).
+
+Lapproccio metodologico adottato dal Patrimonio BancoPosta é quello del maturity mismatch che prevede |’analisi dello
+sbilancio di liquidita tra flussi in entrata ed in uscita allocati all’interno di un orizzonte temporale composto da sotto-intervalli
+temporali (maturity ladder).
+
+ll modello operativo di gestione della liquidita del Patrimonio BancoPosta si connota per una gestione ‘dinamica’ della teso-
+reria che si sostanzia in un tempestivo e continuo monitoraggio dell’andamento dei flussi inerenti i conti correnti postali privati
+nonché in un’efficiente gestione dei fabbisogni/eccedenze della liquidita di breve periodo. Al fine di consentire una gestione
+flessibile degli investimenti in titoli in funzione della dinamica comportamentale dei conti correnti, il Patrimonio BancoPosta
+pud inoltre impiegare risorse, entro certi limiti e a determinate condizioni economiche, su un conto corrente presso il MEF (cd
+conto Buffer).
+
+Per quanto riguarda il modello di gestione del rischio si rimanda a quanto gia descritto nel paragrafo relativo ai rischi finanziari,
+nella Premessa della presente Parte E.
+
+Risulta trascurabile il rischio di liquidita derivante da clausole di rilascio di ulteriori garanzie connesse con un eventuale down-
+grading di Poste Italiane S.p.A.. Rientrano in tale fattispecie i contratti di marginazione dei derivati che prevedono un azzera-
+
+524
+

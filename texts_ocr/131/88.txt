@@ -1,0 +1,171 @@
++ le attivita di adattamento ai cambiamen-
+ticlimatici;
++ la comunicazione sul tema dei cambia-
+menti climatici
+Le Linee Guida presentano alcune indicazioni
+operative utili per la redazione degli inventa-
+ri delle emissioni di gas serra negli atenei ita-
+liani, al fine di favorire la creazione di inventa-
+ri congruenti in quanto a metodologie e da-
+ti utilizzati, ed in particolare l’inventario delle
+emissioni di CO,,.
+Nell'inventario delle emissioni di un ateneo le
+emissioni di CO, sono largamente prevalenti
+sulle emissioni di altri inquinanti solitamen-
+te considerati (CH,, NO, F-gas). Dai risultati
+di alcuni inventari delle emissioni (Caserini e
+Baglione, 2016) si é visto che le emissioni di
+CO, costituiscono pit del 99% delle emissio-
+ni totali, in quanto le emissioni di CH, e N,O
+legate alle attivita di combustione sono tra-
+scurabili (una buona combustione porta alla
+completa ossidazione di CH,). La stima del-
+le perdite di gas fluorurati (F-gas), dalle ap-
+parecchiature refrigeranti, é gia un obbligo di
+legge, su cuil’ateneo non ha particolari possi-
+bilita di intervento
+Ai fini dell'inventario dei consumi energeti-
+ci si considera le principali emissioni indirette
+legate ai consumi di energia elettrica e gas/
+gasolio (calore), riferiti ad un periodo tempo-
+rale di 1 anno. | consumi in questione sono ri-
+conducibili a quelle attivita che la norma ISO
+14064 e il GHC Protocol classifica in Ambito1
+(combustioni stazionarie di combustibili fos-
+sili) e Ambito 2 (energia elettrica acquistata
+dalla rete).
+Si ricorda che le emissioni di CO, riconducibili
+a questi consumi energetici, pur nettamente
+prevalenti, costituiscono solo una parte del-
+le emissioni riconducibili all’attivita dell’ate-
+neo che sono classificate nel modo seguente:
+
+ 
+
+Ambito1
+
+* emissioni derivanti da sorgenti di combu-
+stione stazionarie a base di combustibi-
+li fossili per la generazione di calore (riscal-
+damento degli edifici) 0 eventualmente di
+energia elettrica;
+
+* emissioni derivanti da sorgenti di combu-
+stione mobili a base di combustibili fossi-
+li, legate a mezzi di trasporto di proprietao
+sotto il controllo dell’ateneo;
+
+emissioni legate al rilascio non intenziona-
+le di gas ad effetto serra, quali ad esempio
+le emissioni fuggitive di refrigeranti (come
+idrofluorocarburi (HFCs) ed idroclorofluo-
+rocarburi (HCFCs) da impianti di raffredda-
+mento, oil rilascio di metano da allevamen-
+ti di animali di proprieta dell’universita;
++ emissioni derivanti da eventuali attivi-
+ta agricole condotte nell’area di proprieta
+dell’ateneo, come ad esempio quelle lega-
+te all’applicazione di fertilizzanti, pesticidi,
+concimazione, fermentazione enterica.
+
+Ambito 2
+
++ lenergia elettrica acquistata dalla rete na-
+zionale;
+
++ ilcalore/vapore/freddo acquistati da terzi,
+come ad esempio dalla rete locale di teleri-
+scaldamento o dagli impianti locali di raf-
+freddamento, laddove esistenti.
+
+Ambito 3 (sorgenti che non sono in possesso
+oincontrollo dell’ateneo)
+* emissioni legate alla merce acquistata
+dall'ateneo;
+* emissioni da mobilita dei dipendentie stu-
+denti da e verso il luogo di domicilio;
+* emissioni da mobilita di dipendenti e stu-
+denti in missione o trasferta per conto
+dell'ateneo;
+emissioni legate al trasporto e smaltimen-
+to di rifiuti.
+Gli inventari delle emissioni realizzati dagli
+atenei, cosi come |'ateneo fiorentino, han-
+no generalmente considerato le emissioni di-
+rette da riscaldamento degli edifici (derivan-
+ti ad esempio dalle centrali termiche esisten-
+ti), le emissioni indirette dai consumi elettrici
+e le emissioni dei veicoli dell’ateneo, mentre
+meno frequentemente sono state stimate
+le emissioni per gli spostamenti per l'acces-
+so ai vari edifici dell’ateneo e per le missioni
+del personale (Colleoni M. 2018, EEA 2015),
+che peré possono essere in alcuni contesti ri-
+levanti, a seconda della collocazione geogra-
+fica dell’ateneo e della disponibilita di mezzi
+pubblici adeguati
+Per questo motivo, si ritiene che, pur doven-
+do essere stimati e riportati nell'inventario,
+non debbano essere computati nella valuta-
+zione complessiva delle emissioni di gas ser-
+ra, ma valutati separatamente per poter indi-
+viduare soluzioni di trasporto maggiormente
+sostenibili, di concerto con gli Entied Aziende
+preposte alla mobilita.
+
+sezione 5 e Ateneo sostenibile
+
+Alcune emissioni dirette, legate agli assor-
+bimenti di CO, dalle superfici a verde o alle
+emissioni di f-gas dagli apparecchi refrige-
+ranti, ed altre emissioni indirette, legate al
+trattamento e smaltimento dei rifiuti gene-
+rati, ai cibi delle mense gestite dall’ateneo o
+consumati nell’ateneo e nei dintorni, ai beni
+consumati nell’ateneo (es. carta), ai servizi
+svolti da terzi nell’ateneo (es. macchinari edi-
+li), sono poco stimate e spesso appaiono tra-
+scurabili a fronte delle altre emissioni*?.
+
+In merito alla classificazione delle tipologie
+di emissioni non é al momento possibile se-
+parare i consumi elettrici per attivita (illumi-
+nazione, climatizzazione estiva/invernale,
+laboratori e data center, ecc.): tuttavia di se-
+guito si sono effettuate delle valutazioni di
+grande massima dei consumi ascrivibili all’il-
+luminazione.
+
+Analogamente per i consumi di gas/gaso-
+lio non é possibile una suddivisione per atti-
+vita anche se é presumibile che questi siano
+essenzialmente riconducibili alla climatizza-
+zione invernale e alla preparazione dell’acqua
+calda sanitaria
+
+In merito alla metodologia utilizzata per ef-
+fettuare la stima delle emissioni questa si
+basa sul prodotto fra un indicatore dei consu-
+mi (kWh per l'energia elettrica, m? per il gas
+e litri per il gasolio) e un fattore di emissione
+(FE), specifico del tipo di vettore energetico.
+Riguardo ai fattori di emissione si é fatto rife-
+rimento alle indicazioni contenute nelle Linee
+Guida citate aventi|’obiettivo di fornire delle
+indicazioni da utilizzare per la stima dei fat-
+tori di emissione per:
+
+* consumielettrici;
+
+* consumi di gas;
+
+* Consumi di gasolio
+
+* Sulla base delle stime condotte in alcuni atenei
+(ad es. Caserini e Baglione, 2016), le emissioni di
+CO,eq da questa fonte rappresentano meno dello
+0,5% delle emissioni totali di CO, degli atenei, un
+contributo quindi trascurabile
+
+87
+

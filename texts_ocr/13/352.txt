@@ -1,0 +1,64 @@
+INDICE > CONSOLIDATO > ESERCIZIO > DNF >
+
+oltre che consentire l’attuazione di strategie volte alla riduzione del rischio di mercato
+derivante da cambiamenti nella struttura dei tassi di interesse o nei tassi di cambio (c.d.
+riduzione del rischio).
+
+Con riferimento al business dei prodotti Unit Linked del ramo Vita l'indicatore
+gestionale che é stato adottato ed utilizzato da Mediolanum Vita e Mediolanum
+International Life per gestire i rischi di mercato € quello della Tracking Error Volatility
+(TEV), calcolato su base mensile.
+
+Il tracking error misura il valore aggiunto che il fondo comune in cui investe il prodotto
+UL ha realizzato rispetto al benchmark e rappresenta una prima misura della bonta
+della gestione.
+
+In aggiunta le due compagnie hanno scelto di misurare anche la volatilita del tracking
+error (0 Tracking Error Volatility), ossia la sua variabilita nel tempo, poiché essa indica
+la rischiosita differenziale che |'investitore sopporta scegliendo di investire nel fondo
+anziché direttamente nel benchmark. II modello in uso é di tipo multifattoriale.
+
+Tale modello permette di analizzare la TEV degli asset e del portafoglio di azioni,
+obbligazioni e valute utilizzando fattori differenti in base al mercato locale di
+appartenenza.
+
+Nei grafici seguenti si rappresenta la ripartizione dei portafogli per tipologia di tasso:
+
+14% 71% 48%
+
+ZERO COUPON FIXED FIXED
+
+fo fo
+
+1%
+
+VARIABLE
+
+    
+ 
+
+ 
+ 
+ 
+   
+     
+   
+
+  
+
+ 
+
+4%
+STEP CPN 51%
+FLOATING
+10% MEDIOLANUM MEDIOLANUM
+FLOATING VITA 2018 ASSICURAZIONI
+2018
+
+1%
+
+VARIABLE
+GRUPPO MEDIOLANUM
+
+BILANCIO CONSOLIDATO 2018 353
+

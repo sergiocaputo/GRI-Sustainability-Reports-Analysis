@@ -1,0 +1,146 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+Dal combinato disposto dei due driver sopra menzionati di-
+scende la classificazione in bilancio delle attivita finanziare
+secondo quanto di seguito evidenziato:
+
+¢ Attivita finanziarie valutate al costo ammortizzato: attivita
+che superano il test sulle caratteristiche contrattuali (SPPI
+test) e rientrano nel business model Hold to Collect (HTC);
+
+¢ Attivita finanziarie valutate al fair value con impatto sulla
+redditivita complessiva (FVOC)): attivita che superano |'SPPI
+test e rientrano nel business model Hold to Collect and Sell
+(HTCS);
+
+¢ Attivita finanziarie valutate al fair value con impatto a conto
+economico (FVTPL): é una categoria residuale, in cui rientra-
+no gli strumenti finanziari che non sono classificabili nelle
+categorie precedenti in base a quanto emerso dal business
+model o dal test sulle caratteristiche dei flussi contrattuali
+(SPPI test non superato).
+
+SPPI test
+
+Affinché un’‘attivita finanziaria possa essere classificata al
+costo ammortizzato o a FVOCI — oltre all’analisi relativa al
+business model —- @ necessario che i termini contrattuali
+dell’attivita stessa prevedano, a determinate date, flussi fi-
+nanziari rappresentati unicamente da pagamenti del capita-
+le e dell'interesse sull'importo del capitale da restituire (“so-
+lely payment of principal and interest” — SPPI). Tale analisi
+deve essere effettuata, in particolare, per i finanziamenti e
+per i titoli di debito.
+
+ll test SPPI deve essere effettuato su ogni singolo strumento
+finanziario, al momento dell'iscrizione in bilancio. Successi-
+vamente alla rilevazione iniziale e finché é rilevata in bilancio
+l‘attivita non é pil oggetto di nuove valutazioni ai fini del test
+SPPI.
+
+Qualora dal test emerga che i flussi di cassa contrattuali risul-
+tino significativamente differenti rispetto ai flussi di cassa di
+uno strumento benchmark, i flussi di cassa contrattuali non
+possono essere considerati come rispondenti alla definizione
+di SPPI. Anche la presenza di clausole contrattuali che posso-
+no modificare la periodicita o l’ammontare dei flussi di cassa
+contrattuali deve essere considerata per valutare se tali flussi
+soddisfano i requisiti per essere considerati SPPI.
+
+Business model
+
+Per quanto riguarda il business model, I’IFRS9 individua tre
+fattispecie in relazione alla modalita con cui sono gestiti i flus-
+si di cassa e le vendite delle attivita finanziarie:
+
+© Hold to Collect (HTC): si tratta di un modello di business il
+cui obiettivo si realizza attraverso |'incasso dei flussi di cassa
+contrattuali delle attivita finanziarie incluse nei portafogli
+ad esso associati. L'inserimento di un portafoglio di attivita
+finanziarie in tale business model non comporta necessa-
+riamente |impossibilita di vendere gli strumenti anche se é
+necessario considerare la frequenza, il valore e la tempistica
+delle vendite negli esercizi precedenti, le ragioni delle vendi-
+te e le aspettative riguardo alle vendite future;
+
+Hold to Collect and Sell (HTCS): € un modello di business
+misto, il cui obiettivo viene raggiunto attraverso |’incasso
+dei flussi di cassa contrattuali delle attivita finanziarie in
+portafoglio e anche attraverso un’attivita di vendita che é
+parte integrante della strategia. Entrambe le attivita (raccol-
+ta dei flussi contrattuali e vendita) sono indispensabili per il
+
+raggiungimento dell’obiettivo del modello di business. Per-
+tanto, le vendite sono pit frequenti e significative rispetto
+ad un business model HTC e sono parte integrante delle
+strategie perseguite;
+
+¢ Other/Trading: si tratta di una categoria residuale che com-
+prende sia le attivita finanziarie detenute con finalita di
+trading sia le attivita finanziarie gestite con un modello di
+business non riconducibile alle categorie precedenti (Hold
+to Collect e Hold to Collect and Sell). In generale tale clas-
+sificazione si applica a un portafoglio di asset finanziari la
+cui gestione e performance sono valutate sulla base del fair
+value.
+
+ll business model riflette le modalita con le quali le attivita
+finanziarie sono gestite per generare flussi di cassa a benefi-
+cio dell’entita e viene definito dal top management mediante
+l‘opportuno coinvolgimento delle strutture di business. Viene
+osservato considerando la modalita di gestione delle attivita
+finanziarie e, come conseguenza, la misura in cui i flussi di
+cassa del portafoglio derivano dall’incasso di flussi contrattua-
+li, dalla vendita delle attivita finanziarie o da entrambe queste
+attivita.
+
+ll business model non dipende dalle intenzioni del manage-
+ment relativamente ad un singolo strumento finanziario ma fa
+riferimento alle modalita con le quali gruppi di attivita finan-
+ziarie vengono gestiti ai fini del raggiungimento di un deter-
+minato obiettivo di business.
+
+In sintesi, il business model:
+
+¢ riflette le modalita con cui le attivita finanziarie sono gestite
+per generare flussi di cassa;
+
+e viene definito dal top management con |’opportuno coin-
+volgimento delle strutture di business;
+
+deve essere osservabile considerando le modalita di gestio-
+ne delle attivita finanziarie.
+
+Modalita di determinazione del fair value
+
+ll fair value é il prezzo che si percepirebbe per la vendita di
+un‘attivita ovvero che si pagherebbe per il trasferimento di
+una passivita in una regolare operazione tra operatori di mer-
+cato (ossia non in una liquidazione forzosa o in una vendita
+sottocosto) alla data di valutazione. Il fair value @ un criterio di
+valutazione di mercato, non specifico dell’entita. Sottostante
+la definizione di fair value c’é la presunzione che l'impresa si
+trovi nel normale esercizio della sua attivita senza alcuna in-
+tenzione di liquidare i propri beni, di ridurre in via significativa
+il livello delle proprie attivita ovvero di procedere alla definizio-
+ne di transazioni a condizioni sfavorevoli.
+
+Uimpresa deve valutare il fair value di un’attivita o passivita
+adottando le assunzioni che gli operatori di mercato utilizze-
+rebbero nella determinazione del prezzo dell’attivita o passi-
+vita, presumendo che gli operatori di mercato agiscano per
+soddisfare nel modo migliore il proprio interesse economico.
+La valutazione del fair value suppone che l’operazione di ven-
+dita dell'attivita o di trasferimento della passivita abbia luogo:
+
+¢ nel mercato principale dell’attivita o passivita;
+e in assenza di un mercato principale, nel mercato pili vantag-
+gioso per I’attivita o passivita.
+
+Un mercato si considera attivo quando le operazioni relative
+ad un‘attivita o ad una passivita si verificano con una fre-
+
+274 »— Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

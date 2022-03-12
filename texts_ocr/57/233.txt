@@ -1,0 +1,70 @@
+ 
+
+Bilancio In
+
+ 
+
+F. Modelli per la misurazione del rischio di credito
+
+La Banca, pur non utilizzando modelli interni di portafoglio per la misurazione del rischio di credito, verifica la pro-
+pria vulnerabilita ad eventi eccezionali ma plausibili, mediante l’esecuzione di prove di stress che si estrinsecano nel
+valutare gli effetti sul portafoglio crediti di eventi specifici o di movimenti congiunti di un insieme di variabili econo-
+mico-finanziarie in ipotesi di scenari awersi.
+
+In particolare, la Banca valuta gli impatti che le condizione economiche congiunturali producono:
+
+*  sugli assorbimenti patrimoniali che derivano dal verificarsi di eventi economici pit severi di quelli previsti in fase
+di budget;
+
++ sulla effettiva capacita di realizzare la redditivita a piano e i potenziali impatti dei minori utili sulla tenuta com-
+plessiva dei ratio patrimoniali;
+
+* sulla sostenibilita degli accantonamenti a fronte di un deterioramento del portafoglio crediti maggiore di quello
+preventivato.
+
+Relativamente al rischio di credito gli impatti derivanti da uno scenario awerso sono “veicolati” per il tramite di un
+modello econometrico semplificato che coglie la relazione tra le dinamiche congiunturali macroeconomiche e la
+dinamica dei tassi di decadimento della clientela. Inoltre sono considerati al fine dello stress la riduzione del valore
+delle garanzie in essere ed il tiraggio dei margini disponibili.
+
+SEZIONE 2 - RISCHIO DI MERCATO
+
+2.1 Rischio di tasso di interesse e rischio di prezzo — portafoglio di negoziazione di vigilanza
+
+Informazioni di natura qualitativa
+A. Aspetti generali
+
+Nell'ambito del “portafoglio di negoziazione di vigilanza’, le strategie adottate dal Gruppo hanno evidenziato, anche
+nel corso del 2017, una contenuta esposizione ai rischi derivanti dai volurmi investiti in strumenti finanziari.
+
+La principale fonte di rischio di tasso di interesse, in linea con gli esercizi precedenti e con il tradizionale profilo di
+rischio / rendimento della Banca, é costituita dalla presenza di titoli obbligazionari e strumenti derivati su obbliga-
+zioni e tassi.
+
+In particolare, il portafoglio obbligazionario, contraddistinto da volumi complessivamente non rilevanti, € stato ca-
+ratterizzato dalla prevalenza di investimenti in obbligazioni governative dell'area euro e, in via residuale, dalla com-
+ponente rappresentata da titoli quotati di emittenti corporate. L’attivita in derivati, orientata anche ad una finalita
+di copertura gestionale delle posizioni assunte sul mercato, ha riguardato principalmente strumenti regolamentati
+enon complessi.
+
+Sempre nell’ambito del “portafoglio di negoziazione di vigilanza’, invece, la principale fonte di rischio di prezzo é
+costituita da titoli azionari - anch’essi contraddistinti nel corso del 2017 da esposizioni non rilevanti - e da strumenti
+derivati su indici e titoli azionari, prevalentemente negoziati su mercati regolamentati e con finalita di copertura
+gestionale.
+
+B. Processi di gestione e metodi di misurazione del rischio di tasso di interesse e del rischio di prezzo
+
+Coerentemente con gli indirizzi regolamentari, la Banca ha proweduto allimplementazione di procedure e sistemi
+di controllo volti a conseguire una prudente gestione dei rischi di mercato. | requisiti patrimoniali previsti dalla nor-
+mativa costituiscono, infatti, una base “minimale” a presidio di tali rischi, fisiologicamente caratterizzati da elevati
+livelli di volatilita e incertezza.
+
+Oltre ad adottare la metodologia standard per la misurazione dei rischi di mercato a livello regolamentare, la Banca
+si € pertanto dotata di un’apposita policy che individua gli strumenti di monitoraggio e mitigazione utilizzati al fine
+di amministrare tale tipologia di rischio in coerenza con quanto definito dagli Organi con funzione di indirizzo strate-
+gico. Tale documento specifica, inoltre, procedure ed attori coinvolti nel processo di gestione dei rischi di mercato.
+
+ 
+
+233
+

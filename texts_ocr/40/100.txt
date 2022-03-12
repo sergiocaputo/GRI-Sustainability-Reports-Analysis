@@ -1,0 +1,116 @@
+THE CALCULATION METHODOLOGY
+The methodology used to calculate certain indicators
+reported in this Sustainability Report is described below.
+
+Personnel indicators
+
+All personnel indicators, with the exception of 102-8
+and 403-2, which consider the total workforce and
+herefore include trainees and temporary workers, refer
+‘o employees with permanent contracts, employees
+with fixed-term contracts and apprentices in service at
+he end of the reporting year.
+
+Turnover
+
+ew employee turnover is calculated as the number
+
+of new hires during the year compared to the number
+of company employees (employees with permanent,
+ixed-term and apprenticeship contracts) at 31
+December of the same year.
+
+Outgoing employee turnover is calculated as the number of
+employees who left the company during the year compared
+‘o the number of company employees (employees with
+permanent, fixed-term and apprenticeship contracts) at
+31 December of the same year.
+
+ 
+
+The total employee turnover rate is calculated as the
+number of new hires and employees who left the
+company during the year compared to the number of
+company employees in service on 31 December of the
+same year (considering employees with permanent,
+fixed-term and apprenticeship contracts).
+
+Post-parental leave retention rate
+
+The retention rate of employees who have returned from
+parent leave is calculated as the number of employees
+(with permanent, fixed-term and apprenticeship
+contracts) still in service 12 months after they have
+returned from parental leave, compared to the total
+number of employees who took parental leave.
+
+Injury rates
+
+The injury rates are calculated as follows:
+
+= Fatality rate: number of fatal injuries/workable
+hours*1,000,000
+
+= Serious injury rate: number of injuries resulting in
+more than 40 days of missed work (excluding fatal
+injuries) / hours worked*1,000,000
+
+= Recordable injury rate: number of injuries that
+occurred in the year (including illnesses) / hours
+worked 1,000,000
+
+100 Additional information
+
+The calculation of these rates includes employees with
+permanent, fixed-term and apprenticeship contracts,
+and excludes interns and temporary workers. The first
+day considered is the date when the injury occurs.
+Recorded injuries are those with a prognosis of at least
+three days.
+
+Hours worked in 2016 and 2017 were calculated by
+subtracting lost hours due to absence in the year from
+total workable hours in the same year.
+
+Energy consumption
+
+Energy consumption volumes have been converted into
+GJ considering the primary source of energy and using
+the GRI 3.1 conversion factors. Specifically, MWh =
+3.6 GJ; 1000 Nmc of natural gas = 39.01 GJ; 1 kg of
+petrol = 44.80 MJ; 1 kg of diesel = 43.33 MJ. Petrol
+and diesel were converted from liters to kg considering
+the conversion factors specified in the Stationary
+Combustion Tool of the GHG Protocol — version 4.0,
+specifically: 1 | petrol = 0.74 kg petrol; 1 | diesel = 0.84
+kg diesel (http://www.ghgprotocol.org/calculation-
+tools/all-tools).
+
+Residential and business customers' electricity
+consumption was estimated (GRI 302-2 Energy
+consumption outside of the organization) by multiplying
+the capacity data of devices provided to customers by
+the number of hours those devices are used in a year.
+The capacity of devices without specified capacity
+data was estimated using the CLEER model (http://
+cleermodel.lbl.gov/) or based on the data given in the
+products’ technical specifications. The average hours
+of use were estimated according to in-house analyses.
+
+Greenhouse gas emissions
+
+Greenhouse gas emissions were calculated on
+
+the basis of internationally recognized guidelines,
+specifically the "Corporate Accounting and Reporting
+Standard" of the Global Greenhouse Gas Protocol (the
+accepted standard for monitoring climate-changing
+emissions) and the "ICT Footprint - Pilot Testing on
+Methodologies for Energy Consumption and Carbon
+Footprint of the ICT-sector" developed by the European
+Commission.
+
+Location-based Scope 2 emissions were calculated
+considering the factors in the international Ecoinvent
+database.
+

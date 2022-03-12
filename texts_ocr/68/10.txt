@@ -1,0 +1,135 @@
+SWAaITCCH
+
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2017
+
+ 
+
+1.4.
+
+torio che regola il funzionamento degli organi sociali, il Codice Etico, ’Organismo di Vigilanza, il sistema sanziona-
+
+torio, i controlli aziendali e la valutazione e gestione integrata dei rischi di reato. In particolare il modello prevede
+
+procedure di valutazione e azioni di presidio contro i reati commessi nelle materie espressamente richiamate dal
+
+D. Lgs. 254/2016: reati commessi nei rapporti con la Publica Amministrazione (Parte speciale A), reati riguardanti
+
+la salute e sicurezza del lavoro (Parte speciale D), reati riguardanti i delitti informatici e il trattamento illecito dei
+
+dati (Parte speciale F), reati ambientali (Parte speciale N), reati contro la personalita individuale (Parte speciale Q).
+
+|| Modello adottato da SNAITECH S.p.A. prevede che le societa controllate adottino a loro volta un proprio modello,
+
+previa identificazione e analisi dei rischi di reato, in conformita con i principi, le linee guida e il Codice Etico della
+capogruppo.
+
+Coerentemente con l’applicazione delle Linee Guida di Confindustria, I‘Azienda ha:
+
+1. individuato analiticamente le aree di rischio e ne ha valutato la gravita e la probabilita, alla luce del concetto
+operativo di “rischio accettabile”, a sua volta basato sul principio di elusione fraudolenta;
+
+2. per ciascuna area ha individuato e analizzato i sistemi di controllo aziendale, con particolare riferimento al
+Codice Etico (hiip://SNAITECH.it/it/governance/codice-etico '"'""°2")}, gl Sistema Sanzionatorio, alla disci-
+plina dell’Organismo di vigilanza e ai relativi flussi informativi, in entrata e in uscita;
+individuato gli aspetti di miglioramento;
+
+4. — definito i piani di azione per il raggiungimento degli obbiettivi di miglioramento.
+
+L’Organismo di Vigilanza € nominato dal Consiglio di Amministrazione secondo principi di autonomia e indipen-
+denza, professionalita, onorabilita e continuita d’azione, come previsto dal Decreto. speciale Q).
+
+Il Sistema di Controllo Interno di SNAITECH S.p.A.
+
+|| Comitato di Controllo e Rischié ‘organo propositivo e operativo di supporto al Consiglio di Amministrazione e al
+Collegio Sindacale nella funzione di controllo interno. L’Amministratore incaricato del sistema di controllo interno
+e di gestione dei rischi - il Sistema - assume le iniziative e da esecuzione alle linee di indirizzo aziendali riguardo
+alidentificazione e controllo dei rischi. II Consiglio di Amministrazione nomina il Risk Manager, con compiti ese-
+cutivi di identificazione, valutazione e reportistica dei rischi aziendali, il Dirigente Preposto alla redazione dei
+documenti contabili e societari, il Responsabile Antiriciclaggio, come previsto dal D. Lgs. 231/2007, ai fini della
+prevenzione e del contrasto del riciclaggio di proventi di attivita criminose e di finanziamento del terrorismo, la
+funzione Internal Audit, cui affida il monitoraggio e Ia valutazione del Sistema effettuate sulla base dei risultati
+dello sviluppo di un Piano di Audit periodico approvato dallo stesso Consiglio.
+
+Le attivita di controllo previste nel Piano di Audit sono svolte in garanzia di autonomia e indipendenza di esecu-
+Zione e di giudizio in linea con quanto previsto da specifiche linee di indirizzo formalizzate nel documento “Audit
+Charter” approvato dal Consiglio di Amministrazione.
+
+ 
+
+‘5! Per un’illustrazione analitica del Madello aziendale SNAITECH si rimanda al documento “Decreto Legislativo n. 231/01. Modello
+di Organizzazione, Gestione e Controllo di SNAITECH S.p.A. Approvato con delibera del Consiglio di Amministrazione dell’l luglio.
+2008 ed aggiornato con delibera del Consiglio di Amministrazione del 4 agosto 2017’, scaricabile dal sito www.SNAITECH.it/it/
+modello-organizzazione-gestione-controllo-23101.
+
+ 
+
+1.9.
+
+1.0.
+
+La gestione dei rischi
+
+Uazienda ha avviato un progetto di Enterprise Risk Assessment (ERA] con lo scopo di migliorare e supportare il
+
+processo decisionale del Consiglio di Amministrazione con rifermento al profilo di rischio aziendale.
+
+In linea con gli obiettivi del progetto ERA, al fine di eliminare sovrapposizioni di attivita / intervento fra i diversi
+
+livelli di controllo, e nel rispetto delle previsioni del Codice di Autodisciplina e dei modelli internazionali di controllo:
+
+e nel marzo 2017 é stata implementata la funzione di Risk Management che risponde in linea gerarchica
+all‘Amministratore Delegato;
+
+¢ nel maggio 2017, sono stati rivalutati ambito di intervento, responsabilita, struttura e denominazione della
+funzione “Controllo Interno e Gestione dei Rischi", istituendo la funzione “Internal Audit” a riporto gerarchico
+del Consiglio di Amministrazione e funzionale all’Amministratore Incaricato.
+
+Le attivita svolte nel corso del 2017 inerenti al progetto ERA dopo che sono stati definiti il perimetro di assessment
+
+e gli strumenti di valutazione, sono state:
+
+e _ identificazione tramite interviste con il management dei principali rischi aziendali;
+
+e — definizione, per ogni rischio, delle sue cause e conseguenze e delle azioni di trattamento poste in essere
+dal management;
+
+¢ — condivisione dei risultati con le Business Unit e le funzioni aziendali coinvolte nel processo;
+
+¢ — consolidamento del profilo di rischio ed emissione del primo Risk Reporting.
+
+ 
+
+|| progetto avrd un‘ulteriore sviluppo nel 2018 con l’obiettivo di giungere all’emissione di un piano di audit triennale
+pienamente basato sulle risultanze del risk assessment.
+
+Lattivita di Cyber Security
+
+SNAITECH S.p.A. ha conseguito la certificazione ISO 27001:2017 in materia di gestione della sicurezza delle infor-
+mazioni.
+
+Il periodico rinnovo della certificazione ha predisposto nel tempo I‘azienda al monitoraggio dei processi e all’ag-
+giornamento del corpo procedurale e del Risk Assessment dedicati.
+
+In un‘ottica di continua evoluzione, SNAITECH S.p.A. si é inoltre dotata, nell‘ambito della Direzione ICT, di unita di
+Business Support dedicate al presidio del processo e in particolare delle unita di Network e ICT Security.
+
+Uintroduzione di strumenti di controllo come il SIEM (Security Information and Event Management), permettono
+l‘analisi e la correlazione di eventi sull’arco delle ventiquattro ore e quindi la gestione di eventuali incidenti di
+sicurezza attraverso il processo di Accident Management.
+
+lregolamento generale europe sulla protezione dei dati (GDPR, General Data Protection Regulation- Regolamento
+UE 2016/679) mira a rafforzare e rendere pil omogenea Ia protezione dei dati personali di cittadini e dei residenti
+nell‘Unione Europea, sia all’interno che allesterno dei confini comunitari. II testo, pubblicato su Gazzetta Ufficiale
+Europea il 4 maggio 2016 ed entrato in vigore il 25 maggio 2017, inizierd ad avere efficacia il 25 maggio 2018.
+Nella prospettiva del recepimento di questo regolamento in Italia, SNAITECH ha realizzato un‘iniziativa specifica
+sul tema, in termini di progetto, awareness e di investimento e ha iniziato Ia fase di introduzione di strumenti allo
+“stato dell‘arte” per garantire la sicurezza delle informazioni sia in ambito mobile che fisico.
+
+ 
+
+ 
+
+ 
+
+19
+

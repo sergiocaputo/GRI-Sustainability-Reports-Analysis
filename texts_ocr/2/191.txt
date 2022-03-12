@@ -1,0 +1,132 @@
+196
+
+compostaggio, dagli autoveicoli dell’autoparco (con riferimento
+alle macchine a benzina e diesel) e, infine, dalle perdite di esafluo-
+ruro di zolfo (SF) che possono verificarsi presso gli impianti di
+Areti e dei gas freon dei condizionatori.
+
+Il dato della CO, emessa dagli impianti di termovalorizzazione nel
+2019 é in diminuzione e cid é dipeso, sostanzialmente, da una mi-
+nore produzione presso San Vittore del Lazio, dovuta soprattutto a
+ritardi di manutenzione.
+
+Le emissioni di gas a effetto serra di tipo Scope 2 sono quelle indi-
+rette, derivanti dai consumi di energia elettrica e tenute anch’esse
+sotto controllo. Nel 2019, gli aumenti sono dipesi principalmente
+dall’acquisizione, da parte di Gori, della gestione di impianti prima
+gestiti dalla Regione Campania.
+
+Le emissioni di gas a effetto serra di tipo Scope 3, infine, sono altre
+emissioni indirette: si rendicontano quelle derivanti dalla vendita
+del gas, dall’acquisto di beni, servizi e lavori, dai viaggi dei dipenden-
+ti per ragioni d’ufficio e dal pendolarismo degli stessi (si veda, pit
+avanti, la tabella n. 65).
+
+Relativamente alle emissioni Scope 3, Acea, gia da alcuni anni,
+monitora i propri fornitori, affinché siano sensibilizzati al tema
+
+degli impatti ambientali e stima i dati relativi agli spostamenti
+dei dipendenti. In particolare Acea sottopone un questionario
+per conoscere le emissioni lungo la supply chain. Nel 2019 il
+
+"85 suddivisi
+
+questionario @ stato somministrato a 117 fornitori
+tra fornitori di “beni”, “servizi e lavori”. Le informazioni am-
+bientali di tipo quantitativo richieste sono riferite a: combu-
+stibili consumati per eventuali processi ed usi ordinari, energia
+consumata negli uffici, combustibili consumati per i trasporti
+ed eventuali consumi di gas refrigeranti (si vedano i paragrafi
+| consumi energetici fuori del Gruppo e Le emissioni di gas a ef-
+fetto serra, ed anche il capitolo Fornitori). Quest’anno hanno
+risposto ai dati ambientali 40 fornitori, di cui 12 di “beni” e 28
+di “servizi e lavori”.
+
+Tre impianti del Gruppo, in particolare il termovalorizzatore di
+Terni e le Centrali termoelettriche Montemartini e Tor di Valle,
+sono soggetti all’Emission Trading Scheme (ETS). Le quote asse-
+gnate nel quadro del PNA (Piano Nazionale di Allocazione), ri-
+spetto alle emissioni effettive registrate nel triennio 2017-2019,
+sono riportate in tabella n. 63.
+
+ 
+
+TABELLA N. 63 - QUOTE DI EMISSIONE CO, DA PIANO NAZIONALE DI ALLOCAZIONE (PNA) ED EMISSIONI EFFETTIVE
+
+PER CENTRALE (2017-2019)
+
+ 
+
+ 
+
+ 
+
+2017 2018 2019
+impianto (t)
+ENA effettive PENA effettive ae effettive
+Tor di Valle 6.869 33.507 5.805 42.281 4775 46.617
+Montemartini 0 2.278 0 607 0 1.514
+Termovalorizzatore di Terni 0 118.653 0 114.093 0 109.369
+
+(*) Nel 2019, come per gli anni precedent, il quadro legislativo di riferimento ha consentito allmpianto di Tor di Valle di beneficiare di quote di emissione a titolo gratuito
+(4.775 t) essendo asservito ad una rete di teleriscaldamento. II dato 2018 delle emissioni effettive é stato rettificato con il dato certificato.
+
+(**) Emissioni stimate, in attesa di certificazione da parte dell’ente preposto
+
+INDICI DI INTENSITA DELLE EMISSIONI
+
+DI GAS A EFFETTO SERRA
+
+Uno degli indici di intensita delle emissioni di gas a effetto serra
+monitorati (si veda tabella n. 65) concerne le emissioni di ani-
+dride carbonica di tipo Scope 2, derivanti dalle perdite sulla rete
+di distribuzione di energia elettrica, rispetto al totale di energia
+elettrica distribuita. L’indice migliora ulteriormente, passando da
+0,0113 t/MWh del 2018 a 0,0112 t/ MWh del 2019, in linea con la
+decrescita continua delle perdite relative sulla rete (perdite tec-
+niche/energia elettrica distribuita).
+
+Con riferimento alle altre emissioni in atmosfera e, in par-
+ticolare, ai macro-inquinanti piu rilevanti dovuti ai principali
+processi produttivi degli impianti di Acea Ambiente e Acea
+Produzione, si vedano i dati riassuntivi in tabella n. 64. In essi,
+si evidenzia la sostanziale diminuzione, dopo il 2017, dell’(NO,
+(ossido di azoto), grazie alla trasformazione dell’impianto di
+Tor Di Valle da ciclo combinato a impianto ad alto rendimen-
+to (CAR). Gli altri dati sono in linea con i valori precedenti e
+continuano ad essere sotto monitoraggio.
+
+ 
+
+TABELLA N. 64 - LE EMISSIONI TOTALI DI INQUINANTI IN ATMOSFERA PRODOTTE DAI PRINCIPALI IMPIANTI DEL GRUPPO
+
+(2017-2019)
+
+ 
+
+ 
+
+2017 2018 2019
+
+EMISSIONI (t)
+co 681 6,38 7,02
+NO, 198,20 189,40 188,19
+sO, 0,42 016 0,33
+polveri (particolato) 0,55 0,50 0,60
+
+ 
+
+NB Le emissioni si riferiscono agli impianti di Acea Ambiente — termovalorizzazione e Acea Produzione.
+
+| monitoraggi eseguiti su impianti a rischio'** hanno dimostrato Pas-
+senza di emissioni in quantita significative di sostanze responsabili
+
+della riduzione della fascia di ozono (per i consumi si veda il Bilancio
+ambientale, le Risorse utilizzate).
+
+88 | fornitori a cui é stato inviato il modello di richiesta dati concernenti i consumi di energia elettrica e le emissioni di CO, (per quantificare le emissioni del Gruppo di tipo
+Scope 3) sono stati individuati, come gia per il triennio scorso, tra i piu rilevanti per fatturato.
+86 Soprattutto impianti di condizionamento che utilizzano come gas refrigerante sostanze soggette al protocollo di Montreal del 1987, in particolare clorofluorocarburi.
+
+GRUPPO ACEA / BILANCIO DI SOSTENIBILITA 2019
+

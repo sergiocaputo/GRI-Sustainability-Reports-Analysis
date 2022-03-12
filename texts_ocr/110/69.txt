@@ -1,0 +1,179 @@
+Tabella 13: Emissioni dirette e indirette, suddivide per “uffici e sedi” e “siti produttivi” GRI 305-1 e GRI
+305-2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PSEA di CO, dirette e indirette (Tonnellate Nh | nls Dee DEK
+Emissioni dirette (scope 1) 2.734 2.610 124 5%
+Da fonti non rinnovabili
+Gas naturale 1.990 1.790 200 11%
+Da veicoli di proprieta dell'azienda
+Diesel 743 819 (76) -9%
+Benzina 1 1 0 0%
+Emissioni indirette (scope 2) 16.015 16.400 (385) -2%
+Elettricita da fonti non rinnovabili 16.015 16.400 (385) -2%
+Totale emissioni (scope 1 + scope 2) 18.749 19.010 (261) -1%
+Tabella 14: Intensita energetica GRI 302-37”
+ensita energetica 0 016 Delta Delta %
+Consumi di energia kWh 56.865.474 | _56.521.515 343.959 1%
+Superficie totale delle strutture aziendali | m2 140.196 143.161 (2.965) -2%
+kWh PB
+Totale Im2 406 395 11 3%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabella 15: Rifiuti prodotti internamente per modalita di smaltimento, suddivisi per “uffici e sedi” e “siti
+produttivi” GRI 306-2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rifiuti Metodi di smaltimento - Siti Produttivi DEK
+(Tonnellate)
+
+Rifiuti_ pericolosi 55 49 6 12%
+Recupero, includendo I’energia recuperata 28 16 12 80%
+Smaltimento in discarica 26 30 (4) -13%
+Altro 1 3 (2) -58%
+Rifiuti non pericolosi 6.109 7.156 (1.046) -15%
+Riciclo 5.584 6.616 (1.032) -16%
+Recupero, includendo l'energia recuperata 102 135 (33) -24%
+Smaltimento in discarica 411 401 10 2%
+Altro 12 4 8 208%
+Totale 6.164 7.205 (1.040) -14%
+
+ 
+
+Rifiuti - Metodo di smaltimento Uffici e Sedi
+(Tonnellate)
+
+Delta %
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rifiuti_ pericolosi 8 3 5 164%
+Riciclo 5 3 2 717%
+
+Recupero, includendo I'energia recuperata 2 0 2 3687%
+Smaltimento in discarica 1 0 1 574%
+
+Rifiuti non pericolosi 22.701 20.333 2.368 12%
+Riciclo 22.370 19.946 2.424 12%
+
+Compostaggio 6 5 1 22%
+
+Recupero, includendo I'energia recuperata 319 382 (63) -17%
+Smaltimento in discarica 6 : 6 :
+
+Totale 22.709 20.336 2.373 12%
+
+ 
+
+ 
+
+ 
+
+6 | fattori utilizzati per il calcolo delle emissioni sono stati pubblicati: dal Department for Business, Energy &
+Industrial Strategy (BEIS) nel 2017.
+
+77 | intensita energetica € calcolata come rapporto tra i consumi energetici totali del Gruppo e la superficie totale
+delle strutture aziendali. Per i siti produttivi € stata considerata la superficie totale lorda mentre per le sedi e uffici la
+superficie é stata riproporzionata sulla base dell’utilizzo effettivo.
+
+70
+

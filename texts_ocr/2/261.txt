@@ -1,0 +1,137 @@
+266
+
+PRODOTTI - AREA ENERGIA (segue)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dato n. spiegazione ~ commento
+Energia elettrica netta totale vettoriata a clienti finali del mercato libero connessi alla rete di distribuzione elettrica di Roma
+
+31 e Formello. Comprende sia la quota di energia elettrica venduta da Acea Energia, sia quella venduta da altri operatori attivi
+sul mercato libero. Il dato é misurato con incertezza del + 5% secondo Norma CEI 13-4.
+
+Energia elettrica netta ceduta ai clienti finali di maggior tutela.
+
+32 Vandamento in riduzione é conseguenza del progressivo passaggio di clienti in servizio di maggior tutela sul mercato libero
+cloé é diretta conseguenza del processo di liberalizzazione del mercato elettrico in atto in Italia dal 1999 (D. Lgs. n. 79/99).
+|| dato é stimato sulla base delle rilevazioni dei consumi fatturati.
+
+33 Energia elettrica netta venduta da Acea su mercato libero a livello nazionale. II dato é stimato.
+
+34 Energia elettrica netta venduta da Acea a livello nazionale su mercato libero e servizio di maggior tutela. Il dato é calcolato.
+
+35 Gas naturale venduto da Acea sul mercato a livello nazionale. II dato é calcolato.
+
+36 Flusso luminoso erogato dal sistema di illuminazione pubblica a Roma. Il dato, calcolato, rappresenta il prodotto tra il numero
+delle lampade installate e il relativo valore di flusso luminoso “di targa”.
+
+37 Numero complessivo di misure/controlli eseguiti a vantaggio dell’area energia.
+
+Il dato € calcolato come somma delle singole determinazioni effettuate dai laboratori competenti.
+
+ 
+
+PRODOTTI - AREA AMBIENTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dato n. spiegazione ~ commento
+
+38 Rifluti totali in ingresso. Sono le quantita in arrivo all’impianto di Orvieto, che comprendono: rifiuti solidi urbani indifferenziati,
+frazione organica, verde, rifiuti industriali non pericolosi. Il dato é calcolato.
+
+39 Rifluti awviati in parte alla sola triturazione, in parte al solo trattamento aerobico, in parte sia al digestore anaerobico sia al
+trattamento aerobico. Il dato é calcolato.
+
+40 Rifiuti smaltiti in discarica direttamente. Il dato é misurato con incertezza del + 1%.
+
+41 Rifiuti smaltiti in discarica dopo il trattamento. Il dato é misurato con incertezza del + 1%.
+
+42 Rifiuti recuperati e non inviati in discarica. Si tratta di vetro, carta e cartone, ferro e plastica. Il dato é calcolato.
+
+43 Compost prodotto presso l’impianto di Orvieto. Grazie alla combinazione del processo anaerobico con quello aerobico, il
+prodotto é Compost di Qualita. Il dato é misurato con incertezza del + 1%.
+
+44 Riduzione per stabilizzazione. Rappresenta la perdita di massa dovuta alle trasformazioni naturali dei materiali e alla perdita
+d’acqua per evaporazione. II dato é calcolato.
+Riftuti organici totali in ingresso. Sono le quantita in arrivo agli impianti di Aprilia, Monterotondo Marittimo e Sabaudia, che
+comprendono: fanghi, verde e frazione organica. Limpianto di Monterotondo Maritimo, che aveva sospeso i conferimenti
+
+45 nel 2018, é stato riawiato nel 2019 dopo i lavori di realizzazione di una nuova sezione di digestione anaerobica,; mentre
+Pimpianto di Aprilia, posto nel 2017 sotto sequestro preventivo dalla Procura di Latina per aspetti correlati alle emissioni
+odorigene, ha potuto lavorare nel 2019 in condizioni prossime a quelle di regime. II dato é calcolato.
+Fanghi in entrata. Rappresenta la quantita di fanghi in ingresso agli impianti di compostaggio di Aprilia, Monterotondo
+
+46 Marittimo e Sabaudia. La forte diminuzione delle consistenze 2018 dipende dalla sospensione dei conferimenti presso
+Pimpianto di Monterotondo Marittimo. Il dato é misurato con incertezza del + 1%.
+
+47 Verde in entrata. Rappresenta la quantita di verde proveniente dai parchi, boschi o da altre aree in arrivo presso gli impianti
+di Aprilia, Monterotondo Maritimo e Sabaudia. Il dato é misurato con incertezza del + 1%.
+
+48 Frazione organica da raccolta differenziata (FORSU) in ingresso all’impianto di compostaggio di Aprilia e FORSU e altri
+scarti agroalimentari all’ingresso dellimpianto di Monterotondo Marittimo. Il dato é calcolato.
+Compost di Qualité. Rappresenta la quantita di compost di qualita prodotto presso gli impianti di Aprilia, Monterotondo
+Marittimo e Sabaudia. Per il 2019 il dato di produzione é stimato. La stima di compost viene effettuata in base ai quantitativi
+
+49 trasportati giornalmente in maturazione o nelle aree di stoccaggio finale. All’atto della vendita, il compost, a causa delle
+perdite di processo, pud risultare inferiore a quanto stimato. Il compost risulta pari a zero presso Monterotondo Marittimo
+perché il materiale in ingresso, a fine 2019, era ancora in lavorazione/trattamento.
+
+50 Materiale non compostabile a smaltimento. Rappresenta il materiale non biodegradabile (ad esempio plastiche), che viene
+separato dal materiale compostabile e inviato a smaltimento. II dato é misurato con incertezza del + 1%.
+
+51 Riduzione per stabilizzazione. Rappresenta la perdita di massa dovuta alle trasformazioni naturali dei materiali e alla perdita
+d’acqua per evaporazione. II dato é calcolato.
+
+52 Determinazioni analitiche total. Rappresentano il totale delle determinazioni analitiche effettuate presso gli impianti
+
+seguenti: Orvieto, Aprilia, Monterotondo Marittimo e Sabaudia. Il dato é calcolato.
+
+ 
+
+GRUPPO ACEA / BILANCIO DI SOSTENIBILITA 2019
+

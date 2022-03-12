@@ -1,0 +1,62 @@
+_ 34 OPERATIONAL EXCELLENCE MODEL
+
+Asset integrity
+
+Asset integrity The asset integrity system ensures that the asset is operated effectively and efficiently to safeguard
+assures the people, the environment and operational continuity. The Asset Integrity Management System develops
+safeguard of throughout the lifetime of the asset, from the initial design stage (Design Integrity), to procurement,
+people, of the construction, installation and testing (Technical Integrity) through to operational and decommission-
+environment ing (Operating Integrity). In 2019, Eni launched initiatives to further promote the Asset Integrity culture
+and of operational with a cross-sector, widespread approach. In this regard, in January the Asset Integrity Day was held,
+continuity launching the training program entitled “The Culture of Asset Integrity” that reaches the entire Eni pop-
+
+ulation involved in this set of topics. Furthermore, the involved Technical Units assured oversight of
+all Asset Integrity aspects through the entire value chain, also through the development of research
+projects aimed at the introduction of new technologies.
+
+DESIGN INTEGRITY TECHNICAL INTEGRITY OPERATING INTEGRITY
+
+ 
+
+MONITORING THE INTEGRITY OF OUR PIPELINES: E-SPLORA
+
+Periodic verification of the internal integrity of the pipelines and their cleanliness are essential activi-
+ties to ensure the safety and reliability of new or mature assets over time. However, use of inspection
+or cleaning instruments (known as PIGS) at times involves operational risks because there could be
+presence of major internal deposits. To ensure and optimise these maintenance activities, Eni has
+developed the e-splora set of technologies that, through the use of acoustic techniques and of min-
+iaturised sensors, is able to detect the presence of anomalies inside the pipelines with minimal risk.
+The system, applicable to most commonly used PIGS, has now become a standard: in 2019 alone,
+over 600 kilometers of pipelines were inspected, both onshore and offshore in Italy (Val D’Agri, Sicily
+and Abruzzo}, Congo, Mexico and Nigeria. By 2020, a new version will be available that will allow to
+OE a Te) verify the integrity of pipelines that currently could not be inspected, with the addition of new fea-
+paeaieits  telD) tures such as GPS/GSM position reporting in case of any trespassing, and there will be a new tool
+
+aR ACen OR 1-1 LS) (2) -) . i
+Ru ey that will allow to detect in closer detail any deformation inside the lines (deposits, cavings).
+
+ 
+
+Process safety
+
+Eni has developed and implemented a Process Safety Management System, monitored through
+dedicated audits, to prevent and control uncontrolled releases of hazardous substances that may
+evolve into significant incidents, thus safeguarding people’s safety, the environment and assets.
+Monitoring these releases (Process Safety Events Tier 1 and Tier 2) in the past few years, shows a
+decreasing, constantly improving trend.
+
+In 2019, Eni participated in an EPSC (European Process Safety Center) working group through an
+internal technical roundtable which, led to the definition of the fundamental rules for Eni’s Process
+Safety, the Process Safety Fundamentals (PSF), whose main objectives are:
+
+* reduce over time the releases (containment losses) from process equipment;
+
+* provide front-line personnel operating the plant with practical, easy to implement rules;
+
+* incentivise a positive culture of attention to Process Safety and Asset Integrity matters;
+
+* raise the operating personnel’s awareness and competence on these matters.
+
+The stage of disseminating the PSF at the first three pilot sites has started and in 2020 the dissemi-
+nation campaign will be extended to all Eni sites in Italy and abroad.
+

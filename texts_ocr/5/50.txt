@@ -1,0 +1,81 @@
+Alperia Sustainability Report 2019
+
+home’s consumption curve. With updates every 15 minutes and new features allowing for a connection to
+other technology and devices, the meters monitor energy consumption in greater detail and show exactly how
+much energy each individual appliance uses. Once replaced, the old meters will not be treated like normal
+waste: 96% will be recycled to produce chairs. Each new chair recycles the plastic from 18 replaced meters.
+This too demonstrates how crucial sustainability and circularity are to our work.
+
+Through Edyna, Alperia is also working on the development of Smart Grids that allow production, storage, grid
+and consumption to be managed through a single system. The project, developed together with Regalgrid
+Europe S.r.l., a leader in the digital energy sector, provides a platform that offers users advanced features to
+monitor, optimise and manage self-produced and consumed energy in real-time, both at the individual user
+and community level. This is an evolving area, also set up through the European Flexi-grid project. By
+exploiting digital technologies, smart grids, loT and blockchain, the intention is to provide a transparent platform
+for data management, transmitting real-time information on grid conditions to the operator. As a result, grid
+flows are optimised, ensuring reliability, stability and security along the entire electrical grid of the TSO
+(Transport System Operator) and DSO (Distribution System Operator).
+
+Edyna is also implementing the Edyna Smart platform in its headquarters, monitoring and managing
+consumption as follows:
+
+- Smart Water: rainwater collection for irrigation, measurement of water transit and detection of soil
+moisture, as well as intelligent irrigation based on forecast and/or received weather data
+
+- Smart Vehicle: intelligent parking system at the Edyna headquarters, which identifies free spaces,
+counts vehicle numbers, provides a parking system for bikes and motorbikes and has electric-charging
+columns
+
+- Smart Lighting: intelligent lighting system with detection sensors
+
+- Smart Access: automatic access recognition system
+
+Once the development phase is complete, the system will be brought to market to encourage better energy
+resource management.
+
+Monitoring and accountability
+
+Edyna monitors and manages electricity grids and gas network 24 hours a day, 365 days a year, through a
+remote monitoring system in Bolzano that guarantees a safe, high-quality distribution service. Edyna
+oversees the management of these networks and, in the event of malfunctions, has a 24-hour emergency
+call centre with bilingual staff and a team of experts to promptly repair any faults. All unplanned interruptions
+of the distribution network are recorded at the remote monitoring system and analysed during monthly
+meetings. These meetings are attended by the four area managers (East Zone, West Zone, Central Zone
+and South Zone). Together with the managers of the Technical Area and Network Operation, they identify
+the worst lines, i.e. the lines that are most affected by issues, and the root causes of the interruptions. In
+2019 there were 1,51 supply interruptions per customer. That represents a SAIFI (System Average
+Interruption Frequency Index) reduction of -12% compared to 2018; the duration was 28,07 minutes, an
+increase of 3% in SAIDI (System Average Interruption Duration Index) compared to 2018. With careful
+distribution network planning, expansion of remote monitoring systems, optimisation of service availability
+and future investments in software, SAIDI/SAIFI indicators can be maintained and even improved, which
+means better continuity of power supply for Edyna’s customers.
+
+Figure 9: System Average Interruption Duration/Frequency Index (SAIFI/SAID1)
+{GRI EU28/29}
+
+ 
+
+ 
+
+itis 2019 2018 rls PLU Aa el Cel a)
+SAIFI (Frequency of interruptions per customer) nr 1,51 1,73 1,69 1,59 -12%
+SAIDI (Power outage duration per customer) minutes | 28,07 27,36 20,74} 23,66 3%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+51
+

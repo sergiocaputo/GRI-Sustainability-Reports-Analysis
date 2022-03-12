@@ -1,0 +1,66 @@
+Alperia Sustainability Report 2019
+
+Strategic objective: We want to ensure the protection of all data and compliance with
+applicable safety standards.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Operational Measures implemented in Measures 1py-¥-Yo lal =¥<) Target Value in
+objectives 2019 planned in 2019 (new) value 2019
+Total compliance | * Adoption of a software 2020 Percentage | 100% 100%
+with privacy laws | application for the (ongoing) | compliance
+management of GDPR
+issues and compliance
+control
+I
+No security * Renewal of ISO 27001 * Renewal of 2020 Security 0 0
+incidents involving | (Information Security ISO 27001 (ongoing) | incidents
+information Management) certification for | * Assessment of
+management and | 2019 suppliers certified
+data protection * Assessment of suppliers according to
+certified according to ISO 27001
+ISO 27001
+l
+Ensure business __| * Test and execution of the * Update to ensure | 2017- Preparation | 100% 80%
+continuity in the disaster recovery plan entire security 2021 percentage
+event of computer | * Development of a business | system is state of | (ongoing)
+incidents (such as | continuity plan in case of the art
+server or power attack (INS-212.01 Business
+failures) Continuity — Disaster
+Recovery IT)
+* Adoption of systems to
+reduce ransomware threats
+* Update to ensure entire
+security system is state of the
+art
+Create aculture | * Development of an online * Preparation ofa | 2017- Preparation | 100% 50%
+of information cyber-security course for the | cyber-security 2021 percentage
+security among IT team training course on | (ongoing)
+
+our employees to
+reduce risks
+
+ 
+
+ 
+
+safe use of digital
+media for all group
+personnel
+
+ 
+
+ 
+
+ 
+
+ 
+
+91
+

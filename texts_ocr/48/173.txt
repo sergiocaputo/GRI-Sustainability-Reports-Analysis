@@ -1,0 +1,106 @@
+| 172 | Generali Group
+
+Provisions
+
+Provisions for risks and charges are provided only when
+it is deemed necessary to respond to an obligation (legal
+or implicit) arising from a past event and it is probable
+that an outflow of resources whose amount can be relia-
+bly estimated, as required by IAS 37.
+
+Insurance provisions
+
+This item comprises amounts, gross of ceded reinsur-
+ance, of liabilities related to insurance contracts and in-
+vestment contracts with discretionary participation fea-
+tures.
+
+Life insurance policies
+
+In accordance with IFRS 4, policies of the life segment
+are classified as insurance contracts or investment con-
+tracts based on the significance of the underlying insur-
+ance risk.
+
+Classification requires the following steps:
+
+— identification of the characteristics of products (option,
+discretionary participation feature, etc.) and services
+rendered;
+
+— determination of the level of insurance risk in the con-
+tract; and
+
+— application of the international principle.
+
+Insurance contracts and investment contracts
+with DPF
+
+Premiums, payments and change in the insurance provi-
+sion related to products whose insurance risk is consid-
+ered significant (e.g. term insurance, whole life and en-
+dowment with annual premiums, life contingent annuities
+and contracts containing an option to elect at maturity a
+life contingent annuity at rates granted at inception, long-
+term health insurance and unit-linked with sum assured
+in case of death significantly higher than the value of the
+fund) or investment contracts with discretionary partici-
+pation feature -DPF — (e.g. policies linked to segregated
+funds, contracts with additional benefits that are con-
+tractually based on the economic result of the compa-
+ny) are accounted for in accordance with previous local
+GAAP. Gross premiums are recognised as a revenue, net
+of cancellations of the period, and ceded premiums are
+recognised as expenses of the period.
+
+Annual Integrated Report and Consolidated Financial Statements 2018
+
+Shadow accounting
+
+In order to mitigate the valuation mismatch between fi-
+nancial investments carried at fair value according to IAS
+39 and insurance provisions which are accounted for in
+accordance with previous local GAAP, shadow account-
+ing is applied to insurance contracts and investments
+contracts with DPF. This accounting practice attributes
+to the policyholders part of the difference between IAS/
+IFRS valuation of the basis on which the profit sharing is
+determined and valuation which is used to determine the
+profit sharing actually paid. This accounting treatment is
+included in the deferred policyholder liabilities in the life
+insurance provisions.
+
+The policyholders’ share is calculated on the average
+contractual percentage for the policyholder participation,
+as the local regulation already foresees the protection of
+guaranteed obligations through the recognition of addi-
+tional provisions for interest rate risk if future financial re-
+turns based on a proper time horizon are not sufficient to
+cover the financial guaranties included in the contract.
+
+The accounting item arising from the shadow accounting
+application is included in the carrying amount of insur-
+ance liabilities whose adequacy is tested by the liability
+adequacy test (LAT) according to IFRS 4 (refer to para-
+graph Details on insurance and investment contracts), to
+rectify the IAS/IFRS carrying amount of insurance provi-
+sions.
+
+The main accounting effect of the shadow accounting
+is double fold: on the one hand, the recognition of the
+policyholders’ share of unrealized gains and losses on
+available for sale financial assets in the deferred poli-
+cyholders’ liabilities; on the other, the insurer’s share is
+recognised in equity. If financial instruments are fair val-
+ued through profit or loss or financial investments are
+impaired, the policyholders’ share on the difference be-
+tween the market value and valuation used to determine
+the return which the profit sharing is based on (e.g. the
+carrying amount in segregated fund) is recognised in the
+profit and loss account. The shadow accounting also al-
+lows the recognition of an insurance liability related to
+unrealized gains on available for sale financial assets
+linked to contracts with discretionary participation fea-
+ture, up to the amount of the increase in value of these
+assets due to the change of market rates.
+

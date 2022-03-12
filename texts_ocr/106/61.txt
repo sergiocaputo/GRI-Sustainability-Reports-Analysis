@@ -1,0 +1,56 @@
+60 1 Consolidated Non-Financial Information Statement 2019
+
+ 
+
+In the context of technologies for the mobility of the future, Prysmian Group has donated the motor cable to the testing
+centre for the Hyperloop project established in Delft (Netherlands) by Hardt, a business leader active in the development of
+a network of Hyperloop links in Europe.
+
+Hardt has obtained positive results in terms of propulsion and exchange on a Hyperloop vehicle powered by Prysmian cables,
+marking a significant milestone in the creation of a high-speed transport system that is ten times more energy efficient than
+aeroplanes and three times more than trains.
+
+Automotive
+
+During 2019, the automotive sector focused even more on implementing various cabled solutions for the transmission of data
+hat will be applied in connected driver-less cars. Prysmian Automotive has worked on developing several important solutions
+relating to data transmission cables. Two UTP cables have been designed, paying particular attention to the thickness of the
+special insulation and the reduced size of the copper alloy conductor, in order to support the stability of data transfer in appli-
+cations using a faster CAN FD BUS.
+
+For 100 Mb Ethernet applications, a third UTP cable has been perfected that is sheathed ina special insulating material and has
+a miniaturised copper conductor.
+
+n addition to the trend towards connected driver-less cars, the automotive sector dedicates special attention to the pro-
+gress made in the development of electric mobility, having regard for environmental protection, the increasing shortage of
+ossil fuels and achievement of the ambition objectives for the reduction of CO, emissions set by the EU. Electric vehicles can
+make a significant contribution to environmental protection and the avoidance of emissions. In 2019 Prysmian Automotive
+aunched a special single-core cable for temperatures of up to 150°C for use in managing the batteries of electric vehicles.
+Various projects have commenced to address proposed cable designs for high voltage batteries, shielded or not, in response
+‘0 growing requirements for the temperature stability and flexibility of cables.
+
+Elevators
+
+he elevator sector is characterised by increasing interest in big data and predictive maintenance; accordingly, the launch
+of mobile cables compliant with standard UL 62 and the Cat5e requirements has attracted great interest from OEMs and the
+eading mid-size, independent producers active in the U.S. market. Subsequent to this launch, work commenced in 2019 on
+optimisation of the existing signal pairs, which will be completed during 2020 We expect a reduction in the use of plastic com-
+pounds by making recourse to alternative materials and the down-sizing allowed by performance improvements.
+
+Prysmian Electronics
+
+n 2019 PE focused on the development of two important products. The first, “Pry-Cam DTS”, is an optical device for permanent
+installation that measures the temperature of the cable along its length and/or internally using DTS (Distributed Temperature
+Sensing) technology. This device was designed specifically to work over distances of up to 30 km, witha spatial resolution of 1
+mandatemperature precision (with a measuring time of 5 minutes) of less than 2°C. The second, “Pry-Cam Home”, isasystem
+or monitoring low voltage applications based on Pry-Cam technology, which uses a device to measure the main parameters
+of alow voltage domestic electrical installation. The device has been designed to help electricians make the necessary checks
+during the acceptance testing of new electrical installations, or when carrying out maintenance or periodic checks. This can
+be defined as a “prosumer” device, as it can be used by both professional electricians and end consumers, with different fun-
+ctionalities depending on the skills of the user, but with the same purpose: check the proper functioning of the electrical
+installation and, therefore, its safety.
+
+ 
+
+ 
+

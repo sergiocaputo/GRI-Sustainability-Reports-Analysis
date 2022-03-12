@@ -1,0 +1,61 @@
+62 1 Consolidated Non-Financial Information Statement 2019
+
+ 
+
+Connectivity
+
+Prysmian has continued to expand the range of connectivity products for fibre-based broadband networks. Activities in 2019
+focused on the last-mile products used to make the final connection to the customer. These products, positioned in the access
+node or the point closest to the customer's home, allow rapid connection using drop cables pre-fitted with connectors. Both
+solutions can be used with drop cables pre-fitted with connectors or standard SC connectors, offering a significant advantage
+over the products usually used for this type of network, which employ reinforced connectors that are generally proprietary
+in nature and onerous. Two main sets of products have been developed. The first is the PryConnect system, being a series of
+boxes pre-fitted with connectors for 4, 8 or 12 drop cables. This is a generic product, developed for the general connectivity
+market, that enables cables pre-fitted with connectors to be attached to the box easily, without any need to open it. The se-
+cond is the PBO system pre-fitted with connectors for up to 6 drop cables, which has been designed specifically for the general
+French market, where the box is usually opened to install a mid-span solution of flexible fibre tubes.
+
+Optical fibre
+
+Prysmian has continued to invest in the development of optical fibre products. In order to satisfy the growing need for fibres
+that can be bent at will for use in FTTx systems, all types of Prysmian fibre were rendered insensitive to bending during 2019.
+The entire portfolio of products is now compliant with standards G657A1 and G657A2, while alignment with standard G652D is
+in progress. This generation of fibres can be compacted more within optical cables, allowing the production of smaller cables
+with a greater fibre density. The tendency to request a larger number of fibres in the same space continues, especially in Eu-
+rope. Alongside these product development activities, a cost containment programme has been implemented in view of the
+current difficult conditions in the telecommunications market.
+
+OPGW & Specials
+
+In the OPGW & Specials BU, the Technology of stainless steel with aluminium coating has been consolidated up to 96 fibres
+while the monotube aluminium extruded Technology has been further reinforced. Various projects have been developed
+using these technologies, such as the OPGW supply contract with ENDESA (Spain) and ESKOM (South Africa). The Specials fa-
+mily of products with high mechanical and chemical strength for applications such as sensing, OGP and sub-aqua has been fur-
+ther developed. Various projects have been carried out using these technologies, including an undersea project in the United
+States and a fibre network at the Amur refinery (Russia).
+
+Multimedia Solutions (MMS)
+
+For many years, Prysmian has offered cables for the pulse generators used in particle accelerators, such as CERN in Switzer-
+land. These cables connect the pulse generators with the so-called “Kicker” magnets used to deflect a beam of particles du-
+ring the various phases of acceleration or experimentation or, recently, in the Beam Dump system. Commencing from the
+configuration developed for the CERN LHC, production of a new special cable for pulse generators for the FAIR project com-
+menced successfully in 2019 at the GSI facility in Germany. Drawing on the new knowledge acquired with this project, deve-
+lopment work has commenced on a new series of cables for pulse generators with high and accurately controlled frequency
+parameters, up to several dozen MHz, that are designed to operate at several dozen KV. This small scale, but technologically
+challenging project contributes to a number of larger experiments of scientific importance, further strengthening the solid
+and broad technological base that enables Prysmian to develop special cables.
+
+Data transmission cables
+
+Prysmian continued to expand the GenSPEED® 10 category 6A cable during 2019. The new process technologies introduced
+have significantly improved performance in the case of paradiaphonia (NeXT- Near-end Crosstalk). This has made it possible to
+reduce scrap significantly and increase productivity. Prysmian also introduced a new version of the cable for riser applications
+during the final quarter of 2019. In addition to this, the cable is now available with Reelex packaging that offers customers
+lower installation costs. Development work is being carried out on the new generation of the cable, which will have an even
+smaller diameter. This generation will become available in 2020 with less bulky packaging, thus lowering transportation costs
+
+and facilitating installation due to the lower weight and narrower diameter of the cables.
+
+ 
+

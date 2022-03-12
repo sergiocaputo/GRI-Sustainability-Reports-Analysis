@@ -1,0 +1,120 @@
+Acute physical risks
+
+With regard to acute physical phenomena, the incidence
+and frequency of extreme physical phenomena can cause
+significant and unexpected physical damage to assets and
+generate negative externalities associated with the interrup-
+tion of service.
+
+To assess the scale of the risks of extreme climate events,
+the scenario results will be assessed in terms of the fre-
+quency and intensity of the key phenomena, together with
+technical information on generation assets, taking account
+of the differing levels of resilience, and identifying metrics
+to measure potential losses and any externalities caused by
+the interruption of business operations.
+
+The intensification of the effects of climate change means it
+is essential to adopt adaptive behaviours: each catastroph-
+ic event represents a lesson learned for Enel, from which
+we draw inspiration to strengthen design techniques and
+preventive measures to ensure the resilience of the asset
+portfolio.
+
+From this perspective, the method and the information ex-
+tracted from the ex post analysis of events play a crucial role
+in determining the processes and practices to be deployed
+in mitigating such events in the future.
+
+Power generation
+
+As regards generation, over time the Group has implement-
+
+ed targeted measures at specific sites and established ad
+
+hoc management activities and processes.
+
+Measures implemented for specific sites in recent years
+
+include:
+
++> improving cooling water management systems for cer-
+tain plants in order to counter the problems caused by
+the decline in water levels on rivers, such as the Po in
+Italy;
+
++ installing fogging systems to improve the flow of inlet
+air and offset the reduction in power output caused by
+the increase in ambient temperature in CCGTs;
+
++ installing drainage pumps, raising embankments, peri-
+odic cleaning of canals and interventions to consolidate
+land adjacent to plants to prevent landslides in order to
+mitigate flood risks.
+
+The Group adopts a series of best practices to manage the
+
+impact of weather events on power generation, such as:
+
++> weather forecasting both to monitor renewable re-
+source availability and detect extreme events, with
+warning systems to ensure the protection of people and
+assets;
+
+60
+
++ insurance policies, to cover damage to assets and the
+negative externalities caused, for example, by lost elec-
+tricity generation;
+
+> the real-time remote monitoring of electricity power
+plants;
+
++ safe rooms in areas exposed to tornadoes and hurri-
+canes, such as the wind plants in Oklahoma in the Unit-
+ed States.
+
+In addition, in order to ensure rapid response to adverse
+events, the Group has adopted specific emergency man-
+agement procedures with protocols for real-time communi-
+cation and management to restore operations rapidly and
+standard checklists for damage assessment and the safe
+return to service for all plants as rapidly as possible.
+
+Infrastructure & Networks
+The Enel Group's Infrastructure and Networks Global
+Business Line has adopted a more complex and innova-
+tive approach to respond to such extreme events de-
+nominated “4R”, in addition to the measures already
+envisaged to upgrade and improve the electricity dis-
+tribution grid. This new approach has been structured
+over the past few years in a body of documentation that
+governs the measures to be taken in preparation for a grid
+emergency once the damage has been caused. More spe-
+cifically, the 4R strategy comprises:
++> aninitial “Risk prevention” phase, which includes all
+actions to reduce the probability of losing grid compo-
+nents due to an event and/or to minimise its effects.
+This is pursued both through measures to enhance the
+robustness of grid infrastructure in extreme weather
+events and maintenance measures. Measures to re-
+inforce the grid have been implemented not only to
+improve service quality in general, but also to reduce
+the risk of prolonged or widespread outages in the
+event of a malfunction, using a probabilistic approach
+This approach has mainly been used to reduce the
+risk of outages at critical installations (primary substa-
+tions) or for particular grid configurations (where no
+alternative power supply routes are available);
+> in Italy, to prevent service interruptions due to the
+breakage of overhead power lines as a result of snow-
+fall, the risk of such interruptions has been assessed
+on the basis of the probability of losing segments of
+the grid and then calculating the relative impact in
+terms of customers without power and the loss in
+terms of power not delivered. To address these risks,
+
+Sustainability Report 2019
+
+CMe
+

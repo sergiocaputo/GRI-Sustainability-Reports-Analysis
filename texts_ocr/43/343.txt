@@ -1,0 +1,146 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+
+ 
+
+riguarda gli impieghi in titoli, la Financial Portfolio Policy pre-
+vede la suddivisione del portafoglio di proprieta in un porta-
+foglio di liquidita, un portafoglio di investimento stabile e un
+portafoglio di servizio.
+
+I portafoglio di liquidita é definito come il portafoglio contenen-
+te posizioni in attivita e passivita finanziarie detenute al fine di:
+
+¢ fornire una riserva di liquidita attraverso titoli stanziabili
+presso le banche centrali ovvero prontamente liquidabili;
+
+e rispettare/ottimizzare i ratio regolamentari di liquidita;
+
+* investire eventuali eccedenze di liquidita in attesa di futuri
+investimenti con un orizzonte di breve periodo owero con
+un moderato profilo di rischio;
+
+* ottimizzare, attraverso |'utilizzo di strumenti derivati di ne-
+goziazione e/o di copertura, il profilo di rischio.
+
+Tale portafoglio ha un limite minimo di attivita stanziabili pres-
+so la Banca Centrale stabilito in base a criteri prudenziali.
+
+ll portafoglio di investimento stabile, che ha una dimensio-
+ne risultante dalla struttura della raccolta, degli impieghi e
+dei mezzi propri del Gruppo, é@ definito come il portafoglio
+contenente posizioni in attivita finanziarie con un periodo di
+detenzione previsto di almeno 30 giorni, fatti salvi eventi ec-
+cezionali di mercato che ne rendano necessaria la dismissione.
+In particolare comprende investimenti finanziari acquistati in
+presenza di eccesso di liquidita strutturale e contiene posizioni
+a basso rischio acquisite con la finalita di beneficiare del cor-
+rispondente flusso cedolare, il cui orizzonte temporale atteso
+di detenzione sia, al momento dell'acquisto, di medio lungo
+periodo. Ai fini di ottimizzare il profilo di rischio di tale por-
+tafoglio é possibile I’utilizzo di strumenti derivati di negozia-
+zione e/o di copertura. Date le caratteristiche del portafoglio
+in oggetto, il modello di business associato ai relativi titoli é
+Hold to Collect.
+
+Il portafoglio di servizio é prevalentemente funzionale alla
+clientela e include:
+
+© posizioni riconducibili all’offerta di prodotti e/o servizi alla
+clientela, quali titoli obbligazionari da offrire in pronti con-
+tro termine, operativita in valuta ed in derivati su cambi, con
+finalita di intermediazione;
+
+© una componente derivante dall’operativita di negoziazione
+sul mercato finalizzata a rispondere alle esigenze delle so-
+cieta di asset management del Gruppo.
+
+Per la valutazione degli strumenti finanziari il Gruppo Fideuram
+ha predisposto una metodologia di pricing che recepisce in ma-
+niera rigorosa le previsioni dei principi contabili internazionali
+AS/IFRS. Ai fini di tale valutazione é fondamentale la definizio-
+ne di fair value, inteso come il prezzo che si percepirebbe per la
+vendita di un‘attivita, owero che si pagherebbe per il trasferi-
+mento di una passivita in una regolare operazione tra operatori
+di mercato alla data di valutazione. Inoltre, la valutazione del
+‘air value deve incorporare un premio per il rischio di contro-
+parte, overo un Credit Value Adjustment (CVA) per le attivita
+e un Debit Value Adjustment (DVA) per le passivita.
+
+Per la determinazione del fair value si mantiene fermo il rife-
+rimento diretto ai valori di mercato. L'esistenza di quotazioni
+ufficiali in un mercato attivo é gerarchicamente anteposta alle
+valorizzazioni emergenti da modelli di pricing strutturati sul-
+le valutazioni di titoli comparabili e su parametri di mercato.
+
+ 
+
+In assenza di un regolare funzionamento del mercato, cioé nei
+casi in cui il mercato non presenti un numero di transazioni suf-
+ficiente e continuativo e in cui gli spread denaro-lettera e le vo-
+latilita non risultino sufficientemente contenuti, é tuttavia ne-
+cessario abbandonare il riferimento diretto ai prezzi di mercato
+e applicare modelli che, facendo per lo piti uso di parametri di
+mercato, possono determinare un fair value appropriato degli
+strumenti finanziari. Nella valutazione della regolarita di fun-
+zionamento del mercato sono considerati i seguenti elementi:
+
+¢ la disponibilita di contribuzioni di prezzo;
+e |'affidabilita delle contribuzioni di prezzo;
+
+e |'ampiezza dello spread bid-ask.
+
+In assenza di un mercato attivo, il fair value @ determinato
+utilizzando tecniche di valutazione volte a stabilire, in ultima
+analisi, quale prezzo avrebbe avuto lo strumento finanziario
+alla data di valutazione in un libero scambio motivato da nor-
+mali considerazioni commerciali. Tali tecniche includono:
+
+¢ il riferimento a valori di mercato indirettamente collegabili
+allo strumento da valutare e desunti da prodotti similari per
+caratteristiche di rischio (comparable approach);
+
+le valutazioni effettuate utilizzando — anche solo in parte
+— input non desunti da parametri osservabili sul mercato,
+per i quali si fa ricorso a stime e assunzioni formulate dal
+valutatore (mark-to-model).
+
+La scelta tra le suddette metodologie non é arbitraria, doven-
+do le stesse essere applicate in ordine gerarchico, e comporta
+una correlata rappresentazione in bilancio suddivisa per livelli.
+Si attribuisce assoluta priorita ai prezzi ufficiali disponibili su
+mercati attivi per le attivita e passivita da valutare (livello 1
+- Effective market quotes) owero per attivita e passivita simi-
+lari (livello 2 - Comparable Approach) e priorita pitt bassa a
+input non osservabili e, quindi, maggiormente discrezionali
+(livello 3 - Mark-to-Model Approach).
+
+La priorita delle quotazioni di mercato viene estrinsecata at-
+traverso un processo di contribuzione da parte di market ma-
+kers di prezzi operativi. !I prezzo di valutazione é calcolato
+come media dei prezzi disponibili, selezionati attraverso criteri
+oggettivamente individuati. La numerosita delle contribuzio-
+ni, lo spread denaro-lettera e |'affidabilita dei contributori
+sono regolarmente monitorati e hanno permesso di mante-
+nere nel tempo la centralita delle quotazioni di mercato come
+espressione idonea del fair value.
+
+Uintero portafoglio delle attivita finanziarie valutate al fair va-
+lue con impatto sulla redditivita complessiva é stato valutato
+ai prezzi bid di mercato (mark to market) per garantire la mas-
+sima trasparenza dei valori espressi in bilancio. Tale decisione
+garantisce |’aderenza del portafoglio complessivo a criteri di
+pronta liquidita dei valori iscritti in bilancio.
+
+Il portafoglio di attivita finanziarie valutate al fair value con im-
+patto a conto economico classificate nel livello 2 @ costituito
+da polizze assicurative stipulate dalla Banca per assicurare ren-
+dimenti di mercato ai Piani di fidelizzazione delle Reti di Priva-
+te Banker. Per la determinazione del fair value delle polizze di
+Ramo | il calcolo é effettuato con metodo attuariale prospetti-
+co, basato sul principio di equivalenza iniziale tra i valori attua-
+li medi degli impegni contrattuali assunti dall’assicuratore e i
+valori attuali medi di quelli assunti dall’assicurato/contraente.
+\l fair value delle polizze di Ramo Ill € pari al controvalore delle
+
+340 + Annual Report Integrato 2019 Fideuram - Intesa Sanpaolo Private Banking
+

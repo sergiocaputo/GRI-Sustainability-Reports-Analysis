@@ -1,0 +1,68 @@
+Nota Integrativa | Parte A | Politiche Contabili
+
+ 
+
+strumenti finanziari di livello 3 rispetto a un range percentuale di scostamento degli input significativi non osserva-
+bili.
+
+Import in Euro/000
+Sensitivity de! Fair value rispetto ad una variazione percentuale di +/-10%0 dell'input significative
+
+ 
+
+ 
+
+ 
+
+ 
+
+bs areas Modello valutativo eer = a Sa
+smnigssstin pele wea? non osservabile 2131/12/2017 minusvalente _plusvalente
+Transazione diretta Prezzo della transazione 24238, 244 2404
+
+Titoli di capitale Attual.ne flussi di cassa (DCF) EBITDA 8.000 1695 °
+Metodo reddituale (income approach) Net income 7027 ° 3879
+
+Cn ee Adjustment del NAV Parametri di rischio 100168 3030 4554
+
+ 
+
+Lanalisi di sensibilita viene svolta per gli strumenti finanziari per cui i modelli valutativi adottati rendono possibile
+leffettuazione di tale esercizio. La sensitivity non é applicabile, invece, in relazione a modelli basati su valutazioni e/o
+informazioni fornite da terze parti.
+
+A.4.3 Gerarchia del fair value
+
+Il passaggio di uno strumento finanziario dal Livello 1 al Livello 2 di Fair value e viceversa deriva principalmente dal
+grado di liquidita dello strumento stesso al momento della rilevazione della sua quotazione, che determina !’utilizzo
+di un prezzo rilevato su un mercato attivo (Livello 1) piuttosto che di un prezzo ottenuto sulla base di un modello di
+pricing (Livello 2).
+
+In concreto, qualora per unvattivita o passivita finanziaria vi siano oggettive indicazioni di perdita di significativita
+0 indisponibilita del prezzo (per esempio, per assenza di pluralita di prezzi da market maker, prezzi poco variati o
+inconsistenti), lo strumento viene trasferito nel Livello 2 della gerarchia del Fair value. Tale classificazione potrebbe
+tuttavia non rendersi piu necessaria qualora, per il medesimo strumento finanziario, si riscontrassero nuovamente
+quotazioni espresse da mercati attivi, con corrispondente passaggio al Livello 1.
+
+Questa dinamica si riscontra principalmente per i titoli di debito, per i titoli di capitale e per le quote di OICR, mentre
+gli strumenti derivati quotati su mercati regolamentati appartengono di norma al Livello 1, dato che per questi é
+normalmente disponibile un prezzo espresso dalle borse di riferimento.
+
+Viceversa, gli strumenti derivati OTC sono di norma valutati sulla base di modelli di pricing e quindi sono classificati
+a Livello 2 0 3 di Fair Value, a seconda della significativita dei dati di input.
+
+ll trasferimento dal Livello 2 al Livello 3 e viceversa € determinato dal peso o significativita assunta, in diversi mo-
+menti della vita dello strumento finanziario, delle variabili di input non osservabili rispetto alla complessiva valuta-
+zione dello strumento stesso.
+
+Ad ogni data di valutazione, il Gruppo verifica caso per caso:
+
+1. la significativita del rapporto tra il Fair value della componente dello strumento finanziario valutata con dati di
+input non osservabili e il Fair value dell’intero strumento stesso;
+
+2. lasensitivity del Fair value dello strumento finanziario al variare dell'input non osservabile utilizzato.
+
+442
+
+ 
+

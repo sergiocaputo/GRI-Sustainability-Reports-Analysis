@@ -1,0 +1,45 @@
+REPORT DI SOSTENIBILITA 2017 & 2018
+67
+
+ 
+
+Consumi energetici diretti e indiretti (in GJ)
+
+Consumi energetici diretti 212.703 202.680
+Da fonti non rinnovabili: 209.785 195.484
+Gas naturale (es. per riscaldamento) 104.436 78.471
+Diesel (flotta aziendale) 105.349 117.013
+Da fonti rinnovabili: 2.918 7.196
+Fotovoltaico 2.918 7.196
+Consumi energetici indiretti 1.049.022 1.135.316
+Da fonti non rinnovabili: 29.006 35.696
+Elettricita 27.467 34.297
+Energia termica 1.539 1.399
+Da fonti rinnovabili: 1.020.017 1.099.620
+Elettricita 1.020.017 1.099.620
+
+Emissioni dirette e indirette (tCO,)*
+
+ 
+
+Emissioni dirette 12.523 12.064
+Da fonti non rinnovabili: 12.523 12.064
+Gas naturale (es. per riscaldamento) 5.343 4.010
+Diesel (flotta aziendale) 7.180 8.054
+Emissioni indirette 2.754 3.412
+Da fonti non rinnovabili: 2.754 3.412
+Elettricita 2.674 3.339)
+Energia termica 80 73
+
+* | fattori utilizzati per il calcolo delle emissioni sono stati pubblicati dal Department for environment, food and rural affairs (DEFRA) e dal Department
+for business, energy and industrial stratey (BEIS) rispettivamento per gli anni 2017 e 2018. Per le emissioni da energia elettrica @ stato applicato il
+coefficiente di emissione DEFRA (2015).
+
+   
+ 
+
+GRI 302-1
+GRI 302-2
+GRI 305-1
+GRI 305-2
+

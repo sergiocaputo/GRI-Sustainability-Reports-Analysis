@@ -1,0 +1,101 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28 GOVERNANCE SYSTEM
+North TGS 3 3
+Macedonia SOL SEE 5 4
+Morocco Flosit 1
+The Netherlands SOL Nederland 2 3 2
+Romania GTH 1 1 1
+Serbia SOL Srbija 1 1
+Slovenia SPG 1 1 1 1
+TP) 1 1 1 1
+Turkey Gebze Gaz 1
+SOLTK 1 1
+Hungary SOL Hungary 1
+HOME CARE SECTOR
+Austria Vivisol 2
+Heimbehadlungsgerate
+Germany Vivisol Deutschland 4
+Pielmeier 1
+Greece Vivisol Hellas 2
+Italy Vivisol 19 20 1 2
+Vivisol Calabria 1
+Vivisol Napoli 1
+Vivisol Silarus 1
+The Netherlands Vivisol Nederland 1
+Poland Pallmed 1
+United Kingdom Dolby Medical Home 3 4 4
+Respiratory Care
+Spain Vivisol Iberica 4 3) 4 1
+Switzerland Sitex 1
+BIOTECHNOLOGIES SECTOR
+Italy Biotechsol 1
+Cryolab 1
+Diatheva 1
+Personal Genomics 1
+TOTAL 127 75 24 18 26
+

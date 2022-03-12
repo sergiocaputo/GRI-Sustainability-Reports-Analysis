@@ -1,0 +1,64 @@
+e immediate access to technical information of user facilities;
+
+e data entry and search with direct access to company databases (e.g. technical specifications of the
+instrumentation supporting a specific activity);
+
+e possibility of creating, updating, assigning, and reporting the various work phases directly from
+mobile devices;
+
+¢ optimization in the monitoring and scheduling of work orders thanks to the quality of data related
+to the traceability of individual activities (time and space);
+
+e possibility of direct, in-field readings of the meters;
+
+¢ online and offline access to cartography;
+
+e access and visibility of the data concerning the staff in service (e.g. on-call time, unavailability
+bands, work calendars) in order to optimise the management of activities to be carried out on the
+area;
+
+e “navigation” function to the address of the call;
+
+acquisition and consultation of multimedia documents (images, pdfs, CAD files, etc.) with the
+possibility of attaching them to the work order.
+
+All this translates into three terms that well represent what has been done: efficiency, performance and
+satisfaction. The dissemination path now continues with the management of operation and maintenance
+activities.
+
+Utilities 4.0: Digital workplace
+
+At the end of 2018, the pilot project (more than 100 users involved) of a fundamental component of the
+digital transformation underway within the Group was successfully concluded. The introduction of the
+Office365 Microsoft “Digital Workplace” will provide everyone with a modern technological architecture
+on the Microsoft Azure Cloud platform, providing mobility, collaboration, integration, ease of use and
+management, flexibility and security.
+
+Workstations become a device like a smartphone, secure and always up to date, documents will be equally
+accessible from all devices and all channels, continuous backup, services will always be available even in
+case of problems to the corporate network, the user will be independent in the installation of business
+applications and the mailboxes will become virtually limitless.
+
+Also from the point of view of IT service management, the Digital Workplace provides enormous
+efficiencies in terms of ease of installation and upgrades, self-service deployments, integration of
+management and maintenance systems, advanced telemetry with identity protection, threat and breach
+blocking, storage management, governance and data discovery in accordance with GDPR.
+
+During 2019 and the first few months of 2020, the platform will be distributed to the entire population of
+the Group.
+
+Utilities 4.0: Senseable Dep: Sewage purification process monitoring dashboard
+
+The project aims to create a platform to monitor purification processes by using simplified dashboards that
+show just a few indices to summarize the “state of health” of the purification process from the biological,
+hydraulic and energy points of view.
+
+After the construction of this platform at the Forli purification plant, in 2018 the extension phase to the
+Cesena, Cesenatico and Savignano plants began, purchasing the equipment necessary for complete
+monitoring of the process.
+
+In parallel, software optimizations to the platform were carried out to improve the quality of the indices,
+graphics and user experience of the system operators.
+
+114
+
