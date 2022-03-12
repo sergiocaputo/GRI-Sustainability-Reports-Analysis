@@ -99,7 +99,7 @@ def extract_context(GRI_dir, texts):
                     json.dump(json_GRI, f, indent = 4)
 
 
-def extract_text():
+def extract_text(pdf_dir):
     for texts_dir in ['texts_ocr', 'texts_extracted']:
         if texts_dir == 'texts_ocr':
             GRI_directory = 'GRI_reports_ocr'
@@ -149,10 +149,10 @@ if __name__ == "__main__":
 
     pdf_dir = 'reports'
 
-    #extract_text(pdf_dir)
-    #create_excel_files()
+    extract_text(pdf_dir)
+    create_excel_files()
     
-    #define_sentiment()
+    define_sentiment()
     create_excel_files_with_sentiment()
   
 
