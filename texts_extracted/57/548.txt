@@ -1,0 +1,39 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+2. Modelli interni e altre metodologie per l’analisi della sensitività
+Nella presente sezione vengono sinteticamente esposti i risultati delle analisi di rischio di cambio nell’ambito del 
+portafoglio bancario. In particolare, la tabella sotto riportata mostra i dati relativi all’indicatore gestionale deﬁnito 
+come rapporto tra esposizione netta in cambi e totale Fondi Propri.
+Esposizione al Rischio Cambio
+Valore al 31.12.17 1,24%
+Media 1,07%
+Minimo 0,17%
+Massimo 2,37%
+1.2.4 Gli strumenti derivati
+A. Derivati ﬁnanziari
+(cid:36)(cid:17)(cid:20)(cid:3)(cid:51)(cid:82)(cid:85)(cid:87)(cid:68)(cid:73)(cid:82)(cid:74)(cid:79)(cid:76)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:81)(cid:72)(cid:74)(cid:82)(cid:93)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:89)(cid:76)(cid:74)(cid:76)(cid:79)(cid:68)(cid:81)(cid:93)(cid:68)(cid:29)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:76)(cid:3)(cid:81)(cid:82)(cid:93)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:192)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:76)(cid:82)(cid:71)(cid:82)
+Totale  31/12/2017  Totale  31/12/2016 
+Attività sottostanti/Tipologie derivati 
+Over the counter  Controparti Centrali  Over the counter  Controparti Centrali 
+1. Titoli di debito e tassi d'interesse  01/06/0213  -  18.614  280.115 
+a) Opzioni  1.109  -  1.239  164.232 
+b) Swap  5.104  -  17.375  - 
+c) Forward  -  -  -  - 
+d) Futures  -  -  -  115.883 
+e) Altri  -  -  -  - 
+2. Titoli di capitale e indici azionari  -  -  -  6.425 
+a) Opzioni  -  -  -  - 
+b) Swap  -  -  -  - 
+c) Forward  -  -  -  - 
+d) Futures  -  -  -  6.425 
+e) Altri  -  -  -  - 
+3. Valute e oro  36.748  -  38.541  629 
+a) Opzioni  -  -  -  - 
+b) Swap  -  -  -  - 
+c) Forward  36.748  -  38.541  - 
+d) Futures  -  -  -  629 
+e) Altri  -  -  -  - 
+4. Merci  -  -  -  311 
+5. Altri sottostanti  -  -  -  - 
+Totale  42.961  -  57.155  287.480 
+(cid:3)
+548

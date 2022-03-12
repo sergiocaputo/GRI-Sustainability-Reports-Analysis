@@ -1,0 +1,103 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+vizio dei piani e l’iscrizione tra le attività ﬁ nanziarie valutate  Il bene è trasferito quando, o nel corso del periodo in cui, 
+al fair value con impatto a conto economico. Il debito nei  il cliente ne acquisisce il controllo. In particolare:
+confronti del personale beneﬁ ciario dei piani viene iscritto tra 
+•  gli interessi sono riconosciuti pro rata temporis sulla base 
+le altre passività in contropartita delle spese del personale e 
+del tasso di interesse contrattuale o di quello effettivo nel 
+adeguato alle variazioni di fair value delle azioni ﬁ no a quan-
+caso di applicazione del costo ammortizzato. La voce inte-
+do la passività non viene estinta.
+ressi attivi (ovvero interessi passivi) comprende anche i dif-
+ferenziali o i margini, positivi (o negativi), maturati sino alla 
+I piani di remunerazione destinati al personale dipendente ba-
+data di riferimento del bilancio, relativi a contratti derivati 
+sati su azioni vengono rilevati nel conto economico, con un 
+ﬁ nanziari;
+corrispondente incremento del patrimonio netto, sulla base 
+del fair value degli strumenti ﬁ nanziari attribuiti alla data di  •  gli interessi di mora sono contabilizzati a conto economico 
+assegnazione, suddividendo l’onere lungo il periodo previsto  solo al momento del loro effettivo incasso;
+dal piano. 
+•  i dividendi sono rilevati a conto economico al momento in 
+cui ne viene deliberata la distribuzione, a meno che tale 
+Garanzie ﬁ nanziarie
+data non sia nota o l’informazione non sia immediatamente 
+I contratti di garanzia ﬁ nanziaria che il Gruppo stipula con 
+disponibile, nel qual caso è ammessa la rilevazione al mo-
+ﬁ nalità di copertura dal rischio di controparte prevedono il 
+mento dell’incasso;
+rimborso delle perdite subite sull’asset coperto a seguito del 
+default del debitore/emittente, dietro pagamento di una com- •  le commissioni per ricavi da servizi sono iscritte, sulla base 
+missione rilevata sistematicamente a conto economico nell’ar- dell’esistenza di accordi contrattuali, nel periodo in cui i ser-
+co della durata del contratto. vizi stessi sono stati prestati. Le commissioni considerate nel 
+costo ammortizzato ai ﬁ ni della determinazione del tasso di 
+Riconoscimento dei ricavi e dei costi interesse effettivo, sono rilevate tra gli interessi;
+I ricavi sono costituiti da ﬂ ussi di beneﬁ ci economici derivanti 
+•  gli utili e perdite derivanti dalla negoziazione di strumenti 
+dallo svolgimento dell’attività ordinaria e sono rilevati a conto 
+ﬁ nanziari sono riconosciuti a conto economico nel momen-
+economico nel momento in cui viene trasferito il controllo dei 
+to del perfezionamento della vendita, sulla base della dif-
+beni o servizi al cliente, per un ammontare che rappresen-
+ferenza tra il corrispettivo pagato o incassato ed il valore di 
+ta l’importo del corrispettivo a cui si ritiene di avere diritto. 
+iscrizione degli strumenti stessi;
+In particolare, la rilevazione dei ricavi avviene tramite l’appli-
+cazione di un modello che deve soddisfare i seguenti criteri: •  i ricavi derivanti dalla vendita di attività non ﬁ nanziarie sono 
+rilevati al momento del perfezionamento della vendita, 
+•  identiﬁ cazione del contratto, deﬁ nito come un accordo in 
+ovvero quando è adempiuta l’obbligazione di fare nei con-
+cui le parti si sono impegnate ad adempiere alle rispettive 
+fronti del cliente. 
+obbligazioni;
+•  individuazione delle singole obbligazioni di fare (“perfor- I costi sono rilevati a conto economico secondo il principio 
+mance obligations”) contenute nel contratto; della competenza; i costi relativi all’ottenimento e all’adem-
+pimento dei contratti con la clientela sono rilevati a conto 
+•  determinazione del prezzo della transazione, ossia il corrispet-
+economico nei periodi nei quali sono contabilizzati i relativi 
+tivo atteso per il trasferimento al cliente dei beni o dei servizi;
+ricavi.
+•  ripartizione del prezzo della transazione a ciascuna “per-
+formance obligation”, sulla base dei prezzi di vendita della  Acquisti e vendite di attività ﬁ nanziarie
+singola obbligazione; Per la rilevazione in bilancio degli acquisti e vendite di attività 
+ﬁ nanziarie, intendendo per tali quelli effettuati in base a con-
+•  riconoscimento dei ricavi nel momento in cui (o man mano 
+tratti i cui termini richiedono la consegna dell’attività entro 
+che) l’obbligazione di fare risulta adempiuta con il trasferi-
+un arco di tempo stabilito da regolamenti o convenzioni di 
+mento al cliente del bene o servizio promesso.
+mercato, il Gruppo fa riferimento alla data di regolamento, 
+salvo quanto indicato per i derivati.
+Il prezzo dell’operazione rappresenta l’importo del corrispetti-
+vo a cui si ritiene di aver diritto in cambio del trasferimento al 
+Criteri di cancellazione
+cliente dei beni e servizi promessi. Esso può includere importi 
+Le attività ﬁ nanziarie sono cancellate dal bilancio quando 
+ﬁ ssi, variabili o entrambe le casistiche. I ricavi costituiti da corri-
+scadono i diritti contrattuali sui ﬂ ussi ﬁ nanziari derivanti dal-
+spettivi variabili vengono rilevati a conto economico se attendi-
+le attività stesse o quando l’attività ﬁ nanziaria viene ceduta, 
+bilmente stimabili e unicamente se è altamente probabile che 
+trasferendo  sostanzialmente  tutti  i  rischi/beneﬁ ci  ad  essa 
+tale corrispettivo non debba essere stornato dal conto econo-
+connessi. Le passività ﬁ nanziarie sono cancellate dal bilancio 
+mico in periodi successivi. In caso di forte prevalenza di fattori 
+quando risultano scadute o estinte. 
+di incertezza legati alla natura del corrispettivo, il medesimo 
+sarà rilevato solo al momento in cui tale incertezza verrà risolta.
+Aggregazioni aziendali
+Il trasferimento del controllo di un’impresa (o di un gruppo 
+I ricavi possono essere riconosciuti:
+di attività e beni integrati, condotti e gestiti unitariamente) 
+•  in un momento preciso, quando l’entità adempie l’obbli-
+conﬁ gura un’operazione di aggregazione aziendale.
+gazione di fare trasferendo al cliente il bene o servizio pro-
+messo, o
+In tema di aggregazioni aziendali il principio contabile di ri-
+•  nel corso del tempo, mano a mano che si adempie l’ob-
+ferimento è l’IFRS3. Tale principio richiede che per tutte le 
+bligazione di fare trasferendo al cliente il bene o servizio 
+operazioni di aggregazione venga individuato un acquirente 
+promesso.
+che normalmente è identiﬁ cato nel soggetto che ottiene il 
+272 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

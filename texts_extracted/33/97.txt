@@ -1,0 +1,41 @@
+Consolidated Non-Financial Statement 2018
+Environmental data
+Energy consumption11
+ITALY
+December 31st 2018 December 31st 2017
+Type of fuel
+Consumption [UoM] GJ Consumption [UoM] GJ
+Natural gas  m3   284.595 10.258  m3   299.357 10.518
+Diesel  l  277.388 9.956  l  - -
+Gasoline  l  3.091 101  l  - -
+LPG  l   5.750  137  l   5.350  126
+Renewable fuel 
+l - - l - -
+(bio-ethanol )
+Electricity 
+ kWh  2.774.071 9.987  kWh  2.425.967  8.733
+purchased 
+Electricity sold  kWh (41.220) (148) kWh  (80.003) (288)
+REST OF EUROPE
+December 31st 2018 December 31st 2017
+Type of fuel
+Consumption [UoM] GJ Consumption [UoM] GJ
+Natural gas  m3  26.237 946  m3  28.374 997
+Diesel  l  88.246 3.167  l  - -
+Gasoline  l  1.089 36  l  - -
+LPG  l  - -  l  - -
+Renewable fuel 
+l - - l - -
+(bio-ethanolo)
+Electricity 
+ kWh  278.402 1.002  kWh  243.051 875
+purchased 
+Electricity sold  kWh  - -  kWh  - -
+11The data related to the consumption of energy in the month of December 2018, unless otherwise indicated, have been taken 
+from the invoices from the suppliers. The data for the energy consumption of the companies located at the headquarters in 
+Calenzano were estimated in part on the basis of the consumption in December of 2017. The consumption of fuel for motor 
+vehicles  of  the  Italian  companies  in  Calenzano  and  part  of  those  related  to    Lasit  S.p.A.,  were  estimated  starting  with  the 
+expense using the average annual price of gasoline and diesel (€/L) shown on the site o the Ministry of Economic Development.  
+For the calculation of  the energy consumption in 2018 in GJ, we have used the conversion factors of the Department for Environment, 
+Food & Rural Affairs (DEFRA), UK, 2018.     
+98

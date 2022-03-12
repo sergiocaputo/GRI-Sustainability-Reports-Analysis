@@ -1,0 +1,51 @@
+Nota Integrativa | Parte A | Politiche Contabili
+delle attività cedute ed alle variazioni dei ﬂussi ﬁnanziari delle stesse. 
+Inﬁne, le attività ﬁnanziarie cedute vengono cancellate dal bilancio nel caso in cui vi sia la conservazione dei diritti 
+contrattuali a ricevere i relativi ﬂussi di cassa, con la contestuale assunzione di un’obbligazione a pagare detti ﬂussi, 
+e solo essi ad altri soggetti terzi.
+Sezione 4 - Crediti
+Criteri di classiﬁcazione
+I crediti rientrano nella più ampia categoria delle attività ﬁnanziarie non derivate che prevedono pagamenti ﬁssi o 
+comunque determinabili, non quotate in un mercato attivo. Essi si originano quando la Banca fornisce denaro, beni e 
+servizi direttamente al debitore senza che vi sia l’intenzione di negoziare il relativo credito sorto. In questa categoria 
+non sono quindi compresi i ﬁnanziamenti e i crediti emessi con l’intenzione di essere venduti immediatamente o 
+nel breve termine, che sono eventualmente classiﬁcati invece come “posseduti per essere negoziati” e quelli che il 
+management decide di classiﬁcare nella categoria residuale “disponibili per la vendita”. I crediti includono gli impie-
+ghi con clientela e banche, sia erogati direttamente sia acquistati da terzi, i crediti di funzionamento connessi alla 
+fornitura di servizi ﬁnanziari, le operazioni di riporto e i pronti contro termine. 
+Criteri di iscrizione
+I crediti sono iscritti in bilancio solo quando la Banca diviene parte del contratto di ﬁnanziamento. L’iscrizione iniziale 
+dei crediti avviene alla data di erogazione o, nel caso di un titolo di debito, a quella di regolamento, sulla base del 
+relativo fair value, che corrisponde normalmente all’ammontare erogato o al prezzo della sottoscrizione, compren-
+sivo dei costi/proventi direttamente riconducibili e determinabili sin dall’origine dell’operazione, ancorché liquidati in 
+un momento successivo. Sono esclusi i costi che, pur avendo le caratteristiche suddette, sono oggetto di rimborso 
+da parte del debitore. Nel caso di crediti rivenienti dalla vendita di beni o dalla prestazione di servizi la rilevazione 
+è connessa con il momento in cui la vendita o la prestazione del servizio è ultimata e cioè il momento in cui è pos-
+sibile rilevare il provento e di conseguenza sorge il diritto alla ricezione. Nella voce crediti sono rilevati, secondo la 
+pertinente composizione merceologica, i ﬁnanziamenti oggetto di operazioni di cartolarizzazione per le quali non 
+sussistono i requisiti richiesti dallo IAS 39 per la cancellazione dal bilancio.
+Criteri di valutazione 
+In seguito alla rilevazione iniziale, i crediti sono valutati al costo ammortizzato, pari al valore iscritto all’origine dimi-
+nuito dei rimborsi di capitale e delle rettiﬁche di valore e aumentato dalle eventuali riprese di valore e dell’ammorta-
+mento, calcolato con il metodo del tasso di interesse effettivo, della differenza tra ammontare erogato e ammontare 
+rimborsabile a scadenza, riconducibile ai costi/proventi imputati direttamente al singolo credito. Il tasso d’interesse 
+effettivo è il tasso che attualizza il ﬂusso dei pagamenti futuri stimati per la durata attesa del ﬁnanziamento in modo 
+da ottenere esattamente il valore contabile netto all’atto della rilevazione iniziale, che comprende sia i costi di tran-
+sazione direttamente attribuibili sia tutti i compensi pagati o ricevuti tra contraenti.
+Il metodo del costo ammortizzato non viene utilizzato per i crediti a breve termine e per quelli senza una scadenza 
+deﬁnita o a revoca, che conseguentemente vengono valorizzati al costo storico. 
+In caso di rinegoziazione, la componente costo ammortizzato viene rideterminata secondo i nuovi parametri con-
+trattuali.
+Per crediti a breve termine si intendono quelli con scadenza entro 12 mesi.
+Ad ogni chiusura di bilancio viene effettuata una ricognizione dei crediti volta ad individuare quelli che, a seguito del 
+veriﬁcarsi di eventi occorsi dopo la loro iscrizione, mostrino oggettive evidenze di una possibile perdita di valore. 
+Rientrano in tale ambito essenzialmente i crediti ai quali è stato attribuito lo status di sofferenza, inadempienza pro-
+babile, esposizione scaduta e/o sconﬁnante deteriorata secondo le attuali regole di Banca d’Italia (circ. 272 Banca 
+d’Italia 7° aggiornamento). Detti crediti deteriorati (non performing) sono oggetto di un processo di valutazione ana-
+litica e l’ammontare della rettiﬁca di valore di ciascun credito è pari alla differenza tra il valore di bilancio dello stesso 
+al momento della valutazione (costo ammortizzato) ed il valore attuale dei previsti ﬂussi di cassa futuri, calcolato 
+applicando il tasso di interesse effettivo originario.
+I ﬂussi di cassa previsti tengono conto dei tempi di recupero attesi, del presumibile valore di realizzo delle eventuali 
+garanzie, delle probabilità di ulteriore deterioramento del credito nonché dei costi che si ritiene verranno sostenu-
+ti per il recupero dell’esposizione creditizia. I ﬂussi di cassa relativi a crediti il cui recupero è previsto entro breve 
+120

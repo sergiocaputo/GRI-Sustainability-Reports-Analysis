@@ -1,0 +1,52 @@
+Bilancio Consolidato 2017
+livello di dipendenza del Gruppo dalle proprie fonti di ﬁnanziamento e della capacità di attivare tempestivamente 
+canali di funding alternativi e/o riserve di back-up liquidity.
+Tale monitoraggio è afﬁancato da periodiche analisi del grado di concentrazione della raccolta da clientela e delle 
+principali scadenze degli aggregati di funding. In particolare, le analisi effettuate prevedono una segmentazione del-
+le operazioni in scadenza sia per tipologia di controparte (retail, istituzionale, ecc.) che per forma tecnica di raccolta 
+(emissioni obbligazionarie, time deposit, interbancario, ecc.).
+In coerenza con le disposizioni normative in vigore, è stato inoltre implementato un processo di monitoraggio degli 
+indicatori regolamentari di liquidità orientati rispettivamente ad una logica di “sopravvivenza” in condizioni di stress 
+acuto nel breve periodo (LCR) e ad una logica di stabilità strutturale delle fonti di raccolta nel medio - lungo periodo 
+(NSFR).
+Il set di controlli è completato dal monitoraggio di indicatori per la misurazione del rischio di liquidità infra-giorna-
+liero, anche al ﬁne di quantiﬁcare il fabbisogno minimo di disponibilità liquide funzionale alle esigenze operative del 
+Gruppo.
+Nel corso del 2017, il Gruppo ha provveduto a perfezionare speciﬁche azioni gestionali ﬁnalizzate ad incrementare 
+il proprio buffer di riserve liquide. Particolare attenzione è stata inoltre posta alle iniziative ﬁnalizzate alla diversiﬁca-
+zione delle fonti di funding ed al consolidamento dello stock di attivi eligible per operazioni di riﬁnanziamento con 
+l’Eurosistema.
+Le attività di monitoraggio condotte hanno infatti evidenziato come, al 31 dicembre 2017, la posizione di liquidità si 
+sia attestata su valori maggiori rispetto ai limiti operativi deﬁniti sulla base delle risultanze delle prove di stress (in 
+linea con quanto previsto dalla “Policy di gestione del rischio di liquidità”). In particolare, il buffer di liquidità, a ﬁne 
+2017, risultava pari a circa 2,5 miliardi di euro (con un incremento rispetto al 31 dicembre 2016 pari a +1,1 mld di 
+euro) e prevalentemente composto da disponibilità liquide, attività stanziabili presso Banche Centrali e, in misura 
+residuale, da ulteriori titoli non stanziabili ma “marketable” (ad es. titoli governativi non area euro).
+L’indicatore LCR si è costantemente posizionato al di sopra della soglia regolamentare dell’80% prevista dal mecca-
+nismo di phase-in dei limiti normativi (100% da gennaio 2018). L’indicatore NSFR, stimato gestionalmente in attesa 
+della completa deﬁnizione regolamentare delle metodologie di calcolo da parte delle Autorità preposte, si è invece 
+attestato, nel corso dell’anno, su livelli costantemente superiori al 100%.
+Inﬁne, in linea con quanto previsto dalla normativa prudenziale, il Gruppo ha provveduto a predisporre uno speciﬁco 
+piano di gestione per la salvaguardia della struttura ﬁnanziaria aziendale in situazioni di tensione di liquidità (“Con-
+tingency Funding and Recovery Plan”). Il piano di emergenza individua, infatti, ruoli e compiti delle diverse unità 
+organizzative coinvolte nel processo di gestione del rischio di liquidità, oltre alle procedure da attivare in caso di 
+superamento delle soglie di rischio.
+Leva ﬁnanziaria 
+La Circolare n. 285/2013 “Disposizioni di vigilanza per le banche” richiede alle banche di calcolare l’indice di Leva 
+ﬁnanziaria come disciplinato nel Regolamento CRR.
+La misurazione e il controllo nel continuo di tale indicatore sono ﬁnalizzati a perseguire i seguenti obiettivi:
+•  contenere il grado di leva ﬁnanziaria e dunque attenuare i processi di deleveraging veriﬁcatisi nel corso della crisi 
+economica;
+•  limitare i possibili errori di misurazione connessi all’attuale sistema di calcolo degli attivi ponderati.
+In quest’ottica, infatti, si inserisce la deﬁnizione del rischio di leva ﬁnanziaria eccessiva contenuta nella predetta Cir-
+colare: “è il rischio che un livello di indebitamento particolarmente elevato rispetto alla dotazione dei mezzi propri 
+renda la banca vulnerabile, rendendo necessaria l’adozione di misure correttive al proprio piano industriale, com-
+presa la vendita di attività con contabilizzazione di perdite che potrebbero comportare rettiﬁche di valore anche 
+sulle restanti attività”. In particolare, il coefﬁciente/indice di Leva Finanziaria (Leverage Ratio) è pari al rapporto tra 
+l’ammontare di capitale dell’intermediario (numeratore) ed una misura di esposizione complessiva della banca (de-
+nominatore), entrambe determinate in coerenza con quanto previsto dalla normativa in vigore.
+Capitale di Classe 1
+(cid:62)(cid:286)(cid:448)(cid:286)(cid:396)(cid:258)(cid:336)(cid:286)(cid:3)(cid:90)(cid:258)(cid:415)(cid:381)   =
+Esposizione complessiva
+Al 31 dicembre 2017 il Leverage ratio si è attestato al 5,27%, mentre l’indicatore a regime è stimato al 4,93%.
+555

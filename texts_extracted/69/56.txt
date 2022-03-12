@@ -1,0 +1,39 @@
+SOL GROUP  –  THE ENVIRONMENT 55
+P L A N T C E RT I F I CAT I O N S
+The SOL Group views management system certifica- certification status of the primary production units or 
+tion as a key element in the management and mitiga- those that fall under the Seveso Directive.
+tion of environmental aspects. The table outlines the 
+ISO  ISO  OHSAS  Seveso
+Country Unit Plant type AIA(1) EMAS(2)
+14001(2) 50001(2) 18001(2) Directive (3)
+Belgium Feluy Air separation (ASU) X X
+Bulgaria Devnya Carbon dioxide production X
+Devnya Air separation (ASU) X X
+France Cergy Pontoise Cylinder filling X
+Saint Savin Cylinder filling X
+Germany Frankfurt Gas liquefaction from air separation X X
+Gersthofen Cylinder filling X
+Krefeld Cylinder filling X
+Zeitz Carbon dioxide production X
+Ireland Cork Acetylene production X
+Italy Ancona Acetylene production X X X X
+Augusta Air separation (ASU) X X
+Bari Cylinder filling X
+Marcianise Nitrous oxide production X X X
+Cremona Nitrous oxide production X X X X
+Cuneo Air separation (ASU) X X
+Mantua Air separation (ASU) X X X X
+Monza Special gas production X
+Piombino Air separation (ASU) X X
+Pisa Cylinder filling X X
+Ravenna Hydrogen production X X X
+Salerno Air separation (ASU) X X
+Verona Air separation (ASU) X X X X
+The 
+Tillburg Nitrous oxide production X X
+Netherlands
+Slovenia Jesenice Air separation (ASU) X X X X
+(1)  AIA - The plant has Integrated Environmental Authorisation as it falls into the field of application of the IPPC directive
+(2)  Certifications - The plant has a management system that is certified according to one or more of the following standards: ISO 14001, ISO 50001, OHSAS 18001  
+     or EMAS Registration. 
+(3)  Seveso Directive - The plant falls into the field of application of Directive 2012/18/EU (“Seveso Directive”)

@@ -1,0 +1,53 @@
+172 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+Provisions Shadow accounting
+Provisions for risks and charges are provided only when  In order to mitigate the valuation mismatch between fi-
+it is deemed necessary to respond to an obligation (legal  nancial investments carried at fair value according to IAS 
+or implicit) arising from a past event and it is probable  39 and insurance provisions which are accounted for in 
+that an outflow of resources whose amount can be relia- accordance with previous local GAAP, shadow account-
+bly estimated, as required by IAS 37. ing is applied to insurance contracts and investments 
+contracts with DPF. This accounting practice attributes 
+to the policyholders part of the difference between IAS/
+Insurance provisions
+IFRS valuation of the basis on which the profit sharing is 
+determined and valuation which is used to determine the 
+This item comprises amounts, gross of ceded reinsur- profit sharing actually paid. This accounting treatment is 
+ance, of liabilities related to insurance contracts and in- included in the deferred policyholder liabilities in the life 
+vestment contracts with discretionary participation fea- insurance provisions.
+tures.
+The policyholders’ share is calculated on the average 
+contractual percentage for the policyholder participation, 
+Life insurance policies as the local regulation already foresees the protection of 
+guaranteed obligations through the recognition of addi-
+In accordance with IFRS 4, policies of the life segment  tional provisions for interest rate risk if future financial re-
+are classified as insurance contracts or investment con- turns based on a proper time horizon are not sufficient to 
+tracts based on the significance of the underlying insur- cover the financial guaranties included in the contract.
+ance risk.
+The accounting item arising from the shadow accounting 
+Classification requires the following steps: application is included in the carrying amount of insur-
+– identification of the characteristics of products (option,  ance liabilities whose adequacy is tested by the liability 
+discretionary participation feature, etc.) and services  adequacy test (LAT) according to IFRS 4 (refer to para-
+rendered; graph Details on insurance and investment contracts), to 
+– determination of the level of insurance risk in the con- rectify the IAS/IFRS carrying amount of insurance provi-
+tract; and sions.
+– application of the international principle.
+The main accounting effect of the shadow accounting 
+is double fold: on the one hand, the recognition of the 
+Insurance contracts and investment contracts  policyholders’ share of unrealized gains and losses on 
+with DPF  available for sale financial assets in the deferred poli-
+cyholders’ liabilities; on the other, the insurer’s share is 
+Premiums, payments and change in the insurance provi- recognised in equity. If financial instruments are fair val-
+sion related to products whose insurance risk is consid- ued through profit or loss or financial investments are 
+ered significant (e.g. term insurance, whole life and en- impaired, the policyholders’ share on the difference be-
+dowment with annual premiums, life contingent annuities  tween the market value and valuation used to determine 
+and contracts containing an option to elect at maturity a  the return which the profit sharing is based on (e.g. the 
+life contingent annuity at rates granted at inception, long- carrying amount in segregated fund) is recognised in the 
+term health insurance and unit-linked with sum assured  profit and loss account. The shadow accounting also al-
+in case of death significantly higher than the value of the  lows the recognition of an insurance liability related to 
+fund) or investment contracts with discretionary partici- unrealized gains on available for sale financial assets  
+pation feature –DPF – (e.g. policies linked to segregated  linked to contracts with discretionary participation fea-
+funds, contracts with additional benefits that are con- ture, up to the amount of the increase in value of these 
+tractually based on the economic result of the compa- assets due to the change of market rates.
+ny) are accounted for in accordance with previous local 
+GAAP. Gross premiums are recognised as a revenue, net 
+of cancellations of the period, and ceded premiums are 
+recognised as expenses of the period. 

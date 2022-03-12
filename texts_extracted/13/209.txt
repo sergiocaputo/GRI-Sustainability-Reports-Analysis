@@ -1,0 +1,33 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+ristimata la clausola di earn-out da corrispondere alla parte venditrice. Tale 
+ammontare, che si è ridotto da 11,2 milioni a 7,3 milioni di euro, rappresenta 
+al momento la miglior stima del valore intangibile dell’avviamento assegnato 
+alla CGU in esame.
+Il test di impairment è stato, pertanto, svolto considerando le seguenti CGU:
+Euro/milioni Descrizione Avviamento 
+allocato
+CGU Spagna Banco Mediolanum S.A. 102,8
+CGU Italia Gamax Management AG - Divisione Italia 22,7
+CGU EuroCQS EuroCQS S.p.A. 7,3
+METODOLOGIE DI VALUTAZIONE
+In continuità con i precedenti esercizi, il valore recuperabile delle CGU è 
+stato determinato, ove non diversamente indicato, facendo riferimento al 
+valore d’uso. Per la determinazione del valore d’uso lo IAS 36 prevede la 
+possibilità di utilizzare il metodo finanziario conosciuto nella dottrina come 
+Discounted Cash Flow (DCF). Tale metodo individua il valore d’uso di una 
+CGU, o di un’azienda, tramite la stima dei flussi di cassa (operativi) futuri da 
+essa generati, attualizzati in funzione dell’arco temporale esplicito in cui si 
+ipotizza saranno conseguiti. Nella prassi operativa, nel caso di valutazione 
+di aziende di credito si ricorre al Free Cash Flow to Equity (FCFE), noto come 
+Dividend Discount Model (DDM) nella versione Excess Capital, che determina 
+il valore di un’azienda sulla base dei flussi di cassa futuri che sarà in grado 
+di distribuire ai suoi azionisti, senza intaccare gli assets necessari a sostenere 
+lo sviluppo atteso e nel rispetto delle regolamentazioni sul capitale imposte 
+dall’Autorità di Vigilanza, scontati ad un tasso che esprime lo specifico rischio. 
+Si nota peraltro che nonostante l’espressione Dividend Discount Model 
+richiami la parola dividendo, i flussi di cassa considerati dal modello non 
+sono i dividendi che si prevede verranno distribuiti agli azionisti, ma i flussi di 
+cassa di cui un’azionista potenzialmente potrebbe beneficiare nel rispetto dei 
+limiti delle dotazioni patrimoniali richieste dall’operatività aziendale.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 210

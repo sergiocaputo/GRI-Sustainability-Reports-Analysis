@@ -1,0 +1,90 @@
+Supplement Supplement
+→ Human Capital → Human Capital
+Turnover for incomingA employees by country, 2018B-2019 Turnover for outgoing employees by genderA and ageB, 2018C-2019
+2019 2018 Gender 2019 2018
+Country
+Number Percentage Number Percentage Number Percentage Number Percentage
+Italy 1,181 2.88% 1,251 2.78% Female 4,611 8.58% 6,692 11.28%
+Germany 852 5.30% 533 3.05% Male 4,374 10.26% 6,342 14.51%
+Austria 503 5.72% 590 6.30%
+Bosnia and Herzegovina 118 7.00% 116 6.85%
+Age 2019 2018
+Bulgaria 550 11.99% 552 12.09%
+Number Percentage Number Percentage
+Croatia 328 8.05% 359 8.62%
+Up to 30 years 2,418 22.02% 2,789 25.00%
+Czech Republic 515 13.24% 593C 14.60%
+31 – 50 years 4,031 7.33% 3,786 6.50%
+Hungary 343 15.54% 307 13.60%
+Above 50 years 2,536 8.35% 6,459 19.64%
+Romania 1,081 18.48% 1,423 24.97%
+Russia 828 17.54% 876 18.55%
+A. Turnover rates are calculated as follows: (employees who left the Group by gender)/(employees by gender at the beginning of year)*100.
+Serbia 146 11.20% 127 9.91%
+B. Turnover rates are calculated as follows: (employees who left the Group by age)/(employees by age at the beginning of year)*100.
+Slovenia 77 13.34% 80 14.04% C.  The percentage data for 2018 have been recasted from those published in the previous Integrated Report in order to ensure the homogeneity of the two-year 
+OtherD 150 9.52% 358C 23.76% calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the GRI 401-1 Disclosure. For the 
+Total 6,672 6.92% 7,165 7.00% historical data published in the past, please refer to the 2018 Integrated Report.
+A. Turnover rates are calculated as follows: (employees hired during the year)/(employees at the beginning of year)*100.
+Percentage of employees by gender and employment status, 2018-2019
+B. T he percentage data for 2018 have been recasted from those published in the previous Integrated Report in order to ensure the homogeneity of the two-year 
+calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the GRI 401-1 Disclosure. For the historical data 
+published in the past, please refer to the 2018 Integrated Report. 2019 2018
+C. Due to improved processes in data collection and calculation, 2018 figures differ from the ones published in 2018 Integrated Report. Gender
+D. Other includes: Brazil, Ireland, Latvia, Luxembourg, Poland, Singapore, Slovakia, United Kingdom and United States of America. Part-time Full-time Part-time Full-time
+Female 13.78% 42.48% 13.65% 42.12%
+Turnover for outgoingA employees by country, 2018B-2019 Male 2.24% 41.51% 2.23% 42.01%
+Total 16.01% 83.99% 15.88% 84.12%
+2019 2018
+Country
+Number Percentage Number Percentage
+Italy 2,416 5.89% 5,100 11.34% DifferentialA between female and male employee gross salariesB by country  
+Germany 1,229 7.65% 2,022 11.57% and employment tier, 2018-2019C
+Austria 778 8.84% 1,153 12.31%
+The percentage represents the weighted averages of women’s average gross salary compared to men’s.
+Bosnia and Herzegovina 118 7.00% 120 7.08%
+Bulgaria 565 12.31% 523 11.45%
+2019 2018
+Croatia 385 9.45% 444 10.66%
+Country Senior  Middle  Senior  Middle 
+Czech Republic 545 14.01% 676C 16.64% Staff Staff
+Executive Management Executive Management
+Hungary 375 16.99% 358 15.86%
+Italy 92.19% 87.14% 89.06% 90.49% 86.48% 88.63%
+Romania 1,245 21.28% 1,307 22.94%
+Germany 84.07% 85.14% 88.50% 77.65% 83.46% 87.63%
+Russia 881 18.66% 878 18.59%
+Austria 107.06% 90.65% 79.85% 105.76% 90.65% 80.17%
+Serbia 114 8.75% 105 8.20%
+Bosnia and 
+Slovenia 79 13.69% 72 12.63% Herzegovina Not applicable 81.58% 86.71% Not applicable 80.29% 89.67%
+OtherD 255 16.19% 276C 18.31% Bulgaria Not applicable 93.62% 75.77% Not applicable 91.73% 74.88%
+Total 8,985 9.33% 13,034 12.74% Croatia Not applicable 89.14% 93.82% 89.10% 90.48% 93.55%
+Czech Republic Non applicable 84.09% 76.08% Not applicable 68.67% 71.02%
+A. Turnover rates are calculated as follows: for outgoing employees (employees who left the Group during the year)/(employees at the beginning of year)*100. Hungary 84.15% 95.96% 80.30% Not applicable 97.58% 81.12%
+B. T he percentage data for 2018 have been recasted from those published in the previous Integrated Report in order to ensure the homogeneity of the two-year 
+Romania 141.58% 98.06% 79.24% 102.26% 100.76% 82.41%
+calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the GRI 401-1 Disclosure. For the historical data 
+published in the past, please refer to the 2018 Integrated Report. Russia Not applicable 89.82% 73.97% 120.60% 89.57% 73.59%
+C. Due to improved processes in data collection and calculation, 2018 figures differ from the ones published in 2018 Integrated Report. Serbia Not applicable 84.97% 75.61% Not applicable 88.83% 78.75%
+D. Other includes: Brazil, Ireland, Latvia, Luxembourg, Poland, Singapore, Slovakia, United Kingdom and United States of America. Slovenia Not applicable 103.31% 90.26% Not applicable 76.47% 94.73%
+Turnover for incoming employees by genderA and ageB, 2018C-2019 A. The ratios were calculated as follows: (total gross salary of female employees/total female FTE)/(total gross salary of male employees/total male FTE).
+B. Gross salary: the full year fixed amount paid to an employee for performing his/her duties. It includes allowances provided related to specific positions.
+C. Data represents 84.82% of the population.
+2019 2018
+Gender
+Number Percentage Number Percentage
+Female 3,722 6.93% 4,219 7.51%
+Male 2,950 6.92% 2,946 6.39%
+2019 2018
+Age
+Number Percentage Number Percentage
+Up to 30 years 3,704 33.72% 4,366 39.13%
+31-50 years 2,646 4.81% 2,361 4.05%
+Above 50 years 322 1.06% 438 1.33%
+A. Turnover rates are calculated as follows: (employees hired by gender during the year)/(employees by gender at the beginning of year)*100.
+B. Turnover rates are calculated as follows: (employees hired by age during the year)/(employees by age at the beginning of year)*100.
+C. T he percentage data for 2018 have been recasted from those published in the previous Integrated Report in order to ensure the homogeneity of the two-year 
+calculation methodologies. The methodology used complies with the interpretation of the GRI Standards in relation to the GRI 401-1 Disclosure. For the historical data 
+published in the past, please refer to the 2018 Integrated Report.
+S. 34 UniCredit • 2019 Integrated Report UniCredit • 2019 Integrated Report S. 35

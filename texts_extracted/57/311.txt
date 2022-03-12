@@ -1,0 +1,50 @@
+Bilancio Consolidato 2017
+Il rischio operativo
+Il Gruppo Banca Popolare di Bari, anche nel corso del 2017, ha proseguito le attività connesse al consolidamento 
+di un framework organico e strutturato per la gestione del rischio operativo focalizzandosi, in particolare, sul ﬁne 
+tuning dei meccanismi di interazione con i processi di gestione del rischio informatico. 
+Il Gruppo, inoltre, ha periodicamente segnalato i propri dati di perdita operativa all’Osservatorio DIPO (Database Ita-
+liano Perdite Operative), nonché gli scenari di rischio informatico e di conduct risk elaborati nell’ambito del progetto 
+ABI denominato SCER.
+Il rischio di tasso di interesse
+Il Gruppo, in linea con quanto stabilito dalle Disposizioni di Vigilanza in vigore, ha implementato un apposito sistema 
+per la gestione del rischio tasso di interesse sul banking book, ovvero del rischio di riduzioni del valore economico 
+del patrimonio e del margine di interesse determinate da variazioni inattese delle curve dei tassi.
+In particolare, le caratteristiche del sistema in uso sono formalizzate nell’ambito di una speciﬁca policy che deﬁnisce 
+norme, processi e strumenti funzionali a governare tale tipologia di rischio.La quantiﬁcazione del capitale interno a 
+fronte del rischio di tasso d’interesse sul banking book è effettuata mediante un apposito modello interno, basato 
+su una procedura di Asset and Liability Management (ALMPro ERMAS di Prometeia). 
+Al ﬁne di incrementare l’accuratezza delle stime di rischio, tale piattaforma consente di valutare sia gli impatti legati 
+alla modellizzazione delle poste a vista sia gli effetti derivanti da fenomeni di prepayment degli impieghi erogati a 
+clientela. Nel dettaglio, il Gruppo ha provveduto all’implementazione dei seguenti modelli comportamentali, ogget-
+to di periodiche attività di aggiornamento e calibrazione:
+•  modello delle poste a vista: basato su due analisi distinte, dedicate rispettivamente allo studio della persistenza 
+dei volumi delle poste a vista e dell’andamento dei tassi relativi a tali aggregati rispetto all’evoluzione dei tassi di 
+mercato;
+•  modello di prepayment: funzionale alla stima un piano di ammortamento atteso degli impieghi a scadenza dif-
+ferente rispetto a quello contrattuale, mediante la determinazione dei coefﬁcienti di una funzione parametrica 
+di sopravvivenza che tiene conto di variabili ﬁnanziarie quantitative (ad es. incentivi al riﬁnanziamento) e variabili 
+esplicative categoriche (ad es. tipo di controparte, età del mutuatario, ecc.).
+La procedura valuta inoltre l’impatto sul proﬁlo di rischio delle opzionalità implicite (cap / ﬂoor) sulle poste a tasso 
+variabile.
+Nel complesso, la considerazione di tali effetti consente una gestione del rischio di tasso maggiormente orientata 
+all’ottimizzazione della struttura di ALM, a beneﬁcio sia della redditività attesa che degli assorbimenti patrimoniali.
+Il principale strumento di mitigazione del rischio di tasso è rappresentato dall’attività di monitoraggio delle soglie 
+deﬁnite nell’ambito del Risk Appetite Framework e dei limiti ad esso connessi. Tale attività, infatti, è ﬁnalizzata ad 
+assicurare che lo stesso sia correttamente ed efﬁcacemente gestito attraverso la tempestiva individuazione di 
+eventuali criticità e la deﬁnizione delle opportune azioni correttive.
+Nello speciﬁco, al ﬁne di valutare la congruità dell’esposizione al rischio di tasso di interesse con il proﬁlo di rischio 
+deﬁnito dagli Organi con funzione di indirizzo strategico, il Gruppo utilizza il modello interno sopra citato per la stima 
+di un Indicatore di Rischiosità coerente con le logiche deﬁnite dalla Banca d’Italia nella Circolare 285/2013. L’Indica-
+tore è determinato come differenza tra il valore attuale delle poste dell’attivo e del passivo ed il corrispondente va-
+lore attuale stimato sulla base della medesima curva dei tassi a seguito dell’applicazione di uno shock. In particolare, 
+per ciascuno dei nodi curva nei confronti dei quali il Gruppo è esposto, lo shock è ottenuto sulla base delle variazioni 
+annuali dei tassi di interesse registrate in un periodo di osservazione pluriennale, considerando il 99,9° percentile 
+al rialzo. La differenza tra i valori attuali ottenuti con le due curve, inﬁne, è rapportata al valore dei Fondi Propri per 
+ottenere un Indicatore di Rischiosità espresso in termini percentuali.
+Sempre in coerenza con la normativa prudenziale, il Gruppo utilizza l’ipotesi di shift della curva dei tassi di +200 basis 
+point quale scenario di stress. Tale stress è inoltre integrato con ulteriori scenari, deﬁniti in coerenza con i principi 
+introdotti nell’aprile 2016 dal Comitato di Basilea e basati su differenti strutture di shock non paralleli delle curve dei 
+tassi.
+Oltre ad effettuare stime degli impatti sul valore del patrimonio, la procedura in uso consente di quantiﬁcare gli 
+311

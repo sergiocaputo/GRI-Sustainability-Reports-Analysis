@@ -1,0 +1,65 @@
+10. Glossario
+Basilea 3 gli strumenti ﬁ nanziari nelle categorie previste dal principio 
+Insieme di provvedimenti di riforma, predisposti dal Comitato  contabile IFRS9. Obiettivo del business model è riﬂ ettere le 
+di Basilea per la vigilanza bancaria in seguito alla crisi ﬁ nanzia- modalità con cui gruppi di attività ﬁ nanziarie sono gestiti per 
+ria del 2007-2008, con l’intento di perfezionare la preesisten- generare ﬂ ussi di cassa.
+te regolamentazione prudenziale del settore bancario (Basilea 
+2), l’efﬁ cacia dell’azione di vigilanza e la capacità degli inter- Cambio
+mediari di gestire i rischi che assumono. Rapporto fra due monete indicante il valore della moneta di 
+un Paese espresso nella moneta dell’altro.
+Basis point
+Unità che misura uno spread o una variazione dei tassi di inte- Capitale aggiuntivo di classe 1 (Additional Tier 1, AT1)
+resse, pari a un centesimo di punto percentuale. Ad esempio:  È composto dagli strumenti di capitale diversi dalle azioni or-
+se i tassi salgono dal 9,65% al 9,80%, la variazione è di 15  dinarie (che sono computabili nel CET1) e che rispettano i 
+basis point. requisiti normativi per l’inclusione in tale livello dei Fondi pro-
+pri (ad esempio le azioni di risparmio). Dall’ammontare di cui 
+Benchmark sopra sono poi detratte una serie di voci.
+Parametro ﬁ nanziario, o indice, o strumento ﬁ nanziario che, 
+per le sue caratteristiche di rappresentatività viene considera- Capitale di classe 1 (Tier 1, T1)
+to dagli intermediari come riferimento per capire se uno stru- È costituito dalla somma del Capitale primario di classe 1 
+mento ﬁ nanziario dalle caratteristiche analoghe ha registrato,  (CET1) e Capitale aggiuntivo di classe 1 (AT1).
+in un dato periodo, migliori o peggiori performance in termini 
+di rendimento rispetto al benchmark stesso. Capitale di classe 2 (Tier 2, T2)
+È composto principalmente dalle passività subordinate com-
+Best practice putabili e dalle eventuali eccedenze delle rettiﬁ che di valore ri-
+In genere identiﬁ ca un comportamento commisurato al mi- spetto alle perdite attese (excess reserve) per le posizioni pon-
+glior livello raggiunto dalle conoscenze riferite ad un certo  derate secondo i metodi IRB - Internal rating based approach.
+ambito tecnico-professionale.
+Capitale primario di classe 1 (Common Equity Tier 1, CET1)
+Bid-ask spread È il capitale di qualità primaria, come deﬁ nito dalle nuove 
+È la differenza rilevabile tra i prezzi denaro e lettera su un deter- disposizioni di vigilanza prudenziali per le banche contenute 
+minato strumento ﬁ nanziario o gruppo di strumenti ﬁ nanziari. nel Regolamento UE n. 575/2013 (c.d. CRR) e nella Direttiva 
+2013/36/UE (c.d. CRD IV), che introducono nell’Unione Euro-
+Borsa Italiana S.p.A. pea gli standard deﬁ niti dal Comitato di Basilea per la vigilanza 
+Società privata che si occupa della gestione, dell’organizza- bancaria (c.d. Basilea 3). È calcolato come la somma algebrica 
+zione e del funzionamento dei mercati ﬁ nanziari nazionali. di azioni ordinarie emesse dalla Banca che soddisﬁ no i criteri 
+di classiﬁ cazione ai ﬁ ni regolamentari, del sovrapprezzo azioni 
+Broker derivante dall’emissione degli strumenti ricompresi nel CET1, 
+Intermediario ﬁ nanziario che esegue gli ordini di acquisto e  di utili portati a nuovo, riserve di rivalutazione e altre riserve.
+vendita ricevuti dai propri clienti ottenendone in cambio una  Dall’ammontare di cui sopra sono poi detratte una serie di 
+commissione di solito espressa come percentuale del valore  voci (es. perdita attesa, partecipazioni ﬁ nanziarie, attività ﬁ -
+dell’operazione. scali differite) soggette peraltro al beneﬁ cio del meccanismo 
+della franchigia e, nel periodo transitorio, ad una graduale 
+Budget applicazione attraverso il meccanismo del phase-in.
+Stato previsionale dell’andamento dei costi e dei ricavi futuri 
+di un’azienda. Capitale Sociale
+Insieme dei valori nominali di tutte le azioni o quote emesse 
+Bund da una società e corrispondente al capitale conferito dai soci 
+Titoli di Stato a lungo termine emessi dal governo tedesco. alla costituzione e alle variazioni successive.
+Buono del Tesoro Poliennale (BTP) Capitali
+Titolo a medio-lungo termine emesso dal Ministero dell’Eco- Insieme di valori che costituiscono gli input al business model 
+nomia e delle Finanze per ﬁ nanziare il debito pubblico che  di un’organizzazione, che vengono utilizzati, migliorati, con-
+garantisce un rendimento a tasso ﬁ sso. sumati, modiﬁ cati o inﬂ uenzati attraverso le sue attività nel 
+processo di creazione del valore.
+Buono Ordinario del Tesoro (BOT)
+Il BOT è un titolo a breve termine emesso dal Ministero dell’E- Capitalizzazione di Borsa
+conomia e delle Finanze per provvedere al fabbisogno statale;  È il valore di un’azienda in borsa, risultante dal prezzo di mer-
+ha durata variabile e non vengono pagate cedole periodiche  cato delle varie categorie di azioni, moltiplicato per il numero 
+ma solo il rimborso del capitale alla scadenza. di azioni emesse.
+Business model Cartolarizzazioni
+Sistema di input, attività a valore aggiunto e output attraver- Operazioni che prevedono il trasferimento di portafogli di 
+so i quali un’organizzazione crea e preserva valore nel breve,  attività ad una Società Veicolo “Special Purpose Vehicle” e 
+medio e lungo periodo. l’emissione da parte di quest’ultima di titoli aventi diversi gra-
+Dal punto di vista della redazione del bilancio è invece un  di di subordinazione nel sopportare le eventuali perdite sulle 
+driver che guida, insieme all’SPPI test, la classiﬁ cazione de- attività sottostanti.
+418 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

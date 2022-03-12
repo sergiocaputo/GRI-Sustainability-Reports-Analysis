@@ -1,0 +1,34 @@
+GRI No. Notice Page Omissions
+GRI No. Employment
+103 1 Perimeter of the material theme 33 -
+103 2-3 Evaluation of the management approach 33 -
+401 1 New employees hired and turnover 33 -
+GRI No. Worker health and safety
+103 1 Perimeter of the material theme 37 -
+103 2-3 Evaluation of the management approach 37 -
+403 2 Type of accidents and rate of accidents at work,  37 -
+occupational diseases, missed working days, 
+absenteeism and total number of deaths
+403 5 Worker training on health and safety at work 35, 37 -
+403 6 Promotion of workers' health 37 -
+GRI No. Education and Training
+103 1 Perimeter of the material theme 35 -
+103 2-3 Evaluation of the management approach 35 -
+404 2 Average hours of training per employee 35 -
+GRI No. Diversity and equal opportunities
+103 1 Perimeter of the material theme 33 - 37, 40 -
+103 2-3 Evaluation of the management approach 33 - 37, 40 -
+405 1 Diversity in governing bodies and personnel 34, 36 -
+GRI No. Child labour
+103 1 Perimeter of the material theme 38, 39, 40 -
+103 2-3 Evaluation of the management approach 38, 39, 40 -
+408 1 Operations and suppliers at significant risk for child  39 -
+labour accidents
+GRI No. Forced or compulsory labour
+103 1 Perimeter of the material theme 38, 39, 40 -
+103 2-3 Evaluation of the management approach 38, 39, 40 -
+409 1 Operations and suppliers at significant risk of  39 -
+accidents, for forced or compulsory work
+
+
+    46

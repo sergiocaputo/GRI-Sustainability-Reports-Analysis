@@ -1,0 +1,49 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+6. Analisi e presidio dei rischi
+Gruppo Poste Vita - Rischio spread su fair value
+Esposizione   Delta   Effetto su Passività  Risultato prima   Riserve di Patrimonio 
+al rischio valore differite verso gli  delle imposte netto al lordo delle 
+assicurati imposte
+Descrizione
+(milioni di euro) Nozionale Fair value +100bps -100bps +100bps -100bps +100bps -100bps +100bps -100bps
+Effetti 2017
+Attività finanziarie 
+Investimenti 
+disponibili per la  87.894  94.871  (6.634) 6.634  (6.450) 6.450  -    -    (184) 184 
+vendita 
+Titoli a reddito fisso 87.893  94.709  (6.526) 6.526  (6.342) 6.342  -    -    (184) 184 
+Altri investimenti 1  162  (108) 108  (108) 108  -    -    -    -   
+Strumenti finanziari  
+al fair value rilevato  6.481  6.886  (290) 290  (287) 287  (3) 3  -    -   
+a CE
+Titoli a reddito fisso 5.979  6.220  (240) 240  (237) 237  (3) 3  -    -   
+Obbligazioni 
+500  546  (30) 30  (30) 30  -    -    -    -   
+strutturate
+Altri investimenti 2  120  (20) 20  (20) 20  -    -    -    -   
+Variabilità al  
+94.375  101.757  (6.924) 6.924  (6.737) 6.737  (3) 3  (184) 184 
+31 dicembre 2017
+Effetti 2016
+Attività finanziarie 
+Investimenti 
+disponibili per la  80.533  89.182  (6.071) 6.071  (5.895) 5.895  -    -    (176) 176 
+vendita 
+Titoli a reddito fisso 80.524  88.377  (6.009) 6.009  (5.833) 5.833  -    -    (176) 176 
+Altri investimenti 9  805  (62) 62  (62) 62  -    -    -    -   
+Strumenti finanziari al 
+9.879  10.117  (364) 364  (363) 363  (1) 1  -    -   
+fair value rilevato a CE
+Titoli a reddito fisso 9.379  9.566  (329) 329  (328) 328  (1) 1  -    -   
+Obbligazioni 
+500  551  (35) 35  (35) 35  -    -    -    -   
+strutturate
+Variabilità al  
+90.412  99.299  (6.435) 6.435  (6.258) 6.258  (1) 1  (176) 176 
+31 dicembre 2016
+Oltre che con l’analisi di sensitività sopra menzionata, Poste Italiane S.p.A. e il Gruppo Poste Vita monitorano il rischio Spread 
+mediante il calcolo della massima perdita potenziale (VaR - Value at Risk) stimata su basi statistiche con un orizzonte temporale 
+di 1 giorno e un livello di confidenza del 99%. L’analisi effettuata tramite il VaR tiene in considerazione la variabilità del fattore di 
+rischio (spread) che storicamente si è manifestata, non limitando l’analisi ad uno shift parallelo di tutta la curva.
+359

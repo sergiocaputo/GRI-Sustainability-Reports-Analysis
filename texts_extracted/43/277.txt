@@ -1,0 +1,73 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+Dal combinato disposto dei due driver sopra menzionati di- raggiungimento dell’obiettivo del modello di business. Per-
+scende la classiﬁ cazione in bilancio delle attività ﬁ nanziare  tanto, le vendite sono più frequenti e signiﬁ cative rispetto 
+secondo quanto di seguito evidenziato: ad un business model HTC e sono parte integrante delle 
+strategie perseguite;
+•  Attività ﬁ nanziarie valutate al costo ammortizzato: attività 
+che superano il test sulle caratteristiche contrattuali (SPPI  •  Other/Trading: si tratta di una categoria residuale che com-
+test) e rientrano nel business model Hold to Collect (HTC); prende sia le attività ﬁ nanziarie detenute con ﬁ nalità di 
+trading sia le attività ﬁ nanziarie gestite con un modello di 
+•  Attività ﬁ nanziarie valutate al fair value con impatto sulla 
+business non riconducibile alle categorie precedenti (Hold 
+redditività complessiva (FVOCI): attività che superano l’SPPI 
+to Collect e Hold to Collect and Sell). In generale tale clas-
+test e rientrano nel business model Hold to Collect and Sell 
+siﬁ cazione si applica a un portafoglio di asset ﬁ nanziari la 
+(HTCS);
+cui gestione e performance sono valutate sulla base del fair 
+•  Attività ﬁ nanziarie valutate al fair value con impatto a conto  value.
+economico (FVTPL): è una categoria residuale, in cui rientra-
+no gli strumenti ﬁ nanziari che non sono classiﬁ cabili nelle  Il business model riﬂ ette le modalità con le quali le attività 
+categorie precedenti in base a quanto emerso dal business  ﬁ nanziarie sono gestite per generare ﬂ ussi di cassa a beneﬁ -
+model o dal test sulle caratteristiche dei ﬂ ussi contrattuali  cio dell’entità e viene deﬁ nito dal top management mediante 
+(SPPI test non superato). l’opportuno coinvolgimento delle strutture di business. Viene 
+osservato considerando la modalità di gestione delle attività 
+SPPI test ﬁ nanziarie e, come conseguenza, la misura in cui i ﬂ ussi di 
+Afﬁ nché un’attività ﬁ nanziaria possa essere classiﬁ cata al  cassa del portafoglio derivano dall’incasso di ﬂ ussi contrattua-
+costo ammortizzato o a FVOCI – oltre all’analisi relativa al  li, dalla vendita delle attività ﬁ nanziarie o da entrambe queste 
+business model – è necessario che i termini contrattuali  attività.
+dell’attività stessa prevedano, a determinate date, ﬂ ussi ﬁ - Il business model non dipende dalle intenzioni del manage-
+nanziari rappresentati unicamente da pagamenti del capita- ment relativamente ad un singolo strumento ﬁ nanziario ma fa 
+le e dell’interesse sull’importo del capitale da restituire (“so- riferimento alle modalità con le quali gruppi di attività ﬁ nan-
+lely payment of principal and interest” – SPPI). Tale analisi  ziarie vengono gestiti ai ﬁ ni del raggiungimento di un deter-
+deve essere effettuata, in particolare, per i ﬁ nanziamenti e  minato obiettivo di business.
+per i titoli di debito.
+In sintesi, il business model:
+Il test SPPI deve essere effettuato su ogni singolo strumento 
+•  riﬂ ette le modalità con cui le attività ﬁ nanziarie sono gestite 
+ﬁ nanziario, al momento dell’iscrizione in bilancio. Successi-
+per generare ﬂ ussi di cassa;
+vamente alla rilevazione iniziale e ﬁ nché è rilevata in bilancio 
+l’attività non è più oggetto di nuove valutazioni ai ﬁ ni del test  •  viene deﬁ nito dal top management con l’opportuno coin-
+SPPI.  volgimento delle strutture di business;
+•  deve essere osservabile considerando le modalità di gestio-
+Qualora dal test emerga che i ﬂ ussi di cassa contrattuali risul- ne delle attività ﬁ nanziarie.
+tino signiﬁ cativamente differenti rispetto ai ﬂ ussi di cassa di 
+uno strumento benchmark, i ﬂ ussi di cassa contrattuali non  Modalità di determinazione del fair value
+possono essere considerati come rispondenti alla deﬁ nizione  Il fair value è il prezzo che si percepirebbe per la vendita di 
+di SPPI. Anche la presenza di clausole contrattuali che posso- un’attività ovvero che si pagherebbe per il trasferimento di 
+no modiﬁ care la periodicità o l’ammontare dei ﬂ ussi di cassa  una passività in una regolare operazione tra operatori di mer-
+contrattuali deve essere considerata per valutare se tali ﬂ ussi  cato (ossia non in una liquidazione forzosa o in una vendita 
+soddisfano i requisiti per essere considerati SPPI. sottocosto) alla data di valutazione. Il fair value è un criterio di 
+valutazione di mercato, non speciﬁ co dell’entità. Sottostante 
+Business model la deﬁ nizione di fair value c’è la presunzione che l’impresa si 
+Per quanto riguarda il business model, l’IFRS9 individua tre  trovi nel normale esercizio della sua attività senza alcuna in-
+fattispecie in relazione alla modalità con cui sono gestiti i ﬂ us- tenzione di liquidare i propri beni, di ridurre in via signiﬁ cativa 
+si di cassa e le vendite delle attività ﬁ nanziarie: il livello delle proprie attività ovvero di procedere alla deﬁ nizio-
+•  Hold to Collect (HTC): si tratta di un modello di business il  ne di transazioni a condizioni sfavorevoli. 
+cui obiettivo si realizza attraverso l’incasso dei ﬂ ussi di cassa 
+contrattuali delle attività ﬁ nanziarie incluse nei portafogli  L’impresa deve valutare il fair value di un’attività o passività 
+ad esso associati. L’inserimento di un portafoglio di attività  adottando le assunzioni che gli operatori di mercato utilizze-
+ﬁ nanziarie in tale business model non comporta necessa- rebbero nella determinazione del prezzo dell’attività o passi-
+riamente l’impossibilità di vendere gli strumenti anche se è  vità, presumendo che gli operatori di mercato agiscano per 
+necessario considerare la frequenza, il valore e la tempistica  soddisfare nel modo migliore il proprio interesse economico. 
+delle vendite negli esercizi precedenti, le ragioni delle vendi- La valutazione del fair value suppone che l’operazione di ven-
+te e le aspettative riguardo alle vendite future; dita dell’attività o di trasferimento della passività abbia luogo: 
+•  nel mercato principale dell’attività o passività;
+•  Hold to Collect and Sell (HTCS): è un modello di business 
+misto, il cui obiettivo viene raggiunto attraverso l’incasso  •  in assenza di un mercato principale, nel mercato più vantag-
+dei ﬂ ussi di cassa contrattuali delle attività ﬁ nanziarie in  gioso per l’attività o passività. 
+portafoglio e anche attraverso un’attività di vendita che è 
+parte integrante della strategia. Entrambe le attività (raccol- Un mercato si considera attivo quando le operazioni relative 
+ta dei ﬂ ussi contrattuali e vendita) sono indispensabili per il  ad un’attività o ad una passività si veriﬁ cano con una fre-
+274 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

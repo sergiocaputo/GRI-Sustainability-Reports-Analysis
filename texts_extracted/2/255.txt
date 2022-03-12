@@ -1,0 +1,51 @@
+LE PERFORMANCE DI SOSTENIBILITÀ  
+AMBIENTALE – AREA AMBIENTE
+Principali indicatori di performance ambientale (Key Performance Indicators).
+INDICATORE u. m. 2017 2018 2019
+rifiuti non pericolosi smaltiti in discarica/rifiuti totali in ingresso 
+t/t 0,49 0,56 0,57
+(40+41) / (38)
+rifiuti smaltiti in discarica/energia consumata al netto del fotovoltaico
+t/MWh 11,01 11,36 12,00
+(40+41) / (126)
+compost prodotto/rifiuti in ingresso
+t/t 0,12 0,10 0,11
+(43+49) / (38+45)
+compost prodotto/energia elettrica consumata
+kg/kWh 2,24 1,49 1,91
+(43+49) / (126+130)
+LE CONFORMITÀ IN MATERIA AMBIENTALE
+INDICATORE u. m. 2017 2018 2019
+CONFORMITÀ GRUPPO
+penalità pagate per non conformità rispetto a regole/accordi di carattere 
+euro 326.166 139.938 64.500
+ambientale(*)
+(*) Penalità pagate, nel 2019, da Acea Ato 2 e Acea Ato 5.
+DESCRIZIONE DEI CALCOLI UTILIZZATI PER LA DETERMINAZIONE 
+DEL RENDIMENTO DI GENERAZIONE ELETTRICA
+calcolo 1
+Energia (kWh)
+termoelettrica 
+rendimento   =
+(termoelettrico)
+Energia (kWh) + Energia (kWh)
+gasolio  metano 
+dove:
+Energia = energia elettrica lorda prodotta con il ciclo termoelettrico
+termoelettrica
+Energia  (kWh) = gasolio (l) x 0,835 xPCI (kcal/kg) Energia equivalente al gasolio
+gasolio g
+consumato (105)
+860 (kcal/kWh)
+Energia equivalente al metano 
+Energia  (kWh) = metano (Nm3 ) x PCI (kcal/Nm3) consumato (103)
+metano m 
+860 (kcal/kWh)
+PCI = circa 10.000 kcal/kg (potere calorifico inferiore del gasolio)
+g
+PCI  = circa 8.500 kcal/Nm3 (potere calorifico inferiore del metano)
+m
+860 = coefficiente di conversione dell’energia da kcal a kWh
+0,835 = peso specifico gasolio (kg/l)
+NB: i poteri calorifici utilizzati per Acea Produzione sono quelli reali desunti dalle misurazioni dei fornitori di gas e gasolio
+260 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

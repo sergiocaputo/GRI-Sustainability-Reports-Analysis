@@ -1,0 +1,39 @@
+58
+Rifiuti
+I  rifiuti  prodotti  dall’attività  di  Lidl  Italia  sono  principalmente  costituiti  da  materiali  di 
+imballaggio misti, come ad esempio, carta e cartone, pallet in legno e scarti di tessuti. Lidl 
+ha implementato delle misure concrete per la riduzione dei rifiuti generati nelle strutture di 
+pertinenza e si impegna inoltre al recupero dei rifiuti attraverso una corretta segregazione e uno 
+smaltimento rispettoso dell’ambiente. Tuttavia, i rifiuti non possono essere evitati e dovrebbero 
+essere considerati, ove possibile, una risorsa. In particolare, gli obiettivi di sviluppo sostenibile 
+suggeriscono un approccio gerarchico alla gestione dei rifiuti che prevede determinate priorità, 
+condivise dall’Azienda:
+1. Riduzione
+2. Riutilizzo
+3. Riciclo
+4. Recupero
+5. Smaltimento
+Lidl Italia infatti rivolge molta attenzione alla raccolta differenziata. Per sensibilizzare anche i 
+clienti e i dipendenti, l’Azienda rende disponibili in diversi punti vendita e alcune aree all’interno 
+degli uffici, apposite isole di contenitori per la raccolta differenziata e per la raccolta di pile 
+esauste. Nei punti vendita, come da normativa, è previsto inoltre il ritiro di vecchi articoli RAEE. 
+Tutti i processi relativi al riciclo e allo smaltimento vengono condivisi con l’Amministratore 
+Delegato di competenza e curati da un’area dedicata all’interno del reparto Logistica. Il 
+comparto svolge analisi approfondite, interfacciandosi con l’azienda per i servizi di smaltimento 
+Greencycle del Gruppo Schwarz, specializzata nello smaltimento e nel recupero di materie 
+prime così come in attività di circular economy. Tale funzione si occupa inoltre del monitoraggio 
+continuo dei quantitativi dei rifiuti, così come di analisi ed eventuali misure correttive in caso di 
+significativi scostamenti rispetto ai trend attesi. 
+I rifiuti pericolosi costituiscono meno dell’1% del totale dei rifiuti prodotti da Lidl Italia. 
+Nel 2018 i rifiuti pericolosi sono stati pari a poco più di 600 tonnellate con un aumento del 
+28% rispetto al 2017. Tali rifiuti sono per l’86% costituiti da apparecchiature elettriche ed 
+elettroniche (RAEE) e batterie, mentre per il restante 14% sono classificati all’interno della 
+categoria residuale “altro” che include detersivi, neon e toner.
+I rifiuti pericolosi movimentati da Lidl Italia sono per lo più rifiuti RAEE. Il volume trasportato 
+nel 2018 equivale a 516 tonnellate, più del doppio rispetto al 2017 (212 tonnellate), dovuto 
+all’aumento dei volumi di prodotti elettrici ed elettronici proposti in vendita.
+GRI 103
+GRI 306-4 I rifiuti non pericolosi sono aumentati dal 2017 al 2018 del 9%, una crescita riconducibile per lo 
+più all’apertura di 23 nuovi punti vendita. Il 63% è rappresentato da carta e cartone, aumentati 
+del 10% rispetto al dato 2017, che derivano principalmente dagli imballi dei prodotti messi in 
+vendita nei supermercati. 

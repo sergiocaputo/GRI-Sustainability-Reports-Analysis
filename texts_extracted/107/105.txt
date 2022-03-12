@@ -1,0 +1,43 @@
+Figures, trend
+Year Italy Europe World
+2017 5 0 0
+Permanent
+2018 5 0 0
+PSC SPA
+2017 0 0 0
+Fixed-term
+2018 0 0 0
+2017 713 0 0
+Permanent
+2018 722 0 0
+PRIMA COMPONENTS
+2017 0 0 0
+Fixed-term
+2018 0 0 0
+2017 924 53 0
+Permanent
+2018 951 56 0
+SOLE COMPONENTS
+2017 9 18 0
+Fixed-term
+2018 6 5 0
+2017 281 0 440
+Permanent
+2018 298 0 437
+PSMM
+2017 0 0 0
+Fixed-term
+2018 0 0 0
+2017 2 119 0
+2017 Permanent
+ELDOPRIMA COMPONENTS 2018 2 158 0
+2018 2017 0 140 0
+Fixed-term
+2018 0 133 0
+2017 - - -
+Permanent
+TWICE PS 2018 130 121 0
+2017 - - -
+Fixed-term
+2018 1 28 0
+PAGE 106

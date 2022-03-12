@@ -1,0 +1,53 @@
+Our  Consolidated Non-Financial  Appendices to the  Consolidated Financial 
+We, Generali performance Risk Report Outlook Statement Management Report Statements 183  
+Further the Group set cash flow hedges on forecast re- ous decline in market value below average cost for 12 
+financing operations of subordinated liabilities that are  months.
+accounted for as hedge of a forecast operations, that are 
+highly probable and could affect profit or loss. The por- The prolonged decline in value of bonds and loans are 
+tion of the gain or loss on the hedging instrument that  evaluated as a result of specific analysis that involve the 
+is determined to be an effective hedge is recognized di- single issuances.
+rectly in an appropriate item of comprehensive income. 
+The ineffective portion of the gains or loss on the hedg- If an investment has been impaired in previous periods, 
+ing instrument is recognized in profit or loss. If a forecast  further fair value declines are automatically considered 
+transaction subsequently results in the recognition of a  prolonged.
+financial asset or a financial liability, the associated gains 
+or losses that were recognised in other comprehensive  If there is objective evidence of impairment the loss is 
+income shall be reclassified from equity to profit or loss  measured as follows:
+as a reclassification adjustment. – on financial assets at amortised cost, as the difference 
+between the asset’s carrying amount and the present 
+Hedges of a net investment in a foreign operation are ac- value of estimated future cash flows discounted at the 
+counted for similarly to cash flow hedges: the effective  financial asset’s original effective interest rate;
+portion of gain or loss on the hedging instrument is rec- – on available for sale financial assets, as the difference 
+ognized among the components of profit or loss, while  between the cost and the fair value at the measure-
+the part is not effective be recognized in the separate  ment date. 
+income statement.
+Reversals of impairment  are recognized respectively: in 
+the profit or loss in the case of debt instruments, in the 
+Impairment losses on financial 
+equity reserve in the case of equity securities including 
+assets shares of mutual funds (IFU).
+Use of estimates
+As for financial assets, except investments at fair value 
+through profit or loss, IAS 39 is applied whether there is 
+any objective evidence that they are impaired.  The preparation of financial statements compliant to IFRS 
+requires the Group to make estimates and assumptions 
+Evidence of impairment includes, for example, significant  that affect items reported in the consolidations financial 
+financial difficulties of the issuer, its default or delinquen- balance sheet and income statement and the disclosure 
+cy in interest or principal payments, the probability that  of contingent assets and liabilities. The use of estimates 
+the borrower will enter bankruptcy or other financial reor- mainly refers to as follows:
+ganisation and the disappearance of an active market for  – insurance provisions for the life and non-life segment;
+that financial asset. – financial instruments measured at fair value classified 
+in level 3 of the fair value hierarchy;
+The recognition of impairment follows a complex anal- – the analysis in order to identify durable impairments on 
+ysis in order to conclude whether there are conditions  intangible assets (e.g. goodwill) booked in in the bal-
+to effectively recognize the loss. The level of detail and  ance sheet (impairment test);
+the detail with which testing is being undertaken varies  – deferred acquisition costs and value of business ac-
+depending on the relevance of the latent losses of each  quired;
+investment.  – other provisions
+– deferred and anticipated taxes;
+A significant or prolonged decline in the fair value of an  – defined benefit plan obligation;
+investment in an equity instrument below its average cost  – share-base payments.
+is considered as an objective evidence of impairment. – Estimates are periodically reviewed and are based on 
+key management’s best knowledge of current facts 
+The threshold of significance is defined at 30%, while the  and circumstances. 
+prolonged decline in fair value is defined as a continu-

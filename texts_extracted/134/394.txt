@@ -1,0 +1,41 @@
+ 
+Statement of profit or loss    
+               
+               
+    2018  2019  % 
+of which:  of which: 
+(*) 
+(Euro)  Note  related parties  %    related parties   
+Revenue                
+Revenue from contracts with customers  29  2,916,439,069  90,495,394  3%  2,597,494,612  115,950,934  4% 
+Other income  29  151,860,081  42,422,273  28%  143,495,608  64,742,705  45% 
+Total revenue    3,068,299,150      2,740,990,220     
+Operating expenses                
+Purchases  30.1  (391,830,409)  (8,981)  0%  (202,477,486)  (43,371)  0% 
+Subcontracts  30.2  (507,679,607)  (53,624,791)  11%  (522,062,587)  (42,436,492)  8% 
+Services   30.3  (1,383,905,587)  (514,159,583)  37%  (1,241,376,941)  (616,669,537)  50% 
+Personnel expenses  30.4  (319,624,087)  (2,607,279)  1%  (294,927,571)  (1,817,604)  1% 
+Other operating expenses  30.5  (62,641,115)  (426,832)  1%  (66,663,457)  (527,738)  1% 
+Impairment losses (**)  30.6  (190,615,948)  (35,764,46)  19%  (36,080,036)  (6,412,554)  18% 
+Amortisation, depreciation and provisions  30.6  (79,497,269)      (120,429,732)     
+Total operating expenses    (2,935,794,022)      (2,484,017,810)     
+Operating profit    132,505,128      256,972,410     
+Financing income (costs) and gains (losses) on               
+equity investments 
+Financial income  31.1  58,471,893  28,071,404  48%  48,593,543  26,401,786  54% 
+Financial expense  31.2  (95,601,331)  (14,089,198)  15%  (119,043,004)  (28,505,844)  24% 
+Net exchange gains  31.3  31,342,936      5,432,325     
+Net financing costs    (5,786,502)      (65,017,136)     
+Net gains (losses) on equity investments  32  41,627,560      (37,828,094)     
+Net financing costs and net gains (losses) on 
+  35,841,058      (102,845,230)     
+equity investments 
+Profit before tax    168,346,186      154,127,180     
+Income taxes   33  (58,795,771)      (83,167,055)     
+Profit for the year     109,550,415      70,960,125     
+               
+(*) Figures not fully comparable due to IFRS 16 FTA. More information is available in note 2.   
+(**) Starting from 2019, the company has decided to present “Impairment losses” separately in the statement of profit or loss for their 
+better presentation. Therefore, the 2018 comparative figure has been restated accordingly.  
+ 
+   395 

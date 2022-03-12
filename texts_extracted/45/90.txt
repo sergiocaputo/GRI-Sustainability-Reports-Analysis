@@ -1,0 +1,40 @@
+FINCANTIERI GROUP FINCANTIERI GROUP
+However, there are critical issues related  The future lies in the application of fuel cells, 
+to the new technologies. In general, the  electrochemical conversion devices that 
+new technological solutions and systems  generate electricity and heat by combining 
+introduced for the protection of the  a fuel (typically hydrogen, methanol or 
+environment occupy volumes previously  methane) and a comburent (oxygen), in 
+intended for the payload. In the case of  the absence of combustion. In this way, no 
+LNG, accommodating the tanks on board  polluting substances are actually produced. 
+(in addition to the liquid fuel tanks) and  After the initial development phase, linked 
+installing the related operating and safety  to space exploration and the naval field 
+systems entails a significant reduction of the  (submarines), terrestrial applications for the  In collaboration with the Consiglio Nazionale  The boat, called Zeus, will be powered by 
+useful space on board. The development of  generation of electricity and propulsion (for  delle Ricerche (CNR, National Research  electric propulsion engines, which will be 
+a logistics system capable of ensuring the  example prototype trains fuelled by fuel  Council) and the Universities of Genoa,  powered by a fuel cell system of about 120 
+availability of LNG (including intermediate  cells) are spreading. Studies and research  Naples and Palermo, with the contribution  kW and a battery system capable of ensuring 
+storage and bunkering systems) in all major  are being carried out on their application for  of the Italian Ministry of Economic  around 6 hours’ navigation autonomy at 
+cruise destinations is still at an embryonic  generating energy for cruise ships. Development, we have developed a project  zero emissions, thanks to about 50 kg 
+stage, consequently limiting the area of  to realize a laboratory ship approximately  of hydrogen contained in metal hydride 
+operation on new ships. 25 metres long to study power generation  cylinders. Zeus will be the first marine vessel 
+technologies with low environmental impact.  powered exclusively by fuel cells.
+USE OF BATTERY MODULES
+Treatment and storage of solid and liquid waste The increasingly stringent regulations in force 
+To cover the  Supplementation of the electric 
+in areas with a strong cruise vocation and 
+entire load on  power supplied by the batteries with 
+board a traditional generation system (as in  Waste treatment is regulated by MARPOL:  vulnerable ecosystems, such as Alaska and the 
+hybrid cars). 
+Baltic Sea, determine the characteristics of the 
+The energy supplied by the batteries 
+is used: • Annex I Prevention of pollution by oil and oily  latest generation cruise ships. 
+water. Only bacteriologically and chemically pure 
+• exclusively in particular situations 
+• Annex IV Prevention of pollution by sewage. water, with an extremely low hydrocarbon 
+(for example in port), or 
+• Annex V Prevention of pollution by  content, can be discharged into the sea 
+• supplemented by the on-board 
+diesel engines at times of  shipboard waste. (under certain conditions) in these areas. Any 
+maximum power demand (e.g.  other residue must be stored on board and 
+maximum speed navigation).
+unloaded in port for further treatment. 
+176 177

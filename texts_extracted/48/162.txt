@@ -1,0 +1,55 @@
+Our  Consolidated Non-Financial  Appendices to the  Consolidated Financial 
+We, Generali performance Risk Report Outlook Statement Management Report Statements 161  
+ment to assess if the nature of the contractual cash flows  expected credit losses. In light of the high creditworthi-
+characteristics exclusively consists in payments of princi- ness of the debt securities, the new model Expected 
+pal and interest (SPPI,). If a modification of the time value  Credit Losses should not result in significant impacts for 
+of the interest results in cash flows that are significantly  the Group.
+different than those of a basic lending agreement then the 
+instrument must be classified and measured at fair value 
+through profit or loss. Hedge accounting
+IFRS 9 introduces a model substantially reformed for 
+Impairment hedge accounting that allows better than in IAS 39 to 
+reflect in financial statements the hedging activities un-
+IFRS 9 introduced a new impairment approach for debt  dertaken by risk management.
+instruments measured at amortized cost or fair value re-
+corded in other comprehensive income, which is based  In particular there is a significant simplification of the 
+on expected losses. In particular, the new standard out- effectiveness test. There are no more predetermined 
+lines an approach for the impairment in three stages  thresholds of coverage to achieve effective hedge (ie 80-
+based on the assessment of credit quality from the date  125% in the current IAS 39),but it is sufficient that:
+of initial recognition at each balance sheet date: – there is an economic relationship between the hedging 
+– Stage 1 includes the financial instruments that have  instrument and the hedged item; and
+not had a significant increase in credit risk since initial  – credit risk should not be the key component of the 
+recognition or that have low credit risk at the report- hedged risk (i.e. the change in fair value of the hedging 
+ing date (investment grade). For these assets expected  relationship must not be dominated by the component 
+losses (ECL) over the next 12 months (12-month ex- of credit risk).
+pected credit losses - losses expected in view of the 
+possible occurrence of events of default in the next 12  The standard will be effective, in the case of endorse-
+months) are recognized in the profit or loss account. In- ment, from annual periods beginning on or after 1 Jan-
+terest is calculated on the carrying amount (ie without  uary 2018. A transitional provision allows continuing to 
+deduction of the loss allowance); apply IAS 39 for all hedging transactions until comple-
+– Stage 2 includes financial instruments that have had  tion of the macrohedging project. The principle has been 
+a significant increase in credit risk since initial recog- endorsed by the European Union by the EU Regulation 
+nition (unless they have low credit risk at the reporting  2016/1905.
+date) but that do not have objective evidence of impair-
+ment. For these assets, lifetime ECL are recognised in 
+a capital reserve (loss allowance), and in the profit or  IFRS 4 – Applying IFRS 9 Financial 
+loss account , but interest revenue is still calculated  Instruments with IFRS 4 Insurance 
+on the gross carrying amount of the asset. (i.e. without  Contracts (Amendment to IFRS 4)
+deduction of the loss allowance);
+– Stage 3 includes financial assets that have objective  On 12 September 2016 the IASB published the amend-
+evidence of impairment at the reporting date. For these  ment “Applying IFRS 9 Financial Instruments with IFRS 
+assets, lifetime ECL are recognised in a capital reserve  4  Insurance  Contracts”,  endorsed  by  EU  Regulation 
+(loss allowance), and in the profit or loss account. In- 2017/1988 on 3 November 2017, that introduces the 
+terest revenue is calculated on the net carrying amount  possibility to defer the application of IFRS 9 for predom-
+(that is, net of credit allowance). inantly insurers. The amendment aims to address the 
+concerns of the insurance industry arising from the mis-
+The model also introduces a simplified approach to  alignment of effective dates of the new financial instru-
+trade receivables and leases for which it is not neces- ments standard and IFRS 17, the international standard 
+sary to calculate the 12-month expected credit losses  on insurance contracts with effective date of 1 January 
+but are always recognized the lifetime expected credit  2021. 
+losses.
+Both IFRS 9 and IFRS 17 are relevant for insurance en-
+The Group is assessing the impact of the new impair- tities. The amendment aims to address the concerns of 
+ment model introduced by the standard and expects  insurance sector arising from the different effective dates 
+significant operational impacts related to the implemen- of IFRS 9 and IFRS 17.
+tation of the calculation process of the abovementioned 

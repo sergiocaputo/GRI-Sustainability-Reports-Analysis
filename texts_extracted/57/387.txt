@@ -1,0 +1,51 @@
+Bilancio Consolidato 2017
+STATO PATRIMONIALE CONSOLIDATO
+Voci dell'attivo  31/12/2017  31/12/2016 
+10. Cassa e disponibilità liquide  109.923  112.304 
+20. Attività finanziarie detenute per la negoziazione  2.876  8.954 
+40. Attività finanziarie disponibili per la vendita  391.074  1.728.504 
+60. Crediti verso banche  2.232.926  427.389 
+70. Crediti verso clientela  10.558.595  10.126.189 
+80. Derivati di copertura  152  - 
+90. Adeguamento di valore delle attività finanziarie oggetto di copertura generica (+/-)  3.618  4.176 
+120. Attività materiali  180.241  187.756 
+130. Attività immateriali  136.817  159.195 
+di cui: 
+- avviamento  105.882  124.382 
+140. Attività fiscali  520.914  569.623 
+a) correnti  65.991  134.416 
+b) anticipate  454.923  435.207 
+di cui alla L. 214/2011  172.331  174.166 
+160. Altre attività  253.692  248.333 
+Totale dell'attivo  14.390.828  13.572.423 
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)(cid:3)
+Voci del passivo e del patrimonio netto  31/12/2017  31/12/2016 
+10. Debiti verso banche  1.994.962  1.103.800 
+20. Debiti verso clientela  9.418.826  10.189.874 
+30. Titoli in circolazione  1.379.809  618.187 
+40. Passività finanziarie di negoziazione  232  770 
+50. Passività finanziarie valutate al fair value  32.267  34.119 
+60. Derivati di copertura  16.040  16.209 
+80. Passività fiscali  30.772  43.375 
+a) correnti  8.285  23.611 
+b) differite  22.487  19.764 
+100. Altre passività  276.322  303.036 
+110. Trattamento di fine rapporto del personale  43.598  48.087 
+120. Fondi per rischi e oneri:  93.399  115.479 
+a) quiescenza e obblighi simili  3.769  3.994 
+b) altri fondi  89.630  111.485 
+140. Riserve da valutazione  (5.652)  (9.798) 
+170. Riserve  95.457  90.835 
+180. Sovrapprezzi di emissione  206.641  206.641 
+190. Capitale  800.981  800.981 
+200. Azioni proprie (-)  (24.985)  (24.985) 
+210. Patrimonio di pertinenza di terzi (+/-)  31.109  30.569 
+220. Utile (perdita) d'esercizio (+/-)  1.050  5.244 
+Totale del passivo e del patrimonio netto  14.390.828  13.572.423 
+(cid:3)
+(cid:3)
+(cid:3) (cid:3)
+387

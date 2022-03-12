@@ -1,0 +1,20 @@
+L’indice di turn over rappresenta il rapporto fra entrate e uscite di personale dell’anno, con il totale 
+del personale presente in azienda.
+Negli ultimi anni Miami Ristoro ha avuto una crescita costante che l’ha portata a passare da 30 a 
+33 dipendenti nell’ultimo triennio.
+indice turnover 
+dipendenti
+Dip. medi Assunti Cessati Turnover
+2016 30 8 5 43,30%
+2017 31 2 1 10,00%
+2018 33 6 4 30,00%
+Il tasso di compensazione indica invece il rapporto tra assunti e cessati nel corso dell’anno.
+Se il tasso supera il 100% indica un aumento del personale.
+Dalla tabella sottostante si conferma la crescita continua di Miami Ristoro, che ogni anno investe 
+in nuove assunzioni, mantenendo il suo tasso di compensazione sopra al 100% ormai da 3 anni.
+tasso di compensazione
+Assunti Cessati Differenza Tasso compensazione
+2016 8 5 3 160%
+2017 2 1 1 200%
+2018 6 4 2 150%
+35

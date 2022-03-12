@@ -1,0 +1,59 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+•  Ultra Reliable Low Latency Communication (URLLC), typical of many industry needs and the most demanding vertical 
+markets - self-driving cars energy management, robotics - and mission critical public safety applications;1 
+•  Massive Machine Type Communication (mMTC), which enables object connectivity, IoT (Internet of Things) and Smart 
+Cities. 
+ 
+Over the next few years, 5G will be the revolution that everyone can experience in their daily lives. Its field of application 
+is much wider than the technology that came before, thanks to the current scenarios in which it will be used, which are 
+characterized by:  
+•  sensors available, at competitive costs, able to decipher physical information into digital, transforming the objects 
+around us into digital data;  
+•  the most widespread connectivity allowing any object to transfer and receive data at any time; 
+•  artificial intelligence technology allowing sophisticated processing of large amounts of information. 
+ 
+Main applications will target: 
+•  the automotive and transport sector:  
+•  the area of connectivity between vehicles and between vehicles and infrastructures, aimed at increasing safety, 
+saving energy and reducing traffic;  
+•  infotainment2 connectivity, where large volumes of data can be transmitted on the move (e.g. GPS3, parking 
+sensors, voice commands, guidance systems and assisted braking);  
+•  self driving and connected cars which - thanks to a system able to receive all the information about the 
+surrounding environment - can be remotely controlled and driven; 
+•  industry 4.0, namely: 
+•  digital transformation of the industrial world with the adoption of robots, three-dimensional printers (3D printing) 
+and other complex tools;  
+•  the systematic addition of sensors to products, to produce data to improve production and processes;  
+•  the evolution of the supply chain to enable real-time management of relations with suppliers and end customers; 
+•  the new media world, with changing use habits and new formats, including virtual and augmented reality solutions, 
+which require new transmission capabilities;  
+•  healthcare, with remote assistance, to enable specialists to assist patients with chronic diseases from afar;  
+•  public safety, with mobile video surveillance solutions that can integrate data and images for a far broader vision, 
+guaranteeing greater public security levels than the past; 
+•  assistance for tourists who can have information and multimedia content on their visits at their fingertips, thanks to 
+sensors on their smartphones; 
+•  the information sector which can ensure “live” connections with a better video quality without complex instruments, 
+thanks to a greater bandwidth availability, combined with a reduced latency. 
+ 
+TIM's 5G is already available with services for citizens and businesses in Rome, Turin, Florence and Naples with speeds of 
+up to 2 Gigabits per second. Recently the cities of Genoa, Brescia and Monza have been added; Milan is a "5G ready city".  
+The next cities to be covered by the 5G service will be Bologna, Verona, Ferrara, Matera and Bari. 
+By 2021 coverage will comprise 120 cities, 200 tourist destinations, 245 industrial districts and 200 specific projects for 
+large enterprises. 
+ 
+5G system implementation must be done in compliance with energy efficiency constraints (measured in bit/Joule) since, 
+according  to  the  ITU  IMT-Vision  recommendation  (M.2083),  energy  consumption  of  the  new  system  must  be 
+appropriately monitored and “not greater” than that of existing networks. With a view to this, TIM is already assessing 
+the energy consumption of new radio base stations in light of eMBB, to ensure the increase in occupied bandwidth (up to 
+100 MHz) is not accompanied by a proportional increase in consumption. 
+                                                                 
+1 Vertical markets are linked to a specific industrial sector and defined by end customer type (not product type). Meeting the needs of vertical 
+market customers means providing them with added value in terms of expertise and market-specific best practice, as well as having a detailed 
+understanding of customer needs and related market development factors. 
+2 A word of Anglo-Saxon derivation that merges the words information (information) and entertainment (entertainment). Car infotainment is the 
+set of multimedia functions at the service of a car. 
+3 Global Positioning System. 
+ 
+82 
+ 

@@ -1,0 +1,46 @@
+eMISSIonI DI GAS A eFFeTTo SeRRA (Ton DI 
+co ) DeL GRuPPo eI ToweRS*
+2
+vARIAzIOnE 
+TIpOLOgIA    cAuSA 2018 2017
+%
+QuoTe PeRCenTuALI DeI ConSuMI eneRGeTICI 
+emissioni Scope 1**   Consumi di gas naturale  2.624 2.678 -2%
+DeL GRuPPo eI ToweRS PeR TIPoLoGIA DI 
+(ton Co2) e gasolio 
+CoMBuSTIBILe e uSo FInALe, Anno 2018
+emissioni Scope 2***  Consumi di energia       
+(ton Co2) elettrica       
+     
+Approccio Location-based 28.109 29.848 -6%
+GAS nATuRALe 100%
+Approccio Market-based 37.244 37.012 -0,6%
+gasolio 11% 89%
+* Per il calcolo delle emissioni dello Scope 1 e Scope 2 sono state considerate solo le emissioni Co2.
+** Per il dato relativo al 2018 è stato utilizzato un coefficiente di emissione del gas naturale pari a 0,001972 tCo/m3, coeffi-
+2
+ciente di emissione del gasolio pari a 3,155 tCo/ton (fonte: Ministero Dell’Ambiente e della tutela del Territorio e del Mare, 
+eneRGIA  2
+8% 92% Tabella Parametri Standard nazionali, 2018), mentre per il dato relativo al 2017 è stato utilizzato un coefficiente di emissione 
+eLeTTRICA del gas naturale pari a 0,001964 tCo/m3, coefficiente di emissione del gasolio pari a 3,155 tCo/ton (fonte: Ministero 
+2 2
+Dell’Ambiente e della tutela del Territorio e del Mare, Tabella Parametri Standard nazionali, 2017). 
+*** Lo standard di rendicontazione utilizzato (GRI Sustainability Reporting Standards 2016) prevede due diversi approcci di 
+TOTALE 11,5% 7% 81,5% calcolo delle emissioni di Scope 2: “Location-based “ e “Market-based “. L’approccio “Location-based” prevede l’utilizzo di un 
+fattore di emissione medio nazionale relativo allo specifico mix energetico nazionale per la produzione di energia elettrica 
+(coefficiente di emissione utilizzato per l’Italia pari a 375 gCo2/kwh, Fonte: Terna, Confronti Internazionali 2015). L’approccio 
+“Market-based” prevede l’utilizzo di un fattore di emissione definito su base contrattuale con il fornitore di energia elettrica. 
+uffici e sedi regionali Impianti trasmissivi Flotta auto Vista l’assenza di specifici accordi contrattuali tra le società del Gruppo ed il fornitore di energia elettrica (es. acquisto di 
+Garanzie di origine), per questo approccio è stato utilizzato il fattore di emissione relativo ai “residual mix” nazionale (coeffi-
+ciente di emissione utilizzato per l’Italia pari a 465 gCo2/kwh, Fonte: Association of Issuing Bodies, european Residual Mixes 
+2016, 2016).
+regionali per il solo riscaldamento degli  trasmissione e alcune sedi (per alimentare  proprietà utilizzate per fini commerciali  Durante il 2018, le attività del Gruppo 
+uffici, laboratori e magazzini.  i gruppi elettrogeni di emergenza nei casi  dallo staff presso i clienti. una quota  hanno generato emissioni di gas a effetto 
+in cui la fornitura elettrica subisca delle  maggiore di consumi è dovuta invece alle  serra dovute ai consumi energetici diretti 
+unicamente nelle due sedi di Lissone vi  interruzioni), sia per l’autotrazione della  204 vetture in noleggio a lungo termine,  (gas naturale e gasolio) e indiretti (energia 
+è anche un consumo relativo alle due  flotta auto del Gruppo. Rispetto alla flotta  utilizzate sia dai dirigenti, sia dai dipen- elettrica) del Gruppo stesso. In partico-
+cucine afferenti alla mensa aziendale.  auto, vi è un consumo di gasolio dovuto ai  denti per gli spostamenti tra i siti di tra- lare, una quota maggiore di emissioni 
+Il gasolio invece, che rappresenta circa  37 furgoni attrezzati di proprietà, utilizzati  smissione per svolgere le manutenzioni, i  di gas a effetto serra è rappresentata 
+l’8% dei consumi, viene utilizzato sia  per il controllo della qualità del segnale  ripristini, le attivazioni e le installazioni.   dalle emissioni di Scope 2, per le quali 
+presso alcune postazioni degli impianti di  televisivo sul territorio, e alle 4 vetture di  eI Towers è indirettamente responsabile, 
+64 Responsabilità Ambientale

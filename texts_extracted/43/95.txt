@@ -1,0 +1,35 @@
+4. Performance - 4.8 I risultati ﬁ nanziari e non ﬁ nanziari Capitale ﬁ nanziario
+LA GESTIONE DELL’ATTIVO E DEL PASSIVO
+Nelle tabelle che seguono si riporta l’analisi delle principali voci di stato patrimoniale poste a confronto con i dati al 1° gennaio 
+2019. Con riferimento allo schema di stato patrimoniale riclassiﬁ cato infatti, i saldi comparativi al 31 dicembre 2018 sono stati 
+rideterminati applicando il principio contabile IFRS16 entrato in vigore dal 1° gennaio 2019. 
+Stato patrimoniale consolidato
+(riclassiﬁ cato e in milioni di euro)
+31.12.2019 1.1.2019 (*) VARIAZIONE
+ASSOLUTA %
+ATTIVO
+Attività ﬁ nanziarie valutate al fair value con impatto a conto economico 349 294 55 19
+Attività ﬁ nanziarie valutate al fair value con impatto sulla redditività complessiva 3.189 3.294 (105) -3
+Titoli di debito valutati al costo ammortizzato 15.275 13.299 1.976 15
+Finanziamenti verso banche  17.198 12.301 4.897 40
+Finanziamenti verso clientela 9.329 9.531 (202) -2
+Derivati di copertura 20 - 20 n.s.
+Partecipazioni 170 151 19 13
+Attività materiali e immateriali 614 576 38 7
+Attività ﬁ scali 164 198 (34) -17
+Altre voci dell'attivo 1.459 1.388 71 5
+TOTALE ATTIVO 47.767 41.032 6.735 16
+PASSIVO
+Debiti verso banche 3.033 3.409 (376) -11
+Debiti verso clientela 39.024 32.354 6.670 21
+Passività ﬁ nanziarie di negoziazione 33 28 5 18
+Derivati di copertura 930 808 122 15
+Passività ﬁ scali 94 82 12 15
+Altre voci del passivo 1.215 1.079 136 13
+Fondi per rischi e oneri 478 468 10 2
+Capitale sociale e riserve 2.054 1.970 84 4
+Utile netto 906 834 72 9
+TOTALE PASSIVO  47.767 41.032 6.735 16
+(*) Dati riesposti su basi omogenee per tener conto dell’applicazione del principio contabile IFRS16.
+n.s.: non signiﬁ cativo
+92 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

@@ -1,0 +1,36 @@
+The ICT policy defines the following:  •	 security incidents management to ensure the 
+•	 information security responsibilities of Reply’s  design and implementation of solutions to identify 
+ICT and more generally of the personnel involved  and manage unexpected events or incidents, also 
+in central information system management,  considering the need to maintain adequate levels 
+the individual operating companies, and Reply  of continuity despite unforeseen events that may 
+personnel; have a serious impact on business;
+•	 asset management methods (for example,  •	 business continuity management guidelines to 
+servers, laptops, etc.) to ensure that assets are  ensure the continuity of ICT services that must 
+identified and classified so that the company is  also be available in emergency situations;
+fully aware of their existence and can implement  •	 compliance criteria to ensure that the Group’s 
+appropriate measures to protect them; operations and information security management 
+•	 logical access control methods to prevent  methods are implemented in compliance with 
+unauthorised processing of information by  standards, regulations, and contracts stipulated 
+defining correct access and methods for users; with third parties.
+•	 physical protection of IT assets to ensure 
+physical security of information, preventing  Reply has adopted a policy for supplying services 
+unauthorised access to company premises,  on behalf of the customer, with the scope of 
+and guaranteeing an adequate security level of  providing guidelines to all Group employees 
+information processing resources; regarding conduct to be observed to ensure that 
+•	 operative management methods of systems,  services provided are in line with current legislation 
+networks, and telecommunications to ensure  and to prevent computer crimes (Legislative Decree 
+the attainment of a high level of logical security  231/01; Legislative Decree 196/03).
+for the data processed through information  The Group has formalised a policy regarding 
+infrastructures; conduct rules and regulations for the secure 
+•	 information system development, maintenance,  management of assets and information to 
+and acquisition to ensure that IT systems  define the rules that all personnel must respect to 
+(applications, operating systems, middleware,  guarantee the correct and secure use of assets 
+etc.) are developed or acquired and maintained  made available by the company (premises and 
+over time ensuring integrity, confidentiality, and  physical resources, paper documentation, ICT tools 
+availability of information; and company services).
+•	 relationships with third parties and outsourcers  The policy was adapted to local legal requirements 
+to ensure the security of business assets also  in the European countries where Group subsidiaries 
+when third parties/outsourcers are involved,  are based. 
+monitoring their access to information and work 
+areas;
+22

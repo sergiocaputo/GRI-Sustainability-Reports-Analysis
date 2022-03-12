@@ -1,0 +1,53 @@
+Reference Document  
+GRI Standard Disclosure  Description Omissions - Notes
+and page number
+Environmental material topics (GRI 300)
+GRI 304  103-1, 103-2,  Management Approach SR “Protecting the local area and 
+Biodiversity 103-3 biodiversity” 
+2016 DNF “Environment, health and safety 
+aspects”
+304-1 Operational sites owned,  SR “Protecting the local area and 
+leased, managed in, or  biodiversity” 
+adjacent to, protected 
+areas and areas of high 
+biodiversity value outside 
+protected areas
+304-2 Significant impacts of  SR “Protecting the local area and 
+activities, products, and  biodiversity” 
+services on biodiversity
+304-3 Habitats protected or  SR “Protecting the local area and 
+restored biodiversity” 
+304-4 IUCN Red List species and  SR “Protecting the local area and 
+national conservation  biodiversity” 
+list species with habitats 
+in areas affected by 
+operations
+GRI 305  103-1, 103-2,  Management Approach SR “Protecting the climate and the air”
+Emissions 2016 103-3 DNF “Environment, health and safety 
+aspects”
+305-1 Direct (Scope 1) GHG  SR “Protecting the climate and the air”
+emissions SR “Performance figures and indicators”
+305-2 Energy indirect (Scope 2)  SR “Protecting the climate and the air”
+GHG emissions SR “Performance figures and indicators”
+305-3 Other indirect (Scope 3)  SR “Protecting the climate and the air”
+GHG emissions SR “Performance figures and indicators”
+305-4 GHG emissions intensity SR “Protecting the climate and the air”
+SR “Performance figures and indicators”
+TCFD “The reduction of the GHG 
+emissions”
+305-5 Reduction of GHG  SR “Protecting the climate and the air”
+emissions TCFD “The reduction of the GHG emissions”
+305-6 Emissions of ozone- Not significant quantity 
+depleting substances (ODS)
+305-7 Nitrogen oxides (NOX),  SR “Protecting the climate and the air”
+sulfur oxides (SOX), and  SR “Performance figures and indicators”
+other significant air emission
+Social material topics (GRI 400)
+GRI 401  103-1, 103-2,  Management Approach SR “People”
+Employment 2016 103-3 DNF “People management aspects”
+401-1 New employee hires and  SR “People” The split of the data by 
+employee turnover SR “Performance figures and indicators” country is not reported 
+because it is not applicable 
+(almost all the employees are 
+located in Italy).
+126Sustainability Report 2019

@@ -1,0 +1,36 @@
+ 
+Impairment of financial assets 
+If there is any indication that a financial asset is impaired, the recoverable amount of the asset is estimated to 
+determine the amount of the impairment loss. 
+Derivatives and hedging transactions 
+Salini Impregilo has derivatives recognised at fair value when the related agreement is signed and for 
+subsequent fair value changes. The treatment of the related fair value gains or losses changes depending on 
+whether the conditions for hedge accounting are met, as described below. 
+The company has derivatives to hedge currency and financial risks. At the inception of the transaction, it 
+documents the hedging relationship, its risk management and strategy objectives in entering into the transaction, 
+the hedging instrument and hedged item or transaction and the nature of the hedged risk. Moreover, at the 
+inception of the transaction, and thereafter on an ongoing basis, the company documents whether or not the 
+hedge meets the effectiveness requirements to offset its exposure to changes in the fair value of the hedged 
+item or cash flows attributable to the hedged risk. 
+“Hedging purposes” are assessed considering risk management objectives. When they do not meet the 
+requirements of IFRS 9 for hedge accounting, the derivatives are classified as “Financial assets or financial 
+liabilities at fair value through profit or loss”. 
+Employee benefits 
+Post-employment benefits 
+Post-employment benefits are recognised at the present value of the company’s liability determined in line with 
+ruling legislation and national and in-house labour agreements. The valuation, based on demographic, financial 
+and turnover assumptions, is carried out by independent actuaries. The gains and losses resulting from the 
+actuarial calculation are recognised in profit or loss if related to service costs and interest expense or in 
+comprehensive income if relating to assets and liabilities. 
+The 2007 Finance Act and related implementing decrees introduced significant changes to legislation governing 
+Italian post-employment benefits, effective as from 1 January 2007. These include the option given to 
+employees, to be exercised before 30 June 2007, of where to allocate their future benefits. Specifically, 
+employees can opt to allocate them to selected pension funds or maintain them with the company, in which 
+case, the latter shall pay the contributions to the treasury fund of INPS (the Italian social security institution). 
+Following these changes, the Italian post-employment benefits accruing after the date of the employees’ 
+decision and, in any case, after 30 June 2007, are considered part of a defined contribution plan and treated 
+like all other social security contributions. 
+Share-based payments 
+Share-based payments are measured at fair value of the option at the grant date. This amount is recognised in 
+the statement of profit or loss on a straight-line basis over the vesting period. This treatment is based on an 
+   417 

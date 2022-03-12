@@ -1,0 +1,48 @@
+Indice generale Indice di sezione
+Relazione sulla gestione al 31 dicembre 2017
+6. Dichiarazione consolidata di carattere non finanziario 
+5.  Controllo accessi utente-IAM
+6.  Sicurezza Digitale
+7.  Sicurezza delle applicazioni critiche
+8.  ICT Security Compliance
+9.  Sicurezza Ambienti di Certificazione
+10. Audit e Sistema di Controllo Interno
+11. Sicurezza dei client aziendali.
+Oltre ai progetti implementativi, tra le iniziative portate a regime, si annoverano:
+la Secure Code Review che consiste nella revisione della sicurezza del codice applicativo a garanzia che i controlli di 
+sicurezza siano presenti, che eseguano ciò che è stato richiesto e che il codice sia realizzato in linea con le principali best 
+practice di sviluppo sicuro. 
+il processo di mascheramento dei dati personali in ambiente non di produzione, indirizzato tramite la piattaforma SeDaM 
+(Secure Data Masking) che ha l’obiettivo di ridurre il rischio di esposizione di dati reali di produzione a soggetti terzi e/o a 
+soggetti non autorizzati mediante processi e procedure per la riduzione dell’utilizzo di dati reali in ambienti di non Produzione, 
+per l’anonimizzazione dei dati reali negli ambienti di non Produzione e per il mascheramento degli stessi
+le attività per la messa in sicurezza di tutte le App che espongono marchi riconducibili a Poste Italiane che sono fruibili non 
+solo mediante market ufficiali (Google Play Store e Apple Store), ma anche attraverso market alternativi con la finalità di 
+analizzare le tipologie dei dati raccolti ed eventualmente trasmessi e prevenire esposti da parte dei clienti per illeciti diretti e 
+indiretti (per es. frodi o danno d’immagine) riconducibili al loro uso improprio. 
+Le attività per il contrasto al cybercrime e per 
+l’innovazione in ambito security 
+L’Azienda negli ultimi anni ha dato vita a tre poli tecnologici per garantire e monitorare la Cyber Security:
+Il Computer Emergency Response Team (CERT) di Poste Italiane è costituito da una squadra di esperti di sicurezza e ha il 
+compito di coordinare tutte le attività di risposta alle emergenze informatiche. Il CERT si rivolge sia a specialisti della sicurezza 
+e a grandi organizzazioni, sia a clienti e a consumatori ai quali offre la sua esperienza e competenza per garantire un corretto 
+utilizzo della rete Internet. In particolare, il Centro si occupa di prevenzione, analisi e protezione dalle minacce informatiche; 
+coordina tutte le attività di risposta alle emergenze informatiche e costruisce relazioni con i privati finalizzate allo scambio reci-
+proco di conoscenza nell’ambito della Cyber Security. A titolo esemplificativo, l’attività di Information Sharing nel corso dell’an-
+no 2017 ha reso possibile la condivisione di informazioni utili in merito a minacce di recente scoperta con relativi Indicatori di 
+Compromissione (IoC), relativamente a minacce, attacchi e vulnerabilità specifiche di potenziale impatto sulle infrastrutture e 
+gli asset aziendali. 
+Il Security Innovation Lab creato a Trento in collaborazione con il nodo italiano di EIT Digital – core partner dell’European 
+Institute of Innovation and Technology (EIT) – si occupa di ricerca applicata e ha avviato numerose iniziative progettuali nell’am-
+bito dei programmi europei FP7 - The 7th Framework Programme (Settimo programma quadro per la ricerca e lo sviluppo 
+tecnologico) - ed Horizon 2020 – Programma Quadro europeo per la Ricerca e l’Innovazione (2014-2020).
+Il Distretto Tecnologico Cyber Security di Cosenza nato nell’ambito del Programma Operativo Nazionale “Ricerca e compe-
+titività 2007-2013” finanziato dal MIUR. Il suo scopo è realizzare soluzioni per la protezione dei pagamenti elettronici. Obiettivo 
+primario del Distretto è studiare, definire e implementare modelli, metodologie e prototipi evolutivi per l’analisi delle minacce 
+cyber e la protezione dei dati personali, al fine di innalzare le capacità di difesa e di risposta di Poste e garantire una gestione 
+efficace ed efficiente degli aspetti relativi alla privacy all’interno del Gruppo, anche in virtù dell’emanazione del Regolamento 
+Europeo 2016/679 sulla Protezione dei Dati.
+Negli ultimi anni, inoltre, Poste Italiane ha attivato numerosi progetti in materia di sicurezza informatica finanziati attraverso 
+programmi Europei, tra cui il progetto “Waffle” nell’ambito dell’iniziativa europea Eit Digital 2017 per la prevenzione contro gli 
+attacchi di “phishing” mirati a indurre gli utenti a rivelare informazioni confidenziali, per poi rubare loro l’identità. 
+61

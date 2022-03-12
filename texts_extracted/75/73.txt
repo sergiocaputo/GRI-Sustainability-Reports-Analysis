@@ -1,0 +1,59 @@
+Society CUSTOMER HEALTH AND SAFETY 103-2; 416-1; MARKETING AND LABELLING 103-2; 416-1; 417-2; 417-3; EX FS15
+cyber-attacks without any threat whatsoever to human safety. With regard to aggressive behaviour not for 
+predatory purposes, it should be noted that the phenomenon is under continuous observation, also by INAIL, 
+due to its continuous growth in many sectors, including Health and Education. The financial services sector 
+is exposed for all activities involving customer contact. In 2019, a survey of the Group's Local Networks 
+revealed 132 cases of aggression (9 of which involved medical treatment) compared with 96 cases in 2018 (4 
+of which involved health assistance). Mitigation actions consist of training on prevention and the detection and 
+management of incidents with the contribution of the Banca dei Territori Division, Safety and Protection and 
+Legal Affairs Head Office Departments.
+Moreover, in 2019 the activities carried out by the Group's physical security structure were based on an on-site 
+verification plan of the levels of exposure to security risks and the definition of an assessment methodology 
+based on the application of the ISO 31000:2018 standard and the use of consolidated synthetic models for 
+the identification of risk indicators. These analyses have led to: the implementation of technological solutions 
+for theft prevention (vault protection, protection of cash systems, ATM protection, increase in alarm systems) 
+and robbery prevention (cash splitting systems, video surveillance and replacement of security services with 
+technology); the preparation of new training modules through the Apprendo platform; raising of employees' 
+awareness through actions carried out at branches in cooperation with the Network Departments; management 
+actions against non-predatory attacks in cooperation with all the Bank's relevant structures.
+IT SECURITY 
+The Group considers the protection of information and the management of related processes a matter of 
+strategic importance. In line with current regulations, IT security is governed by guidelines and integrated 
+processes for the protection of the interests and rights of customers and employees, with rules set out in the 
+Bank's Integrated Internal Control System which defines responsibilities at all levels of the company.
+The Group's IT security model is based on a risk-based approach and is divided into three main macro-areas:
+ Orientation: defined through the review of organisational aspects and policies/processes, strategic and 
+predictive intelligence on cyber security risks, awareness-raising activities and information flows to internal 
+control bodies;
+ Control: ensured through risk management, the execution of controls and the maintenance of the most 
+widespread safety certifications;
+ Active monitoring: guaranteed through the use of the most appropriate technologies in order to ensure 
+adequate levels of protection to customers and through supply chain governance and management.
+In accordance with the model, appropriate roles and responsibilities have been defined to support and 
+oversee IT security, including: the Corporate Bodies and Committees that assume general responsibility for 
+the guidance and control of information security, supported by the Governance Functions that ensure its 
+effective management; an Information Security Officer (ISO) who ensures the protection of information and 
+infrastructure in line with the Group's strategy, ensures consistency between internal rules, promotes and 
+develops integration between the various responsibilities in the Security field, guarantees compliance with the 
+regulatory framework; the Relevant Functions that provide services, design and release information security 
+solutions in compliance with the relevant regulations.
+IT security tasks are carried out according to shared Group guidelines with both a centralised management 
+model, for Banks and companies that have a high degree of integration with the Parent Company, and a 
+coordination and control model for the other Group companies and the International Subsidiary Banks. The 
+model and the IT security management system as a whole are periodically reviewed and updated, at least once 
+a year or in conjunction with any external and/or internal changes (e.g. laws and regulations, organisational, 
+technological changes) that may have an impact in terms of IT security, with a focus on continuous improvement 
+thereof. The IT Security structure also conducts annual Strategic Intelligence activities aimed at identifying the 
+most relevant risk scenarios for the Intesa Sanpaolo Group, in relation to which the necessary policy areas are 
+defined in order to enable the Group's cyber readiness.
+Given the growing importance of cybersecurity issues, including in relation to the 2018-2021 Business Plan, 
+the Intesa Sanpaolo Board of Directors annually approves the IT Security Plan which organises, in a structured 
+and coordinated way, the challenges introduced by cyber space through the measures already established 
+by the Group functions that are responsible in various capacities for guaranteeing security. The underlying 
+goal of the Plan is to clearly define responsibilities in the spread of the safety culture at all levels in order to 
+protect all of the company's assets. In particular, the Plan envisages the implementation of the Group's IT 
+security strategy, which must be based on a perfect knowledge of every element of the area to be protected, 
+which grows together with the services offered and the new risks, strongly linked to behaviour and the human 
+factor. This strategy is based on four main pillars (Excellence in fundamentals, Sensitivity and dynamism, 
+Culture, Group Governance) which have allowed for the development of the operational projects and the 
+74

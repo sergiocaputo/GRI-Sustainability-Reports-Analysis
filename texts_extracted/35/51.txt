@@ -1,0 +1,21 @@
+ 
+ 
+ 
+** Le emissioni di Scopo 2 sono state calcolate con il metodo location-based. Tuttavia, sono state anche calcolate con il metodo market-
+based, utilizzando i fattori di emissione relativi al "residual mix" (AIB-2016 European Residual Mix), ove disponibili. In caso contrario, gli 
+stessi fattori di emissione utilizzati per il metodo location-based sono stati utilizzati anche per il metodo market-based. 
+Per il calcolo delle emissioni di scope 2 (metodo location-based) sono stati utilizzati fattori di emissione medi relativi alla generazione di 
+energia nazionale per i diversi paesi di operatività (fonte: Terna - confronti internazionali, 2015). Per il calcolo della CO , i fattori di 
+2 eq
+emissione di Terna (CO) sono stati incrementati del 5% (stima del contributo derivante da altre emissioni non Co – fonte: ISPRA, 
+2 2
+2017) 
+Consumi idrici di Gruppo per fonte di prelievo 
+                                                             2016  2017 
+   Consumo [m3]  Consumo [m3] 
+Acquedotto  82.716  76.564 
+Pozzi  4.000  16.742 
+Totale prelievo  86.716  93.306 
+ 
+   
+Gruppo Emak – Bilancio di Sostenibilità 2017     50 

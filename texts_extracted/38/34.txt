@@ -1,0 +1,45 @@
+Consumi energetici ed emissioni di gas ad effetto serra - scope 2
+L'elettricità è una delle fonti energetiche più utilizzate in tutte le sedi del Gruppo  1 - Introduzione
+Energia Elettrica*
+(uffici, Esprivillage, magazzini). Nel corso del triennio oggetto di analisi si registra 
+2 - Chi siamo
+un lieve calo del consumo di elettricità del -2% nel 2019 rispetto al 2018 grazie al 
+2019 2018 2017
+progetto di Energy Management avviato nel 2019, all’utilizzo dell’apparecchiatura 
+3 - Esprinet & il mercato
+ICO-F1000 ed alla piattaforma BEMS, come illustrato in precedenza.
+Per il calcolo delle emissioni indirette di CO₂ (scope 2) imputabili alla produzione 
+di energia elettrica, sono state seguite entrambe le metodologie richieste dai GRI 
+Standards.
+Da un lato sono state infatti calcolate le emissioni di CO₂ con l'approccio Location 
+Based, per cui al totale dell'energia elettrica consumata, indipendentemente dalla 
+-2% +4%
+fonte energetica di provenienza, viene applicato un coefficiente di emissione medio  7.010.847 kwh 7.181.665 kWh 6.915.573 kWh
+basato sulla produzione lorda nazionale. Secondo tale metodologia la CO₂ emessa 
+per il fabbisogno di elettricità del Gruppo è aumentata del 3,8% dal 2017 al 2018 e del 
+1,0% dal 2018 al 2019.
+2019 2018 2017
+Il calcolo delle emissioni di CO₂ secondo l'approccio Market Based va invece a 
+differenziare l'effettiva provenienza dell'elettricità utilizzata, andando così a 
+Location  4 - Esprinet & l'ambiente
+calcolare tali emissioni solamente per l'energia elettrica utilizzata proveniente da  2.393 tCO₂ 2.369 tCO₂ 2.300 tCO₂
+Based
+• Cultura ambientale
+fonte non rinnovabile.
+• L'impegno di Esprinet  
+per l'ambiente
+Dalla comparazione dei risultati ottenuti dalle due metodologie di calcolo, emerge  MBaarskeedt  148 tCO₂ 671 tCO₂ 799 tCO₂ • Gli impatti sull’ambiente
+chiaramente come Esprinet si stia effettivamente impegnando nella riduzione degli 
+• La supply chain integrata
+impatti ambientali privilegiando in modo consistente l'utilizzo di energia elettrica  • Consumi energetici ed emissioni 
+proveniente da fonte rinnovabile. Infatti, le emissioni calcolate secondo l'approccio  Emissioni di CO2 indirette (scope 2) • Le emissioni dei trasporti
+Market Based risultano nettamente inferiori rispetto a quelle Location Based per  • La filiera del Gruppo
+*Si segnala che i valori del triennio non includono i consumi energetici relativi al CED (Centro 
+tutto il triennio oggetto di analisi. • Materie prime
+Elaborazione Dati), in quanto servizio esternalizzato. Le emissioni Scope 2 di CO₂ (emissioni 
+indirette energetiche) riflettono, di conseguenza, l'approccio illustrato a sinistra. • Rifiuti
+5 - Esprinet & le persone
+6 - Esprinet & la comunità
+7 - Altre informazioni -
+DNF
+35 Bilancio di Sostenibilità 2019

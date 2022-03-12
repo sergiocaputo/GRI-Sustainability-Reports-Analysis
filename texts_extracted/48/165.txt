@@ -1,0 +1,51 @@
+164 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+Balance Sheet – Assets
+present value of the future cash flows expected to be de-
+rived from the cash-generating units. The fair value of the 
+Intangible assets 
+CGU is determined on the basis of current market quota-
+tion or usually adopted valuation techniques (mainly DDM 
+In accordance with IAS 38, an intangible asset is recog- or alternatively Market Value Balance Sheet or appraisal 
+nised if, and only if, it is identifiable and controllable and  value). The Dividend Discount Model is a variant of the 
+it is probable that the expected future economic benefits  Cash flow method. In particular the Dividend Discount 
+attributable to the asset will flow to the company and the  Model, in the excess capital methodology, states that the 
+cost of the asset can be measured reliably.  economic value of an entity is equal to the discounted 
+dividends flow calculated considering the minimum cap-
+This category includes goodwill and other intangible as- ital requirements. Such models are based on projections 
+sets, such as goodwill recognised in the separate finan- on budgets/forecasts approved by management or con-
+cial statements of the consolidated companies, software  servative or prudential assumptions covering a maximum 
+and purchased insurance portfolio. period of five years. Cash flow projections for a period 
+longer than five years are extrapolated using estimated 
+among others growth rates. The discount rates reflect the 
+Goodwill free risk rate, adjusted to take into account specific risks. 
+Should any previous impairment losses no longer exist, 
+Goodwill is the sum of future benefits not separate- they cannot be reversed.
+ly identifiable in a business combination. At the date of 
+acquisition, the goodwill is equal to the excess between  For further details see paragraph “Information on consol-
+the sum of the consideration transferred, including con- idation perimeter and Group companies” in the Notes.
+tingent consideration, liabilities assumed towards the 
+previous owners the fair value of non-controlling interests 
+as well as, in a business combination achieved in stag- Other intangible assets 
+es, the fair value of the acquirer’s previously held equity 
+interest in the acquiree and the fair value (present value)  Intangible assets with finite useful life are measured at 
+of net amount of the separately identifiable assets and  acquisition or production cost less any accumulated 
+liabilities acquired. amortisation and impairment losses. The amortisation 
+is based on the useful life and begins when the asset 
+After initial recognition, goodwill is measured at cost less  is available for use. Specifically, the purchased software 
+any impairment losses and it is no longer amortised. Ac- expenses are capitalised on the basis of the cost for pur-
+cording to IAS 36, goodwill is not subject to amortization.  chase and usage. 
+Realized gains and losses on investments in subsidiaries 
+include the related goodwill. Goodwill is tested at least  The costs related to their development and maintenance 
+annually in order to identify any impairment losses.  are charged to the profit and loss account of the period 
+in which they are incurred.
+The purpose of the impairment test on goodwill is to 
+identify the existence of any impairment losses on the  Other intangible assets with indefinite useful life are not 
+carrying amount recognised as intangible asset. In this  subject to amortization. They are periodically tested for 
+context, cash-generating units to which the goodwill  impairment.
+is allocated are identified and tested for impairment. 
+Cash-generating units (CGU) units usually represent the  Gains or losses arising from de-recognition of an intangi-
+consolidated units within the same primary segment in  ble asset are measured as the difference between the net 
+each country. Any impairment is equal to the difference,  disposal proceeds and the carrying amount of the asset 
+if negative, between the carrying amount and the recov- and are recognised in the income statement when the 
+erable amount, which is the higher between the fair value  asset is de-recognised.
+of the cash-generating unit and its value in use, i.e. the 

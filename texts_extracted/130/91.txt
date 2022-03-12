@@ -1,0 +1,32 @@
+180 UNIVERSITÀ DEGLI STUDI RAPPORTO DI 2016 / 2017 181
+DI TORINO SOSTENIBILITÀ
+GRI Standard  Disclosure Number Disclosure Title Page Number Omission
+102-23 Chair of the highest governance body  5 0 - 55
+102-24 Nominating and selecting the highest governance body  5 0 - 55
+102-32 Highest governance body’s role in sustainability reporting  4  - 6, 12, 13
+102-38 Annual total compensation ratio https://www.unito.it/sites/default/ﬁles/allegati/08-07-2014/indennita_carica.pdf
+ https://www.unito.it/ricerca/ﬁnanziamenti-la-ricerca/ricerca-nazionale-e-regionale/costo-del-personale
+102-39 Percentage increase in annual total compensation ratio https://www.unito.it/sites/default/ﬁles/circolare_19_2017.pdf
+102-40 List of stakeholder groups 1 02, 103
+102-41 Collective bargaining agreements  https://www.unito.it/ricerca/ﬁnanziamenti-la-ricerca/ricerca-nazionale-e-regionale/costo-del-personale
+102-42 Identifying and selecting stakeholders  93, 103
+102-43 Approach to stakeholder engagement 93, 103
+102-44 Key topics and concerns raised 16, 17
+102-45 Entities included in the consolidated ﬁnancial statements  https://unito.prod.cineca.it/ateneo/pianiﬁcazione-e-bilanci/bilancio-unico-di-ateneo
+102-46 Deﬁning report content and topic Boundaries  14, 17
+102-47 List of material topics  17
+102-48 Restatements of information 14, 15
+102-49 Changes in reporting  14, 15
+102-50 Reporting period  14, 15
+102-51 Date of most recent report  14, 15
+102-52 Reporting cycle 14, 15
+102-53 Contact point for questions regarding the report  14, 15
+102-54 Claims of reporting in accordance with the GRI Standards 14, 15
+102-55 GRI content index 178 - 185
+102-56 External assurance                                                                       not applicable
+200 Economic Standards
+103-1 Explanation of the material topic and its Boundary
+103-2 Economic inclusion: The management approach and its components  106 -108
+103-3 Evaluation of the management approach 121 - 128
+201 Economic Performance
+201-1 Direct economic value generated and distributed 129 - 130

@@ -1,0 +1,46 @@
+RADICIGROUP
+X
+E GRI STANDARD 2016 DISCLOSURE PAGINA OMISSIONI
+D
+N
+GRI 403: 403- 1 Occupational health and safety management system 87
+T I OCCUPATIONAL HEALTH
+EN AND SAFETY 2018 403-2 Hazard identification, risk assessment, and incident  88
+T investigation
+N
+O 403-3 Occupational health services 93
+C
+I 
+R 403-4 Worker participation, consultation, and communication on  88
+G
+occupational health and safety
+L 
+I
+403-9 Work-related injuries 89
+403-10  Work-related ill health 94
+TRAINING AND EDUCATION 
+GRI 103: 103-1 Definizione del tema materiale e relativi confini  95
+MANAGEMENT
+APPROACH 2016 103-2 Informazioni generali sull'approccio di gestione e relative  95
+caratteristiche
+103-3 Valutazione sull'approccio di gestione 95
+GRI 404:  404-1 Average hours of training per year per employee 98
+TRAINING AND 
+EDUCATION 2016
+LOCAL COMMUNITIES 
+GRI 103: 103-1 Definizione del tema materiale e relativi confini  57
+MANAGEMENT
+APPROACH 2016 103-2 Informazioni generali sull'approccio di gestione e relative  57
+caratteristiche
+103-3 Valutazione sull'approccio di gestione 57
+GRI 413: 413-1 Operations with local community engagement, impact  57
+LOCAL COMMUNITIES assessments, and development programs
+PUBLIC POLICY
+GRI 103: 103-1 Definizione del tema materiale e relativi confini 59
+MANAGEMENT
+APPROACH 2016 103-2 Informazioni generali sull’approccio di gestione e relative  59
+caratteristiche
+103-3 Valutazione sull’approccio di gestione 59
+GRI 415: 415-1 Political contributions 59
+ PUBLIC POLICY 2016
+146

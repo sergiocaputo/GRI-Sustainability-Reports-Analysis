@@ -1,0 +1,48 @@
+Packaging sostenibile / Sustainable packaging
+Peso dei materiali acquistati per il confezionamento primario dei principali prodotti, suddivisi per categoria e riciclabilità 
+del materiale (301-1)16
+Weight of materials purchased for the primary packaging of the main products, divided by category and recyclability of the 
+material (301-1) 16
+201817 2019
+Ton
+Riciclabile  Non riciclabile  Riciclabile  Non riciclabile 
+Recyclable Non-recyclable Recyclable Non-recyclable
+Carta / Paper 611,49   -    576,10   -   
+Alluminio / Aluminium 107,24   -    108,00   -   
+Plastica / Plastic  27,55   -     29,78   -   
+Altro (accoppiato, multistrato, etc)
+ -    139,61   -    101,38 
+Other (laminated, multi-layer, etc)
+Totale per categoria / Total per category 746,28  139,61  713,88  101,38 
+Totale / Total  885,89 812,25
+Acquisti di materie prime / Purchases of raw materials
+Peso delle di materie prime acquistate, suddivise per macro categoria (303-1)
+Weight of raw materials purchased, divided by macro category (303-1)
+Ton 2017 2018 2019
+Cacao / Cocoa 22.513,00 28.770,00 23.677,00
+Zucchero / Sugar 7.572,00 8.250,00 8.472,00
+Nocciole - pasta di nocciole - mandorle 
+446,00 560,00 505,00
+Hazelnuts, hazelnut paste and almonds
+Vaniglia / Vanilla 10,10 8,65 8,64
+Latte / Milk 2.258,00 2.110,00 2.210,00
+Totale / Total  32.799,10 39.698,65 34.872,64
+Peso e percentuale delle materie prime acquistate, suddivise per tipologia di certificazione (GRI G4 – FP2) 
+Weight and percentage of raw materials purchased, divided by type of certification (GRI G4 – FP2)
+2017 2018 2019
+Ton % Ton % Ton %
+Bio / Organic 7.291,00 22% 8.906,00 22% 7.004,00 20%
+Fair trade 2.040,00 6% 3.734,00 9% 2.294,00 7%
+Fair trade e Bio / Organic 10.192,00 31% 12.253,00 31% 10.718,00 31%
+Convenzionale / Conventional 13.276,10 40% 14.805,65 37% 14.856,64 43%
+Totale / Total  32.799,10 39.698,65 34.872,64
+16 Non è stato possibile reperire le informazioni relative all’acquisto di packaging primario  16 It was not possible to gather the information relating to the purchase of primary packaging for 
+per l’anno 2017. La rappresentazione dei dati ha subito una riclassificazione per meglio  the year 2017. The representation of the data has undergone a reclassification to better present 
+presentare l’impatto delle categorie di prodotto e agevolarne la comprensione. A tal  the impact of the product categories and facilitate their understanding. to this regard, since 
+proposito, poiché non è stato possibile suddividere i materiali utilizzati per i packaging  it was not possible to divide the materials used for the laminated and multi-layer packaging 
+accoppiati e multistrato e data la loro non riciclabilità a fine vita, si è deciso di semplificare  and given their non-recyclability at the end of their life, it was decided to simplify the table by 
+la tabella unendo le tipologie di packaging sotto la voce “Altro”. combining the types of packaging under the heading “Other”.
+17 Il dato del 2018 relativo al peso del packaging primario acquistato è stato aggiornato  17 The 2018 data on the weight of the primary packaging purchased has been updated and 
+e corretto. A tal proposito, si segnala un errore di trascrizione della categoria “plastica”  corrected. To this regard, there was an error in transcription of the “plastic” category in the past 
+nell’anno passato che, da 2 tonnellate è stato riclassificato a 27,55 tonnellate.  year which, from 2 tons, was reclassified to 27.55 tons.
+94

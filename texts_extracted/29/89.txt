@@ -1,0 +1,15 @@
+IMPIANTO FV CEPAGATTI - Potenza 3987,28 KWp
+2018 2017 2016
+Energia prodotta (kWh) kWh 5.501.889 6.102.965 5.609.506
+Tnellate di petrolio equivalenti (tep) tep  473 525 482
+Emissioni di CO evitate tev 2.922 3.241 2.979
+2
+Famiglie soddisfatte 2.096 2.325 2.137
+IMPIANTO FV TMB - Potenza 999,92 KWp
+2018 2017 2016
+Energia prodotta  kWh 1.079.504 1.245.728 1.088.882
+Tnellate di petrolio equivalenti tep  93 107 94
+Emissioni di CO evitate tev 573 661 578
+2
+Famiglie soddisfatte 411 475 415
+90

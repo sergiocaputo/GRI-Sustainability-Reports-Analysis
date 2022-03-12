@@ -1,0 +1,56 @@
+ 
+[GRI 405-1] Composizione e suddivisione dei dipendenti per categoria professionale, genere, età, area geografica. 
+Italia  Guyana Francese 
+Categoria professionale 
+Uomo  Donna  Totale  Uomo  Donna  Totale 
+Dirigenti 
+21  2  23  3  0  3 
+ età inferiore ai 30 anni 
+0  0  0  0  0  0 
+tra i 30 e i 50 anni 
+5  0  5  2  0  2 
+età superiore ai 50 anni 
+16  2  18  1  0  1 
+Quadri 
+155  19  174  16  2  18 
+ età inferiore ai 30 anni 
+0  0  0  0  0  0 
+tra i 30 e i 50 anni 
+84  13  97  10  2  12 
+età superiore ai 50 anni 
+71  6  77  6  0  6 
+Impiegati 
+159  53  212  45  10  55 
+ età inferiore ai 30 anni 
+14  1  15  2  0  2 
+tra i 30 e i 50 anni 
+107  47  154  32  4  36 
+età superiore ai 50 anni 
+38  5  43  11  6  17 
+Operai 
+261  13  274  26  0  26 
+ età inferiore ai 30 anni 
+35  2  37  1  0  1 
+tra i 30 e i 50 anni 
+168  8  176  24  0  24 
+età superiore ai 50 anni 
+58  3  61  1  0  1 
+Totale   596  87  683  90  12  102 
+ 
+Nelle tabelle seguenti si riportano invece i dipendenti distribuiti per tipologia di contratto e di impiego, 
+distinti per genere ed area geografica.  
+ 
+[GRI 102-8] Numero di dipendenti per tipologia di contratto (indeterminato e determinato), per area geografica e genere. 
+Italia  Guyana Francese 
+Tipologia di contratto 
+Uomo  Donna  Totale  Uomo  Donna  Totale 
+Contratto a tempo determinato  0  0  0  4  1  5 
+Contratto a tempo 
+596  87  683  86  11  97 
+indeterminato 
+Totale dipendenti  596  87  683  90  12  102 
+ 
+ 
+ 
+26 
+ 

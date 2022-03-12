@@ -1,0 +1,33 @@
+2.2  ICT AND SUSTAINABLE DEVELOPMENT:  
+  A HIGH-IMPACT COMBINATION
+Each year, ASVIS, the Italian Alliance for Sustainable  positively impact the SDGs, in fields as diversified as 
+Development, prepares an “ASVIS Report” to monitor the  virtual learning, smart agriculture and e-health, could 
+country’s progress with respect to the 17 Sustainable  generate significant results by 2030, in addition to new 
+Development Goals (SDGs) and emphasize the need  opportunities for the digital industry, estimated to total 
+for a global shift in order to implement an inclusive,  2.1 trillion dollars. 
+sustainable and people-oriented development model in 
+line with the objectives set by the United Nations in 2015.  The report is based on the Digital Access Index (DAI), a 
+new framework of indicators developed to monitor the 
+European countries and Italy are no exception: one  ICT sector’s contribution to overcoming the challenges 
+quarter of the European population is still at risk of  of sustainable development on a periodic basis, starting 
+poverty and social exclusion, and unemployment and  with three categories of KPIs:
+underemployment remain rampant. In Italy, specifically, 
+progress on goals 2 “Sustainable food and agriculture”,  a) connectivity, in turn broken down into three sub-
+3 “Good health and well-being”, 4 “Quality education”,  categories: infrastructure (with indicators like the 
+5 “Gender equality”, 9 “Innovation”, 12 “Responsible  percentage of 4G network coverage and the number 
+production and consumption models” and 13 “Climate  of Internet access points), the use, consisting of 
+change” has been, unfortunately, offset by worsening  KPIs on the use of technology (e.g., the number of 
+poverty, labor, inequality, conditions in cities and  broadband accounts on fixed and mobile lines and 
+biodiversity (goals 1, 8, 10, 11 and 15).  smartphone market penetration) and accessibility, 
+with indicators such as the cost of mobile phone 
+In this context, ICT companies can offer a significant  rates or the cost of specific rates for mobile devices;
+contribution. As highlighted in the report “Enabling the 
+Global Goals. Evidence of digital solutions’ impact on  b) technologies, with indicators like mobile M2M 
+achieving the Sustainable Development Goals (SDGs)”  connections and social media penetration;
+published in 2018 by the Global e-Sustainability 
+Initiative6 (GeSi) in collaboration with Accenture,  c) digital solutions with monitoring KPIs on the 
+integrating sustainability in process innovation and  penetration of technologies like smart working and 
+the consequent provision of digital solutions that  e-health. 
+6. The international strategic partnership between ICT companies and associations to support and create technologies and practices that promote economic, environmental 
+and social sustainability.
+24 Sustainability at Fastweb. For a present connected to the future

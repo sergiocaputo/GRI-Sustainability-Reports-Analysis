@@ -1,0 +1,48 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Rischio di credito
+È il rischio di inadempimento delle controparti verso le quali esistono posizioni attive, ad eccezione degli investimenti in azioni 
+e in quote di fondi comuni. 
+Il rischio in commento è complessivamente presidiato attraverso limiti di rating per emittente/controparte, suddivisi in base 
+alla tipologia di strumento; monitoraggio della concentrazione per emittente/controparte; monitoraggio delle variazioni di rating 
+delle controparti.
+Nel corso dell’esercizio 2017 l’attività di revisione dei rating espressi dalle principali agenzie non ha comportato variazioni del 
+rating medio ponderato delle esposizioni della Capogruppo Poste Italiane S.p.A. che, per le posizioni diverse da quelle nei 
+confronti dello Stato Italiano, al 31 dicembre 2017 è pari ad A3, equivalente al rating medio del Gruppo alla stessa data.  
+Per ciascuna classe di Attività finanziarie soggetta al rischio in commento, si riporta l’esposizione del Gruppo Poste Italiane 
+al 31 dicembre 2017. Nell’esposizione si fa riferimento alle classi di merito creditizio stabilite dall’agenzia Moody’s.
+Gruppo Poste Italiane - Rischio di credito Attività finanziarie
+Saldo al 31.12.17 Saldo al 31.12.16
+Descrizione da Aaa  da A1  da Ba1 a  Totale da Aaa  da A1 a  da Ba1 a  Totale
+(milioni di euro) a Aa3 a Baa3 Not rated a Aa3 Baa3 Not rated
+Attività finanziarie
+Finanziamenti e crediti 184  7.248  700  8.132  161  7.436  512  8.109 
+Finanziamenti -    -    -    -    -    -    82  82 
+Crediti 184  7.248  700  8.132  161  7.436  430  8.027 
+Investimenti posseduti sino a 
+-    12.912  -    12.912  -    12.683  -    12.683 
+scadenza
+Titoli a reddito fisso -    12.912  -    12.912  -    12.683  -    12.683 
+Investimenti disponibili per la vendita 1.935  131.974  481  134.390  2.777  122.634  687  126.098 
+Titoli a reddito fisso 1.935  131.974  481  134.390  2.777  122.634  687  126.098 
+Strumenti finanziari al fair value 
+136  6.058  572  6.766  249  9.892  417  10.558 
+rilevato a CE
+Titoli a reddito fisso 136  5.512  572  6.220  249  8.900  417  9.566 
+Obbligazioni strutturate -    546  -    546  -    992  -    992 
+Strumenti finanziari derivati 73  442  64  579  20  382  22  424 
+Cash flow hedging 18  13  -    31  -    39  -    39 
+Fair value hedging 55  245  64  364  20  110  22  152 
+Fair value rilevato a CE -    184  -    184  -    233  -    233 
+Totale 2.328  158.634  1.817  162.779  3.207  153.027  1.638  157.872 
+A presidio del rischio di credito in operazioni derivate, in particolare, sono previsti idonei limiti di rating ed un monitoraggio della 
+concentrazione per gruppo/controparte. Inoltre i contratti di interest rate, asset swap e acquisti/vendite a termine sono oggetto 
+di collateralizzazione mediante la prestazione di depositi o la consegna di strumenti finanziari in garanzia (collateral previsti da 
+Credit Support Annex). La quantificazione e il monitoraggio delle esposizioni avvengono applicando il metodo del “valore di 
+mercato” previsto dal Regolamento (UE) n. 575/2013 (Basilea 3).
+Con riferimento alle attività finanziarie, di seguito si riportano le informazioni riguardo l’esposizione al debito sovrano108 del 
+Gruppo al 31 dicembre 2017, ai sensi della Comunicazione n. DEM/11070007 del 28 luglio 2011 di attuazione del documento n. 2011/266 
+pubblicato dall’ESMA e successive integrazioni. 
+108. Per “debito sovrano“ si intendono i titoli obbligazionari emessi dai governi centrali e locali e dagli enti governativi nonché i prestiti erogati agli stessi. 
+362

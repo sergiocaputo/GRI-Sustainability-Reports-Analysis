@@ -1,0 +1,38 @@
+TIM Sustainability Report 2019 
+ENVIRONMENT 
+ 
+ 
+Electricity consumption over the last 3 years and share of renewable energy 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+[GRI 302-3] The Group measures its energy efficiency by using an eco-efficiency indicator that establishes a relationship 
+between the service offered to the customer (bits transmitted) and the company’s impact on the environment (joules of 
+energy consumed). The factors taken into consideration are the amounts of data and voice traffic of the fixed and mobile 
+networks, and energy consumption for industrial purposes (transmission and climate control in exchanges), civil purposes 
+(electricity for office use, air conditioning and office heating) and vehicles. The graphs below show the level of the eco-
+efficiency indicator over the past three years for the Domestic and Brazil BUs.  
+ 
+ 
+ 
+In 2019, the value of the indicator calculated for the Domestic BU was 13.531 bit/joule, up 21.67% compared to 20181 and 
+52.43% compared to 2017. This is the result of a substantial increase in data traffic, which, thanks to the efficiency of the 
+network, has not led to a corresponding increase in electricity consumption. The commitment continues with the 
+establishment for 2020 of a target of 14,200 bit/Joule (see 2019 objectives at the end of this Chapter), equal to an increase 
+of 4.94% on the figure for 2019. 
+The eco-efficiency index calculated for Brazil shows a continuous improvement too: in 2019 it grew significantly by 58% 
+compared to 2018 and by over 438% compared to 2017. The values of the indicators calculated respectively for Italy and 
+Brazil are not directly comparable because the two organizations are very different in operational and environmental 
+terms: e.g. in Brazil the traffic is primarily mobile and, as previously mentioned, no heating fuels are used in view of the 
+particular climate conditions.  
+ 
+ 
+                                                                 
+1  The comparison was made with 2017 data updated from that reported in the last Sustainability Report, following a further revision after its 
+publication. The updated 2017 figure for the Domestic BU eco-efficiency indicator is 8,877 bit/joule. 
+64 
+ 

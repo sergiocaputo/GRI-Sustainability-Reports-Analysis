@@ -1,0 +1,53 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+che si veriﬁchi rispetto al contrario (more likely than not), ossia se le probabilità di accadimento sono maggioritarie 
+senza tuttavia fare riferimento alla misura dello scarto (IAS 37, par. 23). Di conseguenza se le possibilità di realiz-
+zazione di un adeguato imponibile futuro sono almeno 50%+1 degli eventi, il test di probabilità deve considerarsi 
+superato.
+Lo stesso IAS 12, al paragrafo 37, stabilisce che “qualsiasi riduzione” di attività ﬁscali differite “deve essere stornata 
+nella misura in cui diviene probabile che sia realizzabile reddito imponibile sufﬁciente”. Coerentemente, il principio 
+dispone anche che “alla data di riferimento di ogni bilancio, l’entità effettua una nuova valutazione delle attività ﬁscali 
+differite [precedentemente] non rilevate in bilancio” e “rileva un’attività ﬁscale differita precedentemente non rilevata 
+se è divenuto probabile che un futuro reddito imponibile consentirà di recuperarla”.
+Tenuto conto, inoltre,  che nel nostro ordinamento le disposizioni ﬁscali non prevedono una scadenza per l’utilizzo 
+delle DTA a deconto delle imposte in futuro dovute, e la regolamentazione contabile, ai ﬁni dell’iscrizione nell’attivo 
+del bilancio, non stabilisce vincoli temporali per il recupero delle DTA, è consentito non assumere a riferimento per 
+le stime  alcun orizzonte temporale prestabilito. Pertanto, si può ragionevolmente ritenere che l’impresa è sempre 
+in condizione di recuperare, e dunque di iscrivere nel suo attivo, le DTA, a meno che non si trovi in una situazione di 
+perdite non reversibile che necessariamente la condurrà al default. 
+Ancora, sulla base della nozione di “more likely than not” prevista dai principi contabili, bisognerebbe che la proba-
+bilità di default fosse superiore al 50% nell’orizzonte di recupero perché altrimenti lo scenario più probabile, cioè con 
+una probabilità di accadimento superiore al 50%, sarebbe sempre l’integrale utilizzo delle DTA.
+In considerazione di quanto sopra illustrato, la Capogruppo ha effettuato il test di assorbimento delle DTA Ires/Irap 
+iscritte nel bilancio al 31.12.2017 applicando un modello di analisi informato a criteri fondati sulla teoria economica e 
+aderenti alle prescrizioni del principio contabile IAS 12, idoneo a consentirle di svolgere un test di “Probable proﬁts” 
+sulla base di assunzioni razionali e il più possibile oggettive.
+Come già precisato, l’implementazione del modello, nel consentire, in sostanza, una più aggiornata valutazione 
+dell’importo delle DTA iscrivibili nell’attivo del bilancio consolidato, risulta coerente con le analisi condotte negli eser-
+cizi precedenti, confermandone ulteriormente i risultati, tra l’altro, comunicati nei relativi bilanci.  
+Dal punto di vista pratico, il “Probable proﬁts test” effettuato dalla Capogruppo ha avuto l’obiettivo di stimare i red-
+diti imponibili attesi con un grado di probabilità superiore al 50% e misurarne la capienza per l’assorbimento delle 
+DTA che l’azienda bancaria ha diritto di utilizzare. La stima della probabilità di assorbimento delle DTA consente, di 
+conseguenza,  di stabilire anche le probabilità circa i tempi di recupero.
+L’analisi è stata condotta muovendo dalle proiezioni economico-ﬁnanziarie approvate dal CdA della Banca stimando, 
+tra l’altro, un tasso di crescita medio annuo composto in linea con gli obiettivi di inﬂazione della BCE. 
+Una volta stimata la serie di redditi imponibili attesi (e di imposte che ne derivano), al ﬁne di svolgere un’analisi di 
+scenari probabilistici è stato utilizzato il metodo c.d. “Monte Carlo” la cui applicazione ha comportato la deﬁnizione di 
+ulteriori parametri quali la “volatilità”, che misura l’incertezza dei futuri movimenti della grandezza oggetto di analisi, 
+e un “intervallo di conﬁdenza” che consenta di individuare gli scenari di recupero integrale delle DTA la cui probabi-
+lità di accadimento sia, conformemente al dettame dello IAS 12, more likely than not.
+Sono state, conclusivamente, condotte le analisi di probabilità di assorbimento delle DTA iscritte nel bilancio al 
+31.12.2017 simulando 10.000 differenti tassi di crescita annui del reddito imponibile estratti casualmente, tenuto 
+conto di diversi livelli di volatilità.
+Il test in esame non ha riguardato, invece, le DTA qualiﬁcate convertibili in crediti d’imposta, in quanto il predetto 
+regime della trasformazione, garantito dall’opzione esercitata dalle banche del Gruppo per il pagamento del canone 
+annuo di garanzia ai sensi del decreto-legge 3 maggio 2016, n. 59, nel conferire certezza al recupero delle DTA in 
+parola, incide sul citato test contemplato dallo IAS 12, rendendolo di fatto automaticamente soddisfatto. Tale circo-
+stanza è stata anche confermata dal documento congiunto Banca d’Italia/Ivass/Consob n. 5 del 15/05/2012.
+Conclusivamente, l’analisi di probabilità condotta sulla Capogruppo ha evidenziato quanto segue:
+•  in assenza di volatilità, la Capogruppo recupererebbe per intero le proprie DTA Ires entro l’anno 2032;
+•  nel caso di scenario con volatilità del 9%, le DTA Ires della Capogruppo sarebbero recuperate integralmente en-
+tro il 2032 con una probabilità superiore al 50%;
+•  in uno scenario di stress con volatilità del 18%, si stima che i tempi di assorbimento si allungherebbero a oltre il 
+2040.
+Per quanto concerne le DTA Irap della Capogruppo, data la scarsa signiﬁcatività in bilancio, l’analisi si è limitata alla 
+468

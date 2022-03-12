@@ -1,0 +1,66 @@
+10. Glossario
+l’integrazione su base volontaria, da parte delle imprese, delle  Il CSI si basa su una semplice domanda posta al cliente per 
+istanze sociali ed ecologiche nelle loro operazioni commerciali  rilevare quale valutazione attribuisce all’azienda: da 1 a 10 
+e nei loro rapporti con le parti interessate. dove 10 è il massimo e 1 il minimo.
+Cost/Income Ratio Default
+Indice economico rappresentato dal rapporto tra i costi ope- Identiﬁ ca l’impossibilità di un soggetto di adempiere alle ob-
+rativi netti e proventi operativi netti. È uno dei principali indi- bligazioni ﬁ nanziarie che ha contratto.
+catori dell’efﬁ cienza gestionale di una banca: minore è il va-
+lore espresso da tale indicatore, maggiore è l’efﬁ cienza della  Deﬁ cit
+banca. Indica la situazione in cui le uscite sono superiori rispetto alle 
+entrate. Il Deﬁ cit Pubblico è in particolare la differenza nega-
+Costo ammortizzato tiva fra le entrate e le uscite della Pubblica Amministrazione e 
+Differisce dal costo in quanto prevede l’ammortamento pro- contribuisce a formare il debito pubblico.
+gressivo del differenziale tra il valore di iscrizione ed il valore 
+nominale di un’attività o una passività sulla base del tasso  Deposit Guarantee Scheme
+effettivo di rendimento. È uno dei tre pilastri su cui si fonda l’Unione bancaria all’inter-
+no dell’Area Euro realizzati nel 2014 per fronteggiare la fram-
+Country Risk Premium (CRP) mentazione del mercato ﬁ nanziario europeo. Tutela i depositi 
+Premio per il rischio Paese; esprime la componente del costo  bancari ﬁ no a centomila euro e si avvale, per gli interventi, di 
+del capitale volta a remunerare speciﬁ camente il rischio impli- un Fondo di garanzia unico. 
+cito di un deﬁ nito Paese (ossia il rischio connesso all’instabilità 
+economico-ﬁ nanziaria, politica e valutaria). Derivato
+Termine usato per indicare uno strumento ﬁ nanziario il cui prez-
+Covered Bond zo/rendimento deriva dai parametri di prezzo/rendimento di altri 
+Obbligazioni bancarie garantite che, oltre alla garanzia della  strumenti principali detti sottostanti, che possono essere stru-
+banca emittente, possono usufruire anche della garanzia di  menti ﬁ nanziari, indici, tassi di interesse, valute, materie prime.
+un portafoglio di mutui ipotecari od altri prestiti di alta qualità 
+ceduti, per tale scopo, ad un’apposita Società Veicolo “Spe- Derivato embedded o incorporato
+cial Purpose Vehicle”. I derivati embedded o incorporati sono clausole (termini con-
+trattuali) incluse in uno strumento ﬁ nanziario, che producono 
+Covered Warrant effetti uguali a quelli di un derivato autonomo.
+Titolo emesso da un intermediario che dà il diritto a chi lo 
+acquista di acquistare (call) o vendere (put) una determinata  Dichiarazione Non Finanziaria
+attività sottostante ad una certa data e ad un certo prezzo  Informativa di carattere non ﬁ nanziario che copre i temi am-
+(strike price). bientali, sociali, attinenti al personale, al rispetto dei diritti 
+umani e alla lotta contro la corruzione attiva e passiva. Tale 
+Crediti deteriorati informativa, introdotta dal D. Lgs. n. 254/2016, è obbligatoria 
+Crediti che, a seguito del veriﬁ carsi di eventi occorsi dopo la  per tutte le imprese e i gruppi di grandi dimensioni.
+loro iscrizione, mostrano evidenze di una possibile perdita di 
+valore. Rientrano in tale ambito i crediti ai quali è stato attri- Direttive Comunitarie
+buito lo status di sofferenze, inadempienze probabili ed espo- Sono atti normativi dell’Unione Europea che hanno come de-
+sizioni scadute deteriorate, secondo le regole di Banca d’Italia  stinatari gli Stati membri, i quali sono obbligati a raggiunge-
+coerenti con la normativa IAS/IFRS. re gli obiettivi indicati nella direttiva emanando, a loro volta, 
+norme attuative che dovranno essere applicate all’interno del 
+Credito di ﬁ rma singolo Stato.
+Operazione attraverso la quale una banca o una società ﬁ nan-
+ziaria si impegna ad assumere o garantire l’obbligazione di un  Dividendo
+proprio cliente nei confronti di un terzo. Importo distribuito dalla società agli azionisti, a titolo di re-
+munerazione del capitale investito (capitale di rischio), che 
+Credito in bonis rappresenta la distribuzione dell’utile di esercizio.
+Credito verso soggetti che non presentano, alla data di chiu-
+sura del periodo, speciﬁ ci rischi di insolvenza. Dow Jones
+Indice rappresentativo dell’andamento della Borsa valori di 
+Credito in sofferenza New York.
+Credito nei confronti di soggetti in stato di insolvenza o in 
+situazioni sostanzialmente equiparabili. Duration
+Durata ﬁ nanziaria di un titolo, ovvero la sua vita residua, pon-
+Credito scaduto derata con il ﬂ usso di cedole che il titolo pagherà in futuro. 
+Credito verso soggetti che, alla data di chiusura del periodo,  Solitamente, la duration si utilizza per valutare gli investimenti 
+presentano esposizioni scadute o sconﬁ nanti secondo le rego- obbligazionari: il valore della duration espresso in anni e gior-
+le previste dalla Banca d’Italia. ni indica la data entro cui il possessore di un titolo obbliga-
+zionario rientra in possesso del capitale inizialmente investi-
+Customer Satisfaction Index (CSI) to, tenendo conto delle cedole. Costituisce un indicatore del 
+È un indicatore che misura la soddisfazione dei clienti nei  rischio di tasso d’interesse a cui è sottoposto un titolo o un 
+riguardi dell’azienda. portafoglio obbligazionario.
+420 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

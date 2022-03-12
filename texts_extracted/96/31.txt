@@ -1,0 +1,49 @@
+ 
+attualmente testando un modello ibrido ed è al vaglio la possibilità di introdurre anche automobili full electric. In 
+questo ultimo caso, tuttavia, dal momento che l’infrastruttura di ricarica dei veicoli elettrici sul territorio italiano è 
+ancora alquanto limitata, sono note le plausibili difficoltà in tal senso.  
+Da ultimo il consumo di acqua non è considerato dal Gruppo un elemento rilevante poiché la stessa è utilizzata solo 
+a scopo sanitario. Anche in questo caso, tuttavia, Openjobmetis interviene prontamente in caso di segnalazioni di 
+perdite all’interno dei propri uffici e filiali. 
+Rispetto alla produzione di rifiuti, quest’ultima è generalmente molto limitata. Per lo più viene consumata carta e 
+la raccolta differenziata dipende dalle modalità di gestione dei condomini o dal comune di appartenenza. All’interno 
+del deposito dei materiali sono smaltiti eventuali esuberi di legno, carta e ferro, tramite fornitore abilitato. Infine, 
+il toner e le cartucce delle stampanti esausti, prodotti dal personale di sede e delle filiali di Openjobmetis, sono 
+smaltiti secondo la normativa vigente. 
+7.2 Indicatori di performance 
+Openjobmetis si impegna a contenere i propri consumi energetici. Le principali fonti energetiche consumate dal 
+Gruppo sono energia elettrica e gas naturale: il consumo di energia elettrica fa riferimento prevalentemente 
+all’illuminazione e al condizionamento degli uffici amministrativi e delle filiali dislocate in tutto il territorio 
+nazionale; il consumo di gas naturale è invece legato al riscaldamento degli uffici amministrativi e delle filiali.  
+Consumi di energia7 
+ 
+Udm  31.12.16  31.12.17 
+Energia elettrica  MWh  556,116  594,976 
+Gas naturale  m3  124.356  155.151 
+Nel 2017, il Gruppo ha consumato per la sua sede centrale e le sue filiali poco più di 590 MWh di energia elettrica, 
+registrando un aumento del 7,0% rispetto al 2016. Per quanto riguarda il gas naturale, i consumi hanno registrato 
+un aumento (+24,8%) rispetto al 2016, principalmente dovuto alla maggiore numerosità delle filiali del Gruppo, 
+specialmente nel nord Italia.  
+Il Gruppo ha quantificato le emissioni di gas serra associate direttamente o indirettamente alle proprie attività 
+caratteristiche. Di seguito sono riportate le emissioni di gas ad effetto serra di Scopo I e di Scopo II. 
+Emissioni di gas ad effetto serra8 
+ 
+Udm  31.12.16  31.12.17 
+Scopo I  tCO2  1.209  1.467 
+Scopo II  tCO2  184  197 
+Totale  tCO2  1.393  1.664 
+All’interno dello Scopo I sono state considerate tutte le emissioni derivanti dagli asset posseduti o controllati dal 
+Gruppo. Il calcolo include le tonnellate di CO2 prodotte dall’utilizzo di gas naturale e dalle auto del parco macchine, 
+comprese sia quelle di proprietà che quelle a noleggio, avendo Openjobmetis il controllo di queste ultime. Nello 
+Scopo II sono state considerate le emissioni derivanti dalla produzione di energia elettrica consumata dal Gruppo, 
+in quanto il calcolo include le emissioni per le quali l’organizzazione è indirettamente responsabile. 
+                                                                    
+7 Il valore è dato dal calcolo effettivo dei consumi di gas ed energia elettrica nel periodo di riferimento (dal 1 gennaio al 31 
+dicembre), pesato per i consumi di tre filiali prese a campione, rappresentative delle tre aree geografiche (Nord; Centro; Sud) in 
+cui Openjobmetis opera. Il metodo utilizzato tiene conto delle differenti fasce di temperatura climatiche che caratterizzano il 
+Paese e che influiscono sui consumi, e della distribuzione delle filiali nel territorio. 
+8 Per il calcolo delle emissioni di CO2 derivanti dal consumo di gas naturale e di energia elettrica sono stati utilizzati i parametri 
+standard nazionali definiti da ISPRA. Per il calcolo delle emissioni di CO2 derivanti dal parco auto aziendali sono stati utilizzati i 
+fattori emissivi medi di ISPRA, aggiornati all’ultima versione disponibile (2015). 
+  32  
+ 

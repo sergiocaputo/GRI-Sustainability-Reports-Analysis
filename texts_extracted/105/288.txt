@@ -1,0 +1,40 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+5. Poste Italiane S.p.A. Bilancio al 31 dicembre 2017 
+A5 - Attività finanziarie BancoPosta (60.048 milioni 
+di euro)
+tab. A5 - Attività finanziarie BancoPosta
+Saldo al 31.12.17 Saldo al 31.12.16
+Descrizione Note Attività   Attività  Totale Attività   Attività  Totale
+(milioni di euro) non correnti correnti non correnti correnti
+Finanziamenti e crediti  8   7.593  7.601   8   7.907   7.915 
+Investimenti posseduti 
+11.667  1.245  12.912  11.213  1.470  12.683 
+sino a scadenza
+Titoli a reddito fisso [tab. A5.2]  11.667   1.245  12.912   11.213   1.470   12.683 
+Invest.disponibili per la 
+37.319  1.821  39.140  35.893  1.370  37.263 
+vendita
+Titoli a reddito fisso [tab. A5.2]  37.278   1.821  39.099   35.789   1.370   37.159 
+Azioni  41  -    41   104  -     104 
+Strumenti finanziari 
+394  1  395  185  6  191 
+derivati
+Cash flow hedging  30   1  31   33   6   39 
+Fair value hedging  364  -    364   152  -     152 
+Totale  49.388  10.660  60.048  47.299  10.753  58.052 
+Le attività in commento riguardano le operazioni finanziarie effettuate dalla Società ai sensi del DPR 144/2001 che, dal 2 
+maggio 2011, rientrano nell’ambito del Patrimonio destinato e in particolare la gestione della liquidità derivante dalla raccolta 
+effettuata, in nome proprio ma con vincoli riguardanti l’impiego, in conformità alla normativa applicabile, e la gestione di incassi 
+e pagamenti in nome e per conto di terzi (nota 5.2 – Informativa sul Patrimonio destinato BancoPosta).
+Finanziamenti e crediti
+tab. A5.1 - Finanziamenti e Crediti
+Saldo al 31.12.17 Saldo al 31.12.16
+Descrizione Attività   Attività  Totale Attività   Attività  Totale
+(milioni di euro) non correnti correnti non correnti correnti
+Finanziamenti -    -    -    -    -    -   
+Crediti  8   7.593   7.601   8   7.907   7.915 
+Depositi presso il MEF -     6.011   6.011  -     6.189   6.189 
+Altri crediti finanziari  8   1.582   1.590  8   1.718   1.726 
+Totale  8  7.593  7.601  8  7.907  7.915 
+287

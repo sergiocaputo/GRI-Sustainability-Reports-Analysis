@@ -1,0 +1,31 @@
+ 
+Statement of financial position   
+               
+               
+ASSETS    31 December 2018  of which:  31 December 2019  of which: 
+%  % 
+(Euro)  Note  (*) related parties   related parties 
+Non-current assets              
+Property, plant and equipment  4  169,526,879     128,113,274    
+Right-of-use assets  5  -     58,137,979    
+Intangible assets  6  123,755,715     103,325,975    
+Equity investments  7  1,324,130,165     1,313,339,063    
+Non-current financial assets  8  116,394,035  93,163,031  80%  128,980,101  105,691,236  82% 
+Deferred tax assets  9  195,000,665     215,050,989    
+Total non-current assets    1,928,807,459      1,946,947,381     
+Current assets               
+Inventories  10  143,267,848     111,210,612    
+Contract assets  11  717,156,596     1,230,111,112    
+Trade receivables  12  1,420,387,000  715,301,166  50%  1,505,656,213 1,117,883,931  74% 
+Derivatives and other current financial  13  710,943,057  665,609,926  94%  916,706,548  871,522,904  95% 
+assets 
+Current tax assets  14  94,302,501     67,546,553    
+Other current tax assets  14  62,651,612     36,499,521    
+Other current assets  15  290,088,663  76,396,031  26%  264,921,902  85,331,673  32% 
+Cash and cash equivalents  16  547,730,061     388,614,886    
+Total current assets    3,986,527,338      4,521,267,347     
+Total assets    5,915,334,797      6,468,214,728     
+               
+(*) Figures not fully comparable due to IFRS 16 FTA. More information is available in note 2.    
+ 
+   393 

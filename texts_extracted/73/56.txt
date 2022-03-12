@@ -1,0 +1,26 @@
+•  for environmental data, if not available, conservative estimations have been performed, choosing 
+hypotheses associated with the least positive environmental performance for the company; 
+•  the calculation of greenhouse gas emissions has been carried out according to the principles of the 
+international standard ISO 14064-1. 
+•  the emission factors used to calculate the CO  emissions reported in this NFI are as follows: 
+2
+- Direct scope 1 emissions: for the heating of the offices and plants with natural gas and for the fuel 
+used by the company owned cars, the emission factor taken into account was taken from the table of 
+national standard parameters (valid for the calculation of emissions from January 1st, 2018 to 
+December 31st, 2018) published by the Ministry for the Environment and Protection of the Territory 
+and the Sea. For the refrigerant gas losses of the air conditioners, the emission factors are derived 
+from the UK Department for Environment, Food & Rural Affairs (Defra) database for the years 2017, 
+2018 and 2019. 
+- Energetic indirect scope 2 emissions: for electricity purchased from the national electricity grid, 
+for the location-based approach, the emission factor was taken from Terna's international comparisons 
+on Enerdata data - 2016 data. Regarding the market-based approach, emission factors refer to the 
+Residual Mix published by the “Association of Issuing Bodies” (AIB) in 2018 for the European 
+countries. In USA, emission factors refer to the “Center for Resource Solutions” (“2019 Green-e 
+Energy Residual Mix Emissions Rates”). As requested by the GRI Standards, for all Countries without 
+accredited  residual  mixes,  the  location-based  factors  were  applied.  Finally,  for  the  emissions 
+connected to the purchase of heat, the emission factors refer to Defra database for the years 2017, 
+2018 and 2019. 
+   
+57 
+This Consolidated Disclosure of non-financial information has been translated into English solely for the convenience of the international reader.  In 
+case of discrepancies, the Italian language document is the sole authoritative and universally valid version. 

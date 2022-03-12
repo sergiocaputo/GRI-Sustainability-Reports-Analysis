@@ -1,0 +1,29 @@
+146
+SOCIAL PERFORMANCE: TOPIC SPECIFIC STANDARDS
+DISCLOSURE INDICATOR DESCRIPTION PAGE NO./NOTES
+GRI 401: employment
+401-2 Benefits provided to full-time employees that are not provided to temporary or part-time  Pp. 68-70
+401-3 Parental leave P. 71
+GRI 403: occupational health and safety
+103-1 Material topic and scope Pp. 73-76
+103-2 Management approach Pp. 73-76
+103-3 Assessment of management approach Pp. 73-76
+403-1 Workers representation in formal joint management-worker health and safety committees Pp. 73-74
+Type of injury and rates of injury, occupational diseases, lost days, and absenteeism, and 
+403-2 number of work-related fatalities Pp. 74-75
+403-3 Workers with high incidence or high risk of diseases related to their occupation Pp. 73-74
+403-4 Health and safety topics covered in formal agreements with trade unions Pp. 73-74
+GRI 404: training and education
+103-1 Material topic and scope Pp. 50-55, 63-68
+103-2 Management approach Pp. 50-55, 63-68
+103-3 Assessment of management approach Pp. 50-55, 63-68
+404-1 Average hours of training per year per employee Pp. 64-65
+404-3 Percentage of employees receiving regular performance and career development reviews P. 68
+GRI 405: diversity and equal opportunity
+103-1 Material topic and scope Pp. 50-55, 55-61
+103-2 Management approach Pp. 50-55, 55-61
+103-3 Assessment of management approach Pp. 50-55, 55-61
+405-1 Diversity of governance bodies and employees Pp. 26, 56-57
+405-2 Ratio of basic salary and remuneration of women to men P. 69
+GRI 406: non discrimination
+103-1 Material topic and scope Pp. 61-62

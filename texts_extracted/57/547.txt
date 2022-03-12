@@ -1,0 +1,39 @@
+Bilancio Consolidato 2017
+B. Attività di copertura del rischio di cambio
+Nel corso del 2017 la copertura gestionale del rischio di cambio, generato dall’operatività in divisa sui portafogli 
+“obbligazionario” ed “azionario”, è stata effettuata sia attraverso depositi sia attraverso currency swap ed opzioni 
+su cambi.
+Informazioni di natura quantitativa
+Qui di seguito si riporta il dettaglio delle attività e passività in valuta che si riferiscono essenzialmente ad operazioni 
+in dollari USA, Lira Sterlina e Dollaro Canadese.
+(cid:20)(cid:17)(cid:3)(cid:39)(cid:76)(cid:86)(cid:87)(cid:85)(cid:76)(cid:69)(cid:88)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:87)(cid:68)(cid:3)(cid:71)(cid:76)(cid:3)(cid:71)(cid:72)(cid:81)(cid:82)(cid:80)(cid:76)(cid:81)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:72)(cid:3)(cid:83)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:72)(cid:3)(cid:71)(cid:72)(cid:76)(cid:3)(cid:71)(cid:72)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:76)
+Valute 
+Voci 
+USD  GBP  CAD  AUD  CHF  ALTRE VALUTE 
+A. Attività finanziarie  60.881  618  178  195  200  640 
+A.1 Titoli di debito  28.899  31  -  -  -  127 
+A.2 Titoli di capitale  2.952  21  -  -  -  - 
+A.3 Finanziamenti a banche  3.756  545  178  128  200  513 
+A.4 Finanziamenti a clientela  25.274  21  -  67  -  - 
+A.5 Altre attività finanziarie  -  -  -  -  -  - 
+B. Altre attività  764  254  178  68  244  88 
+C. Passività finanziarie  39.161  459  648  35  207  61 
+C.1 Debiti verso banche  29.587  39  15  35  41  59 
+C.2 Debiti verso clientela  9.574  420  633  -  166  2 
+C.3 Titoli di debito  -  -  -  -  -  - 
+C.4 Altre passività finanziarie  -  -  -  -  -  - 
+D. Altre passività  -  -  -  -  -  - 
+E. Derivati finanziari 
+           
+- Opzioni 
+           
++ Posizioni lunghe  16  -  -  -  -  - 
++ Posizioni corte  16  -  -  -  -  - 
+- Altri derivati 
+           
++ Posizioni lunghe  4.215  39  502  -  17  255 
++ Posizioni corte  33.975  416  109  835  218  427 
+Totale Attività  65.876  911  858  263  461  983 
+Totale Passività  73.152  875  757  870  425  488 
+Sbilancio (+/-)  (7.276)  36  101  (607)  36  495 
+547

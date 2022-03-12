@@ -1,0 +1,48 @@
+>  network automation, which corresponds to the ratio    that started operating after September 30, 2019, the 
+between RCP (Remote Controlled Point) and medium/ water consumption of the construction site is reported, 
+low-voltage equipment; in other cases (plants operating before September 30, 
+>  technical network losses, mainly related to the characte- 2019) the water consumption in operation;
+ristics/functions of the network. These losses are usually  >  projects for protecting biodiversity promoted by Enel in 
+calculated using statistical models or benchmarks. A re- connection to the operation of the plant;
+duction in technical network losses results in a reduction  >  the cases in which the site stopped its operations (plant 
+in the energy to be generated and a consequent reduction  shutdown) due to environmental management issues 
+in emissions and consumption of raw materials; and their impact;
+>  the elimination of oil equipment with PCB reduces the  >  fatal accidents or “High Consequence” injuries to Enel 
+risk of contamination of a compound no longer in pro- people5;
+duction since the 1980s and classified as ecotoxic and  >  activities and projects carried out to support local commu-
+bioaccumulable; nities in the areas surrounding the plant. The indicator rela-
+>  the calculation of CO avoided. The energy saving esti- ted to the number of beneficiaries of these projects refers 
+2
+mation model takes into account: the number of low- to the people involved by such activity or project.
+loss  transformers  replacing  traditional  transformers;  The above indicators in Table C, with the exception of water 
+operations on the MV network; network upgrading me- consumption and plant shutdown due to environmental issues, 
+asures; the new transformer rooms, which involve opti- also refer to Infrastructure and Networks projects.
+mizing the grid in terms of reducing low-voltage lines in  Table D “Overall information” refers to the criteria, indica-
+favor of higher-voltage ones. tors, overall information and approach chosen by Enel to de-
+Table C “Further ESG indicators” shows, where possible  velop the projects financed through the proceeds of the bond.
+and appropriate3, as envisaged in the “second party opin- The data have been thoroughly calculated on the basis of the 
+ion”4 the following indicators for the renewable projects: results of Enel’s accounting, non-accounting and other infor-
+>  water consumption related to the data reported in the  mation systems, and validated by the persons responsible in 
+period of construction of the plant or the period fol- each case. The data determined through the use of estimates 
+lowing its entry into operation. In the case of plants  and related calculation method have been expressly indicated.
+Installed capacity1   CO avoided  
+GB emission Area of investment Allocated GB proceeds  2
+(MW) (t)
+         
+2017 Renewables 1,237 mil euros 3,319 9,165,814
+2018   1,240 mil euros    
+of which new renewable projects Renewables 575 mil euros 1,878 1,712,117
+of which new Infrastructure and Networks 
+projects I&N 665 mil euros n.a. 26,287
+2019   985.6 mil euros 734 n.a.
+of which new projects identified in 2019 Renewables 71.1 mil euros 734 n.a.
+of which new Capex for 2018 projects Renewables 342.5 mil euros n.a. n.a.
+of which new Capex for 2017 projects Renewables 572 mil euros n.a. n.a.
+1  29.4 MW were installed for the Delfina plant in 2019, augmenting the 180 MW of 2018, while 33 MW were installed for the Cerro Pabellón plant, augmenting the 
+48 MW of 2018.
+3 Projects relating to renewable plants with a capacity of more than 20 MW  5 Sum of: injuries that resulted in more than 6 months’ absence from work 
+are considered to be relevant. as at December 31, 2019; injuries that are still open and considered severe 
+4  The indicator “Material reused/recycled after revamping” is not applicable,  (initial prognosis > 30 days) as at December 31, 2019; injuries categorised 
+as the proceeds of the green bond were not used to finance revamping  as “Life Changing Accidents” (LCAs), regardless of the resulting days of 
+projects in 2017, 2018 and 2019. absence from work.
+258 Sustainability Report 2019

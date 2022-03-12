@@ -1,0 +1,36 @@
+Numero totale di dipendenti per inquadramento, genere e fascia d’età, al 31 dicembre (405-1)
+Number of employees per employee category, gender and age group (405-1)
+<30 30-50 >50
+ITALY - 2017
+Uomini / Men Donne / Women Uomini / Men Donne / Women Uomini / Men Donne / Women
+Dirigenti / Managers 0 0 2 2 4 1
+Quadri / Executives 0 0 4 1 5 2
+Impiegati / Office staff 6 4 16 27 4 6
+Operai / Blue collars 13 6 59 79 31 21
+Somministrati non stagionali / Agency workers - -  -  - - -
+Totale per genere / Total by gender 19 10 81 109 44 30
+Totale per fascia d’età / Total by age group 29 190 74
+Totale / Total  293
+<30 30-50 >50
+ITALY - 2018
+Uomini / Men Donne / Women Uomini / Men Donne / Women Uomini / Men Donne / Women
+Dirigenti / Managers 0 0 2 2 4 1
+Quadri / Executives 0 0 3 1 3 2
+Impiegati / Office staff 7 5 20 31 6 3
+Operai / Blue collars 11 6 69 74 23 26
+Somministrati non stagionali / Agency workers - - - - - -
+Totale per genere / Total by gender 18 11 94 108 36 32
+Totale per fascia d’età / Total by age group 29 202 68
+Totale / Total  299
+<30 30-50 >50
+ITALY - 2019
+Uomini / Men Donne / Women Uomini / Men Donne / Women Uomini / Men Donne / Women
+Dirigenti / Managers 0 0 2 2 5 0
+Quadri / Executives 0 0 8 1 2 3
+Impiegati / Office staff 6 8 17 32 7 3
+Operai / Blue collars 18 5 70 77 29 32
+Somministrati non stagionali / Agency workers 8 3 5 2 0 0
+Totale per genere / Total by gender 32 16 102 114 43 38
+Totale per fascia d’età / Total by age group 48 216 81
+Totale / Total  345
+89

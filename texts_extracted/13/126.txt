@@ -1,0 +1,43 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Con riferimento all’impairment delle esposizioni creditizie contabilizzate al 
+costo ammortizzato, il Gruppo, in sede di prima applicazione del principio, ha 
+adottato le seguenti scelte metodologiche:
+  il processo di stage assignment è stato definito principalmente sulla 
+base dell’analisi del peggioramento significativo del rating assegnato 
+internamente rispetto alla data di origination, senza peraltro 
+definire una soglia di low credit risk, nonché tramite l’adozione 
+di altri indicatori di rischiosità della posizione, quali ad esempio 
+l’individuazione delle posizioni caratterizzate da uno status di past 
+due superiore a 30 giorni, la concessione di misure di forbearance 
+e l’analisi di appositi indicatori espressivi del comportamento del 
+prenditore verso il sistema creditizio;
+  è prevista la determinazione di un‘expected loss a 12 mesi per le 
+esposizioni classificate in bucket 1 e di un’expected loss lifetime per 
+le esposizioni classificate in bucket 2 e 3; entrambe le metriche 
+citate includono nel relativo calcolo elementi forward looking, 
+ovvero l’inclusione delle attese sull’andamento futuro di variabili 
+macroeconomiche ritenute rilevanti (ad esempio: andamento atteso 
+del PIL, del tasso di disoccupazione, del prezzo degli immobili, dei 
+tassi d’interesse) nella stima dei parametri di rischio;
+  le variabili macroeconomiche di cui al punto precedente sono stimate 
+tramite apposito modello econometrico caratterizzato dall’analisi delle 
+relazioni esistenti tra andamento dei tassi di default e andamento 
+degli indicatori macroeconomici;
+  il calcolo dell’expected loss lifetime caratterizzante le posizioni 
+classificate in bucket 2 presuppone il calcolo della perdita attesa 
+riferita all’intera vita residua della posizione creditizia;
+  l’approccio sopra proposto ha previsto delle semplificazioni in 
+relazione al nuovo portafoglio di cessione del quinto dello stipendio 
+generatosi nel corso del 2018, in funzione dell’assenza di informazioni 
+storiche sufficientemente attendibili.
+Per quanto riguarda, invece, le esposizioni in titoli di debito classificati nei 
+portafogli HtC e HtC&S:
+  il processo di stage assignment è stato definito principalmente sulla 
+base dell’analisi del peggioramento significativo del rating assegnato 
+da apposita agenzia esterna rispetto alla data di recognition in 
+bilancio dello strumento; è stata inoltre impiegata una soglia di low 
+credit risk che prevede la classificazione diretta dello strumento in 
+bucket 1 nel caso in cui lo stesso presenti un rating di agenzia di tipo 
+“Investment grade” alla data di reporting;
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 127

@@ -1,0 +1,37 @@
+ 
+The company’s contracts with customers are usually long-term contracts that include obligations to be satisfied 
+over time based on the progress towards completion and transfer of control of the asset to the customer over 
+time. 
+The reasons why recognition of revenue over time is considered the correct approach are: 
+•  the customer controls the asset as it is constructed (the asset is built directly in the area made available 
+by the customer); 
+•  the asset under construction does not have an alternative use and the company has an enforceable right 
+to payment for its performance completed to date over the contract term. 
+IFRS 15 requires that progress towards satisfaction of a performance obligation be measured using the method 
+that best represents the transfer of control of the asset under construction to the customer. The objective when 
+measuring progress is to depict an entity’s performance in transferring control of goods or services promised 
+to a customer. The company considers its market sector and the complex mix of goods and services it provides 
+when it selects the appropriate revenue recognition method. IFRS 15 provides for two alternative methods to 
+recognise revenue over time: 
+a) output method; 
+b) input method. 
+Output methods recognise revenue on the basis of direct measurements of the value to the customer of the 
+goods or services transferred to the date relative to the remaining goods or services promised under the 
+contract (e.g., surveys of performance completed to date, milestones reached, units delivered, etc.). Input 
+methods recognise revenue on the basis of the entity’s efforts or inputs to the satisfaction of a performance 
+obligation (e.g., resources consumed, labour hours expended, costs incurred, time elapsed or machine hours 
+used) relative to the total expected inputs to the satisfaction of that performance obligation (cost to cost 
+method). 
+The most appropriate method for measuring revenue is the cost to cost method calculated by applying the 
+percentage of completion (the ratio of costs incurred to total estimated costs) to contract revenue. The 
+calculation of the ratio of costs incurred to estimated costs only considers costs that contribute to the actual 
+transfer of control of the goods and/or services. This method allows the objective measurement of the transfer 
+of control to the customer as it considers quantitative variables related to the contract as a whole. 
+When choosing the appropriate method for measuring the transfer of control to the customer, the company did 
+not adopt the output method (e.g., surveys of performance completed to date) for its ongoing contracts as it 
+considered that although this output method would allow a direct measurement of progress, it would also lead 
+to operating difficulties in managing and monitoring progress considering all the resources necessary to satisfy 
+the obligation. 
+In addition, an output method would entail the application of criteria and measurement inputs that are not 
+directly observable and the incurring of excessive costs to obtain useful information. 
+   410 

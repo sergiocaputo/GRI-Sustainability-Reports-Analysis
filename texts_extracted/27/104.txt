@@ -1,0 +1,77 @@
+GRUPPO CREDEM  DNF 
+2018 Introduzione I  Il Cliente I  Le nostre Persone I  L'Ambiente I  La Società
+DISCLOSURE 302-1 CONSUMI ENERGETICI  
+INTERNI ALL’ORGANIZZAZIONE METODOLOGIA DI CALCOLO
+-   L a valutazione dei consumi per l’utilizzo degli edifici 
+comprende talvolta anche i consumi di società terze, 
+CONSUMI   2018 2017 2016
+considerati poco significativi relativamente ai consumi totali.
+ENERGETICI INTERNI  
+ALL’ORGANIZZAZIONE  -   I l consumo di gas naturale utilizzato per il riscaldamento 
+[GJ] condominiale è stato stimato rapportando i consumi specifici 
+Utilizzo di combustibile   34.952 35.141 33.395 di gas [Smc/m2], calcolati sulla base dei consumi fatturati, 
+per riscaldamento alla superficie riscaldata di edifici con impianti centralizzati. Il 
+di cui da gas naturale 4 34.842 34.915 33.210 contributo della società Magazzini Generali delle Tagliate, nel 
+calcolo del parametro del riscaldamento condominiale, è stato 
+di cui da GPL 110 226 186 
+escluso dal perimetro di rendicontazione in quanto l’edificio è 
+Calore da  9.380 9.067 8.631
+tipologicamente dissimile agli immobili presenti nei contesti 
+teleriscaldamento 5
+condominiali.
+Freddo da   255 337 362 
+te leraffrescamento 5 -  I  consumi energetici derivanti dall’utilizzo di carburante 
+per le auto aziendali a diesel ad uso promiscuo sono stati 
+Energia elettrica 107.641 109.337 105.994
+stimati correlando i km totali indicati alle fasce di cilindrata 
+di cui da fonte   107.641 109.337 105.994
+“medium” e “large” - indicati nelle Linee Guida ABI 2018 - in 
+rinnovabile
+maniera proporzionale al numero di auto del parco aziendale, 
+Totale consumi interni  152.228 153.881 148.382
+assumendo pari intensità di utilizzo delle auto appartenenti 
+per utilizzo edifici
+alle due fasce di cilindrata. 
+Auto noleggio  
+I fattori di emissione [kgCOeq/km] per le due fasce di 
+a lungo termine 2
+cilindrata sono stati stimati come media dei fattori di 
+Diesel ad uso servizio 1.675 1.697 1.645  emissione associati alle tecnologie Euro da 1 a 6 delle auto 
+Diesel ad uso  17.694 18.149 16.263  diesel appartenenti alle due fasce di cilindrata, indicati nelle 
+promiscuo Linee Guida ABI 2018. 
+Ibrida benzina   14 12 4  Per le auto ibride si è fatto riferimento alla media dei fattori di 
+ad uso promiscuo conversione indicati nelle Linee Guida ABI 2018, per categoria 
+Elettriche ad uso  10 6 8  di cilindrata e tecnologia Euro Standard.
+servizio
+- P er l’allocazione dei km percorsi per scopi lavorativi dalle auto 
+Totale consumi interni   19.392 19.864 17.920
+ad uso promiscuo è stato considerato il 70% dei km totali, 
+per flotta auto 6
+come da indicazioni delle Linee Guida ABI 2018.
+Totale consumi interni   171.620 173.746 166.302
+- I  consumi energetici derivanti dall’utilizzo delle auto 
+all’organizzazione
+aziendali elettriche sono stati calcolati applicando il fattore 
+di conversione dell’energia elettrica [GJ/kWh] ai consumi di 
+corrente a ciclo combinato [kWh/km] riportati nelle specifiche 
+Considerato il contributo significativo dei consumi 
+tecniche delle auto utilizzate.
+elettrici sul totale dei consumi energetici interni, il 
+Gruppo acquista energia elettrica certificata da Garanzie 
+di Origine, proveniente al 100% da fonti energetiche 
+rinnovabili: nel 2018 solo il 37% dei consumi energetici 
+interni complessivi deriva da fonti fossili.
+4 5 6
+Il dato del consumo di gas naturale  Per teleriscaldamento e teleraffrescamento si intende la 
+relativo all’anno 2017 è stato  distribuzione di energia tramite fluidi termovettori (vapore,  I dati dei consumi energetici per flotta auto 
+riesposto rispetto a quello indicato  acqua calda o liquidi refrigeranti), da una o più fonti di  relativi agli anni 2016 e 2017 sono stati 
+nella DNF 2017, per effetto di  produzione verso una pluralità di edifici o siti attraverso  riesposti rispetto a quelli indicati nella DNF 
+conguagli significativi (dell’ordine  una rete collettiva, per il condizionamento termico di spazi  2017 a seguito dell’aggiornamento della 
+del 10%) su consumi pervenuti  interni e per la fornitura di acqua modulata in temperatura.  metodologia di calcolo dei fattori di conversione 
+nel corso del 2018.  Tali sistemi di distruzione comportano notevoli vantaggi  in coerenza con l’aggiornamento delle Linee 
+Per i dati storici precedentemente  dal punto di vista ambientale, favorendo l’uso razionale  guida ABI Lab sull’applicazione in banca degli 
+pubblicati, si faccia riferimento  delle risorse energetiche, anche grazie a sistemi  Indicatori Ambiente del GRI. Per i dati storici 
+*alla DNF 2017 pubblicata nella  integrati di contabilizzazione e controllo dei tempi di  precedentemente pubblicati, si faccia riferimento 
+sezione Sostenibilità del sito  funzionamento e delle temperature, riducendo i consumi  alla DNF 2017 pubblicata nella sezione 
+istituzionale del Gruppo.  energetici e l’inquinamento locale. Sostenibilità del sito istituzionale del Gruppo.
+103

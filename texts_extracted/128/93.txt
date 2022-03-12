@@ -1,0 +1,48 @@
+ 
+2017 2016
+DIRECT GHG EMISSIONS (Scope 1)     
+Data in Tons CO2 CO2e CO2 CO2e
+From heating systems 13,603.8 13,686.4 6,576.9 6,618.0
+of which:                     Gas oil 695.5 702.4 586.0 591.8
+LPG 53.3 53.7 29.7 30.0
+ Natural gas 12,855.1 12,930.3 5,961.2 5,996.2
+Company car fleet fuel 2,733.3 2,759.8 2,152.0 2,172.7
+of which:                      Petrol 98.1 99.1 16.9 17.1
+Gas oil 2,634.0 2,659.5 2,127.8 2,148.2
+LPG 1.2 1.2 7.3 7.4
+TOTAL 16,337.1 16,446.1 8,728.9 8,790.7
+ 
+ 
+ENERGY INDIRECT GHG EMISSIONS  2017 2016
+(scope 2) CO C0 e CO C0 e
+2 2 2 2
+Location Based 1 37,619.8 37,790.0 31,983.5 32,144.0
+Market Based 2 1,414.3 1,432.2 1,940.9 1,969.6
+1 Emissions that would have resulted from the use of energy produced on the basis of the average national energy 
+  mix (data published by Gestore dei Servizi Energetic – electricity services administrator). 
+2 Residual emissions attributable to energy purchased from non-renewable sources.  
+ 
+OTHER INDIRECT GHG EMISSIONS  2017 2016
+(scope3) Data in Tons CO2 CO2e CO2 CO2e
+Paper purchased1 1,035.4 n.a. 1,022.1 n.a.
+Business travel 3,111.8 2387.6 2,641.7 1985.9
+of which: private cars 2,363.5 2,387.6 1,965.1 1,985.9
+train 195.2 n.a. 128.7 n.a.
+air 553.1 n.a. 547.9 n.a.
+Shuttle coach2 208.3 209.9 209.3 210.9
+TOTAL 4,355.5 n.a. 3,873.1 n.a.
+1 The 2017 emissions of the New Banks are not included due to data collection difficulties 
+2 The figure for 2016 has been restated following an update of the method used to calculate it.  
+ 
+GHG EMISSIONS INTENSITY          Data  2017 20161
+in Tons CO2 CO2e CO2 CO2e
+Total residual emissions             17,751.3            17,878.3            10,669.8            10,760.2
+Emissions intensity per employee                    0.83                     0.83                     0.61                     0.61 
+                   0.01                     0.01                     0.01                     0.01 
+Emissions intensity per surface area (Sq.m)
+1 The figure for 2016 has been restated following an update of the method used to calculate it.  
+   
+ 
+Consolidated non-financial declaration pursuant to Legislative Decree No. 254/2016 
+2017 Sustainability Report – Commitment to the environment - Pg.92 
+ 

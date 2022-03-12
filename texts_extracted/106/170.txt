@@ -1,0 +1,46 @@
+Prysmian Group    Consolidated Non-Financial Information Statement 2019 169
+Intensity of emissions
+Prysmian Group (2019)
+Emissions per Km/Ton of product Energy cables Telecom cables Optical fibre Wire rod
+tCO eq / Ton tCO eq / Km tCO eq / Km tCO eq / Km
+2 2 2 2
+Scope 1 0.10954 0.00038 0.00095 0.09521
+Scope 2 Location-based 0.21600 0.00144 0.00146 0.01570
+Market-based 0.19500 0.00154 0.00121 0.00977
+Total Scope 1 and Scope 2 (Location-Based) 0.32554 0.00182 0.00241 0.11091
+Scope 1 and Scope 2 (Market-Based) 0.30454 0.00192 0.00216 0.10497
+Prysmian Group w/o General Cable ex General Cable
+(2018) (Jun-Dec 2018)
+Emissions per Km/Ton of product
+Energy cables Telecom cables Optical fibre Energy cables Telecom cables
+tCO eq / Ton tCO eq / Km tCO eq / Km tCO eq / Ton tCO eq / Km
+2 2 2 2 2
+Scope 1 0.09408 0.00035 0.00091 0.16332 0.00078
+Scope 2 Location-based 0.24294 0.00115 0.00133 0.20823 0.00803
+Market-based 0.21948 0.00118 0.00100 0.22129 0.00816
+Total Scope 1 and Scope 2 (Location-Based) 0.33701 0.00149 0.00224 0.37155 0.00881
+Scope 1 and Scope 2 (Market-Based) 0.31356 0.00153 0.00191 0.38462 0.00895
+Prysmian Group (2017)
+Emissions per Km/Ton of product Energy cables Telecom cables Optical fibre
+tCO eq / Ton tCO eq / Km tCO eq / Km
+2 2 2
+Scope 1 0.08029 0.00038 0.00094
+Scope 2 0.24612 0.00146 0.00138
+Total 0.32640 0.00202 0.00232
+Waste
+Hazardous waste
+Hazardous waste [kg] - Prysmian Group (2019)
+Source Power Cables Telecom Cables Accessories Optical fibre Wire rod
+Ingredients of hazardous compounds 232,956 - - - -
+Asbestos 93,526 17,400 - - -
+Copper and aluminium sludge 1,013,025 46,934 - - -
+Equipment containing PCBs 1,315 450 - - -
+Sludge or solid waste with solvents - - - - -
+Solvents 75,340 25,976 1,378 57,596 200
+Waste waxes and fats 64,873 55,073 - - -
+Waste oil 734,172 37,520 5,130 8,020 15,064
+Waste emulsions 3,280,673 152,736 - - 251,980
+Waste ink 54,130 25,551 - - -
+Contaminated sawdust 41,207 41,167 828 - -
+Other hazardous waste 1,825,467 252,331 191,127 4,277,092 1,036,475
+Total 7,416,684 655,138 198,463 4,342,708 1,303,719

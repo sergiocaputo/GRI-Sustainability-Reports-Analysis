@@ -1,0 +1,52 @@
+ESG RISK RISK DESCRIPTION MANAGEMENT PROCEDURES AND MITIGATION ACTIONS
+Business and governance dimension
+Risks connected  The Group is carrying out a complete digital transformation  These risks are managed using a series of internal measures 
+with  of how it manages the entire energy value chain, developing  developed by the Global Digital Solutions (GDS) unit, which is 
+digitalization,  new business models and digitalizing its business processes. A  responsible for guiding the Group’s digital transformation. It 
+IT effectiveness  consequence of this digital transformation is that the Group is  has set up an internal control system that introduces control 
+and service  increasingly exposed to risks related to the functioning of the IT  points along the entire IT value chain, enabling it to prevent the 
+continuity systems implemented throughout the Company, which could  emergence of risks relating to such issues as the creation of 
+lead to service interruptions or data losses.   services that do not meet business needs, the failure to imple-
+ment adequate security measures and service interruptions. 
+The internal control system of the Global Digital Solutions unit 
+oversees both the activities performed in-house and those out-
+sourced to external associates and service providers. Further-
+more, Enel is promoting the dissemination of a digital culture 
+and digital skills within the Group in order to successfully guide 
+the digital transformation and minimize the associated risks. 
+Further information on how this risk is  managed can be found 
+in the chapter “Innovation and digitalization”.  
+Risks connected  The collection and processing of personal data represents one  In order to manage and mitigate this risk, Enel has adopted 
+with the of the biggest challenges in the era of digitalization and global- a structure aimed at guaranteeing that protection of personal 
+protection of  ization of markets. The Group has taken up this challenge by ac- data, relating to all persons with whom it interacts, is fully en-
+personal data    celerating the digital transformation process while it is experi- sured. This due to the appointment of Data Protection Ofﬁcers 
+encing an important stage of global growth in terms of number  (“DPOs”), who are responsible for supporting the business ar-
+of customers and geographical areas. This implies an exposure  eas in the adoption of a “privacy by design” approach, in which 
+to the risks connected with the protection of personal data, an  the protection of personal data a key element of the design of 
+issue that must also take account of the substantial growth  any initiative or business process.
+in privacy legislation, whose inappropriate implementation can  Further information on how this risk is managed can be found 
+cause economic or ﬁnancial losses and reputational harm.   in the chapter “Sound governance”.
+Compliance  Enel may be exposed to the risk of judicial measures or admin- Enel has adopted an Internal Control and Risk Management 
+risks istrative sanctions, economic or ﬁnancial losses and reputation- System set out in the company rules and procedures which 
+al damage as a result of: all those who work at Enel or for Enel are required to follow 
+through their respective contractual commitments. The Internal 
+> unlawful conduct, including acts of corruption, by internal  Control System also includes speciﬁc compliance programs, 
+staff to obtain an unfair or unlawful beneﬁt. External staff  such as: the Code of Ethics, the Zero Tolerance of Corruption 
+of suppliers of Enel Group companies, commit to comply  Plan (“ZTC Plan”), the Human Rights Policy, the Enel Global 
+with the ethical clauses set out in their respective contracts,  Compliance Program (“EGCP”), the Model pursuant to Legisla-
+which refer to Enel’s commitment to business integrity in  tive Decree 231/01 and other national compliance programmes 
+conducting its activities; adopted by the Group companies in compliance with national 
+regulations (for example, in Spain, Chile, Brazil, Colombia, Peru, 
+> the violation of international or national laws relating to an- Argentina and Mexico). 
+titrust, market disclosures, ﬁnancial, tax or other applicable  Furthermore, to further pursue its commitment to ﬁghting 
+legislation (such as permitting, purchasing rules, electricity  corruption, Enel voluntarily decided to certify its Anti-Bribery 
+market regulation). Management System (SGPC) in compliance with the require-
+ments of international standard ISO 37001:2016 on anti-bribery 
+management systems. This certiﬁcation process involved the 
+Group’s main foreign subsidiaries.
+The ongoing monitoring of regulatory developments at national 
+and international level is ensured thanks to the operations of 
+the relevant company Functions. 
+Further information on how this risk is managed can be found 
+in the chapter “Sound governance”.
+208 Sustainability Report 2019

@@ -1,0 +1,17 @@
+ 
+48  Dichiarazione consolidata non finanziaria al 31 dicembre 2017  ddooBBaannkk 
+Emissioni 
+UdM 2017
+Emissioni dirette 
+Gas naturale t CO2e        4 39.995
+Emissioni indirette t CO2e
+Energia Elettrica acquistata dalla rete t CO2e        1 69.224
+Intensità delle emissioni di gas a effetto serra (GHG)
+Emissioni GHG / n. medio dipendenti
+Emissioni dirette  t CO2e 358,30
+Emissioni indirette  t CO2e 137,80
+Fattori di conversione
+Natural Gas Emission Factor - Source: DEFRA 0,1842 kgCO2e/kWh
+Italy Mixed Electricity Emission Factor - Source ISPRA  0,3306 kgCO2e/kWh
+ 
+ 

@@ -1,0 +1,31 @@
+Table 63: Positive turnover rate
+YEAR 2017 2018 2019
+POSITIVE TURNOVER RATE (%)2 SECH TDT SECH TDT SECH TDT
+TOTAL 0,41 1,63 0,00 0,33 0,42 0,42
+Men  0,41 1,63 0,00 0,33 0,42 0,42
+Women 0,00 0,00 0,00 0,00 0,00 0,00
+29 and younger 0,00 0,98 0,00 0,00 0,42 0,42
+Between 30 and 50 0,00 0,33 0,00 0,00 0,00 0,00
+From 51 onwards  0,41 0,33 0,00 0,33 0,00 0,00
+Table 64: Negative turnover rate
+YEAR 2017 2018 2019
+NEGATIVE TURNOVER RATE (%)3 SECH TDT SECH TDT SECH TDT
+TOTAL 0,82 2,61 1,65 2,64 1,26 1,70
+Men  0,82 2,61 0,00 2,64 1,26 1,70
+Women 0,00 0,00 0,00 0,00 0,00 0,00
+29 and younger 0,00 0,65 0,00 0,00 0,00 0,00
+Between 30 and 50 0,00 0,33 0,83 0,00 0,00 0,68
+From 51 onwards  0,82 1,63 0,83 2,64 1,26 1,02
+Table 65: Turnover compensation rate
+YEAR 2017 2018 2019
+TURNOVER COMPENSATION RATE (%)4 SECH TDT SECH TDT SECH TDT
+TOTAL 50,00 62,50 0,00 12,50 33,33 20,00
+Men  50,00 62,50 0,00 12,50 33,33 20,00
+Women 0,00 0,00 0,00 0,00 0,00 0,00
+29 and younger 0,00 150,00 0,00 0,00 33,33 0,00
+Between 30 and 50 0,00 100,00 0,00 0,00 0,00 50,00
+From 51 onwards  50,00 20,00 0,00 12,50 0,00 33,33
+2. Positive turnover rate: units hired in the period/headcount at the beginning of the period.
+3. Negative turnover rate: units leaving in the period/headcount at the beginning of the period.
+4. Turnover compensation rate: units hired in the period/units leaving in the period.
+134 | SECH • TDT 2019 Sustainability Report

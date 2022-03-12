@@ -1,0 +1,77 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+•  gli ABS per cui non sono disponibili prezzi signiﬁ cativi e  Il metodo di valutazione deﬁ nito per uno strumento ﬁ nanzia-
+il cui fair value viene determinato utilizzando tecniche di  rio viene adottato con continuità nel tempo ed è modiﬁ cato 
+valutazione che tengono conto di parametri desumibili dal  solo a seguito di variazioni rilevanti nelle condizioni di merca-
+mercato; to o soggettive dell’emittente lo strumento ﬁ nanziario. Per le 
+ﬁ nalità dell’informativa sul fair value degli strumenti ﬁ nanziari 
+•  i titoli azionari valutati con il ricorso a transazioni dirette, 
+introdotta in Nota integrativa, la gerarchia sopra identiﬁ cata 
+ovvero transazioni signiﬁ cative sul titolo registrate in un 
+per la deﬁ nizione del fair value viene utilizzata coerentemente 
+arco di tempo ritenuto sufﬁ cientemente breve rispetto al 
+per la ripartizione dei portafogli contabili in base ai livelli di 
+momento della valutazione ed in condizioni di mercato co-
+fair value.
+stanti e per i quali sono, quindi, utilizzati i cosiddetti modelli 
+valutativi “relativi” basati su moltiplicatori;
+Modalità di determinazione del costo ammortizzato
+•  i rapporti creditizi attivi e passivi per i quali la valutazione è  Il costo ammortizzato di un’attività o passività ﬁ nanziaria è il 
+effettuata attraverso l’attualizzazione dei ﬂ ussi di cassa futuri. valore a cui è stata misurata alla rilevazione iniziale l’attività o 
+la passività ﬁ nanziaria al netto dei rimborsi di capitale, accre-
+Nel caso di strumenti classiﬁ cati a livello 3, per la determina- sciuto o diminuito dall’ammortamento complessivo, calcolato 
+zione del fair value è necessario ricorrere a modelli valutativi  usando il metodo dell’interesse effettivo, delle differenze tra 
+che presuppongono l’utilizzo di parametri di input non di- il valore iniziale e quello a scadenza e al netto di qualsiasi 
+rettamente osservabili sul mercato e che quindi comportano  perdita di valore.
+stime e assunzioni da parte del valutatore. 
+Il tasso di interesse effettivo è quel tasso che eguaglia il va-
+Per le attività e passività a breve termine si ritiene che il valore  lore attuale di un’attività o passività ﬁ nanziaria al ﬂ usso con-
+contabile sia una rappresentazione ragionevole del fair value. trattuale dei pagamenti futuri in denaro o ricevuti ﬁ no alla 
+scadenza o alla successiva data di ricalcolo del prezzo. Per il 
+I derivati di tasso e di cambio, laddove non scambiati su mer- calcolo del valore attuale si applica il tasso di interesse effet-
+cati regolamentati, sono strumenti Over The Counter (OTC),  tivo al ﬂ usso dei futuri incassi o pagamenti lungo l’intera vita 
+ovvero negoziati bilateralmente con controparti di mercato  utile dell’attività o passività ﬁ nanziaria o per un periodo più 
+e la loro valutazione è effettuata mediante appositi modelli  breve in presenza di talune condizioni (per esempio revisione 
+di pricing, alimentati da parametri di input (quali le curve di  dei tassi di mercato).
+tasso, cambi, volatilità) osservati sul mercato.
+Successivamente alla rilevazione iniziale, il costo ammortizza-
+Inoltre per pervenire alla determinazione del fair value si con- to permette di allocare ricavi e costi portati in diminuzione o 
+sidera anche l’effetto del rischio di inadempimento (non-per- aumento dello strumento lungo l’intera vita attesa dello stes-
+formance risk). Tale rischio include sia le variazioni del merito  so per il tramite del processo di ammortamento. La determi-
+creditizio della controparte sia le variazioni del merito di credi- nazione del costo ammortizzato è diversa a seconda che le 
+to dell’emittente stesso (own credit risk). attività/passività ﬁ nanziarie oggetto di valutazione siano a tas-
+so ﬁ sso o variabile e - in quest’ultimo caso - a seconda che la 
+Il modello di calcolo denominato Bilateral Credit Value Adjust- variabilità del tasso sia nota o meno a priori. Per gli strumenti 
+ment (BCVA) valorizza pienamente oltre che gli effetti del- a tasso ﬁ sso o a tasso ﬁ sso per fasce temporali, i ﬂ ussi futuri 
+le variazioni del merito creditizio della controparte anche le  di cassa vengono quantiﬁ cati in base al tasso di interesse noto 
+variazioni del proprio merito creditizio. Il BCVA è costituito  (unico o variabile) durante la vita del ﬁ nanziamento. Per le 
+infatti dalla somma di due addendi calcolati considerando la  attività/passività ﬁ nanziarie a tasso variabile, la cui variabilità 
+possibilità di fallimento di entrambe le controparti: non è nota a priori (ad esempio perché legata ad un indice), 
+la determinazione dei ﬂ ussi di cassa è effettuata sulla base 
+•  il CVA (Credit Value Adjustment) è una quantità negativa 
+dell’ultimo tasso noto. Ad ogni data di revisione del tasso si 
+che tiene in considerazione gli scenari in cui la controparte 
+procede al ricalcolo del piano di ammortamento e del tasso di 
+fallisce prima e si detiene un’esposizione positiva nei con-
+rendimento effettivo su tutta la vita utile dello strumento, cioè 
+fronti della controparte. In tali scenari, il Gruppo subisce 
+ﬁ no alla data di scadenza. L’aggiustamento viene riconosciuto 
+una perdita di ammontare pari al costo di sostituzione del 
+come costo o provento nel conto economico.
+derivato stesso;
+•  il DVA (Debt Value Adjustment) è una quantità positiva che  La valutazione al costo ammortizzato viene effettuata per le 
+tiene in considerazione gli scenari in cui si fallisce prima del- attività ﬁ nanziarie valutate al costo ammortizzato e per quelle 
+la controparte e si detiene un’esposizione negativa nei con- valutate al fair value con impatto sulla redditività complessiva, 
+fronti della controparte. In tali scenari il Gruppo beneﬁ cia di  nonché per le passività ﬁ nanziarie valutate al costo ammor-
+un guadagno di ammontare pari al costo di sostituzione del  tizzato.
+derivato stesso.
+Le attività e le passività ﬁ nanziarie negoziate a condizioni di mer-
+Il BCVA dipende dall’esposizione, dalle probabilità di default  cato sono inizialmente rilevate al loro fair value, che normalmen-
+e dalle Loss Given Default delle controparti. Inﬁ ne il BCVA  te corrisponde all’ammontare erogato o pagato comprensivo, 
+deve essere calcolato tenendo in considerazione gli eventuali  per gli strumenti valutati al costo ammortizzato, dei costi di tran-
+accordi di mitigazione del rischio di controparte, in particolare  sazione e delle commissioni direttamente imputabili.
+gli accordi di collateral e di netting per ogni singola contro-
+parte. In caso di presenza di accordi di netting con una data  La valutazione al costo ammortizzato non si applica per le 
+controparte il BCVA è calcolato con riferimento al portafo- attività/passività ﬁ nanziarie la cui breve durata fa ritenere tra-
+glio comprendente tutte le operazioni oggetto di netting con  scurabile l’effetto economico dell’attualizzazione né per i cre-
+quella controparte. diti senza una scadenza deﬁ nita o a revoca.
+276 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

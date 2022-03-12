@@ -1,0 +1,60 @@
+Gli ammortamenti, accantonamenti e svalutazioni sono pari a  cedurale e tecnologica, per monitorare e gestire il rischio ciber-
+524,2 milioni di euro (più 15,3% rispetto al 2018). Nello specifico,  netico. In particolare, nel 2019, ha adottato un nuovo modello 
+gli ammortamenti sono 409,6 milioni di euro (366,8 milioni di euro  di cyber security a livello di Gruppo, con l’istituzione del Co-
+2018), principalmente per la variazione del perimetro di consolida- mitato Strategico per la Sicurezza delle Informazioni (CSSI), 
+mento. Le svalutazioni dei crediti ammontano a 66,8 milioni di euro  una struttura di coordinamento strategico in contatto con le 
+circa, in riduzione dell’11% rispetto al 2018, per effetto di dinamiche  istituzioni competenti in materia, e del Computer Security In-
+di segno opposto: l’aumento dovuto alle modifiche di perimetro e  cident Response Team (CSIRT) di Gruppo, una struttura tec-
+la riduzione in conseguenza, principalmente, della delibera 2019  nico-operativa, di supporto al Comitato Strategico, dedicata al 
+ARERA che interviene positivamente sulla vertenza GALA. Gli ac- coordinamento delle risposte ad eventi/incidenti di sicurezza a 
+cantonamenti nell’anno risultano pari a 47,8 milioni di euro.  livello di Gruppo. 
+Infine, è stata condotta una campagna di vulnerability asses-
+TUTELA DEL PATRIMONIO FISICO   sment sull’intero perimetro esterno (servizi e sistemi esposti su 
+E DIGITALE E GESTIONE DEI RISCHI INTERNI   Internet) ed avviata la progettazione di sistemi a supporto del 
+La protezione del patrimonio fisico aziendale, la prevenzione di fe- CSIRT e di programmi a contrasto dei comportamenti frau-
+nomeni fraudolenti, il rispetto delle normative vigenti in materia  dolenti sui principali database aziendali, con machine learning, 
+di sicurezza, con particolare riferimento alla tutela della privacy e  advanced analytics e big data.
+dei dati sensibili (Regolamento GDPR 2016/679) sono curati dalla 
+Funzione Risk & Compliance, entro cui è collocata l’Unità Prote- L’IMPEGNO IN RICERCA E INNOVAZIONE  
+zione Aziendale. L’innovazione scientifica e tecnologica a servizio dei processi azien-
+A tale Unità è affidato il compito di definire le Linee guida e le poli- dali è uno dei pillar della pianificazione strategica del Gruppo, che 
+tiche in materia di tutela e protezione del patrimonio e di coordinare  nel 2019 su questo aspetto ha investito circa 27 milioni di euro.
+l’attuazione dei piani di continuità operativa e gestione delle emer- Per gestire la linea di innovazione di Gruppo, nell’anno, è stata 
+genze predisposti dalle competenti strutture e Società del Gruppo. In  costituita la Società Acea Innovation, con la mission di sviluppare 
+linea con la procedura sull’accesso alle sedi con servizio di accoglienza,  progetti innovativi ad alto valore aggiunto per il Gruppo e creare 
+l’Unità Protezione Aziendale gestisce le strutture e il personale della  un ecosistema favorevole all’innovazione e alla cultura dell’im-
+vigilanza e dell’accoglienza e controlla la Sala Sicurezza (SS), i sistemi  prenditorialità, ed è stato attivato l’Innovation Board, composto 
+di videosorveglianza, antintrusione e allarme, attivi nelle sedi aziendali,  dai referenti per l’innovazione delle Aree industriali, che defini-
+e coordina, in collaborazione con le competenti strutture e le Società  sce e realizza, in maniera condivisa, la strategia d’innovazione del 
+del Gruppo, il corretto svolgimento delle attività richieste dall’Autorità  Gruppo. Sono stati inoltre creati spazi di lavoro dedicati allo svi-
+Giudiziaria, dalle Istituzioni di Sicurezza e dalle Forze dell’Ordine. luppo di innovazione e un programma di corporate innovation.
+Nel 2019, le attività di vigilanza e accoglienza sono state unificate ed  Il nuovo percorso di innovazione intrapreso da Acea si basa su 
+è stato avviato un progetto per la definizione di nuove linee guida e  tre pilastri: 
+procedure in materia di protezione aziendale. •  il Modello di innovazione as a service, in cui l’innovazione è al 
+servizio del business e coinvolge tutta l’azienda (si veda il box 
+La tutela del patrimonio informativo e dei sistemi centrali ICT del  di approfondimento);
+Gruppo, per contenere al minimo l’indisponibilità dei sistemi e ga- •  la promozione della cultura dell’innovazione, supportata da 
+rantire la continuità operativa, prevede linee guida e procedure che  una piattaforma di crowdsourcing interna, che consente ai 
+definiscono i comportamenti richiesti al personale, le modalità di uti- dipendenti di proporre idee e partecipare a progetti di inno-
+lizzo delle risorse informatiche e i controlli.  vazione, ed è realizzata anche mediante la Digital Academy 
+In coerenza con le indicazioni del Ministero dello Sviluppo Economi- (si veda anche il capitolo Personale paragrafo La formazione 
+co, del Ministero dell'Ambiente e del Dipartimento Informazioni per  e lo sviluppo del personale) e programmi dedicati come Acea 
+la Sicurezza, Acea ha esteso le protezioni all’interno del dominio ci- Innovation Garage (si veda il box di approfondimento);
+bernetico, migliorando le misure di protezione delle reti e dei sistemi  •  l’innovation factory, un modello agile di analisi di mercato nei 
+IT e OT che comprendono gli apparati SCADA (Supervisory Control  settori di interesse strategico, che coinvolge tutte le Aree 
+And Data Acquisition), ed ha avviato un progetto di ricognizione dello  industriali, suddiviso in cicli di 12 settimane, al termine dei 
+stato dei sistemi centrali e di campo, in particolare quelli strategici, per  quali viene lanciato un pilota per validare l’idea mediante un 
+procedere alla realizzazione di interventi per la protezione dei sistemi.  market test. L’iniziativa ha permesso di avviare tre progetti 
+Acea ha inoltre sviluppato misure, di natura organizzativa, pro- strategici su digital health, e-mobility e waste transition.
+ACEA INNOVATION GARAGE, IL PRIMO PROGRAMMA DI IMPRENDITORIALITÀ DEI DIPENDENTI DEL GRUPPO ACEA 
+Nel 2019 Acea Innovation ha sviluppato Acea Innovation Garage, il  selezionate e 3 sono risultate vincitrici, intraprendendo un percor-
+programma di imprenditorialità rivolto ai dipendenti e finalizzato a  so di incubazione e sviluppo del progetto, della durata di 12 setti-
+promuovere la cultura dell’innovazione, con lo scopo di supportare il  mane, in spazi e tempi di lavoro dedicati e con il supporto di coach 
+Gruppo nel raggiungimento dei relativi obiettivi attraverso la valoriz- e mentor tecnici. 
+zazione del know-how interno.  Durante il percorso di incubazione, i 3 team hanno realizzato il pro-
+Il programma, basandosi su 4 Challenges di Innovation Needs, ha  totipo dell’idea proposta che è stato presentato, durante l’Investor 
+lanciato una Call4Ideas aperta a tutti dipendenti del Gruppo.  Day, ad una platea di possibili investitori, con il convinto sostegno del 
+La Call ha raccolto 120 idee progettuali, 10 delle quali sono state  top management di Acea.
+Sempre nell’anno, Acea ha organizzato il suo primo Innovation Day, un evento dedicato all’intelligenza artificiale al servizio delle imprese 
+(si veda il box di approfondimento).
+LE RELAZIONI CON GLI STAKEHOLDER 167

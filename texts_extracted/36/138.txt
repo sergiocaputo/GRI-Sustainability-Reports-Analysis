@@ -1,0 +1,76 @@
+s
+ar
+pill
+ur 
+O
+aligned with the Group’s objectives. The cyber security strat- fied in accordance with a specific evaluation matrix (Enel Cy-
+egy and initiatives are recurring topics that are subject to the  ber Impact Matrix) on a scale from 0 to 4 that considers both 
+Group’s principal executive and control bodies (e.g. “Board  the level of their impact and the level of the existing tools 
+of Directors”, “Control and Risks Committee”, “Supervisory  protecting company assets. The majority of incidents identi-
+Bodies”, etc.). fied had no significant impact on Group systems and were 
+In 2017 the Company also set up a specific “Cyber Security  automatically or semi-automatically blocked and/or managed 
+Framework” policy, which orients principles, organisation  by existing company defences (level 0/1). Incidents classified  ss
+ee
+nn
+and operating processes for a global strategy of analysis,  at levels 2/3/4 potentially have an impact on the Group and  bobo
+kk
+cc
+prevention and management of the risks and effects of cy- they are managed by the CERT analysts, bringing in the ap- baba
+G G 
+ber attacks. This framework is based on a “systemic” vision  propriate units in question in accordance with processes and  SS
+EE
+that integrates traditional Information Technology sector (IT)  actors that are predetermined during the monitoring service 
+with the Operational Technology sector (OT), connected to  set-up phase. In 2019 CERT responded to 94 level “2” cyber 
+the world of industry and the Internet of Things (IoT). In the  security incidents and 10 level “3” incidents. In all cases 
+context of the creation of this framework, 2017 saw the  detected, all the procedures provided were activated and no 
+definition also of the new Cyber Security Risk Management  significant damage ensued in respect of company assets. No 
+methodology applicable to all IT, OT and IoT environments,  level “4” cyber security incidents were recorded. 
+which specifies all the necessary phases required to perform  If a cyber security incident were to involve a possible data 
+e
+a risk analysis and define the associated mitigation plan, in  violation, the appropriate and necessary actions would be un- ot
+n
+line with the stated cyber security objectives. Enel has also  dertaken immediately, in line with the specific Group policy  cal 
+gi
+o
+created a “Cyber Emergency Readiness Team” (CERT)  on “Personal Data Management”. If a crisis situation should  ol
+d
+o
+for proactive management and response to cyber incidents  arise such that threatens business continuity of the Company,  h
+et
+M
+while collaborating and exchanging information within a net- and/or the assets, reputation, and/or profitability of the Enel 
+work of accredited international partners. The existing ac- Group, the appropriate and necessary actions would be un-
+creditation agreements with the institutional CERTs in the  dertaken immediately, in line with the specific Group policy 
+countries in which Enel operates were upgraded in 2019.  concerning “Critical Events Management”.
+Following signing of the agreement with the US national 
+CERT, the number of accreditations has now reached 9: Ro- CERT allowed Enel to block the following daily threats 
+mania, Italy, Chile, Argentina, Peru, Colombia, Brazil, Spain  in 2019:
+x
+di
+and the US. Also in 2019 the collaboration proceeds with  >  approximately 2 million inbound malicious or spam emails; n
+e
+p
+the Trusted Introducer Service, which includes more than  >  approximately 300 viruses; Ap
+& 
+380 CERTs in over 60 countries, and with “FIRST” (Forum  >  approximately 400 thousand at risk connections in  d 
+n
+o
+of Incident Response and Security Teams), the largest and  outbound emails; n B
+e
+most wide ranging community in the sector, with over 510  >  approximately 120 attacks on institutional portals.  Gre
+members in more than 90 countries. Finally, the Enel CERT  The number of connections to dangerous sites in 2019 fell 
+Global Control room in Turin was upgraded in 2019: another  thanks to the extension of the technical countermeasures 
+step forward in the consolidation and reinforcement of the  adopted and the increase in the level of protection of Inter-
+Group’s cyber security strategy. net navigation, in relation to the extension of the perimeter 
+of countries covered. 
+Moreover, by means of Threat Intelligence services, in 2019 
+Cyber security  Enel detected more than 1,300 Internet domains engaged 
+in illicit use of the trade mark for the probable purpose of 
+incident management
+perpetrating fraud against customers, and reported them to 
+the competent authorities. 
+Every day, CERT collects more than 2 billion events from  Furthermore, more than 800 safety checks were carried out 
+more than 3,700 data sources related to the corporate assets,  in the sphere of IT and OT, this number representing an in-
+correlating them and producing around one hundred “inci- crease of 60% versus the checks carried out in 2018. 
+dents” (cases requiring treatment). The incidents are classi- Finally, since complete migration to the IaaS cloud was ac-
+Innovation and digitalization 137

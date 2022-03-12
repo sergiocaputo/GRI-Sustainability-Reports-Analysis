@@ -1,0 +1,63 @@
+CER  2017 2018 2019 
+DESCRIPTION RECOVERY DISPOSAL
+CODE11 (Kg) (Kg) (Kg)
+160120 Glass from end-of-life vehicles 0 0 460
+Hazardous components other than those 
+160121* mentioned in items 160107 to 160111,  480 360 280 X
+160113 and 160114
+Out-of-use equipment, containing 
+160213* dangerous components other than those  160 30 46 X
+referred to in items 160209 and 160212
+Equipment out of use, other than those referred 
+160214 2.990 652 1.260 X
+to in items 160209 to 160213
+Organic waste containing dangerous 
+160305* 0 0 2.200 X
+substances
+Organic waste other than those mentioned in 
+160306 0 140 0 X
+160305
+Nuovo 
+Gases in pressure containers (including 
+160504* CER: 0 0 X
+halons) containing dangerous substances
+150111*
+160601* Lead-acid batteries 1.872 2.580 2.340 X
+160604 Lead-acid batteries 0 0 0 X
+160708* Waste containing oil 0 5.120 5.200 X
+160708* Waste containing oil 8.020 19.980 0 X
+Aqueous liquid waste, other than those 
+161002 22.720 7.210 2.800 X
+mentioned in 161001
+Y
+T
+161003* Aqueous concentrates containing  0 0 1.720 X BILI
+dangerous substances NA
+AI
+T
+Mixtures of cement, bricks, tiles other than  US
+170107 those mentioned in 170106 0 0 140 X AL S
+T
+N
+E
+170202 Glass in plates 1.360 420 0 X M
+N
+O
+R
+170405 Iron and steel 10.360 32.630 47.890 X VI
+N
+E
+170407 Mixed metals 0 0 1.280 X
+170411 Cables other than those mentioned in 170410 1.450 2.632 2.510 X
+200101 Paper and cardboard 0 0 6.910 X
+Fluorescent tubes and other wastes 
+200121* 63 0 34 X
+containing mercury
+200123* Discarded equipment containing CFCs 0 0 70 X
+200138 Wood, other than that mentioned in 200137 0 1.000 3.180 X
+200303 Street cleaning residues 4.100 0 0 X
+200304 Sewage from septic tanks 8.220 15.940 20.680 X
+200306 Products from the cleaning of waste water 1.120 0 0 X
+200307 Bulky waste 4.340 2.700 2.160 X
+TOTAL 83.968 104.744 139.217
+SECH • TDT 2019 Sustainability Report | 93 

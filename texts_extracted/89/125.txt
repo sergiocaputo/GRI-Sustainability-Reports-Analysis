@@ -1,0 +1,37 @@
+126
+ Management of the company car fleet using criteria that promote respect for the environment. The 
+Group’s fleet is comprised of vehicles with low CO2 emissions, latest-generation diesel particulate 
+filters (DPFs) and alternative fuels. Virtually all the cars are in line with the Euro 5 and Euro 6 emissions 
+standards; hybrid plug-in vehicles have also been included in the grids, the aim being to reach the 
+stage where 90% of the company car fleet use hybrid energy, as stated in the Strategic Plan.
+The following initiatives have also been implemented:
+ Support for electric mobility through installation of five charging stations for electric and plug-in 
+hybrid cars at Mediobanca head office and another two stations at the premises of Compass;
+ Use of a 100% electric van for the MISposto service and the daily postal services between MIS and the 
+other Group companies’ offices.
+Energy consumption and the related CO emissions are shown in the table below:
+2
+DIRECT ENERGY CONSUMPTION
+UNIT FY 2019-20 FY 2018-19 FY 2017-18
+Direct energy consumption42 Gj43 58,061.53 59,882.74 40,442.27
+From non-renewable sources 23,602.82 25,111.42 26,441.02
+Diesel - 396.21 327.78
+Natural gas44 23,602.82 24,715.21 26,113.24
+From unnamed users 13,679.90 ND ND
+From named users  9,922.92 ND ND
+From company cars45 34,458.71 34,771.32 14,001.24
+Diesel 28,354.15 30,530.34 10,227.21
+Petrol 6,104.56 4,240.98 3,774.03
+Adjustments made to the data collection process starting from FY 2018-19 have enabled the consumption 
+of company cars without fuel cards to be monitored as well. This clearly led to a significant increase in 
+consumption levels compared to FY 2017-18.
+As for company cars, in FY 2019-20 an increase in the consumption of petrol was recorded, against a 
+decrease in the consumption of diesel; this trend is due to the gradual rise in the number of hybrid vehicles 
+in the company fleet.
+42. For direct energy consumption, where figures are not available estimates have been used: for natural gas in cases involving shared building expenses of which the  
+  precise share cannot be calculated, consumption has been estimated on the basis of the floor space in the building actually occupied, or thousandths of the  
+  property owned. For bills still to be received, consumption has been estimated based on the previous year’s figures. Data on fuel consumption by company cars  
+  which is not available has also been estimated using a similar method.
+43. Gigajoules
+44. Consumption by Cairn Capital Group Limited not monitored (no details available for consumption by the building at which its offices are located)
+45. Data on fuel consumption for CMB is unavailable as fuel consumption is paid directly by the employees with no refund

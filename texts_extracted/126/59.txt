@@ -1,0 +1,56 @@
+TIM Sustainability Report 2019 
+ENVIRONMENT 
+ 
+Reducing staff travel 
+TIM is committed to finding solutions to 
+reduce  staff  travel  and  movement.  In 
+addition to proposed smart working days, 
+TIM provides its employees with “VAI On 
+Line” and Smart On Line (launched in 2017) 
+audio and video conferencing services, for 
+both its own employees and for those of 
+Group companies. The use of these services 
+increased by 69% in 2019 compared to 
+2018. Details as follows: 
+•  VAI On Line: 21,995 video conferences held by TIM and other Group companies;  
+•  VAI On Line: 56,817 audio conferences held by TIM and other Group companies;  
+•  Smart On Line: 193,686 audio/video conferences held by TIM. 
+IoT and environmental research 
+As a further demonstration of its commitment to the environment, every year TIM invests in research into innovative 
+solutions for limiting environmental impact by limiting the consumption of natural resources and energy. These activities 
+are detailed in the following paragraphs. 
+TIM has also had many patents granted in this area. TIM has begun numerous ICT research projects in the area of the 
+Internet of Things (IoT), applied to the world of Smart Cities and of positive environmental impact.  
+Smart grid. IoT application for the management of electrical networks in terms of distributed generation and remote 
+control. Continuing sharing telecommunication and power distribution network infrastructure with a view to cutting costs 
+and reducing their environmental impact.  
+Smart water. IoT application for managing water distribution networks through the identification of hidden water leaks. 
+To search for leaks and optimize distribution costs, TIM is also experimenting with multi-utility smart metering solutions 
+(applications for real time usage monitoring), which cover water, gas and, if necessary, also electricity, based on 
+widespread networks like IoT Narrowband1. 
+Smart waste. Efficient management of the waste cycle for increasing sorted collection and reducing illegal dumping. The 
+fill levels of the various recycling centers are measured in real time and vehicles sent out to empty them only when 
+necessary. Result: time and expense are minimized and roadside bins overflowing with municipal rubbish are avoided. 
+Other projects. In the field of eco-sustainability, the REPLICATE (Firenze Smart City) and MONICA (Torino Smart City) 
+projects are particularly significant.  
+The REPLICATE2  project focuses on smart energy, smart mobility and smart waste solutions and the development of IoT 
+platforms for managing the distribution of water and waste management in collaboration and partnership with the 
+municipality of Florence. It was launched in 2016 and will last for five years.  
+The MONICA3  project is focused on urban noise pollution and safety in public life. TIM contributed to the “Torino Smart 
+City” project known as SMILE4 focusing on the theme of life & health. Based on input from the SMILE project, the 
+Municipality of Turin has drawn up a master plan for Torino Smart City. TIM has signed a Memorandum of Understanding 
+with the Municipality which provides for the use of 5G technologies to develop sustainable smart city services. The project, 
+which began in July 2017, will be completed by mid-2020. 
+ 
+Consumer Products: TIM eco-friendly  
+In order to improve the environmental efficiency of products offered to customers, attention has to be paid to their energy 
+aspects to optimist consumption while meeting the needs of the services delivered and applying “design for environment” 
+                                                                 
+1This solution is based on a new radio interface which can be used either on a portion of the LTE signal band (or on the band separating the 
+bands), or independently in portions of the spectrum made available by the release of frequencies. 
+2  REnaissance of PLaces with Innovative Citizenship And TEchnologies; part of the European Horizon 2020 program. 
+3 Management Of Networked IoT Wearables – Very Large Scale Demonstration of Cultural Societal Applications; part of the European Horizon 
+2020 program. 
+4 SMart mobILity at the European land borders; part of the European Horizon 2020 program. 
+60 
+ 

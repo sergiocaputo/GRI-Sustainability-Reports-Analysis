@@ -1,0 +1,89 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+Con riferimento alla rappresentazione contabile dei suddetti  per volontà delle parti del contratto. Quando, nel corso della 
+effetti valutativi, le rettiﬁ che di valore riferite a questa tipolo- vita di uno strumento, le clausole contrattuali sono ogget-
+gia di attività sono rilevate nel conto economico: to di modiﬁ ca occorre veriﬁ care se l’attività originaria deve 
+continuare ad essere rilevata in bilancio o se, al contrario, 
+•  all’atto dell’iscrizione iniziale, per un ammontare pari alla 
+lo strumento originario deve essere oggetto di cancellazione 
+perdita attesa a dodici mesi;
+dal bilancio (derecognition) e debba essere rilevato un nuovo 
+•  all’atto della valutazione successiva dell’attività, ove il rischio  strumento ﬁ nanziario. In generale, le modiﬁ che di un’attivi-
+creditizio non sia risultato signiﬁ cativamente incrementa- tà ﬁ nanziaria conducono alla cancellazione della stessa ed 
+to rispetto all’iscrizione iniziale, in relazione alle variazioni  all’iscrizione di una nuova attività quando sono sostanziali. 
+dell’ammontare delle rettiﬁ che di valore per perdite attese  La valutazione circa la sostanzialità della modiﬁ ca deve esse-
+nei dodici mesi successivi; re effettuata considerando elementi sia qualitativi sia quan-
+titativi. 
+•  all’atto della valutazione successiva dell’attività, ove il ri-
+schio creditizio sia risultato signiﬁ cativamente incrementato 
+Le analisi volte a deﬁ nire la sostanzialità delle modiﬁ che con-
+rispetto all’iscrizione iniziale, in relazione alla rilevazione di 
+trattuali apportate ad un’attività ﬁ nanziaria dovranno pertan-
+rettiﬁ che di valore per perdite attese riferibili all’intera vita 
+to considerare:
+residua prevista contrattualmente per l’attività;
+•  le ﬁ nalità per cui le modiﬁ che sono state effettuate, ad 
+•  all’atto della valutazione successiva dell’attività, ove – dopo 
+esempio, rinegoziazioni per motivi commerciali e concessio-
+che si è veriﬁ cato un incremento signiﬁ cativo del rischio di 
+ni per difﬁ coltà ﬁ nanziarie della controparte:
+credito rispetto all’iscrizione iniziale – la signiﬁ catività di tale 
+incremento sia poi venuta meno, in relazione all’adegua- - le prime, volte a “trattenere” il cliente, vedono coinvol-
+mento delle rettiﬁ che di valore cumulate per tener conto del  to un debitore che non versa in una situazione di difﬁ -
+passaggio da una perdita attesa lungo l’intera vita residua  coltà ﬁ nanziaria. In questa casistica sono incluse tutte le 
+dello strumento (lifetime) ad una a dodici mesi. operazioni di rinegoziazione che sono volte ad adeguare 
+l’onerosità del debito alle condizioni di mercato. Tali ope-
+Le  attività  ﬁ nanziarie  in  esame,  ove  risultino  in  bonis,  razioni comportano una variazione delle condizioni origi-
+sono sottoposte ad una valutazione volta a deﬁ nire le rettiﬁ - narie del contratto, solitamente richieste dal debitore, che 
+che di valore da rilevare in bilancio, a livello di singolo rappor- attiene ad aspetti connessi all’onerosità del debito, con un 
+to creditizio (o “tranche” di titolo), in funzione dei parametri  conseguente beneﬁ cio economico per il debitore stesso. 
+di rischio rappresentati da Probability of Default (PD), Loss  In linea generale si ritiene che, ogniqualvolta la banca ef-
+Given Default (LGD) ed Exposure At Default (EAD). Se, oltre  fettui una rinegoziazione al ﬁ ne di evitare di perdere il pro-
+ad un incremento signiﬁ cativo del rischio di credito, si ri- prio cliente, tale rinegoziazione debba essere considerata 
+scontrano anche oggettive evidenze di una perdita di valore,  come sostanziale in quanto, ove non fosse effettuata, il 
+l’importo della perdita viene misurato come differenza tra il  cliente potrebbe ﬁ nanziarsi presso un altro intermediario e 
+valore contabile dell’attività – classiﬁ cata come deteriorata,  la banca subirebbe un decremento dei ricavi futuri previsti;
+al pari di tutti gli altri rapporti intercorrenti con la medesima 
+- le seconde, effettuate per ragioni di rischio creditizio (mi-
+controparte – e il valore attuale dei futuri ﬂ ussi ﬁ nanziari 
+sure di forbearance), sono riconducibili al tentativo della 
+stimati, scontati al tasso di interesse effettivo originario. 
+banca di massimizzare il recupero dei ﬂ ussi di cassa del 
+L’importo della perdita, da rilevare a conto economico, è 
+credito originario. I rischi e i beneﬁ ci sottostanti, succes-
+deﬁ nito sulla base di un processo di valutazione analitica o 
+sivamente alle modiﬁ che, di norma, non sono sostanzial-
+determinato per categorie omogenee e, quindi, attribuito 
+mente trasferiti e, conseguentemente, la rappresenta-
+analiticamente ad ogni posizione. Rientrano nell’ambito del-
+zione contabile che offre informazioni più rilevanti per il 
+le attività deteriorate gli strumenti ﬁ nanziari ai quali è stato 
+lettore del bilancio è quella effettuata tramite il “modi-
+attribuito lo status di sofferenza, inadempienza probabile o 
+ﬁ cation accounting” – che implica la rilevazione a conto 
+di scaduto/sconﬁ nante da oltre novanta giorni secondo le 
+economico della differenza tra valore contabile e valore 
+regole di Banca d’Italia, coerenti con la normativa IAS/IFRS e 
+attuale dei ﬂ ussi di cassa modiﬁ cati scontati al tasso di 
+di Vigilanza europea.
+interesse originario – e non tramite la derecognition;
+I ﬂ ussi di cassa previsti tengono conto dei tempi di recupero  •  la presenza di speciﬁ ci elementi oggettivi (“trigger”) che 
+attesi e del presumibile valore di realizzo delle eventuali ga- incidono sulle caratteristiche e/o sui ﬂ ussi contrattuali del-
+ranzie. Il tasso effettivo originario di ciascuna attività rimane  lo strumento ﬁ nanziario (quali ad esempio il cambiamento 
+invariato nel tempo ancorché sia intervenuta una ristruttu- di divisa o la modiﬁ ca della tipologia di rischio a cui si è 
+razione del rapporto che abbia comportato la variazione del  esposti) che si ritiene comportino la derecognition in con-
+tasso contrattuale ed anche qualora il rapporto divenga, nel- siderazione del loro impatto signiﬁ cativo sui ﬂ ussi contrat-
+la pratica, infruttifero di interessi contrattuali. Qualora i mo- tuali originari.
+tivi della perdita di valore siano rimossi a seguito di un evento 
+veriﬁ catosi successivamente alla rilevazione della riduzione di  Le attività ﬁ nanziarie vengono cancellate dal bilancio sola-
+valore, vengono effettuate riprese di valore con imputazione 
+mente se la cessione ha comportato il sostanziale trasferimen-
+a conto economico. La ripresa di valore non può eccedere 
+to di tutti i rischi e beneﬁ ci connessi alle attività stesse. 
+il costo ammortizzato che lo strumento ﬁ nanziario avrebbe 
+avuto in assenza di precedenti rettiﬁ che. I ripristini di valore 
+SEZIONE 4 - OPERAZIONI DI COPERTURA
+connessi con il trascorrere del tempo sono appostati nel mar-
+gine di interesse. In alcuni casi, durante la vita delle attività  Il Gruppo si è avvalso della possibilità, prevista in sede di 
+ﬁ nanziarie in esame e, in particolare, dei crediti, le condizio- introduzione dell’IFRS9, di continuare ad applicare integral-
+ni contrattuali originarie sono oggetto di successiva modiﬁ ca  mente le previsioni del principio contabile IAS39 in tema di 
+266 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

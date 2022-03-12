@@ -1,0 +1,51 @@
+80 SOL GROUP  –  GRI CONTENT INDEX
+GRI 305: Emissions (2016)
+305-1 50 Direct (Scope 1) GHG emissions
+305-2 50; indirect emissions, calculated according to  Energy indirect (Scope 2) GHG emissions
+the location based methodology, are equal to 
+208,757 tons of CO
+2
+Material topic: EFFLUENTS AND WASTE
+GRI 103: Management Approach (2016)
+103-1 77 Explanation of the material topic and its Boundary
+103-2 16; 51-52 The management approach and its components
+Safety and environment principles of SOL Group 
+companies
+103-3 16; 51-52 Evaluation of the management approach
+GRI 306: Effluents and waste (2016)
+306-2 52 Waste by type and disposal method
+Material topic: SUPPLIER ENVIRONMENTAL ASSESSMENT
+GRI 103: Management Approach (2016)
+103-1 77 Explanation of the material topic and its Boundary
+103-2 43 The management approach and its components
+103-3 43 Evaluation of the management approach
+GRI 308: Supplier Environmental Assessment (2016)
+308-1 43 New suppliers that were screened using environmental criteria
+GRI 400: SOCIAL SERIES (2016)
+Material topic: EMPLOYMENT
+GRI 103: Management Approach (2016)
+103-1 77 Explanation of the material topic and its Boundary
+103-2 57-58 The management approach and its components
+103-3 57-58; 65 Evaluation of the management approach
+GRI 401: Employment (2016)
+401-1 65 New employee hires and employee turnover
+Material topic: OCCUPATIONAL HEALTH AND SAFETY
+GRI 103: Management Approach (2016)
+103-1 77 Explanation of the material topic and its Boundary
+103-2 62-63 The management approach and its components
+Safety and environment principles of SOL Group 
+companies
+103-3 58; 62-63; 64 Evaluation of the management approach
+GRI 403: Occupational Health and Safety (2016)
+403-2 58; 64 Data referred to injury rates of worker who  Types of injury and rates of injury, occupational diseases, lost days, and 
+are not employees are currently not available.  absenteeism, and number of work-related fatalities
+For a better presentation, data regarding 
+occupational health and safety are disclosed by 
+sectors of activity instead of by gender. 
+Material topic: TRAINING AND EDUCATION
+GRI 103: Management Approach (2016)
+103-1 77 Explanation of the material topic and its Boundary
+103-2 59 The management approach and its components
+103-3 59 Evaluation of the management approach
+GRI 404: Training and Education (2016)
+404-1 59 Average hours of training per year per employee

@@ -1,0 +1,92 @@
+LOTTOMATICA PER LA COMUNITÀ 2018
+I processi e le soluzioni di sicurezza, 
+progettati con livelli di flessibilità 
+tali da consentire l’adattamento a 
+specifiche peculiarità tecnologiche 
+ed esigenze regolatorie dei prodotti 
+e servizi, afferiscono alle seguenti 
+di soluzioni integrate con  Certificazioni di sicurezza 
+aree di competenza specifica: 
+tutti gli elementi tecnologici 
+dell’infrastruttura Lottomatica  Lottomatica mantiene 
+Customer Protection Services  standard elevati di sicurezza 
+•  (es. software applicativo, 
+informatica, certificati da 
+ha l’obiettivo di garantire la 
+sistema operativo, database) 
+enti terzi indipendenti.
+protezione dei clienti contro 
+con particolare riguardo  L’area Certification gestisce 
+gli attacchi informatici mirati  alla gestione delle utenze  il processo di conformità 
+al furto delle credenziali e  e certificazione mediante 
+privilegiate.
+l’analisi dei requisiti di 
+delle informazioni personali, 
+sicurezza delle normative o 
+perpetrati attraverso portali e 
+Security Operations  degli standard di riferimento, 
+• 
+applicazioni clone.  l’implementazione dei 
+Center (SOC) assicura la 
+processi e delle soluzioni 
+gestione H24x7 degli eventi 
+tecnologiche richieste 
+Anti-Fraud Management 
+•  di sicurezza attraverso  per la conformità e il 
+ha il compito di prevenire 
+l’analisi, la classificazione, la  coordinamento delle attività 
+e contrastare le frodi  durante le verifiche ispettive. 
+segnalazione delle minacce 
+informatiche tramite processi,  Tra le certificazioni ottenute:
+e l’attuazione tempestiva di 
+tecnologie e partnership  • ISO27001: norma 
+azioni di contrasto. Il SOC  internazionale che 
+strategici per lo scambio 
+di Lottomatica gestisce in  definisce i requisiti per 
+di informazioni utili ad 
+impostare e gestire un 
+maniera centralizzata tutti gli 
+implementare un monitoraggio  Sistema di Gestione 
+eventi di sicurezza, garantendo 
+preventivo e costante, come  della Sicurezza delle 
+un monitoraggio end-to-end in  Informazioni (SGSI). 
+la partnership con il Centro 
+tempo reale. • SGAD (Sistema di Gioco 
+Nazionale Anticrimine 
+di Abilità a Distanza): 
+Informatico per la Protezione  certificazione per la 
+delle Infrastrutture Critiche  •  Network and IT Security  sicurezza della piattaforma 
+Solutions implementa le  di gioco a distanza 
+(CNAIPIC, servizio interno 
+secondo le linee guida 
+soluzioni tecnologiche più 
+della Polizia Postale e delle 
+dell’Agenzia delle Dogane 
+innovative per la protezione 
+Comunicazioni) e il presidio  e dei Monopoli. 
+per la gestione delle eventuali  da intrusioni informatiche sui  • PCI-DSS (Payment Card 
+diversi livelli dell’infrastruttura  Industry Data Security 
+frodi interne ed esterne. 
+Standard): standard di 
+Lottomatica, implementando 
+sicurezza definito dal “PCI 
+il concetto di “difesa in 
+•  Secure Development Life  Security Standard Council” 
+Cycle si occupa di garantire la  profondità”.  fondato dai circuiti di carte 
+di credito Visa, Master 
+prevenzione da una potenziale 
+Card, American Express, 
+vulnerabilità nei sistemi e nei  •  Security and Privacy  Discover Financial Services 
+prodotti software attraverso un  Governance permette il  e JCB per la protezione 
+processo di sviluppo e rilascio  governo centralizzato sulla  dei dati delle carte di 
+sicuro. conformità di sicurezza a  pagamento
+• WLA: certificazione della 
+regolamenti, standard e leggi 
+World Lottery Association 
+•  Identity and Access  di riferimento all’interno di  che introduce requisiti 
+Governance gestisce il  processi e soluzioni tecnologici,  e controlli specifici per 
+governo delle identità e degli  assicurando la gestione degli  il settore regolamentato 
+degli operatori e provider 
+accessi mediante l’utilizzo  audit IT e di sicurezza.
+di soluzioni di gioco.
+33

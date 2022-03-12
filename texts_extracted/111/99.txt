@@ -1,0 +1,45 @@
+persone fisiche e ne sorveglia lo svolgimento; fornisce riscontro agli interessati in materia di 
+protezione dei dati personali e in particolare nell’esercizio dei diritti, anche attraverso altre 
+strutture aziendali; coopera con il Garante per la protezione dei dati personali e funge da 
+punto di contatto per questioni connesse al trattamento dei dati personali; notifica all’Autorità 
+le violazioni di dati personali. 
+•  I Responsabili dei processi di trattamento dei dati personali presidiano il trattamento dei dati 
+personali verificando che siano correttamente applicate le linee guida definite nella politica; nel 
+caso di trattamenti che possano presentare un rischio elevato per gli interessati, effettuano 
+la valutazione d’impatto sulla protezione dei dati, consultandosi con il DPO e individuando le 
+misure di sicurezza necessarie.
+ 
+Sia Reale Mutua che Italiana Assicurazioni hanno a catalogo un prodotto dedicato alla copertura 
+dei rischi Cyber rivolto alle PMI.
+I prodotti sono: 
+•  Per RMA: Cyber Risk Reale
+•  Per ITA: Firewall
+Entrambi  i  prodotti  comprendono  una  copertura  dai  danni  che  vengono  causati  a  terzi 
+(Responsabilità  Civile),  una  parte  di  assistenza  che  interviene  per  ripristinare  rapidamente 
+l’attività aziendale e recuperare i dati (attraverso l’intervento di tecnici specializzati) e un servizio di 
+prevenzione e valutazione del livello di protezione aziendale atto ad aumentare la consapevolezza 
+e il livello di tutela del nostro assicurato.
+Nel 2020 è previsto un importante restyling del prodotto che amplierà le garanzie.
+Come richiesto dal D.Lgs 254/16, per ogni tema materiale, vengono esplicitati i rischi e le azioni messe in 
+atto per mitigarli e l’eventuale presenza di rischio reputazionale. Le frecce, nell’ultima colonna, indicano 
+la variazione rispetto al 2018.
+Descrizione del rischio  Modalità di presidio  Rischio Per gli owner, è  Valutazione
+identificato dalla funzione  identificata dalla funzione  identificato  identificabile del rischio
+responsabile responsabile/owner dall’owner un rischio  identificato dagli 
+reputazionale? owne
+Accesso e/o un utilizzo non  Adozione di misure di sicu-
+controllato o non auto- rezza proporzionate al risk 
+Medio  SI
+rizzato e di divulgazione  appetite di natura organiz-
+(requisito di riservatezza). zativa, cioè controllo fisico 
+degli accessi, formazione, 
+credenziali di accesso ai 
+sistemi, ecc.
+Alterazione o cancellazio- Utilizzo di misure di natura 
+ne non controllata o non  tecnologica, come il con- fg
+Medio SI
+autorizzata, di ripudio, di  trollo delle configurazioni, 
+violazione dell’autentici- layered defenses e gestione 
+tà del dato (requisito di  degli incidenti di sicurezza.
+integrità).
+100 DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019

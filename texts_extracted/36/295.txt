@@ -1,0 +1,59 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+Service continuity index 
+(min) 793 833 1,085 -40 -4.8 Brazil
+Brazil (Ampla)
+Service continuity index 
+(min) 832 522 515 310 59.4 Brazil
+Brazil (Coelce)
+Service continuity index 
+(min) 1,349 1,538 1,861 -189 -12.3 Brazil
+Brazil (CELG)
+Service continuity index 
+(min) 375 429 - -54 -12.6 Brazil
+Brazil (ELPL)
+Service continuity index 
+(min) 667 710 820 -43 -6.1 Colombia
+Brazil Colombia
+EU12 Grid losses (3)
+Grid losses Italy (%) 4.7 4.7 4.8 - - Italy
+Grid losses Romania (%) 9.7 9.8 11.0 -0.1 - Romania
+Grid losses Iberia  (%) 7.5 7.5 8.1 - - Iberia
+Grid losses Peru (%) 8.2 7.9 8.2 0.3 - Peru
+Grid losses Chile (%) 5.0 5.0 5.1 - - Chile
+Grid losses Argentina (%) 15.5 14.9 12.0 0.6 - Argentina
+Grid losses Brazil (Ampla) (%) 22.5 21.0 20.4 1.5 - Brazil
+Grid losses Brazil (Coelce) (%) 14.0 13.9 13.6 0.1 - Brazil
+Grid losses Brazil (CELG) (%) 12.3 11.6 11.7 0.7 - Brazil
+Grid losses Brazil (ELPL) (%) 9.6 9.5 - 0.1 - Brazil
+Grid losses Colombia (%) 7.7 7.7 7.8 - - Colombia
+SERVICE QUALITY
+ELECTRICITY MARKET 
+ITALY
+102-43. 
+Customer satisfaction 
+102-44
+Regulated market
+Customer Satisfaction 
+(i) 92.4 92.4 92.3 - - Italy
+Index (4) 
+Frequency of surveys (no.) 1 1 2 - - Italy
+Written complaints and 
+(,000) 109.4 108.5 119.8 0.9 0.8 Italy
+information requests
+Response time to written 
+(dd) 31.1 20.9 17.0 10.2 48.8 Italy
+complaints 
+Free market
+Customer Satisfaction 
+(i) 90.2 90.2 91.3 - - Italy
+Index (4)
+Frequency of surveys (no.) 1 1 2 - - Italy
+Written complaints and 
+(,000) 92.3 70.2 69.7 22.1 31.5 Italy
+information requests
+Response time to written 
+(dd) 31.3 14.3 11.2 17.0 - Italy
+complaints 
+294 Sustainability Report 2019

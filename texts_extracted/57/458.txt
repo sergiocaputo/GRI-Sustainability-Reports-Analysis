@@ -1,0 +1,51 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+  banche popolari1, che, come detto, ha ritardato il processo di Trasformazione in SpA, si darà seguito alle attività 
+volte al rafforzamento patrimoniale della Capogruppo, funzionale, da una parte, al consolidamento dei ratios di 
+Vigilanza, e, dall’altra, al conseguimento degli obiettivi patrimoniali ed economici pluriennali, ritenendo realistico 
+ipotizzare il completamento della Trasformazione in SpA entro l’anno 2018;
+•  gli effetti delle ulteriori dismissioni di crediti NPLs, in regime di applicazione del principio contabile IFRS9;
+•  quanto ai costi operativi, il trend di efﬁcientamento avviato nel corso del 2017 sia sul fronte del costo del perso-
+nale che delle altre spese amministrative;
+•  come illustrato di seguito, gli effetti aggiuntivi relativi alla diminuzione del costo dalla raccolta di 10 bps nel 2019 
+e alla crescita della raccolta indiretta di euro 150 milioni annui negli esercizi 2019-2022 (componenti di c.d. “ex-
+tra-performance”).
+Le ipotesi relative alle principali dinamiche a livello di Gruppo per gli anni residui di previsione (2018-2022) prevedo-
+no, inoltre:
+•  una crescita media degli impieghi del 3,1% annuo, trainati sia dalla crescita dei ﬁnanziamenti a breve che, soprat-
+tutto, da quelli a medio/lungo termine, focalizzando il target verso i settori economici meno rischiosi e comunque 
+a minor assorbimento patrimoniale, con tassi e condizioni allineati al contesto di forte pressione competitiva che 
+il sistema bancario ha vissuto negli ultimi mesi;
+•  una variazione media annua della raccolta diretta pari a +0,7%, concentrata sia sulla raccolta a vista sia sulla 
+raccolta a scadenza tramite speciﬁche campagne commerciali, anche facendo leva su nuovi target di clientela e 
+sfruttando il sempre maggiore contributo del canale online e del contact center;
+•  che il margine di interesse si attesti in crescita mediamente dell’8,1% annuo. Tale andamento è fortemente cor-
+relato alle dinamiche dei tassi ed in misura inferiore a quello delle masse;
+•  l’evoluzione delle commissioni nette con una crescita media annua del 2,5%, legata sia alla performance prevista 
+sui ricavi tradizionali sia alla messa a terra delle progettualità strategiche (e.g. wealth management e nuova of-
+ferta corporate); 
+•  una crescita media annua della raccolta indiretta del 6,6%, trainata dalla componente del gestito e dell’assicura-
+tivo previsti in forte rilancio;
+•  una dinamica dei costi operativi in riduzione mediamente del 2,0% circa annuo, in virtù anche delle manovre sul 
+personale;
+•  le rettiﬁche di valore su crediti in ﬂessione, convergendo gradualmente verso un costo del credito ﬁsiologico di 
+circa 60 bps, livello questo sostenibile e compatibile con le operazioni di gestione degli NPLs e del credito più in 
+senso lato messe in atto dal Gruppo.
+Il tasso considerato per l’attualizzazione dei ﬂussi ﬁnanziari è il “Ke” (Cost of Equity), stimato all’8,9% (nella preceden-
+te stima sui valori di dicembre 2016, tale tasso era pari all’8,2%). 
+In continuità con i precedenti test di impairment, il tasso di attualizzazione è stato stimato attraverso il “Capital 
+Asset Pricing Model (“CAPM”), in base al quale il rendimento di una attività rischiosa deve essere pari alla somma 
+del tasso privo di rischio e di un premio per il rischio, in funzione della rischiosità speciﬁca dell’attività secondo la 
+seguente formula: Ke = i + (cid:533) * MRP.
+In dettaglio, il Cost of Equity (come detto pari all’8,9%, contro l’8,2% del precedente esercizio) è stato determinato 
+sulla base dei seguenti parametri:
+•  tasso privo di rischio (i) pari al 2,1% (a dicembre 2016 era pari all’1,5%), corrispondente al rendimento medio an-
+nuo, al 31 dicembre 2017, dei Buoni del Tesoro decennali emessi dallo Stato italiano;
+•  coefﬁciente Beta ((cid:533)) pari all’1,21% (in linea rispetto a dicembre 2016), stimato sulla base di un campione di ban-
+che italiane quotate comparabili;
+•  premio per il rischio (MRP) pari al 5,6% (in linea con il dato di dicembre 2016), coerentemente con la prassi valu-
+1  Come precisato in precedenza (cfr. parte A, Sezione 2, “Continuità aziendale”) e nella Relazione sulla Gestione del Bilancio Individuale, è di fatto 
+venuta meno l’incertezza legata alla sospensione dell’iter di trasformazione della Banca in SpA - protrattasi da ﬁne dicembre 2016 -, alla luce del 
+pronunciamento della Corte Costituzionale dello scorso 21 marzo 2018, che ha sancito l’infondatezza delle questioni di incostituzionalità sollevate dal 
+Consiglio di Stato su quanto previsto dalla Riforma delle Banche Popolari (D.L. 3/2015) in merito alla limitazione del diritto di recesso. A seguito del 
+pronunciamento della Corte, BP Bari ha riavviato, pertanto, il percorso di Trasformazione in SpA, da completarsi presumibilmente entro l’anno 2018.  
+458

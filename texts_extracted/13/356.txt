@@ -1,0 +1,37 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Rischi di Credito e Controparte
+Il rischio di credito rappresenta la possibilità che si verifichi, durante la vita 
+di uno strumento finanziario, collegato al prodotto assicurativo, un evento, 
+che modifichi la capacità di rimborso (il cosiddetto merito creditizio) di 
+una controparte (emittente) facendo così variare il valore della posizione 
+creditizia stessa. Il rischio di credito può essere suddiviso in due componenti: 
+il rischio di insolvenza e il rischio di migrazione. Il primo riguarda la possibilità 
+di non incassare totalmente un certo numero di pagamenti futuri, come 
+conseguenza, appunto, dell’insolvenza del debitore; il secondo riguarda 
+il rischio di riduzione del valore del titolo conseguente al deterioramento 
+del merito creditizio del debitore stesso. Il rischio di controparte deriva 
+principalmente dall’attività in derivati tipica di alcuni prodotti vita di ramo 
+terzo. In particolare, allorché la controparte dell’operazione OTC incorra 
+in un deterioramento della propria solidità patrimoniale che comporti 
+eventualmente il default, potrebbe non adempiere agli obblighi derivanti 
+dalla negoziazione di tale strumento. Tale rischio risulta monitorato tramite 
+l’adempimento alla normativa europea EMIR (European Market Infrastructure 
+Regulation). Il rischio di credito può emergere principalmente dal rischio 
+emittente a seguito del default dei titoli in portafoglio. Si segnala che 
+il portafoglio titoli per le due compagnie italiane è caratterizzato dalla 
+prevalenza di investimenti in titoli di stato domestici rispetto ad altri emittenti 
+comportando di fatto una esposizione al rischio di default non rilevante
+Portafoglio titoli Mediolanum Vita S.p.A.
+Rating Composition (S&P Equivalent)
+Dati puntuali (31/12/2018 vs 31/12/2017)
+Euro/migliaia 31/12/2018 31/12/2017
+Val. % Val. % Var. %
+Totale Portafoglio 1.625.482 100,0% 1.431.158 100,0% 13,6%
+AAA - - - - -
+da AA+ a AA- - - - - -
+da A+ a A- - - 4.709 0,3% n.a
+da BBB+ a BBB- 1.554.895 95,7% 1.370.444 95,8% 13,5%
+BB+ o inferiore 64.944 4,0% 51.878 3,6% 25,2%
+Senza Rating 5.643 0,3% 4.127 0,3% 36,7%
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 357

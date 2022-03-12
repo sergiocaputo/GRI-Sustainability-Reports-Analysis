@@ -1,0 +1,43 @@
+5.
+Sostenibili per scelta
+Le emissioni in  vengono esposti in tabella le  zazione e  per i veicoli azien-
+emissioni dirette e indirette ge- dali;
+atmosfera 
+nerate: 	
+ le emissioni indirette (Scope 
+	
+ le  emissioni  dirette (Scope  2), come le emissioni deri-
+Al fine di determinare gli impatti  1),  derivanti  dall’utilizzo  di  vanti da utilizzo di energia 
+ambientali del Gruppo Vittoria,  combustibili per la climatiz- elettrica acquistata.
+ Emissioni dirette e indirette in atmosfera
+Ton CO2 Ton CH4 Ton N2O Ton CO2 eq
+2019 2018 2019 2018 2019 2018 2019 2018
+Emissioni dirette (Scope 1) 258  250 21 12 5 6 2.099  2.021
+Emissioni indirette (Scope 2) -         1.033  1.113 0,059 0,063 0,013 0,014 1.038 1.119
+location based
+Emissioni indirette (Scope 2) -             1.592     1.665 0 - 0 - 0 -
+Market based
+Per il “Location-based”, il coefficiente di emissione utilizzato per l’Italia è pari a 316 gCO2/kWh. 
+Fonte: Guida ABI_LAB.
+Per il “Market-based”, coefficiente di emissione utilizzato per l’Italia è pari a 487 gCO2/kWh, 
+Fonte: Association of Issuing Bodies, European Residual Mixes 2019.
+I dati 2018 relativi allo Scope 1 sono stati riesposti per un affinamento della medologia di calcolo
+Per il calcolo delle emissioni in- energia elettrica; cio è stato utilizzato il fattore 
+dirette, lo standard di rendicon- 	 di emissione relativo al "resi-
+ il  “Market-based”,  invece, 
+tazione utilizzato (GRI Sustai- dual mix" nazionale. 
+si  basa  sull’utilizzo  di  un 
+nability  Reporting  Standards 
+fattore di emissione definito  La tabella evidenzia i consu-
+2016) prevede due diversi ap-
+su base contrattuale con il  mi del Gruppo Vittoria, anche 
+procci di calcolo: 
+fornitore di energia elettrica.  prendendo in considerazione le  
+	
+ il “Location-based”, riporta- Vista  l’assenza  di  specifi- emissioni dei principali gas cli-
+to in tabella, prevede l’utiliz- ci accordi contrattuali tra il  malteranti definiti dal  Protocol-
+zo di un fattore di emissione  Gruppo Vittoria ed il forni- lo  di Kyoto, i quali provocano 
+medio nazionale relativo allo  tore di energia elettrica (ad  effetti di surriscaldamento glo-
+specifico mix energetico na- es. acquisto di Garanzie di  bale e consentono il calcolo in 
+zionale per la produzione di  Origine), per questo approc- termini di CO2 equivalenti.  
+106

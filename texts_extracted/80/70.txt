@@ -1,0 +1,54 @@
+71
+Tabella di corrispondenza Standard GRI 
+Numero  Note/
+GRI Standard Disclosure Descrizione
+di pagina Omissioni 
+Environmental topics 
+(GRI 300)
+Energia consumata all’interno 
+302-1 63
+GRI 302  dell’organizzazione
+Energia
+302-3 Intensità energetica 63
+Emissioni dirette di gas effetto 
+305-1 64, 65
+serra (Scope I)
+Emissioni indirette di gas 
+305-2 64, 65
+a effetto serra per peso (scope II)
+Altre emissioni indirette di gas 
+305-3 64, 65
+a effetto serra (scope III)
+GRI 305 
+305-4 Intensità carbonica 64, 65
+Emissioni
+Non sono 
+state 
+riportate le 
+NOx, SOx e altre emissioni  emissioni 
+305-7 significative nell’aria suddivise  di SOx in 
+per tipologia e peso quanto non 
+sono  riten-
+ute signifi-
+cative
+Nuovi fornitori che sono stati 
+GRI 308 Valutazione 
+308-1 selezionati usando criteri  15, 16
+ambientale dei fornitori
+ambientali
+Social topics (GRI 400)
+401-1 Nuovi impiegati assunti e turnover 37 - 43
+GRI 401 
+Occupazione
+Tasso di rientro dopo congedo 
+401-3 48
+parentale suddiviso per genere
+Tipologia di infortuni 
+GRI 403 
+e tasso di infortuni sul lavoro, 
+Salute e sicurezza dei 
+403-2 di malattia, giornate di lavoro  67 - 69
+lavoratori 
+perse, assenteismo e numero 
+totale di decessi
+Italgas DIchIarazIone non FInanzIarIa consolIData 2017 Italgas DIchIarazIone non FInanzIarIa consolIData 2017

@@ -1,0 +1,49 @@
+ 
+P 
+ 
+ 
+Emissioni totali di Gruppo - anno 201724 
+   ton CO2  ton CH4  ton N2O  ton CO2eq 
+ 
+Emissioni dirette (Scope 1)  3.079  0,157  0,0645  3.100,3 
+Emissioni indirette (Scope 2)    -  -  -  - 
+Emissioni totali  3.079  0.157  0.0645  3.100,3 
+ 
+Emissioni totali di Gruppo - anno 201624 
+   ton CO2  ton CH4  ton N2O  ton CO2eq 
+Emissioni dirette (Scope 1)  2.955   0,153  0,0628  2.975,6 
+Emissioni indirette (Scope 2)   1.885   0,095  0,0256  1.895 
+Emissioni totali  4.840,1  0,248  0,088  4.870,4 
+ 
+L'utilizzo dei gas HCFC, nell'ambito delle attività svolte dal Gruppo, è da considerarsi marginale 
+pertanto non è stato sviluppato un sistema di specifica rendicontazione.  
+Il  rispetto  delle  prescrizioni  normative  è  garantito,  da  una  corretta  gestione  inerente  la 
+manutenzione degli impianti, da parte delle imprese di manutenzione sottoposte a specifiche 
+procedure normative. 
+Nell’ambito delle attività svolte dal Gruppo gli indicatori ‘contaminanti atmosferici’ non sono 
+considerati rilevanti, ma l’Azienda ha deciso di calcolarli al fine di avere un confronto futuro con 
+le altre tipologie di emissioni rendicontate. 
+La presente tabella evidenzia i contaminanti atmosferici emessi dal Gruppo nel corso del 2018. 
+      Totale Gruppo 
+   UdM  2018  2017  2016 
+   
+Emissioni di NOx e SO2 per riscaldamento23 
+   
+Kg NOx emessi da gas naturale   Kg  1087  1179   1091 
+Kg SO2 emessi da gas naturale  Kg  11  12  11 
+Kg NOx emessi da gasolio  Kg  366  380  398,2 
+Kg SO2 emessi da gasolio  Kg  343  356  373,3 
+ 
+Emissioni di NOx e SO2 per energia elettrica acquistata non 
+n.d.  n.d.  n.d.  n.d. 
+rinnovabile * 
+*Non sono presenti emissioni poiché tutta l’energia elettrica acquistata proviene da fonte rinnovabile 
+ 
+Emissioni di NOx e SO2 per flotta auto**  n.d.  n.d.  n.d.  n.d. 
+**valore non rilevabile per mancanza di dati dettagliati rispetto a banca dati dei fattori di emissioni del trasposto stradale in Italia del 
+sistema SINAnet – Rete del Sistema Informativo Nazionale Ambientale – ISPRA 
+                                                           
+23 I dati relativi al 2017 inerenti le emissioni di NOx, della presente dichiarazione, risultano differenti al valore indicato nella 
+precedente dichiarazione non finanziaria in relazione alla variazione del fattore di conversione (cfr. nota 23).  
+91 
+ 

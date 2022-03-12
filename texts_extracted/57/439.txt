@@ -1,0 +1,47 @@
+Bilancio Consolidato 2017
+Il “comparable approach” si traduce nella ricerca di transazioni presenti su mercati attivi, relative a strumenti che 
+sono assimilabili allo strumento oggetto di valutazione. Le tecniche di valutazione impiegate nel “mark-to-model 
+approach” sono quelle comunemente accettate e utilizzate come “best practice” di mercato.
+Sono deﬁniti input di livello 2:
+•  i prezzi quotati su mercati attivi di passività similari;
+•  i prezzi quotati per lo strumento in analisi o per strumenti simili su mercati non attivi (vale a dire mercati in cui ci 
+sono poche transazioni, i prezzi non sono correnti o variano in modo sostanziale nel tempo e tra i diversi market 
+maker o poca informazione è resa pubblica);
+•  input di mercato osservabili diversi da prezzi quotati (a esempio: tassi di interesse o curve di rendimento, volati-
+lità, curve di credito, etc.);
+•  input corroborati da dati di mercato (ovvero derivanti da dati osservabili di mercato o corroborati attraverso 
+analisi di correlazione).
+In tal caso il dato di input è rilevato da prezzi quotati mediante opportune tecniche numeriche.
+Con riferimento al portafoglio di strumenti ﬁnanziari alla data del presente bilancio, rientrano nel livello 2 i derivati 
+ﬁnanziari OTC (Over the counter), i titoli di capitale privi di quotazioni ufﬁciali espresse da un mercato attivo e gli 
+strumenti ﬁnanziari del passivo valutati al Fair value.
+Derivati ﬁnanziari OTC (Over the counter)
+I derivati di tasso, cambio, azionari, su inﬂazione e su commodity, laddove non scambiati su mercati regolamentati, 
+sono strumenti “Over The Counter” (OTC), ovvero negoziati bilateralmente con controparti di mercato. La loro valu-
+tazione è effettuata mediante appositi modelli di pricing, ove presenti, alimentati da parametri di input (quali curve 
+tassi, matrici di volatilità, tassi di cambio) che sono osservabili sul mercato, ancorché non quotati su mercati attivi.
+Inoltre, per pervenire alla determinazione del Fair value, si considera anche il rischio di inadempimento. In partico-
+lare, il “Fair Value Adjustment” (FVA) è deﬁnito come quella quantità che deve essere aggiunta al prezzo osservato 
+sul mercato piuttosto che al prezzo teorico generato dal modello valutativo al ﬁne di ottenere il Fair value della po-
+sizione. Nella determinazione del Fair value, tuttavia, si tiene conto anche di appositi strumenti di attenuazione del 
+rischio di credito, quali eventuali contratti di collateralizzazione stipulati con controparti di elevato standing, che, di 
+fatto, possono ridurre signiﬁcativamente, se non azzerare, l’esposizione a tale rischio.
+La metodologia utilizzata nel valutare tali contratti è la seguente:
+i.  strumenti non opzionali (interest rate swap, forward rate agreement, overnight interest swap, domestic currency 
+swap, ecc.): le tecniche valutative sono appartenenti alla famiglia dei “discount cash ﬂow models” nella quale i 
+ﬂussi di cassa certi o tendenziali sono attualizzati. Nei casi in cui i derivati OTC lineari o quasi lineari incorporino 
+componenti opzionali, queste ultime sono valutate con le medesime metodologie adottate per le opzioni;
+ii.  strumenti opzionali: le tecniche valutative si basano su metodologie quali simulazione Monte Carlo, Modello di 
+Fischer Black, Modello di Black Scholes e Alberi Binomiali.
+Titoli di debito e/o di capitale iscritti nell’attivo S.P. privi di quotazioni ufﬁciali espresse da un mercato attivo
+Relativamente ai titoli di debito acquistati, valutati in assenza di un mercato attivo, il Gruppo veriﬁca inizialmente:
+•  la presenza di un mercato inattivo per lo strumento ﬁnanziario. In questo caso la valutazione dello strumento 
+ﬁnanziario si basa su prezzi rivenienti da un mercato inattivo purché siano considerati rappresentativi del Fair 
+value;
+•  la presenza di un mercato attivo per uno strumento con caratteristiche similari. In questo caso, la valutazione 
+dello strumento ﬁnanziario si basa su prezzi desumibili dalle quotazioni di mercato di attività simili (cd. “com-
+parable approach”). Il “comparable approach” si traduce nella ricerca di transazioni presenti su mercati attivi 
+relative a strumenti che sono assimilabili a quello oggetto di valutazione.
+Nel caso in cui non sia possibile applicare i metodi precedentemente descritti, il Gruppo adotta, caso per caso, mo-
+delli valutativi tali da massimizzare il più possibile l’utilizzo di input osservabili sul mercato.
+439

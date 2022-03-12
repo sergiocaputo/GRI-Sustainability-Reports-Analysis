@@ -1,0 +1,35 @@
+Prysmian Group    Consolidated Non-Financial Information Statement 2019 129
+With regard to energy intensity in comparison to 2019 production volumes, the following table shows the values 
+for individual Product Lines:
+Prysmian Group (2019)
+Power Cables Telecom Cables Optical ﬁ bre  Wire rod
+Energy consumed per Km/Ton of product
+GJ / Ton GJ / Km GJ / Km GJ / Ton
+3.46 0.02 0.04 2.05
+GREENHOUSE GAS EMISSIONS
+Greenhouse gas emissions, measured in tonnes of CO equivalent, were calculated using the methodologies 
+2
+indicated in “The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition, 
+2004)” considering, for the Scope 1 GHG emissions (direct greenhouse gas emissions), the consumption of fuels, 
+the release of overflow refrigerant gas and the release of SF  and, for the Scope 2 GHG emissions (indirect emis-
+6
+sions of greenhouse gases), the consumption of purchased energy (mainly electricity).
+The Prysmian Group is a multinational and diversified concern; for this reason, and consistent with the requi-
+rements of the reporting standard, two main methods for accounting for emissions in Scope 2 are used: the 
+Location-based method and the Market-based method. Both methods, described below, are recognised and re-
+quired by the GHG Protocol and are necessary for the reporting of Scope 2 emissions in the “CDP’s Climate Change 
+programme” starting in 2016. 
+Location-based Market-based
+This is a method for  It is a method to quantify the CO emissions of Scope 2 based on the CO 
+2 2
+quantifying Scope 2  emissions emitted by the energy suppliers from which the reporter (company 
+CO emissions based on  that compiles the report) purchases, through a contract, an electricity 
+2
+average emission factors  package. Markets differ on the contracts available for the purchase of energy 
+for energy generation by  or on the claim of specific attributes, but may include: guarantee certificates 
+well-defined geographical  of energy origin and direct contracts with suppliers (RECs, GOs, I-REC, etc.); 
+boundaries, including  supplier-specific emission factors; default emission factors that represent 
+local, sub-national or  uncontrolled or unclaimed energy and emissions (defined as “residual mix”); 
+national boundaries. regional or sub-national medium or national emission factors. 
+PRYSMIAN GROUP, LINKING THE FUTURE LEADING INNOVATION GOVERNANCE AND RISK MANAGEMENT
+SUSTAINABILITY IN OUR DNA A PUBLIC COMPANY OUR COMMITMENT

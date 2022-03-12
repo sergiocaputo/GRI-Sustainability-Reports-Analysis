@@ -1,0 +1,35 @@
+ 
+Reconciliation between equity and profit of Salini Impregilo S.p.A. with consolidated equity and consolidated 
+loss 
+The following table shows the reconciliation of equity and profit of the parent with the corresponding consolidated 
+items: 
+ 
+       
+€’000    Equity   Profit (loss) for the 
+year  
+Equity and profit for the year of Salini Impregilo S.p.A.    1,492,767   70,960 
+Elimination of consolidated investments    (786,430)   35,817 
+Elimination of the provision for risks on equity investments    29,334   230 
+Equity and profit or loss of consolidated companies    636,094   (135,649) 
+Other consolidation entries       
+Elimination of dividends from consolidated entities    -   13,869 
+Other consolidation entries    (583)   (502) 
+Purchase price allocation    2,554   (95) 
+Unrealised net exchange losses    (497)   (6,758) 
+Tax effects    3,489   15 
+Elimination of national tax consolidation system effects    18,667   (15) 
+Equity and loss for the year attributable to the owners of the parent    1,395,395   (22,128) 
+Equity and profit for the year attributable to non-controlling interests    108,750   7,983 
+Consolidated equity and loss for the year    1,504,145   (14,145) 
+        
+23. Bank and other loans, current portion of bank loans and current account facilities 
+Bank and other loans and borrowings decreased by €134.4 million over 31 December 2018 to €982.9 million 
+at year end, as summarised below:  
+(€’000)  31 December 2018  31 December 2019  Variation 
+Non-current portion       
+ - Bank and other loans and borrowings  617,895  751,256  133,361 
+Current portion       
+ - Current account facilities and other loans  499,362  231,640  (267,722) 
+Total  1,117,257  982,896  (134,361) 
+   
+   315 

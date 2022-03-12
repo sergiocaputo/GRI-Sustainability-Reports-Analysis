@@ -1,0 +1,39 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Sezione 2 - Passività finanziarie di negoziazione - Voce 20
+2.1 Passività finanziarie di negoziazione: composizione merceologica
+Euro/migliaia 31/12/2018 31/12/2017
+Fair Value Fair Value
+Fair  Fair 
+VN L1 L2 L3 VN L1 L2 L3
+Value* Value*
+A. Passività per cassa
+1. Debiti verso banche 169.500 180.120 - - 180.120 69.600 73.551 - - 73.551
+2. Debiti verso clientela  - - - - - 19.930 21.793 - - 21.793
+3. Titoli di debito - - - - X - - - - X
+3.1 Obbligazioni  - - - - X - - - - X
+3.1.1 Strutturate  - - - - X - - - - X
+3.1.2 Altre obbligazioni  - - - - X - - - - X
+3.2 Altri titoli - - - - X - - - - X
+3.2.1 Strutturati  - - - - X - - - - X
+3.2.2 Altri - - - - X - - - - X
+TOTALE (A) 169.500 180.120 - - 180.120 89.530 95.344 - - 95.344
+B. Strumenti derivati
+1. Derivati finanziari X - 67.086 - X X - 75.889 - X
+1.1 Di negoziazione X - 67.086 - X X - 75.889 - X
+1.2 Connessi con la fair value option X - - - X X - - - X
+1.3 Altri X - - - X X - - - X
+2. Derivati creditizi X - - - X X - - - X
+2.1 Di negoziazione X - - - X X - - - X
+2.2 Connessi con la fair value option X - - - X X - - - X
+2.3 Altri X - - - X X - - - X
+TOTALE (B) X - 67.086 - X X - 75.889 - X
+TOTALE (A+B) X 180.120 67.086 - X X 95.344 75.889 - X
+Legenda: 
+  VN = valore nominale o nozionale 
+L1 = Livello 1 
+L2 = Livello 2 
+L3 = Livello 3
+Fair value*= Fair value calcolato escludendo le variazioni di valore dovute
+al cambiamento del merito creditizio dell’emittente rispetto alla data di emissione
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 555

@@ -1,0 +1,89 @@
+GRI Content Index 102-55
+Page number(s) and/ Global 
+GRI Standards Disclosure Omissions SDG's* SASB**
+or URL(s) Compact
+WATER
+GRI 103: 
+Explanation of the material 
+Management  103-1 page 128; page 215
+topic and its Boundary
+Approach 2016
+The management approach 
+103-2 pages 130-131; page 215
+and its components
+Evaluation of the 
+103-3 pages 40-41; page 135
+management approach
+GRI 303:  page 129; page 135;  Principle 
+303-1 Water withdrawal by source 6
+Water 2016 page 193 7, 8
+Water sources significantly  page 129; page 135;  Principle 
+303-2 6
+affected by withdrawal of water page 193 7, 8
+The topic is not significant 
+for the banking sector and 
+the Group. In the properties 
+managed by the Group, 
+Principle 
+303-3 Water recycled and reused water consumption is mainly  6
+7, 8
+attributable to sanitary 
+purposes and there are no 
+significant cases of recycling 
+and reuse of water.
+EMISSIONS
+GRI 103:  Explanation of the material 
+103-1 page 128; page 215
+Management  topic and its Boundary
+Approach 2016
+12, 
+The management approach  13, 
+103-2 pages 130-132; page 215
+and its components 14, 
+15
+Evaluation of the  pages 40-41; pages 
+103-3
+management approach 130-132
+GRI 305:  3, 11, 
+Emissions 2016 page 129; page 131;  12, 
+Direct (Scope1)   Principle 
+305-1 page 191;  13, 
+GHG emissions 7, 8
+Emission Factors [i] 14, 
+15
+3, 11, 
+page 129; page 131;  12, 
+Energy indirect (Scope2)  Principle 
+305-2 page 191;  13, 
+GHG emissions 7, 8
+Emission Factors [i] 14, 
+15
+3, 11, 
+12, 
+Other indirect (Scope3)  page 129; page 191;  Principle 
+305-3 13, 
+GHG emissions Emission Factors [i]  7, 8
+14, 
+15
+13, 
+Principle 
+305-4 GHG emissions intensity page 129; page 191 14, 
+8
+15
+Reduction of GHG  Principle  13, 
+305-5 pages 131-132
+emissions 8, 9 14
+page 191; The topic is not 
+significant for the 
+banking sector and for 
+the Group. There are no 
+Emissions of ozone- Principle  3, 11, 
+305-6 significant use,  within the 
+depleting substances (ODS) 7, 8 13
+Group, of ozone-depleting 
+substance related to air 
+conditioning. Emission 
+Factors [i]
+* Sustainable Development Goals of the United Nations.
+** Sustainability Accounting Standards Board.
+204

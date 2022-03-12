@@ -1,0 +1,49 @@
+Bilancio Individuale 2017
+(cid:20)(cid:17)(cid:3)(cid:39)(cid:76)(cid:86)(cid:87)(cid:85)(cid:76)(cid:69)(cid:88)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:87)(cid:72)(cid:80)(cid:83)(cid:82)(cid:85)(cid:68)(cid:79)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:71)(cid:88)(cid:85)(cid:68)(cid:87)(cid:68)(cid:3)(cid:85)(cid:72)(cid:86)(cid:76)(cid:71)(cid:88)(cid:68)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:68)(cid:87)(cid:87)(cid:88)(cid:68)(cid:79)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:72)(cid:3)(cid:83)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)
+Voci/ Scaglioni temporali  A vista  Dg7ai  ogorilnotrrone a i1    D1ga5i o ogrlintorire na 7i    1aD 51a   gmoiolterrsneei    Dma3e  somelt efrsieni  o1    Dmaa e6 os iml tfreiens oi3    Dmaa e1 os ail tnfrinen oo6    Daana  n5o olat nfrienn io1    Oaltnrnei  5  IndeDtuerrmatian ata 
+Attività per cassa  5.346  -  480  1.026  2.431  1.570  986  1.022  25.219  - 
+A.1  Titoli di Stato  -  -  -  -  -  782  782  -  25.015  - 
+A.2 Altri titoli di debito  -  -  -  -  -  -  -  -  -  - 
+A.3 Quote OICR  -  -  -  -  -  -  -  -  -  - 
+A.4 Finanziamenti  5.346  -  480  1.026  2.431  788  204  1.022  204  - 
+- Banche  3.385  -  -  92  -  -  -  -  -  - 
+- Clientela  1.961  -  480  934  2.431  788  204  1.022  204  - 
+Passività per cassa  9.011  -  -  25.384  -  -  -  -  -  - 
+B.1 Depositi e conti correnti  8.678  -  -  -  -  -  -  -  -  - 
+- Banche  143  -  -  -  -  -  -  -  -  - 
+- Clientela  8.535  -  -  -  -  -  -  -  -  - 
+B.2  Titoli di debito  -  -  -  -  -  -  -  -  -  - 
+B.3  Altre passività  333  -  -  25.384  -  -  -  -  -  - 
+Operazioni "fuori bilancio" 
+                   
+C.1 Derivati finanziari con scambio di capitale 
+                   
+- Posizioni lunghe  -  12.661  432  797  1.021  208  -  -  -  - 
+- Posizioni corte  -  17.211  4.662  797  1.021  208  -  -  -  - 
+C.2 Derivati finanziari senza scambio di capitale 
+                   
+- Posizioni lunghe  -  -  -  -  -  -  -  -  -  - 
+- Posizioni corte  -  -  -  -  -  -  -  -  -  - 
+C.3 Depositi e finanziamenti da ricevere 
+                   
+- Posizioni lunghe  -  -  -  -  -  -  -  -  -  - 
+- Posizioni corte  -  -  -  -  -  -  -  -  -  - 
+C.4 Impegni irrevocabili a erogare fondi 
+                   
+- Posizioni lunghe  -  176  -  -  -  -  -  -  -  - 
+- Posizioni corte  -  176  -  -  -  -  -  -  -  - 
+C.5 Garanzie finanziarie rilasciate  -  -  -  -  -  -  -  -  -  - 
+C.6 Garanzie finanziarie ricevute  -  -  -  -  -  -  -  -  -  - 
+C.7 Derivati creditizi con scambio di capitale 
+                   
+- Posizioni lunghe  -  -  -  -  -  -  -  -  -  - 
+- Posizioni corte  -  -  -  -  -  -  -  -  -  - 
+C.8 Derivati creditizi senza scambio di capitale 
+                   
+- Posizioni lunghe  -  -  -  -  -  -  -  -  -  - 
+- Posizioni corte  -  -  -  -  -  -  -  -  -  - 
+(cid:3)
+Legenda:
+VB = valore di bilancio
+FV = fair value
+253

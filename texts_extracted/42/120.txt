@@ -1,0 +1,53 @@
+06_SUPPLEMENTAL INFORMATION_FACTS & FIGURES
+    
+DIRECT AND INDIRECT ENERGY CONSUMPTION PER UNIT OF PRODUCTION
+FCA worldwide
+Target   2010
+2020 vs 2010  2018 2017 2016 (base year)  Unit of Measurement
+Mass-market vehicle assembly and stamping -30% 6.09 5.60 5.95 7.36 GJ/vehicle produced
+Mass-market vehicle engines and transmissions n.a. 0.84 0.81 0.83 0.90 GJ/unit produced
+Mass-market vehicle casting -40% 7.60 7.46 7.61 10.92 GJ/unit produced
+Mass-market vehicle others -40% 0.46 0.18 0.19 0.34 GJ/hour of production
+Maserati -25% 25.76 20.80 23.15 28.53 GJ/vehicle produced
+Teksid (cast iron) -0% 9.64 9.70 9.90 9.68 GJ/ton produced
+Teksid (aluminum) -15% 35.86 35.02 37.73 49.57 GJ/ton produced
+Comau -30% 17.75 18.89 17.00 27.76 MJ/hour of production
+Plastic Components -21% 0.20 0.20 0.20 0.23 GJ/hour of production
+FCA up to 40%
+Mass-market vehicle others refers to NAFTA region plants.
+PRODUCTION    
+CO  Emissions
+2
+DIRECT AND INDIRECT CO EMISSIONS
+2
+FCA worldwide (tons)
+2018 FCA Mass-Market Vehicles Maserati Other Activities
+  Assembly and  Engines and Plastic  
+Stamping Transmissions Casting Others Teksid ComauComponents
+Direct emissions 1,129,268 820,675 73,907 42,203 18,136 15,839 144,784 6,172 7,551
+Indirect emissions 2,470,137 1,406,267 686,584 75,150 65,358 51,294 147,285 8,489 29,711
+Total CO emissions 3,599,405 2,226,942 760,491 117,353 83,494 67,133 292,069 14,661 37,262
+2
+2017 FCA Mass-Market Vehicles Maserati Other Activities
+  Assembly and  Engines and Plastic  
+Stamping Transmissions Casting Others Teksid Comau Components
+Direct emissions 1,054,493 769,896 66,083 38,746 17,554 22,048 127,103 6,261 6,802
+Indirect emissions 2,458,992 1,398,577 661,740 93,583 55,777 43,844 152,139 12,145 41,188
+Total CO emissions 3,513,485 2,168,473 727,823 132,329 73,331 65,892 279,242 18,406 47,990
+2
+2016 FCA Mass-Market Vehicles Maserati Other Activities
+  Assembly and  Engines and Plastic  
+Stamping Transmissions Casting Others Teksid Comau Components
+Direct emissions 995,285 717,465 68,985 41,969 19,639 22,674 112,685 5,766 6,102
+Indirect emissions 2,604,072 1,506,692 716,596 81,959 58,355 31,037 157,183 10,810 41,439
+Total CO emissions 3,599,357 2,224,157 785,581 123,928 77,994 53,711 269,869 16,576 47,541
+2
+FCA reports direct CO emissions based on direct energy consumption with the aid of the IPCC 2006 conversion factors. We report indirect CO emissions according to the standards and guidance 
+2 2
+outlined in the GHG Protocol and use the emissions factors updated by the International Energy Agency at the end of 2017 and other regionally published factors such as the eGRID in the U.S.
+Indirect emissions were calculated using the market-based method.
+Scope 2 emissions were also calculated using location-based methods, and in 2018 resulted in 2,795,995 tons of CO. 
+2
+Emissions of greenhouse gases (GHGs) other than CO have a negligible impact and are therefore not included. CO represents more than 99% of the Group’s total GHG emissions.  
+2 2
+121

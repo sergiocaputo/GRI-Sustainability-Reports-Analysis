@@ -1,0 +1,26 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Si fornisce per i rami Infortuni e Malattia lo sviluppo dei sinistri per 
+generazione al 31 dicembre 2018.
+Euro/migliaia
+Anno di generazione/accadimento 2012 2013 2014 2015 2016 2017 2018 Totale
+al 31/12 dell'anno di generazione N 4.646 6.019 8.250 8.655 9.034 8.309 10.024 54.938
+al 31/12 dell'anno N+1 4.818 6.527 8.603 8.031 9.523 7.813   45.315
+al 31/12 dell'anno N+2 4.834 5.243 7.431 8.309 9.026     34.844
+al 31/12 dell'anno N+3 4.679 5.098 6.598 8.536       24.911
+al 31/12 dell'anno N+4 4.641 4.944 6.563         16.148
+al 31/12 dell'anno N+5 4.577 4.909           9.486
+al 31/12 dell’anno N+6 4.567             4.567
+Di seguito la composizione dei premi relativi all’esercizio suddivisi per ramo:
+Euro/migliaia 31/12/2018
+Ramo-01 Infortuni 15.851
+Ramo-02 Malattie 26.191
+Ramo-07 Trasporti 4
+Ramo-08 Incendio  6.681
+Ramo-09 Altri danni ai beni 2.964
+Ramo-13 R.C.Generale 2.501
+Ramo-16 Perdite pecuniarie 2.363
+Ramo-17 Tutela legale 48
+Ramo-18 Assistenza 868
+Totale  57.471
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 347

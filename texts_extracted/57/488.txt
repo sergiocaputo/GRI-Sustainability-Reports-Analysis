@@ -1,0 +1,48 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+Sezione 15 – Patrimonio del gruppo – Voci 140, 160, 170, 180, 190, 200 e 220
+(cid:20)(cid:24)(cid:17)(cid:20)(cid:3)(cid:180)(cid:38)(cid:68)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:72)(cid:181)(cid:3)(cid:72)(cid:3)(cid:180)(cid:36)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:85)(cid:76)(cid:72)(cid:181)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Totale  Totale 
+31/12/2017  31/12/2016 
+A. Capitale 
+A.1 Azioni ordinarie  800.981  800.981 
+A.2 Azioni di risparmio  -  - 
+A.3 Azioni privilegiate  -  - 
+A.4 Azioni altre  -  - 
+B. Azioni proprie 
+B.1 Azioni ordinarie  (24.985)  (24.985) 
+B.2 Azioni di risparmio  -  - 
+B.3 Azioni privilegiate  -  - 
+B.4 Azioni altre  -  - 
+(cid:3)
+(cid:20)(cid:24)(cid:17)(cid:21)(cid:3)(cid:38)(cid:68)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:72)(cid:3)(cid:16)(cid:3)(cid:81)(cid:88)(cid:80)(cid:72)(cid:85)(cid:82)(cid:3)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:68)(cid:3)(cid:70)(cid:68)(cid:83)(cid:82)(cid:74)(cid:85)(cid:88)(cid:83)(cid:83)(cid:82)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+Voci/Tipologie  Ordinarie  Altre 
+A. Azioni esistenti all'inizio dell'esercizio  160.196.269  - 
+- interamente liberate  160.196.269  - 
+- non interamente liberate  -  - 
+A.1  Azioni proprie (-)  (2.622.061)  - 
+A.2 Azioni in circolazione: esistenze iniziali  157.574.208  - 
+B. Aumenti  -  - 
+B.1 Nuove emissioni  -  - 
+- a pagamento  -  - 
+- operazioni di aggregazioni di imprese  -  - 
+- conversione di obbligazioni  -  - 
+- esercizio di warrant  -  - 
+- altre  -  - 
+- a titolo gratuito  -  - 
+- a favore dei dipendenti  -  - 
+- a favore degli amministratori  -  - 
+- altre  -  - 
+B.2 Vendita di azioni proprie  -  - 
+B.3 Altre variazioni  -  - 
+C. Diminuzioni  -  - 
+C.1 Annullamento  -  - 
+C.2 Acquisto di azioni proprie  -  - 
+C.3 Operazioni di cessione di imprese  -  - 
+C.4 Altre variazioni  -  - 
+D. Azioni in circolazione: rimanenze finali  157.574.208  - 
+D.1 Azioni proprie (+)  2.622.061  - 
+D.2 Azioni esistenti alla fine dell'esercizio  160.196.269  - 
+- interamente liberate  160.196.269  - 
+- non interamente liberate  -  - 
+(cid:3)
+488

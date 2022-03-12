@@ -1,0 +1,32 @@
+Sustainability Report | ANNEX - GRI INDICATOR TABLES F71
+GRI 102-41 Collective bargaining agreements
+Percentage of total employees covered  Percentage of total employees covered 
+Company Contract
+in 2019 in 2018
+ITALMOBILIARE CCNL Cement and CCNL Industry Managers 100% 100%
+ITALGEN CCNL Cement and CCNL Industry Managers 100% 100%
+CLESSIDRA CCNL Commerce and Services 100% 100%
+CCNL Rubber and Plastic Industry and CCNL Industry 
+SIRAP 78.1% 74.7%
+Managers
+CAFFÈ BORBONE CCNL Food Industry 100% 100%
+GROUP TOTAL  82.3% 79.0%
+Conversion factors used
+Energy consumption 
+U.M 2019 2018 Sources
+conversion factors
+Electricity GJ/kWh 0.0036 0.0036 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Natural gas (methane) GJ/t 48.38 44.798 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Natural gas (methane) Kg/mc 0.75 0.8 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Natural gas (methane) GJ/mc 0.036285 0.0358384 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Gas oil GJ/t 42.569 42.569 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Gas oil l/t 1171 1171 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Gas oil GJ/l 0.03635269 0.03635269 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Diesel GJ/t 42.79 42.72 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Diesel l/t 1192 1190.45 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Petrol GJ/t 43.92 43.86 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Petrol l/t 1340 1357 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+Petrol GJ/l 0.032776119 0.032321297 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+LPG GJ/t 45.92 45.91 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+LPG l/t 1934 1929 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+LPG GJ/l 0.023743537 0.023799896 UK Government - GHG Conversion Factors for Company Reporting 2018/2019

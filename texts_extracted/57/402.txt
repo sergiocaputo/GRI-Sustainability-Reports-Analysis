@@ -1,0 +1,51 @@
+Nota Integrativa | Parte A | Politiche Contabili
+•  la possibilità di incidere sui risultati grazie al potere sull’entità.
+Il “potere sull’entità” consiste nella possibilità di dirigere le attività rilevanti di una entità nella quale si detiene un’in-
+teressenza, di tipo partecipativo e/o costituita da altri diritti di natura legale o contrattuale. Questo potere deriva 
+generalmente dalla titolarità di diritti (non necessariamente di voto) legalmente riconosciuti e di cui è titolare il sog-
+getto che detiene l’interessenza nell’entità stessa o che ha legami con essa, tali da conferire la capacità di dirigerne 
+le attività: ad esempio, la detenzione della maggioranza dei diritti di voto (eventualmente anche acquisiti grazie ad 
+accordi con altri soci) o di diritti di voto comunque sufﬁcienti per tenere sotto controllo l’entità. Nell’ambito dei pre-
+detti diritti non sono tuttavia ricompresi quelli di mera protezione degli interessi del titolare degli stessi (ad esempio, 
+il diritto di pegno o altri diritti reali assimilati). Peraltro, il mancato esercizio dei diritti che un investitore detiene su 
+un’entità - come ad esempio il comportamento inerte dell’azionista che non esercita il diritto di nominare dirigenti 
+con responsabilità strategiche – non deve essere preso in considerazione nello stabilire se l’investitore ha potere 
+su un’entità. 
+L’esposizione al rischio della variabilità dei risultati dell’entità” è deﬁnita dalla presenza di rendimenti che derivano 
+dal rapporto con la stessa, suscettibili di variare in relazione all’andamento economico dell’entità oggetto dell’inve-
+stimento. A tale ﬁne bisogna considerare i dividendi sulle azioni e gli interessi sui titoli nonché le variazioni di valore 
+degli investimenti detenuti nella stessa.
+Quanto alla “possibilità di incidere sui risultati grazie al potere sull’entità”, al ﬁne di individuare il soggetto che la con-
+trolla effettivamente, occorre anche accertare se il potere di incidere sui risultati della sua attività viene esercitato 
+da tale soggetto nel proprio interesse (nel qual caso è questi il soggetto controllante) oppure nell’interesse di un 
+altro soggetto (nel qual caso si tratta di un mero agente del controllante effettivo). 
+Secondo l’IFRS 10, il controllo è possibile, pertanto, non solo quando un investitore detiene il potere sulla partecipa-
+ta attraverso la maggioranza dei diritti di voto, ma, in alcune circostanze, pur in mancanza dei diritti di voto, quando 
+un investitore detiene diritti sufﬁcienti ad avere la capacità pratica di condurre unilateralmente le attività rilevanti 
+della partecipata (cd. “controllo di fatto”). Le “attività rilevanti” sono, in particolare, quelle attività che incidono in 
+maniera signiﬁcativa sui rendimenti dell’entità oggetto di investimento.
+In caso di interessenze in quote di fondi OICR gestiti da una Società di Gestione del Risparmio (SGR), l’analisi ai sensi 
+dell’IFRS 10 richiede di valutare contemporaneamente i seguenti aspetti:
+•  Esposizione alla variabilità dei rendimenti: l’esposizione alla variabilità è tipicamente evidenziata dalle quote de-
+tenute nel fondo.
+•  Potere: la valutazione del potere sulle attività rilevanti richiede di analizzare la gestione del fondo. In particolare, 
+occorre considerare se:
+  -  il gestore del fondo può essere sostituito/destituito, senza condizioni, per ragioni diverse da violazioni di leg-
+gi, del regolamento o per altre inadempienze;
+  -  ove applicabile, esiste un comitato interno o altro organo che ha il diritto di imporre o di porre il veto su de-
+terminate transazioni nei confronti del gestore del fondo (SGR).
+In tali casi, il potere sulle attività rilevanti del fondo scaturisce dalla effettiva capacità di sostituire/destituire il gesto-
+re del fondo per ragioni diverse da violazioni di leggi o regolamentari, ovvero di governare e/o di imporre decisioni 
+di rilievo per l’attività del fondo.
+L’inclusione nel perimetro di consolidamento del Gruppo Banca Popolare di Bari è legata, in particolare:
+•  alla presenza della maggioranza dei diritti di voto nell’assemblea ordinaria della società partecipata (controllo di 
+diritto);
+•  ad altri fattori relativi ad entità strutturate, diversi dal diritto di voto o da altri diritti simili, tali da determinare il 
+controllo da parte della Capogruppo. 
+In particolare, le entità strutturate incluse nel perimetro di consolidamento del Gruppo sono rappresentate dalle 
+seguenti Società Veicolo (SPE/SPV), costituite nell’ambito di operazioni di cartolarizzazione ai sensi della Legge 
+130/1999: 
+1.  2011 Popolare Bari SPV srl 
+2.  2013 Popolare Bari RMBS srl 
+3.  Adriatico Finance SME srl 
+402

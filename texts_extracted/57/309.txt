@@ -1,0 +1,47 @@
+Bilancio Consolidato 2017
+erogazione del credito e monitorano nel continuo i portafogli relativi agli impieghi creditizi.
+I controlli di secondo e terzo livello sono svolti rispettivamente dalla Funzione Risk Management e dalla Funzione 
+Internal Auditing, che effettuano le opportune attività di controllo sulla base delle proprie metodologie e strumenti.
+Costituiscono adeguati presidi organizzativi:
+•  le procedure che regolano la valutazione, erogazione e gestione del credito riportate nel “Regolamento Fidi”;
+•  l’individuazione, presso le singole unità di business, di speciﬁci ruoli e responsabilità nella concessione dell’afﬁ-
+damento ispirati al criterio di separatezza dei compiti;
+•  la separazione tra gestione “commerciale” della clientela afﬁdata e gestione strettamente “creditizia”, che si so-
+stanzia nel potere deliberativo e nel controllo andamentale;
+•  l’articolazione di un sistema di deﬁnizione, revisione e modiﬁca delle deleghe operative in materia di concessione 
+del credito (cfr. “Poteri Delegati”);
+•  un sistema di controlli funzionale ad un efﬁcace e costante gestione e monitoraggio delle posizioni di rischio.
+Al ﬁne di fornire alle Funzioni competenti – dislocate sia presso la Rete Distributiva sia presso le Strutture Centrali 
+– validi strumenti di supporto alle proprie attività di concessione, gestione, monitoraggio e controllo delle relazioni 
+creditizie, anche le procedure informatiche sono interessate nel continuo da signiﬁcative evoluzioni. In particolare, 
+la pratica elettronica di ﬁdo (“PEF”) - utilizzata nel processo di afﬁdamento e revisione del credito - integra al suo 
+interno le “policy” creditizie, il sistema di “rating interno” e le principali fonti di “credit score” in modo da tenere 
+sotto controllo, già in fase di erogazione, la qualità del credito. Nella fattispecie, la fase di concessione del credito è 
+presidiata da controlli automatici che caratterizzano la procedura informatica di supporto (veriﬁca basi informative 
+esterne ed interne, determinazione automatica dell’organo deliberante competente, ecc.).
+Il sistema integrato di valutazione del merito creditizio consente di classiﬁcare la clientela in base alla probabilità di 
+insolvenza (default). I modelli di rating, stimati con criteri statistici tali da garantire alta afﬁdabilità valutativa (“discri-
+minanza” in gergo tecnico), sono utilizzati sia in fase di accettazione del credito, sia per il monitoraggio andamentale.
+L’attribuzione del rating ad ogni cliente avviene attraverso un giudizio di sintesi che combina i diversi punteggi in-
+termedi attribuiti dal sistema a ciascuno dei seguenti moduli:
+•  analisi dell’andamento del rapporto;
+•  analisi dell’andamento del cliente presso il sistema (determinata sulla base dati di Centrale Rischi);
+•  analisi di bilancio.
+Il modello di rating, inoltre, prevede la possibilità di considerare ulteriori elementi informativi utili alla complessiva 
+valutazione del merito creditizio del cliente quali il tipo di attività economica svolta, il livello di accordato complessi-
+vo, il fatturato realizzato, la forma societaria e l’area geograﬁca nella quale il cliente opera.
+Data la peculiarità del portafoglio Retail, che per sua natura è caratterizzato da un elevato numero di posizioni con 
+esposizione normalmente contenuta e dalla indisponibilità di alcune fonti informative (es. Bilancio), il Gruppo si è 
+dotato di un modello di rating speciﬁco appositamente studiato e sviluppato per tale tipologia di clientela. Detto 
+modello, mediante una clusterizzazione della clientela effettuata in funzione della principale forma tecnica e di 
+variabili socio-demograﬁche, consente di cogliere le caratteristiche peculiari sopra descritte e di ottenere una più 
+accurata distribuzione per classe di rating.
+Inoltre il Gruppo ha adottato, esclusivamente per la clientela Corporate sulla base dei criteri di segmentazione inter-
+ni, una serie di soluzioni atte ad arricchire il patrimonio informativo a disposizione per una più completa valutazione 
+del rischio di credito, nonché ad introdurre una fase di override del rating all’interno dei processi del credito.
+Il processo è disciplinato da una speciﬁca normativa interna che limita le fattispecie in presenza delle quali è pos-
+sibile richiedere una variazione del rating a circostanze eccezionali così come previsto dalla normativa e garantisce 
+la necessaria separatezza operativa.
+Relativamente alla gestione del credito pre-anomalo ed anomalo, il Gruppo utilizza una procedura che rappresenta 
+un importante strumento di gestione del credito nell’ambito del quale conﬂuiscono, in maniera unitaria e struttura-
+309

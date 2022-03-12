@@ -1,0 +1,35 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+B.2 Riserve da valutazione delle attività finanziarie valutate al fair 
+value con impatto sulla redditività complessiva: composizione
+31/12/2018 31/12/2017
+Euro/migliaia Riserva positiva Riserva negativa Riserva positiva Riserva negativa
+1. Titoli di debito 927  (5.076)  43.903  - 
+2. Titoli di capitale 39.132  (17)  39.132  - 
+3. Finanziamenti -  -  -  - 
+TOTALE 40.059  (5.093)  83.035  - 
+B.3 Riserve da valutazione delle attività finanziarie valutate al fair 
+value con impatto sulla redditività complessiva: variazioni annue
+Euro/migliaia Titoli di  Titoli di  Finanziamenti
+debito  capitale
+1. Esistenze iniziali 43.903 39.132 - 
+2. Variazioni positive 254.143 - - 
+2.1 Incrementi di fair value - - - 
+2.2 Rettifiche di valore per rischio di credito - x - 
+2.3 Rigiro a conto economico di riserve 
+- x - 
+negative da realizzo
+2.4 Trasferimenti da altre componenti 
+- - - 
+di patrimonio netto (titoli di capitale)
+2.5 Altre variazioni 254.143 - - 
+3. Variazioni negative (302.195) (16) - 
+3.1 Riduzioni di fair value (278.335) (16) - 
+3.2 Riprese di valore per rischio di credito (37) - - 
+3.3 Rigiro a CE da riserve positive da realizzo (23.823) x - 
+3.4 Trasferimenti ad altre componenti 
+- -
+di patrimonio netto (titoli di capitale)
+3.5 Altre variazioni - (1) - 
+4. Rimanenze finali (4.149) 39.115 - 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 672

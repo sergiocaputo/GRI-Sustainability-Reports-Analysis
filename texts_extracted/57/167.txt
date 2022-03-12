@@ -1,0 +1,46 @@
+Bilancio Individuale 2017
+PASSIVO
+Sezione 1 – Debiti verso banche – Voce 10
+(cid:20)(cid:17)(cid:20)(cid:3)(cid:39)(cid:72)(cid:69)(cid:76)(cid:87)(cid:76)(cid:3)(cid:89)(cid:72)(cid:85)(cid:86)(cid:82)(cid:3)(cid:69)(cid:68)(cid:81)(cid:70)(cid:75)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+Totale  Totale 
+  31/12/2017  31/12/2016 
+1. Debiti verso banche centrali  1.901.463  960.000 
+2. Debiti verso banche  439.882  148.921 
+2.1 Conti correnti e depositi liberi  258.552  103.278 
+2.2 Depositi vincolati  63.144  15.507 
+2.3 Finanziamenti  115.769  27.798 
+2.3.1 Pronti contro termine passivi  115.769  27.798 
+2.3.2 Altri  -  - 
+2.4 Debiti per impegni di riacquisto di propri strumenti patrimoniali  -  - 
+2.5 Altri debiti  2.417  2.338 
+Totale  2.341.345  1.108.921 
+Fair value - livello 1  -  - 
+Fair value - livello 2  -  - 
+Fair value - livello 3  2.341.345  1.108.921 
+Totale Fair value  2.341.345  1.108.921 
+(cid:3)
+Sezione 2 – Debiti verso clientela – Voce 20
+(cid:21)(cid:17)(cid:20)(cid:3)(cid:39)(cid:72)(cid:69)(cid:76)(cid:87)(cid:76)(cid:3)(cid:89)(cid:72)(cid:85)(cid:86)(cid:82)(cid:3)(cid:70)(cid:79)(cid:76)(cid:72)(cid:81)(cid:87)(cid:72)(cid:79)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+Totale  Totale 
+  31/12/2017  31/12/2016 
+1. Conti correnti e depositi liberi  6.696.988  6.106.909 
+2. Depositi vincolati   1.582.346  1.537.549 
+3. Finanziamenti  87.575  1.608.560 
+3.1 Pronti contro termine passivi  -  1.523.361 
+3.2 Altri  87.575  85.199 
+4. Debiti per impegni di riacquisto di propri strumenti patrimoniali  -  - 
+5. Altri debiti  774.076  86.935 
+Totale  9.140.985  9.339.953 
+Fair value - livello 1  -  - 
+Fair value - livello 2  -  - 
+Fair value - livello 3  9.140.985  7.164.269 
+Totale Fair value  9.140.985  7.164.269 
+(cid:3)
+Operazioni sul mercato MTS Repo
+A partire dal mese di agosto 2012 la Banca ha diversiﬁcato l’attività di raccolta e impieghi con la BCE partecipando 
+anche al mercato MTS Repo e contestualmente, al ﬁne di tutelarsi dal Rischio di Controparte, ha aderito alla Cassa 
+di Compensazione e Garanzia.
+Per il tramite di quest’ultimo organismo sono state effettuate al 31 dicembre 2017 operazioni di pronti contro termi-
+ne attivi per euro 1.491 milioni ricompresi nei Crediti verso la clientela (euro 851,7 milioni al 31 dicembre 2016). Non 
+si rilevano, invece, pronti contro termine passivi ricompresi tra i Debiti verso clientela (al 31 dicembre 2016 erano 
+167

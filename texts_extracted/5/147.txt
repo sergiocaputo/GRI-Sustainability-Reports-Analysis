@@ -1,0 +1,63 @@
+Alperia Sustainability Report 2019 
+Figure 6: Net energy output broken down by primary energy source1 (GRI EU2) 
+                   
+% of total 
+Unit   2019  2018  2017  2016  YtY variation 
+     energy output 
+Total net produced electric energy   Gwh  4.373     4256  3712  4043  3% 
+Thereof  Hydro  Gwh  4.044  88%  3.961  3.344  3.681  2% 
+   Photovoltaic  Gwh  22  0%  21  24  22  5% 
+   Cogeneration (gas/gasoline)  Gwh  47  1%  53  66  66  –11% 
+   Biofuel  Gwh  260  6%  221  278  274  18% 
+Total net produced energy for heating 2  Gwh  217  5%  199  195  182  9% 
+Total net energy output  Gwh  4590    4455   3907  4225  3% 
+ 
+1Net energy output includes energy produced in our consolidated plants (34 hydroelectric plants, 5 heating plants, 3 photovoltaic 
+parks and 7 photovoltaic plants, 1 biofuel plant) at 100% 
+2 Includes thermal energy produced by biomass, gas, gasoline and energy acquired from waste plant. Heat acquired from waste plant 
+accounts for approximately ¼ of produced thermal energy. 
+ 
+ 
+Net produced energy from renewable sources   Unit   2019  2018  2017 
+  Gwh  4326  4203  3977 
+  %  94%  94%  94% 
+ 
+ 
+Figure 7: Quantity of products provided (GRI 102-7) 
+ 
+             
+   Unit  2019  2018  2017  2016  YtY-Variation 
+Electricity sold to end-customers  Gwh  5423  3994  3212  3460  36% 
+Trading  Gwh  4788  1907  2310  5226  151% 
+Thermal energy sold to end-customers  Gwh  217  199  195  182  9% 
+Natural gas sold to end-customers  MSmc  464  367  328  371  19% 
+ 
+           
+ 
+Figure 8: Distribution Network1 (GRI EU4) 
+ 
+                         
+  Unit  2019  2018  2017 
+Length of     Above  Under- Total  Percen-  Above  Under- Total  Percen-  Above  Under- Total  Percen- 
+trans-  ground  ground  tage of  ground  ground  tage of  ground  ground  tage of 
+mission   under- under-  under-
+and  ground  ground  ground 
+distribution  lines  lines  lines 
+lines 
+High 
+km  233  19  252  8%  211  13  224  6%  198  12  210  6% 
+tensions 
+Medium 
+km  1171  2144  3315  65%  1237  2067  3304  63%  1433  2018  3451  58% 
+tension 
+Low tension  km  1126  4043  5169  78%  1155  3945  5100  77%  1301  3816  5117  75% 
+Total  km  2530  6206  8736  71%  2603  6025  8628  70%  2932  5846  8778  67% 
+ 
+1Distribution network includes the Edyna Srl, Edyna Transmission Srl, Municipality of Parcines and Municipality of Laces networks 
+ 
+ 
+ 
+ 
+ 
+ 
+  148 

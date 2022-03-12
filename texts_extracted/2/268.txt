@@ -1,0 +1,44 @@
+RILASCI E SCART I – AREA IDRICA (segue)
+dato n. spiegazione – commento
+197 Quantità totale di rifiuti pericolosi (ex D. Lgs. n. 152/06) smaltiti da Acea Ato 5. Il dato è misurato con incertezza del ± 2%.
+Quantità totale di rifiuti pericolosi (ex D. Lgs. n. 152/06) smaltiti da Gori. L’aumento delle quantità prodotte nel 2019 
+197 B dipende dal trasferimento in Gori della gestione di impianti di depurazione in precedenza gestiti dalla Regione Campania. Il 
+dato è misurato con incertezza del ± 2% 
+Quota parte di rifiuti pericolosi (ex D. Lgs. n. 152/06) smaltiti dalla Capogruppo e attribuita all’area idrica. La stessa quota 
+198 parte è stata attribuita all’area energia. Il trend del triennio 2017-2019 risente della chiusura del sito logistico di Valleranello, 
+avvenuta nel 2017, che ha comportato lo smaltimento dei materiali presenti in sito (tra cui anche rifiuti pericolosi).
+Quantità totale di rifiuti non pericolosi (D. Lgs. n. 152/06) che include quelli smaltiti da Acea Ato 2, Acea Elabori, Acea Ato 
+199 5, Gori e Gesesa, e una quota parte di rifiuti prodotta dalla Capogruppo (attribuita in parti uguali alle due aree: energia e 
+idrica). Il dato è calcolato.
+Quantità totale di rifiuti non pericolosi (ex D. Lgs. n. 152/06) smaltiti da Acea Ato 2 e da Acea Elabori. L’aumento delle 
+200
+quantità del 2018 dipende dall’attività di pulizia delle fognature. Il dato è calcolato.
+201 Quantità totale di rifiuti non pericolosi (ex D. Lgs. n. 152/06) smaltiti da Acea Ato 5. Il dato è stimato.
+Quantità totale di rifiuti non pericolosi (ex D. Lgs. n. 152/06) smaltiti da Gori. L’aumento delle quantità prodotte nel 2019 
+201 B dipende dal trasferimento in Gori della gestione di impianti di depurazione in precedenza gestiti dalla Regione Campania. Il 
+dato è stimato.
+202 Quantità totale di rifiuti non pericolosi (ex D. Lgs. n. 152/06) smaltiti da Gesesa. Il dato è stimato.
+Quota parte di rifiuti non pericolosi (ex D. Lgs. n. 152/06) smaltiti dalla Capogruppo e attribuita all’area idrica. La stessa quota 
+parte è stata attribuita all’area energia. 
+203
+Il trend del triennio 2017-2019 risente della chiusura del sito logistico di Valleranello, avvenuta nel 2017, che ha comportato 
+lo smaltimento dei materiali presenti in sito (tra cui anche rifiuti non pericolosi).
+Quantità totale di anidride carbonica emessa dagli essiccatori di Acea Ato 2 e Gori, che utilizzano metano come combustibile. 
+Il consistente aumento del 2019 rispetto all’anno precedente è dovuto all’attivazione di due nuovi digestori anaerobici, 
+204
+presso i depuratori di Roma Est e Roma Sud di Acea Ato 2. I dati dell’ultimo biennio sono calcolati utilizzando i consumi di 
+combustibile e i coefficienti di emissione (MATTM anno 2018).
+Quantità di CO2 equivalente stimata sulla base dei reintegri dei fluidi refrigeranti (HCFC), considerando che 1 t di gas 
+presenta un potere di riscaldamento pari a circa 1.300-2.500 volte la CO2. Il valore dipende dal tipo specifico di gas (fonte: 
+204 B GHG protocol-5 Assessment Report; per le miscele di gas il fattore è elaborato su fonte primaria). Metà delle emissioni 
+sono imputate all’area energia, e metà all’area idrica, così come avviene per le quantità di fluidi refrigeranti (HCFC). Il dato 
+coincide con la voce 204 B. Per il 2019 il dato è prossimo allo zero in quanto i reintegri non sono stati signigificativi.
+EMISSIONI DI CO2 DA AUTOTRAZIONE E RISCALDAMENTO
+dato n. spiegazione – commento
+Quantità totale di anidride carbonica emessa dal parco autoveicoli del Gruppo Acea. Il dato del triennio è calcolato utilizzando 
+205
+i consumi di combustibile e i coefficienti di emissione (ISPRA 2018). Il dato è calcolato.
+Quantità totale di anidride carbonica emessa dai sistemi deputati al condizionamento degli ambienti di lavoro. Il dato è 
+206
+calcolato.
+BILANCIO AMBIENTALE 273

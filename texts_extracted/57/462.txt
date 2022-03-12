@@ -1,0 +1,54 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+In conclusione, le ragioni che hanno portato alla rilevazione al 31 dicembre 2017 della predetta rettiﬁca di valore di 
+18,5 milioni di euro sono essenzialmente riconducibili: 
+•  alla predisposizione di nuove proiezioni economico-ﬁnanziarie 2018-2022 utilizzate ai ﬁni dell’impairment test 
+dell’esercizio 2017, che, come illustrato in precedenza, hanno fattorizzato anche due effetti di extra-performance 
+relativi alla raccolta diretta e alla raccolta indiretta, parzialmente sterilizzati nel calcolo del valore d’uso dell’av-
+viamento, considerato che tali componenti aggiuntive potrebbero essere caratterizzate da maggiore incertezza 
+nell’esecuzione rispetto alle previsioni di mercato prese a riferimento per le Proiezioni;
+•  al costo del capitale (ke) più elevato (+70 bps) rispetto a quanto rilevato nell’esercizio precedente, per effetto es-
+senzialmente dell’aggiornamento del tasso risk free (a fronte di valori del beta e del premio per il rischio in linea 
+con l’esercizio precedente).
+(cid:20)(cid:22)(cid:17)(cid:21)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:76)(cid:80)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+Altre attività immateriali:  Altre attività immateriali: 
+generate internamente  altre 
+Avviamento  Totale 
+DEF  INDEF  DEF  INDEF 
+ 
+A. Esistenze iniziali  438.114  -  -  64.495  -  502.609 
+A.1 Riduzioni di valore totali nette  313.732  -  -  29.682  -  343.414 
+A.2 Esistenze iniziali nette  124.382  -  -  34.813  -  159.195 
+B. Aumenti  -  -  -  1.978  -  1.978 
+B.1 Acquisti  -  -  -  1.209  -  1.209 
+B.2 Incrementi di attività immateriali interne  -  -  -  -  -  - 
+B.3 Riprese di valore  -  -  -  -  -  - 
+B.4 Variazioni positive di fair value  -  -  -  -  -  - 
+- a patrimonio netto  -  -  -  -  -  - 
+- a conto economico  -  -  -  -  -  - 
+B.5 Differenze di cambio positive  -  -  -  -  -  - 
+B.6 Altre variazioni  -  -  -  769  -  769 
+C. Diminuzioni  18.500  -  -  5.856  -  24.356 
+C.1 Vendite  -  -  -  -  -  - 
+C.2 Rettifiche di valore  18.500  -  -  5.086  -  23.586 
+- Ammortamenti  -  -  -  5.086  -  5.086 
+- Svalutazioni  18.500  -  -  -  -  18.500 
++ patrimonio netto  -  -  -  -  -  - 
++ conto economico  18.500  -  -  -  -  18.500 
+C.3 Variazioni negative di fair value  -  -  -  -  -  - 
+- a patrimonio netto  -  -  -  -  -  - 
+- a conto economico  -  -  -  -  -  - 
+C.4 Trasferimenti alle attività non correnti in 
+-  -  -  -  -  - 
+via di dismissione 
+C.5 Differenze di cambio negative  -  -  -  -  -  - 
+C.6 Altre variazioni  -  -  -  770  -  770 
+D. Rimanenze finali nette  105.882  -  -  30.935  -  136.817 
+D.1 Rettifiche di valore totali nette  332.232  -  -  33.694  -  365.926 
+E. Rimanenze finali lorde  438.114  -  -  64.629  -  502.743 
+F. Valutazione al costo  -  -  -  -  -  - 
+(cid:3)
+Legenda
+DEF: a durata deﬁnita
+INDEF: a durata indeﬁnita
+Per ciascuna classe di attività il criterio di valutazione utilizzato è quello del costo.
+462

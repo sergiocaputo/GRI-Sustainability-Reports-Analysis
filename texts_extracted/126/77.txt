@@ -1,0 +1,58 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+expertise that cover all network knowledge areas, meeting innovative requirements and supporting research and 
+development activities. 
+An important result was the creation of TIM Lab a multifunction environment focused on innovation, able to assess 
+technologies, products and innovative services, certify their functional efficiency and performance, and develop new 
+models and configurations, consolidating the innovation flow. TIM Lab has a strategic role in supporting credibility testing 
+(service validation tests), inspections and proof of concepts, working with leading suppliers and technology partners, 
+sharing knowledge, technological infrastructure for interoperability tests, evaluating resources and defining technical 
+requirements; in synergy with the R&D department, it facilitates innovation and promotes collaborations with universities 
+and research institutes. 
+[GRI 103-3: Management Approach] [GRI 203] In January 2017, a new office was opened for the TIM Lab Innovation Center 
+at the CEO's head office in Barra da Tijuca, in the State of Rio de Janeiro: boasting a surface area of 650 m2 that can 
+accommodate over 60 people. This new site can be used by engineers and researchers, and as an innovation space open 
+to new opportunities, steering innovation on the Brazilian telecommunications market and featuring as a national leader 
+for R&D activities1. 
+In 2019, over 140 validation processes were carried out on new software, functionalities, solutions, technologies, services 
+and devices. TIM Participações invested more than 2.7 million reais in instruments, infrastructure and services, and 
+additional investments for over 10 million reais have been planned for the 2020-2022 period. 
+The "Architecture & Innovation" department continues to work on projects and initiatives aiming to ensure the evolution 
+of the business of TIM Participações through the recommendation of sustainable, efficient network platforms and 
+disruptive models, including anticipating the availability of new services. These projects can be divided into the following 
+macro groups: 
+•  new generation networks; 
+•  with positive impacts on the environment and company; 
+•  future Internet applications; 
+•  Open Lab Initiatives. 
+ 
+[GRI 103-3: Management Approach] [GRI 203] New generation networks projects 
+The reassignment of the 1,800 MHz, 850 MHz and 2,100 MHz bands from 2G/3G to 4G, with a multilayer distribution 
+configuration, gives TIM Participações three important competitive advantages: 
+•  a reduction in LTE2 implementation costs; 
+•  an increase in LTE coverage and enabling of the Carrier Aggregation strategy, improving customer experience by 
+means of a higher “throughput”; 
+•  the best indoor coverage. In addition to increased coverage, use of the 850/1,800/2,100 MHz bands could increase 
+capacity in cities already covered by the LTE 2.6 GHz band, at limited additional cost. 
+ 
+In this scenario, over 96% of current LTE terminals are compatible with 1,800 MHz, 2,600 MHz bands and other available 
+bands. Therefore, the implementation of the multilayer LTE is still an excellent strategy benefiting from the dissemination 
+of devices. 
+ 
+The implementation of the LTE layer at 700 MHz has continued to improve the increase in coverage and penetration in 
+closed environments significantly, promoting LTE at a national level and consolidating the leadership of TIM Participações 
+in LTE. The actual roll-out will observe the rules of the EAD3, in order to manage spectrum cleaning and avoid interference 
+with TV broadcasting services. 86% of the current user base of LTE devices of TIM Participações is enabled for the 700 
+MHz band (December 2019).  
+At the end of December 2019, 2,313 cities had LTE coverage at 700 MHz, i.e over 93% of the urban population; spectrum 
+cleaning was completed in June 2019 in all Brazilian cities, in order to have a 700 MHz band Over 3,300 cities covered by 
+TIM Participações in the 700 MHz band are expected by the end of 2022, according to the 2020-2022 business plan. 
+ 
+                                                                 
+1 TIM Lab of TIM Participações also works with TIMLab Italy, that has over 50 years of experience and some 1,000 employees, including 
+engineers and researchers, over 3,000 patents registered and more than 12,000 m2 of floor space 
+2 Long Term Evolution. 
+3 Entidade Administradora do Processo de Redistribuição e Digitalização de Canais de TV e RTV, (management of the entity of the process to 
+redistribute and digitalize TV and RTV channels).  
+78 
+ 

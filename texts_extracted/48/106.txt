@@ -1,0 +1,57 @@
+Our  Consolidated Non-Financial  Appendices to the  Consolidated Financial 
+We, Generali performance Risk Report Outlook Statement Management Report Statements 105  
+D. Risk Profile 
+tainty of pricing and provisioning assumptions related 
+to extreme or irregular events;
+Life Underwriting Risk 
+– longevity risk that, similarly to mortality, is defined as 
+the risk resulting from changes in mortality rates, where 
+Life and health underwriting risks derive from the Group’s  a decrease in mortality rates leads to an increase in the 
+core insurance business in the life and health segment.  value of insurance liabilities;
+The major part of the business and the related risks derive  – disability and morbidity risks derive from changes in 
+from direct portfolio underwritten by the Group. Health  the disability, sickness, morbidity and recovery rates;
+business represents a minor component of the portfolio. – lapse risk is linked to the loss or adverse change in lia-
+bilities due to a change in the expected exercise rates 
+Details on insurance and investment contracts in the Notes   of policyholder options. The relevant options are all le-
+for Group’s life underwriting business key figures
+gal or contractual policyholder rights to fully or partly 
+terminate, surrender, decrease, restrict or suspend in-
+The life portfolio is given by traditional business, which  surance cover or permit the insurance policy to lapse. 
+mainly  includes  insurance  with  profit  participation,  Mass lapse events are also considered;
+and  unit-linked  products.  The  prevailing  component  – expense risk results from changes in the expenses in-
+of traditional savings business includes products with  curred in servicing insurance or reinsurance contracts;
+insurance coverages linked to the policyholders’ life  – health risk results from changes in health claims and 
+and health. It also includes pure risk covers, with re- also includes catastrophe risk (for PIM entities). 
+lated mortality risk, and some annuity portfolios, with 
+the presence of longevity risk. The vast majority of the  In addition to the risks above, the Group Risk Map in-
+insurance coverages include legal or contractual pol- cludes also the going concern reserve risk, a German 
+icyholder rights to fully or partly terminate, surrender,  business specific risk that refers to mis-estimation of new 
+decrease, restrict or suspend insurance cover or per- business assumptions.
+mit the insurance policy to lapse, or to fully or partially 
+establish, renew, increase, extend or resume the insur- The approach underlying the life underwriting risk meas-
+ance or reinsurance cover. For this reason, the products  urement is based on the calculation of the loss resulting 
+are subject to lapse risk. from unexpected changes in biometric and/or operating 
+assumptions. Capital requirements for life underwriting 
+Life underwriting risks can be distinguished in biometric  risks are calculated on the basis of the difference be-
+and operating risks embedded in the life and health in- tween the insurance liabilities before and after the appli-
+surance policies. Biometric risks derive from the uncer- cation of the stress.
+tainty in the assumptions regarding mortality, longevity, 
+health, morbidity and disability rates taken into account  Life underwriting risks are measured by means of the 
+in the insurance liability valuations. Operating risks derive  Group PIM13.
+from the uncertainty regarding the amount of expenses 
+and the adverse exercise of contractual options by pol- The SCR for life underwriting risk amounts to € 3,437 
+icyholders. Policy lapse is the main contractual option  million before diversification (equal to 11% of total SCR 
+held by the policyholders, together with the possibility  before diversification). This is mainly given by expense14  
+to reduce, suspend or partially surrender the insurance  risk, followed by lapse and longevity risks. In terms of 
+coverage. contribution to the risk profile, it is to be noted that life 
+underwriting risks are well diversified with other risk cate-
+Life and health underwriting risks are: gories. The overall contribution to the risk profile therefore 
+– mortality risk, defined as the risk of loss, or of adverse  remains limited.
+change in the value of insurance liabilities, resulting 
+from changes in mortality rates, where an increase in  Life underwriting risk management is based on two main 
+mortality rates leads to an increase in the value of in- processes:
+surance liabilities. Mortality risk also includes mortality  – accurate pricing;
+catastrophe risk, resulting from the significant uncer- – ex-ante selection of risks through underwriting.
+13 For the scope of the Group PIM please refer to section A. Executive Summary. Entities not included in the Group PIM scope calculate the capital requirement based on standard 
+formula.
+14 Including also the Going Concern reserve. 

@@ -1,0 +1,33 @@
+Consolidated Non-Financial Statement 2018
+REST OF THE WORLD 
+December 31st 2018 December 31st 2017
+Type of fuel
+Consumption [UoM] GJ Consumption [UoM] GJ
+Natural gas m3 - -  m3 - -
+Diesel  l  18.155 652  l  - -
+Gasoline  l  21.147 693  l  - -
+LPG  l  - -  l  - -
+Renewable fuel 
+l 11.412 243  l  - -
+(bio-ethanolo)
+Electricity 
+l 1.217.914 4.384 l 1.136.855 4.093
+purchased 
+Electricity sold l - - - -
+ENERGY CONSUMPTION OF THE GROUP
+December 31st 2018 December 31st 2017
+Type of fuel
+Consumption [UoM] GJ Consumption [UoM] GJ
+Natural gas  m3 310.832 11.204 m3  327.731 11.514
+Diesel  l  383.789 13.775  l  - -
+Gasoline  l  25.327 830  l  - -
+LPG  l  5.750 137  l  5.350 126
+Renewable fuel 
+l 11.412 243 l - -
+(bio-ethanolo)
+Electricity 
+ kWh 4.270.387 15.373  kWh 3.805.873 13.701
+purchased 
+Electricity sold  kWh  (41.220) (148)  kWh (80.003) (288)
+Total GJ - 41.413 GJ - 25.054
+99

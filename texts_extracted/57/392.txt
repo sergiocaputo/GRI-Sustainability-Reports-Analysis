@@ -1,0 +1,58 @@
+Schemi del Bilancio Consolidato
+RENDICONTO FINANZIARIO CONSOLIDATO - (Modello indiretto)
+Importo 
+31/12/2017  31/12/2016 
+A. ATTIVITA' OPERATIVA 
+1. Gestione  (cid:27)(cid:24)(cid:17)(cid:27)(cid:19)(cid:27)(cid:3) (cid:26)(cid:23)(cid:17)(cid:19)(cid:25)(cid:22)(cid:3)
+- risultato d'esercizio (+/-)  1.050  5.244 
+- plus/minusvalenze su attività finanziarie detenute per la negoziazione e su 
+(906)  1.386 
+attività/passività valutate al fair value (+/-) 
+- plus/minusvalenze su attività di copertura (-/+)  (53)  16 
+- rettifiche/riprese di valore nette per deterioramento (+/-)  87.050  94.934 
+- rettifiche/riprese di valore nette su immobilizzazioni materiali e immateriali (+/-)  33.581  14.614 
+- accantonamenti netti ai fondi rischi ed oneri ed altri costi/ricavi (+/-)  (3.259)  (7.879) 
+- imposte, tasse e crediti d'imposta non liquidati (+/-)  (10.422)  (37.032) 
+- altri aggiustamenti (+/-)  (21.233)  2.780 
+2. Liquidità generata/assorbita dalle attività finanziarie  (cid:11)(cid:28)(cid:24)(cid:22)(cid:17)(cid:27)(cid:21)(cid:22)(cid:12)(cid:3) (cid:20)(cid:17)(cid:20)(cid:25)(cid:22)(cid:17)(cid:22)(cid:22)(cid:20)(cid:3)
+- attività finanziarie detenute per la negoziazione  6.199  (2.731) 
+- attività finanziarie disponibili per la vendita  1.305.246  769.958 
+- crediti verso banche: a vista  (1.810.769)  31.187 
+- crediti verso banche: altri crediti  4.446  90.952 
+- crediti verso clientela  (486.529)  (76.452) 
+- altre attività  27.584  350.417 
+3. Liquidità generata/assorbita dalle passività finanziarie  (cid:27)(cid:23)(cid:27)(cid:17)(cid:23)(cid:22)(cid:26)(cid:3) (cid:11)(cid:20)(cid:17)(cid:21)(cid:22)(cid:22)(cid:17)(cid:26)(cid:22)(cid:19)(cid:12)(cid:3)
+- debiti verso banche: a vista  897.635  170.354 
+- debiti verso banche: altri debiti  2.873  31.101 
+- debiti verso clientela  (770.642)  (504.056) 
+- titoli in circolazione  760.180  (477.475) 
+- passività finanziarie di negoziazione  (538)  (243) 
+- passività finanziarie valutate al fair value  (1.067)  (25.472) 
+- altre passività  (40.004)  (427.939) 
+Liquidità netta generata/assorbita dall'attività operativa  (19.578)  3.664 
+B. ATTIVITA' DI INVESTIMENTO 
+1. Liquidità generata da  (cid:20)(cid:17)(cid:25)(cid:27)(cid:25)(cid:17)(cid:24)(cid:26)(cid:28)(cid:3) (cid:21)(cid:19)(cid:20)(cid:3)
+- vendite di partecipazioni  17.660  - 
+- vendite di attività finanziarie detenute sino alla scadenza  1.668.667  - 
+- vendite di attività materiali  252  201 
+2. Liquidità assorbita da  (cid:11)(cid:20)(cid:17)(cid:25)(cid:25)(cid:28)(cid:17)(cid:22)(cid:27)(cid:21)(cid:12)(cid:3) (cid:11)(cid:26)(cid:17)(cid:28)(cid:19)(cid:22)(cid:12)(cid:3)
+- acquisti di partecipazioni  (30)  - 
+- acquisti di attività finanziarie detenute sino alla scadenza  (1.665.507)  - 
+- acquisti di attività materiali  (2.636)  (5.732) 
+- acquisti di attività immateriali  (1.209)  (2.171) 
+Liquidità netta generata/assorbita dall'attività d'investimento  17.197  (7.702) 
+C. ATTIVITA' DI PROVVISTA 
+- emissioni/acquisti di azioni proprie  -  25.015 
+Liquidità netta generata/assorbita dall'attività di provvista  (cid:16)(cid:3) (cid:21)(cid:24)(cid:17)(cid:19)(cid:20)(cid:24)(cid:3)
+LIQUIDITA' NETTA GENERATA / ASSORBITA NELL'ESERCIZIO  (2.381)  20.977 
+LEGENDA:
+(+) generata
+(-) assorbita
+RICONCILIAZIONE (im(porpti in euro) )
+Importo 
+(cid:57)(cid:82)(cid:70)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:69)(cid:76)(cid:79)(cid:68)(cid:81)(cid:70)(cid:76)(cid:82)(cid:3) 31/12/2017  31/12/2016 
+Cassa e disponibilità liquide all'inizio dell'esercizio  112.304  91.327 
+Liquidità totale netta generata/assorbita nell'esercizio  (2.381)  20.977 
+Cassa e disponibilità liquide alla chiusura dell'esercizio  109.923  112.304 
+(cid:3)
+392

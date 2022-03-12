@@ -1,0 +1,44 @@
+LA MOBILITÀ DI ATM
+PAG 40
+Integrazione tariffaria
+In questo ambito, i servizi di TPL gestiti da ATM Servizi S.p.A. e da NET S.r.l. vengono regolati da specifiche disposizioni 
+della normativa regionale ed ex provinciale. 
+Esiste anche un’integrazione della rete di vendita per titoli di viaggio che non godono di utilizzo integrato sulla rete: 
+i biglietti per il servizio ferroviario regionale vengono venduti attraverso canali ATM, grazie ad un apposito accordo 
+commerciale che li disciplina. I possibili rischi e/o problemi derivanti da questi sistemi, sono legati ai contenziosi in 
+sede di ripartizione degli introiti, spesso verificatosi. Tuttavia, l’Agenzia di Bacino sta lavorando ad un nuovo sistema di 
+integrazione che potrebbe comprendere un diverso sistema di ripartizione degli introiti.
+Inoltre, è stato implementato un primo step del progetto MaaS (Mobility as a Service): tale sistema consentirà lo 
+scambio dei dati con gli Stakeholder per fruire di informazioni e di tariffe puntuali ed in tempo reale, comprendendo 
+progressivamente tutti gli operatori di mobilità. Al momento, sul sito web e APP di ATM si possono trovare informazioni 
+e possibilità di accesso alla prenotazione di bike sharing, car sharing, piano dei voli degli aeroporti lombardi, piano di 
+partenze e arrivo dei treni nelle stazioni di Milano.
+Sulla base di finanziamenti regionali e comunali ATM sta realizzando, insieme agli altri vettori di trasporto, il nuovo sistema 
+di bigliettazione elettronica SBE a livello regionale, il grande centro di controllo che verrà installato presso la sede ATM 
+di Monterosa consentirà interoperabilità e integrazione tariffaria tra i diversi attori di TPL compreso il vettore ferroviario.
+Gestione e sviluppo dell’infrastruttura
+Dalla pianificazione dei percorsi delle linee di autobus fino alla costruzione di nuove linee metropolitane, il Gruppo mostra 
+una forte influenza sul rapporto tra il cliente/cittadino e la città stessa. Per questa ragione, in quanto interlocutore diretto 
+verso i soggetti che hanno a capo la gestione delle infrastrutture, ATM ha la responsabilità di sottoporre quelli che sono i 
+miglioramenti/adeguamenti della rete e delle infrastrutture esistenti, necessari per lo sviluppo della Città metropolitana. 
+È fondamentale che le infrastrutture del Gruppo siano sempre idonee allo svolgimento del servizio a cui sono destinate 
+e che le prestazioni siano costantemente in linea con le nuove necessità dei clienti-cittadini, così da assicurare 
+sempre un livello massimo di fruizione del servizio e un alto grado di soddisfazione da parte di tutta la comunità.
+È compito del Gruppo anche suggerire ai decisori le strategie per la gestione delle infrastrutture col fine di garantire 
+la sicurezza, l’affidabilità e, per quanto possibile, la flessibilità verso il cliente e le sue necessità. Tra le principali linee 
+guida che dirigono le strategie da adottare vi è sicuramente il PUMS (Piano Urbano della Mobilità Sostenibile), elemento 
+fondamentale di programmazione a livello di area metropolitana, il Programma Triennale delle Opere e il Programma 
+Biennale delle Forniture, elementi operativi a breve-medio termine del Comune per lo sviluppo degli interventi. Insieme a 
+questi, il Gruppo ha implementato appositi strumenti di indagine della mobilità che vengono aggiornati periodicamente 
+per valutare l’andamento, la richiesta e i flussi di mobilità per singola mobilità di trasporto. A livello di micro interventi 
+(manutenzione straordinaria, miglioramenti, modifiche) queste vengono recepite attraverso vari canali (istituzionali, 
+clientela e manutentori).
+In particolare, nel biennio 2016-2017, sono state realizzate, ed entrate in esercizio, le seguenti opere infrastrutturali:
+■ 
+rifacimento dell’armamento tranviario in Piazza Nigra;
+■ 
+prima fase di rifacimento dell’armamento tranviario in Piazza V giornate;
+■ 
+rifacimento Media Tensione SSE San Donato;
+■ 
+intervento di consolidamento della galleria a binario unico tra le stazioni di Lambrate e Piola;

@@ -1,0 +1,47 @@
+SUSTAINABILITY REPORT - SOL GROUP 77
+Severity index
+Italy
+Technical and medical gases sector n. 165 142 55 42 151
+Home care sector n. 0 0 0 14 0
+Biotechnologies sector n. 0 0 146 16 106
+Other countries
+Technical and medical gases sector and energy production n. 109 74 114 203 55
+Home care sector n. 72 19 50 1333 49
+Employability
+Medical examinations n. 901 859 653 1.130 1.335
+Clinical analyses n. 567 601 578 662  549
+Additional tests (1) n. 453 456 400 428 527
+(1) Electrocardiograms, spirometry, audiometry, etc.
+ENVIRONMENT 
+(data as of December 31st)
+2015 2016 2017 2018 2019
+Waste disposal
+Landfill
+Non-hazardous t. 172 436 1,492  1,332  1,285
+Hazardous t. 1,700 2,241 1,069  1,463 457
+Recovery
+Non-hazardous  t. 343 675 630  675  7,101
+Hazardous t. 57 32 44  31 57
+Incineration
+Non-hazardous t. - - 101 265  136 
+Hazardous t. - - 4  11  27
+It should be noted that with regard to emissions, the reporting  based"  approach  (reported  in  the  chapter  “The  environment”) 
+standard  used  (GRI  Sustainability  Reporting  Standards  2016)  provides for the use of emission factors defined on a contractual basis 
+provides  for  two  different  approaches  to  calculating  indirect  with the electricity supplier. In the absence of specific contractual 
+emissions: "Location-based" and “Market-based". agreements between the Organisation and the electricity supplier 
+(e.g. purchase of Guarantees of Origin), the emission factor related 
+The “Location-based" approach (shown in the “GRI Content Index”  to the national "residual mix" was used for the “Market-based” 
+table) provides for the use of average emission factors related to the  approach, where available.
+specific national energy mix of electricity production. The “Market-
+GREENHOUSE GAS EMISSIONS SOURCES OF EMISSION FACTORS USED
+Direct emissions
+UK Government GHG Conversion Factors for Company Reporting (DEFRA), 
+Conversion Factors 2019
+Direct emissions from product deliveries
+Indirect emissions according to the market-based method (European Union 
+Association of Issuing Bodies (AIB), European Residual Mixes 2018
+countries)
+Indirect emissions according to the market-based method (Bosnia-
+Herzegovina, North Macedonia and Morocco)
+International Energy Agency (IEA), Emissions Factors 2018 edition
+Indirect emissions according to the location-based method

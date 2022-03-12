@@ -1,0 +1,20 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Portafoglio Trading - Tabelle di VaR
+Portafoglio Trading - Rischio di mercato
+Dati puntuali fine anno (2018 vs 2017)
+Euro/migliaia 31/12/2018 31/12/2017 Var. %
+Nominale 222.710 41.926 431%
+Valore di mercato 214.341 39.775 439%
+Duration 0,45 0,31 46%
+VaR 99% - 1 g 1.509 209 621%
+Rispetto ai valori puntuali di fine anno, si riporta di seguito il valore minimo, 
+massimo e valore medio della misura del VaR registrato sul portafoglio 
+trading nel corso dell’anno 2018.
+Portafoglio Trading - Rischio di mercato
+Dati VaR rilevati nel corso d’anno (2018 vs 2017)
+Euro/migliaia 31/12/2018 31/12/2017 Var. %
+Valore Minimo 209 209 0%
+Valore Medio 981 838 17%
+Valore Massimo 1.783 1.233 45%
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 312

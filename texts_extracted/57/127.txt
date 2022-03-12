@@ -1,0 +1,54 @@
+Bilancio Individuale 2017
+(perdita) ﬁscale, applicando le aliquote e la normativa ﬁscale vigenti; si tratta in pratica delle imposte che si prevede 
+risulteranno dalla dichiarazione dei redditi.
+Le imposte correnti non ancora pagate, in tutto o in parte, alla data del bilancio, sono inserite tra le passività dello 
+stato patrimoniale. Nel caso di pagamenti eccedenti, che hanno dato luogo ad un credito recuperabile, questo è 
+contabilizzato tra le attività dello stato patrimoniale.
+Le attività e passività ﬁscali correnti accolgono il saldo netto della posizione ﬁscale della società nei confronti 
+dell’Amministrazione ﬁnanziaria. In particolare, sono compensati, a livello di singola imposta, gli acconti versati e gli 
+altri crediti d’imposta per ritenute d’acconto subite con il relativo debito d’imposta, esponendo lo sbilancio netto tra 
+le “attività ﬁscali correnti” o le “passività ﬁscali correnti” a seconda del segno.
+L’onere (provento) ﬁscale è l’importo complessivo delle imposte correnti e differite incluso nella determinazione 
+dell’utile netto o della perdita dell’esercizio.
+Fiscalità differita
+L’inﬂuenza delle interferenze ﬁscali nel bilancio di esercizio comporta delle differenze tra reddito imponibile e reddito 
+civilistico che possono essere permanenti o temporanee. Le differenze permanenti hanno natura deﬁnitiva e sono 
+costituite da ricavi o costi totalmente o parzialmente esenti o indeducibili ai sensi della norma ﬁscale. Le differenze 
+temporanee provocano, invece, unicamente uno sfasamento temporale che comporta l’anticipo o il differimento del 
+momento impositivo rispetto al periodo di competenza, determinando una differenza tra il valore contabile di un’at-
+tività o di una passività nello stato patrimoniale e il suo valore riconosciuto ai ﬁni ﬁscali. Tali differenze si distinguono 
+in “differenze temporanee deducibili” e in “differenze temporanee imponibili”.
+Le “differenze temporanee deducibili” indicano una futura riduzione dell’imponibile ﬁscale che genera pertanto “atti-
+vità per imposte anticipate”, in quanto queste differenze danno luogo ad ammontari imponibili nell’esercizio in cui si 
+rilevano, determinando un’anticipazione della tassazione rispetto alla competenza economico-civilistica. In sostanza 
+le differenze temporanee generano imposte attive in quanto esse determineranno un minor carico ﬁscale in futuro, 
+a condizione che negli esercizi successivi siano realizzati utili tassabili in misura sufﬁciente a coprire la realizzazio-
+ne delle imposte pagate in via anticipata. Le “attività per imposte anticipate” sono rilevate per tutte le differenze 
+temporanee deducibili se è probabile che sarà realizzato un reddito imponibile a fronte del quale potranno essere 
+utilizzate le differenze temporanee deducibili. L’origine della differenza tra il maggior reddito ﬁscale rispetto a quello 
+civilistico è principalmente dovuta a:
+•  componenti positivi di reddito tassati in esercizi precedenti a quelli in cui sono stati iscritti in bilancio;
+•  componenti negativi di reddito ﬁscalmente deducibili in esercizi successivi a quelli di iscrizione in bilancio;
+•  l’iscrizione delle attività per imposte anticipate può essere anche determinata dal riporto a nuovo di perdite 
+ﬁscali non utilizzate e di crediti d’imposta non utilizzati.
+La probabilità del recupero delle imposte anticipate relative ad avviamenti, altre attività immateriali e svalutazioni 
+di crediti è da ritenersi automaticamente soddisfatta per effetto delle disposizioni di legge che ne prevedono la 
+trasformazione in credito d’imposta in presenza di perdita d’esercizio civilistica e/o ﬁscale. In particolare:
+•  in presenza di una perdita civilistica d’esercizio, la ﬁscalità anticipata relativa agli avviamenti, alle altre attività 
+immateriali e alle svalutazioni di crediti sarà oggetto trasformazione in credito d’imposta per effetto delle di-
+sposizioni di cui all’art. 2, comma 55, del Decreto Legge 29 dicembre 2010, n. 225, convertito con modiﬁcazioni 
+dalla Legge 26 febbraio 2011, n. 10. La trasformazione ha effetto a decorrere dalla data di approvazione, da 
+parte dell’assemblea dei soci, del bilancio individuale in cui è stata rilevata la perdita, come previsto dall’art. 2, 
+comma 56, del citato D.L. 225/2010. Al riguardo, tuttavia, il decreto legge del 27 giugno 2015, n. 83, ha disposto, 
+all’articolo 17, il blocco della trasformazione in crediti d’imposta delle attività per imposte anticipate relative agli 
+avviamenti e alle altre attività immateriali iscritte, per la prima volta in conformità allo IAS 12, nel bilancio relativo 
+all’esercizio 2015;
+•  in presenza di perdita ﬁscale d’esercizio, la relativa ﬁscalità anticipata, limitatamente alla quota generata da de-
+duzioni riferite agli avviamenti, alle altre attività immateriali e alle svalutazioni di crediti, sarà oggetto di trasfor-
+mazione in credito d’imposta per effetto delle disposizioni di cui all’art. 2, comma 56-bis, del citato D.L. 225/2010, 
+introdotto dall’art. 9 del Decreto Legge 6 dicembre 2011, n. 201, convertito, con modiﬁcazioni, dalla Legge 22 
+dicembre 2011, n. 214. La suddetta trasformazione ha effetto a decorrere dalla data di presentazione della di-
+chiarazione dei redditi relativa all’esercizio in cui viene indicata la perdita.
+Le “differenze temporanee imponibili” indicano un futuro incremento dell’imponibile ﬁscale e conseguentemente 
+generano “passività per imposte differite”, in quanto queste differenze danno luogo ad importi imponibili negli eser-
+127

@@ -1,0 +1,59 @@
+RADICIGROUP
+P DETTAGLIO SITUAZIONE INFORTUNI TOTALE LAVORATORI ESTERNI TOTALE UOMINI DONNE
+U (INTERINALI ED AUTONOMI)
+O
+R
+G 2016 2017 2018 2016 2017 2018 2016 2017 2018
+CI 36
+I A  n Totale Lavoratori esterni (interinali e autonomi) 238 268 271 213 245 254 25 23 17
+D L
+A EL
+R B ore Totale ore lavorate  426.772  479.373  486.270  368.818  434.370  446.990  57.954  45.004  39.280
+A
+I  T
+D
+n Numero di incidenti mortali 0 0 0 0 0 0 0 0 0
+E 
+L
+A n Numero di infortuni gravi 1 1 0 1 1 0 0 0 0
+I
+C
+O n/200.000h Tasso infortuni gravi  0,47  0,42 0  0,54  0,46 0 0 0 0
+S
+E  giorni Giorni di prognosi - infortuni gravi 84 145 0  84  145 0 0 0 0
+C
+N
+g/200.000h Indice di gravità - infortuni gravi  39,4  60,5 0  45,6  66,8 0 0 0 0
+A
+M
+R n Numero di infortuni 2 4 7 0 3 7 2 1 0
+O
+F g/200.000h Tasso infortuni  0,94  1,67  2,88 0  1,38  3,13  6,90  4,44 0
+R
+E
+P giorni Giorni di prognosi  32  29  66 0  18  66  32  11 0
+A 
+L g/200.000h Indice di gravità  15,0  12,1  27,1 0  8,3  29,5  110,4  48,9 0
+Nota* Di seguito le regole seguite per la preparazione dei dati relativi a queste disclosure:
+a.  sono soggetti a queste disclosure tutti i lavoratori dell’azienda suddivisi in dipendenti, interinali e appaltatori autonomi 
+con rapporto continuativo con i siti di Gruppo;
+b.  le ore lavorate sono quelle di effettiva presenza (somma tra ore ordinarie ed ore straordinarie);
+c.  si considera infortunio solo un evento che origina l’assenza di almeno un giorno oltre a quello dell’incidente;
+d.  gli incidenti in itinere non sono considerati;
+e.  i giorni di assenza sono i giorni totali di calendario che trascorrono dall’infortunio alla ripresa del lavoro, e non quelli 
+lavorativi, escluso il giorno in cui l’infortunio è avvenuto;
+f.  l’indicatore tiene conto anche delle ricadute di infortuni precedenti;
+g.  gli infortuni sono stati suddivisi in mortali, gravi, non gravi; 
+Sono considerati infortuni gravi quelli che hanno causato lesioni con prognosi >40 gg (possibile procedimento penale 
+in Italia) o che comportano danni permanenti; sono considerati non gravi quelli con prognosi < 40 gg e che non hanno 
+attivato alcun procedimento penale;
+h.  gli infortuni sono stati classificati sulla base dell’elenco seguente:
+•  Contusione, escoriazione, ferita, taglio
+•  Distorsione, lussazione o strappo muscolare
+•  Frattura
+•  Amputazione
+•  Ustione chimica o fisica
+•  Intossicazione
+•  Anossia / Asfissia (annegamento, strangolamento)
+•  Elettrocuzione / Folgorazione
+92

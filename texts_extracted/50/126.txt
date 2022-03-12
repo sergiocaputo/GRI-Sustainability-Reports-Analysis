@@ -1,0 +1,47 @@
+ 
+ 305 - 1  Emissioni totali dirette di gas a effetto serra per peso (scope I)  90-91; 122-123 
+ 
+ 305 - 2  Emissioni totali indirette di gas a effetto serra per peso (scope II)   90-91; 123 
+ 
+ 305 - 7   NOx, SOx e altre emissioni significative nell'aria  91 
+ 
+400 Categoria Società      
+103 -1  Descrizione dei temi materiali e dei loro confini    43    
+Sviluppo e valorizzazione delle risorse 
+Aspetto: Occupazione      
+103  -  2;  Approccio  gestionale  e  sue  componenti  –  Valutazione 
+72-77    
+103 - 3  dell’approccio gestionale 
+  
+Numero totale di nuovi assunti e turnover per fasce di età, genere  105-106; 107-
+ 401 - 1 
+e aree geografiche   109 
+Percentuale  di  dipendenti  valutati  sulle  performance  e  sullo 
+ 404 - 3  114-115    
+sviluppo della carriera per genere e per categoria professionale  
+Aspetto: Formazione e istruzione      
+103  -  2;  Approccio  gestionale  e  sue  componenti  –  Valutazione 
+74-76    
+103 - 3  dell’approccio gestionale 
+  
+Ore medie di formazione annue per dipendente suddivise per 
+ 404 – 1  116 
+genere e categoria professionale  
+Welfare e benessere organizzativo 
+103  -  2;  Approccio  gestionale  e  sue  componenti  –  Valutazione 
+78-79    
+103 - 3  dell’approccio gestionale 
+  
+Benefit previsti per i lavoratori a tempo pieno ma non per i 
+ 401 - 2  78 
+lavoratori part-time e a termine  
+ 401 - 3  Tasso di rientro dopo il congedo parentale suddiviso per genere  79; 112-114    
+Salute e sicurezza 
+103  -  2;  Approccio  gestionale  e  sue  componenti  –  Valutazione 
+79-81    
+103 - 3  dell’approccio gestionale 
+Tasso di infortuni sul lavoro, di malattia, giornate di lavoro perse, 
+ 403 - 2  assenteismo e numero totale di decessi, divisi per area geografica  120-121    
+e per genere  
+127 
+ 

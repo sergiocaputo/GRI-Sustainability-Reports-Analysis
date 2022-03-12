@@ -1,0 +1,31 @@
+63
+ATTIVITÀ E RISULTATI DELLA GESTIONE
+EFFICIENZA ENERGETICA ED EMISSIONI 
+L’energia in Italgas viene impiegata prevalentemente per uso industriale. Il gas naturale è la 
+fonte energetica più utilizzata, seguito dall’energia elettrica e dal gasolio. Nel 2017 il 
+consumo di energia è risultato pari a 591,4 TJ con un leggero aumento rispetto all’anno 
+precedente. Una quota minima dell’energia elettrica consumata è stata prodotta da 10 
+impianti fotovoltaici di piccola taglia (39kW di potenza installata per una produzione 
+nel 2017 pari a 36MWh). 
+Consumi di energia
+Standard  Unità  
+2016 2017
+GRI misura
+Consumi diretti di energia primaria 
+TJ 0 0
+da fonte rinnovabile (A)
+Consumi diretti di energia primaria
+TJ 475,6 478,7
+da fonte non rinnovabile (B)
+- di cui gas naturale (C) TJ 378,4 381,4
+- di cui gasolio (D) TJ 82,8 79,6
+- di cui benzina (E) 302-1 TJ 14,4 17,7
+Acquisto di energia elettrica (F) TJ 99,8 112,7
+Energia elettrica autoprodotta da fonti 
+TJ 0,13 0,13
+rinnovabili (G)
+Energia elettrica venduta (H) TJ 0,06 0,07
+Totale consumi energetici (B+F+G-H) TJ 575,4 591,4
+Intensità energetica* 302-3 TJ/106Sm3 77,03 76,14
+(*)   Totale consumi energetici su totale di gas distribuito. 
+Italgas DIchIarazIone non FInanzIarIa consolIData 2017 Italgas DIchIarazIone non FInanzIarIa consolIData 2017

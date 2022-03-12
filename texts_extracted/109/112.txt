@@ -1,0 +1,44 @@
+BILANCIO DI SOSTENIBILITÀ 2018
+GRI305-1, GRI305-2 TOTALE EMISSIONI DIRETTE ED INDIRETTE DI GAS AD EFFETTO SERRA
+2016 2017 2018
+22
+305-LA 5 t CO2 eq. Totale  490.434   522.305   464.449 
+305-1, TABEL t CO2 eq. EMISSIONI DIRETTE (GRI 305-1)*  225.089   237.477   198.555 
+E  t CO eq. EMISSIONI INDIRETTE (GRI 305-2)  265.345   284.828   265.895 
+R 2
+U
+S
+O t CO eq. Emissioni indirette da Energia Elettrica  116.645   137.956   124.084 
+L 2
+C
+S
+DI t CO eq. Emissioni indirette da Vapore  148.701   146.872   141.811 
+2
+t CO eq. Emissione indirette da Riscaldamento  -     -     -   
+2
+t CO eq. Emissioni indirette da Raffreddamento  -     -     -   
+2
+*I VALORI RIPORTATI COMPRENDONO LA CO DERIVANTE DALLA COMBUSTIONE E L’N2O DERIVANTE DALLA PRODUZIONE DI ACIDO ADIPICO E NITRICO
+2
+GRI305-4 INDICE - EMISSIONI TOTALI DIRETTE E INDIRETTE DI GAS AD EFFETTO SERRA IN RELAZIONE AI QUANTITATIVI LAVORATI
+2016 2017 2018
+43
+305-LA 5 tCO2/t 0,495 0,489 0,446
+OSURE TABEL Interessante ai fini della rendicontazione è infine il benchmark che mette 
+L
+C in relazione i mix energetici standard disponibili a livello nazionale con 
+S
+DI il mix selezionato dal Gruppo per le proprie attività. Le specifiche scelte 
+operate in favore dell’energia elettrica verde o dei carburanti a minore 
+impatto hanno infatti consentito ai siti di RadiciGroup di emettere il 29% di 
+gas a effetto serra in meno rispetto a quanto avrebbero fatto attenendosi 
+ai mix energetici nazionali a loro disposizione. Questo valore percentuale 
+è stato ricavato calcolando le emissioni sia in base al mix effettivo 
+del Gruppo che in base ai mix dei singoli Paesi dove sono collocati gli 
+impianti che rientrano nel perimetro di rendicontazione (fonte dati www.
+iea.org – anno di riferimento 2016). Un risultato importante che pone in 
+luce il contributo volontario delle aziende del Gruppo al raggiungimento 
+dell’SDG 13 Climate Action. Quest’ultimo mette in relazione emissioni e 
+cambiamenti climatici, invitando tutti gli attori industriali a ridurre quanto 
+più possibile i propri gas GHG. TABELLA 54
+111

@@ -1,0 +1,8 @@
+For all the plants the amount of emissions, compared to the fuels used according to the following emission factors, has been 
+reported
+EMISSION FACTORS (g/Gj)
+FUELS NO SO CO PM < 2,5
+X X
+Natural gas 25,6 0,61 15,56 0,11
+Fuel oil 29,2 49,8 7,98 0,53
+LPG 40,0 0,22 10,0 0,20

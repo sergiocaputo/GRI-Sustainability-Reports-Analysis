@@ -1,0 +1,39 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+Altre informazioni
+(cid:20)(cid:17)(cid:3)(cid:42)(cid:68)(cid:85)(cid:68)(cid:81)(cid:93)(cid:76)(cid:72)(cid:3)(cid:85)(cid:76)(cid:79)(cid:68)(cid:86)(cid:70)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:72)(cid:74)(cid:81)(cid:76)
+Importo  Importo 
+Operazioni 
+31/12/2017  31/12/2016 
+1) Garanzie rilasciate di natura finanziaria  50.854  42.047
+a) Banche  25.986  14.353
+b) Clientela  24.868  27.694
+2) Garanzie rilasciate di natura commerciale  112.752  121.743
+a) Banche  5.497  26
+b) Clientela  107.255  121.717
+3) Impegni irrevocabili a erogare fondi  1.439.142  815.250
+a) Banche  251  62.909
+i) a utilizzo certo  251  62.909
+ii) a utilizzo incerto  -  -
+b) Clientela  1.438.891  752.341
+i) a utilizzo certo  560.070  26.872
+ii) a utilizzo incerto  878.821  725.469
+4) Impegni sottostanti ai derivati su crediti: vendite di protezione  -  -
+5) Attività costituite in garanzia di obbligazioni di terzi  -  -
+6) Altri impegni  -  -
+Totale  1.602.748  979.040
+(cid:3)
+(cid:21)(cid:17)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:70)(cid:82)(cid:86)(cid:87)(cid:76)(cid:87)(cid:88)(cid:76)(cid:87)(cid:72)(cid:3)(cid:76)(cid:81)(cid:3)(cid:74)(cid:68)(cid:85)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:3)(cid:71)(cid:76)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:85)(cid:76)(cid:72)(cid:3)(cid:83)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:72)(cid:74)(cid:81)(cid:76)
+Importo  Importo 
+Portafogli 
+31/12/2017  31/12/2016 
+1. Attività finanziarie detenute per la negoziazione  2.004  2.001 
+2. Attività finanziarie valutate al fair value  -  - 
+3. Attività finanziarie disponibili per la vendita  119.542  1.024.222 
+4. Attività finanziarie detenute sino alla scadenza  -  - 
+5. Crediti verso banche  -  - 
+6. Crediti verso clientela  113.190  - 
+7. Attività materiali  -  - 
+(cid:3)
+I titoli non iscritti nell’attivo riguardanti operazioni di “autocartolarizzazione”, pronti contro termine attivi e prestito 
+titoli, utilizzati per operazioni di provvista ﬁnanziaria, ammontano complessivamente ad euro 2.332,7 milioni.
+182

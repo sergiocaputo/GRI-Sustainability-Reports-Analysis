@@ -1,0 +1,34 @@
+Bilancio Individuale 2017
+A seguito della riforma della previdenza complementare prevista dal D. Lgs. n. 252 del dicembre 2005 anticipata 
+nell’applicazione dalla Legge n. 296 del 27 dicembre 2006, per le imprese con almeno 50 dipendenti le quote di TFR 
+maturate sino al 31.12.2006 restano in azienda mentre quelle maturande a partire dal 1° gennaio 2007 sono state, 
+a scelta del dipendente, destinate a forme di previdenza complementare ovvero trasferite al Fondo di Tesoreria 
+dell’INPS.
+Le quote di TFR maturate a tutto il 31.12.2006 anche successivamente all’introduzione della riforma, continuano ad 
+essere conﬁgurate come piani a beneﬁci deﬁniti così come previsto dallo IAS 19. Le quote di TFR maturande dal 1° 
+gennaio 2007 conﬁgurano ai ﬁni dello IAS 19 un piano a contribuzione deﬁnita e pertanto il loro ammontare non è 
+assoggettato ad alcuna ipotesi attuariale.
+Le principali ipotesi attuariali sono così sintetizzate:
+Tasso annuo di attualizzazione  1,30%
+Tasso annuo di incremento salariale 1,50%
+31/12/2017 30/09/2017 30/06/2017 31/03/2017 31/12/2016
+(cid:55)(cid:68)(cid:86)(cid:86)(cid:82)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:193)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72) 1,50% 1,50% 1,50% 1,50% 1,50%
+Tasso annuo di incremento del TFR 2,62% 2,62% 2,62% 2,62% 2,62%
+In merito al tasso di attualizzazione, utilizzato per la determinazione del valore attuale dell’obbligazione è stato 
+desunto dall’indice Iboxx Eurozone Corporate AA con duration 10+ rilevato alla data della valutazione. A tal ﬁne si 
+è scelto il rendimento avente durata comparabile alla duration del collettivo di lavoratori oggetto della valutazione.
+Si fa presente che i risultati così determinati, tengono anche conto delle modiﬁche relative ai requisiti pensionistici 
+introdotte dal D.L. n. 201/2011 (c.d. “decreto Salva Italia”) convertito nella Legge 214/2011.
+Si riporta di seguito l’analisi di sensitivity relativi ai principali parametri valutativi.
+Analisi di sensitivity dei principali parametri valutativi sui dati al 31/12/2017
+Variazione TFR in  Variazione in termini 
+Nuovo importo TFR
+termini assoluti percentuali
+Tasso di turnover + 1,00% (178) (cid:23)(cid:20)(cid:17)(cid:21)(cid:26)(cid:24) (cid:16)(cid:19)(cid:15)(cid:23)(cid:22)(cid:8)
+Tasso di turnover - 1,00% 195 (cid:23)(cid:20)(cid:17)(cid:25)(cid:23)(cid:27) (cid:19)(cid:15)(cid:23)(cid:26)(cid:8)
+(cid:55)(cid:68)(cid:86)(cid:86)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:193)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72) + 0,25% 565 (cid:23)(cid:21)(cid:17)(cid:19)(cid:20)(cid:27) 1,36%
+(cid:55)(cid:68)(cid:86)(cid:86)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:193)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72) - 0,25% (555) (cid:23)(cid:19)(cid:17)(cid:27)(cid:28)(cid:27) (cid:16)(cid:20)(cid:15)(cid:22)(cid:23)(cid:8)
+Tasso di attualizzazione + 0,25% (891) (cid:23)(cid:19)(cid:17)(cid:24)(cid:25)(cid:21) -2,15%
+Tasso di attualizzazione - 0,25% 921 (cid:23)(cid:21)(cid:17)(cid:22)(cid:26)(cid:23) 2,22%
+La durata media ﬁnanziaria dell’obbligazione è stata calcolata pari a 10 anni.
+173

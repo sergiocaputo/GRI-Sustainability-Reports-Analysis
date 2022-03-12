@@ -1,0 +1,45 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+4. Gruppo Poste Italiane Bilancio al 31 dicembre 2017 
+Il dettaglio della variazione delle riserve tecniche e degli oneri relativi ai sinistri con la distinzione di quelli ceduti in riassicurazione 
+è il seguente:
+tab. C4.3 - Variazione delle Riserve tecniche assicurative e oneri relativi ai sinistri
+Descrizione
+(milioni di euro)  Esercizio 2017   Esercizio 2016 
+Somme pagate 11.141  7.689 
+Variazione delle Riserve matematiche 14.694  14.327 
+Variazione della Riserva per somme da pagare (311) (237)
+Variazione delle Altre riserve tecniche 172  478 
+Variazione delle Riserve tecniche allorché il rischio 
+(3.370) (319)
+dell’investimento è sopportato dagli assicurati
+Totale variazione riserve tecniche e oneri relativi a 
+22.326  21.938 
+sinistri gestione vita
+Quota a carico dei riassicuratori gestione vita (13) (10)
+Totale variazione riserve tecniche e oneri relativi a 
+29  40 
+sinistri gestione danni
+Quota a carico dei riassicuratori gestione danni (7) (10)
+Totale 22.335  21.958 
+La voce Variazione delle Riserve tecniche assicurative e oneri relativi ai sinistri accoglie principalmente:
+le somme pagate nell’esercizio da Poste Vita S.p.A. per sinistri, riscatti e spese di liquidazione per la gestione dei sinistri;
+la variazione delle Riserve matematiche per l’incremento degli impegni a favore degli assicurati;
+la variazione delle Riserve tecniche allorché il rischio dell’investimento è sopportato dagli assicurati cd. Classe D che si 
+decrementa per 3.370 milioni di euro a seguito principalmente di scadenze di alcuni prodotti di Ramo III.
+Il dettaglio degli Oneri da operatività assicurativa è il seguente:
+tab. C4.4 - Oneri derivanti da operatività assicurativa
+Descrizione 
+(milioni di euro)  Esercizio 2017   Esercizio 2016 
+Oneri da strumenti finanziari a fair value rilevato  
+245  314 
+a Conto economico
+Perdite da valutazione  119  290 
+Perdite da realizzo 126  24 
+Oneri da investimenti disponibili per la vendita 189  179 
+Impairment 93  94 
+Perdite da realizzo 96  85 
+Variazione di fair value delle passività finanziarie  -    -   
+Altri oneri 43  18 
+Totale 477  511 
+235

@@ -1,0 +1,38 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+C. Operazioni di cartolarizzazione
+Nil.
+D. Informativa sulle entità strutturate non consolidate 
+contabilmente (diverse dalle società veicolo per la 
+cartolarizzazione)
+Nil.
+E. Operazioni di cessione
+A. Attività finanziarie cedute e non cancellate integralmente
+Informazione di natura qualitativa
+Nell’ambito del Patrimonio BancoPosta, rientrano in tale casistica esclusivamente i Titoli di Stato italiani impegnati in operazioni 
+di Pronti contro termine passive. Attraverso tali operazioni BancoPosta ha accesso al mercato interbancario della raccolta con 
+lo scopo di finanziare l’acquisto di Titoli di Stato e i depositi necessari all’attività di marginazione.
+Informazione di natura quantitativa 
+E.1 Attività finanziarie cedute non cancellate: valore di bilancio e valore intero
+Attività  Attività  Attività  Attività finanziarie  Crediti verso  Crediti verso  Totale
+finanziarie  finanziarie  finanziarie  detenute sino   banche clientela
+Forme tecniche/  detenute per la  valutate al fair  disponibili   alla scadenza
+negoziazione value per la vendita
+Portafoglio  
+(milioni di euro) A B C A B C A B C A B C A B C A B C 31.12.2017 31.12.2016
+A. Attività per cassa -    -    -    -    -    -    -    -    -    4.486  -    -    -    -    -    -    -    -    4.486  4.894 
+1. Titoli di debito -    -    -    -    -    -    -    -    -    4.486  -    -    -    -    -    -    -    -    4.486  4.894 
+2. Titoli di capitale -    -    -    -    -    -    -    -    -    X X X X X X X X X -    -   
+3. OICR -    -    -    -    -    -    -    -    -    X X X X X X X X X -    -   
+4. Finanziamenti -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -   
+B. Strumenti derivati -    -    -    X X X X X X X X X X X X X X X -    -   
+TOTALE 31.12.2017  -     -     -     -     -     -     -     -     -     4.486   -     -     -     -     -     -     -     -     4.486   X 
+di cui deteriorate  -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     X 
+TOTALE 31.12.2016  -     -     -     -     -     -     206   -     -     4.688   -     -     -     -     -     -     -     -     X   4.894 
+di cui deteriorate  -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     X   -   
+Legenda
+A = Attività finanziarie cedute rilevate per intero (valore di bilancio)
+B = Attività finanziarie cedute rilevate parzialmente (valore di bilancio)
+C = Attività finanziarie cedute rilevate parzialmente (intero valore)
+502

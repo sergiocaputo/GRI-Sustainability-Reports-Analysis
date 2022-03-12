@@ -1,0 +1,56 @@
+1 LETTERA AGLI STAKEHOLDER       2 NOTA METODOLOGICA       3 PRESENTAZIONE DEL GRUPPO        4 LA GESTIONE DEL RISCHIO        5 LOTTA ALLA CORRUZIONE      6 PERSONE E TERRITORI       7 IL CAPITALE UMANO        8 L’IMPEGNO PER L’AMBIENTE        9 LA CATENA DI FORNITURA 
+Nei contesti operativi interni il Gruppo si impegna a: In  particolar  modo,  la  valutazione  dell'efficacia  ALTRE EMISSIONI INDIRETTE DI GHG (SCOPE 3) GRI 305.3
+• acquistare servizi e prodotti necessari per l’attività  avviene tramite l'effettuazione di audit esterni e i 
+2019 2018 2017
+ponendo attenzione agli impatti ambientali; risultati sono analizzati tramite l'implementazione 
+• ricorrere all’impiego di energia proveniente da  di specifici indicatori di performances. a. altre emissioni indirette lorde di GHG (Scope 3) in tonnellate di CO2 equivalenti. 6.722,07 7.373,61 -
+fonti rinnovabili;      
+La disclosure 305.3 considera le emissioni indirette (scope 3) in tCO2e dei seguenti gas serra: CO2; CH4 e N2O. 
+• minimizzare la produzione di rifiuti, emissioni  Per le aziende del Gruppo certificate ISO 14001,  Le emissioni indirette - scope 3 sono calcolate in base ai consumi indiretti derivanti l’impiego di: gas naturale, gasolio, auto aziendali (uso strumentale e per 
+il 70% uso promiscuo), auto a noleggio breve termine (NBT), treno, aereo, carta A3 e A4 (100% riciclata). Si segnala che i dati del 2019, in virtù dell'inclusione 
+inquinanti e a effetto serra; periodicamente  viene  aggiornata  la  mappatura 
+di ulteriori fonti di emissione indirette nel calcolo, risulta superiore a quanto riportato nella DNF 2018.
+• aumentare i livelli di sostenibilità.  dei rischi e delle opportunità relativi agli aspetti 
+e  impatti  ambientali.  Da  questa  poi  scaturisce 
+INTESITÀ DELLE EMISSIONI GHG GRI 305.4
+Il  Servizio  Prevenzione,  Protezione  e  Ambiente  la  pianificazione  delle  eventuali  attività  di 
+INDICATORI - EMISSIONI 2019 2018 2017
+tramite il presidio dei sistemi di gestione ambiente,  miglioramento e la valutazione degli impatti stessi.
+salute  e  sicurezza  garantisce  l'adeguatezza,  a. tasso di intensità delle emissioni di GHG [tCO2e/m²] 0,00683 0,00771 0,00747
+l'efficacia e il miglioramento continuo del modello 
+a. tasso di intensità delle emissioni di GHG [tCO2e/addetto] 0,58810 0,63525 0,62927
+di gestione per le aziende del Gruppo certificate ISO 
+b. parametro specifico selezionato per calcolare il tasso:
+14001 e OHSAS 18001.
+-m² di superficie interna netta  1.879.123,91 1.870.261,18 1.935.947,93
+-n. dipendenti (disclosure 102.8) 21.814 22.699 22.986
+GRI 305.1 EMISSIONI DIRETTE DI GHG (SCOPE 1)
+2019 2018 2017 Il tasso di intensità delle emissioni GHG includono le emissioni dirette scope 1 (disclosure 305.1).
+La disclosure 305.4 considera le emissioni dirette (scope 1) in tCO2e dei seguenti gas serra: CO2; CH4 e N2O. 
+a. Emissioni dirette di GHG (Scope 1) in tCO2e 12.828,82 14.419,61 14.464,34
+c. Emissioni di CO2 di origine biogenica in tonnellate di CO2 equivalenti; -  - - Per quanto riguarda la minimizzazione degli impatti  termini di sicurezza sono stati redatti gli obiettivi di 
+rafforzamento della sicurezza logica e fisica per il 
+La metodologia di calcolo segue le indicazioni fornite dalle Linee Guida sull'applicazione in banca degli Standard GRI (Global Reporting Initiative) in materia  ambientali, è stato scelto di dotarsi di una nuova 
+ 
+ambientale dell’ABI Lab (Versione 27/01/2020). La disclosure 305.1 considera le emissioni dirette (scope 1) in tCO2e dei seguenti gas serra: CO2; CH4e N2O.  triennio 2019-2021. 
+Le emissioni dirette sono calcolate in base ai consumi diretti derivanti l’impiego di: gas naturale, gasolio e auto aziendali (uso strumentale e per il 70% uso  piattaforma di gestione integrata delle utilities e in 
+promiscuo).
+Le emissioni- Scope 1 del 2017 e del 2018 sono state ricalcolate secondo i nuovi coefficienti aggiornati al 2019, pertanto i dati non sono corrispondenti alle 
+precedenti pubblicazioni. 
+GRI 305.2 EMISSIONI INDIRETTE DI GHG DA CONSUMI ENERGETICI (SCOPE 2)
+INDICATORI - EMISSIONI 2019 2018 2017
+a. Emissioni indirette di GHG da consumi energetici (Scope 2) lorde location-based in 
+39.594,32 42.149,03 46.165,70
+tonnellate di CO2 equivalenti; 
+b. Se applicabile, emissioni indirette di GHG da consumi energetici (Scope 2) lorde 
+0,00 0,00 0,00
+market-based in tonnellate di CO2 equivalente;
+La metodologia di calcolo segue le indicazioni fornite dalle Linee Guida sull'applicazione in banca degli Standard GRI (Global Reporting Initiative) in materia 
+ambientale dell’ABI Lab (Versione 27/01/2020). Il disclosure 305.2 considera le emissioni indirette (scope 2) in tCO2e dei seguenti gas serra: CO2; CH4 e N2O. 
+La disclosure 305.2 prevede la rendicontazione delle emissioni Scope2 mediante due metodologie:
+- la metodologia Location-Based considera il contributo dei fattori di emissione medi della rete di distribuzione utilizzata dall'organizzazione per i propri 
+consumi di energia elettrica. Nel calcolo dell'indicatore consideriamo il quantitativo di energia elettrica complessivamente acquistato, sia esso rinnovabile sia 
+esso non rinnovabile; 
+- la metodologia Market-Based considera il contributo dei fattori di emissione specifici legati alle forme contrattuali di acquisto adottate dall'organizzazione 
+per i propri consumi di energia elettrica. In questo caso la quantità di energia elettrica coperta dalla garanzia di origine avrà un fattore di emissione pari a 0.  
+148 149

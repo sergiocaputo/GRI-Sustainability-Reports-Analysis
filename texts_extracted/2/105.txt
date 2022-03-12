@@ -1,0 +1,57 @@
+UNA STRUTTURA TRASVERSALE DEDICATA ALLA TUTELA DELLA RISORSA IDRICA: LE INIZIATIVE DI ACEA ATO 2  
+E LA METODOLOGIA DEI DISTRETTI
+Grazie all’impegno condiviso delle Società  taggio in termini di riduzione di volumi per- di portata e pressione, produzione carto-
+dell’Area industriale Idrico, che si sono con- si, e consente, grazie al controllo puntuale  grafica, analisi delle utenze e bilancio idri-
+frontate, durante l’anno, nell’ambito di una  sulle singole parti di rete, di identificare con  co, modellizzazione matematica ed attività  
+Struttura organizzativa dedicata alla tutela  tempestività l’eventuale insorgere di perdite  di ricerca perdite. Le risultanze delle attività 
+della risorsa e al contenimento delle perdite,  o di anomalie di altra natura e di procedere  di studio ed efficientamento sono state im-
+è stato possibile implementare numerosi in- al risanamento. L’applicazione del sistema  portate nei sistemi GIS.
+terventi sulle reti. In particolare, Acea Ato 2   produce un generale miglioramento della  Le azioni intraprese hanno permesso di ri-
+ha portato avanti l’attività di distrettualiz- gestione della rete, agevolando gli interventi  durre i volumi persi di risorsa idrica per un 
+zazione, ovvero di suddivisione della rete in  di riparazione e riducendo la frequenza dei  totale stimato in circa 79 milioni di metri 
+aree tra loro non connesse e con immissio- guasti. Complessivamente, Acea Ato 2 ha  cubi (oltre il 20% dei volumi persi nel 2016, 
+ni misurate. La metodologia, basata sui di- analizzato circa 6.200 km di rete di distri- pari a 384 Mm3, anno base per la realiz-
+stretti idrici, permette l’ottimizzazione delle  buzione e realizzato 300 distretti di misura.  zazione progressiva di un target del Piano  
+pressioni di esercizio con un immediato van- L’attività è stata articolata in rilievi, misure  di Sostenibilità).
+Acea Ato5 ha approfondito lo studio delle reti di distribuzione  nola, Angri e Gragnano; gli interventi, inclusa la bonifica delle reti, 
+e realizzato distretti idrici (in particolare nei Comuni di Atina,  hanno consentito un recupero della risorsa idrica, stimato in circa 
+Cassino, Castrocielo, Colfelice, Fiuggi, Frosinone, Morolo, Ser- 193 l/s per l’intero Ambito distrettuale Sarnese-Vesuviano.
+rone, Sora, Strangolagalli, Roccasecca, Patrica, Sgurgola, Supi- Gesesa, nel corso del 2019, ha proseguito l’analisi degli assetti delle 
+no). Dopo una precisa ricostruzione della rete e il contestuale  reti idriche e l’attività di ricerca e recupero perdite con 110 km di rete 
+aggiornamento del sistema informativo geografico (GIS), sono  ispezionata e la bonifica di circa 2,6 km di rete; la Società sta inoltre 
+stati realizzati 148 distretti, che hanno interessato circa 1.190  sviluppando la distrettualizzazione delle reti, estendendo, progressi-
+km di rete idrica. Inoltre, l’installazione di misuratori di portata,  vamente, la riduzione delle pressioni in tutti i comuni gestiti. 
+nella maggior parte predisposti al telecontrollo, ha permesso di 
+quantificare puntualmente l’immesso in rete, mentre il posizio- GESTIONE DELLE UTENZE E CONTINUITÀ  
+namento di misuratori di pressione nei punti critici ha consentito  DEL SERVIZIO 
+di identificare le zone con maggiori criticità e risolvere le rela- Tutte le Società hanno portato avanti nel 2019 le attività di in-
+tive problematiche. L’attività di ricerca, realizzata anche tramite  stallazione di nuovi contatori e sostituzione di quelli vetusti (si 
+sistemi acustici, ha consentito di indentificare 140 perdite, di cui  veda tabella n. 25). Acea Ato 2, nell’ambito delle attività di sosti-
+40 occulte. Attraverso la distrettualizzazione e l’installazione dei  tuzione massiva dei contatori, ha portato avanti il progetto pilota 
+dispositivi di riduzione di pressione, è stato stimato un risparmio  in ambito IoT denominato “Sviluppo Telelettura Contatori Idrici”, 
+di circa il 5% dell’immesso in rete, pari a circa 90 l/s. sviluppando un prodotto denominato “Proteus” e installando, al 
+Gori attua interventi di bonifica reti e riduzione delle perdite idri- 31.12.2019, circa 17.000 contatori in modalità telelettura (si veda 
+che attraverso la regolazione del regime pressorio, grazie all’in- il box dedicato). Acea Ato 5, che ha effettuato nell’anno oltre 
+stallazione di valvole dedicate, ed effettua, ogni anno, con il pro- 10.500 interventi di sostituzione di contatori malfunzionanti, 
+prio personale specializzato, attività di ricerca perdite sistematica  implementerà un progetto di sviluppo della telelettura analogo a 
+sulle reti idriche. In particolare nel 2019, sono state installate  quello di Acea Ato 2, con soluzioni di connettività e lo sviluppo  
+complessivamente 71 valvole, tra regolazione della pressione e  di un centro di gestione, in capo alla Società Areti, dotato di 
+della portata, e la ricerca ha interessato complessivamente 1.399  un’architettura integrata nella mappa applicativa Acea. Gori ha 
+km di rete idrica del territorio gestito, in particolare i comuni di  effettuato nell’anno circa 75.200 interventi sui contatori, la 
+Casalnuovo di Napoli, Castellammare di Stabia, Anacapri, Siano,  maggior parte dei quali per la loro sostituzione, e Gesesa circa 
+Nocera Inferiore, Lettere, Tufino, Meta Di Sorrento, Roccarai- 2.400 interventi.
+PROTEUS PER LA TELELETTURA DEI CONTATORI IDRICI: 17.000 INSTALLATI NEL 2019
+Acea Ato 2 ha proseguito nel 2019 un proget- turazione. Il modulo radio è dotato di una batte- utenze idriche gestite. In Acea Ato 5 sarà im-
+to, svolto in collaborazione con Areti, esperta  ria integrata e di una SIM card con connettività  plementato un progetto analogo a quello già 
+nell’ambito  della  telegestione  dei  misuratori  GPRS o NB-IoT non amovibile.  attivato in Acea Ato 2.
+elettrici, finalizzato a leggere da remoto le misu- Nel 2019 sono stati installati e messi in esercizio  Il sistema, una volta a regime, consentirà una 
+re rilevate dai contatori idrici delle utenze gesti- circa 7.000 Proteus GPRS e 10.000 Proteus  misurazione più precisa e puntuale dei volu-
+te. È stato sviluppato e collaudato un prodotto  NB-IoT su altrettante utenze idriche e svilup- mi erogati alle utenze, con un conseguente 
+brevettato denominato “Proteus” che storicizza  pate ulteriori evoluzioni del sistema, per mas- miglioramento  dell’efficacia  dei  processi  di 
+gli impulsi comunicati dal dispositivo installato  simizzarne l’efficacia e l’efficienza. L’obiettivo  fatturazione e di bilancio idrico, nonché una 
+sul contatore e li tramuta in letture da inviare al  del progetto è sviluppare soluzioni di telelettu- maggiore consapevolezza sui consumi da parte  
+Centro Gestione, connesso con i sistemi di fat- ra sempre più efficaci per installarle su tutte le  degli utenti.
+La continuità dell’erogazione dell’acqua è uno dei parametri di ser- i dati dell’ultimo triennio, relativi alle interruzioni e riduzioni idriche, 
+vizio fondamentali per la soddisfazione dei clienti, che è stato sot- urgenti (per guasti accidentali a condotte o impianti, interruzione 
+toposto a regolazione da parte dell’ARERA. La tabella n. 26 riporta  energetica, ecc.) o programmate, per le Società in esame. 
+110 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

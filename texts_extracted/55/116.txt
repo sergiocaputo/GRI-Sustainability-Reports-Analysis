@@ -1,0 +1,58 @@
+ALLEGATI DNF - Bilancio di Sostenibilità 2019 Gruppo CAP
+Quota	fissa
+Uso pubblico 
+- 0,292566 0,307194 0,322553 0,345133 0,172370 0,508428
+disalimentabile La quota fissa è applicata indipendentemente dal volume consumato e quantificata per singolo servizio: 
+Altri usi - uso con  acquedotto, fognatura e depurazione.
+funzioni pubblica  - 0,292566 0,307194 0,322553 0,345133 0,172370 0,508428
+Per uso domestico residente e uso condominiale è applicata con criterio «pro capite» fino ad un massimo di tre 
+utilita’ e sociali
+componenti per unità abitativa. In assenza di dichiarazioni da parte del titolare dell’utenza in merito al numero di 
+Altri usi - uso 
+irrigazione e  - 0,279728 0,293715 0,308400 0,329988 - - residenti, è prevista l’applicazione della quota fissa standard per unità abitativa. Per uso domestico non residente, 
+collettivo
+la quota fissa è applicata con criterio «pro die».
+Altri usi - uso non 
+- 0,173161 0,181820 0,190911 0,204275 0,172370 0,508428
+potabile
+Altri usi - uso  QUOTA FISSA
+- 0,473382 0,489497 0,513972 0,549950 0,172370 0,508428
+diverso
+Tipologia di fornitura a uso domestico Acquedotto Fognatura Depurazione
+Uso domestico residente uso condominiale -
+Classi	di	consumo	 Unità uso domestico per persona al giorno 0,006333  0,004223  0,008709
+Per la determinazione dell’estremo superiore della prima fascia di consumo a tariffa agevolata (uso domestico 
+Uso condominiale unità uso non domestico per giorno  0,057005  0,038003  0,078382
+residente e uso condominiale) e della prima fascia di consumo a tariffa base (uso domestico non residente e usi 
+non domestici) saranno utilizzati i seguenti valori: 
+Uso domestico non residente per giorno  0,019001  0,012668  0,026127
+CLASSI DI CONSUMO Quota fissa standard per unità abitativa per giorno  0,019001  0,012668  0,026127
+Tipologia di fornitura  Quantità a tariffa agevolata (mc) Quantità a tariffa base (mc)
+Per usi non domestici la quota fissa è applicata con criterio «pro die» in funzione del diametro del contatore.
+Uso domestico residente - uso condominiale  
+0,090411
+per persona al giorno 
+QUOTA FISSA
+Uso domestico residente uso condominiale  
+0,271233
+per unità uso domestico al giorno (standard 3 componenti) 
+Tipologia di fornitura a uso non domestico Acquedotto Fognatura Depurazione
+Uso condominiale per unità uso non domestico al giorno  0,547946
+DIAMETRO CONTATORE 15 - per giorno 0,057005  0,038003  0,078382
+Uso domestico non residente per giorno  0,542466
+DIAMETRO CONTATORE 20 -per giorno 0,057005  0,038003  0,078382
+Usi non domestici per giorno  0,547946
+DIAMETRO CONTATORE 25 -per giorno 0,076007  0,050671  0,104509
+Per uso domestico residente e uso condominiale è applicata con criterio «pro capite». In assenza di dichiarazioni 
+DIAMETRO CONTATORE 30 -per giorno 0,076007  0,050671  0,104509
+da parte del titolare dell’utenza in merito al numero di residenti, è prevista l’applicazione per unità abitativa 
+(standard 3 componenti). DIAMETRO CONTATORE 40 -per giorno 0,095009  0,063338  0,130636
+Per la determinazione degli estremi superiori delle successive fasce di consumo
+− per usi domestici sarà moltiplicato per 2 il valore dell’estremo della fascia precedente; DIAMETRO CONTATORE 50 -per giorno 0,152014  0,101341  0,209017
+− per usi non domestici sarà moltiplicato per 3 il valore dell’estremo della fascia precedente.
+DIAMETRO CONTATORE 65 -per giorno 0,190016  0,126678  0,261272
+DIAMETRO CONTATORE 80 -per giorno 0,285025  0,190016  0,391908
+DIAMETRO CONTATORE 100 -per giorno 0,380032  0,253355  0,522545
+DIAMETRO CONTATORE 150 -per giorno 0,475041  0,316693  0,65318
+DIAMETRO CONTATORE > 150 -per giorno 0,570048  0,380032  0,783817
+232 233

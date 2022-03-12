@@ -1,0 +1,40 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+PARTE B – INFORMAZIONI SULLO STATO PATRIMONIALE CONSOLIDATO
+ATTIVO
+Sezione 1 – Cassa e disponibilità liquide – Voce 10
+1.1 Cassa e disponibilità liquide: composizione
+31/12/2017  31/12/2016 
+ 
+a) Cassa  109.923  112.304 
+b) Depositi liberi presso Banche Centrali  -  - 
+Totale 109.923  112.304 
+Sezione 2 – Attività ﬁnanziarie detenute per la negoziazione – Voce 20
+(cid:21)(cid:17)(cid:20)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:81)(cid:88)(cid:87)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:81)(cid:72)(cid:74)(cid:82)(cid:93)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+ 
+31/12/2017  31/12/2016 
+Voci/Valori 
+L1  L2  L3  L1  L2  L3 
+A. Attività per cassa 
+1. Titoli di debito  2.013  -  -  4.750  -   - 
+1.1 Titoli strutturati  -   -  -   -   -   -  
+1.2 Altri titoli di debito  2.013  -  -  4.750  -   - 
+2. Titoli di capitale  2  528  1  3.035  437  1 
+3 Quote di O.I.C.R.  -  -  -   -   -   -  
+4. Finanziamenti  -   -  -   -   -   -  
+4.1 Pronti contro termine attivi  -   -  -   -   -   -  
+4.2 Altri  -   -  -   -   -   -  
+Totale A  2.015  528  1  7.785  437  1 
+B. Strumenti derivati 
+1. Derivati finanziari:  -  332  -  230  501  -  
+1.1 di negoziazione  -  332  -  230  501  -  
+1.2 connessi con la fair value option  -   -  -   -   -  -  
+1.3 altri  -   -  -   -   -   -  
+2. Derivati creditizi:  -   -  -   -   -   -  
+2.1 di negoziazione  -   -  -   -   -   -  
+2.2 connessi con la fair value option  -   -  -   -   -   -  
+2.3 altri  -   -  -   -   -   -  
+Totale B  -  332  -  230  501  -  
+Totale (A+B)  2.015  860  1  8.015  938  1 
+L’importo relativo ai titoli di debito si riferisce essenzialmente a esposizioni verso lo Stato Italiano per un valore no-
+minale di 2 milioni di euro (controvalore 2,01 milioni di euro).
+446

@@ -1,0 +1,29 @@
+Table 51: SECH AC machines situation
+TOTAL  AC MACHINES 
+AC MACHINES  GAS R22  GAS R22 
+TOTAL  KGS OF  TCO ADDED AC  ELIMINATED 
+YEAR 2  DISMANTLED  DISPOSED  RESIDUAL 
+UNITS CONTAINED  EQUIVALENT MACHINES AND NOT 
+AND REPLACED (kg) (kg)
+GAS REPLACED
+2017 171 187,495 354,395 9 3 0 0 7,64
+2018 180 204,905 386,522 11 9 0 0 7,64
+2019 181 212,865 402,711 9 1 0 1,15 6,49
+Table 52: TDT AC machines situation
+TOTAL  AC MACHINES 
+AC MACHINES  GAS R22  GAS R22 
+TOTAL  KGS OF  TCO ADDED AC  ELIMINATED 
+YEAR 2  DISMANTLED  DISPOSED  RESIDUAL 
+UNITS CONTAINED  EQUIVALENT MACHINES AND NOT 
+AND REPLACED (kg) (kg)
+GAS REPLACED
+2017 202 194 403 21 3 0 0 0
+2018 203 255 465 14 1 0 0 0
+2019 208 273 48930 19 0 0 0 0
+30. The tons of COeq indicated are not emitted, they are the accounting of the gases included. 
+2
+Emissions are only there in case of losses. In 2019 equal to: R134A = kg 2.5; R410A = Kg 2,5; R404A = Kg 
+4, for a total of 24.483 tons COeq emitted (2.5 * 1430 + 2.5 * 2088 + 4 * 3922) / 1000), NOT included in 
+2
+scope 1 and 2 emissions.
+112 | SECH • TDT 2019 Sustainability Report

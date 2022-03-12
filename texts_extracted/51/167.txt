@@ -1,0 +1,36 @@
+8. Ambiente
+8.1 Gli impatti ambientali diretti: consumi di uffici e filiali
+A fronte dei consumi di energia riportati, il Gruppo Bancario Cooperativo Iccrea ha registrato nell’anno 
+emissioni di gas ad effetto serra pari a circa 14.073 tonnellate di CO  equivalente.
+2
+EMISSIONI DI GAS AD EFFETTO SERRA (TCO2EQ) - 2019 - GRUPPO ICCREA
+EMISSIONI TOTALI* 14.073,66818
+EMISSIONI SCOPE 1 13.275,08032
+DA UTILIZZO DI COMBUSTIBILI 8.920,966098
+DA UTILIZZO DELLA FLOTTA AZIENDALE 4.354,114221
+EMISSIONI SCOPE 2** 798,587861
+MARKET BASED 798,587861
+* Le emissioni sono espresse in Tonnellate di CO2 equivalente e ricomprendono nel calcolo le emissioni di CO2, CH4 e N2O, 
+come previsto dalle “Linee guida sull’applicazione in banca degli Indicatori Ambiente del GRI” di AbiLab. 
+** Per il calcolo delle emissioni Market Based: 1) le emissioni derivanti da elettricità acquistata da fonti non rinnovabili sono 
+state calcolate sulla base del Residual Mix per l’Italia emanato dall’AIB per il 2017, pari a 480 gCO2e/KWh; 2) la quota di energia 
+elettrica acquistata da fonti rinnovabili è interamente coperta da Certificati di Origine, pertanto il fattore emissivo è considerato 
+pari a 0; 3) le emissioni afferenti al teleriscaldamento sono stimate sulla base dei fattori di emissione medi definiti dall’ISPRA 
+applicati al combustibile utilizzato per la produzione dell’energia termica da parte del fornitore.
+Così come previsto dalle “Linee guida sull’applicazione in banca degli Indicatori Ambiente del GRI” di 
+AbiLab riportiamo qui di seguito la rendicontazione delle Emissioni di gas serra (Scopo 2) mediante 
+una metodologia ulteriore a quella “Market Based”, utilizzata in precedenza. 
+Tale metodologia, detta “Location Based”, considera il contributo dei fattori di emissione medi della 
+rete di distribuzione utilizzata dall’organizzazione per i propri consumi di energia elettrica. Le Linee 
+guida prevedono l’utilizzo di una formula in cui la variabile principale fa riferimento ai KWh di energia 
+elettrica complessivamente acquistati dal Gruppo Iccrea (sia rinnovabile che non rinnovabile).
+EMISSIONI DI GAS AD EFFETTO SERRA (TCO2EQ) (CON METODOLOGIA LOCATION BASED) - 2019 - GRUPPO ICCREA
+EMISSIONI SCOPE 2* 153,1386482
+LOCATION BASED 153,1386482
+* Per il calcolo delle emissioni Location Based è stata utilizzata la formula proposta dalle Linee guida ABI sull’applicazione in 
+banca degli standard GRI: ((Y*316+ 28*Y*0,0176+ 265*Y*0,0037)/1.000.000). Nella formula applicata Y si riferisce ai KWh di 
+energia elettrica complessivamente acquistata dal Gruppo (sia rinnovabile che non rinnovabile).
+L’attività del Gruppo Bancario Cooperativo Iccrea si conforma costantemente alle prescrizioni norma-
+tive in essere, sia a livello della Capogruppo (Iccrea Banca, Società del perimetro diretto e indiretto) sia 
+a livello delle singole BCC affiliate.
+PERSONE ECOSISTEMA RESPONSABILITÀ 167

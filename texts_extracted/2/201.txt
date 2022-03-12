@@ -1,0 +1,50 @@
+INFORTUNI E INDICI DI FREQUENZA E GRAVITÀ (2018-2019)
+2018 2019
+infortuni (n.) 11 9
+giorni totali assenza (*) 264 284
+ore lavorate  670.106 669.472
+indice frequenza (IF) (n. inf. x 1.000.000/ore lav.) 16,42 13,44
+indice gravità (IG) (gg. assenza x 1.000/ore lav.) 0,58 0,42
+(*) Il dato include anche i giorni di assenza relativi a prosecuzioni o riaperture di infortuni degli anni precedenti.
+I CORSI E I COSTI DELLA FORMAZIONE IN ACQUEDOTTO DEL FIORA (2018-2019)
+tipologia corsi corsi (n.) edizioni (n.) formazione (ore) costi (euro)
+2018 2019 2018 2019 2018 2019 2018 2019
+informatica 8 6 22 9 750 958 10.632 0
+inserimento neo-assunti  1 1 4 3 84 52 0 0
+tecnico-specialistica 18 11 39 22 926 453 27.140 26.182
+manageriale 3 5 3 7 976 296 0 9.280
+amministrativo-gestionale  16 16 20 18 844 890 14.505 4.450
+sicurezza  28 19 75 40 3.879 3.053 13.449 3.990
+totale 74 58 163 99 7.459 5.702 65.726 43.902
+DIPENDENTI FORMATI (2018-2019)
+(n.) 2018 2019
+uomini donne totale uomini donne totale
+236 80 316 268 84 352
+Nel 2019 la Società ha svolto corsi di aggiornamento professio- svolto ulteriori sessioni formative in materia di gestione dei rischi 
+nale dei dipendenti su qualità tecnica e commerciale; inoltre, in  connessi alle attività operative.
+tema sicurezza sul lavoro, oltre alla formazione obbligatoria, ha 
+LE CONSISTENZE DI RETI E IMPIANTI 
+SISTEMA IDRICO GESTITO DA ACQUEDOTTO DEL FIORA (impianti attivi) (2017-2019)
+2017 2018 2019
+rete idrica (km) 9.315 8.168(*) 8.233
+  acquedotti e reti di adduzione (km)  1.967 1.966 1.984
+  rete di distribuzione (km) (**) 7.348 6.194  6.249
+opere di presa pozzi (n.) 184 188 159
+opere di presa sorgenti (n.) 248 248 250
+opere di presa fiumi (n.) 1 1 1
+opere di presa laghi (n.) 3 3 3
+stazioni di sollevamento (n.) 284 291 292
+piezometri (n.) 13 13 13
+serbatoi (n.) 796 800 800
+impianti di disinfezione/trattamento (n.) 31 32 32
+dissalatore acque marine (n.) 3 3 3
+(*)   Il dato 2018 è stato rettificato rispetto a quanto pubblicato precedentemente. 
+(**) Si fa presente che, a partire dal 2018, il dato relativo alla lunghezza complessiva della rete idrica non include gli allacci, così come delibera dell’ARERA 917/2017. 
+IMPIANTI DI DEPURAZIONE E FOGNATURA GESTITI DA ACQUEDOTTO DEL FIORA (2017-2019)
+2017 2018 2019
+impianti di depurazione (n.) (*) 144 145  146
+sollevamenti fognari (n.) 271 273 285
+rete fognaria (km) (**) 3.215 1.594 1.644
+(*)   I dati includono le fosse Imhoff. 
+(**) Il dato 2018 è stato rettificato a seguito della ricognizione svolta con sistema informativo geografico GIS.
+206 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

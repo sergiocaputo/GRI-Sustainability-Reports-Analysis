@@ -1,0 +1,45 @@
+ 
+  Current portion of 
+Non-current  Current financial  Other current  bank loans and  Other current 
+  Trade receivables  financial assets  assets  assets   Total assets  Total  current account  liabilities  Total liabilities  Net balance  
+facilities 
+ Joint Venture  (AIASA JV)  11,386  -  -  -  11,386  843  -  -  843  10,543 
+ Joint Venture Aktor Ate - Impregilo S.p.A.  12,063  -  -  -  12,063  -  -  -  -  12,063 
+ Joint Venture Aktor S.A. - Impregilo S.p.A.  -  -  332  -  332  -  -  -  -  332 
+ Joint Venture Impregilo S.p.A. - Empedos S.A. - Aktor  -  -  21,470  870,199  891,669  -  -  -  -  891,669 
+ La Quado S.c.a.r.l.  -  -  216,980  -  216,980  -  -  -  -  216,980 
+ Lambro Scrl  6,611  -  134  -  6,745  629  -  -  629  6,116 
+ Line 3 Metro Stations  90,986  -  275,900  -  366,886  -  -  231,726  231,726  135,160 
+ Metro Blu  45,375,061  -  -  -  45,375,061  43,885,263  -  -  43,885,263  1,489,798 
+ Metrogenova S.c.r.l.  30,590  -  -  -  30,590  269,982  -  -  269,982  (239,392) 
+ Mobilink Hurontario General Partnership  6,783,972  -  -  -  6,783,972  -  -  -  -  6,783,972 
+ Mobilinx Hurontario Contractor  726,707  -  -  -  726,707  -  -  -  -  726,707 
+ Mobilinx Hurontario DBJV  -  -  2,159  -  2,159  -  -  -  -  2,159 
+ Napoli Cancello Alta Velocità S.c.r.l.  25,237,412  -  -  -  25,237,412  49,292,545  2,228,432  -  51,520,977  (26,283,565) 
+ Ochre Holding  -  14,202,162  -  -  14,202,162  -  -  -  -  14,202,162 
+ Ochre Solutions Ltd  389,830  -  -  -  389,830  -  -  -  -  389,830 
+ Olbia 90 S.c.r.l.  94,846  -  -  -  94,846  -  -  -  -  94,846 
+ Passante di Mestre S.c.p.A.  606,308  -  -  -  606,308  207,294  -  -  207,294  399,014 
+ Passante Dorico S.p.A.  17,812  -  36,643  -  54,455  -  -  -  -  54,455 
+ Pedelombarda S.c.p.a.  2,239,156  -  2,463  -  2,241,619  2,171,158  -  -  2,171,158  70,461 
+ Pedemontana Veneta S.p.A.  92,210  -  392,236  -  484,446  -  -  -  -  484,446 
+ Pergenova  63,495,978  -  -  -  63,495,978  64,438,255  -  -  64,438,255  (942,277) 
+ Puentes  979  -  -  -  979  -  -  -  -  979 
+ S.Agata  1,402,972  -  -  -  1,402,972  15,783,762  2,251,859  -  18,035,621  (16,632,649) 
+ S.I.MA. GEST 3 S.c.r.l.  -  -  -  -  -  162,355  -  -  162,355  (162,355) 
+ S.Ruffillo S.c.a.r.l.  -  -  -  -  -  17,878,405  -  -  17,878,405  (17,878,405) 
+ Salini Impregilo - NGE Genie Civil S.a.s  512,166  -  -  -  512,166  -  -  -  -  512,166 
+ Salini Impregilo - Kolin  3,696,048  -  134,805  -  3,830,853  -  -  -  -  3,830,853 
+ San Benedetto S.c.r.l.  -  -  -  -  -  45,520  -  26  45,546  (45,546) 
+ Sclafani S.c.r.l.  408,187  -  -  -  408,187  -  -  -  -  408,187 
+ Sedi scarl  65,325  57,608  -  -  122,933  16,858  -  -  16,858  106,075 
+ Segrate  260,146  -  4,000  -  264,146  1,796,392  -  -  1,796,392  (1,532,246) 
+ Sellero S.c.r.l. (in liq.)  -  -  58,503  -  58,503  -  -  -  -  58,503 
+ SFI leasing  -  -  -  -  -  -  -  1,290,081  1,290,081  (1,290,081) 
+ SHIMMICK  36,235,787  -  -  605,238  36,841,025  -  -  -  -  36,841,025 
+ Sibar Arge  553,724  -  331,675  -  885,399  73,267  -  -  73,267  812,132 
+ Sirjo S.c.p.A.  10,784,772  -  1,630,209  -  12,414,981  19,189,622  -  -  19,189,622  (6,774,641) 
+ Sistranyac S.A.  328  -  -  -  328  -  -  -  -  328 
+ Soingit S.c.r.l.  32,439  -  -  -  32,439  3,660  -  -  3,660  28,779 
+ SPV Linea M4 Spa  118,447  23,004,859  -  -  23,123,306  27,000  -  -  27,000  23,096,306 
+   362 

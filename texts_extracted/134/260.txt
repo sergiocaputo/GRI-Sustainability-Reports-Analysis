@@ -1,0 +1,46 @@
+ 
+The following table summarises Salini Impregilo’s share of the assets and liabilities of Cossi Costruzioni S.p.A. 
+at the acquisition date and their fair value measured on a provisional basis at such date for the PPA procedure:  
+ 
+ (€’000)    Carrying amount    Fair value 
+Non-current assets    35,781    27,063 
+of which:         
+- Property, plant and equipment    11,366    11,366 
+- Right-of-use assets    2,088    2,088 
+- Goodwill    3,011    - 
+- Equity investments    13,609    13,609 
+- Deferred tax assets    5,707    - 
+Inventories    3,201    3,201 
+Trade receivables    19,288    21,704 
+Cash and cash equivalents    706    706 
+Contract assets    4,497    10,286 
+Current financial assets    10,387    10,387 
+Other current assets    6,306    3,552 
+Total assets    80,166    76,899 
+Post-employment benefits and employee benefits    352    352 
+Non-current bank loans and borrowings    13,127    13,127 
+Provisions for risks and charges    1,029    1,029 
+Trade payables    28,142    28,142 
+Other current liabilities    11,306    10,812 
+Current bank loans and borrowings    16,190    16,190 
+Total liabilities    70,146    69,651 
+Net assets acquired    10,020    7,247 
+Less non-controlling interests    (3,657)    (2,645) 
+Net assets acquired (net of non-controlling interests)    6,363    4,602 
+         
+At the acquisition date, gross trade receivables amounted to €19.6 million and the loss allowance to €0.3 million. 
+The cash used for the acquisition, net of cash acquired, is set out below: 
+ 
+(€’000)         
+Cash and cash equivalents        706 
+Non-current assets        27,063 
+Other current assets        49,130 
+Non-current liabilities        (14,507) 
+Current liabilities        (55,144) 
+Total net assets acquired        7,247 
+Less non-controlling interests        (2,645) 
+Total net assets acquired attributable to the owners of the parent        4,602 
+Less cash acquired        (706) 
+Cash and cash equivalents net of cash acquired and used for the acquisition        3,896 
+ 
+   261 

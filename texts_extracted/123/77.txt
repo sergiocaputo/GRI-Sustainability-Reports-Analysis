@@ -1,0 +1,53 @@
+ 
+Tabella 23 - Numero di dipendenti per qualifica 
+ 
+2018  2017  2016 
+Qualifica 
+M  F  TOT  M  F  TOT  M  F  TOT 
+Dirigenti  23  4  27  26  4  30  28  5  33 
+Quadri Direttivi  347  145  492  342  147  489  333  139  472 
+Livello 1  69  47  116  67  48  115  61  47  108 
+Livello 2  60  35  95  56  38  94  56  35  91 
+Livello 3  82  28  110  81  26  107  78  25  103 
+Livello 4  136  35  171  138  35  173  138  32  170 
+Aree professionali  248  481  729  262  482  744  264  475  739 
+Livello 1  69  67  136  83  77  160  86  68  154 
+Livello 2  66  142  208  64  138  202  57  131  188 
+Livello 3  57  127  184  57  125  182  62  133  195 
+Livello 4  56  145  201  58  142  200  59  143  202 
+Totale  618  630  1.248  630  633  1.263  625  619  1.244 
+di cui: sede/direzione [1]   232  208  440  310  248  558  297  234  531 
+di cui: dipendenze/filiali  386  422  808  320  385  705  328  385  713 
+ 
+[1] Nel 2018 i dipendenti delle aree Retail, Corporate. Imprese e Private (in tutto 116 teste) sono stati conglobati nelle dipendenze/filiali per avere una 
+rappresentazione in linea con le statistiche Banca d'Italia. Questo determina uno scostamento sensibile rispetto alla ripartizione degli anni precedenti. 
+ 
+Le tabella di seguito riportata illustra le caratteristiche della forza lavoro del Gruppo. I dati relativi 
+all’esercizio 2018 non evidenziano significativi scostamenti rispetto all’esercizio precedente.  
+ 
+ Tabella 24 - Dipendenti per tipologia contrattuale ed area geografica  
+ 
+N° dipendenti [1]  2018  2017  2016 
+Numero di dipendenti per 
+M  F  TOT  M  F  TOT  M  F  TOT 
+tipologia contratto  
+Full-time [2]  609  337  946  623  352  975  620  350  970 
+Part-time   9  293  302  7  281  288  5  269  274 
+Totale  618  630  1.248  630  633  1.263  625  619  1.244 
+Numero di dipendenti con 
+contratto a tempo 
+M  F  TOT  M  F  TOT  M  F  TOT 
+indeterminato 
+per tipo di contratto [3] 
+Full time  607  335  942  619  349  968  614  345  959 
+Part time   9  293  302  6  281  287  5  269  274 
+Totale  616  628  1.244  625  630  1.255  619  614  1.233 
+[1] I dati sono rilevati su base consolidata. Il perimetro di consolidamento coincide con quello adottato ai fini contabili 
+[2] Ricompresi gli apprendisti 
+[3] Escluso il contratto a progetto 
+ 
+ 
+ 
+ 
+Sparkasse                      76 
+ 

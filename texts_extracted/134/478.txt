@@ -1,0 +1,45 @@
+ 
+31. Net financing costs 
+Net financing costs amount to €65.0 million compared to €5.8 million for the previous year. 
+The item may be broken down as follows: 
+       
+(€’000)  2018  2019  Variation 
+Financial income  58,472  48,594  (9,878) 
+Financial expense  (95,601)  (119,043)  (23,442) 
+Net exchange gains  31,343  5,432  (25,911) 
+Net financing costs  (5,787)  (65,017)  (59,230) 
+       
+31.1 Financial income 
+Financial income totals €48.6 million (€58.5 million) and is made up as follows:  
+       
+(€’000)  2018  2019  Variation 
+Gains on securities  1,291  3  (1,288) 
+Intragroup interest and other income   28,071  26,402  (1,669) 
+Interest and other financial income  29,110  22,189  (6,921) 
+- Bank interest  15,713  12,760  (2,953) 
+- Other  5,015  6,623  1,608 
+- Default interest  8,303  2,395  (5,908) 
+- Interest on financing  30  352  322 
+- Financial discounts and allowances  49  59  10 
+Total  58,472  48,594  (9,878) 
+       
+The decrease on the previous year is mainly due to: 
+-  the decrease in default interest on receivables from mostly foreign customers (€5.9 million); 
+-  the decrease in interest income from banks, mainly related to the Ethiopian branch (€3.0 million). 
+Interest from group companies amounts to €26.4 million, in line with the previous year, and relates to the 
+following companies: 
+       
+(€’000)  2018  2019  Variation 
+Gupc  9,995  -  (9,995) 
+HCE Costruzioni S.p.A.  5,327  4,973  (354) 
+Yuma    4,965  4,965 
+Salini Nigeria Ltd  3,026  3,436  410 
+Salini Namibia  896  680  (216) 
+Salini Polska  1,681  3,579  1,898 
+ICT II  1,655  1,933  278 
+CMT  1,461  1,345  (116) 
+Eriday  -  636  636 
+Other  4,030  4,855  825 
+Total  28,071  26,402  (1,669) 
+        
+   479 

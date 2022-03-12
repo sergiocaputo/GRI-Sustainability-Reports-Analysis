@@ -1,0 +1,41 @@
+Fattori di conversione Spagna-Cile
+Fattore di conver-
+Paese Fonte
+sione  
+tCO2eq/Kwh
+SPAIN Associations of Issuing Bodies - European Residual 
+0,00044639
+(location-based)* Mixes 2017
+CHILE 2016 IEA Factor
+0,00040209
+(location based)*
+*Location based: considera il contributo dei fattori di emissione medio della rete di distribuzione utilizzata 
+dell’Organizzazione per i propri consumi di energia elettrica.
+Periodo
+Emissioni dirette
+[tCO2eq] 1 ottobre 2016 1 ottobre 2017 1 ottobre 2018
+(Scope 1) / 30 settembre  / 30 settembre  / 30 settembre 
+2017 2018 2019
+VIA CORTE D’APPELLO 11 TO- 374,9 401,5 362,2
+RINO
+Via TRAIANO 18    MILANO 128,9 113,8 67,5
+NEW BUILDING TORINO 6,8 69,9 78,3**
+Milano - Via Carnia 26* + Udine  43,3 39,6 0
+- Puintat 
+BARCELONA, CL VIA AUGUSTA,  N/A 19 19
+258-260
+MADRID-1, C/ SAN BERNARDO  N/A 0 0
+17
+VALENCIA, CL PADRE TOMAS  N/A 0 0
+MONTAÑANA, 28
+REALE SEGUROS, MADRID  0 0 0
+Príncipe de Vergara, 125
+LOS MILITARES 5890 LOS CON- N/A 0 0
+DES, SANTIAGO
+ 
+* la sede ex Uniqa di Milano è stata chiusa nel 2019.  Per le sedi di Udine, Madrid, Valencia e Santiago del Cile, le emissioni 
+dirette sono valorizzate a zero dal momento che gli impianti di riscaldamento e di condizionamento degli stabili avviene 
+esclusivamente attraverso corrente elettrica.  
+** L’aumento  del consumo di gas è dovuto all’utilizzo delle caldaie nell’attesa di completare l’insonorizzazione delle 
+macchine polivalenti.
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019 87

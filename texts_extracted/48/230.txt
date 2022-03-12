@@ -1,0 +1,48 @@
+Our  Consolidated Non-Financial  Appendices to the  Consolidated Financial 
+We, Generali performance Risk Report Outlook Statement Management Report Statements 229  
+Other Comprehensive Income
+Other comprehensive income
+(€ million) 31/12/2018 31/12/2017
+Consolidated result of the period 2,497 2,295
+Items that may be reclassified to profit and loss in future periods 0 0
+Foreign currency translation differences -45 -190
+ Allocation -39 -190
+ Transfer to profit and loss account -5 -0
+Net unrealized gains and losses on investments available for sale -2,322 108
+ Allocation -2,543 282
+ Transfer to profit and loss account 221 -175
+Net unrealized gains and losses on cash flows hedging derivatives 26 41
+ Allocation -11 60
+ Transfer to profit and loss account 37 -19
+Net unrealized gains and losses on hedge of a net investment in foreign operations -4 17
+ Allocation 5 18
+ Transfer to profit and loss account -10 -1
+ Share of other comprehensive income of associates -18 -7
+ Allocation -18 -7
+ Transfer to profit and loss account 0 0
+Result of discontinued operations -308 -196
+ Allocation -223 -25
+ Transfer to profit and loss account -85 -171
+Others 0 0
+ Allocation 0 0
+ Transfer to profit and loss account 0 0
+Subtotal -2,670 -227
+ Allocation -2,829 139
+ Transfer to profit and loss account 159 -366
+Items that may not be reclassified to profit and loss in future periods 0 0
+ Share of other comprehensive income of associates 0 -0
+ Allocation 0 -0
+Result of discontinued operations 25 17
+ Allocation 25 17
+Reserve for revaluation model on intangible assets 0 0
+ Allocation 0 0
+Reserve for revaluation model on tangible assets 0 0
+ Allocation 0 0
+ Actuarial gains or losses arising from defined benefit plans 81 22
+ Allocation 81 22
+Subtotal 106 39
+ Allocation 106 39
+Total other comprehensive income -2,564 -189
+Total comprehensive income -66 2,107
+attributable to the Group -208 2,010
+attributable to minority interests 141 97

@@ -1,0 +1,43 @@
+Table 81: TDT breakdown of dangerous goods by import/export hazard class (%)
+TRANSHIPMENT 
+    EXPORT (%) IMPORT (%)
+(%)
+CLASSES DESCRIPTION  2017 2018 2019 2017 2018 2019 2017 2018 2019
+2 Gas 2,21 0,07 0,00 0,10 0,00 0,04 0,00 0,00 0,00
+2.1 Flammable gases 2,28 4,49 3,00 9,88 6,25 4,45 2,23 2,22 1,56
+2.2 Non-flammable / non-toxic gases 4,39 5,08 0,87 2,98 1,59 5,48 2,35 2,63 1,41
+2.3 Toxic gases 0,20 0,00 1,58 0,00 0,19 0,04 0,12 0,08 0,04
+3 Flammable liquids 22,02 22,15 7,50 21,09 15,30 25,50 24,17 21,46 22,93
+Flammable solids, self-reactive 
+4.1 substances and desensitised  0,49 0,41 0,00 0,31 0,19 0,58 0,18 0,82 0,74
+explosives
+Materials subject to spontaneous 
+4.2 0,03 0,04 0,00 0,00 0,00 0,04 0,12 0,41 3,09
+ignition
+Substances which, in contact with 
+4.3 1,37 2,60 1,82 6,58 7,18 1,57 0,18 0,08 0,00
+water, emit flammable gases
+5.1 Oxidising substances 25,79 27,61 45,73 8,33 20,71 21,96 17,60 12,91 8,93
+5.2 Organic peroxides 0,16 0,22 0,00 0,00 0,19 0,37 0,24 0,90 0,15
+6.1 Toxic substances 2,73 3,38 7,03 6,28 7,74 1,40 5,36 3,45 2,98
+8 Corrosive substances 13,53 14,40 8,85 21,71 19,12 15,12 10,49 10,69 14,63
+Different dangerous materials and 
+9 24,81 19,55 23,62 22,74 21,55 23,44 36,95 44,33 43,54
+objects
+Y
+T
+LI
+BI
+A
+N
+AI
+T
+S
+U
+S
+L 
+A
+CI
+O
+S
+SECH • TDT 2019 Sustainability Report | 181 

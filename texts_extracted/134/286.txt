@@ -1,0 +1,59 @@
+ 
+AGL Contractors JV (Lane)     
+  31 December  31 December    31 December  31 December 
+€’000  2018  2019  €’000  2018  2019 
+Non-current assets       Equity (deficit)  35,248  (18,498) 
+Property, plant and equipment and intangible assets  163  53  Non-current liabilities     
+Total non-current assets  163  53  Total non-current liabilities  -  - 
+Current assets       Current liabilities     
+Cash and cash equivalents and other financial assets  2,963  107  Current financial liabilities  -  
+Other current assets  50,534  483  Other current liabilities  18,412  19,141 
+Total current assets   53,497  590  Total current liabilities  18,412  19,141 
+Total assets  53,660  643  Total liabilities  53,660  643 
+            
+  31 December  31 December       
+€’000 Group share  2018  2019  €’000  2018  2019 
+       Revenue  8,451  (54,692) 
+Opening equity  5,040  7,050  Operating expenses   (8,399)  (3,532) 
+Comprehensive income (expense) attributable to the 
+317  (11,645)  Operating profit (loss)  52  (58,224) 
+owners of the parent 
+Dividends distributed  -  -  Net financing income (costs)  70  (864) 
+Capital increases and other variations  1,693  895  Profit (loss) before tax  122  (59,088) 
+Closing equity (deficit)  7,050  (3,700)  Income taxes   -  - 
+Profit (loss) from continuing 
+Loan asset  -  -   122  (59,088) 
+operations 
+Goodwill and other intangible assets  -  -  Other comprehensive income  1,465  867 
+Carrying amount  7,050  (3,700)  Comprehensive income  1,587  (58,221) 
+(expense) 
+            
+            
+            
+Gupc (Panama)     
+  31 December  31 December    31 December  31 December 
+€’000  2018  2019  €’000  2018  2019 
+Non-current assets       Equity (deficit)  (518,416)  844 
+Property, plant and equipment and intangible assets  783  -  Non-current liabilities     
+Other non-current assets  -    Other non-current liabilities  208  38 
+Total non-current assets  783  -  Total non-current liabilities  208  38 
+Current assets       Current liabilities     
+Cash and cash equivalents and other financial assets  2,537  1,103  Current financial liabilities  783,513  744,404 
+Other current assets  1,220,172  1,599,021  Other current liabilities  958,187  854,838 
+Total current assets   1,222,709  1,600,124  Total current liabilities  1,741,700  1,599,241 
+Total assets  1,223,492  1,600,124  Total liabilities  1,223,492  1,600,124 
+            
+  31 December  31 December       
+€’000 Group share  2018  2019  €’000  2018  2019 
+       Revenue  85,367  89,773 
+Opening deficit  (181,905)  (199,072)  Operating expenses   (63,715)  (46,630) 
+Comprehensive income (expense) attributable to the 
+owners of the parent  (17,167)  (1,414)  Operating profit  21,652  43,143 
+Dividends distributed  -    Net financing costs  (43,210)  (43,143) 
+Capital increases and other variations  -  200,810  Profit (loss) before tax  (21,558)  - 
+Closing equity (deficit)  (199,072)  324  Income taxes   (6)  - 
+Loan asset  562,198  505,919  Profit (loss) from continuing  (21,564)  - 
+operations 
+Impairment  -  (9,703)  Other comprehensive expense  (23,143)  (3,682) 
+Carrying amount  363,126  496,540  Comprehensive expense  (44,707)  (3,682) 
+   287 

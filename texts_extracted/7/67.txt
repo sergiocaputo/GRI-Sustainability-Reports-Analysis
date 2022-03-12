@@ -1,0 +1,51 @@
+     Environmental innovation 2019 2018 2017
+Number of LED lit retail stores 123 117 106
+     Direct and indirect energy consumption (GJ) 2019 2018 2017
+Direct energy consumption from purchased natural gas 98,142 91,548 97,945
+Direct energy consumption from purchased LPG 704 726 714
+Direct energy consumption from purchased heating oil 4,805 5,085 4,744
+Direct energy consumption from purchased diesel and gasoline for automotive use 17,740 15,996 10,734
+Annual direct consumption 121,392 113,356 114,137
+Indirect energy consumption from electricity 635,061 602,156 574,364
+Indirect energy consumption from purchased thermal energy - district heating 21,323 21,913 21,862
+Annual indirect consumption 656,384 624,069 596,226
+     Direct greenhouse gas emissions - scope 1 (t of CO₂ eq.) 2019 2018 2017
+Source
+Natural gas for heating 5,567 5,198 5,531
+LPG for heating 45 46 46
+66 ADSiePseIAl fGor S hEeRatVinICgE  •  2019 INTEGRATED REPORT 347 372 347
+Diesel and gasoline for the Company ﬂ eet 1,282 1,171 776
+Release of refrigerant gases 35,384 39,696 41,027
+Total 42,626 46,483 47,726
+     Indirect greenhouse gas emissions - scope 2 (t of CO₂ eq.) - location based 2019 2018 2017
+GRI Source
+305-2 Electricity - location based  63,054   60,020   59,665 
+Heat from district heating  1,043   1,141   1,199 
+Total  64,097   61,161   60,864 
+     Indirect greenhouse gas emissions - scope 2 (t of CO₂ eq.) - market based 2019 2018 2017
+GRI Source
+305-2 Electricity - market based 13,483 6,356 -
+Heat from district heating 1,043 1,141 1,199
+Total 14,526 7,497 1,199
+Note: all the values in the table are expressed in tonnes of COequivalent, with the exception of emissions from electricity consumption 
+2 
+which are expressed in tonnes of CO.
+2
+The factors used to calculate emissions are taken from the “UK Government GHG Conversion Factors for Company Reporting” tables 
+published by DEFRA (Department for Environment, Food & Rural Affairs). As for the 2019 indirect emissions related to the electricity 
+purchased from Italy’s national power grid, we used the emission factor developed by Terna (updated in 2017).
+     Other indirect greenhouse gas emissions - scope 3 (t of CO₂ eq.) 2019 2018 2017
+GRI Indirect (Scope 3) emissions related to logistics’ transport 14,678   14,896   14,203 
+305-3 Note: the Scope 3 CO equivalent emissions deriving from outbound logistics (freight transport from distribution centres to retail 
+2
+stores) were calculated using the number of km travelled by each vehicle as the primary data and using the emission factors expressed 
+in kg of CO equivalent per km as indicated in the “UK Government GHG Conversion Factors for Company Reporting” tables published 
+2
+by DEFRA (Department for Environment, Food & Rural Affairs). The choice of conversion factor depended on the type of vehicle 
+(articulated, rigid) and weight (> 3.5 - 7.5 tonnes, > 7.5 tonnes - 17 tonnes, >17 tonnes), and considered an average load per vehicle.
+GREENHOUSE GAS EMISSIONS MARKET BASED E LOCATION BASED  (t of CO2 eq.)
+Key
+Location based  Market based 
+2019 2018 2017
+64,097 61,161 60,864
+14,526 7,497 1,199

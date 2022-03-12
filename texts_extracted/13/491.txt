@@ -1,0 +1,37 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+strumento di copertura.
+L’eventuale differenza, che rappresenta la parziale inefficacia della copertura, 
+ne costituisce di conseguenza l’effetto economico netto. La determinazione 
+del fair value è basata su prezzi rilevati in mercati attivi, su prezzi forniti da 
+operatori di mercato o su modelli interni di valutazione, generalmente utilizzati 
+dalla pratica finanziaria, che tengono conto di tutti i fattori di rischio correlati 
+agli strumenti e che sono basati su dati rilevabili sul mercato.
+Lo strumento derivato è designato di copertura se esiste una documentazione 
+formalizzata della relazione tra lo strumento coperto e lo strumento di 
+copertura e se è efficace nel momento in cui la copertura ha inizio e, 
+prospetticamente, durante tutta la vita della stessa. L’efficacia di una 
+relazione di copertura dipende dalla misura in cui le variazioni di fair value 
+dello strumento coperto risultano compensate da quelle dello strumento 
+di copertura. La relazione di copertura si ritiene generalmente efficace se, 
+all’inizio della copertura e nei periodi successivi, le variazioni di fair value 
+dello strumento finanziario di copertura sono compensate dalle variazioni di 
+fair value dello strumento coperto e se i risultati effettivi risultano ricompresi 
+all’interno di un definito intervallo (80%-125%).
+La valutazione dell’efficacia è effettuata ad ogni chiusura di bilancio o in 
+occasione della redazione delle situazioni infrannuali utilizzando: 
+  test prospettici, che giustificano l’applicazione della contabilizzazione 
+di copertura, in quanto ne dimostrano l’efficacia attesa; 
+  test retrospettivi, che evidenziano il grado di efficacia della copertura 
+raggiunto nel periodo cui si riferiscono. In altre parole, misurano 
+quanto i risultati effettivi si siano discostati dalla copertura perfetta. 
+Periodicamente vengono effettuati operazioni di bilanciamento delle citate 
+coperture. Se i test effettuati non confermano l’efficacia della copertura, da 
+quel momento la contabilizzazione delle operazioni di copertura, secondo 
+quanto sopra esposto, viene interrotta, il contratto derivato di copertura 
+viene riclassificato tra gli strumenti di negoziazione e lo strumento finanziario 
+coperto riacquisisce il criterio di valutazione corrispondente alla sua 
+classificazione di bilancio e le variazioni di fair value rilevate sullo strumento 
+coperto sino alla data di interruzione della copertura sono successivamente 
+ammortizzate con il metodo del tasso d’interesse effettivo.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 492

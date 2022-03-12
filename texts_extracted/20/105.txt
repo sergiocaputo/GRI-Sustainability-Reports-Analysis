@@ -1,0 +1,74 @@
+follow
+GRI Standard Disclosure Number of page or link Omissions
+Material Topics
+Energy (Use of alternative fuels 
+and materials e Climate Change)
+GRI 103:  103-1 Explanation of the material  “Methodology note” 
+Management approach  topic and its Boundary  -
+“In waste we see resources” 
+ 
+“We respect the environment in all 
+  our operations” 
+103-2 The management approach  “In waste we see resources” 
+and its components 
+-
+“We respect the environment in all 
+  our operations” 
+103-3 Evaluation of the  “In waste we see resources” 
+management approach 
+-
+“We respect the environment in all 
+our operations” 
+GRI 302:  302-1 Energy consumption within  “Energy consumption” 
+Energy  the organization  -
+“Use of alternative fuels” 
+ 
+302-3 Energy intensity “Energy consumption” -
+Water (Water management)
+GRI 103:  103-1 Explanation of the material  "Methodology note" 
+-
+Management aproach  topic and its Boundary 
+"We respect the environment in all 
+  our operations" 
+103-2 The management approach  "We respect the environment in all 
+-
+and its components  our operations" 
+103-3 Evaluation of the  "We respect the environment in all 
+-
+management approach  our operations" 
+GRI 303:  303-1 Water withdrawal by source “Water consumption”
+-
+Water 
+303-3 Water recycled   “Water consumption”
+-
+and reused
+Emissions (Climate Change  
+e Channeled emissions)
+GRI 103:  103-1 Explanation of the material  "Methodology note" 
+Management approach  topic and its Boundary 
+"We respect the environment in all  -
+  our operations" 
+  "Commitment against climate 
+  change" 
+103-2 The management approach  "We respect the environment in all 
+and its components  our operations" 
+-
+  "Commitment against climate 
+  change" 
+103-3 Evaluation of the  "We respect the environment in all 
+management approach our operations" 
+-
+"Commitment against climate 
+change" 
+GRI 305:  305-1 Direct (Scope 1) GHG  “CO2 emissions”  -
+Emissions  emissions   
+305-2 Energy indirect (Scope 2)  “CO2 emissions”  -
+GHG emissions   
+305-4 GHG emissions intensity  “CO2 emissions”  -
+305-7 Nitrogen oxides (NOx),  “Other air emissions”
+sulphur oxides (SOx), and 
+-
+other significant air 
+emissions 
+follow
+104

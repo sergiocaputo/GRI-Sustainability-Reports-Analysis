@@ -1,0 +1,51 @@
+06_SUPPLEMENTAL INFORMATION_FACTS & FIGURES
+    
+WATER WITHDRAWAL PER UNIT OF PRODUCTION
+FCA worldwide
+Target   2010 
+2020 vs 2010 2018 2017 2016 (base year) Unit of Measurement
+Mass-market vehicle assembly and stamping -40% 3.12 3.12 3.19 4.99 m3/vehicle produced
+Mass-market vehicle engines and transmissions -52% 0.37 0.38 0.40 0.67 m3/unit produced
+Mass-market vehicle casting -15% 1.64 1.71 2.00 2.07 m3/ton produced
+Mass-market vehicle others -50% 0.05 0.05 0.05 0.10 m3/hour of production
+Maserati -15% 5.61 5.92 7.18 14.68 m³/vehicle produced
+Teksid (cast iron) -11% 1.76 1.99 2.32 3.15 m3/ton produced
+Teksid (aluminum) -77% 50.11 55.15 48.91 154.27 m3/ton produced
+Comau -50% 5.76 5.68 6.59 14.10 l/hour of production
+Plastic Components -50% 0.07 0.08 0.05 0.12 m3/hour of production
+FCA up to -77%
+Mass-market vehicle others refers to NAFTA region plants.
+The base year figure for Plastic Components was not restated, and refers to the entire 2010 Magneti Marelli normalized value.
+WATER RECYCLING INDEX
+FCA worldwide (thousands of m3)
+2018 FCA Mass-Market Vehicles Maserati Other Activities
+Assembly and  Engines and Plastic  
+Stamping Transmissions Casting Others Teksid Comau Components
+Total water requirement  2,340,351   1,710,990   439,052   117,055   30,924   17,374   4,338   70   20,548 
+of which covered by recycling  2,318,700   1,695,709   435,925   116,754   30,597   17,131   2,233   -     20,350 
+of which water withdrawal  21,651   15,281   3,127   301   328   243   2,104   70   198 
+Recycling Index (%)  99.1   99.1   99.3   99.7   98.9   98.6   51.5   0.0     99.0 
+2017 FCA Mass-Market Vehicles Maserati Other Activities
+Assembly and  Engines and Plastic  
+Stamping Transmissions Casting Others Teksid Comau Components
+Total water requirement  2,090,867   1,505,468   382,954   117,455   35,435   24,345   4,746   69   20,395 
+of which covered by recycling  2,068,965   1,490,383   379,678   117,131   35,092   24,026   2,431   -     20,224 
+of which water withdrawal  21,901   15,085   3,276   324   342   319   2,315   69   171 
+Recycling Index (%)  99.0   99.0   99.1   99.7   99.0   98.7   51.2   0.0     99.2 
+2016 FCA Mass-Market Vehicles Maserati Other Activities
+Assembly and  Engines and Plastic  
+Stamping Transmissions Casting Others Teksid Comau Components
+Total water requirement  2,243,297   1,549,080   526,620   113,903   16,303   12,812   4,795   79   19,704 
+of which covered by recycling  2,221,048   1,533,597   523,144   113,534   15,938   12,618   2,625   -     19,593 
+of which water withdrawal  22,248   15,483   3,476   370   365   194   2,170   79   111 
+Recycling Index (%)  99.0   99.0   99.3   99.7   97.8   98.5   54.7   0.0     99.4 
+WATER RESOURCES SIGNIFICANTLY AFFECTED BY WATER WITHDRAWAL AND/OR DISCHARGE AT PLANTS
+FCA worldwide
+Water Source 
+Plant Location (Name and Size   Protected   High Biodiversity Water   Water  
+and Activity in m3/Year) Use Water Body Value Water Body Withdrawal Discharges
+Teksid Carmagnola (Italy) Gora del Naviglio river - Process water 
+no no no 57%
+Component Plant 3.5 million effluent
+Water withdrawals and water discharges representing more than 5% of the average annual volume of the water body concerned.     
+126

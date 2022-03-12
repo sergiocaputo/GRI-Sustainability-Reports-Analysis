@@ -1,0 +1,32 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+INFORMAZIONI DI NATURA QUANTITATIVA 
+1. Distribuzione per valuta di denominazione delle attività, delle 
+passività e dei derivati
+Valute
+Euro/migliaia USD GBP JPY CAD CHF ALTRE 
+VALUTE
+A. Attività finanziarie 930 777 46 28 616 1.260
+A.1 Titoli di debito - - - - - -
+A.2 Titoli di capitale - - - - - -
+A.3 Finanziamenti a banche 930 777 46 28 616 1.260
+A.4 Finanziamenti a clientela - - - - - -
+A.5 Altre attività finanziarie - - - - - -
+B. Altre attività 70 20 2 1 11 6
+C. Passività finanziarie 62.118 759 - - 2.585 24
+C.1 Debiti verso banche 11.791 - - - - 24
+C.2 Debiti verso clientela 50.327 759 - - 2.585 -
+C.3 Titoli di debito - - - - - -
+C.4 Altre passività finanziarie - - - - - -
+D. Altre passività - - - - - -
+E. Derivati finanziari - - - - - -
+- Opzioni - - - - - -
++ Posizioni lunghe - - - - - -
++ Posizioni corte - - - - - -
+- Altri derivati - - - - - -
++ Posizioni lunghe 245.147 101 - - 2.221 54
++ Posizioni corte 184.144 98 2 1 119 136
+TOTALE ATTIVITÀ 246.147 898 48 29 2.848 1.320
+TOTALE PASSIVITÀ 246.262 857 2 1 2.704 160
+SBILANCIO (+/-) (115) 41 46 28 144 1.160
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 650

@@ -1,0 +1,68 @@
+TABELLA N. 17 – I PRINCIPALI INTERVENTI PER LA GESTIONE E LO SVILUPPO DI RETI E CABINE ELETTRICHE (2019) (segue)
+misure resistenza di terra su 2.783 cabine secondarie; 
+misure 
+misure tensioni di passo e contatto e della resistenza totale di terra su 75 cabine (24 CP e 51 CS).
+linee MT e BT
+ammodernamento e potenziamento  messi in opera 272 km di cavo MT a 20 kV (12 km per ampliamento e 260 km per rifacimento),  
+reti MT (trasformazione da 8,4 kV   di cui 86 km per incremento resilienza a “ondate di calore”;
+a 20 kV) e BT (trasformazione   messi in opera 328 km di cavo BT (46 km per ampliamento e 282 km per rifacimento propedeutico 
+da 230 V a 400 V) a cambio tensione).
+124 interventi di manutenzione straordinaria (sostituzione apparecchiature, sostegni, conduttori ecc.) 
+manutenzione ordinaria e straordinaria 
+sulle linee aeree MT.
+cabine secondarie (CS) e telecontrollo
+realizzate/ampliate/ricostruite 1.108 cabine secondarie (99 per nuove connessioni o aumenti  
+realizzazione, ampliamento,  di potenza, 1.009 per adeguamento tensione a 20 kV, rinnovo apparecchiature, predisposizione 
+ricostruzione CS telecontrollo), di cui 106 cabine ricostruite per incremento resilienza a “ondate di calore” (33 cabine) 
+e ad “allagamento” (73 cabine).
+manutenzione ordinaria 
+915 interventi di manutenzione straordinaria e 2.602 ispezioni su cabine secondarie.
+e straordinaria su CS 
+esteso a 193 CS e 77 recloser (6.994 nodi MT telecontrollati al 31.12.2019); 
+telecontrollo
+6.696 interventi manutentivi su TLC e recloser.
+Nell’ambito del rafforzamento dei sistemi centrali per il telecon- Riguardo ai contatori digitali e ai sistemi di smart metering, per so-
+trollo, nel 2019 si è prestata particolare attenzione al tema della  stituire i contatori di prima generazione (1G) con quelli di seconda 
+Cyber security. A seguito dei risultati del “security assessment”  (2G), Areti ha bandito una gara pubblica per la fornitura degli appa-
+condotto sulla tecnologia soggiacente alle Infrastrutture Energe- rati 2G e del sistema di acquisizione centrale dei dati con tecnologia 
+tiche è stato definito un piano di interventi, in ambito operativo  più avanzata, che è stata aggiudicata alla società Enel Global Infra-
+(linee di comunicazione con l’esterno) e di governo. Esso ha dato  structure & Networks. Il piano di sostituzione massiva dei contatori 
+impulso alla definizione delle prime policy di Cyber Security e allo  in tecnologia 2G, in approvazione da parte dell’ARERA, verrà avvia-
+svolgimento di attività di Benefit Impact Assessment (BIA) e di  to, a partire dal 2020 e in progressione, in tutto il territorio gestito 
+valutazione del rischio. È stata predisposta la documentazione  di Roma e Formello, per un totale di circa 1,7 milioni di misuratori.
+necessaria all’istituzione di un Security Operation Center (SOC)  Le caratteristiche dei nuovi misuratori attribuiscono ai clienti 
+e sono state inoltre indirizzate attività di innalzamento del livello di  una serie di opportunità e vantaggi, quali, ad esempio: la dispo-
+sicurezza informatica delle cabine primarie e secondarie. nibilità di dati che favoriscono una maggiore consapevolezza dei 
+Durante l’anno si è anche avviata la gara, nell’ambito dell’ac- consumi, con la conseguente possibilità di modificare le proprie 
+cordo tra Acea e Open Fiber, per la realizzazione della rete di  abitudini ai fini del risparmio energetico, la riduzione delle fattu-
+comunicazione a banda larga per la smart grid nel territorio di  razioni in stima, la scelta di offerte commerciali più adeguate alle 
+Roma Capitale, che prevede il collegamento in fibra ottica delle  esigenze di ciascuno, nonché la riduzione dei tempi di switching.
+cabine primarie e secondarie. Si veda anche il capitolo Istituzioni 
+e impresa, per un approfondimento sulle attività di ricerca e in- È infine proseguita, come ogni anno, l’installazione dei contatori 
+novazione ed i progetti implementati.  digitali in telegestione presso le utenze attive in bassa tensione, per 
+un totale, al 31/12/2019, di 1.635.163 misuratori installati, pari al 
+99,7% del totale dei misuratori BT.
+L’ILLUMINAZIONE PUBBLICA
+199.779  91%del totale parco  1.521 ILLUMINAZIONE ARTISTICA 
+PUNTI LUCE  IL     SOSTEGNI 
+225.730 A TECNOLOGIA LED, 
+E   LAMPADE  lampade è a LED: REINSTALLATI 
+rinnovati gli impianti
+7.075 
+GESTITI A ROMA  E  INTERVENTI 
+DIMINUISCONO I CONSUMI 
+IN ALCUNI  
+DI MANUTENZIONE  
+DI ENERGIA E AUMENTA 
+TRA I PIÙ IMPORTANTI  
+LAMAPADE/ARMATURE 
+IL RENDIMENTO MEDIO  monumenti 
+  E VISITATI 
+LED
+PER LAMPADA della Capitale
+In virtù del Contratto di servizio36 tra Acea SpA e Roma Capitale,  mentale, per circa 199.700 punti luce dislocati su un territorio con 
+Areti gestisce, tramite un’Unità dedicata, gli interventi sulle infra- un’estensione di circa 1.300 km2. 
+strutture di illuminazione pubblica funzionale e artistico monu- La Società esegue le attività di progettazione, costruzione, eser-
+36   Con Delibera della Giunta Comunale di Roma n. 130 del 22 dicembre 2010, in merito all’Adeguamento del Contratto di Servizio tra Roma Capitale ed Acea SpA, succes-
+sivamente stipulato il 15 marzo 2011, il rapporto contrattuale è stato rinnovato fino al 31.12.2027. 
+LE RELAZIONI CON GLI STAKEHOLDER 99

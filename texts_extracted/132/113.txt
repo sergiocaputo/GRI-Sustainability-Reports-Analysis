@@ -1,0 +1,42 @@
+Specific standard disclosure
+   
+Indicatore GRI Note Pag.
+CATEGORIA AMBIENTALE I dati ambientali non ricomprendono i dati del-
+le sedi di Aspevi Firenze e Assiorvieto in cui 
+operano 13 dipendenti (2,4% sul totale del 
+Gruppo)
+ENERGIA
+Tematica materiale: Impatti ambientali
+Approccio manageriale
+103 - 1  Spiegazione dei temi materiali e perimetro 102-104,108
+103 - 2  Approccio di Gestione alla tematica 102-104
+103 - 3  Valutazione dell'approccio di gestione alla tematica 102-104
+Indicatori      
+302 - 1  Consumo di energia all’interno dell’Organizzazione 104
+EMISSIONI
+Tematica materiale: Impatti ambientali
+Approccio manageriale
+103 - 1  Spiegazione dei temi materiali e perimetro 106,108
+103 - 2  Approccio di Gestione alla tematica 106
+103 - 3  Valutazione dell'approccio di gestione alla tematica 106
+Indicatori      
+305 - 1  Emissioni dirette di gas serra (Scope 1) Per il calcolo delle emissioni 2019 sono stati 106
+utilizzati i coefficienti delle seguenti fonti: Ita-
+305 - 2  Emissioni indirette di gas serra (Scope 2) lian Greenhouse Gas Inventory 1990 –2017– 106
+National Inventory Report 2019 – Istituto Supe-
+riore per la Protezione e la Ricerca Ambientale 
+(ISPRA); AIB - European Residual Mixes 2019.
+Per il calcolo delle emissioni 2018 sono stati 
+utilizzati i coefficienti delle seguenti fonti: Ita-
+lian Greenhouse Gas Inventory 1990 –2016– 
+National Inventory Report 2018 Annex 6 Natio-
+nal Emission Factors – Istituto Superiore per la 
+Protezione e la Ricerca Ambientale (ISPRA); AIB 
+   - European Residual Mixes 2017 (Vers. 1.13)
+COMPLIANCE AMBIENTALE
+Tematica materiale: Governance e Compliance
+Approccio manageriale
+103 - 1  Spiegazione dei temi materiali e perimetro 106
+103 - 2  Approccio di Gestione alla tematica 106,108
+103 - 3  Valutazione dell'approccio di gestione alla tematica 106
+111122

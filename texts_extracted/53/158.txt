@@ -1,0 +1,27 @@
+Indicatore GRI Descrizione Disclosure Pagine
+GRI 201 - Economic Performance
+201 - 1 Valore economico creato e distribuito 76-79
+201 - 4 Finanziamenti ricevuti dalla Pubblica Amministrazione 79
+GRI 202 - Market Presence
+Rapporto fra lo stipendio standard dei neoassunti per genere e il 
+202 - 1 103
+salario minimo locale  
+202 - 2 Assunzione di personale locale 100
+GRI 203 - Indirect Economic Impacts
+203 - 2 Principali impatti economici indiretti 134-135
+GRI 204 - Procurement Practices
+204 - 1 Fornitori locali 133
+GRI 205 - Anti-corruption
+205 - 2 Comunicazioni e formazione su policy e procedure anti-corruzione 61-62
+205 - 3 Casi di corruzione e azioni intraprese 62
+GRI 206 - Anti-competitive Behavior
+Numero di azioni legali per comportamento anti-concorrenziale o 
+206 - 1 54
+pratiche monopolistiche
+GRI 301 -Materials
+301 - 1 Utilizzo di materie prime 142
+GRI 302 - Energy
+302 - 1 Consumi di energia all’interno dell’organizzazione 143-144
+302 - 2 Consumi di energia fuori dall’organizzazione 144
+302 - 3 Intensità energetica 145
+ 159   

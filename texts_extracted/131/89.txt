@@ -1,0 +1,63 @@
+88 Università degli Studi di Firenze • Bilancio Sociale 2018 • Consumi energetici in TEP  Gas
+per plesso/isolato (anno 2018)  Energia elettrica
+Gasolio
+ (tep) 3000
+2800
+2600
+2400
+2200
+2000
+1800
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+Viale Morgagni Via Bolognese Via Cittadella Alfani-Pergola-Brunelleschi Calenzano Reggello San Gallo Porta Romana Arcetri Santa Reparata Cascine Polo di Sesto Fiorentino Ponte di Mezzo Piazza San Marco Borgo Albizi Zona Via Laura San Niccolò Prato Piazza Indipendenza Borgo San Lorenzo Novoli Architettura Villa Cristina Via della Torretta Via Maragliano Via Donizetti Via delle Gore Via delle Quiete Via San Bonaventura Messina Piazza Savonarola Appartamenti e Magazzini
+5.2.2 Il patrimonio edilizio: confini 
+mediante trigenerazione), ai fini dell’inven- riore del 50% rispetto al valore stimato per il 
+organizzativi ed operativi dell’inventario 
+tario dei consumi energetici il patrimonio edi- terziario a Firenze; se fosse rispettata analo-
+delle emissioni  lizio dell’Ateneo è suddiviso in 31 zone o iso- gamente l’incidenza dell’illuminazione artifi-
+Secondo la norma ISO 14064-134, la prima  lati per 67 complessi edilizi o edifici singo- ciale, valutata per Firenze al 24% dei consu-
+fase della costruzione dell’inventario del- li costituiti da appartamenti e magazzini. Al  mi globali, si può stimare che tale settore po-
+le emissioni è la definizione dei confini orga- momento sono disponibili i dati dei consumi  trebbe assorbire 21 kWh/m3anno. 
+nizzativi e l’individuazione delle installazioni  per singola utenza che sono stati raccolti per  Con i dati ipotizzati e le dovute distinzioni in 
+di cui l’organizzazione si compone. Da questo  Plessi, mentre è in programma un incrocio dei  termini tipologici, tali valori, pur suscettibili 
+punto di vista per le università sono conside- dati dei consumi con i dati dimensionali de- di ampia variazione, forniscono una prima in-
+rate tutte le attività svolte:  gli edifici.  dicazione di larga massima da cui partire per 
+1. entro i suoi confini geografici; Nella Tabella 5.1 è riportata la suddivisione  le analisi successive finalizzate alla definizio-
+2. negli edifici in suo possesso e/o sotto il suo  delle forniture energetiche facenti capo alle  ne dei Piani di riduzione delle emissioni di CO 
+2
+controllo diretto; rilevazioni dei consumi energetici per zona/ dell’Ateneo.
+3. negli edifici per i quali essa abbia in carico  isolato riferite al 2018. Si ricorda che, in merito alla climatizzazio-
+la liquidazione delle fatture di energia elet- Nella figura sono graficizzati i consumi per  ne invernale, si hanno informazioni sui ples-
+trica. plesso/isolato da cui si evince il peso rilevan- si edilizi serviti grazie agli attestati di presta-
+In conformità alle Linee Guida RUS, la scel- te di alcune zone rispetto alle altre: il polo di  zione energetica (APE) risalenti al 2011-2012. 
+ta sulle sedi e gli edifici da considerare è ef- Sesto F.no da solo è pari ai consumi energe- Il patrimonio edilizio per circa la metà è stato 
+fettuata con sufficiente chiarezza, indican- tici di Viale Morgagni, P.zza S.Marco e Novoli;  costruito prima del 1900, e solo alcuni edifici 
+do quali parti dell’ateneo sono considerate  a loro volta i consumi di questi quattro plessi  sono stati oggetto di importanti ristruttura-
+nell’inventario, e quali non sono considerate.  rappresentano il 63% dei consumi comples- zioni/riqualificazioni. 
+Con l’eccezione della zona di Careggi per le ra- sivi di Gas e l’81% dei consumi di energia elet- Questa situazione si riflette sulla classe ener-
+gioni esposte (contratto di fornitura energia  trica. getica degli edifici da cui si evince che nes-
+Per un confronto di larga massima dei con- suno degli stessi va oltre la classe E (20%), 
+sumi elettrici, in termini di energia primaria,  mentre a pari merito, con il 40% ciascuno, si 
+34 UNI EN (2012) ISO 14064-1-2-3, Gas ad effetto ser-
+ra — Parte 1: Specifiche e guida, al livello dell’orga- rispetto al valore di benchmark (122 kWh/ trovano i restanti fabbricati posti nelle classi 
+nizzazione, per la quantificazione e la rendiconta- m2anno circa 40 kWh/m3anno), a partire dal  F e G (quest’ultima la peggiore in assoluto).
+zione delle emissioni di gas ad effetto serra e della 
+Volume totale climatizzato del patrimonio  Siamo quindi ben lontani dall’obiettivo di 
+loro rimozione; Gas ad effetto serra — Parte 2: Spe-
+immobiliare pari a circa 1.170.000 m3, dedot- avere edifici a basso consumo energetico 
+cifiche e guida, al livello di progetto, per la quanti-
+ficazione, il monitoraggio e la rendicontazione del- to dalle certificazioni energetiche degli edi- (classe A o nZEB).
+le emissioni di gas ad effetto serra o dell’aumento  fici, con un fattore di conversione energetica 
+della loro rimozione; Gas ad effetto serra — Parte 
+1 tep = 11630 kWh termici, nel 2018 si ha un 
+3: Specifiche e guida per la validazione e la verifi-
+consumo specifico di 88 kWh/m3anno supe-
+ca delle asserzioni relative ai gas ad effetto serra.

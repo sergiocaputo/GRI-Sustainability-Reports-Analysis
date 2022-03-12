@@ -1,0 +1,58 @@
+ 
+ 
+Rifiuti smaltiti (1)   2017  2016(2)  2015(2) 
+  t  %  t  %  t  % 
+Smaltimento/trattamento  107.713  24  149.146  32  155.607  46 
+Incenerimento  20.879  4  16.896  4  10.606  3 
+Recupero/riciclo  325.029  72  300.977  64  172.401  51 
+TOTALE  453.621  100  467.019  100  338.614  100 
+(1) La differenza tra rifiuti prodotti e smaltiti è dovuta al deposito temporaneo.  
+(2) I dati degli anni 2016 e 2015 hanno subito un restatement con i dati definitivi derivanti dalle dichiarazioni MUD. 
+EMISSIONI IN ATMOSFERA  riscaldamento degli edifici delle varie sedi e/o per altre attività 
+a supporto della produzione; 
+Le attività del Gruppo Iren generano emissioni in atmosfera sia    scope 2: le emissioni di CO derivanti dai consumi indiretti del 
+2
+direttamente, per la produzione, sia indirettamente, attraverso  Gruppo, ovvero le emissioni generate dall'acquisto di energia 
+l’eventuale approvvigionamento da terzi di energia elettrica. In  elettrica da fornitori terzi e consumata sia negli impianti di Iren 
+questa sede vengono considerate:  sia nelle sedi; 
+  scope 1: tutte le emissioni dirette di gas serra prodotte da fonti    scope 3: tutte le emissioni che, seppur collegate all’attività 
+di proprietà del Gruppo, vale a dire le emissioni di CO   caratteristica  e  di  business,  non  vengono  controllate 
+2
+generate  dai  combustibili  bruciati  negli  impianti  per  la  direttamente dal Gruppo; nello specifico Iren rendiconta le 
+produzione di energia e calore, quelle originate dalla flotta  emissioni generate dal trasporto dei rifiuti prodotti dal Gruppo 
+aziendale/automezzi  di  proprietà  e  quelle  derivanti  dal  e avviati a recupero/riciclo. 
+consumo  di  metano  per  la  produzione  di  calore  per  il 
+ 
+Emissioni dirette di CO  – Scope 1 (t)  2017  2016  2015 
+2
+Emissioni dirette da impianti di produzione  3.407.588  3.389.106  2.794.034 
+ -  di cui da cogenerazione, centrali termiche, impianti termoelettrici   3.006.661  3.024.222  2.667.544 
+ -  di cui da termovalorizzatori (quota non biogenica)    400.846    364.681   126.354 
+ -  di cui altre reazioni di combustione per usi di processo o servizi  81  203  136 
+Altre emissioni dirette  8.265  5.839  5.315 
+Emissioni dei mezzi aziendali  13.991  13.343  12.418 
+TOTALE   3.429.844  3.408.288  2.811.767 
+ 
+ 
+Emissioni dirette di CO  biogenica (t)  2017  2016  2015 
+2
+Emissioni dirette da impianti di produzione       
+ -  di cui da termovalorizzatori (quota biogenica)  417.207  379.566   131.511  
+ -  di cui da discariche e depuratori   21.551    18.238    21.776  
+TOTALE   438.758  397.804  153.287 
+ 
+ 
+Emissioni totali di CO  (t)  2017  2016  2015 
+2
+Scope 1 (1)    3.429.844  3.408.288  2.811.767 
+Scope 2 (2)     97.157   94.639   82.126  
+Scope 3 (3)    1.300  1.204  690 
+TOTALE    3.528.301  3.504.131  2.894.583 
+(1)  Calcolate moltiplicando i consumi di combustibile per i coefficienti di emissione, ad esempio: gas naturale 1,956 t di CO2/1000 Smc e gasolio 3,155 t di CO2/t (fonte: 
+standard nazionali utilizzati per l'inventario delle emissioni di CO2 nell'inventario nazionale UNFCC). 
+(2)  I valori degli anni precedenti hanno subito un restatement. Il fattore precedentemente utilizzato teneva conto della fonte esclusivamente termoelettrica, mentre il nuovo 
+fattore 332 gCO2/kwh (Fonte ISPRA) considera il mix delle varie fonti di produzione dell’energia elettrica acquistata.  
+(3)  Calcolate moltiplicando le tonnellate di rifiuti avviati a recupero/riciclo per il fattore di emissione (4 tCO2/t). I dati degli anni 2016 e 2015 hanno subito un restatement 
+in quanto sono stati rettificati i valori relativi ai rifiuti prodotti dal Gruppo avviati a recupero di materia. 
+Gruppo Iren          61 
+ 

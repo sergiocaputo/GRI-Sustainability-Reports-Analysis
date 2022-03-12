@@ -1,0 +1,58 @@
+CERVED GROUP SUSTAINABILITY REPORT 2019
+line with international best practices,  has information protection programs, 
+the Cerved Group has launched a  specialised personnel responsible for 
+certification path for its operational  supervising the systems and periodic 
+processes for the creation and provi- training plans. The IT security systems 
+sion of services, according to the pro- operate according to three principles 
+visions of ISO 22301 Certification on  defined  Availability,  Integrity  and 
+business  continuity  management,  Confidentiality,  implemented  with 
+whose achievement is anticipated by  control systems aimed at preventing:
+the end of 2020.
+›  data loss (backup, systems redun-
+With a view to an approach of contin- dancy), or alteration of the same 
+uous improvement and taking into ac- (antivirus, Web/URL filtering);
+count the evolution of IT technologies  ›  access to IT systems from the out-
+available in the market, Cerved con- side  (anti-intrusion  systems,  fire-
+tinues to follow a multipronged ap- walls, WAF, encryption, HTTPS);
+proach to improve its management  ›  unexpected  access  to  IT  systems 
+system, including: by unauthorised internal personnel 
+(authentication systems, access poli-
+›  Organisational  issues,  relying  on  cies, management of system admin-
+the Security Committee to perform  istrators  according  to  the  current 
+a coordination and monitoring role  regulatory requirements - Privileged 
+with regard to security activities; Access Management PAM).
+›  Verification,  updating  and  mon-
+itoring of the policies and opera- The Cerved Group’s IT system oper-
+tional procedures adopted, includ- ates through two data centers locat-
+ing the two internal procedures for  ed in Italy, in Padua and Cosenza.
+Disaster Recovery and Incident and 
+Problem Management; ›  Padua: the data center located in 
+›  Adoption of new technologies in  Padua is dedicated to production 
+the cybersecurity area; systems,  i.e.  those  systems  that 
+›  Stipulation of a specific insurance  guarantee the production and provi-
+policy to cover cyber risks; sion processes of customer services, 
+›  Monitoring specific risk indicators  as well as data storage and man-
+(also using a third-party Cyber Secu- agement activities. The data center 
+rity Rating system); in Padua uses redundant systems, 
+›  Monitoring the risk of information  which  allow  immediate  interven-
+security with third parties; tions to guarantee the operational 
+›  Vulnerability  assessment  and  continuity of the Cerved Group.
+penetration test activities, carried  ›  Cosenza:  the  data  center  in  the 
+out both with company tools and the  province of Cosenza is home to the 
+skills of internal resources, and by  Disaster  Recovery  systems  which 
+assigning the activities to specialized  allow the restoration of the Cerved 
+external companies; Group’s operations within 24 hours, 
+›  Continuous technological upgrad- as well as the environments in which 
+ing activities to ensure the updat- development  and  testing  activities 
+ing of the IT system and reduce ob- take place.
+solescence;
+›  Maintenance and testing of a Dis- The Cerved Group has two other data 
+aster Recovery system, which du- centers in Milan and Turin, connected 
+plicates  the  production  farm  and  via an integrated computer network to 
+guarantees the alignment of data,  the main data centers. They host the 
+ensuring business continuity in the  systems and applications relating to 
+event of catastrophic events. the production and provision of ser-
+vices of the recently acquired Cerved 
+Data security and protection is one  Group companies.
+of  Cerved  Group’s  priorities,  which 
+92

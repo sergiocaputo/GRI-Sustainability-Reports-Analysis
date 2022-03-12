@@ -1,0 +1,57 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+In 2019, TIM Participações updated its policy on the confidentiality of customer data to ensure that access to the recording 
+and communication of customer data is only allowed to employees who use this information in their work. TIM carries 
+out its activities in accordance with ISO 27001, the international standard that describes the best practice for information 
+security management, although it has not yet obtained the relevant certification.  
+ In the event that a customer submits a complaint for violation of privacy, Tim Participações assesses the situation and 
+provides clarification to resolve any problems (even potential ones). Customers have access to privacy information when 
+they sign TIM plans according to the terms and conditions of the contract (the update of which is currently in progress to 
+comply with the General Regulation on Data Protection, which will take effect in August 2020). 
+TIM Participações continuously monitors its systems to prevent and detect any attempt at unauthorized access. 
+Employees and service providers are aware of the need to adopt data security measures and all providers offering value 
+added services (VAS) must sign a non-disclosure agreement with TIM Participações. 
+TIM has a number of specific technological resources to support management of this issue, such as data loss prevention 
+(DLP), identity management, content filtering, the Cyber Security Operations Center (CSOC), etc.  
+ 
+The BSO/Cyber & ICT Security department is responsible for updating policies and procedures, ensuring compliance and 
+governance of information security, through the involvement of all relevant departments, as well as disclosure and 
+compliance with the guidelines within TIM Participações. 
+ 
+Moreover, the company is committed to complying with the Sarbanes-Oxley Act, in accordance with its guidelines, 
+relating to internal controls for privacy, control and protection of personal data.  
+In addition, the company’s anti-corruption program includes an organizational business model, available online on the 
+Intranet, which guarantees personal data processing in compliance with the rights and dignity of the persons involved 
+and within the limits of what is necessary for processing. The model is compliant with Italian Legislative Decree No. 231/01, 
+Brazilian anti-corruption law No. 12,846/2013 and international standards, such as the US Foreign Corrupt Practices Act 
+(FCPA) and the UK Bribery Act. 
+In accordance with Organizational Design1 no. 1347/18 - which comprises the appointment of the Data Protection Officer 
+(Data Protection Officer), the action model for the application of the regulations, the adequacy of the activities and the 
+assessment of the related impacts in accordance with Brazilian law no. 13,709/2018, concerning data protection (LGPD in 
+Portuguese) - it is hereby stated that the Privacy Committee is coordinated by the Chief Executive Officer (CEO). 
+Within the Committee, the Compliance department continues to be tasked with carrying out the actions necessary to 
+comply with the LGPD, in concertation with the departments involved in the issue. 
+The Committee breaks down as follows: 
+•  Legal, 
+•  Regulatory, Institutional and Press Relations, 
+•  Business Support Officer, 
+•  Chief Technology Information Officer, 
+•  Chief Revenue Officer, 
+•  Human Resources & Organization. 
+ 
+In 2019 - based on the Compliance Program drawn up to achieve compliance of TIM Participações with the Brazilian law 
+on general data protection - the Company held seminars to spread the culture of privacy for the heads of all company 
+departments. 
+ 
+Below follow the requests for information by the Authority pursuant to a suspension of the privacy law: 
+•  wiretappings: 381,113 (the total number includes what has been done on its own system, which may also include 
+possible duplications for different Authorities); 
+•  recording data: 513.468*; 
+•  telephone or connection excerpts 595.728*. 
+ 
+* The number includes the requests that have been answered manually and the requests forwarded directly by the competent authorities through 
+the web service provided for this purpose. 
+                                                                 
+1 Organizational project. 
+138 
+ 

@@ -1,0 +1,57 @@
+GRI Content Index
+102-51     Data dell'ultimo report Aprile 2019 Omissioni AMBIENTE Omissioni
+Materie prime
+6, 7 - Nota 
+102-52     Ciclo delle relazioni
+Metodologica
+103-1     Aspetti materiali identificati e perimetro di rendicontazione     6, 9
+102-53     Contatti utili per domande relative al report 79
+    Informazioni sull'approccio di gestione utilizzato e sue 
+103-2 39
+    componenti    
+6, 7 - Nota 
+102-54     Dichiarazione di conformità ai GRI Standard
+Metodolog. e p. 80
+103-3     Valutazione dell'approccio di gestione 39
+102-55     GRI Content Index 80, 81, 82, 83
+301-1     Materie prime 39
+102-56     Attestazione della società di revisione 84
+Energia
+PERFORMANCE ECONOMICA
+103-1     Aspetti materiali identificati e perimetro di rendicontazione     6, 9
+Performance economica
+    Informazioni sull'approccio di gestione utilizzato e sue 
+103-2 33, 34
+    componenti    
+103-1     Aspetti materiali identificati e perimetro di rendicontazione     6, 10
+103-3     Valutazione dell'approccio di gestione 33, 34
+    Informazioni sull'approccio di gestione utilizzato e sue 
+103-2 21, 22
+    componenti    
+302-1     Consumo di energia all'interno dell'organizzazione 33
+103-3     Valutazione dell'approccio di gestione 21, 22
+Emissioni
+201-1     Valore economico direttamente generato e distribuito 22
+103-1     Aspetti materiali identificati e perimetro di rendicontazione     6, 9
+Anti-corruzione
+    Informazioni sull'approccio di gestione utilizzato e sue 
+103-2 34, 35, 36, 37
+    componenti    
+103-1     Aspetti materiali identificati e perimetro di rendicontazione     6, 9
+103-3     Valutazione dell'approccio di gestione 34, 35, 36, 37
+    Informazioni sull'approccio di gestione utilizzato e sue
+103-2 54, 77
+    componenti    
+305-1     Emissioni dirette GHG (scope 1) 34
+103-3     Valutazione dell'approccio di gestione 54, 77
+305-2     Emissioni indirette GHG (scope 2) 35
+205-1     Monitoraggio del rischio di corruzione    77
+305-3     Altre emissioni indirette GHG (scope 3) 36, 37
+205-2     Comunicazioni e formazione sull'anti-corruzione 54, 77
+    Emissioni di ossidi di azoto (NOx), ossidi di zolfo (SOx) e altre 
+305-7 36, 37
+    emissioni significative
+Nessun caso 
+205-3     Azioni intraprese in risposta ai casi di corruzione
+rilevato
+81 Bilancio di Sostenibilità 2019

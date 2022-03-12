@@ -1,0 +1,49 @@
+Nota Integrativa | Parte A | Politiche Contabili
+riduzione di valore viene effettuata ad ogni chiusura di bilancio o di situazione infrannuale. 
+Gli utili o le perdite riferiti alle “Attività ﬁnanziarie detenute sino a scadenza”, sono rilevati nel conto economico nel 
+momento in cui le attività sono cancellate o hanno subito una riduzione di valore, nonché tramite il processo di 
+ammortamento. 
+In sede di chiusura del bilancio e delle situazioni infrannuali, viene effettuata la veriﬁca dell’esistenza di obiettive 
+evidenze di riduzione di valore. 
+Se sussistono tali evidenze l’importo della perdita viene misurato come differenza tra il valore contabile dell’attività 
+e il valore attuale dei futuri ﬂussi ﬁnanziari stimati, scontati al tasso di interesse effettivo originario. L’importo della 
+perdita viene rilevato nel conto economico. Qualora i motivi della perdita di valore siano rimossi a seguito di un 
+evento veriﬁcatosi successivamente alla rilevazione della riduzione di valore, vengono effettuate riprese di valore 
+con imputazione a conto economico.
+Il ripristino di valore non deve determinare un valore contabile che supera il costo ammortizzato che si sarebbe 
+avuto nel caso in cui la perdita per riduzione di valore non fosse stata rilevata. 
+Criteri di cancellazione 
+Le attività ﬁnanziarie vengono cancellate quando scadono i diritti contrattuali sui ﬂussi ﬁnanziari derivati dalle atti-
+vità stesse o quando l’attività ﬁnanziaria viene ceduta trasferendo sostanzialmente tutti i rischi e beneﬁci ad essa 
+connessi. Per contro, qualora sia stata mantenuta una quota parte rilevante dei rischi e beneﬁci relativi alle attività 
+ﬁnanziarie cedute, queste continuano ad essere iscritte in bilancio, ancorché giuridicamente la titolarità delle attività 
+stesse sia stata effettivamente trasferita. Nel caso in cui non sia possibile accertare il sostanziale trasferimento dei 
+rischi e beneﬁci, le attività ﬁnanziarie vengono cancellate dal bilancio qualora non sia stato mantenuto alcun tipo di 
+controllo sulle stesse. In caso contrario, la conservazione, anche in parte, di tale controllo comporta il mantenimento 
+in bilancio delle attività in misura pari al coinvolgimento residuo, misurato dall’esposizione ai cambiamenti di valore 
+delle attività cedute ed alle variazioni dei ﬂussi ﬁnanziari delle stesse. 
+Inﬁne, le attività ﬁnanziarie cedute vengono cancellate dal bilancio nel caso in cui vi sia la conservazione dei diritti 
+contrattuali a ricevere i relativi ﬂussi di cassa, con la contestuale assunzione di un’obbligazione a pagare detti ﬂussi, 
+e solo essi ad altri soggetti terzi.
+Sezione 4 - Crediti
+Criteri di classiﬁcazione
+I crediti rientrano nella più ampia categoria delle attività ﬁnanziarie non derivate che prevedono pagamenti ﬁssi o 
+comunque determinabili, non quotate in un mercato attivo. Essi si originano quando il Gruppo fornisce denaro, beni 
+e servizi direttamente al debitore senza che vi sia l’intenzione di negoziare il relativo credito sorto. In questa catego-
+ria non sono quindi compresi i ﬁnanziamenti e i crediti emessi con l’intenzione di essere venduti immediatamente o 
+nel breve termine, che sono eventualmente classiﬁcati invece come “posseduti per essere negoziati” e quelli che il 
+management decide di classiﬁcare nella categoria residuale “disponibili per la vendita”. I crediti includono gli impie-
+ghi con clientela e banche, sia erogati direttamente sia acquistati da terzi, i crediti di funzionamento connessi alla 
+fornitura di servizi ﬁnanziari, le operazioni di riporto e i pronti contro termine. 
+Criteri di iscrizione
+I crediti sono iscritti in bilancio solo quando il Gruppo diviene parte del contratto di ﬁnanziamento. L’iscrizione iniziale 
+dei crediti avviene alla data di erogazione o, nel caso di un titolo di debito, a quella di regolamento, sulla base del 
+relativo fair value, che corrisponde normalmente all’ammontare erogato o al prezzo della sottoscrizione, compren-
+sivo dei costi/proventi direttamente riconducibili e determinabili sin dall’origine dell’operazione, ancorché liquidati in 
+un momento successivo. Sono esclusi i costi che, pur avendo le caratteristiche suddette, sono oggetto di rimborso 
+da parte del debitore. Nel caso di crediti rivenienti dalla vendita di beni o dalla prestazione di servizi la rilevazione 
+è connessa con il momento in cui la vendita o la prestazione del servizio è ultimata e cioè il momento in cui è pos-
+sibile rilevare il provento e di conseguenza sorge il diritto alla ricezione. Nella voce crediti sono rilevati, secondo la 
+pertinente composizione merceologica, i ﬁnanziamenti oggetto di operazioni di cartolarizzazione per le quali non 
+sussistono i requisiti richiesti dallo IAS 39 per la cancellazione dal bilancio.
+420

@@ -1,0 +1,51 @@
+Gruppo Italiaonline   Dichiarazione consolidata di carattere non finanziario 2017 
+   
+ 
+a carico del titolare del trattamento, le regole comportamentali per gli incaricati e le 
+modalità di gestione delle autorizzazioni all'accesso alle dotazioni informatiche. 
+Con riferimento alla compliance rispetto alle previsioni contenute nel Regolamento UE 2016/679 
+ossia il “Regolamento Generale sulla Protezione dei Dati”  (“GDPR”) in tema di privacy la Società 
+a fine 2017: (i) ha definito, con il supporto di un advisor di livello internazionale,  una roadmap 
+delle attività necessarie per l’adeguamento alle previsioni del Regolamento UE 2016/679; (ii) ha 
+acquisito il parere di un primario studio legale circa la corretta identificazione della figura del Data 
+Protection Officer (“DPO”), che la Società è tenuta, sulla base delle indicazioni contenute nel 
+GDPR,  a  nominare  eseguendo    trattamenti  che  possono  richiedere  il  controllo  regolare  e 
+sistematico  degli  interessati  su  larga  scala;  (iii)  e  ha  costituito  uno  Steering  Committee 
+interfunzionale incaricato di seguire le fasi per l’adeguamento al GDPR.  
+Agli  inizi  del  2018  la  Società  ha  inoltre  provveduto  all’individuazione  e  nomina  del  DPO, 
+identificato in un dirigente della Società appartenente alla Direzione Legal & Corporate Affairs 
+quale persona in grado di garantire i requisiti previsti dal GDPR e che sarà affiancata da un 
+apposito comitato scientifico costituito dal Direttore Internal Audit & Compliance, dal Direttore 
+Affari Legali e Societari e dal Chief Technology Officer. Al Data Protection Officer sono stati inoltre 
+conferiti adeguati poteri e la disponibilità di un team operativo.  
+Da febbraio 2018 la Società si avvale altresì del supporto di uno studio legale esterno per il 
+progetto di adeguamento al GDPR dando corso all’attività di mappatura e gap analisys per 
+individuare i trattamenti in atto e le azioni da intraprendere per garantire adeguata compliance 
+con il regolamento. 
+Nell’ambito del perimetro di applicazione di politiche sopramenzionate, si nota che per Prontoseat 
+S.r.l. e Consodata S.p.A., per la maggior parte del 2017, le politiche per la salvaguardia della 
+privacy e la protezione dei dati sono state demandate alle singole controllate. In particolare, le 
+politiche di Consodata S.p.A. in materia si realizzano tramite: 
+-  un processo di matching con i dati in possesso dell’azienda al fine di eliminare le persone 
+contattabili per attività promozionali via telefono sulla base delle anagrafiche che ricadono 
+nel regime opt-out; 
+-  attività  di  trattamento  dati  effettuata  su  informazioni  relative  a  clienti  e/o  partners 
+dell’azienda  per  le  quali  Consodata  S.p.A.  è  stata  nominata  Responsabile  del 
+Trattamento, ruolo che prevede una serie di obblighi; 
+-  la Procedura per la Sicurezza degli Accessi ai locali ed ai dati sensibili, contenente anche 
+istruzioni operative per il sistema di gestione della qualità; 
+-  il Documento Programmatico per la Sicurezza, con allegati l'elenco del trattamento dei 
+dati sensibili, l’elenco di sistemisti e dei Database Administrator (DBA); 
+-  la Procedura di Disaster Recovery. 
+Prontoseat S.r.l. invece ha messo in atto e seguenti attività e precauzioni: 
+-  a tutela della riservatezza delle informazioni aziendali, i due dipendenti della divisione ICT 
+sono stati sottoposti a Non-Disclosure Agreement (NDA); 
+-  la Società si è fatta carico di formazione specifica sulla sicurezza ICT verso il responsabile 
+dell'area IT; 
+-  tutto il personale riceve, all'assunzione, lettera di incarico al trattamento dei dati soggetti 
+a Privacy. Al momento dell'adozione di tale politica è stata contestualmente redatta lettera 
+di incarico per il personale già attivo; 
+-  all’assunzione ciascun dipendente riceve le regole interne per l'utilizzo degli strumenti di 
+lavoro. Le stesse regole sono affisse nelle bacheche aziendali. 
+ 
+  56 

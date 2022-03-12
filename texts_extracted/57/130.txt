@@ -1,0 +1,41 @@
+Nota Integrativa | Parte A | Politiche Contabili
+•  il valore negativo dei contratti derivati di trading valutati al fair value, inclusi i derivati impliciti in strumenti com-
+plessi;
+•  gli scoperti tecnici, ovvero le vendite di attività ﬁnanziarie (titoli del mercato monetario, altri strumenti di debito e 
+strumenti azionari) non ancora possedute, generate dall’attività di negoziazione di titoli, che sono valutate sulla 
+base dei relativi prezzi di mercato.
+Sono applicati, con gli opportuni adattamenti, i medesimi criteri di iscrizione, valutazione e cancellazione delle atti-
+vità ﬁnanziarie detenute per la negoziazione.
+Sezione 15 - Passività ﬁnanziarie valutate al fair value
+Criteri di classiﬁcazione
+Sono classiﬁcate in tale posta le passività ﬁnanziarie per le quali si è esercitata la cosiddetta “fair value option”, con-
+sentita quando:
+a)  la designazione al fair value permette di eliminare o di ridurre le signiﬁcative distorsioni nella rappresentazione 
+contabile degli strumenti (c.d. accounting mismatch);
+b)  oppure si è in presenza di uno strumento contenente un derivato implicito che modiﬁca i ﬂussi di cassa dello 
+strumento ospite e che deve essere scorporato;
+c)  oppure la gestione e/o valutazione di un gruppo di strumenti ﬁnanziari al fair value con effetti a conto economico 
+è coerente con una strategia di risk management o d’investimento documentata.
+Criteri d’iscrizione
+All’atto della rilevazione iniziale gli strumenti ﬁnanziari valutati al fair value vengono rilevati al costo, inteso come il 
+fair value dello strumento.
+Criteri di valutazione e rilevazione delle componenti reddituali
+Successivamente alla rilevazione iniziale le passività ﬁnanziarie sono valutate al fair value.
+Per la determinazione del fair value degli strumenti ﬁnanziari quotati in un mercato attivo, vengono utilizzate le quo-
+tazioni di mercato. In assenza di un mercato attivo, il fair value è determinato utilizzando metodi di stima e modelli 
+valutativi che tengono conto dei fattori di rischio correlati agli strumenti e che sono basati su dati di mercato dove 
+disponibili.
+Tali tecniche possono considerare i prezzi rilevati per recenti transazioni simili concluse a condizioni di mercato, 
+ﬂussi di cassa scontati, modelli di determinazione del prezzo di opzioni ed altre tecniche comunemente utilizzate 
+dagli operatori di mercato.
+Gli interessi sui titoli sono iscritti per competenza nelle voci di conto economico riferibili agli interessi. Gli utili e le 
+perdite derivanti dalla valutazione al fair value e quelli relativi alla cessione ed al rimborso sono rilevati nella voce di 
+conto economico “Risultato netto delle attività e passività ﬁnanziarie valutate al fair value”.
+Criteri di cancellazione
+Le passività ﬁnanziarie sono rimosse dal bilancio quando l’obbligazione speciﬁcata dal contratto è estinta. I riacqui-
+sti di proprie passività sono considerati alla stregua di un’estinzione della passività o parte di essa. La differenza tra 
+valore contabile della passività estinta e l’ammontare pagato per acquistarla viene registrata nel conto economico.
+Nel caso di riacquisto di titoli in precedenza emessi, si procede all’elisione contabile delle relative poste dell’attivo e 
+del passivo. Qualora, in seguito al riacquisto, siano ricollocati sul mercato titoli propri, tale operazione è considerata 
+come una nuova emissione.
+130

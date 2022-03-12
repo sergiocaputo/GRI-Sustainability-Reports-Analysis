@@ -1,0 +1,47 @@
+Bilancio Consolidato 2017
+Il principio prevede la facoltà di applicare separatamente dal resto dell’IFRS9 le norme che regolano il trattamento 
+del proprio merito creditizio sulle passività ﬁnanziarie in fair value option.
+Impairment
+Il principio prevede un modello unico di impairment da applicare a:
+•  tutti gli strumenti ﬁnanziari di debito non valutati a FVTPL; 
+•  attività ﬁnanziarie valutate a costo ammortizzato; 
+•  attività ﬁnanziarie valutate a FVOCI;
+•  crediti derivanti da contratti di afﬁtto e crediti commerciali.
+Tale modello, caratterizzato da una visione prospettica, richiede, a partire dalla prima iscrizione in bilancio, la rile-
+vazione delle perdite attese (“Expected Credit Losses – ECL”) sullo strumento ﬁnanziario. La stima delle perdite su 
+crediti va effettuata sulla base delle informazioni disponibili, senza oneri o sforzi irragionevoli e che includano dati 
+storici, attuali e prospettici. 
+Ai ﬁni dell’impairment, l’IFRS9 prevede la classiﬁcazione dei predetti strumenti ﬁnanziari in tre classi (o “stage”) in 
+ordine crescente di deterioramento del merito creditizio. La prima classe (stage 1) include gli strumenti ﬁnanziari 
+che non hanno subito un peggioramento signiﬁcativo del merito creditizio rispetto a quello riscontrato al momento 
+della prima iscrizione in bilancio. Per tali esposizioni in stage 1 devono essere rilevate le perdite attese sulla base 
+di un orizzonte temporale di 12 mesi. Quanto alle esposizioni incluse nelle altre due classi (stage 2 e 3), le perdite 
+attese sono rilevate sulla base dell’intera vita dello strumento ﬁnanziario (lifetime expected losses).
+L’IFRS9 prevede, inoltre, una maggiore informativa sulle perdite su crediti e sul rischio di credito. In particolare, le 
+imprese devono illustrare le modalità di calcolo delle perdite su crediti attese e quelle adottate per la valutazione 
+delle variazioni nel rischio di credito.
+In relazione agli impatti attesi dall’applicazione dell’IFRS9, si evidenzia che, soprattutto con riferimento all’approccio 
+di impairment basato sull’expected credit loss, l’applicazione del nuovo principio comporterà, rispetto allo IAS 39, un 
+maggior ricorso a giudizi esperienziali e a calcoli intrinsecamente complessi, riﬂessi in modelli di valutazione ad hoc.
+La preparazione al metodo “ECL” ha richiesto cambiamenti signiﬁcativi nei dati, nei sistemi informativi e nei processi 
+all’interno del Gruppo ed ha comportato la deﬁnizione di appropriate strategie di implementazione IT, a carattere 
+funzionale e contabile, a seguito dell’introduzione di nuovi modelli valutativi.
+In relazione alla classiﬁcazione e misurazione, il Gruppo ha effettuato un esame di dettaglio delle caratteristiche dei 
+ﬂussi contrattuali degli strumenti di debito misurati al costo ammortizzato secondo lo IAS39, al ﬁne di identiﬁcare le 
+eventuali attività che, non superando il cd test SPPI, saranno valutate al fair value secondo l’IFRS9.
+Prima applicazione dell’IFRS9 
+Dall’analisi della prima applicazione dell’IFRS9, sono emersi gli aspetti di seguito dettagliati.
+•  Riclassiﬁcazione degli strumenti ﬁnanziari in coerenza con i business model identiﬁcati dal Gruppo. Non si preve-
+dono al riguardo impatti signiﬁcativi sul bilancio e sul patrimonio netto contabile. Infatti:
+  -  il portafoglio detenuto per la negoziazione non sarà oggetto di riclassiﬁche all’1 gennaio 2018;
+  -  i titoli di capitale quotati e non, attualmente classiﬁcati nel portafoglio “Disponibile per la vendita” (AFS), 
+continueranno ad essere valutati in contropartita delle riserve OCI, mediante l’esercizio dell’OCI Option che 
+consente di rappresentare le variazioni di fair value tra le altre componenti di conto economico complessivo; 
+  -  i titoli di debito in portafoglio saranno valutati, in accordo con l’IFRS9, al costo ammortizzato ovvero al fair va-
+lue con contropartita tra le altre componenti di conto economico complessivo in quanto il Gruppo si attende, 
+rispettivamente, di mantenere le attività al ﬁne dell’incasso alle scadenze contrattuali (business model “Held 
+to Collect”), ovvero anche di vendere frequentemente un ammontare signiﬁcativo di queste attività (business 
+model “Held to Collect And Sell”);
+  -  i crediti verso banche e verso clientela continueranno ad essere misurati al costo ammortizzato nell’ambito 
+del business model “Held to Collect”;
+415

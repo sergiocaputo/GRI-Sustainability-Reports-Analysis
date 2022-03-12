@@ -1,0 +1,65 @@
+10. Glossario
+European Stability Mechanism (ESM) Filiali
+Strumento di assistenza ﬁ nanziaria di cui si è dotata l’Area  Strutture territoriali della Banca rappresentate dagli sportelli 
+Euro, con una capacità di intervento per €500 miliardi, a  bancari.
+disposizione dei Paesi in difﬁ coltà ﬁ nanziaria. La novità prin-
+cipale rispetto al precedente strumento di sostegno (l’EFSF)  Filtri prudenziali
+riguarda il coinvolgimento dei creditori privati. L’ESM potrà  Correzioni apportate alle voci di bilancio, nell’ambito delle mo-
+fornire prestiti, comprare titoli di Stato sul mercato primario  dalità di calcolo dei Fondi propri, allo scopo di salvaguardare la 
+e secondario e ricapitalizzare le banche, anche se non anco- qualità dei Fondi propri e di ridurne la potenziale volatilità indot-
+ra direttamente. ta dall’applicazione dei principi contabili internazionali IAS/IFRS.
+Exchange-traded funds (ETF) Financial Crisis Advisory Group (FCAG)
+Fondi comuni di investimento che hanno la stessa composi- Organismo consultivo di supporto allo IASB e al FASB (U.S. Fi-
+zione di un determinato indice di mercato; i certiﬁ cati rappre- nancial Accounting Standards Board), il cui compito è eviden-
+sentativi delle quote sono ammessi alla negoziazione in un  ziare le criticità nella regolamentazione contabile proponendo 
+mercato regolamentato. soluzioni per la loro rimozione.
+Gli ETF hanno come unico obiettivo d’investimento quello di 
+replicare passivamente la composizione ed il rendimento di un  Financial Stability Board (FSB)
+indice di mercato (azionario, settoriale, geograﬁ co, obbliga- Organismo Internazionale con il compito di monitorare il si-
+zionario) chiamato benchmark: quando uno dei componenti  stema ﬁ nanziario mondiale per poi promuovere politiche tese 
+del benchmark viene sostituito anche la corrispondente attivi- al rafforzamento della stabilità ﬁ nanziaria.
+tà ﬁ nanziaria all’interno del fondo viene sostituita.
+Fondi comuni armonizzati 
+Expected loss (perdita attesa) Fondi comuni caratterizzati dalla forma aperta, dalla possibilità 
+Perdita attesa sulle attività creditizie. Si pone l’obiettivo di una  dell’offerta al pubblico delle quote e da taluni limiti agli investi-
+tempestiva contabilizzazione in bilancio delle perdite sulle  menti. Con riferimento a questi ultimi si ricorda, tra l’altro, l’ob-
+posizioni in essere. Sulla base dello stage in cui gli strumen- bligo di investire prevalentemente in strumenti ﬁ nanziari quotati.
+ti sono classiﬁ cati l’ECL sarà calcolata, già in sede di prima 
+iscrizione, con un orizzonte temporale di 12 mesi (stage 1)  Fondi pensione
+oppure lifetime (stage 2 e 3). Forme/gestioni (dotate in alcuni casi di personalità giuridica) 
+cui fa capo l’erogazione delle prestazioni pensionistiche com-
+Exposure At Default (EAD) plementari.
+Relativa alle posizioni in o fuori bilancio, è deﬁ nita come la 
+stima del valore futuro di un’esposizione al momento del de- Fondi propri (Own funds) 
+fault del debitore.  Il nuovo framework normativo prevede che i Fondi propri sia-
+no costituiti dalla somma del Capitale di classe 1 (Tier 1)e del
+Fair value Capitale di classe 2 (Tier 2).
+Corrispettivo al quale un’attività può essere scambiata o una 
+passività estinta in una libera transazione tra parti consapevoli  Fondo comune di investimento (OICR)
+e indipendenti. Patrimonio autonomo costituito da un portafoglio diversiﬁ -
+cato di attività ﬁ nanziarie, suddiviso in quote di pertinenza di 
+Fair value hedge una pluralità di partecipanti e gestito in monte da un’apposita 
+È la copertura dell’esposizione alla variazione del fair value  società di gestione.
+di una posta di bilancio attribuibile ad un particolare rischio. 
+Fondo interbancario di tutela dei depositi (FITD)
+Fair value option (FVO) Sistema di garanzia dei depositanti, costituito in forma di con-
+La fair value option costituisce un’opzione per la classiﬁ cazio- sorzio di diritto privato e riconosciuto dalla Banca d’Italia, cui 
+ne di uno strumento ﬁ nanziario. Attraverso l’esercizio dell’op- aderiscono le banche italiane diverse da quelle di credito coo-
+zione anche uno strumento ﬁ nanziario non derivato e non  perativo, avente lo scopo di garantire i depositanti delle con-
+detenuto con ﬁ nalità di trading può essere valutato al fair  sorziate entro limiti previsti (€100.000). Il Fondo interviene, 
+value con imputazione al conto economico. previa autorizzazione della Banca d’Italia, nei casi di liquida-
+zione coatta amministrativa e amministrazione straordinaria. 
+Fairness/Legal opinion Le risorse per gli interventi vengono corrisposte dalle banche 
+Parere rilasciato, su richiesta, da esperti di riconosciuta profes- aderenti successivamente alla manifestazione della crisi della 
+sionalità e competenza, in merito alla congruità delle condi- banca (ex post), a richiesta del Fondo.
+zioni economiche e/o alla legittimità e/o sugli aspetti tecnici di 
+una determinata operazione. Fondo Monetario Internazionale (FMI)
+Organismo che raggruppa quasi duecento Paesi membri ed 
+Fattori di rischio ha come obiettivo la promozione di iniziative ﬁ nalizzate a sti-
+Si indicano con questo termine i fattori che determinano il  molare la cooperazione monetaria internazionale, lo sviluppo 
+rischio di uno strumento ﬁ nanziario o di un portafoglio (tassi  del commercio mondiale ed il supporto nella risoluzione di cri-
+di cambio, tassi di interesse, ecc.). si ﬁ nanziarie causate da squilibri nella bilancia dei pagamenti.
+Federal Reserve (FED) Forma tecnica
+Federal Reserve (Bank) o semplicemente FED è la Banca Cen- Modalità contrattuale prestabilita per un determinato rappor-
+trale degli Stati Uniti. to di raccolta o impiego.
+422 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

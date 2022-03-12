@@ -1,0 +1,39 @@
+ 
+Factoring liabilities relate to the factoring of receivables and decreased by €4.1 million, mainly due to the 
+repayments made by Salini Saudi Arabia, which had factored receivables of €3.1 million in 2018.  
+ 
+Net financial indebtedness of Salini Impregilo Group 
+           
+  Note (*)  31 December 2018  31 December 2019    Variation 
+(€’000)            
+Non-current financial assets  12  235,692   378,272   142,580 
+Current financial assets  17  135,280   241,249   105,969 
+Cash and cash equivalents   20  1,107,340   1,020,858   (86,482) 
+Total cash and cash equivalents and other financial assets    1,478,312   1,640,378   162,067 
+Bank and other loans and borrowings  23  (617,895)   (751,256)   (133,361) 
+Bonds  24  (1,088,158)   (1,091,890)   (3,732) 
+Lease liabilities  25  (55,530)   (98,709)   (43,179) 
+Total non-current indebtedness    (1,761,583)   (1,941,855)   (180,272) 
+Current portion of bank loans and borrowings and current  23  (499,362)   (231,640)   267,722 
+aCcucroreunntt  pfaocrtiiliotine so f bonds  24  (13,295)   (13,295)   - 
+Current portion of lease liabilities  25  (43,206)   (61,673)   (18,467) 
+Total current indebtedness    (555,863)   (306,608)   249,255 
+Derivative assets  12-17  602   268   (334) 
+Derivative liabilities  26  -   (2,012)   (2,012) 
+Net financial position with unconsolidated SPEs (**)    (21,096)   (21,595)   (499) 
+Total other financial liabilities    (20,494)   (23,339)   (2,845) 
+Net financial indebtedness - continuing operations    (859,628)   (631,423)   228,205 
+Net financial indebtedness including discontinued operations    (859,628)   (631,423)   228,205 
+           
+(*) The note numbers refer to the notes to the consolidated financial statements where the items are analysed in detail. 
+(**) This item shows the Group’s net amounts due from/to unconsolidated consortia and consortium companies operating under a cost 
+recharging system and not included in the consolidation scope. The balance reflects the Group’s share of cash and cash equivalents or 
+debt of the SPEs. The items making up these balances are shown under trade receivables and payables, respectively, in the consolidated 
+financial statements. 
+More information about changes in the Group’s net financial indebtedness during the year is available in the 
+Directors’ report. 
+ 
+24. Bonds 
+The outstanding bonds at 31 December 2019 relate to the parent, Salini Impregilo (€1,105.2 million). They are 
+analysed in the following table: 
+   321 

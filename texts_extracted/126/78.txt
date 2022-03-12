@@ -1,0 +1,64 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+ 
+IP Multimedia Network Evolution. In 2017, TIM launched VoLTE (high definition voice over LTE services on the market, 
+enabling call services without the need to pass via legacy circuit switching technology, also benefiting the use of 100 
+approved smartphone models. In late December 2019, this service was enabled in 3,401 cities (Geomarketing report data).  
+ 
+For Network Function Virtualization (NFV) and Software Defined Networks (SDN), some initiatives were developed, such 
+as the creation of the NFV program of TIM Participações, that included four work teams (according to the NFV logical 
+domains and areas of expertise), in order to determine technical requirements, infrastructure projects, operating tables 
+of VNF, open laboratory specifications and the reference architecture conforming to the NFV ETSI standard1. In this 
+context, the VAS2 Messaging Consolidation was the first VNF3 implemented on the commercial network, followed by the 
+IMS platform and roaming services, according to the NFV principle. In December 2019, other network functions, such as 
+PCRF (Policy and Charging Rules Function4)  DRA (Diameter Routing Agent5), STP (Signaling Transfer Point6), Roaming 
+Platform, HSS-FE (Home Subscriber Server Front End)7 and EPC8, were operating as VNF. Different approaches to SDN 
+were also covered in preliminary studies, allowing for complete orchestration and the definition of the cloud environment. 
+A reduction in CapEx/OpEx9, the quicker time-to-market, optimization and innovative actions are the main drivers for the 
+adoption of these new network approaches. As an alternative to hypervisor VMWare10, TIM Participações acquired the 
+Red Hat Openstack Suite as the VIM for its NFV-I. This acquisition will improve the reach of data centers up to the EDGE, 
+enabling new services based on Edge Computing11 and MEC12. 
+ 
+[GRI 103-3: Management Approach] [GRI 203] Projects involving a reduction in energy consumption 
+The expansion of “4G RAN sharing”, in partnership with other Brazilian mobile operators, aims to define the architectural 
+requirements, technical assumptions and specifications for the “LTE RAN sharing13” solution, optimizing the network 
+resources and costs14. Another factor behind this initiative concerns coverage and timing issues relative to regulatory 
+obligations (many cities will have to have a 2.6 GHz spectrum coverage in a short period of time, along with the 
+implementation of numerous sites). Initially, tests were conducted in a controlled environment (Innovation Lab) and the 
+solution was based on MOCN15, standardized by the 3GPP16. A second test was then launched to evaluate other technical 
+issues. At present, this is the largest RAN sharing agreement in the world, and provides 4G services to main Brazilian 
+cities. 
+                                                                 
+1 European Telecommunications Standards Institute. 
+2Value Added Services. 
+3 Virtual Network Function. 
+4 PCRF (policy and charging rules department), which supports the identification of service data flows, the adoption of policies and charges based 
+on the flow. It offers a complete solution enabling a supplier of new generation services to offer several use scenarios to better check services and 
+align inflows with their own resources. 
+5 DRA (diameter routing agent) is a fundamental element of the 3G or 4G network (like LTE), that provides real time routing functions to ensure 
+that messages are routed via the correct elements of a network. 
+6 STP (signal transfer point) is used in an SS7 network (standard set of signaling protocols used in Public Switched Telephone Networks worldwide 
+to handle calls) or CC7. STPs transfer SS7 messages between interconnected nodes (terminal signaling points), based on information contained 
+in the fields of SS7 addresses. 
+7 The front-end of the domestic user server (HSS-FE) has a central role in managing user data in the Evolved Packet Core (EPC) subsystem and 
+the IP Multimedia Core Network (IMS). 
+8 The fundamental duty of the Evolved Packet Core is to provide IP connectivity to the terminal both for data and voice services. 
+9 Capital expenditures and operational expenditures. 
+10 A hypervisor, also known as a virtual machine monitor, is a process that creates and manages virtual machines (VM). A hypervisor enables a 
+host computer (computer or other device connected to a computer network that may offer resources, services and information applications to 
+users or other network nodes)) to support several VM guests (software component of a virtual machine, an independent element of an operating 
+system and the relative software and associated information) sharing its resources, such as memory and processing, virtually. 
+11 This is the processing of information at the network edges, where data are produced. The main benefits from using edge computing 
+technologies are a reduction in  processing latency, that enables real time responses, and band saving, sending information already processed 
+and thus of smaller dimensions to the data center. 
+12 Multi-access Edge Computing - connection technology used in 5G networks. 
+13 Sharing of the “Radio Access Network”. 
+14 The infrastructure costs are mainly associated with the introduction of new radiating systems and other electronic components, infrastructure 
+of passive sites and transport networks; therefore, the sharing of resources supplied by LTE RAN means a significant optimization in costs for 
+telecommunications operators. 
+15 The Multiple Operator Core Network (main network for several operators), enables spectrum sharing; with continual traffic requests towards 
+4.5/5G, MOCN technology and spectrum sharing are important enabling factors, considered by the regulatory authorities. 
+16The 3rd Generation Partnership Project. 
+ 
+79 
+ 

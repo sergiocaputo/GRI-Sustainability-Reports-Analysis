@@ -1,0 +1,45 @@
+INNOVAZIONE E DIGITALIZZAZIONE
+Attraverso l’accordo tra le  Innovare in modo sicuro e vulnerabilità che sfruttano anomalie e 
+controllate di Lottomatica e Poste  pattern comportamentali non ancora noti. 
+Italiane, che contempla il lancio del  Lottomatica adotta un sistema   La piattaforma, attraverso algoritmi di 
+servizio di incasso delle ricariche  antifrode basato su una tecnologia  machine learning per la difesa cibernetica 
+delle carte prepagate Postepay,  di altissimo livello e dal 2017 ha  e l’auto-apprendimento, è in grado di 
+Lottomatica completa l’ampio  stabilito una partnership con il  rilevare e contrastare automaticamente 
+portafoglio di servizi di incasso  Centro Nazionale Anticrimine  in tempo reale, senza una pregressa 
+e riversamento fondi offerto  Informatico per la Protezione delle  conoscenza o regola specifica, minacce 
+attraverso la propria rete di oltre  Infrastrutture Critiche (CNAIPIC).  informatiche sofisticate e potenzialmente 
+30.000 tabaccai convenzionati  Al fine di contrastare tentativi di  dilaganti all’interno della rete. La tecnologia 
+con LIS Istituto di Pagamento.  frode, Lottomatica può far leva  impiegata fornisce anche informazioni di 
+La capacità implementativa  su analisi trasversali, realizzate in  sicurezza utili al miglioramento continuo 
+di Lottomatica ha permesso  piena conformità alle normative  del processo di monitoring e incident 
+di sviluppare un servizio dalle  sulla protezione dei dati, sia del  management.
+caratteristiche tecniche innovative  comportamento degli utenti su diversi 
+che garantisce il pieno rispetto della  servizi offerti dal Gruppo, sia delle  Gli strumenti di monitoraggio delle 
+normativa antiriciclaggio in materia  relative fonti di dati. Tale approccio  piattaforme Lottomatica permettono 
+di identificazione del pagatore, con  abilita la rilevazione di comportamenti  di evidenziare tutti i guasti in tempo 
+minimo impatto sull’operatività  anomali, anche in via predittiva,  reale. Con l’inserimento di alcuni 
+del Punti Vendita, grazie anche  consentendo azioni proattive di  algoritmi di apprendimento automatico, 
+alla distribuzione di lettori 3D atti a  auditing e blocco. basati su una serie storica di dati, è ora 
+scansionare i documenti d’identità  possibile individuare i primi segnali di 
+presso tutti i Punti Vendita  Lottomatica utilizza una piattaforma  un guasto incombente e intervenire 
+contrattualizzati. in grado di rilevare nuove minacce  tempestivamente. 
+Evoluzione delle carte  terrorismo, tutte le  normativa, è stato rilasciato  e la relativa archiviazione 
+prepagate emesse da  carte “base” sono state  sul sito web di Lottomatica,  a norma di legge;
+Lottomatica attraverso  bloccate da CartaLIS  fruibile anche nella  •  l’identificazione “de visu” 
+la controllata CartaLIS  ed è stato avviato un  versione mobile, un sistema  tramite video chiamata 
+IMEL S.p.A. processo di comunicazione  altamente innovativo, in  gestita da operatori 
+verso i clienti intestatari  dotazione esclusivamente  qualificati;
+Circa un terzo delle carte  per promuovere  ai più evoluti intermediari  •  la sottoscrizione del 
+emesse aveva un’operatività  l’evoluzione verso carte  finanziari, che permette di  contratto con apposita 
+limitata in quanto si  ad operatività completa  gestire a distanza l’intero  firma digitale certificata.
+trattava di carte prepagate  perchè nominative e con  processo di evoluzione/ Il risultato di tale attività 
+cosiddette “base”, cioè  identificazione “de visu” del  attivazione delle carte: è stato l’evoluzione di 
+senza identificazione “de  cliente. •  la registrazione di  migliaia di carte da “base” a 
+visu” dell’intestatario. Ad  Per eseguire tale  tutti i dati anagrafici  nominative e oltre 100.000 
+inizio 2018, per dare seguito  attività di evoluzione e  direttamente sui sistemi  nuove carte, emesse nel 
+ad un adeguamento  contestualmente operare  Lottomatica in uso a  2018 con questo nuovo 
+richiesto dall’entrata in  un rinnovamento del  CartaLIS; processo a distanza, che 
+vigore della IV Direttiva  servizio di emissione delle  •  l’acquisizione dei  nel panorama dei player del 
+antiriciclaggio e contrasto  carte prepagate conforme  documenti d’identità  settore rappresentano un 
+al finanziamento del  alle nuove disposizioni della  tramite scansione ottica  numero significativo.
+64

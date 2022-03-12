@@ -1,0 +1,54 @@
+ 
+Intensità energetica 
+ 
+GRI302-3 
+ 
+ 
+Per esprimere il parametro relativo all’intensità energetica riferita alla filiera acquedottistica si sono 
+considerati  tutti  i  consumi  di  energia  elettrica  richiesti:  a)  dai  prelievi  idrici  dalle  fonti  di 
+approvvigionamento; b) dai trattamenti degli impianti di produzione; c) dai rilanci in rete; d) dai 
+risollevamenti in rete. 
+ 
+L’energia totale così ottenuta è stata parametrizzata in funzione del volume complessivo erogato nella 
+rete idrica, comprensivo anche delle forniture provenienti dagli acquisti di acqua da società terze. Non 
+sono state inserite all’interno del calcolo dell’erogato i volumi prodotti dalla centrale di Vescovana e 
+veicolati alla centrale di Boara Polesine per la successiva immissione in rete. I dati riassuntivi sono 
+riportati nella tabella seguente: 
+ 
+Valutazione dell'energia specifica  Energia consumata  Acqua immessa in rete  Consumo specifico 
+sul totale erogato  [Gjoule ]  [mc]  (Gjoule/mc) 
+2016  76.276,0  59.623.057  0,001279 
+2017  79.227,4  62.291.406  0,001272 
+ 
+Nel 2017 vi è stata una modesta riduzione del consumo di energia specifica pari allo 0,58 % del dato 
+riferito al 2016.  
+ 
+Per esprimere il parametro relativo all’intensità energetica riferita alla filiera depurazione acque  si 
+sono considerati tutti i consumi di energia elettrica richiesti: a)dai sollevamenti fognari intermedi che 
+hanno lo scopo di far arrivare il liquame raccolto nella rete fognaria agli impianti di depurazione ; b) 
+dagli impianti  di depurazione. L’energia totale così ottenuta è stata parametrizzata in funzione del 
+volume complessivo depurato dagli impianti di depurazione. I dati riassuntivi sono riportati nella 
+tabella seguente: 
+ 
+Valutazione 
+dell'energiaspecifica sul totale  Energia consumata  Consumo specifico 
+erogato  [Gjoule ]  Acqua depurata [mc]  (Gjoule/mc) 
+2016  109.872  42.796.784  0,002567 
+2017  106.501  46.776.345  0,002277 
+ 
+Nel 2017 vi è stata una  riduzione del consumo di energia specifica pari allo 11,29 % del dato riferito. 
+Riduzione dei consumi energetici  - Interventi di efficientamento energetico 
+ 
+GRI302-4 GRI302-5 
+ 
+ 
+Nel corso del 2017 sono stati eseguiti i seguenti interventi finalizzati all’efficientamento energetico: 
+  Sostituzione di motori elettrici  presso la centrale di Cavarzere: nel corso dell’intervento di 
+adeguamento degli impianti elettrici sono stati acquistati motori ad alta efficienza; 
+  Installazione di  nuovi compressori, sostituzione del sistema di diffusione aria sul depuratore di 
+Sant’Apollinare durante l’intervento di ampliamento del depuratore. Nel corso dell’intervento è 
+stato installato sistema di supervisione con logica di funzionamento a cicli alternati finalizzato 
+all’aumento  sia  alla  riduzione  dei  consumi  energetici  che  all’aumento  dell’efficienza  di 
+abbattimento dei nutrienti; 
+acquevenete –  Bilancio di sostenibilità 2017  52 
+ 

@@ -1,0 +1,56 @@
+ 
+Performance Indicators 
+Station  LVA [dB(A)]20  LVA [dB(A)]  LVA [dB(A)] 
+31/12/2017  31/12/2018  31/12/2019 
+P1  66  65.1  65.6 
+P4  62.3  61.8  62.0 
+P5  55.7  55.6  55.1 
+P6  63  62.1  63.5 
+P7  55.3  54.5  56.3 
+P8  53.5  52.6  52.6 
+P9  n/a  n/a  55.1 
+The figures presented refer to the noise levels recorded by the noise monitoring equipment located in the residential 
+areas adjacent to the airport. The values are below the noise limits established by law for the buffer areas and are 
+constantly monitored. Data from the Airport Noise Monitoring System, consisting of seven permanent environmental 
+monitoring units distributed around the airport grounds. At each of the measuring stations, the LVA index was essentially 
+constant, i.e. without significant fluctuations. The indicator is driven by various factors, essentially: the number and type 
+of aircraft in transit; the rate of climb and thus the overflight altitude; the trajectory followed; weight at take-off and 
+landing; and the time (day or night). The noise level recorded at P6 and P7 were higher than the equivalent values for 
+2018. This is due to an increase in the amount of nocturnal traffic at Bologna (runway take-offs 12, runway landings 30) 
+during the peak period in 2019, compared to the peak period in 2018. 
+2.6.2 Energy efficiency and contributions to mitigating climate change   
+In 2013, Bologna Airport introduced an Energy Management System in conformity with the international 
+standard UNI ISO50001, guaranteeing a considered use of energy resources and reduced consumption and 
+costs through the drafting of an energy policy, systematic monitoring of consumption and performance 
+indicators, and optimisation of production processes, corporate conduct and resource management. In order 
+to effectively implement the Energy Management System, AdB established the Energy Management Team 
+(EMT), a working group coordinated by an Energy Manager. The group establishes objectives at a strategic 
+level for energy improvements, preparing energy and cost reporting tools, and 
+Energy efficiency 
+initiatives 
+asses
+sing 
+and 
+propo
+sing 
+action
+s to improve energy performance.  
+ 
+ 
+ 
+In line with the policies for quality, the environment, energy and safety, Bologna Airport has taken numerous 
+steps to reduce consumption and emissions by making its infrastructures more energy efficient and by 
+increasing the use of renewable energy sources. For example, regarding energy efficiency, the company has 
+replaced low-efficiency bulbs with LED bulbs, thus optimising the lighting systems of buildings, car parks and 
+airport roadways. Since 2005, AdB has participated in the voluntary GreenLight Programme promoted by the 
+European Commission to encourage partner organisations to upgrade the efficiency of their lighting systems, 
+with an aim to reduce energy consumption and climate-altering emissions. AdB has also improved the 
+management of its heating, ventilation and air conditioning systems, in particular through the use of high 
+efficiency heat pumps. Regarding the use of renewable energy, Bologna Airport self-produces a significant 
+portion of its electricity needs through its own photovoltaic systems and high-performance trigeneration plant. 
+The energy efficiency initiatives permitted a savings of 6,900,0000 kWh compared to consumption before 
+                                                
+20 LVA - Airport Assessment Level: calculated, in accordance with Ministerial Decree 31/10/1997 – “Airport noise 
+measurement methodology”, based on the AEL data relating to the three weeks with highest traffic identified in 2019 
+(according to a methodology applied since 2014). 
+66 

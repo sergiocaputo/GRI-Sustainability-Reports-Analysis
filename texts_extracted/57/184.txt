@@ -1,0 +1,26 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+(cid:25)(cid:17)(cid:3)(cid:3)(cid:51)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:72)(cid:81)(cid:86)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:76)(cid:81)(cid:3)(cid:69)(cid:76)(cid:79)(cid:68)(cid:81)(cid:70)(cid:76)(cid:82)(cid:15)(cid:3)(cid:82)(cid:83)(cid:83)(cid:88)(cid:85)(cid:72)(cid:3)(cid:86)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:72)(cid:3)(cid:68)(cid:71)(cid:3)(cid:68)(cid:70)(cid:70)(cid:82)(cid:85)(cid:71)(cid:76)(cid:16)(cid:84)(cid:88)(cid:68)(cid:71)(cid:85)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)
+(cid:70)(cid:82)(cid:80)(cid:83)(cid:72)(cid:81)(cid:86)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:82)(cid:3)(cid:68)(cid:71)(cid:3)(cid:68)(cid:70)(cid:70)(cid:82)(cid:85)(cid:71)(cid:76)(cid:3)(cid:86)(cid:76)(cid:80)(cid:76)(cid:79)(cid:68)(cid:85)(cid:76)
+Ammontari correlati non oggetto di 
+Forme tecniche  fiAnlomparanmdszosoi iadnvrietitaelàlr e (ea  )  cdoAbfemimilnllpaeamen nanocztsniitoaati vtra(oiibret e)à i  n   biArlnfaiimppennaotacmtsrniostoozia  nvdi(taciteotra=l àiliraee ne-  b  )  fiSntcaronumzmipaerenin t(sid a)z ionec ionngD atBearipanlaontnsezic itpaiioo  (d seit) i  a  3A1m/nm1e2ot/ nt2ot0 a1re7   3A1m/nm1e2ot/nt2ot0 a1re6  
+1. Derivati    16.176  -  16.176  -  16.176  -  - 
+2. Pronti contro termine    115.768  -  115.768  115.768  -  -  - 
+3. Prestito titoli    -  -  -  -  -  -  - 
+4. Altre operazioni    -  -  -  -  -  -  - 
+Totale  31/12/2017  131.944  -  131.944  115.768  16.176  -  x 
+Totale  31/12/2016  1.567.652  -  1.567.652  1.551.159  16.493  x  - 
+(cid:3)
+Per le tipologie di accordi quadro valgono le stesse considerazioni della tabella precedente, inoltre, per i derivati otc, 
+gli accordi effettuati con lo standard ISDA prevedono la compensazione delle partite debitorie e creditorie in caso di 
+default delle controparti e, alla quasi totalità delle controparti istituzionali, sono abbinati al CSA che prevede anche 
+una garanzia in contanti da rivedere periodicamente in base all’andamento del valore dei contratti sottostanti.
+Tutti gli importi indicati non sono stati compensati in bilancio in quanto non sono soddisfatti i criteri previsti dal 
+paragrafo 42 dello IAS 32.
+Gli importi lordi (a) indicati nella tabella relativi ai derivati sono contabilizzati nella voce 60 “Derivati di copertura”; i 
+relativi depositi in contante effettuati (e) sono contabilizzati nella voce 60 “Crediti verso banche” e voce 70 “Crediti 
+verso clientela”. 
+Gli importi lordi (a) indicati nella tabella relativi alle operazioni di pronti contro termine sono contabilizzati nella voce 
+10 “Debiti verso Banche” e nella voce “Debiti verso clientela”; i relativi strumenti ﬁnanziari correlati (d) sono rappre-
+sentati dal valore dei titoli oggetto delle operazioni stesse, mentre i depositi in contante effettuati (e) sono contabi-
+lizzati nella voce 60 “Crediti verso banche”.
+184

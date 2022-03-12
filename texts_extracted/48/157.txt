@@ -1,0 +1,52 @@
+156 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+date of a company differs from that of the Parent Com- sideration transferred measured at its acquisition date 
+pany, the former prepares interim financial statements  fair value, including contingent consideration, liabilities 
+at 31 December of each financial year; assumed towards the previous owners, and the amount 
+– All intra-group assets and liabilities, equity, income,  of  any  non-controlling  interests.  For  each  business 
+expenses and cash flows relating to transactions be- combination, the Group elects whether to measure the 
+tween members of the Group are eliminated in full on  non-controlling interests in the acquiree at fair value or 
+consolidation process (intra-group losses are eliminat- at the proportionate share of the acquiree’s identifiable 
+ed, except to the extent that the underlying asset is  net assets. Acquisition-related costs are expensed as 
+impaired); incurred and included in administrative expenses.
+– the carrying amount of the Parent Company’s invest-
+ment in each subsidiary and the Parent Company’s  If in a business combination achieved in stages, the ac-
+portion of equity of each subsidiary are eliminated at  quirer’s previously held equity interests in the acquire is 
+the date of acquisition; re-measured at its acquisition date fair value and any 
+– Profit or loss and each component of other comprehen- resulting gain or loss recognized in profit or loss. 
+sive income (OCI) are attributed to the equity holders 
+of the Parent of the Group and to the non-controlling  Any contingent consideration to be transferred or re-
+interests, even if this results in the non-controlling in- ceived by the acquirer will be recognised at fair value at 
+terests having a deficit balance. The non-controlling  the acquisition date. Contingent consideration classi-
+interests, together with their share of profit are shown  fied as an asset or liability that is a financial instrument 
+as separate items. and within the scope of IAS 39 Financial Instruments: 
+Recognition and Measurement, is measured at fair val-
+A change in the ownership interest of a subsidiary, with- ue with changes in fair value recognised either in either 
+out a change of control, is accounted for as an equity  profit or loss or as a change to other comprehensive 
+transaction.  Consequently,  no  additional  goodwill  or  income. If the contingent consideration is not within 
+badwill is recognized. the scope of IAS 39, it is measured in accordance with 
+the appropriate IFRS. Contingent consideration that is 
+If the Group loses control over a subsidiary, it derecog- classified as equity is not re-measured and subsequent 
+nizes the related assets (including goodwill), liabilities,  settlement is accounted for within equity.
+non-controlling interest and other components of equity 
+while any resultant gain or loss is recognized in profit or  The assets acquired and liabilities assumed in a busi-
+loss. Any investment retained is recognized at fair value. ness combination are initially recognized at fair value 
+at the acquisition date. Goodwill is initially measured at 
+Investment funds managed by the Group in which the  cost being the excess of the aggregate acquisition cost 
+Group holds an interest and that are not managed in the  over the net value of the identifiable assets acquired 
+primary interest of the policyholders are consolidated  and liabilities assumed is accounted for as goodwill. If 
+based on the substance of the economic relationship  the impairment test lead to the result that theacquisition 
+and if whether the conditions of control stated by IFRS  cost is less than the fair value of the assets acquired 
+10 are satisfied. On consolidation of an investment fund,  and liabilities assumed, the difference is recognised in 
+a liability is recognized to the extent that the Group is  the profit and loss account.
+legally obliged to buy back participations held by third 
+parties. Where this is not the case, other participations 
+Investments in associates and joint 
+held by third parties are presented as non-controlling in-
+terests in equity. ventures
+The investments in associates and joint ventures are 
+Business combination and goodwill
+consolidated trough the equity method.
+Business combinations are acquisitions of assets and  An associate is an entity over which the investor has sig-
+liabilities that constitutes a business and are account- nificant influence. Significant influence is the power to 
+ed for applying the so-called acquisition method The  participate in the financial and operating policy decisions 
+acquisition cost is measured as the sum of the con- of the investee but is not control or joint control over 

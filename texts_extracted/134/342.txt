@@ -1,0 +1,45 @@
+ 
+Total financial commitments  Cash and cash  Difference 
+(€’000)  due before 31 March 2020  equivalents (*) 
+Salini Impregilo (head office and branches)  268,647  214,907  (53,740) 
+Subsidiaries  193,254  235,763  42,509 
+SPEs  286,334  358,262  71,928 
+Joint operations  141,209  187,222  46,014 
+Total   889,444  996,155  106,711 
+Fair value measurement hierarchy 
+IFRS 7 requires that the fair value of financial instruments recognised in the statement of financial position be 
+classified using a fair value hierarchy that reflects the significance of the inputs used to determine fair value. 
+There are three different levels: 
+•  Level 1 - Fair values measured using quoted prices in active markets; 
+•  Level 2 - Fair values measured using valuation techniques for which inputs significant to the fair value 
+measurement are based on observable market data; 
+•  Level 3 - Fair values measured using valuation techniques for which inputs significant to the fair value 
+measurement are based on unobservable market data. 
+Financial instruments recognised by the Group at fair value are classified at the following levels: 
+ 
+(€’000)  Note  Level 1  Level 2  Level 3 
+Derivative assets  11   -  268  - 
+Derivative liabilities  25   -  (2,012)  - 
+Total    -  (1,744)  - 
+There were no movements from Level 1 to Level 2 during the year or vice versa. 
+ 
+ 
+Change in assets and liabilities from financing activities 
+ 
+The following table shows changes in assets and liabilities from financing activities as required by IAS 7.44: 
+Changes in cash  Other non- Change in  Change in 
+ (€’000)  Other changes  Total changes 
+flows from financing  monetary  consolidation exchange rates 
+activities  items  scope 
+Non-current financial assets  (150,733)  7,522  (25)  (2,584)  3,241  (142,579) 
+Derivatives and other current financial  (100,859)  (21,207)  (29,344)  -  45,774  (105,636) 
+assets 
+Financial liabilities - related parties and 
+(17,960)  1,123  11,647  -    (5,190) 
+other unconsolidated group companies 
+ Derivatives and other current financial  2,012        -  2,012 
+liabilities 
+Total  (267,540)  (12,562)  (17,722)  (2,584)  49,015  (251,393) 
+ 
+ 
+   343 

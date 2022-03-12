@@ -1,0 +1,47 @@
+Relazione sulla gestione
+La strategia declinata contiene gli elementi strategici ed operativi per incidere signiﬁcativamente, come peraltro già 
+avvenuto negli ultimi anni, sul complessivo aggregato dei Non Performing Loans deﬁnendo le tappe del progressivo 
+ridimensionamento dell’aggregato. 
+Già nel corso del 2017 l’avvio in taluni casi ed il completamento in altri delle attività richiamate nella Npl Strategy ha 
+favorito, da un lato, un signiﬁcativo abbassamento del tasso di default rispetto agli anni precedenti, e, dall’altro, la 
+riduzione dello stock di credito deteriorato attraverso una congiunta azione tra le attività di cessione di portafogli di 
+deteriorati e le attività di gestione proattiva del residuo portafoglio nella chiusura anche stragiudiziale di posizioni e 
+nel riposizionamento in bonis a seguito di misure di forbearance (concesse nell’esercizio precedente) di molte altre, 
+in tutte le categorie di credito deteriorato.In aggiunta, come detto, riveste particolare rilevanza il continuo efﬁcien-
+tamento del processo di precoce intercettamento delle posizioni che presentano primi segnali di difﬁcoltà. Sono 
+proseguiti gli interventi evolutivi sulla procedura CQM - Credit Quality Management utilizzata per il monitoraggio 
+delle posizioni anomale o con primi segnali di deterioramento. Sono già attive le logiche di valutazione delle posi-
+zioni anomale e sono state portate a termine le attività necessarie all’implementazione dei nuovi sistemi di intercet-
+tamento coerenti con i trigger della policy di classiﬁcazione. Sono già stati adottati i nuovi criteri  di afﬁnamento del 
+sistema di early warning e dei processi di monitoraggio per una gestione proattiva e di Early Intervention sui clienti 
+che manifestano sintomi di anomalia tali da poter comportare una futura potenziale difﬁcoltà ﬁnanziaria di cui è in 
+corso il rilascio automatizzato.
+In tale contesto, nell’ambito delle attività di gestione e monitoraggio del complessivo portafoglio crediti sia in bonis 
+che deteriorato, sono pertanto pienamente operanti le attività di valutazione e di concessione delle misure di for-
+bearance direttamente ﬁnalizzate a favorire il superamento di situazioni di preliminare e potenziale anomalia o di 
+difﬁcoltà ﬁnanziarie già manifestatesi. L’aggregato riveniente di Posizioni Forborne, performing o non performing, è 
+sottoposto a monitoraggio nei rispettivi periodi di Probation period biennale per i performing loans e di Cure period 
+annuale e successivo Probation Period biennale per i non performing loans.
+Sistemi Informativi
+La competente struttura aziendale gestisce e sviluppa il sistema informativo della Banca, effettua le attività di ma-
+nutenzione, adattamento e gestione della sicurezza dello stesso e realizzando i progetti di innovazione e di suppor-
+to alle iniziative del Piano Industriale.
+L’evoluzione Strategica e Organizzativa IT
+Gli indirizzi strategici seguiti in ambito IT sono declinati nelle due direttrici principali di:
+•  internalizzazione delle principali componenti architetturali di integrazione come fattori abilitanti dei servizi inno-
+vativi, per permettere una più rapida risposta alle esigenze di Business espresse dalla Banca, su quegli ambiti 
+innovativi dove il time to market e la disponibilità di soluzioni distintive sono un requisito imprescindibile;
+•  evoluzione del Sistema Informativo mediante il rafforzamento della relazione con l’outsourcer Cedacri e la de-
+ﬁnizione di ambiti di collaborazione speciﬁci, per guidare l’innovazione della piattaforma dell’outsourcer verso 
+obiettivi condivisi con la Banca.
+Tali indirizzi hanno caratterizzato la realizzazione dei progetti di sviluppo effettuati in corso d’anno, brevemente 
+descritti nel paragrafo successivo.
+Attività di sviluppo IT
+Per quanto riguarda le attività di sviluppo IT, la Banca ha proseguito il suo percorso di gestione delle risorse infor-
+matiche adeguandole alle esigenze degli utenti e perseguendo gli obiettivi di ottimizzare la qualità dei servizi, con-
+tenere i relativi costi e assicurare il rispetto della compliance.
+Nuovi sviluppi applicativi completati nel corso dell’anno
+Nell’ambito dello sviluppo e gestione dei sistemi informativi sono stati realizzati, oltre alla normale attività di condu-
+zione, anche un numero signiﬁcativo di sviluppi nei seguenti ambiti:
+•  multicanalità;
+68

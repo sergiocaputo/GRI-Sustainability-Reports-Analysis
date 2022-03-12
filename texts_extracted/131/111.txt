@@ -1,0 +1,41 @@
+110 Università degli Studi di Firenze • Bilancio Sociale 2018
+GRI 
+Titolo dell’indicatore Sezione di riferimento
+disclosure
+Environmental
+302-1 Energy consumption within the organization 5.2
+302-4 Reduction of energy consumption 5.2
+303-1 Water withdrawal by source 5.6
+303-2 Water sources significantly affected by withdrawal of water 5.6
+302-3 Water recycled and reused 5.6
+305-1 Direct (Scope 1) GHG emissions 5.2
+305-2 Energy indirect (Scope 2) GHG emissions 5.2
+305-3 Other indirect (Scope 3) GHG emissions 5.2
+305-4 GHG emissions intensity 5.2
+305-5 Reduction of GHG emissions 5.2
+305-6 Emissions of ozone-depleting substances (ODS) 5.2
+305-7 Nitrogen oxides (NOX), sulfur oxides (SOX), and other significant air emissions 5.2
+306-1 Water discharge by quality and destination 5.6
+306-2 Waste by type and disposal method 5.3
+308-1 New suppliers that were screened using environmental criteria 3.9
+Social
+401-1 New employee hires and employee turnover 3.3
+Benefits provided to full-time employees that are not provided to temporary or part-time 
+401-2 3.3
+employees
+401-3 Parental leave 3.3
+403-1 Workers representation in formal joint management-worker health and safety committees 2.4
+Types of injury and rates of injury, occupational diseases, lost days, and absenteeism, and 
+403-2 2.4
+number of work-related fatalities
+403-3 Workers with high incidence or high risk of diseases related to their occupation 2.4
+403-4 Health and safety topics covered in formal agreements with trade unions 2.4
+404-1 Average hours of training per year per employee 3.3
+405-1 Diversity of governance bodies and employees 2.2, 3.2, 3.3
+405-2 Ratio of basic salary and remuneration of women to men  3.3
+406-1 Incidents of discrimination and corrective actions taken 2.2
+Operations with local community engagement, impact assessments, and development 
+413-1 4.4
+programs
+414-1 New suppliers that were screened using social criteria  3.9
+414-2 Negative social impacts in the supply chain and actions taken 3.9

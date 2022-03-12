@@ -1,0 +1,41 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+(cid:20)(cid:23)(cid:17)(cid:24)(cid:3)(cid:57)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:82)(cid:86)(cid:87)(cid:72)(cid:3)(cid:68)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:83)(cid:68)(cid:87)(cid:72)(cid:3)(cid:11)(cid:76)(cid:81)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:82)(cid:83)(cid:68)(cid:85)(cid:87)(cid:76)(cid:87)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:83)(cid:68)(cid:87)(cid:85)(cid:76)(cid:80)(cid:82)(cid:81)(cid:76)(cid:82)(cid:3)(cid:81)(cid:72)(cid:87)(cid:87)(cid:82)(cid:12)
+31/12/2017  31/12/2016 
+1. Importo iniziale  17.556  11.788 
+2. Aumenti  22.620  15.878 
+2.1 Imposte anticipate rilevate nell'esercizio  22.620  15.878 
+a) relative a precedenti esercizi  -  - 
+b) dovute al mutamento di criteri contabili  -  - 
+c) altre  22.620  15.878 
+2.2 Nuove imposte o incrementi di aliquote fiscali  -  - 
+2.3 Altri aumenti  -  - 
+3. Diminuzioni  15.657  10.110 
+3.1 Imposte anticipate annullate nell' esercizio  15.657  10.110 
+a) rigiri  15.657  10.110 
+b) svalutazioni per sopravvenuta irrecuperabilità  -  - 
+c) dovute al mutamento di criteri contabili  -  - 
+d) altre  -  - 
+3.2 Riduzioni di aliquote fiscali  -  - 
+3.3 Altre diminuzioni  -  - 
+4. Importo finale  24.519  17.556 
+(cid:3)
+(cid:20)(cid:23)(cid:17)(cid:25)(cid:3)(cid:57)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:82)(cid:86)(cid:87)(cid:72)(cid:3)(cid:71)(cid:76)(cid:73)(cid:73)(cid:72)(cid:85)(cid:76)(cid:87)(cid:72)(cid:3)(cid:11)(cid:76)(cid:81)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:82)(cid:83)(cid:68)(cid:85)(cid:87)(cid:76)(cid:87)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:83)(cid:68)(cid:87)(cid:85)(cid:76)(cid:80)(cid:82)(cid:81)(cid:76)(cid:82)(cid:3)(cid:81)(cid:72)(cid:87)(cid:87)(cid:82)(cid:12)
+31/12/2017  31/12/2016 
+1. Importo iniziale  1.244  4.002 
+2. Aumenti  1.690  1.185 
+2.1 Imposte differite rilevate nell'esercizio  1.690  1.185 
+a) relative a precedenti esercizi  -  - 
+b) dovute al mutamento dei criteri contabili  -  - 
+c) altre  1.690  1.185 
+2.2 Nuove imposte o incrementi di aliquote fiscali  -  - 
+2.3 Altri aumenti  -  - 
+3. Diminuzioni  1.185  3.943 
+3.1 Imposte differite annullate nell'esercizio  1.185  2.580 
+a) rigiri  1.185  2.580 
+b) dovute al mutamento dei criteri contabili  -  - 
+c) altre  -  - 
+3.2 Riduzioni di aliquote fiscali  -  - 
+3.3 Altre diminuzioni  -  1.363 
+4. Importo finale  1.749  1.244 
+(cid:3)
+466

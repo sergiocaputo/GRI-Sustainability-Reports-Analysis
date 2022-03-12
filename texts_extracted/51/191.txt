@@ -1,0 +1,45 @@
+Indice GRI
+TOPIC-SPECIFIC DISCLOSURE
+INDICATORE GRI DESCRIZIONE INDICATORE NUMERO  NOTE E OMISSIONI
+DI PAGINA
+GRI 302: ENERGIA 
+GRI 103-1, 103-2, 103-3  Management Approach  165
+GRI 302-1 Consumi di energia all’interno  166
+dell’organizzazione
+GRI 305: EMISSIONI 
+GRI 103-1, 103-2, 103-3  Management Approach  165
+GRI 305-1 Emissioni di gas serra dirette  167
+(Scope 1)
+GRI 305-2 Emissioni di gas serra generate  167
+da consumi energetici 
+(Scope 2)
+GRI 305-3 Altre emissioni indirette di GHG  168 I dati si riferiscono alle sole BCC, che hanno 
+(Scope 3) un peso sul perimetro di rendicontazione 
+del 90%.
+GRI 400: PERFORMANCE SOCIALE
+GRI 401: OCCUPAZIONE 
+GRI 103-1, 103-2, 103-3  Management Approach  51, 131
+GRI 401-1 Nuove assunzioni e turnover 133-134
+GRI 401-2 Benefit previsti per i dipendenti  145 I dipendenti assunti a tempo determinato 
+a tempo pieno, ma non per  del gruppo fruiscono degli stessi benefit 
+i dipendenti part-time o con  previsti per i dipendenti assunti con 
+contratto a tempo determinato contratto a tempo indeterminato.
+GRI 402: RELAZIONI INDUSTRIALI 
+GRI 103-1, 103-2, 103-3  Management Approach  51, 
+155-156
+GRI 402-1 Periodo minimo di preavviso  139 Gli artt. 11 bis e 22 del CCNL Federcasse 
+per cambiamenti operativi prevedono 2 settimane di periodo minimo 
+di preavviso
+GRI 403: SALUTE E SICUREZZA SUL LAVORO 
+GRI 103-1, 103-2, 103-3  Management Approach  51, 
+152-153
+GRI 403-1 Rappresentanza dei lavoratori  139-140 Il 100% dei dipendenti è rappresentato nei 
+in comitati formali azienda- comitati formali azienda-lavoratori per la 
+lavoratori per la salute e  salute e sicurezza
+sicurezza
+GRI 403-2 Identificazione dei pericoli,  152-154
+valutazione dei rischi e indagini 
+sugli incidenti
+GRI 403-4 Accordi formali con i sindacati  139-140, 
+relativi alla salute e sicurezza 155-156
+PERSONE ECOSISTEMA RESPONSABILITÀ 191

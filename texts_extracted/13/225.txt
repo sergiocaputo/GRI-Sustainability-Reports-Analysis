@@ -1,0 +1,40 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Sezione 3 - Passività finanziarie designate al fair value - Voce 30
+3.1 Passività finanziarie designate al fair value: composizione 
+merceologica
+Euro/migliaia 31/12/2018 31/12/2017
+Fair  Fair 
+VN Fair Value VN Fair Value
+Value* Value*
+L1 L2 L3 L1 L2 L3
+1. Debiti verso banche - - - - - - - - - -
+1.1 Strutturati - - - - X - - - - X
+1.2 Altri - - - - X - - - - X
+di cui
+- X X X X - X X X X
+impegni a erogare fondi
+garanzie finanziarie 
+- X X X X - X X X X
+rilasciate
+2. Debiti verso clientela 5.921.476 5.920.090 1.386 - 5.921.476 5.499.329 5.498.787 542 - 5.499.329
+2.1 Strutturati - - - - X - - - - X
+2.2 Altri 5.921.476 5.920.090 1.386 - X 5.499.329 5.498.787 542 - X
+di cui
+- X X X X - X X X X
+impegni a erogare fondi
+- garanzie finanziarie 
+- X X X X - X X X X
+rilasciate
+3. Titoli di debito - - - - - - - - - -
+3.1 Strutturati - - - - X - - - - X
+3.2 Altri - - - - X - - - - X
+TOTALE 5.921.476 5.920.090 1.386 - 5.921.476 5.499.329 5.498.787 542 - 5.499.329
+Legenda: 
+  VN = valore nozionale 
+L1 = Livello 1 
+L2 = Livello 2 
+L3 = Livello 3
+  Fair value*= Fair value calcolato escludendo le variazioni di valore dovute
+  al cambiamento del merito creditizio dell’emittente rispetto alla data di emissione
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 226

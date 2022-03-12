@@ -1,0 +1,44 @@
+Nota Integrativa | Parte A | Politiche Contabili
+Parte A.3 – INFORMATIVA SUI TRASFERIMENTI TRA PORTAFOGLI DI ATTIVITÀ FINANZIARIE
+Non vi sono al 31 dicembre 2017 e al 31 dicembre 2016 titoli oggetto di riclassiﬁca.
+Parte A.4 – INFORMATIVA SUL FAIR VALUE
+Informativa di natura qualitativa
+L’IFRS 13, al paragrafo 9, deﬁnisce il Fair value come “il prezzo che si percepirebbe per la vendita di un’attività ovvero 
+che si pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di mercato alla data 
+di valutazione”.
+Il principio si fonda sulla deﬁnizione di “Fair value market based” (metodo basato sulla valutazione di mercato) in 
+quanto il Fair value dell’attività o passività deve essere misurato in base alle caratteristiche assunte dagli operatori 
+di mercato.
+La valutazione al Fair value presuppone inoltre che l’operazione di vendita dell’attività o di trasferimento della pas-
+sività abbia luogo nel mercato principale dell’attività o passività o, in assenza di un mercato principale, nel mercato 
+più vantaggioso.
+Il concetto di Fair value si basa sul cosiddetto “exit price”. Il prezzo deve riﬂettere, cioè, la prospettiva di chi vende 
+l’attività o che paga per trasferire la passività alla data della rilevazione.
+In tale contesto si inserisce la necessità che il Fair value degli strumenti ﬁnanziari debba riﬂettere il rischio di ina-
+dempimento attraverso opportune rettiﬁche di valore del merito creditizio della controparte e dell’emittente stesso. 
+Per quanto attiene alla valutazione del rischio di inadempimento si evidenzia che la Banca ne ha effettuato una 
+stima alla data di bilancio non riscontrando effetti signiﬁcativi rispetto alla metodologia del fair value adottata pre-
+cedentemente.
+L’IFRS 13, dal paragrafo 72 al paragrafo 90, prevede una classiﬁcazione delle valutazioni al Fair value degli strumenti 
+ﬁnanziari sulla base di una speciﬁca gerarchia che si basa sulla natura e sulla signiﬁcatività degli input utilizzati nelle 
+medesime valutazioni (i cosiddetti “Livelli”).
+I tre livelli previsti sono:
+“Livello 1”: uno strumento ﬁnanziario appartiene al Livello 1 quando esso è scambiato in un mercato in cui le transa-
+zioni sullo stesso si veriﬁcano con una frequenza e con volumi sufﬁcienti a fornire informazioni utili per la determi-
+nazione del prezzo dello strumento su base continuativa (cd. “mercato attivo”).
+Le variabili chiave generalmente prese in considerazione dalla Banca per l’individuazione di un mercato attivo sono:
+•  il numero di contributori, scelti in base alla loro competenza sul segmento di mercato considerato, l’afﬁdabilità 
+nonché la continua presenza su quel segmento;
+•  la frequenza nella quotazione del prezzo, ovvero l’aggiornamento periodico del dato quotato;
+•  la presenza di un prezzo “denaro” (cd. “bid”) e di un prezzo “lettera” (cd. “ask”);
+•  una differenza accettabile tra le quotazioni “denaro” e “lettera”;
+•  il volume di scambi trattati: occorre che tale volume sia consistente al ﬁne di poter considerare i prezzi che si 
+generano da tali scambi signiﬁcativi;
+•  l’eventuale presenza di dealers, brokers e market makers.
+È opportuno precisare, tuttavia, che la quotazione di un titolo in un mercato regolamentato non è di per sè indicativa 
+della “liquidità” del titolo stesso e quindi dell’esistenza di un mercato attivo. Infatti, pur essendo negoziato in un mer-
+cato ufﬁciale, un titolo potrebbe non avere un numero di scambi ragionevolmente rilevante tale da poter concludere 
+che il prezzo formatosi sul mercato risulti signiﬁcativamente rappresentativo del Fair value.
+Ai ﬁni della determinazione del Fair value, deve essere quindi considerata la quotazione dello strumento non rettiﬁ-
+cata facendo riferimento al mercato principale o, in assenza di quest’ultimo, a quello più vantaggioso.
+136

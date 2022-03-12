@@ -1,0 +1,54 @@
+TABELLA N. 25 – PRINCIPALI INTERVENTI SULLE RETI IDROPOTABILI E FOGNARIE E CONTROLLI SU ACQUE POTABILI  
+E REFLUE (2019) (segue)
+bonifica rete  3,7 km di rete bonificata
+controllo qualità acque reflue 3.298 campioni prelevati e 41.616 determinazioni analitiche eseguite 
+GORI
+interventi per guasto su rete  681 interventi
+interventi programmati  1.001 interventi
+ampliamento rete 7,9 km di rete ampliata
+bonifica rete  5,4 km di rete bonificata
+controllo qualità acque reflue 1.203 campioni prelevati e 21.027 determinazioni analitiche eseguite 
+GESESA
+interventi per guasto su rete  190 interventi
+interventi programmati  16 interventi
+ampliamento rete 0 km di rete ampliata
+bonifica rete  0,1 km di rete bonificata
+controllo qualità acque reflue 395 campioni prelevati e 5.514 determinazioni analitiche eseguite su acque reflue
+In Acea Ato 2, gli acquedotti e la rete di adduzione sono in telecon- idrica, sono state installate e telecontrollate valvole di regolazione 
+trollo da un punto di vista quali-quantitativo. La rilevazione da remoto  della portata in uscita da tutti i maggiori serbatoi. Inoltre, al fine di 
+fornisce informazioni utili alla conoscenza dello stato della rete ed alla  monitorare parametri essenziali della rete (pressioni e portate) in 
+sua conduzione (assetto degli impianti, stato delle pompe, posizione  punti in cui l’energia elettrica è assente, è in fase di attuazione un 
+delle valvole, misure, allarmi e possibilità di effettuare manovre trami- progetto basato sull’utilizzo di tecnologie nell’ambito dell’Informa-
+te telecontrollo). Inoltre, la rete di distribuzione di Roma è alimentata  tion of Things-IoT (strumentazione di misura a batteria e protocolli 
+da centri idrici telecontrollati, dotati di misure di portata e/o pressione  di comunicazione innovativi) per il telecontrollo di nodi delle reti 
+e/o livello. Grazie alla progressiva implementazione del sistema, i centri  idrica e fognaria, che porterà ad un efficientamento delle pressioni 
+idrici parzialmente o totalmente telecontrollati, nel 2019, sono 738 ai  di rete e della ricerca perdite e all’aumento del livello di qualità del 
+quali si aggiungono 271 impianti, incluse le Case dell’acqua, dotati di  servizio offerto all’utenza.
+misure di qualità in telecontrollo e 739 punti di rete, fra cui 104 idro- Gesesa prevede di ampliare progressivamente il sistema di tele-
+valvole. Anche per il sistema fognario depurativo è avanzato il progres- controllo ai siti gestiti; al 31.12.2019, quelli già dotati della tecno-
+sivo telecontrollo dell’intero comparto: i depuratori principali sono già  logia sono 26. 
+controllati tramite sale locali ed è in corso l’ammodernamento tecno-
+logico per collegarli alla sala centrale di telecontrollo. TUTELA DELLA RISORSA E RICERCA PERDITE
+Parte dei siti idrici gestiti da Acea Ato 5 – tra fonti di approv- La gestione sostenibile dell’acqua si realizza anche attraverso il con-
+vigionamento, impianti di distribuzione, sollevamenti fognari ed  tenimento delle perdite sulle reti di distribuzione. Nel 2019, le So-
+impianti di depurazione – è dotata di telecontrollo. In particolare,  cietà idriche hanno proseguito un’intensa attività di efficientamento 
+sono svolte attività di telemetria, comando e controllo e rilevati  delle reti di distribuzione, anche grazie all’istituzione, nell’Area In-
+parametri idraulici (portata idrica, pressione in rete, livello ser- dustriale Idrico, di una Struttura organizzativa, trasversale, dedicata 
+batoio, stati di funzionamento delle elettropompe), con relativi  alla tutela della risorsa idrica e all’attuazione di interventi di ridu-
+parametri elettrici, e parametri qualitativi (torbidità e cloro resi- zione delle perdite. Oltre alle iniziative di distrettualizzazione delle 
+duo). Nell’anno i siti gestiti da remoto sono 278 (dotati di misure  reti, illustrate nel box di approfondimento al quale si rinvia, le attività 
+idrauliche – portate, pressione e livelli –, 15 dei quali dotati anche  messe in campo nel 2019 da Acea Ato 2 per la salvaguardia della 
+di controllo qualità acque) e 88 punti di rete (monitoraggio in  risorsa idrica, sono state:
+continuo di pressione o portata).  •  la verifica e taratura dei misuratori installati sulle grandi fonti 
+Tutti gli impianti gestiti da Gori, afferenti ai sistemi idropotabile,  di approvvigionamento e l’installazione di misuratori di portata 
+fognario e di depurazione, sono stati dotati di sistemi di telecon- MID su tutte le fonti “minori”, per ottimizzare la qualità della 
+trollo; si tratta complessivamente di 485 impianti, di cui 314 siti  misura di processo;
+idrici, 161 fognari e 10 di depurazione, presso i quali vengono effet- •  l’installazione di valvole automatiche per il controllo dinamico 
+tuate le medesime attività sopra indicate per Acea Ato 5. In base  delle pressioni in rete; 
+a logiche di gestione di efficienza energetica e risparmio della ri- •  l’avanzamento dell’attività di censimento e georeferenziazione 
+sorsa, Gori ha dotato gli impianti di un sistema di controllo locale  delle reti gestite;
+per la gestione automatica delle macchine presenti (elettropompe  •  le azioni di campo finalizzate al contrasto dell’abusivismo e degli 
+e valvole installate), con intervento umano richiesto solo in casi di  usi impropri della risorsa;
+emergenza; per attuare regolazioni dinamiche della quantità di ri- •  gli interventi di bonifica su circa 88 km di rete idrica (dell’intero 
+sorsa erogata in base a diversi scenari connessi a situazioni di crisi  territorio dell’ATO 2 gestito).
+LE RELAZIONI CON GLI STAKEHOLDER 109

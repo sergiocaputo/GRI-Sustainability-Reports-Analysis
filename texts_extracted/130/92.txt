@@ -1,0 +1,31 @@
+182 UNIVERSITÀ DEGLI STUDI RAPPORTO DI 2016 / 2017 183
+DI TORINO SOSTENIBILITÀ
+GRI Standard  Disclosure Number Disclosure Title Page Number Omission
+201-4 Financial assistance received from government 118, 119
+203 Indirect Economic Impacts
+203-1 Infrastructure investments and services supported 38 - 43, 120 - 122
+203-2 Signiﬁcant indirect economic impacts 131, 167
+204 Procurement Practices
+204-1 Proportion of spending on local suppliers  132
+205 Anti-corruption
+205-2 Communication and training about anti-corruption policies and procedures 89, 143
+300 Environmental Standards
+103-1 Explanation of the material topic and its Boundary 164 - 168
+103-2 The management approach and its components  164 - 168
+103-3 Evaluation of the management approach 164 - 168
+302 Energy
+302-1 Energy consumption within the organization 169
+302-3 Energy intensity 169
+303 Water
+303-1 Water withdrawal by source 169
+305 Emissions
+305-1 Direct (Scope 1) GHG emissions 169
+305-2 Energy indirect (Scope 2) GHG emissions 169
+305-4 GHG emissions intensity 169
+305-7 Nitrogen oxides (NOX), sulfur oxides (SOX), and other signiﬁcant air emissions 170
+306 Efﬂuents and waste
+306-1 Water discharge by quality and destination 169
+306-2 Waste by type and disposal method 170
+306-4 Transport of hazardous waste 171, 172
+308 Supplier Environmental Assessment
+308-1 New suppliers that were screened using environmental criteria 173 - 176

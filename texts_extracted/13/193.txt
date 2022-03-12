@@ -1,0 +1,27 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+5.2 Derivati di copertura: composizione per portafogli coperti e per 
+tipologia di copertura
+Euro/migliaia Fair Value Flussi finanziari
+Specifica
+Titoli di  Titoli di  Valute Credito Merci Altri Generica Specifica Generica Investimenti 
+debito e  capitale  e oro esteri
+tassi di  e indici 
+interesse azionari
+1. Attività finanziarie valutate al fair value 
+- - - - X X X - X X
+con impatto sulla redditività complessiva
+2. Attività finanziarie valutate al costo 
+357 X - - X X X - X X
+ammortizzato
+3. Portafoglio X X X X X X - X - X
+4. Altre operazioni - - - - - - X - X -
+TOTALE ATTIVITÀ 357 - - - - - - - - -
+1. Passività finanziarie - X - - - - X - X X
+2. Portafoglio X X X X X X - X - X
+TOTALE PASSIVITÀ - - - - - - - - - -
+1. Transazioni attese X X X X X X X - X X
+2. Portafoglio di attività e passività 
+X X X X X X - X - -
+finanziarie
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 194

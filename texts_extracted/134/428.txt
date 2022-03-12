@@ -1,0 +1,39 @@
+ 
+ 
+The most significant changes include: 
+•  reclassifications of €37.2 million to right-of-use assets as a result of the application of IFRS 16 on 1 January 
+2019; 
+•  increases of €25.0 million, chiefly related to investments made for the two Paris metro lines and the Rogun 
+Dam in Tajikistan; 
+•  the reclassifications show the effect of the items recognised in “Right-of-use assets”. 
+  
+5. Right-of-use assets 
+Right-of-use  assets amount to €58.1 million  and reflect the application of IFRS 16  using  the  modified 
+retrospective approach whereby the cumulative effect of the FTA is recognised in retained earnings at 1 January 
+2019. Therefore, the company has not restated the figures at 31 December 2018, presented in accordance with 
+IAS 17. More information about the application of the new standard is available in the section on “Changes in 
+standards”.  
+The historical cost and carrying amounts of the right-of-use assets are shown in the following table: 
+  31 December 2019 
+(€’000)  Cost  Acc. depreciation   Carrying amount 
+Land  83  (61)  22 
+Buildings  41,631  (7,929)  33,702 
+Plant and machinery  55,589  (33,059)  22,530 
+Industrial and commercial equipment  1,603  (1,225)  378 
+Other assets  2,871  (1,364)  1,506 
+Total   101,776  (43,638)  58,138 
+Changes during the year are summarised below: 
+  IFRS 16 FTA at  Increases Depreciation   Reversals of  Reclass. Disposals  Exchange  31 December 
+1 January 2019  imp. losses  gains  2019 
+(Imp.  (losses) 
+(€’000)    losses)/Reval.   and other 
+changes 
+Land  279  -  (61)  -  -  (198)  1  22 
+Buildings  34,442  4,712  (7,964)  -  2,317  (3)  198  33,702 
+Plant and machinery  41,264  5,767  (13,320)  (377)  (9,298)  (1,507)  -  22,530 
+Industrial and commercial  401  222  (245)  -  -  -  -  378 
+equipment 
+Other assets  1,992  941  (1,384)  -  (46)  -  3  1,506 
+Total   78,379  11,643  (22,974)  (377)  (7,026)  (1,708)  202  58,138 
+ 
+   429 

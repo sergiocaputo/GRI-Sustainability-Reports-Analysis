@@ -1,0 +1,40 @@
+Allegato 1 | Bilanci Società Controllate
+Cassa di Risparmio di Orvieto S.p.A.
+Orvieto
+CONTO ECONOMICO (importi in euro)
+Voci  31/12/2017  31/12/2016 
+10. Interessi attivi e proventi assimilati  26.809.386  29.093.513 
+20. Interessi passivi e oneri assimilati  (6.314.660)  (5.976.891) 
+30. Margine di interesse  20.494.726  23.116.622 
+40. Commissioni attive  16.803.422  16.360.745 
+50. Commissioni passive  (839.873)  (790.974) 
+60. Commissioni nette  15.963.549  15.569.771 
+70. Dividendi e proventi simili  268.599  268.599 
+80. Risultato netto dell'attività di negoziazione  146.695  151.608 
+100. Utili (perdite) da cessione o riacquisto di:  968.602  894.999 
+a)   crediti  (57.262)  - 
+b)   attività finanziarie disponibili per la vendita  1.021.817  885.841 
+c)   attività finanziarie detenute sino alla scadenza  -  - 
+d)   passività finanziarie  4.047  9.158 
+110. Risultato netto delle attività e passività finanziarie valutate al fair value  -  - 
+120. Margine di intermediazione  37.842.171  40.001.599 
+130. Rettifiche/riprese di valore nette per deterioramento di:  (2.683.163)  (5.143.449) 
+a)   crediti  (2.028.124)  (5.039.218) 
+b)   attività finanziarie disponibili per la vendita  (751.074)  (70.665) 
+c)   attività finanziarie detenute sino alla scadenza  -  - 
+d)   altre operazioni finanziarie  96.035  (33.566) 
+140. Risultato netto della gestione finanziaria  35.159.008  34.858.150 
+150. Spese amministrative:  (34.150.750)  (34.438.140) 
+a)   spese per il personale  (19.834.617)  (19.799.044) 
+b)   altre spese amministrative  (14.316.133)  (14.639.096) 
+160. Accantonamenti netti ai fondi per rischi e oneri  (269.468)  (731.759) 
+170. Rettifiche/riprese di valore nette su attività materiali  (656.073)  (722.598) 
+180. Rettifiche/riprese di valore nette su attività immateriali  (283.930)  (283.911) 
+190. Altri oneri/proventi di gestione  3.881.580  3.620.020 
+200. Costi operativi  (31.478.641)  (32.556.388) 
+250. Utile (Perdita) della operatività corrente al lordo delle imposte  3.680.367  2.301.762 
+260. Imposte sul reddito dell'esercizio dell’operatività corrente  (1.407.793)  (959.031) 
+270. Utile (Perdita) della operatività corrente al netto delle imposte  2.272.574  1.342.731 
+290. Utile (Perdita) d'esercizio  2.272.574  1.342.731 
+(cid:3)
+270

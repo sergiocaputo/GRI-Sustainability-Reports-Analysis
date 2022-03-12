@@ -1,0 +1,50 @@
+06_SUPPLEMENTAL INFORMATION_GRI STANDARDS CONTENT INDEX
+    
+GRI Standard Title Publications Page number Omissions and comments
+GRI-406: Non Discrimination (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 33-35, 47  
+103-2 The management approach and its components SR 20, 34-36, 47, 101  
+103-3 Evaluation of the management approach SR 34-36, 47, 101  
+406-1 Incidents of discrimination and corrective actions taken SR 34-35 Confidentiality constraint for 406-1 a.: this 
+information cannot be communicated externally.
+GRI-407: Freedom of Association and Collective Bargaining (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 37, 54-56  
+103-2 The management approach and its components SR 37, 54-56  
+103-3 Evaluation of the management approach SR 20, 37, 54-56  
+407-1 Operations and suppliers in which the right to freedom of  SR 54-56  
+association and collective bargaining may be at risk
+GRI-408: Child Labor (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 35-36, 99-100  
+103-2 The management approach and its components SR 18, 29, 34-36, 99-100  
+103-3 Evaluation of the management approach SR 34-36, 99-100  
+408-1 Operations and suppliers at significant risk for incidents of child labor SR 35-36, 99-100  
+GRI-409: Forced or Compulsory Labor (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 35-36, 99-100  
+103-2 The management approach and its components SR 18, 29, 34-36, 99-100  
+103-3 Evaluation of the management approach SR 34-36, 99-100  
+409-1 Operations and suppliers at significant risk for incidents   SR 35-36, 99-100  
+of forced or compulsory labor
+GRI-412: Human Rights Assessment (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 35-36  
+103-2 The management approach and its components SR 18, 34-36  
+103-3 Evaluation of the management approach SR 34-36  
+412-1 Operations that have been subject to human rights reviews or  SR 35-36  
+impact assessments
+412-2 Employee training on human rights policies or procedures SR 34, 111  
+412-3 Significant investment agreements and contracts that include  SR 97-99  
+human rights clauses or that underwent human rights screening
+GRI-413: Local Communities (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 57-61  
+103-2 The management approach and its components SR 22, 34, 57-61  
+103-3 Evaluation of the management approach SR 22, 57-61  
+413-1 Operations with local community engagement, impact  SR 57-61  
+assessments, and development programs
+413-2 Operations with significant actual and potential negative impacts SR 37  
+on local communities
+GRI-414: Supplier Social Assessment (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 94-100  
+103-2 The management approach and its components SR 29, 34, 94-100  
+103-3 Evaluation of the management approach SR 29, 94-100  
+414-1 New suppliers that were screened using social criteria SR 97  
+414-2 Negative social impacts in the supply chain and actions taken SR 94-100, 133  
+147

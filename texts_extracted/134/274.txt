@@ -1,0 +1,33 @@
+ 
+Changes during the year are set out below: 
+ 
+31 December 2018  Increases   Impairment losses Net exchange gains   31 December 2019 
+(€’000) 
+Lane Group   74,713      1,348  76,061 
+Total  74,713      1,348  76,061 
+ 
+The recoverability of the carrying amounts related to Lane was checked by comparing the net invested capital 
+of Lane Group, which is a separate CGU, with the related recoverable amounts, which are the estimated future 
+cash flows arising from the assets’ continuing use discounted to their net present value (“value in use”). 
+The main assumptions adopted to calculate value in use are as follows: 
+•  long-term growth rate: 1.74%; 
+•  post-tax discount rate: 7.4% 
+The Group has adopted the discount rate calculated based on the market cost of money and the asset sector’s 
+specific risk (Weighted Average Cost of Capital, WACC). Specifically, the Group considered the return rate on 
+long-term government bonds and the average capital structure of a basket of comparable companies. 
+The CGU’s recoverable amount has been calculated using the cash flow projections set out in the five-year 
+2020-2024 plan prepared and approved by management. The terminal value is based on a sustainable profit 
+assumption, from which stable long-term operating cash flows have been estimated, on a going concern basis. 
+The Group also performed sensitivity analyses of the recoverable amount, considering the potential effect of 
+changes in the reference parameters of the discount rate (+4.1%) and terminal value (reduction of 49%). 
+The Group tested goodwill for impairment at the reporting date, supported by independent experts who carried 
+out an independent business review, which showed that the CGU’s recoverable amount exceeds its carrying 
+amount (net invested capital). 
+ 
+11. Equity investments 
+ Equity investments increased by €104.2 million to €642.5 million. 
+(€’000)    31 December 2018  31 December 2019  Variation 
+Investments in equity-accounted investees    536,523  642,185  105,662 
+Other equity investments    1,734  301  (1,433) 
+Total     538,257  642,486  104,229 
+   275 

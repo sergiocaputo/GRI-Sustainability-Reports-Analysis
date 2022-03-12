@@ -1,0 +1,42 @@
+Prysmian Group    Consolidated Non-Financial Information Statement 2019 97
+Cyber Security
+In a rapidly changing world where information is increasingly significant and there is a growing connection 
+between networks, systems and applications, it is increasingly complex to manage and protect information 
+resources, ensuring regulatory compliance. This increased complexity - combined with the growth and evolu-
+tion of cyber threats - exposes companies to new types of risk, the damaging effects of which can have serious 
+economic, legal, reputational, compliance or competitive advantage repercussions, due to information loss or 
+business interruption.
+This complexity concerns the Group not only as a user, but also as a service provider, being systematically in-
+volved in innovation to compete in the global market, through the adoption of new technologies to ensure the 
+centrality of the customer and increase business efficiency.
+In this context, in 2017 the Prysmian Group developed an Information Security Strategy, whose main objective is 
+to tackle effectively the management, control and protection of the Group’s information assets.
+The Group’s Information and IT Security organisation comprises a Cyber Security Unit directly that reports di-
+rectly to the Chief Information Security Officer (CISO), who is part of the HQ HR staff.
+The unit is structured to manage four main skills:
+  Governance, to ensure that the Organisation has effective control structures to maintain and improve levels 
+of prevention, investigation, response and restoration of security in the event of an incident;
+  Prevention, to reduce the practical exposure to cyber attacks via systematic analyses and work to protect the 
+Group’s assets;
+  Detection, to ensure that the organisation is aware of internal and external threats and can mitigate them 
+proactively;
+  Response & Recovery, to defend the organisation against cyber attacks and restore operational functionality 
+in case of impact.
+The organisational structure envisages the involvement of Business Lines in IT security activities via the Infor-
+mation Security Committee, chaired by the Head of Industrial Relations (CSO) and permanently composed of 
+the Chief Information Officer (CIO), the Audit & Compliance Manager, the Chief Risk Officer (CRO), the Chief Ope-
+rating Officer (COO) and the Senior VP HR & Organization.
+The Group has issued a complete series of policies, procedures and operating instructions, with the aim of di-
+recting and regulating, at different levels of detail, information security issues and operations in accordance 
+with the Information Security Strategy and the established Framework.
+The main topics covered by these policies and procedures are: Information Security, Security Incident manage-
+ment, IT Change & Configuration management, Backup, Hardening, Logging, Cloud Security, BYOD (Bring your 
+own device) and Removable Devices management. 
+During 2019, the framework was strengthened by introducing new policies to address better the new generation 
+of IT technologies and processes that necessarily require more attention.
+Security documents, such as policies, procedures and operating instructions, are systematically revised and sha-
+red with employees, published on the Corporate intranet and made available via specific on-line training.
+In 2017 Prysmian launched a Cyber Security programme to strengthen information security through a well-defi-
+ned set of initiatives to reduce overall cyber and compliance risks over time.
+PRYSMIAN GROUP, LINKING THE FUTURE LEADING INNOVATION GOVERNANCE AND RISK MANAGEMENT
+SUSTAINABILITY IN OUR DNA A PUBLIC COMPANY OUR COMMITMENT

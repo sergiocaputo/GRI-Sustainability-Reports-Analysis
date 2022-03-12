@@ -1,0 +1,41 @@
+ 
+1.2) Il processo di reporting e le metodologie di calcolo 
+Le informative quali‐quantitative contenute in questa prima dichiarazione di carattere non finanziario sono 
+state selezionate da un apposito team di lavoro di IPG sulla base dell’analisi di rilevanza (per maggiori 
+dettagli in merito si rimanda al paragrafo “Informative qualitative trasversali – Temi rilevanti” a pag. 11) e 
+raccolte tramite schede di raccolta dati appositamente definite, in modo che l’anagrafica degli indicatori 
+fosse allineata alle disclosure dei GRI Standards; a livello operativo, la raccolta e aggregazione delle 
+informative è stata supportata/facilitata dall’utilizzo di uno specifico modulo del software già in essere per 
+la raccolta dei dati economico‐finanziari per il Bilancio Consolidato.  
+Di seguito si riportano le principali metodologie di calcolo e assunzioni per gli indicatori di prestazione di 
+carattere non finanziario riportati nella presente dichiarazione, in aggiunta a quanto già indicato nel testo 
+della DNF (es. formule specifiche di calcolo –a titolo esemplificativo, si veda l’indicatore 401‐1 relativo ai 
+tassi di turnover in/out, l’indicatore 403‐2 relativo agli indici infortunistici e il 302‐3 relativo all’intensità 
+energetica, e assunzioni valide a livello puntuale –a titolo esemplificativo, si veda l’indicatore 301‐1 relativo 
+ai materiali in ingresso e il 306‐1 relativo agli scarichi idrici).  
+  Per i dati ambientali, qualora non disponibili, sono stati utilizzati approcci di stima conservativi che 
+hanno portato a scegliere le ipotesi associabili alle performance ambientali meno positive per 
+l’Azienda. 
+  Il calcolo delle emissioni di gas a effetto serra è stato effettuato tramite la seguente formula: dato 
+di attività (m3 di gas naturale, kWh di energia elettrica, ecc.) moltiplicato per il rispettivo fattore di 
+emissione. Sono state, inoltre, considerate le perdite di gas refrigeranti (kg) moltiplicate per il 
+rispettivo GWP (Global Warming Potential).  
+  I fattori di emissione e i GWP utilizzati per il calcolo delle emissioni GHG sono i seguenti: 
+o  Emissioni Scopo 1: per i fattori di emissione dei combustibili e i GWP dei gas refrigeranti sono 
+tratti dal database Defra (Department for Environment, Food and Rural Affairs) del Governo 
+inglese, annualmente aggiornato. 
+o  Emissioni Scopo 2: per l’elettricità acquistata dalla rete elettrica sono stati utilizzati i fattori di 
+conversione  suggeriti  dal  documento  Confronti  internazionali  Terna  su  dati  Enerdata, 
+annualmente aggiornato. 
+  I  dati  relativi  al  personale  (es.  gli  organici)  fanno  riferimento  alle  persone  fisiche  (non 
+standardizzate in FTE2s) al 31/12 del periodo di rendicontazione. 
+  Il numero di infortuni occorsi e i relativi indici (injury rate e lost day rate) non comprendono gli 
+eventuali infortuni in itinere e gli infortuni che non hanno comportato più di un giorno di assenza 
+dal lavoro.  
+ 
+ 
+ 
+                                                            
+2 Full‐time equivalent 
+4 
+ 

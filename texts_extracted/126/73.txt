@@ -1,0 +1,62 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+•  on an international level, a wide range of standardization bodies (including the ETSI1, the ITU2, the CENELEC3 and 
+3GPP4, among others), associations (the most notable of which include the GSMA5 and the NGMN6), alliances (such 
+as oneM2M7 and BBF8) and telco open communities (such as the ONF9 and CORD10), which play a key role in the 
+evolution of the TLC industry/sector with regard to networks, platforms and services, in which TIM is involved through 
+partnerships11 with the main stakeholders in the sector. In 2019 in particular, TIM confirmed its interest in joining the 
+main standardization bodies and associations with 29 registrations, two more than in 2018, representing a total 
+commitment of around a million euros. The two new international bodies of which TIM has become a part are strongly 
+linked to the digital transformation process that the company is undertaking with regard to 5G, these being the 5GAA 
+(5G Automotive Association), which aims to accelerate and promote the industrialisation of connected mobility 
+services, and the O-RAN12 Alliance (Open RAN Alliance) - an initiative involving the world's leading carriers and aimed 
+at promoting greater openness and programmability of radio access systems.  
+•  on a national level, collaborative relationships have been established with various ministries (including the Ministry of 
+Economic Development and the Ministry of Education, University and Research), the European Union and public 
+bodies (such as the Italian National Research Council (CNR) and local authorities) for the purposes of implementing 
+projects funded through participation in calls for tenders and partnership initiatives. The year 2019 notably saw TIM 
+contribute to the design proposal and creation of production lines based on the new Industry 4.0 technology in the 
+framework of the Competence Industry Manufacturing 4.0 (CIM 4.0) initiative introduced at the end of 2018 with a 
+view to promoting the transfer of technological skills and innovation in production processes, products and business 
+models. 
+TIM has developed a joint innovation and shared success pathway in conjunction with Huawei and Cisco, as well as signing 
+a strategic agreement with Microsoft for the development of artificial intelligence, in addition to the various collaborations 
+already in place between the two companies both in Italy and Brazil. Artificial intelligence, with the help of Data Analytics 
+and Big Data Advanced Analytics13, is now an essential lever in digital transformation. The collaboration with Microsoft 
+will lead to the development of innovative tools for customizing products and services and enriching the TIM offering. 
+TIM’s technological evolution is based on the CTO Technology Strategy, which outlines technological strategy in terms of 
+guidelines, specific technologies and roadmaps for implementation over a period of several years. The three-year 
+technology plan is the Group’s reference document and includes plans for the technological evolution of its various 
+subsidiaries. The plan identifies the main exogenous factors that might influence company strategies (regulation, 
+standards, suppliers and other operators in the market) and defines both the reference technological architecture and 
+the evolution of specific technologies, as well as the company structures involved and the corresponding roadmaps for 
+deployment or assessment. Qualitative and/or quantitative objectives correspond to a period of several years and are 
+broken down on an annual basis and defined in a way that means they can be objectively measured in compliance with 
+                                                                 
+1 European Telecommunications Standard Institute. 
+2 International Telecommunication Union. 
+3 European Committee for Electrotechnical Standardization. 
+4 3rd Generation Partnership Project. 
+5 GSM Association. 
+6 Next Generation Mobile Networks. 
+7 oneM2M aims to  develop technical specifications that meet the need for a common M2M (machine to machine, i.e. technologies and services 
+that allow for the automatic transfer of information with little or no human interaction) service level that can be easily incorporated into various 
+hardware and software solutions and that can be relied upon to connect the myriad of devices out in the field with M2M application servers 
+around the world. 
+8 The Broadband Forum focuses on developing the standards that shape current and future cable & wireless, transport, border and core networks 
+to support domestic, business and converged broadband services with the aim of unlocking new markets using new technologies and standards 
+for advanced broadband networks. 
+9 The Open Led Consortium, which transforms technical networks into agile platforms for service delivery. 
+10 The CORD (Central Office Re-architected as a Datacenter) platform uses SND, NFV and Cloud technologies to create agile data centers for the 
+edge of the network. CORD integrates multiple open source projects to offer an agile, open, programmable and native platform for network 
+operators to create innovative services. CORD has also proven to be a comprehensive integrated platform that includes everything required to 
+create an operational data center complete with integrated service capabilities, all based on basic hardware that uses the latest native cloud 
+design principles. 
+11 Close cooperation, generally between two or more companies, for the purposes of implementing joint projects. 
+12 RAN - Radio Access Network. 
+13  Big data analytics is the process whereby big data is gathered (from the Internet of Things, smart cars, social networks, etc.) and analyses to 
+obtain useful information for the business. Big data analytics techniques make it possible to provide companies with new information on issues 
+such as the market context, competition and customer behavior to improve customer experience strategies, etc. 
+ 
+74 
+ 

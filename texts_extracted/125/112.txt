@@ -1,0 +1,56 @@
+Insieme promuoviamo i Global Goals 
+#globalgoals
+17 obiettivi per cambiare  il mondo
+Insieme promuoviamo i Global Goals 
+#globalgoals
+17 obiettivi per cambiare  il mondo
+Insieme promuoviamo i GIInnlsosiibeeamml eGe  opparroolsmm  uuoovviiaammoo  ii  GGlloobbaall  GGooaallss  
+#globalgoals ##gglloobbaallggooaallss
+17 obiettivi per cambiar11e77    iool bmbiieeottnttidivvoii  ppeerr  ccaammbbiiaarree    iill  mmoonnddoo
+5.1.7 Electromagnetic emissions
+In both terminals the emissions of electromagnetic radiation are linked to 
+the presence of electrical systems, transmitting antennas, servers and 
+two-way radios for communication between people employed in the 
+operations departments, when they are working at yard and between 
+the internal planning and operations management offices.
+At SECH a survey was conducted in July 2017 aimed at assessing electric 
+field strengths and magnetic induction. The monitoring concerned the 
+following sources: transformers, motors, equipment and control panels. 
+The high-frequency electromagnetic field was also monitored, in order 
+to highlight any contributions determined by the radio-communication 
+system inside the terminal and any sources of external origin (radar and 
+radio and tele-communication systems). A broadband field analyser 
+equipped with three isotropic probes was used for this purpose, to make 
+measurements both in low frequency ELF31 (1Hz – 400 kHz) and in high 
+frequency RF 32 (100 kHz – 40 GHz).
+The assessment results are as follows:
+EL - 10 ANNI Rollup GG x SOCI.indd   1 21/05/19   15:06
+ SECH OUTCOMES
+Measurements performed at SECH were made after identifying the points where the 
+Y
+T
+EL - 10 ANNI Rollup GG x SOCI.indd   1 electric field and magnetic 2i1/05/19n   15:06 duction could have the highest values, i.e. close to the  BILI
+A
+equipment and electrical panels. The measurement points were then selected based  N
+AI
+on the geometry of the spaces, the location of the sources and by a field level screening  UST
+for the two components of the electromagnetic field. In total, 13 areas were identified  AL S
+T
+EL - 10 ANNI Rollup GG x SOCI.indd   1 ELE -L 1 -0 1 A0N ANNIN RI oRlloulplu Gp GG Gx  SxO SCOIC.inI.dindd  d 1   1 (quay cranes, RM21/05/19   15:06Gs, data centre rooms, 212/015/0/159/1  9 1  t5 1:056:06ransformer cabin, workshop, quay, yard and  MEN
+gate) for a total of 46 measurement points, for some of which we also proceeded to  N
+O
+R
+measure RF field. The surveys in the workshop concerned, in particular, the sources  VI
+N
+E
+consisting of tools for daily use (grinding wheel, miter saw, welding machine, etc.) and 
+were carried out with the operator in activity and positioning the probe near the head 
+and the trunk. The results of the analysis carried out testified the compliance with the 
+current regulations. The values   measured in low frequency (ELF) were always below the 
+most precautionary threshold values, indicated as “General Public 1998” and those 
+identified for the protection of workers and indicated as “2013/35/EU”, for workshop 
+equipment. As far as the high frequency sources (RF) are concerned, the values   are 
+often at the limit of the sensitivity of the instrument, or well below the regulatory limits.
+31. ELF: Extremely Low Frequency.
+32. RF: Radio Frequency.
+SECH • TDT 2019 Sustainability Report | 113 

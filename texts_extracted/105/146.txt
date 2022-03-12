@@ -1,0 +1,42 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalità di presentazione dei bilanci, metodologie e principi contabili applicati 
+effettuato con riferimento all’unità organizzativa generatrice dei flussi finanziari (di seguito anche cash generating unit o CGU) 
+cui attribuire l’avviamento. La metodologia adottata per l’effettuazione del test e gli effetti contabili dell’eventuale riduzione di 
+valore è descritta al paragrafo “Riduzione di valore di attività”.
+Diritti di brevetto industriale e di utilizzazione 
+delle opere dell’ingegno, di licenze  
+e di diritti simili
+I costi relativi all’acquisizione di Diritti di brevetto industriale e di utilizzazione delle opere dell’ingegno, di licenze e di diritti simili 
+sono ammortizzati in base al metodo lineare, in modo da distribuire il costo sostenuto per l’acquisizione del diritto lungo il 
+periodo più breve tra quello di atteso utilizzo e la durata dei relativi contratti, a partire dal momento in cui il diritto acquisito 
+diviene esercitabile.
+I costi riguardanti lo sviluppo e la manutenzione dei programmi software sono imputati al Conto economico nell’esercizio in cui 
+sono sostenuti. I costi che sono direttamente associati alla produzione di prodotti software unici e identificabili e che generano 
+benefici economici futuri con orizzonte temporale superiore a un anno vengono imputati alla voce Attività immateriali. I costi 
+diretti – ove identificabili e misurabili – includono l’onere relativo ai dipendenti che sviluppano il software, nonché eventuali costi 
+direttamente correlati. L’ammortamento è calcolato in base alla stimata vita utile del software, di norma in 3 anni. I costi di 
+ricerca non sono mai capitalizzati.
+Beni in leasing
+I beni posseduti mediante contratti di leasing finanziario, attraverso i quali sono sostanzialmente trasferiti al Gruppo i rischi e i 
+benefici legati alla proprietà, sono iscritti nelle attività al loro valore corrente o, se inferiore, al valore attuale dei pagamenti minimi 
+dovuti per il leasing. La corrispondente passività verso il locatore, pari alla quota capitale dei canoni futuri da rimborsare, è 
+iscritta nei debiti finanziari. I beni sono ammortizzati applicando il metodo lineare, in base alla vita utile delle varie categorie di 
+beni, stimata con le stesse modalità indicate per le attività materiali e immateriali. 
+Le locazioni nelle quali il locatore mantiene sostanzialmente i rischi e benefici legati alla proprietà dei beni sono classificate nei 
+leasing operativi. I costi per leasing operativi sono rilevati linearmente a Conto economico lungo la durata del contratto di leasing.
+Riduzione di valore di attività
+A ciascuna data di riferimento di bilancio, le Attività materiali e immateriali con vita definita sono analizzate al fine di identificare 
+l’esistenza di eventuali indicatori di riduzione del loro valore (ai sensi dello IAS 36). Se si manifesta la presenza di tali indicatori, si 
+procede alla stima del valore recuperabile delle attività interessate. Il valore recuperabile di un’attività è il maggiore tra il suo fair 
+value, ridotto dei costi di vendita, e il suo valore d’uso, laddove quest’ultimo è il valore attuale dei flussi finanziari futuri stimati 
+per tale attività. Nel determinare il valore d’uso, i flussi finanziari futuri attesi sono attualizzati con un tasso di sconto che riflette 
+la valutazione corrente di mercato del costo del denaro, rapportato al periodo dell’investimento e ai rischi specifici dell’attività. 
+Il valore d’uso delle attività che non generano flussi finanziari indipendenti è determinato in relazione alla cash generating unit 
+(CGU) cui tale attività appartiene. 
+Prescindendo dal riscontro di eventuali indicatori di riduzione di valore, viene effettuato l’impairment test almeno una volta 
+l’anno per le seguenti specifiche attività:
+attività immateriali con una vita utile indefinita o che non sono ancora disponibili: tale verifica può essere fatta in qualsiasi 
+momento durante un esercizio, a patto che avvenga nello stesso momento ogni anno;
+l’avviamento acquisito in un’aggregazione aziendale.
+145

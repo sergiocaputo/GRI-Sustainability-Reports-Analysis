@@ -1,0 +1,78 @@
+Our Strategy Our Strategy
+→ Intellectual Capital → Intellectual Capital
+Optimise processes  MATERIAL 
+Our cyber security strategy centres on a continuous  In 2019 communities of practice were introduced,  T he TIAB met 3 times in 2019 to discuss our new data  TOPICS
+improvement model and a dedicated process and  and services promoting practice sharing as expertise and fostering  strategy and customer experience model, amongst 
+policy framework so as to respond effectively to  cross-team cooperation. The Global Data Science  other topics.
+the dynamism of the threat landscape and evolving  community is an example.9 Its roughly 500 members 
+regulatory requirements. Furthermore, it is cyclically  Continued investments in process improvements enable  members share experiences, practices and real use  We maintain a high focus on fintechs, leveraging new 
+monitored both internally and through third party  us to be more efficient, to the benefit of our clients.  cases, collectively learning and developing across key  technologies to enhance our processes and customer 
+assessments.  Group initiatives.  offering. To facilitate scouting and testing of fintech 
+Our Paperless Bank programme6 plays a fundamental  solutions, in 2019 UniCredit established a partnership 
+Over 400 full-time equivalents (FTEs) are dedicated  role in our new strategic plan which envisages  We apply data science in our Advanced Analytics  with Plug and Play, a global innovation platform 
+to ICT security activities and operations, marking an  transformation to a digital operating model, leveraging  Lab (AALab) programme. Leveraging big data  bringing together start-ups and corporations from 
+increase versus 2018. Prevention and risk mitigation  straight-through processing opportunities in particular.  architecture and data analytics, the programme has  main market sectors. A number of pilot initiatives were 
+initiatives undertaken in 2019 included a new  Through its deployment our clients will benefit from  the objective of boosting business decision-making  launched as a result in areas such as our customer 
+antivirus solution to tackle advanced endpoint (e.g.  an improved customer experience thanks to the  processes through the use of data. More specifically,  offering for small and medium enterprises (SMEs), client 
+The emissions related to the printing and distribution of the 2019 Annual Report and Accounts 
+laptops) threats, and reinforcing protection measures  convergence of traditional in-branch transactions to  it aims to enhance our relationship with our  onboarding and regulatory compliance technology. 
+and the 2019 Integrated Report have been compensated with the support of Ofﬁcinæ Verdi, which uses Gold Standard credits 
+against sensitive data exfiltration. Furthermore, we  simpler and quicker digital solutions and products.  clients, support risk presidium and overall controls,  Moreover, as a member of Plug and Play’s Frankfurt and 
+Material topics
+gained through the development of a programme for biogas production for domestic usage in Kenya.
+implemented an enhanced user behaviour analysis  Moreover, in-branch processes will be significantly  and improve efficiency. The AALab, involving  Milan Hubs, thereby in two of our core markets, we are 
+The Gold Standard is supported by WWF as it is the most rigorous 
+solution to strengthen the effectiveness of alarms,  optimised through complete dematerialisation of  cross-functional virtual teams, utilises a centralised  well placed to act as innovation partner for our clients 
+global certiﬁcation standard for carbon offset projects.
+and optimised monitoring and detection of specific  documents, reducing operational risk and increasing  big data platform permitting data to be acquired  including corporates and SMEs, connecting them to the 
+threats. An automated security risk assessment  efficiency.  from multiple sources and transformed through to  Plug and Play ecosystem through tailored initiatives.
+INNOVATION FOR CUSTOMER
+solution for repositories was also applied.  final analytics. It is currently working on about 20 
+Digitalization and innovation
+In 2019 we finalised dematerialisation of cashier  use cases, advising on and supporting areas such as  In 2019 buddybank, UniCredit’s new banking model 
+Value to customer
+We also focused on alignment with regulatory  desk transactions in our Italian branches. All such  sales effectiveness, credit risk detection and process  designed exclusively for smartphones available 
+requirements. These activities included  transactions can now be digitally signed. In addition  efficiencies. in Italy, released the first personal loan service 
+enhancing our SWIFT infrastructure to meet new  to transactions, almost 50 percent of other in-branch  designed exclusively for mobile users. Simplification  LEAN AND SOLID BANK
+Customer Security Programme requirements, and  documents for individuals customers were digitally  of the product concept and full digitalisation of  Bank solidity
+implementing new strong customer authentication  signed in 2019. Our Austrian and German branches are  the underlying processes allows customers instant 
+Transform by innovating Lean and transparent organization
+measures for online and mobile channels  at an advanced stage in the dematerialisation of cashier  and complete access to the offer. Through the app 
+requiring either a onetime password or biometric  desk transactions and dematerialisation activities have  customers can independently manage all phases 
+PEOPLE DEVELOPMENT
+identification, in line with Payment Services  also begun in the CEE region. These changes marked a  We are committed to developing cutting-edge  of the product purchase, including plan simulation, 
+Directive 2 (PSD2) obligations.  saving in excess of 130 million sheets of paper across  solutions to provide an innovative and competitive  providing necessary documentation and activating the  Employees' development
+our network, equal to approximately 15,000 trees,7 and  service. Cover and Introduction: UniCrleodaint,  Sa.sp .wAe.ll as accessing post-sales services. Diversity and inclusion
+Employee awareness of cyber security risks is key. In  will support our environmental sustainability goals as  Sorter pages: UniCredit S .p.A.
+2019 about 39,000 hours of dedicated training were  the programme progresses.8 Our Group TransformationG Oraffiphceic c doeovredlionpamteesn otu arn d compositWioen :a Mlseor csuigrnioifi GcPantly innovated payment services 
+ETHICS
+provided Group-wide (of which over 9,000 in Italy)  activities in the field of innovation, supPproinrtt:i nCgP Z S.p.A. (Bergatmhoro)ugh cooperation with traditional partners 
+Fair business behavior
+and we intensified knowledge sharing through our  Our Best Practice Sharing and Convergence programme  strategic decision-making and the definition ofA pril 2020 (Mastercard) and Big Techs. Customers in a number 
+Business ethics
+Group intranet portal, including 9 educational videos.  works to identify and replicate internal best practices,  Group-wide priorities. Moreover, it scouts innovative  of countries are now able to use UniCredit cards in 
+We also ran a phishing simulation campaign involving  fostering best-in-class processes and accelerating  solutioTnhse  aInntde gmraotneidto Rrse pthoerti ra inmdp Sleumppelnetmaetinotn h. ave been madec oanvjauinlacbtlieo na tw witwh wA.pupnliecr Peadyit,g Groouopg.leeu Pay and Alipay 
+around 36,000 employees in UniCredit SpA.  progress. Best practices in strategic areas of our  and also available for download by activatainngd  tfhuert QheRr  croodlleo ubteslo awre. in the pipeline. SYSTEMIC TRENDS
+business, such as customer experience and our  The identification and evaluation of innovative    Cyber security
+The aforementioned measures, together with other  Paperless Bank programme, are identified through a  ideas and solutions is supported by the Group  Our activities in 2019 to fulfil PSD2 regulatory 
+Climate change
+actions, aim at reducing the likelihood and impacts  rigorous benchmarking process. They are subsequently  Transformation and Innovation Advisory Board  requirements included implementing measures 
+Demograﬁc change
+arising from cyber-attacks and ensuring that  documented in explanatory videos and a virtual library  (TIAB).10 Acting as both advisor and challenger, the  for certified Third Party Providers (TPPs) to access 
+they are governed effectively. For example, upon  so as to share knowledge across the Group. To date,  TIAB reviews key transformational and innovation- accounts upon customer authorisation. At the same 
+detection in 2019 we immediately investigated,  results of the programme include: Yroeula mteady i nailtsioa trievqeus efsrot ma c aocpryo sfrso tmhe:  UGnroiCurpe dreitg -a Grdroinugp  Sustainabtiimlitey,  Pwiaez szeai zGeade P ASuDl2en ptri,o 2vi0s1io5n4s  Masi laann ,o Iptaployrtunity to  POSITIVE IMPACT ON SOCIETY
+reported and managed an incident involving a  critical topics such as data analey-tmicsa,i lfi: ngtreocuhp sustainability@uinnincorevdatite.e ouur services so as to meet clients’ changing  Positive impact on society
+file generated in 2015 containing a limited set of  collaboration and innovation management. Its  needs, initiating development of multibanking 
+personal details within the Italian perimeter. No  ~50 best practices identified  members include external experts in areas such  functionalities. Once completed, our clients will 
+information permitting access to customer accounts  out of 250 initiatives collected as security and risk mitigation, fintech ecosystems  be able to aggregate accounts held in other banks 
+or unauthorised transactions was lost.5 and consumer trends, alongside UniCredit’s senior  and make third party payments directly from our 
+leaders.  channels, simplifying the customer experience. 
+Going forward, our Team 23 strategic plan includes  ~70 local best practices replicated
+further investments in reinforcing identity and access  either fully or partially, in other banks 
+management, third party services, cloud security and  of the Group
+cyber security culture, amongst other priorities.
+5. Refer to the UniCredit press release from 28 October 2019 for more information. 9. Launched jointly with Advanced Analytics Lab in September 2019.
+6. Refer to the Strategic Plan chapter for more information. 10. Refer to the 2018 Integrated Report for more information. 
+7. Refer to http://www.conservatree.com/learn/EnviroIssues/TreeStats.shtml for more information regarding the method of calculation. 
+8. Refer to the Natural Capital chapter for more information. 2019 Integrated Report
+86 UniCredit • 2019 Integrated Report UniCredit • 2019 Integrated Report 87

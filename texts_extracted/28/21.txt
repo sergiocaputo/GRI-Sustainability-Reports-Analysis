@@ -1,0 +1,57 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019  |  © 2020 GRUPPO CREVAL  |  2. I NOSTRI AMBITI DI AZIONE
+dei registri dei trattamenti” e “Conserva- •  progetto “GDPR Action Plan” strutturato  li trattamenti e il grado di adeguatezza del- alle strutture della Direzione Risorse Uma-
+zione dei registri dei trattamenti”; nei cinque cantieri relativi al Registro dei  le misure di sicurezza applicate agli stes- ne nella progettazione ed erogazione di ini-
+•  "Data Breach" (violazione dei dati perso- trattamenti e Regole di retention, Dizio- si. Le azioni di mitigazione si distinguono in  ziative formative attinenti a tematiche in cui 
+nali) - composta dalle fasi “Identificazio- nario dei dati personali, Diritti degli inte- due casistiche: per le violazioni determina- assume rilievo il rischio di non conformità 
+ne della violazione di dati personali”, “Dia- ressati (impatti operativi), Misure di prote- te da eventi di sicurezza é previsto apposi- in materia di protezione dei dati personali.
+gnosi della violazione di dati personali”,  zione dei dati personali, Misure tecniche  to “gruppo di intervento” (Incident Respon- •  Mancata tutela della privacy - Creval pos-
+“Definizione  ed  implementazione  azioni  e organizzative (workflow e documenta- se Team) con il compito di identificare le  siede una “Policy sulla circolazione delle 
+di remediation”, “Notifica della violazione  zione); azioni e gli interventi da intraprendere al  informazioni e sul tracciamento delle infor-
+di dati personali all’Autorità di controllo”,  •  rilascio  di  apposita  Procedura  per  la  fine di ridurre o eliminare la causa e l’im- mazioni bancarie” che prevede un siste-
+“Comunicazione della violazione di dati  gestione del registro dei trattamenti, del- patto dell’incidente; per le violazioni detta- ma di controlli a fronte di segnalazione di 
+personali agli interessati” e “Tracciamento  la violazione dei dati personali e del diritto  te da altre tipologie di eventi è predisposta  allarme scaturiti da specifici “key risk indi-
+della violazione di dati personali”; degli interessati; un’attività di aggiornamento di Policy e Cir- cator”, indirizzati ad assolvere alle prescri-
+•  "Data  Protection  Impact  Assessment"  •  implementazione  dei  processi  e  delle  colari atte a regolare il comportamento dei  zioni normative; quest’ultimo richiede alle 
+(DPIA - valutazione d’impatto della prote- misure tecniche, organizzative e architet- colleghi. banche, tra l’altro, l’attivazione di speci-
+zione dei dati) - definita tramite le com- turali presenti nel Modello per la Protezio- •  Rischio di violazione del diritto degli inte- fici  alert  che  individuino  comportamen-
+ponenti di “Valutazione necessità ed ese- ne dei dati personali. ressati - i presidi attivi sono rappresenta- ti anomali o a rischio relativi ad operazioni 
+cuzione di una DPIA”, “Esecuzione di una  Nel  portale  interno  di  formazione  è  sta- ti dal monitoraggio costante dei canali di  di inquiry eseguite dagli incaricati del trat-
+Consultazione o Autorizzazione preventi- to pubblicato il corso online “La GDPR alla  ricezione delle richieste provenienti dagli  tamento sui dati della clientela. Creval, nel 
+va”, “Implementazione piano d’azione” e  luce dell'attività di marketing” con l’obiettivo  interessati e dalla gestione di un registro  rispetto di quanto richiesto dalla normati-
+“Conservazione documentazione a sup- di sensibilizzare tutti i dipendenti sull’impor- del diritto degli stessi nel quale censire tut- va, ha pertanto attivato sistemi automati-
+porto”. tanza del consenso - attività volta non solo a  te le richieste pervenute e monitorare lo  ci di segnalazione che individuano com-
+Tre iniziative specifiche a loro volta sono ini- adempiere un obbligo normativo ma anche  stato di avanzamento dei relativi riscontri,  portamenti anomali o a rischio relativi alle 
+ziate nel corso del quarto trimestre del 2019  a mantenere attiva la relazione con il cliente. il cui termine ultimo è pari a 30 giorni dalla  operazioni di inquiry eseguite dagli incari-
+e sono tuttora in corso: ricezione. Le attività sono gestite in un’ot- cati del trattamento. In particolare, la ban-
+tica di miglioramento costante dei proces- ca ha adottato soluzioni informatiche che 
+si - è in corso al riguardo la predisposizio- prevedono la registrazione dettagliata delle 
+ne di workflow di processi ad hoc per le  informazioni riferite alle operazioni banca-
+KPI di performance GRI diverse tipologie di diritto degli interessati  rie, sia dispositive sia di semplice inquiry, 
+(in linea con le prescrizioni del GDPR - arti- effettuate sui dati bancari dei clienti da par-
+coli 15-22). te degli incaricati.
+•  Rischio  di  non  adeguata  conformità  al  Il Servizio Auditing Processi Generali moni-
+418-1 Denunce comprovate riguardanti la violazione della privacy dei clienti e perdita dei  GDPR - Creval ha adottato il Modello per  tora tali alert, ne analizza le evidenze e, al 
+dati dei clienti la Protezione dei dati personali allo sco- termine della valutazione, può deciderne 
+po di rispondere agli obblighi del Regola- l’archiviazione o, qualora si ritenga neces-
+2017 2018 2019 mento relativo). Al fine di garantire il rispetto  sario, comunicarne l’esito ai vertici azien-
+Numero totale di reclami per l’esercizio dei diritti ai  di quanto previsto da tale Modello è sta- dali e all’Area Human Resources per i con-
+7 7 6
+sensi della privacy da parte dei clienti to definito un sistema di controllo che pre- seguenti interventi di tipo gestionale e/o 
+ di cui da parti esterne 7 7 6 vede: a) monitoraggio degli aggiornamen- disciplinare. Ove a fronte dell’accesso ille-
+ di cui da enti regolatori - - - ti normativi in materia di protezione dei dati  cito venissero rilevate anche delle posizio-
+Numero totale di reclami relativi alla perdita di dati dei  personali; b) assessment dei rischi di non  ni non corrette sotto il profilo abilitativo, il 
+- - -
+clienti conformità  connessi  alla  protezione  dei  servizio stesso provvede all’invio di appo-
+dati personali ovvero individuazione e valu- sito report al Responsabile della Direzione 
+tazione dei rischi potenziali, individuazio- Auditing per la richiesta di attivazione da 
+Principali rischi ne e valutazione dei presidi di conformità,  parte della banca dei conseguenti inter-
+determinazione del rischio residuo, even- venti di regolarizzazione.
+•  Rischio  di  violazione  dei  Dati  Persona- ti, la comunicazione o diffusione erronee di  tuale formulazione di proposte di interven- L’esito dell’attività di analisi scaturita dal-
+li - si concretizza nella perdita di riserva- dati a soggetti non autorizzati, il mancato  to e successivo monitoraggio delle stesse;  le evidenze fornite dai “key risk indicator”, 
+tezza e/o di integrità e/o di disponibilità dei  aggiornamento dei dati). Le azioni a presi- c) consulenza a strutture e ruoli azienda- con la descrizione dei conseguenti inter-
+dati trattati da Creval in conseguenza del  dio sono rappresentate dalla redazione di  li relativamente a tematiche connesse alla  venti posti in essere, costituisce oggetto di 
+verificarsi di un incidente di sicurezza o di  Policy atte a regolare il corretto compor- protezione dei dati personali (con parti- apposita rendicontazione - sottoposta al 
+un’altra tipologia di evento (a titolo esempli- tamento dei colleghi e dall’utilizzo del regi- colare riferimento agli aspetti che posso- Comitato Rischi, all’Amministratore Dele-
+ficativo ma non esaustivo lo smarrimento  stro dei Trattamenti dei dati personali per  no determinare un rischio di non conformi- gato, al Consiglio di Amministrazione e al 
+o la distruzione accidentale di documen- valutare il livello di rischiosità dei singo- tà al GDPR); d) formazione, con il supporto  Collegio Sindacale di Creval..
+42 43

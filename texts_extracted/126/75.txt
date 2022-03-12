@@ -1,0 +1,57 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+TIM then presented, under real traffic conditions, the Urban Georeferenced Alert service, developed in conjunction with 
+the City of Turin, the FCA, the Links Foundation, the Polytechnic University of Turin, SWARCO and 5T and boasting the 
+ability to provide useful traffic information, such as notices of work in progress, any queues that may lie ahead and speed 
+reduction signs; this data is communicated to TIM's 5G Digital Business Platform, which sends it over the 5G network to 
+the car, allowing the driver to make the necessary decisions.  
+Furthermore, TIM’s 5G service at the Lingotto track in Turin has made it possible to introduce services that can share and 
+use information in real time to project the driver into the not-too-distant future thanks, also, to the augmented reality 
+sensors.   
+TIM launched its 5G commercial offering in Florence in the autumn, before extending it in late November to cover Genoa, 
+making the first services available to families and businesses.   
+The year 2019 ended with two major demonstrations based on TIM's 5G technology. The first of these involved a live 
+surgical procedure using 5G immersive reality, performed by Professor Giorgio Palazzini, who was ‘teleported’ from Rome 
+to the operating theatre of the hospital in Terni during the International Conference on Digestive Surgery. The operation 
+was followed by over 30,000 specialists and surgeons from all over the world in live multi-streaming mode1. Using three 
+cameras installed in the hospital’s operating theatre that were broadcasting simultaneously, one of which was a special 
+360° high-definition camera, Professor Palazzini participated live in the operation, simultaneously observing the procedure 
+and the patient’s biometric data, with the ability to zoom in and out and select any details of particular interest, as well 
+as observing the patient’s internal organs in single-view mode using a laparoscopic camera that was also connected to 
+the network. The high quality of the 4K video communication and the immediacy of immersive reality, as guaranteed by 
+the low latency of 5G, meant that Professor Palazzini was able to access diagnostic information in real time, comment 
+on it and follow the operation as if he were part of the onsite team in Terni. 
+The second demonstration of TIM's 5G potential took place at the Monza circuit, which has become the first 5G circuit in 
+Europe. On December 6, 2019, during the Monza Rally Show 2019, live demos of the new services made possible by the 
+use of TIM 5G in the automotive, industry 4.0, digital tourism, smart city and drone fields were showcased, accompanied 
+by the announcement of the launch of 5G commercial services in Brescia. 
+All 5G technological development activities are accompanied by a coherent technical communications activity, ranging 
+from the editorial to the promotional aspects, including scientific dissemination events and the organization of special 
+customer visits to the TIM innovation centers in Turin and Rome.   
+ 
+[GRI 103-3: Management Approach] [GRI 203] IoT Open Lab  
+In November 2016, TIM opened the IoT Open Lab, which became fully operational in 2017, at its base in Turin. Its purpose, 
+according to the methods inherent in Open Innovation, is to support the development of IoT solutions based on key 
+technologies for the Telco Operator. In particular, the IoT Open Lab acts as a business accelerator to support companies 
+in entering the ecosystem of technologies standardized by the 3GPP and, as regards the current period, Narrow Band IoT 
+technologies. In 2018, more than 180 companies and customers visited the Lab, and among them, around fifty 
+construction companies agreed a partnership with TIM for use of the Lab’s facilities free of charge. 
+ 
+[GRI 103-2: Management Approach] [GRI 203] Research with universities  
+In 2019, Open Innovation activities (understood as R&D participatory behavior) were largely concentrated on the new 
+innovation model pursued at TIM and guided by top management. In particular, research and development conducted 
+with Italian universities focused on innovative technologies and application solutions, with a special focus on the 
+opportunities afforded by 5G.  
+As stated, the financial commitment was approximately 1.3 million euros, for specific research activities, in particular: 
+•  in partnership with the Politecnico di Torino, the twenty research projects on technological innovation related to 5G 
+and ultra-broadband, as well as cognitive computing2 and artificial intelligence, as solutions for the development of 
+new application scenarios in numerous contexts (for example the IoT and use of drones). One of the projects 
+addressed ethical and privacy issues that may arise from using artificial intelligence;  
+•  research projects defined as part of the MiSE (Ministry for Economic Development) Bari Matera 5G project continued, 
+involving TIM along with six academic institutions: the National Research Council (Centro Nazionale delle Ricerche - 
+                                                                 
+1 Streaming can be defined as a method of transmitting or receiving data (especially video and audio material) over a computer network in the 
+form of a constant and continuous stream, meaning that it can be played back whilst subsequent data is being received. 
+2 A more advanced system that gives machines a part of the functions of the human brain. 
+76 
+ 

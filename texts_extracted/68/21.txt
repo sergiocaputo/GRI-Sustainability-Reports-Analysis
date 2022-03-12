@@ -1,0 +1,59 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2017
+SNAITECH è stata impegnata nel corso dell’ultimo triennio in un programma di dematerializzazione ed efficienta- La riduzione della percentuale di energia elettrica proveniente da fonti rinnovabili dipende dalle diverse percen-
+mento dei processi, finalizzato ad una riduzione progressiva dell’utilizzo della carta attraverso la realizzazione  tuali dichiarate dai fornitori di energia che sono in parte cambiati rispetto all’anno precedente in un’ottica di 
+dell’area documentale, l’integrazione delle informazioni e della documentazione, la digitalizzazione, che coin- contenimento dei costi.
+volge anche i rapporti con la rete di vendita e i fornitori. 
+Nel corso dell’esercizio sono proseguiti i programmi volti alla razionalizzazione delle attività aziendali destinate ad 
+2017 2016
+esercitare un effetto di mitigazione dell’impatto ambientale dell’attività tipica: » CONSUMI ENERGETICI  CONSUMI DIRETTI (NON RINNOVABILI)
+1.  virtualizzazione Server Farm: sono state completate le attività di virtualizzazione delle server farm, con la  PER FONTE (GJ)   Metano per riscaldamento 8.141,58 8.101,21
+conseguente dismissione degli apparati fisici non più necessari; (GRI N.302-1) Gasolio gruppi elettrogeni 28,09 413,38
+2.  Green Computing: è proseguita la sostituzione delle postazioni di lavoro obsolete, che comportano ridu-
+Gpl per riscaldamento 953,88 953,26
+zione dei consumi energetici delle macchine. Per il 2018 è stato sottoscritto un nuovo accordo quadro al 
+Diesel per autotrazione 8.278,37 10.792,557
+fine di rinnovare ulteriori 300 postazioni;
+Benzina per autotrazione 224,76 177,66
+3.  dematerializzazione ed efficientamento dei processi nell’ambito della certificazione UNI CEI ISO 27001/2017 
+CONSUMI INDIRETTI
+che nel corso dell’ultimo anno è stata estesa dalla sola sede di Porcari anche alle sedi di Roma e di Milano.
+Energia elettrica acquistata 31.426,74 41.185,22
+Di cui da fonti rinnovabili* 10.258,36 16.714,41
+SNAITECH e gli altri operatori del settore sono in attesa delle linee guida da parte di ADM a seguito dell’introdu-
+Teleriscaldamento (rinnovabile) 548,60 857,16
+zione della legge 2015 del 27 dicembre 2017 (“Bilancio di Previsione dello Stato”), che introduce, tra l’altro, dispo-
+TOTALE 31.975,34 42.042,38
+sizioni per lo smaltimento e la distruzione delle AWP che vengono dismesse dal mercato.
+% energia proveniente da fonti rinnovabili (energia 
+34,39% 41,79%
+elettrica+teleriscaldamento) su totale consumi indiretti
+3.4.
+I risultati raggiunti (GRI N.103-3) *Il calcolo della quota di elettricità proveniente da fonti rinnovabili risulta dalla media delle percentuali fornite dai singoli 
+fornitori di energia elettrica nel 2016 non essendo ancora disponibile l’aggiornamento 2017 e in particolare:
+Nella tabella seguente vengono riportati i risultati relativi ai consumi di carta, che rappresentano il principale 
+materiale utilizzato nelle attività d’ufficio e che non presentano variazioni di rilievo rispetto all’anno precedente  2017 2016
+che aveva visto una forte riduzione dei consumi in seguito al processo di dematerializzazione dei processi ormai  » CONSUMI   Acquedotto municipale 40.263 102.050
+consolidato.  DI ACQUA* (mc)  Estrazione da pozzi 464.174 362.982
+(GRI N.303-1, 306-1)
+PRELIEVO TOTALE 504.437 465.032
+Irrigazione** 232.087 181.491
+2017 2016
+» CONSUMI DI CARTA  *I consumi di acqua della rete di agenzie SNAI Rete Italia Srl e di Teleippica (sede di Roma) sono condominiali e non sono inseriti 
+TONNELLATE CARTA ACQUISTATA 39,68 38,62 nei consumi totali. 
+(GRI N.301-1) 
+** Gli scarichi dell’acqua sono stati calcolati solo per le aree degli ippodromi alla voce “irrigazione”, ad esclusione degli utilizzi 
+degli uffici.
+Nel corso del 2017 si mantengono praticamente stabili i consumi di metano e GPL per riscaldamento. Per quanto 
+riguarda i carburanti per autotrazione, aumenta in misura contenuta il consumo di benzina a fronte di una signifi- Nel 2017 il 97,7% dei consumi di acqua del Gruppo è di competenza dei comprensori ippici. Il contenimento dei 
+cativa riduzione del consumo di diesel. Si riducono i consumi di gasolio per gruppi elettrogeni da parte di Trenno  consumi di acqua è stato effettuato intensificando i controlli puntuali delle utenze e adottando chiusure e sezio-
+in seguito all’ottimizzazione delle accensioni delle luci della pista e dell’area riservata al pubblico. namenti degli impianti. L’aumento dei consumi avvenuto nel corso dell’esercizio è dipeso in massima parte delle 
+La riduzione dei consumi più significativa si rileva nel comparto dell’energia elettrica (-22,3%) nonostante l’e- condizioni meteorologiche, in quanto l’irrigazione, che è la maggiore causa di consumo, deve essere intensificata 
+state 2017 abbia presentato temperature esterne particolarmente elevate per lunghi periodi, che hanno richiesto  con il protrarsi della stagione secca. L’Azienda utilizza soltanto acqua proveniente dagli acquedotti municipali 
+un uso più prolungato degli impianti di condizionamento. Un’analisi dei consumi delle società rientranti nel peri- e da pozzi, limitatamente all’unità locale di Trenno. Inoltre nel corso del 2017 il comprensorio ippico di Trenno 
+metro di rilevazione, presenta una riduzione del 10,9% da parte della società SNAITECH S.p.A. che comprende  ha rilevato due utenze dell’acquedotto comunale con consumi non nella norma e ha provveduto alla richiesta 
+le sedi di Milano, Roma, Porcari e Teleippica mentre i consumi elettrici dei comprensori ippici si sono ridotti del  di sostituzione di due contatori e alla riparazione di alcune tubature. La discrepanza fra i consumi 2016 e 2017 
+18,6% grazie a misure volte al risparmio che comprendono controlli puntuali delle utenze e attivazione di chiu- si colloca pertanto nell’ambito di queste riparazioni e dei problemi di contabilizzazione dei consumi reali che ne 
+sure e sezionamenti di impianti. La riduzione più significativa si riferisce alla società Snai Rete Italia (-53%) ed è  sono derivati. 
+imputabile in massima parte alla dismissione di immobili in seguito alla riduzione del numero delle agenzie dirette,  È inoltre da segnalare che l’Azienda commissiona periodicamente analisi chimiche e microbiologiche su campioni 
+attraverso chiusure e cessioni di ramo d’azienda.  di acqua estratta dai pozzi Trenno e ottiene regolari certificazioni di potabilità. 
+40 41

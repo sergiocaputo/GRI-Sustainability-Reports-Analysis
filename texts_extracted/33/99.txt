@@ -1,0 +1,41 @@
+Consolidated Non-Financial Statement 2018
+Emissions12
+Scope 1 and Scope 2 emissions (location-based method)  
+December 31st 2018 December 31st 2017
+EMISSIONS (ton CO )
+2eq
+Scope 1 Scope 2 Totale Scope 1 Scope 2 Totale
+Italy 1.327 999 2.325 636 880 1.515
+Rest of Europe 288 134 422 59 115 174
+Rest of the world 94 722 817 -    692 692
+Total 1.709 1.855  3.564 695 1.686  2.381
+Scope 1 e Scope 2 emissions (market-based method)
+December 31st 2018 December 31st 2017
+EMISSIONS (ton CO )
+2eq
+Scope 1 Scope 2 Totale Scope 1 Scope 2 Totale
+Italy 1.327 1.322 2.649 636 1.105 1.741
+Rest of Europe 288 199 487 59 168 227
+Rest of the world 94    722 817 -    692 692
+Total 1.709 2.243 3.952 695 1.964  2.659
+For the calculation of the Scope 1 emissions 2017 and 2018 we have considered respectively the emission factors of 
+DEFRA 2017 and 2018. 
+For the calculation of Scope 2 emissions we have used different factors based on the calculation methods of the 
+different countries. In particular: 
+• For the location-based method we have used average emission factors related to the generation of national energy 
+for the different countries in which we operate as reported in the publication Confronti Internazionali, Terni 2015 and 
+2016, respectively for 2017 and 2018;
+• For the market-based method we used average emission factors derived from the production of electricity  in the 
+EU for Italy, France and Germany, published in the document Residual Mix Results, Association of issuing bodies (AIB), 
+2016 and 2017, respectively for 2017 and 2018. For the other countries we have used the same factors used for the 
+location-based method."
+12 It should be noted that for a better compliance with Standard GRI 305-1 for the calculation of Scope 1 emissions we used an up-dated source 
+of the emission factors which reports the emissions in CO . The Scope 2 emissions on the other hand, are expressed in tons of CO, in any case, 
+2eq 2
+the percentage of methane and nitrous oxide has a negligible effect on the total emissions of green-house gas (CO ), as can be seen from the 
+2eq
+technical literature to which they refer.  It should be noted that, following this improvement process of the reporting system for Scope 1 emissions 
+and, in particular, the up-dating of the sources of the factors of emissions used for the calculation of the 2018 data , the data for 2017 have been 
+restated with respect to those shown in the preceding NFD, using new emission factors. For the previously published data, please consult the NFD 
+for  2017, which was published on the website www.elengroup.com. in the section called Investor Relations/Sustainability/Reports
+100

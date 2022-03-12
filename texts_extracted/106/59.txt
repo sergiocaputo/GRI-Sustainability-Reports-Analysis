@@ -1,0 +1,45 @@
+58 Prysmian Group    Consolidated Non-Financial Information Statement 2019
+ENERGY 
+T&I (Trade and Installers) 
+The T&I market continues to enjoy the positive influence of the CPR regulation, with an extension of the range of products 
+to which the higher Euroclasses are applied. In particular, the Netherlands has adopted a higher level for the fume emissions 
+of PVC cables, striving for greater safety in residential buildings. This new regulation, which will come into force at the start 
+of 2020, has required intensive development work to upgrade to the next class the fume emissions of the low voltage cables 
+normally used in this market. Significant changes have been made to the cable design and materials, and the new portfolio is 
+now ready for sale. Notably, the sales of B2ca products (the highest category for the reaction to fire) in the Netherlands have 
+tripled with respect to 2018 (data for the first half of the year). The German market (not yet oriented towards clear application 
+of the CPR at national level) is moving towards higher Euroclasses, especially for cables with low fume emissions and without 
+halogens (LSOH), with category Cca (or higher) performance in terms of their reaction to fire. The United Kingdom is working 
+on a proposed high-end Euroclass for LSOH products. In Sweden, the sales of products with Euroclass Dca have increased con-
+siderably with respect to the prior year.
+In addition to the CPR, a number of initiatives have been launched to promote the use of bio-materials. In the Netherlands, 
+the use of green alternatives is under development for the existing families of VD and VULT cables, packaging included, to 
+which the principles of Lifecycle Design Strategy (LiDS) are being applied, given the circular economy orientation of the Dutch 
+T&I market. In particular, technical consideration is being given to the use of s-XLPE (XLPE cross-linked with silanes) insula-
+tion, with expanded skin and bio-colours, for buildings, in order to replace the standard insulation using fully coloured s-XLPE; 
+the use of polypropylene (PP) insulation with coloured skin for construction cables, in order to replace the standard insulation 
+using fully coloured s-XLPE, and the use of biological plasticizers for PVC compounds.
+Work has been completed in Mexico on reducing the environmental impact of packaging: total elimination of real wood and a 25% 
+reduction in the plywood content of drums for LAN data cables, and a 21% reduction in the use of wood for drums holding alumi-
+nium conductors reinforced with steel (ACSR) for overhead lines. With regard to medium voltage cables, the use of wood for the 
+drums has been reduced due to optimisation of the configuration, and the lagging has been reduced between 30 and 50%.
+Power distribution and overhead lines
+With regard to power distribution cables, the P-Laser concept has been taken to the next level with a new version required by 
+the main Italian distribution network operators (DSO). A new version with insulating shield that can be stripped while cold has 
+been qualified and included in the new tender for power distribution cables in Italy. Additionally, another leading DSO at Euro-
+pean level is involved in a new pilot test of P-Laser cables. Prysmian has aligned the new thermoplastic insulation for medium 
+voltage cables with the European HD 620 regulation, paving the way for the adoption of P-Laser in cables in other EU countries.
+Introduction of the new, lead-free flexible elastomeric insulation for medium voltage cables is progressing rapidly in North 
+America, with an excellent market reception. Given the upgraded electrical properties, exceptional resistance to corona di-
+scharges and improved flexibility, customers are choosing the new type of insulation for the majority of their applications and 
+are also considering its use in rural areas. Many of the applications are relevant to the E&I market, renewable energy projects 
+and utilities for the distribution of energy.
+The optimisation of “MV Wind Farm Designs CL Advantage” is an important innovation, with reduced diameter and lower 
+environmental impact. The optimised configuration concept has been launched onto the market using copper wire for the 
+concentric protection conductor and a cross-linked sheath, thus making it possible to reduce both cable diameter and the en-
+vironmental impact of the entire family of medium voltage cables. Total deliveries have exceeded 10,000 tonnes. The concept 
+of this configuration will be extended and applied to other customers, with new contracts expected for 2020.
+The E3X technology for aerial conductors (which increases transmissible energy by about 25%) is achieving success in North 
+America, where it has been extended to more than 20 utilities that are Prysmian customers. This concept is applied with posi-
+tive results to high temperature overhead lines (aluminium conductors with composite sheathing - ACCC), where the need to 
+reduce Joule loss and voltage drop when the grid is heavily loaded is of fundamental importance to the utilities.

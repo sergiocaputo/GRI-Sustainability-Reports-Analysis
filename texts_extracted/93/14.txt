@@ -1,0 +1,37 @@
+13
+  Ipermercati   Supermercati
+1  Beinasco (TO) - Strada Torino, 34/36 1  Alessandria - Via Sclavo, 15 28  Santhià (VC) - Via Galileo Ferraris, 21E/21F
+2  Biella - Via John Lennon, 4/B 2  Arona (NO) - Via Monte Pasubio, 6 29  Savigliano (CN) - Via Duccio Galimberti, 10/12
+3  Borgomanero (NO) - Via della Repubblica, 1 3  Asti - Via Monti, 2 30  Settimo Torinese (TO) - Via Fantina, 20/L
+4  Borgosesia (VC) - Via XXV Aprile, 16 4  Avigliana (TO) - Corso Laghi, 84 31  Strambino (TO) - Via Circonvallazione, 33
+5  Casale Monferrato (AL) - Via Madre Teresa   5  Borgaro Torinese (TO) - Via Lanzo, 181 32  Susa (TO) - Via Donatori di Sangue, 21
+  di Calcutta,1 6  Bra (CN) - Via Senatore Sartori, 9 33  Torino - Corso Belgio, 151/D
+6  Chieri (TO) - Via Polesine, 2 7  Caluso (TO) - Corso Torino, 51/A 34  Torino - Piazza Respighi, 8
+7  Cirié (TO) - Via Robassomero, 99 8  Cameri (NO) - Via Ugo Foscolo, 32 35  Torino - Corso Molise, 7
+8  Crevoladossola (VB) - Via Garibaldi, 4 9  Carmagnola (TO) - Via del Porto, 21 36  Tortona (AL) - Via Tommaso Campanella, 5
+9  Cuneo - Via Cascina Colombaro, 26/A 10  Casale Monferrato (AL) - Piazza Aldo Moro, 15 37  Tradate (VA) - Via Monte San Michele, 69
+10  Cuorgnè (TO) - Via Salassa, 7 11  Castano Primo (MI) - Via Trieste, 1 38  Trecate (NO) - Via Galileo Ferraris, 38
+11  Galliate (NO) - Via Monte Nero, 36 12  Chivasso (TO) - Corso Galileo Ferraris, 191 39  Trino Vercellese (VC) - Corso Galileo Ferraris, 3
+12  Gravellona Toce (VB) - Corso Marconi, 46 13  Collegno (TO) - Via Roma, 57 - 57A - 57B 40  Trivero (BI) - Frazione Ponzone, 173
+13  Novara - Via Porzio Giovanola Ugo, 11 14  Domodossola (VB) - Piazza Matteotti, 10/11 41  Verbania (VB) - Via Colombo ang. F.lli Cervi
+14  Pinerolo (TO) - Corso della Costituzione, 8 15  Domodossola (VB) - Via Cassino, 12 42  Vercelli - Largo Chatillon, 10
+15  Torino - Via Livorno, 51 16  Gattinara (VC) - Corso Garibaldi, 146 43  Villadossola (VB) - Via Campo Sportivo, 1
+16  Valenza (AL) - Via Benvenuto Cellini, 185 17  Luino (VA) - Via Ghiringhelli, 1 44  Volpiano (TO) - Via Trento, 135
+17  Collegno (TO) - Via Fermi, 14 18  Nichelino (TO) - Piazza Aldo Moro, 50
+19  Novara - Via Fara, 43
+  Concept Store
+20  Novara - Via XXIII Marzo, 200
+1  Torino - Galleria S. Federico, 26
+21  Oleggio (NO) - Via Novara, 99/A
+22  Omegna (VB) - Piazza Nobili de Toma, 13
+23  Orbassano (TO) - Via Cervetti Cesare, 22
+  Distributori Enercoop
+24  Pinasca (TO) - Via Sestriere, 73 Loc. Castelnuovo
+1  Biella
+25  Piossasco (TO) - Via Torino, 54
+2  Pinerolo 
+26  Rivoli (TO) - Via Nizza, 15/A
+3  Cuneo
+27  San Mauro Torinese (TO) - Via Trieste, 20/22 4  Vercelli
+Drive di Beinasco
+01 COOP IN SINTESI 

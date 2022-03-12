@@ -1,0 +1,65 @@
+Alperia Sustainability Report 2019 
+be remembered that the objectives set by the PNIEC (Integrated National Plan for Energy and Climate) are very 
+ambitious and foresee that in 2030 renewable energy will cover more than half of gross electricity consumption 
+(55.4%). To this end, it will be necessary to install about 40 GW of new RES capacity by 2030, which is supplied 
+almost exclusively from non-programmable renewable sources such as wind and photovoltaic11.  
+ 
+ 
+ELISA  
+The Innovation Board's second project in 2019 relates to the direct customer relationships. ELISA is an 
+advanced chatbot or virtual assistant that uses artificial intelligence and machine learning to respond to 
+customers appropriately and with consistent language. ELISA has the ability to simulate a human conversation 
+with algorithms that evolve gradually with experience and interaction. ELISA can provide customers with 
+general service information, direct them to web pages with instructions and information, present new products, 
+arrange appointments and manage reservations. By talking to customers, it can give them the answers they 
+need, leaving operators to deal with more complex issues with a higher technical-commercial value. The 
+service is particularly useful in light of the increasing complexity dealing with customers and of the higher 
+numbers of channels to be monitored (email, telephone, social-media networks and messages). Implementing 
+ELISA therefore achieved three objectives: optimising customer-care services; automating communication 
+processes and freeing-up staff; and reducing repetitive low-value activities. The chatbot uses IBM's WATSON 
+technology and is available for Alperia Smart Service, Edyna and Smart Mobility (Neogy) Ecoplus structures 
+and the IT Help Desk. It answers enquiries 24 hours a day, 7 days a week and integrates perfectly with social-
+media channels, apps and the Alperia website.  
+ 
+ 
+LIFE4HeatRecovery  
+Alperia's Engineering & Consulting department worked with partners EURAC Research, COGEME SpA and 
+Linea Group Holding on the LIFE4HeatRecovery project. The project focuses on the development of a new 
+generation of intelligent district heating and cooling networks where low temperature (10-40°C) waste heat 
+sources can be supplied to consumers. LIFE4HeatRecovery solutions will effectively integrate multiple waste 
+heat sources from urban wastewater and service buildings, allowing a network to be designed providing 
+consumers with reliable, safe and clean thermal energy. LIFE4HeatRecovery will also develop innovative 
+financing mechanisms based on public-private partnerships and active participation models. This strategy 
+brings together European customers, network owners and investors in a single activity and also has a social 
+dimension, creating new business opportunities and chances for participation. This puts users at the centre; 
+they become protagonists in the heating and cooling market. The project, which will be developed by a 
+consortium of ten public and private actors, including energy consultants, utility companies and researchers, 
+will be implemented in four district heating networks: Ospitaletto (Brescia), Wüstenrott in Germany and 
+Rotterdam and Heerlen in the Netherlands. 
+ 
+ 
+Zero Emission LIFE IP  
+Alperia collaborates with the Autostrada del Brennero A22, Azienda Pubbliservizi Brunico, Eurac Research 
+Institute,  Vinschgauer  Energie  Konsortium, IIT  (Institute  for Technology  Innovation  Bolzano)  and  STA 
+(Strutture Trasporto Alto Adige SpA) on the Zero Emission Services for a Decarbonised Alpine Economy 
+project, coordinated by the SASA transport company. The project is based on the 2050 South Tyrol Climate 
+Plan, which aims to reduce CO  emissions in various sectors, contributing to the green transformation of South 
+2
+Tyrol. To make this happen, the partners have joined forces to expand the infrastructure network for zero-
+emission mobility, put pilot fleets on the road and develop zero-emission services (e.g. taxis, shuttle services 
+and freight transport). Specifically, Alperia is dealing with the installation and management of six fast-charging 
+columns in the province. The project launched on 1 January 2019, and will continue for eight years. 
+ 
+ 
+Smart Land 
+A third of South Tyrolean companies are in the agricultural sector: 50% of apples sold in Italy are produced in 
+South Tyrol, and the province is one of the leading producers of white wine in Italy. Therefore, agriculture's 
+contribution to the local economy is fundamental. This is why Alperia collaborates with the Laimburg Research 
+Centre and the Fruit and Vegetable Consultation Centre to develop new technology solutions to make 
+agriculture even more sustainable and efficient. These activities are part of the Smart Land project, which aims 
+to make cultivation irrigation even more intelligent and respectful of resources. Over 120 soil-moisture sensors 
+                                                
+   
+11 https://www.terna.it/it/sistema-elettrico/ruolo-terna/insight  
+ 
+  112 

@@ -1,0 +1,84 @@
+Capitale intellettuale 4.8 I risultati ﬁ nanziari e non ﬁ nanziari
+L’ORGANIZZAZIONE E I SISTEMI INFORMATIVI
+1
+ORGANIZZAZIONE •  Presidio  dell’evoluzione  del  Sistema  dove queste tematiche assumono sem- . M
+O
+Illo  porergsiadnioiz zdaetilvl’oe vodleulzlaio nBea ndceal  em oddeellle-  dtoe i iCn oInnttreoslali  ISnatenrpnaio cloon d aeclclee nsttrraumtteunre-  pmreen mtoa gdgeiloler  railtiteivviotà p deri  ibl uresginoelassr ee s vino lcgui-i  DELLO
+ D
+società controllate, con riferimento a  dell’Area di Chief Compliance Ofﬁ cer  diventa fondamentale poter garantire  I B
+U
+strutture  organizzative,  dimensiona- e di Data Protection Ofﬁ cer. livelli di sicurezza adeguati al contesto  SIN
+menti e governo di processi è assicu- di minaccia a cui sono esposti i servizi  ESS
+rato da Organizzazione che collabora,  4. Progetti commerciali offerti alla clientela, Fideuram si è dota-
+tra l’altro, ad assicurare il rispetto dei  ta di una propria funzione di sicurezza 
+•  Presidio dell’evoluzione verso la piat-
+piani progettuali, garantendo il moni- informatica e di continuità operativa, 
+taforma Internet di Gruppo New Digi-
+toraggio e l’informativa sia ai vertici  deﬁ nendo una coerente strategia di Cy-
+tal Customer Experience (NDCE).
+aziendali sia alle strutture interessate,  bersecurity.
+oltre che il governo degli eventuali im- •  Prosecuzione delle attività di poten- Tale strategia è sviluppata su due princi-
+2
+pcdoa’Intmt ip grtleria sasov be2ir0est1at8liiv -i2 tr0sa2t r1ap,tr eoOggriegcita tnid.i zeIzln a Pzliiioannneoae    zdWieaodmritcehan tItono d aidlv iesdelu gammlsoe.dnetlolo d eogrgli aHniigzzha tNiveot   pnsuaoll liai ld  spiiraceuststrareigzczig adio id  idenait  ecuorvnne ﬁan nptoip a,r olc cchcoeino dc beeltaitnsoae tado-i   . STRATEGIE
+è stata impegnata in molteplici iniziati- security by design:
+•  Presidio delle attività per l’evoluzione 
+ve progettuali sia a valenza di business  del modello organizzativo dedicato ai  •  il miglioramento dei presidi di Cyber-
+sia normativa, garantendo un costan- segmenti di clientela Mass e Afﬂ uent. security tramite il completamento di 
+te monitoraggio dell’avanzamento dei  una serie di iniziative previste all’inter-
+progetti e della produzione dei delive- Organizzazione presidia altresì l’evolu- no del Masterplan incluso nel Piano 
+rables pianiﬁ cati, attivandosi in caso di  zione e la manutenzione dell’impianto  d’Impresa 2018-2021; 3
+criticità con le strutture competenti e  . C
+normativo aziendale costituito da “Do- O
+fbpsaoorcinrniaolcizt iaspiotnaandltie eoi :n tlraiaz i cai otvimaverui  npgirrceuaspzidpioiia ndteei   lean vleaol  rc2oo0.l 1lLa9e-   ct(GSeurtnmuadtpeuopntnootoi,,    dFaCail o cfGdouiolnctvàezei  oErennt iPaaconmotc,ee eRnr”iet,, og Lc oidhnlaeeeml elas eo GnBvutaroaind icnada-,i    •  lttzp’yoieeo  sradnt laeie  Gdn udesrneiugoalpul nespae eord rsd iiievte rae iad lrp msiM reiein tosseiiozdd iiceail  ildteclioiotv à Cemd  ycidp boSil eeniicnrttsuarteoemrcelgluezarzrnatiea---   NTESTO DI MERCA
+Organigrammi e Funzionigrammi delle  Informatica e ai presidi target deﬁ niti  TO
+1. Progetti normativi
+strutture organizzative), e da norme più  da Intesa Sanpaolo (“progetto Securi-
+•  Evoluzione del progetto MiFID 2 per  strettamente operative che regolamen- ty Integration Plan”).
+la Divisione. tano i processi aziendali, le singole atti-
+vità e i relativi controlli (Regole, Guide  Nel 2019 si sono afﬁ ancate, alla pro-
+•  Completamento delle attività di im- Operative, Comunicazioni alle Reti dei  gressiva  implementazione  ed  esten-
+plementazione degli interventi neces- Private Banker). In tale ambito, nel corso  sione del modello di sicurezza, tutte le  4. P
+sari per rispondere ai requisiti di sicu- del 2019 è stato portato a compimen- attività ricorrenti della Cybersecurity  ERFO
+rezza e open banking previsti dalla  to il progetto di adozione di un sistema  che costituiscono la base su cui fon- RM
+Direttiva Europea sui servizi di paga- di gestione della Normativa aziendale  dare la Cyber Readiness del Gruppo e  AN
+mento (PSD2). integrato, che consente ad Organizza- che hanno visto un ampliamento del  CE
+zione di coordinare l’attività di tutte le  perimetro e di ambito anche in virtù 
+2. Progetti societari società controllate, garantendo l’unifor- della conclusione di importanti pro-
+•  Presidio  degli  aspetti  organizzativi  mità e la coerenza dell’impianto norma- gettualità, quali:
+tivo aziendale all’interno della Divisione 
+nell’ambito del progetto internazio-
+•  l’aggiornamento del framework nor-
+Private Banking e il raccordo con la Nor-
+nale e integrazione della Filiale di Lon-
+mativo allo scopo di essere compliant 
+mativa aziendale di Intesa Sanpaolo.
+dra di Intesa Sanpaolo Private Banking  all’evoluzione delle normative italia- 5
+nel perimetro della controllata svizze- ne, europee e di settore (progetto  . GO
+Nell’ambito del presidio delle attività  V
+ra Intesa Sanpaolo Private Bank (Suis- “Reengineering del framework nor- ER
+se) Morval. esternalizzate, previsto dalla normativa  mativo di Cybersecurity e Business  NAN
+vigente, Organizzazione ha coordinato  C
+Continuity”); E
+le attività di monitoraggio dei livelli di 
+3. Progetti gestionali  servizio svolte dai rispettivi Process Ow- •  l’aggiornamento del processo di ge-
+ner, attraverso controlli periodici degli  stione degli eventi critici, che ha visto la 
+•  Prosecuzione  delle  attività  per  l’a-
+indicatori di performance (KPI) dei ser- deﬁ nizione della struttura deputata al 
+dozione della Nuova Anagrafe delle 
+vizi  erogati,  informando  la  Direzione  governo degli eventi critici (GEC), che 
+Controparti del Gruppo Intesa Sanpa-
+aziendale dell’andamento complessivo  funge da layer intermedio tra le funzio- 6
+olo (NAG). . B
+con un reporting periodico. ni impattate e le unità di emergenza e  ILA
+N
+•  Avvio delle progettualità per il Poten- crisi, in seguito all’ampliamento degli  C
+IO
+ziamento dei Modelli Operativi delle  INFORMATION  SECURITY  E  BUSI- scenari gestiti dal Modello Organizza-  C
+O
+Reti di Fideuram e Intesa Sanpaolo  NESS CONTINUITY tivo per la Gestione delle Crisi (MOGC)  NSO
+Private Banking ﬁ nalizzate alla sem- Il Gruppo Fideuram pone particolare at- di  Fideuram.  L’Information  Security  LID
+A
+pliﬁ cazione  operativa  dei  processi,  tenzione alle tematiche legate alla Sicu- Ofﬁ cer, in tale processo, procede alla  TO
+nell’ottica di garantire un più efﬁ cace  rezza Informatica ed alle sue evoluzioni  classiﬁ cazione degli eventi secondo la 
+governo dei rischi operativi. in ambito Cybersecurity. In un contesto  metodologia deﬁ nita da Intesa San-
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 125

@@ -1,0 +1,80 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+Non-hazardous waste 
+by disposal method
+Recovery (including 
+(t) 1,336,684 2,047,476 2,082,742 -710,792 -34.7 Enel
+energy recovery)
+Landfill (t) 5,550,852 6,798,674 7,232,810 -1,247,822 -18.4 Enel
+Incineration and other 
+(t) 280,883 n.a. n.a. - - Enel
+disposal methods
+Total (t) 7,168,419 8,846,150 9,315,552 -1,677,746 -19.0 Enel
+Mitigation of the 
+impact on the 
+landscape/territory (18)
+LV/MV cabling ratio  (%) 60.1 60.0 60.0 0.1  -  Enel
+LV cabling ratio (%) 82.2 82.0 81.9 0.2  -  Enel
+MV cabling ratio (%) 29.1 28.5 28.1 0.6  -  Enel
+(1)  Avoided emissions are calculated as the sum of the emissions avoided in the various countries. The resulting figure is the product of the generation 
+of electricity obtained from a renewable or nuclear source and the specific CO emissions from the thermoelectric generation of the country where 
+2
+Enel operates (source: Enerdata - http://enerdata.net).
+(2)  For all combustion processes from fossil sources, the production of NO (GWP = 265) and CH (GWP = 28) expressed in CO equivalent are inclu-
+2 4 2
+ded. These values, not present in the 2017 and 2018 reporting, were recalculated for the previous two years. The calculation of the other activities 
+also includes CO  emissions from the combustion of diesel fuel in the generating sets, from the fuel of the company fleet, from the fuel used in 
+2eq
+the offices for heating and canteens, fluorinated gases and ODS, SF and NF.
+6 3
+(3)  This indicator is calculated as the ratio between total emissions from thermoelectric generation and the total from renewable, nuclear and thermo-
+electric generation (including the contribution of heat in MWh ).
+eq
+(4)  “Scope 2”, emissions from energy taken from the grid: indirect CO emissions relating to 2019 due to the consumption of electricity for moving 
+2
+fuel, electricity distribution, property management and electricity purchased from the grid by hydroelectric plants are calculated as the product of 
+the electricity consumption multiplied by the respective weighted specific CO emission coefficients of the whole generation mix of the countries 
+2
+where the Enel Group operates (source: Enerdata - https://www.enerdata.net/). The data for 2019 also includes the total share of energy taken from 
+the grid for power generation for Italy. The 2018 and 2017 data has been recalculated to include this figure. Scope 2 is calculated according to the 
+“location based” method (based on the company’s location). It is the result of the calculation of greenhouse gas emissions resulting from electricity 
+generation in the area where the consumption takes place. This figure is obtained by multiplying a company’s electricity consumption (expressed 
+in kWh) within the borders of the country in question and the average CO emissions per kWh at the specific country level. Scope 2 is calculated 
+2
+according to the “market based” method (based on the market where the company operates). For companies operating in European countries, 
+the reference market is the European one (EU). Companies can obtain this figure by calculating the emissions caused by the power plants that 
+supply them. The electricity’s origin must be certified by “contractual instruments that meet the minimum quality criteria”. In Europe, the only way 
+to prove the electricity’s origin is the Guarantees of Origin. Companies that use electricity whose origin is not certified by these Guarantees must 
+perform the calculation by referring to the emissions associated with the residual mix (source: Greenhouse Gas Protocol Scope 2 Guidance, 2015).
+(5)  “Scope 2”, emissions from energy losses from Enel’s distribution grid and the electricity system transmission grid: as of this year, this category 
+includes indirect emissions deriving from technical losses from Enel’s distribution grid, calculated for all countries of operation for 2017-2019. With 
+its business, the Group covers the entire generation and sales chain in Europe (Italy and Spain) and in five Latin American countries (Argentina, 
+Brazil, Colombia, Chile and Peru). To calculate emissions, it has been assumed that the vertical chain of activities takes place within the country. The 
+emissions caused by the losses were calculated based on the part of energy that exceeds the quota produced in the considered country, to avoid 
+the double accounting of emissions already included in Scope 1. An additional division was made for the fraction distributed and sold by Enel in 
+the retail market – a share for which transmission losses were also calculated – and for the share distributed on behalf of other market companies. 
+(6)  “Scope 3”: indirect CO emissions for 2019 resulting from the transportation of coal by sea are estimated based on the quantity transported (equi-
+2
+valent to 66.6% of the total coal used), taking into consideration the Panamax ships with a 67,600 t capacity, which cover average distances of 700 
+nautical miles in 22 days, consuming 35 t of fuel oil a day, and an emission coefficient of 3.2 kg of CO per litre of oil consumed, considering also the 
+2
+3-day stopover for unloading for which there is a consumption of 5 t of fuel oil. Indirect CO emissions from rail transportation of coal are estimated 
+2
+based on the quantity transported (equivalent to 33.4% of the coal used) and taking into consideration trains with a capacity of 1,100 t, which cover 
+average distances of 1,400 km with consumption of 6.9 kWh/t for every 100 km transported and an average Enel emission coefficient worldwide. 
+Indirect CO emissions from the transportation of consumable materials, fuel oil, gas oil, solid biomass, WDF and waste are estimated based on 
+2
+the quantities of raw materials transported, taking into consideration trucks with a capacity of 28 t, which cover average (round trip) distances of 75 
+km with a consumption of 1 litre of diesel for every 3 km travelled and an emission coefficient of 3 kg of CO for each litre of gas oil consumed. The 
+2
+figure is a rough estimate of the fugitive methane emissions (CH) from coal imported and used by the Enel Group for thermoelectric generation. 
+4
+The figure does not take into account emissions due to the transportation of lignite. In terms of the use of the product sold by end customers for 
+the gas market, the figure for emissions from the combustion of natural gas is calculated based on the energy amount (TWh) of gas sold multiplied 
+by its emission factor (source: IPCC for CO, NO and CH); to calculate emissions from the use of the electricity sold, it has been assumed that 
+2 2 4
+the vertical chain of activities takes place within the same country. The emissions of the share sold and produced by the Company have not been 
+included in the calculation since they already fall under Scope 1. The share for the fraction sold but not produced by country was calculated by mul-
+tiplying the energy amount by the specific country-level emission (source: Enerdata). Emissions from grid losses are not included in the calculation 
+Performance indicators 289

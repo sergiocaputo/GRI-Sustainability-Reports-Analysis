@@ -1,0 +1,64 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+Other indirect 
+305-3 greenhouse emissions 
+(Scope 3) (6)
+Coal mining (mil t eq) 3.329 5.602 5.903 -2.273 -40.6 Enel
+Transport of coal by sea (mil t eq) 0.454 0.797 0.805 -0.343 -43.0 Enel
+Transport of coal by train (mil t eq) 0.215 0.330 0.381 -0.115 -34.8 Enel
+Transport of fuel (gas oil, 
+(mil t eq) 0.009 0.008 0.011 0.001 12.5 Enel
+biomass, WDF) 
+Transport of raw 
+(mil t eq) 0.014 0.026 0.028 -0.012 -46.2 Enel
+materials and waste
+End users’ use of sold 
+products: electricity  (mil t eq) 28.975 27.387 25.460 1.588 5.80 Enel
+market
+End users’ use of sold 
+(mil t eq) 23.923 25.410 25.290 -1.487 -5.9 Enel
+products: gas market
+Total indirect emissions 
+(mil t eq) 56.918 59.563 57.877 -2.645 -4.4 Enel
+(Scope 3)
+Other atmospheric 
+305-7
+emissions (7)
+SO emissions (t) 138,264 192,796 214,057 -54,532 -28.3 Enel
+2
+NO emissions (t) 141,208 184,468 203,329 -43,260 -23.5 Enel
+x
+HS emissions (t) 5,162 5,347 5,809 -185 -3.5 Enel
+2
+Dust emissions (t) 27,012 43,059 68,095 -16,047 -37.3 Enel
+Specific emissions
+(g/kWh 
+SO emissions 0.59 0.75 0.84 -0.16 -21.3 Enel
+2 eq)
+(g/kWh 
+NO emissions 0.60 0.72 0.79 -0.12 -16.7 Enel
+x eq)
+(g/kWh 
+Dust emissions 0.12 0.17 0.27 -0.05 -29.4 Enel
+eq)
+307-1 Environmental disputes
+Environmental 
+proceedings as  (no.) 177 292 569 -115 -39.4 Enel
+defendant (8)
+Monetary value of  (mil 
+70.04 12.48 2.08 57.55 - Enel 
+environmental fines (9) euros)
+ENERGY 
+CONSUMPTION
+Fuel consumption by 
+302-1
+primary source in TJ
+from non-renewable 
+(TJ) 1,203,787 1,488,072 1,671,664 -284,285 -18.9 Enel
+sources
+Coal (TJ) 371,960 634,761 686,761 -262,801 -41.4 Enel
+Lignite (TJ) 9,360 18,003 25,121 -8,643 -48.0 Enel
+Fuel oil (TJ) 50,013 59,997 69,668 -9,984 -16.6 Enel
+Natural gas (TJ) 425,923 481,105 525,904 -55,182 -11.5 Enel
+Performance indicators 283

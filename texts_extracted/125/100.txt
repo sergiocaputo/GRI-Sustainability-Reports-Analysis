@@ -1,0 +1,38 @@
+Table 38: SECH acoustic surveys
+START  DURATION OF 
+POINT  LOCATION CLASS Leq,d VL,d Leq,n VL,d
+MEASUREMENT MEASUREMENT
+Coverage of the operations office  28/06/2016 
+P1 VI 2 days 64,9 70 56,4 70
+building  12:00
+Fence at the entrance ramp of the  28/06/2016 
+P2 VI 2 days 61,5 70 54,4 70
+terminal at the emergency gate  14:00
+28/06/2016 
+P3 West side railway area VI 30 mins 59,0 70 - 70
+ 
+The measured sound pressure levels, relevant to both day and night periods, are lower than Class VI 
+limits. Since these are measurement stations which are located not far from the borders, respectively 
+with Class IV (P1) and Class V (P2, P3), it is important to underline that the limits of the two lower 
+classes are also respected. The verification will be repeated in 2020 in compliance with the four-year 
+periodicity, on the occasion of safety measures relating to the exposure of workers to noise.
+Y
+T
+BILI
+A
+N
+AI
+T
+US
+AL S
+T
+N
+E
+M
+N
+O
+R
+VI
+N
+E
+SECH • TDT 2019 Sustainability Report | 101 

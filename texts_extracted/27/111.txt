@@ -1,0 +1,52 @@
+GRUPPO CREDEM  DNF 
+2018
+DISCLOSURE 305-3 ALTRE EMISSIONI INDIRETTE DI GAS AD EFFETTO SERRA (SCOPO 3)
+EMISSIONI DI SCOPO 3 [TCO EQ] 16 2018 2017 2016
+2
+Consumi energetici da viaggi di lavoro 3.116,5 3.247,8 3.305,0
+di cui per l’utilizzo dell’aereo 315,1 345,7 389,0
+di cui per l’utilizzo del treno 199,2 209,9 213,6
+di cui da auto private Dipendenti uso servizio 2.602,1 2.692,2 2.702,4
+Consumi di carta 615,1 639,2 576,9
+TOTALE 3.731,6 3.887,1 3.881,9
+METODOLOGIA DI CALCOLO
+- P er il calcolo delle emissioni di CO equivalente relative al trasporto aereo si è utilizzato il dato indicato nel report del fornitore del servizio di 
+2
+ticketing.
+- P er il calcolo delle emissioni relative al trasporto ferroviario si è fatto riferimento alla metodologia Ecopassenger proposta dalla linee Guida 
+ABI per il calcolo delle t CO e alla successiva applicazione di fattori correttivi (t CO eq/ t CO) calcolati attraverso i fattori di conversione del 
+2  2 2
+Department for Environment, Food and Rural Affairs (DEFRA).
+- P er il calcolo delle emissioni di gas ad effetto serra derivanti dall’utilizzo delle auto private dei Dipendenti per viaggi lavorativi le emissioni 
+di CO equivalente sono state calcolate utilizzando il GWP (Global Warming Potential) a 100 anni della CO, CH e del NO dell'IPCC 
+2 2 4 2
+(Intergovernmental Panel on Climate Change), rispettivamente pari a 1, 28 e 265. In mancanza dell’informazione sulla tipologia di 
+carburante delle auto stesse, è stato utilizzato il fattore di emissione per le auto a benzina, ponendosi pertanto nello scenario di 
+applicazione di un fattore peggiorativo, ma nella situazione più probabile di un utilizzo di autovetture con classe di cilindrata media;  
+il fattore di conversione è stato stimato come media dei fattori di conversione associati alle tecnologie Euro da 1 a 6 (v. Linee Guida ABI).
+- P er il calcolo delle emissioni della carta si è fatto riferimento ai fattori di conversione del Department for Environment, Food and Rural 
+Affairs (DEFRA) per l’uso (Material use) e smaltimento (Waste disposal), pesando -in quest’ultimo caso- le emissioni in funzione del sistema 
+di smaltimento effettivamente utilizzato.
+FATTORI DI EMISSIONE Fonte Coefficiente Unità di misura
+Viaggi di lavoro
+Utilizzo di auto private dei Dipendenti Linee Guida ABI 2018 0,2160 kgCO eq/km
+2 
+Viaggi in treno Ecopassenger 2018;  0,0421 kgCO eq/km
+2 
+stima interna
+Viaggi in aereo Report fornitore 2018 0,1122 kgCO eq/km
+2 
+Carta
+Carta vergine DEFRA 2018; 0,9770  kgCO eq/kg
+2 
+stima interna
+Carta da riciclo DEFRA 2018;  0,8168  kgCO eq/kg
+2 
+stima interna
+16
+I dati delle emissioni di Scopo 3 relativi agli anni 2016 e 2017 sono stati riesposti rispetto a quelli indicati nella DNF 2017 a seguito 
+dell’aggiornamento della metodologia di calcolo dei fattori di conversione dei consumi energetici da flotta auto in coerenza con 
+l’aggiornamento delle Linee guida ABI Lab sull’applicazione in banca degli Indicatori Ambiente del GRI, e a seguito del periodico 
+aggiornamento dei fattori di emissione volto a garantire una migliore comparabilità. Per i dati storici precedentemente pubblicati, 
+si faccia riferimento alla DNF 2017 pubblicata nella sezione Sostenibilità del sito istituzionale del Gruppo.
+110

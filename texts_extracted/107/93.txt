@@ -1,0 +1,13 @@
+5.7 ADJUSTMENTS
+302-4: The method of indicator calculation has changed in the reporting year. 
+In the previous report, business units energy consumption value was the result of summing energy consumption values   
+(Gj/hours machine worked) in each plant.
+In this report, business units energy consumption value is the ratio between the sum of energy consumption in all BU’s  
+plants and the sum of all the machine hours worked in there.
+As a consequence, no reference values   were recorded in the previous report.
+305-7: The emission factor considered for CO gas emissions calculation (0.11) is not correct.
+Calculations for 2018 were used with 15.56  value, according to Ecoinvent 3.3 “Heat, central or small-scale, different from 
+natural gas (Europe without Switzerland) | heat production, light fuel oil, 100kW boiler, non-modulating | Alloc Rec, U “.
+302-4: The 200.664 number volume of cubic meter water discharge for Anagni plant, reported in the previous report , is not 
+correct. In the 2018 Report,  the correct number 7.031 cubic meters, was replaced.
+PAGE 94

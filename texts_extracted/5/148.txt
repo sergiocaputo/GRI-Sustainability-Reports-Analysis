@@ -1,0 +1,59 @@
+Alperia Sustainability Report 2019 
+Gas distribution network  Unit  2019  2018  2017  YtY variation  
+   km  113  113  112  0% 
+ 
+  
+Unit  2019  2018  2017  YtY variation  
+Municipalities supplied with electricity and gas out of a total   np. 
+96  98  98  –2% 
+of 116 South Tyrolean municipalities  municipalities  
+ 
+ 
+End-customers connected to the electricity grid  Unit  2019  2018  2017  YtY variation  
+no. POD Low 
+   233335  232207  229000  0% 
+tension 
+ 
+ 
+Electricity distributed in South Tyrol  Unit  2019  2018  2017  YtY variation  
+   TWh  2,6  2,6  2,5  0% 
+ 
+ 
+Substations1  Unit  2019  2018  2017  YtY variation  
+Primary HV/MV substations  no.  37  36  33  3% 
+Secondary MV/LV substations  no.  4121  4112  4025  0% 
+MV switching substation  no.  46  48  47  –4% 
+ 
+1 Includes substations of Edyna Srl, Edyna Transmission Srl, Municipality of Parcines and Municipality of Laces 
+ 
+ 
+Figure 9: System Average Interruption / Duration Index Frequency Index (SAIFI/SAIDI)  
+(GRI EU28/29) 
+ 
+             
+Unit  2019  2018    2017  2016  YtY variation  
+  
+SAIFI (Frequency of interruptions per customer)  no  1,51   1,73    1,69  1,59  –12% 
+SAIDI (Power outage duration per customer)  minutes  28,07   27,36    20,74  23,66  3% 
+ 
+ 
+   
+Asset Integrity 
+ 
+ 
+Figure 10: Energy availability (GRI EU30) 
+ 
+Availability factor 1  Unit  2019  2018  2017 
+Energy source  Hydro  %  86,43  87,67  89,76 
+   Photovoltaic  %  not available  not available  not available 
+ 
+1This indicator refers exclusively to AGP (100%) and Vipower (100%) plants. It is not available 
+for photovoltaic plants. The availability factor of a power plant is the amount of time that it is 
+able to produce electricity over a certain period.      
+ 
+ 
+ 
+ 
+ 
+ 
+  149 

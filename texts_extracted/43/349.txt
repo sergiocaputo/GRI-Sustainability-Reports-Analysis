@@ -1,0 +1,58 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+A.3  Derivati ﬁ nanziari di negoziazione OTC: valori nozionali, fair value lordo positivo e 
+negativo per controparti 
+ATTIVITÀ SOTTOSTANTI CONTROPARTI  BANCHE ALTRE SOCIETÀ  ALTRI 
+CENTRALI FINANZIARIE SOGGETTI
+Contratti non rientranti in accordi di compensazione
+1) Titoli di debito e tassi d'interesse
+- valore nozionale X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+2) Titoli di capitale e indici azionari
+- valore nozionale  X 494 2 16
+- fair value positivo X - - -
+- fair value negativo X - - -
+3) Valute e oro
+- valore nozionale  X 233 3.355 205
+- fair value positivo X 2 3 1
+- fair value negativo X 1 28 2
+4) Merci
+- valore nozionale  X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+5) Altri 
+- valore nozionale  X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+Contratti rientranti in accordi di compensazione
+1) Titoli di debito e tassi d'interesse
+- valore nozionale - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+2) Titoli di capitale e indici azionari
+- valore nozionale  - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+3) Valute e oro
+- valore nozionale  - 3.449 - -
+- fair value positivo - 30 - -
+- fair value negativo - 2 - -
+4) Merci
+- valore nozionale  - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+5) Altri 
+- valore nozionale  - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+A.4 Vita residua dei derivati ﬁ nanziari OTC: valori nozionali
+SOTTOSTANTI/VITA RESIDUA FINO A 1 ANNO OLTRE 1 ANNO E  OLTRE 5 ANNI TOTALE
+FINO A 5 ANNI
+A.1 Derivati ﬁ nanziari su titoli di debito e tassi d'interesse - - - -
+A.2 Derivati ﬁ nanziari su titoli di capitale e indici azionari 494 - 18 512
+A.3 Derivati ﬁ nanziari su valute e oro 7.242 - - 7.242
+A.4 Derivati ﬁ nanziari su merci - - - -
+A.5 Altri derivati ﬁ nanziari - - - -
+Totale 31.12.2019 7.736 - 18 7.754
+Totale 31.12.2018 6.646 495 18 7.159
+346 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

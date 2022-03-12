@@ -1,0 +1,42 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+(cid:20)(cid:20)(cid:17)(cid:25)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:81)(cid:88)(cid:87)(cid:72)(cid:3)(cid:68)(cid:3)(cid:86)(cid:70)(cid:82)(cid:83)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:89)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)(cid:3)
+Totale 
+Terreni  Fabbricati 
+A. Esistenze iniziali  1.984  3.342
+B. Aumenti  -  -
+B.1 Acquisti  -  -
+B.2 Spese per migliorie capitalizzate  -  -
+B.3 Variazioni positive di fair value  -  -
+B.4 Riprese di valore  -  -
+B.5 Differenze di cambio positive  -  -
+B.6 Trasferimenti da immobili ad uso funzionale  -  -
+B.7 Altre variazioni  -  -
+C. Diminuzioni  -  377
+C.1 Vendite  -  129
+C.2 Ammortamenti  -  196
+C.3 Variazioni negative di fair value  -  -
+C.4 Rettifiche di valore da deterioramento  -  -
+C.5 Differenze di cambio negative  -  -
+C.6 Trasferimenti ad altri portafogli di attività  -  -
+a) immobili ad uso funzionale  -  -
+b) attività non correnti in via di dismissione  -  -
+C.7 Altre variazioni  -  52
+D. Rimanenze finali  1.984  2.965
+E. Valutazione al fair value  2.464  4.585
+(cid:3)
+Le aliquote di ammortamento utilizzate per le varie categorie dei cespiti risultano le seguenti:
+Voci Aliquota
+- Fabbricati 3,00%
+- Mobili e arredi:
+• mobili, insegne  12,00%
+• arredamenti  15,00%
+- Macchine e impianti:
+• impianti e mezzi di sollevamento, carico, scarico, pesatura, etc. 7,50%
+(cid:135)(cid:3)(cid:80)(cid:68)(cid:70)(cid:70)(cid:75)(cid:76)(cid:81)(cid:72)(cid:3)(cid:82)(cid:85)(cid:71)(cid:76)(cid:81)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:183)(cid:88)(cid:73)(cid:192)(cid:70)(cid:76)(cid:82) 12,00%
+• macchinari, apparecchi, attrezzature varie e condizionamento  15,00%
+• banconi blindati, macchine da uff. elettromecc. ed elettr., macchine per elab. auto-
+20,00%
+matica dei dati
+• automezzi, impianti interni speciali di comunicazione e telesegnalazione 25,00%
+(cid:135)(cid:3)(cid:76)(cid:80)(cid:83)(cid:76)(cid:68)(cid:81)(cid:87)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:68)(cid:79)(cid:79)(cid:68)(cid:85)(cid:80)(cid:72)(cid:15)(cid:3)(cid:71)(cid:76)(cid:3)(cid:85)(cid:76)(cid:83)(cid:85)(cid:72)(cid:86)(cid:68)(cid:3)(cid:73)(cid:82)(cid:87)(cid:82)(cid:74)(cid:85)(cid:68)(cid:192)(cid:70)(cid:68)(cid:15)(cid:3)(cid:70)(cid:76)(cid:81)(cid:72)(cid:80)(cid:68)(cid:87)(cid:82)(cid:74)(cid:85)(cid:68)(cid:192)(cid:70)(cid:68)(cid:3)(cid:72)(cid:3)(cid:87)(cid:72)(cid:79)(cid:72)(cid:89)(cid:76)(cid:86)(cid:76)(cid:89)(cid:68)(cid:3) 30,00%
+154

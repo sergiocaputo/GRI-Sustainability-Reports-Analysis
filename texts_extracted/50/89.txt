@@ -1,0 +1,51 @@
+  P 
+Flotta aziendale  
+ 
+Per quanto riguarda il consumo di carburante relativo alla flotta auto aziendale, il Gruppo, nel 
+corso del 2018 ha ridotto del 30% il parco auto e ha introdotto l’utilizzo delle auto in pool nelle 
+ 
+piazze principali (es. Genova, Milano, Savona, Lucca). Il consumo di carburante relativo alle 
+auto aziendali si è ridotto di circa il 9% rispetto al 2017. 
+ 
+Emissioni  
+ 
+Carige ha calcolato le proprie emissioni in linea con quanto previsto dal GHG Protocol - The 
+Green House Gas Protocol “A Corporate Accounting and Reporting Standard”, classificandole 
+in: 
+•  Scope 1: emissioni dirette, ovvero emissioni di GHG provenienti dal consumo di gas per 
+il riscaldamento e dall’utilizzo della flotta aziendale; 
+•  Scope 2: emissioni indirette da consumo energetico, ovvero emissioni indirette di GHG 
+derivanti dalla generazione di elettricità acquistata e consumata dall’organizzazione. 
+In particolare, nell’individuazione dei fattori di emissione e dei coefficienti di conversione sono 
+stati  utilizzati  quelli  indicati  dall’ISPRA  nel  National  Inventory  Report  2018  e  nel  relativo 
+Common Reporting Format. 
+Le emissioni dirette di CO  (Scope 1) comprendono le emissioni generate dal Gruppo per il 
+2
+servizio di riscaldamento (gasolio e gas naturale) e dall’utilizzo della flotta auto aziendale. 
+Queste, nel periodo 2018, ammontano a circa 2.886 tCO . 
+2
+Dal 2017 le emissioni indirette di CO (Scope 2) del Gruppo non sono presenti in quanto 
+2 
+l’approvvigionamento di energia elettrica deriva totalmente da fonte rinnovabile. 
+Nel 2016 erano state stimate pari a circa 1.885 tCO  equivalente. Tale valore era stato 
+2
+calcolato sui consumi di energia elettrica acquistata dal Gruppo al netto della quota parte 
+certificata come proveniente da produzione rinnovabile. Evitata l’emissione di oltre 10.000 
+tCO  equivalente. 
+2
+Emissioni totali di Gruppo - anno 201822 
+   ton CO2  ton CH4  ton N2O  ton CO2eq 
+Emissioni dirette (Scope 1)  2.886  0,147  0,06  2.910 
+Emissioni indirette (Scope 2)    -  -  -  - 
+Emissioni totali  2.886  0,147  0.06  2.910 
+ 
+ 
+                                                           
+22Per il calcolo delle emissioni sono stati applicati i fattori di conversione suggeriti da ABI Lab “Linee Guida sull’applicazione in 
+banca degli Standards GRI (Global Reporting Initiative) versione 13.12.2018. In particolare, i fattori delle emissioni sono 
+dell’Italian Greenhouse Gas Inventory 1990 – 2016 – National Inventory Report 2018 Annex 6 National Emission Factors – 
+Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA). Pertanto i dati relativi agli anni 2017 e 2016 sono stati 
+ricalcolati per omogeneità e per renderli confrontabili.  
+ 
+90 
+ 

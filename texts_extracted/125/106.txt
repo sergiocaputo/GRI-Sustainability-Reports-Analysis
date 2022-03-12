@@ -1,0 +1,66 @@
+0,014
+0,012
+0,01
+Intensity (Scope 1)
+0,008 Diesel SECH
+[tCOeq/TEU]
+2
+0,006
+0,004
+Intensity (Scope 2)
+0,002
+Electricity SECH
+[tCOeq/TEU]
+0 2
+2017 2018 2019
+Chart 16: emission intensity GHG TDT
+ 
+0,0140
+0,0120
+0,0100
+Intensity (Scope 1)
+0,0080 Diesel TDT
+[tCOeq/TEU]
+0,0060 2
+0,0040
+Intensity (Scope 2)
+0,0020
+Electricity TDT
+[tCOeq/TEU]
+0,0000 2
+2017 2018 2019
+Chart 17: emission intensity GHG/TEU SECH Y
+T
+BILI
+A
+N
+AI
+T
+0,016 AL SUS
+T
+0,014 EN
+M
+N
+O
+0,012 R
+VI
+N
+E
+0,01
+0,008
+0,006
+0,004
+0,002
+0
+2017 2018 2019
+Total intensity (Scope 1 + 2) SECH [tCOeq/TEU]
+2
+Total intensity (Scope 1 + 2) TDT [tCOeq/TEU]
+2
+Linear (Total Intensity (Scope 1 + 2) SECH [tCOeq/TEU])
+2
+Linear (Total intensity (Scope 1 + 2) TDT [tCOeq/TEU])
+2
+Chart 18: total emission intensity (tCO eq/TEU)
+2
+SECH • TDT 2019 Sustainability Report | 107 

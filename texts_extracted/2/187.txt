@@ -1,0 +1,61 @@
+TABELLA N. 57 – CONSUMI DIRETTI DI ENERGIA DELLE PRINCIPALI SOCIETÀ DEL GRUPPO (2017-2019) 
+2017 2018 2019
+ENERGIA PER FONTE TJ (GWh)
+CDR/CSS e pulper (waste to energy) – quota rinnovabile (*) 3.638,0 (1.010,6) 3.665,5 (1.018,2) 3.283,0 (911,9)
+biogas (100% rinnovabile – gestione rifiuti e area idrica) (**) 207,2 (57,6) 206,3 (57,3) 243,9  (67,7) 
+CDR/CSS e pulper (waste to energy) – quota non rinnovabile (*) 3.584,6 (995,7) 3.857,6 (1.076,6) 3.280,8 (911,3)
+metano (per generazione elettrica, teleriscaldamento, essiccatori area idrica e 
+732,0 (203,3) 965,6 (268,2) 1.077,0 (299,2)
+riscaldamento uffici) (***)
+GPL (riscaldamento) 0,8 (0,2) 0,2 (0,1) 0,7 (0,2)
+gasolio (per generazione elettrica e altri usi impianti compostaggio) 48,4 (13,4) 22,8 (6,3) 38,1 (10,6)
+benzina (autotrasporto)  3,0 (0,8) 3,5 (1,0) 3,8 (1,1)
+diesel (autotrasporto)  129,6 (36,0) 124,4 (34,6) 109,1 (30,3)
+totale 8.343,5 (2.317,7) 8.863,9 (2.462,2) 8.036,4 (2.232,3)
+(*)    I dati 2018 sono stati rettificati per errore nei calcoli.
+(**)  I dati 2018 sono stati rettificati includendo anche il biogas prodotto e consumato presso i digestori anaerobici di Acea Ato 2 e Gori.
+(***) I dati 2018 sono stati rettificati includendo i consumi di Gori.
+NB  L’energia prodotta dagli impianti del Gruppo e immessa in rete è illustrata nel Bilancio ambientale (I Prodotti-Area Energia). 
+TABELLA N. 58 – CONSUMI INDIRETTI DI ENERGIA DELLE PRINCIPALI SOCIETÀ DEL GRUPPO (2017-2019)
+2017 2018 2019
+TIPOLOGIE CONSUMI INDIRETTI TJ (GWh)
+perdite energia elettrica sulle reti di distribuzione e trasporto  1.244,9 (345,8) 1.204,6 (334,6) 1.188,4 (330,1)
+perdite e autoconsumi nella produzione di energia elettrica (*) 232,5 (64,6) 245,5 (68,2) 233,1 (64,8)
+perdite di calore nella rete di teleriscaldamento  72,5 (20,1) 104,1 (28,9) 109,7 (30,5)
+consumi per illuminazione pubblica  416,3 (115,6) 302,3 (84,0) 252,3 (70,1)
+consumi elettrici per impianti di gestione rifiuti (**) 27,5 (7,7) 28,5 (7,9) 31,2 (8,7)
+consumi elettrici per distribuzione acqua potabile (*) (***) 1,252,2 (347,8) 1.161,7 (322,7) 1.356,1 (376,7)
+consumi elettrici per depurazione acqua reflua (*) (***) 712,8  (198,0) 751,0 (208,6) 817,4 (227,1)
+consumi di energia elettrica per gli uffici (**) 36,1 (10,0) 34,8 (9,7) 32,4 (9,0)
+totale consumi indiretti di energia  3.994,9 (1.109,6) 3.832,6 (896,6) 4.020,6 (1.117,0)
+(*)    I dati del biennio 2017-2018 sono stati rettificati includendo quelli di Gori per renderli confrontabili. 
+(**)   Si tratta di energia certificata a G.O. (Garanzia di Origine).
+(***) Per il 68% si tratta di energia certificata G.O. (Garanzia di Origine).
+TABELLA N. 59 – INDICI DI INTENSITÀ ENERGETICA (2017-2019)
+indice di intensità di consumo energetico  u.m. 2017 2018 2019
+energia elettrica consumata per illuminazione pubblica per lampada (*) TJ/lampada 0,0019 0,0013  0,0011
+energia elettrica consumata totale da Acea Ato 2, Acea Ato 5, Gori e 
+TJ/Mm3 4,3783 4,3124 4,8639
+Gesesa per acqua erogata (**)
+energia elettrica consumata da Acea Ato 2, Acea Ato 5, Gori e Gesesa 
+TJ/km 0,0144 0,0168 0,0148
+per servizio di fognatura per km di rete fognaria 
+(*) L a diminuzione dell’indice di intensità è dovuta alla diminuzione del 17% dei consumi per illuminazione pubblica, grazie al completamento della sostituzione delle lampade 
+con lampade a LED.
+(**)  L’aumento del consumo di energia elettrica per acqua erogata nel 2019 rispetto al biennio precedente dipende principalmente dagli incrementi nei consumi di energia 
+elettrica in Gori, poiché nel 2019 ha acquisito la gestione di diversi impianti in precedenza in capo alla Regione Campania.
+I CONSUMI ENERGETICI FUORI DAL GRUPPO contarne gli esiti al Gestore dei Servizi Energetici (GSE) per l’otteni-
+Acea ha avviato, sin dal 2015, il monitoraggio, tramite questionari  mento dei Titoli di Efficienza Energetica (TEE). 
+specifici, del consumo energetico fuori dal Gruppo, lungo la supply  Al 31.12.2019, gli impianti gestiti da Ecogena hanno ricevuto 7.591 
+chain. A dicembre 2019 il questionario è stato inviato a 117 fornitori,  TEE ai sensi del DM 5 settembre 2011, dei quali 954 riferiti alla pro-
+tra i più rappresentativi rispetto al valore dell’ordinato dell’anno. Grazie  duzione 2018 (e consuntivati nel 2019) (si veda la tabella n. 48).
+al riscontro pervenuto da 40 degli interpellati (pari al 32% della spesa  Per il raggiungimento dell’obiettivo di risparmio energetico in capo 
+complessiva Acea per l’approvvigionamento di beni/servizi e lavori), si  ad Areti, le azioni dell’anno si sono concentrate sull’acquisto dei TEE 
+sono stimati in circa 298.043 GJ i loro consumi energetici complessivi.  sul mercato gestito dal Gestore del Mercato Elettrico (GME), pari 
+a 122.369 TEE, a cui va aggiunta la quota residua dell’obbligo 2018, 
+pari a 89.073 TEE rispetto ai 111.348 TEE iniziali, e quella residua 
+IL RISPARMIO ENERGETICO 
+relativa all’obbligo 2017, pari a 14.132 TEE. 
+Come accennato, Ecogena è il soggetto idoneo a sviluppare le ini- AZIONI DI EFFICIENTAMENTO ENERGETICO 
+ziative di efficienza energetica per le Società del Gruppo e a rendi- Acea, durante l’anno in esame, ha realizzato diversi interventi di 
+192 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

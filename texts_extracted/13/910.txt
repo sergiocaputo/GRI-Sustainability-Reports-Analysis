@@ -1,0 +1,26 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+GRI Standard Disclosure Pagine/Note Omissione
+GRI-302: Energia (2016)
+302-1 Consumi energetici interni all'organizzazione 846; 904; 906
+302-4 Riduzione del consumo di energia 846; 904; 906
+TOPIC MATERIALE: EMISSIONI
+GRI-103: Gestione della tematica (2016)
+103-1 Materialità e perimetro 844-848; 858-859
+103-2 Approccio alla gestione della tematica 844-848
+103-3 Valutazione dell'approccio alla gestione della tematica 844-848
+GRI-305: Emissioni (2016)
+305-1 Emissioni dirette di gas ad effetto serra (Scopo 1) 846; 905
+305-2 Emissioni indirette di gas ad effetto serra (Scopo 2) 844-845
+GRI 400: Social Series (2016)
+TOPIC MATERIALE: OCCUPAZIONE
+GRI-103: Gestione della tematica (2016)
+103-1 Materialità e perimetro 818-823; 827; 858-859
+103-2 Approccio alla gestione della tematica 818-823; 827
+103-3 Valutazione dell'approccio alla gestione della tematica 818-823; 827
+GRI-401: Occupazione (2016)
+401-1 Nuovi assunti e turnover del personale 885-888
+Benefit offerti a dipendenti a tempo pieno che non 
+401-2 sono offerti a dipendenti a tempo determinato o part- 827
+time
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 911

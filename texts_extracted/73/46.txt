@@ -1,0 +1,50 @@
+training courses, verify that the third party companies involved in the management of fluorinated gases 
+are regularly registered at the National Register of Fluorinated Gases (F-GAS Register), as required by 
+Presidential Decree 43/2012, and guarantee the correct disposal of gases by certified personnel.  
+The tables below report data on Intercos’ energy consumption, direct and indirect GHG emissions and air 
+pollutant emissions (e.g. VOCs). 
+The energy consumption of Intercos Group derives mainly from the procurement of electricity for its 
+production activities and use of fuels, such as gasoline and natural gas. About the purchasing of electricity, 
+Italy recorded the highest consumption (47%), followed by China (27%), United States (14%), Brazil (7%) 
+and the Rest of Europe (4%). As of December 31st, 2019, the Intercos Group consumed 57,444 liters of 
+gasoline, 138,957 liters of diesel and 4,359,685 m3 of natural gas and purchased 48,742 MWh of 
+electricity. In Italy, figures show a significant increase in natural gas consumption and a simultaneous 
+reduction in electricity consumption: this is mainly due to the activation of the cogeneration system at 
+Cosmint site in Olgiate Comasco at the beginning of 2019. 
+Table 22: GRI 302-1 (a, b, c, d, e): Energetic consumption13 
+ 
+Countries  Gasoline14  Diesel14  Natural gas  Electricity 
+Anno 
+u.m.  Liters  Liters  m3  MWh 
+2017  n.d.  n.d.  1,979,566  26,916 
+Italy  2018  n.d.  n.d.  2,174,323  29,913 
+2019  6,087  122,460  3,680,638  23,149 
+2017  n.d.  n.d.  138,397  1,604 
+Rest of Europe  2018  n.d.  n.d.  189,237  1,87115 
+2019  5,727  5,902  126,185  2,089 
+2017  n.d.  n.d.  n.d.16  9,397 
+USA  2018  n.d.  n.d.  239,556  7,527 
+2019  8,640  10,495  244,363  7,060 
+2017  n.d.  n.d.  0  2,180 
+Brazil  2018  n.d.  n.d.  0  2,677 
+2019  19,250  0  0  3,327 
+2017  n.d.  n.d.  272,253  11,010 
+China  2018  n.d.  n.d.  346,972  11,735 
+2019  17,740  0,100  308,499  13,116 
+2017  n.d.  n.d.  2,390,216  51,108 
+TOTAL  2018  n.d.  n.d.  2,950,088  53,723 
+2019  57,444  138,957  4,359,685  48,742 
+ 
+ 
+ 
+   
+                                                           
+13 The data referred to 2017 and 2018 are not comparable to those referred to 2019 since data about the Company’s car fleet are not 
+available. 
+14 The data referred to 2019 include the Company’s car fleet. 
+15 The data referred to 2018 have been updated based on best available data. 
+16 Scope 1 CO emissions related to the consumption of natural gas in the USA were not available in 2017. 
+2
+47 
+This Consolidated Disclosure of non-financial information has been translated into English solely for the convenience of the international reader.  In 
+case of discrepancies, the Italian language document is the sole authoritative and universally valid version. 

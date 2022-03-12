@@ -1,0 +1,30 @@
+Table 73: KPI injuries at work
+TERMINALS DIRECT WORKERS 2017 2018 2019
+INJURIES SECH TDT SECH TDT SECH TDT
+Incidence Rate 41,70 26,32 54,85 16,70 42,55 34,17
+Frequency Rate 26,90 16,71 33,89 10,72 26,38 22,23
+Fatal Frequency Rate 0 0 0 0 0 0
+High-consequence work-related injuries 5,38 6,27 10,4319 6,43 5,28 11,11
+Recordable work-related injuries 21,51 10,44 23,4619 4,29 21,10 11,12
+Severity Rate 0,8 1,13 2,0319 0,66 0,74 1,01
+Average Duration 30 67,50 60,2319 61,60 28,00 45,30
+The above rates follow the below calculation methods, consistent with what is indicated 
+by the GRI Guidelines:
+• Incidence Rate20:  
+(n° injuries*1.000/n° workers);
+• Frequency Rate21:  
+(total injuries/total worked hours)*1.000.000;
+• Severity Rate: 
+ (total lost days/total worked hours)*1.00022;
+• Average Duration:  
+(n° absence days due to injury/n° of injuries).
+19. Data processed on 18/09/2019, when the last injury of 2018 was officially closed.
+20. Starting from 2018 Sustainability Report, this index was calculated using a multiplier of 1.000 instead 
+of 100, to obtain a value aligned with the parameters of the law, rather than a figure that until now was 
+considered more representative compared to the size of SECH.
+21. Starting from 2018 Sustainability Report, this index was calculated using a multiplier of 1.000.000 
+instead of 100.000, to obtain a value aligned with the parameters of the law, rather than a figure that 
+until now was considered more representative compared to the size of SECH.
+22. Compared to other indicators, this index is calculated using a multiplier of 1.000 to obtain a 
+representative value compared to SECH dimensions.
+166 | SECH • TDT 2019 Sustainability Report

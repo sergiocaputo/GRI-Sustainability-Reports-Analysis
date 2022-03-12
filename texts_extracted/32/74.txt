@@ -1,0 +1,24 @@
+BIoDIVeRSITà
+GRI 103: Approccio manageriale
+103-1 Spiegazione dell’aspetto materiale e del relativo perimetro 6-7, 67-68
+103-2 Informazioni sull’approccio manageriale e le sue caratteristiche 61-62
+103-3 Valutazione dell’approccio manageriale 61-62
+GRI 304: Biodiversità
+304-2 Impatti significativi delle attività, dei prodotti e servizi relativi sulla biodiversità 61-62
+eMissioni
+GRI 103: Approccio manageriale
+103-1 Spiegazione dell’aspetto materiale e del relativo perimetro 6-7, 67-68
+103-2 Informazioni sull’approccio manageriale e le sue caratteristiche 64-65
+103-3 Valutazione dell’approccio manageriale 64-65
+GRI 305: emissioni
+305-1 emissioni GhG dirette (Scope 1) 64
+305-2 emissioni GhG indirette (Scope 2) 64
+SCARIChI e RIFIuTI
+GRI 103: Approccio manageriale
+103-1 Spiegazione dell’aspetto materiale e del relativo perimetro 6-7, 67-68
+103-2 Informazioni sull’approccio manageriale e le sue caratteristiche 66
+103-3 Valutazione dell’approccio manageriale 66
+GRI 306: Scarichi e rifiuti
+306-2 Rifiuti per tipologia e metodi di smaltimento 66
+306-4 Trasporto di rifiuti pericolosi 66
+Bilancio di soteniBilità 2018 73

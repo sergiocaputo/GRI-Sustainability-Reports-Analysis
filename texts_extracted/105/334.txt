@@ -1,0 +1,33 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+5. Poste Italiane S.p.A. Bilancio al 31 dicembre 2017 
+Oneri finanziari
+tab. C9.2 - Oneri finanziari
+Descrizione 
+(milioni di euro) Note Esercizio 2017 Esercizio 2016
+Oneri sulle passività finanziarie  29   30 
+su prestiti obbligazionari   27   27 
+su debiti verso istituzioni finanziarie   1   2 
+da strumenti finanziari derivati   1   1 
+Componente finanziaria dell'accantonamento a TFR [tab. B5]  20   23 
+Componente finanziaria degli accantonamenti  
+[tab. B4]  1   1 
+a fondi rischi
+Interessi passivi sulla liquidità propria [tab. C5]  1   1 
+Perdita contingent convertible notes  82  -   
+Svalutazione partecipazioni in joint venture -     4 
+Altri oneri finanziari   5   4 
+Perdite su cambi (1)  12   2 
+Totale   150   65 
+(1) Ai fini di raccordo con il Rendiconto finanziario, nell’esercizio 2017 gli oneri finanziari al netto delle perdite su cambi ammontano a 138 milioni di euro (63 milioni 
+di euro nell’esercizio 2016). 
+C10 - Imposte sul reddito (56 milioni di euro)
+tab. C10 - Imposte sul reddito
+Esercizio 2017 Esercizio 2016
+Descrizione 
+(milioni di euro) IRES IRAP Totale IRES IRAP Totale
+Imposte correnti 56  26  82  129  29  158 
+Imposte differite attive (24) (4) (28) 3  (5) (2)
+Imposte differite passive 2  -    2  (3) -    (3)
+Totale 34  22  56  129  24  153 
+333

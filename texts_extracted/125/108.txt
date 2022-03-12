@@ -1,0 +1,57 @@
+Table 49: Greenhouse gas (GHG) emissions reduction
+SITE CO EMISSIONS U.M. 2017 2018 2019
+2
+CO tot [tonn COeq] 3.403 3.733 4.045
+2 2
+SECH [tonn COeq] assolute +375 +330 +312
+2
+Δ CO 
+2
+[%] +8,79% +9,70% +8,36%
+Emissioni CO tot [tonn COeq] 6.791 6.640 5.935
+2 2
+CO avoided  
+2 [tonn COeq] -5.511 -5.808 -4.487
+(electricity from FER)23 2
+TDT [tonn COeq] assolute 33 298 -1.322
+2
+[tonn COeq] normalizzate 
+Δ CO 2 -1.549 29 -1.475
+2  sui TEU
+[%] -18,58% 0,43% -19,90%
+The reduction in total emissions is also due in TDT to energy efficiency actions. The fact 
+that electricity is 100% from renewable sources and not only 43% is not quantified.
+Both terminals also conducted an environmental survey aimed at portraying the air 
+quality in terms of concentration of dust, volatile organic compounds and combustion 
+fumes,  conducted  during  normal  terminal  activities,  in  order  to  evaluate  worker 
+exposure to the various chemical compounds deriving from the emissions produced 
+by the combustion exhausts of the terminal operating vehicles, from the degradation 
+of the road surface and tire consumption, from the fumes coming from the vessels at 
+berth and from the filling tanks.
+Below is the list of agents considered:
+Y
+• Carbon monoxide (CO); BILIT
+A
+• particulate (PM ); AIN
+10 UST
+• breathable dust; AL S
+T
+N
+• nitrogen dioxide (NO ); ME
+2 N
+O
+• sulfur dioxide (SO2). NVIR
+E
+The deviation from the TLV (Threshold Limit Value24) of the various substances being 
+evaluated was assessed and, as regards the gases, the verification to show how many 
+times the value equal to one tenth of the TLV was exceeded during sampling was 
+carried out. For the dusts the results obtained were compared with the reference values 
+(the TLV as regards breathable dusts and the limits referred to urban areas as per 
+Ministerial Decree dated 25/11/1994 concerning PM ). The following table summarises 
+10
+the reference values on which the assessments were based:
+23. Considered in the total amount.
+24.  They  refer  to  the  environmental  concentrations  of  airborne  chemicals  and  indicate  the 
+concentrations below which it is believed that most workers can be exposed repeatedly day after day, 
+for a working life, without adverse health effects. 
+SECH • TDT 2019 Sustainability Report | 109 

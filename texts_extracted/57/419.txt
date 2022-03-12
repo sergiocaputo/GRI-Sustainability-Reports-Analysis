@@ -1,0 +1,46 @@
+Bilancio Consolidato 2017
+adottati nella prassi di mercato, sono iscritti in bilancio al costo, rettiﬁcato a fronte dell’accertamento di perdite per 
+riduzione di valore.
+All’atto della cancellazione dell’attività ﬁnanziaria dal bilancio (ad esempio nel caso di realizzo dell’attività) o della ri-
+levazione di una perdita di valore, la riserva di patrimonio netto precedentemente costituita viene imputata a conto 
+economico.
+Una perdita di valore è registrata a conto economico nel momento in cui il costo d’acquisizione (al netto di qualsiasi 
+rimborso di capitale e ammortamento) eccede il suo valore recuperabile. Per gli investimenti azionari non quotati 
+il valore di recupero è determinato applicando tecniche di valutazione comunemente utilizzate dagli operatori di 
+mercato. Per gli investimenti azionari quotati, il valore di recupero è determinato sulla base del prezzo di mercato: 
+si procede alla svalutazione se vi è un’evidenza oggettiva di una riduzione signiﬁcativa o prolungata dei prezzi di 
+mercato. Eventuali riprese di valore sono imputate a conto economico nel caso di titoli di debito ed a patrimonio 
+netto nel caso di titoli di capitale. L’ammontare della ripresa non può in ogni caso superare il costo ammortizzato 
+che lo strumento avrebbe avuto in assenza di precedenti rettiﬁche.
+La veriﬁca dell’esistenza di obiettive evidenze di riduzione di valore viene effettuata ad ogni chiusura di bilancio o di 
+situazione infrannuale.
+Criteri di cancellazione
+Le attività ﬁnanziarie sono cancellate quando il diritto a ricevere i ﬂussi di cassa dall’attività ﬁnanziaria è estinto, o 
+laddove siano trasferiti in maniera sostanziale tutti i rischi ed i beneﬁci connessi alla detenzione di quella determi-
+nata attività.
+Sezione 3 - Attività ﬁnanziarie detenute sino alla scadenza
+Criteri di classiﬁcazione 
+Sono classiﬁcati nella presente categoria i titoli di debito con pagamenti ﬁssi o determinabili e a scadenza ﬁssa, che 
+si ha intenzione e capacità di detenere sino a scadenza. Se in seguito ad un cambiamento di volontà o di capacità 
+non risulta più appropriato mantenere un investimento come detenuto sino a scadenza, questo viene riclassiﬁcato 
+tra le “Attività ﬁnanziarie disponibili per la vendita”. Qualora nel corso di un esercizio venisse venduto o riclassiﬁcato, 
+prima della scadenza, un importo non irrilevante degli investimenti classiﬁcati in tale categoria, le rimanenti attività 
+ﬁnanziarie detenute ﬁno a scadenza verrebbero riclassiﬁcate come “Attività ﬁnanziarie disponibili per la vendita” e 
+l’uso del portafoglio in questione sarebbe precluso per i successivi due esercizi, a meno che le vendite o riclassiﬁ-
+cazioni: 
+-  siano così prossime alla scadenza o alla data dell’opzione dell’attività ﬁnanziaria, che le oscillazioni del tasso di 
+interesse di mercato non avrebbero un effetto signiﬁcativo sul fair value dell’attività stessa; 
+-  si siano veriﬁcate dopo l’incasso sostanzialmente di tutto il capitale originario dell’attività ﬁnanziaria attraverso 
+pagamenti ordinari programmati o anticipati; o 
+-  siano attribuibili a un evento isolato non controllabile, che non sia ricorrente e non si possa pertanto ragionevol-
+mente prevedere.
+Criteri di iscrizione 
+L’iscrizione iniziale dell’attività ﬁnanziaria avviene alla data di regolamento. 
+All’atto della rilevazione iniziale le attività ﬁnanziarie classiﬁcate nella presente categoria sono rilevate al fair value, 
+comprensivo degli eventuali costi e proventi direttamente attribuibili. Se la rilevazione in questa categoria avviene 
+per riclassiﬁcazione da altre categorie, il fair value dell’attività alla data di riclassiﬁcazione viene assunto come nuovo 
+costo ammortizzato dell’attività stessa. 
+Criteri di valutazione e di rilevazione delle componenti reddituali 
+Successivamente alla rilevazione iniziale, le “Attività ﬁnanziarie detenute sino alla scadenza” sono valutate al costo 
+ammortizzato, utilizzando il metodo del tasso di interesse effettivo. La veriﬁca dell’esistenza di obiettive evidenze di 
+419

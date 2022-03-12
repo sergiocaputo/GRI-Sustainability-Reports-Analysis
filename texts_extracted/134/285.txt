@@ -1,0 +1,55 @@
+ 
+Purple Line Tr. Constr. (Lane)     
+  31 December  31 December    31 December  31 December 
+€’000  2018  2019  €’000  2018  2019 
+Non-current assets       Equity  8,489  5,815 
+Property, plant and equipment and intangible assets  12,313  15,037  Non-current liabilities     
+Non-current financial assets  3,764  10,188  Non-current financial liabilities  -  - 
+Total non-current assets  16,077  25,225  Total non-current liabilities  -  - 
+Current assets       Current liabilities     
+Cash and cash equivalents and other financial assets  112,755  7,206  Current financial liabilities  -  - 
+Other current assets  23,357  40,023  Other current liabilities  143,700  66,639 
+Total current assets   136,112  47,229  Total current liabilities  143,700  66,639 
+Total assets  152,189  72,454  Total liabilities  152,189  72,454 
+            
+  31 December  31 December       
+€’000 Group share  2018  2019  €’000  2018  2019 
+       Revenue  162,247  303,152 
+Opening equity  8,539  2,547  Operating expenses   (160,140)  (321,093) 
+Comprehensive income (expense) attributable to the 
+1,629  (4,822)  Operating profit (loss)  2,107  (17,941) 
+owners of the parent 
+Dividends distributed  (7,621)  -  Net financing income  2,622  1,695 
+Capital increases and other variations  -  4,020  Profit (loss) before tax  4,729  (16,246) 
+Closing equity  2,547  1,745  Income taxes   -  - 
+Loan asset  -  -  Profit (loss) from continuing  4,729  (16,246) 
+operations 
+Goodwill and other intangible assets  -  -  Other comprehensive income   700  173 
+Carrying amount  2,547  1,745  Comprehensive income (expense)  5,429  (16,073) 
+            
+            
+            
+ Skanska Granite Lane I-4     
+  31 December  31 December    31 December  31 December 
+€’000  2018  2019  €’000  2018  2019 
+Non-current assets       Equity (deficit)  13,869  (197,695) 
+Current assets       Current liabilities     
+Cash and cash equivalents and other financial assets  4,663  4,752  Current financial liabilities  -  - 
+Other current assets  78,130  37,681  Other current liabilities  68,924  240,128 
+Total current assets   82,793  42,433  Total current liabilities  68,924  240,128 
+Total assets  82,793  42,433  Total liabilities  82,793  42,433 
+            
+  31 December  31 December       
+€’000 Group share  2018  2019  €’000  2018  2019 
+       Revenue  368,120  199,457 
+Opening equity (deficit)  (2,475)  4,161  Operating expenses   (431,588)  (504,924) 
+Comprehensive expense attributable to the owners of 
+(18,767)  (91,339)  Operating loss  (63,468)  (305,467) 
+the parent 
+Dividends distributed  -  -  Net financing income  617  - 
+Capital increases and other variations  25,403  27,869  Loss before tax  (62,851)  (305,467) 
+Closing equity (deficit)  4,161  (59,309)  Income taxes   -  - 
+Loan asset  -  -  Loss from continuing operations  (62,851)  (305,467) 
+Goodwill and other intangible assets  -  -  Other comprehensive income   295  1,005 
+Carrying amount  4,161  (59,309)  Comprehensive expense  (62,556)  (304,462) 
+   286 

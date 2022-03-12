@@ -1,0 +1,48 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+A.3  Derivati ﬁ nanziari di copertura OTC: valori nozionali, fair value lordo positivo e 
+negativo per controparti 
+ATTIVITÀ SOTTOSTANTI CONTROPARTI  BANCHE ALTRE SOCIETÀ  ALTRI
+CENTRALI FINANZIARIE SOGGETTI
+Contratti non rientranti in accordi di compensazione
+1) Titoli di debito e tassi d'interesse
+- valore nozionale X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+2) Titoli di capitale e indici azionari
+- valore nozionale  X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+3) Valute e oro
+- valore nozionale  X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+4) Merci
+- valore nozionale  X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+5) Altri 
+- valore nozionale  X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+Contratti rientranti in accordi di compensazione
+1) Titoli di debito e tassi d'interesse
+- valore nozionale - 6.188 - -
+- fair value positivo - 20 - -
+- fair value negativo - 913 - -
+2) Titoli di capitale e indici azionari
+- valore nozionale  - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+3) Valute e oro
+- valore nozionale  - 67 - -
+- fair value positivo - - - -
+- fair value negativo - 17 - -
+4) Merci
+- valore nozionale  - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+5) Altri 
+- valore nozionale  - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+352 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

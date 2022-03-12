@@ -1,0 +1,59 @@
+vate parties. The data is transmitted from the fast (JuicePump)  nes, showing immediately the mitigation of the environmen-
+and quick (JuicePole and Pole Station) infrastructures equipped  tal impacts of the electric lines. The increase in this index 
+with an internal measuring device and from the connected Jui- over time is due to an increase in the length of overhead and 
+ceBoxes installed at home.  underground cable lines, reducing the quota of bare conduc-
+The calculation of CO saved is a combination of the data on the  tors; with beneﬁts in terms of the resilience of the network, 
+2
+distance travelled by 100% electric-powered vehicles (BEV) or  curtailing plant-cutting activities and a drastic reduction in the 
+plug-in hybrids (PHEV) only using electricity and the calculation  risk of electrocution for birdlife.
+of the mean consumptions of vehicles from a recent ofﬁcial  In 2019, the conﬁrmed cable ratio was 60.1%, also due to 
+study by the Milan Polytechnic. The ﬁndings compare the kilo- the signiﬁcant contribution of the Brazilian companies in Rio 
+metres that can be travelled with the average emissions from  de Janeiro and São Paulo. This percentage is in line with the 
+endothermic vehicles circulating in Italy published annually by  targets set for the next ﬁve years. 
+ISPRA (the Italian Institute for Environmental Protection and  The reduction of network losses is guaranteed through inter-
+Research) net of the CO emitted to produce energy based  ventions which also contribute to reducing CO emissions. 
+2 2
+on the national energy mix. To reinforce the algorithm, Enel  These actions focus on power plants, and aim, for example, 
+X converted the amount of CO saved from the environment  to progressively reduce single-phase electric lines as well as 
+2
+into the number of trees that would have absorbed this same  the construction of new electric lines to lighten the load on 
+quantity of emissions over a year. The result is measured by the  the pre-existing ones in addition to the use of low-loss tran-
+relationship between the quantity of CO a tree absorbs (2019  sformers. Other actions include boosting the grid by using 
+2
+reﬁnement to the 2006 IPCC guidelines for National Greenhou- conductors with a greater cross-section and rephasing primary 
+se Gas inventories) and those of the saved emissions, thereby  transformer. Finally, the realisation of new transformer cabins 
+obtaining the number of equivalent trees which contribute to  will help reduce the length of the low-voltage lines which are 
+the “four-wheel forest” which every Enel X client creates by  characterised by higher levels of loss. More broadly, optimising 
+responsible behaviour towards their surrounding environment.  the network asset will allow a signiﬁcant reduction of its losses.
+This algorithm was developed in Italy, but was designed to be 
+used in other countries taking into account the average CO
+2  Fuel deposit and movement
+emissions of the vehicle ﬂeet circulating in the territory (CO/
+2
+km) and the emissions of the national energy mix (CO/kWh). 
+2
+The dashboard is available for users on the homepage of the  Storage tanks for liquid fuels (oil and gas with adjacent pi-
+Enel X website; the calculation of the CO saved by each indivi- pelines) and solid fuels (coal and lignite located at dedicated 
+2
+dual recharging session will soon be available on the JuicePass  ports) are monitored in terms of resource usage, consump-
+app and on the Recharge Manager portal, dedicated to busi- tion of electrical energy, emissions (air quality), wastewaters 
+nesses and public services. Enel X will furthermore introduce  and wastes.
+a system for viewing the aggregated data related to the emis-
+sions saved also on the recharging displays of the JuicePole 
+Sustainable construction sites
+and JuicePump infrastructure. Thanks to recharges, 6,800 t of 
+CO have been saved – the equivalent of 379,000 trees
+2
+From 2013 onwards, the Enel Group launched a report on the 
+main  environment  performance  indicators  relating  to  con-
+Distribution
+struction sites activities. This category includes activities of 
+various types and scales: from the distribution area’s yards to 
+In order to protect the countryside and the whole country,  sites pertaining to thermal plants or the construction of new 
+Global Infrastructure and Networks have adopted speciﬁc  renewable hydroelectric, wind, solar, geothermal or biomass 
+strategies to mitigate the environmental impacts of building  plants. These activities are subject to signiﬁcant variations over 
+activities related to new networks in addition to upgrades to  the years in terms of environmental issues directly managed 
+existing networks. by the Group. From 2016 onwards, reporting was developed 
+The cabling ratio is the relationship (in percentages) betwe- and based on a new model of the sustainable construction 
+en the lengths of the cable lines and the total length of the li- site and on the principles of the circular economy which are 
+190 Sustainability Report 2019

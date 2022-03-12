@@ -1,0 +1,40 @@
+ 
+Current account facilities 
+Current account facilities decreased by €51.7 million to €60.6 million at the reporting date and mainly refer to 
+the Qatar branch (€44.9 million) and the head office.  
+Other financing 
+Other financing at 31 December 2019 totals €32.8 million, €11.1 million of which payable to non-controlling 
+investors of Civil Works, €10.0 million relating to a loan originally disbursed by Banco do Brazil and subsequently 
+transferred to Swan SPV and €5.4 million due to Caterpillar Financial for the purchase of plant and machinery 
+for the foreign branches. The fair value of this liability, measured as set out in the “Accounting policies” section, 
+is €32.8 million. 
+Factoring liabilities 
+Factoring liabilities amount to €1.2 million at the reporting date and refer to the factoring of receivables by foreign 
+branches. 
+Net financial indebtedness 
+           
+  Note (*)  31 December 2018  31 December 2019   Variation 
+(€’000)           
+Non-current financial assets  8  116,394   128,980   12,586 
+Current financial assets  13  710,341   916,438   206,097 
+Cash and cash equivalents   16  547,730   388,615   (159,115) 
+Total cash and cash equivalents and other financial assets    1,374,465   1,434,033   59,568 
+Bank and other loans and borrowings  18  (552,180)   (604,158)   (51,978) 
+Bonds  19  (1,088,158)   (1,091,890)   (3,732) 
+Lease liabilities  20  (16,596)   (39,147)   (22,551) 
+Total non-current indebtedness    (1,656,934)   (1,735,195)   (78,261) 
+Current portion of bank loans and borrowings and current  18  (931,775)   (532,332)   399,443 
+aCcucroreunntt  pfaocrtiiliotine so f bonds  19  (13,295)   (13,295)   - 
+Current portion of lease liabilities  20  (17,113)   (18,547)   (1,434) 
+Total current indebtedness    (962,183)   (564,174)   398,009 
+Derivative assets  13  602   268   (334) 
+Derivative liabilities  21  -   (2,012)   (2,012) 
+Net financial position with unconsolidated SPEs (**)    (21,096)   (21,595)   (499) 
+Total other financial liabilities    (20,494)   (23,339)   (2,845) 
+Net financial indebtedness including discontinued operations    (1,265,146)   (888,674)   376,471 
+           
+(*) The note numbers refer to the notes to the separate financial statements where the items are analysed in detail. 
+(**)This item shows the company’s net amounts due from/to unconsolidated consortia and consortium companies operating under a cost 
+recharging system. The balance reflects the company’s share of cash and cash equivalents or debt of the SPEs. The items making up 
+these balances are shown under trade receivables and payables, respectively, in the separate financial statements 
+   455 

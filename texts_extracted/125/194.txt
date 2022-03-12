@@ -1,0 +1,63 @@
+Table 86: GRI 400 - Social Topic-specific Standard Disclosures
+GRI MANAGEMENT APPROACH  
+TOPIC SDG # PARAGRAPH
+OR TOPIC-SPECIFIC DISCLOSURES 
+401 - 1: New employee hires and employee turnover. 5, 8, 10 6.1
+401 - 2: Benefits provided to full-time employees that are 
+Employment 3, 5, 8 4.4
+not provided to temporary or part-time employees.
+401 - 3: Parental leave. 5, 8 6.1
+Labour/
+402 - 1: Minimum notice periods regarding operational 
+management  8 4.4
+changes.
+relations
+403 - 1: Occupational health and safety management system. 3, 8, 16 2.2, 6.6
+403 - 2: Hazard identification, risk assessment, and 
+8 6.6, 6.7, 6.8
+incident investigation.
+403 - 3: Occupational health services. 8 6.6
+403 - 4: Worker participation, consultation, and 
+8, 16 6.6, 6.6.1, 6.6.2
+communication on occupational health and safety.
+403 - 5: Worker training on occupational health and safety.  8 6.6, 6.6.1, 6.6.2
+Occupational 
+Health and Safety 4.4, 6.6
+403 - 6: Promotion of worker health.  3
+403 -7: Prevention and mitigation of occupational health 
+ 8 6.6, 6.7, 6.8
+and safety impacts directly linked by business relationships.
+403 - 8: Workers covered by an occupational health and 
+ 8 6.6
+safety management system.
+403 - 9: Work-related injuries.  3, 8, 16 6.7
+403 - 10: Work-related ill health.  3, 8, 16 6.7
+404 - 1: Average hours of training per year per employee. 4, 5, 8 6.3
+Training and  404 - 2: Programmes for upgrading employee skills and 
+8 6.3
+education transition assistance programmes.
+405 - 1: Diversity of governance bodies and employees. 5, 8 6.3
+405 - 2: Ratio of basic salary and remuneration of women  2.2.1.1, 2.2.2.1, 
+5, 8
+Diversity  to men. 6.1
+and equal 
+opportunity 406 - 1: Incidents of discrimination and corrective actions 
+5, 8, 10 6.1
+taken.
+Non- 407 - 1: Operations and suppliers in which the right to freedom 
+5, 8, 16 6.2
+discrimination of association and collective bargaining may be at risk.
+Freedom of 
+Association  408 - 1: Operations and suppliers at significant risk for 
+8 6.2
+and Collective  incidents of child labour.
+Bargaining Y
+G
+O
+409 - 1: Operations and suppliers at significant risk for  OL
+Child labour incidents of forced or compulsory labour. 8, 16 6.2 OD
+H
+T
+E
+M
+SECH • TDT 2019 Sustainability Report | 195 

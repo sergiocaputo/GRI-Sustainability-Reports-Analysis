@@ -1,0 +1,63 @@
+ 
+OTHER INDIRECT GHG  Unit of  Coefficients  Coefficients 
+Source
+EMISSIONS (scope3) measure CO CO e
+2 2
+Paper CEPI Ton/Ton 0.43 n.a.
+Private cars
+ISPRA - Database of average road 
+Petrol G/Km 181.276202 182.662889
+transport emission factors 
+ISPRA - Database of average road 
+Gasoil G/Km 155.612290 157.419381
+transport emission factors 
+Train
+High speed ABI Guidelines/Ecopassenger Kg/Km 0.039883 n.a.
+Other ABI Guidelines/Ecopassenger Kg/Km 0.041963 n.a.
+Air
+Domestic ABI Guidelines/ICAO Kg/Km 0.143499 n.a.
+International ABI Guidelines/ICAO Kg/Km 0.118859 n.a.
+Intercontinental ABI Guidelines/ICAO Kg/Km 0.051614 n.a.
+Shuttle coach
+Gasoil (density 0,84Kg/L) ISPRA - Database of average road 
+Ton/Ton 2.992202 3.015214
+transport emission factors
+Calculation method
+Paper: consumptionismultipliedbytheunderlyingCEPIemissionscoefficientwhichreferssolely toemissions
+generated for the production of pulp, paper and cardboard in firms/paper mills. The Confederation of European 
+Paper Industries (CEPI) is a nonprofit organisation which represents approximately 495 companies that
+produce pulp, paperand cardboard and 900 papermills foran overalltotal thataccounts forapproximately
+22% of world production. 
+Business travel: emissions of the company car fleet already reported under indicator 305-1 are excluded. The 
+kilometres travelled by air were retrieved from the IATA certified management app provided by the travel
+agency. TheInternationalAirTransportAssociation(IATA) isatradeassociation towhich airlinesfrom allover
+theworld belong and itrepresents approximately 280 airlines, i.e. 83%of totalairtraffic.On thebasis ofthe
+method provided by the Italian Banking Association, the kilometres travelled fordomestic, internationaland
+intercontinental trips were multiplied by the respective emissions coefficients calculated as the weighted
+averageof themain routes (in terms of thenumberof trips and distances), using theICAO CarbonEmissions
+Calculator app. The kilometres travelled by train were retrieved from themanagement app provided by the
+travelagency.Onthebasisofthemethodprovided bytheItalianBanking Association,thekilometrestravelled
+by train were multiplied by the respective emissions coefficients calculated as the weighted average of the
+main routes (number of trips and distances) using the app Ecopassenger. The kilometres travelled by
+employees in their own petrol or diesel powered cars have been multiplying by the underlying emissions
+coefficients. 
+Shuttle coach: the tons of gas oil have been multiplied by the emissions factors taken from the ISPRA
+databaseof averageroad transportemission factors. CO equivalentemissions includeCO , CH and N O and 
+2 2 4 2
+have been calculated using the IPCC 100 year GWPs for CH4 (28) and N2O (265).   
+ 
+ 
+GHG EMISSIONS INTENSITY
+Calculation method
+Total emissions do not include Scope 3 emissions (305-3) and include scope 1 emissions (305-1) and the 
+residual emissions of the scope 2 (305-2) not covered by GO certificates. Total emissions were divided by 
+the number of employees and associate workers (21,495 amounting to 100% of the Group total) and by 
+the net internal floor area of the properties (1,267.931 sq m) of the Group companies within the relative 
+scope. 
+ 
+ 
+ 
+ 
+Consolidated non-financial declaration pursuant to Legislative Decree No. 254/2016 
+2017 Sustainability Report – Commitment to the environment - Pg.99 
+ 

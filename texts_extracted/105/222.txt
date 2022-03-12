@@ -1,0 +1,44 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+4. Gruppo Poste Italiane Bilancio al 31 dicembre 2017 
+• un prestito del valore nominale di 50 milioni di euro, collocato in forma privata, emesso alla pari in data 25 ottobre 2013; 
+la durata del prestito è decennale con pagamento con cedole annuali a tasso fisso del 3,5% per i primi due anni e 
+quindi a tasso variabile (tasso EUR Constant Maturity Swap maggiorato dello 0,955%, con cap al 6% e floor allo 0%). 
+L’esposizione del prestito al rischio di oscillazione dei relativi flussi finanziari è stata oggetto di copertura con le modalità 
+descritte in nota A5 – Attività finanziarie; il fair value68 del prestito al 31 dicembre 2017 è di 53 milioni di euro.
+Un prestito subordinato69 del valore nominale di 750 milioni di euro iscritto al costo ammortizzato di 760 milioni di euro, 
+emesso sotto la pari a 99,597 da Poste Vita S.p.A. il 30 maggio 2014 e quotato presso la Borsa del Lussemburgo. La durata 
+del prestito obbligazionario è quinquennale con pagamento di cedole annuali a tasso fisso del 2,875%. Il fair value70 della 
+passività in commento al 31 dicembre 2017 è di 782 milioni di euro.
+Debiti verso istituzioni finanziarie
+tab. B8.1 - Debiti verso istituzioni finanziarie
+ Saldo al 31.12.17   Saldo al 31.12.16 
+Descrizione   Passività   Passività   Totale   Passività   Passività   Totale 
+(milioni di euro) non correnti  correnti  non correnti  correnti 
+Pronti contro termine   2.400   2.442   4.842   4.151   1.230   5.381 
+Fin.to BEI TF scad. 11/04/18   -   200   200   200   -   200 
+Fin.to BEI TF scad. 23/03/19   200   -   200   200   -   200 
+Scoperti di conto corrente 
+ -   1   1   -   2   2 
+bancario 
+ Totale    2.600   2.643   5.243   4.551   1.232   5.783 
+TV: Finanziamento a tasso variabile. TF: Finanziamento a tasso fisso
+Per i debiti verso istituzioni finanziarie sono in essere clausole standard di negative pledge71.  
+Al 31 dicembre 2017 sono in essere debiti per 4.842 milioni di euro relativi a operazioni di pronti contro termine poste in essere 
+dalla Capogruppo con primari operatori finanziari per un nominale complessivo di 4.407 milioni di euro. Tali debiti sono così 
+composti:
+3.903 milioni di euro relativi a Long Term RePo le cui risorse sono state interamente investite in titoli di Stato italiani a reddito 
+fisso di pari nozionale;
+939 milioni di euro relativi a operazioni ordinarie di finanziamento del BancoPosta mediante contratti di Pronti contro termine 
+finalizzati alla provvista per il versamento di depositi incrementali a fronte di operazioni di collatelarizzazione.
+Il fair value72 dei pronti contro termine in commento al 31 dicembre 2017 ammonta a 4.853 milioni di euro.
+Il fair value73 dei due Finanziamenti BEI a tasso fisso percepiti dalla Capogruppo per complessivi 400 milioni di euro è di 402 
+milioni di euro.
+68. Ai fini della scala gerarchica del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore indicato è di livello 2.
+69. Gli obbligazionisti godono di diritti di rimborso subordinati rispetto a quelli derivanti dalle polizze detenute dalla clientela assicurata.
+70. Ai fini della scala gerarchica del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore indicato è di livello 1.
+71. Impegno assunto nei confronti dei creditori di non concedere ad altri finanziatori successivi di pari status, garanzie migliori o privilegi, salvo offrire analoga tutela 
+anche ai creditori preesistenti.
+72. Ai fini della scala gerarchica del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore indicato è di livello 2.
+73. Ai fini della scala gerarchica del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore indicato è di livello 2.
+221

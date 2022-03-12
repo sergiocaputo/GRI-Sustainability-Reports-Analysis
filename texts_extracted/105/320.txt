@@ -1,0 +1,34 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+5. Poste Italiane S.p.A. Bilancio al 31 dicembre 2017 
+Debiti verso istituti di previdenza e di sicurezza sociale
+tab. B9.2 - Debiti verso istituti di previdenza e di sicurezza sociale
+ Saldo al 31.12.17   Saldo al 31.12.16 
+Descrizione  Passività    Passività   Totale  Passività    Passività   Totale 
+(milioni di euro) non correnti correnti  non correnti correnti 
+Debiti verso INPS   1   375   376  -     348   348 
+Debiti verso fondi pensione  -     80   80  -     81   81 
+Debiti verso INAIL   34   3   37   38   3   41 
+Debiti verso altri Istituti  -     11   11  -     5   5 
+Totale   35   469   504   38   437   475 
+di cui Patrimonio BancoPosta  -     7   7  -     7   7 
+Altri debiti tributari
+tab. B9.3 - Altri debiti tributari
+ Saldo al 31.12.17   Saldo al 31.12.16 
+Descrizione  Passività    Passività   Totale  Passività    Passività   Totale 
+(milioni di euro) non correnti correnti  non correnti correnti 
+Ritenute sui redditi di lavoro dipendente e 
+-     93   93  -     108   108 
+autonomo
+Ritenute su c/c postali -     1   1  -     3   3 
+Debito per imposta di bollo  1.040  -     1.040   861  -     861 
+Debito per imposta sostitutiva -     1   1  -     1   1 
+Debiti tributari diversi -     21   21  -     21   21 
+Totale   1.040   116   1.156   861   133   994 
+di cui Patrimonio BancoPosta   1.040   9   1.049   861   11   872 
+In particolare: 
+Le Ritenute sui redditi di lavoro dipendente e autonomo riguardano le ritenute erariali operate dalla Società in qualità 
+di sostituto d’imposta e versate nei successivi mesi di gennaio e febbraio 2018.
+Il Debito per imposta di bollo si riferisce a quanto maturato al 31 dicembre 2017 sui buoni fruttiferi postali in circolazione 
+ai sensi della normativa richiamata nella nota A8 – Altri crediti e attività.
+319

@@ -1,0 +1,53 @@
+2019  RAPPORTO INTEGRATO
+Questo capitolo del Rapporto analizza le prestazioni 
+Energia Totale prodotta e consumata (MWh)
+di OLT relativamente all’impatto delle sue attività 
+in  termini  ambientali.  In  tale  ottica,  sono  stati 
+semplificati i concetti tecnici, mantenendo sempre  2017 2018 2019
+il rigore scientifico delle informazioni che, in modo 
+46.007 49.440 70.079
+esaustivo, sono contenute nei documenti ufficiali che 
+la Società produce per le Autorità competenti6 . OLT 
+attribuisce una grande importanza al monitoraggio  Nella tabella vengono riportati i valori dell’energia 
+delle performance in tale ambito, in primo luogo  totale prodotta, espressa in MWh, il cui aumento 
+per definire le opportune azioni di miglioramento;  è  dovuto  all’intensificazione  dell’attività  di 
+in secondo luogo, perché la rendicontazione delle  rigassificazione nel triennio 2017 - 2019 (per i dettagli 
+prestazioni ambientali risulta di primario interesse per  sul GNL rigassificato, vedere capitolo 2). 
+i propri stakeholder. Per  valutare  l’efficienza  energetica  del  Terminale 
+Si  evidenzia  che,  per  effettuare  una  valutazione  occorre quindi fare  riferimento all’indice specifico 
+accurata  delle  performance  ambientali,  oltre  a  rappresentato in figura.
+consentire  un  chiaro  confronto  con  gli  obblighi 
+normativi,  è  necessario  esprimere  tali  prestazioni 
+Indice di prestazione energetica del Terminale
+sottoforma  di  indicatori,  in  modo  pertinente 
+con  l’attività  svolta  dal  Terminale,  consentendo 
+0,060
+un’esaustiva comparazione tra gli anni indagati. Ciò 
+consiste nel rapportare i dati ambientali selezionati 
+0,050
+alla  produzione  annua  dell’impianto  (Sm3  di  gas 
+naturale  rigassificati  nell’anno)  e  alla  produzione  0,040
+elettrica (espressa in MWh).
+0,030
+0,020
+3.1
+I consumi energetici7  0,010
+0,000
+ENERGIA ELETTRICA
+2017 2018 2019
+MWh/1.000 Sm3
+Il  Terminale  “FSRU  Toscana”  è  caratterizzato  da 
+un  sistema  di  autosostentamento  energetico  che 
+2017 2018 2019
+consente  di  ottimizzare  i  consumi  compensando 
+MWh/1.000 Sm3 0,053 0,048 0,020
+interamente l’energia elettrica utilizzata con quella 
+prodotta. Il quantitativo energetico consumato su 
+base  annua  è  ottenuto  dalla  somma  dell’energia 
+elettrica prodotta dai 4 turbogeneratori a vapore e 
+dal generatore diesel presenti a bordo dell’impianto. (5) Questo materiale fa riferimento a GRI 103-1, GRI 103-2 e GRI 103-3 del GRI 103:  
+  Modalità di gestione 2016.
+(6) Per approfondimenti vedere la Dichiarazione Ambientale redatta ai fini EMAS  
+  presente nel sito www.oltoffshore.it
+(7) Questo materiale fa riferimento a GRI 302-1 e GRI 302-3 del GRI 302: Energy 2016.
+38

@@ -1,0 +1,42 @@
+ 
+ 
+Revenue by operating segment - 2018 
+       
+(€’000)  Italy  Abroad  Total 
+Revenue from contracts with customers  349,050  2,567,389  2,916,439 
+Other income  14,440  137,420  151,860 
+Total revenue  363,490  2,704,809  3,068,299 
+ 
+Revenue by operating segment - 2019 
+       
+(€’000)  Italy  Abroad  Total 
+Revenue from contracts with customers  670,794  1,926,701  2,597,495 
+Other income  18,142  125,353  143,495 
+Total revenue  688,936  2,052,054  2,740,990 
+       
+Statement of financial position by operating segment - 31 December 2018  
+       
+(€’000)  Italy  Abroad  Total 
+Net non-current assets  751,239  866,173  1,617,412 
+Provision for risks  (10,944)  (37,661)  (48,605) 
+Post-employment benefits and employee benefits  (6,424)  (5,243)  (11,667) 
+Net tax assets (liabilities)  279,874  (39,696)  240,178 
+Working capital  85,067  227,961  313,028 
+Net invested capital  1,098,812  1,011,534  2,110,346 
+Equity      845,200 
+Net financial indebtedness      1,265,146 
+Total financial resources      2,110,346 
+       
+Statement of financial position by operating segment - 31 December 2019  
+       
+(€’000)  Italy  Abroad  Total 
+Net non-current assets  871,992  730,924  1,602,916 
+Provision for risks  (57,866)  (29,493)  (87,359) 
+Post-employment benefits and employee benefits  (6,228)  (6,039)  (12,267) 
+Net tax assets (liabilities)  243,083  (35,384)  207,699 
+Working capital  (149,035)  819,487  670,452 
+Net invested capital  901,946  1,479,495  2,381,441 
+Equity      1,492,767 
+Net financial indebtedness      888,674 
+Total financial resources      2,381,441 
+   427 

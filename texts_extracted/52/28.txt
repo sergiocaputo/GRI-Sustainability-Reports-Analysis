@@ -1,0 +1,35 @@
+Allegato al Bilancio 
+Platfr.io 
+Open Banking è un nuovo modo di fare banca basato sul modello di Piattaforma Aperta che consente a 
+molteplici attori (Clienti finali, imprese, operatori terzi, player fintech, altre banche, etc) di interagire 
+e transare tra di loro attraverso un’infrastruttura di API (interfacce software pubblicamente accessibili 
+che consentono l’accesso a dati e funzionalità di applicazioni software). 
+Dal punto di vista del modo di fare banca, l’Open Banking può cambiare radicalmente il modo in cui crea 
+valore per i propri Clienti mettendo a loro disposizione servizi innovativi, propri e di terzi, e abilitando 
+nello stesso tempo la valorizzazione della grande quantità di dati generati dall’utilizzo di una piattaforma 
+aperta. Un tale modello, consente anche alle banche di rispondere efficacemente ai requisiti imposti 
+dalla nuova direttiva Europea PSD2 che a partire dal 2018 imporrà alle banche Europee di “aprire” i 
+loro sistemi e permettere a terze parti di accedere ai dati dei Clienti bancari, previa loro autorizzazione. 
+Nell’ambito dello sviluppo di tale strategia di piattaforma, il Gruppo Sella è stato il primo gruppo bancario 
+a  lanciare  un  ”open  banking  platform”  in  Italia,  Platfr.io,  con  la  quale  ha  aperto  ai  propri  Clienti 
+e all’ecosistema delle “fintech” europee una piattaforma basata su API, che permette di integrare i 
+servizi bancari direttamente all’interno di piattaforme tecnologiche e servizi informatici. Tale piattaforma 
+anticipa “de facto” molti dei temi, delle complessità e delle sfide - tecniche e funzionali - che la normativa 
+PSD2 sta introducendo nel contesto bancario italiano.  
+Web API open
+Platfr.io è l’infrastruttura tecnologica e applicativa di   alla base della costruzione di una 
+Piattaforma Open Banking più estesa, che ha l’obiettivo strategico di realizzare un’offerta completa di 
+funzioni API, oltre quelle richieste nell’ambito del contesto normativo PSD2, al fine di abilitare servizi 
+innovativi, bancari e non bancari, in modalità “platform as a service”.  
+Ad oggi, Platfr.io, è in regime di produzione con volumi crescenti e un catalogo di API in costante crescita 
+già “pronto” rispetto al perimetro delle funzioni della PSD2. Tra i principali casi d’uso, accessibili attraverso 
+le API disponibili ci sono: 
+-
+Cash Account Management
+-
+Gestione SCT, anche nella versione instant payment
+-
+Pagamento CBILL, Bollettini, PAGOPA
+-
+Verticalizzazione su sistemi per Marketplace e Crowfunding
+29

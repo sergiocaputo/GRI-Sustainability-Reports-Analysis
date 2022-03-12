@@ -1,0 +1,48 @@
+Dati ambientali / Environmental data
+Prelievo idrici annuali suddiviso per fonte e per sito (303-3)
+Total water withdrawal, with a breakdown by source and site (303-3)
+ORSENIGO 2017 2018 2019
+Acque dolci  Altra acqua  Acque dolci  Altra acqua  Acque dolci  Altra acqua 
+(≤1,000 mg/L (>1,000 mg/L (≤1,000 mg/L (>1,000 mg/L (≤1,000 mg/L (>1,000 mg/L
+Materie solide  Materie solide  Materie solide  Materie solide  Materie solide  Materie solide 
+disciolte) disciolte) disciolte) disciolte) disciolte) disciolte)
+ML
+Freshwater  Other water  Freshwater  Other water  Freshwater  Other water 
+(≤1,000 mg/L  (>1,000 mg/L  (≤1,000 mg/L  (>1,000 mg/L  (≤1,000 mg/L  (>1,000 mg/L 
+Total Dissolved  Total Dissolved  Total Dissolved  Total Dissolved  Total Dissolved  Total Dissolved 
+Solids) Solids) Solids) Solids) Solids) Solids)
+Acque di superficie / Surface water - - - - - -
+Falda acquifera/ Groundwater 45,09 - 46,17 - 59,31 -
+Acqua di mare/ Seawater - - - - - -
+Acqua prodotta/ Produced water  - - - - - -
+Risorse idriche di terze parti (municipale)
+9,64 - 12,15 - 13,83 -
+Third-party water (municipal)
+% acqua riutilizzata / % water reused 15 - 30 - 30 -
+Totale / Total  54,73 58,32 73,15
+LECCO 2017 2018 2019
+Acque dolci  Altra acqua  Acque dolci  Altra acqua  Acque dolci  Altra acqua 
+(≤1,000 mg/L (>1,000 mg/L (≤1,000 mg/L (>1,000 mg/L (≤1,000 mg/L (>1,000 mg/L
+Materie solide  Materie solide  Materie solide  Materie solide  Materie solide  Materie solide 
+disciolte) disciolte) disciolte) disciolte) disciolte) disciolte)
+ML
+Freshwater  Other water  Freshwater  Other water  Freshwater  Other water 
+(≤1,000 mg/L  (>1,000 mg/L  (≤1,000 mg/L  (>1,000 mg/L  (≤1,000 mg/L  (>1,000 mg/L 
+Total Dissolved  Total Dissolved  Total Dissolved  Total Dissolved  Total Dissolved  Total Dissolved 
+Solids) Solids) Solids) Solids) Solids) Solids)
+Acque di superficie / Surface water 122,05 - 112,57 - 71,73 -
+Falda acquifera/ Groundwater - - - - - -
+Acqua di mare/ Seawater - - - - - -
+Acqua prodotta/ Produced water  - - - - - -
+Risorse idriche di terze parti (municipale)
+3,01 1,97 - 1,26 -
+Third-party water (municipal)
+% acqua riutilizzata / % water reused 0 - 0 - 0 -
+Totale / Total  125,06 114,54 72,99
+Consumo totale di energia  
+Total energy consumption
+GJ                                                           ITALIA 2017 2018 2019
+Elettricità / Electricity 18.921,60 22.939,200 25.902,80
+Metano / Methane  230.056,60 224.580,00 217.062,04
+Totale / Total  248.978,20 247.519,20 242.964,84
+93

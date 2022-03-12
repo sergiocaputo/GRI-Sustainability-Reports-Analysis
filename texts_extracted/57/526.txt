@@ -1,0 +1,46 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+B.4 Grandi esposizioni
+(cid:3)
+31/12/2017  31/12/2016 
+ 
+a) Ammontare (valore di bilancio)    5.918.897    5.448.350
+b) Ammontare (valore ponderato)    246.169    545.752
+c) Numero    9    9
+(cid:3)
+C. Operazioni di cartolarizzazione
+C.1 Operazioni di cartolarizzazione 
+Non formano oggetto di rilevazione nella presente Parte le operazioni di cartolarizzazione nelle quali siano origina-
+tor banche del Gruppo Banca Popolare di Bari e il complesso delle passività emesse (es. titoli ABS) sia sottoscritto 
+all’atto dell’emissione da una o più società del Gruppo medesimo. Per l’illustrazione delle cd. autocartolarizzazioni si 
+rimanda alla sezione della Parte E della Nota Integrativa consolidata relativa al rischio di liquidità.
+Informazioni di natura qualitativa 
+Le operazioni di cartolarizzazione di crediti sono individuate dal Gruppo come strumento di diversiﬁcazione delle 
+fonti di ﬁnanziamento, ovvero come idoneo strumento volto ad effettuare il trasferimento a terzi del rischio di cre-
+dito (cd. de-risking).
+Di seguito si fornisce il dettaglio delle operazioni effettuate dal Gruppo Banca Popolare di Bari.
+Cartolarizzazione sofferenze “Popolare Bari NPLs 2017 Srl”
+In data 16 novembre 2017 è stata perfezionata dal Gruppo Banca Popolare di Bari un’operazione di cessione di 
+portafogli di crediti non-performing (NPLs) alla neo-costituita società veicolo (SPV) “Popolare di Bari NPLs 2017 Srl” 
+ai sensi della Legge 130/99.
+(cid:54)(cid:82)(cid:70)(cid:76)(cid:72)(cid:87)(cid:106)(cid:3)(cid:57)(cid:72)(cid:76)(cid:70)(cid:82)(cid:79)(cid:82) (cid:51)(cid:82)(cid:83)(cid:82)(cid:79)(cid:68)(cid:85)(cid:72)(cid:3)(cid:37)(cid:68)(cid:85)(cid:76)(cid:3)(cid:49)(cid:51)(cid:47)(cid:86)(cid:3)(cid:21)(cid:19)(cid:20)(cid:26)(cid:3)(cid:54)(cid:85)(cid:79)
+Tipologia operazione Tradizionale con trasferimento a terzi del rischio credito
+Originator Banca Popolare di Bari - Cassa di Risparmio di Orvieto
+Servicer Prelios Credit Servicing S.p.A.
+Arranger J.P.Morgan
+Calculation Agent Securitisation Services SpA
+Corporate Servicer Securitisation Services SpA
+Qualità attività cartolarizzate crediti in sofferenza
+Garanzie a presidio delle attività cartolarizzate ipotecarie (c.a 55%) e chirografarie (c.a 45%)
+Data di godimento 16/11/2017
+Valore lordo attività cartolarizzate 312.932.753
+ - di cui Banca Popolare di Bari 297.989.617
+ - di cui Cassa di Risparmio di Orvieto 14.943.136
+Valore netto attività cartolarizzate 94.321.928
+ - di cui Banca Popolare di Bari 92.949.545
+ - di cui Cassa di Risparmio di Orvieto 1.372.383
+Prezzo di cessione (*) 102.411.224
+ - di cui Banca Popolare di Bari 101.008.368
+ - di cui Cassa di Risparmio di Orvieto 1.402.856
+Agenzie di Rating DBRS Ratings Limited / Moody’s/Scope Ratings
+(*) importo comprensivo degli incassi effettuati nel periodo 1/4/2017-15/11/2017. (importi in euro)
+526

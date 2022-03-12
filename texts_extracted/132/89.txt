@@ -1,0 +1,22 @@
+4.
+La persona al centro
+471
+Agenzie 288 AGENZIE
+NORD
+1.102
+SubAgenzie
+129 
+AGENZIE
+CENTRO
+    605
+Agenti
+    5.931
+Collaboratori complessivi 
+(iscritti e non al RUI) 
+12
+Intermediari iscritti 
+in sezione D
+54 
+AGENZIE
+SUD E ISOLE
+8888

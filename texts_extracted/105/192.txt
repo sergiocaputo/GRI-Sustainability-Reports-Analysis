@@ -1,0 +1,46 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+4. Gruppo Poste Italiane Bilancio al 31 dicembre 2017 
+Il fair value degli Investimenti immobiliari al 31 dicembre 2017 è rappresentato per 67 milioni di euro dal prezzo di vendita appli-
+cabile agli alloggi di servizio ai sensi della Legge 560 del 24 dicembre 1993 e per il rimanente ammontare è riferito a stime dei 
+prezzi di mercato effettuate internamente all’azienda56.
+La maggior parte dei beni immobili compresi nella categoria in commento sono concessi in locazione con contratti classificabili 
+come leasing operativi, poiché il Gruppo mantiene sostanzialmente i rischi e benefíci legati alla proprietà di tali unità immobiliari. 
+Con detti contratti è di norma concessa al conduttore la facoltà di interrompere il rapporto con un preavviso di sei mesi; ne conse-
+gue che i relativi flussi di reddito attesi, mancando del requisito della certezza, non sono oggetto di commento nelle presenti note.
+A3 - Attività immateriali (516 milioni di euro) 
+Nel 2017 il valore netto e la movimentazione delle Attività immateriali sono i seguenti:
+tab. A3 - Movimentazione delle Attività immateriali
+Diritti di brevetto ind.le e di utilizz.  Immobilizz. 
+opere d’ingegno, concessioni,  in corso e 
+(milioni di euro) licenze, marchi e simili acconti  Avviamento Altre  Totale
+Costo 2.662  94  120  109  2.985 
+Ammortamenti e svalutazioni 
+(2.307) -    (69) (96) (2.472)
+cumulati
+Saldo al 1° gennaio 2017 355  94  51  13  513 
+Variazioni dell’esercizio
+Acquisizioni 119  103  -    3  225 
+Riclassifiche  81  (79) -    (2) -   
+Cessazioni e Dismissioni  -    (1) -    -    (1)
+Ammortamenti e svalutazioni (215) -    -    (6) (221)
+Totale variazioni (15) 23  -    (5) 3 
+Costo 2.871  117  120  100  3.208 
+Ammortamenti e svalutazioni 
+(2.531) -    (69) (92) (2.692)
+cumulati
+Saldo al 31 dicembre 2017 340  117  51  8  516 
+Gli investimenti del 2017 in Attività immateriali ammontano a 225 milioni di euro e comprendono 17 milioni di euro riferibili a 
+software sviluppato all’interno del Gruppo. Non sono capitalizzati costi di sviluppo diversi da quelli direttamente sostenuti per 
+la realizzazione di prodotti software identificabili, utilizzati o destinati all’utilizzo da parte del Gruppo.
+L’incremento nella voce Diritti di brevetto industriale e diritti di utilizzazione delle opere d’ingegno, concessioni, 
+licenze, marchi e simili di 119 milioni di euro, prima degli ammortamenti effettuati nell’esercizio, si riferisce principalmente 
+all’acquisto e all’entrata in produzione di nuovi programmi e alle acquisizioni di licenze software. Il saldo della voce comprende 
+il valore netto contabile di 10 milioni di euro della piattaforma informatica per lo sviluppo del progetto Full MVNO (Mobile Virtual 
+Network Operator) condotta in leasing finanziario da PosteMobile S.p.A. e ammortizzata in dieci anni. 
+Il saldo delle Immobilizzazioni immateriali in corso comprende attività della Capogruppo principalmente volte allo sviluppo 
+di software per la piattaforma infrastrutturale (44 milioni di euro), per i servizi BancoPosta (30 milioni di euro), per il supporto alla 
+rete di vendita (18 milioni di euro) e per la piattaforma relativa ai prodotti postali (12 milioni di euro). 
+56. Ai fini della scala gerarchica del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore indicato degli ex alloggi di servizio è di 
+livello 3 mentre quello degli altri investimenti immobiliari è di livello 2.
+191

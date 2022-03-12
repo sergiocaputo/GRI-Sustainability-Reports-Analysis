@@ -1,0 +1,50 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+D. Strumenti di copertura  È coperto il rischio tasso per tutta la durata dell’obbligazione.
+Le principali cause di inefﬁ cacia del modello adottato dal  Per veriﬁ care l’efﬁ cacia della copertura è utilizzato il Dollar 
+Gruppo Fideuram per la veriﬁ ca dell’efﬁ cacia delle coperture  Offset Method. Tale metodo è basato sul rapporto tra le va-
+sono imputabili ai seguenti fenomeni: riazioni cumulate (da inizio copertura) di fair value dello stru-
+mento di copertura, attribuibili al rischio coperto, e le varia-
+•  disallineamento tra nozionale del derivato e del sottostante 
+zioni passate di fair value dell’elemento coperto (c.d. delta fair 
+rilevato al momento della designazione iniziale o generato 
+value), al netto del rateo di interesse.
+successivamente, come nel caso di rimborsi parziali dei mu-
+tui o riacquisto dei prestiti obbligazionari;
+Impieghi a tasso ﬁ sso
+•  applicazione di curve diverse su derivato di copertura ed og- Il Gruppo ha designato relazioni di copertura di tipo micro Fair 
+getto coperto. I derivati, normalmente collateralizzati, sono  Value Hedge o macro Fair Value Hedge, utilizzando principal-
+scontati alla curva Eonia, gli oggetti coperti sono scontati  mente IRS come strumenti di copertura. È coperto il rischio 
+alla curva di indicizzazione dello strumento di copertura; tasso per tutta la durata del sottostante.
+•  inclusione nel test di efﬁ cacia del valore della gamba variabi-
+Per le coperture di tipo micro, l’efﬁ cacia della copertura è ve-
+le del derivato di copertura, nell’ipotesi di copertura di tipo 
+riﬁ cata utilizzando il Dollar Offset Method. 
+“fair value hedge”.
+Per le coperture di tipo macro, il portafoglio di impieghi og-
+L’inefﬁ cacia della copertura è prontamente rilevata ai ﬁ ni:
+getto di copertura è di tipo aperto, cioè è costituito dinamica-
+•  della determinazione dell’effetto a conto economico; mente dagli strumenti a tasso ﬁ sso gestiti a livello aggregato 
+tramite i derivati di copertura stipulati nel tempo. L’efﬁ cacia 
+•  della valutazione in merito alla possibilità di continuare ad 
+delle macro coperture sugli impieghi a tasso ﬁ sso è periodica-
+applicare le regole di hedge accounting.
+mente veriﬁ cata sulla base di speciﬁ ci test prospettici e retro-
+spettivi volti a dimostrare che il portafoglio oggetto di possi-
+Il Gruppo Fideuram non utilizza le coperture dinamiche, 
+bile copertura contiene un ammontare di attività il cui proﬁ lo 
+così come deﬁ nite nell’IFRS7, paragrafo 23C.
+di sensitivity e le cui variazioni di fair value per il rischio tasso 
+rispecchiano quelle dei derivati utilizzati per la copertura.
+E. Elementi coperti
+Le principali tipologie di elementi coperti sono:
+Cedola già ﬁ ssata di impieghi a tasso variabile
+• titoli di debito dell’attivo; La cedola ﬁ ssata di impieghi a tasso variabile è coperta in re-
+lazioni di copertura di tipo micro Fair Vale Hedge, utiliz zando 
+• impieghi a tasso ﬁ sso;
+OIS come strumenti di copertura. Scopo di questo tipo di co-
+• cedola già ﬁ ssata di impieghi a tasso variabile. pertura è quello di immunizzare il rischio tasso determinato 
+dalle cedole già ﬁ ssate degli impieghi a tasso variabile.
+Titoli di debito dell’attivo
+Sono coperti in relazioni di copertura di tipo micro Fair Value  Per veriﬁ care l’efﬁ cacia della copertura è utilizzato il Dollar 
+Hedge, utilizzando IRS, OIS e CCS come strumenti di copertura.  Offset Method.
+348 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

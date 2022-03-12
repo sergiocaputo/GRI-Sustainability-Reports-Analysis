@@ -1,0 +1,80 @@
+Table A - Financial indicators Green Bond 2017 
+ss
+Renewable projects pillarpillar
+ur ur 
+OO
+Country  Project  Technology Status Capacity Commercial  Investment GB proceeds  GB proceeds 
+name (MW) operation  (value in currency) allocated in  allocated in 
+date 2017   2019  
+Currency Value in  Equivalent in  (mil euros) (mil euros) (2)
+currency  euro (mil) (1)
+(mil)
+USA Red Dirt Wind In Operation  300  nov-17 USD  420  378 77 -
+Thunder 
+USA Wind In Operation  298  nov-17 USD  435  392 132  - 
+Ranch
+USA Hilltopper Wind In Operation  185  nov-18 USD  325  293 166  -  ss
+ee
+nn
+Stillwater  oo
+USA Solar In Operation  27  may-18 USD  40  36 48  -  bb
+Solar II ckck
+aa
+bb
+USA Woods Hill Solar In Operation  25  dec-17 USD  44  41 36  -  G G 
+SS
+EE
+Rattlesnake 
+USA Wind In Operation  320  dec-18 USD  430  387 204  - 
+Creek
+USA Rock Creek Wind In Operation  300  oct-17 USD  500  450 73  - 
+Horizonte 
+BRAZIL Solar In Operation  103  feb-18 USD  110  99 43  - 
+MP
+BRAZIL Delfina Wind In Operation  209  aug-17 USD  440   364  33  - 
+Cerro 
+CHILE Geothermal In Operation  81  aug-17 USD  420   347  57  - 
+Pabellón
+CHILE Sierra Gorda Wind In Operation  112  dec-16 USD  215  194 17  - 
+ee
+PERU Wayra Wind In Operation  132  mar-18 USD  165  149 82  -  notnot
+al al 
+PERU Rubi Solar In Operation  180  nov-17 USD  170  153 68  -  gicgic
+oo
+Biomass/ olol
+Various  dd
+ITALY  projects (3) HGyedortoheelermctarilc/ 35 EUR 129 130 70  -  ethoetho
+MM
+Under 
+CANADA Riverview Wind  115  apr-20 8 81  
+Construction
+USD  170   143 
+Castle Rock  Under 
+CANADA Wind  31  feb-20 2 23 
+Ridge 2 Construction
+MEXICO Magdalena 2 Solar In Operation  220  sep-19 USD  165   136  9 112  
+MEXICO Amistad II Wind In Operation  100  dec-19 USD  115  97 22 55  
+MEXICO Amistad III Wind ConUsntrduecrt ion  100  feb-20 USD  104   86  11 59   endixendix
+pp
+pp
+AA
+MEXICO Amistad IV Wind Under   149  apr-20 USD  149   123  13 50   & & 
+Construction d d 
+nn
+oo
+BB
+MEXICO Dolores Wind ConUsntrduecrt ion  244  mar-20 USD  280  235 36 192  een een 
+GrGr
+PANAMA Estrella Solar Solar In Operation  8  aug-18 USD  8  7 5  - 
+ZAMBIA Ngonye Solar In Operation  34  mar-19 USD  40  34 10  -
+Various  Geothermal/
+ITALY    11   EUR 43 36 14  - 
+projects (4) Hydroelectric
+Total 1,237 572
+(1) Indicative value in euros (EUR), although the investment in US dollars (USD) applies where present. The exchange rate used for projects allocated in the 2017 green 
+bond is 1.11 USD/EUR, for projects allocated in the 2018 green bond is 1.19 USD/EUR whereas for projects whose investment value has been updated − including 
+those with the new Capex identified in GB 2019 − the exchange rate is 1.21. 
+(2) Additional proceeds were allocated for some renewable projects that were already identified in the 2017 and 2018 green bond, for which new capitalized costs emerged.
+(3) Aggregate data related to 26 small sized Italian projects. The technologies involved are biomass, geothermal and hydroelectric.      
+(4) Aggregate data related to 8 small sized Italian projects. The technologies involved are geothermal and hydroelectric.        
+GGrreeeenn  BBoonndd  RReeppoorrtt   225599

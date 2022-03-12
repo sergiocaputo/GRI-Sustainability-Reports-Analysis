@@ -1,0 +1,36 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Sezione 4 - Attività finanziarie valutate al costo ammortizzato - Voce 40
+4.1 Attività finanziarie valutate al costo ammortizzato: composizione 
+merceologica dei crediti verso banche (parte 1 di 2)
+Euro/migliaia 31/12/2018
+Valore di bilancio Fair value
+Primo e  Terzo di cui: 
+L1 L2 L3 
+secondo  stadio impaired 
+stadio acquisite o 
+originate
+A. Crediti verso
+70.539 - - - - 70.539
+Banche Centrali
+1. Depositi a scadenza - - - X X X
+2. Riserva obbligatoria 70.539 - - X X X
+3. Pronti contro termine - - - X X X
+4. Altri - - - X X X
+B. Crediti verso banche 440.739 - - 9.891 - 430.573
+1. Finanziamenti 430.573 - - - - 430.573
+ 1.1 Conti correnti e depositi a vista 36.445 - - X X X
+ 1.2. Depositi a scadenza  - - - X X X
+ 1.3. Altri finanziamenti:  394.128 - - X X X
+ - Pronti contro termine attivi  335.878 - - X X X
+ - Leasing finanziario  - - - X X X
+ - Altri 58.250 - - X X X
+2. Titoli di debito 10.166 - - 9.891 - -
+ 2.1 Titoli strutturati  - - - - - -
+ 2.2 Altri titoli di debito  10.166 - - 9.891 - -
+TOTALE 511.278 - - 9.891 - 501.112
+Legenda 
+L1 = Livello 1 
+L2 = Livello 2 
+L3 = Livello 3
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 521

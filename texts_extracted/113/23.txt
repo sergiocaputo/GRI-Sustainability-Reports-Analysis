@@ -1,0 +1,54 @@
+Reply has adopted the Global GDPR Compliance  rights (for example, portability, data access and 
+Program, allowing the Group to update its  cancellation, etc.).
+organisational model with respect to privacy and 
+fulfilling the regulatory requirements of the new EU  In addition, the Group has defined a policy to be 
+Regulation 2016/679 GDPR (General Data Protection  followed to verify that privacy legislation (Data 
+Regulation), which came into effect on 25 May  Processing Agreement) is respected during the 
+2018. This program also put in place to standardise  negotiation phase with the customer, and during 
+data and privacy protection practices for all Group  the service delivery phase, providing operational 
+companies and holdings, was applied through the  instructions for Group employees, who must accept 
+n
+definition of a Privacy Management system which  and apply the policy to guarantee Reply compliance. o
+ati
+m
+envisaged the following actions: or
+nf
+•	 Preparation and regular updating of GDPR  As part of the reporting of incidents related to data  al i
+ci
+Registers (inventory of actions by the company  loss, an “ICT security incident management” policy  n
+a
+n
+fi
+and its holdings involving personal data); is in place, regarding the definition of incident  n-
+o
+n
+•	 Privacy by Design Process, which involves,  management methods that can compromise  of 
+e 
+the implementation of privacy risk assessment  one or more information security requirements  ur
+s
+o
+practices that identify technical and organisational  (confidentiality, integrity, and availability of data) with  cl
+s
+di
+measures to ensure that each new project or  the potential violation of applicable legislation (for  d 
+e
+at
+significant change meets GDPR privacy and  example, the GDPR). The procedure describes the  olid
+s
+security requirements; three phases defined by the incident management  on
+C
+•	 Data Breach notification process, which provides  process (identification/classification, response, and 
+for the management and any notification of a data  “lessons learned”) and the roles and responsibilities 
+breach to the personal data protection authority,  for the different phases identified.
+and, if necessary, to individuals impacted by the 
+data breach; In addition, the Group has put in place a data 
+•	 Data Protection Impact Assessment (DPIA)  protection and privacy e-learning training 
+process, which allows the identification and  programme for all its employees, as well as a 
+mitigation of privacy risks for the treatment of  classroom course for partners. These courses are in 
+data that are most at risk, for example, conducted  addition to established awareness raising activities 
+on special data, and large-scale profiling and  for employees such as the “Awareness” course (for 
+monitoring activities;  executives), IT security, and the “Simulated Phishing” 
+•	 Privacy Request handling process, namely  initiative, aimed at increasing worker awareness of 
+management of the requests of interested parties  data protection risks.
+regarding application of their personal data 
+22 23

@@ -1,0 +1,61 @@
+ Consolidated Non-Financial Statement 2018 
+ 
+ 
+Total water abstraction17 
+ 
+Change 17-
+  Ml  2016  2017  2018 
+18 
+Soft  Other 
+Source of abstraction  Soft water  Other types  Soft water  Other types   
+water  types 
+Surface water  -  -  -  -  -  -  - 
+Groundwater  -  -  -  -  -  -  - 
+Seawater  -  -  -  -  -  -  - 
+Generated water  -  -  -  -  -  -  - 
+Third-party water  84.7  -  102.8  -  73.3  -  -28.7% 
+Total  84.7  -  102.8  -  73.3  -  -28.7% 
+ 
+Water abstraction in water stress areas18 
+Change 17-
+MI  201619  2017  2018 
+18 
+Soft  Other 
+Source of abstraction  Soft water  Other types  Soft water  Other types   
+water  types 
+Surface water  -  -  -  -  -  -  - 
+Groundwater  -  -  -  -  -  -  - 
+Seawater  -  -  -  -  -  -  - 
+Generated water  -  -  -  -  -  -  - 
+Third-party water  2.4  -  2.02  -  2.08  -  - 
+Total  2.4  -  2.02  -  2.08  -  - 
+ 
+Waste 
+2016  2017  2018 
+  
+Total  %  Total  %  Total  % 
+Hazardous [t]  3,624  39.3%  3,617  35.4%  3,613  32.4% 
+Non-hazardous [t]  5,591  60.7%  6,606  64.6%  7,550  67.6% 
+Total [t]  9,215  100%  10,222  100%  11,163  100% 
+ 
+Waste for disposal 
+2016  2017  2018 
+  
+Total  % Total  Total  % Total  Total  % Total 
+Recycling [t]  1,344  14.6%  1,242  12.2%  891  8.0% 
+Landfill [t]  5  0.1%  -  0%  23  0.2% 
+Other [t]  7,866  85.3%  8,981  87.9%  10,249  91.8% 
+Total  9,215  100%  10,222  100%  11,163  100% 
+   
+                                                           
+17 The data for 2016 and 2017 water abstraction was recalculated following the adoption of the new methodology proposed by the 
+GRI Standards (adopted in the 2018 NFS) in order to ensure its comparability with the data with 2018. For the data for 2016 and 2017 
+calculated using the old methodology, refer to the 2017 Consolidated Non-Financial Statement. Soft water is defined as water with 
+≤1.000 mg/l of dissolved solid material. Other types of water are defined as water with >1.000 mg/l of dissolved solid material. 
+18Water stress areas are defined using the Aqueduct tool developed by the World Resources, considering the “extreme scarcity” and 
+“scarcity” categories. With reference to the sites considered for the analysis, the Group's printing facilities (Milan, Rome and Turin) 
+were evaluated due to their impact on consumption against total Group consumption.  Abstraction from water stress areas is detailed 
+in the total water abstraction table.  
+19 The consumption of water sourced from water stress areas in 2016 has been estimated based on the percentage consumption in 
+2017 and 2018 against total consumption. 
+70

@@ -1,0 +1,44 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+5. Poste Italiane S.p.A. Bilancio al 31 dicembre 2017 
+B7 - Passività finanziarie (1.355 milioni di euro)
+tab. B7 - Passività finanziarie
+ Saldo al 31.12.17   Saldo al 31.12.16 
+Descrizione  Passività    Passività   Totale  Passività    Passività   Totale 
+(milioni di euro) non correnti correnti  non correnti correnti 
+Finanziamenti   250   963   1.213   1.198   14   1.212 
+Obbligazioni   50   763   813   798   14   812 
+Debiti verso istituzioni 
+ 200   200   400   400  -     400 
+finanziarie 
+Strumenti finanziari 
+ 35   4   39   47   4   51 
+derivati (1)
+Fair value hedging   30   4   34   40   4   44 
+Cash flow hedging   5   -     5   7  -     7 
+Passività finanziarie vs 
+-     46   46  -     38   38 
+imprese controllate 
+Altre passività finanziarie   1   56   57   1  -     1 
+Totale    286   1.069   1.355   1.246   56   1.302 
+(1) Ai fini della gerarchia del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore dei derivati è di Livello 2.
+Finanziamenti
+Salvo le garanzie indicate nelle note che seguono, i finanziamenti non sono assistiti da garanzie reali e non sono in essere 
+financial covenants che obbligano la Società al rispetto di determinati ratios economici e finanziari, o al mantenimento dei livelli 
+minimi di rating. Per i debiti verso istituzioni finanziarie sono in essere clausole standard di negative pledge97.
+Obbligazioni
+Nell’ambito del programma EMTN – Euro Medium Term Note di 2 miliardi di euro promosso dalla Società nel corso dell’eser-
+cizio 2013 presso la Borsa del Lussemburgo, le obbligazioni quotate emesse si riferiscono a:
+un prestito del valore nominale di 750 milioni di euro, collocato in forma pubblica a investitori istituzionali, emesso in data 
+18 giugno 2013 al prezzo sotto la pari di 99,66; la durata del prestito è di cinque anni con cedole annuali al tasso fisso del 
+3,25%. Il fair value98 del prestito in commento al 31 dicembre 2017 è di 775 milioni di euro;
+un prestito del valore nominale di 50 milioni di euro, collocato in forma privata, emesso alla pari in data 25 ottobre 2013; la 
+durata del prestito è decennale con pagamento di cedole annuali a tasso fisso del 3,5% per i primi due anni e quindi a tasso 
+variabile (tasso EUR Constant Maturity Swap maggiorato dello 0,955%, con cap al 6% e floor allo 0%). L’esposizione del 
+prestito al rischio di oscillazione dei relativi flussi finanziari è stata oggetto di copertura con le modalità descritte nella nota 
+A6. Il fair value99 di tale passività al 31 dicembre 2017 è di 53 milioni di euro.
+97.  Impegno assunto nei confronti dei creditori di non concedere ad altri finanziatori successivi di pari status, garanzie migliori o privilegi, salvo offrire analoga tutela 
+anche ai creditori preesistenti.
+98. Ai fini della scala gerarchica del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore indicato è di Livello 1.
+99. Ai fini della scala gerarchica del fair value, che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni, il valore indicato è di Livello 2.
+313

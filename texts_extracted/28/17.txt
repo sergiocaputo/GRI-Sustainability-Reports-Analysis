@@ -1,0 +1,63 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019  |  © 2020 GRUPPO CREVAL  |  2. I NOSTRI AMBITI DI AZIONE
+zione  dell’identità  digitale  necessario  per  Principali rischi
+Migliori app home banking, 
+accedere ai sistemi di e-banking o di paga-
+vince il Credito Valtellinese
+mento da remoto basandosi sul principio  Dall’utilizzo  della  tecnologia  consegue  la  ca d’Italia contenuta nella Circolare 285 
+della cosiddetta “autenticazione a due fat- Le rilevazioni effettuate sul Play Store di Google  necessità di monitoraggio costante di alcu- del 17 dicembre 2013, su cui vigila il Ser-
+tori” per superare le criticità della sicurez- assegnano alla nostra app bancaria il maggior gradimento  ne categorie di rischi da un lato mediante  vizio Security e Business Continuity uni-
+za dell’accesso legato all’inserimento di una  da parte dei clienti: il giudizio espresso dagli utenti di  strumenti di sicurezza informatica (presidia- tamente al Servizio Operational e Repu-
+sola password. Il nuovo sistema si basa così  e-banking tramite le recensioni pubblicate all’interno  ta dal Servizio Security e Business Conti- tational Risk;
+degli app store delle piattaforme IOS e Android ha 
+su almeno due diversi metodi di autentica- nuity) e dall’altro con l’adeguamento del- •  Cyber risk derivante dagli attacchi infor-
+premiato Bancaperta che tra gennaio e giugno 2019 è 
+zione tra i tre di seguito indicati: le piattaforme supervisionato dal Servizio  matici all’infrastruttura di ICT - sono in 
+sempre stata in testa nella classifica con un punteggio 
+•  “un dato noto” - Password o PIN; Applicazioni  Multicanale.  I  profili  legati  al  vigore misure di mitigazione e controllo 
+costante di 4.5/5.
+•  “un oggetto a disposizione” - telefono  progresso tecnologico e alle mutazioni della  mediante monitoraggi attivi 24 ore al gior-
+cellulare, carta di credito o token; normativa vigente sono presidiati dall’Area  no da parte del Servizio Security e Busi-
+•  “un riconoscimento personale” - impron- legale, dal Servizio CRM e Campaign e dal  ness Continuity con l’ausilio del Servizio 
+ta digitale, timbro di voce, retina o iride  Servizio Canali Diretti. La perdita di compe- Infrastrutture;
+ovvero metodi di riconoscimento attra- titività dell’offerta rappresenta uno dei rischi  •  frodi - la gestione è basata su un’infra-
+verso caratteristiche uniche di ogni sin- più visibili e viene gestita dal Servizio Orga- struttura dedicata al monitoraggio del-
+golo individuo (biometria). conti correnti online anche da parte della  nizzazione e Innovazione Digitale in concer- le transazioni online ed è collegata ad un 
+La  scelta  tecnica  di  Creval  permette  di  potenziale clientela focalizzata sulla ricer- to con il Servizio Sistemi di Pagamento e il  servizio di call center per la verifica delle 
+rispettare queste caratteristiche e la prescri- ca della migliore user experience che la  Servizio Canali Diretti per le analisi di mer- operazioni a rischio con sospetto di fro-
+zione che l’algoritmo di generazione delle  tecnologia è in grado di fornire e sul pieno  cato. de;
+“password valide una sola volta” di auten- rispetto delle recenti evoluzioni della nor- Nell’ambito  delle  sfide  connesse  all’utiliz- •  mancata compliance - i presidi attivi sono 
+ticazione preveda un meccanismo di col- mativa di Banca d’Italia in relazione alle  zo della tecnologia dell’informazione e del- rappresentati  dal  monitoraggio  e  dalla 
+legamento dinamico ed univoco - “dyna- regole di identificazione a distanza del  la comunicazione Creval identifica i seguen- partecipazione a tavoli congiunti in Abi-
+mic linking” - ai dati relativi alle operazioni di  cliente e della normativa antiriciclaggio; ti rischi per i quali implementa un presidio e  Lab per la costante verifica dei requisiti 
+pagamento dispositive impostate. •  in ottica di ampliamento dell’offerta multi- una supervisione tecnica continuativa: legislativi in merito alla sicurezza e busi-
+L’offerta digitale Bancaperta ha introdotto  canale dallo scorso anno i titolari di uten- •  perdita di competitività tecnologica - pre- ness continuity;
+due importanti novità nell’anno:  za Bancaperta possono acquistare online  sidiata per mezzo di un monitoraggio e  •  continuità operativa - l’attività e i servi-
+•  è  stata  sviluppata  la  piattaforma  di   le carte di debito (Bancomat V-Pay e Car- un’analisi continua di benchmark sia tra- zi informatici erogati per i processi criti-
+onboarding che consente l’apertura di  ta Debit Consumer) e aprire conti correnti. dizionali sia Fintech, gestiti dal Servizio  ci sono valutati e monitorati al fine di pre-
+Organizzazione  e  Innovazione  Digitale  venire  discontinuità  operative  derivanti 
+unitamente al Servizio Canali Diretti e al  da fenomeni non prevedibili (ad esempio 
+Servizio Sistemi di Pagamento; calamità naturali ed attacchi esterni). Le 
+•  Information Technology - viene effettuata  procedure vengono riviste e testate per 
+un’attività di valutazione dei rischi gene- gli scenari senza tecnologia, persone o 
+rati dall’utilizzo degli strumenti informati- edifici.
+ci, come previsto dalla normativa di Ban-
+Accessi all’offerta digitale Bancaperta
+I dati quantitativi per il monitoraggio dell’uso di Bancaperta sono forniti 
+automaticamente ogni mattina e rielaborati con cadenza mensile - l’evidenza annuale 
+è rappresentata di seguito.
+La nostra impronta sul territorio:
+2017 2018 2019
+Accessi totali 41.103.004 44.248.949 46.912.695 l’offerta per famiglie e PMI 
+Accessi medi giornalieri 112.611 121.230 128.528
+Accessi unici medi 64.275 67.487 68.641
+Modello di gestione e organizzazione
+Accessi per canale 2017 2018 2019
+I profili di gestione e organizzazione fanno  questo Documento nell’ambito del tema “La 
+Web 22.459.585 21.806.823 20.541.338
+capo alla Divisione Prodotti il cui modello è  qualità al centro dell’offerta commerciale”.
+Smartphone 17.868.385 21.743.435 25.722.988
+declinato all’interno dell’omonima sezione di 
+Tablet 772.157 691.460 641.737
+Watch 2.877 7.231 6.632
+Totale 41.103.004 44.248.949 46.912.695
+34 35

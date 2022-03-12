@@ -1,0 +1,49 @@
+2 SUSTAINABILITY REPORT 2019 
+THE 4 PILLARS
+ENERGY CONSUMPTION 
+Cement production requires considerable levels of energy consumption in its various processes because of 
+the high temperatures that must be reached in the kiln (1500°C), the electricity required to grind the product 
+and the quantity of material used.  
+Thermal energy is used in the start-up and operation of the kilns and the operation of the burners or boilers 
+required to increase production efficiency and optimise the production process (for example, to dry raw 
+materials and fuels). Electricity, on the other hand, is mainly used to operate the mills that grind the raw 
+materials, clinker and fuels.  
+The intensity coefficients for the environmental performance indicators are calculated using Total Cement 
+Equivalent (TCE), an indicator linked to the plant's production of clinker, based on the production of clinker 
+and on the plant's average clinker/cement ratio. This choice was made because the production of clinker, the 
+main constituent of cements, is the phase of production where the environmental impacts are greatest. 
+In 2019, the cement production plants used 29,062,794 GJ of thermal energy and 4,278,324 GJ of electricity. 
+The energy intensity indices have suffered small changes compared to the previous reporting year, with a total 
+energy consumption coefficient on equivalent ton of cement produced at 4.01 (GJ/tTCE). 
+Energy consumed to produce cement                                    
+ 
+Type                                                                                                     Unit                         2019                          2018                        2017 
+Thermal energy                                                                               GJ        29,062,794.34          35,767,573.77        35,597,264.92 
+of which: from alternative fuel                                                   GJ          6,816,410.24            7,138,691.09          5,997,533.44 
+Thermal energy sold                                                                       GJ         -1,521,827.00          -1,185,306.00        -1,449,809.00 
+Electricity                                                                                         GJ          4,278,323.88            4,323,044.42          4,527,158.42 
+Total energy                                                                                          GJ        31,819,291.23         38,905,312.19       38,674,614.34 
+Thermal energy per t of Total Cement Equivalent              GJ/tTCE                        3.47                          3.52                        3.38 
+Thermal energy produced by alternative sources  
+per t of Total Cement Equivalent                                          GJ/tTCE                        0.86                          0.73                        0.59 
+Electricity per t of Total Cement Equivalent                        GJ/tTCE                        0.54                          0.44                        0.45 
+Total energy per t of Total Cement Equivalent                    GJ/tTCE                        4.01                          3.96                        3.83 
+Energy consumed  
+for White and Grey Cement production
+                                             White                                                       Grey 
+Type                                                                        Unit                                                           2019                                                       2019 
+Thermal energy                                                   GJ                                           8,437,706.34                                    20,625,088.00 
+of which: from alternative fuel                       GJ                                              356,901.00                                       6,459,509.24 
+Thermal energy sold                                           GJ                                         -1,521,827.00                                                     0.00 
+Electricity                                                             GJ                                           1,280,579.19                                       2,997,744.70 
+Total energy                                                            GJ                                             8,196,458.53                                      23,622,832.70 
+Thermal energy  
+per t of Total Cement Equivalent              GJ/tTCE                                                         2.82                                                     3.74 
+Thermal energy produced  
+by alternative sources  
+per t of Total Cement Equivalent              GJ/tTCE                                                         0.15                                                     1.17 
+Electricity 
+per t of Total Cement Equivalent              GJ/tTCE                                                         0.52                                                     0.54 
+Total energy   
+per t of Total Cement Equivalent              GJ/tTCE                                                         3.35                                                     4.28
+63

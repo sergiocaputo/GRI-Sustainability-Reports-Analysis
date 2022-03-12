@@ -1,0 +1,47 @@
+Cerved Information Solutions S.p.A. | Bilancio di Sostenibilità | 2017
+• I diritti degli interessati, sia quelli già previsti dalla precedente Direttiva 95/46/CE 
+e irrobustiti dal GDPR (come il diritto di accesso, il diritto di limitazione/blocco dei 
+trattamenti, il diritto di opposizione), sia quelli di nuova generazione (come il diritto 
+alla portabilità). Il Gruppo è impegnato nella realizzazione di procedure, anche 
+tecnologiche, per garantire all’interessato i più efficienti mezzi nell’esercizio dei propri 
+diritti e una rapida soddisfazione delle proprie richieste
+• La protezione dei dati con un approccio by design, che rappresenta per il Gruppo un 
+obiettivo sfidante su più livelli: internamente, nella relazione con i clienti, in termini di 
+cyber security e di governance dei processi. Tutto questo nell’ottica di stimolare anche 
+pratiche virtuose da parte dei clienti
+• La valorizzazione del legittimo interesse dei titolari come base di legittimità per il 
+trattamento dei dati, nel rispetto degli interessi, dei diritti e delle libertà delle persone a 
+cui si riferiscono le informazioni. Le casistiche di ricorrenza del legittimo interesse sono 
+particolarmente rilevanti nel caso delle banche dati di informazioni commerciali, come 
+già riconosciuto nell’ordinamento italiano attraverso il Codice di Deontologia. Si ritiene 
+importante (anche e soprattutto a livello di associazioni di categoria e di futuri codici di 
+condotta da adottare ex art. 40-41 GDPR) individuare precisi scenari di legittimità delle 
+elaborazioni di dati sia per fini di business information, sia relativamente all’attività di 
+recupero dei crediti, senza prescindere dell’evoluzione tecnologica e normativa (anche 
+in ambito Fintech).
+• L’innovativa categoria introdotta dal GDPR dei dati cosiddetti “pseudonimizzati”, è 
+un’opportunità di sicuro interesse per il settore delle business information (anche in 
+chiave di Big Data Management): non solo consente di rendere più intelligenti i modelli 
+astratti di calcolo dei rischi di mercato dei soggetti censiti in banche dati di business 
+information, ma evita ricadute individuali su singole posizioni relative a persone fisiche. 
+Gestione della sicurezza dei dati e delle informazioni
+La gestione della sicurezza dei dati e delle informazioni deve rispettare 
+specifiche disposizioni normative, identificare e valutare i possibili 
+Le nostre banche dati  impatti che potrebbero generarsi a fronte di un evento dannoso 
+contengono informazioni su 
+per l’azienda e implementare gli strumenti tecnico-organizzativi a 
+circa 15 milioni di società e 
+mitigazione dei rischi identificati. La tutela e la protezione delle 
+20 milioni di persone fisiche
+informazioni  e  dei  sistemi  informativi,  dunque,  è  perseguibile 
+solo se tutti gli attori coinvolti si attengono alle disposizioni di legge e a quelle interne 
+all'azienda, ispirati a una cultura della sicurezza ben appresa e assimilata.
+Nel corso degli oltre quarant’anni di attività, il Gruppo Cerved ha predisposto delle 
+banche dati contenenti informazioni su circa 15 milioni di società e 20 milioni di 
+persone fisiche. Il patrimonio di dati, caratterizzati da qualità, completezza e profondità 
+storica, ha reso Cerved l’Information Provider di riferimento per oltre trentamila imprese e 
+istituti finanziari. L’aggiornamento e l’arricchimento dei database con nuove informazioni 
+e fonti informatiche rappresenta inoltre una delle attività strategiche del Gruppo e, per 
+tali ragioni, la definizione e la gestione di un Sistema di Gestione della Sicurezza delle 
+Informazioni (SGSI) è una attività di fondamentale importanza per il Gruppo. 
+38

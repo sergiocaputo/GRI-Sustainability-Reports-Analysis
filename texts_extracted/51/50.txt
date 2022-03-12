@@ -1,0 +1,92 @@
+3. Governance del Gruppo Bancario Cooperativo Iccrea
+3.4 Il processo di gestione dei rischi e il Sistema dei Controlli Interni
+AMBITO TEMA  PRINCIPALI RISCHI  PRESIDIO
+MATERIALE ASSOCIATI
+i Tutela della  Violazione  Attualmente ogni società del Gruppo Iccrea, in qualità di Titolare dei trat-
+z
+i privacy  della privacy e  tamenti dei dati, affronta la tematica singolarmente, nel rispetto delle ri-
+v
+r e protezione  della normativa  chieste normative introdotte dal Regolamento UE n. 679/2016, General 
+e
+s dei dati sulla sicurezza  Data Protection Regulation (GDPR), relativo alla protezione delle persone 
+e    informatica con  fisiche con riguardo al trattamento e alla libera circolazione dei dati perso-
+  Cybersecurity  conseguenti  nali. A presidio di tali rischi, la norma di Gestione degli incidenti, che com-
+i
+t
+t (sicurezza  perdite di dati  prenderà anche le violazioni della privacy, è in corso di aggiornamento, alla 
+o
+informatica) e informazioni  luce delle ulteriori produzioni normative in materia.  In ambito ICT Security, 
+d
+o sensibili e carenze  in conformità alle “Politiche di gruppo per la Sicurezza delle Informazioni 
+r nella gestione dei  e classificazione delle informazioni”, approvate dal CdA della capogruppo, 
+p
+  presidi dedicati  la funzione ICT Security ha la responsabilità delle attività operative spe-
+ti, alla protezione e  cialistiche in materia di sicurezza informatica e di gestione del rischio, 
+n
+e corretta gestione  assicurando il presidio delle minacce alla stessa. È stato concluso anche 
+i dei dati e alla  un progetto di rafforzamento del presidio dei rischi informatici, incluso il 
+l
+C
+cybersecurity cyber risk, che prevede la stipula di specifiche polizze assicurative.
+ 
+> Inoltre, nell’ambito del percorso di evoluzione della complessiva Risk 
+ 
+e Governance del Gruppo, è stata prevista l’estensione alle Banche affi-
+al liate del framework di IT Risk Management, identificando i necessari e 
+ci opportuni passaggi evolutivi. In tale contesto, assume rilevanza princi-
+o pale il modulo di IT Risk Self Assessment (IR-SA) il cui modello opera-
+S tivo è stato definito avendo a riferimento le tipiche fasi di un processo 
+di gestione dei rischi: identificazione, valutazione e misurazione, atte-
+nuazione, monitoraggio, gestione e mitigazione dei rischi. Nel dettaglio, 
+l’evoluzione del framework si è sostanziata nella formalizzazione del 
+relativo impianto normativo costituito dai seguenti documenti:
+-  “Politica di Gruppo-Framework di IT Risk Management”, che defini-
+sce, a livello accentrato, i principi e le linee guida del framework di IT 
+Risk Management adottato dal Gruppo Bancario Cooperativo Iccrea, 
+identificando i Ruoli e le Responsabilità degli Organi e delle Funzioni 
+Aziendali cui spetta la relativa implementazione, attuazione e gestio-
+ne; “Politica di gruppo-IT Risk Self Assessment (IR-SA)” e relativo 
+“Allegato 1-Metodologia di IT Risk Self Assessment (IR-SA)”, che de-
+scrivono gli elementi cardine del processo di IT Risk Self Assessment 
+(IR-SA) che è finalizzato a supportare l’auto-valutazione del Rischio 
+Informatico da parte delle strutture delle Società Controllate e delle 
+Banche affiliate, nonché a supportare le attività di identificazione del-
+le relative azioni di mitigazione secondo un approccio metodologico 
+comune e definito. Detto approccio prende in considerazione speci-
+fici scenari di rischio tra i quali scenari di tipo cyber.
+ 
+eo Gestione  Finanziamento/ A presidio dei potenziali impatti, il Gruppo Iccrea ha escluso la possi-
+chnt responsabile  investimento  bilità di finanziare determinati comparti di attività ritenuti “controversi” 
+ie del risparmio  in attività che  come da Codice Etico e da Politica del Credito. Con riferimento ai rischi 
+atm e protezione  presentano  legati al comparto Corporate, il rischio di finanziamento di attività con 
+Pra del cliente criticità ambientali  criticità ambientali e sociali è presidiato dalle normative interne che re-
+ zi (ad es. settori  golamentano le specifiche attività di finanziamento. Nella policy dedi-
+ >n esposti al rischio  cata al credito, sono state identificate quelle attività o settori economici 
+ea
+ln di transizione)  che, pur compresi tra le attività legali, non possono essere oggetto di 
+a
+fi e sociali (ad es.  finanziamento (salvo eventuali deroghe da considerarsi comunque ec-
+i
+c/ settori sensibili alla  cezionali e quanto previsto dalle policy di gruppo pro tempore in vigore) 
+oo
+St normativa in ambito  da parte del Consiglio di Amministrazione delle Società del perimetro 
+n
+Salute e Sicurezza  diretto e delle Banche affiliate ovvero dai Soggetti/Organi deliberativi 
+e
+m sul Lavoro) e/o  Direzionali da questo delegati. 
+i società operanti/ In particolare, si tratta dei settori legati alla costruzione, distribuzione e 
+t
+s operazioni in settori  commercializzazione di armi (con esclusione delle armi destinate alle 
+e controversi (ad  attività sportive o ludiche), apparecchiature e sistemi utilizzabili esclu-
+v
+n es. produzione di  sivamente ai fini bellici, alla costruzione, distribuzione e commercializ-
+ i armamenti, gioco  zazione di apparecchiature per scommesse, video-poker, slot-machi-
+i
+d d’azzardo, tabacco,  nes ecc., all’allestimento e gestione di sale giochi e scommesse e tutti 
+ecc.) i settori attinenti alla pornografia (sexy shop, editoria di settore, ecc.). 
+Eventuali operazioni in deroga verso i settori di cui sopra devono essere 
+accompagnate da adeguate motivazioni, riguardo la loro indispensabile 
+necessità (ad esempio l’importanza dell’iniziativa per il tessuto econo-
+mico, moralità dei soci, attività prevalente dell’impresa rispetto a quella 
+ritenuta non finanziabile ecc.).
+50 PERSONE ECOSISTEMA RESPONSABILITÀ

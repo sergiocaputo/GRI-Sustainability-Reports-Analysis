@@ -1,0 +1,46 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Pagamenti basati su azioni
+Come meglio descritto nella Nota 11 Ulteriori informazioni – Accordi di pagamento basati su azioni, per la valutazione al fair 
+value del “Sistema di Incentivazione a lungo termine 2016-2018 (ILT) – Piano di Phantom Stock”, del ”Sistema di Incentivazione 
+a lungo termine 2017-2019 (ILT) – Piano di Phantom Stock” (entrambi approvati in data 24 maggio 2016 dall’Assemblea degli 
+azionisti di Poste Italiane) e del Piano di incentivazione a breve termine (MBO) per il personale più rilevante del Patrimonio 
+BancoPosta (approvato in data 27 aprile 2017 dall’Assemblea degli azionisti di Poste Italiane) con relativi effetti determinati 
+dalla cessazione del rapporto di lavoro, ci si è basati sulle conclusioni raggiunte da attuari esterni al Gruppo. Le condizioni dei 
+Piani contemplano il verificarsi di taluni eventi futuri quali il raggiungimento di obiettivi di performance, il verificarsi di condizioni 
+cancello e, nell’ambito di determinati settori di attività, il conseguimento di determinati parametri di adeguatezza patrimoniale, 
+di liquidità a breve termine e/o solvibilità in conseguenza dei quali la valutazione delle passività comporta l’assunzione di stime 
+basate sulle correnti conoscenze di fattori che possono modificarsi nel tempo, potendo generare esiti finali anche diversi da 
+quelli tenuti in conto nella redazione dei presenti bilanci.
+2.6 Tecniche di valutazione del fair value
+Il Gruppo Poste Italiane si è dotato di una Policy sul fair value che disciplina i principi e le regole generali che governano il 
+processo di determinazione del fair value ai fini della redazione del Bilancio, ai fini delle valutazioni di risk management e a 
+supporto delle attività condotte sul mercato dalle funzioni di finanza delle diverse entità del Gruppo. I principi generali per la 
+valutazione a fair value degli strumenti finanziari non sono variati rispetto al 31 dicembre 2016 e sono stati individuati nel rispet-
+to delle indicazioni provenienti dai diversi Regulators (bancari ed assicurativi) e dai principi contabili di riferimento, garantendo 
+omogeneità nelle tecniche di valutazione adottate nell’ambito del Gruppo. Le metodologie di dettaglio sono state aggiornate, 
+ove necessario, per tenere conto delle evoluzioni dell’operatività e delle prassi di mercato registrate nel corso dell’esercizio, 
+oltre che delle Linee Guida della gestione finanziaria del Gruppo rivisitate ed approvate dal Consiglio di Amministrazione della 
+Capogruppo nel mese di dicembre 2017. 
+In conformità a quanto indicato dall’IFRS 13 - Valutazione del fair value, di seguito si descrivono le tecniche di valutazione del 
+fair value utilizzate all’interno del Gruppo Poste Italiane.
+Le attività e passività interessate (nello specifico, attività e passività iscritte al fair value e attività e passività iscritte al costo 
+ovvero al costo ammortizzato, per le quali si fornisce il fair value nelle note di bilancio) sono classificate in base ad una scala 
+gerarchica che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni. 
+La scala gerarchica è composta dai 3 livelli di seguito rappresentati.
+Livello 1: appartengono a tale livello le valutazioni di fair value effettuate tramite prezzi quotati (non rettificati) in mercati attivi per 
+attività o passività identiche a cui l’entità può accedere alla data di valutazione. Per il gruppo Poste Italiane rilevano le seguenti 
+categorie di strumenti finanziari: 
+Titoli obbligazionari quotati su mercati attivi:
+Titoli obbligazionari emessi da Enti governativi UE o soggetti non governativi: la valutazione viene effettuata consi-
+derando i prezzi bid secondo un ordine gerarchico che vede in primo luogo il ricorso al mercato MTS (Mercato Telematico 
+dei Titoli di Stato all’ingrosso), quindi al mercato MILA (Milan Stock Exchange), per i titoli obbligazionari indirizzati prevalen-
+temente alla clientela retail e, infine, al CBBT (Bloomberg Composite Price)49;
+Passività finanziarie: la valutazione viene effettuata considerando i prezzi ask rilevati sul mercato CBBT (Bloomberg 
+Composite Price).
+Titoli azionari e ETF (Exchange Traded Fund) quotati in mercati attivi: la valutazione viene effettuata considerando il 
+prezzo derivante dall’ultimo contratto scambiato nella giornata presso la Borsa di riferimento.
+Fondi mobiliari di investimento aperti quotati: la valutazione viene effettuata considerando il prezzo di mercato di chiusura 
+49. Per motivi di ordine tecnico, al 31 dicembre 2017 per la valutazione dei titoli obbligazionari emessi da Enti governativi UE è stato utilizzato tale ultimo riferimento.
+164

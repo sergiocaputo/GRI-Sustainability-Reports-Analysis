@@ -1,0 +1,62 @@
+ 
+ 
+ACQUA GRI 303     
+103  Approccio del management e spiegazione dei temi materiali  3.1  27-28 
+303-1  Prelievo di acqua per fonte  3.5  36-37 
+303-3  Acqua riciclata e riutilizzata  3.5  36-37 
+BIODIVERSITA’ GRI 304     
+304-1  Attività del Gruppo in aree protette  3.6.4  39 
+304-2  Impatti significativi delle attività, dei prodotti e dei servizi sulla biodiversità  3.6.4  39 
+EMISSIONI GRI 305     
+103  Approccio del management e spiegazione dei temi materiali  3.1  27-28 
+305-1  Emissioni dirette (Scope 1)  3.4  34-35 
+305-2  Emissioni indirette (Scope 2)  3.4  34-35 
+SCARICHI E RIFIUTI GRI 306     
+306-1  Acqua totale scaricata per qualità e destinazione  3.5  36-37 
+306-3  Sversamenti significativi  3.5  36-37 
+COMPLIANCE AMBIENTALE GRI 307     
+307-1  Non conformità a leggi e regolamenti in materia ambientale  3.6.3  39 
+VALUTAZIONE AMBIENTALE DEI FORNITORI GRI 308      
+103  Approccio del management e spiegazione dei temi materiali  5.3  53-54 
+308-1  Nuovi fornitori valutati utilizzando criteri ambientali  5.3  53-54 
+OCCUPAZIONE GRI 401     
+103-1  Approccio del management e spiegazione dei temi materiali  4.1  40-47 
+401-1  Ingresso di nuovi dipendenti e turnover   4.1  40-47 
+SALUTE E SICUREZZA DEI LAVORATORI GRI      
+103-1  Approccio del management e spiegazione dei temi materiali  4.3  48-50 
+403-2  Tipologia di infortuni e tasso di infortuni sul lavoro, di malattia, giornate di lavoro perse, assenteismo e numero totale  4.3  48-50 
+dei decessi 
+EDUCAZIONE E FORMAZIONE GRI 404     
+404-1  Ore medie di formazione annuali per lavoratore  4.1  40-47 
+DIVERSITA’ E PARI OPPORTUNITA’ GRI 405     
+103  Approccio del management e spiegazione dei temi materiali  2.4.1;4.2  22-25; 47-48 
+405-1  Diversità degli organi di governo e dei lavoratori  2.4.1;4.2  22-25; 47-48 
+NON DISCRIMINAZIONE GRI 406     
+   
+406-1  Casi di discriminazione e azioni correttive intraprese 
+6.1  57 
+LIBERTA’ DI ASSOCIAZIONE E CONTRATTAZIONE COLLETTIVA GRI 407     
+407-1  Attività del Gruppo dove la libertà di associazione possa essere a rischio   6.2           58 
+LAVORO MINORILE GRI 408     
+408-1  Attività del Gruppo o di fornitori a rischio significativo di casi di lavoro minorile   6.1  57 
+LAVORO FORZATO O COATTO GRI 409     
+409-1  Attività del Gruppo o di fornitori a rischio significativo di casi di lavoro forzato o coatto  6.1  57 
+VALUTAZIONE DEI DIRITTI UMANI GRI 412     
+412-3  Accordi di investimento significativi e contratti che prevedono clausole sui diritti umani o con una valutazione dei  6.1  57 
+diritti umani 
+COMUNITA’ LOCALI GRI 413     
+413-2  Attività del Gruppo con impatto negativo attuale o potenziale sulle comunità locali  6.1  57 
+VALUTAZIONE SOCIALE DEI FORNITORI GRI 414     
+103  Approccio del management e spiegazione dei temi materiali  5.3  53 
+414.1  Nuovi fornitori selezionati utilizzando criteri di natura sociale  5.3  53 
+SALUTE E SICUREZZA DEI CONSUMATORI GRI 416     
+103-1  Approccio del management e spiegazione dei temi materiali  5.2  50-53 
+416-1  Valutazione di impatti in tema di salute e sicurezza dei prodotti e dei servizi offerti per categoria  5.2  50-53 
+416-2  Casi di non conformità relativi a temi di salute e sicurezza di prodotti e servizi  5.2         50-53 
+MARKETING ED ETICHETTATURA GRI 417     
+417-1  Requisiti informativi e di etichettatura di prodotti e servizi  5.2  50-53 
+417-2  Casi di non conformità relativi a temi di etichettatura  5.2  50-53 
+417-3  Casi di non conformità relativi a temi di comunicazioni commerciali  5.2  50-53 
+   
+ 
+63 

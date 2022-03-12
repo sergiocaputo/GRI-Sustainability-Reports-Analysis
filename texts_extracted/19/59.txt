@@ -1,0 +1,42 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2017
+Lo standard di rendicontazione
+Lo standard di rendicontazione adottato dal Gruppo per la redazione della propria DNF sono i GRI Sustainability 
+Reporting Standards, pubblicati nel 2016 dal GRI – Global Reporting Initiative. In particolare, secondo quanto 
+previsto dallo Standard GRI 101: Foundation, paragrafo 3, all’interno di questo documento si è fatto riferimento 
+ai seguenti Reporting Standards (“GRI-referenced”):
+GRI STANDARDS GRI Disclosure Description
+GRI 102 – General Disclosure GRI 102-8 Information on employees and other workers
+GRI 102-15 Key impacts, risks, and opportunities
+GRI 102-18 Governance structure
+GRI 102-41 Collective bargaining agreements
+GRI 102-46 Defining report content and topic Boundaries
+GRI 102-47 List of material topics
+GRI 102-55 GRI Content Index
+GRI 103 – Management Approach  GRI 103-1 Explanation of the material topic and its Boundary
+GRI 103-2 The management approach and its components
+ GRI 204 – Procurement practices GRI 204-1 Proportion of spending on local suppliers
+GRI 205 – Anti-corruption GRI 205-3 Confirmed incidents of corruption and actions taken
+GRI 301 – Materials GRI 301-1 Materials used by weight or volume
+GRI 302 – Energy GRI 302-1 Energy consumption within the organization
+GRI 303 – Water GRI 303-1 Water withdrawal by source
+GRI 305 – Emissions GRI 305-1 Direct (Scope 1) GHG emissions
+GRI 305-2 Energy indirect (Scope 2) GHG emissions
+GRI 306 – Effluents and waste GRI 306-1 Water discharge by quality and destination
+GRI 306-2 Waste by type and disposal method
+GRI 401 – Employment GRI 401-1 New employee hires and employee turnover
+GRI 401-2 Benefits provided to full-time employees that are not provided to 
+temporary or part-time employees
+GRI 403 – Occupational health and  GRI 403-2 Types of injury and rates of injury, occupational diseases, lost days,  
+safety and absenteeism, and number of work-related fatalities
+GRI 404 – Training and education GRI 404-2 Programs for upgrading employee skills and transition  
+assistance programs
+GRI 405 – Diversity and equal  GRI 405-1 Diversity of governance bodies and employees
+opportunity
+GRI 406 – Non-discrimination GRI 406-1 Incidents of discrimination and corrective actions taken
+GRI 408 – Child Labor GRI 408-1 Operations and suppliers at significant risk for incidents of child labor
+GRI 409 – Forced or Compulsory   GRI 409-1 Operations and suppliers at significant risk for incidents  
+Labor of forced or compulsory labor
+GRI 413 – Local Communities GRI 413-1 Operations with local community engagement,  
+impact assessments, and development programs
+GRI 414 – Supplier social assessment GRI 414-2 Negative social impacts in the supply chain and actions taken
+58

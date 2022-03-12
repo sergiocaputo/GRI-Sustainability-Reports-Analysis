@@ -1,0 +1,41 @@
+calcolo 2
+Energia (kWh) + Energia  (kWh)
+termoelettrica  termica
+rendimento   =
+(termoelettrico)
+Energia (kWh) + Energia (kWh)
+gasolio  metano 
+Energia = Energia termica lorda prodotta
+termica 
+Energia  = Energia termoelettrica lorda prodotta
+termoelettrica
+gasolio (l) x 0,835 x PCI (kcal/kg) Energia equivalente al gasolio
+g
+Energia  (kWh) =  consumato (105)
+gasolio
+860 (kcal/kWh)
+metano (Nm3 ) x PCI (kcal/Nm3) Energia equivalente al metano 
+Energia  (kWh) =  m  consumato (103)
+metano
+860 (kcal/kWh)
+PCI = potere calorifico inferiore del gasolio
+g
+PCI  = potere calorifico inferiore del metano
+m
+860 = coefficiente di conversione dell’energia da kcal a kWh
+0,835 = peso specifico gasolio (kg/l)
+NB: i poteri calorifici utilizzati per Acea Produzione sono quelli reali desunti dalle misurazioni dei fornitori di gas e 
+gasolio
+calcolo 3
+ Energia idroelettrica (MWh) x 3,6 x109
+rendimento (idroelettrico) =
+[m(kg) x 9,8 (m/s2) x h(m)] (Joule)
+dove:
+3,6 x 109 = fattore di conversione dell’energia idrica da Joule a MWh
+m = acqua derivata per la produzione idroelettrica
+ 
+9,8 = accelerazione di gravità al livello del mare
+h = altezza di caduta dell’acqua (pelo libero invaso – turbina)
+Energia  = energia prodotta nel ciclo idroelettrico 
+idroelettrica
+BILANCIO AMBIENTALE 261

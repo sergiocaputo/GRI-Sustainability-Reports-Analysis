@@ -1,0 +1,41 @@
+                                                                                                                                     
+Russia 
+                                                                                 31/12/2019                                           31/12/2018                                            31/12/2017 
+                                                                                   Men       Women          Total               Men      Women           Total                  Men     Women            Total 
+Employees                                                                 1                  -                1                     1                 -                 1                        1                -                  1 
+Contractors                                                                -                  -                -                     -                 -                 -                        -                -                  - 
+Professional category                                                     
+Executives                                                                  -                  -                -                     -                 -                 -                        -                -                  - 
+Manager                                                                    1                  -                1                     1                 -                 1                        1                -                  1 
+Employees                                                                 -                  -                -                     -                 -                 -                        -                -                  - 
+Blue collars                                                               -                  -                -                     -                 -                 -                        -                -                  - 
+Age range                                                                                              
+<30                                                                              -                  -                -                     -                 -                 -                        -                -                  - 
+30-50                                                                          1                  -                1                     1                 -                 1                        -                -                  - 
+>50                                                                              -                  -                -                     -                 -                 -                        -                -                  - 
+Type of contract                                                                                     
+Permanent                                                                1                  -                1                     1                 -                 1  
+Temporary                                                                  -                  -                -                     -                 -                 -                        -                -                  - 
+Full-time                                                                    1                  -                1                     1                 -                 1                        -                -                  - 
+Part-time                                                                   -                  -                -                     -                 -                 -                        -                -                  -
+                                                                                            
+Russia 
+                                                                                 31/12/2019                                           31/12/2018 
+                                                                                   Men       Women          Total                Men      Women           Total 
+Executive Manager                                                                                                                                                                  
+<30                                                                              -                  -                -                      -                 -                 - 
+30-50                                                                           -                  -                -                      -                 -                 - 
+>50                                                                              -                  -                -                      -                 -                 - 
+Manager                                                                                                                                                                                     
+<30                                                                              -                  -                -                      -                 -                 - 
+30-50                                                                          1                  -                1                    1                 -                 1 
+>50                                                                              -                  -                -                      -                 -                 - 
+Employees                                                                                                                                                                                 
+<30                                                                              -                  -                -                      -                 -                 - 
+30-50                                                                           -                  -                -                      -                 -                 - 
+>50                                                                              -                  -                -                      -                 -                 - 
+Blue collars                                                                                                                                                                               
+<30                                                                              -                  -                -                      -                 -                 - 
+30-50                                                                           -                  -                -                      -                 -                 - 
+>50                                                                              -                  -                -                      -                 -                 -
+100

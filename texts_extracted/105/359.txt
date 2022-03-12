@@ -1,0 +1,44 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+La sensitività allo spread è calcolata applicando uno shift di +/- 100 bps al fattore di rischio che influenza le diverse tipologie di 
+titoli in portafoglio rappresentato dalla curva dei rendimenti dei titoli governativi italiani. 
+Di seguito, l’esito dell’analisi di sensitività al rischio Paese, effettuata al 31 dicembre 2017 limitatamente, per rilevanza, alle 
+posizioni della Capogruppo e del Gruppo Poste Vita.
+Poste Italiane S.p.A. - Rischio spread su fair value
+Esposizione   Delta   Risultato prima   Riserve di Patrimonio 
+al rischio valore delle imposte netto al lordo delle 
+imposte
+Descrizione
+(milioni di euro) Nominale Fair value +100bps -100bps +100bps -100bps +100bps -100bps
+Effetti 2017
+Attività finanziarie BancoPosta 
+Investimenti disponibili per la vendita 35.738  39.099  (3.877) 4.606  -    -    (3.877) 4.606 
+Titoli a reddito fisso 35.738  39.099  (3.877) 4.606  -    -    (3.877) 4.606 
+Strumenti finanziari derivati -    -    -    -    -    -    -    -   
+Cash flow hedge -    -    -    -    -    -    -    -   
+Attività finanziarie 
+Investimenti disponibili per la vendita 500  551  (16) 17  -    -    (16) 17 
+Titoli a reddito fisso 500  551  (16) 17  -    -    (16) 17 
+Passività finanziarie BancoPosta
+Strumenti finanziari derivati 1.408  (23) 92  (98) -    -    92  (98)
+Cash flow hedge 1.408  (23) 92  (98) -    -    92  (98)
+Variabilità al  
+37.646  39.627  (3.801) 4.525  -    -    (3.801) 4.525 
+31 dicembre 2017
+Effetti 2016
+Attività finanziarie BancoPosta 
+Investimenti disponibili per la vendita 32.178  37.159  (3.615) 4.292  -    -    (3.615) 4.292 
+Titoli a reddito fisso 32.178  37.159  (3.615) 4.292  -    -    (3.615) 4.292 
+Strumenti finanziari derivati 200  6  (28) 33  -    -    (28) 33 
+Cash flow hedge 200  6  (28) 33  -    -    (28) 33 
+Attività finanziarie 
+Investimenti disponibili per la vendita 500  562  (21) 22  -    -    (21) 22 
+Titoli a reddito fisso 500  562  (21) 22  -    -    (21) 22 
+Passività finanziarie BancoPosta
+Strumenti finanziari derivati 200  (3) (26) 31  -    -    (26) 31 
+Cash flow hedge 200  (3) (26) 31  -    -    (26) 31 
+Variabilità al  
+33.078  37.724  (3.690) 4.378  -    -    (3.690) 4.378 
+31 dicembre 2016
+358

@@ -1,0 +1,57 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+CNR), the Sant’Anna School of Advanced Studies Pisa (SSSA), Bari Polytechnic, Bari University, Basilicata University 
+and Salento University. In 2019, research projects focused on 5G and the development of new use scenarios in 
+numerous applications developed from trials (such as Sanità 5.0 (Health 5.0), Public Safety, Smart Agriculture, 
+Environmental Monitoring and Smart City). One of the projects was dedicated to assessing the socio/economic 
+impacts related to trialing 5G;  
+•  the partnership with the Milan State University continued, with the funding of two research PHDs, and the stipulation 
+of a three-year agreement, based on which a research project was started in 2019 for the development of a “family 
+activity recognition” module, starting from data obtained from sensors, providing service and content suggestions for 
+family members via a digital family assistant. The partnership is part of the initiatives of the Open Innovation 
+laboratory “Joint Open Lab” (JOL) of TIM Innovation, Milan; 
+•  an agreement was established with Turin University, under which a study and research project was started on "smart 
+conversational systems", targeted at a better and more effective man/machine interaction;   
+•  activities with Catania University continued, as part of the Catania “Joint Open Lab (JoL)”, with TIM Innovation 
+focusing on acceleration towards a market finalization of the entire IoT ecosystem and 5G development activities. 
+ 
+[GRI 103-3: Management Approach] [GRI 203] Funded research activity 
+TIM has always been active in innovative and research initiatives funded by the European Union and by national public 
+administrations. This has enabled it to take part in international projects on issues that TIM should have developed, with 
+a high innovation content, to extend and consolidate its own know-how in sectors featuring rapid technological 
+developments and to work with leading research centers, academic institutions and industries of leading European 
+countries, as well as Taiwan and Japan; participation in projects made it possible to obtain funding of around 16 million 
+euros over the 2017-2019 period. In this area, it has been involved in activities carried out as part of funded projects 
+concerning 5G, visualization and intelligent mobility services, furthering its expertise and gaining a prominent position in 
+the international sphere.  
+ 
+[GRI 103-3: Management Approach] [GRI 203] Patents and Intellectual Property Rights1 
+In 2019, the Group's patents portfolio was comparable with that of previous years; in fact, there was a slight increase in 
+inventions evaluated for patenting, and a slight decrease in new patent filings. Moreover, activities to streamline the 
+patents portfolio resulted in some patents being abandoned, which, with technological developments, did not have any 
+possibility of still being used. The Group's patent areas concern the entire ICT segment, with areas of excellence in the 
+mobile segment, particularly concerning radio access, where TIM is one of the leading TLC operators worldwide.  
+In detail, the TIM patents portfolio, relative to approximately 600 patented inventions, included over 3,300 patent 
+applications and patents as of December 31, 2019, of which 88% comprising patents (granted by 38 patent offices). 
+A significant aspect of patent activities refers to the high number of patents stemming from partnerships with Universities 
+and research institutes: 12 % of patented inventions are the result of these partnerships. 
+Moreover, TIM is part of a patent pool2 on Long Term Evolution, with a patented invention essential for the standard. The 
+patent pool acquired new participants during the year (bringing the current total to 25 license-holders) and granted 
+licenses to 48 companies.  
+ 
+ 
+In Brazil  
+[GRI 103-1: Management Approach] [GRI 203] [GRI 103-2: Management Approach] [GRI 203] The “Architecture & 
+Innovation Technology” department3 is responsible for Research and Development (R&D) activities of TIM Participações; 
+its main responsibilities are defining the technological innovation of the network and information technologies, 
+determining the evolutionary needs for new technologies and devices, converging architectural guidelines and strategic 
+partnerships, so as to exploit new business models and guarantee the evolution of the network infrastructure in line with 
+the business strategy.  
+In  December  2019,  the  Architecture  &  Innovation  Technology  function  comprised  52  people  including 
+telecommunications, electrical, electronic and IT engineers and other positions with professional profiles, skills and 
+                                                                 
+1 Intellectual property rights. 
+2 This is a consortium of at least two companies that agree to exchange patent licenses relative to a given technology. 
+3 Innovation Architecture and Technology, in the context of the Chief Technology and Information Office (CTIO). 
+77 
+ 

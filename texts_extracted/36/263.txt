@@ -1,0 +1,68 @@
+Table A - Financial indicators (1) Green Bond 2018 
+Renewable projects + Refinancing
+Country Project  Technology Status  Capacity Commercial  Investment GB  GB 
+name (MW) operation  (value in currency) proceeds  proceeds 
+date allocated   allocated  
+Value in  Equivalent in in 2018   in 2019  
+Currency  currency euro (mil) (1) (mil euros) (mil euros) (2)
+(mil)
+Diamond 
+USA Wind In Operation 300  dec-18 USD 400  336  100  -
+Vista
+Fenner 
+USA Wind In Operation 29  dec-18 USD 29  24  21  -
+Repowering
+High 
+USA Wind In Operation 501  dec-18 USD 720  595  81  75 
+Lonesome
+Under 
+USA Roadrunner Solar 497  jun-20 USD 436  366  30  141 
+Construction
+GERMANY Cremzow Other In Operation 22  feb-19 USD 17  17  9  -
+GREECE Kafireas Wind In Operation 154  oct-19 USD 300  300  64  126 
+COLOMBIA El Paso Solar In Operation 86  oct-19 USD 70  59  54  -
+USA Aurora Solar In Operation 150  jun-17 USD 290  244  181  -
+USA Little Elk Wind In Operation 74  dec-15 USD 130  107  5  -
+Chisholm 
+USA Wind In Operation 65  dec-16 USD 90  76  29  -
+View II
+Total 575 342.5
+n.a. not applicable               
+(1) Indicative value in euros (EUR), although the investment in US dollars (USD) applies where present. The exchange rate used for projects allocated in the 2017 green 
+bond is 1.11 USD/EUR, for projects allocated in the 2018 green bond is 1.19 USD/EUR whereas for projects whose investment value has been updated − including 
+those with the new Capex identified in GB 2019 − the exchange rate is 1.21.
+(2) Additional proceeds were allocated for some renewable projects that were already identified in the 2017 and 2018 Green Bond, for which new capitalized costs emerged. 
+             
+Green Bond 2018 
+Table B - ESG indicators
+Renewable projects + Refinancing
+Country  Project 2019  CO  2018  2018 and  2019  2019 CO  Expected  Expected CO  Expected  Expected 
+2 2 2
+name production avoided and 2019  2019 CO  production  avoided  annual  avoided (t) annual  CO 
+2 2
+(GWh) (1) 2019 (t) production  avoided (t) attributable attributable  production  production  avoided 
+(GWh) to GB  to GB (t) (GWh) (2) attributable attributable 
+(GWh) to GB (GWh) to GB (t)
+USA Diamond Vista  1,103   727,809  1,103   727,809  - - - - - -
+Fenner 
+USA  n.a.   n.a.   n.a.   n.a.  n.a.   n.a.   n.a.   n.a.   n.a.   n.a. 
+Repowering (3)
+USA High Lonesome  -  -  -  -  -  - 1,602 1,056,992 203 133,758
+USA Roadrunner - - - - - -  1,154   761,684   446   294,060 
+GERMANY Cremzow  n.a.   n.a.   n.a.   n.a.   n.a.   n.a.   n.a.   n.a.   n.a.   n.a. 
+GREECE Kafireas - - - - - -  483  374,311  203  157,086
+COLOMBIA El Paso - - - - - -  176  98,800  n.a.   n.a. 
+USA Aurora  172   113,450   361   241,111  - - - - - -
+USA Little Elk  337   222,114   670   447,538  - - - - - -
+Chisholm 
+USA  212   140,050   442   295,659  - - - - - -
+View II
+n.a. not applicable                     
+(1) For projects entered into operation by September 30, 2019, the actual production data are reported and consequently the amount of CO avoided.    
+2
+(2)  For projects entered into operation after September 30, 2019 or which have not yet entered into operation, the expected annual production data and the expected 
+amount of CO avoided are reported.                      
+2
+(3)  The share of production for only repowering cannot be separated from the rest of the plant because it is not possible to precisely determine the share of energy fed 
+to the network only due to the increase in power.                 
+226622 SSuussttaaiinnaabbiilliittyy  RReeppoorrtt  22001199

@@ -1,0 +1,41 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Metodi di consolidamento
+Le partecipazioni controllate sono consolidate con il metodo integrale mentre 
+la partecipazione nella società collegata è valutata in base al metodo del 
+patrimonio netto.
+Consolidamento integrale
+Il consolidamento integrale consiste nell’acquisizione “linea per linea” degli 
+aggregati di stato patrimoniale e di conto economico delle società controllate. 
+Dopo l’attribuzione ai terzi, in voce propria, delle quote di loro pertinenza 
+del patrimonio e del risultato economico, il valore della partecipazione viene 
+annullato in contropartita al valore residuo del patrimonio della controllata.
+Le differenze risultanti da questa operazione, se positive, sono rilevate - dopo 
+l’eventuale imputazione a elementi dell’attivo o del passivo della controllata 
+- come avviamento nella voce Attività immateriali alla data di primo 
+consolidamento e, successivamente, tra le Altre riserve. Le differenze negative 
+sono imputate al conto economico.
+Le attività, passività, proventi ed oneri tra imprese consolidate vengono 
+integralmente eliminati.
+Le aggregazioni aziendali sono contabilizzate usando il metodo dell’acquisto.
+L’avviamento acquisito in una aggregazione aziendale è inizialmente misurato 
+al costo rappresentato dall’eccedenza del costo dell’aggregazione aziendale 
+(consideration) rispetto alla quota di pertinenza del Gruppo del valore equo 
+netto delle attività, passività e passività potenziali identificabili (dell’acquisita).
+La consideration include gli elementi monetari che esprimono il fair value della 
+partecipazione/business alla data di acquisto del controllo. La consideration 
+può anche includere una componente legata a eventi e circostanze che 
+si potranno verificare in futuro (contingent consideration). Le contingent 
+consideration normalmente sono rappresentative di un’obbligazione 
+dell’acquirente di trasferire ulteriori attività (disponibilità liquide) come 
+componente del prezzo per il controllo se specifici eventi futuri o condizioni 
+saranno rispettate. Le contingent consideration sono valutate al fair value 
+alla data di acquisizione del controllo e possono essere modificate sulla base 
+di informazioni addizionali relative a fatti e circostanze che esistevano alla 
+data di acquisto e che risultano note entro un anno da tale data (Purchase 
+Price Allocation). Per contro, le modifiche delle contingent consideration 
+identificate in periodi successivi o le modifiche che non dipendono da fatti e 
+circostanze già in essere alla data di acquisto non modificano la misurazione 
+della contingent consideration stessa. La contropartita della contingent 
+consideration può essere rappresentata da un debito o da una posta di 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 122

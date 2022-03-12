@@ -1,0 +1,34 @@
+9.3 Criteri di redazione dei prospetti contabili riesposti e riclassiﬁ cati - 9. Allegati
+Prospetti di raccordo tra schemi ufﬁ ciali e schemi riesposti
+Raccordo tra stato patrimoniale consolidato pubblicato al 31 dicembre 2018 e stato 
+patrimoniale consolidato riesposto al 1° gennaio 2019
+(milioni di euro)
+STATO  EFFETTO DI  STATO 
+PATRIMONIALE  TRANSIZIONE  PATRIMONIALE 
+PUBBLICATO AL  ALL’IFRS16 RIESPOSTO AL 
+31 DICEMBRE 2018 1° GENNAIO 2019
+VOCI DELL’ATTIVO
+10.  Cassa e disponibilità liquide 310 - 310
+20.  Attività ﬁ nanziarie valutate al fair value con impatto a conto economico 294 - 294
+    a) attività ﬁ nanziarie detenute per la negoziazione 27 - 27
+    b) attività ﬁ nanziarie designate al fair value - - -
+    c) altre attività ﬁ nanziarie obbligatoriamente valutate al fair value 267 - 267
+30.  Attività ﬁ nanziarie valutate al fair value con impatto sulla redditività complessiva 3.294 - 3.294
+40.  Attività ﬁ nanziarie valutate al costo ammortizzato 35.131 - 35.131
+    a) crediti verso banche 23.065 - 23.065
+    b) crediti verso clientela 12.066 - 12.066
+50.  Derivati di copertura - - -
+60.  Adeguamento di valore delle attività ﬁ nanziarie oggetto di copertura generica (+\-) 1 - 1
+70.  Partecipazioni 151 - 151
+80.  Riserve tecniche a carico dei riassicuratori - - -
+90.  Attività materiali 83 267 350
+100. Attività immateriali  226 - 226
+    di cui: avviamento 140 - 140
+110. Attività ﬁ scali 198 - 198
+    a) correnti 42 - 42
+    b) anticipate 156 - 156
+120. Attività non correnti e gruppi di attività in via di dismissione 12 - 12
+130. Altre attività 1.065 - 1.065
+TOTALE DELL'ATTIVO 40.765 267 41.032
+     
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 405

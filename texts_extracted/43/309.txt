@@ -1,0 +1,38 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+7.  Passività ﬁ nanziarie oggetto di compensazione in bilancio, oppure soggette ad 
+accordi-quadro di compensazione o ad accordi similari
+AMMONTARE  AMMONTARE AMMONTARE NETTO  AMMONTARI CORRELATI AMMONTARE  AMMONTARE 
+LORDO DELLE  DELLE ATTIVITÀ  DELLE PASSIVITÀ  NON OGGETTO DI  NETTO  NETTO 
+PASSIVITÀ  FINANZIARIE  FINANZIARIE COMPENSAZIONE IN BILANCIO 31.12.2019 31.12.2018
+FINANZIARIE COMPENSATO IN  RIPORTATO IN 
+BILANCIO BILANCIO
+STRUMENTI  DEPOSITI DI 
+FINANZIARI CONTANTE 
+POSTI A 
+GARANZIA
+1. Derivati 933 - 933 121 810 2 (2)
+2. Pronti contro termine 527 - 527 527 - - -
+3. Prestito titoli - - - - - - -
+4. Altre operazioni - - - - - - -
+TOTALE 31.12.2019 1.460 - 1.460 648 810 2 X
+TOTALE 31.12.2018 1.469 - 1.469 783 688 X (2)
+Il Gruppo subordina l’operatività in derivati non quotati (OTC) e la maggior parte dell’operatività in repurchase e reverse-repurchase agreement alla stipula, rispettivamente, degli accordi 
+quadro di compensazione su derivati (ISDA Master Agreement) e degli accordi che regolano le operazioni di pronti contro termine che rispettano gli standard internazionali (Global Master 
+Repurchase Agreement - GMRA).
+Tali accordi consentono di ridurre il rischio di controparte in virtù delle cosiddette clausole di “close-out netting” (o “clausole di interruzione dei rapporti e regolamento del saldo netto”).
+In base a tali clausole, al veriﬁ carsi di determinati eventi di risoluzione, tra i quali ﬁ gura l’inadempimento del contratto, il venir meno delle garanzie e l’intervenuta insolvenza di una delle 
+parti, le obbligazioni contrattuali derivanti dalle singole operazioni sono estinte e sostituite da un’unica obbligazione di pagamento - a favore della parte creditrice - della somma netta globale 
+risultante dalla compensazione dei valori correnti di mercato delle obbligazioni preesistenti, ad estinzione dei reciproci rapporti.
+Il Gruppo stipula accordi di garanzia ﬁ nanziaria secondo lo standard ISDA di Credit Support Annex (CSA) per i derivati OTC e del GMRA per l’operatività in repurchase e reverse-repurchase 
+agreement, che prevedono lo scambio bilaterale di garanzie reali sotto forma di denaro contante e/o di titoli governativi. Conformemente ai termini previsti dal CSA e dal GMRA, il Gruppo 
+può disporre, anche mediante alienazione e cessione in garanzia a terzi, delle attività ricevute in garanzia.
+Per quanto riguarda i criteri di valutazione delle attività e passività ﬁ nanziarie riportate nelle precedenti tabelle, si rimanda alla Parte A - Politiche Contabili. 
+Nella tabella 7 sono inclusi i derivati ﬁ nanziari soggetti ad accordi di compensazione iscritti nell’attivo di stato patrimoniale nonché i pronti contro termine rilevati nei crediti verso banche e nei 
+crediti verso clientela soggetti ad accordi di compensazione.
+Nella tabella 8 sono inclusi i derivati ﬁ nanziari iscritti nel passivo di stato patrimoniale nonché i pronti contro termine rilevati nei debiti verso banche soggetti ad accordi di compensazione.
+8. Operazioni di prestito titoli
+Si segnala la presenza del servizio bancario accessorio di pre- tratto comporta il trasferimento della proprietà di un certo 
+stito titoli offerto prevalentemente da Intesa Sanpaolo Private  quantitativo di titoli di una data specie con l’obbligo di resti-
+Banking e da Fideuram Bank Luxembourg alla clientela (per- tuirli, a fronte di un corrispettivo a titolo di remunerazione per 
+sone ﬁ siche, persone giuridiche ed enti commerciali). Il con- la disponibilità degli stessi. 
+306 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

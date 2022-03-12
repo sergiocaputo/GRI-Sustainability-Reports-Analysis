@@ -1,0 +1,63 @@
+Profilo del  Diritti  Organi di 
+Corruzione Persone Ambiente Sociale
+Gruppo Umani Governo
+ 
+Consumo totale di energia (uffici e 
+siti produttivi) (Gj)28  2018  2017  Trend (2018/2017) 
+Italia  34.081,67  32.651,95  +4% 
+Consumo di combustibili o fonti primarie  15.833,34  16.251,80  -3% 
+Consumo di energia elettrica  18.248,33  16.400,15  +11% 
+       
+Germania  2.018,841  1.613,47  +25% 
+Consumo di combustibili o fonti primarie  1.453,47  1.136,37  +28% 
+Consumo di energia elettrica  565,38  477,11  +19% 
+       
+Cina  137,59  133,63  +3% 
+Consumo di combustibili o fonti primarie  -  -  - 
+Consumo di energia elettrica  137,59  133,63  +3% 
+       
+USA  212,62  -  - 
+Consumo di combustibili o fonti primarie  -  -  - 
+Consumo di energia elettrica  212,62  -  - 
+       
+TOTALE  36.450,73  34.399,06  +6% 
+Consumo di combustibili o fonti primarie  17.286,80  17.388,17  -1% 
+Consumo di energia elettrica  19.163,92  17.010,89  +13% 
+NOTA: i dati relativi ai consumi energetici di Pininfarina of America Corp. (USA) sono stimati sulla media dei 
+consumi di un ufficio negli Stati Uniti.  
+ 
+4.3.2. Emissioni in atmosfera e iniziative correttive 
+Il Gruppo Pininfarina monitora costantemente le emissioni dirette ed indirette causate dai propri consumi 
+energetici. Inoltre in Italia, per via dei laboratori prototipi, Pininfarina S.p.A. monitora bimestralmente le emissioni 
+dei fumi per stimare l’impatto delle sostanze nocive rilasciate in atmosfera. 
+ 
+2017 2018
+In  totale  le  emissioni  di  gas  serra  generate  dalle  attività  di 
+Pininfarina nel 2018 sono state quantificate in 2.749 tonnellate di 
+CO , di cui: 
+2
+32%
+38%
+— il 32% sono emissioni dirette (cosiddetto “Scope 1”), per un 
+ammontare pari 889,61 t CO  originate dai consumi di gas 
+2
+62%
+naturale (es, carburante per il riscaldamento) e dai consumi  68%
+di carburante dei veicoli di proprietà aziendale; 
+— il 68% sono emissioni indirette (cosiddetto “Scope 2”), per un 
+ammontare pari a 1.859,38 t CO  originate dai consumi di  Emissione dirette (Scope 1) 
+2
+elettricità da fonti non rinnovabili, acquistata sul mercato 
+Emissioni  indirette  (Scope 
+Le emissioni dirette sono rimaste sostanzialmente invariate nel totale, co2n)  un leggero calo dei consumi dagli 
+impianti di riscaldamento che compensano l’aumento di emissioni prodotte da veicoli di proprietà dell’azienda. 
+Sono invece aumentati i consumi elettrici sia per Italia (dovuti ad un maggiore utilizzo degli impianti) sia per la 
+Germania. 
+Per la metodologia utilizzata per quantificare le emissioni di CO  in atmosfera si faccia riferimento al paragrafo 
+2
+8.1.2. 
+Emissioni dirette (Scope 1)29 
+                                                           
+28 GRI 302-1: Consumi di combustibile, energia elettrica e energia termica per il funzionamento degli uffici e delle strutture suddivisi tra rinnovabili/non-rinnovabili. 
+29 
+ 

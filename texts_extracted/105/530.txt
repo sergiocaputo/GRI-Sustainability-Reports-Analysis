@@ -1,0 +1,37 @@
+Indice generale Indice di sezione Sezione 12
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte E
+Sezione 4 – Rischi operativi
+Informazioni di natura qualitativa
+A. Aspetti generali, processi di gestione e metodi di misurazione del 
+rischio operativo
+È definibile come il rischio di subire perdite derivanti dall’inadeguatezza o dalla disfunzione di procedure, risorse umane e siste-
+mi interni, oppure da eventi esogeni. Rientrano in tale tipologia, tra l’altro, le perdite derivanti da frodi, errori umani, interruzioni 
+dell’operatività, indisponibilità dei sistemi, inadempienze contrattuali, catastrofi naturali. Nel rischio operativo è compreso il 
+rischio legale, mentre non sono inclusi quelli strategici e di reputazione.
+Per far fronte a tale tipologia di rischio, il Patrimonio BancoPosta ha formalizzato un framework metodologico e organizzativo 
+per l’identificazione, la misurazione e la gestione del rischio operativo connesso ai propri prodotti/processi.
+Il framework descritto, basato su un modello di misurazione integrato (quali/quantitativo), ha consentito, nel tempo, il monito-
+raggio della rischiosità finalizzato a una sua sempre più consapevole gestione.
+Nel corso del 2017 sono stati avviati una serie di cantieri per l’affinamento del framework di gestione dei rischi operativi volti 
+all’efficientamento dei processi di raccolta delle perdite operative e alla mitigazione dei rischi, mediante la creazione di gruppi 
+di lavoro interfunzionali. Sono state inoltre supportate le unità specialistiche e l’utente responsabile del processo di analisi e 
+valutazione del rischio informatico, in continuità con quanto già fatto nel corso del 2016.
+Informazioni di natura quantitativa
+Alla data del 31 dicembre 2017 gli esiti della mappatura dei rischi condotta secondo il citato framework evidenziano a quali 
+tipologie di rischio operativo i prodotti del Patrimonio BancoPosta risultano esposti; in particolare:
+Rischio operativo
+Tipologia Evento (Event Type) N. tipologie di rischio
+Frode interna 35
+Frode esterna 54
+Rapporto di impiego e di sicurezza sul lavoro 7
+Clientela, prodotti e prassi operative 34
+Danni da eventi esterni 4
+Interruzioni dell'operatività e disfunzioni dei sistemi 7
+Esecuzione, gestione e consegna del processo 140
+Totale al 31 dicembre 2017 281 
+Per le tipologie mappate, sono state raccolte e classificate le relative fonti di rischio (perdite interne, perdite esterne, analisi di 
+scenario e indicatori di rischio) al fine di costituire l’input completo per il modello di misurazione integrata.
+L’attività di misurazione sistematica dei rischi mappati ha consentito la prioritizzazione degli interventi di mitigazione e la relativa 
+attribuzione al fine di contenerne gli impatti prospettici.
+529

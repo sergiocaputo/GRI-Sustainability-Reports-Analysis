@@ -1,0 +1,56 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+[GRI 203-1] [GRI 203-2] The following table shows the percentages of coverage as of December for the past three years. 
+ 
+Indicators  2019  2018  2017 
+LTE Coverage (*)  >99  99  >97.5 
+Next Generation Plan coverage (fixed 
+80.5  79.8  77.0 
+telephony) FTTX (**) 
+of which FTTH  16.2  13.7  9.2 
+ 
+(*)  The percentage refers to the residential population. Coverage values are subject to change based on ISTAT and urbanization updates. At the 
+end of December 2019, the number of municipalities reached was 7,611. 
+(**) FTTX stands for Fibre To The X, where X can be C for cabinet, H for house, B for building or E for exchange. The percentage is determined by 
+the ratio between the number of properties connected with “cabinets” reached by access optical fibers (or which can be served directly from 
+an exchange if within acceptable distances) and the total number of properties that have or have had active telephone lines in the past 
+(includes a small percentage of FTTH related only to the city of Milan). 
+ 
+[GRI 103-3: Management Approach] [GRI 203] [GRI 203-1] [GRI 203-2] At the end of December 2019, TIM’s FTTX ultra-
+broadband network covered:  
+•  2,945 municipalities, with FTTC fibre technology service; 
+•  124 municipalities, also with FTTH fibre technology service. 
+ 
+[GRI 103-2: Management Approach] [GRI 203] [GRI 203-1] [GRI 203-2] The principal objectives to increase Italian 
+geographical digital inclusion, for 2022, are shown in the following table.  
+ 
+ 
+Indicator  Unit of measurement 
+Target 2022 
+ 
+Next Generation Plan coverage (fixed telephony) FTTC  %  81% 
+Next Generation Plan coverage (fixed telephony) FTTH   %  30% 
+ 
+In the closing phase of this report, TIM SpA is defining the coverage objectives of 5G technology in the coming years; 
+these objectives will be communicated at a later date. 
+ 
+[GRI 103-1: Management Approach] [GRI 203] A focus on innovation and investments in new infrastructure and 
+technologies also characterizes TIM’s action in Brazil. The development of fixed and mobile Ultrabroadband (UBB) 
+networks on the one hand and 5G on the other have led to an unprecedented acceleration in the telecommunications 
+sector. This is a phenomenon that is opening up new possibilities, and that is profoundly changing people's habits, as they 
+become increasingly accustomed to living in a smart and connected world.  
+ 
+[GRI 103-2: Management Approach] [GRI 203] TIM has invested nearly 5.4 billion euros in Brazil over the last 5 years, with 
+a focus mainly on new generation infrastructure construction and actively contributing to the modernization of the 
+country. 
+ 
+[GRI 203-1] In order to improve the reach and accessibility of TIM Participações mobile broadband, and as part of the 
+technological evolution outlined in the most recent Industrial Plan presented to the financial community, 4G coverage is 
+set to be extended (compared to the LTE1 700 MHz bandwidth), with the expansion of VoLTE2, an increase in the number 
+of bio-sites installed, and support for the launch of the fiber-optic network alongside the ultra-broadband plan.  
+ 
+                                                                 
+1 Long Term Evolution. 
+2 VoLTE (Voice over LTE) is a technology that allows you to make voice calls on the LTE (4G) network. 
+84 
+ 

@@ -1,0 +1,38 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+A.1.6 Esposizioni creditizie per cassa e fuori bilancio verso clientela: valori lordi, 
+netti e fasce di scaduto
+Esposizione lorda Rettifiche  Rettifiche  Esposizione 
+di valore  di valore di  netta
+Attività deteriorate Attività 
+specifiche portafoglio
+non 
+Fino a  Da oltre  Da oltre  Oltre 1  deteriorate
+3 mesi 3 mesi  6 mesi  anno
+Tipologie esposizioni/valori fino a  6  fino a 1 
+(milioni di euro) mesi anno
+A. Esposizioni per cassa
+a) Sofferenze -    -    -    -    X -    X -   
+-  di cui: esposizioni oggetto di concessioni -    -    -    -    X -    X -   
+b) Inadempienze probabili -    -    -    -    X -    X -   
+-  di cui: esposizioni oggetto di concessioni -    -    -    -    X -    X -   
+c)  Esposizioni scadute deteriorate -    -    -    -    X -    X -   
+-  di cui: esposizioni oggetto  di concessioni -    -    -    -    X -    X -   
+d)  Esposizioni scadute non deteriorate X X X X -    X -    -   
+-  di cui: esposizioni oggetto di concessioni X X X X -    X -    -   
+e)  Altre esposizioni non deteriorate X X X X 60.139  X 177  59.962 
+-  di cui: esposizioni oggetto di concessioni X X X X -    X -    -   
+TOTALE A -    -    -    -    60.139  -    177  59.962 
+B. Esposizioni fuori bilancio
+a) Deteriorate  -    -    -    -    X -    X -   
+b) Non deteriorate X X X X 25  X -    25 
+TOTALE B -    -    -    -    25  -    -    25 
+TOTALE A+B  -     -     -     -     60.164  -    177  59.987 
+Le esposizioni fuori bilancio “Non deteriorate” riguardano il rischio di controparte connesso alle operazioni in derivati con fair 
+value positivo al netto degli accordi di compensazione e a operazioni di Pronti contro termine passive con margini rientranti 
+nella nozione di “Operazioni SFT” (Securities Financing Transactions).
+A.1.7/ A.1.8 Esposizioni creditizie per cassa verso clientela: dinamica delle 
+esposizioni deteriorate lorde e delle rettifiche di valore complessive
+Nil.
+494

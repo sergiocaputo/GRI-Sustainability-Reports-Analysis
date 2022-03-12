@@ -1,0 +1,36 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalità di presentazione dei bilanci, metodologie e principi contabili applicati 
+Imposte differite attive
+La contabilizzazione delle Imposte differite attive è effettuata sulla base delle aspettative di reddito negli esercizi futuri. La valu-
+tazione dei redditi attesi ai fini della contabilizzazione delle imposte differite dipende da fattori che possono variare nel tempo e 
+determinare effetti significativi sulla valutazione di tale posta di bilancio.
+Fondo svalutazione crediti
+Il Fondo svalutazione crediti riflette le stime relative alle perdite sul portafoglio crediti avendo comunque riguardo, per specifiche 
+partite verso la Pubblica Amministrazione, a provvedimenti legislativi restrittivi della spesa pubblica. Gli accantonamenti per le 
+perdite attese esprimono la stima della rischiosità creditizia che scaturisce dall’esperienza passata per crediti simili, dall’analisi 
+di scaduti (correnti e storici), perdite e incassi, e infine dal monitoraggio dell’andamento delle condizioni economiche correnti 
+e prospettiche dei mercati di riferimento. Gli accantonamenti netti al fondo svalutazione sono rilevati nel Conto economico alla 
+voce Altri costi e oneri, ovvero, se riferiti a crediti maturati nell’esercizio, mediante la sospensione dei ricavi interessati.
+Fair value strumenti finanziari non quotati
+In assenza di un mercato attivo, il fair value degli strumenti finanziari è determinato in base ad elaborazioni interne ovvero a 
+valutazioni tecniche di operatori esterni che consentono di stimare il prezzo al quale lo strumento potrebbe essere negozia-
+to alla data di valutazione in uno scambio indipendente. Vengono utilizzati modelli di valutazione basati prevalentemente su 
+variabili finanziarie desunte dal mercato, tenendo conto, ove possibile, dei valori di mercato di altri strumenti sostanzialmente 
+assimilabili, nonché dell’eventuale rischio di credito.
+Riserve tecniche assicurative
+La valutazione delle Riserve tecniche assicurative è basata su conclusioni raggiunte da attuari interni alla compagnia Poste 
+Vita S.p.A. dipendenti da diverse e rilevanti assunzioni ed ipotesi di natura tecnica, attuariale, demografica, finanziaria, nonché 
+dalle previsioni dei flussi di cassa futuri rinvenienti dai contratti di assicurazione stipulati da Poste Vita e Poste Assicura e in 
+essere alla data di chiusura dell’esercizio. Al fine di verificare la congruità delle riserve tecniche è periodicamente eseguito il 
+Liability Adequacy Test (cd. “LAT”), per misurare la capacità dei futuri flussi finanziari derivanti dai contratti assicurativi di copri-
+re le passività nei confronti dell’assicurato. Il test LAT è condotto prendendo in considerazione il valore attuale dei cash flow 
+futuri, ottenuti proiettando i flussi di cassa attesi generati dal portafoglio in essere alla data di chiusura dell’esercizio sulla base 
+di appropriate ipotesi sulle cause di decadenza (mortalità, rescissione, riscatto, riduzione) e sull’andamento delle spese. Se 
+necessario, le riserve tecniche vengono adeguate e il relativo ammontare è imputato al Conto economico.
+Trattamento di fine rapporto
+La valutazione del Trattamento di fine rapporto è basata anche su conclusioni raggiunte da attuari esterni al Gruppo. Il calcolo 
+tiene conto del TFR maturato per prestazioni di lavoro già effettuate ed è basato su diverse ipotesi di tipo sia demografico sia 
+economico-finanziario. Tali assunzioni, fondate anche sull’esperienza di ciascuna azienda del Gruppo e della best practice di 
+riferimento, sono soggette a periodiche revisioni. 
+163

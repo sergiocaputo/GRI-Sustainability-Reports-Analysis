@@ -1,0 +1,38 @@
+Bilancio Individuale 2017
+(cid:3)
+Società Veicolo  Adriatico Finance SME Srl  
+Tipologia operazione  Cartolarizzazione 
+Originator  Banca Tercas 
+Servicer  Terfinance 
+Arranger  HSBC BANK Plc 
+Computation Agent  130 Finance S.r.l. 
+Corporate Servicer  130 Servicing S.p.a. 
+Tipologia attività cartolarizzate  Leasing 
+Qualità attività cartolarizzate  In bonis 
+Data di godimento  20/03/2008 
+Prezzo di cessione del portafoglio (*)  118.437.360 
+Agenzie di Rating  not rated 
+(cid:11)(cid:13)(cid:12)(cid:3)(cid:72)(cid:86)(cid:70)(cid:79)(cid:88)(cid:86)(cid:82)(cid:3)(cid:85)(cid:68)(cid:87)(cid:72)(cid:82)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:72)(cid:86)(cid:86)(cid:76)(cid:3)(cid:72)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:72)(cid:86)(cid:86)(cid:76)(cid:3)(cid:86)(cid:82)(cid:86)(cid:83)(cid:72)(cid:86)(cid:76)(cid:3) (cid:11)(cid:76)(cid:80)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:72)(cid:88)(cid:85)(cid:82)(cid:12)(cid:3)
+A fronte dei crediti ceduti, la Società Veicolo ha ﬁnanziato l’operazione con l’emissione di titoli ABS di classe Senior, 
+Mezzanine e Junior che sono stati sottoscritti interamente da Banca Tercas. 
+A seguito dell’incorporazione della ex Banca Tercas nella Banca Popolare di Bari, avvenuta nel corso del 2016, 
+quest’ultima ha acquisito la titolarità di detti titoli ABS. 
+(cid:3)
+Data  Valore  Valore residuo 
+Titolo  Classe  Piazza Quotazione  Tasso/Spread  Rating  rimborso  nominale  a fine  Sottoscrittore 
+finale  emesso  esercizio 
+A  Senior  n.q.  3 Months Euribor  not rated  31/12/2032  65.750  -  Banca Tercas 
+B  Mezzanine  n.q.  3 Months Euribor  not rated  31/12/2032  33.886  25.015  Banca Tercas 
+C  Junior  n.q.  3 Months Euribor  not rated  31/12/2032  19.027  19.027  Banca Tercas 
+Totale  118.663  44.042 
+           
+(cid:3) (cid:3) (importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+(cid:3)
+Considerato che a seguito dell’operazione di cartolarizzazione la ex Banca Tercas ha assunto, di fatto, tutti i rischi e 
+beneﬁci del portafoglio crediti ceduto, le attività e le passività relative al patrimonio separato della Società Veicolo 
+sono state oggetto di consolidamento integrale. Di conseguenza, nel bilancio consolidato sono iscritti i crediti rela-
+tivi ai leasing rilevati a ﬁne esercizio dalla Società Veicolo.
+In base al contratto di cessione del portafoglio crediti, la ex Banca Tercas ha sostenuto ﬁnanziariamente la Società 
+Veicolo attraverso la concessione di un Prezzo Differito pari ad originari euro 9.066 mila. Il saldo lordo di tale credito 
+alla data di riferimento del bilancio ammonta ad euro 6.886 mila e risulta interamente svalutato. 
+225

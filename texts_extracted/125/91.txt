@@ -1,0 +1,53 @@
+Table 32: Total weight of waste produced at SECH broken down by type
+CER  2017 2018 2019 
+DESCRIPTION RECOVERY DISPOSAL
+CODE11 (Kg) (Kg) (Kg)
+0
+010101 Metal ore mining waste 0 0 X
+060102* Hydrochloric acid 0 0 0 X
+Waste paints and varnishes containing 
+080111* 800 0 0 X
+organic solvents or other dangerous substances
+Out of print toners, other than those mentioned 
+080318 0 55 35 X
+in 080317
+120112* Waxes and exhausted fats 0 160 0 X
+Mineral oils for non-chlorinated hydraulic 
+130110* 6.080 4.650 8.300 X
+circuits
+Waste mineral oil for engines, gears and 
+130205* 4.500 3.500 7.920 X
+lubrication, non-chlorinated
+130310* Other insulating and thermo-conducting oils 0 0 2.610 X
+130701* Fuel oil and diesel fuel 1.550 0 0 X
+130802* Other emulsions 0 0 0 X
+150101 Paper and cardboard 0 0 4.320 X
+150103 Wooden packaging 1.760 0 6.280 X
+150106 Mixed material packaging 0 0 0 X
+150106 Mixed material packaging 0 0 0 X
+Packaging containing residues of 
+150110* dangerous substances or contaminated by  630 787 273 X
+these substances
+Gases in pressure containers (including 
+150111* 50 20 93 X
+halons) containing dangerous substances
+Absorbents, filter materials, rags and 
+150202* protective clothing, contaminated with  390 3.374 2.114 X
+dangerous substances
+Absorbents, filter materials, rags and 
+150202* protective clothing, contaminated with  0 0 0 X
+dangerous substances
+Absorbents, filter materials, rags and protective 
+150203 192 168 147 X
+clothing, other than those mentioned in 150202
+Absorbents, filter materials, rags and protective 
+150203 0 0 0 X
+clothing, other than those mentioned in 150202
+160103 End-of-life tyres 0 0 5.240 X
+160107* Oil filters 761 636 725 X
+160112 Brake pads other than those mentioned in 160111 0 0 0 X
+Anti-freeze liquids containing dangerous 
+160114* 0 0 0 X
+substances
+11. * stands for hazardous cargo.
+92 | SECH • TDT 2019 Sustainability Report

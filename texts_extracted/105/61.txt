@@ -1,0 +1,45 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+L’analisi del rischio informatico ha l’obiettivo di identificare e valutare i potenziali scenari di compromissione della riserva-
+tezza, integrità e disponibilità delle risorse ICT a supporto dei servizi di Business. La metodologia è strutturata in più macro-fasi 
+che coinvolgono l’identificazione degli ambiti di analisi e del correlato perimetro degli asset, l’identificazione e valutazione degli 
+impatti, delle minacce e delle vulnerabilità, il calcolo del rischio potenziale, del rischio effettivo e il trattamento del rischio residuo. 
+Con particolare attenzione al perimetro della Circolare 285/13 di Banca d’Italia, è stato condotto l’aggiornamento annuale 
+dell’analisi del rischio informatico per il perimetro degli asset ICT di BancoPosta includendo il focus sugli asset a supporto dei 
+servizi di Pagamento via Internet in ottemperanza all’Orientamento 2.1 emanato dall’Autorità Bancaria Europea (EBA).
+L’attività ha portato successivamente alla redazione del Rapporto Sintetico sull’analisi del rischio informatico 2017 che è stato 
+approvato dal Consiglio di Amministrazione di Poste italiane nel mese di dicembre.
+Attraverso l’attività di Security by Design il Gruppo individua i requisiti per la progettazione di un nuovo servizio o la modifica 
+di servizi esistenti atti a garantire la tutela delle risorse ICT su tutta la catena del valore. In merito agli aspetti riconducibili alla 
+Security by Design, sono stati forniti requisiti di sicurezza per oltre un migliaio di iniziative di sviluppo. 
+Inoltre, sono stati forniti requisiti di sicurezza non solo informatica, ma anche di processo per l’erogazione di nuovi prodotti e 
+servizi di Business in fase di “Service Creation”, tra cui SPID, nuovo portale Poste.it Business e Personal Financial Management 
+nell’APP BancoPosta.
+In ottemperanza alla normativa vigente in materia di sicurezza dei dati, prevenzione e contrasto dei reati informatici, è stato 
+inoltre istituito un apposito presidio di Incident Handling per la prevenzione, gestione ed escalation degli incidenti di sicurezza 
+informatica che comportino danni al patrimonio informativo aziendale, violazione di policy interne e/o della normativa e la perdi-
+ta, modifica o divulgazione non autorizzata o l’accesso indebito ai dati personali trasmessi, conservati o comunque trattati. La 
+gestione degli incidenti di sicurezza informatica è formalizzata in un’apposita procedura operativa che prevede il monitoraggio 
+e il trattamento dell’incidente di sicurezza.
+Per la tutela della privacy Poste ha adottato misure di sicurezza preventive per ridurre al minimo i rischi di distruzione, perdita, 
+accesso non autorizzato, trattamento non consentito dei dati personali, in ottemperanza ai requisiti del D.Lgs. 196/2003.
+GRI 418-1 Violazione della privacy e fuoriuscite dei dati
+2016 2017
+Numero totale di reclami ricevuti per violazione della privacy 12 6
+Numero di reclami ricevuti da terzi e riconosciuti dall’organizzazione 12 6
+Numero di reclami ricevuti da parte di organismi di regolamentazione 0 0
+Numero totale di fuoriuscite, furti di dati dei clienti, perdite dei dati dei clienti identificati 0 0
+Il piano permanente per la sicurezza
+Il Piano Permanente di Sicurezza (PPS) 2015-2019, rivisto e aggiornato annualmente, redatto per la gestione delle attività, 
+iniziative e progetti di sicurezza informatica rilevanti, per la protezione delle risorse ICT e per l’adeguamento delle contromisure 
+previste dalle diverse normative e standard di riferimento, ha carattere permanente in funzione della continua evoluzione dei 
+rischi IT e contempla sia attività processive, sia progetti per l’implementazione di infrastrutture tecnologiche trasversali a sup-
+porto di tutti i servizi erogati.
+Nel 2017 sono state gestite e monitorate una serie di iniziative progettuali nell’ambito degli 11 cantieri in cui è organizzato il 
+piano permanente consentendo di portare a termine diverse iniziative:
+1.  IT Security e Risk Assessment
+2.  Sicurezza delle Infrastrutture
+3.  Segregazione ambienti
+4.  Sicurezza delle Applicazioni
+60

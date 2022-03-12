@@ -1,0 +1,48 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+Sezione 12 – Fondi per rischi e oneri – Voce 120
+(cid:20)(cid:21)(cid:17)(cid:20)(cid:3)(cid:41)(cid:82)(cid:81)(cid:71)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:85)(cid:76)(cid:86)(cid:70)(cid:75)(cid:76)(cid:3)(cid:72)(cid:3)(cid:82)(cid:81)(cid:72)(cid:85)(cid:76)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+ 
+Voci/Componenti  31/12/2017  31/12/2016 
+1. Fondi di quiescenza aziendali  3.769  3.994 
+2. Altri fondi per rischi e oneri  89.630  111.485 
+2.1 Controversie legali  36.145  42.293 
+2.2 Oneri per il personale  53.464  68.813 
+2.3 Altri  21  379 
+Totale  93.399  115.479 
+(cid:20)(cid:21)(cid:17)(cid:21)(cid:3)(cid:41)(cid:82)(cid:81)(cid:71)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:85)(cid:76)(cid:86)(cid:70)(cid:75)(cid:76)(cid:3)(cid:72)(cid:3)(cid:82)(cid:81)(cid:72)(cid:85)(cid:76)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+Totale 
+Voci/Componenti 
+Fondi di 
+Altri fondi 
+quiescenza 
+A. Esistenze iniziali  3.994  111.485 
+B. Aumenti  39  5.697 
+B.1 Accantonamento dell'esercizio  39  5.697 
+B.2 Variazioni dovute al passare del tempo  -  - 
+B.3 Variazioni dovute a modifiche del tasso di sconto  -  - 
+B.4 Altre variazioni  -  - 
+C. Diminuzioni  264  27.552 
+C.1 Utilizzo nell'esercizio  264  18.685 
+C.2 Variazioni dovute a modifiche del tasso di sconto  -  - 
+C.3 Altre variazioni  -  8.867 
+D. Rimanenze finali  3.769  89.630 
+(cid:3)
+(cid:20)(cid:21)(cid:17)(cid:22)(cid:3)(cid:41)(cid:82)(cid:81)(cid:71)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:84)(cid:88)(cid:76)(cid:72)(cid:86)(cid:70)(cid:72)(cid:81)(cid:93)(cid:68)(cid:3)(cid:68)(cid:93)(cid:76)(cid:72)(cid:81)(cid:71)(cid:68)(cid:79)(cid:76)(cid:3)(cid:68)(cid:3)(cid:69)(cid:72)(cid:81)(cid:72)(cid:192)(cid:70)(cid:76)(cid:3)(cid:71)(cid:72)(cid:192)(cid:81)(cid:76)(cid:87)(cid:76)
+1. Illustrazione delle caratteristiche dei fondi e dei connessi rischi 
+La voce 120 “Fondi per rischi e oneri - a) quiescenza ed obblighi simili”, per la parte a prestazione deﬁnita disciplinata 
+dallo IAS 19 “Beneﬁci ai dipendenti”, accoglie Fondo interno di previdenza complementare di pertinenza della Cassa 
+di Risparmio di Orvieto ed il Fondo interno di previdenza complementare di pertinenza di Banca Tercas.
+Fondo interno di previdenza complementare di pertinenza della Cassa di Risparmio di Orvieto
+Il Fondo interno di previdenza complementare di pertinenza della Cassa di Risparmio di Orvieto costituito in data 
+16 settembre 1976, con la ﬁnalità di integrare le prestazioni fornite dall’INPS in tema di previdenza per invalidità e 
+vecchiaia. In data 10 dicembre 1979 fu istituita una sezione per i dipendenti della gestione esattoriale. 
+Il fondo, privo di personalità giuridica, costituisce patrimonio di destinazione ai sensi dell’art. 2117 del Codice Civile. 
+La disciplina di tale Fondo è contenuta in un apposito regolamento che ha subito nel tempo varie integrazioni e 
+modiﬁche, di cui, particolarmente signiﬁcativa, quella introdotta con l’Accordo del 14 settembre 1998 che, nel con-
+servare il regime a “prestazioni deﬁnite” unicamente ai vecchi iscritti già in quiescenza a tale data, ha introdotto per 
+gli altri dipendenti un regime a contribuzione deﬁnita sul principio della capitalizzazione. 
+L’amministrazione compete al Consiglio di Amministrazione della Cassa di Risparmio di Orvieto. Il Fondo è dotato 
+di un proprio impianto contabile in grado di evidenziare separatamente, per i due Conti di cui si compone, le fasi 
+d’accumulo, d’investimento e di erogazione. 
+Il Fondo assicura una rendita integrativa delle prestazioni INPS a coloro che hanno maturato il diritto entro il 12 mar-
+480

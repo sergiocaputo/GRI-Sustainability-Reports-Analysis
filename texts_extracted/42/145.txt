@@ -1,0 +1,54 @@
+06_SUPPLEMENTAL INFORMATION_GRI STANDARDS CONTENT INDEX
+    
+GRI Standard Title Publications Page number Omissions and comments
+GRI-402: Labor-Management Relations (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 54-56  
+103-2 The management approach and its components SR 37, 54-56  
+103-3 Evaluation of the management approach SR 12, 31-37, 54-56  
+402-1 Minimum notice periods regarding operational changes SR 56  
+GRI-403: Occupational Health and Safety (2018)
+103-1 Explanation of the material topic and its Boundary SR 12, 51-53, 135-136  
+103-2 The management approach and its components SR 21, 34, 51-53  
+103-3 Evaluation of the management approach SR 51-54  
+403-1 Occupational health and safety management system SR 21, 51-52  
+403-2 Hazard identification, risk assessment, and incident investigation SR 51-52  
+403-3 Occupational health service SR 51-52  
+403-4 Worker participation, consultation, and communication on  SR 49, 51  
+occupational health and safety
+403-5 Worker training on occupational health and safety SR 51-52, 111  
+403-6 Promotion of worker health SR 21, 51-53  
+403-7 Prevention and mitigation of occupational health and safety  SR 51-52  
+impacts directly linked by business relationships
+403-8 Workers covered by an occupational health and safety  SR 21, 51-52, 118  
+management system
+403-9 Work-related injuries SR 21, 51-52, 113 Information unavailable at the global level for 
+403-9 b. FCA will consider the possibility of 
+analyzing the materiality of this data for workers 
+who are not Group employees. 
+Confidentiality constraint for 403-9 c.: this 
+information cannot be communicated externally.
+403-10 Work-related ill health SR 51-52, 113 Information unavailable at the global level for 
+403-10 b. FCA will consider the possibility of 
+analyzing the materiality of this data for workers 
+who are not Group employees. 
+Confidentiality constraint for 403-10 c.: this 
+information cannot be communicated externally.
+GRI-404: Training and Education (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 47-49  
+103-2 The management approach and its components SR 20, 34, 47-49, 85  
+103-3 Evaluation of the management approach SR 12, 20, 34, 47-49, 85  
+404-1 Average hours of training per year per employee SR 111  
+404-2 Programs for upgrading employee skills and transition   SR 47-49, 85, 111  
+assistance programs
+404-3 Percentage of employees receiving regular performance   SR 48, 107  
+and career development reviews
+GRI-405: Diversity and Equal Opportunity (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 37, 47-50  
+103-2 The management approach and its components SR 20, 37, 47-50  
+103-3 Evaluation of the management approach SR 12, 20, 37, 47-50  
+405-1 Diversity of governance bodies and employees AR 102, 125  
+SR 107-109
+405-2 Ratio of basic salary and remuneration of women to men SR 110 Confidentiality constraint for 405-2: in some 
+countries of presence this information is subject 
+to confidential treatment.
+146

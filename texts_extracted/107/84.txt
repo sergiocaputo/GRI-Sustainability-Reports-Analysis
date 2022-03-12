@@ -1,0 +1,31 @@
+The production process that has the greatest impact from VOC emissions’ point of view is painting. For this process, the 
+total quantity of Volatile Organic Compounds (VOCs) emitted has been reported, which are conveyed into post-combustors, 
+very high-efficiency equipment able to break down these substances, present in the outgoing stream of spray booths, from 
+thousands of mg / Nmc to a few units. VOCs breakdown occurs by thermal oxidation (combustion) of the latter. The heat 
+produced by VOCs combustion is recovered either in the same painting plant (heating of drying ovens and so on) or for different 
+company needs. 
+In the following table, you can find the details of VOC’s emissions for each plant, where the painting process takes place:
+Production plants 
+involved in the  Unit of 
+PCFerentino Tecnoprima ODERZO PONTEDERA PSMMC** GSI UK GL
+painting process measurement 
+2017 2018 2017 2018 2017 2018 2017 2018 2017 2018 2017 2018
+Organic compounds 
+Volatiles (VOC)
+Tons
+Emissions conveyed 
+into the atmosphere 
+54,9 0,2* 13,6 6,0 35,1 6,3 5,4 7,3 - 2,3 - 33,6
+Transformation (VOC)
+ in Thermal Energy Absent Adaptation 
+GJ Solvents by  2381,2 2369,1 12958,2 8671,6 3659,0 2500,0 - 215,7 - 17
+ (heat)
+Activated Carbon 
+*Processing system has improved its eﬃciency
+**The painting plant of PSMM Campania has not been operating in 2017
+Assumptions:
+•Total Assimilation (COV) with Acetone solvent currently present in painting materials
+•Inferior calorific power - 28,5 [Mj/Kg]
+•Neglecting emission diffusion
+Sources analysed: Solvents plan management, 2018, of each plant
+PAGE 85

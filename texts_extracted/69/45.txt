@@ -1,0 +1,22 @@
+44 SOL GROUP  –  CUSTOMERS, PATIENTS AND SUPPLIERS
+T H E S U P P LY F LOW S C H E M E
+PRIMARY 
+PROCESS UNITS
+PIPELINE
+Customers 
+technical gases
+ON-SITE
+TANKERS + 
+TUBE TRAILERS
+Customers
+medical gases
+Customers 
+technical gases
+SECONDARY 
+PROCESS UNITS
+TRUCKS
+WAREHOUSE TRUCKS Customers
+medical gases
+VANS
+Patients 
+home care

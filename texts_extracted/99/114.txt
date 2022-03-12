@@ -1,0 +1,68 @@
+ALLEGATI 
+ 
+ 
+Allegato 4 - Valutazione del ciclo di vita (LCA) 
+LCA (Life Cycle Assessment) valuta in modo sistematico gli aspetti ambientali e gli impatti di un sistema o di più sistemi di 
+prodotti, dall’estrazione delle materie prime e risorse fino allo smaltimento finale, in accordo con gli obiettivi e il campo di 
+applicazione definiti.  
+Lo studio di LCA è stato effettuato su ciascuno degli stabilimenti del Gruppo. 
+Sono stati individuati e presi in considerazione i seguenti aspetti ambientali: 
+1)  Emissioni di gas-serra dovute al trasporto di materie prime e prodotti venduti (emissioni indirette scopo 3); 
+2)  Emissioni di gas-serra dovute alla lavorazione delle materie prime in ingresso al ciclo produttivo (emissioni indirette 
+scopo 3); 
+3)  Emissioni di gas-serra dovute alla combustione di gas naturale negli stabilimenti italiani e serbo (emissioni dirette scopo 
+1); 
+4)  Emissioni di gas-serra dovute alla combustione di gasolio per riscaldamento nello stabilimento irlandese (emissioni 
+dirette scopo 1); 
+5)  Emissioni di gas-serra dovute alla produzione di energia elettrica necessaria negli stabilimenti (emissioni indirette scopo 
+2); 
+6)  Consumi idrici; 
+7)  Produzione di rifiuti e scarti da materia prima (carta, cartone e derivati). Questo aspetto, seppur indirettamente, 
+influenza il consumo di materia prima. 
+8)  Produzione di reflui  
+ 
+Inventario del ciclo di vita LCI (Life Cycle Inventory) 
+In questa fase è stata effettuata la raccolta dei dati relativi al triennio di riferimento per ogni stabilimento compreso nei 
+confini del sistema. Tutti i dati, siano essi misurati, calcolati o stimati, sono stati utilizzati per quantificare gli elementi in ingresso 
+al perimetro scelto per la rendicontazione. 
+ 
+Emissioni di gas serra derivanti dal trasporto di materie prime e prodotti: 
+  Lista dei viaggi in ingresso (per l’approvvigionamento di materie prime di carta e cartone) ed in uscita da: 
+‐  stabilimento di Pontedera 
+‐  stabilimenti di Vicenza (Dueville e Thiene); 
+‐  stabilimento di Vršac; 
+‐  stabilimento di Tullamore. 
+ 
+Emissioni di gas serra derivanti dalla lavorazione dei materiali in ingresso (carta, cartone e loro derivati) 
+Sono stati utilizzati i dati riferiti all’ultimo triennio relativi ai quantitativi di materie prime in ingresso in ciascun stabilimento. 
+Nel dettaglio, si distinguono i seguenti materiali: 
+‐  Cartone per lavorazione nelle linee di produzione astucci; 
+‐  Carta per lavorazioni nelle linee di produzione fogli illustrativi; 
+‐  Carta autoadesiva per lavorazioni nelle linee di produzione autoadesivi. 
+ 
+Emissioni di gas serra derivanti dal consumo di gas naturale e gasolio per il riscaldamento dei locali 
+Sono stati utilizzati i consumi di gas naturale e gasolio per riscaldamento (fatture) relativi all’ultimo triennio. 
+ 
+Emissioni di gas serra derivanti dal consumo di energia elettrica 
+Sono stati utilizzati i dati sui consumi energetici (fatture) degli stabilimenti relativi agli ultimi tre anni. 
+ 
+Consumo di acqua 
+Sono stati utilizzati i dati relativi ai consumi idrici (fatture) relativi all’ultimo triennio. 
+ 
+Produzione di rifiuti e scarti da materia prima (carta, cartone e derivati) 
+Sono stati utilizzati i dati degli ultimi tre anni relativi ai quantitativi di scarti e rifiuti di carta e cartone prodotti in ogni 
+stabilimento (MUD e/o bolle acquisto sottoprodotto). 
+ 
+Produzione di reflui  
+Sono stati utilizzati i quantitativi di reflui prodotti in ogni stabilimento negli ultimi tre anni (dichiarazione annuale di produzione 
+dei rifiuti es. MUD per gli stabilimenti italiani). 
+Sono stati considerate le seguenti tipologie di rifiuti: 
+  CER 08 01 20: sospensioni acquose;  
+  CER 08 03 13: residui inchiostri UV; 
+  CER 08 04 16: lavaggi colla; 
+  CER 09 01 01: soluzioni di sviluppo e attivanti a base acquosa; 
+  CER 16 10 01: soluzioni acquose di lavaggio. 
+   
+Pag. 114 di 132  REPORT SOSTENIBILITÀ 2019 
+     
+ 

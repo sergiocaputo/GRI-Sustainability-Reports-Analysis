@@ -1,0 +1,43 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+(cid:20)(cid:21)(cid:17)(cid:25)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:81)(cid:88)(cid:87)(cid:72)(cid:3)(cid:68)(cid:3)(cid:86)(cid:70)(cid:82)(cid:83)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:89)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+Totale 
+Terreni  Fabbricati 
+A. Esistenze iniziali  2.212  4.172 
+B. Aumenti  -  - 
+B.1 Acquisti  -  - 
+B.2 Spese per migliorie capitalizzate  -  - 
+B.3 Variazioni positive di fair value  -  - 
+B.4 Riprese di valore  -  - 
+B.5 Differenze di cambio positive  -  - 
+B.6 Trasferimenti da immobili ad uso funzionale  -  - 
+B.7 Altre variazioni  -  - 
+C. Diminuzioni  -  414 
+C.1 Vendite  -  129 
+C.2 Ammortamenti  -  233 
+C.3 Variazioni negative di fair value  -  - 
+C.4 Rettifiche di valore da deterioramento  -  - 
+C.5 Differenze di cambio negative  -  - 
+C.6 Trasferimenti ad altri portafogli di attività  -  - 
+a) immobili ad uso funzionale  -  - 
+b) attività non correnti in via di dismissione  -  - 
+C.7 Altre variazioni  -  52 
+D. Rimanenze finali  2.212  3.758 
+E. Valutazione al fair value  2.757  5.963 
+(cid:3)
+Le aliquote di ammortamento utilizzate per le varie categorie dei cespiti risultano le seguenti:
+(cid:3)
+Voci(cid:3)(cid:3) Aliquota(cid:3)
+(cid:882)(cid:3)Fabbricati(cid:3) 3,00%(cid:3)
+(cid:882)(cid:3)Mobili(cid:3)e(cid:3)arredi:(cid:3)
+•(cid:3)mobili,(cid:3)insegne(cid:3)(cid:3) 12,00%(cid:3)
+•(cid:3)arredamenti(cid:3)(cid:3) 15,00%(cid:3)
+(cid:882)(cid:3)Macchine(cid:3)e(cid:3)impianti:(cid:3)
+•(cid:3)impianti(cid:3)e(cid:3)mezzi(cid:3)di(cid:3)sollevamento,(cid:3)carico,(cid:3)scarico,(cid:3)pesatura,(cid:3)etc.(cid:3) 7,50%(cid:3)
+•(cid:3)macchine(cid:3)ordinarie(cid:3)d’ufficio(cid:3) 12,00%(cid:3)
+•(cid:3)macchinari,(cid:3)apparecchi,(cid:3)attrezzature(cid:3)varie(cid:3)e(cid:3)condizionamento(cid:3)(cid:3) 15,00%(cid:3)
+•(cid:3)banconi(cid:3)blindati,(cid:3)macchine(cid:3)da(cid:3)ufficio(cid:3)elettromeccaniche(cid:3)ed(cid:3)elettroniche,(cid:3)(cid:3)
+(cid:3)(cid:3)macchine(cid:3)per(cid:3)elaborazione(cid:3)automatica(cid:3)dei(cid:3)dati(cid:3) 20,00%(cid:3)
+•(cid:3)automezzi,(cid:3)impianti(cid:3)interni(cid:3)speciali(cid:3)di(cid:3)comunicazione(cid:3)e(cid:3)telesegnalazione(cid:3) 25,00%(cid:3)
+•(cid:3)impianti(cid:3)di(cid:3)allarme,(cid:3)di(cid:3)ripresa(cid:3)fotografica,(cid:3)cinematografica(cid:3)e(cid:3)televisiva(cid:3)(cid:3) 30,00%(cid:3)
+(cid:3)
+454

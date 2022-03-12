@@ -1,0 +1,40 @@
+GRUPPO CREDEM  DNF 
+2018 Introduzione I  Il Cliente I  Le nostre Persone I  L'Ambiente I  La Società
+DISCLOSURE 305-2 EMISSIONI INDIRETTE DI GAS AD EFFETTO SERRA (SCOPO 2)
+Le emissioni di Scopo 2, sono state calcolate con il metodo “Location-based” e con il metodo “Market-based" 15.
+EMISSIONI DI SCOPO 2 [TCO EQ] LOCATION-BASED 2018 2017 2016
+2
+Energia elettrica acquistata da rete nazionale 9.537,7 9.672,4 9.347,9
+Calore da teleriscaldamento 571,4 552,3 525,8
+Freddo da teleraffrescamento 15,5 20,5 22,0
+Riscaldamento condominiale 405,1 383,1 417,8
+TOTALE 10.529,7 10.628,3 10.313,5
+EMISSIONI DI SCOPO 2 [TCO EQ] MARKET-BASED 2018 2017 2016
+2
+Energia elettrica acquistata da rete nazionale 0 0 0,0
+Calore da teleriscaldamento 571,4 552,3 525,8
+Freddo da teleraffrescamento 15,5 20,5 22,0
+Riscaldamento condominiale 405,1 383,1 417,8
+TOTALE 992,0 955,9 965,6
+METODOLOGIA DI CALCOLO
+Le emissioni di CO equivalente comprendono CO, CH e NO e sono state calcolate utilizzando il GWP (Global Warming Potential) a 100 
+2 2 4 2
+anni della CO, CH e del NO dell'IPCC (Intergovernmental Panel on Climate Change), rispettivamente pari a 1, 28 e 265.
+2 4 2
+FATTORI DI EMISSIONE Fonte Coefficiente Unità di misura
+Energia elettrica acquistata da rete nazionale (Italia) Linee Guida ABI 2018 0,323 kgCO eq/kWh
+2 
+Teleriscaldamento /Teleraffrescamento (Italia) Linee Guida ABI 2018 0,2193 kgCO eq/kWh
+2 
+Teleriscaldamento (Lussemburgo)
+Energia elettrica acquistata da rete nazionale  TERNA 2014 0,223 kgCO eq/kWh
+2 
+(Lussemburgo)
+Gas naturale per riscaldamento condominiale Linee Guida ABI 2018 1,989 kgCO eq/Smc
+2 
+15
+I dati delle emissioni di Scopo 2 relativi agli anni 2016 e 2017 sono stati riesposti rispetto a quelli 
+indicati nella DNF 2017 a seguito del periodico aggiornamento dei fattori di emissione volto a garantire 
+una migliore comparabilità. Per i dati storici precedentemente pubblicati, si faccia riferimento alla DNF 
+2017 pubblicata nella sezione Sostenibilità del sito istituzionale del Gruppo.
+109

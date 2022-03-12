@@ -1,0 +1,17 @@
+Bilancio Consolidato 2017
+(cid:36)(cid:17)(cid:28)(cid:3)(cid:57)(cid:76)(cid:87)(cid:68)(cid:3)(cid:85)(cid:72)(cid:86)(cid:76)(cid:71)(cid:88)(cid:68)(cid:3)(cid:71)(cid:72)(cid:76)(cid:3)(cid:71)(cid:72)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:76)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:3)(cid:50)(cid:55)(cid:38)(cid:29)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:76)(cid:3)(cid:81)(cid:82)(cid:93)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:76)
+Sottostanti/Vita residua  Fino ad 1 anno  Oltre a1  5a nannon ie  fino  Oltre 5 anni  Totale 
+A. Portafoglio di negoziazione di vigilanza  39.475  3.486  -  42.961 
+A.1 Derivati finanziari su titoli di debito e tassi di interesse  2.727  3.486  -  6.213 
+A.2 Derivati finanziari su titoli di capitale ed indici azionari  -  -  -  - 
+A.3 Derivati finanziari su tassi di cambio ed oro  36.748  -  -  36.748 
+A.4 Derivati finanziari su altri valori  -  -  -  - 
+B. Portafoglio bancario  17.607  77.995  215.950  311.552 
+B.1 Derivati finanziari su titoli di debito e tassi di interesse  17.607  77.995  215.950  311.552 
+B.2 Derivati finanziari su titoli di capitale ed indici azionari  -  -  -  - 
+B.3 Derivati finanziari su tassi di cambio ed oro  -  -  -  - 
+B.4 Derivati finanziari su altri valori  -  -  -  - 
+Totale  31/12/2017  57.082  81.481  215.950  354.513 
+Totale  31/12/2016  54.578  27.256  33.706  115.540 
+(cid:3)
+553

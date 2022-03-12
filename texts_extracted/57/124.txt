@@ -1,0 +1,38 @@
+Nota Integrativa | Parte A | Politiche Contabili
+economico lungo la vita residua dell’elemento coperto sulla base del tasso di rendimento effettivo.
+Qualora tale differenza sia riferita a strumenti ﬁnanziari non fruttiferi di interessi, la stessa viene registrata immedia-
+tamente a conto economico.
+Se l’elemento coperto è venduto o rimborsato, la quota di fair value non ancora ammortizzata è riconosciuta imme-
+diatamente a conto economico.
+2)  copertura dei ﬂussi ﬁnanziari (cash ﬂow hedge):
+Le variazioni di fair value del derivato sono contabilizzate a patrimonio netto, per la quota efﬁcace della copertura, 
+e a conto economico per la parte non considerata efﬁcace.
+Quando i ﬂussi ﬁnanziari oggetto di copertura si manifestano e vengono registrati nel conto economico, il relativo 
+proﬁtto o la relativa perdita sullo strumento di copertura vengono trasferiti dal patrimonio netto alla corrispondente 
+voce di conto economico.
+Quando la relazione di copertura non rispetta più le condizioni previste per l’applicazione del hedge accounting 
+la relazione viene interrotta e tutte le perdite e tutti gli utili rilevati a patrimonio netto sino a tale data rimangono 
+sospesi all’interno di questo e riversati a conto economico nel momento in cui si veriﬁcano i ﬂussi relativi al rischio 
+originariamente coperto.
+Sezione 7 - Partecipazioni
+Criteri di classiﬁcazione
+Il portafoglio delle partecipazioni include le partecipazioni nelle società sulle quali la banca esercita il controllo ai 
+sensi dell’IFRS 10 o comunque una inﬂuenza notevole.
+Criteri di iscrizione
+Le partecipazioni sono iscritte all’atto di acquisto al fair value, comprensivo degli oneri accessori.
+Criteri di valutazione
+Lo IAS 27 prevede che nel bilancio individuale le partecipazioni in controllate, controllate in modo congiunto e col-
+legate siano valutate con il metodo del costo, oppure, in alternativa, in conformità allo IAS 39. La banca ha optato 
+per il metodo del costo.
+Se esistono evidenze che il valore di una partecipazione possa aver subito una riduzione, si procede alla stima del 
+valore recuperabile della partecipazione stessa, tenendo conto del valore attuale dei ﬂussi ﬁnanziari futuri che la 
+partecipazione potrà generare, incluso il valore di dismissione ﬁnale dell’investimento. 
+Qualora il valore di recupero risulti inferiore al valore contabile, la relativa differenza è rilevata a conto economico. 
+Qualora i motivi della perdita di valore siano rimossi a seguito di un evento veriﬁcatosi successivamente alla rileva-
+zione della riduzione di valore, vengono effettuate riprese di valore con imputazione a conto economico che non 
+possono eccedere l’ammontare delle perdite da impairment in precedenza registrate.
+Criteri di cancellazione
+Le attività ﬁnanziarie sono cancellate quando il diritto a ricevere i ﬂussi di cassa dall’attività ﬁnanziaria è estinto, o 
+laddove siano trasferiti in maniera sostanziale tutti i rischi ed i beneﬁci connessi alla detenzione di quella determi-
+nata attività.
+124

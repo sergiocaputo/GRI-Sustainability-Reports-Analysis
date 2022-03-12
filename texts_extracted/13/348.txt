@@ -1,0 +1,37 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+1.  Rischio Tasso d’Interesse
+2. Rischio Azionario
+3. Rischio Valutario
+4. Rischio immobiliare
+5. Rischio Spread
+6. Rischio di Concentrazione di mercato 
+7. Rischio di Liquidità 
+8. Rischio di credito e controparte
+9. Rischio insolvenza controparti riassicurative.
+Rischio di tasso di interesse
+Il rischio di tasso esiste per tutte le attività e le passività il cui valore è 
+“sensibile” ai cambiamenti nella struttura a termine dei tassi d’interesse o 
+della volatilità dei tassi d’interesse. Questo vale per le strutture a termine 
+sia reali sia nominali. Le attività sensibili ai movimenti dei tassi d’interesse 
+comprendono investimenti a reddito fisso (fixed-income), strumenti di 
+finanziamento (ad esempio prestiti), presiti su polizze, derivati su tassi 
+d’interesse ed eventuali attività d’assicurazione.
+La valutazione dell’esposizione verso tale rischio mostra in corso d’anno
+un impatto medio sia in termini di requisito di capitale regolamentare che
+di copertura dello stesso. 
+Mediolanum Vita ha, inoltre, effettuato una simulazione sull’impatto di
+una riduzione di -100bps sulla curva dei rendimenti prevedibili per il
+calcolo della riserva per garanzia del tasso d’interesse.
+Al 31 dicembre 201 questa variazione può generare una perdita
+economica pari a circa 2.6 milioni di euro.
+Rischio azionario
+Il rischio azionario deriva dal livello o dalla volatilità dei prezzi di mercato per 
+i titoli azionari. L’esposizione al rischio azionario si riferisce a tutte le attività 
+e le passività il cui valore sia sensibile alle variazioni dei prezzi azionari. Tale 
+rischio rappresenta il principale contributo al profilo di rischio del Gruppo 
+Assicurativo Mediolanum in considerazione dell’elevata esposizione degli 
+asset a copertura dei prodotti unit linked verso il mercato equity. Nel 2018 
+l’impatto per l’allocazione del capitale regolamentare a copertura del rischio 
+azionario risulta essere elevato.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 349

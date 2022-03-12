@@ -1,0 +1,49 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+Hydroelectric (GWh) 62,580 65,893 55,363 -3,313 -5.0 Enel
+Wind (GWh) 26,668 22,161 17,827 4,507 20.3 Enel
+Geothermal (GWh) 6,148 5,881 5,820 267 4.5 Enel
+Biomass and cogeneration (GWh) 21 108 108 -87 -80.6 Enel
+Photovoltaic (GWh) 3,974 4,897 2,577 -923 -18.8 Enel
+Total net production (GWh) 229,129 250,339 249,876 -21,210 -8.5 Enel
+Net production by 
+geographic area
+Italy (GWh) 46,912 53,233 53,518 -6,321 -11.9 Italy
+Iberia (GWh) 61,402 74,192 78,618 -12,790 -17.2 Iberia
+Latin America (GWh) 71,836 70,578 67,082 1,258 1.8 Latin America
+Chile (GWh) 21,041 20,885 20,231 155 0.7 Chile
+Argentina (GWh) 12,974 13,949 14,825 -976 -7.0 Argentina
+Colombia (GWh) 15,362 14,053 14,766 1,309 9.3 Colombia
+Peru (GWh) 9,249 8,999 7,493 250 2.8 Peru 
+Brazil (GWh) 11,077 9,840 7,161 1,237 12.6 Brazil
+Uruguay (GWh) - 170 151 -170 -100.0 Uruguay
+Costa Rica (GWh) 198 305 319 -107 -35.1 Costa Rica
+Guatemala (GWh) 430 568 608 -137 -24.2 Guatemala
+Panama (GWh) 1,505 1,808 1,528 -303 -16.8 Panama
+North America (GWh) 12,969 9,752 7,338 3,217 33.0 North America
+North America (GWh) 11,923 7,133 5,313 4,790 67.1 North America
+Mexico (GWh) 1,046 2,619 2,025 -1,573 -60.1 Mexico
+Europe 
+Europe and Euro- and Euro-
+(GWh) 34,439 41,076 41,839 -6,637 -16.2
+Mediterranean Affairs Mediterranean 
+Affairs
+Russia (GWh) 32,433 39,182 39,830 -6,748 -17.2 Russia
+Romania (GWh) 1,251 1,227  1,358  24 2.0 Romania
+Greece (GWh) 666 577 548 89 15.5 Greece 
+Bulgaria (GWh) 88 91 103 -4 -3.9 Bulgaria
+Africa, Asia and 
+Africa, Asia and Oceania (GWh) 1,571 1,508 1,481 63 4.2
+Oceania
+South Africa (GWh) 1,235 1,192 1,156 43 3.6 South Africa
+India (GWh) 303 315 325 -12 -3.8 India
+Zambia (GWh) 33 - - 33 - Zambia
+Total net production (GWh) 229,129 250,339 249,876 -21,210 -8.5 Enel
+Development of 
+renewables
+New renewable power (3) (MW) 3,575 2,682 2,783 893 33.3 Enel
+Hydroelectric (MW) 51 71 400 -20 -27.7 Enel
+Wind (MW) 2,227 1,415 1,258 812 57.4 Enel
+Geothermal (MW) 75 1 41 74 - Enel
+Performance indicators 277

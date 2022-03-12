@@ -1,0 +1,50 @@
+112 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+The Group can be also exposed to liquidity outflows re- cess in case of limit breaches or other liquidity issues.
+lated to issued guarantees, commitments, derivative con-
+tract margin calls or regulatory constraints. The annual assessment shows a solid liquidity profile for 
+Generali Group, without substantial changes compared 
+The Group liquidity risk management framework re- to the previous year.
+lies on projecting cash obligations and available cash  The principles for liquidity risk management designed at 
+resources over defined time horizons, to monitor that  Group level are fully embedded in strategic and business 
+available liquid resources are at all times sufficient to  processes, including investments and product develop-
+cover cash obligations that will become due in the same  ment. 
+horizons. 
+Since Generali Group explicitly identifies liquidity risk as 
+A set of liquidity risk metrics (liquidity indicators) has  one of the main risks connected with investments, indi-
+been defined to monitor the liquidity situation of each  cators as cash flow duration mismatch are embedded in 
+Group insurance Legal Entity on a regular basis. All such  the Strategic Asset Allocation process. Investment limits 
+metrics are forward-looking, i.e. they are calculated at a  are set to ensure that the share of illiquid assets remains 
+future date based on projections of cash flows, assets  within the level that does not impair the Group’s asset 
+and liabilities and an assessment of the level of liquidity  liquidity. 
+of the asset portfolio. 
+The Group has defined in its Life and P&C Underwriting 
+The metrics are calculated under both the so-called  Policies the principles to be applied to mitigate the impact 
+“base scenario”, in which the values of cash flows, as- on liquidity from surrenders in life business and claims in 
+sets and liabilities correspond to those projected ac- non-life business.
+cording to each Legal Entity’s Strategic Plan scenario, 
+and a set of so-called “stress scenarios”, in which the 
+projected cash inflows and outflows, the market price of  Reputational and Emerging Risk 
+assets and the amount of technical provisions are calcu-
+lated to take into account unlikely but plausible circum- Although not included in the calculation of SCR, the fol-
+stances that would adversely impact the liquidity of each  lowing risks are also assessed:
+Legal Entity. – reputational  risk  referring  to  potential  losses  aris-
+ing from deterioration or a negative perception of the 
+Liquidity risk limits have been defined in terms of value of  Group among its customers and other stakeholders;
+the above-mentioned liquidity indicators. The limit frame- – emerging risks arising from new trends or evolving 
+work is designed to ensure that each Group Legal Entity  risks which are difficult to perceive and quantify, al-
+holds a “buffer” of liquidity in excess of the amount re- though typically systemic. These typically refer to tech-
+quired to withstand the adverse circumstances described  nological changes (such as big data), environmental 
+in the stress scenarios. trends (with a major focus on climate change) and ge-
+opolitical developments. For the assessment of these 
+Generali has defined a set of metrics to measure liquidity  risks and to raise the awareness on the implications of 
+risk at Group level, based on the liquidity metrics calcu- the emerging trends, Risk Management Function en-
+lated at Legal Entity level. The Group manages expected  gages with a dedicated network, including specialists 
+cash inflows and outflows in order to maintain a sufficient  from business functions (e.g. Insurance, Investment, 
+available level of liquid resources to meet its medium-term  Finance, Marketing and Sustainability and Social Re-
+needs. The Group metrics are forward-looking and are  sponsibility, given the relevant interrelation with ESG19 
+calculated under both the base and stress scenarios. factors). The Group also participates to the Emerging 
+Risk Initiative (ERI), a dedicated working group of the 
+The Group has established clear governance for liquidity  CRO Forum. Within ERI emerging risks common to the 
+risk measurement, management, mitigation and report- insurance industry are discussed and specific studies 
+ing, including specific limit setting and the escalation pro- are conducted.
+19 ESG stands for Environmental, Social and Governance.

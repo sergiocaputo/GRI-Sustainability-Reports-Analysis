@@ -1,0 +1,32 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+5. Poste Italiane S.p.A. Bilancio al 31 dicembre 2017 
+Gerarchia del fair value delle Attività finanziarie
+Di seguito si fornisce la ripartizione del fair value delle attività finanziarie iscritte in bilancio al fair value per livello di gerarchia:
+tab. A6.5 - Gerarchia del fair value
+Saldo al 31.12.17  Saldo al 31.12.16
+Descrizione
+(milioni di euro) Livello 1 Livello 2 Livello 3 Totale Livello 1 Livello 2 Livello 3 Totale
+Investimenti disponibili per la 
+551  -    5  556  569  -    5  574 
+vendita
+Titoli a reddito fisso 551  -    -    551  562  -    -    562 
+Azioni -    -    5  5  -    -    5  5 
+Altri investimenti -    -    -    -    7  -    -    7 
+Strumenti finanziari derivati -    -    -    -    -    -    -    -   
+Totale Attività al fair value 551  -    5  556  569  -    5  574 
+Nel corso dell’esercizio 2017 non sono intervenuti trasferimenti tra il Livello 1 e il Livello 2 delle voci in commento valutate al 
+fair value su base ricorrente. 
+A7 - Crediti commerciali (2.019 milioni di euro)
+tab. A7 - Crediti commerciali
+ Saldo al 31.12.17   Saldo al 31.12.16 
+Descrizione  Attività    Attività   Totale  Attività    Attività   Totale 
+(milioni di euro) non correnti correnti  non correnti correnti 
+Crediti vs. clienti  5   1.560   1.565   4   1.569   1.573 
+Crediti vs. imprese controllate e a 
+-     288   288  -     290   290 
+controllo congiunto
+Crediti vs. Controllante -     166   166  -     236   236 
+Totale  5   2.014   2.019   4   2.095   2.099 
+di cui Patrimonio BancoPosta  -     789   789  -     743   743 
+295

@@ -1,0 +1,54 @@
+1 LETTERA AGLI STAKEHOLDER       2 NOTA METODOLOGICA       3 PRESENTAZIONE DEL GRUPPO        4 LA GESTIONE DEL RISCHIO        5 LOTTA ALLA CORRUZIONE      6 PERSONE E TERRITORI       7 IL CAPITALE UMANO        8 L’IMPEGNO PER L’AMBIENTE        9 LA CATENA DI FORNITURA 
+6.5.1 Sicurezza dei servizi
+La  sicurezza  assume  fondamentale  importanza  tipo organizzativo, procedurale e tecnologico volti a 
+SICUREZZA DEI SERVIZI 2019 2018 2017
+per la corretta erogazione dei servizi bancari alla  mitigare i rischi inerenti alla riservatezza, integrità e 
+Clientela.  disponibilità delle informazioni per l’intero Gruppo 
+Livello di sicurezza dell’infrastruttura tecnologica (*) 760 720 680
+Il  Gruppo  nel  suo  ruolo  di  fornitore  di  servizi  MPS.
+innovativi di tipo bancario, adotta tutte le cautele  Tra le principali iniziative si segnalano:
+(*) Rating indipendente BitSight Security Ratings (scala 250 - 900)
+necessarie  per  minimizzare  i  rischi  inerenti  ai  • ulteriore  rafforzamento  della  governance  di  https://www.bitsighttech.com/security-ratings il rating verte sulle seguenti valutazioni: a) presenza di sistemi compromessi; b) comportamenti degli utenti; 
+c) sistemi di prevenzione; d) perdite di dati.
+servizi offerti implementando e facendo propri i  Gruppo con l‘attivazione di presidi di gestione e  Il livello di sicurezza dell’infrastruttura tecnologica è valutato attraverso il rating elaborato da Bitsight Security, azienda accreditata a livello internazionale, 
+che valuta i maggiori player non solo del settore bancario.
+migliori standard di sicurezza, rivolgendo inoltre  monitoraggio ancora più puntuali e verticali;
+Il processo di rating è legato alle verifiche periodiche dello stato di vulnerabilità riscontrate sul perimetro esterno della Banca e quindi sugli IP raggiungibili 
+la propria attenzione al mercato per individuare gli  • completamento del piano annuale di sviluppo  dall’esterno. Per il calcolo dei rating utilizza dati su: presenza di sistemi compromessi, sistemi di prevenzione, comportamento dell’utente e perdite di dati. Il 
+range di valutazione va da 250-900, dove il valore più alto indica il massimo livello di sicurezza. Tutti i dati raccolti da BitSight sono osservabili esternamente 
+opportuni strumenti di protezione della struttura  degli strumenti di difesa individuati per ridurre il  e i suoi report sono in linea con gli standard di sicurezza NIST CSF e ISO27001.
+tecnologica di supporto e di contrasto alle frodi di  rischio della sicurezza del Gruppo MPS;
+tipo informatico. • rafforzamento delle collaborazioni con Organismi 
+Dal punto di vista della sicurezza informatica, il  di  Polizia  e  altri  Enti  competenti:  accordo  PROGETTO CYBER RESILIENCE  l’estensione della piattaforma antifrode a livello di 
+Gruppo  applica  stringenti  criteri  di  sicurezza  a  con  il  CNAIPIC  (Centro  nazionale  Anticrimine  Progetto in cui confluiscono tutte le iniziative di  Gruppo,  l’ulteriore sviluppo del piano di awareness 
+tutela dei dati, delle informazioni e dei depositi  Informatico per la Protezione delle Infrastrutture  rafforzamento  della  sicurezza  e  di  risposta  ai  e formazione interna sulle tematiche di sicurezza 
+dei clienti nei servizi di Digital Banking (desktop,  Critiche), per migliorare aspetti di info-sharing  findings JST e alle raccomandazioni della funzione  individuate e infine il rafforzamento organizzativo 
+mobile, App) e ATM, definiti dalle funzioni aziendali  e di relazione e collaborazione con Certfin per  rischi.  dell’Incident  Response  Team  (IRT/CERT)  per  il 
+deputate alla validazione delle fasi di progettazione  migliorare  la  capacità  di  contrasto  alle  frodi  A queste si affiancano iniziative di rafforzamento  presidio e la gestione degli incidenti cyber a livello 
+dei prodotti. Il perimetro di valutazione riguarda il  informatiche e altre minacce esterne in ottica di  della awareness a tutti i livelli e di adeguamento alla  di Gruppo MPS.
+100% delle funzionalità sia proprie che erogate in  sistema; normativa esterna. 
+partnership con terze parti (Corporate Banking). • sottoscrizione  di  una  polizza  assicurativa  a  Nel 2020, in continuità con le linee di sviluppo 
+Le  linee  guida  in  ambito  Sicurezza  Logica  copertura dei rischi cyber; tracciate nel 2019, si perseguirà la realizzazione 
+sono  formalizzate  all’interno  di  un  framework  • programma  di  awareness  sulla  sicurezza  degli  obiettivi  previsti  dal  Piano  Strategico  di 
+documentale  che  fornisce  gli  indirizzi,  le  informatica  sviluppato  attraverso  l'erogazione  Sicurezza,  tramite  interventi  di  governance,  di 
+metodologie e gli standard gestionali a tutte le  di  formazione  specifica  destinata  a  segmenti  processo,  normativi  e  implementazioni  IT  a 
+Società del Gruppo.  selezionati di utenti interni.  livello di Gruppo MPS, tra queste si evidenziano: 
+Risulta essere allineato ai migliori requisiti di qualità 
+e conformità in relazione ai diversi ambiti operativi 
+e fonti di rischio:
+• Sicurezza delle Informazioni (ISO/IEC 2700x)
+• Continuità  Operativa  (ISO  27031:2011  e  ISO 
+22301:2012)
+• Sicurezza ICT (ISO 13335:2004)
+Inoltre  risponde  ai  requisiti  normativi  e 
+regolamentari locali e europei quali:
+• GDPR – Nuovo Regolamento Privacy Europeo
+• PSD2  direttiva  Ue  2015/2366  sui  servizi  di 
+pagamento nel mercato interno
+• Direttiva 285 - Bankit
+Nel corso del 2019, con l’approvazione del Piano 
+Strategico della Sicurezza da parte del CDA, vengono 
+stabiliti i principali obiettivi di rafforzamento della 
+Sicurezza per il triennio 2019-21 per l’intero Gruppo 
+MPS, questo si traduce in una serie di interventi di 
+100 101

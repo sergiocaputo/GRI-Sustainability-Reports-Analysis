@@ -1,0 +1,57 @@
+INDIRECT CO  ENERGY EMISSIONS   Specifically, the ratio between the use of electricity 
+2eq
+(SCOPE 2)  produced from renewable sources and total electricity 
+consumption increased further going from 37% in 2018 
+Indirect energy CO  emissions are due to the procurement  to 44% in 2019, thereby preventing the emission into the 
+2eq
+of electricity and heat produced by third parties and used by  atmosphere of around 16,100 tonnes of CO  (+ 4,000 t 
+2eq
+Snam for its activities. Indirect emissions are calculated both  compared to 2018).
+through the Market Based approach (MB), which allocates a 
+zero CO  emission factor for the energy consumption from 
+2eq
+certified renewable sources, and a Location Based approach  OTHER INDIRECT CO  EMISSIONS  
+2eq
+(LB), that considers an average CO  emission factor for the  (SCOPE 3) 
+2eq
+national electricity grid.
+Electricity consumption, equal to around 117,380 MWh,  Indirect CO  emissions stood at approximately 538 
+2eq
+increased by 12% compared to 2018. Specifically, the  thousand tonnes, a 22.8% increase compared to 2018 
+increased consumption is due to the LNG regasification  following an increase in procurement and the different 
+facility, which, in 2019, regasified a greater quantity of gas,  nature of the supplied materials and goods. This category of 
+and the Digital Transformation and Technology (DT&T)  emissions stems around 99% from the supply chain and the 
+activities for the redistribution and movement of the  remaining share is due to employees' business travels. 
+data centres. The greater consumption resulting from the  Further initiatives are ongoing and aimed at promoting a 
+LNG site was completely neutralised in terms of Scope 2  culture of energy saving and minimising indirect emissions 
+emissions thanks to the procurement of green electricity,  associated with Snam's activities: the adoption of green 
+while the emissions due to the greater consumption  procurement criteria for goods and services, sustainable 
+recorded on the other sites were partly mitigated by a new  mobility initiatives and the implementation of initiatives 
+gas power plant switching to an electricity power plant  for energy savings directed at employees (company shuttle 
+certified as renewable on the Enna site. This plant joins those  services, public transport subsidies, smart working and the 
+of Messina and Terranuova B. (SRG), Brugherio (STG), the  use of video-conferencing for meetings) and the launch 
+Panigaglia LNG Plant and several areas of Snam4Mobility. of the supply chain CDP programme are just some of the 
+CO  emissions calculated according to the MB method  initiatives in progress that contribute to the reduction of this 
+2eq
+stood at around 32 thousand tonnes, in line with 2018 in  type of emissions.
+spite of an increase in total electricity and heat consumption   
+of 13% if calculated using the LB method, evidence of the 
+continuous increase in energy produced from renewable 
+sources. 
+Indirect GHG emissions   Green electricity/Electricity  Indirect emissions  
+Scope 2 (kt CO2eq) consumption (%) Scope 3 (kt CO2eq)
+38
+44.1 538
+34 5
+32 32 32
+37.0 438
+29 35.4
+4
+533
+217
+434
+3
+214
+2017 2018 2019 2017 2018 2019 2017 2018 2019
+LB MB Supply chain Business Travel
+Environmen t 61

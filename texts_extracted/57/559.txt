@@ -1,0 +1,71 @@
+Bilancio Consolidato 2017
+(cid:3)
+Valore 
+Data  Valore 
+Rating   residuo a 
+Titolo  Classe  Piazza Quotazione  Tasso/Spread  rimborso  nominale  Sottoscrittore 
+DBRS/Moody’s  fine 
+finale  emesso 
+esercizio 
+Euribor 
+A1  Senior  Borsa Irlandese  Aa2/AA  30/11/2065  322.900  95.377  di cui: 
+3M/1,00 
+(cid:21)(cid:20)(cid:22)(cid:17)(cid:26)(cid:19)(cid:19)(cid:3) (cid:37)(cid:68)(cid:81)(cid:70)(cid:68)(cid:3)(cid:55)(cid:72)(cid:85)(cid:70)(cid:68)(cid:86)(cid:3)
+            (cid:3)
+(cid:20)(cid:19)(cid:28)(cid:17)(cid:21)(cid:19)(cid:19)(cid:3) (cid:37)(cid:68)(cid:81)(cid:70)(cid:68)(cid:3)(cid:38)(cid:68)(cid:85)(cid:76)(cid:83)(cid:72)(cid:3)
+            (cid:3)
+Euribor 
+B1  Junior  n.q.  not rated  30/11/2065  154.920  154.920  Banca Tercas 
+3M/2,00 
+Euribor 
+B2  Junior  n.q.  not rated  30/11/2065  79.205  79.205  Banca Caripe 
+3M/2,00 
+Totale  557.025  329.502 
+           
+(cid:3) (cid:3) (importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+(cid:3)
+Banca Popolare di Bari/Cassa di Risparmio di Orvieto: 2013 Popolare Bari RMBS Srl
+Nel corso dell’esercizio 2013 la Capogruppo ha realizzato, assieme alla Cassa di Risparmio di Orvieto, un’operazione 
+di cartolarizzazione “multi-originator” di mutui residenziali in bonis e individuati sulla base di criteri predeﬁniti in 
+modo da costituire un “blocco” ai sensi della legge sulla Cartolarizzazione, per un ammontare di crediti in linea capi-
+tale di euro 369,8 milioni, su un totale complessivo di euro 486,4 milioni. L’arranger dell’operazione è stato JPMorgan. 
+I crediti sono stati acquistati pro-soluto dalla società “2013 Popolare Bari RMBS Srl”, appositamente costituita per 
+l’esecuzione dell’operazione di cartolarizzazione ai sensi della legge 130 del 30 aprile 1999.
+(cid:54)(cid:82)(cid:70)(cid:76)(cid:72)(cid:87)(cid:106)(cid:3)(cid:57)(cid:72)(cid:76)(cid:70)(cid:82)(cid:79)(cid:82) (cid:21)(cid:19)(cid:20)(cid:22)(cid:3)(cid:51)(cid:82)(cid:83)(cid:82)(cid:79)(cid:68)(cid:85)(cid:72)(cid:3)(cid:37)(cid:68)(cid:85)(cid:76)(cid:3)(cid:53)(cid:48)(cid:37)(cid:54)(cid:3)(cid:54)(cid:85)(cid:79)(cid:3)
+Tipologia operazione Autocartolarizzazione
+Originator Banca Popolare di Bari - Cassa di Risparmio di Orvieto
+Servicer Banca Popolare di Bari
+Arranger J.P.Morgan
+Computation Agent Securitisation Services SpA
+Corporate Servicer Securitisation Services SpA
+Tipologia attività cartolarizzate RMBS - Mutui residenziali ipotecari
+Qualità attività cartolarizzate In bonis
+Data di godimento 09/12/2013
+Prezzo di cessione del portafoglio (*) 486.393.676
+ - di cui Originator Banca Popolare di Bari 369.817.793
+ - di cui Originator Cassa di Risparmio di 
+116.575.884
+Orvieto
+Agenzie di Rating DBRS Ratings Limited / Fitch Ratings
+(*) escluso rateo interessi e interessi sospesi (importi in euro)
+A fronte dei crediti ceduti, nonché della costituzione di una riserva di liquidità per complessivi euro 15.612 mila, la 
+Società Veicolo ha ﬁnanziato l’operazione attraverso l’emissione di titoli obbligazionari di tipo “asset backed” con 
+tranche senior (A1 e A2) e junior (B1 e B2) in stretta relazione al portafoglio ceduto da ciascun originator.
+(cid:3)
+Data  Valore  Valore 
+Rating  
+Titolo  Classe  Piazza Quotazione  Tasso/Spread  rimborso  nominale  residuo a fine  Sottoscrittore 
+DBRS/Fitch 
+finale  emesso  esercizio 
+A1  Senior  Borsa Irlandese  Euribor3M/0,30  AAH/AA  31/12/2058  295.900  107.374  Banca Popolare di Bari 
+A2  Senior  Borsa Irlandese  Euribor3M/0,30  AAH/AA  31/12/2058  93.300  33.177  Cassa di Risparmio di Orvieto 
+B1  Junior  n.q.  Euribor3M/1,30  31/12/2058  85.788  85.788  Banca Popolare di Bari 
+ 
+B2  Junior  n.q.  Euribor3M/1,30  31/12/2058  27.018  27.018  Cassa di Risparmio di Orvieto 
+ 
+Totale  502.006  253.357 
+           
+(importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+(cid:3) (cid:3)
+(cid:3)
+559

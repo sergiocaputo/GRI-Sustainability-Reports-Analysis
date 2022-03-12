@@ -1,0 +1,51 @@
+Alperia Sustainability Report 2019 
+Energy communities 
+The project dedicated to energy communities continued in 2019. Alperia signed a framework collaboration 
+agreement with Regalgrid Europe Srl, one of the digital energy sector leaders, back in 2018. The aim is to 
+develop a proprietary and patented digital platform and make it available to customers. The platform is capable 
+of offering advanced features allowing for the monitoring, optimisation and real-time management of self-
+produced, accumulated and consumed energy. In the near future, increasing numbers of consumers will 
+become prosumers or co-producer consumers. The solution proposed by Regalgrid® allows the prosumer to 
+further evolve, by becoming part of a community of connected prosumers and optimising exchangeable energy 
+flows. This is useful to meet each of their needs and to reduce consumption costs, as well as those related to 
+investment in self-production and storage devices. It is a win-win mechanism: the user is more aware of his or 
+her needs, and the energy provider is more aware of its customer's needs. All this means personalised offers 
+can be made to customers, resulting in greater savings on bills and more transparency.  
+ 
+In 2019, the first devices supplied by Regalgrid were installed at the NOI Techpark in Bolzano. This made it 
+possible to launch the first virtual energy community in South Tyrol and one of the first in Italy. The SNOCU 
+(Smart NOde Control Unit) devices were connected to the existing photovoltaic system and specific users 
+inside the technology park, which were also equipped with storage systems and inverters supplied by Huawei 
+and SolarEdge. Additional internal users will be subsequently connected to the same community, together with 
+charging stations for electric vehicles. SNOCUs work by transmitting production, consumption and energy 
+storage data from the various connected prosumers to the cloud. A proprietary algorithm then defines the 
+different consumption profiles of each user, redistributing the energy intelligently and optimising flows within 
+the community. During the same year, another pilot project was launched in collaboration with Regalgrid. 
+Again, it was within the energy sector but this time more specifically aimed at the South Tyrolean farming 
+community. This second project involved 20 farms in South Tyrol. In seven, adequate inverters and storage 
+systems working with existing photovoltaic systems were installed in addition to SNOCUs, based on the 
+consumption needs of each user. The remaining 13 farms have only SNOCUs installed. By March 2020, all 
+installations will be complete, creating the Bauernbund Energy Community and virtually connecting the various 
+volunteers participating in the project. The detection and certification phase of the algorithm that governs the 
+operation of the SNOCUs will then begin. Eurac Research Institute has been given the task of ensuring the 
+effectiveness of the algorithm developed by Regalgrid for both projects, and will be required to give feedback 
+on the actual advantages in terms of economic savings and optimisation of flows in energy communities using 
+SNOCUs. The device, which is much more than a simple router, not only transmits data but allows inverters, 
+batteries and smart meters to communicate. It thus acts as a real actuator, capable of receiving orders from 
+the algorithm that governs the process, carrying out the switch-on and standby operations of the various 
+devices and therefore managing the energy flows of the energy community, transforming each system into an 
+active node in the community. The system offered by Alperia is unique because it provides for the existence 
+of a third-party network operator. Alperia itself will act as the managing body and deal with payments. 
+ 
+Alperia is in the final stage of defining its offers in the domestic field related to the supply and installation of 
+photovoltaic systems with accumulation. The company intends to also directly equip its customers with 
+SNOCU, making them energy community ready – that is, ready for access and active participation in the 
+energy community, so as to generate an economic advantage both for themselves and the energy provider. 
+The pilot phase of this project began in 2019. Ten users already equipped with a photovoltaic system had 
+adequate storage systems and related inverters installed to assess the results of at least one year's self-
+production and actual self-consumption. This allows for the optimisation of future sector-specific offers in terms 
+of power size (photovoltaic systems) and energy (batteries) that can be installed, relative to the typical 
+consumption ranges of domestic users. 
+ 
+   
+  116 

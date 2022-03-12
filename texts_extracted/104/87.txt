@@ -1,0 +1,45 @@
+       
+Si riportano i dati relativi alle ore di formazione e alle funzioni cui appartengono i dipendenti che 
+hanno partecipato ai corsi: 
+ 
+Formazione 
+Formazione  Formazione 
+Formazione  Competenze 
+FUNZIONE  Competenze  Dip   Finanziata  Dip 
+Sicurezza Lavoro  Tecnico 
+Linguistiche  (h) 
+professionali 
+DIREZIONE  0  32  0  1  0  0 
+AFC  34  200  16  10  80  5 
+RU  40  78  30  4  28  1 
+LEGALE  0  20  0  1     12  1 
+ACQ/MAG/QAS  31  92  0  2  12  1 
+SEGRETERIA   20  52  28  8  54  4 
+E&C  89  355  46  13  142  6 
+O&M  267  960  46  16  58  3 
+TRADING-
+96  186  42  12  66  5 
+OPERATION 
+TOTALE  577  1.975  208  67  452  26 
+ 
+I  corsi  di  formazione  si  suddividono  in  formazione  sicurezza  lavoro  (formazione  obbligatoria), 
+formazione  competenze  tecnico  professionali  e  formazione  per  l’acquisizione  di  competenze 
+ 
+linguistiche. La  formazione  di  aggiornamento  professionale  è  stata  suddivisa  in  competenze 
+tecnico professionali e linguistiche; si specifica inoltre che le ore di formazione finanziata sono un di 
+cui delle ore totali di aggiornamento professionale. Nel 2017 sono stati infatti utilizzati i finanziamenti 
+di Fondimpresa per lo svolgimento di diverse attività formative. 
+Dall’analisi emerge un numero totale di ore di formazione pari a 2.760 a cui hanno partecipato 67 
+dipendenti, considerando nel conteggio anche i tirocinanti, i dipendenti in somministrazione e i 
+consulenti. 
+ 
+Salute e sicurezza 
+La salute e la sicurezza dei propri lavoratori e di chiunque operi per le società del Gruppo è 
+obiettivo primario per PLT energia. Per monitorare tutti gli aspetti concernenti la Sicurezza sui luoghi 
+di lavoro si sono intraprese le seguenti azioni: 
+ 
+ 
+ 
+ 
+ 
+87 

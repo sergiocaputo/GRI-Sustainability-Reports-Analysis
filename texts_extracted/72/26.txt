@@ -1,0 +1,62 @@
+Impresa Pizzarotti & C. S.p.A. 
+401-1 Persone in entrata  2017 
+Suddivisione per genere ed età - ITALIA  Donne  Uomini  Totale 
+<= 29 anni  7  36  43 
+30 - 49 anni  5  80  85 
+>= 50 anni  3  119  122 
+Totale ITALIA  15  235  250 
+Suddivisione per genere ed età – RESTO D’EUROPA  Donne  Uomini  Totale 
+<= 29 anni  30  44  74 
+30 - 49 anni  38  118  156 
+>= 50 anni  6  37  43 
+Totale RESTO D’EUROPA  74  199  273 
+Suddivisione per genere ed età - AMERICA  Donne  Uomini  Totale 
+<= 29 anni  3  8  11 
+30 - 49 anni  3  25  28 
+>= 50 anni  0  7  7 
+Totale AMERICA  6  40  46 
+Suddivisione per genere ed età - ASIA  Donne  Uomini  Totale 
+<= 29 anni  4  12  16 
+30 - 49 anni  9  18  27 
+>= 50 anni  3  12  15 
+Totale ASIA  16  42  58 
+Suddivisione per genere ed età - AFRICA  Donne  Uomini  Totale 
+<= 29 anni  3  2  5 
+30 - 49 anni  3  8  11 
+>= 50 anni  1  0  1 
+Totale AFRICA  7  10  17 
+Totale Gruppo  118  526  644 
+ 
+401-1 Persone in uscita              2017                           
+  <= 29 anni                                  30 - 49 anni  >= 50 anni 
+ITALIA                  
+Motivi per l’uscita  Donne  Uomini  Tot.  Donne  Uomini  Tot.  Donne  Uomini  Tot. 
+Uscite volontarie (escluso il pensionamento)  3  4  7  1  24  25  0  6  6 
+Pensionamento  -  -  -  0  0  0  2  11  13 
+Licenziamento  0  4  4  1  25  26  1  39  40 
+Altro (ad es. fine del contratto a tempo 
+1  3  4  1  17  18  1  19  20 
+determinato) 
+Totale ITALIA  4  11  15  3  66  69  4  75  79 
+RESTO D’EUROPA     
+Motivi per l’uscita  Donne  Uomini  Tot.  Donne  Uomini  Tot.  Donne  Uomini  Tot. 
+Uscite volontarie (escluso il pensionamento)  8  15  23  14  29  43  2  7  9 
+Pensionamento   -  -    0  0  0  0  0  0 
+Licenziamento  0  1  1  4  11  15  1  6  7 
+Altro (ad es. fine del contratto a tempo 
+1  12  13  3  12  15  1  11  12 
+determinato) 
+Totale RESTO D’EUROPA  9  28  37  21  52  73  4  24  28 
+ASIA       
+Motivi per l’uscita  Donne  Uomini  Totale  Donne  Uomini  Totale  Donne  Uomini  Totale 
+Uscite volontarie (escluso il pensionamento)  0  0  0  o  0  0  0  0  0 
+Pensionamento  -  -  -  0  0  0  0  0  0 
+Licenziamento  0  1  1  0  2  2  0  0  0 
+Altro  0  0  0  0  2  2  0  1  1 
+Totale ASIA  0  1  1  0  4  4  0  1  1 
+AMERICA       
+Motivi per l’uscita  Donne  Uomini  Totale  Donne  Uomini  Totale  Donne  Uomini  Totale 
+Uscite volontarie (escluso il pensionamento)  2  4  6  5  4  9  0  10  10 
+Dichiarazione Consolidata Di Carattere Non Finanziario        27
+   
+ 

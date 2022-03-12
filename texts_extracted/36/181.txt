@@ -1,0 +1,35 @@
+Enel Green Power: GIS - the hydroelectrical portal  
+Hydro-electrical technology is amongst the renewable energy sources which can signiﬁcantly beneﬁt from using a 
+platform and geo-location analytical tools given that energy production is closely linked to geographical parameters, 
+to meteorological data, to the overall management of water resources, including for emergency scenarios, and to the 
+context of civil and territorial works.
+Enel Green Power has developed the ﬁrst GIS Portal (Geographic Information System) to implement and maintain its 
+hydroelectric power stations. This creates a uniﬁed geographic framework to store, process, analyse and submit various 
+types of data with geography as the key information variable. This portal will be able to assist decision-making processes.
+All the data is organised into thematic “layers” in relation to the position and the geometry of the digitalized asset and 
+correlated with the GIS information collected through well-established technologies such as satellites, drones, lasers, 
+scanners. Notably, the GIS portal for O&M Hydro is grouped into four categories:
+>  assets: here the applications are for the digital mapping of the power stations, providing a revision functionality of 
+the power plant components, cadastral data and geographical analyses;
+>  Hydro Plants Monitoring: the applications developed here are specialised and operational and carry out monitoring 
+based on the parameters for hydroelectric power plants. Specialist applications serve to facilitate the correlation of 
+the geo-service data into “theme” layers with the hydroelectric assets and they are mainly focused on: management 
+of emergencies, risk evaluation, geology, hydrology, environmental information and meteorological data. 
+The operational applications are: geo-data processing to calculate and map water courses and their hydrographic 
+basins, to collect and analyse the data of the basins and a personalised application to record changes – “Change 
+Detection” – for the purposes of comparing the satellite images with various timestamps provided by the European 
+satellite service Sentinel, correlated with the position of the water resource asset;
+>  drones: used to collect and process the data collected from drone inspections. This data is then published on 
+the GIS portal for further analysis and for the “Change Detection” techniques to be applied in consecutive ﬂights 
+in order to identify any changes in the assets themselves or on the ground, and to pre-empt any potential risk 
+scenarios;
+>  specialist inspections: to collect GIS data from speciﬁcally innovative projects such as GPR inspections (Ground 
+Penetrating Radar), geological data monitoring of landslides in real-time using IoT sensors in the ﬁeld as well as laser 
+scanner data.
+An online GIS software is in the process of being developed and will be dedicated to production process planning, in 
+addition to managing emergency events 72 hours in advance using predictions to calculate incoming volumes into the 
+hydrographic basins where the Group’s hydroelectric power stations are located. This speciﬁc module will be able to both 
+model the terrain in terms of type, levels of humidity and other relevant variables, using the Enel Green Power inﬂow/
+outﬂow model, as well as providing projections on the availability of the water resources using hourly meteorological 
+forecast data.
+180 Sustainability Report 2019

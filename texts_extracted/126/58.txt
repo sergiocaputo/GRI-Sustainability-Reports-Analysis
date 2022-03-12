@@ -1,0 +1,53 @@
+TIM Sustainability Report 2019 
+ENVIRONMENT 
+ 
+ 
+Energy efficiency measures at industrial and/or mixed-use sites  
+The initiatives launched in 2018 for industrial sites, offices and data centers have been completed. The details are as 
+follows: 
+ 
+Fixed Network area    
+•  Exchanges re-engineering project. Phase 2 of the project was completed, with energy efficiency measures introduced 
+at 35 sites (baseline consumption: 34 GWh/y) with an expected saving of 10%, which equates to an estimated saving 
+of approximately 3.4 GWh when fully operational (2020). There are plans to roll out this project to a further 40 
+locations in 2020 (baseline consumption: 40 GWh), with the application of machine learning algorithms; 
+•  Introduction of energy efficiency measures in power stations. Work has been completed at 13 sites (baseline 
+consumption: 6 GWh/y), with an expected saving of 10%, which equates to 0.6 GWh (2020). There are plans to roll 
+out this project at a further 40 locations in 2020 (baseline consumption: 30 GWh), with an expected saving of 10%, 
+which equates to 3 GWh (fully operational in 2021).   
+ 
+Offices  
+•  The Building Energy Management System project (BEMS). The assessment process has been launched for the 
+introduction of energy efficiency measures at 6 office sites (baseline consumption: 20 GWh), with an expected saving 
+of 11%, which equates to 2 GWh (2020). There are plans to roll out this project at a further 6 locations in 2020 (baseline 
+consumption: 60 GWh), with an expected saving of 12%, which equates to 7.2 GWh/y (2021) when fully operational. 
+Machine learning algorithms will also be applied.   
+ 
+IT 
+•  Introduction of energy efficiency measures in the Oriolo Romano data center in Rome. The activities designed to 
+improve the energy efficiency of the data center are nearing completion, thanks to a plant checking process that 
+includes adaptive systems (machine learning); these measures will achieve a saving of 22% of the baseline 
+consumption expected for 2020, which equates to around 7 GWh. A similar project will be rolled out at the Cesano 
+Maderno data center in 2020 (baseline consumption: 23 GWh), with an expected saving of 12% (2.7 GWh, fully 
+operational in 2021)  
+•  The Data Center Transformation project - The Data Center Transformation project has been launched, which involves 
+a process of compaction across 16 data centers and service centers, with a view to improving energy efficiency across 
+this entire area of operation.  
+ 
+Trigeneration 
+Distributed  generation  for  self-consumption  was  increased  through  the  optimization  of  existing  plants  and  the 
+construction of 6 new trigeneration plants in order to serve the most energy-intensive sites (Rozzano, Bologna, Pomezia, 
+Rome Tor Pagnotta, Rome Oriolo Romano). These are expected to be fully operational from February 2021 and will enable 
+an increase in self-produced energy estimated at 75 GW of electricity, which equates to 85.5 GWh - a figure which also 
+takes into account the lower energy withdrawals from the grid as a result of the energy not consumed by refrigeration 
+units. As such, TIM currently operates 30 trigeneration plants. The older plants were subject to a process of optimization 
+over the course of 2019. Specifically, this operation saw the replacement of absorbers in 3 large plants (Padua, Rozzano 
+and Bologna), with an estimated efficiency recovery of around 10 GWh in 2020 compared to the total for 2019. 
+In addition to the internal awareness campaigns regarding energy savings already mentioned at the beginning of this 
+section, other Group-wide initiatives include those regarding integrated decommissioning and network simplification ; in 
+this area, plans to compact the network (PSTN, ATM DSLAM, IP DSLAM, SuperSGU) and to rationalize and simplify the 
+network platforms (Core Voice platforms, transport networks, data networks) are ongoing, with a total saving of more 
+than 50 GWh achieved in 2019. 
+ 
+59 
+ 

@@ -1,0 +1,47 @@
+70
+TABELLA DI CORRISPONDENZA STANDARD GRI 
+Lo standard di rendicontazione adottato dal Gruppo Italgas per la redazione della propria 
+DNF sono i GRI Sustainability Reporting Standards, pubblicati nel 2016 dal GRI – Global 
+Reporting Initiative. In particolare, secondo quanto previsto dallo Standard GRI 101: Founda-
+tion, paragrafo 3, all’interno di questo documento si è fatto riferimento ai Reporting Stan-
+dard riportati nella seguente tabella (“GRI-referenced”).
+DNF = Dichiarazione Non Finanziaria
+Tabella di corrispondenza Standard GRI 
+Numero  Note/
+GRI Standard Disclosure Descrizione
+di pagina Omissioni 
+GRI 102- 
+General disclosure
+102-1 Nome dell’organizzazione Italgas S.p.A.
+102-1 Marchi, prodotti e servizi 11 - 13
+Profilo  102-6 Mercati serviti 11, 12
+organizzazione
+Informazione sui dipendenti 
+102-8 24, 33 - 50
+e altri lavoratori
+102-9 Catena di fornitura 14 - 18
+Governance 102-18 Struttura di governo 24 - 28
+Stakeholder 
+102-40 Lista dei gruppi di stakeholder 22
+engagement
+Entità incluse nel bilancio  nota 
+102-45
+finanziario consolidato metodologica
+Lista degli aspetti materiali 
+102-47 22, 23
+identificati
+Processo 
+di reporting Periodo a cui  nota 
+102-50
+si riferisce il report metodologica
+102-55 Indice GRI 70 - 72
+102-56 Assurance esterna  73 - 76
+Economic topics 
+(GRI 200)
+GRI 203 Impatti  Investimenti in infrastrutture  
+203-1 57 - 59
+economici indiretti e servizi supportati
+GRI 205  Rilievi su corruzioni confermati  
+205-3 31, 32
+Anticorruzione e azioni intraprese
+Italgas DIchIarazIone non FInanzIarIa consolIData 2017

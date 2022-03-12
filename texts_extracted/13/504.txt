@@ -1,0 +1,38 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+A.4 - INFORMATIVA SUL FAIR VALUE 
+INFORMATIVA DI NATURA QUALITATIVA
+A.4.1 Livelli di fair value 2 e 3: tecniche di valutazione e input utilizzati 
+Gli strumenti di livello 2 sono rappresentati da obbligazioni di terzi emittenti 
+nonché da alcuni strumenti derivati. I titoli appartenenti a questa categoria 
+vengono valutati sulla base di dati di mercato direttamente o indirettamente 
+osservabili. Il fair value delle obbligazioni viene calcolato come somma dei 
+valori attuali alla data di chiusura dell’esercizio dei flussi finanziari da essi 
+rivenienti. Il tasso di attualizzazione viene determinato come somma di due 
+componenti: 
+  il tasso privo di rischio;
+  lo spread creditizio.
+Il tasso privo di rischio viene dedotto dal valore implicito nei contratti IRS 
+(interest rate swap), mentre lo spread creditizio viene dedotto dal prezzo di 
+titoli obbligazionari della medesima emittente, con cedola fissa e scadenza 
+confrontabile col titolo valutato. Laddove non fossero presenti titoli della 
+medesima emittente, e per le obbligazioni proprie, viene utilizzato uno spread 
+creditizio dedotto da una media pesata dei valori osservati per i bond quotati 
+su mercati istituzionali delle principali banche italiane.
+Qualora i valori attesi dei flussi non siano determinati, ma dipendenti
+da variabili di mercato, essi sono individuati sulla base di:
+  tassi forward impliciti nei valori del tasso risk free per le diverse 
+scadenze;
+  volatilità implicite nei prezzi delle opzioni swaption, cap e floor.
+Il fair value degli strumenti finanziari derivati di livello 2 (rappresentati 
+da Amortizing Interest Rate Swap) è determinato tenendo conto del loro 
+livello di collateralizzazione: in particolare il valore dei contratti è calcolato 
+attualizzando i flussi da essi rivenienti a tassi dedotti dai valori impliciti nei 
+contratti OIS (Overnight Interest Swap) e nei contratti Basis Swap rilevanti.
+Gli asset di livello 3 sono rappresentati da:
+  quote di fondi Immobiliari,
+  posizioni in titoli di capitale,
+  quote del Fondo Atlante,
+La logica sottostante le valutazioni immobiliari mira a determinare un fair 
+value attraverso un mark to model, ossia un valore teorico derivato da 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 505

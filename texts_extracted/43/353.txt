@@ -1,0 +1,29 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+A.2  Derivati ﬁ nanziari di copertura: fair value lordo positivo e negativo - ripartizione 
+per prodotti
+FAIR VALUE POSITIVO E NEGATIVO
+31.12.2019 
+TIPOLOGIE DERIVATI OVER THE COUNTER
+CONTROPARTI  SENZA CONTROPARTI CENTRALI MERCATI 
+CENTRALI ORGANIZZATI
+CON ACCORDI  SENZA ACCORDI
+DI COMPENSAZIONE   DI COMPENSAZIONE 
+1. Fair value positivo
+a) Opzioni - - - -
+b) Interest rate swap - 20 - -
+c) Cross currency swap - - - -
+d) Equity swap - - - -
+e) Forward - - - -
+f) Futures - - - -
+g) Altri - - - -
+Totale - 20 - -
+2. Fair value negativo
+a) Opzioni - - - -
+b) Interest rate swap - 913 - -
+c) Cross currency swap - 17 - -
+d) Equity swap - - - -
+e) Forward - - - -
+f) Futures - - - -
+g) Altri - - - -
+Totale - 930 - -
+350 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

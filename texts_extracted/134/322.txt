@@ -1,0 +1,36 @@
+ 
+The increase in the item is mainly a result of application of the new standard. 
+The present value of the minimum future lease payments is €160.4 million (31 December 2018: €98.7 million) 
+as follows: 
+ 
+(€’000)  31 December 2018  31 December 2019 
+Minimum lease payments:     
+Due within one year  45,422  66,038 
+Due between one and five years  58,296  100,476 
+Due after five years  76  7,820 
+Total  103,794  174,334 
+Future interest expense  (5,058)  (13,952) 
+Net present value  98,736  160,382 
+     
+The net present value is as follows:     
+Due within one year  43,206  61,673 
+Due between one and five years  55,455  92,465 
+Due after five years  75  6,244 
+Total  98,736  160,382 
+ 
+26. Derivatives and other current financial liabilities 
+These items show the reporting-date fair value of the currency hedges. They may be broken down as follows: 
+(€’000)  31 December 2018  31 December 2019  Variation 
+Current portion  -  2,012  2,012 
+Total  -  2,012  2,012 
+       
+The following table analyses the item:       
+       
+(€’000)  31 December 2018  31 December 2019  Variation 
+Forward currency purchases and sales - FVTPL  -  2,012  2,012 
+Total derivatives presented in net financial indebtedness  -  2,012  2,012 
+       
+The following tables set out the characteristics of the derivative liabilities existing at 31 December 2019, showing 
+the company owning the contract and the related fair value at the reporting date: 
+ 
+   323 

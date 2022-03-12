@@ -1,0 +1,37 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+Sezione 5 – Passività ﬁnanziarie valutate al fair value – Voce 50
+(cid:24)(cid:17)(cid:20)(cid:3)(cid:51)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:68)(cid:79)(cid:3)(cid:73)(cid:68)(cid:76)(cid:85)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+31/12/2017  31/12/2016 
+Tipologia operazioni/Valori  FV  FV 
+VN  FV*  VN  FV* 
+L1  L2  L3  L1  L2  L3 
+1. Debiti verso banche  -   -   -   -   -   -   -   -   -  -  
+1.1 Strutturati  -   -  -  -   x  -   -   -   -   x 
+1.2 Altri  -   -  -  -   x  -   -   -   -   x 
+2. Debiti verso clientela  -   -   -   -   -   -   -   -   -  -  
+2.1 Strutturati  -   -  -  -   x  -   -   -   -   x 
+2.2 Altri  -   -  -  -   x  -   -   -   -   x 
+3. Titoli di debito  29.496  -   32.267  -   33.052  30.476  -   34.119  -  34.119 
+3.1 Strutturati  -   -  -  -   x  -   -   -   -   x 
+3.2 Altri  29.496  -  32.267  -   x  30.476  -   34.119  -   x 
+Totale  29.496  -   32.267  -   33.052  30.476  -   34.119  -  34.119 
+Legenda:
+FV   =  fair value
+FV* =  fair value calcolato escludendo le variazioni di valore dovute al cambiamento del merito creditizio dell’emittente rispetto alla data di emissio-
+ne
+VN  =  valore nominale o nozionale
+L1 =   Livello 1
+L2 =   Livello 2
+L3 =   Livello 3
+Negli anni passati si è adottata la cosiddetta “Fair value option” per le emissioni obbligazionarie coperte da stru-
+menti derivati al ﬁne di eliminare le difformità contabili (accounting mismatch) nella valutazione e rilevazione di utili/
+perdite conseguenti alla contabilizzazione delle obbligazioni coperte in base al criterio del costo ammortizzato e 
+degli strumenti di copertura al Fair value. 
+Il “Fair value” dei prestiti obbligazionari è determinato applicando lo “spread effettivo di emissione”, al ﬁne di garan-
+tire una valutazione più coerente con le transazioni del mercato retail al quale si riferiscono.
+Nel corso dell’anno 2013, anche al ﬁne di orientare la complessiva posizione ALM della Banca verso un approccio 
+maggiormente conservativo sul rischio tasso, si è proceduto all’unwind di taluni contratti derivati destinati alla co-
+pertura gestionale di prestiti obbligazionari emessi dalla Banca, con scadenza compresa tra il 2014 e il 2019, clas-
+siﬁcati nel portafoglio delle passività ﬁnanziarie valutate al Fair value. I prestiti continuano a essere valutati al Fair 
+value come da iniziale designazione.
+476

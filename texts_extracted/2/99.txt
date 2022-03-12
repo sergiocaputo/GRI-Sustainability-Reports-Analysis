@@ -1,0 +1,57 @@
+TABELLA N. 21 – I PRINCIPALI LIVELLI SPECIFICI E GENERALI DI QUALITÀ COMMERCIALE – DISTRIBUZIONE ENERGIA 
+(2018-2019) – (parametri ARERA e performance di Areti – 2018: dati comunicati all'ARERA; 2019: dati stimati)
+DISTRIBUZIONE ENERGIA
+LIVELLI SPECIFICI DI QUALITÀ COMMERCIALE
+PARAMETRI  tempo medio  tempo medio 
+ARERA – TEMPO  percentuale  percentuale 
+effettivo   effettivo  
+PRESTAZIONI MAX ENTRO   di rispetto  di rispetto 
+di esecuzione  di esecuzione 
+CUI ESEGUIRE   tempo max tempo max
+LA PRESTAZIONE prestazioni prestazioni
+2018 2019
+FORNITURE IN BASSA TENSIONE (BT)
+CLIENTI DOMESTICI PERFORMANCE ARETI
+preventivi per lavori su reti BT (connessioni ordinarie) 15 gg. lav. 7,18 96,80% 7,35 97,17%
+esecuzione di lavori semplici (connessioni ordinarie) 10 gg. lav. 8,05 86,02% 8,29 85,62%
+esecuzione di lavori complessi  50 gg. lav. 16,09 94,51% 15,13 96,74%
+attivazione della fornitura 5 gg. lav. 1,82 96,33% 1,42 96,53%
+disattivazione fornitura su richiesta cliente 5 gg. lav. 1,18 98,42% 0,86 98,47%
+riattivazione in seguito a sospensione per morosità 1 g. feriale 0,15 99,10% 0,21 99,33%
+ripristino fornitura in seguito a guasto del gruppo di misura 
+3 ore 2,40 78,49% 2,18 81,42%
+(richieste pervenute in gg. lavorativi dalle 8.00 alle 18.00)
+ripristino fornitura in seguito a guasto del gruppo di misura 
+4 ore 2,55 88,20% 2,25 89,87%
+(richieste pervenute in gg. non lavorativi o dalle 18.00 alle 8.00)
+fascia massima di puntualità per gli appuntamenti  
+2 ore n.a. 88,67% n.a. 87,30
+con il cliente
+CLIENTI NON DOMESTICI PERFORMANCE ARETI
+preventivi per lavori su reti BT (connessioni ordinarie) 15 gg. lav. 7,29 96,49% 7,58 96,46%
+esecuzione di lavori semplici (connessioni ordinarie) 10 gg. lav. 7,79 87,14% 9,74 84,14%
+esecuzione di lavori complessi   50 gg. lav. 16,31 94,49% 15,46 94,38%
+attivazione della fornitura 5 gg. lav. 2,13 94,97% 2,60 92,18%
+disattivazione fornitura su richiesta cliente 5 gg. lav. 7,72 93,63% 8,65 94,68%
+riattivazione in seguito a sospensione per morosità 1 g. feriale 0,18 98,78% 0,41 98,88%
+ripristino fornitura in seguito a guasto del gruppo di misura 
+3 ore 2,84 72,84% 2,52 75,68%
+(richieste pervenute in gg. lavorativi dalle 8.00 alle 18.00)
+ripristino fornitura in seguito a guasto del gruppo di misura 
+4 ore 2,72 86,80% 2,51 89,22%
+(richieste pervenute in gg. non lavorativi o dalle 18.00 alle 8.00)
+fascia massima di puntualità per gli appuntamenti  
+2 ore n.a. 81,73% n.a 89,50%
+con il cliente
+FORNITURE IN MEDIA TENSIONE (MT)
+CLIENTI FINALI PERFORMANCE ARETI
+preventivi per lavori su reti MT 30 gg. lav. 18,65 83,08% 15,92 91,40%
+esecuzione di lavori semplici 20 gg. lav. 5,27 100,00% 6 100,00%
+esecuzione di lavori complessi  50 gg. lav. 18,19 95,24% 23,92 95,12%
+attivazione della fornitura 5 gg. lav. 7,14 64,29% 5,31 71,88%
+disattivazione della fornitura su richiesta 7 gg. lav. 29,71 61,29% 10,50 73,08%
+riattivazione in seguito a sospensione per morosità 1 g. feriale 1,53 82,35% 0,81 81,82%
+fascia massima di puntualità per gli appuntamenti  
+2 ore n.a. 90,76% n.a. 83,33%
+con il cliente
+104 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

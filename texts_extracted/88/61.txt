@@ -1,0 +1,53 @@
+Sustainability Report 2019 – Mediaset Group – 3 ▪ Ethics, Integrity and Transparency in Business 
+for  managing  executive  risk  management  are identified in accordance with the level  access  to  systems,  spreading  of  viruses, 
+functions in everyday business activities.   of  risk  associated  with  the  loss  of  general attacks). 
+confidentiality, integrity and availability of 
+  On  25  May  2018,  European  Regulation 
+information. This protection must also be 
+679/2016 (a.k.a. the GDPR) on the protection 
+guaranteed  in  regard  to  relations  with 
+3.4   DATA PROTECTION AND  of  natural  persons  with  regard  to  the 
+third parties. 
+PRIVACY  processing of personal data and on the free 
+•  protection of data against unauthorised  movement  of  such  data  took  effect.  The 
+The protection of privacy and the data and  access,  while  ensuring  accessibility  for  Mediaset  Group –  in  observance  of  the 
+information  pertaining  to  clients  and  legitimate  purposes,  with  a  suitable  regulations in force (especially the European 
+subscribers is one of the principal concerns  degree of traceability.  Regulation, Legislative Decree No. 196 of 30 
+of the Mediaset Group.  June 2003 “Personal Data Protection Code” 
+A cyber risk assessment process has also 
+and  national  privacy  regulations) –  has 
+The  Group  has  prepared  a  special  set  of  been  implemented,  and  has  recently 
+adopted  a  compliance  programme  for 
+Organisational  Guidelines  on  Information  identified the principal areas of IT risk for the 
+privacy management (“Privacy Compliance 
+Security  Policy,  management  of  personal  Mediaset Group as well as the measures best 
+Programme”)  with  the  aim  of  optimising 
+data  and  the  protection  of  data.  These  suited  to  resisting  threats  and  mitigating 
+company processes linked to personal data 
+activities observe the following principles:  residual risk.  
+protection.  
+•  compliance  with  national  and  Among  the  most  important  initiatives 
+Mediaset has also issued an Organisational 
+international  legal  requirements,  with  undertaken  is  the  creation  of  a  Security 
+Guideline on data breaches that accidentally 
+particular reference to Legislative Decree  Operation Centre (SOC). The duties of the 
+or  unlawfully  result  in  destruction,  loss, 
+231/2001, L.262/2005 on the protection  SOC include  an early warning mechanism 
+alteration, unauthorised disclosure or access 
+of  savings  and  financial  markets  which  analyses  the  correlation  between 
+to  personal  data.  The  data  breach 
+regulations, and the European Regulation  accesses  to  information  systems  and  the 
+management plan was prepared in order to 
+(EU)  2016/679  on  the  processing  of  respective alarms so that security can be 
+implement, where necessary, the action plan 
+personal data.  managed  preventively,  identifying 
+and  any  notification  of  the  Supervisory 
+vulnerabilities in network components and 
+•  safeguards  on  adequate  measures  of  Authority within 72 hours of identification of 
+tracing  anomalous  or  dangerous  activity 
+the breach and communicate the breach to 
+protection  of  data  against  threats, 
+(unauthorised  exploration  of  the  network, 
+the  data  subject  should  the  rights  and 
+including cybersecurity; these measures 
+58 

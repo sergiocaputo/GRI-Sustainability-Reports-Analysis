@@ -1,0 +1,59 @@
+recupero di efficienza energetica nei processi gestiti, in particolare  l’efficientamento legato al consumo di energia elettrica evitato 
+presso le Società delle aree industriali Idrico, Infrastrutture ener- per recupero perdite idriche, è stato quantificato un valore pari a 
+getiche e Ambiente.  3,9 TJ (1,09 GWh), riferito al perimetro di Roma.
+Nel 2019, per l’area industriale Idrico, nonostante le numerose  In Acea Ato 5 l’efficientamento, pari a circa 2,4 TJ (0,68 GWh), 
+iniziative di efficientamento descritte nel seguito, si è registrato  è derivato dall’installazione di misuratori di pressione, inverter e 
+un incremento dei consumi di energia elettrica, pari al 13% ri- sonde di livello. 
+spetto al 2018, dovuto principalmente alle nuove acquisizioni di  Gori ha realizzato interventi di efficientamento connessi principal-
+impianti da parte di Gori129 e all’avvio di ulteriori infrastrutture da  mente alla distrettualizzazione della rete idrica e all’installazione di 
+parte di Acea Ato 2, tra cui: il potabilizzatore di Grottarossa130,  inverter, per complessivi 2 TJ (0,6 GWh) risparmiati.
+i nuovi comparti al depuratore Roma Nord (come la digestione  I consumi di Gesesa, in valore assoluto, sono diminuiti di circa 3,6 
+anaerobica e l’essiccamento termico dei fanghi) ed il comparto  TJ (1 GWh) rispetto al 2018; inoltre, sono in corso iniziative di effi-
+di ozonolisi dei fanghi presso il depuratore di Ostia. Gli inter- cientamento e revamping degli impianti, con l’installazione di appa-
+venti di efficientamento energetico condotti dalle Società sulle  recchiature più efficienti anche dal punto di vista energetico.
+attività ordinarie hanno in parte compensato l’aumento com-
+plessivo dei consumi. In area Infrastrutture energetiche, Areti ha proseguito nell’an-
+A tal riguardo, infatti, Acea Ato 2 ha ottenuto nel 2019, a fronte  no diversi interventi di efficientamento sulla rete di distribuzione 
+di un target di risparmio energetico annuale previsto pari a 4,7 TJ  dell’energia elettrica gestita:
+(1,3 GWh), un risparmio complessivo pari a 9,3 TJ (2,59 GWh).  •  l’impiego di 344 trasformatori MT/BT a bassissime perdite, 
+In particolare, per quanto riguarda il comparto idrico, mediante  che ha consentito una riduzione dei consumi elettrici pari a 
+significativi interventi rivolti al recupero della risorsa, sono stati  404 MWh;
+risparmiati circa 2 TJ (0,56 GWh) di energia elettrica, grazie ad  •  altri interventi sulla rete di distribuzione AT/MT/BT orientati 
+un intervento di efficientamento su cinque valvole di un gruppo di  all’ottimizzazione dell’assetto della rete MT e di altri adegua-
+pompaggio dell’impianto di Ceraso, mentre per quanto riguarda  menti per le linee AT e BT, per 946 MWh risparmiati.
+il comparto di depurazione si è registrata un’efficienza energetica  Nella tabella n. 60 sono riportate le tipologie di interventi e i re-
+pari a circa 3,4 TJ (0,93 GWh) mediante interventi di ottimiz- lativi risparmi energetici di Areti, relativi all’ultimo triennio. Tali ef-
+zazione del comparto di ossidazione dei depuratori di Fregene,  ficientamenti hanno portato, nel 2019, a un risparmio energetico 
+Palmarola e altri impianti minori (depuratori di: Reotula, Monte- complessivo pari a circa 5 TJ (1,4 GWh) e a circa 500 tonnellate 
+lungo, Vignacce, Grottoni e Santa Severa). Per quanto riguarda  di CO evitate. 
+2 
+TABELLA N. 60 – EFFICIENZA ENERGETICA IN ARETI (2017-2019)
+RISPARMIO ENERGETICO OTTENUTO (GJ)
+azione 2017 2018 2019
+riduzione delle perdite sulla rete  24.959  25.200 (*) 4.860 (**)
+  di cui riduzione perdite per acquisto nuovi trasformatori 662 1.112 1.454
+trasformazione a pompe di calore dell’impianto di climatizzazione  
+- 47 94
+e produzione di acqua calda sanitaria
+(*)  Valore consuntivato dopo studio analitico di rete.
+(**) Valore stimato in attesa di studio analitico di rete.
+I consumi per illuminazione pubblica nel 2019 sono scesi a circa 70  Areti monitora la percorrenza media e massima dei veicoli, su base 
+GWh (252 TJ) (erano 115,6 GWh e 416,2 TJ nel 2018), principal- giornaliera, il consumo specifico in km/kWh, il fattore di utilizzo 
+mente a seguito dell’installazione di lampade a tecnologia LED: da  delle batterie e la quantità di CO non emessa. I monitoraggi hanno 
+2 
+172.971 nel 2017 a 205.670 nel 2019, su un totale complessivo di  evidenziato: un totale di circa 65.000 km percorsi a cui sono cor-
+lampade pari a 225.730. risposti un consumo di energia elettrica di circa 10.000 kWh ed un 
+Un ulteriore contributo positivo è stato fornito dai 25 veicoli elet- risparmio di circa 6.200 kg di CO, al netto delle emissioni relative 
+2
+trici in uso dal personale della Società, in modalità car sharing. all’energia consumata.
+GRAFICO N. 52 – I DATI DEL CAR SHARING (2019)
+emissi utenti flotta km n.
+o
+ni zero registrati attiva percorsi viaggi
+183 25 65.038 3.246
+129   Da febbraio 2019 Gori ha acquisito la gestione di: un campo pozzi di Angri, impianti regionali zona Sarnese comprese le grandi centrali di Santa Maria La Foce e Santa 
+Marina di Lavorate (Sarno); impianti e centrali regionali zona Monti Lattari e Penisola Sorrentina compresa la Centrale Idrica di Sepolcri (Gragnano). Acquisiti inoltre, 
+sempre nell’anno, il depuratore di Bosco Fangone (Nola) e i relativi sollevamenti adducenti e l’impianto di depurazione di Nocera (Nocera).
+130   Oltre all’avvio del nuovo potabilizzatore Grottarossa, è stato utilizzato, in via ordinaria, l’impianto Cecchina Bis: fino al 2018 era utilizzato in maniera saltuaria come 
+riserva, mentre, a partire dalla fine del 2018 in modo ordinario per non utilizzare più la precedente riserva del lago di Bracciano.
+LE RELAZIONI CON L’AMBIENTE 193

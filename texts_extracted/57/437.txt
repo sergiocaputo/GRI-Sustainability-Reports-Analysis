@@ -1,0 +1,48 @@
+Bilancio Consolidato 2017
+•  il numero di contributori, scelti in base alla loro competenza sul segmento di mercato considerato, l’afﬁdabilità 
+nonché la continua presenza su quel segmento;
+•  la frequenza nella quotazione del prezzo, ovvero l’aggiornamento periodico del dato quotato;
+•  la presenza di un prezzo “denaro” (cd. “bid”) e di un prezzo “lettera” (cd. “ask”);
+•  una differenza accettabile tra le quotazioni “denaro” e “lettera”;
+•  il volume di scambi trattati: occorre che tale volume sia consistente al ﬁne di poter considerare i prezzi che si 
+generano da tali scambi signiﬁcativi;
+•  l’eventuale presenza di dealers, brokers e market makers.
+È opportuno precisare, tuttavia, che la quotazione di un titolo in un mercato regolamentato non è di per sè indicativa 
+della “liquidità” del titolo stesso e quindi dell’esistenza di un mercato attivo. Infatti, pur essendo negoziato in un mer-
+cato ufﬁciale, un titolo potrebbe non avere un numero di scambi ragionevolmente rilevante tale da poter concludere 
+che il prezzo formatosi sul mercato risulti signiﬁcativamente rappresentativo del Fair value.
+Ai ﬁni della determinazione del Fair value, deve essere quindi considerata la quotazione dello strumento non rettiﬁ-
+cata facendo riferimento al mercato principale o, in assenza di quest’ultimo, a quello più vantaggioso.
+Pertanto, il prezzo quotato in un mercato attivo fornisce la prova più attendibile del Fair value e, quando disponibile, 
+è utilizzato senza alcuna modiﬁca. Eventuali rettiﬁche comporterebbero la classiﬁcazione dello strumento ﬁnanzia-
+rio a un livello inferiore (per esempio, quando non vi è l’immediata accessibilità dell’informazione o la disponibilità 
+del prezzo alla data di valutazione).
+Per quanto riguarda i titoli di debito, la valorizzazione del titolo avviene alla data di riferimento senza apportare al-
+cuna rettiﬁca alla quotazione di mercato rilevata alla medesima data. Con particolare riferimento ai titoli quotati in 
+un mercato attivo “regolamentato”, il prezzo considerato per la valutazione è quello “Ufﬁciale”, riveniente dal listino 
+delle quotazioni pubblicato.
+Sono considerati di norma mercati principali:
+i.  i circuiti MOT e MTS per i Titoli di Stato e per i titoli obbligazionari non governativi;
+ii.  i tassi di cambio ufﬁciali BCE di giornata per le operazioni in cambi spot.
+Le precedenti considerazioni si applicano anche alle posizioni corte (a esempio gli scoperti tecnici) in titoli.
+Per gli strumenti ﬁnanziari quotati su mercati attivi deve essere utilizzato il prezzo medio di offerta (c.d. “mid price”) 
+alla chiusura del periodo di riferimento.
+Le principali fonti da utilizzare per l’acquisizione dei prezzi ai ﬁni contabili sono primarie piattaforme di contribuzione 
+(per esempio, Bloomberg, Telekurs).
+Per i titoli di capitale e per le quote di OICR, la cui valutazione è desunta da primarie piattaforme di contribuzione 
+(per esempio Bloomberg), sempre rappresentative di un mercato attivo, il Fair value determinato dal Gruppo coin-
+cide con il prezzo di chiusura delle contrattazioni alla data di riferimento.
+Analogamente a quanto evidenziato in precedenza relativamente ai titoli di capitale, in presenza di un mercato at-
+tivo, il Gruppo valuta gli strumenti derivati quotati facendo riferimento al prezzo riveniente dal mercato principale, 
+oppure, ove mancante, da quello più vantaggioso attribuibile allo strumento oggetto della valutazione. La quota-
+zione di mercato è fornita giornalmente da una primaria “clearing house” ed è comunque reperibile sui più comuni 
+info-provider.
+“Livello 2”: qualora non si ricada nella casistica precedente (Livello 1), si dovrà ricorrere a una tecnica valutativa (c.d. 
+modelli di “pricing”) che utilizzi esclusivamente input osservabili direttamente o indirettamente sul mercato (per 
+esempio, tramite canali informativi come Borse, info-provider, broker, siti internet ecc.). Gli input di Livello 2 com-
+prendono:
+•  prezzi di mercato di strumenti con caratteristiche similari a quello oggetto di valutazione che siano quotati su un 
+mercato attivo;
+•  prezzo di mercato dello strumento oggetto di valutazione o di uno strumento similare quotato in un mercato non 
+attivo;
+437

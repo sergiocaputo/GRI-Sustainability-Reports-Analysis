@@ -1,0 +1,48 @@
+erate in various capacities on the grid infrastructure, Enel 
+carries out continuous grid development and efficiency 
+measures. Maintenance and modernisation work on the 
+grid is carried out to reduce the number and duration of 
+service interruptions. This also allows real-time monitor-
+ing, guaranteeing timely intervention to repair faults and 
+ensure an optimum energy supply. In this context, remote 
+control systems play a key role, allowing local operating 
+centres to carry out all the operations necessary to ensure 
+continuity of the electricity service provided. Even from 
+the point of view of network losses, digitalization of the 
+infrastructure and the use of a remote management sys-
+tem, combined with the use of electronic smart meters, 
+allow greater effectiveness to be achieved in monitoring 
+energy balances, while reducing fraud and enabling new 
+services that market operators can offer to customers. 
+After several years of experience with smart grids, Enel 
+has launched a new enabling technology known as Net-
+work Digital Twin®, a 3D digital model that faithfully 
+replicates the electricity infrastructure, from its individual 
+physical elements to the most complex operational dy-
+namics. It is a large-scale application of Industry 4.0 tech-
+nology, which integrates network automation, the Internet  bility, safety, waste reduction and the urban environment. 
+of Things and 3D modelling with advanced data manage- Smart meters are the cornerstone of distribution net-
+ment (machine learning, artificial intelligence, etc.). In  work innovation and digitalization work, the driving force 
+addition to improving network management, it allows an  behind urban redevelopment and fundamental enablers 
+open ‘ecosystem’ to be created to encourage information  of advanced home automation. From the beginning, their 
+sharing for the benefit of people and cities, improving the  installation has been accompanied by specific information 
+quality of the service, the relationship and the involve- and awareness campaigns, given that energy savings of 
+ment of all stakeholders. Thanks to the advanced plat- 10% can be achieved by using this technology, particular-
+forms, therefore, more information can be made available  ly thanks to the real-time availability of energy use infor-
+and the data from the electricity grid can be accessed in  mation. By the end of 2019, 44.7 million end users had an 
+a more timely and detailed manner, promoting awareness  active smart meter and 13.1 million end users had second 
+of the use of energy, efficiency and savings. As part of the  generation meters (CE2G). In addition to transmitting de-
+“Urban Futurability” project, in October 2019, the dis- tailed measurement data (daily four-hour load curves) to 
+trict of Vila Olímpia in São Paulo, Brazil, saw the launch  the concentrator, the latter provide a customer-dedicated 
+of Latin America’s first Network Digital Twin, which  communication channel called “Chain 2”, which allows 
+improves urban resilience and creates opportunities for  data to be sent between the CE2G and in-home devic-
+an extraordinary range of new services and benefits for  es. Greater transparency of information relating to ener-
+the cities of the future on an infinitely larger scale that is  gy use, energy exchanges with the grid and production 
+more compatible with the gigantic dimensions that demo- in the case of “prosumer” users is possible and the de-
+graphic projections envisage for megacities by 2050. This  velopment of the home automation and active demand 
+project shows that the digitalization of electricity grids,  market is encouraged. Customers therefore become pro-
+buildings and urban infrastructure can take place in a real  tagonists and have the opportunity to participate in the 
+living laboratory. Citizens, business owners, municipal- energy market and be remunerated for offering flexibility 
+ities and universities can co-create innovative solutions  to the electricity system, reducing or increasing energy 
+that integrate infrastructure with local needs, such as mo- use or production/input. In particular, “Chain 2” provides 
+80 Sustainability Report 2019

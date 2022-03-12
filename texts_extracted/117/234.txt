@@ -1,0 +1,39 @@
+GRI CONTENT INDEX
+TOPIC-SPECIFIC STANDARDS
+GRI Standard Disclosure N° pagina
+GRI 300: INDICATORI DI PERFORMANCE AMBIENTALE 
+Topic: Energia
+GRI-103: Gestione della tematica 
+103-1 Materialità e perimetro 61-68; 226-227
+103-2 Approccio alla gestione della tematica 72-73; 187-188
+103-3 Valutazione dell'approccio alla gestione della tematica 187-188
+GRI 302: Energia 
+302-1 Consumi di energia all’interno dell’organizzazione 188
+302-3 Energy intensity  188
+Topic: Acqua
+GRI-103: Gestione della tematica 
+103-1 Materialità e perimetro 61-68; 226-227
+103-2 Approccio alla gestione della tematica 72-73; 189
+103-3 Valutazione dell'approccio alla gestione della tematica 189
+GRI 303: Acqua 
+303-1 Prelievo totale di acqua per fonte 189
+AO4 Qualità delle acque meteoriche secondo la normativa vigente 124
+Topic: Biodiversità
+GRI-103: Gestione della tematica 
+103-1 Materialità e perimetro 61-68; 226-227
+103-2 Approccio alla gestione della tematica 72-73; 212-213
+103-3 Valutazione dell'approccio alla gestione della tematica 212-213
+GRI 304: Biodiversità 
+Localizzazione e dimensione dei terreni posseduti, affittati oppure 
+304-1 gestiti all’interno o nelle vicinanze di aree protette oppure di aree ad  212-213
+alto valore per la biodiversità anche se al di fuori di aree protette
+Descrizione degli impatti significativi delle attività, dei prodotti e servizi 
+304-2 sulla biodiversità all’interno di aree protette oppure di aree ad alto  212-213
+valore per la biodiversità anche se al di fuori di aree protette
+304-3 Habitat protetti o ripristinati 212-213
+Numero delle specie elencate nella lista rossa IUCN e nelle liste 
+nazionali delle specie protette che trovano il proprio habitat nelle aree 
+304-4 212-213
+di operatività dell'organizzazione, suddivise per livello di rischio di 
+estinzione
+Dichiarazione consolidata non finanziaria 2018   •   233

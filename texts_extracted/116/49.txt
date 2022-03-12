@@ -1,0 +1,21 @@
+[302-1; 303-5] 
+I nostri consumi
+520
+m3
+USI USI SPECIFICI ENPI
+flotta automezzi auto, autocarri lit / km
+167.140
+litri
+USI USI SPECIFICI ENPI
+riscaldamenti uffici caldaia Smc / gg
+7.912
+Smc
+USI USI SPECIFICI ENPI
+forza uffici PC, stampanti
+illuminazione uffici  corpi illuminanti
+kWh / mq
+climatizzazione estiva gruppo frigorifero
+ausiliari CT pompe, dispositivi
+87.045
+kWh
+50

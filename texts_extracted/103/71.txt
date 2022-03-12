@@ -1,0 +1,59 @@
+Sustainability Report at 31 March 2019 of the Piquadro Group 
+ 
+GRI 
+Page  Omissions  Description 
+Standard  
+ 
+FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING 
+GRI 103: Management Approach (2016) 
+103-1  22,24    Explanation of material topic and its boundary 
+103-2  4,17,46    The management approach and its components 
+103-3  17,46    Evaluation on the management approach 
+GRI 407: Freedom of association and collective bargaining (2016) 
+  Operations and suppliers in which the riht to 
+407-1  17  freedom of association and collective bargaining 
+may be at risk 
+CHILD LABOUR 
+GRI 103: Management Approach (2016) 
+103-1  22,24    Explanation of material topic and its boundary 
+103-2  4,17,46    The management approach and its components 
+103-3  17,46    Evaluation on the management approach 
+GRI 408: Child labour (2016) 
+  Operations and suppliers at significant risk for 
+408-1  17 
+incidents of child labor 
+FORCED LABOUR 
+GRI 103: Management Approach (2016) 
+103-1  22,24    Explanation of material topic and its boundary 
+103-2  4,17,46    The management approach and its components 
+103-3  17,46    Evaluation on the management approach 
+GRI 409: Forced labour (2016) 
+  Operations and suppliers at significant risk for 
+409-1  17 
+incidents of forced or compulsory labour. 
+HUMAN RIGHTS ASSESSMENT  
+GRI 103: Management Approach (2016) 
+103-1  22,24    Explanation of material topic and its boundary 
+103-2  4,17,46    The management approach and its components 
+103-3  17,46    Evaluation on the management approach 
+GRI 412: Human rights assessment (2016) 
+  Employee training on human rights policies or 
+412-2  52 
+procedures  
+SUPPLIERS SOCIAL ASSESSMENT  
+GRI 103: Management Approach (2016) 
+103-1  22-23    Explanation of material topic and its boundary 
+103-2  5,42-45    The management approach and its components 
+103-3  42-45    Evaluation on the management approach 
+GRI 414 Supplier social assessment (2016) 
+  New suppliers that were screened using social 
+414-1  45 
+criteria  
+CUSTOMER HEALTH AND SAFETY  
+GRI 103: Management Approach (2016) 
+103-1  22.24    Explanation of material topic and its boundary 
+103-2  17.39    The management approach and its components 
+103-3  39    Evaluation on the management approach 
+71 
+ 
+ 

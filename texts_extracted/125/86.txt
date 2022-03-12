@@ -1,0 +1,33 @@
+0,03
+0,025
+0,02
+0,015
+0,01
+0,005
+0
+2017 2018 2019
+WATER CONSUMPTION Ofﬁces/HOURS WORKED SECH [mc/h]
+WATER CONSUMPTION Ofﬁces/HOURS WORKED TDT [mc/h]
+Linear (WATER CONSUMPTION Ofﬁces/HOURS WORKED SECH [mc/h])
+Linear (WATER CONSUMPTION Ofﬁces/HOURS WORKED TDT [mc/h])
+Chart 14: Water consumption trend
+Y
+T
+BILI
+A
+N
+AI
+T
+US
+AL S
+T
+N
+E
+M
+N
+O
+R
+VI
+N
+E
+SECH • TDT 2019 Sustainability Report | 87 

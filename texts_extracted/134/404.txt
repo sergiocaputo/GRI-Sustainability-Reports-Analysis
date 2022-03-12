@@ -1,0 +1,45 @@
+ 
+Separate financial statements 
+Statement of financial position as at 1 January 2019 
+           
+EQUITY AND LIABILITIES  Published 31  IFRS 16 FTA  IFRS 16  IFRIC 23 FTA  Restated                  
+December 2018  reclassifications   1 January 2019 
+(€’000)           
+Equity           
+Share capital  544,740        544,740 
+Share premium reserve  120,798        120,798 
+Other reserves  188,891        188,891 
+Other comprehensive income  343        343 
+Losses carried forward and profit for the year   (9,573)  828    (8,000)  (16,745) 
+Equity   845,199  828  -  (8,000)  838,027 
+Non-current liabilities           
+Bank and other loans and borrowings  552,180        552,180 
+Bonds  1,088,158        1,088,158 
+Finance lease liabilities  16,596    (16,596)    - 
+Lease liabilities  -  30,596  16,596    47,192 
+Post-employment benefits and employee 
+11,667        11,667 
+benefits 
+Deferred tax liabilities  18,994  215      19,209 
+Provisions for risks   48,605        48,605 
+Total non-current liabilities  1,736,200  30,811  -  -  1,767,011 
+Current liabilities           
+Current portion of bank loans and borrowings 
+931,775        931,775 
+and current account facilities 
+Current portion of bonds  13,295        13,295 
+Current portion of finance lease liabilities  17,113    (17,113)    - 
+Current portion of lease liabilities    10,535  17,113    27,648 
+Contract liabilities  626,681        626,681 
+Trade payables  1,514,680  (1,172)      1,513,508 
+Current tax liabilities  76,887      8,000  84,887 
+Other current tax liabilities  15,897        15,897 
+Other current liabilities  137,608        137,608 
+Total current liabilities  3,333,936  9,363  -  8,000  3,351,299 
+Non-current assets held for sale and            
+discontinued operations           
+Total equity and liabilities  5,915,335  41,002  -  -  5,956,337 
+           
+ 
+   
+   405 

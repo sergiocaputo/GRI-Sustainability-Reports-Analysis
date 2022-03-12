@@ -1,0 +1,47 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+si rilevano, invece, pronti contro termine passivi ricompresi tra i Debiti verso clientela (al 31 dicembre 2016 erano 
+pari ad euro 1.403,3 milioni). 
+Ciò ha comportato la costituzione di depositi cauzionali sotto forma di Margini iniziali e Default Fund per euro 132,2 
+milioni al 31 dicembre 2017 (euro 38,9 milioni al 31 dicembre 2016).
+Sezione 3 – Titoli in circolazione – Voce 30
+(cid:22)(cid:17)(cid:20)(cid:3)(cid:55)(cid:76)(cid:87)(cid:82)(cid:79)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:70)(cid:76)(cid:85)(cid:70)(cid:82)(cid:79)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+  31/12/2017    31/12/2016 
+Tipologia titoli / Valori  (cid:41)(cid:68)(cid:76)(cid:85)(cid:3)(cid:57)(cid:68)(cid:79)(cid:88)(cid:72)(cid:3) (cid:41)(cid:68)(cid:76)(cid:85)(cid:3)(cid:57)(cid:68)(cid:79)(cid:88)(cid:72)(cid:3)
+Valore Bilancio  Valore Bilancio 
+Livello 1  Livello 2  Livello 3  Livello 1  Livello 2  Livello 3 
+A. Titoli  (cid:16)(cid:3) (cid:16)(cid:3) (cid:16) (cid:16) (cid:16) (cid:16)(cid:3) (cid:16)(cid:3) (cid:16)
+1. Obbligazioni  1.150.213  -  1.156.896  -  400.806 -  411.426  - 
+1.1 strutturate  -  -  -  -  - -  -  - 
+1.2 altre  1.150.213  -  1.156.896  -  400.806 -  411.426  - 
+2. Altri titoli  229.596  -  -  229.596  217.381 -  -  217.381 
+2.1 strutturati  -  -  -  -  - -  -  - 
+2.2 altri  229.596  -  -  229.596  217.381 -  -  217.381 
+Totale  1.379.809  -  1.156.896  229.596  618.187 -  411.426  217.381 
+(cid:3)
+(cid:22)(cid:17)(cid:21)(cid:3)(cid:39)(cid:72)(cid:87)(cid:87)(cid:68)(cid:74)(cid:79)(cid:76)(cid:82)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:68)(cid:3)(cid:89)(cid:82)(cid:70)(cid:72)(cid:3)(cid:22)(cid:19)(cid:3)(cid:180)(cid:55)(cid:76)(cid:87)(cid:82)(cid:79)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:70)(cid:76)(cid:85)(cid:70)(cid:82)(cid:79)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:181)(cid:29)(cid:3)(cid:87)(cid:76)(cid:87)(cid:82)(cid:79)(cid:76)(cid:3)(cid:86)(cid:88)(cid:69)(cid:82)(cid:85)(cid:71)(cid:76)(cid:81)(cid:68)(cid:87)(cid:76)
+Saldo 
+Emittente  Descrizione  Data di emissione  Data di scadenza 
+31/12/2017 
+Banca Popolare di Bari a Tasso Misto Subordinato Upper Tier 
+26/06/2009  26/06/2019    23.758 
+II 26/06/2009 – 26/06/2019 
+Banca Popolare di Bari Subordinato a Tasso fisso 5.50% 
+15/04/2014  15/04/2019    13.151 
+15/04/2014 - 15/04/2019 
+Banca Popolare di 
+Bari  Banca Popolare di Bari Subordinato TIER II a Tasso fisso  25/07/2014  25/07/2020    50.192 
+5.60% 25/07/2014 - 25/07/2020 
+Banca Popolare di Bari a Tasso Fisso 6,50% 2014-2021 
+30/12/2014  30/12/2021    212.890 
+Subordinato TIER II  
+Banca Popolare di Bari a Tasso Fisso 6,50% 2015-2020 
+27/11/2015  27/11/2020    6.036 
+Subordinato TIER II  
+Totale    306.027 
+ 
+I prestiti subordinati non convertibili costituiscono “strumento di classe 2” ai sensi del Regolamento Europeo n.575 
+del 2013 (CRR), così come deﬁnito dalle Istruzioni di Vigilanza della Banca d’Italia. Tali prestiti sono regolati dalla 
+clausola di subordinazione secondo la quale, in caso di liquidazione della Banca, le obbligazioni saranno rimborsate 
+solo dopo che siano stati soddisfatti gli altri creditori non ugualmente subordinati. Tutti i predetti prestiti possiedono 
+i requisiti previsti dalla Banca d’Italia per la loro inclusione nel Capitale di classe 2.
+474

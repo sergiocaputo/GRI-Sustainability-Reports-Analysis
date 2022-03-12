@@ -1,0 +1,86 @@
+2 Governance A2A Bilancio Integrato 2018
+Progetto di adeguamento al GDPR Politica per la Qualità, l'Ambiente e la Sicurezza e Politica di 
+Sostenibilità Lettera agli 
+Dal 25 maggio del 2018 è applicabile in tutti i  Impianto organizzativo: stakeholder
+Paesi facenti parte dell’Unione Europea, il nuovo  •  identificazione del citato modello organizzativo 
+Con riferimento alle politiche adottate  di identificazione e valutazione dei rischi 
+regolamento sulla protezione dei dati personali  privacy, con la relativa definizione dei ruoli e  Nota 
+dall’impresa relative alle tematiche di  avanzati), una costante tensione all’innovazione 
+metodologica
+2016/679, denominato GDPR. Al fine di rispondere  responsabilità e l’introduzione della nuova figura 
+sostenibilità, A2A si è dotata nel tempo di  tecnologica e un orientamento allo sviluppo del 
+ai requisiti del GDPR, il Gruppo A2A si è dotato di un  del Data Protection Officer (DPO) e del modello di  specifiche policy aziendali, decidendo di adottare  proprio capitale umano;  1 
+modello di organizzazione e gestione dei dati personali  gestione;  sempre più politiche, estese a tutto il Gruppo,  -  la Politica di Sostenibilità, definita in linea con  Il Gruppo A2A 
+in grado di tutelare l’interessato e garantire la corretta  •  predisposizione degli strumenti a supporto del  e il suo modello 
+volte a regolare in maniera omogenea gli aspetti  le priorità dell’Agenda 2030 e i 17 Obiettivi di 
+di business
+applicazione della normativa in materia di protezione  trattamento dei dati personali. In particolare,  legati a temi di governance, ambientali e sociali. Sviluppo Sostenibile (SDGs) definiti dall’ONU 
+dei dati personali. è stato introdotto il Registro dei Trattamenti. 
+(si veda pag. 33). 2
+Sulla base dei trattamenti ad alto rischio nei confronti  In particolare si fa riferimento a:  Governance
+In particolare, il modello organizzativo di A2A prevede  dei diritti e della libertà degli interessati, viene  -  la Politica per la Qualità, l’Ambiente e la  A2A ha inoltre predisposto diverse linee guida e  Governance 
+ruoli e responsabilità dei soggetti coinvolti, nonché  pianificata e condotta una valutazione dell’impatto  Sicurezza del Gruppo (QAS), con cui A2A  procedure interne sugli aspetti di sostenibilità,  di Sostenibilità
+misure organizzative e tecniche necessarie per un  del trattamento (DPIA) con lo scopo di individuare  si impegna a garantire, nell’ambito delle  adottate a livello di Gruppo e declinate nello  Linee guida di 
+corretto governo dei trattamenti, in linea con la  le misure di sicurezza necessarie a ridurre il livello  governo societario
+proprie attività e nel rispetto del MOG, del  specifico dalle Società del Gruppo, quali ad 
+normativa vigente. Nello specifico sono stati individuati  di rischio; Codice Etico e dei valori aziendali, un sempre  esempio: la Linea guida 001.0020 (Gestione  Analisi e gestione 
+i seguenti ruoli, oltre a quelli previsti dalla normativa  •  mappatura e revisione delle informative verso i  maggiore coinvolgimento degli stakeholder,  degli scarichi idrici), la Linea guida 001.0023  dei rischi e delle 
+opportunità
+vigente (Titolare del trattamento, Responsabile del  dipendenti e clienti e creazione di un processo di  una solida compliance nei confronti della  (Emissioni in atmosfera), la Linea guida 001.0028 
+trattamento, Responsabile della Protezione dei Dati,  nomina dei responsabili del trattamento, con la 
+normativa che riguarda l’azienda, una forte  (Gestione sistema ambiente, salute e sicurezza),  3
+persone autorizzate al trattamento): definizione di clausole contrattuali standard verso i  attenzione alla tutela della salute e della  la procedura 201.001 (Selezioni ed assunzioni  Strategia di 
+•  Referenti Privacy, che agiscono quali focal point per  fornitori; sostenibilità
+sicurezza dei lavoratori (attraverso strumenti  di A2A). 
+tutte le tematiche inerenti la Privacy all’interno della  •  formazione verso tutto il personale ed, in particolare, 
+4
+propria struttura organizzativa/società; il personale coinvolto nel trattamento dei dati 
+Stakeholder 
+•  Data Manager, identificati nelle persone fisiche  personali. engagement 
+preposte alla conduzione delle strutture  Sistemi di Gestione Qualità, Ambiente e Sicurezza e Analisi di 
+organizzative aziendali di particolare rilevanza  Trattamento dei dati, con particolare focus sui diritti  materialità
+L’attuazione di queste politiche è in parte svolta attraverso sistemi di gestione certificati secondo le 
+rispetto al trattamento dei dati personali. degli interessati, tracciatura dei consensi e politiche di 
+principali norme volontarie, riconosciute a livello internazionale, quali la ISO14001 per l’ambiente,  5
+Data Retention:
+Capitale 
+la ISO9001 per la qualità, la OHSAS18001 per la salute e la sicurezza sul lavoro e la ISO 50001 sui 
+Il Gruppo, inoltre, ha avviato una serie di azioni  •  individuazione di soluzioni “tattiche”, di processo e  Finanziario
+sistemi di gestione dell'energia, o comunitario, come la Registrazione EMAS, che fa riferimento al 
+di adeguamento che hanno previsto una fase  tecnologiche, da mettere in atto nel breve termine; 
+preliminare di assessment, con lo scopo di: analizzare  •  attività di mappatura dei processi e dati per il disegno  Regolamento CE 1221/09. 6
+Capitale 
+il modello di governo della Data Privacy in essere;  e analisi funzionale di soluzioni di “ottimizzazione” di 
+Manifatturiero
+Figura 2_Certificazioni del Gruppo
+rilevare le principali aree di intervento e le relative  medio-lungo periodo. 
+azioni da attuare al fine di adeguarsi al regolamento;  7
+NUMERO TOTALE DI CERTIFICATI E  QUALITÀ  AMBIENTE  SICUREZZA  ISO 50001 EMAS
+definire le priorità e il piano di adeguamento.  Protezione dei dati, in termini di sicurezza e gestione  REGISTRAZIONI ATTIVE ISO 9001 ISO 14001 OHSAS 18001 Capitale 
+Naturale
+dei data breach:
+2016 20 18 16 - 24
+Secondo le priorità definite dallo Steering Committee  •  attività di Vulnerability Assessment e Penetration 
+8
+2017 34 29 29 1 28
+del progetto, sono stati avviati tavoli di lavoro specifici,  Test (VAPT), ricertificazione delle utenze e attività di  Capitale 
+composti dai referenti del business di ciascuna delle  verifica sulle terze parti che trattano dati personali di  2018 28 25 25 3 27 Umano
+società in perimetro, delle service line ICT e delle  titolarità delle società del Gruppo;
+9
+strutture organizzative di Affari Legali e Compliance,  •  implementazione di soluzioni infrastrutturali relative 
+Capitale 
+allo scopo di individuare le opportune soluzioni di  alla realizzazione di un nuovo File Server, cifratura dei  Intellettuale
+processo e tecnologiche. Il piano di interventi articolato  notebook, ecc..
+dalla Capogruppo ha previsto le attività descritte nel  10
+Capitale 
+seguito.  Il piano definito dalla struttura organizzativa Group ICT 
+Relazionale
+prevede interventi di ottimizzazione ed investimenti da 
+qui al 2020.
+Relazione 
+della Società 
+di Revisione
+GRI 
+Content 
+Index
+22 23

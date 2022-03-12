@@ -1,0 +1,28 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+6. Analisi e presidio dei rischi
+Rischio di tasso di inflazione sui flussi 
+finanziari
+È definito come l’incertezza relativa al conseguimento di flussi finanziari futuri a seguito di fluttuazioni dei tassi di inflazione 
+rilevati sul mercato.
+Di seguito, l’esito dell’analisi di sensitività al rischio di inflazione sui flussi finanziari, effettuata al 31 dicembre 2017 sulle posizioni 
+del Gruppo Poste Italiane.
+Gruppo Poste Italiane - Rischio tasso di inflazione sui flussi finanziari
+Esposizione al rischio Delta valore Effetto su Passività differite  Risultato prima  
+verso gli assicurati delle imposte
+Descrizione
+(milioni di euro) Nominale Fair value +100bps -100bps +100bps -100bps +100bps -100bps
+Effetti 2017
+Attività finanziarie 
+Investimenti disponibili per la vendita 12.475  14.136  43  (43) 40  (40) 3  (3)
+Titoli a reddito fisso  12.475  14.136  43  (43) 40  (40) 3  (3)
+Variabilità al 31 dicembre 2017 12.475  14.136  43  (43) 40  (40) 3  (3)
+Effetti 2016
+Attività finanziarie 
+Investimenti disponibili per la vendita 9.825  11.399  37  (37) 35  (35) 2  (2)
+Titoli a reddito fisso  9.825  11.399  37  (37) 35  (35) 2  (2)
+Variabilità al 31 dicembre 2016 9.825  11.399  37  (37) 35  (35) 2  (2)
+Al 31 dicembre 2017, il rischio di tasso di inflazione sui flussi finanziari riguarda i titoli di Stato indicizzati all’inflazione, che non 
+sono stati oggetto di copertura di cash flow hedge o fair value hedge. Del valore nominale complessivo, 10.320 milioni di euro 
+sono detenuti dal Gruppo Poste Vita e 2.145 milioni di euro dal Patrimonio BancoPosta.
+375

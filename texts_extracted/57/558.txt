@@ -1,0 +1,56 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+“asset backed”, con tranche senior (A1) sottoscritta congiuntamente dai due Originator e junior (B1 e B2) in stretta 
+relazione al portafoglio ceduto da ciascun Originator.
+(cid:3)
+Data  Valore  Valore 
+Rating  
+Titolo  Classe  Piazza Quotazione  Tasso/Spread  rimborso  nominale  residuo a  Sottoscrittore 
+DBRS/Moody’s 
+finale  emesso  fine esercizio 
+Euribor 
+A1  Senior  Borsa Irlandese  Aa3/AA  30/11/2065  392.300  227.665  di cui: 
+3M/0,80 
+(cid:21)(cid:22)(cid:25)(cid:17)(cid:20)(cid:19)(cid:19)(cid:3) (cid:37)(cid:68)(cid:81)(cid:70)(cid:68)(cid:3)(cid:55)(cid:72)(cid:85)(cid:70)(cid:68)(cid:86)(cid:3)
+            (cid:3)
+(cid:20)(cid:24)(cid:25)(cid:17)(cid:21)(cid:19)(cid:19)(cid:3) (cid:37)(cid:68)(cid:81)(cid:70)(cid:68)(cid:3)(cid:38)(cid:68)(cid:85)(cid:76)(cid:83)(cid:72)(cid:3)
+            (cid:3)
+Euribor 
+B1  Junior  n.q.  not rated  30/11/2065  42.374  42.374  Banca Tercas 
+3M/2,00 
+Euribor 
+B2  Junior  n.q.  not rated  30/11/2065  28.030  28.030  Banca Caripe 
+3M/2,00 
+Totale  462.704  298.069 
+           
+(cid:3) (cid:3) (importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+(cid:3)
+Al ﬁne di coprirsi dal rischio tasso, la Società Veicolo ha stipulato con JPMorgan appositi contratti derivati (front 
+swap). Identiche strutture ﬁnanziarie sono state poi replicate tra JPMorgan e Banca Popolare di Bari (back to back 
+swap).
+Ex Banca Tercas/ex Banca Caripe: Abruzzo 2015 SME Srl
+Nel corso dell’esercizio 2015 Banca Tercas ha realizzato, assieme alla controllata Banca Caripe, un’operazione di 
+cartolarizzazione “multi-originator” di mutui ipotecari e chirografari a Piccole e Medie Imprese (PMI) e individuati 
+sulla base di criteri predeﬁniti in modo da costituire un “blocco” ai sensi della legge sulla Cartolarizzazione, per un 
+ammontare di crediti in linea capitale di complessivi euro 547,3 milioni. L’arranger dell’operazione è stato JPMorgan. 
+I crediti sono stati acquistati pro-soluto dalla società “Abruzzo 2015 SME S.r.l.” appositamente costituita per l’esecu-
+zione dell’operazione di cartolarizzazione ai sensi della legge 130 del 30 aprile 1999.
+(cid:54)(cid:82)(cid:70)(cid:76)(cid:72)(cid:87)(cid:106)(cid:3)(cid:57)(cid:72)(cid:76)(cid:70)(cid:82)(cid:79)(cid:82) (cid:36)(cid:69)(cid:85)(cid:88)(cid:93)(cid:93)(cid:82)(cid:3)(cid:21)(cid:19)(cid:20)(cid:24)(cid:3)(cid:54)(cid:48)(cid:40)(cid:3)(cid:54)(cid:85)(cid:79)(cid:3)
+Tipologia operazione Autocartolarizzazione
+Originator Banca Tercas - Banca Caripe
+Servicer Banca Tercas
+Arranger J.P.Morgan
+Computation Agent Securitisation Services SpA
+Corporate Servicer Securitisation Services SpA
+Tipologia attività cartolarizzate Mutui residenziali ipotecari
+Qualità attività cartolarizzate In bonis
+Data di godimento 22/07/2015
+Prezzo di cessione del portafoglio (*) 547.316.740
+ - di cui Originator Banca Tercas 362.157.772
+ - di cui Originator Banca Caripe 185.158.968
+Agenzie di Rating Moody’s / DBRS Rating Limited
+(*) escluso rateo interessi e interessi sospesi (importi in euro)
+A fronte dei crediti ceduti, nonché della costituzione di una riserva di liquidità per complessivi Euro 9.708 mila, la 
+Società Veicolo ha ﬁnanziato l’operazione attraverso l’emissione di titoli obbligazionari di tipo “asset backed”, con 
+tranche senior (A1) sottoscritta congiuntamente dai due Originator e junior (B1 e B2) in stretta relazione al portafo-
+glio ceduto da ciascun Originator.
+558

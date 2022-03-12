@@ -1,0 +1,34 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+5. Poste Italiane S.p.A. Bilancio al 31 dicembre 2017 
+Patrimonio netto e passivo   31 dicembre  di cui parti   31 dicembre  di cui parti 
+(dati in euro) Note  2017 correlate  2016 correlate
+Patrimonio netto
+Capitale sociale [B1] 1.306.110.000 - 1.306.110.000 -
+Riserve [B2] 1.431.627.440 - 2.186.144.274 -
+Risultati portati a nuovo 2.774.352.906 - 2.667.930.819 -
+Totale  5.512.090.346 6.160.185.093
+Passività non correnti
+Fondi per rischi e oneri [B4] 668.025.648 58.061.136 589.611.766 49.962.342
+Trattamento di fine rapporto [B5] 1.244.371.225 - 1.315.043.763 -
+Passività finanziarie 
+[B6] 4.010.248.264 - 6.409.893.597 -
+BancoPosta
+Passività finanziarie [B7] 285.458.970 - 1.245.813.299 -
+Imposte differite passive [C10] 315.083.329 - 536.290.271 -
+Altre passività [B9] 1.182.435.445 6.839.319 1.002.066.304 6.039.926
+Totale 7.705.622.881 11.098.719.000
+Passività correnti
+Fondi per rischi e oneri [B4] 870.369.401 12.872.791 818.399.423 10.488.457
+Debiti commerciali [B8] 1.210.582.606 396.805.756 1.384.577.042 464.278.724
+Debiti per imposte correnti [C10] 4.646.411 - 72.924.479 -
+Altre passività [B9] 1.593.498.699 98.743.272 1.556.324.717 106.595.007
+Passività finanziarie 
+[B6] 57.842.702.028 4.191.469.190 52.782.494.828 2.747.319.692
+BancoPosta
+Passività finanziarie [B7] 1.069.080.450 101.772.823 55.867.201 38.262.982
+Totale 62.590.879.595 56.670.587.690
+Totale patrimonio  
+75.808.592.822 73.929.491.783
+netto e passivo
+263

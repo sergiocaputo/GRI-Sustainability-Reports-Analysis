@@ -1,0 +1,29 @@
+ 
+L’esecuzione di commesse pubbliche per la costruzione di armamenti richiede il trattamento di informazioni 
+riservate coperte da segreto di Stato o classificate di segretezza nazionale ovvero nel quadro del Trattato del 
+Nord Atlantico, dell’Unione europea e di natura internazionale, come disciplinato dalla Legge 3 agosto 2007, 
+n. 124 (“Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto”). Infatti, 
+Avio svolge attività classificata ai sensi della normativa vigente concernente la protezione e la tutela delle 
+informazioni classificate D.P.C.M. n. 3/2017 (“Disposizioni per la tutela amministrativa del segreto di Stato e 
+delle informazioni classificate e a diffusione esclusiva”) ed è abilitata a tali trattamenti informativi sulla base 
+di specifici nulla osta (Nulla Osta Sicurezza –NOS e Nulla Osta di Sicurezza Complessivo - NOSC).  
+Tutte le informazioni di livello classificato sono lavorate in aree dedicate. Queste aree sono realizzate 
+secondo i criteri previsti dalla normativa in materia e l'accesso alle informazioni è regolato secondo i criteri 
+di sicurezza e le procedure previste per la lavorazione e la consultazione del materiale classificato. La gestione 
+informatica delle informazioni di livello classificato all'interno delle aree preposte è gestito applicando tutte 
+le policy di sicurezza descritte nel DPCM 3/2017. Ad esempio l’accesso controllato alle aree classificate 
+attraverso l’abilitazione di un badge, l’accesso alle postazioni di lavoro con cambio password obbligatorio al 
+primo accesso e ogni 60 giorni con una storicizzazione delle password (non possono essere riutilizzate le 
+ultime 5), uso di chiavi USB con sistema di crittografia. L'ingresso di personale occasionale che necessità di 
+accedere alle aree classificate viene autorizzato dall'Ufficio Sicurezza Industriale e registrato su apposito 
+registro. 
+Si evidenzia, a tal proposito, che nel corso 2017, a seguito di una visita ispettiva della Presidenza del Consiglio 
+dei Ministri Dipartimento per le Informazioni e per la Sicurezza (DIS), erano state riscontrate alcune 
+irregolarità nella gestione informatica dei dati classificati di ingegneria e programmi con riferimento alle 
+misure di sicurezza fisica e logica delle informazioni. A tal fine è stato trasmesso al DIS il rapporto predisposto 
+dal Funzionario alla sicurezza CIS e dal Funzionario di Sicurezza di Gruppo nel quale Avio ha definito idonee 
+misure volte a rafforzare ulteriormente i sistemi di sicurezza dei sistemi informativi. 
+Nel corso del 2017 non sono state registrate perdite o furti di informazioni sensibili. [GRI 418-1] 
+   
+41 
+ 

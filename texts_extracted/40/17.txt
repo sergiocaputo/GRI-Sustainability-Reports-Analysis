@@ -1,0 +1,59 @@
+1.4  2018 STRATEGIES AND RESULTS.  
+  MILESTONES ARE THE NEW START LINE
+THE BUSINESS CONTEXT AND STRATEGY between Italy and other European countries, 
+improvements in Italy in recent years have been 
+The Italian telecommunications service market in which  possible thanks to substantial investments by 
+Fastweb operates is the fourth largest in Europe, with  operators, mainly Telecom Italia and Fastweb, which 
+end customers spending roughly 28 billion euro for  have radically changed the ultra-broadband service 
+landline and mobile services (Chart 1).  market. Indeed, these services are now available to 
+over 80% of Italian homes and businesses and have 
+After a slight increase in 2017, the market value fell  become the top offer for all major telecommunication 
+in 2018: landline spending remained steady while  operators in Italy through wholesale access to the 
+the mobile market saw a decrease due to a spike in  incumbent’s fiber network (VULA and bitstream 
+competition with the arrival of a new player, Iliad. NGA3).
+Chart 1: Development in TLC spending in Italy between 2013  Chart 2: development of broadband lines in Italy between 2013 
+and 2018 (€ billions)  and 2018 
+31
+29 29
+28 28 28
+16.1
+15.5
+14.7
+13.6 13.8 14.3
+54%
+53%
+17.4 15.7 15.9 16.2 15.9 15.1
+50%
+48%
+47%
+46%
+13.1 12.6 12.4 12.3 12.9 12.9
+2013 2014 2015 2016 2017 2018 2013 2014 2015 2016 2017 2018
+Fixed wirelines Mobile Broadband lines (Mln) Broadband penetration 
+ 
+Source: Asstel, internal processing for 2018  S ource: AGCOM, internal estimates for 2018 
+Although data traffic grew by over 50% from roughly  At the end of 2018, ultra-broadband lines numbered 
+2.5 to 3.6 Gigabyte per SIM card2, the mobile market  roughly 6.5 million, over 40% more than at year end 
+came to approximately 15 billion Euros, down 5% on  2017, with TIM, Fastweb and Vodafone holding nearly 
+the previous year. The number of human SIM cards  the entire market.
+(which only offer voice, SMS and data services), 
+is currently down to roughly 83 million, while the  OpEnFiber, the Enel Group company established in 
+number of “M2M” SIM cards (featuring new IoT  2015 to establish a fiber optic access network in 
+technologies) has now exceeded 18 million.  major Italian cities and sell wholesale connectivity to 
+telecommunication companies, has also contributed 
+The landline service market remained steady, thanks  significantly to digitalization. OpEnFiber S.p.A.’s aim 
+to the contribution of ultra-broadband services  is to cover more than 9 million homes with FTTH 
+(speeds of over 30 Megabit per second), offsetting  infrastructure, increasing the level of competition in the 
+the decline in voice-only lines. The total number  infrastructure and, in 2017, it won two public contracts 
+of broadband connections on the landline network  for the create of a public network in areas where the 
+increased again in 2018 to 16.1 million, although  market had been unable to do so. 
+the growth rate was lower than in 2017 (chart 2). 
+The level of broadband service penetration reached  The merger of Wind/Infostrada with H3G was another 
+approximately 54% of homes and business, but  change on the telecommunications market. In May 
+remains far below average European penetration of  2018, one of the main consequences of this change 
+over 70%. was the arrival of a new player on the market, Iliad, 
+which was awarded the market “remedies” (for 
+Although they are not sufficient to fill the gap  both frequencies and infrastructure) imposed by 
+2. AGCOM data, November 2018.
+3. See chapter 3 for additional information.
+The Fastweb model. Always a step ahead 17

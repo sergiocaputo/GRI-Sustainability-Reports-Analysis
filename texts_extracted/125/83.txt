@@ -1,0 +1,23 @@
+Table 26: Energy intensity 
+ENERGY INTENSITY  U.M. 2017 2018 2019
+Total consumption 
+GJ 72.342 73.130 66.080
+(thermal power plant excluded, Gjoule) - TDT
+TDT
+Denominator (total moves)8 - TDT move 1.135.435 1.210.749 1.233.409
+Energy intensity per move (Gj/move) - TDT GJ/move 0,064 0,060 0,054
+Total consumption 
+GJ 42.700 47.986 52.502
+(thermal power plant excluded, Gjoule) - SECH
+SECH
+Denominator (total moves) - SECH move 825.253 939.169 926.064
+Energy intensity per move (Gj/move) - SECH GJ/move 0,052 0,051 0,057
+At TDT, the intensity indicator is greatly affected by the significant consumption of the 
+reefer containers (from 55% to 46% of the total electricity consumption, not linked to the 
+terminal’s performance): in any case, the performance is improved both including and, 
+above all, excluding reefer consumption. Also for SECH, the progressive increase in the 
+indicator is attributable to reefer containers, which, as already mentioned, grew by 80% 
+in the three-year period. At SECH it is not possible to perform a more accurate analysis, 
+as separate metres by type are not available.
+8. Reported only by TDT.
+84 | SECH • TDT 2019 Sustainability Report

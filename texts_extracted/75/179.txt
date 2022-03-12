@@ -1,0 +1,51 @@
+Indicators 401-1; 405-1
+2019 2018 2017
+Termination by gender and age [No.]
+Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Total 3,819 3,599 7,418 4,360 3,949 8,309 1,267 3,613 4,880
+Men 2,206 1,426 3,632 2,560 1,474 4,034 769 1,298 2,067
+Women 1,613 2,173 3,786 1,800 2,475 4,275 498 2,315 2,813
+≤30 159 796 955 187 916 1,103 96 840 936
+31-50 460 1,818 2,278 451 2,169 2,620 282 2,046 2,328
+>50 3,200 985 4,185 3,722 864 4,586 889 727 1,616
+2019 2018 2017
+Termination rate by gender and age [%]
+Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Total 5.8 15.6 8.4 6.4 17.1 9.1 2.0 15.2 5.6
+Men 6.9 16.4 8.9 7.6 16.8 9.5 2.4 14.3 5.1
+Women 4.8 15.1 7.9 5.2 17.2 8.7 1.5 15.7 6.0
+≤30 7.9 20.7 16.3 8.9 27.1 20.2 4.7 22.9 16.4
+31-50 1.3 12.7 4.7 1.2 15.0 5.1 0.9 13.9 4.9
+>50 10.9 20.0 12.2 12.5 16.2 13.0 3.1 13.6 4.8
+2019 2018 2017
+Termination by reason [No.]
+Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Employment ended in the year 3,819 3,599 7,418 4,360 3,949 8,309 1,267 3,613 4,880
+Resignation 619 1,382 2,001 601 1,394 1,995 344 1,274 1,618
+Retirement 162 187 349 71 206 277 27 257 284
+Exit incentives 2,838 0 2,838 3,446 0 3,446 724 0 724
+Death 86 22 108 78 26 104 74 31 105
+Other reasons - with incentives 14 824 838 23 902 925 9 540 549
+Other reasons - without incentives 55 1,014 1,069 68 1,199 1,267 70 1,333 1,403
+Expiry of fixed-term contracts 45 170 215 73 222 295 19 178 197
+2019 2018 2017
+Turnover by gender and age
+Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Total -2,623 -374 -2,997 -3,287 -1,048 -4,335 -23 -872 -895
+Men -1,528 -215 -1,743 -1,951 -395 -2,346 -48 -232 -280
+Women -1,095 -159 -1,254 -1,336 -653 -1,989 25 -640 -615
+≤30 472 1,011 1,483 335 520 855 605 579 1,184
+31-50 71 -482 -411 53 -804 -751 224 -813 -589
+>50 -3,166 -903 -4,069 -3,675 -764 -4,439 -852 -638 -1,490
+2019 2018 2017
+Turnover rate by gender and age [%]
+Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Total -3.8 -1.6 -3.3 -4.6 -4.3 -4.5 0.0 -3.5 -1.0
+Men -4.5 -2.4 -4.1 -5.5 -4.3 -5.2 -0.2 -2.5 -0.7
+Women -3.2 -1.1 -2.6 -3.7 -4.3 -3.9 0.1 -4.2 -1.3
+≤30 30.8 35.6 33.9 19.1 18.2 18.5 42.2 18.7 26.1
+31-50 0.2 -3.3 -0.8 0.1 -5.3 -1.5 0.7 -5.2 -1.2
+>50 -9.7 -15.5 -10.6 -11.0 -12.6 -11.2 -2.9 -10.7 -4.2
+The turnover rate is determined as the delta between the percentage incidence of hires and terminations of the reference year in relation to the workforce at the start of the year. 
+The workforce at the start of the year is given by the workforce at the end of the year by subtracting the hires and including the terminations that occurred in the period.
+180

@@ -1,0 +1,38 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Rischio spread - Analisi di VaR
+Esposizione al rischio SpreadVaR
+Data di riferimento dell’analisi
+(milioni di euro) Nozionale Fair value
+Effetti 2017
+Attività finanzarie disponibili per la vendita
+Titoli di debito 35.738  39.099  345 
+Attivo - Derivati di copertura -    -    -   
+Passivo - Derivati di copertura 1.705  (23) 8 
+Variabilità al 31 dicembre 2017 37.443  39.076  353 
+Effetti 2016
+Attività finanzarie disponibili per la vendita
+Titoli di debito 32.178  37.159  460 
+Attivo - Derivati di copertura 220  6  4 
+Passivo - Derivati di copertura 196  (3) 3 
+Variabilità al 31 dicembre 2016 32.594  37.162  467 
+Inoltre, se considerate nel loro complesso, le Attività e le Passività finanziarie sono soggette a perdite potenziali massime di 
+336 milioni di euro.
+Il calcolo della massima perdita potenziale (VaR – Value at Risk), stimata su basi statistiche con un orizzonte temporale di 1 
+giorno e un livello di confidenza del 99%, è utilizzato dal Patrimonio BancoPosta anche per il monitoraggio del rischio di mer-
+cato. L’analisi effettuata tramite il VaR tiene in considerazione la variabilità del fattore di rischio (spread) che storicamente si è 
+manifestata, non limitando l’analisi a uno shift parallelo di tutta la curva.
+Al fine di monitorare, in maniera congiunta, il rischio spread e il rischio tasso di interesse sul fair value, di seguito si riporta anche 
+l’esito dell’analisi del VaR effettuata con riferimento agli investimenti disponibili per la vendita e ai relativi strumenti finanziari 
+derivati, tenendo in considerazione la variabilità di entrambi i fattori di rischio:
+(milioni di euro) 2017 2016
+VaR fine periodo  (325)  (434)
+VaR medio  (356)  (397)
+VaR minimo  (210)  (278)
+VaR massimo  (523)  (587)
+La riduzione del VaR di fine periodo rispetto al 31 dicembre 2016 è dovuta al decremento di volatilità registrato sui mercati.
+Tenuto conto sia delle Attività disponibili per la vendita (comprensive dei relativi derivati di copertura in essere) che delle vendite 
+a termine l’analisi congiunta del rischio spread e del rischio tasso di interesse sul fair value evidenzia al 31 dicembre 2017 una 
+perdita potenziale pari a 318 milioni di euro (VaR fine periodo).
+512

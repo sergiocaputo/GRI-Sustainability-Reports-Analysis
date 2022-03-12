@@ -1,0 +1,62 @@
+s
+ar
+pill
+ur 
+O
+ESG RISK RISK DESCRIPTION MANAGEMENT PROCEDURES AND MITIGATION ACTIONS
+Business and governance dimension
+Risks linked  Enel may be exposed to the risk of judicial or administrative  Enel has systems and mechanisms to guarantee a continuous 
+to business  sanctions, economic or ﬁnancial losses, or reputational damage  and safe energy supply to the national electrical systems of 
+s
+continuity as a result of a partial or total interruption of commercial oper- the countries in which it operates. Therefore, Enel is constantly  e
+n
+ations, technical failures, malfunctions of goods and plants, hu- working to develop and improve the efﬁciency of the distribu- bo
+man errors, sabotage, unavailability of raw materials or adverse  tion network, in coordination with the other entities operat- ck
+a
+weather events, or any emerging infectious diseases resulting  ing on the network infrastructure for various reasons. Enel is  G b
+in a potential epidemic or pandemic that may impede the nor- carrying out maintenance on and modernising the network of  S
+E
+mal functioning of the Group’s activities or supply chain. existing infrastructures in all countries, with the main aim of 
+reducing the number and duration of interruptions to service. 
+Enel is also constantly adopting operational efﬁciency and safe-
+ty measures to ensure the correct functioning of all its power 
+plants. Lastly, the Group’s assets are covered by adequate in-
+surance mechanisms to protect the Company from potential 
+negative economic consequences resulting from future, uncer-
+tain events.
+Moreover, particularly in relation to the management of critical 
+events, Enel has drawn up a policy to ensure the effectiveness 
+of the decision-making process when managing any event that 
+could compromise the continuity of the public service and the  e
+Company’s activity, including global health emergencies. not
+Enel is implementing appropriate protocols, plans and actions  cal 
+to ensure the smooth running of its economic activity all over  ogi
+the world or – where necessary – its rapid recovery in the event  ol
+d
+of an interruption to service. ho
+et
+M
+Risks  The speed of technological developments that constantly  The Group has adopted a holistic governance approach to cy-
+connected with  generate new challenges, the ever increasing frequency and  ber security that is applied to all the sectors of IT (Information 
+cyber attacks    intensity of cyber attacks and the attraction of critical infrastruc- Technology), OT (Operational Technology) and IoT (Internet of 
+tures and strategic industrial sectors as targets underscore the  Things). The framework is based on the commitment of top 
+potential risk that, in extreme cases, the normal operations of  management, on global strategic management, on the involve-
+companies could grind to a halt. Cyber attacks have evolved  ment of all business areas as well as on the units involved in 
+dramatically in recent years: their number has grown exponen- the design and management of our systems. It seeks to use 
+tially, as has their complexity and impact, making it increasingly  cutting edge technologies, to design ad hoc business process-
+difﬁcult to promptly identify the source of threats. In the case of  es, to strengthen people’s IT awareness and to implement reg- x
+the Enel Group, this exposure reﬂects the many environments  ulatory requirements for IT security. ndi
+e
+in which it operates (data, industry and people), a circumstance  In addition, the Group has developed an IT risk management  p
+p
+that accompanies the intrinsic complexity and interconnection  methodology founded on “risk-based” and “cyber security by  A
+of the resources that over the years have been increasingly  design” approaches, making business risk analysis the funda- d & 
+integrated into the Group’s daily operating processes. mental step in all strategic decisions. Enel has also created its  on
+own Cyber Emergency Readiness Team (CERT) in order to pro- n B
+actively respond to any IT security incidents. e
+e
+Finally, in 2019, the Group also took out an insurance policy for  Gr
+cyber security risks in order to mitigate IT threats
+Further information on how this risk is managed can be found 
+in the chapter “Innovation and digitalization”.
+Sound governance 207

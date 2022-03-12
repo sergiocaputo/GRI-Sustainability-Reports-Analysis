@@ -1,0 +1,73 @@
+RISORSE UTILIZZATE – AREA IDRICA
+dato n. spiegazione – commento
+Il dato rappresenta la somma dei consumi di reattivi per la potabilizzazione e disinfezione dell’acqua disinfezione dell'acqua per 
+135 Acea Ato 2, Acea Ato 5, Gori e Gesesa. Si tratta in particolare di: ipoclorito di sodio, utilizzato come disinfettante su richiesta 
+delle Autorità Sanitarie –, policloruro di alluminio, soda caustica e ozono. Il dato è calcolato.
+Quantità totale di reattivi chimici utilizzati dalla Società Acea Elabori per lo svolgimento dei compiti di istituto, cioè la 
+136
+realizzazione di controlli analitici a vantaggio delle Società del Gruppo Acea. Il dato è misurato.
+137 Volume totale di gas puri per analisi, utilizzati da Acea Elabori. Il dato è misurato.
+Rappresenta la quantità totale di fluidi refrigeranti in esercizio. I reintegri rappresentano la quantità di fluidi refrigeranti 
+utilizzati in occasione di manutenzioni delle apparecchiature di condizionamento, durante le quali il gas in esercizio viene 
+recuperato e sostituito con il nuovo. I dati si riferiscono all’anno precedente rispetto all’anno di esercizio in esame, in quanto 
+138
+si basano su dichiarazioni annuali ISPRA, successive alla pubblicazione del Bilancio di Sostenibilità. Entrambi i dati sono 
+calcolati attribuendo il totale di gas complessivamente approvvigionato dalla Capogruppo all’area energia e all’area idrica, in 
+parti uguali (50%).
+Totale energia elettrica consumata nell’area idrico. Il dato dell’anno precedente è stato modificato per rettifiche di misure dei 
+139
+dati parziali. Il dato è calcolato.
+Energia elettrica utilizzata per gli impianti di sollevamento dell’acqua potabile e non potabile. Il dato è misurato con incertezza 
+140
+del ± 1%.
+Energia elettrica consumata dai processi non direttamente legati alla fase produttiva (uffici). Il dato è calcolato in misura pari 
+141
+al 50% dell’energia elettrica complessivamente consumata dalla Capogruppo. 
+Energia elettrica utilizzata da Acea Elabori. Include tutta l’energia relativa ai diversi campi di attività della Società, non solo le 
+142
+attività di laboratorio analitico. Il dato è stimato. 
+È la somma della quantità di acqua potabile per usi civili/sanitari e di processo presso gli uffici di Acea SpA (dato calcolato 
+143 in misura pari al 50% dell’acqua complessivamente consumata dalla Capogruppo) e per Acea Ato 2, Acea Ato 5, Gori e 
+Gesesa. Il dato è calcolato.
+Quantità totale di chemical utilizzati nel processo di depurazione dell’acqua reflua. È ottenuta dalla somma dei consumi 
+144
+registrati per le seguenti sostanze: polielettrolita, ipoclorito di sodio, cloruro ferrico, calce. Il dato è calcolato.
+Numero totale di kit di reagenti acquistati presso gli impianti di depurazione di Acea Ato 2 per controlli ulteriori rispetto alle 
+determinazioni analitiche. L’utilizzo dei kit risponde all’esigenza dei Laboratori annessi agli impianti di depurazione di poter 
+144 B
+effettuare analisi complesse in modo semplice e veloce. Acea Ato 2 utilizza fotometri e sistemi rapidi di analisi per tutti i 
+parametri di maggior interesse e per eseguire un monitoraggio affidabile dei valori limiti di legge relativi alle acque reflue.
+Quantità totale di olio lubrificante e di grasso utilizzati per le apparecchiature dell’area idrica (pompe, centrifughe, motori, 
+145
+ecc.). Il dato è calcolato.
+Energia elettrica utilizzata per il funzionamento degli impianti di depurazione dell’acqua reflua e per il funzionamento della 
+146
+rete fognaria. Il dato è misurato con incertezza del ± 1%.
+Quantità di metano utilizzato negli essiccatori. Il consistente aumento del 2019, rispetto all’anno precedente, è dovuto 
+147 all’attivazione di due nuovi digestori anaerobici presso i depuratori di Roma Est e Roma Sud di Acea Ato 2. Il dato è misurato 
+con incertezza del ± 2%.
+Quantità di biogas prodotto e consumato in loco. Il consistente aumento del 2019, rispetto all’anno precedente, è dovuto 
+148 all’attivazione di due nuovi digestori anaerobici presso i depuratori di Roma Est e Roma Sud di Acea Ato 2. Il dato è misurato 
+con incertezza del ± 2%.
+COMBUSTIBILI UTILIZZATI DAL GRUPPO (AUTOTRAZIONE E RISCALDAMENTO)
+dato n. spiegazione – commento
+Quantità totale di benzina utilizzata per il parco autoveicoli del Gruppo Acea. I dati 2019 provengono da elaborazioni degli 
+149 Energy manager delle Società del Gruppo. Per le conversioni dall’unità di volume (litri) a quella di massa (kg) è stato usato un 
+valore di densità pari a 0,73 kg/l (fonte: Defra, conversion factors 2016). 
+Quantità totale di gasolio utilizzato per il parco autoveicoli del Gruppo Acea. I dati 2019 provengono da elaborazioni degli 
+Energy manager delle Società del Gruppo. Per le conversioni dall’unità di volume (litri) a quella di massa (kg) è stato usato 
+150
+un valore di densità pari a 0,84 kg/l (fonte: Defra, conversion factors 2016). Il dato include il combustibile consumato dai 
+mezzi di Aquaser.
+Quantità totale di gasolio utilizzato per il riscaldamento di ambienti di lavoro e per l’alimentazione di gruppi elettrogeni. Il dato 
+151
+è misurato con incertezza pari a ± 0,5%.
+Quantità totale di gas naturale utilizzato per il riscaldamento di ambienti di lavoro. Il perimetro comprende: Acea, Areti, Acea 
+152 Produzione, Acea Ato 2, Acea Ato 5, Acea Ambiente, Acea Elabori, Acea Energia. Il dato è misurato con incertezza pari a 
+± 0,5%.
+Quantità totale di GPL (gas di petrolio liquefatto) utilizzato per il riscaldamento di ambienti di lavoro. Per le conversioni 
+dall’unità di volume (litri) a quella di massa (kg) è stato usato un valore di densità pari a 0,550 kg/l. L’aumento del valore 
+153
+2019 dipende dai consumi rilevati per il riscaldamento di Acea Ato 2, non rilevati nel 2018. Il dato è misurato con incertezza 
+pari a ± 0,5%.
+270 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

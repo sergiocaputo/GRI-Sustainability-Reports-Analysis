@@ -1,0 +1,52 @@
+Bilancio Individuale 2017
+Pertanto, il prezzo quotato in un mercato attivo fornisce la prova più attendibile del Fair value e, quando disponibile, 
+è utilizzato senza alcuna modiﬁca. Eventuali rettiﬁche comporterebbero la classiﬁcazione dello strumento ﬁnanzia-
+rio a un livello inferiore (per esempio, quando non vi è l’immediata accessibilità dell’informazione o la disponibilità 
+del prezzo alla data di valutazione).
+Per quanto riguarda i titoli di debito, la valorizzazione del titolo avviene alla data di riferimento senza apportare al-
+cuna rettiﬁca alla quotazione di mercato rilevata alla medesima data. Con particolare riferimento ai titoli quotati in 
+un mercato attivo “regolamentato”, il prezzo considerato per la valutazione è quello “Ufﬁciale”, riveniente dal listino 
+delle quotazioni pubblicato.
+Sono considerati di norma mercati principali:
+i.  i circuiti MOT e MTS per i Titoli di Stato e per i titoli obbligazionari non governativi;
+ii.  i tassi di cambio ufﬁciali BCE di giornata per le operazioni in cambi spot.
+Le precedenti considerazioni si applicano anche alle posizioni corte (a esempio gli scoperti tecnici) in titoli.
+Per gli strumenti ﬁnanziari quotati su mercati attivi deve essere utilizzato il prezzo medio di offerta (c.d. “mid price”) 
+alla chiusura del periodo di riferimento.
+Le principali fonti da utilizzare per l’acquisizione dei prezzi ai ﬁni contabili sono primarie piattaforme di contribuzione 
+(per esempio, Bloomberg, Telekurs).
+Per i titoli di capitale e per le quote di OICR, la cui valutazione è desunta da primarie piattaforme di contribuzione 
+(per esempio Bloomberg), sempre rappresentative di un mercato attivo, il Fair value determinato dalla Banca coin-
+cide con il prezzo di chiusura delle contrattazioni alla data di riferimento.
+Analogamente a quanto evidenziato in precedenza relativamente ai titoli di capitale, in presenza di un mercato 
+attivo, la Banca Popolare di Bari valuta gli strumenti derivati quotati facendo riferimento al prezzo riveniente dal 
+mercato principale, oppure, ove mancante, da quello più vantaggioso attribuibile allo strumento oggetto della valu-
+tazione. La quotazione di mercato è fornita giornalmente da una primaria “clearing house” ed è comunque reperibile 
+sui più comuni info-provider.
+“Livello 2”: qualora non si ricada nella casistica precedente (Livello 1), si dovrà ricorrere a una tecnica valutativa (c.d. 
+modelli di “pricing”) che utilizzi esclusivamente input osservabili direttamente o indirettamente sul mercato (per 
+esempio, tramite canali informativi come Borse, info-provider, broker, siti internet ecc.). Gli input di Livello 2 com-
+prendono:
+•  prezzi di mercato di strumenti con caratteristiche similari a quello oggetto di valutazione che siano quotati su un 
+mercato attivo;
+•  prezzo di mercato dello strumento oggetto di valutazione o di uno strumento similare quotato in un mercato non 
+attivo;
+•  modello di valutazione (a titolo esempliﬁcativo: Discounted Cash Flow) che ricorra esclusivamente a input os-
+servabili sul mercato o corroborati dal mercato (a titolo esempliﬁcativo: tassi di interesse, curve dei rendimenti, 
+volatilità ecc.).
+“Livello 3”: qualora non si ricada nelle circostanze precedenti (Livello 1 e 2), si dovrà ricorrere a una tecnica valutativa 
+basata su un modello di valutazione che sia coerente con lo strumento che si intende valutare e che massimizzi l’uso 
+di input osservabili sul mercato. Nel Livello 3 ricadono, quindi, tutti gli strumenti la cui valutazione si basa su almeno 
+un input signiﬁcativo non osservabile.
+In alcuni casi, i dati utilizzati per valutare il Fair value di un’attività o passività potrebbero essere classiﬁcati in diversi 
+livelli della gerarchia del Fair value. In tali casi, la valutazione del Fair value è classiﬁcata interamente nello stesso 
+Livello in cui è classiﬁcato l’input, purché “signiﬁcativo”, di più basso Livello di gerarchia del Fair value utilizzato per 
+la valutazione. La valutazione dell’importanza di un particolare input per l’intera valutazione richiede un giudizio che 
+tenga conto di fattori speciﬁci dello strumento.
+Pertanto nei casi in cui nella valutazione di uno strumento ﬁnanziario siano utilizzati sia input osservabili sul merca-
+to (Livello 2) sia input non osservabili (Livello 3) purché signiﬁcativi come meglio deﬁnito di seguito, lo strumento è 
+classiﬁcato nel Livello 3 della gerarchia del Fair value.
+Le tecniche valutative sono utilizzate con continuità e in maniera coerente nel tempo a meno che esistano delle tec-
+niche alternative che forniscono una valutazione più rappresentativa del Fair Value (ad esempio nel caso di sviluppo 
+nuovi mercati, informazioni non più disponibili o nuove informazioni, condizioni di mercato diverse).
+137

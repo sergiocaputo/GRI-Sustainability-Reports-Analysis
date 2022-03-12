@@ -1,0 +1,40 @@
+ 
+  Country  Currency  Share/quota   Investme%  %  Investment held by  Consolidation or 
+capital  nt % direct  indirect  measurement 
+  subscribed  method 
+  Churchill Construction Consortium  GB        30   30  Impregilo New Cross Ltd  equity 
+  Churchill Hospital J.V.  GB        50   50  Impregilo New Cross Ltd  equity 
+  CMC - Consorzio Monte Ceneri lotto  Switzerland        40   40  CSC S.A.  equity 
+851 
+  CMR Consorzio  Switzerland        47.5   47.5  CSC S.A.  equity 
+  Consorcio Agua Azul S.A.  Peru  PEN  69,001,000   25.5   25.5  Impregilo Intern. Infrastruc. N.V.  equity 
+  Consorcio Cigla-Sade  Brazil        50   50  Cigla S.A.  equity 
+  Consorcio Contuy Medio  Venezuela        29.04 29.04      equity 
+  Consorcio Federici/Impresit/Ice  Bolivia  USD  100,000   25   25  Imprepar S.p.A.  equity 
+Cochabamba 
+  Consorcio Grupo Contuy-Proyectos y  Venezuela        33.329 33.329      equity 
+Obras de Ferrocarriles 
+  Consorcio Normetro  Portugal        13.18 13.18      equity 
+  Consorcio OIV-TOCOMA  Venezuela        40  40      equity 
+  Consorcio V.I.T. - Tocoma  Venezuela        35  35      equity 
+  Consorcio V.I.T. Caroni - Tocoma  Venezuela        35  35      equity 
+  Consorcio V.S.T. (in liq.)  Venezuela        35   35  Suropca C.A.  equity 
+  Consorcio V.S.T. Tocoma  Venezuela        30  30      equity 
+  Consortium CSC S.A.-Zuttion  Switzerland        50   50  CSC S.A.  equity 
+Construction S.A. 
+  Consortium CSC Zuttion  Switzerland        50   50  CSC S.A.  equity 
+  Consortium Zuttion Constructions- Switzerland        40   40  CSC S.A.  equity 
+CSC-Orrlati 
+  Consorzio 201 Quintai  Switzerland        60   60  CSC S.A.  equity 
+  Consorzio 202 Quintai  Switzerland        30   30  CSC S.A.  equity 
+  Consorzio ACE Chiasso  Switzerland        50   50  CSC S.A.  equity 
+  Consorzio ACE Chiasso 2  Switzerland        50   50  CSC S.A.  equity 
+  Consorzio Astaldi-Federici-Todini (in  Italy  Euro  46,000   33.34   33.34  HCE Costruzioni S.p.A.  equity 
+liq.) 
+  Consorzio Astaldi-Federici-Todini  Italy  Euro  100,000   49.995   49.995  HCE Costruzioni S.p.A.  equity 
+Kramis 
+  Consorzio Cavalcavia A2 - Nodo di  Switzerland        33.34   33.34  LGV Impresa Costruzioni S.A.  equity 
+Camorino 
+  Consorzio CEMS  Switzerland        33.4   33.4  CSC S.A.  equity 
+  Consorzio Coltum  Switzerland        50   50  CSC S.A.  equity 
+   380 

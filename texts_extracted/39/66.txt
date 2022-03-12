@@ -1,0 +1,90 @@
+   
+ 
+  Dust abatement  dusty  GM compounds 
+rubber dosing 
+  (waste produced by 
+070214*  HP14  R12 
+additives containing 
+ 
+dangerous 
+substances) 
+ 
+Waste water-based  liquid  finishing paint 
+  varnish (suspended.  formulation 
+080119*  Aqueous cont.  HP3  D9 
+  Paints and 
+varnishes) 
+  Paint sludge  muddy  finishing paint 
+HP3-HP4-HP5-
+140605*  (sludges containing  palatable  formulation  D9 
+  HP10 
+other solvents) 
+Distillation sludge  muddy  distillation 
+  HP3-HP4-HP5-
+140605*  (sludge containing  palatable  D9 
+HP10-HP14 
+  other solvents) 
+Primer waste (other  liquid  finishing 
+  140603*  solvents and  HP3-HP4  R12 
+solvent mixes) 
+ 
+Solvent washing  liquid  PU molding 
+    filters (other 
+140603*  HP14  D9 
+                                            s o  l v  e  n  t  s   a  n  d                                                           
+  solvent mixtures) 
+Solvent washing  liquid  PU molding 
+  moulds (other  HP04-HP10-
+140603*  D9 
+solvents and  HP14 
+ 
+solvent mixtures) 
+Paint residues and  Non- finishing PU molding 
+ 
+colour pastes  powverulent 
+  (sludges from  solid 
+removal of paints 
+080117*  HP3-HP14  D9 
+  and varnishes 
+containing solvents 
+  org. and other 
+substances) 
+ 
+Waste adhesive  liquid  finishing 
+(waste adhesives 
+ 
+and sealants, 
+080409*  HP3-HP4  D9 
+  solvent-cont. org. 
+and other peric. 
+  substances) 
+Lead-acid batteries  Non- HP4-HP5-HP6- maintenance 
+ 
+160601*  powverulent  HP8-HP-13- workshop  R13 
+solid  HP14 
+ 
+Hazardous  Non- formulation of paints 
+150110*  packaging  powverulent  HP14  D9 
+ 
+solid 
+  Empty spray cans  Non- from any activity 
+150111*  powverulent  HP3-HP5  D9 
+  solid 
+Laboratory  liquid  PU formulation 
+  160506*  HP3-HP6  D9 
+chemicals 
+Discarded  Non- departments 
+ 
+equipment (other  powverulent 
+160213*  HP14  R13 
+  than 160209* and  solid 
+160212) 
+  Spent oil (mineral  liquid  maintenance 
+engine oil scraps,  workshop and 
+  130205*  HP5-HP14  R13 
+non-chlorinated  compound 
+gears)  department 
+ 
+  
+               67 
+ 

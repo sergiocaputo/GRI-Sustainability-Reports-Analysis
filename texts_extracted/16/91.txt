@@ -1,0 +1,27 @@
+I fattori di emissione utilizzati per trasformare l’energia in tonnellate di CO2 sono i seguenti:
+CONVERSIONE IN GJ CONVERSIONE IN TON CO2
+fattore conversione in GJ fattore emissione ton CO2
+teleriscaldamento (KWh) 0,0036 (GJ/KWh) 330,6 (gCO2/KWh)
+energia elettrica (KWh) 0,0036 (GJ/KWh) 330,6 (gCO2/KWh)
+gas naturale (Sm3) 0,035134(GJ/Sm3)  55,897 (tCO2/TJ)
+GPL (Sm3) 46,141  (GJ/ton) * 3,026 (tCO2/ton)
+1m3 di GPL = 0,00052 ton
+1 ton GPL = 46,141 GJ 
+Diesel (l) 42,877 (GJ/ton)* 73,578 (tCO2/TJ)
+1l = 1dm3=0,850 kg
+Benzina (l) 42,817 (GJ/ton)*  3,14 (tCO2/ton)
+1 ton = 42,817 GJ
+1 dm3 = 1 l = 0,68kg
+* Viene considerato il potere calorifico inferiore. 
+GRI 301-1: MATERIALI - CARTA, TONER E FORNITURE PER UFFICIO
+2017 2016
+Consumo totale di carta [kg] 62.624 kg (A4 + A3) 67.666 kg (A4 + A3)
+ANNO 2017
+Metodo di smaltimento  NON 
+ PERICOLOSI  TOTALE   % TOTALE 
+PERICOLOSI 
+Smaltimento (KG) 504   35.446   35.950  1%
+TOTALE 504   35.446   35.950  1%
+* Dati disponibili solamente per l’anno 2017
+92
+Banca_format_2.indd   92 24/04/18   15:27

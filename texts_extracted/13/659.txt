@@ -1,0 +1,48 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+A.3 Derivati finanziari di copertura OTC: valori nozionali, fair value 
+lordo positivo e negativo per controparti
+Controparti centrali Banche Altre società finanziarie Altri soggetti
+Contratti non rientranti in accordi di compensazione
+1) Titoli di debito e tassi d'interesse
+- valore nozionale X 179.068 - -
+- fair value positivo X 357 - -
+- fair value negativo X 30.126 - -
+2) Titoli di capitale e indici azionari
+- valore nozionale X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+3) Valute e oro
+- valore nozionale X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+4) Merci
+- valore nozionale X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+5) Altri
+- valore nozionale X - - -
+- fair value positivo X - - -
+- fair value negativo X - - -
+Contratti rientranti in accordi di compensazione
+1) Titoli di debito e tassi d'interesse
+- valore nozionale - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+2) Titoli di capitale e indici azionari
+- valore nozionale - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+3) Valute e oro
+- valore nozionale - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+4) Merci
+- valore nozionale - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+5) Altri
+- valore nozionale - - - -
+- fair value positivo - - - -
+- fair value negativo - - - -
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 660

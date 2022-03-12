@@ -1,0 +1,55 @@
+Aspetti D.Lgs. 254/2016 Aspetti Materiali
+1 - Introduzione
+Per la redazione del capitolo dedicato agli impatti ambientali, il calcolo 
+• Nota metodologica
+delle emissioni di CO2 (scope 2) Location based è stato effettuato tramite  • Aspetti materiali
+un coefficiente di emissione per l'energia elettrica di Terna basato sulla  • Highlights
+•• Materie prime (utilizzo e riciclo)
+produzione lorda globale del parco nazionale, pari a 0,359  kgCO2/ 
+kWh per l'Italia e 0,296 kgCO2/kWh per la Spagna. Per il calcolo delle  ••  Consumi energetici
+emissioni di CO2 (scope 2) Market Based sono stati usati i fattori di  ••  Emissioni di gas ad effetto serra (GHG)
+emissione del residual mix di AIB (Association of Issuing Bodies), nella sua  Ambiente ••  Emissioni inquinanti
+ultima versione disponibile. 
+••  Rifiuti
+Per le emissioni di gas ad effetto serra (scope 1), derivanti dai consumi 
+di gas naturale, gasolio e benzina, sono stati utilizzati i coefficienti di  ••  Valutazione dei fornitori in base 
+a criteri ambientali
+emissione presenti nella tabella dei parametri standard nazionali del 
+Ministero dell’Ambiente, pari rispettivamente a 1,972 tCO2/1000 Sm3, a 
+3,155 tCO2/t e a 3,140 tCO2/t. 
+Inoltre, sempre per il calcolo delle emissioni (scopo 1) legate alle perdite 
+••  Performance economica
+di F-Gas, sono stati utilizzati i fattori di emissione Defra per l'anno di 
+riferimento. ••  Pari opportunità e diversità
+In aggiunta, è stato svolto il calcolo delle emissioni (scope 3) per il triennio  Sociale ••  Sanzioni per non conformità a leggi e 
+oggetto di analisi derivanti dalle consegne dirette ed indirette utilizzando  regolamenti in ambito socio-economico
+i seguenti fattori di emissione: per trasporti effettuati con veicoli dal peso 
+••  Privacy del cliente
+maggiore di 3,5 tonnellate Defra per l'anno di riferimento, HGV, All rigid, 
+Avarage Laden; per trasporti effettuati con veicoli del peso inferiore a 3,5 
+tonnellate Defra per l'anno di riferimento, Vans, Class III, Diesel. 
+Per il calcolo di altre emissioni di inquinanti, sono stati usati i coefficienti 
+••  Salute e sicurezza sul lavoro
+dall'European Environmental Agency per Heavy-duty vehicles, Diesel 
+••  Formazione aziendale e valutazione 
+>32 t - Euro V - 2008 (per veicoli con peso maggiore di 3,5 tonnellate) e  Personale
+competenze
+Light commercial vehicles, Diesel - Euro 5 - EC 715/2007 (per veicoli con 
+••  Condizioni di impiego e welfare aziendale
+peso minore di 3,5 tonnellate).  2 - Chi siamo
+Nel calcolo degli impatti ambientali del Gruppo non sono stati considerati 
+3 - Esprinet & il mercato
+gli uffici del Gruppo con meno di 15 dipendenti. 
+Rispetto  allo  scorso  anno,  si  segnala  che,  con  l'aggiornamento 
+4 - Esprinet & l'ambiente
+dell'analisi di materialità, è risultato essere materiale il tema "Privacy  Rispetto dei diritti umani ••  Non discriminazione
+cliente". I temi "Conformità a leggi/ regolamenti in ambito ambientale"  5 - Esprinet & le persone
+e "Innovazione dei prodotti" non rientrano invece più all'interno dei 
+temi materiali, rimanendo comunque temi rilevanti, gestiti e presidiati  6 - Esprinet & la comunità
+dall'organizzazione. Nel 2019, come richiesto dal Decreto 254/2016, la  ••  Aspetto non emerso come materiale 
+Dichiarazione Non Finanziaria è stata sottoposta a revisione da parte di  Lotta contro la corruzione  dal processo di analisi di materialità,  7 - Altre informazioni -
+attiva e passiva tuttavia riportato all'interno DNF per via  DNF
+una Società terza indipendente, la cui relazione è riportata nell’allegato “La 
+dell'importanza della tematica
+Relazione della Società di Revisione”.
+7 Bilancio di Sostenibilità 2019

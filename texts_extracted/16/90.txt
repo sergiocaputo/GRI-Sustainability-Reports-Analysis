@@ -1,0 +1,27 @@
+Di seguito una tabella esplicativa sui consumi energetici della Banca:
+ 
+AMBIENTE 
+(ENERGIA, MATERIALI E RIFIUTI)
+GRI 302 – 1: CONSUMI ENERGETICI
+2017 2016
+Unità 
+Tipologia di consumo
+di Misura
+TOTALE  TOTALE GJ TOTALE  TOTALE 
+Gasolio per gruppi elettrogeni  Litri 18.000  648 19.000  684
+Carburante per autotrazione - Diesel (per flotta: 18 auto) Litri 24.208  872  31.164  1.122 
+Energia elettrica totale KWH 4.103.022 14.771  4.241.146 15.268
+di cui proveniente da fonti rinnovabili (%) % 35% 34% 
+GRI 305-1 E GRI 305-2: EMISSIONI DI CO2 (SCOPE 1 E SCOPE 2)
+2017 2016
+Fonte energetica
+    Emissioni (tCO2)      Emissioni (tCO2) 
+Gasolio per autotrazione 64,15 82,59
+Gasolio per gruppi elettrogeni 47,70 50,35
+Energia elettrica 881,70 911,38
+TOTALE 1.158,14 1.195,03
+Per il calcolo delle emissioni di gas ad effetto serra sono state considerate unicamente le emissioni di CO2. Le emissioni di CO2 vengono calcolate moltiplicando 
+i GJ di energia per i fattori di emissione derivanti dalla letteratura tecnica vigente. In particolare per i combustibili fossili è stata utilizzata la tabella dei 
+parametri standard nazionali del Ministero Ambiente che utilizza i dati ISPRA, aggiornati al 2017.
+91
+Banca_format_2.indd   91 24/04/18   15:27

@@ -1,0 +1,22 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Sezione 5 - Risultato netto dell’attività di copertura - Voce 90 
+5.1 Risultato netto dell’attività di copertura: composizione
+Euro/migliaia 31/12/2018 31/12/2017
+A. Proventi relativi a:
+A.1 Derivati di copertura del fair value 1.813 7.550
+A.2 Attività finanziarie coperte (fair value)  76 -
+A.3 Passività finanziarie coperte (fair value)  - -
+A.4 Derivati finanziari di copertura dei flussi finanziari - -
+A.5 Attività e passività in valuta - -
+TOTALE PROVENTI DELL'ATTIVITÀ DI COPERTURA (A) 1.889 7.550
+B. Oneri relativi a:
+B.1 Derivati di copertura del fair value (167) -
+B.2 Attività finanziarie coperte (fair value)  (3.901) (10.916)
+B.3 Passività finanziarie coperte (fair value)  - -
+B.4 Derivati finanziari di copertura dei flussi finanziari  - -
+B.5 Attività e passività in valuta - -
+TOTALE ONERI DELL'ATTIVITÀ DI COPERTURA (B) (4.068) (10.916)
+C. Risultato netto dell'attività di copertura (A-B) (2.179) (3.366)
+di cui: risultato delle coperture su posizioni nette - -
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 579

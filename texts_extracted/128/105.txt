@@ -1,0 +1,72 @@
+GRI  PAGE OR 
+GLOBAL 
+STANDARDS  DESCRIPTION REASON OF 
+COMPACT 
+2016 OMISSION
+REPORTING PRACTICE
+102-45 Entities included in the consolidated financial statements 101-102
+102-46 Defining report content and topic Boundaries 15-19
+102-47 List of material topics  15-19 1-10
+102-48 Restatements of information 101-102
+102-49 Changes in reporting  101-102
+102-50 Reporting period  102
+102-51 Date of most recent report  102
+102-52 Reporting cycle  102
+102-53 Contact point for questions regarding the report  102
+102-54 Claims of reporting in accordance with the GRI Standards  103-106
+102-55 GRI content index  103-106
+102-56 External assurance  107-110
+200 - ECONOMIC
+201 - ECONOMIC PERFORMANCE                                                                                                                                                                                                                                                                                                                                              
+103 - Management approach 23
+201-1 Direct economic value generated and distributed  22-25, 73-81
+201-2 Financial implications and other risks and opportunities due to climate change 15 7
+201-3 Defined benefit plan obligations and other retirement plans  22-25
+201-4 Financial assistance received from government  22-25
+202 - MARKET PRESENCE
+103 - Management approach 22, 50
+202-1 Ratios of standard entry level wage by gender compared to local minimum wage 24 1
+202-2 Proportion of senior management hired from the local community 51
+ 203 -INDIRECT ECONOMIC IMPACTS
+103 - Management approach 43
+203-1 Infrastructure investments and services supported  43-49 7,8
+203-2 Significant indirect economic impacts 43-49
+ 204 - PROCUREMENT PRACTICES
+103 - Management approach 22
+204-1 Proportion of spending on local suppliers 22-25
+ 205 - ANTI-CORRUPTION
+103 - Management approach 26 10
+205-1 Operations assessed for risks related to corruption  28-29 10
+205-2 Communication and training about anti-corruption policies and procedures  28-29 10
+205-3 Confirmed incidents of corruption and actions taken  28-29 10
+ 206 - ANTI-COMPETITIVE BEHAVIOR
+103 - Management approach 26
+206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices 29
+ 300 ENVIRONMENTAL
+ 301 - MATERIALI 
+103 - Management approach 87-88 7,8,9
+301-1 Materials used by weight or volume  87-88 8
+301-2 Recycled input materials used  87-88 8,9
+Not applicable
+301-3 Reclaimed products and their packaging materials  7,8
+to banks
+ 302 - ENERGY
+103 - Management approach 87-89 7,8
+302-1 Energy consumption within the organization  88-91 7,8
+302-2 Energy consumption outside of the organization  88-91 7,8
+302-3 Energy intensity  88-91 7,8
+302-4 Reduction of energy consumption  88-91 7,8
+Not applicable
+302-5 Reductions in energy requirements of products and services  7,8
+to banks
+ 303 - WATER Non material 7,8
+ 304 - BIODIVERSITY Non material 7,8
+ 305 - EMISSIONS
+103 - Management approach 87, 91 7,8,9
+305-1 Direct (Scope 1) GHG emissions 91-93 7,8
+305-2 Energy indirect (Scope 2) GHG emissions 91-93 7,8
+305-3 Other indirect (Scope 3) GHG emissions 91-93 7,8
+305-4 GHG emissions intensity 91-93 7,8
+ 
+Consolidated non-financial declaration pursuant to Legislative Decree No. 254/2016 
+2017 Sustainability Report – Methodological note - Pg.104 

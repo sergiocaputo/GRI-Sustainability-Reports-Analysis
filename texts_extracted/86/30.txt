@@ -1,0 +1,75 @@
+LA PROMOZIONE DELLA RESPONSABILITÀ
+Tutela delle persone, dei 
+prodotti e dei processi 
+Nelle attività quotidiane di raccolta 
+e gestione dei dati riferibili a 
+Una vista della “consolle” 
+persone e transazioni, Lottomatica 
+del sistema di Behavioural 
+è consapevole di assumersi un alto 
+Analytics, uno dei 
+grado di responsabilità nei confronti 
+software utilizzati dal 
+di individui, partner e mercati. Oltre 
+SOC di Lottomatica, 
+al costante controllo e miglioramento  per il monitoraggio di 
+delle procedure interne affinché  comportamenti anomali sulle 
+vengano implementati processi  infrastrutture IT.
+efficaci pienamente conformi ai 
+requisiti e ai regolamenti di Legge, 
+Lottomatica persegue l’obiettivo 
+eventuali criticità.  viene verificata da costanti analisi 
+fondamentale di conservare la fiducia 
+statiche e dinamiche di vulnerabilità. 
+alla base della relazione con tutti gli 
+L’architettura a difesa dell’infrastruttura  La sicurezza infrastrutturale si avvale 
+stakeholder. Programmi e soluzioni, 
+informatica e delle informazioni  di soluzioni trasversali, come “security 
+di conseguenza, sono progettati per 
+comprende quattro ambiti di  incident and event management” e 
+garantire la trasparenza in tutti gli 
+applicazione: sicurezza funzionale, di  “identity and access management”, 
+aspetti del gioco e la protezione dei 
+processo, infrastrutturale e fisica. Oltre  completata dalle soluzioni di 
+dati.  alla sicurezza funzionale (per esempio  sicurezza per la protezione fisica 
+il controllo accessi e la crittografia di  di edifici e ambienti, come la 
+dati e canali), la sicurezza di processo  videosorveglianza e l’uso dei badge.
+Cybersecurity
+Lottomatica adotta un modello di 
+PRESERVARE LA FIDUCIA DEI CLIENTI
+gestione della sicurezza Information 
+and Communication Technologies  Il modello di gestione della sicurezza ICT, adottato da Lottomatica, garantisce 
+l’integrazione delle misure per la sicurezza e la compliance normativa dei 
+(ICT) costituito da processi e 
+prodotti e delle soluzioni sviluppate, sin dalle primissime fasi di progettazione. 
+soluzioni tecnologici che estendono 
+Inoltre, i test di sicurezza per l’identificazione e la risoluzione preventiva 
+la massima sicurezza end-to-end  di eventuali criticità sono effettuati prima del rilascio in produzione. Tale 
+dai prodotti, servizi e processi, alle  approccio, in aggiunta alla strategia di “difesa in profondità”, eseguita 
+mediante l’adozione delle soluzioni tecnologiche di sicurezza più innovative e 
+transazioni e ai clienti.
+la costante attenzione alla prevenzione e al contrasto delle frodi informatiche, 
+garantisce i più elevati standard di sicurezza per i clienti finali.
+La funzione ICT Security di 
+Lottomatica garantisce la sicurezza  Le soluzioni specifiche per il monitoraggio e il contrasto degli attacchi 
+informatici mirati al furto delle credenziali e delle informazioni personali dei 
+dei prodotti e delle soluzioni 
+clienti, comprendono:
+sviluppate già a partire dalle fasi di 
+• La soluzione Anti-Phishing che permette l’identificazione tempestiva di 
+analisi e progettazione dei sistemi,  portali clone, ossia siti web fraudolenti creati con l’intento di rubare le 
+in base a security impact analysis  credenziali degli utenti;
+e valutazioni di rischio in grado di  • Il monitoraggio continuo di Internet e degli store delle App mobile che 
+consente di individuare eventuali App non ufficiali oppure domini Internet 
+assicurare la conformità normativa e 
+fittizi che utilizzano impropriamente loghi e marchi di Lottomatica e che 
+il rispetto degli standard di sicurezza 
+possono trarre in inganno i clienti;
+informatica. Inoltre, prima del rilascio  • Il monitoraggio continuo delle zone di raccolta ed interscambio di dati delle 
+in produzione, vengono effettuati  carte di credito rubate dai Cyber-criminali attraverso attacchi di phishing 
+(Drop Zone), che permette l’identificazione e la sospensione cautelativa 
+test di sicurezza per l’identificazione 
+delle carte prepagate emesse dall’Azienda e precedentemente oggetto di 
+e la risoluzione preventiva di 
+furto su portali clone di terze parti.
+32

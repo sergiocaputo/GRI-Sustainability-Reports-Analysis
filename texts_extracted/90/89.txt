@@ -1,0 +1,33 @@
+GRI INFORMAZIONE CAPITOLI
+GRI 300: ENVIRONMENTALS TOPICS
+Energia
+103-1 Spiegazione degli aspetti materiali e loro perimetro Capitolo 4
+103-2 Approccio gestionale e sue componenti Capitolo 4
+103-3  Valutazione dell’approccio di gestione Capitolo 4
+301-1 Materiali utilizzati per peso e volume Capitolo 4
+301-2 Materiali utilizzati che provengono  da riciclo Capitolo 4
+parziale
+301-3 Prodotti recuperati o rigenerati e relativi materiali di imballaggio
+302-1 Energia consumata all’interno dell’organizzazione Capitolo 4
+302-2 Energia consumata all’esterno dell’organizzazione
+302-3 Intensità energetica
+302-4 Riduzione del consumo di energia Capitolo 4
+302-5 Riduzione del fabbisogno energetico dei prodotti e dei servizi Capitolo 4
+Acqua
+103-1 Spiegazione degli aspetti materiali e loro perimetro Capitolo 4
+103-2 Approccio gestionale e sue componenti Capitolo 4
+103-3  Valutazione dell’approccio di gestione Capitolo 4
+303-1 Prelievo d’acqua per fonte Capitolo 4
+303-2 Gestione degli impatti correlati allo scarico di acqua
+303-3 Prelievo idrico
+303-4 Scarico di acqua
+303-5 Consumo di acqua
+Biodiversità
+304-1 Siti operativi di proprietàti, affittati, o gestiti in aree 
+(o adiacenti ad aree) protette o in aree ad elevata biodiversità esterne alle aree protette 
+304-2 Impatti significativi di attività, prodotti e servizi sulla biodiversità 
+304-3 Habitat protetti o ripristinati
+304-4 Specie elencate nella lista rossa IUCN e nelle liste nazionali delle specie protette che 
+trovano il proprio habitat nelle aree di operatività dell’organizzazione, suddivise per 
+livello di rischio di estinzione
+90

@@ -1,0 +1,32 @@
+04_PRODUCTS AND CUSTOMERS_RESEARCH AND DEVELOPMENT
+    
+We are collaborating with Waymo, Google’s self-driving technology  CYBERSECURITY
+company, to integrate its self-driving technology into the Chrysler 
+Pacifica Hybrid. Production of the first 100 Chrysler Pacifica Hybrid 
+Although “being connected” has gained in importance among 
+minivans built to enable fully self-driving operations was completed 
+many individuals, there is a fast-growing concern in the automotive 
+in late 2016, with nearly 600 minivans joining Waymo’s self-driving 
+industry related to cybersecurity. In response, FCA has put in place a 
+test fleet to date. In 2018, we announced that we would expand our 
+cross-functional team of professionals focused on the cybersecurity 
+partnership with an agreement to add up to 62,000 Chrysler Pacifica 
+of our corporate systems and vehicles through activities such as 
+Hybrid minivans to Waymo’s self-driving fleet.
+threat monitoring, design enhancements, and third-party penetration 
+We have launched Highway Assist autonomous vehicle technology  testing. Cybersecurity is considered throughout a vehicle’s life 
+on several Maserati models. This system includes Mobileye vision  cycle, including during development, manufacturing and service. 
+technology to enable autonomous driving on designated highways.  In addition, FCA continues to offer a financial reward for discovery 
+We are also partnering with BMW for Level 3 autonomy and with  and reporting of potential cybersecurity vulnerabilities through a 
+Aptiv for Level 2+ advanced driver assistance retail solutions.  crowdsourced bounty program. FCA is a founding member with 
+FCA is also working with our suppliers to develop a cloud-based  active engagement in the Automotive - Information Sharing and 
+global connectivity solution that will connect to the Internet and  Analysis Center (Auto-ISAC). The Auto-ISAC enhances the industry’s 
+an FCA-specific service delivery platform to allow the driver  ability to quickly learn of new threats and vulnerabilities and to work 
+and passengers to interact with the car and the outside world.   in a collaborative manner on threat triage.
+The solution is intended to be scalable, increase safety and security, 
+and provide real time availability of services and information.
+“
+We announced an agreement to add  
+up to 62,000 Chrysler Pacifica Hybrid 
+minivans to Waymo’s self-driving fleet.”
+66

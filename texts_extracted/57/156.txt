@@ -1,0 +1,55 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+assumono rilevanza nella prospettiva del bilancio individuale della Banca. 
+Alla luce di quanto precede, l’impairment test dell’avviamento iscritto nel presente bilancio riviene dai risultati del 
+test condotto a livello di Bilancio consolidato, considerando quale “Cash Generating Unit” di riferimento la CGU “BP 
+Bari”.
+Sulla base dei risultati dell’impairment test nel bilancio consolidato, è emersa la necessità di rettiﬁcare il valore con-
+tabile dell’avviamento iscritto nel Bilancio individuale per complessivi euro 18,5 milioni, con contropartita a conto 
+economico nella voce 230 “Rettiﬁche di valore dell’avviamento”.
+Al 31 dicembre 2017, pertanto, gli avviamenti residui ammontano ad euro 82,5 milioni, contro gli euro 101,0 milioni 
+dell’esercizio precedente.
+Per i dettagli in merito all’impairment test condotto sulla CGU “BPB” si rimanda all’informativa fornita nella sezione 
+13 – “Attività Immateriali” del bilancio consolidato.
+(cid:20)(cid:21)(cid:17)(cid:21)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:76)(cid:80)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+Altre attività immateriali:  Altre attività immateriali: 
+generate internamente  altre 
+Avviamento  Totale 
+DEF  INDEF  DEF  INDEF 
+ 
+A. Esistenze iniziali  331.844 -  -  52.710  -  384.554
+A.1 Riduzioni di valore totali nette  230.818 -  -  26.301  -  257.119
+A.2 Esistenze iniziali nette  101.026 -  -  26.409  -  127.435
+B. Aumenti  - -  -  1.979  -  1.979
+B.1 Acquisti  - -  -  1.209  -  1.209
+B.2 Incrementi di attività immateriali interne  x -  -  -  -  -
+B.3 Riprese di valore  x -  -  -  -  -
+B.4 Variazioni positive di fair value  - -  -  -  -  -
+- a patrimonio netto  x -  -  -  -  -
+- a conto economico  x -  -  -  -  -
+B.5 Differenze di cambio positive  - -  -  -  -  -
+B.6 Altre variazioni  - -  -  770  -  770
+C. Diminuzioni  18.500 -  -  5.007  -  23.507
+C.1 Vendite  - -  -  -  -  -
+C.2 Rettifiche di valore  18.500 -  -  4.237  -  22.737
+- Ammortamenti  - -  -  4.237  -  4.237
+- Svalutazioni  18.500 -  -  -  -  18.500
++ patrimonio netto  x -  -  -  -  -
++ conto economico  18.500 -  -  -  -  18.500
+C.3 Variazioni negative di fair value  - -  -  -  -  -
+- a patrimonio netto  - -  -  -  -  -
+- a conto economico  - -  -  -  -  -
+C.4 Trasferimenti alle attività non correnti in via di 
+- -  -  -  -  -
+dismissione 
+C.5 Differenze di cambio negative  - -  -  -  -  -
+C.6 Altre variazioni  - -  -  770  -  770
+D. Rimanenze finali nette  82.526 -  -  23.381  -  105.907
+D.1 Rettifiche di valore totali nette  249.318 -  -  30.538  -  279.856
+E. Rimanenze finali lorde  331.844 -  -  53.919  -  385.763
+F. Valutazione al costo  - -  -  -  -  -
+(cid:3)
+Legenda
+DEF: a durata deﬁnita
+INDEF: a durata indeﬁnita
+Per ciascuna classe di attività il criterio di valutazione utilizzato è quello del costo.
+156

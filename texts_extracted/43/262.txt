@@ -1,0 +1,95 @@
+Nota integrativa consolidata
+I contratti rientranti nell’ambito di applicazione del nuovo  nuove relazioni di copertura. Le modiﬁ che in oggetto si col-
+principio riguardano in particolare quelli relativi agli immo- locano nell’ambito del progetto volto ad analizzare gli effetti 
+bili, alle autovetture e all’hardware. I contratti di locazione  sul bilancio della riforma sui tassi interbancari – la cosiddetta 
+1
+immobiliare rappresentano l’area d’impatto maggiormente  Interest Rate Benchmark Reform o IBOR Reform. La tematica  . M
+O
+signiﬁ cativa .  èzi orenlea tdivi aa laciu rnei cienndtiic is vdiil uripfepri imcoennnteos psie ar lllaa  dreevtiesriomnine aoz iosonset idtue-i  DELLO
+ D
+Si riportano di seguito le principali scelte di carattere genera- tassi di interesse in varie giurisdizioni, come il LIBOR, il TIBOR  I B
+U
+le adottate dal Gruppo con riferimento alle modalità di rap- e, in ambito europeo, l’EONIA e l’Euribor, sulla base delle in- SIN
+presentazione degli effetti di prima applicazione del principio  dicazioni del G20 e del Financial Stability Board. Lo IASB si sta  ESS
+e alcune regole applicate a regime al ﬁ ne di contabilizzare i  occupando dei possibili impatti contabili della riforma dei tassi 
+contratti di leasing: benchmark con un progetto articolato in due fasi: la prima 
+riguarda in particolare i possibili impatti contabili nel periodo 
+•  Il Gruppo ha scelto di rilevare gli effetti della prima applica-
+che precede la sostituzione dei tassi benchmark esistenti con 
+zione del principio secondo l’approccio retrospettivo modi-
+i nuovi tassi; la seconda fase del progetto, ancora in corso, 
+ﬁ cato, che prevede la facoltà di rilevare l’effetto cumulativo 
+riguarda invece l’analisi dei possibili impatti contabili derivanti 
+dell’applicazione del nuovo standard interamente alla data  2
+di prima applicazione, senza riesporre i dati comparativi.  duarglle’anpzpal.icazione dei nuovi tassi e altre tematiche di minore  . STRA
+Pertanto i dati relativi all’esercizio 2019 non saranno com- TEG
+parabili con riferimento alla valorizzazione dei diritti d’uso e  IE
+Con la prima fase del progetto, conclusasi con la pubblica-
+del corrispondente debito per leasing.
+zione del citato Regolamento n. 34/2020, vengono quindi 
+•  In sede di prima applicazione (come consentito dal princi- introdotte alcune modiﬁ che per evitare l’interruzione delle 
+pio) il Gruppo ha adottato l’espediente pratico di escludere  coperture in essere. Lo IASB ritiene infatti che l’interruzione 
+i contratti con durata residua inferiore o uguale a 12 mesi.  delle coperture per il solo effetto dell’incertezza, in questo 
+Anche a regime, il Gruppo ha stabilito di non applicare il  scenario, non fornisca informazioni utili per i lettori dei bilanci 
+nuovo principio ai contratti con durata complessiva inferio- e, pertanto, ha deciso di apportare alcune deroghe tempora- 3. C
+O
+re o uguale a 12 mesi ed ai contratti con valore unitario  nee alla normativa in essere per evitare questi effetti distorsivi,  N
+del bene sottostante, quando nuovo, inferiore o uguale a  da applicare ﬁ no a quando non sia stata completata la rifor- TESTO
+€5.000. ma degli indici di riferimento.  D
+I M
+•  Con riferimento alla durata del leasing, il Gruppo ha deciso  A tale riguardo lo IASB ha identiﬁ cato le seguenti previsioni  ERCA
+di considerare alla data di prima applicazione (e a regime sui  contabili dell’hedge accounting che potrebbero essere im- TO
+nuovi contratti) solo il primo periodo di rinnovo contrattuale 
+pattate dalla riforma degli indici di riferimento nella fase di 
+come ragionevolmente certo, a meno che non ci siano clau-
+“pre-replacement”:
+sole particolari, fatti o circostanze, che portino a considerare 
+rinnovi aggiuntivi o a determinare la ﬁ ne del leasing.  1.  il requisito dell’altamente probabile: lo IAS39 e l’IFRS9 pre-
+vedono che le operazioni programmate, per poter essere 
+•  Il Gruppo ha valutato di non separare le componenti di ser-
+designate quale elemento coperto, devono rispettare il re- 4
+vizio da quelle di leasing e di contabilizzare di conseguenza  quisito dell’altamente probabile; . PER
+l’intero contratto come leasing in quanto le componenti di  FO
+servizio sono ritenute non signiﬁ cative. 2.  la valutazione prospettica e retrospettiva dell’efﬁ cacia delle  RM
+A
+coperture: in merito al superamento dei test di efﬁ cacia  NC
+E
+L’adeguamento del bilancio di apertura a seguito della prima  previsti dall’IFRS9 e dallo IAS39 per consentire l’applicazio-
+applicazione dell’IFRS16 utilizzando l’approccio retrospettivo  ne dell’hedge accounting;
+modiﬁ cato ha determinato un aumento delle attività a se-
+3.  la designazione delle componenti di rischio: l’IFRS9 e lo 
+guito dell’iscrizione del diritto d’uso di €267 milioni e delle 
+IAS39 consentono di designare una componente di rischio 
+passività ﬁ nanziarie (debito verso il locatore) del medesimo 
+non contrattualmente deﬁ nita quando è separatamente 
+importo. Non sono emersi pertanto impatti sul patrimonio 
+individuabile e attendibilmente misurabile. Per ognuna di 
+netto in quanto i valori delle nuove attività e passività iscritte 
+tali previsioni lo IASB ha previsto una sempliﬁ cazione, pre- 5
+in bilancio coincidono. . G
+sumendo che gli indici di riferimento per la determinazione  O
+V
+dei tassi di interesse esistenti non siano modiﬁ cati a seguito  ER
+Riforma degli indici di riferimento per la determinazio- della riforma dei tassi interbancari. Le modiﬁ che sono ap- NAN
+ne dei tassi di interesse plicabili obbligatoriamente a partire dal 1° gennaio 2020,  CE
+Il Gruppo si avvale della possibilità di applicare anticipa-
+prevedendo la possibilità di applicazione anticipata, di cui 
+tamente nel Bilancio 2019 il Regolamento n. 34/2020 del 
+si è avvalso il Gruppo.
+15 gennaio 2020 che ha adottato il documento emesso dal-
+lo IASB in tema di “Riforma degli indici di riferimento per la 
+determinazione dei tassi di interesse (modiﬁ che all’IFRS9 Stru-
+SEZIONE 2 - PRINCIPI GENERALI DI REDAZIONE
+menti ﬁ nanziari, allo IAS39 Strumenti ﬁ nanziari: rilevazione e  6. B
+valutazione e all’IFRS7 Strumenti ﬁ nanziari: informazioni in- Il Bilancio consolidato è costituito dai prospetti contabili  ILA
+N
+tegrative)”, con cui sono state introdotte alcune modiﬁ che in  consolidati obbligatori previsti dallo IAS1 (ovvero stato patri- CIO
+tema di coperture (hedge accounting) con la ﬁ nalità di evitare  moniale, conto economico, prospetto della redditività com-  C
+O
+che le incertezze sull’ammontare e sulle tempistiche dei ﬂ ussi  plessiva, prospetto delle variazioni del patrimonio netto e  NS
+O
+di cassa derivanti dalla riforma dei tassi possano comportare  rendiconto ﬁ nanziario) e dalla Nota integrativa. Esso è inoltre  LID
+A
+l’interruzione delle coperture in essere e difﬁ coltà a designare  corredato da una Relazione sull’andamento della gestione.  T
+O
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 259

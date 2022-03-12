@@ -1,0 +1,56 @@
+Altre emissioni49  
+ 
+Emissioni di NOx nel Gruppo (Kg NOx) 
+  2019  2018 
+Gruppo  EGA  Totale  Gruppo  EGA  Totale 
+Poligrafici  Poligrafici 
+Gas naturale  426  571   997  403   557   960  
+Gasolio  276  -   276   275   -   275  
+Totale   701  557   1.273  678   557   1.235  
+Emissioni di SOx nel Gruppo (Kg SOx) 
+  2019  2018 
+Gruppo  EGA  Totale  Gruppo  EGA  Totale 
+Poligrafici  Poligrafici 
+Gas naturale  4  6  10  4  6  10 
+Gasolio  258  0  258  258  0  258 
+Totale   263  6  268  262  6  268 
+ 
+ 
+Fattori di conversione utilizzati per il calcolo dei consumi e delle emissioni  
+ 
+  2018  2019  
+ 
+  Valore  Fonte  Valore  Fonte 
+Energia  Elettrica  Location  360 gCO2/kWh  Terna  Confronti  359 gCO2/kWh  Terna  Confronti 
+Based  internazionali 2016  internazionali 2019 
+ 
+Energia Elettrica   477 g CO  / kWh  European Residual  483 g CO  / kWh  European Residual 
+2 2
+Market Based  Mixes 2017  Mixes 2018 
+ 
+Gas naturale  0,001972 tCO2/  Ministero  0,001975 tCO2/  Ministero 
+  Sm3  dell’Ambiente –  Sm3  dell’Ambiente – 
+Tabella parametri  Tabella parametri 
+standard nazionali  standard nazionali 
+2018  2019 
+0,035253 GJ/Smc  Ministero  0,035303 GJ/Smc  Ministero 
+dell’Ambiente –  dell’Ambiente – 
+Tabella parametri  Tabella parametri 
+standard nazionali  standard nazionali 
+2018  2019 
+Gasolio  3,155 tCO/ton  Ministero Ambiente  3,155 tCO/ton  Ministero 
+2 2
+– Tabella parametri  Ambiente – Tabella 
+standard nazionali  parametri standard 
+2018   nazionali  2019 
+  42,877 GJ/ton  Ministero Ambiente  42,877 GJ/ton  Ministero 
+- Tabella parametri  Ambiente - Tabella 
+standard nazionali  parametri standard 
+2018   nazionali 2019 
+Gas naturale  0,00104 KgNOx/smc  Linee Guida ABI  0,00104  Linee Guida ABI 
+NOx  2018  KgNOx/smc  2018 
+                                                             
+49 Per il calcolo delle emissioni di NOx e SOx si è fatto riferimento ai fattori di conversione dell’ISPRA 2019 e al potere 
+calorifico inferiore dei combustibili considerati. 
+89 
+ 

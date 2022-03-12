@@ -1,0 +1,42 @@
+68
+Trasporto
+Da un’analisi EUROSTAT (2018) sugli usi finali dell’energia emerge che le tre principali categorie 
+di impiego sono: trasporti (33,2%), uso domestico (25,7%) e industriale (25%). La restante 
+quota è attribuita a servizi e agricoltura. In particolare, con riferimento al settore dei trasporti, 
+la modalità più dispendiosa a livello di energia dopo il trasporto aereo risulta quella su gomma. 
+I trasporti della merce dalle piattaforme logistiche verso i nostri punti vendita costituiscono 
+la maggior parte delle emissioni prodotte dai nostri processi aziendali. Tutte le misure di 
+ottimizzazione dei trasporti, così come le analisi dei viaggi vengono gestite dal reparto Logistica 
+della Direzione Generale di Lidl Italia, che risponde all’Amministratore Delegato Vendite e 
+Logistica. 
+Il nostro obiettivo infatti è ridurre al minimo l’impatto ambientale in termini di emissioni e 
+consumi di risorse, attraverso ad esempio l’ottimizzazione delle tratte percorse e dei carichi di 
+merce in base al principio Pieno per Pieno che prevede l’ottimizzazione dei flussi distributivi, in 
+cui il mezzo viaggia per il maggior numero di tratte possibili sempre con merce a bordo. 
+Ci impegniamo inoltre ad impiegare mezzi di trasporto di ultima generazione richiedendo ai 
+nostri partner lo standard minimo EURO 5, sensibilizzando i fornitori logistici affinché acquistino 
+sempre più camion alimentati con carburanti alternativi a emissioni ridotte. Ad oggi, la flotta di 
+camion utilizzata da Lidl Italia, include 30 mezzi alimentati a metano liquido (LNG). 
+Nel 2018 siamo stati i primi della GDO in Italia ad introdurre un semirimorchio refrigerato ad 
+azoto liquido, un sistema a ridotto impatto a livello di emissioni sia inquinanti nell’atmosfera 
+sia acustiche. Al momento il mezzo è impiegato per il rifornimento dei punti vendita dell’area 
+metropolitana di Milano, con l’obiettivo di estenderne l’utilizzo ad altre aree urbane ad elevato 
+rischio smog. Infatti, è prevista l’introduzione di un secondo mezzo che sarà impiegato nella 
+città di Roma entro giugno 2019. 
+Nonostante le misure adottate per una efficiente gestione della logistica, le emissioni di CO  
+2
+sono state pari a 29.233 tonnellate nel 2018 rispetto alle 26.218 tonnellate di CO  del 2017.17 
+2
+Un trend in crescita nel biennio di riferimento che può essere ricondotto all’aumento della rete 
+vendita a fronte dell’apertura di nuovi punti vendita sul territorio. Guardando alle emissioni 
+complessive di Lidl Italia si evince che l’impatto della logistica è pari al 65% sul totale delle 
+nostre emissioni.
+Emissioni totali Lidl Italia 2018 (tCO )
+2
+Emissioni dirette e indirette Emissioni logistica
+35%
+65%
+GRI 103
+GRI 305-3
+17 Vengono considerati i 6 principali fornitori logistici di Lidl che coprono l’80% del parco circolante. Il coefficiente di conversione 
+di emissione è quello applicato dal vettore.

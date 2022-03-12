@@ -1,0 +1,65 @@
+Consolidated Non-Financial Statement 2019 Consolidated Non-Financial Statement 2019
+Emissions Scope 1 and Scope 2 (location-based)  Emissions Scope 1 and Scope 2 (location-based) 
+Electricity 16,832 
+by region (ton CO ) 20189 by region (ton CO ) 2019
+2eq 2eq
+14,368 nel 20186
+1.600 1.600
+1395
+1.400 1.400
+1327
+LPG 137  Diesel fuel 15,269 1.200 1.200 1234
+137 nel 2018 13,775 nel 2018 999
+1.000 1.000
+800 800
+Energy consumption of the 
+600 600
+545 532
+Group by source (GJ) 20197
+400 400
+288 322
+200 200
+92 134 81 139
+0 0
+Scope 1 Scope 2 Scope 1 Scope 2
+Bio-ethanol 505 Natural Gas 10,695 
+243 nel 2018 11,204 nel 2018
+  Italy       Rest of Europe      Rest of the World   Italy       Rest of Europe       Rest of the World
+Gasoline 1,086
+789 nel 20188
+The Market-based energy, on the other hand, is based on  of the European market for Italy, France and Germany, 
+the CO2 emissions by the energy supplier from whom  which  were  published  in  the  document  Residual  Mix 
+the organization, by means of a contract,  buys their  Results, Association of issuing bodies (AIB), 2017 and 2018, 
+7.2 Emissions
+energy or on factors related to the specific market10.  respectively for 2018 and 2019. For the other countries, we 
+To calculate the Scope2 emissions we used different  have used the same factors used for the location-based 
+The direct and indirect CO emissions associated with the  In particular, for the calculation of CO2, emissions, as  factors based on the method of calculation and the  method. 
+2
+main consumption of the Group can be divided into two  stated  in  the  GRI  Sustainability  Reporting  Standards,   country. In particular:  For  2019,  considering  the  calculation  method  location 
+categories: one must use the calculation of Scope 2 according to  • For the location-based method we used average emission  based for Scope 2, the total emissions were 3.703 tCO : 
+2eq
+•  Direct emissions (Scope 1): emissions of green- two distinct calculation methods: the “Location-based  factors that are related to the generation of national energy  49% can be attributed to the consumption of electricity 
+house gases due to direct consumption of fuel by  method” and the “Market-based method”. The Location- for the different countries in which we operate as shown in  while 51% is due to other factors.
+the Group (for example, natural gas and diesel fuel); based  method    is  based  on  the  factors  of  relative  the publication titled  Confronti Internazionali, Terna 2016  For the calculation of indirect emissions using the market-
+•  Indirect emissions (Scope 2): emissions of green- emissions related to the generation of regional, sub- and 2017, respectively for 2018 and 201911; based method, CO2  emissions were in line with those 
+eq
+national and national energy.
+house  gases  derived  from  the  consumption  of  • For the market-based method we have used average  shown above, i.e. for a total of 4.222 tons of direct and 
+electrical energy purchased and used by the Group. emission factors derived from the electricity production  indirect emissions of CO2 . 
+eq
+6 After the refinement of the monitoring system of the consumption of electrical Energy by the Chinese companies of the Group, the relevant data for 
+2018 were revised with respect to those published in the last non financial document. For this data, please consult the 2018 DNF which was published 
+on the site of www.elengroup.com. In the sector Investor Relations / Sustainability/ Reports.
+7 The data related to the consumption of electrical energy in the month of December 2019, unless otherwise specified, were acquired from the invoices 
+issued by the suppliers of energy services. The data related to energy consumption by the companies located in Calenzano were in part estimated  9Further details concerning the method used for the calculation of the emissions and the emission factors used, please see the relative section in 
+on the basis of the consumption in the month of December 2018. The consumption of fuel for vehicles for the automobiles belonging to the Italian  the chapter on Performance Indicators.
+companies located in Calenzano and part of those related to Lasit S.p.A., were estimated on the basis of the costs by means of the average annual price 
+of gas and diesel fuel (Euros per liter) shown on the site of the Ministry for Economic Development. For automobiles with mixed use, we considered  10 As a result of the refinement of the monitoring system of electrical energy and gas for the company cars of the Chinese subsidiaries of the Group, 
+70% of the total consumption. For the calculation of Energy consumption in GJ, we used the conversion factors of the Department for Environmental  the data for 2018 for the geographic area called “Rest of the World” have been revised with respect to those published in the preceding NFD. For 
+Food & Rural Affairs (DEFRA), UK, for 2019 and for 2018". these data, please consult the NFD, published on the site www.elengroup.com. in the section Investor Relations / Sostainability/Reports.
+8 After the refinement of the monitoring system of the gas consumption of the company automobiles owned by the Chinese companies of the Group,  11 It should be noted that the Scope 2 emissions calculated with the emission factors published by Terna in the International Comparisons document 
+the data related to 2018 were revised with respect to those published in the preceding non-financial document. For the preceding data, please consult  are expressed in tons of CO; in any case, the percentage of methane and nitrous oxide has a negligible effect on the total emissions of greenhouse 
+2
+NFD 2018 which was published on the site www.elengroup.com. in the section Investor Relations / Sustainability/ Reports. gas (CO ), as can be seen from the specific technical literature.
+2eq
+102 103

@@ -1,0 +1,40 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Sezione 2 – Rischi di mercato
+Il rischio di mercato riguarda: 
+rischio di prezzo: è il rischio che il valore di uno strumento finanziario fluttui per effetto di variazioni dei prezzi di mercato, sia 
+che le variazioni derivino da fattori specifici del singolo strumento o del suo emittente, sia da fattori che influenzino tutti gli 
+strumenti trattati sul mercato;
+rischio di cambio: è il rischio che il valore di uno strumento finanziario fluttui per effetto di modifiche dei tassi di cambio delle 
+monete diverse da quella di conto; 
+rischio di tasso di interesse sul fair value: è il rischio che il valore di uno strumento finanziario fluttui per effetto di modifiche 
+dei tassi di interesse sul mercato;
+rischio spread: è il rischio riconducibile a possibili flessioni dei prezzi dei titoli obbligazionari detenuti in portafoglio, dovute al 
+deterioramento della valutazione di mercato della qualità creditizia dell’emittente;
+rischio di tasso di interesse sui flussi finanziari futuri: è il rischio che i flussi finanziari fluttuino per effetto di modifiche dei tassi 
+di interesse sul mercato;
+rischio di tasso d’inflazione sui flussi finanziari futuri: è il rischio che i flussi finanziari fluttuino per effetto di modifiche dei tassi 
+di inflazione rilevati sul mercato. 
+2.1 Rischio di tasso di interesse e rischio di prezzo – 
+portafoglio di negoziazione di vigilanza
+Al 31 dicembre 2017 non sono presenti Attività e Passività finanziarie di negoziazione. Le “Linee guida della gestione finan-
+ziaria di Poste Italiane S.p.A.” per il Patrimonio BancoPosta escludono che possano essere eseguite operazioni con “intento 
+di negoziazione” così come definito dall’art. 104 del Regolamento (UE) n. 575/2013 per la classificazione di “portafoglio di 
+negoziazione di vigilanza”.
+2.2 Rischio di tasso di interesse e rischio di prezzo – 
+portafoglio bancario
+Informazioni di natura qualitativa
+A. Aspetti generali, procedure di gestione e metodi di misurazione del 
+rischio di tasso di interesse e del rischio di prezzo
+Rischio di tasso di interesse
+L’assunzione del rischio di tasso di interesse costituisce una componente normale dell’attività di un’istituzione finanziaria e può 
+generare effetti sia sui livelli reddituali (rischio di tasso di interesse sui flussi finanziari) che sul valore economico dell’azienda 
+(rischio di tasso di interesse sul fair value). In particolare le variazioni dei tassi di interesse esprimono effetti sui flussi finanziari 
+per le attività e le passività remunerate a tasso variabile e hanno effetti sul fair value  degli impieghi remunerati a tasso fisso.
+Il rischio di tasso di interesse sui flussi finanziari può derivare dal disallineamento, in termini di tipologie di tasso, modalità di 
+indicizzazione e scadenze, delle poste finanziarie attive e passive tendenzialmente destinate a permanere fino alla loro scaden-
+za contrattuale e/o attesa (cd banking book) che, in quanto tali, generano effetti economici in termini di margine di interesse, 
+riflettendosi pertanto sui risultati reddituali dei futuri periodi. In particolare, tale rischio riguarda le attività e le passività a tasso 
+variabile o rese tali per effetto di operazioni di fair value hedge. 
+504

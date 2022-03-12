@@ -1,0 +1,36 @@
+ 
+Impairment losses on financial assets 
+The company tests the recoverable amount of debt instruments not measured at fair value through profit or 
+loss using the expected credit loss model. This model develops estimates of the impact of changes in economic 
+factors on the expected credit losses using a probability-weighted outcome. 
+The Group found that, given the characteristics of its business sector, credit risk is that deriving from its 
+exposure to potential losses arising from the customers’ (which are mostly governments or state bodies) non-
+compliance with their obligations.  
+Management of this risk is complex, starting as early as the assessment of offers, through a careful analysis 
+of the characteristics of the countries in which the Group's activities should be carried out and the customers, 
+which are usually state or similar bodies, requesting an offer.   
+Therefore, this risk can be essentially assimilated to the country risk. An analysis of this risk based on the age 
+of the outstanding amounts is not very meaningful, since the receivables should be assessed together with the 
+related working capital items, especially those reflecting the net exposure to customers in relation to contract 
+work in progress as a whole. 
+Loans and borrowings and bonds 
+Loans and borrowings and bonds are initially recognised at cost, being the fair value of the consideration 
+received less transaction costs. 
+After initial recognition, loans are measured at amortised cost, whereby repayments are determined using the 
+effective interest method with a rate which matches, at initial recognition, the expected cash flows with the 
+initial carrying amount. 
+Loan transaction costs are classified under liabilities decreasing the loan; amortised cost is calculated 
+considering these costs and any discounts or premiums expected at settlement. 
+The effects arising from the recognition at amortised cost are taken to “Financing income (costs)”.   
+Derecognition of financial assets and liabilities 
+(a) Financial assets 
+A financial asset (or, where applicable, part of a financial asset or parts of a group of similar financial assets) 
+is derecognised when: 
+(i)  the contractual rights to the cash flows from the financial asset expire; 
+(ii)  the Group retains the contractual rights to receive the cash flows of the financial asset, but assumes a 
+contractual obligation to pay the cash flows to one or more recipients in full and immediately;  
+(iii)  the Group transfers the contractual rights to receive the cash flows of the asset and has transferred 
+substantially all the risks and rewards of ownership of the financial asset and the related control. 
+When the Group has transferred the contractual rights to receive the cash flows of the financial asset and has 
+neither transferred nor retained substantially all the risks and rewards or has retained control, it continues to 
+   249 

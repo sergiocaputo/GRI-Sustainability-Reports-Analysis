@@ -1,0 +1,51 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+6. Analisi e presidio dei rischi
+Rischio prezzo
+È il rischio che il valore di uno strumento finanziario fluttui per effetto di variazioni dei prezzi di mercato, sia che le variazioni derivino 
+da fattori specifici del singolo strumento o del suo emittente, sia da fattori che influenzino tutti gli strumenti trattati sul mercato.
+Le analisi che seguono si riferiscono a quelle poste finanziarie attive “disponibili per la vendita” ovvero “detenute a fini di nego-
+ziazione”, nonché a taluni strumenti finanziari derivati le cui fluttuazioni di valore sono rilevate nel Conto economico. 
+Ai fini dell’analisi di sensitività al 31 dicembre 2017, sono state prese in considerazione le posizioni  potenzialmente esposte alle 
+maggiori fluttuazioni di valore, e sottoposte a uno stress di variabilità calcolato con riferimento alla volatilità storica ad un anno, 
+considerata rappresentativa delle possibili variazioni di mercato. Di seguito, l’esito dell’analisi di sensitività al rischio di prezzo 
+effettuata al 31 dicembre 2017 sulle posizioni del Gruppo Poste Italiane.
+Gruppo Poste Italiane - Rischio prezzo
+Esposizione  Delta valore Effetto su Passività  Risultato prima   Riserve di 
+al rischio differite    delle imposte Patrimonio netto al 
+Descrizione  verso gli assicurati lordo delle imposte
+(milioni di euro) + Vol - Vol + Vol - Vol + Vol - Vol + Vol - Vol
+Effetti 2017
+Attività finanziarie
+Investimenti disponibili  
+1.248  117  (117) 111  (111) -    -    6  (6)
+per la vendita
+Azioni 58  10  (10) 4  (4) -    -    6  (6)
+Altri investimenti 1.190  107  (107) 107  (107) -    -    -    -   
+Strumenti finanziari al fair value 
+22.452  804  (804) 804  (804) -    -    -    -   
+rilevato a C/E
+Azioni 58  14  (14) 14  (14) -    -    -    -   
+Obbligazioni strutturate  -    -    -    -    -    -    -    -    -   
+Altri investimenti 22.394  790  (790) 790  (790) -    -    -    -   
+Strumenti finanziari derivati 184  47  (47) 47  (47) -    -    -    -   
+Fair value rilevato a CE 184  47  (47) 47  (47) -    -    -    -   
+Fair value rilevato a CE (pass.) -    -    -    -    -    -    -    -    -   
+Variabilità al 31 dicembre 2017 23.884  968  (968) 962  (962) -    -    6  (6)
+Effetti 2016
+Attività finanziarie
+Investimenti disponibili  
+1.335  183  (183) 158  (158) -    -    25  (25)
+per la vendita
+Azioni 120  26  (26) 4  (4) -    -    22  (22)
+Altri investimenti 1.215  157  (157) 154  (154) -    -    3  (3)
+Strumenti finanziari al fair value 
+14.786  586  (586) 586  (586) -    -    -    -   
+rilevato a C/E
+Obbligazioni strutturate  441  15  (15) 15  (15) -    -    -    -   
+Altri investimenti 14.345  571  (571) 571  (571) -    -    -    -   
+Strumenti finanziari derivati 233  59  (59) 59  (59) -    -    -    -   
+Fair value rilevato a CE 233  59  (59) 59  (59) -    -    -    -   
+Fair value rilevato a CE (pass.) -    -    -    -    -    -    -    -    -   
+Variabilità al 31 dicembre 2016 16.354  828  (828) 803  (803) -    -    25  (25)
+351

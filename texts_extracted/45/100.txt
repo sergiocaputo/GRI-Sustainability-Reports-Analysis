@@ -1,0 +1,70 @@
+FINCANTIERI GROUP FINCANTIERI GROUP
+CODE INDICATOR DESCRIPTION PAGE CODE INDICATOR DESCRIPTION PAGE
+REPORTING PRACTICE PROCUREMENT PRACTICES
+102-45 Entities included in the consolidated financial statements 8; 186-189 103-1 Management approach 86-87
+103-2 
+102-46 Defining report content and topic boundaries 186-189 103-3
+102-47 List of material topics 26; 190-191 204-1 Proportion of spending on local suppliers 88-89; 98-101
+102-48 Restatements of information 186-189 ANTI-CORRUPTION
+102-49 Changes in reporting 186-189 103-1 Management approach 46-50
+103-2 
+102-50 Reporting period 186-189 103-3
+102-51 Date of most recent report 186-189 205-2 Communication and training about anti-corruption policies and  49-50
+procedures
+102-52 Reporting cycle 186-189
+205-3 Confirmed incidents of corruption and actions taken 50
+102-53 Contact point for questions regarding the report 186-189
+ANTI-COMPETITIVE BEHAVIOR
+102-54 Claims of reporting in accordance with GRI Standards 194
+103-1 Management approach 46-50
+102-55 GRI content index 194-204 103-2 
+103-3
+102-56 External assurance  206
+206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly 
+practices
+SPECIFIC STANDARD DISCLOSURES
+No fines or sanctions have been received for actions referred to the reporting period.
+CATEGORY: ECONOMIC
+CATEGORY: ENVIRONMENTAL
+ECONOMIC PERFORMANCE
+103-1 Management approach  156-159
+103-1 Management approach 62 103-2 
+103-2  103-3
+103-3 Fincantieri is aware that its level of responsibility is judged by its ability to combine, in its work, professionalism and 
+quality with strict respect for laws and consideration for the needs and expectations of the community in relation 
+201-1 Direct economic value generated and distributed 62 to the protection of public goods. Fincantieri wants to represent a model of excellence also in terms of maximum 
+environmental protection.
+To manage the more significant environmental aspects and prevent its business having an environmental impact, 
+MARKET PRESENCE Fincantieri is committed to implementing and maintaining an Environmental Management System and obtaining the 
+relevant certification in accordance with international standard ISO 14001 at its sites.
+103-1 Management approach 120 8 grievances regarding environmental impacts were filed in 2019, of which 2 referred to previous years and were 
+103-2  resolved during the year.
+103-3 MATERIALS
+202-2 Proportion of senior management hired from the local community
+301-1 Materials used by weight or volume 164-165
+As regards the recruitment policies for senior management, the majority of those recruited (over 94%) are found to 
+be from local profiles and candidates. ENERGY
+INDIRECT ECONOMIC IMPACTS 302-1 Energy consumption within the organization 161-162
+103-1 Management approach 68-69 Type MEASUREMENT UNIT 2018 2019
+103-2 
+103-3 Acetylene GJ 16,769 18,585
+203-2 Significant indirect economic impacts 68-69 Natural gas GJ 430,935 425,761
+For the analysis and description of the main indirect economic impacts, Fincantieri has used an econometric model 
+Diesel GJ 634,912 612,830
+developed by Censis (a Foundation recognized with Decree of the President of the Republic 712/1973). The impact 
+measures were calculated using the analysis and calculation methodology based on Leontief input-output tables,  LPG GJ 22,761 14,052
+although this model was substantially modified to adapt it to the specific Fincantieri production and company 
+structure. The estimates can be considered sufficiently robust proxies for the multiplier effects that Fincantieri is  LNG GJ 4 8
+able to produce within the national economic system, given its specific production model, the business model that 
+the Company has built in recent years and the structure of the supply chain, with the relative levels of integration  Fuel oil GJ 256,615 224,767
+upstream of the production cycle for naval vessels.
+Total fuel GJ 1,361,996 1,296,003
+Total self-generated  GJ 587 3,766
+thermal energy
+Total electricity GJ 1,258,122 1,280,560
+Of which from renewable  GJ 106,376 508,185
+sources
+Total energy GJ 2,620,706 2,580,329
+The data refer to the entire Fincantieri Group. 
+Energy consumption varies according to production loads.
+196 197

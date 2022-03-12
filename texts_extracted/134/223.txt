@@ -1,0 +1,39 @@
+ 
+ 
+Statement of changes in equity 
+           Other reserves    Other comprehensive expense                
+Share   Share   Legal   Share  Extraordinary  Reserve  LTI reserve Inflation reserve  Total  Translation H edging  Actuarial   Total other  Retained   Profit   Equity   Non-  Total  
+capital  premium  reserve  capital  and other  for  other  reserve reserve  reserve comprehensive earnings  (loss) for attributable controlling 
+reserve  increase  reserves  treasury  reserves  expense   the year  to the  interests 
+related  shares  owners of 
+charges  the parent 
+(€’000)   
+As at 1 January 2018  22  544,740   120,798   106,551   (3,970)   136  (7,677)  6,344  -  101,384   (68,835)   138   (5,233)   (73,930)  238,731  (117,233)   814,490   131,061   945,551 
+Allocation of profit and reserves   22                      -            -  (117,233)   117,233   -      - 
+Dividend distribution  22                      -            -  (26,099)      (26,099)      (26,099) 
+Change in consolidation scope  22                      -            -   341      341   166   507 
+Stock option  22                4,386  (6,344)   (1,958)            -   1,958      -      - 
+Capital increase  22                      -            -         -   1,605   1,605 
+Other changes and reclassifications  22                    24,764  24,764            -         24,764   6,883   31,647 
+Dividend distribution to non-controlling interests  22                      -            -         -   (28,374)   (28,374) 
+Profit for the year   22                      -            -      54,197   54,197   (12,882)   41,315 
+Other comprehensive expense  22                -     -   (31,933)  (4,174)   4,123   (31,984)         (31,984)   (2,105)   (34,089) 
+Comprehensive expense  22  -   --   - -  - -  -  -  -  -  -   (31,933)  (4,174)   4,123   (31,984)   -   54,197   22,213   (14,987)   7,226 
+As at 31 December 2018  22  544,740   120,798   106,551   (3,970)   136  (3,291)  -  24,764  124,190   (100,768)  (4,036)   (1,110)   (105,914)   97,698   54,197   835,709   96,354   932,063 
+                                                    
+As at 1 January 2019   22  544,740   120,798   106,551   (3,970)   136  (3,291)  -  24,764  124,190   (100,768)  (4,036)   (1,110)   (105,914)   97,698   54,197   835,709   96,354   932,063 
+IFRS 16 and IFRIC 23 FTA                                        (7,455)      (7,455)   (64)   (7,519) 
+As at 1 January 2019 (post IFRS 16 FTA)  22  544,740   120,798   106,551   (3,970)   136  (3,291)  -  24,764  124,190   (100,768)  (4,036)   (1,110)   (105,914)   90,243   54,197   828,254   96,290   924,544 
+Allocation of profit and reserves   22         2,397             2,397            -   51,800  (54,197)   -      - 
+Dividend distribution  22                      -            -   (840)      (840)      (840) 
+Change in consolidation scope  22                      -               14,407      14,407   6,485   20,892 
+Capital increase  22  55,260   533,688   11,052   (7,018)          4,034            -         592,982   3,035   596,017 
+22                    17,960  17,960            -         17,960   3,537   21,497 
+ODividtenhd diestrirbut iocn tho noan-cnontgrolleing sinte raestsn  d reclassifications  22                      -            -         -   (5,252)   (5,252) 
+Loss for the year  22                      -                 (22,128)   (22,128)   7,983   (14,145) 
+Other comprehensive expense  22                      -   (25,225)  (4,825)   (5,190)   (35,240)         (35,240)   (3,328)   (38,568) 
+Comprehensive expense  22  -   --   - -  - -  -  -  -  -  -   (25,225)  (4,825)   (5,190)   (35,240)   -  (22,128)   (57,368)   4,655   (52,713) 
+As at 31 December 2019  22  600,000   654,486   120,000   (10,988)   136  (3,291)  -  42,724  148,581   (125,993)  (8,861)   (6,300)   (141,154)  155,610  (22,128)   1,395,395   108,750  1,504,145 
+                                                    
+                                                    
+   224 

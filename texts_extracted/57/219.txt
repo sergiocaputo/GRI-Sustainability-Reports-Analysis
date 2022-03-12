@@ -1,0 +1,50 @@
+Bilancio Individuale 2017
+Società Veicolo  Popolare Bari NPLs 2017 Srl 
+Tradizionale con trasferimento a terzi del rischio 
+Tipologia operazione 
+credito 
+Banca Popolare di Bari - Cassa di Risparmio di 
+Originator 
+Orvieto 
+Servicer  Prelios Credit Servicing S.p.A. 
+Arranger  J.P.Morgan 
+Calculation Agent  Securitisation Services SpA 
+Corporate Servicer  Securitisation Services SpA 
+Qualità attività cartolarizzate  crediti in sofferenza 
+Garanzie a presidio delle attività cartolarizzate  ipotecarie (c.a 55%) e chirografarie (c.a 45%) 
+Data di godimento  16/11/2017 
+Valore lordo attività cartolarizzate  312.932.753 
+ - di cui Banca Popolare di Bari  297.989.617 
+ - di cui Cassa di Risparmio di Orvieto  14.943.136 
+Valore netto attività cartolarizzate  94.321.928 
+ - di cui Banca Popolare di Bari  92.949.545 
+ - di cui Cassa di Risparmio di Orvieto  1.372.383 
+Prezzo di cessione (*)  102.411.224 
+ - di cui Banca Popolare di Bari  101.008.368 
+ - di cui Cassa di Risparmio di Orvieto  1.402.856 
+Agenzie di Rating  DBRS Ratings Limited / Moody's/Scope Ratings 
+(cid:11)(cid:13)(cid:12)(cid:3)(cid:76)(cid:80)(cid:83)(cid:82)(cid:85)(cid:87)(cid:82)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:85)(cid:72)(cid:81)(cid:86)(cid:76)(cid:89)(cid:82)(cid:3)(cid:71)(cid:72)(cid:74)(cid:79)(cid:76)(cid:3)(cid:76)(cid:81)(cid:70)(cid:68)(cid:86)(cid:86)(cid:76)(cid:3)(cid:72)(cid:73)(cid:73)(cid:72)(cid:87)(cid:87)(cid:88)(cid:68)(cid:87)(cid:76)(cid:3)(cid:81)(cid:72)(cid:79)(cid:3)(cid:83)(cid:72)(cid:85)(cid:76)(cid:82)(cid:71)(cid:82)(cid:3)(cid:20)(cid:18)(cid:23)(cid:18)(cid:21)(cid:19)(cid:20)(cid:26)(cid:16)(cid:20)(cid:24)(cid:18)(cid:20)(cid:20)(cid:18)(cid:21)(cid:19)(cid:20)(cid:26)(cid:17)(cid:3) (cid:11)(cid:76)(cid:80)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:72)(cid:88)(cid:85)(cid:82)(cid:12)(cid:3)
+Per ﬁnanziare l’acquisto del portafoglio di NPLs, in data 5 dicembre la SPV ha emesso le seguenti tranche di titoli:
+•  Senior (rating DBRS BBB(low), Moody’s Baa3, Scope BBB), per euro 80,9 milioni, tasso Euribor 6 mesi più spread 
+0,3%;
+•  Mezzanine (rating DBRS B(low), Scope B+), per euro 10,1 milioni, tasso Euribor 6 mesi più spread 6%; 
+•  Junior, privo di rating, per euro 13,450 milioni.
+Alla data di emissione, dette notes sono state integralmente sottoscritte dalla Banca, in attesa della vendita sul 
+mercato delle tranche Mezzanine e Junior, e della concessione da parte del Ministero dell’Economia e delle Finanze 
+(MEF) della garanzia “GACS” in favore dei sottoscrittori del titolo Senior.
+In data 12 dicembre 2017, si è perfezionata la vendita dei titoli Mezzanine e Junior per un corrispettivo pari a com-
+plessivi euro 5.900 mila.
+Con decreto del 29 gennaio 2018, il MEF ha concesso la garanzia statale “GACS” in favore del detentore del titolo 
+Senior, secondo quanto previsto dal D.L. 14 febbraio 2016 n. 18, convertito nella Legge 8 aprile 2016 n. 49 e in base 
+all’iter di cui al Decreto MEF del 3 agosto 2016. 
+Di conseguenza, alla data del presente bilancio la Banca Popolare di Bari detiene il predetto titolo Senior che è dota-
+to, per l’intero suo ammontare, della garanzia dello Stato Italiano. Detto titolo è stato iscritto nella Voce 70 dell’attivo 
+“Crediti verso clientela”, con un valore di bilancio al 31 dicembre 2017 pari ad euro 85.030 mila al lordo degli oneri 
+direttamente imputabili al titolo Senior (euro 4,13 milioni) in coerenza con la deﬁnizione di “costo di transazione” 
+previsto dallo IAS 39 .
+Pertanto, ricorrendo i presupposti per la cancellazione degli NPLs (“derecognition”) ai sensi dei parr. 18a) e 20a) dello 
+IAS 39, i crediti a sofferenza sottostanti la cartolarizzazione sono stati cancellati dall’attivo del bilancio della Banca 
+(Voce 70 Crediti verso clientela).
+L’operazione così strutturata ha infatti comportato il trasferimento a terzi di tutti i rischi e beneﬁci legati al portafo-
+glio crediti ceduto. 
+219

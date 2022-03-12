@@ -1,0 +1,41 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Rischio di tasso di interesse sul fair value
+È il rischio che il valore di uno strumento finanziario fluttui per effetto di modifiche dei tassi di interesse sul mercato.
+Le analisi che seguono si riferiscono principalmente agli effetti delle variazioni dei tassi di mercato sul prezzo degli strumenti 
+finanziari a tasso fisso o ricondotti a tasso fisso mediante operazioni di copertura di cash flow hedge e, in via residuale, gli 
+effetti delle variazioni dei tassi di mercato sulle componenti fisse degli strumenti finanziari a tasso variabile o ricondotti a tasso 
+variabile mediante operazioni di copertura di fair value hedge. Tali effetti risultano tanto più significativi quanto maggiore è la 
+duration dello strumento finanziario.
+La sensitività al rischio di tasso delle posizioni interessate è calcolata in conseguenza di un ipotetico shift parallelo della curva 
+dei tassi di mercato di +/- 100 bps. Le misure di sensitività indicate dall’analisi svolta offrono un riferimento di base, utilizzabile 
+per apprezzare le potenziali variazioni del fair value, in caso di oscillazioni dei tassi di interesse. 
+Di seguito, l’esito dell’analisi di sensitività al rischio di interesse sul fair value, effettuata al 31 dicembre 2017 sulle posizioni del 
+Gruppo Poste Italiane.
+Gruppo Poste Italiane - Rischio di tasso di interesse sul fair value
+Esposizione   Delta   Effetto su Passività  Risultato prima   Riserve di 
+al rischio valore differite verso gli  delle imposte Patrimonio netto al 
+assicurati lordo delle imposte
+Descrizione
+(milioni di euro) Nominale Fair value +100bps -100bps +100bps -100bps +100bps -100bps +100bps -100bps
+Effetti 2017
+Attività finanziarie
+Investimenti disponibili per la vendita 124.162 134.552  (6.614) 6.536  (5.450) 5.450  -    -    (1.164) 1.086 
+Titoli a reddito fisso 124.161 134.390  (6.611) 6.533  (5.447) 5.447  -    -    (1.164) 1.086 
+Altri investimenti 1  162  (3) 3  (3) 3  -    -    -    -   
+Stumenti finanziari  
+6.481  6.886  (251) 244  (248) 241  (3) 3  -    -   
+al fair value rilevato a CE
+Titoli a reddito fisso 5.979  6.220  (235) 235  (232) 232  (3) 3  -    -   
+Obbligazioni Strutturate 500  546  (13) 6  (13) 6  -    -    -    -   
+Altri investimenti 2  120  (3) 3  (3) 3  -    -    -    -   
+Strumenti finanziari derivati  -    -    -    -    -    -    -    -    -    -   
+Cash flow Hedging -    -    -    -    -    -    -    -    -    -   
+Fair value Hedging -    -    -    -    -    -    -    -    -    -   
+Passività finanziarie  -   
+Strumenti finanziari derivati  1.358  (28) 94  (100) -    -    -    -    94  (100)
+Fair value rilevato a CE -    -    -    -    -    -    -    -    -    -   
+Cash flow Hedging 1.358  (28) 94  (100) -    -    -    -    94  (100)
+Variabilità al 31 dicembre 2017 132.001 141.410  (6.771) 6.680  (5.698) 5.691  (3) 3  (1.070) 986 
+354

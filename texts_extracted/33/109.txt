@@ -1,0 +1,49 @@
+Consolidated Non-Financial Statement 2018
+GRI Standard Page Omissions Description
+Emissions
+GRI 103: Management Approach (2016)
+Explanation of the material topic
+103-1 19-20; 103
+and its Boundary
+The management approach and
+103-2 11; 22; 89-90
+its components
+Evaluation of the management 
+103-3 89-90
+approach.
+GRI 305: emissions (2016)
+305-1 89-90; 100-101 Direct (Scope 1) GHG emissions
+Energy indirect (Scope 2) GHG
+305-2 89-90; 100-101 
+emissions
+Environmental compliance
+GRI 103: Management Approach (2016)
+Explanation of the material topic
+103-1 19-20; 102
+and its Boundary
+The management approach and
+103-2 11; 47-49; 88
+its components
+Evaluation of the management 
+103-3 47-49; 88
+approach.
+GRI 307 environmental compliance (2016)
+In 2018 no cases of non-conformity  Non-compliance with
+307-1  with environmental laws and  environmental laws and
+regulations took place. regulations
+Environmental evaluation of suppliers 
+GRI 103: Management Approach (2016)
+Explanation of the material topic
+103-1 19-20; 102
+and its Boundary
+The management approach and
+103-2 11; 22; 60-61
+its components
+Evaluation of the management 
+103-3 60-61
+approach.
+GRI 308 Environmental evaluation of suppliers  (2016)
+New suppliers that were 
+308-1 11; 61 screened using environmental 
+criteria
+110

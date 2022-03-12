@@ -1,0 +1,66 @@
+SICUREZZA, AMBIENTE, TERRITORIO
+delle emissioni fuggitive e delle emissioni da vent13.                dell’ambiente circostante. L’impianto, infatti, è dotato 
+Tali  dati  mettono  in  evidenza  un  aumento  delle  di un Sistema di Monitoraggio delle Emissioni (SME) 
+emissioni nel corso degli anni, direttamente correlabili  in grado di rilevare – in continuo – numerosi parametri 
+con l’incremento dell’energia prodotta e consumata,  emissivi su ciascun condotto delle due caldaie (E1, E2) 
+in conseguenza del costante aumento dell’operatività  presenti a bordo. I parametri monitorati in continuo, 
+del Terminale (aumento del GN rigassificato), che  oltre alle caratteristiche fisiche delle emissioni stesse, 
+nel 2019 è risultato a regime. Le figure seguenti  sono: monossido di carbonio (CO), biossido di azoto 
+evidenziano infatti la riduzione degli indici specifici  (NO ), ossidi di azoto (NO ), Polveri (PM), composti 
+2 X
+delle emissioni di CO  equivalente, espresse sia per  organici volatili (COV) e biossido di carbonio (CO ), 
+2 2
+energia prodotta che per GN rigassificato. anche se i dati riportati riguardano quelli relativi ai 
+Nel triennio la riduzione dell’indice specifico relativo  parametri ritenuti più significativi (CO, NO , Polveri).
+X
+alla CO  equivalente è pari a: I limiti legislativi dettati dal Decreto AIA, in condizioni 
+2
+• -24,7% se espresso per energia prodotta; di  normale  operatività  (ovvero  bruciando  gas 
+• -71,7% se espresso per GN rigassificato. naturale),  sono:  NO   (150  mg/Nm3;  100  mg/Nm3 
+X
+dal 1° luglio 2018), Polveri (5 mg/Nm3), CO (70 mg/
+Nm3). Ai sensi del D. Lgs. 152/06 e s.m.i., gli ulteriori 
+Indici specifici delle emissioni 
+limiti imposti e controllati con cadenza annuale da un 
+di CO equivalente
+laboratorio certificato sono relativi al parametro SO  
+2  2
+CO per energia prodotta (5 mg/Nm3 con GN come combustibile).
+2
+CO su GN rigassificato In  condizione  di  non  normale  operatività  (ovvero 
+2
+bruciando  MGO  in  caldaia)  OLT,  ancorché  non 
+2,0
+richiesto  dall’Autorità,  nell’ottica  di  una  riduzione 
+degli  inquinanti  in  qualsiasi  condizione  operativa, 
+1,5
+monitora tutti gli inquinanti e controlla che i valori del 
+Terminale siano inferiori ai limiti di legge imposti agli 
+1,0
+impianti solo per le condizioni di normale operatività: 
+0,5 NO (400 mg/Nm3), Polveri (50 mg/Nm3) SO  (850 
+x 2
+mg/Nm3) e Metalli. Fino ad oggi, il Terminale ha 
+0,0 sempre rispettato i limiti imposti, in tutte le condizioni 
+2017 2018 2019 operative14.
+Ton CO /MWh Ton CO/1.000 Sm3
+2  2
+2017 2018 2019 (11) Questo materiale fa riferimento a GRI 305-1, GRI 305-4 e GRI 305-7 del GRI 305:  
+  Emissioni 2016.
+Ton CO/MWh 1,39 1,25 1,04 (12) Si evidenzia che i valori indicati (2017-2018) sono diversi da quanto riportato nei
+2
+  report precedenti, in quanto la quantità di CO emessa dalle caldaie è stata calcolata
+2
+Ton CO/1.000 Sm3 0,074 0,060 0,021   secondo la metodologia prevista dal Sistema Emission Trading e non direttamente
+2
+  dalla misurazione, come effettuato nei precedenti report.
+(13) Le quote derivanti dalle emissioni fuggitive e da vent sono state calcolate    
+  rispettivamente dal monitoraggio delle emissioni fuggitive, così come richiesto  
+EMISSIONI IN ATMOSFERA DAL CAMINO   dall’Autorità preposta nel Decreto AIA, e dalla stima della quantità di GN emesso  
+  dal vent in caso di manutenzioni, entrambi convertite in CO equivalente (conversione
+2
+  effettuata sulla base dei fattori denominati GWP – Global Warming Potential).
+Le emissioni in atmosfera del Terminale sono soggette  (14) Nel 2018 è stato registrato un lieve superamento di un’ora per gli NOX nel mese  
+  di luglio nella caldaia E2 mentre nel 2019 a febbraio, sempre di un’ora, per entrambe  
+a  puntuali  monitoraggi  a  tutela  del  territorio  e    le caldaie. I due eventi sono stati opportunamente comunicati alle Autorità.
+43

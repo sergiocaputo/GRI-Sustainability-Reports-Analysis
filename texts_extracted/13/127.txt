@@ -1,0 +1,40 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+  è prevista la determinazione dell’expected loss a 12 mesi per le 
+esposizioni classificate in bucket 1 e di un expected loss lifetime per le 
+esposizioni classificate in bucket 2 e 3;
+  gli input per il calcolo dei parametri di rischio impiegati per la 
+determinazione delle due metriche di cui al punto precedente così 
+come i rating esterni sono forniti da apposite agenzie esterne;
+  gli elementi forward looking sono derivati dagli scenari prodotti 
+dall’autorità di vigilanza.
+Si precisa, inoltre, che:
+  il Gruppo, come previsto dal principio contabile, si è avvalso 
+della facoltà di non rideterminare i dati comparativi degli esercizi 
+precedenti;
+  le società assicurative controllate da Banca Mediolanum, consolidate 
+con il metodo integrale, non hanno optato per l’applicazione del 
+cosiddetto “deferral approach”. Tale approccio, previsto per le 
+Compagnie assicurative appartenenti a conglomerati finanziari, 
+avrebbe permesso di non applicare ai fini del bilancio consolidato, 
+sino al 31 dicembre 2022, quanto disposto dall’IFRS 9, in attesa 
+dell’entrata in vigore del principio contabile IFRS 17.
+IMPATTI SUL PATRIMONIO NETTO A SEGUITO
+DELL’APPLICAZIONE DELL’IFRS 9
+L’impatto sul patrimonio netto al 1° gennaio 2018 derivante dall’applicazione 
+dell’IFRS 9 è risultato pari a -10,5 milioni di euro al netto dell’effetto fiscale. 
+Tale variazione risulta così composta:
+  Variazione riserva di FTA pari a -13,3 milioni derivante dal ricalcolo/
+applicazione della perdita attesa su strumenti finanziari (titoli e crediti) 
+valutati al costo ammortizzato.
+  Variazione riserva di FTA pari a -8,1 milioni derivante dall’applicazione 
+della perdita attesa su strumenti finanziari valutati al fair value con 
+impatto sulla redditività complessiva.
+  Variazione riserva di FTA pari a +15 milioni derivante dall’applicazione 
+delle nuove regole di classificazione interamente compensata dalla 
+corrispondente variazione intervenuta nella riserva da valutazione (-15 
+milioni di euro);
+  Variazione riserva da valutazione pari a +10,9 milioni derivante 
+dall’applicazione della perdita attesa su strumenti finanziari valutati al 
+fair value con impatto sulla redditività complessiva.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 128

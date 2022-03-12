@@ -1,0 +1,46 @@
+GRI Standard Disclosures Numero pagina Omission
+102-45 Entità incluse nel bilancio consolidato dell’organizzazione   10-11;15
+o documenti equivalenti
+102-46 Processo per la definizione del perimetro di rendicontazione   14-16
+e delle limitazioni
+102-47 Aspetti materiali identificati nel processo di analisi per la definizione   16
+del perimetro di rendicontazione
+102-48 Modifiche di informazioni inserite nei report precedenti e le motivazioni   14-20 
+di tali modifiche
+102-49 Cambiamenti significativi dell’obiettivo e delle limitazioni rispetto   85
+al precedente periodo di rendicontazione
+102-50 Periodo di rendicontazione (anno finanziario o anno solare) 15 
+102-51 Data dell’ultimo rapporto (se disponibile) Il Report viene 
+pubblicato 
+annualmente
+102-52 Periodicità di rendicontazione (annuale, biennale) 14
+102-53 Contatti e indirizzi utili per chiedere informazioni sul bilancio Quarta di copertina
+102-54 Specificare l’opzione di conformità con i GRI Standards prescelta  14
+dall’organizzazione
+102-55 GRI content index 84-87
+102-56 Attestazione esterna 88
+Aspetti materiali
+Performance economica
+GRI 103: 103-1 Spiegazione degli aspetti materiali e relativi confini 10-12;22-25
+Management 
+Approach 103-2 Informazioni generali sull'approccio del management e relative caratteristiche 10-12;22-25
+103-3 Valutazione sull'approccio del management 10-12;22-25
+GRI 201-1: 201-1 Valore diretto economico generato e distribuito 21
+Performance economica
+Energia
+GRI 103: 103-1 Spiegazione degli aspetti materiali e relativi confini 63-67
+Management 
+Approach  103-2 Informazioni generali sull’approccio del management   63-67
+e relative caratteristiche
+103-3 Valutazione sull’approccio del management 63-67
+GRI 302:   302-1 Energia consumata all’interno dell’organizzazione 66-67
+Energia 
+302-4 Riduzione del consumo di energia 63-67
+Acqua
+GRI 103: 103-1 Spiegazione degli aspetti materiali e relativi confini 63-65;68
+Management 
+Approach  103-2 Informazioni generali sull’approccio del management e relative caratteristiche 63-65;68
+103-3 Valutazione sull’approccio del management 63-65;68
+GRI 303:   303-1 Prelievo di acqua per fonte 68
+Acqua 
+ 85 

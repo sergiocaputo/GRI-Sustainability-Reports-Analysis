@@ -1,0 +1,45 @@
+ 
+8. Nota metodologica 
+ 
+8.1 Standard applicati 
+I dati e le informazioni inclusi nella presente Dichiarazione Non Finanziaria derivano dai sistemi informativi del 
+Gruppo e dal sistema di reporting non-finanziario sviluppato appositamente per rispondere ai requisiti stabiliti nel 
+D.  Lgs.  254/2016  e  nei  GRI  Standard.  I  dati  sono  stati  elaborato  tramite  calcoli  puntuali  o  stime,  ove 
+specificatamente indicato. Di seguito si riportano le metodologie di calcolo utilizzate. 
+ 
+8.1.1 Indici infortunistici 
+Gli indici infortunistici sono stati calcolati secondo le modalità stabilite dalla norma UNI 7249:2007 “statistiche 
+degli infortuni sul lavoro”. 
+In particolare il tasso di infortuni (IR) è stato calcolato come il rapporto tra infortuni, anche mortali, ed ore 
+lavorate moltiplicato per 1.000.000. Il numero di ore di lavoro perso (LDR) è calcolato come il rapporto tra le ore 
+di assenza per infortuni e le ore lavorate durante l’anno, moltiplicato per 200.000. Tale parametro è pari al 
+numero di ore lavorate da 50 dipendenti in un anno lavorando 40 ore a settimana. Stessa metodologia è stata 
+utilizzata per calcolare le ore di lavoro perso a seguito di malattie professionali (ODR): rapporto tra le ore di 
+assenza per infortuni e le ore lavorate durante l’anno moltiplicato per 200.000. 
+ 
+8.1.2 Consumi energetici ed emissioni di gas ad effetto serra 
+I dati utilizzati per calcolare i consumi energetici provengono per le controllate estere del Gruppo da quanto 
+comunicato dal provider energetico. Per la Capogruppo e la controllata Pininfarina Extra i dati provengono dai 
+misuratori installati presso gli stabilimenti. 
+I consumi di gasolio della flotta aziendale italiana sono stati stimati moltiplicando i km percorsi dai mezzi del 
+parco auto aziendale per il consumo medio, per la sola percentuale riconducibile ad uso aziendale (pari al 7% 
+del totale). 
+Le emissioni sono suddivise tra Scope 1 e Scope 2.  
+Per  Scope  1  si  intendono  le  emissioni  in  atmosfera  di  Gas  Serra  generate  direttamente  dalla  società, 
+bruciando combustibili al fine di generare energia elettrica o termica. 
+Lo Scope 2 ricomprende le emissioni generate dai provider dell’azienda per produrre l’energia consumata dalla 
+società.  
+Per il calcolo delle emissioni dirette di CO  (Scope 1) sono stati utilizzati i fattori di emissione definiti dai 
+2
+parametri del Department for Business, Energy & Industrial Strategy (BEIS), mentre per il calcolo delle emissioni 
+indirette di CO  (Scope 2) sono stati utilizzati i fattori di emissione definiti da ISPRA su fonte dati TERNA. 
+2
+La stima delle sostanze ozono lesive emesse dalle officine italiane è basata su misurazioni semestrali dei fumi 
+effettuate in ottemperanza alla normativa vigente. 
+ 
+8.1.3 Rifiuti 
+I dati relativi ai rifiuti prodotti sono stati ricavati dal Registro dei Rifiuti tenuto dal Gruppo in ottemperanza alla 
+normativa vigente in tema di smaltimento di rifiuti. 
+ 
+42 
+ 

@@ -1,0 +1,57 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+- of which underground 
+(km)  883   874   754  9 1.1 Latin America
+cable
+Medium-voltage network (km) 379,701 381,214  350,376  -1,513 -0.4 Latin America
+- of which underground 
+(km)  15,298   14,471   11,491  827 5.7 Latin America
+cable
+Low-voltage network (km) 226,636 223,326  197,326  3,310 1.5 Latin America
+- of which underground 
+(km)  20,781   20,458   16,696  323 1.6 Latin America
+cable
+Energy transported and 
+local coverage
+Energy transported (5) (TWh) 504.0 484.4 460.7 19.6 4.0 Enel
+Municipalities served by 
+(no.) 13,796 13,739 13,558 57 0.4 Enel
+electric grid
+SALES
+Electricity volumes sold 
+by market
+Volumes sold free market (GWh) 152,588 152,619 151,722 -31 - Enel
+Italy (GWh) 61,985 64,500 59,262 -2,515 -3.9 Italy 
+Iberia (GWh) 78,056 76,772 83,036 1,284 1.7 Iberia
+Romania (GWh) 7,647 7,519 6,318 128 1.7 Romania
+Latin America (GWh) 4,901 3,828 3,106 1,073 28.0 Latin America
+Volumes sold regulated 
+(GWh) 149,088 142,813 133,031 6,275 4.4 Enel
+market
+Italy (GWh) 35,554 39,818 43,958 -4,264 -10.7 Italy
+Iberia (GWh) 11,385 12,867 13,478 -1,482 -11.5 Iberia
+Romania (GWh) 2,088 2,881 4,029 -793 -27.5 Romania
+Latin America (GWh)  100,061   87,247  71,566 12,814 14.7 Latin America
+Total volumes sold (GWh) 301,676 295,432 284,753 6,244 2.1 Enel
+Electricity volumes sold 
+by geographic area
+Italy (GWh) 97,539 104,318 103,220 -6,780 -6.5 Italy
+Iberia (GWh) 89,441 89,639 96,514 -198 -0.2 Iberia
+Romania (GWh) 9,735 10,400 10,347 -665 -6.4 Romania
+Latin America (GWh) 104,962 91,075 74,672 13,887 15.2 Latin America
+Volumes sold gas (bn m3) 10.50 11.18 11.76 -0.68 -6.1 Enel
+Italy (bn m3) 4.74 4.76 4.81 - -0.4 Italy
+Iberia (bn m3) 5.75 6.41 6.94 -0.66 -10.3 Iberia
+Romania (bn m3) 0.01 0.01 0.01 - - Romania
+102-7 ECONOMIC RESULTS
+(mil 
+Revenues 80,327 75,575 74,639 4,752 6.3 Enel
+euros)
+(mil 
+EBITDA (6) 17,704 16,351 15,653 1,353 8.3 Enel
+euros)
+(mil 
+Italy 7,628 7,304 6,863 324 4.4 Italy 
+euros)
+Performance indicators 279

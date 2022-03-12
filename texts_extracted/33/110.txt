@@ -1,0 +1,47 @@
+Consolidated Non-Financial Statement 2018
+GRI Standard Page Omissions Description
+SOCIAL
+Labor/Management Relations 
+GRI 103: Management Approach (2016)
+Explanation of the material topic
+103-1 19-20; 103
+and its Boundary
+The management approach and
+103-2 74-75; 84-85
+its components
+Evaluation of the management 
+103-3 74-75; 84-85
+approach.
+GRI 402:  Labor/Management Relations (2016)
+Minimum notice periods
+402-1  75
+regarding operational changes
+Occupational Health and safety 
+GRI 103: Management Approach (2016)
+Explanation of the material topic
+103-1 19-20; 102
+and its Boundary
+The management approach and
+103-2 22; 79-82
+its components
+Evaluation of the management 
+103-3 79-82 
+approach.
+GRI 403-2: Occupational health and safety (2018)
+Occupational health and safety 
+403-1 79-82
+management system
+Hazard identification, risk 
+403-2 79-82 assessment, and incident 
+investigation
+403-3 79-82 Occupational health services
+Worker participation, 
+consultation, and 
+403-4 79-82
+communication on occupational 
+health and safety
+Worker training on occupational 
+403-5 81
+health and safety
+403-6 84-85 Promotion of worker health
+111

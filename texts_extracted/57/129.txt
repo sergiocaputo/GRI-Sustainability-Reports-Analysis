@@ -1,0 +1,41 @@
+Bilancio Individuale 2017
+Altri fondi
+Gli altri fondi per rischi ed oneri sono passività d’ammontare o scadenza incerto rilevati in bilancio quando ricorrono 
+le seguenti contestuali condizioni: 
+a)  esiste un’obbligazione attuale alla data di riferimento del bilancio, che deriva da un evento passato; l’obbligazio-
+ne deve essere di tipo legale (trova origine da un contratto, normativa o altra disposizione di legge) o implicita 
+(nasce nel momento in cui l’impresa genera nei confronti di terzi l’aspettativa che assolverà i propri impegni 
+anche se non rientranti nella casistica delle obbligazioni legali);
+b)  è probabile che si veriﬁchi un’uscita ﬁnanziaria;
+c)  è possibile effettuare una stima attendibile dell’ammontare dell’obbligazione.
+Nel caso in cui l’elemento temporale sia determinabile e signiﬁcativo gli accantonamenti sono eseguiti attualizzando 
+gli oneri che si suppone saranno necessari per estinguere l’obbligazione, ad un tasso di sconto, al lordo di imposte, 
+che riﬂette la valutazione corrente del mercato del costo del denaro in relazione al tempo e, se opportuno, ai rischi 
+speciﬁci della passività. A seguito del processo di attualizzazione, la variazione dell’accantonamento dovuto al tra-
+scorrere del tempo è rilevato nella voce “Accantonamenti netti ai fondi per rischi ed oneri”.
+Sezione 13 - Debiti e titoli in circolazione
+Criteri di classiﬁcazione
+I debiti rientrano nella più ampia categoria degli strumenti ﬁnanziari e sono costituiti da quei rapporti per i quali si 
+ha l’obbligo di pagare a terzi determinati importi a determinate scadenze.
+I titoli in circolazione comprendono la raccolta effettuata attraverso certiﬁcati di deposito e titoli obbligazionari in 
+circolazione, al netto, pertanto, degli eventuali riacquisti.
+Criteri d’iscrizione
+La prima iscrizione avviene all’atto della ricezione delle somme raccolte o della emissione dei titoli di debito ed è ef-
+fettuata sulla base del fair value delle passività, normalmente pari all’ammontare incassato o al prezzo di emissione, 
+aumentato degli eventuali costi/proventi aggiuntivi direttamente attribuibili alla singola operazione di provvista o di 
+emissione e non rimborsati dalla controparte creditrice.
+Criteri di valutazione e rilevazione delle componenti reddituali
+Dopo la rilevazione iniziale le passività ﬁnanziarie sono valutate con il criterio del costo ammortizzato, utilizzando il 
+metodo del tasso d’interesse effettivo. Tale criterio non è applicato alle passività a breve termine.
+Il costo per interessi su strumenti di debito è classiﬁcato tra gli interessi su debiti rappresentati da titoli emessi.
+Criteri di cancellazione
+Le passività ﬁnanziarie sono rimosse dal bilancio quando l’obbligazione speciﬁcata dal contratto è estinta. I riacqui-
+sti di proprie passività sono considerati alla stregua di un’estinzione della passività o parte di essa. La differenza tra 
+valore contabile della passività estinta e l’ammontare pagato per acquistarla viene registrato nel conto economico.
+Nel caso di riacquisto di titoli in precedenza emessi si procede all’elisione contabile delle relative poste dell’attivo e 
+del passivo. Qualora, in seguito al riacquisto, siano ricollocati sul mercato titoli propri, tale operazione è considerata 
+come una nuova emissione.
+Sezione 14 - Passività ﬁnanziarie di negoziazione
+Criteri di classiﬁcazione
+In questa categoria sono compresi:
+129

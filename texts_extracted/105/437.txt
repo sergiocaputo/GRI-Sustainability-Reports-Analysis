@@ -1,0 +1,33 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+13 – Debiti e titoli in circolazione 
+a) Criteri di iscrizione e di classificazione
+Il Patrimonio BancoPosta non ha titoli di debito in circolazione e non ne ha emessi dalla data della sua costituzione. Le voci 
+Debiti verso banche e Debiti verso clientela comprendono le varie forme di provvista, sia nei confronti della clientela che inter-
+bancaria. La prima iscrizione di tali passività finanziarie avviene alla data di regolamento delle somme raccolte ed è effettuata 
+sulla base del fair value delle passività, normalmente pari all’ammontare incassato.
+b) Criteri di valutazione e di rilevazione delle componenti 
+reddituali
+I debiti sono valutati al costo ammortizzato, applicando il criterio del tasso effettivo di interesse. Se i flussi di cassa attesi si 
+modificano ed esiste la possibilità di stimarli attendibilmente, il valore dei debiti è ricalcolato per riflettere le modifiche dei flussi 
+di cassa attesi e del tasso interno di rendimento inizialmente determinato.
+c) Criteri di cancellazione 
+Le passività finanziarie vengono rimosse dal Rendiconto separato al momento in cui sono estinte o il Patrimonio BancoPosta 
+trasferisce tutti i rischi e gli oneri relativi allo strumento stesso.
+14 – Passività finanziarie di negoziazione 
+a) Criteri di classificazione e di iscrizione 
+La categoria accoglie gli eventuali strumenti finanziari derivati che non dispongono dei requisiti per essere classificati come 
+strumenti di copertura ai sensi dei principi contabili di riferimento, ovvero gli strumenti finanziari derivati inizialmente acquisiti 
+con un intento di copertura, poi venuto meno. L’iscrizione iniziale delle Passività finanziarie di negoziazione avviene alla data di 
+sottoscrizione dei contratti derivati.
+b) Criteri di valutazione 
+Le Passività finanziarie di negoziazione sono valorizzate al fair value, con rilevazione delle variazioni in contropartita del Conto 
+economico. 
+c) Criteri di cancellazione 
+Le Passività finanziarie di negoziazione vengono cancellate quando scadono i diritti contrattuali sui flussi finanziari derivanti 
+dalle passività stesse o il Patrimonio BancoPosta trasferisce tutti i rischi e gli oneri relativi allo strumento.
+d) Criteri di rilevazione delle componenti reddituali 
+Le componenti economiche positive e negative derivanti dalla variazione del fair value delle Passività finanziarie di negoziazione 
+sono rilevate nella “Voce 80 - Risultato netto dell’attività di negoziazione”.
+436

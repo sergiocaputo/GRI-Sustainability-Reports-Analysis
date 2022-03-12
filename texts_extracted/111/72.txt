@@ -1,0 +1,30 @@
+Dipendenti assunti per fascia di età e per genere di Reale Group
+<30 30-50 >50 Totale
+Genere
+2017 2018 2019 2017 2018 2019 2017 2018 2019 2017 2018 2019
+Uomini 39 52 35 81 82 66 10 15 2 130 149 103
+Donne 60 51 42 94 85 71 8 5 8 162 141 121
+Totale 99 103 77 175 167 137 18 20 10 292 290 224
+Dipendenti cessati per fascia di età e per genere di Reale Group
+<30 30-50 >50 Totale
+Genere
+2017 2018 2019 2017 2018 2019 2017 2018 2019 2017 2018 2019
+Uomini 8 9 18 19 33 40 23 41 52 50 83 110
+Donne 22 9 21 18 28 46 9 51 38 49 88 105
+Totale 30 18 39 37 61 86 32 92 90 99 171 215
+Tasso di turnover* 2017 2018 2019
+Totale 17% 12% 12%
+      *il tasso di turnover è calcolato (assunti + cessati) / media dei dipendenti
+GRI 404-1 ore medie di formazione annua per dipendente
+Ore medie di formazione  Ore medie di formazione  Ore medie di formazione 
+Reale Group Reale Group Reale Group
+Categorie 
+professionali
+2017 2018 2019
+Donne Uomini Totale Donne Uomini Totale Donne Uomini Totale
+Impiegati 16,6 22,3 19,2 21,1 28,6 24,4 17,8 23,2 20,2
+Funzionari/  21,1 23,7 23,0 36,6 29,5 31,0 26,9 25,9 26,1
+Responsabili
+Dirigenti 34,3 29,0 29,8 5,7 12,0 10,1 4,6 25,4 15,0
+Totale 17,3 23,1 20,4 21,3 26,4 24,0 17,6 24,1 20,9
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019 73

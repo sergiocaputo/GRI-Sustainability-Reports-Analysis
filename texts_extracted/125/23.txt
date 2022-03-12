@@ -1,0 +1,35 @@
+Table 2: Top 10 world ports for containerised traffic, year 2019 (preliminary data)2 
+RANK PORT NAME 3  COUNTRY TEUs (M) Δ '19/ '18 (%)
+1 Shanghai  China 43,30 2,9
+2 Singapore Singapore 37,19 1,7
+3 Ningbo China 27,53 4,4
+4 Shenzhen China 25,76 0,3
+5 Guangzhou China 23,22 6,3
+6 Busan South Korea 21,99 1,6
+7 Qingdao China 21,01 8,1
+8 Hong Kong China 18,30 -7,0
+9 Tianjin China 17,30 7,5
+10 Rotterdam The Netherlands 14,81 2,1
+Table 3: Top 15 EU ports for containerised traffic, year 2019 (preliminary data)4 
+RANK PORT NAME5 COUNTRY TEUs (M) Δ '19/ '18 (%)
+1 Rotterdam The Netherlands 14,81 2,1
+2 Antwerp Belgium 11,86 6,8
+3 Hamburg Germany 9,25 6,1
+4 Piraeus Greece 5,65 15,1
+5 Valencia Spain 5,44 5,0
+6 Algeciras Spain 5,12 7,3
+7 Bremerhaven Germany 4,87 -10,6
+8 Felixstowe UK 3,77 -10,3
+9 Barcelona Spain 3,32 -2,9
+10 Le Havre France 2,78 -3,4
+11 Marsaxlokk Malta 2,72 -17,8
+12 Genoa Italy 2,61 0,2
+13 Gioia Tauro Italy 2,52 8,4
+14 Saint Petersburg Russia 2,22 4,3
+15 Gdansk Poland 2,07 6,4
+2. Source: https://www.mardep.gov.hk/en/publication/pdf/portstat_2_y_b5.pdf
+3. Source: Alphaliner weekly newsletter - volume 2019, issue 15
+4. Source: https://www.porteconomics.eu/2020/02/21/top-15-container-ports-in-europe-in-2019-teu-
+volumes-and-growth-rates/
+5. Transshipment ports in italics
+24 | SECH • TDT 2019 Sustainability Report

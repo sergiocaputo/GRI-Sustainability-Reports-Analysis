@@ -1,0 +1,84 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+(cid:3)
+Differenza tra 
+Esposizione 
+esposiozione al 
+Voci di  Portafogli  Valore contabile  massima al 
+Portafogli contabili  Totale attività  Totale passività  rischio di 
+bilancio/Tipologia  contabili del  netto  rischio di 
+dell'attivo  (A)  (B)  perdita e valore 
+di entità strutturata  passivo  (C = A - B)  perdita 
+contabile 
+(D) 
+(E = D - C) 
+Società Veicolo 
+Voce 70. Crediti 
+"Popolare Bari NPLs  117.074  117.074  117.074 
+verso clientela       
+2016 Srl " 
+(importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)
+(cid:3) (cid:3) (cid:3) (cid:3) (cid:3) euro)(cid:3)
+(cid:3)
+L’esposizione massima al rischio di perdita (euro 117.074 mila) alla data del presente bilancio è pari, pertanto, alla 
+sommatoria tra il valore di bilancio della tranche Senior detenuta da BP Bari (euro 113.190 mila) e il debito residuo 
+connesso al predetto mutuo a ricorso limitato (euro 3.884 mila).
+Alla luce della struttura della cartolarizzazione, gli eventi o circostanze che potrebbero esporre la Banca Popolare 
+di Bari ad una perdita sono di fatto neutralizzati dalla presenza della garanzia dello Stato Italiano “GACS” a presidio 
+dell’intera esposizione sulla tranche Senior.
+Popolare Bari NPLs 2017 Srl
+A seguito dell’operazione di cartolarizzazione di sofferenze alla società veicolo “Popolare Bari NPLs 2017 Srl” la Ban-
+ca detiene l’intera tranche Senior emessa dalla SPV, assistita dalla garanzia GACS dello Stato Italiano, con un valore 
+di bilancio pari ad euro 85.030 al 31 dicembre 2017.
+Di seguito si riportano i dettagli della tranche Senior:
+(cid:3)
+Valore 
+Data  Valore 
+residuo a 
+Titolo  Piazza Quotazione  Tasso/Spread  Rating   rimborso  nominale  Sottoscrittore 
+fine 
+finale  emesso 
+esercizio 
+DBRS BBB (low), 
+Dicembre 
+Senior  Non quotato  Euribor6M/0,3%  Moody's Baa3, Scope  80.900  85.030  Banca Popolare di Bari 
+2037 
+BBB 
+Totale  80.900  85.030 
+         
+(importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+(cid:3) (cid:3)
+(cid:3)
+Nell’ambito dell’operazione, la Banca, in ottemperanza alle richieste delle agenzie di rating, ha erogato alla società 
+veicolo un mutuo a ricorso limitato, ﬁnalizzato a ﬁnanziare la cash reserve. In particolare, il mutuo ha un proﬁlo 
+amortizing correlato al debito residuo delle notes Senior e Mezzanine e sarà estinto alla data di pagamento in cui 
+verrà integralmente rimborsata la tranche Senior. La cascata dei pagamenti prevista dal Regolamento delle notes 
+prevede che gli interessi sul mutuo a ricorso limitato sono antergati rispetto al pagamento degli interessi sulle no-
+tes Senior e Mezzanine, così come il rimborso delle quote capitale del mutuo è antergato rispetto al rimborso delle 
+quote capitale delle notes Senior e Mezzanine. Il debito residuo alla reporting date ammonta ad euro 3.236 mila.
+(cid:3)
+Differenza tra 
+Esposizione 
+esposiozione al 
+Voci di  Portafogli  Valore contabile  massima al 
+Portafogli contabili  Totale attività  Totale passività  rischio di 
+bilancio/Tipologia  contabili del  netto  rischio di 
+dell'attivo  (A)  (B)  perdita e valore 
+di entità strutturata  passivo  (C = A - B)  perdita 
+contabile 
+(D) 
+(E = D - C) 
+Società Veicolo 
+Voce 70. Crediti 
+"Popolare Bari NPLs  88.266  88.266  88.266 
+verso clientela       
+2017 Srl " 
+(importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)
+(cid:3) (cid:3) (cid:3) (cid:3) (cid:3) euro)(cid:3)
+(cid:3)
+L’esposizione massima al rischio di perdita (euro 88.266 mila) alla data del presente bilancio è pari, pertanto, alla 
+sommatoria tra il valore di bilancio della tranche Senior detenuta da BP Bari (euro 85.030 mila) e il debito residuo 
+connesso al predetto mutuo a ricorso limitato (euro 3.236 mila).
+Alla luce della struttura della cartolarizzazione, gli eventi o circostanze che potrebbero esporre la Banca Popolare 
+di Bari ad una perdita sono di fatto neutralizzati dalla presenza della garanzia dello Stato Italiano “GACS” a presidio 
+dell’intera esposizione sulla tranche Senior.
+228

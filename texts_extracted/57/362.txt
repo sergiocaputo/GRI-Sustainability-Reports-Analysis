@@ -1,0 +1,49 @@
+Relazione sulla gestione
+Tutti gli incaricati del trattamento di dati personali sono sensibilizzati all’adozione di elevate misure di sicurezza, 
+come previsto da speciﬁche policy e normative interne dedicate alla sicurezza informatica; inoltre sono previste 
+policy che disciplinano l’utilizzo delle risorse informatiche aziendali, con particolare riguardo all’uso delle postazioni 
+di lavoro e dei dispositivi mobili, di Internet e della posta elettronica aziendale.
+Il sistema informativo è dotato di una serie di controlli interni per rilevare eventuali comportamenti anomali non con-
+sentiti. Tali veriﬁche sono eseguite nel continuo con l’utilizzo di strumenti informatici che permettono di intercettare 
+e bloccare precauzionalmente l’operatività in presenza di comportamenti anomali.
+Nell’ultimo anno, inoltre, sono state portate avanti importanti progettualità sulla messa in opera del modello di 
+rischio informatico, in coerenza con i requisiti deﬁniti nella Circolare n. 285 del 17 dicembre 2013, con particolare 
+riferimento al Capitolo 4 “Il Sistema Informativo” – Sezione III “L’analisi del rischio informatico”, la Banca ha adottato 
+una metodologia di analisi e mitigazione conforme allo standard di riferimento internazionale “Cobit 5 for Risk”.
+Inoltre, periodicamente la Funzione ICT, con l’ausilio di società fortemente specializzate, effettua speciﬁci test per 
+misurare il livello di sicurezza della propria infrastruttura tecnologica, al ﬁne di rilevare potenziali vulnerabilità in 
+modo da applicare le azioni di remedy per innalzare il livello di sicurezza dell’intera infrastruttura.
+3.5 Innovazione
+All’interno di un contesto bancario in progressivo e costante sviluppo, caratterizzato da una digitalizzazione sempre 
+più pervasiva che sta rimodellando il settore, il Gruppo ha proseguito il proprio percorso evolutivo con investimenti 
+mirati, per oltre 2 Milioni di Euro nel 2017, nello sviluppo del proprio modello multicanale, in un’ottica di miglioramen-
+to della customer experience ed anche al ﬁne di incrementare la propria capacità commerciale e ridurre il cost to 
+serve. A tal ﬁne, si sono poste le basi per un reshaping più ampio della proposta commerciale in modo da soddisfare 
+essenzialmente i seguenti elementi a supporto della relazione con il Cliente:
+•  Personalizzazione: sviluppando strumenti innovativi che supportino i Clienti (lancio del nuovo Internet e Mobile 
+Banking, ricco di nuove funzionalità e progettato per efﬁcientare la customer experience del Cliente)
+•  Aspettative: arricchendo l’offerta digitale del Gruppo, aumentando il parco prodotti vendibili direttamente online
+•  Empatia: rafforzando i portali ufﬁciali (siti del Gruppo) che sono diventanti la cassa di risonanza istituzionale del 
+Gruppo e che contribuiscono anche all’attività di lead generation a livello commerciale 
+•  Tempo ed impegno: progettando iniziative di incentivo all’utilizzo delle Aree self service e degli ATM.
+L’insieme di tali attività ha trovato riscontro sia nei dati relativi alla penetrazione del servizio di Home Banking, che 
+è aumentato nell’ultimo anno del 5% circa tra i Clienti del Gruppo, sia dal grado di remotizzazione delle operazioni 
+bancarie (rapporto fra le operazioni da canale remoto e il totale delle operazioni del Cliente) che attualmente è pari 
+a ~70%, in media con il trend registrato tra i principali istituti bancari italiani. 
+Inoltre la Banca sta affrontando con proattività le evoluzioni nel mondo dei pagamenti, in particolare ha ﬁnalizzato 
+importanti scelte, in termini di posizionamento strategico, introducendo innovative modalità di mobile payments sia 
+in ambito P2B (Person to Business) con il consolidamento della partnership Satispay, sia in ambito P2P (Person to 
+Person) con l’introduzione della nuova applicazione mobile Mi@ della Banca e l’ampliamento del catalogo servizi di 
+pagamento con la soluzione Apple pay.
+3.6 Reclami
+Nell’attuale contesto di riferimento del settore bancario, la corretta gestione dei reclami assume una crescente ri-
+levanza, contribuendo, tra l’altro, al perseguimento di una pluralità di obiettivi aziendali, quali il mantenimento di un 
+rapporto di ﬁducia del cliente nei confronti della Banca, l’identiﬁcazione di eventuali criticità nelle caratteristiche dei 
+prodotti e dei servizi offerti o nelle modalità di vendita, la riduzione del contenzioso.
+La Banca Popolare di Bari ha istituito da tempo, nell’ambito della Funzione Compliance e Antiriciclaggio, un’unità 
+organizzativa autonoma che assolve a tutti gli adempimenti in ordine alla gestione dei reclami e delle contestazioni 
+della clientela.
+In quest’ottica, sono condotte speciﬁche attività di analisi dei reclami volte sia a fornire un riscontro tempestivo e 
+puntuale ai clienti, sia a rilevare eventuali criticità operative ed a sensibilizzare le strutture organizzative di business 
+(centrali e periferiche) alla correttezza e trasparenza nelle relazioni con la clientela.
+362

@@ -1,0 +1,28 @@
+Bilancio Consolidato 2017
+Il Gruppo Banca Popolare di Bari ha calcolato le proprie emissioni in linea con quanto previsto dal GHG Protocol - The 
+Green House Gas Protocol “A Corporate Accounting and Reporting Standard”, classiﬁcandole in Scope1, Scope2 e 
+Scope 3. 
+Lo “Scope” classiﬁca i casi in cui le emissioni sono state generate dall’organizzazione stessa, o sono state create da 
+organizzazioni collegate, come ad esempio il fornitore di energia 
+ Emissioni  
+2017 2016
+Dati espressi in TON  CO2 CO2
+SCOPE1: Emissioni per Consumo Diretto di Energia                    1 .329                         1 .361
+Riscaldamento                        360                            427
+Carburante Flotta Auto aziendale                        969                            934
+SCOPE2: Emissioni per Consumo Indiretto di Energia                    8 .613                       1 0.200
+Consumo Energia Elettrica Acquistata                     8.613                       1 0.200
+SCOPE3: Emissioni per Altri Consumi di Energia                       7 32                            787
+Viaggi di lavoro                        5 94                            690
+    di cui:                                                       Auto personali                        3 36                            479
+Treno                            9                                 7
+Aerei                       2 49                            204
+Produzione della carta acquistata                        138                              96
+Metodologia di calcolo: Carta: i consumi di carta sono stati moltiplicati per il sottostante coefﬁciente emissivo del CEPI che si riferisce alle sole 
+emissioni generate per la produzione di polpa, carta e cartone nelle aziende/cartiere (0,43 Ton/Ton). Viaggi di lavoro: sono esclusi i consumi di energia 
+della ﬂotta auto aziendale. Per le missioni in aereo le tratte sono state estratte dai database forniti dall’agenzia viaggi. In base alla metodologia fornita 
+da ABI, i valori alle emissioni di KgCO2 sono stati calcolati utilizzando l’applicativo online Dell’ICAO (https://www.icao.int/environmental-protection/
+CarbonOffset) . Le missioni in treno sono state estratte dai database forniti dall’agenzia viaggi e calcolati i dispendi di energia e le emissioni di Co2 
+per Kg utilizzando l’applicativo Ecopassenger. Per i viaggi di lavoro con auto personali, i km percorsi sono stati forniti dal database aziendale utilizzato 
+per i rimborsi delle trasferte che sono stati moltiplicati per una media dei coefﬁcienti presente sulle tabelle dell’ISPRA. 
+377

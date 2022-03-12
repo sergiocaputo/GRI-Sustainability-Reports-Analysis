@@ -1,0 +1,50 @@
+ 
+Numero di pagina nel presente documento e riferimento ad altre sezioni della Relazione sulla Gestione o ad altri documenti esterni  
+(I numeri di pagina si riferiscono al paragrafo della DNF che include la disclosure) 
+Standard 
+Descrizione dell'indicatore  Numero di pagina  Omissioni 
+Disclosure 
+GRI 300: PERFORMANCE AMBIENTALE 
+GRI 302: ENERGIA 
+Descrizione del tema materiale e del perimetro di 
+103-1  p.44-46, 51-52    
+riferimento 
+103-2   Approccio manageriale e sue componenti    p.44-46   
+103-3  Valutazione dell’approccio manageriale  p.3, 44-46, 51,52   
+302-1  Consumi di energia all’interno dell’organizzazione  p.46   
+GRI 303: ACQUA 
+Descrizione del tema materiale e del perimetro di 
+103-1  p.44-48, 51-52    
+riferimento 
+103-2   Approccio manageriale e sue componenti    p.44-48   
+103-3  Valutazione dell’approccio manageriale  p.3, 44-48, 51,52   
+Acqua totale prelevata per fonte di 
+303-1  p.48    
+approvvigionamento 
+GRI 305: EMISSIONI 
+Descrizione del tema materiale e del perimetro di 
+103-1  p. 44-47, 51-52    
+riferimento 
+103-2   Approccio manageriale e sue componenti    p. 44-47   
+103-3  Valutazione dell’approccio manageriale  p.3, 44-47, 51,52   
+Emissioni di gas serra generate da consumi energetici 
+305-2  p.47    
+(Scope 2) 
+305-7  NOx, SOx, e altre emissioni significative  p. 47    
+GRI 306: SCARICHI E RIFIUTI  
+Descrizione del tema materiale e del perimetro di 
+103-1  p. 44-46, 48-49, 51-52    
+riferimento 
+103-2   Approccio manageriale e sue componenti    p. 44-46, 48-49   
+103-3  Valutazione dell’approccio manageriale  p.3, 44-46, 48-49, 51,52   
+Peso totale dei rifiuti per tipo e modalità di 
+306-2  p.49    
+smaltimento 
+GRI 307: COMPLIANCE 
+Descrizione del tema materiale e del perimetro di  p.21- 23, 44-46, 49-50,51-
+103-1    
+riferimento  52 
+103-2   Approccio manageriale e sue componenti    p.21- 23, 44-46, 50   
+103-3  Valutazione dell’approccio manageriale  p.3, 21-23, 44-46, 50, 51,52   
+56 
+ 

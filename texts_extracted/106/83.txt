@@ -1,0 +1,44 @@
+82 Prysmian Group    Consolidated Non-Financial Information Statement 2019
+LEGAL AND COMPLIANCE RISKS
+Compliance risks concerning the Code of Ethics, Policies and Procedures
+The risk of compliance generically represents the possibility of incurring legal or administrative sanctions, signi-
+ficant financial losses or reputational damage as a result of breaches of current regulations. The Prysmian Group 
+puts in place a series of organisational tools aimed at defining the principles of legality, transparency, fairness 
+and loyalty used to operate. In particular, since its inception, the Group has adopted a Code of Ethics containing 
+guidelines and ethical and behavioural principles that all those carrying out activities on behalf of Prysmian 
+or its subsidiaries are required to observe (including managers, officials, employees, agents, representatives, 
+external collaborators, suppliers and consultants). Through the Internal Audit & Compliance Department, the 
+Group constantly monitors compliance and the concrete application of these rules, not tolerating any type of 
+violation.
+By constant commitment, careful supervision and periodic awareness building, the Group seeks to minimise the 
+possibility of episodic improper conduct in violation of policies, procedures and the Code of Ethics and, therefo-
+re, of current regulations, by those that carry out activities on behalf of Prysmian.
+Risks of non-compliance with Data Protection legislation (Privacy)
+In the current context, marked by the increasing globalisation of business, the proliferation of channels and methods 
+of access to information, as well as an increase in the volume and types of data managed, Prysmian is tackling the dif-
+ferent data management topics that range from alignment with the latest industry regulations, to defence against 
+potential threats against the confidentiality, completeness, accuracy and availability of information.
+In this light, it is essential to adopt an overall vision for the management of sensitive information, not only in 
+terms of regulatory compliance - as described in the Group Annual Report, in the section on Risk Factors and 
+Uncertainties - but also with regard to security problems and our business priorities. Furthermore, the European 
+GDPR (General Data Protection Regulation) entered into force in May 2018 and has become one of the major 
+points of reference for a renewed effort in the area of data protection, with a focus on personal data.
+The programme for the protection of personal data adopted by Prysmian is based on the following fundamental 
+elements that involve the entire business structure:
+  implementation of a “data centric” model, by mapping the personal data processed by business functions 
+and keeping a register of processing activities;
+  definition of a governance model designed to comply with the requirements of the GDPR and other emer-
+ging data protection requirements, marked by:
+–  an organisational structure that assigns an advisory and monitoring role to the data protection officer 
+(DPO) in the management of personal data, delegating duties and the related responsibilities to the roles 
+that actually process that data;
+–   a series of policies and documents that support the model (business policies, information sheets, inter-
+nal appointments, clauses applicable to suppliers etc.);
+  implementation of adequate technical and organisational measures to ensure a level of security appropriate 
+to the risk, partly with the help of new tools such as the data protection impact assessment introduced by the 
+GDPR;
+  definition of the communications and training materials specifically reserved for the roles identified with 
+the data protection organisational model, so that all roles involved are aware of the renewed regulatory obli-
+gations and take steps to implement all specified requirements;
+  update of the video surveillance systems, with particular reference to the new European guidelines and the 
+regulations applicable in Italy.

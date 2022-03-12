@@ -1,0 +1,42 @@
+Consolidated Non-Financial Statement 2018
+Energy consumption of the Group by source (GJ) 20188
+ELECTRICITY 15.373  
+  
+13.701 in 2017
+13.775  
+DIESEL FUEL  
+11.204 
+NATURAL GAS
+11.514 in 2017
+ 830
+GASOLINE
+243
+BIO-ETHANOL 
+137  
+LPG 
+126 in 2017
+7.2 EMISSIONS
+The direct and indirect CO emissions associated with the  stated in the GRI Sustainability Reporting Standards,  
+2
+main consumption of the Group can be divided into two  one must use the calculation of Scope 2 according 
+categories: to  two  distinct  calculation  methods:  the “Location-
+based method” and the “Market-based method”. The 
+•  Direct emissions (Scope 1): emissions of green-
+Location-based method  is based on the factors of 
+house gases due to direct consumption of fuel by 
+relative emissions related to the generation of regional, 
+the Group (for example, natural gas and diesel fuel);
+sub-national and national energy. The Market-based 
+•  Indirect emissions (Scope 2): emissions of green- energy,  on  the  other  hand,  is  based  on  the  CO 
+2
+house  gases  derived  from  the  consumption  of  emissions  produced  by  the  energy  supplier  from 
+electrical energy purchased and used by the Group. whom the organization, by means of a contract,  buys 
+In particular, for the calculation of CO, emissions, as  energy or on factors related to the specific market.
+2
+8The data related to energy consumption for the month of December 2018, unless otherwise indicated, were taken from the invoices issued by the 
+suppliers of energy services. The data related to the energy consumption of the companies in Calenzano were in part estimated on the basis of the 
+consumption for the month of December 2017. The consumption of fuel for the vehicles for the cars belonging to the Italian companies in Calenzano 
+and part of those belonging to  Lasit S.p.A., were estimated, starting with the expense through the average annual price of gasoline and diesel fuel (€/L) 
+found on the website of the Ministry of Economic Development. For the calculation of the energy consumption in 2018 in GJ we used the conversion 
+factors of the Department for Environmental Food & Rural Affairs (DEFRA), UK, 2018".
+89

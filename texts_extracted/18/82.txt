@@ -1,0 +1,39 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019 www.bpp.it
+    ­ Saetta:l’applicativo gestisce un sistema di ﬁrma elettronica avanzata utilizzabile in mo­
+bilità o in sede e consente di dematerializzare tutta la documentazione cartacea tra
+Banca e cliente. Il servizio è uniforme agli standard AIPA.
+Altre attività/procedure sono in corso di sviluppo, in coerenza con i progetti del Piano
+Strategico aziendale.
+• Canali di comunicazione: attraverso lo sviluppo di un’applicazione dipartimentale, è stato
+realizzato un Marketplacedigitale, sito di e­commerce, la cui creazione ha consentito alla
+Banca di dare visibilità sul web alle piccole e medie imprese del territorio e rappresenta
+un’importante fonte di informazione sulle potenzialità di business delle imprese aderenti.
+I processi di comunicazione sono in continua evoluzione e saranno oggetto di ulteriori
+modiﬁche e miglioramenti nel corso del triennio.
+• Processo di informatizzazione e digitalizzazione: è stato reso disponibile ai clienti un nuovo
+portale di Internet Banking (PIB) per facilitare l’utilizzo dei canali on­line e diretti. È stata
+inoltre attivata una nuova App per i dipendenti della Banca, volta a consentire la fruibilità
+da dispositivi mobile (Smartphone, Iphone, Tablet) delle principali sezioni e applicazioni
+della Intranet aziendale. È stato migliorato il servizio di sottoscrizione dei contratti con
+ﬁrma digitale grafometrica e attivato un servizio di ﬁrma dei contratti bancari mediante
+il sistema OTP.
+• Accorpamento delle strutture di back oﬃce: è stato portato a termine l’accorpamento del
+back oﬃce di rete ed è in corso l’accorpamento del back oﬃce di Direzione. A supporto
+del cambiamento organizzativo e di processo sono stati sviluppati speciﬁci applicativi.
+• Sistemi di sicurezza: sono stati sviluppati nuovi sistemi per il miglioramento dei presìdi di
+sicurezza ﬁsica e informatica.
+• Cash management: è stato attivato un nuovo applicativo per la gestione del contante.
+• Attività commerciale: nell’ambito del percorso di Digital Innovation avviato dalla Banca,
+l’Agenda Contatti Erasmus è stata oggetto di importanti sviluppi,  che hanno consentito
+la realizzazione del Portale ERASMUS 2.0. Il nuovo strumento a supporto dell’attività
+commerciale delle Reti Filiali/Consulenti/Gestori/Agenti in Attività Finanziaria consente
+lo sviluppo e la gestione dei contatti commerciali verso la clientela nell’ambito delle varie
+iniziative organizzate dalla Direzione Commerciale.
+• Pricing: è stato sviluppato il modello di pricingper supportare la decisione della determina­
+zione del “prezzo ﬁnale” da praticare al cliente per la singola operazione di aﬃdamento.
+• Data Governance:è stato attivato un nuovo sistema di gestione dei dati per le Funzioni
+aziendali di controllo.
+• Antiriciclaggio:è stato attivato un applicativo dipartimentale, Ostro, che consente di ese­
+guire in modo più rapido e completo controlli di 2° livello sull’operatività dei clienti ai
+ﬁni antiriciclaggio.
+81

@@ -1,0 +1,54 @@
+L’analisi di materialità 
+Di seguito vengono riportati i temi materiali individuati ai sensi del D.Lgs. 254/2016, i relativi indicatori GRI e la correlazione 
+tra i temi e gli aspetti del GRI Sustainability Reporting Standards, indicando per ciascuno di questi ultimi il perimetro di 
+rendicontazione, se interno all’organizzazione o esterno. 
+Perimetro Perimetro
+D.Lgs. 254/2016 Tema materiale Indicatore GRI interno esterno
+Utilizzo consapevole delle  302-1 Energy consumption within the organization X ***
+risorse 
+302-4 Reduction of energy consumption X 
+303-1 Water withdrawal by source X ***
+Gestione responsabile delle  305-1 Direct (Scope 1) GHG emissions X***
+emissioni 
+Ambiente 305-2 Energy indirect (Scope 2) GHG emissions X
+Gestione responsabile dei rifiuti  306-2 Waste by type and disposal method X***
+Accessibilità e mobilità  302-1 Energy consumption within the organization X***
+sostenibile* 
+Soddisfazione dei clienti  102-43  Approach to Stakeholder engagement X
+Performance economica  201-1 Direct economic value generated and distributed X
+Contributo allo sviluppo  203-2 Significant indirect impact X
+dell’economia locale  
+Sociale (Strumento per PMI) 
+Sicurezza 403-2 Types of injury and rates of injury, occupational  X
+diseases, lost days, and absenteeism, and number of 
+work-related fatalities
+Crescita professionale   102-7 Scale of the organization X
+dei dipendenti 
+102-8 Information on employees and other workers X
+102-41 Collective bargaining agreements X
+Persone
+401-1 New employee hires and employee turnover X
+401-2 Benefits provided to full-time employees that are not  X
+provided to temporary or part-time employees
+Formazione dei dipendenti  404-1 Average hours of training per year per employee X
+404-2 Programs for upgrading employee skills and transition  X
+assistance programs
+Diversità   405-1 Diversity of governance bodies and employees X
+Gestione responsabile della  102-9 Supply chain X
+catena di fornitura **(contrasto 
+al lavoro sommerso e diritti  102-10 Significant changes to the organization and its supply chain X
+umani) 
+Diritti Umani 409-1 Operations and suppliers at significant risk for incidents  X
+of forced or compulsory labor
+Lotta alla corruzione attiva   205-2 Communication and training about anti-corruption  X
+e passiva policies and procedures
+Etica del Business  102-16 Values, principles, standards, and norms of behavior X
+Lotta alla 
+corruzione  
+419-1 Non-compliance with laws and regulations in the social  X
+attiva e passiva
+and economic area
+* Relativo anche alla categoria sociale.
+** Relativo anche alla categoria lotta alla corruzione attiva e passiva.
+*** Rendicontazione non estesa alle sedi di Roma e Stresa, in quanto non considerate significative in base alla dimensione rispetto al Gruppo.
+16   Report di Sostenibilità 2017  17 

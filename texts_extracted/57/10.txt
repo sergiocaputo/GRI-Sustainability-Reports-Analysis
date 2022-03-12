@@ -1,0 +1,31 @@
+RETE DISTRIBUTIVA
+Gruppo Banca Popolare di Bari
+RETE DISTRIBUTIVA GRUPPO BPB AL 31/12/2017
+numero
+regione
+filiali
+Abruzzo  100
+Basilicata  33
+Calabria  7
+Campania  45
+Emilia Romagna  4
+Lazio  23
+Lombardia   6
+Marche   19
+Molise   3
+Puglia   78
+Toscana   3
+Umbria   30
+Veneto   2
+TOTALE  353
+6
+2
+4
+3 19
+30
+23 100
+3
+45
+33 78
+7
+10

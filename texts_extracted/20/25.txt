@@ -1,0 +1,48 @@
+TURNOVER COMPOSITION BY REGION/BU
+REVENUE FROM SALES AND SERVICES BY GEOGRAPHICAL SEGMENT
+2019 2018
+Nordic&Baltic Nordic&Baltic
+43% 43%
+Belgium Belgium
+20% 19%
+North America North America
+12% 9%
+Turkey Turkey
+10% 14%
+Egypt Egypt
+3% 2%
+Asia Pacific Asia Pacific
+7% 7%
+Italy Italy
+5% 6%
+[EUR ‘000] 2019 2018 Change % 
+Nordic & Baltic 562,407 553,677 1.6% 
+Belgium 261,724 248,021 5.5% 
+North America 151,034 119,180 26.7% 
+Turkey 127,942 174,006 -26.5% 
+Egypt 35,789 27,375 30.7% 
+Asia Pacific 97,574 90,502 7.8% 
+Italy 65,490 78,023 -16.1% 
+Eliminations (90,132) (94,598) 4.7% 
+Total revenue from sales and services 1,211,828 1,196,186 1.3% 
+REVENUE FROM SALES AND SERVICES BY BUSINESS SEGMENT
+2019 2018
+Cement Cement
+57% 53%
+Ready-mixed concrete Ready-mixed concrete
+31% 32%
+Aggregates Aggregates
+7% 7%
+Waste Waste
+1% 1%
+Other Other
+4% 7%
+[EUR ‘000] 2019 2018 Change % 
+Cement 742,817 700,172 6.1% 
+Ready-mixed concrete 405,209 429,066 -5.6% 
+Aggregates 94,756 87,070 8.8% 
+Waste 14,699 16,092 -8.7% 
+Other 58,012 92,357 -37.2% 
+Eliminations (103,665) (128,571) 19.4% 
+Total revenue from sales and services 1,211,828 1,196,186 1.3%  
+24

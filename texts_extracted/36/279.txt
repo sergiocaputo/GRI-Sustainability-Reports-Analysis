@@ -1,0 +1,58 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+Biomass and cogeneration (MW)    -      -   1 - - Enel
+Photovoltaic (MW) 1,222 1,195 1,084 27 2.3 Enel
+NETWORK
+Total electricity 
+EU4 (km) 2,230,029 2,226,097 2,160,559 3,932 0.2 Enel
+distribution network
+Total high-voltage network (km) 46,606 46,261 44,387 345 0.7 Enel
+- of which underground cable (km) 1,992 1,976 1,826 16 0.8 Enel
+Total medium-voltage 
+(km) 887,439 889,692 857,086 -2,253 -0.3 Enel
+network
+- of which underground 
+(km) 221,447 219,203 214,060 2,244 1.0 Enel
+cable
+Total low-voltage network (km) 1,295,984 1,290,144 1,259,086 5,840 0.5 Enel
+- of which underground cable (km) 405,321 403,098 396,634 2,223 0.6 Enel
+Electricity distribution 
+EU4 network by geographic 
+area
+Total electricity 
+(km)  1,157,527   1,153,323   1,149,219  4,204 0.4 Italy
+distribution network Italy
+High-voltage network (km) 22 13 13 9 69.2 Italy
+- of which underground 
+(km) 11 11    -   - - Italy
+cable
+Medium-voltage network (km) 356,622 354,884 353,808 1,738 0.5 Italy
+- of which underground cable (km) 151,703 150,201 148,487 1,502 1.0 Italy
+Low-voltage network (km) 800,883 798,426 795,397 2,457 0.3 Italy
+- of which underground 
+(km) 278,255 276,744 274,821 1,511 0.5 Italy
+cable
+Total electricity 
+distribution network  (km) 129,363 128,508 127,548 855 0.7 Romania 
+Romania
+High-voltage network (km) 6,521 6,511 6,505 10 0.2 Romania
+- of which underground cable (km) 311 304 293 7 2.3 Romania
+Medium-voltage network (km) 35,173 35,062 35,016 111 0.3 Romania
+- of which underground cable (km) 13,675 13,343 13,103 332 2.5 Romania
+Low-voltage network (km) 87,669 86,935 86,027 734 0.8 Romania 
+- of which underground cable (km) 21,004 20,829 20,649 175 0.8 Romania 
+Total electricity 
+distribution network  (km) 316,332 319,613 317,782 -3,281 -1.0 Iberia
+Iberia
+High-voltage network (km) 19,593 19,625 19,560 -32 -0.2 Iberia
+- of which underground cable (km) 787 787 779 - - Iberia
+Medium-voltage network (km) 115,943 118,531 117,886 -2,588 -2.2 Iberia
+- of which underground cable (km) 40,771 41,188 40,979 -417 -1.0 Iberia
+Low-voltage network (km) 180,795 181,457 180,336 -662 -0.4 Iberia
+- of which underground cable (km) 85,281 85,067 84,468 214 0.3 Iberia
+Total electricity 
+distribution network Latin  (km) 626,807 624,653 566,010 2,154 0.3 Latin America
+America (4)
+High-voltage network (km) 20,470 20,112 18,308 358 1.8 Latin America
+278 Sustainability Report 2019

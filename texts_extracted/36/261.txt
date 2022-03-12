@@ -1,0 +1,49 @@
+Table B - ESG indicators Green Bond 2017 
+Renewable projects
+ Country   Project  2019  CO  2017, 2018  2017,  2019  2019 CO  Expected  Expected  Expected  Expected 
+2 2
+name  production  avoided and 2019  2018 and  production  avoided  annual  CO  annual  CO 
+2 2
+(GWh) (1) 2019 (t) production  2019 CO  attributable  attributable  production  avoided  production  avoided 
+2
+(GWh) avoided (t) to GB   to GB (t) (GWh)(2) (t) attributable  attributable 
+(GWh) to GB (GWh) to GB (t)
+USA Red Dirt 1,046  690,638   2,093   1,399,240  - - - - - -
+USA Thunder Ranch 1,157  763,695   2.280   1,523,630  - - - - - -
+USA Hilltopper 604  398,343  604  398,343  - - - - - -
+USA Stillwater Solar II 39  25,917   55   36,681  - - - - - -
+USA Woods Hill 24  15,663   47   31,082  - - - - - -
+USA Rattlesnake Creek 1.031  680,587  1,031  680,587  - - - - - -
+USA Rock Creek 1,124  741,766   2,205   1,473,431  - - - - - -
+BRAZIL Horizonte MP 196  108,721   349   196,661  - - - - - -
+BRAZIL Delfina 870  481,827   1,985   1,102,770  - - - - - -
+CHILE Cerro Pabellón 192  141,887   467   356,016  - - - - - -
+CHILE Sierra Gorda 357  264,246   1,015   772,868  - - - - - -
+PERU Wayra 581  283,109   1,052   517,562  - - - - - -
+PERU Rubi 422  205,579   844   415,771  - - - - - -
+ITALY  Various projects (3) 15 7,053  378  187,485  -  - - - - -
+CANADA Riverview n.a.  n.a.   n.a.   n.a.   -  -  449   305,512   254   173,052 
+Castle Rock 
+CANADA n.a.  n.a.   n.a.   n.a.   -  -  109   73,957   17   11,895 
+Ridge 2
+MEXICO Magdalena 2 46 25,651  46  25,651  38  21,125 - - - -
+MEXICO Amistad II n.a.  n.a.   n.a.   n.a.   -  -  429   240,068   243   136,121 
+MEXICO Amistad III n.a.  n.a.   n.a.   n.a.   -  -  426   238,336   292   163,510 
+MEXICO Amistad IV n.a.  n.a.   n.a.   n.a.   -  -  618   345,893   251   140,607 
+MEXICO Dolores n.a.  n.a.   n.a.   n.a.   -  -  1,040   582,232   850   475,696 
+PANAMA Estrella Solar 9  4,976  12  7,166   -  - - - - -
+ZAMBIA Ngonye 35 34,902 35 34,902 - - - - - -
+ITALY  Various projects(4) 9 4,477 12 5,966 - - - - - -
+n.a. not applicable                       
+(1)  For projects entered into operation by September 30, 2019, the actual production data are reported and consequently the amount of CO avoided.    
+2
+(2)  For projects entered into operation after September 30, 2019 or which have not yet entered into operation, the expected annual production data and the expected 
+amount of CO avoided are reported.                     
+2
+(3)  Aggregate data related to 26 small sized Italian projects. The technologies involved are biomass, geothermal and hydroelectric.
+  The share of production for only repowering cannot be separated from the rest of the plant because it is not possible to precisely determine the share of energy fed 
+to the network only due to the increase in power.
+(4)  Aggregate data related to 8 small sized Italian projects. The technologies involved are geothermal and hydroelectric.
+  The share of production for only repowering cannot be separated from the rest of the plant because it is not possible to precisely determine the share of energy fed 
+to the network only due to the increase in power.               
+226600 SSuussttaaiinnaabbiilliittyy  RReeppoorrtt  22001199

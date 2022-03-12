@@ -1,0 +1,47 @@
+Consolidated Non-Financial Statement 2018
+Emissions Scope 1 e Scope 2 (location-based)  Emissions Scope 1 e Scope 2 (location-based) 
+by region (ton CO ) 2018 by region (ton CO ) 2017
+2eq 2eq
+Emissioni di Scope 1 e Scope 2 (location-based) per area geografica (ton CO2eq)2018 
+1.400  132163,6257587	 EmissionEi mdii sSscioonpie  d1i  Se cSocpoep 1e  2eC  S(Olco2ocepaqet)i 2o2Cn0 (O-1lbo27ace saqet)id2o)n0 p-1be7ar  saerde)a  pgeero agrreaafi cgae o(gtornaf ica (ton 
+1.200 
+1.000  1.000 
+1.000  9989,6969556	 900  900  879,7365	 8798,783065	
+800  800 
+800  691,7812246	91,679821224	
+722,742328507	 7I0t0a lia  760350, 737244623	5,7633762442	
+6R00e sto d6'E00u ropa  Italia  Italia 
+600  Resto del Mondo  Resto d'ERuersotop ad 'Europa 
+500  500 
+Resto deRl eMsoton ddoe l Mondo 
+400  400 
+400 
+287,9208987301	 300  300 
+200  94,3819644143	 134,113043546	 200  200  114,5791	 1141,155791	
+100  100  59,4916696555579999	,,,,4444999951111966666666999966667777				
+0	 0	
+0  0  0 
+ Scope 1   Scope 2   Scope 1  Scope 1   Scope 2  Scope 2 
+  Italy      Resto of Europe       Rest of world   Italy      Resto of Europe       Rest of world
+To calculate the Scope 2 emissions we used different  Results, Association of issuing bodies (AIB), 2016 and 2017, 
+factors based on the method of calculation and the  respectively for 2017 and 2018. For the other countries, we 
+country. In particular:  have used the same factors used for the location-based 
+• For the location-based method we used average emission  method. 
+factors that are related to the generation of national energy  For  2018,  considering  the  calculation  method  location 
+for the different countries in which we operate as shown in  based for Scope 2, the total emissions were 3.564 tCO2eq: 
+the publication titled  Confronti Internazionali, Terna 2015  most of them can be attributed to the consumption of 
+and 2016, respectively for 2017 and 2018; electricity (52%), while 48% is due to other factors.
+• For the market-based method we have used average  For the calculation of indirect emissions using the market-
+emission factors derived from the electricity production  based method, CO  emissions were in line with those 
+2eq
+of the European market for Italy, France and Germany,  shown above, i.e. for a total of 3.952 tons of direct and 
+which  were  published  in  the  document  Residual  Mix  indirect emissions of CO  
+2eq.
+It should be noted that for a better compliance with Standard GRI 305-1 for the calculation of Scope 1 emissions we used an up-dated source of 
+the emission factors which reports the emissions in CO2eq. The Scope 2 emissions on the other hand, are expressed in tons of CO2, in any case, the 
+percentage of methane and nitrous oxide has a negligible effect on the tota emissions of green-house gas (CO2eq), as can be seen from the technical 
+literature to which they refer.  It should be noted that, following this improvement process of the reporting system for Scope 1 emissions and, in 
+particular, the up-dating , of the sources of the factors of emissions used for the calculation of the 2018 data , the data for 2017 have been revised with 
+respect to those shown in the preceding NFD, using new emission factors. For the previously published data, please consult the NFD for  2017, which 
+was published on the website www.elengroup.com. in the sction called Investor Relations/Sustainability/Reports
+90

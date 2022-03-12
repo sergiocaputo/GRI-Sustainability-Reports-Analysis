@@ -1,0 +1,40 @@
+Prysmian Group    Consolidated Non-Financial Information Statement 2019 139
+SERVICE TIMELINESS AND EFFICIENCY  
+The Prysmian Group continued its strategic focus on Customer Centricity during 2019, stabilising the high level 
+of service achieved in terms of delivery reliability and starting work to reduce the lead-time between the receipt 
+of an order to delivery of the product to the customer. 
+Prysmian has confirmed our strong orientation to continuous improvement in the punctuality and reliability of 
+our processes. As highlighted in the chart below, in 2019 the On Time Delivery (OTD) parameter, which measures 
+the ability to respect the delivery date promised to the customer upon confirmation of the order, maintained 
+the high levels of reliability achieved in the previous year in both the Energy Products and Telecom areas. 
+On Time Delivery 
+TELECOM ENERGY
+96% 96% 96%
+95% 95% 94%
+94% 93% 92% 92% 92% 91% 92%
+88%
+84%
+81%
+FY 2019 FY 2018 FY 2017 FY 2016 FY 2015 FY 2014 FY 2013 FY 2019 FY 2018 FY 2017 FY 2016 FY 2015 FY 2014 FY 2013
+Prysmian w/o GC GC Prysmian w/o GC GC
+The former General Cable plants, now part of the Prysmian Group, started to collect reliability information sy-
+stematically in 201944, 
+In order to accelerate customer response times, Prysmian continued during 2019 to implement a strategy for 
+reducing the time taken to input and manage sales orders. This has improved telephone waiting times for custo-
+mers and increase the ‘quality’ time available to manage their orders. 
+Since the immediate availability of goods has become increasingly important in order to meet the needs of 
+customers, during 2019 the Group maintained and expanded to additional plants the monitoring of available 
+stocks, with a view to improving the time to market. The weekly availability of each category of Make-to-Stock 
+products (high, medium and slow rotation) is monitored against the minimum stock-holding levels established 
+with reference to annual sales (stock fill rate). For monitoring purposes, an interactive stock control system has 
+been made implemented, filtered by product category and plant. A minimum stock level is calculated for each 
+product code and the possible stock out is highlighted.
+To limit possible delays and improve the reliability of the business, even for ‘Make-To-Order’ products, the CLIP 
+index is updated weekly on the SAP 1 Client platform. Supplementing the traditional service indicators, this in-
+dex measures the reliability of production compared to planned targets.  
+44  The Prysmian plants within the former General Cable perimeter calculate On Time Delivery (OTD) in a different way to the other Prysmian Group plants, which have 
+carried out this analysis since 2013. In addition, the data for 6 GC plants (4 for Energy and 2 for Telecom) has been included in the Prysmian data since their migration 
+to the SAP system. With regard to the methodology adopted, the data for both Prysmian and GC plants represents the average of the OTDs of each plant, as weighted 
+using the number of lines shipped.
+PRYSMIAN GROUP, LINKING THE FUTURE LEADING INNOVATION GOVERNANCE AND RISK MANAGEMENT
+SUSTAINABILITY IN OUR DNA A PUBLIC COMPANY OUR COMMITMENT

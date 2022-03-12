@@ -1,0 +1,27 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+6. Analisi e presidio dei rischi
+Gruppo Poste Vita - Analisi di VAR
+Esposizione al rischio SpreadVaR
+Descrizione
+(milioni di euro) Nominale Fair value
+Effetti 2017
+Attività finanziarie
+Investimenti disponibili per la vendita  87.894  94.871  564 
+Titoli a reddito fisso 87.893  94.709  564 
+Altri investimenti 1  162  -   
+Strumenti finanziari al fair value rilevato a CE 6.481  6.886  4 
+Titoli a reddito fisso 5.979  6.220  4 
+Obbligazioni strutturate 500  546  -   
+Altri investimenti 2  120  -   
+Variabilità al 31 dicembre 2017 94.375  101.757  565 
+Effetti 2016
+Attività finanziarie
+Investimenti disponibili per la vendita  80.533  89.182  622 
+Titoli a reddito fisso 80.524  88.377  622 
+Altri investimenti 9  805  1 
+Strumenti finanziari al fair value rilevato a CE 9.879  10.117  8 
+Titoli a reddito fisso 9.379  9.566  8 
+Obbligazioni strutturate 500  551  1 
+Variabilità al 31 dicembre 2016 90.412  99.299  628 
+361

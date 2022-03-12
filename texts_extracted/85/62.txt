@@ -1,0 +1,46 @@
+REPORT DI SOSTENIBILITÀ 2017 & 2018
+63
+I punti vendita Lidl possono essere una testimonianza  Tra  le  iniziative  in  corso  gestite  dall’EnMT  vi  è  la 
+dell’attenzione  per  l’ambiente  visto  che  vengono  progressiva sostituzione di tutti i sistemi di illuminazione 
+progettati  e  sviluppati  secondo  protocolli  di  green  a fluorescenza/incandescenza con tecnologie a LED 
+building che prevedono l’adozione di avanzate soluzioni  entro  il  2020.  Relativamente  alla  sostituzione  dei 
+per il risparmio energetico e l’efficienza degli impianti.  corpi illuminanti l’Azienda ha impostato meccanismi 
+Come scelta strategica nella costruzione dei propri  di verifica periodica (quadrimestrale) dello stato di 
+punti  vendita  Lidl  predilige  terreni  da  riqualificare  avanzamento del progetto, al fine di verificare il rispetto 
+e bonificare. Infatti l’80% dei terreni utilizzati viene  delle sostituzioni preventivamente pianificate. 
+riqualificato prima della costruzione del punto vendita,  Un’altra attività continuativa è la sostituzione degli 
+riducendo inoltre così sensibilmente la cementazione  impianti frigo obsoleti, iniziata nel 2017, con nuove 
+di nuovo suolo. soluzioni  che  non  comportano  particolari  saving 
+I  nostri  concept  store  di  ultima  generazione  sono  energetici,  ma  adottano  refrigeranti  con  un  Global 
+spesso in classe energetica A o superiore e vengono  Warming Potential (GWP) molto inferiore rispetto alle 
+costruiti con delle ampie vetrate per favorire l’ingresso  tecnologie precedenti. 
+della  luce  naturale.  Vengono  impiegati  materiali 
+altamente coibentanti e illuminazione a LED. Inoltre,  Di particolare rilievo sono le attività di verifica dei 
+laddove possibile, i punti vendita sono dotati di impianti  corretti setpoint degli impianti di climatizzazione e 
+fotovoltaici.  spegnimento luci nottetempo che solo nel 2018 hanno 
+contribuito, per quasi il 45%, alla riduzione ottenuta 
+Lidl  si  è  dimostrata  proattiva  verso  la  sostenibilità  dalle principiali attività di risparmio energetico svolte 
+anche nell’ambito della mobilità, installando diversi  durante l’intero anno, pari a 3.679.111 KWh.
+punti di ricarica per auto elettriche nei parcheggi dei  Per  tutte  queste  iniziative  avviene  un  monitoraggio 
+negozi. In Italia, i punti di ricarica delle auto elettriche  dei consumi ufficiale tramite software BMS (Building 
+sono destinati ad aumentare in linea con gli obiettivi  Management System) dedicato, in linea con quanto 
+del Piano nazionale infrastrutturale per la ricarica dei  previsto dallo standard ISO 50001.
+mezzi alimentati ad energia elettrica (PNIRE). Le misure adottate nel 2018 hanno più che raddoppiato 
+Anche Lidl Italia si muove in questa direzione, infatti  i  risparmi  energetici  stimati  rispetto  all’anno 
+nel  2018  i  punti  di  ricarica  installati  dall’Azienda  precedente. Infatti, il risparmio stimato nel 2017 è 
+ammontavano a oltre 70.  stato pari a 1.613.680 KWh mentre nel 2018 pari a 
+3.679.111 KWh.
+Riduzione  Riduzione 
+Iniziative di efficientamento energetico Tipo di energia u.m.
+(stima 2017) (stima 2018)
+Sostituzione di sistemi di illuminazione obsoleti  Elettricità
+995.680 2.066.811
+con tecnologia LED
+Sostituzione di frigoriferi obsoleti con nuove  Elettricità
+KWh 618.000  -
+tecnologie
+Verifica corretti setpoint clima e spegnimento  Elettricità
+ - 1.612.300
+luci nottetempo
+GRI 103
+GRI 302-4

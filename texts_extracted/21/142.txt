@@ -1,0 +1,66 @@
+Please note that 2017 data are not comparable since referred to a different perimeter
+A
+P
+P
+31. Indirect (Scope 2) Market-based emissions EN
+D
+Indirect emissions u.m. 201768 201869 201970 IX
+Electric power purchased        
+Italy tCOe 2,018.03 1,564.88 1232.51
+2
+Romania tCOe - 43.31 49.59
+2
+Greece tCOe - - 223.29
+2
+Switzerland tCOe - - 1.24
+2
+Total tCOe 2,018.03 1,608.19 1506.63
+2
+Please note that 2017 data are not comparable since referred to a different perimeter
+32. Total GHG emission intensity (Scope 1 + Scope 2 Location Based)
+GHG emission intensity u.m. 2017 2018 2018 RESTATED  2019
+Total GHG Emissions71 tCO 1,781.11 2,543.05 3,115.92  3,641.35 
+2
+Employees and other workers  HC 2,500.00 2,935.00 2,935.00 3,847.00
+o/w Group’s employees HC 1.992 2.256 2.256 2.259
+o/w seconded, associates HC 508 679 679 1288
+tCO per 
+GHG emission intensity 2 0.71 0.87 1.06 0.95
+unit
+For the purpose of calculating the emission intensity, the value relating to the 
+total direct (Scope 1) GHG emissions and the indirect (Scope 2) GHG emissions 
+was used calculated with the Location Based methodology, parameterized to the 
+total number of employees, seconded employees and associates present at the 
+Cerved Group buildings.
+33. Total weight of hazardous waste by type of disposal
+u.m. 201772 2018 2019
+Reuse ton - - -
+Recycling ton 0.501 - 0.290
+Total ton 0.501 - 0.290
+% u.m. 201772 2018 2019
+Reuse % - - -
+Recycling % 100% - 100%
+Total % 100% - 100%
+The figure for 2019 of 0.290 tons refers to the disposal of PC hardware compo-
+nents, servers.
+34. Total weight of non-hazardous waste by type of disposal
+u.m. 201772 2018 2019
+Reuse t - - -
+Recycling t 55.090 9.500 5.804
+- of which paper t 6.862 - 3.040
+- of which toner and/or printer cartridges t 0.316 0.076 0.154
+Total t 55.090 9.500 5.804
+% u.m. 201772 2018 2019
+Reuse % - - -
+Recycling % 100% 100% 100.0%
+- of which paper % 12.3% 0.0% 52.0%
+- of which toner and/or printer cartridges % 0.6% 0.8% 3.0%
+Total % 100% 100% 100%
+68 Source of factors used to calculate emissions: European Residual Mixes 2016.
+69 Source of factors used to calculate emissions: European Residual Mixes 2017.
+70 Source of factors used to calculate emissions: European Residual Mixes 2018.
+71  Calculated by adding direct (Scope 1) GHG emissions and indirect (Scope 2) emissions with Location Based methodology. 
+72  The figures for 2017 were caused by extraordinary disposal operations, which include all the activities related to the 
+transfer of the headquarters from Milan to San Donato Milanese and the closure of three corporate offices (Brescia, 
+Prato and Verona).
+143

@@ -1,0 +1,21 @@
+06_SUPPLEMENTAL INFORMATION_FACTS & FIGURES
+    
+LOGISTICS 
+INDIRECT CO EMISSIONS FROM LOGISTICS PROCESSES 
+2
+FCA worldwide (thousands of tons of CO)
+2
+2018 2017 2016
+Upstream 853 819 738
+Downstream 678 644 716
+Mopar 57 58 60
+Total logistics CO emissions 1,588 1,521 1,514
+2 
+Calculations were based on the criteria illustrated in the Greenhouse Gas Protocol’s Corporate Value Chain (Scope 3) Accounting and Reporting Standard and Technical Guidance for Calculating 
+Scope 3 Emissions. Real activity data related to routes, distances, frequencies and transport capacities are used in the calculation process. Emission factors are taken from international standards 
+or governmental agency guidelines, among which: standard EN16258, U.S. Department of Energy, Brazilian Ministry of Transport, DEFRA-U.K. Department for Environment, Food and Rural Affairs. 
+Upstream refers to material and parts distribution to plants.                   
+Downstream refers to finished vehicle distribution to markets.                   
+Scope 3 emissions presented in the table above are related to logistics processes.                
+ 
+134

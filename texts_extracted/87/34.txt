@@ -1,0 +1,40 @@
+sustainability report 2019 8 / highlights
+Total energy demand by BU and energy carrier Total direct greenhouse gas (GHG) emissions  
+(Category 1; UNI EN ISO 14064-1;2019)
+2018 2019 UoM 2018 2019
+Panels  Steel Services  Panels  Steel Services  Steel BU tons of CO 443 477
+2eq
+UoM BU BU BU BU BU BU
+Panels BU tons of CO 3,763 3,837
+2eq
+Electricity kWh  10,221,955   6,577,935   399,042   10,384,471   6,267,237   368,879 
+Services BU tons of CO 161 126
+2eq
+Natural gas Sm3  1,471,002   66,014   32,311   1,486,461   56,817   29,930 
+Total tons of CO 4,367 4,441
+Diesel oil l  266,507   83,299   37,086   306,798   104,276   25,492  2eq
+LPG l  23,504   56,928   -     25,974   54,599   -   
+66 67
+Fuel oil l  32,622   -     -     22,402   -     -   
+Petrol l  -     721   -     -     -     -   
+Electricity TEP  1,912   1,230   75   1,942   1,172   69  Total indirect greenhouse gas (GHG) emissions from the use of electricity  
+(Category 2; UNI EN ISO 14064-1;2019)
+Natural gas TEP  1,230   55   27   1,243   47   25 
+Diesel oil TEP  236   74   32   271   93   22  UoM 2018 2019
+LPG TEP  14   35   -     16   34   -    Steel BU tons of CO 202 0
+2eq
+Fuel oil TEP  27   -     -     19   -     -    Panels BU tons of CO 2,141 1,933
+2eq
+Petrol TEP  -     1   -     -     -     -    Services BU tons of CO 0 0
+2eq
+Total TEP  3,419   1,395   134   3,491   1,346   116  Total tons of CO 2,343 1,933
+2eq
+Note: Calculation was based on the most recent emission factors relating to countries where consumption from national grid energy occurred
+(sources: ISPRA, 2019; TERNA, 2019; Minambiente, 2019; IPCC, 2017; Simapro - Industry 2.0, 2019)
+Unit energy demand by BU
+UoM 2017 2018 2019
+Panels BU TEP/m3 insulation produced 0.00344 0.00359 0.00364
+Steel BU TEP/t steel sold 0.00438 0.00441 0.00475
+Services BU TEP/(# empl. x days worked) 0.00453 0.00468 0.00393
+Note: In order to comply with the legislation, reliance was made on ton of oil equivalent (TEP) as energy unit of measurement. Reference was made to the TEP 
+conversion factors contained in the Circular letter issued by the Ministry for the Economic Development on 18 December 2014.

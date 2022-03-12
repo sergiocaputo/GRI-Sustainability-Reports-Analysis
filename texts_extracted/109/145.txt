@@ -1,0 +1,47 @@
+RADICIGROUP
+X
+E GRI STANDARD 2016 DISCLOSURE PAGINA OMISSIONI
+D
+N
+GRI 102:  102-42 Principi per l'identificazione e selezione degli Stakeholder  126
+T I GENERAL DISCLOSURE 2016
+N 102-43 Approccio all'attività di coinvolgimento degli Stakeholder  13
+E
+T
+N 102-44 Argomenti chiave e criticità emerse dall'attività di  51, 66
+O coinvolgimento degli Stakeholder 
+C
+I 
+R 102-45 Elenco delle entità incluse nel bilancio consolidato 12
+G
+L  102-46 Definizione del contenuto del Bilancio di Sostenibilità e dei  12
+I
+confini dei temi
+102-47 Lista dei temi materiali 136
+102-48 Descrizione delle modifiche effettuate sulle informazioni  14
+riportate nelle relazioni precedenti
+102-49 Cambiamenti significativi di obiettivo e perimetro 14
+102-50 Periodo di rendicontazione 15
+102-51 Data di pubblicazione del Bilancio di Sostenibilità più recente 15
+102-52 Periodicità della rendicontazione 15
+102-53 Contatti per richiedere informazioni relative al Bilancio di  142
+Sostenibilità
+102-54 Scelta dell'opzione "in accordance" con gli standard GRI 12
+102-55 Indice GRI content index 143
+102-56 Verifica esterna del report 15
+ECONOMIC PERFORMANCE
+GRI 103: 103-1 Definizione del tema materiale e relativi confini 70
+MANAGEMENT 
+APPROACH 2016 103-3 Valutazione sull’approccio di gestione
+GRI 201: 201-1 Direct economic  value generated and distributed 70
+ECONOMIC 
+PERFORMANCE 2016
+MATERIALS
+GRI 103: 103-1 Definizione del tema materiale e relativi confini  102
+MANAGEMENT
+APPROACH 2016 103-2 Informazioni generali sull’approccio di gestione e relative  102
+caratteristiche
+103-3 Valutazione sull’approccio di gestione 102
+GRI 301: 301-1 Materials used by weight or volume 103
+MATERIALS 2016
+144

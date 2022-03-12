@@ -1,0 +1,50 @@
+Nota Integrativa | Parte A | Politiche Contabili
+l’intera vita utile dell’attività o passività ﬁnanziaria - o per un periodo più breve in presenza di talune condizioni (per 
+esempio revisione dei tassi di mercato).
+Si considerano rilevanti ai ﬁni del costo ammortizzato tutti i costi/proventi direttamente riconducibili e determinabili 
+sin dall’origine dell’operazione, ancorché liquidati in un momento successivo. Sono esclusi i costi che, pur avendo le 
+caratteristiche suddette, sono oggetto di rimborso da parte del debitore.
+Successivamente alla rilevazione iniziale, il costo ammortizzato permette di allocare ricavi e costi portati in diminu-
+zione o aumento dello strumento lungo l’intera vita attesa dello stesso per il tramite del processo di ammortamento.
+Modalità di determinazione delle perdite di valore
+Attività ﬁnanziarie
+Ad ogni data di bilancio le attività ﬁnanziarie non classiﬁcate nella voce Attività ﬁnanziarie detenute per la negozia-
+zione sono sottoposte ad un test di impairment (perdita di valore) al ﬁne di veriﬁcare se esistono obiettive evidenze 
+che possano far ritenere non interamente recuperabile il valore di iscrizione delle attività stesse.
+Si è in presenza di perdite di valore se vi è evidenza oggettiva di una riduzione dei ﬂussi di cassa futuri, rispetto a 
+quelli originariamente stimati, a seguito di speciﬁci eventi; la perdita deve poter essere quantiﬁcata in maniera afﬁ-
+dabile ed essere correlata ad eventi attuali, non meramente attesi.
+Il test di impairment viene effettuato su base analitica per le attività ﬁnanziarie che presentano speciﬁche evidenze 
+di perdite di valore e collettivamente, per le attività ﬁnanziarie per le quali non è richiesta la valutazione analitica o 
+per le quali la valutazione analitica non ha determinato una rettiﬁca di valore. La valutazione collettiva si basa sull’in-
+dividuazione di classi di rischio omogenee delle attività ﬁnanziarie con riferimento alle caratteristiche del debitore/
+emittente, al settore economico, all’area geograﬁca, alla presenza di eventuali garanzie e di altri fattori rilevanti.
+Con riferimento ai crediti verso clientela, sono sottoposti a valutazione analitica i crediti ai quali è stato attribuito 
+lo status di sofferenza, incaglio, ristrutturato o di scaduto secondo le deﬁnizioni della Banca d’Italia, coerenti con i 
+principi IAS/IFRS.
+Detti crediti deteriorati sono oggetto di un processo di valutazione analitica e l’ammontare della rettiﬁca di valore 
+di ciascun credito è pari alla differenza tra il valore di bilancio dello stesso al momento della valutazione (costo am-
+mortizzato) ed il valore attuale dei previsti ﬂussi di cassa futuri, calcolato applicando il tasso di interesse effettivo 
+originario.
+I ﬂussi di cassa previsti tengono conto dei tempi di recupero attesi, del presumibile valore di realizzo delle eventuali 
+garanzie nonché dei costi che si ritiene verranno sostenuti per il recupero dell’esposizione creditizia. I ﬂussi di cassa 
+relativi a crediti il cui recupero è previsto nel breve termine non vengono attualizzati, in quanto il fattore ﬁnanziario 
+risulta non signiﬁcativo. I crediti per i quali non sono state individuate singolarmente evidenze oggettive di perdita 
+sono sottoposti alla valutazione di una perdita di valore collettiva. Tale valutazione avviene per categorie di crediti 
+omogenee in termini di rischio di credito e le relative percentuali di perdita sono stimate tenendo conto di serie 
+storiche, fondate su elementi osservabili alla data della valutazione, che consentano di stimare il valore della perdita 
+latente in ciascuna categoria di crediti.
+Con riferimento alle attività disponibili per la vendita, il processo di rilevazione di eventuali impairment prevede la 
+veriﬁca della presenza di indicatori di impairment e la determinazione dell’eventuale svalutazione.
+Gli indicatori di impairment sono sostanzialmente suddivisibili in due categorie: indicatori derivanti da fattori interni 
+inerenti la società oggetto di valutazione, e quindi di tipo qualitativo, e indicatori esterni derivanti dai valori di mer-
+cato dell’impresa (per il solo caso di titoli di capitale quotati).
+La veriﬁca consiste in un’analisi approfondita delle ragioni che hanno determinato la perdita di valore al ﬁne di iden-
+tiﬁcare eventuali situazioni di difﬁcoltà dell’emittente quali a titolo di esempio:
+-   signiﬁcative difﬁcoltà ﬁnanziare o rischi di avvio di procedure concorsuali;
+-   annuncio/avvio di piani di ristrutturazione ﬁnanziaria;
+-   variazioni signiﬁcative con impatto negativo nell’ambiente tecnologico, economico o normativo in cui opera l’im-
+presa.
+Ove disponibili vengono inoltre esaminati i business plan e le prospettive strategiche delle predette società al ﬁne di 
+stimarne il valore in uso secondo quanto previsto dallo IAS 36. Se le predette analisi inducono la Banca a ritenere che 
+132

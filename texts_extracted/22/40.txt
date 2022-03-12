@@ -1,0 +1,51 @@
+Cerved Information Solutions S.p.A. | Bilancio di Sostenibilità | 2017
+Grazie al Modello Organizzativo adottato, è stato possibile gestire e risolvere in maniera 
+corretta, efficace ed efficiente tutte le tematiche presentatesi durante l’anno relativamente 
+alla Sicurezza delle Informazioni. Questo sia in ambito operativo-strategico che a livello 
+contrattuale e di compliance.
+Il ruolo di controllo di III livello è svolto in maniera centralizzata dalla funzione Internal 
+Audit che controlla l’adeguatezza del sistema di controllo interno e di gestione dei rischi, 
+il suo funzionamento e la sua efficacia.
+In linea con le necessità e gli obiettivi di business, i requisiti di sicurezza e la struttura 
+organizzativa aziendale, il Gruppo Cerved ha definito le proprie politiche di sicurezza per:
+• garantire che il patrimonio informativo e informatico sia adeguatamente tutelato 
+rispetto ai rischi di compromissione
+• istituire e mantenere un processo strutturato per l’identificazione e la valutazione del 
+rischio informatico, con lo scopo di applicare gli opportuni controlli e di verificane 
+l’efficacia e l’efficienza nell’ottica del miglioramento continuo e riduzione del livello di 
+rischio identificato
+• assicurare la conformità ai requisiti legali, normativi e contrattuali inerenti la sicurezza 
+delle informazioni.
+La politica di sicurezza delle informazioni definita dal Gruppo Cerved è stata strutturata
+sulla base delle seguenti aree:
+Organizzazione  (cid:71)e(cid:564) nizione (cid:71)ei r(cid:88)o(cid:79)i e (cid:71)e(cid:79)(cid:79)e res(cid:83)ons(cid:68)(cid:69)i(cid:79)it(cid:162)(cid:15) (cid:83)ro(cid:80)(cid:88)oven(cid:71)o co(cid:80)(cid:83)ort(cid:68)(cid:80)enti 
+della sicurezza e controlli atti a garantire la sicurezza informatica
+(cid:71)e(cid:564) nizione (cid:71)ei criteri tecnici e(cid:18)o or(cid:74)(cid:68)nizz(cid:68)tivi (cid:83)er (cid:79)(cid:68) (cid:74)estione (cid:71)e(cid:74)(cid:79)i 
+Gestione degli asset IT (cid:68)(cid:83)(cid:83)(cid:68)r(cid:68)ti in(cid:73)or(cid:80)(cid:68)tici e (cid:71)e(cid:79)(cid:79)e re(cid:74)o(cid:79)e (cid:71)i (cid:68)sse(cid:74)n(cid:68)zione (cid:71)e(cid:79) (cid:83)ro(cid:564) (cid:79)o (cid:71)i risc(cid:75)io 
+delle informazioni
+(cid:71)e(cid:564) nizione (cid:71)e(cid:79)(cid:79)e re(cid:74)o(cid:79)e (cid:71)i co(cid:80)(cid:83)ort(cid:68)(cid:80)ento c(cid:88)i i(cid:79) (cid:83)erson(cid:68)(cid:79)e (cid:71)eve (cid:68)ttenersi 
+Sicurezza del personale
+e programmazione della relativa formazione
+Sicurezza ﬁ sica e  (cid:71)e(cid:564) nizione (cid:71)e(cid:79)(cid:79)e inizi(cid:68)tive (cid:564) n(cid:68)(cid:79)izz(cid:68)te (cid:68)(cid:79)(cid:79)(cid:68) (cid:83)rotezione (cid:71)e(cid:79) (cid:83)erson(cid:68)(cid:79)e(cid:15) (cid:71)ei 
+ambientale co(cid:80)(cid:83)onenti tecno(cid:79)o(cid:74)ici(cid:15) (cid:71)ei (cid:79)oc(cid:68)(cid:79)i e (cid:71)e(cid:74)(cid:79)i (cid:68)rc(cid:75)ivi c(cid:68)rt(cid:68)cei
+(cid:71)e(cid:564) nizione  (cid:71)ei contro(cid:79)(cid:79)i s(cid:88)i (cid:83)rocessi e s(cid:88)(cid:79)(cid:79)e (cid:68)ttivit(cid:162) o(cid:83)er(cid:68)tive co(cid:80)e 
+Sicurezza operativa 
+protezione dei dati trasmessi e monitoraggio degli accessi
+e delle telecomunicazioni
+ai servizi e sistemi informatici disponibili in rete
+(cid:71)e(cid:564) nizione (cid:71)e(cid:79) (cid:83)resi(cid:71)io (cid:71)e(cid:74)(cid:79)i (cid:68)ccessi (cid:79)o(cid:74)ici (cid:68)(cid:79) siste(cid:80)(cid:68) in(cid:73)or(cid:80)(cid:68)tivo(cid:15) 
+Controllo degli accessi
+secondo modalità prestabilite
+Acquisizione, sviluppo  (cid:71)e(cid:564) nizione (cid:71)e(cid:79)(cid:79)e re(cid:74)o(cid:79)e (cid:71)i (cid:74)estione(cid:15) (cid:80)o(cid:71)i(cid:564) c(cid:68)(cid:15) test e (cid:80)ess(cid:68) in (cid:83)ro(cid:71)(cid:88)zione 
+e manutenzione dei sistemi (cid:71)i (cid:83)ro(cid:74)r(cid:68)(cid:80)(cid:80)i (cid:68)(cid:83)(cid:83)(cid:79)ic(cid:68)tivi(cid:15) software di base e componenti hardware;
+(cid:71)e(cid:564) nizione (cid:71)i (cid:88)n(cid:68) (cid:83)o(cid:79)itic(cid:68) (cid:83)er (cid:79)(cid:68) sic(cid:88)rezz(cid:68) (cid:71)e(cid:79)(cid:79)e in(cid:73)or(cid:80)(cid:68)zioni nei r(cid:68)(cid:83)(cid:83)orti 
+Relazione con i fornitori con i (cid:73)ornitori (cid:68)(cid:79) (cid:564) ne (cid:71)i in(cid:71)irizz(cid:68)re (cid:79)(cid:68) sic(cid:88)rezz(cid:68) (cid:68)(cid:79)(cid:79)(cid:519)interno (cid:71)e(cid:74)(cid:79)i (cid:68)ccor(cid:71)i 
+contrattuali
+Gestione di eventi e  (cid:71)e(cid:564) nizione (cid:71)i (cid:83)roce(cid:71)(cid:88)re (cid:564) n(cid:68)(cid:79)izz(cid:68)te (cid:68)(cid:71) (cid:68)ssic(cid:88)r(cid:68)re (cid:79)(cid:68) te(cid:80)(cid:83)estiv(cid:68) (cid:74)estione 
+incidenti di sicurezza  e risoluzione di incidenti e malfunzionamenti che possano avere un 
+informatica impatto sulla sicurezza informatica
+Gestione della continuità  (cid:71)e(cid:564) nizione (cid:71)e(cid:79)(cid:79)e re(cid:74)o(cid:79)e c(cid:75)e (cid:74)overn(cid:68)no i(cid:79) (cid:83)rocesso (cid:71)i ero(cid:74)(cid:68)zione (cid:71)e(cid:79) 
+operativa servizio (cid:68)nc(cid:75)e (cid:68) (cid:73)ronte (cid:71)i (cid:88)n(cid:519)interr(cid:88)zione (cid:71)ov(cid:88)t(cid:68) (cid:68) (cid:88)n evento critico
+Conformità a leggi  (cid:71)e(cid:564) nizione (cid:71)ei criteri e (cid:71)e(cid:79)(cid:79)e (cid:83)roce(cid:71)(cid:88)re necess(cid:68)rie (cid:83)er (cid:74)(cid:79)i (cid:68)(cid:71)e(cid:80)(cid:83)i(cid:80)enti 
+e regolamenti previsti dalle leggi e dai regolamenti vigenti
+40

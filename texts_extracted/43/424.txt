@@ -1,0 +1,67 @@
+10. Glossario
+Nella sua conﬁ gurazione più frequente è calcolata come scaden- bearance  measures”.  Tali  esposizioni  rappresentano 
+za media dei ﬂ ussi di cassa attesi, ponderata per il contributo del  un  dettaglio,  a  seconda  dei  casi,  delle  sofferenze,  del-
+valore attuale di ciascun ﬂ usso alla formazione del prezzo. le  inadempienze  probabili  oppure  delle  esposizioni  sca-
+dute  e/o  sconﬁ nanti  deteriorate;  esse,  quindi,  non  for-
+Earnings per Share (EPS)  mano  una  categoria  a  sé  stante  di  attività  deteriorate;
+Rapporto tra l’utile netto di esercizio e il numero medio delle  - altre esposizioni oggetto di concessioni, che corrispondono 
+azioni in circolazione alla ﬁ ne del periodo, al netto delle azioni  alle “Forborne performing exposures”.
+proprie.
+Euribor
+E-banking Tasso interbancario di riferimento utilizzato nei Paesi dell’Unio-
+Indica l’utilizzo di reti elettroniche (internet o simili) per l’ef- ne Europea. Si calcola facendo la media ponderata dei tassi di 
+fettuazione da parte della clientela di una vasta gamma di  interesse ai quali le principali banche operanti nell’Unione Euro-
+operazioni bancarie e ﬁ nanziarie. pea cedono i depositi in prestito. Viene calcolato giornalmente 
+e serve come parametro per ﬁ ssare i tassi variabili sui mutui.
+Economic Value Added (EVA)
+Indicatore economico interno adottato per calcolare il valore,  Euro overnight index average (EONIA)
+in termini monetari, creato da un’azienda in un determinato  Misura del tasso di interesse effettivo per il mercato interban-
+periodo. È calcolato sottraendo all’utile netto il rendimento  cario overnight in euro. Si calcola come media ponderata dei 
+atteso dall’azionista in relazione al patrimonio netto. Il rendi- tassi di interesse sulle operazioni di prestito overnight in euro 
+mento atteso è convenzionalmente pari al rendimento netto  (non coperte da garanzie) sulla base delle segnalazioni di un 
+dei BOT a 12 mesi emessi a inizio anno a cui è aggiunto un  gruppo selezionato di banche.
+premio di rischio di mercato, ipotizzato costante nei periodi 
+riportati e posto pari a 4,5 punti percentuali. Euro Short-Term Rate (€STR)
+Nuovo tasso di riferimento per i prestiti, conosciuto anche 
+E-learning come Ester. Questo nuovo indice sostituirà deﬁ nitivamente l’E-
+Attività di formazione effettuata a distanza attraverso l’utiliz- onia diventando ufﬁ cialmente il tasso di interesse medio del-
+zo di supporti informatici. le operazioni effettuate sul mercato interbancario europeo a 
+brevissima scadenza, cioè quelle transazioni che devono essere 
+Embedded Value estinte entro il giorno successivo in cui sono state costituite.
+Valore intrinseco di un gruppo o di una società comprenden-
+te la somma del patrimonio netto rettiﬁ cato e del valore del  European Banking Authority (EBA)
+portafoglio di affari alla data della valutazione. Organismo  comunitario  istituito  tramite  il  Regolamento 
+1093/2010 CE composto da rappresentanti delle banche centrali 
+Emissioni di gas serra nazionali comunitarie e dalle rispettive autorità di supervisione e 
+Totale delle emissioni di gas serra prodotte da un ente. si inserisce nel contesto dell’attività di vigilanza in merito a que-
+stioni di politica bancaria. Promuove cooperazione e convergen-
+Emissioni Scope1 za tra le regolamentazioni interne dei diversi Paesi comunitari.
+Emissioni di gas serra generate dalla sede di un’impresa e dai 
+veicoli posseduti dall’impresa stessa. European Banking Federation (EBF)
+Organismo associativo che ricomprende gli istituti di credito 
+Emissioni Scope2 presenti in Europa. È un forum nel quale vengono dibattute 
+Emissioni di gas serra derivanti dal consumo di elettricità, ri- e condivise proposte ed iniziative in merito alle questioni ine-
+scaldamento e condizionamento che l’impresa acquista da  renti all’attività e all’industria bancaria.
+fornitori esterni. 
+European Financial Reporting Advisory Group (EFRAG)
+Emissioni Scope3 Comitato tecnico di supporto alla Commissione Europea, sor-
+Emissioni indirette dovute all’attività di un’organizzazione  to con lo scopo di fornire pareri - in via preventiva rispetto 
+(tranne le emissioni già incluse nello Scope2). In questa ca- all’ufﬁ cializzazione della norma contabile - in merito alla qua-
+tegoria rientrano sia le emissioni “a monte” ovvero emissioni  lità degli IFRS di nuova emanazione.
+derivanti dalla produzione degli strumenti di cui l’impresa ha 
+bisogno durante il proprio processo produttivo sia le emissioni  European Insurance and Occupational Pensions Author-
+“a valle” ossia le emissioni causate dai beni prodotti dall’a- ity (EIOPA)
+zienda durante il loro ciclo di vita.  Organismo  comunitario  istituito  tramite  il  Regolamento 
+1094/2010 CE. I suoi compiti si sostanziano nel mantenere un 
+ESG efﬁ cace livello di supervisione nel mercato assicurativo, specie 
+L’acronimo ESG (Environmental, Social and Governance) in- su gruppi transnazionali, e nel rafforzare l’armonizzazione co-
+dividua tre universi che declinano il concetto di sensibilità  munitaria delle regole in campo assicurativo e previdenziale e 
+sociale e guidano le scelte degli operatori nelle politiche di  la tutela dei consumatori.
+investimento e nelle strategie perseguite. 
+European Securities and Markets Authority (ESMA) 
+Esposizioni “oggetto di concessioni” Organismo  comunitario  istituito  tramite  il  Regolamento 
+Le esposizioni oggetto di concessioni (forbearance) si distin- 1095/2010 CE deputato alla salvaguardia della stabilità dei 
+guono in: mercati ﬁ nanziari europei assicurando l’integrità, la trasparen-
+- esposizioni oggetto di concessioni deteriorate, che cor- za e l’efﬁ cienza dei mercati borsistici e rafforzando la prote-
+rispondono  alle  “Non  performing  exposures  with  for- zione degli investitori.
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 421

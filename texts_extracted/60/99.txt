@@ -1,0 +1,46 @@
+100
+SISTEMA DI RECUPERO DELL’ENERGIA DI FRENATURA DEI TRENI
+Il progetto, sviluppato in collaborazione tra FERROVIENORD e il Politecnico di Milano e 
+installato nella Sottostazione Elettrica di Ferno, ha permesso di verificare la potenzialità del 
+sistema di accumulo. Il prototipo permette di utilizzare l’energia recuperata in frenatura per 
+illuminare, mediante tecnologia a LED, le banchine della vicina stazione di Ferno – Lonate 
+Pozzolo. Il sistema è in esercizio da dicembre 2016 ed è in programma il proseguimento nel 
+2018 delle attività di analisi e verifica dei dati con il supporto dell’università.
+La Società ha ottenuto a settembre il riconoscimento del brevetto di Invenzione Industriale 
+per “Metodo per il recupero dell’energia di frenatura dei treni alimentati in corrente 
+continua con tensione superiore a 1kV”, da parte del Ministero dello Sviluppo Economico. 
+I consumi di energia elettrica a bassa e media tensione
+I consumi di energia elettrica a bassa e media tensione sono imputabili principalmente a:
+• illuminazione e condizionamento della sede principale del Gruppo (sede di Milano Cadorna);
+• impianti tecnologici per il funzionamento della rete ferroviaria;
+• riscaldamento invernale degli scambi;
+• illuminazione delle stazioni e dell’infrastruttura ferroviaria;
+• condizionamento degli uffici;
+• impianti di elevazione (ascensori e scale mobili) delle stazioni;
+• trazione delle auto elettriche di E-vai.
+Per il 2017, i consumi di energia elettrica a medio/bassa tensione sono aumentati del 26,5% per 
+il Gruppo FNM e diminuiti del 3% per Trenord rispetto al 2016.
+23.770.805
+18.795.133
+16.825.129 17.344.364
+23.770.805
+18.795.133
+2017 2016 16.822051.1729 17.324041.6364
+Consumi di energia elettrica a medio/bassa tensione del Gruppo FNM e Trenord (kWh)
+Il maggior consumo è legato principalmente all’attivazione del collegamento T1-T2 e dei relativi 
+sistemi di i2m0p17iantistica posizionati2 l0u1n6go la rete (di circa 3,250 k17m) e al funzionament2o0 1d6ella nuova 
+stazione nel Terminal 2 di Milano Malpensa.
+841.916 897.019
+Per quanto riguarda i consumi di energia elettrica relativi allo Stabile di Piazza Cadorna, si 
+registra una riduzione del 6,1% rispetto al 2016. Nel 2017 sono continuati i lavori presso il 
+corpo di fabbrica annesso alla stazione di Cadorna che hanno reso inagibili i locali e sono stati 
+potenziati gli interventi di manutenzione degli impianti di condizionamento.
+203.553 216.875
+841.916 897.019
+2017 2016 2017 2016
+203.553 216.875
+2017 2016 2017 2016
+Consumi di energia elettrica relativi allo stabile di Piazza Cadorna per il Gruppo FNM e Trenord2 (kWh)
+2 I dati relativi ai consumi dello Stabile di Cadorna sono frutto di elaborazioni che hanno richiesto anche stime. I dati relativi al 
+Gruppo FNM si riferiscono agli uffici di FNM, FERROVIENORD e NORD_ING di Milano Cadorna. Gli uffici di Trenord presso 
+lo stabile di P.zza Cadorna occupano 2 piani che corrisponde al 19,47% dei consumi totali.

@@ -1,0 +1,86 @@
+305-1 Direct (Scope 1) GHG emissions 142 A
+P
+305-2 Energy indirect (Scope 2) GHG emissions 142-143 P
+E
+305-4 GHG emissions intensity 143 N
+D
+GRI 306: EFFLUENTS AND WASTE (2016) IX
+MATERIAL TOPIC: ENVIRONMENTAL PROTECTION    
+103-1 
+30-33; 46-48; 
+103-2  Evaluation of the management approach
+124;127-128
+103-3
+306-2 Waste by type and disposal method  143
+Given the nature 
+of Cerved Group 
+306-3 Significant spills business, spills of 
+polluting substances 
+may not occur.
+GRI 307: COMPLIANCE AMBIENTALE (2016)
+TEMA MATERIALE: TUTELA AMBIENTALE    
+103-1 
+30-33; 46-48; 124-
+103-2  Evaluation of the management approach
+128 
+103-3
+No cases of non-
+Non-compliance with environmental laws and 
+307-1 compliance were 
+regulations
+confirmed in 2019.
+GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT (2016)
+MATERIAL TOPIC: MANAGEMENT OF SUPPLIERS AND RELATIONS WITH 
+   
+STRATEGIC PARTNERS
+103-1 
+30-33; 46-48; 103-
+103-2  Evaluation of the management approach
+104
+103-3
+The introduction 
+of environmental 
+New suppliers that were screened using  criteria within the 
+308-1
+environmental criteria   supplier selection 
+processes is 
+scheduled for 2020.
+GRI 401: EMPLOYMENT (2016)
+MATERIAL TOPIC: WORKER ENGAGEMENT AND WELFARE, WORK-LIFE 
+   
+BALANCE AND COMPANY CLIMATE
+103-1 
+30-33; 46-48; 66-68; 
+103-2  Evaluation of the management approach
+71-72; 75-77
+103-3
+401-1 New employee hires and employee turnover 66; 134-135
+Benefits provided to full-time employees that are 
+401-2 75-77; 141
+not provided to temporary or part-time employees
+GRI 402: LABOUR/MANAGEMENT RELATIONS (2016)
+MATERIAL TOPIC: INDUSTRIAL RELATIONS    
+103-1 
+103-2  Evaluation of the management approach 30-33; 46-48; 85-86
+103-3
+Minimum notice periods regarding operational 
+402-1 86
+changes
+GRI 403: OCCUPATIONAL HEALTH AND SAFETY (2016)
+MATERIAL TOPIC: HEALTH AND SAFETY    
+103-1 
+103-2  Evaluation of the management approach 30-33; 46-48; 85
+103-3
+Types of injury and rates of injury, occupational 
+403-2 diseases, lost days and absenteeism, and number  136-137
+of work-related fatalities
+GRI 404: TRAINING AND EDUCATION  (2016)
+MATERIAL TOPIC: TALENT AND TRAINING    
+103-1 
+103-2  Evaluation of the management approach 30-33; 46-48; 73-75
+103-3
+404-1 Average hours of training per year per employee 67; 73; 138
+Programs for upgrading employee skills and 
+404-2 86
+transition assistance programs
+147

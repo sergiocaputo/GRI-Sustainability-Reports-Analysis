@@ -1,0 +1,44 @@
+ 
+  Country  Currency  Share/quota   Investme%  %  Investment held by  Consolidation or 
+capital  nt % direct  indirect  measurement 
+  subscribed  method 
+  Yacylec S.A.  Argentina  ARS  20,000,000   18.67   18.67  Impregilo Intern. Infrastruc. N.V.  equity 
+  Yuma Concessionaria S.A.  Colombia  COP  26,000,100,0  48.326  40  8.326  Impregilo Intern. Infrastruc. N.V.  equity 
+00 
+  Acqua Campania S.p.A.  Italy  Euro  4,950,000   0.1   0.1  Impregilo Intern. Infrastruc. N.V.  cost 
+  CE.DI.R. S.c.r.l. (in liq.)  Italy  Euro  10,200   1   1  Imprepar S.p.A.  cost 
+  Consorzio Aree Industriali Potentine  Italy  Euro  408,000   2   2  Fisia Ambiente S.p.A.  cost 
+(in liq.) 
+  Consorzio Casale Nei  Italy  Euro  27,888   2.779   2.779  Imprepar S.p.A.  cost 
+  Consorzio Costruttori TEEM  Italy  Euro  10,000   0.01   0.01  Imprepar S.p.A.  cost 
+  Consorzio infrastruttura area  Italy  Euro  129,114   7.5   7.5  Imprepar S.p.A.  cost 
+metropolitana - Metro Cagliari (in liq.) 
+  Consorzio Nazionale Imballaggi -  Italy  Euro  130   1  1      cost 
+CO.NA.I. 
+  Consorzio Terme di Sardara -  Italy        0.1   0.1  Imprepar S.p.A.  cost 
+CON.TER.SAR. (in liq.) 
+  Emittenti Titoli S.p.A. (in liq.)  Italy  Euro  4,264,000   0.244 0.244      cost 
+  Grassetto S.p.A. (in liq.)  Italy  Euro  56,941,500   0.001   0.001  Imprepar S.p.A.  cost 
+  Hobas Italiana S.p.A. (in liq.)  Italy        8.829   8.829  Imprepar S.p.A.  cost 
+  Immobiliare Golf Club Castel  Italy  Euro  3,891,720   0.444   0.444  Imprepar S.p.A.  cost 
+D'Aviano S.r.l. 
+  Impregilo S.p.A.-Avax S.A.-Ate  Greece  GRD  3,000,000   1   1  Imprepar S.p.A.  cost 
+Gnomon S.A., J.V. 
+  Istituto per lo Sviluppo Edilizio ed  Italy  Euro  2,500,000   2.4  1  1.4  Imprepar S.p.A.  cost 
+Urbanistico  - ISVEUR S.p.A. (in liq.) 
+  Istituto Promozionale per l'Edilizia  Italy  Euro  111,045   0.119   0.119  ILIM Srl  cost 
+S.p.A. - Ispredil S.p.A. 
+  Joint Venture Aktor S.A. - Impregilo  Greece        0.1  0.1      cost 
+S.p.A. 
+  Lambro S.c.r.l.  Italy  Euro  200,000   0.01   0.01  Imprepar S.p.A.  cost 
+  Lane Solid - Tadmur Joint Venture  Qatar        0.49   0.49  Lane Mideast Qatar LLC  cost 
+  Manifesto S.p.A. (in liq.)  Italy        0.36   0.36  CO.GE.MA. S.p.A.  cost 
+  Markland S.r.l. (in liq.)  Italy  Euro  66,810   1.9  1.9      cost 
+  Nomisma - Società di Studi  Italy  Euro  6,605,830   0.245   0.245  Imprepar S.p.A.  cost 
+Economici S.p.A. 
+  Normetro - Agrupamento Do  Portugal  PTE  100,000   2.12   2.12  Imprepar S.p.A.  cost 
+Metropolitano Do Porto, ACE 
+  S.I.MA. GEST 3 S.c.r.l. (in liq.)  Italy  Euro  50,000   0.01   0.01  Imprepar S.p.A.  cost 
+  Salini Impregilo Bin Omran J.V.  Qatar        50  50      cost 
+  Skiarea Valchiavenna S.p.A.  Italy  Euro  10,568,180   0.925   0.925  Imprepar S.p.A.  cost 
+   385 

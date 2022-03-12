@@ -1,0 +1,30 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Emissioni di GHG 
+Emissioni indirette di gas ad effetto serra (GHG) - Scopo 1 -
+GRI 305-1 - Gruppo
+Unità di misura 2018 2017
+Gas Naturale  tCO2 eq  3.109 3.037
+Gasolio (da gruppo elettrogeno)  tCO2 eq 8 -
+Gasolio (da auto a noleggio)  tCO2 eq  418 -
+Totale Scopo 1  tCO2 eq  3.555 3.037
+Emissioni indirette di gas ad effetto serra (GHG) - Scopo 2 - Location 
+based GRI 305-2 - Gruppo
+Unità di misura 2018 2017
+Energia elettrica acquistata  tCO2eq  3.155  3.447* 
+Totale Scopo 2 Location based  tCO2 eq 3.155  3.447 
+*  Nel 2018, seguendo le indicazioni dei nuovi indicatori GRI, il calcolo dello Scopo 2 avviene tramite l’approccio “Location Based” e “Market 
+Based”. Nel 2017 le emissioni da Scopo 2 “Location Based” si sarebbero attestate a 3.529 tCO2eq.
+Emissioni indirette di gas ad effetto serra (GHG) - Scopo 2 - Market 
+based GRI 305-2 - Gruppo
+Unità di misura 2018 2017
+Energia elettrica acquistata da non 
+ tCO2 eq  4.088 3.447* 
+rinnovabili
+Energia Elettrica acquistata con GO 
+tCO2 eq  0  0
+(Garanzia d'Origine)
+Totale Scopo 2 Market based tCO2 eq  4.088  3.447
+*  Nel 2018, seguendo le indicazioni dei nuovi indicatori GRI, il calcolo dello Scopo 2 avviene tramite l’approccio “Location Based” e “Market 
+Based”. Nel 2017 le emissioni da Scopo 2 “Market Based” si sarebbero attestate a 4.573 tCO2eq.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 905

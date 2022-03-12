@@ -1,0 +1,49 @@
+Nota Integrativa | Parte A | Politiche Contabili
+Consolidamento integrale
+Il consolidamento integrale consiste nell’acquisizione linea per linea degli aggregati di stato patrimoniale e di conto 
+economico delle società controllate. Dopo l’attribuzione ai terzi, in voce propria, delle quote di loro pertinenza del 
+patrimonio e del risultato economico, il valore della partecipazione è annullato in contropartita al valore del residuo 
+patrimonio della controllata.
+Le società controllate sono integralmente consolidate a partire dalla data in cui il controllo è stato effettivamente 
+trasferito al Gruppo. Le stesse sono escluse dall’area di consolidamento dalla data in cui il controllo è trasferito al 
+di fuori del Gruppo.
+Laddove si riscontri una perdita di controllo di una società rientrante nell’area di consolidamento, il bilancio consoli-
+dato include il risultato d’esercizio in proporzione al periodo dell’esercizio nel quale la Capogruppo ne ha mantenuto 
+il controllo.
+Le operazioni d’acquisizione sono rilevate con il metodo dell’acquisto (c.d. acquistion method) in base al quale tutte 
+le aggregazioni di imprese, ad eccezione di quelle realizzate fra società sotto comune controllo, assumono, sotto 
+il proﬁlo contabile, la conﬁgurazione di vera e propria acquisizione di impresa. Il costo di un’acquisizione è conse-
+guentemente misurato sulla base del fair value delle attività corrisposte, degli strumenti di capitale emessi e delle 
+passività sostenute o assunte alla data di scambio, comprensivo dei costi direttamente attribuibili all’acquisizione. 
+Le speciﬁche attività acquisite, e le relative passività, comprese quelle potenziali identiﬁcabili e quelle eventuali 
+assunte in una business combination, sono inizialmente valutate al relativo fair value alla data di acquisizione. La 
+differenza positiva tra il costo dell’acquisizione e il fair value della quota del Gruppo delle attività nette identiﬁcabili, 
+è rilevata come avviamento. Tale avviamento è iscritto alla voce “Attività immateriali” ed è assoggettato con perio-
+dicità almeno annuale a impairment test secondo le modalità previste dallo IAS 36. Qualora il costo dell’acquisizione 
+sia inferiore al fair value delle attività nette della controllata acquisita, la differenza è immediatamente contabilizzata 
+nel conto economico dell’esercizio.
+Tutti i saldi e le transazioni infragruppo, inclusi eventuali utili non realizzati derivanti da rapporti intrattenuti tra so-
+cietà del Gruppo, sono eliminati in fase di consolidamento, al netto del relativo effetto ﬁscale.
+I bilanci delle controllate sono normalmente redatti adottando per ciascuna chiusura contabile i medesimi principi 
+contabili della controllante. Eventuali rettiﬁche di consolidamento sono apportate per rendere omogenee le voci 
+che sono inﬂuenzate dall’applicazione di principi contabili differenti.
+Consolidamento con il metodo del patrimonio netto
+Il metodo del patrimonio netto prevede l’iscrizione iniziale della partecipazione al costo ed il suo successivo ade-
+guamento sulla base della quota di pertinenza nel patrimonio netto della partecipata. Le differenze tra il valore della 
+partecipazione ed il patrimonio netto della partecipata vengono trattate analogamente al criterio adottato per le 
+differenze di consolidamento integrale.
+Sono considerate società collegate tutte le società per le quali pur non ricorrendo i presupposti del controllo, il 
+Gruppo è in grado di esercitare un’inﬂuenza signiﬁcativa. 
+Dopo l’acquisizione, la quota di utili e perdite del Gruppo è contabilizzata nel conto economico consolidato così 
+come gli eventuali movimenti nelle riserve successivi all’acquisizione sono contabilizzati come movimenti delle ri-
+serve consolidate.
+Se esistono evidenze che il valore di una partecipazione possa aver subito una riduzione, si procede alla stima del 
+valore recuperabile della partecipazione stessa, tenendo conto del valore attuale dei ﬂussi ﬁnanziari futuri che la 
+partecipazione potrà generare, incluso il valore di dismissione ﬁnale dell’investimento. Qualora il valore di recupero 
+risulti inferiore al valore contabile, la relativa differenza è rilevata nel conto economico.
+Sezione 4 – Eventi successivi alla data di riferimento del bilancio
+Successivamente al 31 dicembre 2017 e ﬁno alla data di approvazione del presente documento non si è veriﬁcato 
+alcun fatto aziendale tale da determinare conseguenze rilevanti sui risultati patrimoniali ed economici rappresentati 
+nel presente bilancio.
+Ad ogni modo si illustrano sinteticamente i seguenti avvenimenti intervenuti.
+404

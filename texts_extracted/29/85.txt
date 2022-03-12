@@ -1,0 +1,21 @@
+Emissioni indirette di gas serra 
+Le emissioni di CO derivanti dai consumi indiretti sono generate dall’acquisto di energia elettrica da terzi e consumata sia  
+2
+negli impianti che nelle sedi Deco e di cui, in generale, è stata rilevata una tendenziale diminuzione.
+ 
+Il valore per sito è deteminato utilizzando un fattore di emissione dell’energia elettrica di 326,78 kg di CO/MWh (fonte 
+2
+ISPRA n. 212/2015).
+2016 2017 2018
+MWh KgCO/MWh MWh KgCO/MWh MWh KgCO/MWh
+2 2 2
+Uffici Via Salara 172,162 56.259,098 115,897 37.872,822 110,927 36.248,725
+PTR 63,974 20.905,315 50,858 16.619,377 49,128 16.054,048
+Discarica Colle Cese 289,622 94.642,612 271,288 88.651,463 258,635 84.516,811
+Discarica Casoni 15,010 4.904,935 15,304 5.001,139 15,021 4.908,693
+IRE Casoni 140,024 45.757,075 142,034 46.413,772 140,103 45.782,728
+TMB 12.721,523 4.157.139,421 12.478,056 4.077.579,218 11.795,106 3.854.404,621
+Impianto FV Cepagatti 65,491 21.401,149 64,629 21.119,311 66,869 21.851,490
+TOTALE Kg CO  4.401.009,61 4.293.257,10 4.063.767,12
+2
+86

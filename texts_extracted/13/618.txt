@@ -1,0 +1,53 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+A.1.5 Attività finanziarie, impegni a erogare fondi e garanzie 
+finanziarie rilasciate: trasferimenti tra i diversi stadi di rischio di 
+credito (valori lordi e nominali)
+Valori lordi/valore nominale
+Trasferimenti tra primo Trasferimenti tra secondo stadio e  Trasferimenti tra primo
+stadio e secondo stadio terzo stadio stadio e terzo stadio
+Da secondo stadio  Da secondo stadio 
+Da primo stadio a  Da primo stadio a Da terzo stadio a
+a a Da terzo stadio
+Euro/migliaia secondo terzo  primo
+primo terzo  a secondo stadio 
+stadio stadio stadio 
+stadio stadio
+1. Attività finanziarie valutate al costo 
+158.556 295.316 19.081 5.837 3.814 1.128
+ammortizzato 
+2. Attività finanziarie valutate al fair value 
+- - - - - -
+con impatto sulla redditività complessiva 
+3. Impegni a erogare fondi e garanzie 
+- - - - - -
+finanziarie rilasciate
+TOTALE 31/12/2018 158.556 295.316 19.081 5.837 3.814 1.128
+TOTALE 31/12/2017 - - - - - -
+A.1.6 Esposizioni creditizie per cassa e fuori bilancio verso banche: 
+valori lordi e netti
+Rettifiche di valore  Esposizione Write-off parziali 
+complessive e  netta complessivi*
+Esposizione lorda
+accantonamenti 
+complessivi
+Euro/migliaia Deteriorate Non deteriorate
+A. Esposizioni creditizie per cassa
+a) Sofferenze - X - - -
+di cui: esposizioni oggetto di concessioni - X - - -
+b) Inadempienze probabili - X - - -
+di cui: esposizioni oggetto di concessioni - X - - -
+c) Esposizioni scadute deteriorate - X - - -
+di cui: esposizioni oggetto di concessioni - X - - -
+d) Esposizioni scadute non deteriorate X - - - -
+di cui: esposizioni oggetto di concessioni X - - - -
+e) Altre esposizioni non deteriorate X 650.989 (211) 650.778 -
+di cui: esposizioni oggetto di concessioni X - - - -
+TOTALE A - 650.989 (211) 650.778 -
+B. Esposizioni creditizie fuori bilancio
+a) Deteriorate - X - - -
+b) Non deteriorate X 58.020 (6) 58.014 -
+TOTALE B - 58.020 (6) 58.014 -
+TOTALE A+B  - 709.009 (217) 708.792 -
+*  Valore da esporre a fini informativi
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 619

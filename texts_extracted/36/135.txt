@@ -1,0 +1,40 @@
+Machine learning
+Machine learning – Digitalization and development of innovative tools based on machine learning technologies will 
+make it possible to carry out predictive analysis for maintenance of electricity distribution and generation plant com-
+ponents, identifying faults early and taking action before the occurrence of breakdowns of major components, which 
+would reduce the availability of the plants concerned. Reducing the risk of malfunctions has a significant impact not only 
+in economic terms, but also in relation to the environment and personal safety. Enel is adopting digital technology such 
+as Big Data, machine learning and automation on its power network in order to develop intelligent infrastructure that 
+reduces power outages and energy losses and manages distributed generation assets proactively. Enel has leveraged 
+machine learning solutions to boost plant efficiency in terms of heat rate and combustion optimisation. Enel is investing 
+in digital assets in the burgeoning renewable generation sector both for Engineering & Construction and for Operations 
+& Maintenance, reducing the time-to-market of new plants (and hence anticipating the benefits of CO-free generation) 
+2
+and increasing their generation output. For example, artificial intelligence is used to predict the power generated and 
+optimise maintenance programmes. Another aspect worth considering is that the effects of digitalization on the end 
+use of energy are doubled. Smart meters provide consumers with full awareness of their energy consumption, while 
+the new Enel X subCo provides customers with innovative energy services for efficiency, in addition to “smart” tech-
+nological systems. This is reflected in major savings of energy consumption and CO emissions.  
+2
+Cloud
+In 2019 the cloud was an essential strategic enabler for Enel, allowing the use of infrastructure and application IT re-
+sources when required since, by exploiting the access possibilities made available by the network in full, it allows the 
+reduction of wastage deriving from the consumption of unused resources. The proportion of Enel applications on cloud 
+in 2019 reached 100%. The AWS (Amazon Web Services) cloud used by Enel calls for the use of around 16% of the 
+energy required by conventional on premise infrastructure on average, allowing an average reduction of 88% in CO 
+2
+emissions, and it is hosted on green data processing centres 50% of whose energy requirements are obtained from 
+renewable sources.
+People: 
+the decarbonization 
+contribution 
+of shared IT services
+Alongside technological progress and the development of  the full. For example, the “e-API Digital Ecosystem” was 
+new business opportunities, the central topic remains that  adopted in the Group in 2019, to make data related to gen-
+of Enel’s people and their needs. In this regard, the Compa- eration, e-mobility, customers, people, etc. available to all 
+ny is continuing to pursue the internal digital transformation  in the various countries, guaranteeing a common platform 
+process aimed at improving the digital skills of its people.  on which to share data among the different company areas. 
+In light of this goal, Enel is committed to rethinking its cor- For more information, refer to the chapter “Our people and 
+porate processes, improving existing services and exploit- their value”. 
+ing the new opportunities offered by digital technology to 
+134 Sustainability Report 2019

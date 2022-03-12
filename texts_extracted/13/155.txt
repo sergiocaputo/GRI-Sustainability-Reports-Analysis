@@ -1,0 +1,38 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+12 - Passività finanziarie di negoziazione
+Le passività finanziarie di negoziazione includono: 
+  il valore negativo dei contratti derivati di negoziazione; 
+  gli scoperti tecnici generati dall’attività di negoziazione in titoli. 
+La prima iscrizione di tali passività finanziarie avviene all’atto di ricezione 
+delle somme raccolte o di regolamento degli strumenti finanziari sottostanti 
+all’operazione. Il fair value delle passività finanziarie eventualmente emesse 
+a condizioni inferiori a quelle di mercato è oggetto di apposita stima e la 
+differenza rispetto al valore di mercato è imputata direttamente a conto 
+economico. Dopo la rilevazione iniziale, le passività finanziarie vengono 
+valorizzate al fair value. 
+Successivamente all’iscrizione iniziale, gli strumenti finanziari in questione 
+sono valutati al fair value con imputazione delle variazioni di valore nella voce 
+“80. Risultato netto dell’attività di negoziazione”. Le passività finanziarie sono 
+cancellate dal bilancio quando risultano scadute o estinte.
+ 
+13 - Passività finanziarie valutate al fair value 
+Le passività finanziarie designate al fair value possono essere iscritte sulla base 
+della facoltà (c.d. Fair Value Option) riconosciuta dall’IFRS 9, ovvero quando 
+si tratta di un contratto ibrido contenente uno o più derivati incorporati e il 
+derivato incorporato modifica significativamente i flussi finanziari che altrimenti 
+sarebbero previsti dal contratto o quando la designazione al fair value rilevato 
+a Conto economico consente di fornire una migliore informativa. Le passività 
+finanziarie designate al fair value, iscritte in ossequio alla c.d. Fair Value 
+Option, sono rilevate alla data di emissione. Il valore di prima iscrizione è pari 
+al costo inteso come il fair value dello strumento. 
+La valutazione di tali strumenti è al fair value con imputazione delle variazioni 
+di valore nella voce “110. a) Risultato netto delle altre attività e passività 
+finanziarie valutate al fair value con impatto a conto economico: attività e 
+passività finanziarie designate al fair value”.
+14 - Operazioni in valuta 
+Le attività e passività denominate in valuta estera sono registrate, al momento 
+della rilevazione iniziale, in divisa di conto, applicando all’importo in valuta 
+estera il tasso di cambio in vigore alla data dell’operazione.
+Ad ogni chiusura di bilancio o di situazione infrannuale, le poste di bilancio in 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 156

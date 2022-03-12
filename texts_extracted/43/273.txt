@@ -1,0 +1,78 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+dalle modiﬁ che alle ipotesi attuariali e dalle rettiﬁ che basate  rideterminazione andrà registrato in contropartita dell’attività 
+sull’esperienza passata) sono riconosciuti nel prospetto della  per diritto d’uso. Le passività ﬁ nanziarie sono cancellate dal 
+redditività complessiva. bilancio quando risultano scadute o estinte. 
+Altri fondi SEZIONE 12 - PASSIVITÀ FINANZIARIE DI 
+Gli altri fondi per rischi e oneri accolgono gli accantonamenti  NEGOZIAZIONE 
+per obbligazioni legali, connesse a rapporti di lavoro o con-
+Le passività ﬁ nanziarie di negoziazione sono iscritte in bilancio 
+tenziosi, di ammontare o scadenza incerti che sono rilevate in 
+alla data di sottoscrizione o alla data di emissione ad un valore 
+bilancio in quanto: 
+pari al fair value dello strumento, senza considerare eventuali 
+•  sussiste un’obbligazione attuale (legale o implicita) per ef- costi o proventi di transazione direttamente attribuibili agli 
+fetto di un evento passato;  strumenti stessi. In tale categoria sono inclusi i contratti deri-
+vati di negoziazione con fair value negativo e le passività rife-
+•  è probabile l’esborso di risorse ﬁ nanziarie per l’adempimento 
+rite agli scoperti tecnici generati dall’attività di negoziazione 
+dell’obbligazione; 
+in titoli. Tutte le passività di negoziazione sono valutate al fair 
+•  è possibile effettuare una stima attendibile del probabile  value con imputazione del risultato della valutazione nel con-
+esborso futuro.  to economico. Le passività ﬁ nanziarie di negoziazione sono 
+cancellate dal bilancio quando scadono i diritti contrattuali sui 
+Laddove l’effetto del differimento temporale nel sostenimen- relativi ﬂ ussi ﬁ nanziari o quando la passività ﬁ nanziaria è ce-
+to dell’onere stimato assume un aspetto rilevante, il Gruppo  duta con trasferimento sostanziale di tutti i rischi ed i beneﬁ ci 
+calcola l’importo dei fondi e degli accantonamenti in misura  derivanti dalla proprietà della stessa.
+pari al valore attuale delle spese che si suppone saranno ne-
+cessarie per estinguere le obbligazioni. Nelle ipotesi in cui gli  SEZIONE 14 - OPERAZIONI IN VALUTA 
+stanziamenti siano oggetto di attualizzazione, l’ammontare 
+dei fondi iscritti in bilancio aumenta in ciascun esercizio per  Le operazioni in valuta estera sono registrate, al momento 
+riﬂ ettere il passare del tempo. I fondi accantonati sono riesa- della rilevazione iniziale, in divisa di conto, applicando all’im-
+minati ad ogni data di riferimento del bilancio e rettiﬁ cati per  porto in valuta estera il tasso di cambio in vigore alla data 
+riﬂ ettere la migliore stima corrente. dell’operazione. 
+L’accantonamento viene stornato quando diviene improbabi- Ad ogni chiusura di bilancio le poste in valuta estera sono 
+le l’impiego di risorse atte a produrre beneﬁ ci economici per  valorizzate come segue:
+adempiere l’obbligazione oppure quando si estingue l’obbli- •  le poste monetarie sono convertite al tasso di cambio alla 
+gazione.  data di chiusura;
+Nella voce sono inclusi anche i beneﬁ ci a lungo termine ai  •  le poste non monetarie valutate al costo storico sono con-
+dipendenti, i cui oneri vengono determinati con i medesimi  vertite al tasso di cambio in essere alla data dell’operazione;
+criteri attuariali descritti per i fondi di quiescenza. Gli utili e le 
+•  le poste non monetarie valutate al fair value sono convertite 
+perdite attuariali vengono rilevati tutti immediatamente nel 
+utilizzando i tassi di cambio in essere alla data di chiusura.
+conto economico.
+Le differenze di cambio che derivano dal regolamento di ele-
+SEZIONE 11 - PASSIVITÀ FINANZIARIE VALUTATE 
+menti monetari o dalla conversione di elementi monetari a 
+AL COSTO AMMORTIZZATO  tassi diversi da quelli di conversione iniziali, o di conversione 
+del bilancio precedente, sono rilevate nel conto economico 
+I debiti verso banche e i debiti verso clientela accolgono tutte 
+del periodo in cui sorgono.
+le forme tecniche di provvista attivate con le suddette contro-
+parti. La voce include anche i debiti iscritti in qualità di locata-
+Quando un utile o una perdita relativi ad un elemento non 
+rio nell’ambito di operazioni di leasing.
+monetario sono rilevati a patrimonio netto, la differenza cam-
+bio relativa a tale elemento è rilevata anch’essa a patrimonio. 
+Alla data di prima iscrizione, tali passività ﬁ nanziarie sono 
+Per contro, quando un utile o una perdita sono rilevati a con-
+iscritte nello stato patrimoniale al fair value, che usualmen-
+to economico, è rilevata a conto economico anche la relativa 
+te corrisponde al corrispettivo incassato, aumentato di even-
+differenza cambio.
+tuali costi di transazione direttamente attribuibili alla singola 
+operazione di provvista. I debiti per leasing vengono iscritti 
+SEZIONE 16 - ALTRE INFORMAZIONI 
+al valore attuale dei pagamenti di leasing futuri, attualizzati 
+utilizzando il tasso di interesse implicito dell’operazione op- Trattamento di ﬁ ne rapporto
+pure, se non determinabile, attraverso il tasso marginale di  In seguito all’entrata in vigore della riforma della previdenza 
+ﬁ nanziamento.  complementare di cui al D. Lgs. n. 252/2005, il Trattamento 
+di ﬁ ne rapporto del personale si riferisce alle sole quote ma-
+Successivamente i debiti, ad eccezione delle poste a vista e a  turate ﬁ no al 31 dicembre 2006. Il fondo maturato al 31 di-
+breve termine che rimangono iscritte per il valore incassato,  cembre 2006 continua pertanto ad essere considerato come 
+sono valutati al costo ammortizzato con il metodo del tasso  un “piano a beneﬁ ci deﬁ niti” con la conseguente necessità di 
+di interesse effettivo, il cui effetto è rilevato nel conto eco- effettuare una valutazione attuariale che tuttavia, rispetto alla 
+nomico. I debiti per leasing vengono rideterminati quando  metodologia di calcolo applicata sino al 31 dicembre 2006, 
+vi è una lease modiﬁ cation (modiﬁ ca del contratto che non  non comporta più l’attribuzione proporzionale del beneﬁ cio 
+è contabilizzata come un contratto separato); l’effetto della  al periodo di lavoro prestato. Ciò in quanto l’attività lavorati-
+270 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

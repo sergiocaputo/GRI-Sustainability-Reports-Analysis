@@ -1,0 +1,54 @@
+PARAMETRI IN USCITA DEI PRINCIPALI DEPURATORI GESTITI DA PUBLIACQUA (2017-2019) (*)
+parametro  media dei valori (mg/l) 2017 media dei valori (mg/l) 2018 media dei valori (mg/l) 2019
+BOD 4,1 3,0 2,6
+5
+COD 24,7 21,0 18,2
+SST 7,1 11,0 6,3
+NH + 3,2 2,5 2,9
+4
+fosforo 2,0 1,6 1,6
+(*) I dati includono 38 depuratori, compreso San Colombano, che trattano complessivamente il 98% dell’acqua reflua e il 96% del carico organico (COD) di Publiacqua.
+EFFICIENZA DI DEPURAZIONE DEI PRINCIPALI DEPURATORI GESTITI DA PUBLIACQUA (2017-2019) 
+parametro  media dei valori (%) 2017 media dei valori (%) 2018 media dei valori (%) 2019
+100x(COD  - COD )/COD 89,4 86,1 91,2
+in out in
+100x(SST - SST )/SST 92,1 88,4 94,8
+in out in
+100x(NH +  - NH + )/NH +   97,1 96,1 98,0
+4in 4out 4in
+100x(PO -3  - PO -3 )/PO -3   70,9 68,3 74,8
+4 in 4 out 4 in
+EFFICIENZA DI DEPURAZIONE DEI PRINCIPALI DEPURATORI GESTITI DA PUBLIACQUA (2017-2019)(*)
+parametro  media dei valori (%) 2017 media dei valori (%) 2018 media dei valori (%) 2019
+100x(COD  - COD )/COD 90,6 93,3 92,0
+in out in
+100x(SST - SST )/SST 93,2 91,8 95,6
+in out in
+100x(NH +  - NH + )/NH +   95,5 91,9 96,7
+4in 4out 4in
+100x(PO -3  - PO -3 )/PO -3   67,4 60,6 72,0
+4 in 4 out 4 in
+(*) I dati includono 38 depuratori, compreso San Colombano, che trattano complessivamente il 98% dell’acqua reflua e il 96% del carico organico (COD) di Publiacqua.
+ACQUEDOTTO DEL FIORA
+Acquedotto del Fiora SpA gestisce il servizio idrico integrato  complessiva di circa 402.000 abitanti ed un’estensione di oltre 
+nell’area della Conferenza Territoriale Ottimale 6 Ombrone  7.600 km2. 
+(ex ATO 6), costituita da 55 comuni della provincia di Gros- Le reti idrica e fognaria sono lunghe, rispettivamente, 8.233 km e 
+seto e 27 comuni della provincia di Siena, con una popolazione  1.614 km. 
+I DATI DELLE RISORSE UMANE
+DIPENDENTI ACQUEDOTTO DEL FIORA: COMPOSIZIONE DEL PERSONALE (2018-2019)
+(n.) 2018 2019
+uomini donne totale peso % uomini donne totale peso %
+dirigenti 1 0 1 0,2 1 1 2 0,5
+quadri 11 5 16 3,9 11 4 15 3,8
+impiegati 122 101 223 54,5 121 100 221 56,4
+operai 168 1 169 41,3 153 1 154 39,3
+totale 302 107 409 100,0 286 106 392 100,0
+DIPENDENTI ACQUEDOTTO DEL FIORA: TIPOLOGIA CONTRATTUALE (2018-2019)
+(n.) 2018 2019
+uomini donne totale uomini donne totale
+personale stabile a tempo indeterminato 298 102 400 283 103 386
+  (di cui) personale in part-time 4 15 19 5 16 21
+personale a tempo determinato 4 4 8 1 1 2
+personale in contratti di apprendistato professionalizzante 1 0 1 2 2 4
+totale 303 106 409 286 106 392
+SCHEDE SOCIETÀ IDRICHE E ATTIVITÀ ESTERE 205

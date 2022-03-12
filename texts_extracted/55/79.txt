@@ -1,0 +1,44 @@
+RESILIENTI DNF - Bilancio di Sostenibilità 2019 Gruppo CAP
+FOCUS QUALITÀ TECNICA M4 
+PROGETTO  
+ADEGUATEZZA DEL SISTEMA FOGNARIO
+DI MODELLIZZAZIONE 
+E TARATURA DELLE 
+FOGNATURE
+L’indicatore M4 monitora l’adeguatezza del  Gli investimenti che impattano su questo 
+sistemo fognario. indice sono quelli infrastrutturali, necessari  La mappatura, cioè la realizzazione del rilievo sul 
+In particolare, vengono rendicontati: per realizzare vasche di accumulo in testa ai  WebGis, e la modellizzazione, cioè la costruzione 
+•	 M4a	– frequenza degli allagamenti e/o  depuratori e per ridurre le acque parassite. del modello della rete mediante software di 
+sversamenti da fognatura, definita dal numero  Altre criticità riguardanti questo indicatore sono  modellazione idraulica consentono una gestione 
+degli episodi di allagamento da fognatura  state affrontate nel 2019 con interventi di tipo  ottimale del rischio idrico e idrogeologico della 
+mista, bianca laddove ricompresa nel  gestionale che Gruppo CAP ha avviato attraverso  rete fognaria.  Il numero di comuni la cui rete fognaria è stata 
+Servizio Idrico Integrato, e di sversamento da  politiche finalizzate a ottimizzare i risultati e  modellata, cioè i comuni per cui si dispone di un 
+fognatura nera, che si verifichi ogni 100 km di  minimizzare i costi, anche a seguito dell’entrata  Inoltre, la rete viene tarata, cioè viene calibrata  modello, nel corso del 2019 è pari a 28 (di cui 
+rete fognaria totale gestita; in vigore, a marzo, del Regolamento Regionale  in base ai dati acquisiti in campo mediante  0 tarati), che sommati a quelli modellati negli 
+•	 M4b	– adeguatezza normativa degli scarichi  che prevede il riassetto delle fognature e degli  campagne di monitoraggio attraverso  anni precedenti fornisce un totale di 80 comuni 
+di piena, definita come l’incidenza degli  sfioratori.  l’installazione di misuratori in punti strategici  modellati, di cui 19 tarati.
+scaricatori o scolmatori o ancora sfioratori  della rete. La calibratura ha l’obiettivo di rendere 
+che non risultano proporzionati per attivarsi  il modello il più possibile rappresentativo della  Per questo motivo CAP, nel corso del 2019, ha 
+A B C D E
+esclusivamente in corrispondenza di una  realtà. predisposto una prima gara cosiddetta “small”, 
+portata di inizio sfioro superiore alla portata di  appaltata per un importo pari a 1.350.096,75€ 
+acqua nera diluita, da trattare nel depuratore  per un servizio di monitoraggio riguardante 
+e/o non risultano dotati delle predisposizioni  19 comuni   le reti fognarie di alcuni comuni/agglomerati 
+necessarie a trattenere i solidi sospesi;  prioritari, e una seconda gara cosiddetta 
+•	 M4c	– controllo degli scaricatori di piena,  nel 2019   “big”, per il completamento del servizio di 
+definito come l’incidenza degli scaricatori o  monitoraggio nei comuni/agglomerati restanti, 
+scolmatori o ancora sfioratori che non sono  aggiudicata per un importo pari a 8.785.962,49€.
+con fognatura  
+stati oggetto di ispezione da parte del gestore  Investimento	a	consuntivo	2019:	 I risultati di queste campagne di monitoraggio 
+o non sono dotati di sistemi di rilevamento  consentiranno la taratura dei modelli già 
+29.240.483,86	
+€ modellizzata  
+automatico dell’attivazione. implementati e porteranno una consistente 
+accelerazione delle attività nel corso del 2020.
+e tarata
+ADEGUATEZZA DEL SISTEMA FOGNARIO
+2017 2018 2019
+M4a 0,36 0,74 0,41
+M4b 16% 12,9% 0%
+M4c 7% 0% 0%
+158 159

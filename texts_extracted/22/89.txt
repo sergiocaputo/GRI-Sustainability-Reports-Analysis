@@ -1,0 +1,53 @@
+ Allegati
+NUMERO TOTALE DI DIPENDENTI SUDDIVISI PER AREA GEOGRAFICA E GENERE AL 31 DICEMBRE
+2017 2016 2017 2016
+ Uomini   Donne   Totale   Uomini   Donne   Totale   Uomini   Donne   Totale   Uomini   Donne   Totale 
+Cerved Information  Italia  705   999   1.704  674 997 1.671
+ 15   25   40   14   23   37 
+Solutions S.p.A.
+Cerved Information 
+ 15   25   40  14 23 37
+Cerved Group S.p.A.  471   483   954   448   486   934  Solutions S.p.A.
+Consit Italia S.p.A.  16   16   32   16   16   32  Cerved Group S.p.A.  471   483   954  448 486 934
+Cerved Rating Agency S.p.A.  38   137   175   40   151   191  Consit Italia S.p.A.  16   16   32  16 16 32
+Cerved Credit Management  Cerved Rating Agency S.p.A.  38   137   175  40 151 191
+ 41   30   71   30   15   45 
+Group S.r.l.
+Cerved Credit Management 
+ 41   30   71  30 15 45
+Group S.r.l.
+Cerved Credit Management 
+ 64   127   191   53   113   166 
+S.p.A.
+Cerved Credit Management 
+ 64   127   191  53 113 166
+Cerved Legal Services S.r.l.  5   28   33   5   24   29  S.p.A.
+Cerved Credit Collection  Cerved Legal Services S.r.l.  5   28   33  5 24 29
+ 38   130   168   51   144   195 
+S.p.A.
+Cerved Credit Collection 
+ 38   130   168  51 144 195
+S.p.A.
+Romania - Cerved Credit 
+ 34   148   182   36   129   165 
+Collection S.p.A. Click Adv S.r.l.  5   17   22  6 19 25
+Romania – SC Re Collection  Major 1 S.r.l.  12   6   18  11 6 17
+ 10   96   106   12   94   106 
+S.r.l.
+Click Adv S.r.l.  5   17   22   6   19   25  Estero  44   244   288  48 223 271
+Major 1 S.r.l.  12   6   18   11   6   17  Romania - Cerved Credit 
+ 34   148   182  36 129 165
+Collection S.p.A.
+ Totale   749   1.243   1.992   722   1.220   1.942 
+Romania – SC Re Collection 
+ 10   96   106  12 94 106
+S.r.l.
+ Totale   749   1.243   1.992  722 1.220 1.942
+NUMERO TOTALE DI DIPENDENTI DEL GRUPPO CERVED SUDDIVISI PER TIPOLOGIA 
+CONTRATTUALE E GENERE AL 31 DICEMBRE 
+2017 2016
+ Uomini   Donne   Totale   Uomini   Donne   Totale 
+Tempo indeterminato  733   1.218   1.951  710 1.197 1.907
+Tempo determinato  16   25   41  12 23 35
+ Totale   749   1.243   1.992  722 1.220 1.942
+89

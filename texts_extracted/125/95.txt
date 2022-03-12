@@ -1,0 +1,56 @@
+Table 34: Total weight of waste produced at TDT broken down by type
+CER  H/
+WASTE DESCRIPTION/TYPOLOGY 2017 2018 2019 RECOVERY DISPOSAL
+CODE NH14
+070213 Plastic waste NH 180 X
+Sludges from on-site effluent treatment 
+070611* H 4.000 X
+containing dangerous substances
+070612 Remaining sludge from on-site effluent treatment NH 7.040 10.080 X
+080111* Paints and discarded paints H 20 X
+130208* Other engine oils, gears and lubrication H 2.080 X
+130310* Other insulating oils and heat transfer oils H 1.600 X
+150103 Wooden packaging NH 8.780 12.180 24.880 X X
+150106 Mixed packaging NH 31.870 28.580 X X
+150106 Mixed packaging (housekeeping) NH 17.940 520 8.990 X
+Packaging containing residues of dangerous 
+150110 NH 340 X
+substances or contaminated by these substances
+Absorbents, filter materials, rags and protective 
+150202* clothing, contaminated with dangerous  H 1.240 1.705 2.115 X
+substances
+Absorbents, filter materials, rags and protective 
+150203 NH 758 X
+clothing, other than those mentioned in 150202
+160130 End-of-life tyres NH 1.320 X
+160120 Glass NH 1.000 X
+discarded equipment containing 
+160211* H 140 X
+chlorofluorocarbons, HCFCs, HFCs
+Equipment out of use containing 
+160213* H 51 423 287 X
+dangerous components other than 160209
+Equipment out of use other than those referred 
+160214 NH 527 564 498 X
+to in items 160209 -160213 (transformers)
+Components removed from the different end-
+160216 NH 90 4.260 70 X
+of-life equipment mentioned in item 160215
+Organic waste containing dangerous 
+160305* H 680 X
+substances
+160601* Lead-acid batteries H 7 40 101 X
+160602* Nickel caadmium batteries H 10 X
+160604 Alkaline batteries NH 14 X
+160605 Other batteries and accumulators NH 22 28 X
+170101 Concrete NH 1.820 X
+170203 Plastic NH 115 2.670 X
+170405 Iron and steel NH 5.250 9.970 6.770 X
+200301 Unsorted municipal waste NH 11.380 X
+200303 Street cleaning residues NH 71.560 62.170 83.240 X
+200304 Sludge from septic tanks NH 8.700 10.880 31.280 X
+200306 Waste from the cleaning of sewers NH 3.400 X
+  TOTAL 158.362 143.174 182.699
+  TOTAL H H 1.978 3.768 8.753
+  TOTAL NH NH 156.384 139.406 173.946
+96 | SECH • TDT 2019 Sustainability Report

@@ -1,0 +1,42 @@
+403-2 Indicators
+2019 2018 2017
+Injuries by year and gender
+Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Total injuries in the year [No.] 712 119 831 764 109 873 719 88 807
+Men 272 24 296 304 25 329 284 23 307
+Women 440 95 535 460 84 544 435 65 500
+Injury rate* 7.69 3.66 6.63 7.94 3.41 6.80 8.01 2.70 6.59
+Men 5.58 1.95 4.87 5.95 2.06 5.23 6.00 1.85 5.16
+Women 10.03 4.69 8.30 10.18 4.25 8.32 10.25 3.23 7.93
+Working days lost [No.] 14,800 4,116 18,916 17,738 4,313 22,051 15,840 3,049 18,889
+Men 6,515 968 7,483 7,727 703 8,430 6,855 663 7,518
+Women 8,285 3,148 11,433 10,012 3,610 13,622 8,985 2,386 11,371
+Rate of working days lost 
+0.15 0.11 0.14 0.17 0.11 0.16 0.16 0.08 0.14
+(severity index)**
+Men 0.12 0.07 0.11 0.14 0.05 0.12 0.13 0.04 0.11
+Women 0.18 0.13 0.16 0.20 0.15 0.19 0.20 0.10 0.16
+Injuries / Total employees [%] 1.1 0.5 0.9 1.1 0.5 1.0 1.1 0.4 0.9
+* Injury rate = (total number of injuries in the year / total hours worked) x 1,000,000. For better comprehension, this indicator was calculated using a multiplication factor equal to 
+1,000,000 (hours worked).
+** Rate of working days lost (or severity index) = (number of days lost / total number of working hours) x 1,000. For better comprehension, this indicator was calculated using a 
+multiplication factor equal to 1,000 (hours worked). Working days lost include injuries requiring first aid.
+Injuries at work and on the way   2019 2018 2017
+to/from work Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Injuries at work [No.] 217 51 268 229 31 260 230 27 257
+Men 67 8 75 79 2 81 85 5 90
+Women 150 43 193 150 29 179 145 22 167
+Rate of injuries at work* 2.34 1.57 2.14 2.38 0.97 2.03 2.56 0.83 2.10
+Men 1.37 0.65 1.23 1.55 0.16 1.29 1.80 0.40 1.51
+Women 3.42 2.12 2.99 3.32 1.47 2.65 3.42 1.09 2.65
+Injuries on the way to/from work [No.] 495 68 563 535 78 613 489 61 550
+Men 205 16 221 225 23 248 199 18 217
+Women 290 52 342 310 55 365 290 43 333
+Rate of injuries on the way to/from work** 5.35 2.09 4.49 5.56 2.44 4.78 5.45 1.87 4.49
+Men 4.21 1.30 3.63 4.41 1.89 3.94 4.21 1.45 3.65
+Women 6.61 2.57 5.30 6.86 2.78 5.58 6.83 2.14 5.28
+* Rate of injuries at work = (total number of injuries at work in the year / total hours worked) x 1,000,000. For better comprehension, this indicator was calculated using a multiplication 
+factor equal to 1,000,000 (hours worked).
+** Rate of injuries on the way to/from work = (total number of injuries on the way to/from work in the year / total hours worked) x 1,000,000. For better comprehension, this indicator 
+was calculated using a multiplication factor equal to 1,000,000 (hours worked).
+189

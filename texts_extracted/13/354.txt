@@ -1,0 +1,35 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Portafoglio titoli Mediolanum Assicurazioni S.p.A. - Posizione
+Dati puntuali al 31/12/2018
+Euro/migliaia 31/12/2018
+FV-P&L
+Nominale 7.800
+Valore di mercato 7.915
+AmortisedCost
+Nominale 35.504
+Valore di mercato 35.499
+FV-OCI
+Nominale 89.650
+Valore di mercato 88.553
+TOTALE
+Nominale 132.954
+Valore di mercato 131.967
+NOTA: il valore del portafoglio titoli non prende in considerazione la quota, marginale, di Fondi, Azioni, Diritti e residui Index Linked
+Portafoglio titoli Mediolanum International Life dac - Posizione
+Dati puntuali al 31/12/2018
+Euro/migliaia 31/12/2018
+FV-P&L
+Nominale 27.132
+Valore di mercato 26.988
+AmortisedCost
+Nominale -
+Valore di mercato -
+FV-OCI
+Nominale -
+Valore di mercato -
+TOTALE
+Nominale 27.132
+Valore di mercato 26.988
+NOTA: il valore del portafoglio titoli non prende in considerazione la quota, marginale, di Fondi, Azioni, Diritti e residui Index Linked
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 355

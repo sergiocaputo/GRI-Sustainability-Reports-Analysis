@@ -1,0 +1,95 @@
+9 Capitale Intellettuale A2A Bilancio Integrato 2018
+agricoli. I maggiori vantaggi per agronomi e coltivatori  e gas, con l’obiettivo di rendere i cittadini più  Milano di circa 720 unità tra il 2017 e il 2020, il  interfacce per tutte le principali figure che 
+sono stati il miglioramento dell’utilizzo e il risparmio  consapevoli e sensibilizzarli sui propri consumi  che consentirà di rispristinare il servizio in  compartecipano nella gestione della rete  Lettera agli 
+delle risorse idriche, con il duplice obiettivo di migliorare  nonché sulla loro riduzione. Inoltre, ad oggi, è stata  caso di guasti ad una percentuale di utenti  (operatori della sala controllo, operatori del  stakeholder
+il rendimento delle colture mediante un più ponderato e  realizzata l’infrastruttura LoRa nella zona e sono  maggiore. Con l’iniziativa di automazione delle  call center per le segnalazioni lato cliente, le 
+Nota 
+mirato utilizzo dell’acqua e di ridurre i costi. A2A Smart  stati installati 20 pali smart lamppost sui quali sono  cabine secondarie si andrà invece ad installare  squadre operative).
+metodologica
+City ha inoltre offerto la sua competenza tecnologica per  stati montati 25 set di sensori ambientali: monitorano  sistemi di protezione in circa 400 cabine  In particolare, il sistema IDMS consente 
+tre anni al fine di sostenere il processo di trasformazione  temperatura, umidità e grado di inquinamento.  secondarie tra il 2017 e il 2020 evitando fin dal  di ottimizzare le attività e gli interventi  1 
+di Alperia come referente IoT per l’Alto Adige.  principio che alcuni utenti siano impattati dal  soprattutto a seguito delle chiamate dei  Il Gruppo A2A 
+e il suo modello 
+disservizio. clienti. In effetti, con questo sistema l’operatore 
+di business
+Al fine di abilitare le funzionalità telecontrollo  che gestisce le chiamate è in grado di effettuare 
+Smart Bin a Milano e automazione, è necessario disporre di  diverse operazioni e registrazioni in tempo  2
+Progetto Sharing Cities  una rete di comunicazione che garantisca  reale, passando automaticamente le richieste  Governance
+Nel 2018 sono stati installati a Milano i primi 6.000 
+adeguati livelli di prestazione e affidabilità. A  alla sala controllo in cui si avvia il processo di 
+Sharing Cities è un progetto di ricerca in ambito multi- smart bin, i contenitori tecnologici dotati di sensori,  3
+tal proposito è stato avviato un programma  Isolamento e Ripristino del Servizio (FLISR), 
+servizio cofinanziato dalla UE, in cui sono coinvolte  che ne monitorano il livello di riempimento,  Strategia di 
+le municipalità di Milano, Londra, Lisbona, Bordeaux,  consentendo di ottimizzare i percorsi dei mezzi per lo  per il cablaggio in fibra ottica di circa 4.500  secondo diversi criteri configurabili, come ad  sostenibilità
+cabine (principalmente in area Milano) tra il  esempio la riduzione della durata del fuori 
+Burgas e Varsavia. L’iniziativa, partita a gennaio 2016  svuotamento. Le attività di posizionamento e di sviluppo 
+2017 e il 2020, che è ulteriormente sfruttato per  servizio o la prioritizzazione del ripristino dei  4
+e che terminerà nel 2020, prevede un budget di circa  del nuovo modello di gestione del servizio basato sulla  Stakeholder 
+migliorare anche le prestazioni del sistema di  clienti con apparecchiature elettromedicali. Tali 
+28 milioni di euro. Il Gruppo (con le sue società A2A  raccolta ed elaborazione dei dati provenienti dagli smart  engagement 
+S.p.A., Unareti ed A2A Smart City) è partner primario del  bin si concluderanno nel corso del 2019. telegestione delle utenze.  manovre possono essere eseguite in automatico  e Analisi di 
+(in presenza di telecontrollo) o manualmente  materialità
+progetto che mira a sviluppare piattaforme IT in grado 
+Figura 39_ Mappa contenitori posizionati nel 2018 da una squadra dedicata. Anche in questo caso, 
+di raccogliere le informazioni e trasformarle in servizi, 
+5
+IDMS permette all’operatore di sala di assegnare 
+trasformando così l’idea di smart city in realtà. Il Gruppo  Integrated Distribution  Capitale 
+alle squadre le manovre calcolate dall’algoritmo 
+è in particolare impegnato nel favorire la riduzione  Finanziario
+Management System (IDMS) FLISR, utilizzando informazioni sulla 
+delle emissioni di CO da parte degli edifici e dei mezzi 
+2 disponibilità delle squadre stesse, sulla loro  6
+di trasporto, attraverso: la partecipazione attiva della  Il sistema IDMS, un innovativo applicativo di 
+posizione geografica e sui tempi necessari al  Capitale 
+cittadinanza ai meccanismi di riduzione dei consumi,  gestione della rete di distribuzione, costituisce  Manifatturiero
+raggiungimento della posizione dell’intervento 
+la ristrutturazione e il miglioramento energetico  l’evoluzione dei sistemi di telecontrollo e 
+degli edifici, la gestione integrata della produzione e  automazione della rete (attuali SCADA) e  grazie ad integrazioni con sistemi terzi. La  7
+squadra in campo, arrivata sul luogo indicato a  Capitale 
+della distribuzione di energia, la mobilità elettrica e la  rappresenta di fatto il “cervello” della futura 
+sistema, può utilizzare l’applicazione mobile, il  Naturale
+gestione efficiente dell’illuminazione pubblica.  smart grid. Le numerose funzionalità evolute 
+Field Client, per registrare a sistema la manovra, 
+Ad oggi, nell’area milanese interessata dal progetto  dell’IDMS consentono infatti di migliorare  8
+evitando di fatto il prolungato colloquio 
+sono monitorate circa 1.200 utenze di elettricità  l’efficienza e l’efficacia operativa nella gestione  Capitale 
+telefonico con la sala controllo caratteristico  Umano
+della rete elettrica tramite l’integrazione 
+dell’attuale processo di gestione di tali attività.
+automatizzata di tutte le fasi del processo di 
+9
+gestione della rete di distribuzione: dall’analisi  Capitale 
+9.2 Smart Grid di nuove richieste di connessione o nuove  Intellettuale
+urbanizzazioni, alla progettazione di alto livello  A2A 
+Predizione fughe gas
+Col termine generico Smart Grid si intende, nell’ambito del mondo della distribuzione, una gestione intelligente e  ed esecutiva, alla realizzazione di nuove porzioni  per le Smart City
+coordinata delle reti di distribuzione. La smart grid è basata sull’adozione di tecnologie innovative che prevedono  di rete, alla gestione quotidiana della rete (anche  Nel corso del 2018 la BU Reti e il team di  Smart Grid
+la sensorizzazione della rete, la comunicazione in tempo reale tra campo e sala controllo, lo sviluppo di algoritmi  in situazioni di emergenza) e alla produzione  Innovazione di A2A hanno avviato nel comune di  Ricerca e Sviluppo 
+di gestione e controllo ottimizzati per la massimizzazione dell’efficienza energetica del sistema. Nei diversi ambiti  di indicatori che stabiliscano la bontà delle  Concesio una importante sperimentazione volta  per l’Economia 
+Circolare
+(elettrico, gas e calore) queste tecnologie prendono direzioni diverse e specifiche ed originano soluzioni ad hoc.  prestazioni complessive. a migliorare il processo di ricerca delle perdite di 
+Knowledge 
+Nell’ambito della Business Unit Reti e Calore, Unareti è stata partner di diversi progetti di ricerca tra cui il progetto  Nel 2016 Unareti ha bandito una gara europea  gas dalla rete di distribuzione.
+Spillover
+IDE4L (IDEal grid 4 alL), finalizzato allo studio e all’implementazione di soluzioni avanzate per la gestione e  per la selezione di una piattaforma applicativa  La sperimentazione prevede l’impiego di un 
+l’automazione della rete elettrica e co-finanziato dell’Unione Europea all’interno del Settimo Programma Quadro.  ed infrastrutturale, IDMS, a supporto dei processi  algoritmo di machine learning per sviluppare  10
+Il progetto è finalizzato alla definizione delle caratteristiche delle reti di distribuzione “attive”, sulle quali cioè  di gestione della rete elettrica. Tale gara si è  analisi predittive sull’occorrenza spaziale e  Capitale 
+insistono sia utenti passivi, sia utenti attivi (prosumer). A livello di utenza domestica, con rete in bassa tensione,  conclusa con l’assegnazione della fornitura a  temporale delle fughe di gas. Relazionale
+Unareti è stata impegnata inoltre nel progetto di ricerca Smart Domo Grid, finalizzato ad integrare gli utenti  Schneider Electric. La fase di implementazione  La capacità di prevedere con maggiore 
+domestici nel sistema di gestione della distribuzione (DMS). All’interno di questi ampi progetti di ricerca sono stati  dello strumento IDMS è iniziata nel 2017 e vedrà  accuratezza il verificarsi delle perdite dovrebbe  Relazione 
+sviluppati metodi ed applicate tecnologie che sono in parte confluite in una serie di progetti per la smart grid. il primo go-live delle funzionalità di pianificazione  permettere di rilevarle e ripararle più rapidamente,  della Società 
+e di supporto al call center nel marzo 2019,  con effetti positivi sulla sicurezza degli utenti  di Revisione
+integrate con gli altri applicativi IT in uso ad  e sulla riduzione delle emissioni. La previsione 
+GRI 
+Unareti. delle aree in cui le perdite si verificheranno con 
+Content 
+Interventi di miglioramento  consentirà di ridurre rispettivamente la durata  L’utilizzo di IDMS consente di ottenere una  maggiore probabilità dovrebbe inoltre consentire  Index
+sulle cabine secondarie ed il numero delle interruzioni migliorando di  pluralità di vantaggi rispetto agli attuali  di ottimizzare il routing delle squadre di ricerca 
+conseguenza gli indicatori di continuità di servizio; 
+sistemi SCADA, tra cui la possibilità di avere  incrementandone la produttività.
+Unareti ha sviluppato un piano che implementi su larga tali attività garantiranno inoltre la riduzione dei costi 
+scala alcune delle tecnologie studiate nei progetti di ricerca. operativi, ottimizzando l’intervento delle squadre sul 
+Questo include un piano di telecontrollo avanzato  territorio. Il piano sviluppato prevede di aumentare 
+e automazione delle cabine secondarie che  le cabine secondarie telecontrollate dell’area di 
+114 115

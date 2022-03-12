@@ -1,0 +1,40 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+come spostamento parallelo ed uniforme di +100 punti base  A tale ﬁ ne le misurazioni sono esposte tenendo conto dell’ar-
+delle curve. Oltre allo scenario +100 standard, la misura del  ticolazione funzionale alla veriﬁ ca, in termini di plafond e 
+valore economico (EVE) viene calcolata anche sulla base dei 6  sub-plafond, bucket temporali (breve, medio e lungo termi-
+scenari prescritti dal documento BCBS e sulla base di simula- ne), società e divisa. Gli scenari utilizzati per la veriﬁ ca dei 
+zioni storiche di stress volte ad identiﬁ care i worst e best case. limiti sono:
+•  per il controllo dell’esposizione in termini di ΔEVE: shock 
+La shift sensitivity del margine di interesse quantiﬁ ca l’impatto 
+istantaneo e parallelo di +100 bp;
+sul margine d’interesse di breve termine di uno shock paralle-
+lo, istantaneo e permanente della curva dei tassi di interesse.  •  per il controllo dell’esposizione in termini di ΔNII: shock 
+La sensitivity del margine viene misurata con una metodolo- istantaneo e parallelo di +/- 50 bp.
+gia che consente di stimare la variazione attesa del margine 
+d’interesse, a seguito di uno shock delle curve prodotta dalle  Al 31 dicembre il valore della sensitivity, per un movimento 
+poste suscettibili di una revisione del tasso all’interno di un  parallelo verso l’alto di 100 punti base della curva dei tassi, 
+orizzonte temporale (gggaaappppppiiinnnggg   pppeeerrriiioooddd))  ﬁﬁ  ssssaattoo  iinn  1122  mmeessii  aa  ppaarr-- era negativo per -€6 milioni; parimenti anche la sensitivity 
+tire dalla data di analisi. del margine d’interesse, per uno shock di -50 punti base, 
+si attestava in territorio negativo, a -€114,7 milioni.
+Tale misura evidenzia l’effetto delle variazioni dei tassi di mer-
+cato sul margine di interesse prodotto dal portafoglio oggetto  Value at Risk
+di misurazione in un’ottica constant balance sheet, escluden- Il Value at Risk è calcolato come massima perdita potenziale 
+do potenziali effetti derivanti dalla nuova operatività e da fu- del valore di mercato del portafoglio che potrebbe registrarsi 
+turi cambiamenti nel mix delle attività e passività e pertanto  nei dieci giorni lavorativi successivi con un intervallo statistico di 
+non può considerarsi un indicatore previsionale sul livello fu- conﬁ denza del 99% (VaR parametrico). Il VaR viene utilizzato 
+turo del margine di interesse. anche per consolidare l’esposizione ai rischi ﬁ nanziari assunti 
+a seguito delle attività di banking book, tenendo pertanto in 
+Per la determinazione delle variazioni del margine di interesse  considerazione anche i beneﬁ ci prodotti dall’effetto diversiﬁ -
+(ΔNII) si applicano gli scenari standard di shock parallelo dei  cazione. I modelli di calcolo del VaR presentano alcune limita-
+tassi di +/ 50 punti base, avendo a riferimento un orizzon- zioni, essendo basati sull’assunzione statistica di distribuzione 
+te temporale di dodici mesi. Vengono inoltre condotte delle  normale dei rendimenti e sull’osservazione di dati storici che 
+analisi di simulazione dinamica del margine che combinano  potrebbero non essere rispettati in futuro. Per tali motivazioni, 
+spostamenti delle curve dei rendimenti a variazioni dei diffe- i risultati del VaR non garantiscono che eventuali perdite future 
+renziali di base e di liquidità, nonché a mutamenti nel com- non possano eccedere le stime statistiche calcolate.
+portamento della clientela in diversi scenari di mercato.
+Al 31 dicembre 2019 il VaR, calcolato su un orizzonte tempo-
+Le variazioni del margine d’interesse e del valore economico  rale di un giorno, tenuto conto delle componenti tasso, credit 
+sono sottoposte ad un monitoraggio mensile di rispetto dei  spread e volatilità. è risultato pari ad €2,2 milioni, presentan-
+limiti e dei sotto limiti approvati dal Comitato Rischi Finanziari  do una contenuta volatilità pur in presenza di movimentazio-
+di Gruppo (CRFG).  ne del portafoglio per acquisti e vendite in corso d’anno.
+342 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

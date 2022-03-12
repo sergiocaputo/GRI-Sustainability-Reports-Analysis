@@ -1,0 +1,74 @@
+ 
+European tenders in which  Subject  Partner 
+Elettronica participated in 
+2019 
+ADR-EMS-03-2019:  Definition and development  INDRA SISTEMAS, 
+of an integrated system with  (Coordinatore), LEONARDO, 
+Combined radar, 
+Radar, COMM and EW  HENSOLDT, Thales DMS - F, 
+communications, and 
+functions for defence  Fraunhofer-Institut für 
+electronic warfare functions 
+applications in different  Hochfrequenzphysik und 
+based on European Active 
+military sectors and based on  RadartechniK 
+Electronically Scanned 
+AESA Multifunction Radar 
+Arrays for military  FHR, Netherlands Organisation 
+technology. 
+for Applied Scientific Research 
+applications (CROWN) 
+TNO, SAAB, Elettronica, Baltijos 
+Pazangiu Technologiju Institutas, 
+Onera, Totalforsvarets 
+Forskningsinstitut 
+EDIDP-ACC-AEAC-2019:  Definition and development  INDRA SISTEMAS, 
+of an Airborne Modular and  (Coordinatore), ELETTRONICA 
+Airborne Electronic Attack 
+scalable European Electronic  THALES -F, HENSOLDT, SAAB 
+Capability (REACT) 
+Attack system with Stand Off 
+Jamming, Stand In Jamming, 
+Escort Jamming, EW C2, 
+CEMA, Network and Datalink 
+capacities 
+EDIDP-PNTSCC-2019:  Definition and development  FDC (Coordinatore), THALES 
+of a Galileo PRS (Public  AVS, SAFRAN, THALES SIX, 
+Positioning, Navigation and 
+Regulated Service) Dual  OROLIA, FhG IIS, ADS, DIEHL, 
+Timing (PNT) and satellite 
+mode receiver, compatible  SIEMENS, LEONARDO, 
+communication capabilities 
+with GPS/PRS GNSS37  TELESPAZIO, THALES-I, 
+(GEODE) 
+reception equipment for  ELETTRONICA, CY4GATE, 
+military applications in the  ANTWERP-S. GMV, INDRA, 
+air, land, sea and possibly  TECNOBIT 
+space sectors with the aim of 
+achieving full compliance 
+with the European Common 
+Minimum Standards (CMS) 
+EDIDP-ISR-EHAPS-2019:  Definition and development  THALES --- F (Coordinatore), 
+of a System of Systems that  LEONARDO, INDRA SISTEMAS, 
+European High Altitude 
+contemplates the use of  AIRSTAR AEROSPACE, 
+Platform Station (Euro- 
+platforms in the stratosphere  TRONICOALCEN, Commissariat 
+HAPS) solution for Union 
+(HAPS - High Altitude  à l’énergie atomique et aux 
+defence (surveillance of 
+Platform Stations) for the  énergies alternatives (CEA), 
+maritime zones, land borders 
+surveillance of maritime  THALES DEFENSE MISSION 
+or critical assets) (STARS) 
+areas, borders or critical  SYSTEM, THALES ALENIA 
+SPACE ESPAÑA, THALES 
+assets. 
+ALENIA SPACE ITALIA, 
+TELESPAZIO, ELETTRONICA, 
+CIRA, IDS Ingegneria Dei 
+Sistemi, Logic, ALI, Consorzio 
+Hypatia 
+   
+57 
+ 

@@ -1,0 +1,46 @@
+ 
+       
+Statement of profit or loss   
+               
+               
+  Note  2018  of which:  %  2019  of which:  % 
+related  related 
+(€’000)    (*)           
+parties  parties 
+Revenue               
+Revenue from contracts with customers  34  4,864,142  88,665  2%  4,770,634  123,212  3% 
+Other income   34  333,518  6,765  2%  359,328  15,588  4% 
+Total revenue and other income    5,197,660      5,129,962     
+Operating expenses                
+Purchases  35.1  (861,756)     (571,283)    
+Subcontracts  35.2  (1,658,505)  (92)  0% (1,773,965)    
+Services  35.3  (1,346,115)  (208,286) 15% (1,282,093)  (307,471)  24% 
+Personnel expenses  35.4  (774,416)  (3)   (791,210)  (4)  
+Other operating expenses  35.5  (143,603)  (142)   (180,252)  (631)  
+Impairment losses (**)  35.6  (194,519)  (35,938) 18%  (102,423)  (6,514)  6% 
+Amortisation, depreciation and provisions  35.6  (150,651)     (171,937)    
+Total operating expenses     (5,129,565)     (4,873,163)     
+Operating profit     68,095      256,799     
+Financing income (costs) and gains (losses) on equity investments               
+Financial income  36.1  55,754  12,631  23%  69,587  9,023  13% 
+Financial expense  36.2  (141,918)  (8,225)  6%  (147,061)  (10,523)  7% 
+Net exchange gains   36.3  13,306     4,288    
+Net financing costs    (72,858)     (73,186)    
+Net losses on equity investments  37  (29,450)     (127,704)    
+Net financing costs and net losses on equity investments    (102,308)      (200,890)     
+Profit (loss) before tax    (34,213)      55,909     
+Income taxes   38  (39,274)     (69,160)    
+Loss from continuing operations    (73,487)      (13,251)     
+Profit (loss) from discontinued operations  21  114,802     (894)    
+Profit (loss) for the year     41,315      (14,145)     
+               
+Profit (loss) for the year attributable to:               
+Owners of the parent    54,197     (22,128)    
+Non-controlling interests    (12,882)     7,983    
+               
+               
+(*) Figures not fully comparable due to IFRS 16 FTA. More information is available in note 2.   
+(**) Starting from 2019, the Group has decided to present “Impairment losses” separately in the statement of profit or loss for their 
+better presentation. Therefore, the 2018 comparative figure has been restated accordingly.  
+ 
+220 

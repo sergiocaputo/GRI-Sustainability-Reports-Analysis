@@ -1,0 +1,65 @@
+10. Glossario
+Forward Home Banking
+Contratti a termine su tassi di interesse, cambi o indici azionari,  Servizio bancario orientato alla clientela privata mediante il 
+generalmente trattati su mercati Over The Counter, nei quali le  quale l’utente privato, tramite computer, può effettuare da 
+condizioni vengono ﬁ ssate al momento della stipula, ma la cui  casa operazioni quali ordini di pagamento, richieste assegni, 
+esecuzione avverrà ad una data futura predeterminata, median- pagamento di utenze, e può ricevere informazioni relative alla 
+te la ricezione o il pagamento di differenziali calcolati con riferi- situazione del proprio rapporto con l’istituto di credito.
+mento a parametri diversi a seconda dell’oggetto del contratto. 
+IAS/IFRS
+FTSE MIB Principi  contabili  internazionali  (International  Accounting 
+È il principale indice di benchmark dei mercati azionari italiani.  Standards)  emanati  dallo  IASB  (International  Accounting 
+Questo indice misura la performance dei 40 titoli italiani a  Standards Board) adottati dai Paesi dell’Unione Europea a 
+maggiore capitalizzazione e ha l’intento di riprodurre le pon- partire dal 2005 per le società quotate in borsa.
+derazioni del settore allargato del mercato azionario italiano. 
+L’indice FTSE MIB è ponderato in base alla capitalizzazione di  Impairment
+mercato dopo aver corretto i componenti in base al ﬂ ottante. Con riferimento ad un’attività, si individua una situazione di 
+impairment quando il suo valore di bilancio è superiore alla 
+Funding stima dell’ammontare recuperabile della stessa. 
+Approvvigionamento, sotto varie forme, dei fondi necessari 
+al ﬁ nanziamento dell’attività aziendale o di particolari opera- In the money
+zioni ﬁ nanziarie. Locuzione inglese che si riferisce ai contratti di opzione. Una 
+opzione call è in the money se il prezzo di mercato è superiore 
+Fusione allo strike, un’opzione put è in the money se il prezzo è infe-
+Operazione di concentrazione con la quale a più soggetti giu- riore allo strike.
+ridici se ne sostituisce uno solo.
+Inadempienze probabili
+Futures Esposizioni creditizie, diverse dalle sofferenze, per le quali la 
+Contratti a termine standardizzati, con cui le parti si impe- banca giudichi improbabile che, senza il ricorso ad azioni quali 
+gnano a scambiarsi, a un prezzo predeﬁ nito e ad una data  l’escussione delle garanzie, il debitore adempia integralmente 
+futura, valori mobiliari o merci. Tali contratti di norma sono  (in linea capitale e/o interessi) alle sue obbligazioni creditizie.
+negoziati su mercati organizzati, dove viene garantita la loro 
+esecuzione. Nella pratica, i futures su valori mobiliari spesso  Incurred loss
+non implicano lo scambio ﬁ sico del sottostante valore. Perdita già insita nel portafoglio ma non ancora identiﬁ cabile a 
+livello di singolo credito, deﬁ nita anche “incurred but not repor-
+Global Reporting Initiative (GRI) ted loss”. Rappresenta il livello di rischio insito in un portafoglio 
+Associazione internazionale indipendente che mira a diffon- di crediti in bonis e costituisce l’indicatore di base per il dimensio-
+dere e sviluppare le linee guida per un corretto rendiconto dei  namento dello stock di rettiﬁ che forfettarie appostato in bilancio.
+tre elementi della sostenibilità: economia, ambiente e società.
+Inﬂ azione
+Goodwill Fenomeno per cui le variazioni del livello dei prezzi modiﬁ cano 
+Identiﬁ ca l’avviamento pagato per l’acquisizione di una quota  il potere di acquisto delle attività espresse in termini nominali. 
+partecipativa, pari alla differenza tra il costo e la corrispon- Statisticamente viene misurata da un indice che fa riferimento 
+dente quota di patrimonio netto, per la parte non attribuibile  ad un paniere di beni predeﬁ niti.
+ad elementi dell’attivo della società acquisita.
+Insolvenza
+Hang Seng Stato in cui si trova il debitore che non è più in grado di sod-
+Indice della Borsa di Hong Kong. disfare regolarmente le proprie obbligazioni.
+Hedge accounting Institute of International Finance (IIF)
+Regole relative alla contabilizzazione delle operazioni di co- L’IIF è la maggiore associazione a livello mondiale di istituzioni 
+pertura. ﬁ nanziarie. Creata nel 1983 in risposta alle crisi del debito in-
+ternazionali, si è evoluta seguendo le necessità della comunità 
+Hedge fund ﬁ nanziaria, con funzioni di supporto e gestione del rischio, 
+Fondo comune di investimento che impiega strumenti di  sviluppando standard e best practice in un’ottica di stabilità 
+copertura allo scopo di raggiungere un risultato migliore in  ﬁ nanziaria globale.
+termini di rapporto tra rischio e rendimento. Non ha vincoli 
+in materia di obiettivi e strumenti di investimento e può assu- Interesse
+mere posizioni ﬁ nanziandosi anche con forti indebitamenti. Remunerazione del capitale preso a prestito.
+Hedging Interesse composto
+Operazioni di copertura dal rischio di oscillazioni indesiderate  Percentuale sul capitale che si forma quando gli interessi ma-
+nei cambi, titoli, tassi di interesse, merci, ecc.. turati sono aggiunti al capitale e producono a loro volta degli 
+interessi.
+Holding
+Società ﬁ nanziaria che detiene partecipazioni in più società ed  Interest Rate Swap (IRS)
+esercita pertanto un controllo su di esse. Contratto che prevede lo scambio di ﬂ ussi tra le controparti su 
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 423

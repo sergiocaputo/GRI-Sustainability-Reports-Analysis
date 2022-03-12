@@ -1,0 +1,45 @@
+•  a high aesthetic standard of the basic drop-off points for municipal waste collection. 
+After the first indoor prototype in made 2016, the outdoor prototype was built in 2017, consisting of a 
+technological  totem  and  two  waste  containers.  Subsequently  the  drop-off  point  was  optimized  and 
+integrated with another container to collect paper and cartons, plastic and cans and glass.  
+In October 2018 an experiment was started in the Municipality of Castel Bolognese in which about fifty 
+families were involved to give their separate waste to the island. The experimentation will about six months 
+to test the prototype and validate the technological choices and construction details. Wi-Fi and air quality 
+monitoring service have been activated at the drop-off point, while the video surveillance service of the 
+area is being set up in collaboration with the Municipal Police, the only subject responsible for the control 
+of the area. 
+To increase the supply of smart services, during 2018, a smart drop-off point was designed consisting of a 
+canopy to accommodate electric bicycles and group other services such as video surveillance, Wi-Fi, electric 
+charging for tri-ride, monitoring of air quality and noise levels of the area, the production of renewable 
+energy through a photovoltaic roofing and the parcel storage. This smart drop-off point was built and 
+installed in October during the inauguration of the Cesena University Campus to start the prototype testing 
+period. 
+At  the  end  of  the  trials,  the  prototypes  will  be  transformed  into  industrial  products  and  these 
+infrastructures will be extended to other areas. 
+Smart city: Environmental sensors 
+The project aims to develop a network for monitoring the main parameters of air quality in the city through 
+the use of (cid:862)low cost(cid:863) equipment capable of providing indications with hourly rather than daily frequency. 
+In November 2017 6 units were installed in the town of Castel Bolognese, while in 2018 a continuous 
+monitoring and processing of environmental parameters was carried out, highlighting the key role of rain in 
+reducing  pollutants.  Chemical  analyses  carried  out  on  particulate  matter  (PM )  have  revealed  the 
+2.5
+presence of compounds from the combustion of biomass, a quantity prevalent in the winter months.  
+The data collected are still being processed in order to better understand the contribution of each source 
+(residential, traffic) to the air pollution found. In addition, in 2018, in collaboration with the CNR-Ibimet 
+institute, acoustic sensors were developed to detect noise in urban areas. In the area of Castel Bolognese 6 
+of  these  units  have  been  installed,  located  according  to  the  acoustic  classification of  the  area. The 
+acquisitions and their processing are still ongoing.  
+Smart city: Dashboards for municipalities 
+The dashboard for municipalities is a tool to analyse and monitor the city. It provides an integrated view of 
+the processing and correlation of data (Big Data) from various services and sensors installed within the 
+municipal areas. 
+The objectives that are monitored come from the SDGs of the 2030 UN Agenda and the Bologna Charter 
+Protocol for the Environment. 
+Through  this  tool, Municipal  Administrations  are  equipped  with  a  computer  system  that  allows  the 
+constant and real-time monitoring of environmental data. This analysis process is useful to assess the 
+environmental and qualitative state of the area and consequently to implement improvement and change 
+processes. 
+In 2018 the dashboard was released to the Municipality of Castel Bolognese including the following 
+services: environmental sensors, totems and smart waste, energy maps, environmental passport. 
+110 
+ 

@@ -1,0 +1,54 @@
+LE PERFORMANCE DI SOSTENIBILITÀ  
+AMBIENTALE – AREA IDRICA
+Principali indicatori di performance ambientale (Key Performance Indicators).
+INDICATORE u. m. 2017 2018 2019
+carbon footprint 
+SERVIZIO IDRICO
+totale CO2/m3 di acqua erogata (servizio idrico integrato)(*) kgCO2/m3 0,45 0,44 0,49
+CO2/m3 di acqua erogata (processo distribuzione idrica) kgCO2/m3 0,28 0,27 0,30
+CO2/m3 di acqua trattata (processo depurazione) kgCO2/m3 0,12 0,12 0,12
+PRODOTTO: ACQUA POTABILE
+rete di Acea Ato 2 
+consumo specifico di energia elettrica per immesso in rete idrica 
+kWh/m3 0,269 0,249 0,259
+(consumo energia rete di Acea Ato 2) / (57)
+intensità dei controlli su acqua potabile distribuita (94) / (57) n./Mm3 423 516 530
+indice di additivazione acqua potabile
+g/m3 3,6 3,2 3,9
+(135 - rete di Acea Ato 2) / (57)
+rete di Acea Ato 5 
+consumo specifico di energia elettrica per immesso in rete idrica 
+kWh/m3 0,603 0,476 0,493
+(consumo energia rete di Acea Ato 5) / immesso (65)
+intensità dei controlli su acqua potabile distribuita (96) / (65) n./Mm3 907 925 1.016
+indice di additivazione acqua potabile
+g/m3 2,3 2,5 2,3
+(133 - rete di Acea Ato 5) / (65)
+rete di Gori
+consumo specifico di energia elettrica per immesso in rete idrica 
+kWh/m3 0,353 0,397 0,667
+(consumo energia rete di Gori) / immesso (78)
+intensità dei controlli su acqua potabile distribuita (100) / (78) n./Mm3 501 489 579
+indice di additivazione acqua potabile
+g/m3 1,0 0,8 1,1
+(133 - rete di Gori) / (78)
+rete di Gesesa
+consumo specifico di energia elettrica per immesso in rete idrica 
+kWh/m3 0,614 0,639 0,559
+(consumo energia) / (72)
+intensità dei controlli su acqua potabile distribuita (100) / (72) n./Mm3 407 377 478
+indice di additivazione acqua potabile (133 rete Gesesa)/ (72) g/m3 3,9 6,0 3,6
+SERVIZIO: DEPURAZIONE ACQUE REFLUE 
+Acea Ato 2
+fanghi smaltiti (188) t 107.205 64.716  70.432
+fanghi liquidi smaltiti verso terzi t - 71.666 34.550
+sabbia e grigliati rimossi (192) t 16.733 6.340 7.788
+COD ingresso  t 203.889 221.357 207.914
+COD rimosso  t 181.639 205.125 188.327
+efficienza di rimozione COD  % 89 93 91
+SST ingresso t 137.117 135.698 134.685
+SST rimosso t 127.695 126.330 124.417 
+efficienza di rimozione SST  % 93 93 92
+efficienza di rimozione BOD % 89 89 88
+totale N ingresso (come NH4+NO2+NO3+organico) t 18.871 20.276 18.433 
+258 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

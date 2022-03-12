@@ -1,0 +1,40 @@
+Bilancio Consolidato 2017
+(cid:3)
+Valore 
+Data  Valore 
+Rating   residuo a 
+Titolo  Classe  Piazza Quotazione  Tasso/Spread  rimborso  nominale  Sottoscrittore 
+Moody’s/Fitch  fine 
+finale  emesso 
+esercizio 
+A1  Senior  Borsa Irlandese  Euribor3M/1,00  Aa2/AA+  31/12/2060  431.100  164.619  Banca Popolare di Bari 
+A2  Senior  Borsa Irlandese  Euribor3M/1,00  Aa2/AA+  31/12/2060  121.600  45.611  Cassa di Risparmio di Orvieto 
+B1  Junior  n.q.  Euribor3M/1,50  31/12/2060  132.400  132.400  Banca Popolare di Bari 
+ 
+B2  Junior  n.q.  Euribor3M/1,50  31/12/2060  37.300  37.300  Cassa di Risparmio di Orvieto 
+ 
+Totale  722.400  379.930 
+           
+(importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+(cid:3) (cid:3)
+(cid:3)
+Al ﬁne di coprirsi dal rischio tasso, la Società Veicolo ha stipulato con JPMorgan appositi contratti derivati (front 
+swap). Identiche strutture ﬁnanziarie sono state poi replicate tra JPMorgan e la Banca Popolare di Bari (back to back 
+swap).
+Banca Popolare di Bari: Popolare Bari Mortgages Srl
+Nel mese di giugno 2017 la Banca, nell’ottica di migliorare la posizione di liquidità e di ridurre i costi di gestione, ha 
+proceduto alla chiusura anticipata dell’operazione di cartolarizzazione in esame. Per effetto dell’unwinding, i crediti 
+relativi all’operazione sono tornati nella titolarità giuridica della Banca Popolare di Bari e nel mese di dicembre si è 
+proceduto con la messa in liquidazione del veicolo.
+Operazioni di TLTRO (Targeted Long-term reﬁnancing operations)
+Il Gruppo al ﬁne di consolidare la propria posizione di liquidità, rafforzare il proprio equilibrio strutturale e ridurre il 
+costo di ﬁnanziamento ha rimborsato anticipatamente nel 2016 tutte le operazioni di TLTRO I per complessivi 809 
+milioni di Euro ed ha partecipato per le seguenti Aste di TLTRO II, tuttora in essere:
+-   Asta giugno 2016 810 milioni di euro scadenza contrattuale 24/06/2020 tasso base 0,00%;
+-   Asta settembre 2016 150 milioni di euro scadenza contrattuale 30/09/2020 tasso base 0,00%;
+-   Asta marzo 2017 950 milioni di euro scadenza contrattuale 24/03/2021 tasso base 0,00%.
+Dette operazioni, ﬁnalizzate alla concessione di nuovi prestiti e ﬁnanziamenti al ﬁne di sostenere sempre più la 
+strategia di sviluppo e supporto all’economia reale, presentano un tasso di ﬁnanziamento base pari allo 0%, ridotto 
+al -0.40% in caso di incremento dei ﬁnanziamenti a gennaio 2018 superiore al 2,5% rispetto ad un determinato ben-
+chmark.
+561

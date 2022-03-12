@@ -1,0 +1,42 @@
+calcolo 7
+Energia elettrica prodotta (kWh)
+rendimento elettrico = 
+Energia interna CSS (kWh)+Energia interna metano (kWh) 
+dove:
+Energia elettrica prodotta = energia elettrica prodotta a San Vittore del Lazio = (15)
+CH (Sm3) x PCI (kcal/ Sm3)
+Energia interna metano = 4  m 
+860 (kcal/kWh)
+PCI = PCI metano 
+m
+860 = coefficiente di conversione dell’energia da kcal a kWh
+CSS (kg) x PCI (kcal/kg) 
+Energia interna CSS (kWh) =  css 
+860 (kcal/kWh)
+PCI  = potere calorifico inferiore medio del CSS
+css
+860 = coefficiente di conversione dell’energia da kcal a kWh
+calcolo 8
+Energia elettrica lorda prodotta (kWh)
+rendimento recupero (kWh/kg) =
+pulper (kg)
+Energia elettrica lorda prodotta (kWh) = energia elettrica prodotta a Terni = (16)
+calcolo 9
+Energia elettrica prodotta (kWh)
+rendimento =
+Energia interna pulper (kWh)+energia interna metano (kWh)
+dove:
+Energia elettrica prodotta = Energia elettrica prodotta a Terni = (16)
+CH (Sm3) x PCI (kcal/ Sm3)
+Energia interna metano (kWh) = 4  m 
+860 (kcal/kWh)
+PCI = PCI metano 
+m
+860 = coefficiente di conversione dell’energia da kcal a kWh
+pulper (kg) x PCI (kcal/kg)
+Energia interna pulper (kWh) = p 
+860 (kcal/kWh)
+PCI= PCI pulper = potere calorifico inferiore medio del pulper 
+p
+860 = coefficiente di conversione dell’energia da kcal a kWh
+BILANCIO AMBIENTALE 263

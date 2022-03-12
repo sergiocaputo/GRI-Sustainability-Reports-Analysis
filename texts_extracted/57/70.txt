@@ -1,0 +1,25 @@
+Relazione sulla gestione
+Avvio del progetto di evoluzione DB Commerciale: è stato completato lo studio di fattibilità e l’analisi preliminare per 
+la realizzazione del nuovo modello di Database CRM che amplia il contenuto informativo e adotta un nuovo modello 
+dei dati a supporto delle nuove esigenze commerciali assorbendone internamente la gestione afﬁdata a partner 
+terzo. Il progetto sarà realizzato nel corso del 2018.
+Infrastruttura tecnologica e della sicurezza
+Nell’ambito della gestione dell’infrastruttura tecnologica sono stati effettuati, oltre alle attività di sviluppo hardware 
+e software a supporto delle soluzioni applicative e dei servizi implementati da strutture interne o terze parti, anche 
+i seguenti progetti evolutivi:
+Progetto FEA: eseguito il roll-out su tutte le ﬁliali BPB e CRO di nuovi apparati multifunzione per l’attivazione dei 
+processi previsti dall’adozione della ﬁrma elettronica avanzata.
+Evoluzione Sicurezza Rete Dati: aggiornamento tecnologico degli apparati di accesso e difesa perimetrale (nuovi 
+Firewall) e di resilienza dell’accesso in mobilità (nuovo concentratore VPN).
+Potenziamento della Resilienza Rete Dati: è stato attivato un progetto speciale con Fastweb e TIM, con l’obiettivo di 
+diminuire in modo signiﬁcativo i rischi di disservizi sulla rete, sia sul dorsale che sulle singole ﬁliali.
+Diffusione del “modello di organizzazione e gestione” ai ﬁni della prevenzione dei reati di cui al D.Lgs. 
+231/2001
+Con riferimento alla normativa in oggetto, la Banca ha dato piena diffusione all’interno dell’Azienda del “Modello 
+Organizzativo di Gestione e Controllo” ai sensi del D.Lgs.231/2001, continuando a fornire forte impulso alle attività 
+di formazione del personale, sia a distanza che in aula. 
+La tenuta del Sistema dei Controlli Interni e l’adeguatezza dello stesso ad assolvere le prescrizioni del D.Lgs. 
+231/2001 sono costantemente monitorate dalle strutture competenti. 
+Particolare attenzione pone la Banca inoltre nella continua revisione del Modello e degli strumenti di supporto utili 
+ad efﬁcientare il monitoraggio e gli interventi di controllo da parte delle funzioni aziendali interessate. 
+70

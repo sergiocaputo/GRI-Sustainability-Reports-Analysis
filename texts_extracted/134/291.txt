@@ -1,0 +1,40 @@
+ 
+ 
+31  Increases  Decreases  Net  Change in  Change in Reclassific.- Other  31 
+December  exchange  consolidation  tax rate  ations  changes  December 
+(€’000)  2018  losses  scope  2019 
+Deferred tax assets                   
+Amortisation and depreciation  6,706  1,136  (1)  -  -  -  (332)  (837)  6,672 
+exceeding tax rates 
+Provisions for risks and impairment  141,473  19,851  (4,341)  -  -  -  -  (533)  156,450 
+losses 
+Tax effect of capital increase  -  -  (443)  -  -  -  -  2,216  1,773 
+Fisia Hiatus transaction  1,251  -  (1,251)  -  -  -  -  -  - 
+Excess maintenance  15,822  4,595  (6,338)  -  -  -  -  1,441  15,520 
+Unrealised exchange losses  26,568  42,352  (27,150)  (6)  -  -  -  (13)  41,751 
+Other  41,699  36,250  (6,789)  (37)  5,740  -  17,953  4,091  98,907 
+Deferred tax assets before  233,519  104,184  (46,313)  (43)  5,740    17,621  6,365  321,073 
+offsetting 
+Offsetting  (28,133)  (3,132)  -  70  -  -  (21,012)  (15,413)  (67,620) 
+Net deferred tax assets  205,386  101,052  (46,313)  27  5,740    (3,391)  (9,048)  253,453 
+                   
+Deferred tax liabilities                   
+Fiscally-driven amortisation and  (16,030)  (1,392)  -  (295)  -  -  (165)  -  (17,882) 
+depreciation 
+Uncollected default interest  (5,249)  -  -   -  -  (961)  -  (6,210) 
+Contract revenue or revenue items  4,051  (51)  239  72  (379)  -  -  384  4,316 
+Contract revenue taxable in future  (3,877)  (118)  1,683  (3)  -  -  -  (44)  (2,359) 
+years 
+Unrealised exchange gains  (20,051)  (35,822)  20,148  -  -  -  -  (97)  (35,822) 
+Other  1,649  (3,675)  587  (30)  1,070  -  (16,495)  (168)  (17,062) 
+Deferred tax liabilities before  (39,507)  (41,058)  22,657  (256)  691    (17,621)  75  (75,019) 
+offsetting 
+Offsetting  28,133  3,132    (70)      21,012  15,413  67,620 
+Net deferred tax liabilities  (11,374)  (37,926)  22,657  (326)  691    3,391  15,488  (7,399) 
+The €48.1 million increase in deferred tax assets is mainly due to impairment losses recognised during the year. 
+“Other” mostly comprises the deferred taxes that arose upon application of the new standards. 
+ 
+ 
+ 
+ 
+   292 

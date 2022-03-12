@@ -1,0 +1,42 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+le relative procedure siano rispettate nel concreto da parte delle 
+unità operative: l’adeguatezza è valutata identificando criticità e 
+collaborando con le strutture preposte per l’individuazione delle 
+azioni correttive. Inoltre, il Risk Management effettua una verifica 
+indipendente delle evidenze rappresentate dalle strutture di primo 
+livello in termini di tempo di gestione ed importi recuperati.
+2.3 Metodi di misurazione delle perdite attese
+ 
+Il principio contabile IFRS 9 stabilisce un nuovo modello di “Expected 
+Credit Loss” (ECL) che si applica alle attività finanziarie valutate al costo 
+ammortizzato, agli investimenti di debito valutati al fair value trough other 
+comprehensive income ed ai contratti che prevedono impegni a finanziare o 
+garanzie.
+In base al modello delle perdite attese dell’IFRS 9 non è necessario che si 
+verifichi l’evento che provoca la perdita sui crediti (c.d. impairment trigger) 
+per rilevare la perdita. La banca rileva sempre la perdita attesa su un 
+orizzonte temporale di 12 mesi, mentre le perdite attese sulla vita residua 
+del credito sono calcolate per quegli asset in cui si rileva un significativo 
+incremento nel rischio di credito dopo la rilevazione iniziale.
+Per quanto concerne i crediti, la nuova metodologia di calcolo della ECL 
+sostituisce il calcolo della perdita attesa così come definito dallo IAS 39 per 
+l’intero portafoglio performing, mentre per i titoli governativi e corporate 
+viene introdotta ex novo.
+I parametri di rischio utilizzati per il calcolo dell’ECL sono: PD (Probability of 
+default), LGD (Loss Given Default) ed EAD (Exposure at default).
+Il nuovo principio contabile introduce un modello di classificazione delle 
+attività finanziarie suddiviso in tre differenti stage e prevede il riconoscimento 
+di un ammontare di perdita attesa differente in relazione al deterioramento 
+della qualità del credito degli strumenti finanziari. 
+Di seguito sono riportati i tre stage indicati dal principio contabile.
+  Stage 1: esposizioni che non hanno subito, rispetto al momento 
+dell’erogazione o dell’acquisto, un significativo deterioramento nella 
+qualità del credito o che sono caratterizzate alla data di reporting 
+da un rischio di credito trascurabile. Per le attività appartenenti a tale 
+segmentazione, si misura la perdita attesa entro un arco temporale di 
+dodici mesi (Expected Credit Loss ad un anno).
+  Stage 2: esposizioni “performing” la cui qualità del credito originaria 
+è peggiorata in modo significativo e il cui rischio creditizio risulta non 
+trascurabile, pur non essendo ancora classificabili come deteriorate. 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 603

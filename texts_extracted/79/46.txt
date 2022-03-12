@@ -1,0 +1,27 @@
+Assunti Donne Uomini
+< 30 anni 15 3 12
+30 < 50 anni 14 3 11
+> 50 anni 6 2 4
+totale 35 8 27
+Cessati Donne Uomini
+< 30 anni 4 2 2
+30 < 50 anni 15 3 12
+> 50 anni 4 3 1
+totale 23 8 15
+Complessivo Donne Uomini
+< 30 anni 12% 3,1% 8,8%
+30 < 50 anni 18,4% 3,8% 14,6%
+> 50 anni 6,3% 3,1% 3,1%
+totale 36,8% 10,1% 26,6%
+Italchimica è un’azienda giovane e dinamica (con una media di età 
+di 37 anni), attenta a restare al passo con l’andamento del mercato.
+I dipendenti sotto i 30 anni in azienda rappresentano la maggioranza 
+della forza lavoro, coprendo il 43% del totale.
+Il tasso di turnover nel 2019 è pari al 37%. Il dato si discosta significativamente dalla media degli anni precedenti. Tale incre-
+mento si spiega con due fenomeni che si sono verificati nel 2019: l’implementazione di una nuova versione del gestionale 
+aziendale che ha impattato significativamente sul personale aziendale, mettendo alla prova le capacità individuali di adat-
+tamento al cambiamento; il fisiologico avvicendamento che avviene dopo alcuni anni di lavoro nella stessa azienda e nella 
+stessa mansione. A conferma di tale fenomeno, nel 2015 i dati mostrano una crescita della popolazione aziendale del 85%, 
+determinando l’ingresso di numerose giovani risorse, all’inizio della loro carriera, che dopo 4 anni sono state fisiologicamen-
+te propense a cercare nuove occupazioni.
+47

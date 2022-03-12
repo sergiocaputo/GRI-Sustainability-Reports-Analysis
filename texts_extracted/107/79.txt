@@ -1,0 +1,32 @@
+5.2 ENERGY CONSUMPTION 
+In the table, the types of fuel used by PSC, as well as energy consumption, are detailed.
+Sole 
+Prima Components PSMM Eldoprima TWICE PS
+Components
+Types of fuel used Unit 
+from non-renewable of mea Natural gas Fuel oil LPG Natural gas Natural gas Natural gas Natural gas Fuel oil LPG
+sources sure
+ment 
+Total consumption of
+fuel (separated for
+typology) from  GJ 68815,4 251,1 757,8 146013,0 18425,9 3849,1 12849,7 1761,5 414,3
+non-renewable sources 
+Total electric consumption GJ 133132,5 152864,2 106754,9 51195,6 140384,2
+Heat - steam GJ - - - - 12468,7
+Heat – warm water GJ - - - - 7330,9
+Total electric 
+consumption within GJ 202956,9 298877,3 125180,8 55044,7 175209,5
+the organization
+Source of emission factors used:
+Natural gas   • Emission factors and LHV (PCI): Ecoinvent 3.3 “Heat, district or industrial, natural gas {Europe without Switzerland} | heat production, natural gas, at 
+                                 industrial low-NOx furnace> 100kw Alloc Rec. U “
+    • Density: GESTIS Substance Database Information system on hazardous substances of the German Social Accident Insurance (IFA, www.dguv.de) 
+Fuel oil     • Emission factors and LHV (PCI): Ecoinvent 3.3 “Heat, central or small-scale, other than natural gas (without Europe), heat production, light fuel oil, at    
+                                 100kW, non-modulating boiler | Alloc Rec, U “
+    • Density: GESTIS Substance Database Information system on hazardous substances of the German Social Accident Insurance (IFA, www.dguv.de) 
+LPG    • Emission factors: ISPRA, national inventory emission factors (http://.sinanet.isprambiente.it/it/sia-ispra/serie-storiche-emissioni)
+    • Density and LHV (PCI): ENEA, Experimentation of an integrated fuel processor / polymer electrolyte fuel cell system powered by LPG for stationary power generation.
+Standards, methodologies, hypotheses and / or calculation tools used 
+    • for fuels: invoices 
+                              • for electricity: invoices
+PAGE 80

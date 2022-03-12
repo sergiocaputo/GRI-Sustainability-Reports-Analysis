@@ -1,0 +1,56 @@
+Alperia Sustainability Report 2019 
+Figure 6: Net energy output broken down by primary energy source1 {GRI EU2} 
+                   
+% of total 
+Unit   2019  2018  2017  2016  YtY variation 
+     energy output 
+Total net electric energy produced  Gwh  4.373     4256  3712  4043  3% 
+Thereof  Hydro  Gwh  4.044  88%  3.961  3.344  3.681  2% 
+   Photovoltaic  Gwh  22  0%  21  24  22  5% 
+   Cogeneration (gas/gasoline)  Gwh  47  1%  53  66  66  –11% 
+   Biofuel  Gwh  260  6%  221  278  274  18% 
+Total net energy produced for heating 2  Gwh  217  5%  199  195  182  9% 
+Total net energy output  Gwh  4590    4455   3907  4225  3% 
+ 
+1Net energy output includes energy produced in our consolidated plants (34 hydroelectric plants, 5 heating plants, 3 photovoltaic 
+parks, 7 photovoltaic plants, 1 biofuel plant) at 100% 
+2 Includes thermal energy produced by biomass, gas, gasoline and energy acquired from waste plant. Heat acquired from waste plant 
+accounts for approximately ¼ of produced thermal energy. 
+ 
+ 
+Net energy produced from renewable sources   Unit   2019  2018  2017 
+  Gwh  4326  4203  3977 
+  %  94%  94%  94% 
+ 
+ 
+ 
+Figure 7: Quantity of products provided {GRI 102-7} 
+             
+   Unit  2019  2018  2017  2016  YtY-Variation 
+Electricity sold to end-customers  Gwh  5423  3994  3212  3460  36% 
+Trading  Gwh  4788  1907  2310  5226  151% 
+Thermal energy sold to end-customers  Gwh  217  199  195  182  9% 
+Natural gas sold to end-customers  MSmc  464  367  328  371  19% 
+ 
+           
+ 
+A secure distribution grid {GRI EU4; GRI EU28; GRI EU29} 
+ 
+Alperia manages a large part of the electricity grid in South Tyrol through its subsidiary Edyna and a 113 km 
+natural gas distribution network in four municipalities. Specifically:  
+ 
+-  8.736 km of electricity distribution lines, of which 71% is underground 
+-  181 additional km of underground lines 
+-  96 municipalities supplied out of a total of 116 municipalities in South Tyrol 
+-  2,6 TWh electricity distributed in South Tyrol 
+-  233.335 customers connected to Alperia’s electricity grid 
+-  5.169 km low-voltage lines (+1%) 
+-  3.315 km medium-voltage lines  
+-  252 km high-voltage lines  
+-  37 primary AT/MT substations  
+-  4.121 secondary MV/LV substations  
+-  46 MV switching substations  
+Edyna is replacing old meters with new generation Smart Meters, which are able to measure consumption in 
+greater  detail  and  communicate  with  other  devices.  This  represents  a  new  frontier  in  Smart  Home 
+development. The new meters will allow customers to keep their energy use under control by viewing their 
+  50 

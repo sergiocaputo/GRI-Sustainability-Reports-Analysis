@@ -1,0 +1,83 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+le), il locatario riconosce sia la passività sia l’attività consisten- Con riferimento all’attività consistente nel diritto d’uso conta-
+te nel diritto di utilizzo. In particolare il diritto d’uso acquisito  bilizzata in base all’IFRS16, essa viene misurata utilizzando il 
+con il leasing è rilevato come somma del valore attuale dei  modello del costo secondo lo IAS16; in questo caso l’attività 
+canoni futuri da pagare per la durata contrattuale, dei paga- è successivamente ammortizzata e soggetta a un impairment 
+menti per leasing corrisposti alla data o prima della decorren- test nel caso emergano degli indicatori di impairment.
+za del leasing, degli eventuali incentivi ricevuti, dei costi diretti 
+iniziali e degli eventuali costi stimati per lo smantellamento o  Un’immobilizzazione materiale è eliminata dallo stato patri-
+il ripristino dell’attività sottostante il leasing. moniale al momento della dismissione o quando il bene è per-
+manentemente ritirato dall’uso e dalla sua dismissione non 
+Successivamente alla rilevazione iniziale, le attività materiali  sono attesi beneﬁ ci economici futuri. 
+sono valutate al costo, dedotti gli ammortamenti e le even-
+tuali perdite di valore ad eccezione degli immobili ad uso fun- SEZIONE 7 - ATTIVITÀ IMMATERIALI 
+zionale e del patrimonio artistico di pregio che sono valutati 
+Le attività immateriali sono attività non monetarie, identiﬁ ca-
+secondo il metodo della rideterminazione del valore.
+bili e prive di consistenza ﬁ sica, che trovano origine in diritti 
+legali o contrattuali. Esse comprendono il software sviluppato 
+Per le attività materiali soggette alla valutazione secondo il 
+internamente o acquisito da terzi, l’avviamento e le attività 
+metodo della rideterminazione del valore:
+intangibili legate alla clientela rilevate in bilancio in seguito ad 
+•  se il valore contabile del bene è incrementato a seguito di  operazioni di aggregazione aziendale. 
+una rideterminazione di valore, l’incremento deve essere 
+rilevato nel prospetto della redditività complessiva e accu- Le attività immateriali sono iscritte al costo, rettiﬁ cato per 
+mulato nel patrimonio netto tra le riserve da valutazione;  eventuali oneri accessori solo se è probabile che i futuri be-
+invece nel caso in cui venga ripristinata una svalutazione  neﬁ ci economici attribuibili all’attività si realizzino e se il costo 
+della stessa attività rilevata precedentemente nel conto eco- dell’attività stessa può essere determinato attendibilmente. 
+nomico si deve rilevare un provento; In caso contrario il costo dell’attività immateriale è rilevato a 
+conto economico nell’esercizio in cui è stato sostenuto. Per le 
+•  se il valore contabile di un bene è diminuito a seguito della 
+attività a vita utile deﬁ nita, il costo è ammortizzato in quote 
+rideterminazione di valore, la diminuzione deve essere rile-
+costanti determinate in funzione dell’afﬂ usso dei beneﬁ ci eco-
+vata nel prospetto della redditività complessiva come ecce-
+nomici attesi dall’attività. Le attività a vita utile indeﬁ nita non 
+denza di rivalutazione nella misura in cui vi siano eventuali 
+sono invece soggette ad ammortamento sistematico, bensì 
+saldi a credito nella riserva da valutazione in riferimento a 
+ad un test periodico di veriﬁ ca dell’adeguatezza del relativo 
+tale attività; altrimenti tale riduzione va contabilizzata nel 
+valore di iscrizione in bilancio. Se esiste qualche indicazione 
+conto economico.
+che dimostri che un’attività possa avere subìto una perdita di 
+valore, si procede alla stima del valore di recupero dell’attività. 
+Il valore ammortizzabile è ripartito sistematicamente lungo la 
+L’ammontare della perdita, rilevato a conto economico, è pari 
+vita utile, adottando come criterio di ammortamento il meto- alla differenza tra il valore contabile dell’attività ed il valore 
+do a quote costanti, ad eccezione: recuperabile.
+•  dei terreni, che hanno vita utile indeﬁ nita e quindi non sono 
+In particolare tra le attività immateriali sono incluse:
+ammortizzabili. Si precisa inoltre che il valore dei terreni vie-
+ne contabilmente separato da quello dei fabbricati anche  •  le attività immateriali basate sulla tecnologia, quali il softwa-
+se acquistati congiuntamente. La suddivisione tra il valore  re applicativo, che sono ammortizzate in funzione della 
+del terreno ed il valore del fabbricato avviene in base a una  prevista obsolescenza tecnologica delle stesse e comunque 
+perizia di esperti indipendenti per i soli immobili detenuti  non oltre un periodo massimo di sette anni; le spese relative 
+“cielo-terra”;  allo sviluppo interno di software sono iscritte in bilancio tra 
+le attività immateriali previa veriﬁ ca della fattibilità tecnica 
+•  delle opere d’arte, in quanto la vita utile non è stimabile 
+del completamento e della loro capacità di generare bene-
+ed il loro valore non è normalmente destinato a ridursi in 
+ﬁ ci economici futuri. Nella fase di sviluppo tali attività sono 
+funzione del decorrere del tempo. 
+valutate al costo, comprensivo di eventuali oneri accessori 
+diretti ed incluse eventuali spese per il personale impiegato 
+La vita utile delle attività materiali soggette ad ammortamen-
+nei progetti. In caso di esito negativo della veriﬁ ca, le spese 
+to è periodicamente sottoposta a veriﬁ ca; in caso di rettiﬁ che 
+sono imputate a conto economico;
+delle stime iniziali, viene modiﬁ cata anche la relativa quota di 
+ammortamento.  •  le attività immateriali legate alla clientela rappresentate dal-
+la valorizzazione, in occasione di operazioni di aggregazio-
+Viene inoltre valutato, ad ogni data di bilancio, se esiste qual- ne, dei rapporti di asset management e delle attività non ﬁ -
+che indicazione che dimostri che un’attività possa aver subi- nanziarie correlate a prestazioni di servizi. Tali attività, a vita 
+to una perdita di valore. In tal caso si procede al confronto  deﬁ nita, sono originariamente valorizzate attraverso l’at-
+tra il valore di carico del cespite ed il suo valore di recupero.  tualizzazione, con l’utilizzo di un tasso rappresentativo del 
+Le eventuali rettiﬁ che vengono rilevate a conto economico.  valore temporale del denaro e dei rischi speciﬁ ci dell’attività, 
+Qualora vengano meno i presupposti che hanno portato alla  dei ﬂ ussi rappresentativi dei margini reddituali lungo un pe-
+rilevazione della perdita, si dà luogo ad una ripresa di valore,  riodo esprimente la durata residua, contrattuale o stimata, 
+che non può superare il valore che l’attività avrebbe avuto,  dei rapporti in essere al momento dell’operazione di aggre-
+al netto degli ammortamenti calcolati, in assenza di preceden- gazione. Esse sono ammortizzate in quote costanti lungo il 
+ti perdite di valore.  periodo di afﬂ usso dei beneﬁ ci economici attesi.
+268 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

@@ -1,0 +1,75 @@
+RILASCI E SCART I – AREA ENERGIA
+dato n. spiegazione – commento
+Quantità totale di anidride carbonica immessa in atmosfera in conseguenza della generazione di energia termoelettrica da 
+154 combustibili fossili e dalla termovalorizzazione di CSS e pulper. Include la CO2 equivalente stimata sulla base dei reintegri di 
+SF6 e dei refrigeranti HCFC. Dato stimato.
+Quantità di anidride carbonica immessa in atmosfera dalle centrali di Acea Produzione. Il dato è calcolato in accordo alla 
+155
+normativa vigente.
+Quantità di CO2 equivalente stimata sulla base dei reintegri di SF6, considerando che 1 t di questo gas presenta un potere di 
+156
+riscaldamento pari a 23.500 volte la CO2.
+Quantità di CO2 equivalente stimata sulla base dei reintegri dei fluidi refrigeranti (HCFC), considerando che 1 t di gas 
+presenta un potere di riscaldamento pari a circa 1.300-2.500 volte la CO2. Il valore dipende dal tipo specifico di gas (fonte: 
+156 B GHG protocol-5 Assessment Report; per le miscele di gas il fattore è elaborato su fonte primaria). Metà delle emissioni 
+sono imputate all’area energia, e metà all’area idrica, così come avviene per le quantità di fluidi refrigeranti (HCFC). Il dato 
+coincide con la voce 204 B. Per il 2019 il dato è prossimo allo zero in quanto i reintegri non sono stati significativi.
+Quantità di anidride carbonica immessa in atmosfera dagli impianti di termovalorizzazione di Acea Ambiente. La diminuzione 
+registrata dal 2018 dipende dall’utilizzo, presso l’impianto di San Vittore del Lazio, della nuova metodologia di determinazione 
+157 
+delle emissioni di CO2, che è passata dal calcolo alla misurazione in continuo al camino. Il dato relativo all’impianto di Terni è 
+misurato.
+Quantità totale di ossidi di azoto (NO + NO2) immessi in atmosfera in conseguenza della generazione di energia termoelettrica 
+158 da combustibili fossili e dalla termovalorizzazione di CSS e pulper. La loro presenza in tracce nelle emissioni è dovuta a reazioni 
+secondarie indesiderate che avvengono ad alta temperatura tra l’azoto e l’ossigeno dell’aria. Il dato è calcolato. 
+Quantità di ossidi di azoto (NO + NO2) immessi in atmosfera in conseguenza della generazione di energia termoelettrica da 
+159
+combustibili fossili nelle centrali di Acea Produzione. Il dato è calcolato.
+Quantità di ossidi di azoto (NO + NO2) immessi in atmosfera dagli impianti di termovalorizzazione di Acea Ambiente. Il dato 
+160
+è calcolato.
+Quantità totale di ossido di carbonio (CO) immesso in atmosfera in conseguenza della generazione di energia termoelettrica 
+da combustibili fossili e dalla termovalorizzazione. La presenza dell’inquinante nelle emissioni è dovuta ad incompletezza della 
+161
+reazione di combustione e rappresenta un sintomo di scadimento nel rendimento della reazione di combustione. Il dato è 
+calcolato.
+Quantità totale di ossido di carbonio (CO) immesso in atmosfera in conseguenza della generazione di energia termoelettrica 
+162
+da combustibili fossili nelle centrali di Acea Produzione. Il dato è calcolato.
+Quantità di ossido di carbonio (CO) immesso in atmosfera dagli impianti di termovalorizzazione di Acea Ambiente. Il dato 
+163
+è calcolato.
+Quantità totale di anidride solforosa (SO2) immessa in atmosfera in conseguenza della generazione di energia termoelettrica 
+164 da combustibili fossili e dalla termovalorizzazione di CSS e pulper. L’uso di metano e gasolio a basso tenore di zolfo nelle 
+centrali consente il forte contenimento di questo tipo di emissione. Il dato è calcolato.
+Quantità di anidride solforosa (SO2) immessa in atmosfera in conseguenza della generazione di energia termoelettrica da 
+165
+combustibili fossili nelle centrali di Acea Produzione. Il dato è calcolato.
+Quantità di anidride solforosa (SO2) immessa in atmosfera dagli impianti di termovalorizzazione di Acea Ambiente. Il dato 
+166
+è calcolato.
+Quantità totale di polveri (particelle microscopiche con diametro aerodinamico medio uguale o inferiore a 10 millesimi di 
+millimetro) immesse in atmosfera in conseguenza della generazione di energia termoelettrica da combustibili fossili e della 
+167 termovalorizzazione di CSS e pulper. Si tratta essenzialmente di carbonio incombusto amorfo, con tracce di altri composti di 
+varia composizione, ottenuto come sottoprodotto della combustione quando questa non avviene in forma completa. Il dato 
+è calcolato.
+Quantità di polveri immesse in atmosfera in conseguenza della generazione di energia termoelettrica da combustibili fossili 
+168
+nelle centrali di Acea Produzione. Il dato è calcolato.
+169 Quantità di polveri immesse in atmosfera dagli impianti di termovalorizzazione di Acea Ambiente. Il dato è calcolato.
+Quantità di acido cloridrico (HCl) immessa in atmosfera dagli impianti di termovalorizzazione di Acea Ambiente. Il dato è 
+170
+calcolato.
+Quantità di acido fluoridrico (HF) immessa in atmosfera dagli impianti di termovalorizzazione di Acea Ambiente. Il dato è 
+171
+calcolato.
+Quantità di carbonio organico immessa in atmosfera dagli impianti di termovalorizzazione di Acea Ambiente. Il dato è 
+172
+calcolato.
+Quantità totale di acqua reflua, trattata, risultante dalle attività di produzione di energia termoelettrica. Il dato è misurato con 
+173
+incertezza pari a ± 2%.
+Quantità totale di rifiuti pericolosi (ex D. Lgs. n. 152/06) smaltiti dalle Società del Gruppo con l’esclusione dell’area 
+174 termovalorizzazione. Il dato 2019 è aumentato di molto a causa di lavori di adeguamento impianti in AT una riclassificazione 
+di una tipologia di rifiuto ora identificato con un codice CER pericoloso. Il dato è misurato con incertezza del ± 2%.
+BILANCIO AMBIENTALE 271

@@ -1,0 +1,101 @@
+MACRO-OBIETTIVO N.3 
+Qualificare la presenza nei territori e tutelare l’ambiente
+OBIETTIVI  TARGET AL 2022
+KPI DI PERFORMANCE  AZIONI 2019
+OPERATIVI FUNZIONI/SOCIETÀ OWNER DEL PROCESSO
+AMBITO DI AZIONE 1: Riduzione dell’impatto ambientale 
+% di riduzione del consumo 
+Ridurre del 5% il consumo specifico di gas naturale attraverso  
+specifico di gas naturale 
+la riconversione dell’impianto termoelettrico di Tor di Valle a 
+= 16,9% per la sezione  Target al 2022 raggiunto nel 
+favore di un impianto di Cogenerazione ad Alto Rendimento 
+cogenerazione e 5,7% per  2018.
+(CAR). 
+le caldaie ausiliarie 
+ACEA PRODUZIONE
+Target al 2022 raggiunto
+MW potenza installata su 
+Acquisizione/realizzazione di impianti fotovoltaici per un totale  
+MW previsti = 28 su 150 
+di 150 MW di potenza installata con conseguente riduzione 
+gCO2/kWh prodotto (e  Nell’anno sono stati acquisiti 
+attesa dell’indice di intensità delle emissioni degli impianti gestiti 
+riduzione percentuale  impianti fotovoltaici per una 
+da Acea Produzione sino a 55g CO2/kWh (-30% rispetto ai 78  
+rispetto al 2018) = 70 potenza totale di 28 MW.
+gCO2/kWh del 2018). 
+gCO2/kWh (10% in meno 
+ACEA PRODUZIONE
+rispetto al 2018)
+Ridurre il consumo di energia (elettrica e gas) della Sede 
+aziendale centrale attraverso specifici interventi (sostituzione  Nell’anno è stato completato 
+corpi luce con lampade a tecnologia LED; rifacimento sistema    l’intervento per il rifacimento 
+di climatizzazione del ballatoio; sostituzione infissi; installazione  MWh ante operam –  del sistema di climatizzazione 
+pannelli fotovoltaici), con previsione di un risparmio energetico  MWh post operam  del ballatoio e si è indagato 
+complessivo di 232 MWh/a e di 13.800 Sm3 /a rispetto ai  Sm3 ante operam – Sm3  circa la possibilità di proseguire 
+consumi storici ante operam (riferiti all’intera Sede centrale),  post operam  nella sostituzione delle lampade 
+pari rispettivamente a: 3.780 MWh/a e a 115.500 Sm3 /a.  tradizionali con quelle LED, a 
+ACEA SpA (Energy Manager) in collaborazione con  minor impatto energetico. 
+ECOGENA
+Ridurre il consumo di energia elettrica del Data Center 
+(CEDET) attraverso specifici interventi (modifica impianto  
+di condizionamento, compartimentazione dei «corridoi caldi»  
+Progettare e 
+e «corridoi freddi», modifica del condizionamento delle sale  
+implementare   
+degli Uninterruptible Power Supply (UPS) e loro sostituzione)  È stata avviata la pianificazione 
+azioni di contrasto  MWh/a ante operam – 
+con previsione di un risparmio energetico complessivo di circa  delle attività correlate al target.
+al cambiamento  MWh/a post operam
+700 MWh/a rispetto ai consumi storici ante operam, pari a: 
+climatico 
+4.337 MWh/a.
+(mitigazione e 
+ACEA SpA (Energy Manager) in collaborazione con 
+adattamento) 
+ECOGENA
+MWh risparmiati/
+MWh netti distribuiti  
+I principali interventi di 
+Realizzare interventi di riduzione delle perdite di energia su rete  = 1.350/9.828.737
+efficientamento energetico 
+(cambio tensione, trasformatori a perdite ridotte, ecc.) ed altri  t di CO2 non emesse  
+dell’anno hanno riguardato 
+interventi di efficientamento che consentiranno di ottenere un  = 486 (3.006 
+l’installazione di trasformatori 
+risparmio energetico di circa 18.000 MWh, circa 6.500 t   considerando anche i 
+a bassissime perdite e il 
+di riduzione delle emissioni di CO2 ed un risparmio di 3.400  risparmi ottenuti nel 
+riclassamento da 8,4 a 20 
+TEP rispetto ai dati del 2016.   2018) TEP risparmiati = 
+kV di alcuni tratti della rete di 
+ARETI 252 (1.561 considerando 
+distribuzione elettrica.
+anche i risparmi ottenuti 
+nel 2018)
+N. veicoli elettrici 
+acquistati = 25 
+Riduzione di circa 430 t di emissioni di CO2 tramite   Introdotto il car sharing interno 
+t di CO2 evitate 
+la sostituzione di 100 veicoli a combustione tradizionale   con l’inserimento di 25 veicoli 
+= 6,2 al netto delle 
+con almeno 55 veicoli elettrici.   elettrici in sostituzione di 40 
+emissioni relative 
+ARETI vetture tradizionali. 
+all’energia elettrica 
+consumata dai veicoli
+Completati 37 interventi, 
+N. di interventi effettuati
+Incremento della resilienza del sistema elettrico tramite  tra cui: l’adeguamento delle 
+= 37 
+200 interventi di manutenzione/sviluppo della rete con una  apparecchiature MT-BT delle 
+Variazione percentuale 
+conseguente riduzione dell’indice di rischio intervento (IRI)   cabine secondarie di 39 linee 
+annua dell’IRI = (valore 
+del 40%.  interessate e la riconfigurazione 
+post-intervento/valore 
+ARETI  dello schema di rete di 12 linee 
+pre-intervento) -4,8%
+MT. 
+50 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

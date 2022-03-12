@@ -1,0 +1,53 @@
+99
+Gestione dei consumi energetici
+[GRI 302-4] [GRI 302-5]
+I consumi di energia per la trazione elettrica ferroviaria
+I treni di Trenord viaggiano su rete FERROvIENORD e su rete RFI. Per quanto riguarda 
+i consumi relativi alla rete FERROvIENORD, l’alimentazione del materiale rotabile sul 
+ramo Milano avviene tramite l’immissione da parte di FERROvIENORD di energia 
+elettrica ad alta tensione (3.600 v in corrente continua) nelle condutture di trazione elettrica. 
+Questa energia è ceduta alle imprese ferroviarie che operano sulla linea, nella fattispecie Trenord 
+e DB Cargo Italia, per alimentare i motori di trazione e tutti i sistemi ausiliari a bordo treno. 
+Per l’anno 2017, i consumi di energia elettrica ad alta tensione dei treni di Trenord sono stati oltre 
+550 milioni di kWh in diminuzione del 6,6%, di cui il -4,6% imputabile alla rete FERROvIENORD, 
+a fronte di un aumento della produzione da traffico ferroviario dovuto anche all’attivazione del 
+collegamento T1-T2 (circa +300.000 treni/km rispetto al 2016).
+590.205.195
+551.219.658
+477.448.523
+443.683.222
+590.205.195
+551.219.658
+107.536.436 112.756.672
+477.448.523
+443.683.222
+2017 2016 2017 2016 2017 2016
+107.536.436 112.756.672
+Consumi di energia elettrica ad alta tensione dei treni di Trenord1 , per linea ferroviaria di riferimento (FERROVIENORD / 
+RFI) (kWh)
+Consumi di energia elettrica ad alta tensione (milioni kWh)
+2017 2016 2017 2016 2017 2016
+580,42 590,21
+600 551,23
+Trend
+500
+400 467,68 477,45 443,69
+Consumi di energia elettrica ad alta tensione (milioni kWh)
+300 580,42 590,21
+600 551,23
+200
+500
+100 112,74 112,76 107,54
+400 1 467,68 477,45 443,69
+300 2015 2016 2017 Totale RFI FERROVIENORD
+200
+100 112,74 112,76 107,54
+1
+2015 2016 2017 Totale RFI FERROVIENORD
+1    Il dato relativo al fabbisogno di energia elettrica comprende i consumi elettrici per il funzionamento dei treni che viaggiano 
+sulla rete FERROVIENORD e sulla Rete Ferroviaria Italiana (RFI). In particolare, il consumo di energia elettrica per la trazione 
+relativo alla rete RFI è stato stimato moltiplicando la produzione su questa rete (in termini di posti*km programmati) per il 
+coefficiente “kWh/posto*km” relativo alla rete FERROVIENORD e dato dal rapporto tra:
+- i consumi elettrici effettivi per trazione relativi alla rete FERROVIENORD (kWh);
+- il prodotto dei posti disponibili e delle lunghezze di ogni percorso programmato sulla rete FERROVIENORD negli anni di 
+riferimento (posti*km).

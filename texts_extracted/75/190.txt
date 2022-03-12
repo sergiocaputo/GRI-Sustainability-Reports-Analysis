@@ -1,0 +1,85 @@
+305-1; 305-2; 305-3; 305-4; 305-6 Indicators
+Environment
+DIRECT ENVIRONMENTAL IMPACTS
+2019 2018 2017
+Parameters Unit
+Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Operators = Staff  
+No. 70,834 24,379 95,213 72,680 23,244 95,924 67,606 23,876 91,482
++ Consultants
+Staff No. 65,612 23,070 88,682 68,392 23,134 91,526 63,859 23,763 87,622
+Consultants No. 5,222 1,309 6,531 4,288 110 4,398 3,747 113 3,860
+Total transfers No. 609,980 21,210 631,190 654,263 21,225 675,488 626,149 20,961 647,110
+Total transport  thousands of km 140,679 32,678 173,357 145,128 33,895 179,023 137,339 32,442 169,781
+Floor area thousands of m2 2,971 648 3,619 3,169 626 3,795 2,828 658 3,485
+Greenhouse gas   2019 2018 2017
+Unit
+emissions [CO2e] Italy Abroad Group Italy Abroad Group Italy Abroad Group
+Direct emissions (Scope1) tCOeq 37,521 7,877 45,398 51,581 5,584 57,165 34,239 6,510 40,749
+2
+Natural gas emissions for 
+tCOeq 22,567 3,026 25,592 30,422 1,847 32,268 24,257 2,964 27,221
+independent heating 2
+Natural gas emissions for 
+tCOeq 5,110 524 5,634 6,826 418 7,244 2,150 0 2,150
+cogeneration 2
+Diesel emissions for 
+tCOeq 925 122 1,046 1,407 55 1,462 1,861 354 2,216
+independent heating 2
+HFC emissions  tCOeq 1,824 266 2,090 5,720 159 5,879 n.a. n.a. n.a.
+2
+Gasoline emissions for 
+tCOeq 10 901 911 20 562 582 33 696 730
+company fleet 2
+Diesel emissions for  
+tCOeq 7,086 3,039 10,124 7,186 2,544 9,729 5,938 2,495 8,433
+company fleet 2
+Indirect emissions (Scope2 
+tCOeq 5,735 27,974 33,709 8,135 35,326 43,461 5,055 33,181 38,235
+Market-based) 2
+Electricity emissions  
+tCOeq 2,310 27,167 29,478 3,926 33,286 37,212 1,470 30,734 32,204
+(excluding cogeneration) 2
+Natural gas emissions for 
+building heating (including  tCOeq 3,424 765 4,189 3,752 1,949 5,701 2,948 2,354 5,302
+2
+district heating)
+Diesel emissions for  
+tCOeq 0 42 42 456 91 548 637 93 730
+building heating 2
+Total direct + indirect 
+emissions (Scope1 + 2  tCOeq 43,256 35,851 79,107 59,716 40,911 100,626 39,294 39,691 78,985
+2
+Market-based)
+tCOeq/
+Total direct + indirect   2
+staff  0.6 1.5 0.8 0.8 1.8 1.0 0.6 1.7 0.9
+emissions per staff member
+member
+Total direct + indirect   kgCO2eq/ 14.6 55.3 21.9 18.8 65.3 26.5 13.9 60.3 22.7
+emissions per square meter m2
+Total direct + indirect 
+emissions (Scope1 + 2  tCOeq 151,279 39,090 190,369 177.395 38.515 215,910 156,817 44,996 201,813
+2
+Location-based)
+Other indirect emissions 
+tCOeq 38,209 19,270 57,479 60,507 29,027 89,534 51,116 29,310 80,425
+(Scope3) 2
+Business trips tCOeq 8,015 1,514 9,528 8,614 2,258 10,871 8,510 1,725 10,235
+2
+Purchased paper tCOeq 2,911 1,673 4,584 3,981 1,881 5,861 3,876 1,783 5,659
+2
+Waste tCOeq 252 26 279 260 12 272 147 22 170
+2
+Office machinery tCOeq 4,293 1,509 5,802 6,537 2,211 8,748 14,089 5,243 19,332
+2
+Internet banking* tCOeq 116 100 217 123 53 176 114 122 236
+2
+Energy carriers** tCOeq 14,684 11,444 26,128 32,822 19,400 52,222 24,379 20.414 44.794
+2
+Cash-in-transit (CIT) tCOeq 7,938 3,003 10,942 8,172 3,212 11,383 n.a. n.a. n.a.
+2
+* In 2017 the methodology was made consistent at Group level, limiting the perimeter to the main transactions.
+** Scope3 emissions generated: (a) in the natural gas supply chain, (b) in the production of the energy sources used in the electricity mix and (c) in the distribution and transformation 
+of the electricity.
+191

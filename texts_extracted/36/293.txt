@@ -1,0 +1,52 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+Light sources public 
+(,000) 2,424 2,467 1,855 -43 -1.7 Italy
+lighting
+VOLUMES SOLD
+Electricity
+Free market (GWh) 152,588 152,619 155,955 -31 - Enel
+Regulated market (GWh) 149,088 142,813 128,798 6,275 4.4 Enel
+Total volumes sold (GWh) 301,676 295,432 284,753 6,244 2.1 Enel
+Gas
+Italy (bn m3) 4.7 4.8 4.8 -0.1 -2.1 Italy
+- mass market customers (bn m3) 3.0 3.0 2.9 - - Italy
+- business customers (bn m3) 1.7 1.8 1.9 -0.1 -5.6 Italy
+Iberia (bn m3) 5.8 6.4 6.9 -0.6 -9.4  Spain
+Total volumes sold Enel (bn m3) 10.5 11.2 11.7 -0.7 -6.3 Enel
+ENERGY AVAILABILITY 
+AND REALIABILITY
+Efficiency thermoelectric 
+EU11
+generation (2)
+Average thermoelectric 
+generation yield without  (%) 42.0 40.1 40.7 1.9 - Enel
+heat component
+Average thermoelectric 
+generation yield with  (%) 43.1 41.1 41.6 2.0 - Enel
+heat
+Average yield by 
+technology without heat 
+component
+Yield coal plants (%) 36.1 36.2 36.0 -0.1 - Enel
+Yield oil/gas plants (%) 36.4 36.7 36.8 -0.3 - Enel
+Yield CCGT plants (%) 53.0 53.1 55.7 -0.1 - Enel
+Average yield with 
+heat component by 
+technology
+Yield coal plants (%) 36.3 36.4 36.2 -0.1 - Enel
+Yield oil/gas plants (%) 40.8 40.6 40.6 0.2 - Enel
+Yield CCGT plants (%) 53.1 53.3 55.7 -0.2 - Enel
+Availability of 
+thermoelectric 
+EU30
+generation by 
+geographic area
+Average availability 
+thermoelectric generation  (%) 86.9 86.7 89.0 0.2 - Italy
+Italy
+Average availability 
+thermoelectric generation  (%) 86.0 86.7 82.7 -0.7 - Russia
+Russia
+292 Sustainability Report 2019

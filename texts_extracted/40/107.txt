@@ -1,0 +1,61 @@
+Page 
+GRI Standard Disclosure Note Omission
+number
+302-3 Energy intensity 85
+302-4 Reduction of energy consumption 85
+302-5 Reductions in energy requirements  85
+of products and services
+EMISSIONS 
+GRI 103: Management Approach 2018
+103-1 Explanation of the material topics  94
+and its boundary
+103-2 The management approach and its  88; 94
+components
+103-3 Evaluation of the management  94
+approach
+GRI 305: Emissions 2018
+305-1 Direct (Scope 1) greenhouse gas  88 The calculation method used includes all 
+emissions greenhouse gases
+305-2 Energy indirect (Scope 2)  88
+greenhouse gas emissions
+305-3 Other indirect (Scope 3)  88
+greenhouse gas emissions
+305-4 Greenhouse gas emissions  88
+intensity
+305-5 Reduction of greenhouse gas  88
+emissions
+305-6 Emissions of ODS (ozone- Not applicable
+depleting substances)
+305-7 Nitrogen oxides (NOx), sulfur  These are not material for 
+oxides (SOx), and other significant  Fastweb, as its NOx and SOx 
+air emissions emissions are due to its car 
+fleet.
+Social performance indicators
+EMPLOYMENT
+GRI 103: Management Approach 2018
+103-1 Explanation of the material topics  94
+and its boundary
+103-2 The management approach and its  66; 94
+components
+103-3 Evaluation of the management  94
+approach
+GRI 401: Employment 2018
+401-1 New employees hired end  66 Data on new hires and resignations/
+employee turnover dismissals are not specified by “region” as 
+this breakdown would be immaterial (the 
+data refer exclusively to Italian employees).
+401-2 Benefits provided to full-time  There are no differences between the benefits 
+employees that are not provided to  provided to full-time employees and those 
+temporary or part-time employees with part-time contracts. The differences 
+between the benefits provided to permanent 
+employees and those with fixed-term 
+contracts consist of insurance policies, which 
+are only offered to permanent employees. 
+The company health plan is only offered to 
+workers with minimum 12-month contracts.
+401-3 Parental leave 78
+OCCUPATIONAL HEALTH AND SAFETY 
+GRI 103: Management Approach 2018
+103-1 Explanation of the material topics  94
+and its boundary
+Additional information 107

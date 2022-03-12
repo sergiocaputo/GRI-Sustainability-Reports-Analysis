@@ -1,0 +1,59 @@
+I LIVELLI DI QUALITÀ REGOLAMENTATI  Per gli aspetti della qualità del servizio di vendita è da segnalare che 
+DALL’ARERA NEL SETTORE ELETTRICO  nel 2019 sono entrati in vigore parametri più stringenti per alcune 
+prestazioni. Acea Energia, nel corso dell’anno, ha allineato la lavo-
+L’Autorità di Regolazione per Energia, Reti e Ambiente (ARERA)  razione dei reclami scritti ai volumi di pervenuto corrente, ridu-
+definisce, a livello nazionale, gli standard di qualità commerciali  cendo l’arretrato ad un quantitativo per così dire “fisiologico”. Ciò 
+(preventivi, lavori, attivazione/disattivazione della fornitura, risposte  ha determinato il mantenimento di elevate percentuali di rispetto 
+a reclami) e tecnici (continuità dell’erogazione) del servizio elettri- degli standard stabiliti dall’ARERA, anche a fronte della sensibile 
+co; li rivede periodicamente, rendendoli più stringenti, orientando i  riduzione dei tempi massimi entro cui eseguire le prestazioni (vedi 
+gestori al costante miglioramento delle performance. tabella n. 22) ed una riduzione del montante degli indennizzi da 
+erogare ai clienti finali.
+La qualità commerciale si articola in livelli “specifici”e livelli “gene- Le performance 2019 di Areti relative alla qualità “tecnica”del ser-
+rali”41, sia per le attività in capo al distributore (differenziate per le  vizio45 (continuità dell’erogazione dell’energia elettrica), pubblica-
+forniture in bassa e in media tensione) sia per quelle del venditore  te in questa sede, non sono quelle comunicate all’ARERA46 bensì  
+(si vedano le tabelle nn. 21, 22 e 23).  la migliore stima disponibile. 
+Ogni anno Acea comunica i risultati conseguiti all’ARERA, che li  Con riferimento alla durata delle interruzioni e al numero delle 
+sottopone a verifica, e ai propri clienti, pubblicandoli, per il merca- interruzioni per utenti BT, i dati che riguardano l’esercizio 2019 e 
+to libero sul sito www.acea.it e, per il servizio di maggior tutela, sul  rappresentati in tabella n. 23 indicano che nell’ambito di alta con-
+sito www.servizioelettricoroma.it.  centrazione, ossia l’ambito urbano in cui sono presenti la maggior 
+parte degli utenti di Areti, la continuità del servizio è stata garantita 
+Per le performance 2019 di qualità commerciale e tecnica relative   con la stessa qualità del 2018. Si registra invece una flessione dei 
+alla distribuzione e misura dell’energia elettrica, qui si presenta- risultati in ambito periferico e rurale. 
+no dati prodotti con la miglior stima disponibile42, che potran- Sono sottoposte a regolazione anche le interruzioni, originate a 
+no differire da quelli trasmessi all’Autorità (ARERA) nei tempi   qualunque livello di tensione del sistema elettrico, per gli utenti in 
+da essa definiti. MT. Il sistema regolatorio prevede indennizzi automatici agli utenti 
+Per quanto concerne i livelli “specifici” di qualità commerciale, per  di media tensione muniti di una certificazione di adeguatezza dei 
+le forniture in bassa tensione a clienti domestici e in media tensione  loro impianti47 in caso di interruzioni nell’erogazione di energia 
+si registra, in molti casi, un lieve miglioramento delle performance.  elettrica in numero superiore ad uno standard definito. 
+Riguardo i livelli “generali”, relativi alle risposte ai reclami scritti/ Sia per gli utenti BT che per gli utenti MT, inoltre, sono sotto-
+richieste di informazioni, si rileva un sostanziale miglioramento delle  poste a regolazione le interruzioni prolungate o estese, ossia le 
+performance rispetto al 2018 per il servizio di distribuzione e un  interruzioni del servizio la cui durata si prolunghi oltre standard 
+peggioramento per quello di misura (si veda la tabella n. 21).  stabiliti. In questi casi è previsto che l’esercente versi una pe-
+Gli indennizzi automatici ai clienti43, da erogare in caso di manca- nale, calcolata in base al numero di utenti BT disalimentati per 
+to rispetto dei livelli “specifici” di qualità, partono da un importo  interruzioni dovute ad “altre cause”, al Fondo eventi ecceziona-
+base44, che può raddoppiare (in caso di esecuzione delle attività in  li istituito presso la Cassa per i Servizi Energetici e Ambientali.  
+un tempo tra il doppio e il triplo dello standard) o triplicare (per  Il distributore versa altresì un indennizzo automatico ai clienti che 
+esecuzione in un tempo triplo dello standard). hanno subito l’interruzione. 
+41   Gli “standard specifici di qualità” sono definiti come tempo massimo entro cui chi fornisce il servizio deve effettuare una determinata prestazione e prevedono, in caso 
+di scostamenti, l’erogazione di indennizzi automatici ai clienti; gli “standard generali di qualità” sono definiti come percentuale minima di prestazioni effettuate entro un 
+tempo massimo.
+42  A causa del disallineamento tra i tempi di consegna dei report all’Autorità e quelli previsti dalla normativa per la pubblicazione del presente documento.
+43   L’indennizzo automatico, ove dovuto, è corrisposto al cliente attraverso la detrazione dall’importo addebitato nella prima fatturazione utile ed eventualmente nelle successive 
+fatturazioni, ovvero corrisposto mediante rimessa diretta. L’indennizzo automatico deve comunque essere sempre corrisposto al cliente entro 6 mesi dalla data di ricevi-
+mento del reclamo scritto o della richiesta di rettifica di doppia fatturazione ad eccezione dei clienti con periodicità di fatturazione quadrimestrale, per cui il termine è fissato 
+in 8 mesi. Per le attività di distribuzione l’indennizzo è corrisposto entro 30 giorni dalla data di esecuzione della prestazione richiesta o, al più tardi, dal triplo del tempo dello 
+standard, esclusi gli indennizzi automatici per il mancato rispetto della fascia di puntualità degli appuntamenti, per i quali il termine decorre dalla data dell’appuntamento.
+44   L’importo per l’indennizzo, attualmente definito dall’Autorità, per il mancato rispetto degli standard specifici di qualità per il servizio di distribuzione, parte da una base di 35 
+euro per i clienti in bassa tensione usi domestici; 70 euro per i clienti in bassa tensione usi non domestici e di 140 euro per i clienti in media tensione. In caso di mancato 
+rispetto degli standard specifici di qualità della vendita, il venditore corrisponde al cliente finale un indennizzo automatico base pari a 25 euro. L’indennizzo è crescente in 
+relazione al ritardo nell’esecuzione della prestazione: se questa avviene oltre lo standard ma entro un tempo doppio, è corrisposto l’indennizzo automatico base; se oltre un 
+tempo doppio ma entro un tempo triplo dello standard, è corrisposto il doppio dell’indennizzo automatico base; infine, se l’esecuzione della prestazione avviene oltre un 
+tempo triplo dello standard, è corrisposto il triplo dell’indennizzo automatico base.
+45  Delibera 646/15/R/eel e s.m.i.
+46  A causa del disallineamento tra i tempi di consegna dei report all’Autorità e quelli previsti dalla normativa per la pubblicazione del presente documento.
+47   Per avere diritto agli indennizzi, i clienti di media tensione devono dimostrare di aver installato nei propri impianti apparecchi di protezione in grado di evitare che eventuali 
+interruzioni provocate da guasti all'interno dei propri impianti di utenza si riverberino sulla rete, arrecando danni ad altri clienti connessi nelle vicinanze. Inoltre, per avere 
+accesso agli indennizzi i clienti devono aver fatto pervenire all’azienda distributrice una dichiarazione di adeguatezza degli impianti rilasciata da soggetti aventi specifici 
+requisiti tecnico-professionali. Laddove i clienti non abbiano i requisiti per aver diritto all’indennizzo, l’importo dell’indennizzo diventa una penale che il Distributore è 
+tenuto a conferire alla Cassa per i Servizi Energetici e Ambientali.
+LE RELAZIONI CON GLI STAKEHOLDER 103

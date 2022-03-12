@@ -1,0 +1,48 @@
+Nota Integrativa | Parte F | Informazioni sul Patrimonio Consolidato
+B. Informazioni di natura quantitativa
+Totale  Totale 
+31/12/2017  31/12/2016 
+A. Capitale primario di classe 1 (Common Equity Tier 1 - CET1) prima dell'applicazione dei filtri 
+prudenziali  1.094.972  1.086.647 
+     di cui strumenti di CET1 oggetto di disposizioni transitorie 
+B Filtri prudenziali del CET1 (+/-)  -  - 
+C. CET1 al lordo degli elementi da dedurre e degli effetti del regime transitorio (A+/-B)  1.094.972  1.086.647 
+D. Elementi da dedurre dal CET1  331.735  333.186 
+E. Regime transitorio - Impatto su CET1 (+/-), inclusi gli interessi di minoranza oggetto di disposizioni 
+transitorie  51.058  87.415 
+F. Totale Capitale primario di classe 1 (Common Equity Tier 1 - CET1) (C - D +/- E)  814.295  840.876 
+G. Capitale aggiuntivo di classe 1 (Additional Tier 1 - AT1) al lordo degli elementi da dedurre e degli effetti del 
+regime transitorio  -  - 
+     di cui strumenti di AT1 oggetto di disposizioni transitorie  -  - 
+H. Elementi da dedurre dall'AT1  -  - 
+I. Regime transitorio - Impatto su AT1 (+/-), inclusi gli strumenti emessi da filiazioni e inclusi nell'AT1 per 
+effetto di disposizioni transitorie  -  - 
+L. Totale Capitale aggiuntivo di classe 1 (Additional Tier 1 - AT1) (G - H +/- I)  -  - 
+M. Capitale di classe 2 (Tier 2 - T2) al lordo degli elementi da dedurre e degli effetti del regime transitorio  205.497  264.999 
+     di cui strumenti di T2 oggetto di disposizioni transitorie  3.526  7.087 
+N. Elementi da dedurre dal T2  819  1.476 
+O. Regime transitorio - Impatto su T2 (+/-), inclusi gli strumenti emessi da filiazioni e inclusi nel T2 per 
+effetto di disposizioni transitorie  -  - 
+P. Totale Capitale di classe 2 (Tier 2 - T2) (M - N +/- O)  204.678  263.523 
+Q. Totale fondi propri (F + L + P)  1.018.973  1.104.399 
+(cid:3)
+Il Gruppo si avvale della facoltà di non includere in alcun elemento dei fondi propri, proﬁtti o perdite non realizzati 
+relativi alle esposizioni verso le amministrazioni centrali classiﬁcate nella categoria “Attività ﬁnanziarie disponibili 
+per la vendita.”
+L’impatto positivo di tale deroga al 31 dicembre 2017 è pari a 12.679 mila euro, rispetto all’impatto positivo di 7.900 
+mila euro al 31 dicembre 2016.
+La Capogruppo, in continuità con le approfondite analisi svolte nel corso del 2016 sull’adeguatezza patrimoniale, ha 
+mantenuto un ﬁltro prudenziale (introdotto nell’esercizio precedente) a decurtazione dei fondi propri connesso ad 
+operazioni sul mercato delle azioni primario e secondario, con un saldo al 31 dicembre 2017 pari ad euro 17,8 milioni 
+(di cui 17,1 milioni in termini di Capitale primario di classe 1 - CET 1 e 0,7 milioni di Capitale di classe 2 – Tier 2). Tale 
+saldo include l’adeguamento ai fondi propri, pari a complessivi 1,8 milioni di euro al 31 dicembre 2017, segnalato dal 
+Nucleo Ispettivo della Banca d’Italia nell’ambito delle veriﬁche svolte nel secondo semestre del 2016 in materia di 
+conformità alla disciplina prudenziale.
+2.3 Adeguatezza patrimoniale 
+A. Informazioni di natura qualitativa
+Come precisato in precedenza (cfr. Sezione 1), il patrimonio del Gruppo deve evidenziare la presenza di un’adeguata 
+eccedenza rispetto ai requisiti correnti ed essere in grado di sostenere i maggiori assorbimenti legati allo sviluppo 
+dimensionale ipotizzato almeno per i successivi 12 mesi. 
+Di conseguenza, la redazione dei piani prospettici contiene gli effetti in termini di requisiti e, se necessario, ipotizza 
+l’esecuzione di operazioni di rafforzamento patrimoniale atte a mantenere la coerenza con gli obiettivi strategici.
+568

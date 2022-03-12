@@ -1,0 +1,56 @@
+GRUPPO BANCARIO BANCA POPOLARE PUGLIESE
+GRI standard Informativa Numero di pagina Ragione delle omissioni
+RISPETTO DI NORMATIVE AMBIENTALI                                                                                                                                                       
+GRI 103: Approccio gestionale 2016     103-1   Spiegazione della materialità del tema e del suo perimetro                                     25-27; 90-94
+                                                            103-2   L’approccio gestionale e le sue componenti                                                               40; 90-94
+                                                            103-3   Valutazione dell’approccio gestionale                                                                12-13; 30-31; 90-94
+GRI 307: Rispetto di normative 
+Ambientali 2016                                   307-1   Multe significative e sanzioni per il mancato rispetto di norme ambientali                       40
+OCCUPAZIONE                                                                                                                                                                                            
+GRI 103: Approccio gestionale 2016     103-1   Spiegazione della materialità del tema e del suo perimetro                                     25-27; 90-94
+                                                            103-2   L’approccio gestionale e le sue componenti                                                                  44-46
+                                                            103-3   Valutazione dell’approccio gestionale                                                                      12-13; 30-31
+GRI 401: Occupazione 2016                  401-1   Assunzioni e turnover del personale dipendente                                                              45
+GRI 401: Occupazione 2016                  401-2   Benefit forniti ai dipendenti a tempo pieno che non sono forniti 
+                                                                          ai dipendenti temporanei o part-time                                                                            55-57
+GRI 401: Occupazione 2016                  401-3   Congedi parentali                                                                                                            57
+LAVORO / GESTIONE DELLE RELAZIONI                                                                                                                                                      
+GRI 103: Approccio gestionale 2016     103-1   Spiegazione della materialità del tema e del suo perimetro                                     25-27; 44-50
+                                                            103-2   L’approccio gestionale e le sue componenti                                                                  44-50
+                                                            103-3   Valutazione dell’approccio gestionale                                                                      12-13; 30-31
+GRI 402: Lavoro/Gestione 
+delle Relazioni 2016                             402-1   Periodo minimo di preavviso per i cambiamenti organizzativi                                          50
+SALUTE E SICUREZZA DEI LAVORATORI                                                                                                                                                      
+GRI 103: Approccio gestionale 2016     103-1   Spiegazione della materialità del tema e del suo perimetro                                     25-27; 57-59
+                                                            103-2   L’approccio gestionale e le sue componenti                                                                  57-59
+                                                            103-3   Valutazione dell’approccio gestionale                                                                12-13; 30-31; 57-59
+GRI 403: Salute e sicurezza 
+dei lavoratori 2016                               403-2   Infortuni, malattie e assenteismo                                                                                     59
+FORMAZIONE E ISTRUZIONE                                                                                                                                                                       
+GRI 103: Approccio gestionale 2016     103-1   Spiegazione della materialità del tema e del suo perimetro                                     25-27; 46-49
+                                                            103-2   L’approccio gestionale e le sue componenti                                                                  46-49
+                                                            103-3   Valutazione dell’approccio gestionale                                                                12-13; 30-31; 46-49
+GRI 404: Formazione
+e Istruzione 2016                                 404-1   Ore di formazione medie annue per dipendente                                                              46
+GRI 404: Formazione 
+e Istruzione 2016                                  404-3   Percentuale di dipendenti che ricevono revisione periodica 
+                                                                          sui risultati e sullo sviluppo di carriera                                                                            49
+DIVERSITÀE PARI OPPORTUNITÀ                                                                                                                                                               
+GRI 103: Approccio gestionale 2016     103-1   Spiegazione della materialità del tema e del suo perimetro                         12-13; 25-27; 38-39; 51-52
+                                                            103-2   L’approccio gestionale e le sue componenti                                                                  38-39
+                                                            103-3   Valutazione dell’approccio gestionale                                                                12-13; 30-31; 38-39
+GRI 405: Diversità 
+e Pari opportunità 2016                        405-1   Diversità negli organi di governo e dipendenti                                                               15-39
+GRI 405: Diversità 
+e Pari opportunità 2016                        405-2   Rapporto tra la retribuzione delle donne e degli uomini                                                   51
+NON DISCRIMINAZIONE                                                                                                                                                                              
+GRI 103: Approccio gestionale 2016     103-1   Spiegazione della materialità del tema e del suo perimetro                         12-13; 25-27; 38-39; 51-52
+                                                            103-2   L’approccio gestionale e le sue componenti                                                                  38-39
+                                                            103-3   Valutazione dell’approccio gestionale                                                                12-13; 30-31; 38-39
+GRI 406: Non discriminazione 2016      406-1   Episodi di discriminazione e azioni correttive intraprese                                               31; 39
+POLITICHE PUBBLICHE                                                                                                                                                                               
+GRI 103: Approccio gestionale 2016     103-1   Spiegazione della materialità del tema e del suo perimetro                                     25-27; 30-31
+                                                            103-2   L’approccio gestionale e le sue componenti                                                                  32-34
+                                                            103-3   Valutazione dell’approccio gestionale                                                                12-13; 30-31; 32-34
+GRI 415: Politiche Pubbliche 2016        415-1   Contributi politici                                                                                                             34
+100

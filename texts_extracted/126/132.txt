@@ -1,0 +1,57 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+network equipment to determine whether they comply with the requirements of international ETSI, CENELEC1 
+standards regarding electromagnetic compatibility. In particular, checks are carried out on the compliance of 
+equipment with the limits set by standards to limit the emission of electromagnetic disturbances which, in addition 
+to polluting the surrounding environment, can interfere with radio communications. 
+ 
+To promote sustainable development in its areas of influence - in addition to the mandatory requirements for electrical 
+safety law, energy consumption and EMC on marketed equipment, TIM also carries out checks on electrical (in compliance 
+with the series K ITU-T2 Recommendations) and mechanical robustness (in compliance with the installation classes 
+required by the European standard ETSI EN 300019) requirements, so as to reduce waste disposal of electrical and 
+electronic waste (WEEE) from the very beginning. Ensuring equipment placed on the market of has an adequate level of 
+electrical and mechanical robustness, in line with the expected stress in the field, reduces the rate of equipment failure 
+and, therefore, the quantity of waste to be sent to the appropriate disposal facilities. The addition of these robustness 
+requirements, also within TIM apparatus specifications, requires the manufacturer to use adequate protection devices on 
+the electrical interfaces of devices, such as overvoltage and overcurrent limiters, with the consequent reduction in the 
+number of destructive failures; with such technical expedients, it follows that equipment functionality can be easily 
+recovered by replacing a few components in repair centers. 
+ 
+[GRI 103-2: Management Approach] [GRI 416] [GRI 417] By law, telecommunications equipment sold in Brazil must be 
+approved by the regulatory authority ANATEL, which verifies, in its laboratories, conformity with Brazilian legislation on 
+electrical and electromagnetic safety. There is specific ad hoc legislation to be complied with for each kind of equipment; 
+TIM Participações asks its suppliers to ensure that devices have the ANATEL certificate of approval.   
+ 
+ [GRI 416-2] Over the past three years, no non-conformities with European customer health and safety legislation have 
+been found in any product that has reached the final marketing stage, neither in Italy nor in Brazil.  
+ 
+[GRI 417-1] When contracts are drafted, for all fixed telephony products, TIM requires packaging to include an 
+environmental statement, a statement about the origin of the tantalum if it has been used in the components, a user 
+manual containing safety information, details of any hazardous materials in the product and disposal information. With 
+regard to labelling of mobile devices, as they are consumer products that TIM merely resells and do not require any 
+customization, the Company simply requires national legislation to be complied with.  
+ 
+[GRI 417-1] In Brazil, in addition to compliance with national legislation, TIM Participações requires information on the 
+correct use of equipment; TIM Participações does not have the procedures on the information and labels on products and 
+services. However, contracts with suppliers of mobile devices include a ‘product packaging’ clause, which requires that 
+each box contain instructions for the correct use of both the product, the accessory kit and of the connection jacks 
+associated with the product.  
+ 
+For a particular product range, TIM eco-friendly, discussed in detail in the Environment chapter (TIM ecofriendly), all the 
+relevant environmental parameters are also shown (e.g. energy consumption).   
+ 
+[GRI 417-2] Over the past three years, no non-conformities regarding product information and labelling have been found 
+in any product that has reached the final marketing stage (100% tested for fixed and mobile terminals). 
+ 
+There have however been a few cases in which non-conformities with regulations concerning information and “labelling” 
+of services have been found. In particular, TIM Participações has only received financial penalties; that is, in 2019 four 
+incidents occurred for which ANATEL issued total penalties of 247,132 reais, in 2018 three incidents occurred for total 
+penalties of 397,009 reais and in 2017 13 incidents occurred for total penalties of 896,730 reais (in respect of the 
+guarantees and rights to protect users)  
+The regulatory Authority’s sanctioning procedures for non-conformities with regulations regarding information on 
+services are part of the system of “penalties for the violation of regulatory legislation regarding consumer protection in 
+                                                                 
+1 European Committee for Electrotechnical Standardization. 
+2  International Telecommunication Union - Telecommunication Standardization Sector. 
+133 
+ 

@@ -1,0 +1,31 @@
+ 
+Statement of changes in equity 
+           Other reserves     Other comprehensive income (expense)                 
+Share capital   Share   Legal reserve   Share capital  Extraordinary   Treasury   LTI reserve  Total other   Translation   Hedging reserve   Actuarial    Total other   Losses carried   Profit for the   Equity 
+premium  increase  and other  shares  reserves  reserve  reserve  comprehensive  forward   year 
+reserve  related  reserves  income 
+charges  (expense) 
+(€’000)   
+As at 1 January 2018  17  544,740   120,798   106,551   (3,970)   146,813   (7,677)   6,344  248,061   (3,212)   -   (351)   (3,563)   (48,795)   103,059   758,182 
+Allocation of profit and reserves  17               (31,114)       (31,114)            -   (71,945)   (103,059)   
+Dividend distribution  17               (26,099)       (26,099)            -          (26,099) 
+Allocation of stock options  17                  4,387   (6,344)  (1,957)            -   1,957      - 
+Other changes  17                      -            -   (340)      (340) 
+Profit for the year  17                      -            -       109,551   109,551 
+Other comprehensive income  17                      -   3,792      114   3,906          3,906 
+Comprehensive income  17                      -   3,792   -   114   3,906   -      113,457 
+31 December 2018  17  544,740   120,798   106,551   (3,970)   89,600   (3,290)   -  188,891   580   -   (237)   343   (119,123)   109,551   845,200 
+                                               
+As at 1 January 2019  17  544,740   120,798   106,551   (3,970)   89,600   (3,290)   -  188,891   580   -   (237)   343   (119,123)   109,551   845,200 
+IFRS 16 and IFRIC 23 FTA effect                                         (7,172)      (7,172) 
+As at 1 January 2019    544,740   120,798   106,551   (3,970)   89,600   (3,290)   -  188,891   580   -   (237)   343   (126,295)   109,551   838,028 
+Allocation of profit and reserves  17         2,397             2,397            -   107,154   (109,551)   - 
+Dividend distribution  17                      -            -   (840)      (840) 
+Capital increase  17  55,260   533,688   11,052   (7,018)          4,034            -          592,982 
+Profit for the year  17                      -                   70,960   70,960 
+Other comprehensive income  17                      -   (8.422)      59   (8,363)          (8,363)   
+Comprehensive income  17                      -   (8,422)   -   59   (8,363)   -   70,960   62,597 
+As at 31 December 2019  17  600,000   654,486   120,000   (10,988)   89,600   (3,290)   -  195,322   (7,842)   -   (178)   (8,020)   (19,981)   70,960   1,492,767 
+                                                
+                        
+   399 

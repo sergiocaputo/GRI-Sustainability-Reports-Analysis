@@ -1,0 +1,36 @@
+ 
+Impairment of non-financial assets 
+If there is any indication that an intangible asset or an item of property, plant and equipment is impaired, the 
+recoverable amount of the asset is estimated to determine the amount of the impairment loss. Goodwill is 
+tested at least annually for impairment. 
+The recoverable amount of an asset is the higher of its fair value less costs to sell and its value in use.  
+If a binding sales agreement does not exist, fair value is estimated using the observable prices of an active 
+market, recent transactions or the best information available to reflect the amount the entity could obtain by 
+disposing of the asset. 
+Value in use is determined by discounting the estimated future cash flows expected to arise from the continuing 
+use of an asset, net of taxes, and, if reasonably determinable, from its disposal at the end of its useful life. 
+Discounting is applied by using a post-tax discount rate which reflects the current market assessments of the 
+time value of money and the risks specific to the asset. 
+The assessment is made for individual assets or the smallest identifiable group of assets that generates cash 
+inflows that are largely independent of the cash inflows from other assets or groups of assets from its continuing 
+use (cash-generating unit). An impairment loss is recognised when the recoverable amount is lower than the 
+carrying amount. If the reasons for the impairment loss are no longer valid, the impairment loss (except in the 
+case of goodwill) is reversed and the adjustment is taken to profit or loss as a reversal of impairment losses. A 
+reversal of impairment losses is recognised to the extent of the lower of the recoverable amount and original 
+carrying amount less depreciation/amortisation that would have been recognised had the impairment loss not 
+been recognised. 
+Inventories of goods 
+Inventories of goods are measured at the lower of average purchase cost and net realisable value.  
+Cost includes the directly related costs and estimated realisable value is determined using the replacement 
+cost of the asset or similar assets.  
+Any write-downs are eliminated in subsequent years when the reasons therefor are no longer valid. 
+Contract assets and liabilities  
+Contract assets and liabilities are recognised and measured in accordance with the guidelines of IFRS 15 - 
+Revenue from contracts with customers. Revenue is recognised using the five-step model as set out below: 
+1. Identify the contract with a customer; 
+2. Identify the performance obligations in the contract; 
+3. Determine the transaction price; 
+4. Allocate the transaction price to the performance obligations in the contract; 
+5. Recognise revenue when (or as) the entity satisfies a performance obligation. 
+IFRS 15 also covers contract costs, contract modifications and financial statements disclosures. 
+   241 

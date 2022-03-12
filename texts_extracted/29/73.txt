@@ -1,0 +1,25 @@
+Impianti di smaltimento R.S.U.
+Deco gestisce due impianti di smaltimento per rifiuti non pericolosi (uno in gestione post-operativa e l’altro in esercizio). 
+Nell’ impianto, il mezzo è soggetto ad identificazione ed accettazione, per poi essere pesato ed avviato allo scarico.
+Mentre i mezzi conferitori si avviano alla seconda pesatura per rilevarne la tara e completare gli adempimenti legislativi, i 
+rifiuti scaricati vengono abbancati, compattati e ricoperti con materiale di riporto. 
+Ogni  attività è supportata da operazioni di monitoraggio, manutenzione, disinfestazione e derattizzazione.
+TMB Ingresso discarica
+Accettazione
+No
+Uscita Pesa Fine
+Si
+Scarico dei riﬁuti  Posizionamento 
+sulla sommità del fronte su piattaforme
+ di accumulo  di scarico
+Allocazione dei
+Ricopertura
+riﬁuti e
+giornaliera
+compattazione
+Derattizzazione e 
+Monitoraggio Manutenzione
+disinfestazione
+Mezzi conferitori in ingresso (TMB - discarica) 
+Mezzi conferitori in uscita
+74

@@ -1,0 +1,38 @@
+Waste management expenditure for non-residential users in cities with over 
+250 thousand inhabitants (Euro/m2)
+Venezia 26,03
+Torino 21,69
+Napoli 21,59
+Roma 20,87
+Genova 19,06
+Firenze 16,69
+Bari 14,76
+Milano 12,00
+Palermo 11,83
+Catania 10,48
+Bologna 10,20
+Verona 8,68
+0 5 10 15 20 25 30
+2018 data, (Types of non-domestic users represented in the search: hotels, restaurants, food industry and 
+supermarkets.) Source: REF Ricerche
+ 
+ 
+The cost of the waste management service 
+Hera has lower costs than the rest of Italy, also considering the cost per tonne of waste treated: 23% less 
+than of the Italian average and 12% less than that of northern Italy (Source: Ispra, 2018 Municipal Waste 
+Report, 2017 data). This result is also due to the higher amount of the waste of non-residential customers 
+being similar to municipal waste, which allows the fixed costs of the service to be spread over a higher 
+quantity of waste. 
+Cost of waste management service 
+(Euro/tonne)
+-23%
+345
+-12%
+301
+264
+Italia Nord Italia Hera
+Source: Ispra, 2018 Municipal Waste Report, 2017 data
+ 
+ 
+229 
+ 

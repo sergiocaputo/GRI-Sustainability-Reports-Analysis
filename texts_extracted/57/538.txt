@@ -1,0 +1,37 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+(cid:38)(cid:17)(cid:24)(cid:3)(cid:3)(cid:42)(cid:85)(cid:88)(cid:83)(cid:83)(cid:82)(cid:3)(cid:69)(cid:68)(cid:81)(cid:70)(cid:68)(cid:85)(cid:76)(cid:82)(cid:3)(cid:16)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:71)(cid:76)(cid:3)(cid:86)(cid:72)(cid:85)(cid:89)(cid:76)(cid:70)(cid:72)(cid:85)(cid:3)(cid:16)(cid:3)(cid:70)(cid:68)(cid:85)(cid:87)(cid:82)(cid:79)(cid:68)(cid:85)(cid:76)(cid:93)(cid:93)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:85)(cid:76)(cid:72)(cid:29)(cid:3)(cid:76)(cid:81)(cid:70)(cid:68)(cid:86)(cid:86)(cid:76)(cid:3)(cid:71)(cid:72)(cid:76)(cid:3)(cid:70)(cid:85)(cid:72)(cid:71)(cid:76)(cid:87)(cid:76)(cid:3)(cid:70)(cid:68)(cid:85)(cid:87)(cid:82)(cid:79)(cid:68)(cid:85)(cid:76)(cid:93)(cid:93)(cid:68)(cid:87)(cid:76)(cid:3)(cid:72)(cid:3)
+(cid:85)(cid:76)(cid:80)(cid:69)(cid:82)(cid:85)(cid:86)(cid:76)(cid:3)(cid:71)(cid:72)(cid:76)(cid:3)(cid:87)(cid:76)(cid:87)(cid:82)(cid:79)(cid:76)(cid:3)(cid:72)(cid:80)(cid:72)(cid:86)(cid:86)(cid:76)(cid:3)(cid:71)(cid:68)(cid:79)(cid:79)(cid:68)(cid:3)(cid:86)(cid:82)(cid:70)(cid:76)(cid:72)(cid:87)(cid:106)(cid:3)(cid:89)(cid:72)(cid:76)(cid:70)(cid:82)(cid:79)(cid:82)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:70)(cid:68)(cid:85)(cid:87)(cid:82)(cid:79)(cid:68)(cid:85)(cid:76)(cid:93)(cid:93)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Quota percentuale dei titoli rimborsati 
+Attività  Incassi crediti  (dato di fine periodo) 
+cartolarizzate 
+realizzati nell'anno 
+(dato di fine periodo) 
+Senior  Mezzanine  Junior 
+Servicer  Società veicolo  Deteriorate  In bonis  Deteriorate  In bonis  Attività deteriorate  Attività in bonis  Attività deteriorate  Attività in bonis  Attività deteriorate  Attività in bonis 
+Banca Popolare di Bari  2017 Popolare Bari SME Srl  8.208  640.643  -  208.052  -  34,1%  -  -  -  - 
+Banca Popolare di Bari  2017 Popolare Bari RMBS Srl  662  679.168  -  56.443  -  4,0%  -  -  -  - 
+(cid:11)(cid:13)(cid:12)(cid:3)(cid:38)(cid:76)(cid:68)(cid:86)(cid:70)(cid:88)(cid:81)(cid:3)(cid:86)(cid:72)(cid:85)(cid:89)(cid:76)(cid:70)(cid:72)(cid:85)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:76)(cid:79)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:85)(cid:76)(cid:82)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:68)(cid:73)(cid:82)(cid:74)(cid:79)(cid:76)(cid:82)(cid:3)(cid:82)(cid:85)(cid:76)(cid:74)(cid:76)(cid:81)(cid:68)(cid:87)(cid:82)(cid:3)
+(cid:3)
+(cid:38)(cid:17)(cid:25)(cid:3)(cid:42)(cid:85)(cid:88)(cid:83)(cid:83)(cid:82)(cid:3)(cid:69)(cid:68)(cid:81)(cid:70)(cid:68)(cid:85)(cid:76)(cid:82)(cid:3)(cid:178)(cid:3)(cid:54)(cid:82)(cid:70)(cid:76)(cid:72)(cid:87)(cid:106)(cid:3)(cid:89)(cid:72)(cid:76)(cid:70)(cid:82)(cid:79)(cid:82)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:70)(cid:68)(cid:85)(cid:87)(cid:82)(cid:79)(cid:68)(cid:85)(cid:76)(cid:93)(cid:93)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:82)(cid:79)(cid:76)(cid:71)(cid:68)(cid:87)(cid:72)
+Per la presente voce, si rimanda all’informativa fornita in precedenza, lettera C, “Informazioni di natura qualitativa”.
+D. Informativa sulle entità strutturate (diverse dalle società per la cartolarizzazione)
+D.2 Entità strutturate non consolidate contabilmente
+D.2.2 Altre entità strutturate 
+Informazioni di natura qualitativa
+La Capogruppo detiene un’interessenza – sotto forma di quote di O.I.C.R. - in fondi immobiliari di fatto assimilabile 
+ad entità strutturata non consolidata.
+La partecipazione al comparto è riservata ad investitori qualiﬁcati, tra cui gli istituti bancari. Il fondo costituisce 
+patrimonio autonomo, distinto a tutti gli effetti da quello di ciascun partecipante, nonché dal patrimonio degli altri 
+comparti di cui è eventualmente costituito il fondo immobiliare. 
+Scopo del fondo è quello di investire e gestire professionalmente le risorse del comparto al ﬁne di favorire una cre-
+scita equilibrata e graduale nel tempo del valore reale degli investimenti. Il fondo è di tipo “chiuso”, per cui il rimbor-
+so delle quote conferite dai partecipanti potrà avvenire alla scadenza della durata del comparto.
+Il ﬁnanziamento del fondo avviene attraverso apporti in natura o in denaro da parte degli investitori ovvero median-
+te il ricorso all’indebitamento bancario.
+Il patrimonio del comparto è investito prevalentemente in beni immobili di pregio e in interessenze in altri fondi 
+immobiliari. Al riguardo, il valore complessivo netto del fondo è la risultante delle attività al netto delle passività ed 
+è determinato in base al valore corrente delle stesse attività e passività che lo compongono.
+La gestione del fondo, ivi incluse le connesse scelte di investimento, compete alla Società di Gestione del Risparmio 
+(SGR) che vi provvede nel rispetto delle norme di legge e regolamentari, delle disposizioni degli Organi di Vigilanza 
+nonché dei relativi regolamenti di gestione.
+538

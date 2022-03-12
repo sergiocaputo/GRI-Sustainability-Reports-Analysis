@@ -1,0 +1,41 @@
+SSOOLL  GGRROOUUPP   –– T  THHEE E ENNVVIRIROONNMMEENNTT 4477
+M A I N E N V I RO N M E N TA L AS P EC TS
+The most important environmental aspects for the  The table shows the raw materials used for the main 
+SOL Group relate to the use of electricity in its produc- types of plants and the environmental aspects con-
+tion plants and fuel consumption during the distribu- nected to these activities.
+tion of its products by road.
+TYPE OF UNIT N° RAW MATERIALS ENVIRONMENTAL ASPECTS
+AIR SEPARATION  14 The process of air separation for the  The process has significant indirect 
+UNITS (ASU) production of oxygen, nitrogen and argon  environmental impacts because it uses a great 
+is a physical one. It is a process that uses  deal of electricity. On the other hand, it does 
+atmospheric air as raw material. not use raw materials other than atmospheric 
+air and emits negligible amounts of CO, 
+2
+sulphur oxides (SO) and nitrogen oxides 
+X
+(NO), already present in the treated air.
+X
+HYDROGEN  1 These use natural gas and water (steam) as  Hydrogen production plants emit CO as a 
+2
+PRODUCTION  raw materials, which chemically react with  sub product of the chemical reaction and 
+PLANTS each other to produce hydrogen. negligible quantities of nitrogen oxides (NO), 
+X
+and consume natural gas to produce steam.
+NITROUS OXIDE  3 These use ammonium nitrate, either solid or in  NO production plants can emit the gas 
+2
+PRODUCTION  water solution, as a raw material in a thermal  produced (greenhouse gas) from their 
+PLANTS dissociation process. vents, and consume electricity to bring the 
+ammonium nitrate to reaction temperature.
+ACETYLENE  3 These use calcium carbide as a raw material, a  One by-product of this process is calcium 
+PRODUCTION  solid that decomposes in water. hydroxide which, where possible, is used in 
+87
+PLANTS industry or agriculture.
+mil
+of km travelled  PLANTS FOR  8 The raw material is carbon dioxide itself,  CO production plants can emit the gas 
+2
+PURIFYING AND  obtained as a by-product from chemical  produced (greenhouse gas) from their vents.
+for the transportation 
+LIQUEFYING  plants or from natural underground deposits.  On the other hand, the carbon dioxide 
+of products CARBON DIOXIDE The carbon dioxide is purified and liquefied  obtained in this way is reused in industrial 
+with the use of energy.  applications instead of being emitted directly 
+into the atmosphere.

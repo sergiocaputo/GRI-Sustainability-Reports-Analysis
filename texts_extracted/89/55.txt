@@ -1,0 +1,26 @@
+56
+Employees by geography and contract type (permanent and temporary)
+FY 2019-20 FY 2018-19 FY 2017-18
+CONTRACT TYPE PERMANENT TEMPORARY PERMANENT TEMPORARY PERMANENT TEMPORARY
+Italy 4,271 98 4,140 116 4,032 123
+France 49 0 16 0 22 0
+Spain 24 0 20 0 25 0
+Germany 3 0 7 0 11 1
+United Kingdom 143 0 158 0 165 2
+Rest of world 317 15 302 9 202 12
+TOTAL 4,807 113 4,643 125 4,457 138
+Employees by category and gender
+FY 2019-20 FY 2018-19 FY 2017-18
+CATEGORY OF STAFF MEN WOMEN TOTAL MEN WOMEN TOTAL MEN WOMEN TOTAL
+Top management 10 1 11 10 1 11 10 1 11
+Management 358 66 424 352 59 411 309 49 358
+Middle management 1,360 656 2,016 1,255 626 1,881 1,198 586 1,784
+White collars 1,134 1,335 2,469 1,144 1,321 2,465 1,118 1,324 2,442
+TOTAL 2,862 2,058 4,920 2,761 2,007 4,768 2,635 1,960 4,595
+Employees by category and age
+FY 2019-20 FY 2018-19 FY 2017-18
+CATEGORY OF STAFF <30 30 – 50 >50 <30 30 – 50 >50 <30 30 – 50 >50
+Top management - 36.4% 63.6% - 36.4% 63.6% - 36.4% 63.6%
+Management - 62.3% 37.7% - 66.7% 33.3% - 66.8% 33.2%
+Middle management 6.3% 69.5% 24.2% 6.0% 70.8% 23.2% 5.7% 72.7% 21.6%
+White collars 13.7% 75.4% 10.9% 14.2% 75.9% 9.9% 14.3% 76.7% 9.0%

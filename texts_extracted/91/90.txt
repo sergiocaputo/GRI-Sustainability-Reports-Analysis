@@ -1,0 +1,51 @@
+Gas naturale  0,0000103  Linee Guida ABI  0,0000103  Linee Guida ABI 
+SOx  KgSOx/smc  2018  KgSOx/smc  2018 
+Gasolio  0,002144 KgNOx/Kg  Linee Guida ABI  0,002144  Linee Guida ABI 
+NOx  2018  KgNOx/Kg  2018 
+Gasolio  0,0020095 Kg  Linee Guida ABI  0,0020095 Kg  Linee Guida ABI 
+SOx  SOx/Kg  2018  SOx/Kg  2018 
+ 
+ 
+ 
+I rifiuti 
+ 
+Tonnellate di rifiuti smaltiti del Gruppo per società (t) 
+Società  2019  2018 
+Gruppo Poligrafici  2.664  2.469 
+EGA  15  2 
+Totale  2.679  2.471 
+ 
+Rifiuti per tipologia e metodo di smaltimento (t) 
+ 
+Gruppo 
+  2019  2018 
+  Non  Non 
+Pericolosi  Totale  Pericolosi  Totale 
+pericolosi  pericolosi 
+Riciclo  4,3  2.565.3  2.351  2  2.349  2.351 
+Discarica  80  29  120  92  28  120 
+Totale   84,3  2.377  2.471  94  2.377  2.471 
+ 
+Gruppo Poligrafici50 
+  2019  2018 
+Non  Non 
+Pericolosi  Totale  Pericolosi  Totale 
+pericolosi  pericolosi 
+Riciclo  3  2.552  2.555  2  2.347  2.349 
+Discarica  80  29  109  92  28  120 
+Totale   83  2.594,3  2.664  94  2.375  2.469 
+ 
+EGA 
+  2019  2018 
+Non  Non 
+Pericolosi  Totale  Pericolosi  Totale 
+pericolosi  pericolosi 
+Riciclo  1,3  13,3  14,7  0,5  1,8  2,3 
+Discarica  -  -  -  -  -  - 
+Totale   1,3  13,3  14,7  0,5  1,8  2,3 
+ 
+                                                             
+50 I rifiuti smaltiti dal Gruppo si riferiscono ai dati di Gruppo Poligrafici ed EGA. Con riferimento a Gruppo Poligrafici, la 
+produzione e lo smaltimento dei rifiuti fanno riferimento agli stabilimenti di proprietà di CSP e PE a Bologna e Firenze. 
+90 
+ 

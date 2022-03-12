@@ -1,0 +1,43 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019 www.bpp.it
+Con cadenza annuale è inoltre rivista e aggiornata la Policy di Sicurezza Informatica, che si
+ispira allo Standard ISO 27001­2:2013 e ha l’obiettivo di descrivere le politiche, i princìpi,
+le norme di sicurezza e i requisiti di conformità di particolare rilevanza per il Gruppo, se­
+condo i seguenti domini:
+1.   Politiche di Sicurezza.
+2.   Organizzazione della Sicurezza.
+3.   Classiﬁcazione e Controllo degli Asset.
+4.   Politiche del Personale in materia di Sicurezza delle Informazioni.
+5.   Sicurezza ﬁsica e dell’ambiente.
+6.   Gestione operativa e della comunicazione.
+7.   Controllo degli accessi.
+8.   Sviluppo e Manutenzione dei Sistemi.
+9.   Gestione della Continuità Operativa.
+10.Conformità.
+La sicurezza delle informazioni e delle risorse informatiche è garantita attraverso misure
+di protezione a livello ﬁsico e logico, la cui intensità di applicazione è graduata in relazione
+alle risultanze della valutazione del rischio (classiﬁcazione delle risorse informatiche in ter­
+mini di sicurezza).
+La Funzione di Sicurezza Informatica, deputata allo svolgimento dei compiti specialistici
+in materia di sicurezza delle risorse ICT:
+• assicura la coerenza dei presìdi di sicurezza con la normativa interna; in particolare, ga­
+rantisce opportuni presìdi volti a soddisfare i requisiti di sicurezza previsti per i pagamenti
+eseguiti tramite Internet;
+• partecipa alla progettazione, realizzazione e manutenzione dei presìdi di sicurezza, assi­
+cura il monitoraggio nel continuo delle minacce applicabili alle diverse risorse informa­
+tiche;
+• esegue lo svolgimento dei test di sicurezza prima dell’avvio in produzione di un nuovo
+applicativo, per garantirne la robustezza e l’eﬃcacia; le modiﬁche proposte rientrano nel
+processo di gestione dei cambiamenti;
+• rileva gli incidenti di sicurezza nel corso delle attività di monitoraggio;
+• predispone reportistica mensile sull’andamento degli incidenti e una sintesi annuale, che
+sottopone al Business Continuity Manager;
+• informa eventualmente gli utenti coinvolti sullo stato dell’incidente, segnalando poi la
+chiusura dello stesso.
+Ricorrendone le condizioni, la Funzione ICT pianiﬁca ed esegue le attività di Disaster Reco­
+very,i cui esiti, secondo i ﬂussi informativi deﬁniti nel Piano di Continuità Operativa, sono
+comunicati al Business Continuity Manager, al Direttore Generale e al Consiglio di Ammi­
+nistrazione.
+Nel corso del 2019 sono pervenute n. 4 richieste di cancellazione dei dati personali da
+parte di clienti (esercizio dei diritti ex art. 15 e segg. GDPR) e n. 1 reclamo inerente al
+trattamento dei dati. 
+67

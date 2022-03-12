@@ -1,0 +1,45 @@
+ACCIDENTS  2017 2016
+BY GENDER Total Men Women Total Men Women
+At work
+No. of events 72 38 34 49 28 21
+ Injury rate1 0.25 0.21 0.31 0.19 0.17 0.23
+No. of days lost3 1,154 529 625 953 449 504
+Seriousness index2  3.03 2.33 4.06 2.99 2.24 4.23
+Commuting
+No. of events 173 96 77 137 82 55
+ Injury rate1 0.60 0.54 0.69 0.54 0.50 0.61
+No. of days lost3 3,933 2,228 1,705 2,396 1,517 879
+Seriousness index2  10.33 9.82 11.09 7.51 7.58 7.38
+TOTAL NO. OF EVENTS 245 134 111 186 110 76
+   Injury rate1 0.84 0.75 1.00 0.74 0.68 0.84
+TOTAL NO. OF DAYS LOST3 5,087 2,757 2,330 3,349 1,966 1,383
+   Seriousness index2 13.36 12.15 15.15 10.49 9.83 11.61
+1 Number of accidents per 100,000 hours worked. 
+2 Number of working days lost for every 100,000 working days.
+3 Lost working days are counted from the day after the accident in question.  
+ 
+2017 2016
+ACCIDENTS South  South 
+BY GEOGRAPHICAL AREA North Central and  North Central and 
+islands islands
+At work
+No. of events 46 14 12 31 10 8
+ Injury rate1 0.25 0.22 0.29 0.16 0.40 0.21
+No. of days lost3 671 318 165 734 172 47
+Seriousness index2  2.89 3.23 3.31 3.05 5.24 1.02
+Commuting 0.00 0.00 0.00 0.00 0.00 0.00
+No. of events 101 49 23 112 7 18
+ Injury rate1 0.55 0.77 0.55 0.59 0.28 0.48
+No.of days lost3 1,964 1,120 849 1,995 66 335
+Seriousness index2  8.45 11.37 17.02 8.30 2.01 7.28
+TOTAL NO. OF EVENTS 147 63 35 143 17 26
+   Injury rate1 0.79 0.99 0.84 0.75 0.68 0.69
+TOTAL NO. OF DAYS LOST3 2,635 1,438 1,014 2,729 238 382
+   Seriousness index2 11.34 14.60 20.33 11.36 7.25 8.30
+1 Number of accidents per 100,000 hours worked. 
+2 Number of working days lost for every 100,000 working days.
+3 Lost working days are counted from the day after the accident in question.  
+ 
+ 
+Consolidated non-financial declaration pursuant to Legislative Decree No. 254/2016 
+2017 Sustainability Report – Enhancement and well-being of personnel - Pg.60 

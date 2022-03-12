@@ -1,0 +1,44 @@
+Bilancio Individuale 2017
+Sezione 6 – Derivati di copertura – Voce 60
+(cid:25)(cid:17)(cid:20)(cid:3)(cid:39)(cid:72)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:87)(cid:76)(cid:83)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:68)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:3)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:76)(cid:89)(cid:72)(cid:79)(cid:79)(cid:76)(cid:3)(cid:74)(cid:72)(cid:85)(cid:68)(cid:85)(cid:70)(cid:75)(cid:76)(cid:70)(cid:76)
+Fair Value  31/12/2017  Fair Value  31/12/2016 
+VN  VN 
+31/12/2017  31/12/2016 
+L1  L2  L3  L1  L2  L3 
+A. Derivati finanziari  -  16.040  -  207.305  -  16.209  -  58.384 
+1) Fair value  -  16.040  -  207.305  -  16.209  -  58.384 
+2) Flussi finanziari  -  -  -  -  -  -  -  - 
+3) Investimenti esteri  -  -  -  -  -  -  -  - 
+B. Derivati creditizi  -  -  -  -  -  -  -  - 
+1) Fair value  -  -  -  -  -  -  -  - 
+2) Flussi finanziari  -  -  -  -  -  -  -  - 
+Totale  -  16.040  -  207.305  -  16.209  -  58.384 
+(cid:3)
+Legenda:
+VN = valore nozionale
+L1 = Livello 1
+L2 = Livello 2
+L3 = Livello 3
+(cid:25)(cid:17)(cid:21)(cid:3)(cid:39)(cid:72)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:68)(cid:73)(cid:82)(cid:74)(cid:79)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:76)(cid:3)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:87)(cid:76)(cid:83)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:68)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)
+Fair Value  Flussi finanziari 
+Investimenti 
+Operazioni/Tipo di copertura  Specifica  esteri 
+Generica  Specifica  Generica 
+Rischio di  Rischio di  Rischio di  Rischio di 
+Più rischi 
+tasso  cambio  credito  prezzo 
+1. Attività finanziarie disponibili per la vendita  12.307  -  -  -  -  x  -  x  x 
+2. Crediti  -  -  -  x  -  x  -  x  x 
+3. Attività finanziarie detenute sino alla scadenza  x  -  -  x  -  x  -  x  x 
+4. Portafoglio  x  x  x  x  x  3.733  x  -  x 
+5. Altre operazioni  -  -  -  -  -  x  -  x  - 
+Totale attività  12.307  -  -  -  -  3.733  -  -  - 
+1. Passività finanziarie  -  -  -  x  -  x  -  x  x 
+2. Portafoglio  x  x  x  x  x  -  x  -  x 
+Totale passività  -  -  -  -  -  -  -  -  - 
+1. Transazioni attese  x  x  x  x  x  x  -  x  x 
+2. Portafoglio di attività e passività finanziarie  x  x  x  x  x  -    -  - 
+(cid:3)
+Sezione 8 – Passività ﬁscali – Voce 80
+Per questa sezione si rimanda alla sezione 13 dell’attivo.
+171

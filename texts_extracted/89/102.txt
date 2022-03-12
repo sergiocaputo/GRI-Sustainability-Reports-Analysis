@@ -1,0 +1,35 @@
+103
+    records, the operating methods used to compile them and the instances in which the records  
+    are to be updated.
+     Manual  on  risk  analysis  and  data  protection  impact  assessment  (DPIA):   
+    defines the guidelines for executing risk analysis and DPIAs, outlining the methodological  
+    approach, the cases in which a DPIA has to be performed, the valuation metrics and the cases  
+    in which the analysis or assessment are to be updated.
+     Manual on personal data retention: defines the criteria for identifying the retention periods for  
+    the different categories of personal data processed and the general rules according to which  
+    company procedures are to be drawn up to guarantee that the requirements in the area of  
+    data retention are applied.
+  The awareness programme has also been revised to reflect the developments in new cyber threats. 
+The main features of the programme are as follows:
+     Annual compulsory training course on cyber security launched at Group level, including a final  
+    test;
+     Extending the programme of training to Group companies in English;
+     Page created in users’ “My Area” containing information on proper conduct to be adopted in  
+    the information security area.
+  Regular security bulletins are also sent to Group users advising them of the principal risks and 
+phishing campaigns in progress.
+  The new methodology and the IT Risks Policy have been shared with the Board of Directors of 
+Mediobanca. Some of the main changes include: in corporation of new regulatory guidelines, 
+improved methodology, IT risk analysis process, and more efficient organization to support the 
+risk governance process.
+  In a scenario of ongoing improvement of services, the framework of controls has been fine-tuned 
+further in order to appraise its effectiveness and highlight vulnerabilities.
+  This year too, security measures have been defined to reduce the IT risk for the individual Group 
+companies’ assets that are below the acceptable limits.
+  The Italian companies in the Mediobanca Group adopt ex ante and ex post controls at local level 
+and maintain formalized reporting flows between the Group Data Protection unit and the Group 
+companies themselves. They also perform regular annual and event-based controls.
+  During FY 2019-20, Mediobanca SGR e MBRES37 were audited on the structure, functioning and IT 
+systems with reference to alignment with the GDPR.
+37. All Group companies (CheBanca!, Compass, Futuro, Mediobanca, MB Credit Solution, MBFacta, MB International, MIS, SelmaBPM, Spafid) were audited in the 
+course of the last financial year on their alignment with the GDPR 

@@ -1,0 +1,38 @@
+calcolo 4
+E E
+rendimento (medio) = i x η+ t x η
+i  t
+(E+ E) (E+ E)
+i  t i  t
+dove: 
+E = energia idroelettrica totale prodotta
+i
+E = energia termoelettrica totale prodotta 
+t
+= rendimento idroelettrico      
+i
+ 
+ = rendimento termoelettrico   
+rendimento (medio) = rendimento medio della produzione 
+calcolo 5
+E E
+rendimento (medio) = i x η+ T x η
+(E+ E) i  (E+ E) T
+i  T i  T
+dove: 
+E= energia idroelettrica totale prodotta
+i 
+E  = somma dell’energia (termoelettrica e termica) totale prodotta
+T
+η= rendimento idroelettrico      
+i 
+ 
+η  = rendimento termoelettrico (termoelettrico + termico)     
+T
+rendimento (medio) = rendimento medio della produzione 
+calcolo 6
+Energia elettrica lorda prodotta (kWh)
+rendimento di recupero (kWh/kg) = 
+CSS (kg)
+Energia elettrica lorda prodotta (kWh) = energia elettrica lorda prodotta a San Vittore del Lazio (15)
+262 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

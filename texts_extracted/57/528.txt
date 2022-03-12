@@ -1,0 +1,61 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+2017 Popolare Bari RMBS Srl
+In data 7 luglio 2017 il Gruppo Banca Popolare di Bari ha perfezionato un’operazione di Autocartolarizzazione mul-
+ti-originator, cedendo un portafoglio di mutui residenziali in bonis e individuati sulla base di criteri predeﬁniti in 
+modo da costituire un “blocco” ai sensi della legge sulla Cartolarizzazione 130/1999, per un ammontare di crediti in 
+linea capitale pari ad euro 728,3 milioni, di cui 601,7 milioni derivanti da BPB e 126,6 milioni da CRO.
+Il portafoglio è costituito per circa 73 milioni da crediti derivanti dalla chiusura dell’operazione Popolare Bari Mort-
+gages Srl e da un ulteriore portafoglio non precedentemente cartolarizzato.
+(cid:54)(cid:82)(cid:70)(cid:76)(cid:72)(cid:87)(cid:106)(cid:3)(cid:57)(cid:72)(cid:76)(cid:70)(cid:82)(cid:79)(cid:82) (cid:21)(cid:19)(cid:20)(cid:26)(cid:3)(cid:51)(cid:82)(cid:83)(cid:82)(cid:79)(cid:68)(cid:85)(cid:72)(cid:3)(cid:37)(cid:68)(cid:85)(cid:76)(cid:3)(cid:53)(cid:48)(cid:37)(cid:54)(cid:3)(cid:54)(cid:85)(cid:79)(cid:3)
+Tipologia operazione Tradizionale
+Originator Banca Popolare di Bari - Cassa di Risparmio di Orvieto
+Servicer Banca Popolare di Bari 
+Arranger J.P.Morgan
+Computation Agent Securitisation Services SpA
+Corporate Servicer Securitisation Services SpA
+Tipologia attività cartolarizzate RMBS - Mutui residenziali ipotecari
+Qualità attività cartolarizzate In bonis
+Data di godimento 07/07/2017
+Prezzo di cessione del portafoglio 728.304.805
+ - di cui Originator Banca Popolare di Bari  601.660.921
+ - di cui Originator Cassa di Risparmio di Orvieto 126.643.884
+(cid:55)(cid:82)(cid:87)(cid:68)(cid:79)(cid:72)(cid:3)(cid:180)(cid:39)(cid:72)(cid:70)(cid:68)(cid:85)(cid:87)(cid:82)(cid:79)(cid:68)(cid:85)(cid:76)(cid:93)(cid:93)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:181)(cid:3)(cid:68)(cid:3)(cid:192)(cid:81)(cid:72)(cid:3)(cid:72)(cid:86)(cid:72)(cid:85)(cid:70)(cid:76)(cid:93)(cid:76)(cid:82)
+Mutuo a ricorso limitato concesso dell’Originator Banca Popolare 
+di Bari 
+Mutuo a ricorso limitato concesso dell’Originator Cassa di Ri-
+sparmio di Orvieto
+Agenzie di Rating Moody’s/DBRS 
+(importi in euro)
+Gli originator Banca Popolare di Bari e Cassa di Risparmio di Orvieto hanno ceduto alla Società Veicolo “2017 Popo-
+lare Bari RMBS Srl” un ammontare complessivo di crediti pari ad euro 728.305 mila.
+A fronte dei crediti ceduti nonchè della costituzione di una riserva di liquidità e di un retention amount pari a com-
+plessivi euro 19.684 mila, la Società Veicolo “2017 Popolare Bari RMBS Srl” ha emesso quattro distinte classi di titoli 
+Asset Backed Securities (ABS), di cui una senior (A), una mezzanine (B) e due junior (J1 e J2), per un ammontare 
+complessivo di euro 747.990 mila.
+Alle classi Senior e Mezzanine è stato attribuito il rating da DBRS Rating Limited e da Moody’s.
+(cid:3)
+Valore 
+Data  Valore 
+Rating   residuo a 
+Titolo  Classe  Piazza Quotazione  Tasso/Spread  rimborso  nominale  Sottoscrittore 
+DBRS/Moody’s  fine 
+finale  emesso 
+esercizio 
+3 Months 
+A  Senior  Borsa Irlandese  AA/Aa2  30/04/2058  597.210  571.872  Terzi investitori 
+Euribor/0,4 
+3 Months 
+B  Mezzanine  Borsa Irlandese  AH/A2  30/04/2058  58.264  58.264  di cui 
+Euribor/0,6 
+48.133  48.133  Banca Popolare di Bari 
+           
+10.131  10.131  Cassa di Risparmio di Orvieto 
+           
+J1  Junior  n.q.  Variable Return  not rated  30/04/2058  76.428  76.428  Banca Popolare di Bari 
+J2  Junior  n.q.  Variable Return  not rated  30/04/2058  16.088  16.088  Cassa di Risparmio di Orvieto 
+Totale  747.990  722.652 
+           
+(cid:3) (cid:3) (importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+(cid:3)
+In considerazione dell’elevata qualità del portafoglio sottostante (rating Aa2 Moody’s e AA DBRS) e dei beneﬁci in 
+528

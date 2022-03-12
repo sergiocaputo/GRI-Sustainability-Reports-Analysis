@@ -1,0 +1,42 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+procedura CRS (Credit Rating System), dell’outsourcer Cedacri. Per quanto 
+riguarda il segmento Privati di Banca Mediolanum, che in termini di esposizione 
+costituisce il portafoglio principale, il modello di rating è stimato e calibrato 
+utilizzano dati interni. Nella valutazione del merito creditizio, allo scopo di 
+rendere il più completo possibile l’insieme di dati in input al modello, sono state 
+considerate sia informazioni interne (anagrafiche e andamentali) che esterne 
+(segnalazioni in Centrale Rischi e in CRIF), mediante un approccio modulare.
+Per quanto riguarda l’operatività con controparti Bancarie le politiche in 
+essere prevedono l’utilizzo un modello di rating interno che definisce le 
+modalità di valutazione del merito creditizio per tutte le operazioni poste in 
+essere dalla tesoreria della Banca. 
+Le modalità di intervento messe in atto da ogni Società per la tutela 
+del credito costituiscono un’informativa periodica ai rispettivi Consigli di 
+Amministrazione. 
+Il processo di monitoraggio di secondo livello, predisposto dalla Funzione Risk 
+Management, ha l’obiettivo di analizzare la qualità del credito e le dinamiche 
+delle esposizioni a rischio lungo le fondamentali direttrici regolamentari 
+e gestionali calcolando indicatori sintetici di rischio e rappresentandone 
+l’evoluzione nel tempo al fine di predisporre piani d’azione necessari a 
+mitigare o evitare i fattori di rischio. 
+In particolare, la Funzione Risk Management predispone: 
+  Reporting periodico: rappresenta la reportistica predisposta 
+periodicamente al fine di monitorare la qualità del portafoglio crediti 
+attraverso il calcolo di Key Risk Indicators e la rappresentazione di 
+determinate variabili/parametri di rischio. Nell’ambito di tale reporting 
+si evidenzia il rispetto dei limiti e dei parametri definiti nel RAF e il 
+trend evolutivo del portafoglio crediti. 
+  Controlli di tipo “massivo”: si tratta di controlli applicati al portafoglio 
+creditizio nel suo complesso oppure a suoi sotto-insiemi rilevanti 
+(es.: segmento di clientela, area geografica, tipologia di affidamento, 
+ecc.) che consentono di evidenziare comportamenti potenzialmente 
+“anomali” del portafoglio oggetto di analisi. Il superamento di soglie 
+di attenzione definite in corrispondenza dei controlli di tipo massivo 
+può attivare lo svolgimento di verifiche di tipo campionario che 
+consentono l’approfondimento delle anomalie riscontrate sulle singole 
+posizioni. 
+  Controlli di tipo “campionario”: si tratta di controlli svolti sulle 
+singole posizioni creditizie che rientrano nei campioni selezionati 
+dal Risk Management sulla base di specifici criteri. I controlli di tipo 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 601

@@ -1,0 +1,40 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+  nella voce “80. Risultato netto dell’attività di negoziazione” per le 
+attività finanziarie iscritte nella voce “20. a) Attività finanziarie detenute 
+per la negoziazione”;
+  nella voce “110. a) Risultato netto delle altre attività e passività 
+finanziarie valutate al fair value con impatto a conto economico: 
+attività e passività finanziarie designate al fair value” per le attività 
+finanziarie iscritte nella voce “20. b) Attività finanziarie designate al fair 
+value”;
+  nella voce “110. b) Risultato netto delle altre attività e passività 
+finanziarie valutate al fair value con impatto a conto economico: 
+altre attività finanziarie obbligatoriamente valutate al fair value” per 
+le attività finanziarie iscritte nella voce “20. c) Altre attività finanziarie 
+obbligatoriamente valutate al fair value”.
+La determinazione del fair value delle attività finanziarie è basata su prezzi 
+rilevati in mercati attivi o su modelli interni di valutazione generalmente 
+utilizzati nella pratica finanziaria come più dettagliatamente descritto nella 
+Parte A.4 “Informativa sul Fair Value.”
+2 - Attività finanziarie valutate al fair value con impatto sulla redditività 
+complessiva (FVOCI) 
+In tale voce sono classificate le attività finanziarie i cui termini contrattuali 
+prevedono, a determinate date, flussi finanziari rappresentati unicamente 
+da pagamenti del capitale e dell’interesse sul capitale da restituire e che 
+pertanto hanno superato il SPPI test e con Business Model “Held To Collect 
+and Sell”, che ha come obiettivo la gestione di strumenti finanziari di breve 
+termine per il mero soddisfacimento di esigenze di liquidità.
+Con riferimento ai titoli di capitale, rispetto a quanto previsto dallo IAS 39, 
+l’IFRS 9 ha previsto che tale tipologia di strumento finanziario possa essere 
+clasificato FVOCI solo se designato irrevocabilmente a tale classe; in caso 
+di cessione gli utili e le perdite da compravendita sono sospesi a patrimonio 
+netto e non girocontati a conto economico. L’iscrizione iniziale avviene solo 
+quando la Società diventa parte nelle clausole contrattuali dello strumento, 
+ossia al momento del regolamento. Il valore di iscrizione è pari al fair value 
+generalmente coincidente con il costo dello strumento comprensivo dei costi/
+ricavi di transazione ad esso direttamente imputabili.
+Successivamente alla rilevazione iniziale tali attività continuano ad essere 
+valutate al fair value con imputazione delle variazioni di valore alla voce “120. 
+Riserve da valutazione”.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 146

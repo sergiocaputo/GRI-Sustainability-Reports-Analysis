@@ -1,0 +1,69 @@
+19. Total number of employees divided by age group, gender and level
+A
+P
+2017 2018 2019 PE
+N
+Employees (head count) u.m. Men Women Total Men Women Total Men Women Total D
+IX
+Executives no. - - 69 67 13 80 84 13 97
+under 30 no. - - - - - - - - -
+between 30 and 50 no. - - 38 35 7 42 51 6 57
+over 50 no. - - 31 32 6 38 33 7 40
+Managers no. - - 306 222 132 354 242 158 400
+under 30 no. - - 1 - 1 1 3 3 6
+between 30 and 50 no. - - 213 143 86 229 164 101 265
+over 50 no. - - 92 79 45 124 75 54 129
+Other employees no. - - 1,617 563 1,259 1,822 666 1,396 2,062
+under 30 no. - - 250 70 138 208 107 149 256
+between 30 and 50 no. - - 1,156 408 928 1,336 452 1,011 1,463
+over 50 no. - - 211 85 193 278 107 236 343
+Total no. - - 1,992 852 1,404 2,256 992 1,567 2,559
+20. Total percentage of employees by gender, employee category and age who received a perio-
+dic performance and professional development assessment during the reporting period
+2018
+Employees who receive regular performance and 
+u.m. Men Women Total
+career assessments
+Executives no. 51 12 63
+% executives % 76% 92% 79%
+Managers no. 106 75 181
+% managers % 48% 57% 51%
+Other employees no. 58 62 120
+% other employees % 10% 5% 7%
+% of Total % 25% 11% 16%
+2019
+Employees who receive regular performance and 
+u.m. Men Women Total
+career assessments
+Executives no. 68 12 80
+% executives % 81% 92% 82%
+Managers no. 127 92 219
+% managers % 52% 58% 55%
+Other employees no. 100 82 182
+% other employees % 15% 6% 9%
+% of Total % 30% 12% 19%
+21. Total number of employees belonging to protected categories divided by age group, gen-
+der and level
+2017 2018 2019
+Employees belonging to protected categories58 u.m. Men Women Total Men Women Total Men Women Total
+Executives belonging to protected categories no. - - - - - - - - -
+% Executives belonging to protected 
+% - - 0% 0% 0% 0% 0% 0% 0%
+categories
+Managers belonging to protected categories no. 1 - 1 1 4 5 1 4 5
+% Managers belonging to protected 
+% - - 0.3% 0.5% 3.0% 1.4% 0.4% 2.5% 1.3%
+categories
+Office workers belonging to protected 
+no. 24 44 68 29 45 74 30 55 85
+categories
+% Office workers belonging to protected 
+% - - 4.2% 5.2% 3.6% 4.1% 4.5% 3.9% 4.1%
+categories
+Total no. 25 44 69 30 49 79 31 59 90
+% Employees belonging to protected categories % - - 3.5% 3.5% 3.5% 3.5% 3.1% 3.8% 3.5%
+58  Protected Categories is intended as employees hired obligatorily, for example: victims of duty or terrorist actions; 
+victims of terrorism and organised crime; disabled war veterans; disabled civil war veterans; disabled by service; di-
+sabled due to work; civil disabled people; widows and orphans (of war, due to service and work) and equivalent; deaf 
+and dumb; blind receptionists; refugees.
+139

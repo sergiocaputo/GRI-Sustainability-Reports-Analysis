@@ -1,0 +1,44 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019 
+ 
+Di seguito, si riportano le emissioni dirette ed indirette di gas serra (CO2) dovute ai 
+consumi energetici del Gruppo. 
+Emissioni di CO2   Unità di misura  2019 
+Emissioni (Scope 1)  tCO2  2.284 
+Emissioni  (Scope 2) Market Based   tCO2  4.132 
+Emissioni (Scope 2) Location Based  tCO2  2.685 
+ 
+Per il dato relativo al 2019 è stato utilizzato per il gas naturale un coefficiente di emissione pari a 0,001975 
+tCO2/Sm3, per il gasolio per riscaldamento pari a 3,155 tCO2/t, per il gasolio per autotrazione pari a 3,151 
+tCO2/t, per la benzina pari a 3,14 tCO2/t, per il GPL pari a 3,026 tCO2/t (Fonte ISPRA 2019 e ISPRA NIR). 
+Lo standard di rendicontazione utilizzato (GRI Sustainability Reporting Standards 2016) prevede due diversi 
+approcci di calcolo delle emissioni di Scope 2: “Location-based “e “Market-based “. L’approccio “Location-
+based” prevede l’utilizzo di un fattore di emissione medio nazionale relativo allo specifico mix energetico 
+nazionale per la produzione di energia elettrica (coefficiente di emissione utilizzato per l’Italia pari a 316 
+gCO2/kWh, Fonte: ISPRA 2019- Fattori di emissione atmosferica di gas a effetto serra nel settore elettrico 
+nazionale e nei principali Paesi Europei). L’approccio “Market-based” prevede l’utilizzo di un fattore di 
+emissione definito su base contrattuale con il fornitore di energia elettrica. Vista l’assenza di specifici accordi 
+contrattuali tra le società del Gruppo ed il fornitore di energia elettrica (es. acquisto di Garanzie di Origine), per 
+questo approccio è stato utilizzato il fattore di emissione relativo ai “residual mix” nazionale (coefficiente di 
+emissione utilizzato pari a 483 gCO2/kWh, Fonte: AIB - European Residual Mixes 2018). 
+ 
+Le emissioni [Scope 1 e Scope 2] sono espresse in tonnellate di CO2, in quanto la fonte utilizzata non riporta i 
+fattori di emissione degli altri gas diversi dalla CO2, tuttavia la percentuale di metano e protossido di azoto ha 
+un effetto trascurabile sulle emissioni totali di gas serra (CO2equivalenti) come desumibile dalla letteratura 
+tecnica di riferimento.  
+ 
+Consumi di carta e di altri rifiuti             
+Il tipo di rifiuto principalmente generato dal Gruppo è la carta, utilizzata a supporto 
+dell’attività bancaria. Per questo motivo è stato avviato un processo di riduzione dei rifiuti 
+in primis dalla carta stessa. 
+Il Gruppo Cassa di Risparmio di Asti ha lavorato sulla dematerializzazione dei documenti, 
+introducendo la firma grafometrica con l’uso di tablet per la firma delle contabili e dei 
+contratti ed incentivando i clienti ad acconsentire all’invio di tali documenti tramite e-
+mail. 
+La dematerializzazione dei documenti con il progetto “Dematerializzazione busta di cassa 
+e  contratti”,  portato  a  termine  nel  2017, ha  permesso  la  dematerializzazione  delle 
+contabili di sportello e dei contratti con la Firma Elettronica Avanzata (FEA) e il 
+conseguente snellimento dei processi di archiviazione. 
+La soluzione di Firma Elettronica Avanzata, consente al cliente, tramite un apposito 
+tablet,  di  leggere  e  sottoscrivere  contabili  e  contratti  in  maniera  totalmente 
+59 
+ 

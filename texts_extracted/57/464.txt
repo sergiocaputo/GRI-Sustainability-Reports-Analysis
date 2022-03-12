@@ -1,0 +1,45 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+(cid:20)(cid:23)(cid:17)(cid:21)(cid:3)(cid:51)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:76)(cid:80)(cid:83)(cid:82)(cid:86)(cid:87)(cid:72)(cid:3)(cid:71)(cid:76)(cid:73)(cid:73)(cid:72)(cid:85)(cid:76)(cid:87)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+31/12/2017  31/12/2016 
+A. Imposte differite con contropartita a Conto Economico 
+    - su adeguamento valore immobili  8.781  8.878 
+    - per interessi di mora e plusvalenze non realizzate  11.684  8.693 
+    - su attualizzazione fondi  222  222 
+    - altre  51  727 
+Totale a Conto Economico  20.738  18.520 
+B. Imposte differite con contropartita a Patrimonio Netto 
+    - per plusvalenze su titoli disponibili per la vendita  1.690  1.185 
+    - altre  59  59 
+Totale a Patrimonio Netto  1.749  1.244 
+Totale imposte differite  22.487  19.764 
+(cid:20)(cid:23)(cid:17)(cid:22)(cid:3)(cid:57)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:82)(cid:86)(cid:87)(cid:72)(cid:3)(cid:68)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:83)(cid:68)(cid:87)(cid:72)(cid:3)(cid:11)(cid:76)(cid:81)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:82)(cid:83)(cid:68)(cid:85)(cid:87)(cid:76)(cid:87)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:82)(cid:3)(cid:72)(cid:70)(cid:82)(cid:81)(cid:82)(cid:80)(cid:76)(cid:70)(cid:82)(cid:12)
+31/12/2017  31/12/2016 
+ 
+1. Importo iniziale    417.651    484.604 
+2. Aumenti    44.636    20.580 
+2.1 Imposte anticipate rilevate nell'esercizio    44.636    16.640 
+a) relative a precedenti esercizi    -    - 
+b) dovute al mutamento di criteri contabili    -    - 
+c) riprese di valore    -    - 
+d) altre    44.636    16.640 
+2.2 Nuove imposte o incrementi di aliquote fiscali    -    - 
+2.3 Altri aumenti    -    - 
+2.4 Operazioni di aggregazione aziendale    -    3.940 
+3. Diminuzioni    31.883    87.533 
+3.1 Imposte anticipate annullate nell'esercizio    31.883    59.923 
+a) rigiri    31.883    59.923 
+b) svalutazioni per sopravvenuta irrecuperabilità    -    - 
+c) mutamento di criteri contabili    -    - 
+d) altre    -    - 
+3.2 Riduzioni di aliquote fiscali    -    - 
+3.3 Altre diminuzioni    -    27.610 
+a) trasformazione in crediti d'imposta di cui alla L. 214/2011    -    27.517 
+b) altre    -    93 
+4. Importo finale    430.404    417.651 
+(cid:3)
+Gli aumenti si riferiscono essenzialmente all’iscrizione di imposte anticipate sulla perdita ﬁscale del periodo delle 
+banche del Gruppo e sull’impairment dell’avviamento della Capogruppo conﬂuito nel Consolidato.
+Nella voce “Diminuzioni” è compreso il rigiro, pari a euro 14,6 milioni, delle imposte anticipate conseguente alla 
+deduzione, in capo alla Capogruppo, del primo quinto del contributo dello “schema volontario” del FITD erogato in 
+favore della incorporata ex Banca Tercas, come previsto dal D.l. 18/2016.
+464

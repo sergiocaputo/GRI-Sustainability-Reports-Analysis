@@ -1,0 +1,77 @@
+04_PRODUCTS AND CUSTOMERS_CUSTOMER FOCUS
+    
+Quality Processes Engineering and Quality teams also study how vehicles perform in 
+less predictable environments. Reliability test fleet vehicles are driven 
+For every FCA vehicle, quality considerations ranging from customer  day and night on public road surfaces, at high and low altitudes 
+expectations to functional requirements are analyzed from the  and through blizzard conditions, as well as dry, desert heat and hot, 
+earliest stages of design. A cross-functional initiative within FCA  humid locations all over the globe. We conduct extreme weather 
+focuses on managing risks and implementing solutions for new  testing at a number of facilities worldwide, including in Sweden, 
+vehicles. The program assesses the risk of items, such as new  South Africa and the Middle East, as well as at a cold weather testing 
+vehicle features, during the design phase, which is then evaluated  facility in Fairbanks (U.S.).
+against existing data and processes to determine if different testing 
+In addition to monitoring throughout the product development 
+or timing approaches are needed. The program helps identify and 
+process, the Connected Customer Fleet (CCF) program allows 
+avoid potential issues earlier in the vehicle development process and 
+selected customers to participate in an online community to provide 
+makes implementing solutions more cost effective.
+earlier and more extensive vehicle feedback to FCA than traditional 
+At times, differences in customer expectations or regulatory  methods. In 2018, FCA implemented a version of the program to 
+requirements within a specific market have an impact on quality  better understand our commercial customers and their duty cycles. 
+standards. When this occurs, FCA typically applies the most  Feedback from these customers is being used to change design 
+stringent specifications to all markets. These market-based  standards and targets. Programs such as CCF help to rapidly 
+differences add complexity and make close cooperation across  identify and resolve potential issues with new models and improve 
+regions an essential part of the process. To support global quality  customer satisfaction.
+collaboration, the Global Issue Management (GIM) system provides 
+a single repository that is available in five languages to help 
+expedite issue resolution across functional groups and regions.   CUSTOMER EXPERIENCE
+Benefits of the GIM system extend beyond our internal resources 
+by providing our supply chain access to view and address supplier-
+FCA  understands  that  changing  customer  sentiment  and 
+related issues. In 2018, the GIM system moved further up in the 
+expectations, along with technology, are impacting how we 
+overall vehicle process into the Product Development phase.  
+interact with customers. As we aim to build loyalty among existing 
+By making this improvement, issues are identified and tracked earlier 
+customers and appeal to potential new customers, we also are 
+in one system that can be seen by team members in all regions.
+focusing on providing convenient communication channels and 
+Inside FCA assembly plants, we operate state-of-the-art metrology 
+positive experiences. Our dealer network is the primary face-to-
+centers - high-tech laboratories with a clean-room environment.  
+face connection with customers and FCA has worked with our 
+The metrology labs use laser scanners and a complex set of 
+network to help them update sales and service processes that 
+fixtures that mimic the body shop’s process so that engineers and 
+accommodate brand values, local requirements, and different 
+technicians can assess and mitigate build parameters to evaluate 
+customer needs. Several measures have been implemented over 
+risk more proactively. All of these tools are used to find and resolve 
+time to improve processes, customer service standards and service 
+issues before vehicles are shipped to dealers, and ultimately, to the 
+quality for the Group’s dealer network, the vast majority of which is 
+end customers. As part of our quality approach, all Group plants 
+privately owned. 
+have adopted a Quality Management System that is ISO 9001 
+Customer experiences are monitored on a market basis through 
+certified, and all powertrain plants in Europe are also ISO/TS 16949 
+surveys that provide insight into customer advocacy and satisfaction 
+certified.
+with the dealer network. Results are integrated into dealer processes, 
+FCA conducts thousands of reliability, capability and durability tests 
+customer contact center management, and training programs. One 
+each year at our proving grounds in Chelsea (U.S.) and Balocco 
+primary approach used by FCA is an advocacy measurement to 
+(Italy). During 2018, a new facility was dedicated at the Chelsea 
+track customer satisfaction. This figure represents the percentage 
+Proving Grounds to allow for testing of various levels of autonomy 
+of customers who are likely to recommend the dealer to a friend or 
+and enable the Company to evaluate FCA vehicles using test 
+family member based on their sales or service experience. In the 
+protocols from third parties, such as the Insurance Institute for 
+U.S. and in the EMEA region’s major markets, the sales and service 
+Highway Safety (IIHS), U.S. New Car Assessment Program (NCAP) 
+advocacy results remained stable in 2018 compared with 2017.
+and European New Car Assessment Program (EuroNCAP), plus 
+additional electronic brake test simulations.
+84

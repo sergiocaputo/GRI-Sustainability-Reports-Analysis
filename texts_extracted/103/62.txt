@@ -1,0 +1,62 @@
+Sustainability Report at 31 March 2019 of the Piquadro Group 
+ 
+4.3  Air emissions 
+ 
+ 
+With regard to greenhouse gas (GHG) emissions, in the 2018/2019, the Group produced 1,999 
+t CO eq according to the location-based17 calculation method, deriving from the consumption 
+2
+of electricity and non-renewable fuels. 
+ 
+In particular, direct emissions (Scope 1), i.e. from consumption of natural gas, LPG, diesel and 
+petrol amounted to around 599 t CO eq. 
+2
+ 
+Indirect emissions (Scope 2) on the other hand, resulting from the purchase of electricity from 
+the grid, amounted to a total of around 1,400 t CO  according to the location-based calculation 
+2
+method and around 1,647 t CO  according to the "market-based" calculation method. 
+2
+ 
+Scope 1 GHG emissions [tCO eq]18 
+2
+ 
+Type of source  2017/2018  2018/2019 
+Scope 119   
+Use of fuel for heating  309  398 
+ of which: natural gas  143  215 
+of which: LPG  142  159 
+of which : diesel  23  24 
+Use of petrol for company fleet  12  16 
+Use of diesel for company fleet  169  185 
+Total Scope 1  490  599 
+   
+Scope 220   
+Purchased electricity (location-based)  1,262  1,400 
+     
+Scope 2   
+Purchased electricity (market-based)  1,492  1,647 
+ 
+ 
+                                                
+17 GRI Sustainability Reporting Standards provide two methodologies for calculating the emissions of Scope 2: "Location-based" 
+and "Market-based". The "Location-based" reflects the average intensity of emissions from the total national electricity production, 
+while the "Market-based" method reflects the emissions from electricity that companies have chosen to use and is therefore 
+calculated by emission factors that also consider contractual instruments for the sale and purchase of certified electricity. 
+18 It should be noted that for better alignment with what is required by the GRI 305-1 standard to calculate Scope 1 emissions, 
+an updated source of emission factors was used that restores emissions into CO2eq. Emissions from Scope 2 are instead 
+expressed in tonnes of CO2, however, the percentage of methane and nitrous oxide has a negligible effect on total greenhouse 
+gas emissions (CO2eq), as inferred from the related technical literature. It should be noted that following the process of improving 
+the reporting system of  greenhouse gas emissions and updating the sources of the emissions factor sources, data for 2017/2018 
+has been restated as compared to that published in the previous NFS. For previously published data, please refer to the NFS of 
+31 March 2018, available on the website www.piquadro.it in the Investor Relations/Sustainability Report section. 
+19 To calculate Scope 1 emissions, the emission factors published by the Department for Environment, Food & Rural Affairs, UK 
+(DEFRA), in Greenhouse gas reporting - Conversion factors 2018 were used. 
+20 To calculate Scope 2 emissions with the “location-based” method, emission factors reported within the publication Confronti 
+Internazionali, Terna 2016 were used. With regard to the calculation of emissions using the “market-based” method, Residual 
+mix emission factors were used published by the Association of Issuing Bodies (AIB) in the document European Residual Mixes 
+2017; these factors have only been applied for the following countries: Italy, French Great Britain and Spain. In other cases where 
+factors were unavailable, the same factors used for the calculation with the “location-based” method were maintained. 
+62 
+ 
+ 

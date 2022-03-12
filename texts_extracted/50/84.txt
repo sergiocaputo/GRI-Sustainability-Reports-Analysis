@@ -1,0 +1,29 @@
+
+ 
+ 
+  per chi non dispone di mouse, attraverso il tasto ‘tabulazione’ o le ‘frecce di direzione’,   
+presenti sulla tastiera è possibile raggiungere tutti i contenuti presenti nel sito; 
+  i testi sono chiari e semplici;  
+  per agevolare l’accesso ai soggetti ipovedenti è prevista una modalità di visualizzazione 
+dei testi a caratteri ingranditi, aumentabili via browser, senza pregiudicare la leggibilità 
+degli stessi; 
+  utilizzo di linguaggi informatici standard, rispettando le grammatiche formali stabilite da 
+organismi  internazionali,  per  ottenere  il  miglior  grado  di  compatibilità  con  i  diversi 
+browsers e dispositivi tecnologici. 
+Infine, sono stati adottati i principi WCAG (Web Content Accessibility Guidelines) per i quali 
+l’accessibilità  nel  web  deve  essere  caratterizzata  da  un’ottima  percepibilità,  utilizzabilità, 
+comprensibilità e robustezza dei contenuti, in particolare:  
+  il sito fornisce all’utente strumenti che permettono una navigazione facile; 
+  agli utenti viene concesso abbastanza tempo nell’interazione con i contenuti per leggerli 
+e utilizzarli;  
+  il  comportamento  funzionale  e  interattivo  di  una  componente  del  sito  è  sempre 
+prevedibile; 
+  i contenuti sono configurati così che l’eventuale rischio di attacchi epilettici a causa degli 
+stimoli visuali è minimizzato.  
+ 
+  
+ 
+ 
+   
+85 
+ 

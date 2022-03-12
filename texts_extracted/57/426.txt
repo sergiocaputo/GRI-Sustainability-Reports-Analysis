@@ -1,0 +1,45 @@
+Nota Integrativa | Parte A | Politiche Contabili
+Nel caso in cui tale differenza risulti negativa (cd. badwill) o nell’ipotesi in cui la differenza positiva (c.d. goodwill) non 
+trovi giustiﬁcazione nelle capacità reddituali future della partecipata, la differenza stessa viene iscritta direttamente 
+a conto economico.
+Criteri di valutazione e di rilevazione delle componenti reddituali
+Dopo la rilevazione iniziale, le immobilizzazioni immateriali a vita “deﬁnita” sono iscritte al costo al netto dell’ ammon-
+tare complessivo degli ammortamenti e delle perdite di valore accumulate.
+L’ammortamento è effettuato a quote costanti e riﬂette l’utilizzo pluriennale dei beni in base alla vita utile stimata.
+Il processo di ammortamento inizia quando il bene è disponibile per l’uso ovvero quando si trova nel luogo e nelle 
+condizioni adatte per poter operare nel modo stabilito. Nel primo esercizio l’ammortamento è rilevato proporzional-
+mente al periodo di effettivo utilizzo del bene. L’ammortamento cessa o dal momento in cui l’attività immateriale è 
+classiﬁcata come “destinata alla cessione” oppure, se anteriore, dalla data in cui l’attività è stornata. Ad ogni chiusu-
+ra di bilancio, alla presenza di evidenze di perdite di valore, si procede alla stima del valore di recupero dell’attività. 
+L’ammontare della perdita, rilevata a conto economico, è pari alla differenza tra il valore contabile dell’attività ed il 
+valore recuperabile.
+Dopo la rilevazione iniziale l’avviamento è rilevato al costo, al netto delle svalutazioni per perdite di valore accumula-
+te. L’avviamento acquisito in un’aggregazione di imprese non è ammortizzato, ma è invece assoggettato alla veriﬁca 
+di perdita di valore (impairment test) annualmente, o più frequentemente se eventi o cambiamenti di circostanze 
+indicano possibile una perdita di valore.
+A tal ﬁne viene identiﬁcata l’unità generatrice di ﬂussi ﬁnanziari cui attribuire l’avviamento. L’ammontare dell’even-
+tuale riduzione di valore è determinato sulla base della differenza tra il valore d’iscrizione dell’avviamento ed il suo 
+valore di recupero, se inferiore.
+Detto valore di recupero è pari al maggiore tra il fair value dell’unità generatrice di ﬂussi ﬁnanziari, al netto degli 
+eventuali costi di vendita, ed il relativo valore d’uso. Le conseguenti rettiﬁche di valore vengono rilevate a conto 
+economico.
+Criteri di cancellazione
+Le attività immateriali sono eliminate dallo stato patrimoniale dal momento della dismissione o quando non siano 
+attesi beneﬁci economici futuri. Le plusvalenze e le minusvalenze derivanti dallo smobilizzo o dalla dismissione di 
+un’attività immateriale sono determinate come differenza tra il corrispettivo netto di cessione e il valore contabile 
+del bene. 
+Sezione 10 - Attività non correnti in via di dismissione
+Il Gruppo non ha classiﬁcato attività ﬁnanziarie in tale categoria.
+Sezione 11 - Fiscalità corrente e differita
+Fiscalità corrente
+Le “Attività e passività ﬁscali per imposte correnti” sono rilevate al valore dovuto o recuperabile a fronte dell’utile 
+(perdita) ﬁscale, applicando le aliquote e la normativa ﬁscale vigenti; si tratta in pratica delle imposte che si prevede 
+risulteranno dalla dichiarazione dei redditi.
+Le imposte correnti non ancora pagate, in tutto o in parte, alla data del bilancio, sono inserite tra le passività dello 
+stato patrimoniale. Nel caso di pagamenti eccedenti, che hanno dato luogo ad un credito recuperabile, questo è 
+contabilizzato tra le attività dello stato patrimoniale.
+Le attività e passività ﬁscali correnti accolgono il saldo netto delle posizioni ﬁscali delle società del Gruppo nei con-
+fronti dell’Amministrazione ﬁnanziaria. In particolare, sono compensati, a livello di singola imposta, gli acconti versati 
+e gli altri crediti d’imposta per ritenute d’acconto subite con il relativo debito d’imposta, esponendo lo sbilancio 
+netto tra le “attività ﬁscali correnti” o le “passività ﬁscali correnti” a seconda del segno.
+426

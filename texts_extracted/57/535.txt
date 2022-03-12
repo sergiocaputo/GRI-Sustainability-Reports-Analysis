@@ -1,0 +1,49 @@
+Bilancio Consolidato 2017
+(cid:38)(cid:17)(cid:22)(cid:3)(cid:42)(cid:85)(cid:88)(cid:83)(cid:83)(cid:82)(cid:3)(cid:69)(cid:68)(cid:81)(cid:70)(cid:68)(cid:85)(cid:76)(cid:82)(cid:3)(cid:16)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:72)(cid:86)(cid:86)(cid:72)(cid:81)(cid:93)(cid:72)(cid:3)(cid:76)(cid:81)(cid:3)(cid:86)(cid:82)(cid:70)(cid:76)(cid:72)(cid:87)(cid:106)(cid:3)(cid:89)(cid:72)(cid:76)(cid:70)(cid:82)(cid:79)(cid:82)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:70)(cid:68)(cid:85)(cid:87)(cid:82)(cid:79)(cid:68)(cid:85)(cid:76)(cid:93)(cid:93)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Attività  Passività 
+Nome cartolarizzazione /  Titoli di 
+Sede legale  Consolidamento  Crediti  Altre  Senior  Mezzanine  Junior 
+Denominazione società veicolo  debito 
+ Popolare Bari NPLs 2016 Srl   Conegliano (Tv)  NO  111.898  -  12.541  111.892  14.000  10.035 
+ Popolare Bari NPLs 2017 Srl   Conegliano (Tv)  NO  94.148  -  11.767  80.900  10.100  13.450 
+2017 Popolare Bari SME Srl  Conegliano (Tv)  SI  652.602  -  40.726  329.544  -  351.800 
+2017 Popolare Bari RMBS Srl  Conegliano (Tv)  SI  678.668  -  50.875  571.872  58.264  92.516 
+Adriatico Finance SME Srl  Milano  SI  27.881  -  2.747  -  25.015  19.027 
+BNT Portfolio SPV Srl  Conegliano (Tv)  NO  235.992  -  13.797  -  -  325.260 
+(cid:3)
+In merito alla Popolare Bari NPLs 2016 Srl e alla Popolare Bari NPLs 2017 Srl, la Banca detiene le tranche Senior 
+emesse dalle società veicolo. Alla luce della struttura dell’operazione di cartolarizzazione con trasferimento a terzi 
+del rischio di credito, non ricorrono i presupposti previsti dall’IFRS 10 per il consolidamento delle Società Veicolo. 
+Il consolidamento integrale delle Società Veicolo “2017 Popolare Bari SME Srl” e “2017 Popolare Bari RMBS Srl” sca-
+turisce dalle operazioni di cartolarizzazione tradizionale ai sensi della Legge 130/1999 effettuate dal Gruppo Banca 
+Popolare di Bari nel corso dell’esercizio 2017. Analogamente, la “Adriatico Finance SME Srl” è stata consolidata in-
+tegralmente in quanto la Capogruppo detiene il complesso dei titoli ABS emessi dalla Società Veicolo. In tali casi, si 
+tratta, infatti, di interessenze in entità strutturate (le Società Veicolo) progettate in modo tale che il diritto di voto o 
+altri diritti simili non sono il fattore dominante nel determinare il controllo delle entità medesime. 
+Riguardo alla cartolarizzazione di terzi “BNT Portfolio SPV Srl”, la Capogruppo detiene una quota marginale dei titoli 
+ABS emessi nell’ambito dell’operazione. Al riguardo, non ricorrono i presupposti previsti dall’IFRS 10 per il consoli-
+damento della Società Veicolo.
+(cid:38)(cid:17)(cid:23)(cid:3)(cid:42)(cid:85)(cid:88)(cid:83)(cid:83)(cid:82)(cid:3)(cid:69)(cid:68)(cid:81)(cid:70)(cid:68)(cid:85)(cid:76)(cid:82)(cid:3)(cid:178)(cid:3)(cid:54)(cid:82)(cid:70)(cid:76)(cid:72)(cid:87)(cid:106)(cid:3)(cid:89)(cid:72)(cid:76)(cid:70)(cid:82)(cid:79)(cid:82)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:70)(cid:68)(cid:85)(cid:87)(cid:82)(cid:79)(cid:68)(cid:85)(cid:76)(cid:93)(cid:93)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:81)(cid:82)(cid:81)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:82)(cid:79)(cid:76)(cid:71)(cid:68)(cid:87)(cid:72)
+Popolare Bari NPLs 2016 Srl
+A seguito dell’operazione di cartolarizzazione di sofferenze alla società veicolo “Popolare Bari NPLs 2016 Srl”, la Ca-
+pogruppo detiene l’intera tranche Senior emessa dalla SPV, assistita dalla garanzia GACS dello Stato Italiano, con un 
+valore di bilancio pari ad euro 113.190 al 31 dicembre 2017.
+Di seguito si riportano i dettagli della tranche Senior:
+(cid:3)
+Piazza  Data rimborso  Valore nominale  Valore residuo a 
+Titolo  Tasso/Spread  Rating  Sottoscrittore 
+Quotazione  finale  emesso  fine esercizio 
+DBRS BBB+/Moody's  Banca Popolare di 
+Senior  non quotato  Euribor6M/0,50  Dicembre 2036  126.500  113.190 
+Baa1  Bari 
+Totale  126.500  113.190 
+         
+(cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+Nell’ambito dell’operazione, la Capogruppo, in ottemperanza alle richieste delle agenzie di rating, ha erogato alla so-
+cietà veicolo un mutuo a ricorso limitato, ﬁnalizzato a ﬁnanziare la cash reserve. In particolare, il mutuo ha un proﬁlo 
+amortizing correlato al debito residuo delle notes Senior e Mezzanine e sarà estinto alla data di pagamento in cui 
+verrà integralmente rimborsata la tranche Senior. La cascata dei pagamenti prevista dal Regolamento delle notes 
+prevede che gli interessi sul mutuo a ricorso limitato sono antergati rispetto al pagamento degli interessi sulle no-
+tes Senior e Mezzanine, così come il rimborso delle quote capitale del mutuo è antergato rispetto al rimborso delle 
+quote capitale delle notes Senior e Mezzanine. Il debito residuo alla reporting date ammonta ad euro 3.884 mila.
+535

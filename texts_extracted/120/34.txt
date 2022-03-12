@@ -1,0 +1,72 @@
+Interview with   Development of this market will be dependent on the cost of 
+Mark Zoback hydrogen generation (principally the cost of electrolyzers) but 
+also the development of local hydrogen storage facilities and, of 
+course, electricity. Blending hydrogen into the existing natural 
+gas pipeline infrastructure is extremely attractive as a low-cost 
+option to help decarbonize the natural gas system, particularly 
+for heating. There are concerns about the ability for the natural 
+gas pipeline system to accommodate hydrogen, but many of 
+these should be resolvable in a few years.         
+             
+Mark Zoback is a geophysic professor and director of the 
+Which is the role that both the key players such as companies 
+“Stanford Natural Gas Initiative” at Standford University, 
+operating in the energy industry and the final customers can 
+he is also co- director of the “Stanford Center for Induced 
+play in these scenarios?
+and Triggered Seismicity (SCITS)”  and of the“Stanford 
+Companies will need to demonstrate that required technologies 
+Center for Carbon Storage (SCCS)”. He is author to more 
+are available for deployment and develop business models and 
+than 300 articles and books, he also holds five patents and 
+markets. Thirteen large international corporations recently 
+received several academic and institutional awards such as 
+formed the Hydrogen Council to create alignment on the 
+the'”Outstanding Contribution to the Public Understanding 
+use of hydrogen for the energy transition. Companies, and 
+of the Geosciences Award”  from the “American Geological 
+governments for that matter, are at risk of burning billions of 
+Institute” in 2016.
+dollars in pursuit of widespread hydrogen implementation if it 
+is not done in a systematic and integrated manner. Companies 
+should be strategic in their vision for low-carbon hydrogen and 
+Hydrogen technologies have experienced a great deal of interest  focus investments in hydrogen in cases where other cheaper and 
+in both academic research and commercial communities over the  more established technologies cannot be deployed. Hence, the 
+last few years, primarily as an option for deep decarbonization  emphasis on heavy-duty transportation discussed above. There 
+of the transportation and power sectors. While the applications  is certainly a lot of hype about “the new hydrogen economy”. It 
+and pathways to commercialization have more clarity (and  is somewhat reminiscent of the hype surrounding the internet. 
+promise) than in previous periods of interest in hydrogen, recent  Yes, the internet has revolutionized commerce, entertainment, 
+improvements in cost and performance point to economic  etc. but only after a period in which there were spectacular and 
+viability.  Hydrogen appears to be on the cusp of a step change  costly failures such as when the dot-com bubble burst in the late 
+in technology developments, cost reduction and especially  1990’s.
+public acceptance. It is also seeing relatively small-scale success 
+in several markets such as fork lift trucks being used in indoor  How important is the technologic innovation and R&D for the 
+warehouses and home hydrogen fuel cells for electrical power  development of hydrogen at scale?
+back-up. In general, widespread utilization of hydrogen across  Widespread use of hydrogen would greatly benefit from 
+many sectors suggests a potential for synergy and scaling.  technological improvements and cost reductions associated 
+with technologies (such as electrolyzers) that would be able to 
+Which role do you foresee for hydrogen as a fuel for the  operate over a wide range of scales. 
+decarbonization of the current and future energy scenarios?
+In the context of areas where hydrogen is able to uniquely fit as  Can hydrogen play a key role in the growth of developing 
+a critical energy source in a largely decarbonized energy world,  countries? 
+heavy-duty transportation, primarily long-haul trucking, buses  The use of hydrogen fuel cell vehicles in many of the mega-cities 
+and potentially ferries/ships seems to stand out. For instance,  of the developing world would be of tremendous benefit. In 
+in the context of heavy-duty transportation, hydrogen is  densely populated areas, grid-based electricity principally comes 
+particularly attractive because the refuelling time is significantly  from coal-fired power plants. It may be most reasonable to 
+shorter than for electric trucks and the range of 300-500 miles it  transition from coal to natural gas before renewable sources for 
+requires limited infrastructure to existing trucking routes. From  power generation because of the scale at which electricity needs 
+a business perspective, the introduction of a fleet of heavy- to be supplied in the megacities of the developing world. This 
+duty vehicles will need to be coordinated with the build-out  said, a major issue affecting electrical power in the developing 
+of refuelling infrastructure and with appropriate policy and  world is its unreliability. Hence, in much of the developing world, 
+regulatory reforms. Some sizeable, but limited applications (e.g.,  nearly all middle-to-upper class consumers and small businesses 
+local port authorities utilizing large hydrogen fuel cell vehicles)  have back-up sources of electrical power – usually diesel-
+will be an important early-market and a valuable proving-ground  powered generators. While one could use much cleaner natural 
+for eventual large-scale deployment of hydrogen-powered  gas-powered generators, another option is to generate and 
+vehicles. store hydrogen through electrolysis and use fuel cells to deal 
+Another market sector that could see significant increases  with electrical power intermittency. However, this will require a 
+(pending technological developments and cost reduction) is as a  substantial decrease in the capital cost of electrolyzers (as well 
+back-up storage/distribution mechanism for curtailed renewable  as the overall system cost). If the system cost for hydrogen fuel 
+electricity (as an alternative to batteries) in the power sector. In  cells is substantially more than diesel- or gas-fired generators, 
+this application, electrolyzers seem like the most practical source  it may be difficult to establish this market in much of the 
+of hydrogen as it circumvents the need for carbon storage. developing world.
+The pursue of a new energy  33

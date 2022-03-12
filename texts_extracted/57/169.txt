@@ -1,0 +1,41 @@
+Bilancio Individuale 2017
+Sezione 4 – Passività ﬁnanziarie di negoziazione – Voce 40
+(cid:23)(cid:17)(cid:20)(cid:3)(cid:51)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:81)(cid:72)(cid:74)(cid:82)(cid:93)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+31/12/2017  31/12/2016 
+Tipologia operazioni/Valori 
+FV  FV 
+VN  FV*  VN  FV* 
+L1  L2  L3  L1  L2  L3 
+A. Passività per cassa 
+             
+1. Debiti verso banche  -  -  -  -  -  -  -  -  -  - 
+2. Debiti verso clientela  -  -  -  -  -  -  -  -  -  - 
+3. Titoli di debito  -  -  -  -  -  -  -  -  -  - 
+3.1 Obbligazioni  -  -  -  -  -  -  -  -  -  - 
+3.1.1 Strutturate  -  -  -  -  x  -  -  -  -  x 
+3.1.2 Altre obbligazioni  -  -  -  -  x  -  -  -  -  x 
+3.2 Altri titoli  -  -  -  -  -  -  -  -  -  - 
+3.2.1 Strutturati  -  -  -  -  x  -  -  -  -  x 
+3.2.2 Altri  -  -  -  -  x  -  -  -  -  x 
+Totale A  -  -  -  -  -  -  -  -  -  - 
+B. Strumenti derivati 
+             
+1. Derivati finanziari  x  -  232  -  x  x  313  457  -  x 
+1.1 Di negoziazione  x  -  232  -  x  x  313  457  -  x 
+1.2 Connessi con la fair value option  x  -  -  -  x  x  -  -  -  x 
+1.3 Altri  x  -  -  -  x  x  -  -  -  x 
+2. Derivati creditizi  x  -  -  -  x  x  -  -  -  x 
+2.1 Di negoziazione  x  -  -  -  x  x  -  -  -  x 
+2.2 Connessi con la fair value option  x  -  -  -  x  x  -  -  -  x 
+2.3 Altri  x  -  -  -  x  x  -  -  -  x 
+Totale B  x  -  232  -  x  x  313  457  -  x 
+Totale (A+B)  x  -  232  -  x  x  313  457  -  x 
+(cid:3)
+Legenda:
+FV = fair value
+FV* = fair value calcolato escludendo le variazioni di valore dovute al cambiamento del merito creditizio dell’emittente rispetto alla data di emissione
+VN = valore nominale
+L1 = Livello 1
+L2 = Livello 2
+L3 = Livello 3
+169

@@ -1,0 +1,44 @@
+GRUPPO CREDEM  DNF 
+2018
+2018 2017 2016
+Fisico Virtuale %  Fisico Virtuale %  Fisico Virtuale % 
+TRANSAZIONI  [N./1000] [N./1000] virtuale [N./1000] [N./1000] virtuale [N./1000] [N./1000] virtuale
+per tipologia e modalità 
+di effettuazione
+Versamento 5.644 69,1 1,21% 5.782 83 1,4% 5.955 92 1,5%
+Pagamento effetti   213 15 6,63% 233 15 6,1% 237 14 5,7%
+riba non prenotati
+Pagamento MAV e RAV 230 327 58,70% 243 306 55,8% 236 284 54,6%
+Domiciliazione/revoca  30 26 46,43% 73 38 34,2% 212 274 56,4%
+utenze 3
+Accensione bonifico  16 21 57,38% - - - - - -
+corrente
+Pagamento F24 561 2.213 79,76% 552 2.057 78,8% 583 2.091 78,2%
+Bonifico 1.491 9.492 86,43% 1.473 8.347 85,0% 1.504 7.754 83,8%
+Prelievo 1.918 15.227 88,82% 1.938 14.647 88,3% 1.987 13.959 87,5%
+Prenotazione effetti   294 2.678 90,11% 298 2.448 89,2% 274 1.944 87,6%
+riba da cassa effetti
+Attivazione/riattivazione  45 648 93,46% 55 602 92,0% 67 544 89,1%
+mandato SDD
+Ricarica CARTAEGO 44 596 93,13% 40 476 92,2% 40 380 90,5%
+Presentazione MAV 4 89 95,87% 2 66 96,7% 6 63 91,7%
+Revoca mandato SDD 28 539 95,11% 24 437 94,9% 25 378 93,8%
+Pagamento stipendi 132 3.904 96,74% 145 3.459 96,0% 159 2.941 94,9%
+Presentazione riba 162 5.642 97,21% 182 5.277 96,7% 201 5.042 96,2%
+Pagamento fatture 1 226 99,58% - 196 99,7% 3 159 98,4%
+Pagamento   0 433 99,96% - 414 99,9% 1 388 99,9%
+bollettino postale
+Pagamento bollo auto 0 52 100,00% - 43 100,0% - 36 100,0%
+Pagamento CBILL 0 28 100,00% - 17 100,0% - 8 100,0%
+Ricarica cellulare 0 938 100,00% - 1.012 100,0% - 984 100,0%
+Presentazione RID 0 6.123 100,00% - 5.483 100,0% - 5.192 100,0%
+Movimentazione SDD 0 11.340 100,00% - 10.124 100,0% - 9.036 100,0%
+Rilascio carnet assegni 315 0 0,00% 328 - 0,0% 357 - 0,0%
+Riscossione   128 0 0,00% 136 - 0,0% 144 - 0,0%
+bollette varie
+TOTALE  11.226 60.602 84,37% 11.432 55.510 82,9% 11.990 51.565 81,1%
+3
+I dati relativi alle transazioni di 
+Domiciliazioni/revoca utenze non sono 
+espressi in migliaia, ma in unità.
+62

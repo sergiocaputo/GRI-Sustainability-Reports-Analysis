@@ -1,0 +1,52 @@
+VALORIZACIÓN, 
+PROTECCIÓN E INNOVACIÓN
+Protección del medioambiente   >>
+CONTENIDO 305-1 A) Y C) EMISIONES DIRECTAS DE GEI 
+FACTORES DE CONVERSIÓN ESPAÑA
+(ALCANCE 1) DEL ESTÁNDAR 305: EMISIONES 2016
+GAS NATURAL: Factores de conversión 1000 m3 --> tCO  eq 1,891
+2 
+ELECTRICIDAD ESPAÑA: Factores de conversión KWh --> tCO  eq 0,000305
+Emisiones directas (Alcance 1) 2
+GAS NATURAL
+Factor de conversión 
+Año Fuente
+tCO eq/1000*m3
+2
+GHG Protocol - GHG Emissions 
+2015-2016-2017 1,891
+from Stationary Combustion
+Periodo
+ELECTRICIDAD Emisiones directas [tCO  eq]
+2
+2017
+Factor de conversión 
+Año Fuente
+tCO eq/Kwh
+2 Via Corte d’appello 11, Turín 374,9
+Via Traiano 18, Milán 128,9
+GHG Protocol - GHG Emissions 
+2015 - 2016 - 2017 0,000385
+from Purchased Electricity
+New Building, Turín 6,8
+Italnext N/A
+Energía eléctrica renovable 
+2015 - 2016 - 2017 0,000000
+certificada
+Uniqa (Milán - Via Carnia 26) +
+43,3
+Associations of Issuing Bodies -  Udine - Puintat
+2015 - 2016 - 2017 0,000465 European Residual Mixes 2016 
+(Italia)
+Reale Seguros Generales
+-
+Associations of Issuing Bodies -  (Principe De Vergara)
+2015 - 2016 - 2017 0,000400 European Residual Mixes 2016 
+(España)
+Reale Vida y Pensiones
+-
+GHG Protocol - GHG Emissions  (Principe De Vergara)
+2015 - 2016 - 2017 0,000305 from Purchased Electricity 
+(España) Igar (Castellana) 359,5
+Total 912,9
+77

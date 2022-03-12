@@ -1,0 +1,52 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+6. Analisi e presidio dei rischi
+Gruppo Poste Italiane - Rischio di liquidità - Attivo
+31.12.2017 31.12.2016
+Descrizione Entro  tra 1 e 5  oltre 5 anni Totale Entro  tra 1 e 5  oltre 5 anni Totale
+(milioni di euro) l'esercizio anni l'esercizio anni
+Attività finanziarie  21.398  66.789  155.301  243.488  21.862  57.839  137.973  217.674 
+Finanziamenti -    -    -    -    -    -    -    -   
+Crediti
+Depositi presso il MEF 6.047  -    -    6.047  6.214  -    -    6.214 
+Altri crediti finanziari 1.822  38  4  1.864  1.769  8  7  1.784 
+Investimenti posseduti sino a 
+1.594  6.702  7.327  15.623  1.399  6.389  7.837  15.625 
+scadenza
+Investimenti disponibili per la 
+9.619  55.447  110.169  175.235  7.997  46.455  107.835  162.287 
+vendita
+Strumenti finanziari al fair value 
+2.316  4.602  37.801  44.719  4.483  4.987  22.294  31.764 
+rilevato a CE
+Crediti commerciali 2.026  6  3  2.035  2.168  1  3  2.172 
+Altri crediti e attività 952  3.012  53  4.017  971  2.663  66  3.700 
+Cassa e Depositi BancoPosta 3.196  -    -    3.196  2.494  -    -    2.494 
+Disponibilità liquide e mezzi 
+2.428  -    -    2.428  3.902  -    -    3.902 
+equivalenti
+Totale Attivo 30.000  69.807  155.357  255.164  31.397  60.503  138.042  229.942 
+Con riferimento alle attività, i flussi di cassa in entrata sono distinti per scadenza, esposti al loro valore nominale e aumentati, 
+ove applicabile, dei principali interessi da incassare. Gli investimenti comprendono gli impieghi in titoli detenuti dal Patrimonio 
+BancoPosta e dalle compagnie assicurative del Gruppo, rappresentati in base ai flussi di cassa attesi, composti dal valore di 
+rimborso dei titoli in portafoglio e dalle relative cedole di interesse alle diverse scadenze.
+Nell’analisi in commento rileva principalmente il rischio di liquidità riveniente dagli impieghi delle disponibilità sui conti correnti 
+della clientela e dalle polizze di Ramo I e V emesse da Poste Vita S.p.A.. 
+Per l’attività specifica del Patrimonio BancoPosta, il rischio di liquidità è riconducibile alla raccolta in conti correnti e carte pre-
+pagate, al connesso impiego in titoli eurogovernativi e/o garantiti dalla Repubblica Italiana, nonché alla marginazione inerente 
+all’operatività in derivati. Il rischio eventuale può derivare da un disallineamento (o mismatch) fra le scadenze degli investimenti 
+in titoli e quelle contrattuali (a vista) delle passività in conti correnti, tale da non consentire il fisiologico soddisfacimento delle 
+obbligazioni verso i correntisti. L’eventuale mismatch fra attività e passività viene monitorato mediante il raffronto tra lo scaden-
+zario delle attività e il modello statistico che delinea le caratteristiche comportamentali di ammortamento della raccolta in conti 
+correnti postali secondo i diversi livelli di probabilità di accadimento e che ne ipotizza il progressivo completo riscatto entro un 
+arco temporale di venti anni per la raccolta in conti correnti retail, di dieci anni per la raccolta business e in carte PostePay e di 
+cinque anni per la clientela Pubblica Amministrazione.
+Con riguardo alle polizze emesse da Poste Vita S.p.A., ai fini dell’analisi del profilo di rischio di liquidità, sono effettuate analisi 
+di ALM (Asset/Liability Management) finalizzate a un’efficace gestione degli attivi rispetto agli impegni assunti nei confronti 
+degli assicurati, e sono altresì elaborate analisi prospettiche sugli effetti derivanti dal verificarsi di shock sui mercati finanziari 
+(dinamica dell’attivo) e sui comportamenti degli assicurati (dinamica del passivo). 
+Infine, per una corretta valutazione del rischio di liquidità, è opportuno tener conto che gli impieghi costituiti in “titoli eurogo-
+vernativi”, se non vincolati, possono essere assimilati ad Attività Prontamente Liquidabili (APL); nello specifico, tali titoli sono 
+utilizzabili come collateral nell’ambito di operazioni interbancarie di pronti contro termine di finanziamento. Tale prassi è normal-
+mente adottata in ambito BancoPosta. 
+369

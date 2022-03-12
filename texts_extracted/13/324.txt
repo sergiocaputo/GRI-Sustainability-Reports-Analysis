@@ -1,0 +1,17 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+  Test prospettico: è il test che giustifica l’applicazione dell’Hedge 
+Accounting in quanto dimostra l’efficacia attesa della copertura 
+durante la vita della stessa e consente di giustificare e proseguire la 
+relazione di hedging. Tale test deve essere eseguito anche alla data 
+di decorrenza della copertura per poter dare inizio all’applicazione 
+dell’Hedge Accounting: in pratica si tratta di appurare la tenuta della 
+relazione di copertura al verificarsi di possibili scenari più o meno 
+estremi.
+  Test retrospettivo: è il test che evidenzia il grado di efficacia della 
+copertura raggiunto nel periodo cui il test medesimo si riferisce; in 
+altre parole, misura quanto i risultati effettivi si siano discostati dalla 
+copertura perfetta. Se i risultati rientrano in un range definito si può 
+continuare ad applicare la contabilizzazione di copertura, altrimenti 
+questa dovrà essere interrotta.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 325

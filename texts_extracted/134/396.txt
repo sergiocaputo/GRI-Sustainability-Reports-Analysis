@@ -1,0 +1,45 @@
+ 
+Statement of cash flows 
+        
+  Note  2018    2019 
+(€’000)    (*)     
+Operating activities        
+Profit for the year    109,550    70,960 
+adjusted by:         
+Amortisation of intangible assets  30  16,648    20,430 
+Depreciation of property, plant and equipment   30  63,108    54,162 
+Net impairment losses and provisions  30  193,722    91,621 
+Accrual for post-employment benefits and employee benefits  22  9,136    8,609 
+Net gains on the sale of assets  29 - 30  (5,357)    (874) 
+Deferred taxes  33  (38,714)    (15,436) 
+Net (gains) losses on equity investments  32  (34,768)    50,738 
+Income taxes  33  97,509    98,604 
+Net exchange gains  31  (31,343)    (5,432) 
+Net interest paid during the year  31  37,129    70,450 
+Other non-monetary items    2,410    1,480 
+    419,030    445,312 
+Increase in inventories and contract assets  10 - 11  (305,350)    (513,479) 
+Increase in trade receivables  12  (179,723)    (110,178) 
+Decrease in contract liabilities  11  (354,017)    (70,970) 
+Increase in trade payables  24  298,354    266,133 
+Decrease (increase) in other assets/liabilities    (10,112)    7,506 
+Total changes in working capital    (550,848)    (420,988) 
+Decrease (increase) in other items not included in working capital    (12,336)    16 
+Income taxes    (55,455)    (66,997) 
+Interest expense paid    (63,105)    (68,599) 
+Financial income collected    16,794    12,883 
+Cash flows used in operating activities    (245,920)    (98,373) 
+Investing activities         
+Investments in property, plant and equipment   4  (53,024)    (25,039) 
+Proceeds from the sale or reimbursement value of property, plant and    12,198    9,524 
+equipment  
+Investments in non-current financial assets    (301,326)    (178,085) 
+Dividends distributed by subsidiaries    130,298    5,499 
+Proceeds from the sale or reimbursement value of non-current financial 
+7  987    3,802 
+assets 
+Acquisitions and/or sales of subsidiaries and business units net of cash        
+and cash equivalents 
+Cash flows used in investing activities    (210,867)    (184,299) 
+   
+   397 

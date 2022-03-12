@@ -1,0 +1,48 @@
+Bilancio Individuale 2017
+Informativa di natura quantitativa
+A.4.5 Gerarchia del Fair value
+A.4.5.1 Attività e passività valutate al fair value su base ricorrente: ripartizione per livelli di fair value
+31/12/2017  31/12/2016 
+ 
+L1  L2  L3  L1  L2  L3 
+1. Attività finanziarie detenute per la negoziazione  2.015  860  1  8.015  938  1 
+2. Attività finanziarie valutate al fair value           
+3. Attività finanziarie disponibili per la vendita  192.741  868  191.468  1.409.254  658  209.222 
+4. Derivati di copertura  152         
+5. Attività materiali           
+6. Attività immateriali           
+Totale  194.756  1.880  191.469  1.417.269  1.596  209.223 
+1. Passività finanziarie detenute per la negoziazione  232    313  457   
+2. Passività finanziarie valutate al fair value  32.267      34.119   
+3. Derivati di copertura  16.040      16.209   
+Totale  -  48.539  -  313  50.785  - 
+L d
+Legenda: 
+L1 = Livello 1 
+L2 = Livello 2 
+L3 = Livello 3
+A.4.5.2 Variazioni annue delle attività valutate al fair value su base ricorrente (livello 3)
+Attività  Attività  Attività 
+(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3) (cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3) (cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3) Derivati di  Attività  Attività 
+detenute per la  valutate al fair  disponibili per  copertura materiali immateriali
+negoziazione value la vendita 
+1. Esistenze iniziali 1 - 209.222 - - -
+2. Aumenti 50.322 - 52.649 - - -
+2.1. Acquisti 50.245 - 26.260 - - -
+(cid:21)(cid:17)(cid:21)(cid:17)(cid:3)(cid:51)(cid:85)(cid:82)(cid:192)(cid:87)(cid:87)(cid:76)(cid:3)(cid:76)(cid:80)(cid:83)(cid:88)(cid:87)(cid:68)(cid:87)(cid:76)(cid:3)(cid:68)(cid:29)
+(cid:21)(cid:17)(cid:21)(cid:17)(cid:20)(cid:17)(cid:3)(cid:38)(cid:82)(cid:81)(cid:87)(cid:82)(cid:3)(cid:40)(cid:70)(cid:82)(cid:81)(cid:82)(cid:80)(cid:76)(cid:70)(cid:82) - - - - - -
+(cid:16)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:88)(cid:76)(cid:3)(cid:83)(cid:79)(cid:88)(cid:86)(cid:89)(cid:68)(cid:79)(cid:72)(cid:81)(cid:93)(cid:72) - - - - - -
+(cid:21)(cid:17)(cid:21)(cid:17)(cid:21)(cid:17)(cid:3)(cid:51)(cid:68)(cid:87)(cid:85)(cid:76)(cid:80)(cid:82)(cid:81)(cid:76)(cid:82)(cid:3)(cid:49)(cid:72)(cid:87)(cid:87)(cid:82) X X 21.610 - - -
+(cid:21)(cid:17)(cid:22)(cid:17)(cid:3)(cid:55)(cid:85)(cid:68)(cid:86)(cid:73)(cid:72)(cid:85)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:76)(cid:3)(cid:71)(cid:68)(cid:3)(cid:68)(cid:79)(cid:87)(cid:85)(cid:76)(cid:3)(cid:79)(cid:76)(cid:89)(cid:72)(cid:79)(cid:79)(cid:76) - - - - - -
+(cid:21)(cid:17)(cid:23)(cid:17)(cid:3)(cid:36)(cid:79)(cid:87)(cid:85)(cid:72)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:68)(cid:88)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82) 77 - 4.779 - - -
+3. Diminuzioni 50.322 - 70.403 - - -
+(cid:22)(cid:17)(cid:20)(cid:17)(cid:3)(cid:57)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:72) 50.313 - 20.375 - - -
+(cid:22)(cid:17)(cid:21)(cid:17)(cid:3)(cid:53)(cid:76)(cid:80)(cid:69)(cid:82)(cid:85)(cid:86)(cid:76) - - - - - -
+(cid:22)(cid:17)(cid:22)(cid:17)(cid:3)(cid:51)(cid:72)(cid:85)(cid:71)(cid:76)(cid:87)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:88)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:68)(cid:29)(cid:3)
+(cid:22)(cid:17)(cid:22)(cid:17)(cid:20)(cid:17)(cid:3)(cid:38)(cid:82)(cid:81)(cid:87)(cid:82)(cid:3)(cid:40)(cid:70)(cid:82)(cid:81)(cid:82)(cid:80)(cid:76)(cid:70)(cid:82) - - 29.146 - - -
+(cid:16)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:88)(cid:76)(cid:3)(cid:80)(cid:76)(cid:81)(cid:88)(cid:86)(cid:89)(cid:68)(cid:79)(cid:72)(cid:81)(cid:93)(cid:72) - - 29.146 - - -
+(cid:22)(cid:17)(cid:22)(cid:17)(cid:21)(cid:17)(cid:3)(cid:51)(cid:68)(cid:87)(cid:85)(cid:76)(cid:80)(cid:82)(cid:81)(cid:76)(cid:82)(cid:3)(cid:49)(cid:72)(cid:87)(cid:87)(cid:82) X X 18.800 - - -
+(cid:22)(cid:17)(cid:23)(cid:17)(cid:3)(cid:55)(cid:85)(cid:68)(cid:86)(cid:73)(cid:72)(cid:85)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:76)(cid:3)(cid:68)(cid:71)(cid:3)(cid:68)(cid:79)(cid:87)(cid:85)(cid:76)(cid:3)(cid:79)(cid:76)(cid:89)(cid:72)(cid:79)(cid:79)(cid:76) - - - - - -
+(cid:22)(cid:17)(cid:24)(cid:17)(cid:3)(cid:36)(cid:79)(cid:87)(cid:85)(cid:72)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:76)(cid:81)(cid:3)(cid:71)(cid:76)(cid:80)(cid:76)(cid:81)(cid:88)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72) 9 - 2.082 - - -
+(cid:23)(cid:17)(cid:3)(cid:53)(cid:76)(cid:80)(cid:68)(cid:81)(cid:72)(cid:81)(cid:93)(cid:72)(cid:3)(cid:192)(cid:81)(cid:68)(cid:79)(cid:76)(cid:3) 1 - 191.468 - - -
+143

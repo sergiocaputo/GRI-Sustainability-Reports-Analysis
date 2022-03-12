@@ -1,0 +1,45 @@
+Indice generale Indice di sezione Sezione 12
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte C
+Sezione 5 – Il risultato netto dell’attività di 
+copertura – Voce 90
+5.1 Risultato netto dell’attività di copertura: composizione
+Componenti reddituali/Valori 
+(milioni di euro) Esercizio 2017 Esercizio 2016
+A. Proventi relativi a: 
+A.1 Derivati di copertura del fair value   525   84 
+A.2 Attività finanziarie coperte (fair value)   27   940 
+A.3 Passività finanziarie coperte (fair value)   -     -   
+A.4 Derivati finanziari di copertura dei flussi finanziari   -     -   
+A.5 Attività e passività in valuta   -     -   
+Totale proventi dell’attività di copertura (A)   552   1.024 
+B. Oneri relativi a: 
+B.1 Derivati di copertura del fair value  (27) (941)
+B.2 Attività finanziarie coperte (fair value)  (523) (84)
+B.3 Passività finanziarie coperte (fair value)  -    -   
+B.4 Derivati finanziari di copertura dei flussi finanziari  -    -   
+B.5 Attività e passività in valuta  -    -   
+Totale oneri dell’attività di copertura (B)  (550)  (1.025) 
+C. Risultato netto dell’attività di copertura (A – B)   2  (1) 
+Sezione 6 – Utili/(Perdite) da cessione/riacquisto – 
+Voce 100
+6.1 Utili/(Perdite) da cessione/riacquisto: composizione
+Esercizio 2017 Esercizio 2016
+Voci/Componenti reddituali   Utili    Perdite   Risultato   Utili    Perdite   Risultato 
+(milioni di euro) netto  netto 
+Attività finanziarie 
+1. Crediti verso banche   -     -     -     -     -     -   
+2. Crediti verso clientela   -     -     -     -     -     -   
+3. Attività finanziarie disponibili per la vendita   638  (14)  624   594  -     594 
+3.1Titoli di debito  547  (14)  533   473  -     473 
+3.2 Titoli di capitale  91   -     91   121   -     121 
+3.3 Quote di OICR  -     -     -     -     -     -   
+3.4 Finanziamenti  -     -     -     -     -     -   
+4. Attività finanziarie detenute sino alla scadenza   -    -    -     -    -    -   
+Totale attività   638  (14)  624   594  -     594 
+Passività finanziarie 
+1. Debiti verso banche   -    -    -     -    (7) (7)
+2. Debiti verso clientela   -     -     -     -     -     -   
+3. Titoli in circolazione   -     -     -     -     -     -   
+Totale passività   -     -     -     -    (7)  (7) 
+479

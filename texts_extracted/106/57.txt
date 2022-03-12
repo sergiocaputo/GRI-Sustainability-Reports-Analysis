@@ -1,0 +1,45 @@
+56 Prysmian Group    Consolidated Non-Financial Information Statement 2019
+PROJECTS 
+Submarine cables
+Work on the three-core high voltage cables with aluminium conductors and transition connectors for cables with copper con-
+ductors was largely completed during 2019, with execution of the official type trials, additional internal testing to optimise 
+the production processes at the plant, and the pre-qualification ageing tests. The bi-metallic connectors (aluminium and cop-
+per conductors joined together) allow effective optimisation of the entire link by only using the more expensive conductors 
+close to the shore and in the landfall section, while also optimising the choice of conductor for the rest of the subsea link, thus 
+improving the sustainability of the connection.
+In addition, a specific programme has commenced for the development of an upgraded class of high voltage a.c. (HVAC) 
+cables for use in offshore wind farm installations. This programme is due to be completed within three years, with the objecti-
+ve of manufacturing cable systems that allow electricity transmission at a lower total cost (production, installation and ope-
+ration), thus minimising the cost per MW transmitted per unit of length.
+The development programme will focus on activities designed to increase the operational voltage, increase the size of the 
+conductor and study other technical functionalities, such as the use of materials with low heat resistance, thinner lead shea-
+thing or lead-free solutions, transition conductors and asymmetric and bi-metallic Millikens.
+In the context of this programme, the pre-qualification tests up to 400 kV commenced in 2019. The first full-scale three-core 
+275 kV prototype is under construction and will be completed in early 2020. The steady increase in power production by off-
+shore wind farms and their increasing distance from the shore require efficient solutions for transporting the energy to shore 
+effectively, thus facilitating the growth of electricity generated from renewable sources.
+With regard to impregnated paper technology, a solution has been developed and produced for a particularly large conductor 
+that operates at 600 kV. Initial tests were positive and the qualification programme up to 60°C has been defined and will be 
+executed during 2020. The electrical performance of the prototype using MI PPL technology (polypropylene laminate and 
+impregnated paper), manufactured in 2018, has been evaluated carefully after undergoing severe bending tests, while the 
+full programme to assess performance up to 800 kV is scheduled for 2020.
+The innovative, lighter three-core cable with synthetic armor manufactured in 2019 has been installed successfully in an initial 
+project in very deep water, confirming that these solutions can further facilitate the optimisation of power distribution grids, 
+thus allowing the better use of renewable energy and reducing the reliance on fossil fuels.
+Development projects using extrusion technology up to 600 kV DC continued according to plan during the year, with the use 
+of XLPE and P-Laser as insulation materials.
+Attention during 2019 focused on the development of a complete system (cable, flexible connectors, dual terminations and 
+sockets) with large conductor operating at 400 kV. In particular, development of the connector was studied, applying two 
+different underlying technologies. The lengthy ageing test process during the pre-qualification phase commenced in 2019 
+and the full qualification programme will be completed in 2020.
+Cables for submarine applications must be protected from water and humidity, currently requiring the use of watertight lead 
+sheaths: lead shield solutions with reduced thickness that reduce losses (thus improving system efficiency) were developed 
+further during 2019, with a positive impact on the environment. New solutions were also found for re-inserting the lead sheath 
+in the connectors, where the reduction in thickness is a crucial factor.
+The path towards a totally lead-free solution in the cable submarine market is proceeding rapidly, with other development 
+activities related to lead-less technology involving the adoption of a longitudinally welded copper sheath. A number of pro-
+totypes were made in 2019 in order to optimise the configuration of the cable, even for very challenging applications, and 
+improve reliability in the production of long lengths.
+Efforts and studies to integrate sensors in the cable effectively continued during 2019. The project seeks to integrate within 
+the cable a smart diagnostic system able to prevent issues during operation of the system, allowing preventive maintenance 
+and minimising the repair time, while also detecting the fault position rapidly in order to reduce system repair and down time.

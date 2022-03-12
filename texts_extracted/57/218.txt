@@ -1,0 +1,24 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+B.4 Grandi esposizioni
+Qui di seguito si riportano le “esposizioni” e le “posizioni di rischio” che costituiscono “grande rischio” così come 
+deﬁnite dalla normativa di riferimento (circolare di Banca d’Italia n. 286 del 17 dicembre 2013 e successive modiﬁ-
+cazioni):
+(cid:22)(cid:20)(cid:18)(cid:20)(cid:21)(cid:18)(cid:21)(cid:19)(cid:20)(cid:26) (cid:22)(cid:20)(cid:18)(cid:20)(cid:21)(cid:18)(cid:21)(cid:19)(cid:20)(cid:25)
+(cid:68)(cid:12)(cid:3)(cid:36)(cid:80)(cid:80)(cid:82)(cid:81)(cid:87)(cid:68)(cid:85)(cid:72)(cid:3)(cid:11)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:69)(cid:76)(cid:79)(cid:68)(cid:81)(cid:70)(cid:76)(cid:82)(cid:12)   6.125.818   5.587.617
+(cid:69)(cid:12)(cid:3)(cid:36)(cid:80)(cid:80)(cid:82)(cid:81)(cid:87)(cid:68)(cid:85)(cid:72)(cid:3)(cid:11)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:83)(cid:82)(cid:81)(cid:71)(cid:72)(cid:85)(cid:68)(cid:87)(cid:82)(cid:12)   240.244   507.551
+(cid:70)(cid:12)(cid:3)(cid:49)(cid:88)(cid:80)(cid:72)(cid:85)(cid:82)   10   10
+C. Operazioni di cartolarizzazione
+Non formano oggetto di rilevazione nella presente Parte le operazioni di cartolarizzazione nelle quali l’originator 
+Banca Popolare di Bari sottoscriva all’atto dell’emissione il complesso delle passività emesse (es. titoli ABS) dalla 
+Società Veicolo. Per l’illustrazione di questa tipologia di operazioni si rimanda alla sezione della Parte E della Nota 
+Integrativa relativa al rischio di liquidità.
+Informazioni di natura qualitativa
+Le operazioni di cartolarizzazione di crediti sono individuate dalla Banca come strumento di diversiﬁcazione delle 
+fonti di ﬁnanziamento per far fronte alle esigenze di funding, ovvero come idoneo strumento volto ad effettuare il 
+trasferimento a terzi del rischio di credito (cd. de-risking). 
+Di seguito si fornisce il dettaglio delle operazioni effettuate dalla Banca.
+Cartolarizzazione sofferenze “Popolare Bari NPLs 2017 Srl”
+In data 16 novembre 2017 è stata perfezionata, insieme alla controllata Cassa di Risparmio di Orvieto, un’operazione 
+di cessione di portafogli di crediti non-performing (NPLs) alla neo-costituita società veicolo (SPV) “Popolare di Bari 
+NPLs 2017 Srl” ai sensi della Legge 130/99.
+218

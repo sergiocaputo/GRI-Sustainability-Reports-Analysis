@@ -1,0 +1,56 @@
+Bilancio Individuale 2017
+Sezione 8 – Le rettiﬁche/riprese di valore nette per deterioramento – Voce 130
+(cid:27)(cid:17)(cid:20)(cid:3)(cid:53)(cid:72)(cid:87)(cid:87)(cid:76)(cid:192)(cid:70)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:81)(cid:72)(cid:87)(cid:87)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:76)(cid:82)(cid:85)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:70)(cid:85)(cid:72)(cid:71)(cid:76)(cid:87)(cid:76)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Rettifiche di valore   Riprese di valore 
+Totale 
+(1)  (2) 
+   
+ 
+Specifiche  Specifiche  Di portafoglio 
+Di portafoglio  31/12/2017  31/12/2016 
+Cancellazioni  Altre  A  B  A  B 
+A. Crediti verso banche  -  -  -  -  -  -  1  1  16 
+- Finanziamenti  -  -  -  -  -  -  1  1  16 
+- Titoli di debito  -  -  -  -  -  -  -  -  - 
+B. Crediti verso clientela  (2.899)  (71.379)  (2.467)  17.400  7.469  -  -  (51.876)  (76.830) 
+Crediti deteriorati acquistati  -  -  -  -  -  x  x  -  - 
+- Finanziamenti  -  -  -  -  -  x  x  -  - 
+- Titoli di debito  -  -  -  -  -  x  x  -  - 
+Altri crediti  (2.899)  (71.379)  (2.467)  17.400  7.469  -  -  (51.876)  (76.830) 
+- Finanziamenti  (2.899)  (70.779)  (2.033)  17.400  7.469  -  -  (50.841)  (76.813) 
+- Titoli di debito  -  (600)  (434)  -  -  -  -  (1.034)  (17) 
+C. Totale  (2.899)  (71.379)  (2.467)  17.400  7.469  -  1  (51.875)  (76.814) 
+(cid:3)
+Legenda:
+A = Da interessi
+B = Altre riprese 
+(cid:27)(cid:17)(cid:21)(cid:3)(cid:3)(cid:53)(cid:72)(cid:87)(cid:87)(cid:76)(cid:192)(cid:70)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:81)(cid:72)(cid:87)(cid:87)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:76)(cid:82)(cid:85)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:83)(cid:82)(cid:81)(cid:76)(cid:69)(cid:76)(cid:79)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:89)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)-
+posizione
+Rettifiche di valore  Riprese di valore 
+(1)  (2) 
+Totale  Totale 
+Operazioni/Componenti reddituali 
+31/12/2017  31/12/2016 
+Specifiche  Specifiche 
+Cancellazioni  Altre   A  B 
+A. Titoli di debito  -  -  -  -  -  - 
+B. Titoli di capitale  -  (9.188)  -  -  (9.188)  (14.208) 
+C. Quote OICR  -  (23.578)  x  (23.578)  746 
+D. Finanziamenti a banche  -  -  x  -  -  - 
+E. Finanziamenti a clientela  -  -  -  -  -  - 
+F. Totale  -  (32.766)  -  -  (32.766)  (13.462) 
+(cid:3)
+Legenda:
+A = Da interessi
+B = Altre riprese 
+Le rettiﬁche sulle attività ﬁnanziarie disponibili per la vendita si riferiscono principalmente alle svalutazioni delle 
+interessenze detenute dalla Banca in:
+•  Fondo Atlante per euro 23,6 milioni (quote di OICR);
+•  Cassa di Risparmio di Cesena, Cassa di Risparmio di San Miniato e Cassa di Risparmio di Rimini per il tramite del 
+FITD per un totale di 6,0 milioni di euro.
+In particolare, la rettiﬁca di valore relativa al Fondo Atlante è scaturita dagli effetti della messa in liquidazione coatta 
+amministrativa delle due banche venete Banca Popolare di Vicenza (BPVi) e Veneto Banca (VB), disposta con decreti 
+del MEF del 25 giugno 2017. Contestualmente, i nominati commissari liquidatori, in attuazione del D.L. 99/2017 e dei 
+conseguenti decreti ministeriali, hanno provveduto alla cessione di attività e passività aziendali a Intesa SanPaolo 
+S.p.A., che è subentrata a BPVi e VB nei rapporti con la clientela senza soluzione di continuità. I crediti deteriorati 
+191

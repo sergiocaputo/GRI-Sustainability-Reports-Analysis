@@ -1,0 +1,93 @@
+Nota integrativa consolidata
+quote alla data di bilancio, a cui vengono sommati eventuali  Il sistema interno di misurazione del rischio di tasso di interes-
+premi puri non ancora investiti alla data di valutazione. se valuta e descrive l’effetto delle variazioni dei tassi di interes-
+se sul valore economico e sul margine d’interesse e individua 
+1
+Il comparto derivati del portafoglio bancario si compone prin- tutte le fonti signiﬁ cative di rischio che inﬂ uenzano il banking  . M
+O
+cdiepuarlmamen vteen gdoi cnoon dtir arettgi odlai  Ipnotesrtees itn  Reastsee rSew coappe. rNtuerl eG srpuepcpiﬁo c hFie-  book: DELLO
+•  repricing risk: rischio originato da disallineamenti nelle sca-  D
+tramite strumenti ﬁ nanziari derivati (fair value hedge) al ﬁ ne  I B
+denze (per le posizioni a tasso ﬁ sso) e nella data di revisione  U
+di ridurre l’esposizione a variazioni avverse di fair value dovute  SIN
+al rischio di tasso di interesse. L’attività di veriﬁ ca dell’efﬁ cacia  del tasso (per le posizioni a tasso variabile) delle poste ﬁ - ESS
+nanziarie dovuto  a movimenti paralleli della curva dei ren-
+delle coperture è svolta dal Chief Risk Ofﬁ cer, che esamina 
+dimenti;
+preventivamente le condizioni che rendono applicabile l’hed-
+ge accounting e mantiene formale documentazione per ogni  •  yield curve risk: rischio originato da disallineamenti nelle 
+relazione di copertura. Tali veriﬁ che sono effettuate attraver- scadenze e nella data di revisione del tasso dovuto a mu-
+so test prospettici all’attivazione della copertura, cui seguono  tamenti nell’inclinazione e conformazione della curva dei 
+test retrospettivi svolti a cadenza mensile. rendimenti;
+2
+Idl ir iccooprseort au rdae driaval trii s(cphreiov adlei ntatessmoe dnit ein ItReSr)e sès ele gtraatmo iatella l ’satcrqatueisgtioa   •  basis risk (rischio di base): rischio originato dall’imperfetta  . STRA
+di contratti swap collegati ai singoli titoli obbligazionari a ce- correlazione nell’aggiustamento dei tassi attivi e passivi di  TEG
+strumenti a tasso variabile che possono differire per para- IE
+dola ﬁ ssa presenti in portafoglio; tale strategia ha reso il por-
+metro di indicizzazione, modalità di revisione del tasso, al-
+tafoglio titoli con scadenze di lungo periodo meno sensibile al 
+goritmo di indicizzazione, ecc.. Tale rischio emerge a segui-
+rischio tasso. Per quanto riguarda la concentrazione dei rischi, 
+to di variazioni non parallele dei tassi di mercato.
+il portafoglio risulta estremamente diversiﬁ cato in ragione degli 
+stringenti limiti previsti dalla Financial Portfolio Policy, che ﬁ s-
+Per la misurazione del rischio di tasso d’interesse generato 
+sa un limite di esposizione massima verso un singolo Gruppo 
+corporate pari al 5% con la sola eccezione di Intesa Sanpaolo. d1a. ls hpioftr tsaefnosgiltiiovi tbya dnecla vriaol,o sreo neoc oandoomttiactoe  (lΔe EsVeEg)u;enti metriche: 3. CO
+N
+Per la valutazione dei derivati è utilizzato un approccio coeren- 2 . m- sahrgiftin see nds’iintitveitrye sdseel: margine (ΔNII); TESTO
+te con il secondo livello della gerarchia di fair value, fondato   D
+sdua tpar opcroesvsidi evar lduit amtievri cdait coo. mI duenreiv aatcic deti tcaozpioenrteu erad  ea ltimeseonretaritao  sdtia-   3. V- asliumeu alatz Rioisnke ( VdainRa)m. ica del margine di interesse (NII); I MERCA
+pulati nell’ordinaria operatività di investimento - in particolare  TO
+Shift sensitivity
+quelli di tasso e cambio - laddove non scambiati su mercati 
+La shift sensitivity del valore economico (o shift sensitivity del 
+regolamentati, sono strumenti over the counter (OTC) ovvero 
+fair value) misura la variazione del valore economico del ban-
+negoziati bilateralmente con controparti di mercato e la loro 
+king book ed è calcolata a livello di singolo cash ﬂ ow per 
+valutazione è effettuata mediante appositi modelli di pricing.
+ciascuno strumento ﬁ nanziario, sulla base di diversi shock 
+istantanei di tasso e riﬂ ette le variazioni del valore attuale dei  4
+Ivl epsotirmtaefnotgol ioa  cbaarnacttaerrioe  dè ucroemvopleo set od ad ad etirtiovalit id deit ecnouptei rptuerra l ’dine-l  ﬂr eussidsiu dai  ﬁc ansos aa  dsceallde epnozsaiz (irounni -goifàf  ibna blailnacnec isoh epeetr) .tutta la durata  . PERFOR
+rischio di tasso, da ﬁ nanziamenti a breve/medio lungo termi- M
+Nelle misurazioni le poste patrimoniali sono rappresentate in  A
+ne. Al 31 dicembre 2019 il portafoglio bancario ammontava  NC
+ad €45 miliardi. base al loro proﬁ lo contrattuale fatta eccezione per quelle ca- E
+tegorie di strumenti che presentano proﬁ li di rischio diversi 
+da quelli contrattualmente previsti. Per tale operatività si è 
+INFORMAZIONI DI NATURA QUANTITATIVA pertanto scelto di utilizzare, ai ﬁ ni del calcolo delle misure di 
+rischio, una rappresentazione comportamentale ed in parti-
+Portafoglio bancario colare:
+(milioni di euro) •  per i mutui, si tiene conto del fenomeno del prepayment, al 
+5
+ﬁ ne di ridurre l’esposizione al rischio tasso (overhedge) ed al  . G
+O
+ 31.12.2019   31.12.2018  VARIAZIONE  rischio liquidità (overfunding); VER
+N
+ASSOLUTA % •  per le poste contrattualmente a vista, viene adottato un  AN
+C
+Attività ﬁ nanziarie valutate al  modello di rappresentazione ﬁ nanziaria volto a riﬂ ettere  E
+fair value con impatto sulla 
+le caratteristiche comportamentali di stabilità delle masse 
+redditività complessiva  3.189   3.294  (105) -3
+e di reattività parziale e ritardata alle variazioni dei tassi di 
+Titoli di debito classiﬁ cati nei 
+crediti verso banche  12.766   10.764  2.002 19 mercato, al ﬁ ne di stabilizzare il margine di interesse sia in 
+Titoli di debito classiﬁ cati nei  termini assoluti sia di variabilità nel tempo;
+crediti verso clientela  2.509   2.535  (26) -1
+6
+Derivati di copertura  20   -  20n.s. •  i ﬂ ussi di cassa utilizzati sia per il proﬁ lo contrattuale che  . B
+comportamentale sono sviluppati al tasso contrattuale o al  ILA
+Totale Titoli e derivati  18.484   16.593   1.891  11 N
+Finanziamenti verso clientela  9.329   9.531  (202) -2 TIT. CIO
+ C
+Finanziamenti verso banche  17.198   12.301  4.897 40 ON
+Per la determinazione del Present Value si adotta un sistema  S
+Totale Finanziamenti  26.527   21.832  4.695 22 O
+multicurva che prevede diverse curve di attualizzazione e di  LID
+Totale Portafoglio Bancario  45.011   38.425  6.586 17 A
+“forwarding” a seconda del tipo di strumento e del tenor della  TO
+sua indicizzazione. Per la determinazione della shift sensitivity 
+n.s.: non signiﬁ cativo lo shock standard a cui sono sottoposte tutte le curve è deﬁ nito 
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 341

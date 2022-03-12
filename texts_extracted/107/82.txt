@@ -1,0 +1,27 @@
+OTHER SIGNIFICANT EMISSIONS 
+Unit of  Eldoprima 
+Prima Components Sole Components PSMM TWICE PS
+Components
+measurement
+Nox 1,799 3,738 0,472 0,099 0,397
+Vox 0,055 0,089 0,011 0,002 0,096
+Particolate 
+0,008 0,016 0,002 0,000 0,002
+emissions (PM) Tons
+CO 1,080 2,272 0,287 0,060 0,218
+COV 6,99 59,453 2,836 0,000 42,250
+Total of 
+signiﬁcant  9,932 65,568 3,608 0,161 42,963
+emissions
+Source of emission factors used
+Natural gas   • mission factors and LHV (PCI): Ecoinvent 3.3 “Heat, district or industrial, natural gas (Europe without Switzerland) | heat production, natural gas, at  
+                                industrial furnace low-NOx> 100k | Alloc Rec, U”
+    • Density: GESTIS Substance Database Information system on hazardous substances of the German Social Accident Insurance (IFA, www.dguv.de) Diesel*
+Diesel    • Emission factors and LHV (PCI): Ecoinvent 3.3 “Heat, central or small-scale, other than natural gas [Europe without Switzerlandl | heat production, light 
+                                fuel oil, 100kW at-boiler, non-modulating | Alloc Rec, U “
+    • Density: GESTIS Substance Database Information system on hazardous substances of the German Social Accident Insurance (IFA, www.dguv.de)
+LPG    • Emission factors: ISPRA, national inventory emission factors (http://www.sinanet.isprambiente.it/it/sia-ispra/serie-storiche-emissioni)
+    • Density and LHV (PCI): ENEA, Experimentation of an integrated fuel processor / polymer electrolyte fuel cell system powered by LPG for stationary 
+                                power generation.
+Data on VOC is analytical and retrieved on the basis of direct measurement.
+PAGE 83

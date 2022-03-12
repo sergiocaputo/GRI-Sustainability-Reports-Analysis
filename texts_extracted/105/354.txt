@@ -1,0 +1,48 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+6. Analisi e presidio dei rischi
+Rischio valuta
+È il rischio che il valore di uno strumento finanziario fluttui per effetto di modifiche dei tassi di cambio delle monete diverse da 
+quella di conto.
+L’analisi di sensitività svolta tiene conto delle posizioni in valuta più significative, ipotizzando uno scenario di stress determinato 
+dai livelli di volatilità del tasso di cambio per ciascuna posizione valutaria. In particolare, è stata applicata una variazione del 
+tasso di cambio pari alla volatilità storica, considerata rappresentativa delle possibili variazioni di mercato. 
+Di seguito, l’esito dell’analisi di sensitività al rischio di valuta, effettuata al 31 dicembre 2017 sulle posizioni più significative del 
+Gruppo Poste Italiane.
+Gruppo Poste Italiane - Rischio valuta USD
+Posizione  Posizione  Delta valore Risultato prima   Riserve di Patrimonio 
+in USD in Euro delle imposte netto al lordo delle 
+imposte
+Descrizione  + Vol  - Vol  + Vol  - Vol  + Vol  - Vol 
+(milioni di euro) 260gg 260gg 260gg 260gg 260gg 260gg
+Effetti 2017
+Attività finanziarie
+Investimenti disponibili per la vendita 96  80  6  (6) -    -    6  (6)
+Azioni 49  41  3  (3) -    -    3  (3)
+Altri investimenti 47  39  3  (3) -    -    3  (3)
+Variabilità al 31 dicembre 2017 96  80  6  (6) -    -    6  (6)
+Effetti 2016
+Attività finanziarie
+Investimenti disponibili per la vendita 143  136  11  (11) -    -    11  (11)
+Azioni 110  104  9  (9) -    -    9  (9)
+Altri investimenti 33  32  2  (2) -    -    2  (2)
+Variabilità al 31 dicembre 2016 143  136  11  (11) -    -    11  (11)
+Il rischio indicato attiene a titoli azionari detenuti dalla Capogruppo e a due fondi private equity detenuti da Poste Vita S.p.A..
+Poste Italiane S.p.A. - Rischio vauta DSP
+Posizione  Posizione  Delta valore Risultato prima   Riserve di Patrimonio 
+in DSP in EUR delle imposte netto al lordo delle 
+imposte
+Descrizione + Vol  - Vol  + Vol  - Vol  + Vol  - Vol 
+(milioni di euro) 260gg 260gg 260gg 260gg 260gg 260gg
+Effetti 2017
+Attività correnti in DSP 117  139  5  (5) 5  (5) -    -   
+Passività correnti in DSP (101) (120) (4) 4  (4) 4  -    -   
+Variabilità al 31 dicembre 2017 16  19  1  (1) 1  (1) -    -   
+Effetti 2016
+Attività correnti in DSP 119  151  7  (7) 7  (7) -    -   
+Passività correnti in DSP (101) (129) (6) 6  (6) 6  -    -   
+Variabilità al 31 dicembre 2016 18  22  1  (1) 1  (1) -    -   
+Il rischio indicato riguarda la posizione commerciale netta in DSP, valuta sintetica determinata dalla media ponderata dei tassi di 
+cambio di quattro valute principali (Euro, Dollaro USA, Sterlina Britannica, Yen Giapponese), detenuta da Poste Italiane S.p.A., 
+e utilizzata a livello mondiale per il regolamento delle posizioni commerciali tra Operatori Postali.
+353

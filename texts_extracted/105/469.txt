@@ -1,0 +1,34 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Utili/perdite attuariali
+(milioni di euro)  31.12.2017   31.12.2016 
+Variazione ipotesi demografiche - -
+Variazione ipotesi finanziarie - 1
+Altre variazioni legate all'esperienza - -
+Totale - 1
+Analisi di sensitività
+(milioni di euro)  TFR al 31.12.2017   TFR al 31.12.2016 
+Tasso di inflazione +0,25% 17 19
+Tasso di inflazione -0,25% 16 18
+Tasso di attualizzazione +0,25% 16 18
+Tasso di attualizzazione -0,25% 17 19
+Tasso di turnover +0,25% 17 19
+Tasso di turnover -0,25% 17 19
+Altre informazioni
+ 31.12.2017   31.12.2016 
+Service Cost - -
+Duration media del Piano a benefici definiti 9,0 10,3
+Turnover medio dei dipendenti 0,14% 0,41%
+Sezione 12 – Fondi per rischi e oneri – Voce 120
+12.1 Fondi per rischi e oneri: composizione
+Voci/Valori  
+(milioni di euro) Totale al 31.12.2017 Totale al 31.12.2016
+1. Fondi di quiescenza aziendali   -     -   
+2. Altri fondi per rischi ed oneri   543   462 
+2.1 controversie legali   97   90 
+2.2 oneri per il personale   2   3 
+2.3 altri   444   369 
+Totale   543   462 
+Il contenuto della sottovoce “Altri fondi per rischi ed oneri” è illustrato alla successiva tabella 12.4.
+468

@@ -1,0 +1,24 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Il Patrimonio BancoPosta monitora il rischio di prezzo delle azioni mediante il calcolo della massima perdita potenziale (VaR – 
+Value at Risk) stimata su un orizzonte temporale di 1 giorno e con una probabilità del 99%.
+B. Attività di copertura del fair value
+Al fine di limitare il rischio di tasso di interesse sul fair value, l’operatività del Patrimonio BancoPosta include anche la stipula, 
+con controparti principalmente di natura bancaria, di contratti di asset swap OTC di fair value hedge aventi ad oggetto la 
+copertura specifica dei titoli in portafoglio. Tali strumenti derivati non sono a copertura del rischio spread in quanto mirati a 
+coprire le variazioni dei tassi di mercato. Nel corso dell’esercizio 2017, considerato il livello ancora basso dei tassi interesse, 
+al fine di proteggersi dai potenziali impatti negativi derivanti dal rialzo dei tassi, il Patrimonio BancoPosta ha fatto ulteriormente  
+ricorso a tale tipologia di operatività.
+C. Attività di copertura dei flussi finanziari
+Al fine di limitare il rischio di tasso di interesse sui flussi finanziari, l’operatività del Patrimonio BancoPosta include la stipula, con 
+controparti principalmente di natura bancaria, di contratti di asset swap OTC di cash flow hedge aventi ad oggetto la copertura 
+specifica dei titoli in portafoglio. 
+In concomitanza delle scadenze dei titoli in portafoglio, si pone sistematicamente l’esigenza del reinvestimento della liquidità 
+in nuovi titoli eurogovernativi rilevando, pertanto, un’esposizione ad un rischio di riprezzamento derivante dalla possibile dimi-
+nuzione dei tassi di interesse. Al fine di limitare tale tipologia di rischio di tasso di interesse sui flussi finanziari, il Patrimonio 
+BancoPosta utilizza, dove appropriato, contratti di acquisto a termine (cash flow hedge di forecast transaction).
+Al fine di perseguire la stabilizzazione dei ricavi e limitare l’esposizione al rischio tasso e al rischio spread, il Patrimonio 
+BancoPosta stipula contratti di vendita a termine di titoli del portafoglio (cash flow hedge di forecast transaction) con l’obiettivo 
+di fissare il valore delle plusvalenze in momenti di mercato favorevoli. 
+506

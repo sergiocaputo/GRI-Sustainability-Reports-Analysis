@@ -1,0 +1,23 @@
+Impianto recupero energetico Colle Cese - punto E1 inquinanti (t/anno)
+INQUINANTI 2016 2017 2018
+Polveri totali  0,007 0,004 0,106
+Acido cloridrico 0,035 0,011 0,003
+Acido fluoridrico 0,007 0,011 0,003
+Ossido di zolfo (So) 0,105 0,061 0,146
+x
+Ossido di azoto (No) 12,296 5,411 3,071
+x
+Monossido di carbonio (CO) 4,362 2,540 0,941
+Carbonio organico totale (COT) 1,112 0,435 0,235
+Impianto recupero energetico Colle Cese - punto E2 inquinanti (t/anno) 
+INQUINANTI 2016 2017 2018
+Polveri totali 0,001 0,002 0,012
+Acido cloridrico 0,002 0,006 0,005
+Acido fluoridrico 0,002 0,006 0,005
+Ossido di zolfo (So) 0,012 0,034 0,054
+x
+Ossido di azoto (No) 1,336 3,656 4,381
+x
+Monossido di carbonio (CO) 0,553 0,948 1,442
+Carbonio organico totale (COT) 0,249 0,547 0,580
+84

@@ -1,0 +1,18 @@
+Intensità di emissioni di gas ad effetto serra (Greenhouse Gas - GHG)
+Per  misurare  l’intensità  delle  emissioni  dei  gas  serra  (Greenhouse  Gas-GHG) viene 
+selezionato un denominatore appropriato che rappresenti una unità di output, attività o 
+altra misura specifica dell’organizzazione. 
+Di seguito i dati sull’intensità di emissioni di gas serra (GHG), relative alle t di emissioni di 
+CO, CH,NO  sulle t di CSS trasportato su gomma.
+2 4  X
+ CO t CH t NO t t CSS trasportate
+2  4 x
+2016 666,6029 0,0246 5,5690 80.620.980
+2017 522,0050 0,0192 4,3610 69.110.150
+2018 296,0962 0,0109 2,4737 50.928.390
+ CO (t) / CSS (t) CH (t) / CSS (t) NO (t) / CSS (t)
+2 4 x
+2016 0,000008268 0,000000000 0,000000069
+2017 0,000007553 0,000000000 0,000000063
+2018 0,000005814 0,000000000 0,000000049
+88

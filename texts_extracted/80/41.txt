@@ -1,0 +1,35 @@
+42
+Uscite per età 
+Standard  Unità  
+2016 2017
+GRI misura
+< 25 n. 0 2
+uomini n. 0 2
+donne n. 0 0
+tra 25 e 29 n. 0 3
+uomini n. 0 3
+donne n. 0 0
+tra 30 e 34 n. 1 2
+uomini n. 1 2
+donne n. 0 0
+tra 35 e 39 n. 1 4
+uomini n. 1 4
+donne n. 0 0
+tra 40 e 44 n. 2 0
+uomini n. 2 0
+401-1
+donne n. 0 0
+tra 45 e 49 n. 1 0
+uomini n. 1 0
+donne n. 0 0
+tra 50 e 54 n. 3 4
+uomini n. 3 4
+donne n. 0 0
+tra 55 e 59 n.  16 39
+uomini n. 15 32
+donne n. 1 7
+> 60 n. 21 91
+uomini n. 21 81
+donne n. 0 10
+Totale n. 45 145
+Italgas DIchIarazIone non FInanzIarIa consolIData 2017

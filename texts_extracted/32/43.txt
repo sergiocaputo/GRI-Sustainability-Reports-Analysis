@@ -1,0 +1,40 @@
+4.2 innoVaZione tecnologica
+Durante il 2018 sono proseguite le  tecnologico delle reti di distribuzione; apparecchiature attualmente in produ-
+attività di Ricerca e Sviluppo con parti- zione allo scopo di predisporci al futuro 
+colare riferimento agli aspetti relativi alla  —  stesura dei capitolati tecnici relativi  passaggio dalla compressione MPeG-2 e 
+gestione delle reti di contribuzione e di  alle diverse tipologie di apparati da  MPeG-4, attualmente in uso per la diffu-
+trasporto dei segnali televisivi, la Televi- utilizzarsi, nella transizione alla tecno- sione dei canali in Definizione Standard 
+sione Digitale Terrestre (DTT) e i relativi  logia IP, della rete di distribuzione in  (SD) e in Alta Definizione (hD) sul Digitale 
+nuovi sviluppi di diffusione (DVB-T2) e  Ponte Radio; Terrestre DVB-T, alla futura compressione 
+di compressione (heVC) in funzione del  heVC che si imporrà congiuntamente con 
+processo di riordino delle bande uhF e  —  analisi e partecipazione a field trials  il passaggio al DVB-T2 previsto nel 2022.
+VhF dovuto all’asta delle frequenze della  riguardanti lo sviluppo di sistemi 
+Banda 700 Mhz e al loro conseguente  alternativi alla sincronizzazione di rete, 
+InTeRneT oF ThInGS 
+rilascio da parte dei Network operator  attualmente realizzata tramite sistema 
+televisivi (cd. processo di Refarming).  GPS;  (IoT)
+—  proseguimento dell’attività di valuta- nel corso del 2016, anche grazie alla 
+ReTI DI ConTRIBuZIone 
+zione degli apparati di “test & monito- costituzione della società controllata net-
+e DI TRASPoRTo DeI  ring” necessari alla comprensione del  trotter S.r.l, è stata avviata la realizzazione 
+corretto funzionamento della infra- di una rete IoT in Italia. L’implementazione 
+segnali teleVisiVi
+struttura di rete. di tale progetto, proseguita nel corso 
+del 2017 e nel 2018, anno in cui è stata 
+nel corso del 2018 sono proseguite  completata la realizzazione della rete, 
+teleVisione digitale 
+diverse attività tra le quali: permette a nettrotter di fornire una vasta 
+TeRReSTRe (DTT) e  gamma di servizi ai potenziali clienti. Così 
+—  valutazione degli apparati di compres- facendo il Gruppo mira a collocarsi come 
+nuoVI SVILuPPI PeR LA 
+sione audio/video in tecnologia heVC  principale player in questo specifico set-
+DIFFuSIone DIGITALe 
+e degli apparati di trasporto per la  tore, in particolare nel segmento del Low 
+contribuzione e la diffusione di eventi  TeRReSTRe (DVB-T2) Power Wide Area (LPwA), contribuendo 
+sportivi in standard uhD; così allo sviluppo tecnologico del Paese 
+nell’ambito della gestione delle infrastrut- e favorendo l’avvio di nuove modalità e 
+—  valutazione, tramite opportuni Pro- ture di Head-End per la Televisione Digi- possibilità di sviluppo nel mondo dell’IoT. 
+of-of-Concept, delle architetture e  tale Terrestre sono proseguite le attività  Tale tecnologia offre la possibilità di 
+degli apparati di trasporto in Ponte  di benchmarking e di approfondimento  creare nuovi prodotti e servizi di valore 
+Radio, in tecnologia IP, per l’upgrading  tecnico per presidiare l’evoluzione delle  non solo per i clienti, ma anche per le 
+42 Responsabilità del Business

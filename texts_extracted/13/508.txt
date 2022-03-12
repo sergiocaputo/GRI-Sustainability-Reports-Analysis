@@ -1,0 +1,30 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+I titoli che soddisfano i criteri sopra richiamati vengono classificati come 
+quotati in un mercato attivo e la determinazione del fair value avviene in base 
+alla tipologia di strumento finanziario:
+  per i titoli di capitale quotati su Borsa Italia e Estere il prezzo di 
+chiusura dell’ultimo giorno di Borsa aperta del mese di riferimento;
+  per i titoli obbligazionari verrà considerato il prezzo Denaro (per le 
+posizioni long) e il prezzo Lettera (per le posizioni short) da fonte 
+executable.
+Per gli strumenti finanziari che non rientrano nel mercato attivo la 
+valorizzazione degli stessi avviene tramite il processo di assegnazione del 
+livello di fair value 2 o 3 come argomentato in precedenza.
+Descrizione delle migrazioni tra il livello di valutazione degli attivi
+Banca Mediolanum adotta una policy per il riconoscimento del livello di 
+fair value delle singole posizioni. La policy stabilisce le regole impiegate sia 
+per la definizione di “mercato attivo”, sia per la conseguente procedura 
+operativa di valorizzazione dei portafogli, col fine di annullare ogni 
+discrezionalità nell’individuazione dei livelli. Nel corso dei singoli trimestri e 
+complessivamente nel 2018 non si sono registrate variazioni di livello di fair 
+value sui titoli presenti e transitati nei portafogli della Società.
+A.4.4 Altre informazioni
+Non sono presenti situazioni in cui il massimo e migliore utilizzo di un’attività 
+non finanziaria differisce dal suo utilizzo corrente. Non si riscontrano, 
+inoltre, situazioni in cui attività e passività finanziarie gestite su base netta 
+relativamente ai rischi di mercato o al rischio di credito sono oggetto di 
+valutazione al fair value sulla base del prezzo che si percepirebbe dalla 
+vendita di una posizione netta lunga o dal trasferimento di una posizione
+netta corta.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 509

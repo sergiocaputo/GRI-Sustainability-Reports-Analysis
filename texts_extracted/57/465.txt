@@ -1,0 +1,36 @@
+Bilancio Consolidato 2017
+(cid:20)(cid:23)(cid:17)(cid:22)(cid:17)(cid:20)(cid:3)(cid:3) (cid:57)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:82)(cid:86)(cid:87)(cid:72)(cid:3)(cid:68)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:83)(cid:68)(cid:87)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:88)(cid:76)(cid:3)(cid:68)(cid:79)(cid:79)(cid:68)(cid:3)(cid:47)(cid:17)(cid:3)(cid:21)(cid:20)(cid:23)(cid:18)(cid:21)(cid:19)(cid:20)(cid:20)(cid:3)(cid:11)(cid:76)(cid:81)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:82)(cid:83)(cid:68)(cid:85)(cid:87)(cid:76)(cid:87)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:82)(cid:3)(cid:72)(cid:70)(cid:82)(cid:81)(cid:82)-
+(cid:80)(cid:76)(cid:70)(cid:82)(cid:12)
+Totale   Totale 
+  31/12/2017  31/12/2016 
+1. Importo iniziale  174.166  202.427 
+2. Aumenti  -  1 
+3. Diminuzioni  1.835  28.262 
+3.1 Rigiri  1.835  745 
+3.2 Trasformazione in crediti d’imposta  -  27.517 
+a) derivante da perdite di esercizio  -  27.517 
+b) derivante da perdite fiscali  -  - 
+3.3 Altre diminuzioni  -  - 
+4. Importo finale  172.331  174.166 
+(cid:3)
+(cid:20)(cid:23)(cid:17)(cid:23)(cid:3)(cid:57)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:76)(cid:80)(cid:83)(cid:82)(cid:86)(cid:87)(cid:72)(cid:3)(cid:71)(cid:76)(cid:73)(cid:73)(cid:72)(cid:85)(cid:76)(cid:87)(cid:72)(cid:3)(cid:11)(cid:76)(cid:81)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:82)(cid:83)(cid:68)(cid:85)(cid:87)(cid:76)(cid:87)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:82)(cid:3)(cid:72)(cid:70)(cid:82)(cid:81)(cid:82)(cid:80)(cid:76)(cid:70)(cid:82)(cid:12)
+31/12/2017  31/12/2016 
+1. Importo iniziale  18.520  119.247
+2. Aumenti  3.851  110.162
+2.1 Imposte differite rilevate nell'esercizio  3.851  4.180
+a) relative a precedenti esercizi  -  -
+b) dovute al mutamento dei criteri contabili  -  -
+c) altre  3.851  4.180
+2.2 Nuove imposte o incrementi di aliquote fiscali  -
+2.3 Altri aumenti  -  -
+2.4 Operazioni di aggregazione aziendale  -  105.982
+3. Diminuzioni  1.633  210.889
+3.1 Imposte differite annullate nell'esercizio  1.633  104.908
+a) rigiri  1.633  104.908
+b) dovute al mutamento dei criteri contabili  -  -
+c) altre  -  -
+3.2 Riduzioni di aliquote fiscali  -
+3.3 Altre diminuzioni  -  105.981
+4. Importo finale  20.738  18.520
+(cid:3)
+465

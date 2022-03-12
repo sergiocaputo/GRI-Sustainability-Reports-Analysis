@@ -1,0 +1,57 @@
+The following tables (Table 7; Table 8) report data on the total number and rate of new employee hires 
+and turnover in the three-year period 2017-2019, broken down by geographical area, gender and age 
+group. In 2019, 703 new units have been hired (-14% with respect to 2018), and 570 contract terminations 
+(-14% with respect to 2018). The highest hire rate was recorded in Brazil (34,1%), followed by the rest of 
+Europe (30.9%) and China (25.2%), while the highest turnover rate was registered in China (22.9%), 
+followed by the Rest of Europe (16.2%) and Brazil (15.4%).  
+Table 7: GRI 401-1 (a): Total number and rate of new employee hires by age group, gender and region 
+Gender  MEN  WOMEN 
+Total 
+Age  < 30  30 ≤ x ≤  > 50  Total  Total  < 30  30 ≤ x ≤  > 50  Total  Total  (%) 
+Year 
+group  years  50  years  (n.)  (%)  years  50  years  (n.)  (%) 
+2017  17  33  8  58  10.6%  39  55  4  98  12.1%  11.5% 
+Italy  2018  24  38  12  74  13.1%  62  47  8  117  13.9%  13.6% 
+2019  29  38  0  67  11.8%  64  26  4  94  10.8%  11.2% 
+2017  6  12  2  20  26.0%  29  16  1  46  28.4%  27.6% 
+Rest of 
+2018  27  26  2  55  46.6%  31  36  7  74  33.8%  38.3% 
+Europe 
+2019  10  23  2  35  26.5%  39  39  9  87  33.1%  30.9% 
+2017  8  12  0  20  11.1%  18  19  4  41  19.2%  15.5% 
+USA  2018  16  20  21  57  29.1%  41  29  7  77  30%  29.6% 
+2019  5  10  1  16  8.1%  14  10  2  26  10.8%  9.6% 
+2017  2  1  0  3  14.3%  6  1  0  7  8.1%  9.3% 
+Brazil  2018  4  10  1  15  57.7%  8  9  0  17  23%  32.0% 
+2019  3  3  0  6  31.6%  19  16  1  36  34.6%  34.1% 
+2017  99  54  0  153  33.0%  189  67  0  256  29.3%  30.6% 
+China  2018  72  53  1  126  29.7%  95  108  0  203  23.1%  25.3% 
+2019  79  85  3  167  38.04%  76  93  0  169  18.9%  25.21% 
+ 
+Table 8: GRI 401-1 (b): Total number and rate of employee turnover by age group, gender and region 
+Gender  MEN  WOMEN 
+Total 
+Age  < 30  30 ≤ x ≤  > 50  Total  Total  < 30  30 ≤ x ≤  > 50  Total  Total  (%) 
+ Year 
+group  years  50  years  (n.)  (%)  years  50  years  (n.)  (%) 
+2017  9  21  9  39  7.1%  8  29  6  43  5.3%  6.0% 
+Italy  2018  14  25  21  60  10.7%  16  51  23  90  10.7%  10.7% 
+2019  6  37  19  62  10.9%  19  24  20  63  7.2%  8.7% 
+2017  5  9  1  15  19.5%  8  13  4  25  15.4%  16.7% 
+Rest of 
+2018  7  5  2  14  11.9%  11  6  0  17  7.8%  9.2% 
+Europe 
+2019  9  16  4  29  22.0%  13  18  4  35  13.3%  16.2% 
+2017  11  19  5  35  19.4%  13  35  6  54  25.2%  22.6% 
+USA  2018  7  25  9  41  20.9%  15  16  3  34  13.2%  16.6% 
+2019  4  6  6  16  8.1%  17  20  4  41  17.1%  13.0% 
+2017  4  11  1  16  76.2%  2  5  0  7  8.1%  21.5% 
+Brazil  2018  5  4  1  10  38.5%  10  19  0  29  39.2%  39.0% 
+2019  3  3  1  7  36.8%  4  8  0  12  11.5%  15.4% 
+2017  12  28  1  41  8.9%  77  21  0  98  11.2%  10.4% 
+China  2018  74  91  0  165  38.9%  94  108  0  202  23.1%  28.2% 
+2019  91  80  1  172  39.2%  61  70  2  133  14.9%  22.9% 
+ 
+29 
+This Consolidated Disclosure of non-financial information has been translated into English solely for the convenience of the international reader.  In 
+case of discrepancies, the Italian language document is the sole authoritative and universally valid version. 

@@ -1,0 +1,63 @@
+139
+GRI STANDARD  DISCLOSURE PAGINA NOTE/ RAGIONI DI OMISSIONE
+   PRATICHE DI REPORTING
+102-45 Entità incluse nel Bilancio Consolidato 4
+102-46 Definizione dei contenuti del report e del  4; 31-32;
+perimetro dei topic materiali 134-135
+102-47 Elenco dei topic materiali 32; 134-135
+102-48 Modifiche di informazioni contenute nei 
+4-5
+precedenti report
+102-49 Cambiamenti significativi in termini di topic 
+32; 134-135
+materiali e loro perimetro
+GRI 102: GENERAL 
+DISCLOSURES (2016) 102-50 Periodo di rendicontazione 4
+102-51 Data di pubblicazione del report più recente  giugno 2017
+102-52 Periodicità della rendicontazione 4
+102-53 Contatti per informazioni sul report 5
+102-54 Indicazione dell'opzione "In accordance" scelta 4
+102-55 Indice dei contenuti GRI 138-142
+102-56 Attestazione esterna  147-149
+ TOPIC-SPECIFIC STANDARDS
+  ASPETTO MATERIALE: PERFORMANCE ECONOMICO-FINANZIARIA
+GRI 103: MANAGEMENT  25-26; 53-54; 
+103-1 / 103-2 / 103-3 Approccio manageriale
+APPROACH (2016) 134
+GRI 201: ECONOMIC  201-1 valore economico direttamente generato e 
+52
+PERFORMANCE (2016) distribuito
+  ASPETTO MATERIALE: CONTRIBUTI DALLA PUBBLICA AMMINISTRAZIONE
+GRI 103: MANAGEMENT 
+103-1 / 103-2 / 103-3 Approccio manageriale 25-26; 53; 134
+APPROACH (2016)
+GRI 201: ECONOMIC  201-4 Finanziamenti ricevuti dalla Pubblica 
+52-53
+PERFORMANCE (2016) Amministrazione
+  ASPETTO MATERIALE: GESTIONE E SVILUPPO DELL’INFRASTRUTTURA E VALORIZZAZIONE DEGLI ASSET
+GRI 103: MANAGEMENT 
+103-1 / 103-2 / 103-3 Approccio manageriale 25-26; 62; 134
+APPROACH (2016)
+GRI 203: INDIRECT 
+ECONOMIC IMPACTS  203-1 Investimenti in infrastrutture 53-54
+(2016)
+  ASPETTO MATERIALE: PRATICHE SOSTENIBILI DI APPROVVIGIONAMENTO E GESTIONE RESPONSABILE DEGLI APPALTI
+GRI 103: MANAGEMENT  5; 25-26; 
+103-1 / 103-2 / 103-3 Approccio manageriale
+APPROACH (2016) 55-57; 135
+GRI 204: 
+PROCUREMENT  204-1 Porzione della spesa da fornitori locali 57
+PRACTICES (2016)
+È già in atto l’inserimento di prescrizioni di sostenibilità 
+ambientale e sociale all’interno dei bandi di gara in linea
+a quanto previsto dal Codice Appalti. Nel 2017 sono state 
+redatte Le Linee Guida per gli acquisti sostenibili del 
+GRI 308: SUPPLIER 
+308-1: Nuovi fornitori sottoposti a screening  Gruppo finalizzate ad ampliare in modo graduale lo spettro 
+ENVIRONMENTAL  55-57; 72
+utilizzando criteri ambientali degli approvvigionamenti che possono essere gestiti come 
+ASSESSMENT (2016)
+acquisti sostenibili. Inoltre, sarà sviluppato ulteriormente
+il sistema di raccolta dati per la copertura dell’indicatore 
+con l’implementazione dell’albo fornitori, che avverrà entro 
+il prossimo anno

@@ -1,0 +1,52 @@
+Sustainability Report | RESPONSIBILITY TOWARDS CUSTOMERS AND INVESTORS F65
+issues, Italgen has developed an automated system to constantly monitor the entire production 
+process and the operating parameters of the plants. At the same time, remote-controlled cameras 
+have been installed at the plants, which make it possible for the Control Room to carry out an im-
+mediate visual check on all plant and hydraulic works and intervene in real time. Starting from the 
+results of monitoring, conformity assessment and internal audits, opportunities for improvement 
+and updating of the Integrated Management System of products and services are defined. 
+34 As a consequence of the afo-
+rementioned events, in 2019 the 
+average  outage  duration  index 
+In 2019 there were four episodes of general interruption of the service for a total of 135 minutes,  (calculated as the ratio between 
+with an average duration of 34 minutes, whereas there were 12 interruptions, limited to individual  the total duration of outages and 
+the number of plants affected by 
+distribution lines without affecting the service as a whole, which lasted a total of 33.5 hours. The 
+outages) went from 0.25 to 3.3, 
+main cause of these episodes was extreme weather conditions; in particular, 20 hours of interrup- while the outage frequency index 
+tion were linked to a single episode of trees that fell across power lines due to a heavy snowfall that  (calculated as the ratio between 
+the number of interruptions that 
+affected the Val di Scalve on December 20, 201934. In this sense, Italgen is at the forefront in limi-
+occurred and the number of plants 
+ting the impact of increasingly frequent atmospheric events due to climate change, contributing to  affected by interruptions) decrea-
+the maintenance of forest areas close to the plants and transmission networks. sed to 0.09 from 0.25 in 2018.
+The protection of transparency and correctness of customer information is also a guiding value 
+for Italgen.
+Given that an electricity bill is a document that is not particularly easy to understand, together with 
+the tax invoice Italgen attaches a technical document that specifies all of the items that make up 
+the total amount to be paid. The meaning of each item is then explained in another attachment 
+called the Bill Guide. In addition to this, according to the provisions of the Ministerial Decree of 31 
+July 2009, Italgen shows on the bill and on its website the procurement mix used for supplying 
+end-users.
+6.4.2 PROTECTION OF CUSTOMER DATA
+In order to ensure compliance with the requirements of the GDPR, Italgen has adopted the data pro-
+tection model of its parent company, Italmobiliare. Particular attention is also paid to the continuity and 
+protection of production data, as well as the entire production process, thanks to a back-up system that 
+makes it possible to store all the signals. As regards the company's administration systems (ERP/SAP 
+environment), a disaster recovery service has been activated, which backs up the entire database on a 
+daily basis and stores it in a place other than the primary server.
+6.5 Clessidra SGR
+6.5.1 INVESTOR PROTECTION AND TRANSPARENCY IN 
+PRODUCT INFORMATION
+For Clessidra, the quality of the services offered to its investors is of fundamental importance to 
+establish and maintain a good level of relationship. The general objective when communicating 
+with subscribers is to guarantee an adequate and equal level of information for all investors and, at 
+the same time, to safeguard the confidentiality of certain information that has been processed and 
+the successful outcome of ongoing investment/divestment transactions.
+Within 60 days from the end of each year, Clessidra prepares a management report on each of its 
+funds in accordance with the Bank of Italy's Collective Savings Management Regulation. The report 
+includes a balance sheet, income statement, notes and directors' report and is subject to certifica-
+tion by the Independent Auditors. 
+On a voluntary basis and in agreement with investors and according to international practice, the 
+SGR also prepares a quarterly report called the LP Report which contains information based on 
+official data similar to that of the management report. Those in charge of drafting respond jointly 

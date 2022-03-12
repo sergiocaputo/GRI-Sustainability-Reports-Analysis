@@ -1,0 +1,64 @@
+Emissioni
+Il punto di partenza per la creazione di una valida strategia di lotta al cambiamento climatico è la valutazione del nostro 
+impatto in termini di emissioni di CO (riconosciuto come gas serra, rientrante nella categoria dei GHG “Green House Gas” 
+2
+nel Protocollo di Kyoto) e altre sostanze inquinanti.
+Le emissioni di CO di Italchimica si possono distinguere in:
+2
+•  Dirette, ovvero derivanti dalla combustione diretta di combustibili fossili utilizzati per il riscaldamento (metano) 
+   e per il rifornimento dei veicoli da trasporto (gasolio e benzina);
+•  Indirette, ovvero derivanti dal consumo di energia elettrica. Esse dipendono dal rendimento e dal combustibile utilizzato             
+   dalle centrali elettriche di proprietà delle società fornitrici.
+La valutazione dei potenziali impatti climalteranti generati dalle emissioni di gas ad effetto serra (GHG, greenhouse gases) 
+è stata effettuata utilizzando il metodo di valutazione degli impatti “IPCC GWP 100a 2013”. Questo metodo proposto 
+dall’IPCC (Intergovernmental Panel on Climate Change) costituisce di gran lunga il metodo più utilizzato e riconosciuto dalla 
+comunità scientifica internazionale. In questo modello viene considerato il contributo di tutti i gas serra (CO, CH, NO, SF, 
+2 4 2 6
+PFC, HCFC) che viene tradotto in Kg COeq (chilogrammi di CO equivalente) secondo quanto previsto dall’IPCC (Inter-
+2 2
+governmental Panel on Climate Change) attraverso l’applicazione dei più aggiornati fattori di caratterizzazione disponibili.
+Al fine di rispondere agli obiettivi del GRI, l’inventario dei dati di attività è stato redatto mediante la creazione di un modello 
+utilizzando il software dedicato. Si specifica che nel calcolo non sono stati conteggiati i HCFC in quanto non ci sono state 
+perdite dall’impianto di raffrescamento. Nel corso del triennio 2017-2019, si evidenzia un aumento delle emissioni di CO del 
+2
+17% giustificabile con l’aumento della produzione annua.
+58.364
+57.800
+I principali impatti di Italchimica sono di 
+54.551
+natura indiretta e sono collegati per più 
+dell’80% al consumo di energia elettrica 
+acquistata  dalle  società  fornitrici. 
+Tra il 2018 e il 2019, si evidenzia una 
+riduzione dell’0,5% sul totale emissivo 
+del  contributo  indiretto  legato  alla 
+1.943 2.300 2.308 diminuzione  del  0,1%  del  consumo  di 
+energia elettrica.
+2017  2018  2019
+CO consumata (tonnellate)
+2
+Andamento produzione annua (tonnellate)
+Emissioni di CO
+2  2017 2018 2019
+equivalente
+Italchimica vanta un rilascio 
+COeq indiretta
+2 1.696 1.989 1.987
+(Energia elettrica)
+pari a zero di gas inquinanti 
+COeq diretta (Gas) 139 125 133
+quali NO  e SO . 2
+x x
+COeq diretta (Trasporti) 107 186 188
+2
+Nel corso del triennio, la crescita della produzione annua e l’aumento del personale hanno contribuito ad accrescere del 
+2% sul totale emissivo il contributo diretto dovuto al consumo di carburante della flotta aziendale (impiego di un maggior 
+numero di auto aziendali e incremento del numero di trasporti di merce tramite i camion aziendali). Nel reparto produttivo 
+sono presenti due camini autorizzati alle emissioni in atmosfera ai sensi dell’art. 269 del D. Lgs. 152/2006, uno nel reparto 
+soffiaggio, uno nel reparto miscelazione/riempimento. Il controllo delle emissioni di polveri ha frequenza annuale ed è effet-
+tuato da laboratorio esterno accreditato. Oltre ad una riduzione sistematica del consumo energetico, è prevista la tran-
+sizione verso una generazione elettrica più sostenibile e meno impattante (con l’introduzione di pannelli fotovoltaici 
+ad esempio), caratterizzata da zero emissioni indirette di gas a effetto serra. Siamo consapevoli che la produzione da 
+fonti rinnovabili concorre, in proporzione sempre crescente, a coprire il fabbisogno energetico, traducendosi in una riduzio-
+ne delle emissioni di gas climalteranti causate dalla generazione termoelettrica.
+37

@@ -1,0 +1,57 @@
+Bilancio Consolidato 2017
+(cid:3)
+Data  Valore  Valore 
+Rating  
+Titolo  Classe  Piazza Quotazione  Tasso/Spread  rimborso  nominale  residuo a fine  Sottoscrittore 
+ 
+finale  emesso  esercizio 
+Euribor3M 
+A1  Senior  n.q.  +1,35%  not rated  31/12/2057  500.000  329.544  Terzi investitori 
+floor 1,35% 
+B1  Junior  n.q.  Variable Return  not rated  31/12/2057  302.800  302.800  Banca Popolare di Bari 
+B2  Junior  n.q.  Variable Return  not rated  31/12/2057  49.000  49.000  Cassa di Risparmio di Orvieto 
+Totale  851.800  681.344 
+           
+(cid:3) (cid:3) (importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+(cid:3)
+Con riferimento al titolo Senior A sottoscritto da terzi investitori, il netto ricavo conseguito dalla Società Veicolo è 
+stato attribuito per cassa alla Banca per euro 430.573 mila e alla controllata Cassa di Risparmio di Orvieto per euro 
+69.427 mila.
+La struttura dell’operazione è tale da non trasferire a terzi il rischio sostanziale dei crediti sottostanti, e, pertanto, 
+non ricorrono i presupposti previsti dallo IAS 39 per la derecognition dei crediti dal bilancio. Nella sostanza, il Gruppo 
+Banca Popolare di Bari non ha effettuato una cessione a titolo deﬁnitivo del portafoglio crediti ceduto, bensì, di fatto, 
+ha ricevuto un ﬁnanziamento dalla Società Veicolo. Conseguentemente, ai sensi dello IAS 39, nel bilancio individuale 
+delle Banche originator: 
+-  i crediti oggetto dell’operazione continuano ad essere iscritti nella pertinente forma tecnica dell’attivo patrimo-
+niale;
+-  il corrispettivo incassato dalla Società Veicolo a seguito del collocamento della tranche Senior presso terzi è sta-
+to rilevato in contropartita della passività ﬁnanziaria iscritta nei confronti della Società Veicolo medesima a fronte 
+del ﬁnanziamento ricevuto;
+-  continuano ad essere rilevati gli interessi relativi ai crediti ceduti al netto di quelli connessi con la passività iscritta 
+nei confronti della Società Veicolo.
+Nel bilancio consolidato i titoli emessi dalla Società Veicolo, non sottoscritti dalla banche originator, sono iscritti nel 
+passivo, voce 30 “Titoli in circolazione”.
+Servicer dell’operazione è la Capogruppo Banca Popolare di Bari che continua a gestire le riscossioni sul portafoglio 
+ceduto e a mantenere direttamente i rapporti con i clienti, trasferendo giornalmente gli incassi a titolo di capitale ed 
+interessi sul Collection account presso la banca depositaria. Idonee strutture centrali della Capogruppo si occupano 
+quindi di seguire in via continuativa i ﬂussi ﬁnanziari derivanti dalle attività cartolarizzate, monitorandone costante-
+mente l’incasso e gestendo le procedure di recupero relative alle posizioni deteriorate. 
+Periodicamente, il servicer provvede a fornire alla Società Veicolo (oltre che alle altre controparti deﬁnite nei con-
+tratti di Servicing) informazioni sull’attività svolta attraverso la predisposizione del Servicer’s report che evidenzia, 
+in particolare, l’attività di riscossione e di realizzo dei crediti ceduti, l’ammontare delle posizioni deteriorate, le rate 
+arretrate ecc.. L’informativa e la reportistica prodotta è sottoposta periodicamente al Risk Management nonché 
+all’Alta Direzione.
+Per sua natura, l’operazione di cartolarizzazione, avendo per oggetto mutui ipotecari e chirografari in bonis cartola-
+rizzati sulla base di quanto disposto dalla Legge 130/1999, non ha comportato una variazione del rischio di credito 
+del portafoglio ceduto.
+Alla data di riferimento del bilancio consolidato, l’operazione di cartolarizzazione è rappresentata come segue:
+(cid:3)
+Principali voci patrimoniali 
+Crediti verso clientela  652.602 
+Crediti verso banche (disponibilità liquide della Società 
+40.190 
+Veicolo) 
+Titoli in circolazione  329.544 
+Risultato economico dell'operazione  16.506 
+(importi(cid:3)in(cid:3)migliaia(cid:3)di(cid:3)euro)(cid:3)
+531

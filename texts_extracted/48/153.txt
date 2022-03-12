@@ -1,0 +1,50 @@
+152 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+STATEMENT OF CASH FLOW (INDIRECT METHOD)  
+Cash flow statement
+(€ million) 31/12/2018 31/12/2017
+Earnings before taxes 3,450 3,511
+Changes in non-cash items 12,498 12,021
+Change in the provisions for unearned premiums and for unexpired risks for non-life segment 28 87
+Change in the provisions for outstanding claims and other insurance provisions for non-life segment -109 219
+Change in the mathematical provisions and other insurance provisions for life segment 6,114 16,031
+Change in deferred acquisition costs -19 -30
+Change in other provisions 110 175
+ Other non-cash expenses and revenues arising out of financial instruments, investment properties and 
+7,705 -3,026
+investments in subsidiaries, associated companies and joint ventures
+ Other changes -1,330 -1,435
+Change in receivables and payables from operating activities -547 785
+ Change in receivables and payables arising out of direct insurance and reinsurance operations -390 -6
+ Change in other receivables and payables -157 791
+ Income taxes paid -1,102 -1,103
+Net cash flows from cash items related to investing or financing activities 694 1,104
+ Financial liabilities related to investment contracts -54 187
+ Payables to banks and customers 866 788
+ Loans and receivables from banks and customers -118 129
+ Other financial instruments at fair value through profit or loss 0  -     
+NET CASH FLOWS FROM OPERATING ACTIVITIES 14,992 16,317
+ Net cash flows from investment properties -1,892 -313
+ Net cash flows from investments in subsidiaries, associated companies and joint ventures(***) 499 26
+ Net cash flows from loans and receivables 1,765 2,046
+ Net cash flows from held to maturity investments 119 -206
+ Net cash flows from available for sale financial assets -10,700 -11,395
+ Net cash flows from tangible and intangible assets -355 437
+ Net cash flows from other investing activities -1,789 -5,812
+ CASH FLOW FROM INVESTING ACTIVITIES -12,353 -15,217
+ Net cash flows from shareholders' equity attributable to the Group 0
+ Net cash flows from own shares -0 -0
+ Dividends payment -1,249 -1,249
+ Net cash flows from shareholders' equity attributable to minority interests(****) -136 -114
+ Net cash flows from subordinated liabilities and other similar liabilities -245 -709
+ Net cash flows from other financial liabilities -785 441
+CASH FLOW FROM FINANCING ACTIVITIES -2,415 -1,631
+ Effect of exchange rate changes on cash and cash equivalents 49 -86
+CASH AND CASH EQUIVALENTS AT THE BEGINNING OF THE PERIOD(*) 6,313 6,930
+CHANGES IN CASH AND CASH EQUIVALENTS 272 -617
+CASH AND CASH EQUIVALENTS AT THE END OF THE PERIOD(**) 6,585 6,313
+(*)  Cash and cash equivalents at the beginning of the period include cash and cash equivalents (€ 6,426 million), liabilities to banks payables on demand (€ -64 million) and 
+bank overdrafts (€ -49 million).
+(**)  Cash and cash equivalents at the end of the period include cash and cash equivalents ( € 6,697 million), liabilities to banks payables on demand (€ -110 million), bank 
+overdrafts (€ -2 million).
+(***) Includes mainly proceeds arising from the disposal of the company in Ireland (€ 233 million), The Netherlands (€ 143 milioni), Colombia (€ 27 milion) and Panama (€ 139 milion).
+(****) It refers entirely to dividends attributable to minority interests.

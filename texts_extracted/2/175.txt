@@ -1,0 +1,48 @@
+TABELLA N. 48 – LA PRODUZIONE DI ENERGIA DA IMPIANTI DI ECOGENA E I TITOLI DI EFFICIENZA ENERGETICA TEE 
+(2017-2019)
+2017 2018 2019
+ENERGIA PRODOTTA  TJ (GWh)
+energia elettrica  61,9 (17,2) 54,1 (15,0) 51,5 (14,3)
+  di cui impianti di proprietà Ecogena 56,7 (15,7) 50,3 (14,0) 49,0 (13,6)
+  di cui impianti di proprietà di terzi  5,1 (1,4) 3,9 (1,1) 2,7 (0,7)
+energia termica  90,4 (25,1) 95,4 (26,5) 103,3 (28,7)
+  di cui impianti di proprietà Ecogena 74,8 (20,8) 81,1 (22,5) 89,2 (24,8)
+  di cui impianti di proprietà di terzi  15,7 (4,4) 14,3 (4,0) 14,0 (3,9)
+energia frigorifera (tutti impianti di proprietà) 17,0 (4,7) 34,5 (9,6) 37,6 (10,5)
+TEE
+TEE totali (tutti da impianti di proprietà di Ecogena) 1.039 1.359 954
+NB Il tema dei TEE è trattato nel paragrafo Il risparmio energetico del capitolo L’uso di materiali, energia e acqua.
+LA DISTRIBUZIONE DI ENERGIA
+LE RETI DI DISTRIBUZIONE 
+rete di distribuzione   circa 10.600 GWh  costante l’indice  
+a roma e formello:   di energia elettrica  di tutela del territorio 
+circa 31.000 km  richiesti sulla nostra  (rete at interrata  
+rete su totale rete at): 46%
+Areti gestisce la rete di distribuzione di energia elettrica di Roma  L’indicatore ambientale correlato alla tutela del territorio, calco-
+e Formello, estesa per circa 31.000 km e in grado di alimentare  lato come quota percentuale di rete in alta tensione (AT) inter-
+circa 2,8 milioni di abitanti residenti. Per volumi di energia elettrica  rata sul totale delle linee AT in esercizio (aeree ed interrate), è 
+distribuita, circa 9.830 GWh nel 2019, Acea è il terzo operatore  migliorato negli ultimi anni e, nel 2019, è stabile rispetto all’anno 
+italiano del settore.  precedente, confermandosi pari al 46% (44% nel 2017); ciò an-
+Nella tabella n. 49 sono descritti i principali dati impiantistici della  che a seguito degli interventi, ancora in atto, di trasformazione 
+Società, inclusi il numero cabine primarie, secondarie, i trasforma- ed ammodernamento della rete elettrica di distribuzione in alta e 
+tori108 e i km di linee di distribuzione aeree e interrate. altissima tensione.
+TABELLA N. 49 – CONSISTENZA IMPIANTI E LINEE DI DISTRIBUZIONE AEREE E INTERRATE (2017-2019)
+Areti
+IMPIANTI E POTENZE u. m. 2017 2018 2019
+cabine primarie AT/AT – AT/MT n. 71 70 70
+trasformatori AT/AT e AT/MT n. 169 166 170
+potenza di trasformazione  MVA 7.921 7.631 7.781
+cabine secondarie in esercizio n. 13.159 13.211 13.238
+trasformatori MT/MT – MT/BT n. 12.832 12.838 12.883
+potenza di trasformazione MVA 6.203 6.236 6.282
+RETI AEREE E INTERRATE
+rete alta tensione – linee aeree km 310 282 282
+rete alta tensione – linee interrate km 243 243 243
+rete media tensione – linee aeree km 419 424 422
+rete media tensione – linee interrate km 10.137 10.166 10.470
+rete bassa tensione – linee aeree km 1.641 1.641 1.642
+rete bassa tensione – linee interrate km 18.147 18.306 18.417
+108   In relazione ai policlorobifenili (PCB), in base al D. Lgs n. 209/99 e alla L. n. 62/05, Acea ha provveduto, già nel 2009, allo smaltimento dei trasformatori con PCB 
+superiore alla soglia di 500 ppm. Nel 2019 i trasformatori con PCB superiore ai 50 ppm ma inferiore alla soglia di 500 ppm sono 194, compresi di 93 di Illuminazione 
+Pubblica, denunciati all’Arpa, e sono stati smaltiti 10 trasformatori, per un peso di 13.420 kg e una quantità di PCB di 1.838 ppm.
+180 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

@@ -1,0 +1,60 @@
+F34
+Sirap's energy consumption
+ELECTRICITY Total 2019 Total GJ 2019 Total 2018 11 Total GJ 2018
+Electricity purchased 14 88,590,486 kWh 318,926 93,807,669 kWh    337,708
+Self-produced renewable energy   - - 81,944 kWh 295
+Electricity sold - - 9,345 kWh 34
+of which renewable - - 9,345 kWh 34
+Electricity consumed 88,590,486 kWh 318,926 93,880,268 kWh   337,969
+NON-RENEWABLE FUELS15
+Natural gas 1,325,028 m3 47,487 2,044,286  m3 74,177
+Diesel 64,878 lt 2,334 74,226 lt 2,682
+of which used for production and 
+11,776 lt 428 9,805 lt 356
+heating processes
+of which for automotive 53,102 lt  1,906 64,421 lt  2,326
+Gasoline for automotive 1,625 lt 53 1,389 lt 61
+LPG 80,798 lt 1,918 n.a. n.a.
+of which used for forklifts  79,764 lt 1,893 n.a. n.a.
+of which for automotive 1,034 lt 25 n.a. n.a.
+Total energy consumption n.a. 370,717 n.a. 414,928
+16 For comparative purposes, the  In 2019, the direct (Scope 1) emissions of Sirap from fuel combustion for the production plants and 
+2018 data relating to the natural gas, 
+company cars amounted to 6,900 tons of CO equivalent. Indirect (Scope 2) emissions linked to the 
+diesel and automotive gasoline of  2
+the Sirap Group have been restated  external energy supply amounted to 29,074 tons of CO2 according to the location-based18 approach  
+following an improvement process  and 36,569  according to the market-based approach19 .
+of the reporting system implemen-
+ted  during  2019.  For  previously 
+published data, see the Report of 
+Sustainability 2018, published in the 
+Sustainability section of the website 
+www.italmobiliare.it.
+12 the company did not require to 
+guarantees of origin for the purchase  3.2.4 MANAGEMENT OF WATER RESOURCES   
+of energy from renewable sources 
+neither in 2018 nor in 2019..
+Being attentive to the development of projects and initiatives that favour the optimization of water 
+15 For the values   referring to the fuel 
+consumption also through water recovery initiatives in production processes, Sirap uses water that 
+used for the car fleet and the relative 
+emissions reported in this chapter,  comes 96% from wells and 4% from the aqueduct. In most plants, there is a closed cycle system 
+estimates were used. For cars for  for the reuse and cooling of technological water through the use of evaporative towers or closed 
+mixed use, 70% of total consumption 
+heat exchangers. The water withdrawn by the production sites where this system is present is the 
+was considered.
+quantity needed to top up the circuit because of evaporation or leaks; the rest of the water circula-
+18 Source of the emission factors 
+tes continuously to cool the machinery and, in turn, is cooled by evaporative towers or refrigeration 
+for 2019: “Confronti internazionali; 
+2017”, published by Terna. systems with a closed heat exchanger. 
+19 Source of the emission factors 
+In 2019, water consumption stood at 90,03 Ml, increased of the 17.4% compared to the previous 
+for 2019: European Residual Mixes, 
+2018. year20.
+20 The figures for withdrawals from 
+the aqueduct and discharges to the 
+sewage system of the French plan-
+ts in Noves and Remoulins are the 
+result of an estimate, as actual data 
+are not available.

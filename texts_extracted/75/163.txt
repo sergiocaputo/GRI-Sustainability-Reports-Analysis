@@ -1,0 +1,44 @@
+Indicators
+Society
+CUSTOMERS
+CUSTOMER COMPOSITION
+Retail customers by age bracket [% - years]
+Italy  Abroad
+  18.3% (43-52 years)
+  21.7% (33-42 years)
+  18.5% (43-52 years)
+  13.5% (33-42 years)
+  25.2% (53-67 years)
+  24.7% (53-67 years)
+19.5% (0-32 years)  22.1% (0-32 years)
+  23.5% (>67 years)   13.0% (>67 years)
+Group
+  18.4% (43-52 years)
+  16.6% (33-42 years)
+  25.0% (53-67 years)
+  20.5% (0-32 years)
+  19.6% (>67 years)
+Retail customers by years of relationship with the bank [years - %]
+Italy
+0-1 years 7.9%
+8.6% Abroad
+8.1% Group
+Italy
+2-4 years 10.2% Italy
+17.2% Abroad Abroad
+12.8% Group Group
+Italy
+5-7 years 9.9%
+12.1% Abroad
+10.7% Group Average in Italy: 16 years
+Italy Average abroad: 11 years
+8-10 years 9.1%11.3% Abroad Average for the Group: 14 years
+9.9% Group
+Italy
+11-20 years 26.6%
+34.6% Abroad
+29.6% Group
+> 20 years 36.3% Italy
+16.1% Abroad
+28.9% Group
+164

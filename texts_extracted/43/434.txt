@@ -1,0 +1,25 @@
+10. Glossario
+Valore d’uso VaR
+È il valore attuale dei ﬂ ussi ﬁ nanziari futuri che si prevede  Criterio di misurazione dei rischi di mercato che segue un ap-
+abbiano origine da un’attività o da un’unità generatrice di  proccio di tipo probabilistico, quantiﬁ cando il rischio in base 
+ﬂ ussi ﬁ nanziari. alla massima perdita che, con una certa probabilità, ci si attende 
+possa essere generata, sulla base delle variazioni storiche di 
+Valore nominale prezzo, da una singola posizione o dall’intero portafoglio titoli 
+Per le azioni è la frazione di capitale sociale rappresentata  con riferimento ad uno speciﬁ co orizzonte temporale.
+da un’azione. Per i titoli obbligazionari è il valore al quale 
+l’emittente si è impegnato a rimborsare il titolo alla scaden- Volatilità
+za ed è l’importo su cui si calcolano gli interessi. Rimane  Indice statistico volto a misurare l’ampiezza della variazione 
+invariato nel tempo e non è inﬂ uenzato dalla situazione pa- di prezzo di uno strumento ﬁ nanziario rispetto al suo prezzo 
+trimoniale dell’emittente. Nel caso delle azioni può essere  medio in un dato periodo. Più uno strumento ﬁ nanziario è 
+modiﬁ cato solo mediante una modiﬁ ca dell’atto costitutivo  volatile, più è rischioso.
+con conseguente frazionamento o raggruppamento di azio-
+ni. Il valore nominale non coincide né con il valore di emis- World Intellectual Capital Initiative (WICI)
+sione (le azioni possono essere emesse per somma superiore  Network globale che mira a fondare un nuovo e più ampio 
+al valore nominale, cioè con sovrapprezzo; le obbligazioni  quadro concettuale per il Business Reporting, in grado di rap-
+possono essere emesse, oltre che sopra la pari, anche sotto  presentare in modo più soddisfacente ed esaustivo, rispetto 
+la pari), né, per le azioni, con il valore reale e neanche con il  alle tradizionali informazioni ﬁ nanziarie, le varie dimensioni 
+valore di mercato del titolo. dei risultati d’impresa, inclusa quella intangibile, e di forni-
+re una più ampia piattaforma di informazioni non ﬁ nanziarie 
+(KPIs) che permettano di misurare la capacità delle imprese di 
+generare, in modo sostenibile, valore nel tempo.
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 431

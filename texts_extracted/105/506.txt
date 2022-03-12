@@ -1,0 +1,48 @@
+Indice generale Indice di sezione Sezione 12
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte E
+Il rischio di tasso di interesse sul fair value riguarda principalmente gli effetti delle variazioni dei tassi di mercato sul prezzo degli 
+strumenti finanziari a tasso fisso o ricondotti a tasso fisso mediante operazioni di copertura di cash flow hedge e gli effetti delle 
+variazioni dei tassi di mercato sulle componenti fisse degli strumenti finanziari a tasso variabile o ricondotti a tasso variabile 
+mediante operazioni di copertura di fair value hedge.
+Il portafoglio titoli del Patrimonio BancoPosta è prevalentemente investito in strumenti a tasso fisso, parte dei quali, con un fair value 
+pari a circa 19.013 milioni di euro, coperti con swap di fair value hedge con partenza forward start o da titoli indicizzati pari a circa 
+1.400 milioni di euro resi a tasso fisso mediante l’utilizzo di strumenti derivati di copertura quali asset swap di cash flow hedging. 
+Il modello interno di misurazione del rischio di tasso di interesse prevede l’applicazione del metodo basato sul valore eco-
+nomico. In tal senso rileva l’esigenza di definire un probabile profilo di rimborso della raccolta basandosi sulle caratteristiche 
+comportamentali della stessa e su alcune scelte metodologiche relative all’orizzonte temporale ed al livello probabilistico con 
+cui si intende sviluppare le stime. In particolare, ad oggi, considerando un livello di probabilità del 99%, viene utilizzato un oriz-
+zonte massimo di scadenza con un cut-off di 20 anni per la raccolta da clientela retail, di 10 anni per la raccolta da clientela 
+business e le PostePay e di 5 anni per la raccolta da Pubblica Amministrazione. L’approccio prevede il calcolo del rischio di 
+tasso in ottica ALM determinando i maturity gap relativi al confronto tra poste attive detenute e poste passive rilevate sulla base 
+del profilo comportamentale.
+L’esposizione al rischio tasso di interesse, ottenuta secondo quanto previsto dal modello interno, viene sottoposta a partico-
+lari situazioni di stress che influenzano l’andamento dei principali fattori di rischio - quali la durata della raccolta, il valore degli 
+impieghi e l’andamento dei tassi di interesse - che contribuiscono a determinare la misura. In particolare, gli stress test ipotizza-
+ti, prevedono una riduzione dell’orizzonte massimo di scadenza (cut-off) per la raccolta da clientela retail e business, la rivaluta-
+zione del portafoglio attivo secondo uno scenario di mercato avverso, variazioni non parallele della curva dei tassi di interesse.
+La gestione e mitigazione del rischio di tasso di interesse si basa sulle risultanze delle analisi di misurazione dell’esposizione al 
+rischio e sul rispetto di quanto indicato, in coerenza con la propensione al rischio e il sistema di soglie e limiti stabiliti nel RAF, 
+nelle Linee guida della gestione finanziaria tempo per tempo approvate dal Consiglio di Amministrazione di Poste Italiane S.p.A..
+Per quanto riguarda il modello di gestione del rischio si rimanda a quanto già descritto nel paragrafo relativo ai rischi finanziari, 
+nella Premessa della Parte E. 
+Il Patrimonio BancoPosta monitora il rischio di mercato, comprensivo del rischio di tasso di interesse sul fair value e del rischio 
+spread, delle Attività finanziarie disponibili per la vendita e degli strumenti finanziari derivati attraverso il calcolo della massima 
+perdita potenziale (VaR – Value at Risk) stimata su un orizzonte temporale di 1 giorno e con una probabilità del 99%.
+Rischio spread
+Il rischio spread riguarda gli impieghi in titoli emessi o garantiti dallo Stato italiano classificati nel portafoglio Attività finanziarie 
+disponibili per la vendita. Nel corso dell’esercizio 2017, si è rilevato in media un aumento dei rendimenti dei Titoli di stato italiani 
+rispetto all’esercizio precedente, mentre, al 31 dicembre 2017, il differenziale di rendimento dei Titoli di Stato italiani a dieci anni 
+rispetto al Bund tedesco (cd Spread) presenta un valore di circa 159 bps tendenzialmente in linea con il valore dello scorso 
+anno (161 bps al 31 dicembre 2016). 
+Nel periodo in commento, quanto sopra descritto, ha determinato nel portafoglio Available for Sale detenuto dal Patrimonio 
+BancoPosta (nozionale di circa 36 miliardi) una complessiva variazione netta negativa del fair value di circa 0,8 miliardi di euro: 
+la variazione negativa di fair value dei titoli oggetto di copertura dal rischio tasso di interesse di circa 0,5 miliardi di euro ha 
+trovato compensazione nella variazione positiva di fair value dei derivati corrispondenti, mentre la variazione negativa del fair 
+value dei titoli non coperti e della componente relativa al rischio spread (non oggetto di copertura), si è riflessa nel patrimonio 
+netto per circa 0,3 miliardi di euro.
+Rischio di prezzo
+Il rischio di prezzo riguarda le poste finanziarie attive classificate come “Attività finanziarie disponibili per la vendita”. 
+Ai fini della presente analisi di sensitività sono state prese in considerazione le principali posizioni che sono potenzialmente 
+esposte alle maggiori fluttuazioni di valore. 
+505

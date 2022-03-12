@@ -1,0 +1,37 @@
+ 
+•  are directly proportionate to the contract and increase the performance obligation transferred to the 
+customer; 
+•  do not include those costs that will be incurred regardless of satisfaction of the performance obligation; 
+•  cannot be avoided by the company through future actions. 
+Measurement of any loss-making contracts (the onerous test) is performed at individual performance obligation 
+level. This approach best represents the different contract profits or losses depending on the nature of the 
+goods and services transferred to the customer. 
+6. Contract costs 
+6.a Incremental costs of obtaining a contract 
+IFRS 15 allows an entity to recognise the incremental costs of obtaining a contract as an asset if it expects to 
+recover those costs through the future economic benefits of the contract. The incremental costs of obtaining a 
+contract are those costs that an entity incurs to obtain a contract with a customer. Costs to obtain a contract 
+that would have been incurred regardless of whether the contract was obtained shall be recognised as an 
+expense when incurred (costs not explicitly chargeable to the customer). The incremental costs are recognised 
+as an asset (contract costs) and amortised on a systematic basis that is consistent with the pattern of transfer 
+of control of the goods or services to the customer. 
+6.b Costs to fulfil a contract 
+Under IFRS 15, an entity shall recognise an asset from the costs incurred to fulfil a contract only if those costs 
+meet all of the following criteria: 
+•  the costs relate directly to a contract; 
+•  the costs generate or enhance resources of the entity that will be used in satisfying (or in continuing to 
+satisfy) performance obligations in the future; and 
+•  the costs are expected to be recovered. 
+It is the practice of the company’s sector that these costs usually consist of pre-operating costs that are 
+recognised by customers and included in precise contract items or are not explicitly recognised and are covered 
+by the contract profit. Formal recognition of these costs implies that, when they are incurred, control of the 
+asset provided for in the contract is transferred. Therefore, they cannot be recognised as assets and contribute 
+to the stage of completion. 
+When the contract provides for their explicit recognition and the above three criteria are met, the pre-operating 
+costs are recognised as assets and amortised on a systematic basis that is consistent with the pattern of 
+transfer of control of the goods and/or services to the customer. 
+In addition, IFRS 15 defines all those costs that, by their nature, do not contribute to the stage of completion 
+as, although they are referred to in the contract and can be recovered, they do not contribute to generating or 
+enhancing the resources that will be used to satisfy the performance obligations or to transfer of control of the 
+good and/or service to the customer. 
+   413 

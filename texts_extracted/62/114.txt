@@ -1,0 +1,44 @@
+During 2019 we plan to extend the platform and implement artificial intelligence algorithms to create a tool 
+capable of optimizing the purification processes. 
+Utilities 4.0: Robotic process automation 
+A new Robotic Process Automation platform was launched in 2018, to automate processes that involve 
+interaction with repetitive and low value-added systems. The experimentation of the technology, carried 
+out with the specific aim of testing its potential, has given extremely satisfactory results in the two 
+processes involved (management of the DURC of suppliers and management of communications between 
+the seller and distributors of energy), both in terms of speeding up the process, and consequent efficiency, 
+and in terms of reliability of the operations carried out. These first experiences will lead to enhancements 
+of the platform during 2019, creating a real (cid:862)software automation hub(cid:863) for operating processes that are 
+traditionally resource-intensive, but with low added value. The results in terms of potential efficiency on a 
+Group scale are certainly significant, but above all they will free up time.  
+Utilities 4.0: Optimisation of purification plants operation 
+The project, carried out on the Modena wastewater purification plant, involved the development, with the 
+support of Energy Way, of a control system based on predictive logic MPC (Model Predictive Control) and 
+artificial intelligence for the optimized supply of oxygen in the oxidation tanks. The project has the 
+following objectives:  
+- to improve the performance of total nitrogen abatement compared to the regulatory limits; 
+- optimize oxygen delivery in the aerobic compartment; 
+- minimize the energy costs of air blowers. 
+The  project  also  included  the  development  of  a  dynamic  baseline  aimed  at  forecasting  energy 
+consumption, to quantify the real performance of the process and develop multi-variable, real-time energy 
+and production performance indicators (KPIs), aimed at improving control over the real performance of 
+the wastewater purification plant. In 2019, we expect to complete the field installation of the predictive 
+controller and complete the test phase. 
+Utilities 4.0: HergoAmbiente and data analysis for waste management services 
+In 2018 we added various Data Analitycs tools to HergoAmbiente(cid:859)s system. 
+The  Waste  Management  Services,  therefore,  actually  fit  into  the  world  of  IoT  (Internet  of  Things), 
+characterized by the production and consequent analysis of the Big Data system. 
+These tools are part of the company(cid:859)s Data Management and, in addition to consolidating the system 
+through the introduction of performance indicators extended to the collection centres, they have also 
+consolidated the engineering of predictive analysis tools, aimed at comparative benchmarking and changes 
+in service logistics. 
+Particular attention must be paid to the development of operational research tools that improve the design 
+of collection services, and can quickly identify logistical scenarios and the related economic benefits. 
+In 2018 the analyses relating to the study of the degree of filling of the collection containers were refined 
+so as to understand the dynamics of the service with a view to aiming for an on-demand collection. 
+The experience determined the extension of volumetric sensors based on signal concentrators (LoraWAN) 
+in the Ferrara and Trieste area. The data collected have made it possible to understand the dynamics of 
+filling containers on the area, profoundly changing the nature of the service with the introduction of the 
+caps on the containers of non-separate collection and controlled closures on those of other separate 
+fractions. 
+115 
+ 

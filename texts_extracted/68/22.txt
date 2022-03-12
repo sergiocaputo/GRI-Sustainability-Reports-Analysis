@@ -1,0 +1,41 @@
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2017
+» EMISSIONI (GRI N.305-1-2) Il settore dei servizi in cui l’Azienda opera prevalentemente non produce rilevanti emissioni. Le emissioni dirette (Scope 1) 
+sono la conseguenza diretta di un utilizzo di energia relativamente modesto rispetto all’attività industriale. Le emissioni indirette (Scope 2) vengono 
+controllate attraverso il ricorso a fornitori in grado di assicurare una certa proporzione di energia da fonti rinnovabili. Questo criterio viene tuttavia 
+contemperato con la necessità di contenere comunque i costi dell’energia acquistata.
+UdM t 2017 2016
+2017 2016 » RIFIUTI (t) 
+RIFIUTI SPECIALI 8.265,36 6.336,59
+(GRI N.306-2) 
+di cui rifiuti pericolosi 1,73 17,38
+CONSUMI DIRETTI (SCOPE 1)*
+Rifiuti avviati a smaltimento 63,25 60,2
+Rifiuti avviati a recupero 8.202,11 6.276,39
+Metano per riscaldamento (Tco2) Gasolio gruppi elettrogeni (Tco2) GPL per riscaldamento (Tco2)
+PERCENTUALE AVVIATA A RECUPERO 99% 99%
+455,09 452,54 2,07 30,41 62,60 62,52 Oltre il 98% dei rifiuti speciali prodotti da SNAITECH deriva dall’attività di gestione degli ippodromi e fra questi oltre 
+il 99% è costituito da letame. 
+In particolare la Business Unit Ippodromi adotta un approccio di economia circolare legato all’utilizzo successivo 
+dei rifiuti come input dell’industria delle coltivazioni. Lo sterco di cavallo che rappresenta la maggior parte dei 
+rifiuti prodotti, pur essendo classificato come rifiuto speciale, viene avviato al riutilizzo come sottoprodotto di 
+Diesel per autotrazione (Tco2) Benzina per autotrazione (Tco2)
+origine animale.
+Una porzione importante della componente “umido” dei rifiuti, derivanti dalla manutenzione della vegetazione del 
+parco, attraverso la raccolta differenziata, consente di recuperare energia rinnovabile mediante produzione di 
+biogas, come da Dichiarazione di AMSA S.p.A.
+609,11 794,1 16,48 13,03
+ Nel corso dell’esercizio l’Azienda ha provveduto alla rimozione e sostituzione di una parte delle coperture in 
+cemento-amianto presenti nelle zone più sensibili del comprensorio ippico di Milano e sono state predisposte le 
+dovute relazioni per l’ATS Milano sugli interventi svolti.  Inoltre nell’area ex Trotto è in corso un progetto di caratte-
+rizzazione relativo al Piano di Indagine Ambientale redatto per la rimozione dei serbatoi interrati, delle analisi dei 
+terreni di riporto e della dismissione delle cabine elettriche.
+I rifiuti dell’attività di ufficio consistono principalmente nella carta, nelle cartucce esaurite di toner e nello smalti-
+mento di apparecchiature elettroniche la cui raccolta e smaltimento vengono affidati a ditte esterne autorizzate. 
+CONSUMI INDIRETTI (SCOPE2)**
+Totale (Tco2)
+2.936,40 4.107,08
+* Fonte dei coefficienti di conversione dei consumi diretti in emissioni di Co2: “Tabella parametri Standard nazionali” pubblicata dal ministero dell’Ambiente per il periodo 
+1 gennaio-31 dicembre 2017.
+** Fonte dei coefficienti di conversione dei consumi indiretti in emissioni di CO2: “Fattori di emissione atmosferica di CO2 e altri gas a effetto serra nel settore elettrico” 
+(ultimi dati disponibili al 2016, ISPRA).
+43

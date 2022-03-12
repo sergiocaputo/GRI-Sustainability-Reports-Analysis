@@ -1,0 +1,88 @@
+Nota integrativa consolidata
+quenza e con volumi sufﬁ cienti a fornire informazioni utili  Nel caso di strumenti ﬁ nanziari per i quali il differenziale do-
+per la determinazione del prezzo su base continuativa. Uno  manda-offerta risulta scarsamente rilevante, o per le attività 
+strumento è considerato quotato su un mercato attivo se  e passività ﬁ nanziarie con caratteristiche tali da portare a po-
+1
+i prezzi di quotazione, che riﬂ ettono normali operazioni di  sizioni compensative per il rischio di mercato, viene utilizzato  . M
+O
+mmeitrec abtoor,s eso, nmoe dpiraotnotrai,m inetnetrem ee dreiagroi, lamrmerecanttie a d siscpaomnbibi idlii rtertat-i  udnel  ppreerziozod om deid riiofe driim meenrtcoa)t ion  (lsueomgpor ed erli fperreitzoz oa lld’ui lotifmfeort ag ioo rdneol   DELLO
+ D
+e autonomi, Servizi di quotazione o Enti autorizzati e se tali  prezzo richiesto. Sono considerati strumenti di livello 1 i titoli  I B
+U
+prezzi rappresentano effettive e regolari operazioni di mer- obbligazionari contribuiti (ovvero quotati sul circuito EuroMTS  SIN
+cato. Nel caso di signiﬁ cativa riduzione nel volume o nel li- o rilevabili con continuità sulle principali piattaforme interna- ESS
+vello di operatività rispetto alla normale attività, per l’attività  zionali di contribuzione di prezzi), i titoli azionari contribuiti 
+o passività (o per attività o passività similari) evidenziata da  (ovvero quotati sul mercato ufﬁ ciale di riferimento), i fondi 
+alcuni indicatori (numerosità delle transazioni, scarsa signiﬁ - comuni di investimento armonizzati contribuiti, le operazioni 
+catività dei prezzi espressi dal mercato, incremento signiﬁ ca- in cambi spot e i contratti derivati per i quali siano disponibili 
+tivo dei premi impliciti per il rischio di liquidità, allargamento  quotazioni su un mercato attivo (per esempio futures e opzio-
+o incremento dello spread bid-ask, riduzione o assenza to- ni exchanged traded). Per differenza, tutti gli altri strumenti 
+2
+tdai led odmi mineiorc patuob bpleicr on)u, odveev oenmoi sessiosenri,e  secfafrestittuà adtie i nafnoarlmisia dzieolnlei   ﬁt en nanozni asroi ncoh ec onnosnid aepraptai rstternugmoennot ia dllie l icvaetlleog 1o.r ie sopra descrit- . STRA
+transazioni o dei prezzi quotati. Una diminuzione del volu- TEG
+IE
+me e del livello di attività da sola potrebbe non indicare che  In assenza di quotazione su un mercato attivo o in assenza di 
+il prezzo di una transazione o il prezzo quotato non rap- un regolare funzionamento del mercato, cioè quando il merca-
+presenta il fair value o che la transazione in quel mercato  to non ha un sufﬁ ciente e continuativo numero di transazioni, 
+non sia ordinaria. Se si determina che una transazione o un  spread denaro-lettera e volatilità non sufﬁ cientemente conte-
+prezzo quotato non rappresenta il fair value (es. transazioni  nuti, la determinazione del fair value degli strumenti ﬁ nanziari 
+non ordinarie), un aggiustamento ai prezzi delle transazioni  è prevalentemente realizzata grazie all’utilizzo di tecniche di va-
+o ai prezzi quotati è necessario se si usano quei prezzi come  lutazione aventi l’obiettivo di stabilire il prezzo al quale, in una  3. C
+O
+base per la valutazione al fair value e tale aggiustamento  transazione ordinaria, l’attività sarebbe venduta o la passività  N
+può essere signiﬁ cativo rispetto alla valutazione al fair value  trasferita tra partecipanti al mercato, alla data di valutazione, in  TESTO
+nel suo complesso. condizioni attuali di mercato. Tali tecniche includono:  D
+I M
+•  l’utilizzo di valori di mercato che sono indirettamente colle- ER
+L’esistenza di quotazioni ufﬁ ciali in un mercato attivo costi- CA
+tuisce la miglior evidenza del fair value; tali quotazioni rap- gati allo strumento oggetto di valutazione, derivanti da pro- TO
+dotti similari per caratteristiche di rischio (input di livello 2);
+presentano quindi i prezzi da utilizzare in via prioritaria per la 
+valutazione delle attività e delle passività ﬁ nanziarie. •  valutazioni realizzate utilizzando - anche solo in parte - in-
+put non derivanti da parametri osservabili sul mercato, per 
+L’IFRS13 stabilisce una gerarchia del fair value che classiﬁ ca  i quali sono utilizzate stime e ipotesi da parte del valutatore 
+in tre livelli gli input delle tecniche di valutazione adottate  (input di livello 3).
+4
+pmear  pvarilourtiatàre a iil  pfareirz zvia qluueo. tTaatlie ( ngoenra rrecthtiiaﬁ  caatttir)i binu imsceer claa tmi aatstsivi-i  Nel caso degli input di livello 2, la valutazione è basata su  . PERFO
+R
+per attività o passività identiche (dati di Livello 1) e minima  prezzi o spread creditizi desunti dalle quotazioni ufﬁ ciali di  M
+A
+priorità agli input non osservabili (dati di Livello 3). In par- strumenti sostanzialmente simili in termini di fattori di rischio,  NC
+E
+ticolare:  utilizzando una data metodologia di calcolo (modello di va-
+lutazione). Il ricorso a tale approccio si traduce nella ricerca 
+•  il livello di fair value viene classiﬁ cato a 1 quando la valu-
+di transazioni presenti su mercati attivi, relative a strumenti 
+tazione dello strumento è ottenuta direttamente da prezzi 
+che, in termini di fattori di rischio, sono comparabili con lo 
+quotati (non rettiﬁ cati) in mercati attivi per attività o passività 
+strumento oggetto di valutazione. Le metodologie di calco-
+identiche a cui l’entità può accedere alla data di valutazione;
+lo classiﬁ cate di livello 2 consentono di riprodurre i prezzi di 
+•  il livello di fair value viene classiﬁ cato a 2 qualora non sia  strumenti ﬁ nanziari quotati su mercati attivi (calibrazione del 
+5
+stato riscontrato un prezzo da mercato attivo e la valuta- modello) senza includere parametri discrezionali - cioè pa- . G
+O
+zione avvenga con una tecnica di valutazione, sulla base  rametri il cui valore non può essere desunto da quotazioni  VER
+di parametri osservabili sul mercato, oppure sull’utilizzo di  di strumenti ﬁ nanziari presenti su mercati attivi ovvero non  NA
+parametri non osservabili ma supportati e confermati da  può essere ﬁ ssato su livelli tali da replicare quotazioni presenti  NCE
+evidenze di mercato, quali prezzi, spread o altri input (Com- su mercati attivi - tali da inﬂ uire in maniera determinante sul 
+parable Approach); prezzo di valutazione ﬁ nale. Sono valutati secondo modelli 
+•  il livello di fair value viene classiﬁ cato a 3 quando le valu- che utilizzano input di livello 2:
+tazioni sono effettuate utilizzando input diversi, non tutti 
+•  i titoli obbligazionari privi di quotazioni ufﬁ ciali espresse da 
+desunti direttamente da parametri osservabili sul mercato 
+un mercato attivo e il cui fair value è determinato tramite  6
+elu tcaotmorpeo. rtano quindi stime ed assunzioni da parte del va- l’utilizzo di un appropriato credit spread, individuato a par- . BILA
+tire da strumenti ﬁ nanziari contribuiti e liquidi con caratte- N
+C
+ristiche similari; IO
+Per gli strumenti ﬁ nanziari di livello 1 viene utilizzato il prezzo   CO
+N
+“corrente” di offerta (“denaro”) per le attività ﬁ nanziarie ed  •  i contratti derivati la cui valutazione è effettuata mediante  S
+O
+il prezzo corrente richiesto (“lettera”) per le passività ﬁ nanzia- appositi modelli di valutazione, alimentati da parametri di  LID
+A
+rie, rilevato sul mercato principale al quale si ha accesso, alla  input (quali curve di tasso, cambi e volatilità) osservati sul  TO
+chiusura del periodo di riferimento.  mercato;
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 275

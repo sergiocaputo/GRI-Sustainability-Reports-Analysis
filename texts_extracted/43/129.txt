@@ -1,0 +1,108 @@
+4. Performance - 4.8 I risultati ﬁ nanziari e non ﬁ nanziari Capitale intellettuale
+paolo e all’eventuale notiﬁ ca verso le  SISTEMI INFORMATIVI  Particolarmente signiﬁ cativo il proget-
+controparti interessate; Tra le leve di crescita del Gruppo Fideu- to di integrazione con il broker First 
+ram si conferma l’innovazione tecnolo- Advisory per il lancio delle “insurance 
+•  l’avvio operativo del Modello dei Con-
+gica per supportare in modo sempre più  wrapper”;
+trolli Integrato di Information Security 
+efﬁ cace lo sviluppo del business e dei  •  per la Piattaforma di Consulenza
+e Business Continuity;
+modelli di servizio. l’evoluzione più importante è stata il 
+•  l’avvio del roll out della soluzione di  Al centro delle evoluzioni tecnologiche  rilascio della “Nuova Proposta” con 
+Data Loss Prevention (DLP) a suppor- permane la ﬁ gura del Private Banker e  una  revisione  completa  delle  fun-
+to del Modello di classiﬁ cazione delle  il suo ruolo centrale nella relazione con  zionalità di costruzione di proposte 
+informazioni e l’avvio delle attività di  la clientela.  commerciali che porta forti migliora-
+mascheramento/anonimizzazione dei  Nel 2019, con lo scopo di valorizzare  menti e sempliﬁ cazioni per i Private 
+dati  personali,  nell’ambito  del  pro- al massimo le opportunità fornite dalle  Banker delle Reti Fideuram e Sanpa-
+gramma  GDPR  (General  Data  Pro- nuove tecnologie, le attività di sviluppo  olo Invest. Sono stati realizzati alcuni 
+tection Regulation); e  razionalizzazione  dei  sistemi,  sono  interventi di arricchimento funzionale 
+state concentrate su tre ambiti: ed in particolare la realizzazione di un 
+•   l’avvio del progetto di deﬁ nizione ed 
+1. Attività a supporto del business; “Report Prodotti” che crea le basi per 
+implementazione del nuovo Identity 
+2.  Attività volte allo sviluppo e raziona- una nuova, più moderna e completa 
+and Access Management (IAM) ed il 
+lizzazione delle architetture e alla di- rendicontazione per il Private Banker 
+rilascio della piattaforma IUPnet 2.0, i 
+gitalizzazione dei processi operativi; e il cliente. In un più ampio disegno di 
+cui obiettivi sono di assicurare migliori 
+3.  Attività di adeguamento normativo. sempliﬁ cazione del parco applicativo 
+standard di sicurezza (ad es. tramite 
+la Piattaforma di Consulenza si è ulte-
+l’uso di soluzioni di Strong Authenti-
+Nel primo ambito i progetti di maggiore  riormente arricchita grazie al porting 
+cation) favorendo la trasformazione 
+rilevanza sono stati: di funzionalità precedentemente pre-
+digitale del Gruppo e di incrementare 
+• Banca Digitale: senti sull’applicazione SIM PB (Analisi 
+l’efﬁ cienza ed il livello di conformità 
+  -  per la Rete Intesa Sanpaolo Private  del Portafoglio, Ricerca evoluta per 
+dei processi di proﬁ latura applicativa e 
+Banking è stato rilasciato il nuovo  Prodotto, Estensione perimetro clienti 
+di proﬁ latura degli utenti;
+internet banking New Digital Custo- ai Cointestatari);
+•  l’analisi, la pianiﬁ cazione e la progres- mer Experience e la nuova piattafor- •  miglioramento  della  rendicontazio-
+siva  implementazione  di  misure  di  ma di Trading “Investo”. Entrambe  ne a supporto dei Private Banker di 
+sicurezza “target” di natura tecnolo- le piattaforme permettono l’accesso  Intesa Sanpaolo Private Banking con 
+gica (segregazione logica e ﬁ sica degli  da web e da app mobile; l’alimentazione giornaliera dei Prezzi 
+ambienti di collaudo e produzione,    -  per la Rete Fideuram è stato avviato  medi di Carico, speciﬁ ca per tipolo-
+nuova piattaforma per la gestione del  il progetto per l’adozione della solu- gia di strumento, e recepimento del 
+change management, dismissione di  zione New Digital Customer Expe- dato su Piattaforma Private, New Di-
+apparati con sistema operativo obso- rience e la sua integrazione con le  gital Customer Experience, View, WM 
+leto, tracciatura degli eventi “logging  funzionalità di consulenza ﬁ nanzia- Report e Area Finanza;
+and monitoring”); ria in un unico accesso cliente che  • evoluzione di VIEW (Value Investing 
+costituirà, nel 2020, la soluzione Al- Evolution Wealth): il servizio di Con-
+•  l’avvio del modello di monitoraggio 
+fabeto 2.0; sulenza evoluta per la clientela di Inte-
+dei fornitori critici.
+•F ogli  Fideuram:  lo  spazio  digitale  sa Sanpaolo Private Banking ha visto 
+che permette ai Private Banker di  alcuni interventi, tra i quali l’integra-
+Con riferimento agli eventi critici rilevati 
+erogare il servizio di consulenza ai  zione della proposta in Polizze con la 
+nel 2019, si evidenzia come il corretto 
+propri clienti in modalità multicanale  piattaforma acquisitiva (ABC) e Split 
+indirizzo e la gestione degli stessi abbia 
+si è arricchito di sempre nuovi Fogli  payment.
+permesso che non si veriﬁ cassero im-
+sia nella loro forma di Fogli precon-
+patti degni di nota su nessuna società 
+fezionati (Tematici, Classe, Consiglio  In continuità e coerenza con le attività 
+del Gruppo Fideuram.
+e Stile) sia di sottostanti per i Fogli  degli ultimi anni, all’interno di un più 
+La funzione svolge continuativamente 
+personalizzati  (Il  Tuo  Foglio).  Una  ampio percorso di trasformazione ar-
+un ruolo di coordinamento operativo 
+forte innovazione è stata la realizza- chitetturale e di digitalizzazione dei pro-
+delle attività assegnate al Referente del 
+zione del processo di “Trasferimento  cessi operativi sono state completate le 
+Piano Settoriale di Continuità Operativa 
+OICR” verso i Fogli Fideuram sia a  seguenti progettualità:
+della Divisione Private Banking, interfac-
+partire da fondi già in possesso del  • Welcome  e  EasyDoc  2.0:  è  stata 
+ciandosi con la funzione di Continuità 
+cliente in Fideuram sia da fondi pro- ampliata l’App per l’onboarding dei 
+Operativa del Gruppo Intesa Sanpaolo e 
+venienti da banche terze; clienti con nuove funzionalità per ren-
+con le società controllate della Divisione 
+• a mpliamento  gamma  Prodotti:  dere l’apertura dei conti correnti in 
+Private Banking. 
+sono stati realizzati numerosi inter- modalità paperless sempre più sempli-
+In quest’ambito, nel corso dell’anno si 
+venti  di  evoluzione  dell’offerta.  Le  ce e rapida. Contestualmente è stata 
+sono svolte tutte le attività relative alla 
+evoluzioni  hanno  riguardato  i  vari  realizzata l’evoluzione di EasyDoc nel-
+gestione della Continuità Operativa sul-
+comparti  di  risparmio  amministrato  la sua versione 2.0 per la gestione in 
+la base del Modello Organizzativo per la 
+(ad es. diversi Certiﬁ cates), di rispar- mobilità degli adempimenti normativi.
+Gestione delle Crisi e delle Regole per il 
+mio gestito (numerose nuove SICAV,  • Fideuram Mobile Assistant (FMA): 
+Piano di Continuità Operativa del Grup-
+evoluzione  delle  Gestioni  Patrimo- è stata diffusa su tutta la Rete Fideu-
+po Intesa Sanpaolo, ivi ricompresi i test 
+niali e nuovi Fondi Alternative) e di  ram ed arricchita di numerosi con-
+di Continuità Operativa e di Disaster 
+risparmio assicurativo (nuove polizze  tenuti l’app mobile che consente ai 
+Recovery.
+e  rivisitazione  di  polizze  esistenti).  Private Banker di richiedere usando 
+126 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

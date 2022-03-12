@@ -1,0 +1,57 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+I parametri di mercato “soglia”, tali cioè da portare ad un azzeramento della differenza positiva tra valore d’uso e 
+valore contabile, sono pari all’8,93% (Ke) e al 10,56% (CET1).
+CGU CR Orvieto
+Ke(cid:3)
+Sensitivity(cid:3)
+7,90%(cid:3) 8,15%(cid:3) 8,40%(cid:3) 8,65%(cid:3) 8,70%(cid:3) 8,90%(cid:3) 9,15%(cid:3) 9,40%(cid:3) 9,65%(cid:3) 9,90%(cid:3)
+DDM(cid:3)
+9,50%(cid:3) 20,9(cid:3)
+9,75%(cid:3) 18,7(cid:3)
+10,00%(cid:3) 16,6(cid:3)
+o(cid:3)
+ati 10,25%(cid:3) 14,5(cid:3)
+1R(cid:3) 10,50%(cid:3) 36,4(cid:3) 29,6(cid:3) 23,4(cid:3) 17,7(cid:3) 16,6(cid:3) 12,4(cid:3) 7,4(cid:3) 2,8(cid:3) (1,5)(cid:3) (5,5)(cid:3)
+ET 10,75%(cid:3) 10,2(cid:3)
+C
+11,00%(cid:3) 8,1(cid:3)
+11,25%(cid:3) 6,0(cid:3)
+11,50%(cid:3) 3,8(cid:3)
+I parametri di mercato “soglia”, tali cioè da portare ad un azzeramento della differenza positiva tra valore d’uso e 
+valore contabile, sono pari al 9,56% (Ke) e all’11,95% (CET1).
+Nelle complessive analisi svolte in merito alla valutazione degli avviamenti riferiti alle diverse CGU, particolare atten-
+zione è stata riservata alle due succitate componenti di extra-performance fattorizzate nelle Proiezioni 2018-2022. 
+A tal riguardo, si è ritenuto di procedere ad un’ulteriore analisi di sensitivity, stimando la variazione del valore d’uso 
+dell’avviamento individuale e consolidato allocato alla CGU BP Bari imputabile alla sterilizzazione degli impatti di tali 
+componenti aggiuntive, considerato che esse potrebbero essere caratterizzate da maggiore incertezza rispetto alle 
+previsioni di mercato prese a riferimento per le Proiezioni. 
+Di seguito si riporta l’impatto sul valore d’uso dell’avviamento individuale della CGU BP Bari.
+Importi(cid:3)in(cid:3)milioni(cid:3)di(cid:3)euro(cid:3) (cid:3) (cid:3) (cid:3)(cid:3)
+Delta(cid:3)vs(cid:3)
+Valore(cid:3) Valore(cid:3)(cid:3) valore(cid:3)
+CGU(cid:3)BP(cid:3)Bari(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+contabile(cid:3) d'uso(cid:3) contabile(cid:3)
+Avviamento(cid:3)
+Proiezioni(cid:3)2018(cid:882)2022(cid:3) 93,5(cid:3) 98,3(cid:3) 4,9(cid:3)
+Impatto(cid:3)extra(cid:882)performance(cid:3)"costo(cid:3)della(cid:3)raccolta"(cid:3) 93,5(cid:3) 23,8(cid:3) (69,6)(cid:3)
+Impatto(cid:3)extra(cid:882)performance(cid:3)"raccolta(cid:3)indiretta"(cid:3) 93,5(cid:3) 58,9(cid:3) (34,5)(cid:3)
+Impatto(cid:3)costo(cid:3)della(cid:3)raccolta(cid:3)+(cid:3)raccolta(cid:3)indiretta(cid:3) 93,5(cid:3) (cid:882)(cid:3) (109,1)(cid:3)
+Lo scenario di sterilizzazione delle componenti di extra-performance delle Proiezioni 2018-2022 rispetto al mercato 
+(i.e. mancato raggiungimento dei target) ha quindi restituito evidenza di valori d’uso dell’avviamento consolidato 
+della CGU BPB inferiori rispetto ai rispettivi valori contabili. 
+Conseguentemente, ai ﬁni dell’impairment test sono stati espletati ulteriori approfondimenti volti a determinare il 
+grado di fattibilità (i.e. probabilità di realizzazione) dei due effetti di extra-performance, sulla scorta (i) di un’analisi 
+storica delle evidenze fattuali sulla raccolta diretta e indiretta e (ii) delle evidenze numeriche più recenti osservate 
+sulla Capogruppo in tali ambiti. 
+Con riferimento al costo della raccolta, incrementatosi negli ultimi anni e rimasto su livelli sostenuti in seguito a 
+situazioni temporanee speciﬁche del Gruppo attualmente superate (in particolar modo legate all’acquisizione del 
+Gruppo Tercas ed alle tematiche connesse alla vicenda degli aiuti di Stato), gli obiettivi di ulteriore contrazione nel 
+2019 (-10 bps) risultano ragionevolmente alla portata del Gruppo, dal momento che, sulla scorta di quanto asserito 
+in merito agli obiettivi di budget 2018 e in merito alle evidenze fattuali storiche, rappresentano esclusivamente la 
+prosecuzione gestionale di attività già avviate e vanno nella direzione di conseguire un costo della raccolta progres-
+sivamente sempre più allineato al mercato e più in linea con gli scostamenti osservati negli anni passati tra il sistema 
+e il Gruppo BPB.
+Con riferimento alla crescita della raccolta indiretta gestita (+150 milioni di euro annui tra il 2019 e il 2022), (i) il su-
+peramento di una serie di situazioni esterne e di decisioni tattiche e commerciali ante 2014 che hanno condotto 
+ad evidenziare un gap rispetto al mercato, (ii) il signiﬁcativo andamento rilevato nell’ultimo triennio, (iii) l’attivazione 
+460

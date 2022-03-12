@@ -1,0 +1,43 @@
+Bilancio Consolidato 2017
+Sezione 7 – Il risultato netto delle attività e passività ﬁnanziarie valutate al fair value – Voce 110
+(cid:26)(cid:17)(cid:20)(cid:3)(cid:57)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:81)(cid:72)(cid:87)(cid:87)(cid:68)(cid:3)(cid:71)(cid:76)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:18)(cid:83)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:68)(cid:79)(cid:3)(cid:73)(cid:68)(cid:76)(cid:85)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Operazioni/Componenti reddituali  Plusvalenze (A)  Utili da realizzo (B)  Minusvalenze (C)  Perdite d(Da)  realizzo  R[(iAs+uBlt)a -t o ( Cn+eDtt)o]  
+1. Attività finanziarie  -  -  -  -  - 
+1.1 Titoli di debito  -  -  -  -  - 
+1.2 Titoli di capitale  -  -  -  -  - 
+1.3 Quote di O.I.C.R.  -  -  -  -  - 
+1.4 Finanziamenti  -  -  -  -  - 
+2. Passività finanziarie  785  22  -  -  807 
+2.1 Titoli di debito  785  22  -  -  807 
+2.2 Debiti verso banche  -  -  -  -  - 
+2.3 Debiti verso clientela  -  -  -  -  - 
+3. Attività e passività finanziarie in valuta: differenze di cambio  x  x  x  x  - 
+4.Derivati creditizi e finanziari  -  -  -  -  - 
+Totale  785  22  -  -  807 
+(cid:3)
+Sezione 8 – Le rettiﬁche/riprese di valore nette per deterioramento – Voce 130
+(cid:27)(cid:17)(cid:20)(cid:3)(cid:53)(cid:72)(cid:87)(cid:87)(cid:76)(cid:192)(cid:70)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:81)(cid:72)(cid:87)(cid:87)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:76)(cid:82)(cid:85)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:70)(cid:85)(cid:72)(cid:71)(cid:76)(cid:87)(cid:76)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Rettifiche di valore   Riprese di valore 
+Totale 
+(1)  (2) 
+   
+Operazioni/Componenti reddituali 
+Specifiche  Specifiche  Di portafoglio 
+Di portafoglio  31/12/2017  31/12/2016 
+Cancellazioni  Altre  A  B  A  B 
+A. Crediti verso banche  -  -  (5)  -  -  -  1  (4)  11 
+- Finanziamenti  -  -  (5)  -  -  -  1  (4)  11 
+- Titoli di debito  -  -  -  -  -  -  -  -  - 
+B. Crediti verso clientela  (2.978)  (76.577)  (2.660)  20.076  8.241  -  -  (53.898)  (81.894) 
+Crediti deteriorati acquistati  -  -  x  -  -  x  x  -  - 
+- Finanziamenti  -  -  x  -  -  x  x  -  - 
+- Titoli di debito  -  -  x  -  -  x  x  -  - 
+Altri crediti  (2.978)  (76.577)  (2.660)  20.076  8.241  -  -  (53.898)  (81.894) 
+- Finanziamenti  (2.978)  (75.977)  (2.226)  20.076  8.241  -  -  (52.864)  (81.877) 
+- Titoli di debito  -  (600)  (434)  -  -  -  -  (1.034)  (17) 
+C. Totale  (2.978)  (76.577)  (2.665)  20.076  8.241  -  1  (53.902)  (81.883) 
+(cid:3)
+Legenda:
+A = Da interessi
+B = Altre riprese 
+499

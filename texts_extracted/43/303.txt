@@ -1,0 +1,53 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+4.2  Derivati di copertura: composizione per portafogli coperti e per tipologie di copertura
+FAIR VALUE FLUSSI FINANZIARI
+INVESTIMENTI 
+SPECIFICA GENERICA SPECIFICA GENERICA ESTERI
+TITOLI DI  TITOLI DI  VALUTE E  CREDITO MERCI ALTRI
+DEBITO E  CAPITALE  ORO
+TASSI DI  E INDICI 
+INTERESSE AZIONARI
+1.  Attività ﬁ nanziarie valutate al 
+fair value con impatto sulla 
+redditività complessiva 37 - 17 - X X X - X X
+2.  Attività ﬁ nanziarie valutate al 
+costo ammortizzato 864 X - - X X X - X X
+3. Portafoglio X X X X X X 12 X - X
+4. Altre operazioni - - - - - - X - X -
+Totale attività 901 - 17 - - - 12 - - -
+1. Passività ﬁ nanziarie - X - - - - X - X X
+2. Portafoglio X X X X X X - X - X
+Totale passività - - - - - - - - - -
+1. Transazioni attese X X X X X X X - X X
+2.  Portafoglio di attività e 
+passività ﬁ nanziarie X X X X X X - X - -
+SEZIONE 8 - ALTRE PASSIVITÀ - VOCE 80
+8.1 Altre passività: composizione
+31.12.2019 31.12.2018
+Debiti verso Private Banker 482 411
+Debiti verso Intesa Sanpaolo per consolidato ﬁ scale 205 166
+Debiti verso fornitori 138 65
+Partite transitorie e creditori diversi 93 147
+Debiti per Piani di ﬁ delizzazione scaduti 79 77
+Somme a disposizione della clientela 70 59
+Debiti verso l'Erario  40 51
+Competenze del personale e contributi 20 15
+Debiti verso Enti previdenziali 18 18
+Altri debiti 22 22
+Totale  1.167 1.031
+SEZIONE 9 - TRATTAMENTO DI FINE RAPPORTO DEL PERSONALE - VOCE 90
+9.1 Trattamento di ﬁ ne rapporto del personale: variazioni annue
+31.12.2019 31.12.2018
+A. Esistenze iniziali 48 53
+B. Aumenti 4 2
+B.1 Accantonamento dell'esercizio 1 1
+B.2 Altre variazioni  3 1
+C. Diminuzioni 4 7
+C.1 Liquidazioni effettuate 4 6
+C.2 Altre variazioni  - 1
+D. Rimanenze ﬁ nali 48 48
+Si riportano di seguito le principali ipotesi attuariali e i tassi di riferimento utilizzati per la determinazione del fondo TFR:
+- Tasso di attualizzazione 0,45%
+- Tasso atteso di incrementi retributivi 2,27%
+- Tasso annuo di inﬂ azione 1,5%
+300 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

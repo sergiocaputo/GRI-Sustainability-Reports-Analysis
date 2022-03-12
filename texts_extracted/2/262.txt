@@ -1,0 +1,67 @@
+PRODOTTI – AREA IDRICA
+dato n. spiegazione – commento
+Totale acqua potabile prelevata dall’ambiente o da altri sistemi. È la somma dell’acqua prelevata dalle Società del Gruppo: 
+53
+Acea Ato 2, Acea Ato 5, Gesesa, Gori, Acque, Publiacqua, Acquedotto del Fiora, Umbra Acque. Il dato è calcolato.
+54 Totale acqua potabile erogata ai rispettivi clienti dalle Società elencate al dato 52. Il dato è stimato.
+Totale acqua potabile prelevata dall’ambiente o da altri sistemi. È la somma dell’acqua prelevata dalle Società Acea Ato 2, 
+55
+Acea Ato 5, Gori, Gesesa. Il dato è calcolato.
+56 Totale acqua potabile erogata ai rispettivi clienti dalle Società elencate al dato 55. Il dato è stimato.
+Totale acqua potabile prelevata alle fonti, a meno degli scarichi alti, da parte della Società Acea Ato 2 e immessa nel sistema 
+57 acquedottistico dell’Ambito Territoriale Ottimale 2 del Lazio centrale. Il dato è misurato con incertezza del ± 3%, tranne per 
+le fonti minori, per le quali è stimato. 
+Totale acqua potabile in uscita dal sistema acquedottistico. È dato dalla somma dell’acqua potabile erogata e fatturata, 
+58 dell’acqua potabile autorizzata e non fatturata, dell’acqua esportata verso altri sistemi e perdite di potabilizzazione misurate. 
+Il dato è calcolato.
+59 Totale acqua potabile erogata e fatturata (cioè misurata ai contatori, ove presenti) ai clienti allacciati alla rete di Acea Ato 2.
+60 Totale acqua potabile autorizzata e non fatturata della rete di Acea Ato 2. Il dato è stimato.
+Totale acqua potabile esportata verso altri sistemi di acquedotto. Il dato 2019 è stimato e potrà subire un consolidamento 
+61 
+dopo la pubblicazione.
+62 Totale perdite di potabilizzazione misurate. Il dato è misurato con incertezza del ± 3%
+Perdite idriche - rete di Acea Ato 2. Si tratta della quantità di acqua persa nella distribuzione della rete, calcolata come 
+63 l’acqua prelevata dall’ambiente e da altri sistemi e immessa nella rete, a cui si sottrae il totale dell’acqua in uscita dal sistema 
+acquedottistico. 
+Perdite idriche in percentuale, pari alle perdite idriche in valore assoluto rispetto al totale prelevato. Corrispondono al dato 
+64
+M1b della delibera ARERA 917/17 R/IDR. 
+Rispettivamente: quantità di acqua prelevata dall’ambiente e immessa nel sistema acquedottistico, in uscita dal sistema, 
+65, 66, 67, 68, 69 
+erogata e fatturata, autorizzata e non fatturata, esportata verso altri sistemi di acquedotto, da Acea Ato 5.
+Perdite globali di distribuzione di Acea Ato 5. Si tratta della quantità di acqua persa nella distribuzione della rete, calcolata 
+70 come l’acqua prelevata dall’ambiente e da altri sistemi e immessa nella rete, a cui si sottrae il totale dell’acqua in uscita dal 
+sistema acquedottistico.
+Perdite idriche in percentuale, pari alle perdite idriche in valore assoluto rispetto al totale prelevato. Corrispondono al dato 
+71
+M1b della delibera ARERA 917/17 R/IDR. 
+Rispettivamente: quantità di acqua prelevata dall’ambiente e immessa nel sistema acquedottistico, in uscita dal sistema, 
+72, 73, 74, 75, 75 B
+erogata e fatturata, autorizzata e non fatturata, esportata verso altri sistemi di acquedotto, da Gesesa.
+Perdite globali di distribuzione di Gesesa. Si tratta della quantità di acqua persa nella distribuzione della rete, calcolata come 
+76 l’acqua prelevata dall’ambiente e da altri sistemi e immessa nella rete, a cui si sottrae il totale dell’acqua in uscita dal sistema 
+acquedottistico.
+Perdite idriche in percentuale, pari alle perdite idriche in valore assoluto rispetto al totale prelevato. Corrispondono al dato 
+77
+M1b della delibera ARERA 917/17 R/IDR. 
+Rispettivamente: quantità di acqua prelevata dall’ambiente e immessa nel sistema acquedottistico, in uscita dal sistema, 
+78, 79, 80, 81
+erogata e fatturata, autorizzata e non fatturata, da Gori (Sarnese Vesuviano).
+Perdite globali di distribuzione di Gori (Sarnese Vesuviano). Si tratta della quantità di acqua persa nella distribuzione della 
+82 rete, calcolata come l’acqua prelevata dall’ambiente e da altri sistemi e immessa nella rete, a cui si sottrae il totale dell’acqua 
+in uscita dal sistema acquedottistico.
+Perdite idriche in percentuale, pari alle perdite idriche in valore assoluto rispetto al totale prelevato. Corrispondono al dato 
+83
+M1b della delibera ARERA 917/17 R/IDR. 
+Totale acqua reflua trattata nei principali depuratori delle Società idriche del Gruppo: Acea Ato 2, Acea Ato 5, Gesesa, Gori, 
+84
+Umbra Acque, Publiacqua, Acque, Acquedotto del Fiora. Il dato è calcolato.
+Totale acqua reflua trattata nei principali depuratori delle Società idriche del Gruppo: Acea Ato 2, Acea Ato 5 e Gori. 
+85
+Gesesa, al momento, non dispone di misuratori di portata all’ingresso dell’impianto di depurazione.
+86 Totale acqua reflua addotta ai principali impianti di depurazione di Acea Ato 2 e trattata. Il dato totale è calcolato. 
+Totale acqua reflua addotta ai depuratori e trattata da Acea Ato 2, inclusi i quantitativi trattati negli impianti minori del 
+87
+comune di Roma e in quelli esterni al comune di Roma. Il dato complessivo è calcolato.
+88 Totale acqua reflua addotta ai depuratori e trattata da Acea Ato 5. Il dato è calcolato.
+BILANCIO AMBIENTALE 267

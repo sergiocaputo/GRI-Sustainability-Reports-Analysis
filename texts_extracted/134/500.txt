@@ -1,0 +1,45 @@
+ 
+                       
+ Name  %   Registered   Amount  Increases  No.  Decreases  No.  Amount Share of  Diff. between invest.,  Date of 
+   invest-  office  Salini Igl S.p.A  in the year    in the year    Salini Igl S.p.A equity  net of uncalled up  equity 
+   ment    1.1.2019          31.12.2019   share/quota capital,   
+       (€)          (€)   and equity   
+ Cossi Costruzioni S.p.A.  63.500  Italy  -  4,602,117  A      4,602,117     31/12/2018 
+ Fibe S.p.A.  99.989  Italy  35,816,888     (8,228,146)  N  27,588,742  35,812,949  8,224,207  31/12/2018 
+ Fisia Italimpianti S.p.A.   100.000  Italy  40,219,435  6,000,000  O      46,219,435  3,808,169  (42,411,266)  31/12/2018 
+ Fisia Ambiente S.p.A.   100.000  Italy  21,580,565         21,580,565  42,250,441  20,669,876  31/12/2018 
+ I.L.IM. - Iniziative Lombarde Immobiliari S.r.l. (in liq.)  100.000  Italy  -         -  -  -  n.a. 
+ Impregilo International Infrastructures N.V.   -  Netherlands  133,100,000  36,900,000  G  (170,000,000)  G  -  -  -  31/12/2017 
+ Impregilo Lidco Libya Co  60.000  Libya  849,501     (68,741)  N  780,760  1,279,242  498,482  31/12/2017 
+ Imprepar-Impregilo Partecipazioni S.p.A.    100.000  Italy  45,941,191         45,941,191  45,783,198  (157,993)  31/12/2018 
+ Società Autostrada Broni - Mortara S.p.A.  60.000  Italy  15,250,666     (292,822)  N  14,957,844  15,250,157  292,313  31/12/2018 
+ Suramericana de Obras Publicas C.A.- Suropca C.A.  99.000  Venezuela  788,614         788,614  846,103  57,488  31/12/2018 
+ Compagnia Gestione Macchinari CO.GE.MA. S.p.A.  100.000  Italy  2,059,428         2,059,428  4,918,871  2,859,443  31/12/2018 
+ TB Metro S.r.l. (in liq.)  51.000  Italy  35,754         35,754  (820,691)  (856,445)  31/12/2017 
+ HCE Costruzioni S.p.A.  100.000  Italy  11,698,803  34,651,702  L  (46,350,505)  L  -  11,698,803  11,698,803  31/12/2018 
+ Salini Impregilo - US Holdings Inc.  100.000  USA  468,351,670         468,351,670  -  -  n.a. 
+ Salini Polska L.t.d. Liability Co  100.000  Poland  -         -  (9,260,706)  (9,260,706)  31/12/2018 
+ Salini Saudi Arabia Company L.t.d.  51.000  Saudi Arabia  3,795,079         3,795,079  17,668,945  13,873,867  31/12/2016 
+ Salini Malaysia SDN BHD  90.000  Malaysia  610,468         610,468  7,774,689  7,164,221  31/12/2019 
+ SLC Snowy Hydro Joint Venure  64.990  Australia  -         -  -  -  n.a. 
+ Salini Nigeria L.t.d.  99.000  Nigeria  -         -  10,973  10,973  31/12/2018 
+ Salini Impregilo S.p.A. - The Lane Construction Co. - Jose J Chediack S.A. UTE  73.000  Argentina  669,470         669,470  177,715,246  177,045,776  31/12/2016 
+ IS Joint Ventures  50.000  Australia  -         -  (7,151,321)  (7,151,321)  31/12/2017 
+ Empresa Constructora Angostura Ltda  65.000  Chile  2,341,762  21,671,338  H  (24,013,100)  H  -  -  -  n.a. 
+ Empresa Constructora Metro 6 L..t.d.a.  99.900  Chile  5,036,996  1,353,154  N      6,390,150  2,345,614  (4,044,536)  31/12/2018 
+ Joint Venture Impregilo S.p.A. - S.G.F. INC S.p.A.  100.000  Greece  -         -  -  -  n.a. 
+ Impregilo-Terna SNFCC J.V.  51.000  Greece  51,000         51,000  3,331,136  3,280,136  31/12/2018 
+ A1 Motorway Tuszyn-Pyrzowice lot F Joint Venture  94.990  Poland  -         -  -  -  n.a. 
+ Salini Polska - Todini - Salini Impregilo  - S7 JV  74.990  Poland  -         -  -  -  n.a. 
+ Generalny Wykonawca Salini Polska - Impregilo - Kobylarnia S.A.  33.340  Poland  -         -  -  -  n.a. 
+ Impregilo-SK E&C-Galfar al Misnad J.V.  41.250  Qatar  -         -  6,821,628  6,821,628  31/12/2018 
+ Galfar - Salini Impregilo - Cimolai J.V.  40.000  Qatar  -         -  (14,225,367)  (14,225,367)  31/12/2018 
+ Salini Impregilo - Healy J.V. (Tunnel 3RPORT Indiana)  30.000  USA  1,310,044  2,887,050  D      4,197,094  -  -  n.a. 
+ Thessaloniki Metro CW J.V. (AIS JV)  50.000  Greece  1,002,420  1,000,000  O  (1,000,000)  N  1,002,420  -  -  n.a. 
+ CSI Simplon Consorzio  0.010  Switzerland  -         -  -  -  n.a. 
+ Western Station J.V,  51.000  Saudi Arabia  -         -  8,036,779  8,036,779  31/12/2016 
+ C43 Water Management Builders  30.000  USA  -         -  -  -  n.a. 
+ Texas High Speed Rail  50.000  USA  -         -  -  -  n.a. 
+ Salini Impregilo Canada Holding Inc.  100.000  Canada  -         -  -  -  n.a. 
+ INC - Il Nuovo Castoro Algerie S.a.r.l.  99.983  Algeria  -         -  (6,831,943)  (6,831,943)  31/12/2018 
+   501 

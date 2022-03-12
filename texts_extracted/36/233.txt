@@ -1,0 +1,37 @@
+Data protection
+103-2 103-3 418-1
+The protection and processing of personal data is a major  processes and activities in accordance with the GDPR and 
+challenge in the age of digitalization and market globalisation  commits to support data ofﬁcers in drawing up data protec-
+in terms of responsibility when managing data, but it is also  tion agreements and clauses; planning data governance and 
+an opportunity to improve the service that Group companies  corporate policies; providing privacy consulting in the design 
+provide. To rise to this challenge and in line with the new  and default phase; ensuring adequate risk management by 
+General Data Protection Regulation EU 2016/679 (GDPR),  making wide use of the DPIA and monitoring the consisten-
+the Enel Group adopted a structure in 2017 to ensure that  cy of data protection policies within the organisation, particu-
+the privacy of all natural persons with whom it interacts is  larly between legal entities within and outside Europe.
+fully respected. Speciﬁcally, the Legal Function contains a  Moreover, the Audit Function carries out continuous moni-
+Data Protection Ofﬁce, which has assigned “Data Protection  toring of the GDPR’s implementation, in collaboration with 
+Ofﬁcers” (or DPOs). DPOs are appointed based on their pro- data protection ofﬁcers, in order to track the progress of the 
+fessional skills, knowledge and their ability to perform tasks  efforts to align the companies’ processes and tools with the 
+in accordance with the principle of independence.  GDPR. Activities are also planned to analyse security meas-
+The Data Protection Ofﬁce is structured as follows: ures on systems that contain data relevant to the GDPR, 
+>  Governance Data Protection: This monitors changes  commercially sensitive data (Distribution and Market) and 
+to legislation on data protection and determines the  employee data managed in human resources procedures, 
+Group’s compliance;  including in different geographical areas outside of the scope 
+>  Global  Service  Functions  and  Holding  Functions  of the GDPR.
+Data Protection: This promotes privacy from the outset  In 2019, the Group’s European companies handled over 
+of planning processes at global level and ensures con- 40,000 communications relating to personal data protection 
+sistent development at national level;  and have collaborated with national authorities, having re-
+>  Global Business Lines Data Protection: This supports  ceived 79 requests for information and clariﬁcation. In Italy, 
+Global Business Lines in accordance with data protec- E-Distribuzione previously reported one incident relating to 
+tion, and monitors changes to data protection certiﬁca- personal data and one data breach to the Authority for the 
+tion mechanisms for products and services;  Protection of Personal Data. In Romania, two data breaches 
+>  Country units for the protection of national data (Ita- were registered, formally notiﬁed to the competent Authori-
+ly, Portugal, Romania, Spain): These monitor changes to  ty, which involved the market companies (Enel Energie Mun-
+data protection legislation at country level. tenia and Enel Energie SA) and the distribution companies 
+The Data Protection Ofﬁce has also developed internal tools  (E-Distribuție Muntenia, E-Distribuție Dobrogea and E-Dis-
+based on Enel’s size and complexity to ensure compliance  tribuție Banat).
+with the protection and optimal use of data to support Enel’s  Lastly, promoting a responsible and proactive approach to 
+presence in the European data economy. Some of these  incorporate privacy right from the planning stage of pro-
+tools include: Personal data processing logs and the Data  cesses, corporate services and activities, a speciﬁc train-
+Protection Impact Assessment (DPIA). The DPO implements  ing course has been set up for the people working at Enel.
+232 Sustainability Report 2019

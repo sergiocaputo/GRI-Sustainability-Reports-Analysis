@@ -1,0 +1,46 @@
+La gestione delle risorse idriche
+L’impegno di Edison è quello di mantenere alta l’attenzione per un uso efficiente e razionale dell’acqua, 
+contribuendo alla sua tutela e salvaguardia.
+Per fare questo, nel corso del 2017, Edison ha avviato numerosi progetti:
+• recupero dell’acqua di prima pioggia dai tetti degli edifici della Centrale termoelettrica di Sesto San Giovanni e 
+suo riutilizzo all’interno del ciclo produttivo;
+• recupero dell’acqua di falda (in precedenza smaltita) per il suo riutilizzo nel ciclo produttivo dopo un opportuno 
+trattamento nella centrale termoelettrica di Marghera Azotati;
+• continua implementazioni delle AUA negli impianti idroelettrici;
+• realizzazione circuiti di raffreddamento chiuso delle acque di raffreddamento nelle centrali idroelettriche, come 
+ad esempio nella centrale di Cedegolo;
+• installazione di un nuovo sistema di trattamento delle acque reflue della piattaforma Vega A;
+• nella maggior parte dei siti operativi gestiti da EMS sono stati realizzati sistemi per il ricircolo dell’acqua che 
+consentono all’azienda o al cliente di re-immettere l’acqua nel ciclo industriale evitando la captazione dai pozzi 
+o il prelievo da acquedotto.
+Unità di misura 2015 2016 2017
+Prelievi idrici* (GRI Standard 303-1; 303-3)        
+Acqua di mare e salmastra migliaia di m3 522.175 470.812 344.853
+Acqua di fiumi o canali migliaia di m3 29.202 39.415 31.352
+Prelievi dal sottosuolo migliaia di m3 2.817 3.615 10.267   
+Acqua demineralizzata da terzi migliaia di m3 88 0,15 18
+Altre risorse idriche migliaia di m3 214 193  11.136   
+Acque provenienti da processi di recupero (settore termoelettrico) migliaia di m3 3.389 5.060 4.015
+- di cui acqua di recupero industriale migliaia di m3 2.820 4.259 3.654
+- di cui ritorno condense e vapori da terzi migliaia di m3 569 801 362
+Totale risorse idriche utilizzate migliaia di m3 557.886 519.095 401.642   
+Acque recuperate - settore termoelettrico % 0,61 0,97 1,00
+* Il perimetro dei dati include Fenice SpA e Sersys ambiente a partire dal 2017. I dati sono stati stimati.
+Scarichi Idrici* (GRI Standard 306-1)        
+SETTORE ELETTRICO ED IDROCARBURI        
+Acque reflue industriali prodotte migliaia di m3 21.806 7.595 5.112
+Acque reiniettate migliaia di m3 14.169 12.380 10.979
+Acque di raffreddamento migliaia di m3 534.501 503.830 372.045
+Acque civili migliaia di m3 499,5 141,3 120,4
+Totale acque scaricate migliaia di m3 570.976 523.946 388.257
+- in fognatura migliaia di m3 4.057 4.863 4.474
+- in acque superficiali (fiumi, canali, mare) migliaia di m3 552.674 506.656 372.761
+- in acque sotterranee (falda, ecc…) migliaia di m3 76 47 43
+SETTORE SERVIZI ENERGETICI        
+Acque scaricate dagli impianti TAR migliaia di m3 n.a. n.d. 10.499
+- in fognatura migliaia di m3 n.a. n.d. 5.487
+- in acque superficiali (fiumi, canali, mare) migliaia di m3 n.a. n.d. 5.012
+- in acque sotterranee (falda, ecc.) migliaia di m3 n.a. n.d. 0
+Acque reflue trattate e ricircolate per riutilizzo nel ciclo produttivo migliaia di m3 n.a. n.d. 520
+* Il perimetro dei dati include Fenice SpA e Sersys ambiente a partire dal 2017. I dati sono stati stimati.
+20 I DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2017

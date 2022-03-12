@@ -1,0 +1,30 @@
+Bilancio Consolidato 2017
+A.2 Portafoglio bancario: valori nozionali di ﬁne periodo
+(cid:36)(cid:17)(cid:21)(cid:17)(cid:20)(cid:3)(cid:39)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)
+p
+Totale  31/12/2017  Totale  31/12/2016 
+Attività sottostanti/Tipologie derivati 
+Over the counter  Controparti Centrali  Over the counter  Controparti Centrali 
+1. Titoli di debito e tassi d'interesse  311.553  -  58.384  - 
+a) Opzioni  -  -  -  - 
+b) Swap  311.553  -  58.384  - 
+c) Forward  -  -  -  - 
+d) Futures  -  -  -  - 
+e) Altri  -  -  -  - 
+2.Titoli di capitale e indici azionari  -  -  -  - 
+a) Opzioni  -  -  -  - 
+b) Swap  -  -  -  - 
+c) Forward  -  -  -  - 
+d) Futures  -  -  -  - 
+e) Altri  -  -  -  - 
+3. Valute e oro  -  -  -  - 
+a) Opzioni  -  -  -  - 
+b) Swap  -  -  -  - 
+c) Forward  -  -  -  - 
+d) Futures  -  -  -  - 
+e) Altri  -  -  -  - 
+4. Merci  -  -  -  - 
+5. Altri sottostanti  -  -  -  - 
+Totale  311.553  -  58.384  - 
+(cid:3)
+549

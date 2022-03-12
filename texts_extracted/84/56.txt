@@ -1,0 +1,61 @@
+Lamberti
+Sustainability Report 2019
+Economic performance Responsible resource consumption
+GRI 103: Management Approach (2016) GRI 103: Management Approach (2016)
+103-1 Explanation of the material topic and its boundaries 30-31, 107 103-1 Explanation of the material topic and its boundaries 64
+103-2 The management approach and its components 42 - 43 103-2 The management approach and its components 64
+103-3 Evaluation of the management approach 42 - 43 103-3 Evaluation of the management approach 64
+GRI 201: Economic Performance (2016) GRI 301: Materials (2016)
+201-1 Direct economic value generated and distributed 301-1 Materials used by weight or volume 67
+44 - 47
+201-2 Financial implications and other risks and opportunities  44 - 47 GRI 302: Energy (2016)
+due to climate change
+Product safety 302-1 Energy consumption within the organization 65 - 66
+302-3 Energy intensity 65 - 66
+GRI 103: Management Approach (2016)
+GRI 303: Water and effluents (2018)
+103-1 Explanation of the material topic and its boundaries 30-31, 107
+303-1 Interactions with water as a shared resource 67
+103-2 The management approach and its components 58 - 59
+303-2 Management of water discharge-related impacts 68
+103-3 Evaluation of the management approach 58 - 59
+303-3 Water withdrawal 67
+GRI 416: Customer Health and Safety (2016)
+303-4 Water discharge 68 - 69
+Assessment of the health and safety impacts of product 
+416-1
+and service categories 58 - 59 Effluents and waste management
+Incidents of non-compliance concerning the health and  58 - 59 GRI 103: Management Approach (2016)
+416-2
+safety impacts of products and services
+103-1 Explanation of the material topic and its boundaries 30-31, 107
+GRI 416: Customer Health and Safety (2016)
+103-2 The management approach and its components 78 - 79
+Incidents of non-compliance concerning product and 
+417-2 59
+service information and labeling 103-3 Evaluation of the management approach 78 - 79
+Product innovation and intellectual property
+GRI 306: Effluents and Waste (2016)
+GRI 103: Management Approach (2016)
+306-2 Waste by type and disposal method 78 - 79
+103-1 Explanation of the material topic and its boundaries 30-31, 107 Greenhouse gas emissions
+103-2 The management approach and its components 50 - 51
+GRI 103: Management Approach (2016)
+103-3 Evaluation of the management approach 50 - 51
+103-1 Explanation of the material topic and its boundaries 30-31, 107
+Product sustainability
+103-2 The management approach and its components 70 - 71
+GRI 103: Management Approach (2016) 103-3 Evaluation of the management approach 70 - 71
+103-1 Explanation of the material topic and its boundaries 30-31, 107 GRI 305: Emissions (2016)
+103-2 The management approach and its components 52 - 53
+72;
+103-3 Evaluation of the management approach 52 - 53 Sources for emission factors:
+- DEFRA, UK Government GHG 
+Product optimization 305-1 Direct (Scope 1) GHG emissions Conversion Factors for Com-
+pany Reporting (2019 and 2018), 
+GRI 103: Management Approach (2016) for direct energy consumption 
+and refrigerant gas leakages.
+103-1 Explanation of the material topic and its boundaries 30-31, 107
+103-2 The management approach and its components 54 - 56
+103-3 Evaluation of the management approach 54 - 56
+110 111

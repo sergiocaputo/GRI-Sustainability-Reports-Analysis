@@ -1,0 +1,31 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+PASSIVO
+Sezione 1 - Passività finanziarie valutate al costo ammortizzato - Voce 10
+1.1 Passività finanziarie valutate al costo ammortizzato: composizione 
+merceologica dei debiti verso banche
+Euro/migliaia 31/12/2018 31/12/2017
+Fair Value Fair Value
+VB L1 L2 L3 VB L1 L2 L3
+1. Debiti verso banche centrali - X X X - X X X
+2. Debiti verso banche  97.626 X X X 178.067 X X X
+2.1 Conti correnti e depositi a vista 54.256 X X X 1.387 X X X
+2.2 Depositi a scadenza 6.988 X X X 152.082 X X X
+2.3 Finanziamenti 32.094 X X X 18.792 X X X
+2.3.1 Pronti contro termine passivi 32.094 X X X 18.792 X X X
+2.3.2 Altri - X X X - X X X
+2.4 Debiti per impegni di riacquisto di propri 
+- X X X - X X X
+strumenti patrimoniali
+2.5 Altri debiti 4.288 X X X 5.806 X X X
+TOTALE 97.626 - - 97.626 178.067 - - 178.067
+Legenda: 
+  VB = valore di bilancio 
+L1 = Livello 1 
+L2 = Livello 2 
+L3 = Livello 3
+I debiti verso banche ammontano a 97,6 milioni di euro in diminuzione di 80,5 
+milioni di euro rispetto alle consistenze del 31 dicembre 2017. La variazione è da 
+ricondurre principalmente ad una forte riduzione dei depositi vincolati di Banca 
+Mediolanum (-145,3 milioni di euro rispetto al periodo di confronto).
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 222

@@ -1,0 +1,36 @@
+ 
+Dismantlement and restoration costs of assets used for contract work in progress are added to the cost of the 
+related asset and depreciated in line with the depreciation pattern of the asset to which they refer when they 
+are foreseeable and objectively determinable. 
+Leasehold improvements are classified in the different items of property, plant and equipment on the basis of 
+their nature. They are depreciated over the shorter of the estimated useful life of the relevant asset and the 
+residual term of the lease. 
+Right-of-use assets and lease liabilities 
+Right-of-use assets and lease liabilities are recognised in accordance with IFRS 16. More information about 
+the application of this standard is available in note 2 “Changes in standards”. 
+Rights to infrastructure under concession  
+These rights are covered by IFRIC 12 - Service concession arrangements, issued by the International Financial 
+Reporting Interpretations Committee (IFRIC), which regulates the recognition and measurement of concession 
+arrangements between public sector entities and private sector operators. It was endorsed by the European 
+Commission with EC regulation 254/2009 dated 25 March 2009 and its application is mandatory for financial 
+statements drawn up under IFRS beginning from the year after which it was endorsed. Therefore, the Group 
+has applied IFRIC 12 since 2010. 
+The criteria adopted by the Group to apply the interpretation to its concessions are set out below. 
+Scope and measurement  
+Scope: IFRIC 12 is applicable to service concession arrangements when the grantor is a public body and the 
+operator is a private entity, when the following conditions are met: 
+a)  the grantor controls or regulates what services the operator must provide with the infrastructure, to whom 
+it must provide them, and at what price; and 
+b)  the grantor controls – through ownership, beneficial entitlement or otherwise - any significant residual 
+interest in the infrastructure at the end of the term of the arrangement. 
+Measurement of the revenue arising from the concession arrangement: the operator acts as the service 
+provider (construction and management of the work) and recognises the revenue for the construction and 
+upgrade services in accordance with IFRS 15 - Revenue from contracts with customers. 
+The grantor pays the operator a consideration for the construction/upgrade services, to be recognised at fair 
+value, which may consist of rights to: 
+(a) a financial asset (financial asset model); 
+(b) an intangible asset (intangible asset model); 
+(c)  both (“mixed” model). 
+The first model is applicable when the operator has an unconditional contractual right to receive a specified or 
+determinable amount of cash. The second is applicable when the operator acquires the right to charge for use 
+   238 

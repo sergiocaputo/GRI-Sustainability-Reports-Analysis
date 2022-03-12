@@ -1,0 +1,43 @@
+Indice generale Indice di sezione Sezione 12
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte E
+Rischio spread
+La sensitività del valore del portafoglio dei Titoli emessi o garantiti dallo Stato italiano al rischio creditizio della Repubblica italia-
+na risulta superiore a quella riferita al solo movimento dei tassi cd risk free. Tale situazione ha origine, in parte, dal fatto che la 
+variazione dello spread creditizio influenza anche il valore dei titoli a tasso variabile e, soprattutto, dal fatto che per tale fattore 
+di rischio non sono in essere politiche di copertura attraverso derivati, che invece sono adottate per la componente di tasso 
+“puro”. Ciò implica che, nel caso di incremento dei rendimenti derivante dalla sola componente tassi di interesse, le minusva-
+lenze potenziali sui titoli a tasso fisso trovano una compensazione dall’aumento di valore degli IRS di copertura (strategia di 
+fair value hedge). Qualora invece l’incremento dei tassi derivi dall’aumento del credit spread della Repubblica italiana, le minu-
+svalenze sui titoli emessi o garantiti dallo Stato italiano non trovano compensazione in movimenti opposti di altre esposizioni.
+La sensitivity allo spread è calcolata applicando uno shift di +/- 100 bps al fattore di rischio che influenza le diverse tipologie di 
+titoli in portafoglio rappresentato dalla curva dei rendimenti dei titoli governativi italiani.
+Di seguito si riporta l’esito dell’analisi di sensitività effettuata.
+Rischio spread sul fair value
+Nozionale Fair  Delta valore Margine di  Riserve di 
+value intermediazione Patrimonio netto 
+al lordo delle imposte
+Data di riferimento dell’analisi
+(milioni di euro) +100 bps -100 bps +100 bps -100 bps +100 bps -100 bps
+Effetti 2017
+Attività finanzarie disponibili per la vendita
+Titoli di debito 35.738  39.099  (3.877) 4.606  -    -    (3.877) 4.606 
+Attività finanziarie detenute per la 
+-    -    -    -    -    -    -    -   
+negoziazione
+Attivo - Derivati di copertura -    -    -    -    -    -    -    -   
+Passivo - Derivati di copertura 1.705  (23) 92  (98) -    -    92  (98)
+Variabilità al 31 dicembre 2017 37.443  39.076  (3.785) 4.508  -    -    (3.785) 4.508 
+Effetti 2016
+Attività finanzarie disponibili per la vendita
+Titoli di debito 32.178  37.159  (3.615) 4.292  -    -    (3.615) 4.292 
+Attività finanziarie detenute per  
+-    -    -    -    -    -    -    -   
+la negoziazione
+Attivo - Derivati di copertura 220  6  (28) 33  -    -    (28) 33 
+Passivo - Derivati di copertura 196  (3) (26) 31  -    -    (26) 31 
+Variabilità al 31 dicembre 2016 32.594  37.162  (3.669) 4.356  -    -    (3.669) 4.356 
+Oltre che con l’analisi di sensitivity, il Patrimonio BancoPosta monitora il rischio in commento mediante il calcolo della massima 
+perdita potenziale (VaR – Value at Risk). Di seguito si riporta l’esito dell’analisi di VaR effettuata tenendo in considerazione la 
+variabilità del fattore rischio spread.
+511

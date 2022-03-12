@@ -1,0 +1,61 @@
+Table 44: GHG emissions (scope 1 + 2)21
+SITE GHG EMISSIONS U.M. 2017 2018 2019
+Total GHG emissions 
+SECH [tCOeq] 3.403 3.733 4.045
+(diesel+electricity+natural gas) 2
+Total GHG emissions 
+TDT [tCOeq] 5.674 5.589 4.924
+(diesel+electricity) 2
+(TDT: shuttle transport carried out by an external company included)
+Indirect emissions linked to the various vehicles entering and leaving the terminals 
+are not quantified due to unavailability of data. However, the available traffic data are 
+reported:
+Table 45: Traffic flows to/from the terminals
+   SITE 2017 2018  2019
+SECH 214 280  268
+Vessels
+TDT 749 669  601
+SECH 140.593 139.678  145.163
+Trucks
+TDT 178.949 177.944 163.620
+SECH 423 604  733
+Trains
+TDT 1.267 1.124  469
+Y
+T
+Table 46: GHG/TEU emissions intensity22 BILI
+A
+N
+AI
+T
+US
+SITE GHG/TEU EMISSIONS INTENSITY U.M. 2017 2018 2019 AL S
+T
+N
+E
+Intensity (Scope 1) SECH  M
+[tCOeq /TEU] 0,0059 0,0067 0,0073 N
+diesel+natural gas 2 O
+R
+VI
+N
+Intensity (Scope 2) SECH electricity [tCOeq /TEU] 0,0050 0,0049 0,0052 E
+SECH 2
+Total intensity [tCOeq /TEU] 0,0109 0,0116 0,0125
+2
+Denominator [tot. TEU] [TEU] 312.689 321.932 322.517
+Intensity (Scope 1) TDT diesel [tCOeq /TEU] 0,0082 0,0081 0,0072
+2
+Intensity (Scope 2) TDT electricity [tCOeq /TEU] 0,0050 0,0051 0,0034
+2
+TDT
+Total intensity [tCOeq /TEU] 0,0132 0,0132 0,0106
+2
+Denominator [tot. TEU] [TEU] 515.792 502.108 560.339
+21. COeq emissions from air conditioning gas refills are not included and equal to: R134A = kg 2.5; 
+2
+R410A = Kg 2,5; R404A = Kg 4. For a total of 24.483 tons of COeq emitted (2.5 * 1430 + 2.5 * 2088 + 4 * 
+2
+3922) / 1000).
+22. TDT: shuttle bus included.
+SECH • TDT 2019 Sustainability Report | 105 

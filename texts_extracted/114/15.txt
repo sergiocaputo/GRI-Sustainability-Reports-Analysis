@@ -1,0 +1,29 @@
+14
+Il processo di controllo dei rischi, comune a tutte le funzioni di controllo, si articola, in coerenza con le best practice di riferi-
+mento, nelle seguenti fasi:
+Le fasi del processo di controllo
+IDENTIFICAZIONE MISURAZIONE GESTIONE MONITORAGGIO RREEPPOORRTTIINNGG
+Le differenti tipologie di rischio sono definite all’interno della Risk Policy di Gruppo, approvata dal Consiglio di Amministrazio-
+ne, soggetta ad aggiornamento con cadenza semestrale e articolata nel Regolamento Rischi e nei documenti ad esso collega-
+ti, ciascuno dei quali riguarda una specifica categoria di rischi.
+La Risk Policy rappresenta il Risk Appetite Framework (di seguito, in breve, anche “RAF”) del Gruppo, ovvero, lo strumento car-
+dine con cui il Consiglio di Amministrazione definisce la propensione al rischio di CDP, le soglie di tolleranza, i limiti di rischio, 
+le politiche di governo dei rischi ed il quadro dei relativi processi organizzativi.
+Nell’ambito del RAF, della Risk Policy e, quindi, del corpo normativo interno sul presidio dei rischi, sono contemplati anche 
+aspetti legati alla gestione dei rischi di natura sociale, ambientale (come esplicitamente richiesto dal Decreto) ed economica. 
+Rientrano, ad esempio, la Policy di Gruppo sulla valutazione del rischio reputazionale delle operazioni e la Policy di Gruppo 
+per la misurazione dei rischi operativi.
+Il Gruppo adotta un approccio prudenziale nel controllo dei propri rischi e, con riferimento ai rischi reputazionali collegati alle 
+operazioni di finanziamento, coerentemente con la propria mission, si astiene dal finanziare progetti con impatto ambientale 
+e sociale negativi considerati rilevanti, misurati sulla base di dati o valutazioni oggettive.
+Compliance
+Il Gruppo CDP attribuisce specifico rilievo al presidio dei rischi di non conformità alla normativa, nella convinzione che il 
+rispetto delle leggi e della regolamentazione di riferimento costituisca un elemento fondamentale nello svolgimento delle 
+proprie attività.
+A tal fine il Gruppo CDP ha identificato, per la Capogruppo e ciascuna delle società soggette a direzione e coordinamento, 
+un’apposita mappatura (la “Rule Map”), aggiornata e monitorata dalla funzione Compliance delle società, nella quale vengono 
+riportati i principali rischi di non conformità a cui le società sono esposte nello svolgimento dell’attività d’impresa, o che de-
+rivano dai suoi prodotti/servizi o rapporti commerciali. Nell’ambito di tale mappatura figurano quali principali rischi cui sono 
+potenzialmente esposte le società, quelli relativi agli ambiti normativi di seguito indicati:
+• Sanzioni finanziarie e commerciali;
+• Conflitti di interesse;

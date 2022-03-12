@@ -1,0 +1,53 @@
+Indice generale Indice di sezione
+Relazione sulla gestione al 31 dicembre 2017
+6. Dichiarazione consolidata di carattere non finanziario 
+Il principale obiettivo nella gestione della sicurezza informatica è garantire adeguati livelli di riservatezza, integrità e disponibilità 
+dei dati e dei servizi erogati. Per perseguire l’obiettivo sono state adottate, oltre alle misure tecnologiche, anche disposizioni 
+organizzative e di regolamentazione dei processi operativi, a garanzia di un idoneo livello di protezione a cui si aggiunge un 
+costante flusso informativo verso gli organismi di controllo interno e/o verso le Autorità di riferimento. 
+A presidio dei rischi relativi alla sicurezza delle informazioni e ai sistemi informativi, nell’ambito della funzione Tutela Aziendale, 
+è stato individuato un interlocutore unico sul rischio legato alla sicurezza informatica, il Chief Information Security Officer;
+è attiva la gestione integrata del rischio di Cyber Security; 
+è garantita una maggiore efficacia ed efficienza operativa attraverso la riduzione della frammentazione dei processi operativi 
+tra le funzioni.
+Il framework di sicurezza informatica adottato da Poste Italiane si articola attraverso diversi livelli di intervento:
+La Policy di Sicurezza Informatica è l’impianto documentale mediante cui si esprimono gli obiettivi e le direttive strategiche 
+volte a indirizzare la gestione della sicurezza delle risorse e dei processi informatici a supporto dei servizi di Business, al fine 
+di contenere, entro predefiniti limiti accettabili, il rischio di compromissioni della riservatezza, dell’integrità e della disponibilità 
+delle stesse sia in un’ottica di tutela del Business che di contributo al contrasto degli eventi di tipo cybercrime.
+L’analisi del rischio informatico, volta a identificare e valutare i potenziali scenari di compromissione della riservatezza, integri-
+tà e disponibilità delle risorse ICT a supporto dei servizi di Business e a indirizzare l’implementazione delle opportune misure 
+di riduzione del rischio verticali sulle applicazioni e su singoli asset IT (middleware, sistemi operativi, DB, ecc.) in funzione 
+della soglia di propensione al rischio informatico definita per i servizi di Business cui le risorse ICT asservono. 
+il Piano Permanente di Sicurezza (PPS) composto da tutti gli interventi trasversali e dai progetti tecnologici necessari per garan-
+tire la presenza, l’aggiornamento e il corretto funzionamento delle piattaforme di sicurezza, per erogare i processi operativi di 
+sicurezza ed effettuare tutti i controlli e le verifiche finalizzate a contenere il profilo di rischio nel tempo a livelli accettabili;
+Le attività di Security by Design che, nell’ambito delle fasi di analisi, progettazione, realizzazione e messa in produzione dei 
+nuovi servizi o modifica dei servizi esistenti, oltre che all’interno dei processi di change dei sistemi informatici, sono finalizzate 
+ad individuare i requisiti di sicurezza atti a garantire l’adeguata tutela delle risorse ICT coinvolte. Il fine ultimo delle attività 
+di Security by Design è quello di incidere su tutta la catena del valore e assicurare la conformità alle norme di legge e agli 
+standard in materia di sicurezza IT, oltre che di integrare la sicurezza informatica nei processi IT e in quelli di Service Creation.
+Le infrastrutture tecnologiche di sicurezza trasversali. Le piattaforme infrastrutturali di sicurezza hanno la funzione di garan-
+tire e proteggere le risorse informatiche aziendali a fronte di attacchi informatici mirati e al contempo di rendere compliant 
+l’Azienda a leggi e normative.
+La prevenzione, risposta e gestione degli incidenti di sicurezza mediante un unico punto di sintesi e coordinamento delle atti-
+vità, attraverso una gestione integrata dei flussi informativi provenienti dai diversi presidi di sicurezza informatica, garantendo, 
+verso l’esterno, un’unica interfaccia operativa per le attività di security information sharing e, verso l’interno, un supporto di 
+sicurezza continuativo.
+Le certificazioni di Terza Parte. A fronte delle spinte del contesto esterno, dovute alla crescente complessità del Business 
+e alle evoluzioni normative e regolamentari, nonché agli sviluppi del contesto interno, volto al crescente utilizzo della leva 
+tecnologica e al rafforzamento dei livelli di qualità dell’offerta, Poste garantisce un presidio strutturato delle tematiche di 
+qualità in ambito IT e sicurezza. Tale presidio si declina nell’applicazione di un Sistema di Gestione Integrato della Qualità IT 
+e Sicurezza che recepisce gli aspetti evidenziati da standard internazionali in materia e da benchmark di settore.
+Progetti per l’innovazione in ambito security. Poste Italiane persegue l’innovazione in materia di sicurezza informatica con 
+riferimento alla realizzazione di studi e ricerche di scenario su temi verticali di sicurezza, con un focus specifico sui temi della 
+gestione delle identità, della mobile security e dei distributed ledger (tecnologia blockchain).
+Nel dettaglio, la Policy di Sicurezza Informatica racchiude le direttive strategiche per la gestione della sicurezza informatica 
+che tutte le società del Gruppo hanno declinato rispetto alle specificità del proprio Business. La politica definisce gli obiettivi di 
+sicurezza e i requisiti di conformità a livello normativo e di adesione volontaria a standard e best practice di settore. A partire 
+da questa politica è stato definito un sistema documentale che definisce: i requisiti e le regole di sicurezza, gli standard tecnici/
+organizzativi, le procedure e istruzioni in cui vengono esplicitate le modalità operative dei processi di sicurezza e i dettagli sui 
+compiti e le attività effettuate dal personale operativo.
+Poste Italiane ha ricevuto la certificazione del proprio sistema di gestione integrato dei processi di erogazione dei servizi IT e 
+Sicurezza, secondo le norme internazionali ISO 27001 (Sicurezza IT), ISO 20000 (Processi IT), ISO 9001 (Qualità). 
+59

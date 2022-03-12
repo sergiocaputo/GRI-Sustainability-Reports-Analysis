@@ -1,0 +1,41 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+Informazioni di natura quantitativa
+1.  Portafoglio bancario: distribuzione per durata residua (data di riprezzamento) delle attività e delle passività 
+ﬁnanziarie
+La presente tavola non è stata redatta poiché di seguito viene fornita un’analisi di sensitività al rischio di tasso di 
+interesse basata su modelli interni ed altre metodologie.
+2.  Portafoglio bancario: modelli interni e altre metodologie di analisi della sensitività
+Nella presente sezione vengono sinteticamente esposti i risultati delle analisi di rischio di tasso di interesse nell’am-
+bito del portafoglio bancario. In particolare, le tabelle sotto riportate mostrano i dati relativi all’impatto sul margine 
+di interesse (modello di “repricing ﬂussi” con modellizzazione delle poste a vista) e sul valore del patrimonio (modello 
+di “full evaluation”), nell’ipotesi di variazione dei tassi di interesse di +/- 100 punti base.
+La tabella sottostante mostra, in particolare, i dati relativi all’impatto sul margine di interesse nell’ipotesi di una va-
+riazione dei tassi di +/- 100 punti base.
+(cid:68)(cid:381)(cid:282)(cid:286)(cid:367)(cid:367)(cid:381)(cid:3)(cid:282)(cid:349)(cid:3)(cid:862)(cid:90)(cid:286)(cid:393)(cid:396)(cid:349)(cid:272)(cid:349)(cid:374)(cid:336)(cid:3)(cid:38)(cid:367)(cid:437)(cid:400)(cid:400)(cid:349)(cid:863)(cid:3)(cid:884)(cid:3)(cid:47)(cid:393)(cid:381)(cid:410)(cid:286)(cid:400)(cid:349)(cid:3)(cid:282)(cid:349)(cid:3)(cid:862)(cid:400)(cid:346)(cid:349)(cid:332)(cid:349)(cid:374)(cid:336)(cid:863)
+Descrizione Shock +1% Shock -1%
+Valore al 
++33.083 -31.386
+31.12.17
+  Valori in migliaia di euro
+La tabella sottostante mostra, invece, i dati relativi all’impatto sul valore del patrimonio (modello di full evaluation) 
+nell’ipotesi di una variazione dei tassi di +/- 100 punti base.
+(cid:68)(cid:381)(cid:282)(cid:286)(cid:367)(cid:367)(cid:381)(cid:3)(cid:282)(cid:349)(cid:3)(cid:862)(cid:38)(cid:437)(cid:367)(cid:367)(cid:3)(cid:28)(cid:448)(cid:258)(cid:367)(cid:437)(cid:258)(cid:415)(cid:381)(cid:374)(cid:863)(cid:3)(cid:876)(cid:3)(cid:4)(cid:374)(cid:258)(cid:367)(cid:349)(cid:400)(cid:349)(cid:3)(cid:282)(cid:349)(cid:3)(cid:94)(cid:286)(cid:374)(cid:400)(cid:349)(cid:415)(cid:448)(cid:349)(cid:410)(cid:259)(cid:863)
+Descrizione Shock +1% Shock -1%
+Valore al 
+-18.424 +79.350
+31.12.17
+  Valori in migliaia di euro
+1.2.3 Rischio di cambio 
+Informazioni di natura qualitativa
+A. Aspetti generali, processi di gestione e metodi di misurazione del rischio di cambio
+L’operatività in valuta del Gruppo si è costantemente attestata, nel corso del 2017, su livelli complessivamente re-
+siduali rispetto al totale degli impieghi. Le politiche di gestione sono infatti orientate a non assumere posizioni di 
+rischio rilevanti sul mercato dei cambi, anche mediante la puntuale compensazione fra volumi di attività, passività e 
+derivati nelle principali valute trattate. 
+Le attività di copertura sono gestite dalla Funzione Finanza e sono monitorate periodicamente dalle competenti 
+strutture aziendali di controllo. 
+Allo stato, il monitoraggio dell’esposizione al rischio di cambio è effettuata mediante un’apposita procedura di ALM 
+(Asset and Liability Management). In particolare, le competenti strutture del Gruppo stimano periodicamente l’e-
+sposizione netta nelle principali valute oggetto di operatività e provvedono alla veriﬁca del rispetto di speciﬁci limiti 
+gestionali adottati in sede di deﬁnizione delle Deleghe Operative.
+546

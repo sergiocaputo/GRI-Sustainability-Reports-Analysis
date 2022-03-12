@@ -1,0 +1,47 @@
+LOTTOMATICA PER LA COMUNITÀ 2018
+rete dei rivenditori,  sviluppato completamente  Vendita” e di agire in modo 
+Lottomatica al fianco del  Lottomatica ha realizzato,  in house con le tecnologie  proattivo nei processi di 
+Punto Vendita nel corso del 2018, uno  più avanzate (Piattaforme  caring ed engagement.
+strumento di Sales Force  BigData, Advanced  Il prodotto inoltre fornisce 
+Al fine di facilitare i  Management, accessibile  Analytics).  agli agenti commerciali gli 
+rapporti con il Punto  a tutto il personale della  Lo strumento consente di  strumenti più idonei per 
+Vendita e garantire  Direzione Vendite (centrale  monitorare costantemente  supportare il rivenditore 
+l’ascolto continuo della  e dislocata sul territorio),  la “Voce del Punto  nel proprio business. 
+SALES FORCE MANAGEMENT
+PIATTAFORMA ERMES
+FRONT-END
+DWH ORGANIZZAZIONE FORZA VENDITA
+MONITORAGGIO E ANALISI
+GESTIONE E STATISTICHE PUNTO VENDITA
+E
+L
+T S
+A GESTIONE DEL CONTRATTO
+E
+B
+SAP A GESTIONE DEL PROSPECT
+T
+A FORZA VENDITA
+D
+BACK-OFFICE
+GESTIONE DEI CONTENUTI
+GESTIONE CANVASS E OBIETTIVI
+AMMINISTRATORI
+ASSET MNG
+ALGORITMI DI PROFITTABILITÀ
+ALGORITMI PREDITTIVI
+BIGDATA
+DWH - Data warehouse aziendale. Sistema che consente l’aggregazione e la storicizzazione di dati 
+strutturati, provenienti tipicamente da fonti interne operazionali, utili a realizzare analisi e report ad 
+uso strategico aziendale nei processi decisionali di business.
+SAP - Sistema di Enterprise Resource Planning (ERP) - è un sistema di gestione che integra tutti i 
+processi di business rilevanti di un’azienda (vendite, acquisti, contabilità ecc.).
+ETL - Extract, Transform, Load - processo di estrazione, trasformazione e caricamento dei dati in un 
+sistema.
+ASSET MANAGEMENT - Sistema per la gestione dei beni materiali dell’azienda.
+BIGDATA  - È una piattaforma ad elevate prestazioni sia in termini di risposta, sia in termini di 
+capacità ed affidabilità, che  consente di conservare un’enorme mole di dati eterogenei, strutturati 
+e non strutturati. La piattaforma consente di analizzare i dati nella forma originaria e mettere in 
+relazione qualsiasi tipo di informazione, questo allo scopo di scoprire (grazie all’utilizzo di algoritmi 
+statistici e matematici avanzati) i legami tra fenomeni diversi ed effettuare delle previsioni.
+59

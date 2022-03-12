@@ -1,0 +1,11 @@
+CATEGORIE DI 
+2016 2017 2018
+LAVORATORI
+Uomini Donne Uomini Donne Uomini Donne
+Dirigenti 2 0 2 0 3 0
+Quadri direttivi 7 1 7 1 5 1
+Impiegati 31 9 23 9 24 9
+Operai 54 0 58 0 60 0
+Totale 94 10 90 10 92 10
+104 100 102
+98

@@ -1,0 +1,48 @@
+4. CAPITALE NATURALE 170 UNIVERSITÀ DEGLI STUDI RAPPORTO DI 2016 / 2017 171
+E SOSTENIBILITÀ AMBIENTALE DI TORINO SOSTENIBILITÀ
+Produzione di rifiuti speciali e tossici32
+Valore Valore Valore UDM metodo di
+Nome 2016 2015 2014 calcolo
+Altre Emissioni - NOx
+Metano 7.830 7.886 10.690 Kg NOx Valori Ispra codice Perico-
+CER Tipologia di riﬁuto UM Quantità losità
+Gasolio per riscaldamento 71 105 138 Kg NOx Valori Ispra
+06.01.06 altri acidi Kg 33,2 *
+Combustibili per autotrazione 51 47 180 Kg NOx Valori Ispra
+06.04.04 riﬁuti contenenti mercurio Kg 10 *
+Energia elettrica acquistata dalla rete 5.284 5.245 6.420 Kg NOx Valori Ispra
+06.04.05 riﬁuti contenenti altri metalli pesanti Kg 11 *
+TOTALE t Nox eq 13.236 13.283 17.428 Kg NOx
+06.13.02 carbone attivato esaurito Kg 351 *
+Altre Emissioni - SO2
+07.07.01 soluzioni acquose di lavaggio ed acque madri Kg 2,5 *
+Metano 92 92 n.d. Kg SO2 Valori Ispra
+07.07.03 solventi organici alogenati, soluzioni di lavaggio ed acque madri Kg 1,6 *
+Gasolio per riscaldamento 67 99 n.d. Kg SO2 Valori Ispra
+07.07.04 altri solventi organici alogenati, soluzioni di lavaggio ed acque madri Litri 442 *
+Combustibili per autotrazione 46 43 n.d. Kg SO2 Valori Ispra
+07.07.04 altri solventi organici alogenati, soluzioni di lavaggio ed acque madri Kg 479,5 *
+Energia elettrica acquistata dalla rete 3.506 3.480 n.d. Kg SO2 Valori Ispra
+  07.07.10 altri residui di ﬁltrazione e assorbenti esauriti Kg 70 *
+TOTALE t SO2 eq 3.711 3.715 n.d. Kg SO2
+08.03.18 toner per stampa esauriti Kg 279 Non p.
+Totale volume riﬁuti 5.531.950 5.421.327 n.d. kg/anno Stima bollette
+assimilabili agli urbani prodotti 09.01.01 soluzioni di sviluppo e attivanti a base acquosa Kg 10 *
+09.01.04 soluzioni ﬁssative Kg 19 *
+13.02.06 scarti di olio sintetico per motori, ingranaggi e lubriﬁcazione Kg 2 *
+La performance ambientale di UniTo è migliorata 
+per quanto concerne tutti gli indicatori, ad esclusione  15.01.10 imballaggi contenenti residui di sostanze pericolose o contaminati Kg 411 *
+da tali sostanze
+della produzione dei rifiuti e del consumo di acqua. 
+Per quanto concerne la produzione di rifiuti sono stime 
+15.02.02 assorbenti, materiali ﬁltranti (inclusi ﬁltri dell'olio non speciﬁcati Kg 235 *
+effettuate a partire dalle bollette e prodotte considerando  altrimenti), stracci e indumenti protettivi, contaminati da sostanze pericolose
+il metodo TARI e la relazione tecnica del Comune di 
+Torino, pertanto non sono oggetto di azione diretta da  15.02.03 assorbenti, materiali ﬁltranti, stracci e indumenti protettivi, diversi da Kg 2 Non p.
+quelli di cui alla voce 15 02 02
+parte dell’Ateneo. Il maggiore consumo di acqua, che 
+rimane comunque inferiore a quello registrato nel 2014,  16.02.11 apparecchiature fuori uso, contenenti cloroﬂuorocarburi, HCFC, HFC Kg 110 *
+potrebbe essere imputato alle condizioni atmosferiche 
+estive.
+32.
+Il dato fa riferimento a 17 strutture contattate su circa 40 delegati SISTRI contattati

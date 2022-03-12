@@ -1,0 +1,49 @@
+Nota Integrativa | Parte A | Politiche Contabili
+(cid:3)
+Data(cid:3)prevista(cid:3)di(cid:3)
+Principio(cid:3)
+Titolo(cid:3) omologazione(cid:3)da(cid:3)parte(cid:3)
+Interpretazione(cid:3)
+dell'UE(cid:3)
+Amendments(cid:3)
+Amendment(cid:3)to(cid:3)IAS(cid:3)8:(cid:3)Accounting(cid:3)Policies(cid:3)and(cid:3)Accounting(cid:3)Estimates(cid:3) 01/03/2018(cid:3)
+Amendment(cid:3)to(cid:3)IAS(cid:3)1:(cid:3)Classification(cid:3)of(cid:3)Liabilities(cid:3)(cid:3) H2(cid:3)2018(cid:3)
+Amendment(cid:3)to(cid:3)IFRS(cid:3)3:(cid:3)Definition(cid:3)of(cid:3)a(cid:3)Business(cid:3) Da(cid:3)determinare(cid:3)
+Amendments(cid:3)to(cid:3)IAS(cid:3)1(cid:3)and(cid:3)IAS(cid:3)8:(cid:3)Definition(cid:3)of(cid:3)Material(cid:3)(cid:3)(cid:3) Da(cid:3)determinare(cid:3)
+Amendments(cid:3)to(cid:3)IFRS(cid:3)8(cid:3)and(cid:3)IAS(cid:3)34:(cid:3)Improvements(cid:3)to(cid:3)IFRS(cid:3)8(cid:3)Operating(cid:3)Segments(cid:3)(cid:3) 01/03/2018(cid:3)
+Amendments(cid:3)to(cid:3)IFRS(cid:3)3:(cid:3)Definition(cid:3)of(cid:3)a(cid:3)Business(cid:3) Q2(cid:3)2018(cid:3)
+Amendments(cid:3)to(cid:3)IFRIC(cid:3)14:(cid:3)Availability(cid:3)of(cid:3)a(cid:3)Refund(cid:3) Da(cid:3)determinare(cid:3)
+Amendments(cid:3)to(cid:3)IFRS(cid:3)9:(cid:3)Fees(cid:3)in(cid:3)the(cid:3)‘10(cid:3)per(cid:3)cent’(cid:3)test(cid:3)for(cid:3)Derecognition(cid:3) Da(cid:3)determinare(cid:3)
+Amendments(cid:3)to(cid:3)IFRS(cid:3)16:(cid:3)Property,(cid:3)Plant(cid:3)and(cid:3)Equipment:(cid:3)Proceeds(cid:3)before(cid:3)Intended(cid:3)Use(cid:3)(cid:3) Da(cid:3)determinare(cid:3)
+Amendments(cid:3)to(cid:3)IFRS(cid:3)1:(cid:3)Subsidiary(cid:3)as(cid:3)a(cid:3)First(cid:882)time(cid:3)Adopter(cid:3)(cid:3) Da(cid:3)determinare(cid:3)
+Amendments(cid:3)to(cid:3)IAS(cid:3)41:(cid:3)Taxation(cid:3)in(cid:3)Fair(cid:3)Value(cid:3)Measurements(cid:3) Da(cid:3)determinare(cid:3)
+(cid:3)
+Parte A.3 – INFORMATIVA SUI TRASFERIMENTI TRA PORTAFOGLI DI ATTIVITÀ FINANZIARIE
+Non vi sono al 31 dicembre 2017 e al 31 dicembre 2016 titoli oggetto di riclassiﬁca.
+Parte A.4 – INFORMATIVA SUL FAIR VALUE
+Informativa di natura qualitativa
+L’IFRS 13, al paragrafo 9, deﬁnisce il Fair value come “il prezzo che si percepirebbe per la vendita di un’attività ovvero 
+che si pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di mercato alla data 
+di valutazione”.
+Il principio si fonda sulla deﬁnizione di “Fair value market based” (metodo basato sulla valutazione di mercato) in 
+quanto il Fair value dell’attività o passività deve essere misurato in base alle caratteristiche assunte dagli operatori 
+di mercato.
+La valutazione al Fair value presuppone inoltre che l’operazione di vendita dell’attività o di trasferimento della pas-
+sività abbia luogo nel mercato principale dell’attività o passività o, in assenza di un mercato principale, nel mercato 
+più vantaggioso.
+Il concetto di Fair value si basa sul cosiddetto “exit price”. Il prezzo deve riﬂettere, cioè, la prospettiva di chi vende 
+l’attività o che paga per trasferire la passività alla data della rilevazione.
+In tale contesto si inserisce la necessità che il Fair value degli strumenti ﬁnanziari debba riﬂettere il rischio di ina-
+dempimento attraverso opportune rettiﬁche di valore del merito creditizio della controparte e dell’emittente stesso. 
+Per quanto attiene alla valutazione del rischio di inadempimento si evidenzia che il Gruppo ne ha effettuato una 
+stima alla data di bilancio non riscontrando effetti signiﬁcativi rispetto alla metodologia del fair value adottata pre-
+cedentemente.
+L’IFRS 13, dal paragrafo 72 al paragrafo 90, prevede una classiﬁcazione delle valutazioni al Fair value degli strumenti 
+ﬁnanziari sulla base di una speciﬁca gerarchia che si basa sulla natura e sulla signiﬁcatività degli input utilizzati nelle 
+medesime valutazioni (i cosiddetti “Livelli”).
+I tre livelli previsti sono:
+“Livello 1”: uno strumento ﬁnanziario appartiene al Livello 1 quando esso è scambiato in un mercato in cui le transa-
+zioni sullo stesso si veriﬁcano con una frequenza e con volumi sufﬁcienti a fornire informazioni utili per la determi-
+nazione del prezzo dello strumento su base continuativa (cd. “mercato attivo”).
+Le variabili chiave generalmente prese in considerazione dal Gruppo per l’individuazione di un mercato attivo sono:
+436

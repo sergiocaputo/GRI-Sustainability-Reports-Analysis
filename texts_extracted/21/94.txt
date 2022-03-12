@@ -1,0 +1,87 @@
+of specific clusters regarding the ter- EXAMPLES OF INNOVATION 
+ritory, the industrial environment and 
+1
+the life phases of businesses. 
+Capitalising  different  data  storage  Id
+e
+technologies,  the  Group  is  develop- n
+t
+it
+ing projects aimed at exploiting the  y
+most innovative products. Specifically,  ◗ Fully digital fintech commercial 
+Cerved has 18 of the top 30 database  credit transfer platform. 
+models in production worldwide and 
+uses paradigms that include all of the  Cerved Money&GO is a latest-genera-
+new  frameworks  (such  as  Hadoop)  tion technological platform for the  2
+and  allow  fast  processing  even  of  purchase of commercial credits that 
+non-structured data.  was  created  to  satisfy  companies’ 
+G
+need for working capital and is avail- o
+v
+Extremely  complex  methodologies  able to banks and financial companies  er
+n
+and solutions provide Cerved with an  that want to use it to serve their cus- an
+c
+incredible  competitive  advantage.  tomers efficiently and digitally. e
+An  example  is  the  Neo4j  technolo- The credits transferred by the compa-
+gy, also called “graph based”, which  nies will be purchased from a special 
+makes  it  possible  to  develop  algo- purpose vehicle financed through a 
+3
+rithms at a reasonable cost and with  securitisation  program  implemented 
+superior  performance.  Also  in  this  pursuant to Italian Law 130/99.
+area, the Group developed Graph4Y- With Cerved Money&GO, companies  P
+e
+ou, an innovative platform that, using  and lenders will be able to evaluate  op
+le
+the API (Application Programming In- credits on the basis of official data 
+terface) ecosystem, enables Cerved to  such as balance sheets, ownership re-
+formulate data analyses in a massive  ports, protests, real estate data, list of 
+and fast way, including not only a sin- members; data provided by Cerved 
+gle company or person but a whole se- PayLine,  a  database  of  commercial 
+ries of existing relationships between  payment  experiences;  open  data  4
+a plurality of different parties. such as tenders, public funding and 
+many  others  obtained  by  analysing 
+C
+By adopting DevOps models30, a set  web pages, corporate sites and social  o
+n
+t
+of practices supported by automated  networks. in
+u
+and Lean Management tools, Cerved  it
+y
+introduced  new  automation  pro-
+cesses for the software production 
+and release chain, enabling customers 
+to expect secure and high quality ap-
+5
+plications delivered much more quick- ◗ Big data platform for commercial 
+ly. Special attention paid to the API  purposes
+(Application  Programming  Interface)  S
+o
+c
+ecosystem enables Cerved to simplify  A latest-generation platform that  ie
+t
+y
+the dialogue between applications.  draws on the wealth of official Cerved 
+A strong integration and information  data on all Italian companies (over 6 
+30 S oftware development 
+exchange component makes for fast- million) and data collected from open  methodology used in 
+er accesses, while ensuring the scala- sources such as the web, social net- computer science which 
+aims at communication, 
+bility, control and flexibility of the de- works, news and makes them avail- collaboration and inte-
+gration between deve- 6
+veloped application platforms.  able through different channels.
+lopers and operators in 
+information technology 
+operations
+Thanks to this system of application  The platform is equipped with se- 31 E cosystem of businesses  E
+that are accelerating the  n
+interfaces,  Cerved  allows  a  select  mantic analysis algorithms which  v
+digitisation and auto- ir
+group of developers and Fintech31 to  are the basis of the proprietary  mation of the banking  on
+and financial system,  m
+access its data for the purpose of cre- search engine SpazioDati (subsidiary  using innovative tech- e
+n
+ating new programs and services.  of the Cerved Group), which helps to  nologies that make the  t
+system more efficient.
+95

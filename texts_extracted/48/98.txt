@@ -1,0 +1,51 @@
+Our  Consolidated Non-Financial  Appendices to the  Consolidated Financial 
+We, Generali performance Risk Report Outlook Statement Management Report Statements 97  
+Risk Management System 
+all risks, on a current and forward-looking basis and is 
+implemented in a consistent manner across the Group.
+The principles defining the Group risk management sys-
+tem are provided in the Risk Management Group Policy3   Generali Group’s risk management process is defined in 
+which is the cornerstone of all risk-related policies and  the following phases:
+guidelines. The Risk Management Group Policy covers 
+1. Risk 2. Risk 3. Risk management  4. Risk
+identiﬁcation measurement and control reporting
+1. Risk identification  only the impact of each risk taken individually but also 
+their combined impact on the Group’s Own Funds.
+The purpose of the risk identification is to ensure that all 
+material risks to which the Group is exposed are proper- Group PIM methodology and governance are provided 
+ly identified. To this end, the Risk Management Function  in the section C. Solvency Position. Insurance and Re-
+interacts with the main Business Functions in order to  Insurance Entities not included in the PIM scope calcu-
+identify the main risks, assess their importance and en- late the capital requirement based on standard formula, 
+sure that adequate measures are taken to mitigate them  while Other Financial Services (e.g. banking or pension 
+according to a sound governance process. Within this  funds) calculate the capital requirement based on their 
+process also emerging risks4 related to new risks and de- own specific sectoral regimes. 
+veloping trends, characterized by uncertain evolution and 
+often of systemic nature, are considered. Other risks, for which no SCR is calculated, such as li-
+quidity, reputational, strategic, contagion, emerging and 
+additional Group specific risks (i.e. risks from intragroup 
+2. Risk measurement  transactions, risk concentrations), are evaluated on the 
+basis of quantitative and qualitative techniques, models 
+Identified risks are then measured through their contri- and additional stress testing or scenario analysis.
+bution to the Solvency Capital Requirement (SCR), com-
+plemented by other modelling techniques deemed ap-
+propriate and proportionate to better reflect the Group  3. Risk management and control 
+risk profile. Using the same metric for measuring the 
+risks and the capital requirements ensures that each  The risks which the Group is exposed to are managed on 
+risk is covered by an adequate amount of capital that  the basis of the Group Risk Appetite Framework (RAF), de-
+could absorb the loss incurred if the risk materializes.  fined by the AMSB. The Group RAF defines the level of risk 
+For SCR calculation purposes 1 in 200 years events are  the Group is willing to accept in conducting business and 
+considered. thus provides the overall framework for embedding risk 
+management into business processes. In particular, the 
+The SCR is calculated by means of the Group’s PIM5   RAF includes the statement of risk appetite, the risk prefer-
+for financial, credit, life and non-life underwriting risks.  ences, the risk metrics, the tolerance and the target levels.
+Operational risks are measured by means of standard 
+formula, complemented by qualitative risk assessments.  The purpose of the Group RAF is to set the desired level 
+The PIM provides an accurate representation of the main  of risk on the basis of the Group strategy. The Group RAF 
+risks to which the Group is exposed to, measuring not  statement is complemented by qualitative assertions (risk 
+3  The Risk Management Group Policy covers all Solvency II risk categories and, in order to adequately deal with each specific risk category and the underlying business processes, 
+is complemented by the following risk policies: Group Investment Governance Policy; P&C Underwriting and Reserving Group Policy; Life Underwriting and Reserving Group 
+Policy; Group Operational Risk Management Policy; Liquidity Risk Management Group Policy; other risk-related policies, such as Group Capital Management Policy, Supervisory 
+Reporting & Public Disclosure Group Policy, Group Risk Concentrations Management Policy etc.
+4  Major details on emerging risk definition are provided in section D. Risk Profile
+5  The PIM use for the SCR calculation at Group level has been approved for the insurance entities in Italy, Germany, France, Austria, Switzerland as well as for the biggest Czech 
+company, Česká pojišťovna a.s. For the other entities, the standard formula is applied. Other financially regulated entities apply local sectorial requirements.

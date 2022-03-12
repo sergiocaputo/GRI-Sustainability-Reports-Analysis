@@ -1,0 +1,45 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+Sezione 12 – Fondi per rischi e oneri – Voce 120
+(cid:20)(cid:21)(cid:17)(cid:20)(cid:3)(cid:41)(cid:82)(cid:81)(cid:71)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:85)(cid:76)(cid:86)(cid:70)(cid:75)(cid:76)(cid:3)(cid:72)(cid:3)(cid:82)(cid:81)(cid:72)(cid:85)(cid:76)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Totale  Totale 
+Voci/Valori 
+31/12/2017  31/12/2016 
+1. Fondi di quiescenza aziendali  1.819  1.933 
+2. Altri fondi per rischi e oneri  87.156  109.159 
+2.1 controversie legali  34.143  40.456 
+2.2 oneri per il personale  52.992  68.324 
+2.3 altri  21  379 
+Totale  88.975  111.092 
+(cid:3)
+(cid:20)(cid:21)(cid:17)(cid:21)(cid:3)(cid:41)(cid:82)(cid:81)(cid:71)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:85)(cid:76)(cid:86)(cid:70)(cid:75)(cid:76)(cid:3)(cid:72)(cid:3)(cid:82)(cid:81)(cid:72)(cid:85)(cid:76)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+Fondi di 
+Altri fondi  Totale 
+quiescenza 
+A. Esistenze iniziali  1.933  109.159  111.092 
+B. Aumenti  -  5.177  5.177 
+B.1 Accantonamento dell'esercizio  -  5.177  5.177 
+B.2 Variazioni dovute al passare del tempo  -  -  - 
+B.3 Variazioni dovute a modifiche del tasso di sconto  -  -  - 
+B.4 Altre variazioni  -  -  - 
+C. Diminuzioni  114  27.180  27.294 
+C.1 Utilizzo nell'esercizio  114  18.584  18.698 
+C.2 Variazioni dovute a modifiche del tasso di sconto  -  -  - 
+C.3 Altre variazioni  -  8.596  8.596 
+D. Rimanenze finali  1.819  87.156  88.975 
+(cid:20)(cid:21)(cid:17)(cid:22)(cid:3)(cid:41)(cid:82)(cid:81)(cid:71)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:84)(cid:88)(cid:76)(cid:72)(cid:86)(cid:70)(cid:72)(cid:81)(cid:93)(cid:68)(cid:3)(cid:68)(cid:93)(cid:76)(cid:72)(cid:81)(cid:71)(cid:68)(cid:79)(cid:76)(cid:3)(cid:68)(cid:3)(cid:69)(cid:72)(cid:81)(cid:72)(cid:192)(cid:70)(cid:76)(cid:3)(cid:71)(cid:72)(cid:192)(cid:81)(cid:76)(cid:87)(cid:76)
+1. Illustrazione delle caratteristiche dei fondi e dei connessi rischi 
+La voce 120 “Fondi per rischi e oneri - a) quiescenza ed obblighi simili”, per la parte a prestazione deﬁnita disciplinata 
+dallo IAS 19 “Beneﬁci ai dipendenti”, accoglie Fondo interno di previdenza complementare di pertinenza di ex Banca 
+Tercas.
+Fondo interno di previdenza complementare di pertinenza di ex Banca Tercas
+Il Fondo di Previdenza Interno a prestazione deﬁnita, a favore del personale in quiescenza, ha il compito di integrare 
+le prestazioni pensionistiche pubbliche. Il Fondo viene gestito secondo i dettami del Regolamento del 15 Dicembre 
+1989, sottoscritto da Banca Tercas con le OO. SS. di categoria. Esso viene gestito mediante un conto unico di riserva 
+matematica il cui ammontare viene determinato mediante valutazione effettuata da un attuario.
+Si precisa che nel mese di febbraio 2008 Banca Tercas ha stipulato un accordo con le OO.SS. per procedere ad una 
+liquidazione dello stesso. Dopo aver ricevuto il parere favorevole dell’organo di vigilanza, COVIP, nel mese di marzo 
+2008 sono state liquidate n. 76 posizioni individuali per un controvalore di euro 5.088 migliaia. Ad oggi residuano 
+nel fondo n. 24 iscritti. Le ipotesi attuariali utilizzate, relative al Fondo di Previdenza Interno a prestazione deﬁnita si 
+basano su speciﬁci parametri normativi, demograﬁci, economici e ﬁnanziari relativi alla speciﬁca collettività beneﬁ-
+ciaria del fondo. I parametri normativi sono composti dall’insieme delle norme e del regolamento interno. 
+174

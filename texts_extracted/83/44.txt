@@ -1,0 +1,33 @@
+GRI No. Notice Page Omissions
+102 52 Frequency of the report 43 -
+102 53 Useful contacts related to requests on the report 43 -
+102 54 Declaration of Conformity with GRI Standards 43 -
+102 55 GRI Content Index 43 - 47  -
+GRI No. Economic performance
+103 1 Perimeter of the material theme 26, 27 -
+103 2-3 Evaluation of the management approach 26, 27 -
+201 1 Direct economic value generated and distributed -
+GRI No. Anti-corruption
+103 1 Perimeter of the material theme 10, 38, 39 -
+103 2-3 Evaluation of the management approach 10, 38, 39 -
+205 2 Communication and training on policies and anti- 35, 38, 39 -
+corruption procedures
+GRI No. Energy
+103 1 Perimeter of the material theme 28, 29, 30 -
+103 2-3 Evaluation of the management approach 28, 29, 30 -
+302 1 Energy consumption in the organisation 29 -
+GRI No. Water
+103 1 Perimeter of the material theme 28, 29, 30 -
+103 2-3 Evaluation of the management approach 28, 29, 30 -
+303 1 Water consumption in the organisation 29 -
+GRI No. Emissions
+103 1 Perimeter of the material theme 28, 29, 30 -
+103 2-3 Evaluation of the management approach 28, 29, 30 -
+305 1 Energy consumption in the organisation 29 -
+GRI No. Environmental assessment of suppliers
+103 1 Perimeter of the material theme 31, 38, 39, 40 -
+103 2-3 Evaluation of the management approach 31, 38, 39, 40 -
+308 1 New suppliers selected using environmental criteria 31 -
+
+
+    45

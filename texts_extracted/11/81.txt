@@ -1,0 +1,54 @@
+I L’impegno verso l’ambiente
+T
+A
+G Disclosure 302-1 Consumo di energia all’interno dell’or-
+E ganizzazione
+L
+L
+A Consumi di energia
+2017 2016
+Unità di 
+Tipologia
+misura
+Totale Totale GJ Totale Totale GJ
+Riscaldamento 
+Gas	Naturale m3 217.292 8.257 190.770 7.249
+Energia Elettrica
+Energia	Elettrica	acquistata	 kWh 2.647.640 9.532 2.959.230 10.653
+Consumi di energia totali
+2017 2016
+Unità di 
+Consumi di energia
+misura
+Totale Totale
+Gas	Naturale GJ 8.257 7.249
+Energia	elettrica	acquistata GJ 9.532 10.653
+Totale GJ  17.789 17.902
+Disclosure 305-1 Emissioni dirette di Gas ad effetto serra
+Disclosure 305-2 Emissioni indirette di Gas ad effetto 
+serra
+Scope Unità di misura  2017 2016
+Scope	1 Tonnellate	CO	eq. 456 400
+2
+Scope	2 Tonnellate	CO	eq. 931 1.040
+2
+Totale Tonnellate CO eq. 1.387 1.440
+2
+Emissioni Scope 2 (2017)
+Metodo Location based Metodo Market based
+Tonnellate	CO	eq. 	Tonnellate	CO	eq
+2 2
+931 1.247
+Fattori di emissione elettricità “Location based”
+Paese kg CO/kWh Fonte
+2
+Italia 0,3516 Defra17
+Fattori di emissione elettricità “Market based”
+Paese kg CO/kWh Fonte
+2
+Italia 0,471 AIB	-	2016	European	Residual	Mix
+Fattori di emissione gas naturale
+Paese kg CO/kWh Fonte
+2
+Italia 2,0967 Defra17
+DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 201782

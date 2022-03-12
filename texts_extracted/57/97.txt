@@ -1,0 +1,60 @@
+Bilancio Individuale 2017
+RENDICONTO FINANZIARIO - metodo indiretto (importi in euro)
+Importo 
+31/12/2017  31/12/2016 
+ 
+A. ATTIVITA' OPERATIVA 
+1. Gestione  59.658.993  62.608.628 
+- risultato d'esercizio (+/-)  7.669  4.575.819 
+- plus/minusvalenze su attività finanziarie detenute per la negoziazione e su 
+(906.140)  1.384.868 
+attività/passività valutate al fair value (+/-) 
+- plus/minusvalenze su attività di copertura (-/+)  (52.561)  15.878 
+- rettifiche/riprese di valore nette per deterioramento (+/-)  84.367.231  89.759.649 
+- rettifiche/riprese di valore nette su immobilizzazioni materiali e immateriali (+/-)  32.038.645  13.012.732 
+- accantonamenti netti ai fondi rischi ed oneri ed altri costi/ricavi (+/-)  (3.528.472)  (7.113.725) 
+- imposte, tasse e crediti d'imposta non liquidati (+/-)  (11.861.905)  (38.090.837) 
+- altri aggiustamenti (+/-)  (40.405.474)  (935.756) 
+2. Liquidità generata/assorbita dalle attività finanziarie  (977.247.032)  1.158.704.094 
+- attività finanziarie detenute per la negoziazione  6.199.589  (2.720.375) 
+- attività finanziarie valutate al fair value  -  - 
+- attività finanziarie disponibili per la vendita  1.202.624.035  658.678.488 
+- crediti verso banche: a vista  (1.925.754.309)  47.477.882 
+- crediti verso banche: altri crediti  73.534.224  142.730.751 
+- crediti verso clientela  (382.619.157)  (68.699.077) 
+- altre attività  48.768.586  381.236.425 
+3. Liquidità generata/assorbita dalle passività finanziarie  899.112.206  (1.191.070.006) 
+- debiti verso banche: a vista  1.096.736.732  172.023.157 
+- debiti verso banche: altri debiti  144.247.667  24.798.280 
+- debiti verso clientela  (199.148.994)  (538.494.162) 
+- titoli in circolazione  (97.801.338)  (407.430.701) 
+- passività finanziarie di negoziazione  (537.434)  (243.420) 
+- passività finanziarie valutate al fair value  (1.066.963)  (25.472.404) 
+- altre passività  (43.317.464)  (416.250.756) 
+Liquidità netta generata/assorbita dall'attività operativa  (18.475.833)  30.242.716 
+B. ATTIVITA' DI INVESTIMENTO 
+1. Liquidità generata da  1.686.579.467  200.715 
+- vendite di partecipazioni  17.660.000  - 
+- vendite di attività finanziarie detenute sino alla scadenza  1.668.667.135  - 
+- vendite di attività materiali  252.332  200.715 
+2. Liquidità assorbita da  (1.670.527.335)  (6.840.601) 
+- acquisti di partecipazioni  (30.000)  - 
+- acquisti di attività finanziarie detenute sino alla scadenza  (1.665.506.835)  - 
+- acquisti di attività materiali  (3.781.482)  (4.685.603) 
+- acquisti di attività immateriali  (1.209.018)  (2.154.998) 
+Liquidità netta generata/assorbita dall'attività d'investimento  16.052.132  (6.639.886) 
+C. ATTIVITA' DI PROVVISTA 
+- emissioni/acquisti di azioni proprie  -  25.015.082 
+Liquidità netta generata/assorbita dall'attività di provvista  -  25.015.082 
+LIQUIDITA' NETTA GENERATA / ASSORBITA NELL'ESERCIZIO  (2.423.701)  48.617.912 
+LLEEGGEENNDDAA:
+(+) generata
+(-) assorbita
+RICONCILIAZIONE (importi in euro)
+Importo 
+(cid:57)(cid:82)(cid:70)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:69)(cid:76)(cid:79)(cid:68)(cid:81)(cid:70)(cid:76)(cid:82)(cid:3) 31/12/2017  31/12/2016 
+Cassa e disponibilità liquide all'inizio dell'esercizio  103.618.502  55.000.590 
+Liquidità totale netta generata/assorbita nell'esercizio  (2.423.701)  48.617.912 
+Cassa e disponibilità liquide alla chiusura dell'esercizio  101.194.801  103.618.502 
+(cid:3)
+97

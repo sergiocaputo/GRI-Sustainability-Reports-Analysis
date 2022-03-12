@@ -1,0 +1,48 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+L’attività di monitoraggio del rischio di controparte si riferisce ai contratti derivati di copertura e alle operazioni di Pronti contro 
+termine.
+Il monitoraggio del rischio di concentrazione, nell’ambito del Patrimonio BancoPosta, ha l’obiettivo di limitare i rischi di insta-
+bilità derivanti dall’inadempimento di un cliente singolo o di un gruppo di clienti connessi con esposizioni, in termini di rischio 
+credito e controparte, rilevanti rispetto al Patrimonio.
+2.2 Sistemi di gestione, misurazione e controllo
+Il rischio di credito è complessivamente presidiato attraverso:
+limiti di rating per emittente/controparte, suddivisi in base alla tipologia di strumento;  
+soglie di monitoraggio della concentrazione per emittente/controparte; 
+monitoraggio delle variazioni di rating delle controparti.
+I limiti di cui ai punti che precedono sono stati stabiliti nell’ambito delle “Linee guida della gestione finanziaria di Poste Italiane 
+S.p.A.”128 per il Patrimonio BancoPosta; in particolare, con riferimento ai limiti di rating, è consentito operare esclusivamente 
+con controparti investment grade; mentre, con riferimento alle soglie di monitoraggio del rischio di concentrazione, sono appli-
+cati quelli previsti dalla normativa prudenziale129. 
+Ai fini della misurazione del rischio di credito e di controparte si è scelto di utilizzare la metodologia standard130 definita dal 
+Regolamento (UE) n. 575/2013. Per il calcolo delle classi di merito creditizio delle controparti, nell’applicazione di tale metodo-
+logia, sono state scelte le agenzie di rating Standard & Poor’s, Moody’s e Fitch. 
+Nello specifico, in materia di vigilanza prudenziale, per ciascuna delle categorie di transazioni da cui deriva il rischio di contro-
+parte vengono adottate le seguenti metodologie di stima dell’esposizione a rischio:
+per i derivati finanziari del tipo asset swap e per le operazioni di acquisto/vendita a termine di titoli governativi si applica la 
+metodologia del “Valore di Mercato”131;
+per le operazioni di Pronti contro termine si applicano le tecniche di Credit Risk Mitigation (CRM) – “Metodo integrale”132. 
+Ai fini della misurazione dell’esposizione al rischio di concentrazione, si è scelto di utilizzare il metodo descritto dal Regolamento 
+(UE) n. 575/2013 in materia di Grandi esposizioni.
+2.3 Tecniche di mitigazione del rischio di credito
+Al fine di ridurre le esposizioni al rischio di controparte, anche ai fini della vigilanza prudenziale, il Patrimonio BancoPosta stipula 
+contratti standard ISDA e contratti di mitigazione del rischio per l‘operatività in Pronti contro termine (GMRA) e in derivati OTC - 
+Over the Counter (CSA). Più specificatamente tali contratti prevedono una fase di netting che consente di compensare le posi-
+zioni creditorie con quelle debitorie e una fase di costituzione di collateral a garanzia sotto forma di contanti e/o Titoli di Stato.
+Inoltre, al fine di mitigare il rischio di controparte e avere un più facile accesso al mercato, a partire da dicembre 2017, il 
+Patrimonio BancoPosta stipula contratti Repo attraverso la Controparte Centrale “Cassa Compensazione e Garanzia”.
+128.  In data 13 dicembre 2017 il Consiglio di Amministrazione di Poste Italiane S.p.A. ha approvato l’aggiornamento delle Linee guida della gestione finanziaria di 
+Poste Italiane S.p.A., a seguito dell’entrata in vigore del nuovo principio contabile IFRS 9 – “Financial Instruments” dal 1° gennaio 2018.
+129.  Secondo la normativa prudenziale, con riferimento alla normativa sulle Grandi Esposizioni, le esposizioni ponderate per il rischio devono rimanere al di sotto 
+del 25% del valore dei fondi propri. Le esposizioni sono di norma assunte al valore nominale e tenendo in considerazione le eventuali tecniche di attenuazione 
+del rischio di credito. Al fine di tenere conto della minore rischiosità connessa con la natura della controparte debitrice si applicano i fattori di ponderazione 
+migliorativi.
+130.  Tale metodologia prevede la ponderazione delle esposizioni a rischio con fattori che tengono conto della tipologia delle esposizioni e della natura delle 
+controparti, in considerazione anche della rischiosità espressa dalle classi di rating esterni.
+131.  Secondo la metodologia del “Valore di Mercato” l’esposizione a rischio dei derivati è calcolata attraverso la somma di due componenti: il costo corrente di 
+sostituzione, rappresentato dal fair value, se positivo, e l’add-on calcolato come il prodotto tra il valore del nozionale e la probabilità che il fair value se positivo 
+aumenti di valore o se negativo diventi positivo. 
+132.  Secondo il metodo integrale della CRM, l’ammontare dell’esposizione al rischio viene ridotto del valore della garanzia; specifiche regole sono previste per 
+tenere conto della volatilità dei prezzi di mercato relativi sia all’attività garantita che al collateral ricevuto.
+490

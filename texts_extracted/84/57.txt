@@ -1,0 +1,56 @@
+Lamberti
+Sustainability Report 2019
+GRI 403: Occupational Health and Safety (2018)
+72;
+Sources for emission factors:
+403-1 Occupational health and safety management system 88-89
+- DEFRA, UK Government GHG 
+Conversion Factors for Company 
+403-2 Hazard identification, risk assessment, and incident investigation 90-91
+Reporting (2019 and 2018), for 
+district heating. 403-3 Occupational health services 92
+- Terna, Confronti internazionali 
+305-2 Energy indirect (Scope 2) GHG emissions  (2017), for electricity consumption  403-4 Work participation, consultation, and communication on  90
+occupational health and safety
+- Location Based method.
+- Association of Issuing Bodies  403-5 Worker training on occupational health and safety 86-87
+(AIB), 2017 and 2018 European 
+Residual Mixes (2018-2019), for  403-6 Promotion of worker health 86-87
+electricity consumption - Market  Prevention and mitigation of occupational health and safety 
+403-7 89
+Based method. impacts directly linked by business relationships
+Workers covered by an occupational health and safety 
+71; Refer to the sources of emis-
+403-8 management system 88-89
+305-4 GHG emission intensity sion factors indicated for GRI 
+305-1 and 305-2 403-9 Work-related injuries 91
+72; R401a and R407c are both 
+305-6 Emissions of ozone-depleting substances (ODS) HFCs, therefore their ozone  Enhancement, skills development and talent attraction
+depleting potential is equal to 0 
+CFC-11e GRI 103: Management Approach (2016)
+305-7 Nitrogen oxides (NOX), sulfur oxides (SOX), and other 
+significant air emissions 73 103-1 Explanation of the material topic and its boundaries 30-31, 107
+103-2
+The management approach and its components 96 - 97
+Environmental Compliance
+103-3
+Evaluation of the management approach 96 - 97
+GRI 103: Management Approach (2016)
+GRI 404: Training and Education (2016)
+103-1 Explanation of the material topic and its boundaries 30-31, 107
+103-2 The management approach and its components 64 404-1 Average hours of training per year per employee 96 - 97
+103-3 Evaluation of the management approach 64 Relation with local communities
+GRI 103: Management Approach (2016)
+GRI 307: Environmental Compliance (2016)
+307-1 Non compliance with environmental laws and evaluation 37 103-1 Explanation of the material topic and its boundaries 30-31, 107
+Employee welfare and health and safety 103-2 The management approach and its components 100 - 103
+103-3 Evaluation of the management approach 100 - 103
+GRI 103: Management Approach (2016)
+103-1 Explanation of the material topic and its boundaries 30-31, 107
+103-2 The management approach and its components 82 - 85
+103-3 Evaluation of the management approach 82 - 85
+GRI 401: Employment (2016)
+Benefits provided to full-time employees that are not 
+401-2 provided to temporary or part-time employees 94
+401-3 Parental leave 94 - 95
+112 113

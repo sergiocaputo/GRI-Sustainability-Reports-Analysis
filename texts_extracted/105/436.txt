@@ -1,0 +1,44 @@
+Indice generale Indice di sezione Sezione 12
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte A
+Nel caso in cui la copertura è relativa a una programmata operazione altamente probabile (per es. acquisto a termine di titoli 
+di debito a reddito fisso), la riserva è attribuita alle componenti positive o negative di reddito nell’esercizio o negli esercizi in cui 
+le attività o le passività, successivamente iscritte e connesse alla citata operazione, influenzano il Conto economico (nell’es. a 
+correzione del rendimento del titolo).
+Quando la copertura non è perfettamente efficace, la variazione di fair value dello strumento di copertura, riferibile alla porzione 
+inefficace dello stesso, è immediatamente rilevata nella “Voce 90 – Risultato netto dell’attività di copertura” dell’esercizio con-
+siderato. Se, durante la vita di uno strumento derivato, il manifestarsi dei flussi di cassa previsti e oggetto della copertura non 
+è più ritenuto altamente probabile, la quota della Riserva da cash flow hedge relativa a tale strumento viene immediatamente 
+attribuita nella “Voce 80 – Risultato netto dell’attività di negoziazione” dell’esercizio considerato. Viceversa, se lo strumento 
+derivato è ceduto o non è più qualificabile come strumento di copertura “efficace”, la Riserva da cash flow hedge  sino a quel 
+momento rilevata viene mantenuta quale componente del Patrimonio netto ed è imputata a Conto economico seguendo il cri-
+terio di imputazione sopra descritto, contestualmente al manifestarsi dell’operazione originariamente oggetto della copertura.
+11 – Fiscalità corrente e differita
+Le imposte correnti IRES e IRAP sono calcolate sulla base della migliore stima del reddito imponibile dell’esercizio e della nor-
+mativa di riferimento, applicando le aliquote fiscali vigenti. Le imposte differite attive e passive sono calcolate a fronte di tutte 
+le differenze temporanee che emergono tra il valore fiscale di un’attività o passività e il relativo valore contabile, sulla base delle 
+aliquote fiscali che si prevede saranno applicabili negli esercizi nei quali le differenze temporanee saranno realizzate o estinte. 
+Le imposte differite attive sono iscritte nella misura in cui è probabile che sia disponibile un reddito imponibile futuro a fronte 
+del quale possano essere recuperate. 
+Le imposte correnti e differite sono imputate al Conto economico, a eccezione di quelle relative a voci direttamente addebitate 
+o accreditate al Patrimonio netto; in tal caso l’effetto fiscale è imputato direttamente alla specifica voce del Patrimonio netto.
+Il Patrimonio BancoPosta non è dotato di personalità giuridica e non è autonomo soggetto passivo di imposizione diretta o indi-
+retta. Le imposte sul reddito complessivo di Poste Italiane S.p.A. sono dunque attribuite al Patrimonio BancoPosta per la quota 
+di competenza sulla base delle risultanze del presente Rendiconto separato, tenendo conto degli effetti legati alla fiscalità differita. 
+In particolare sia ai fini IRES che ai fini IRAP il calcolo è effettuato considerando le variazioni permanenti e temporanee specifiche 
+dell’operatività BancoPosta; quelle non riferibili direttamente a essa sono imputate totalmente al Patrimonio non destinato.
+Le attività e le passività fiscali per imposte correnti fanno parte dei rapporti intergestori e sono esposte nel Rendiconto separato 
+tra le Altre attività e le Altre passività in quanto sono regolate con il Patrimonio non destinato nell’ambito dei rapporti interni con 
+Poste Italiane S.p.A., che rimane l’unico soggetto passivo d’imposta.
+12 – Fondi per rischi e oneri 
+I Fondi per rischi e oneri sono iscritti a fronte di perdite e oneri di natura determinata, di esistenza certa o probabile, dei quali, 
+tuttavia, non sono determinabili l’ammontare o la data in cui essi si manifesteranno. L’iscrizione viene eseguita solo quando 
+esiste un’obbligazione corrente (legale o implicita) per una futura fuoriuscita di risorse atte a produrre benefici economici, come 
+risultato di eventi passati, ed è probabile che tale fuoriuscita sia richiesta per l’adempimento dell’obbligazione. Tale ammontare 
+rappresenta la migliore stima attualizzata dell’impiego di risorse richiesto per estinguere l’obbligazione. Il valore della passività è 
+attualizzato al tasso che riflette i valori correnti di mercato e tiene conto del rischio specifico associabile a ciascuna passività. In 
+base alla facoltà prevista dai principi contabili di riferimento, è fornita un’informativa limitata quando, in casi estremamente rari, 
+l’indicazione di alcune informazioni di dettaglio relative alle passività considerate potrebbe pregiudicare seriamente la posizio-
+ne, la reputazione e le credenziali di capacità operativa del Patrimonio BancoPosta in una controversia o in una negoziazione 
+in corso con terzi, ovvero pregiudicare il regolare andamento dei mercati.
+435

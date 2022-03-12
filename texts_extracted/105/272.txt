@@ -1,0 +1,59 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+5. Poste Italiane S.p.A. Bilancio al 31 dicembre 2017 
+Rendiconto finanziario
+(migliaia di euro) Note Esercizio 2017 Esercizio 2016
+Disponibilità liquide e mezzi equivalenti all’inizio 
+2.715.199  1.519.733 
+dell’esercizio
+Risultato prima delle imposte 672.891 778.987
+Ammortamenti e svalutazioni [tab. C7] 480.483 504.355
+Svalutazioni (rivalutazioni) di partecipazioni [tab. A4.1] 21.821 33.284
+Accantonamenti netti ai fondi rischi e oneri [tab. B4] 736.659 541.169
+Utilizzo fondi rischi e oneri [tab. B4] (607.140) (435.652)
+Trattamento di fine rapporto pagato [tab. B5] (94.256) (78.138)
+(Plusvalenze)/minusvalenze per disinvestimenti [tab. C3.2] (15.476) 840
+(Dividendi) (7.748) (7.738)
+Dividendi incassati 7.748 7.738
+(Proventi finanziari da realizzo) [tab. C9.1] (3.816) -
+(Proventi finanziari per interessi) [tab. C9.1] (20.338) (34.523)
+Interessi incassati 26.072 31.679
+Interessi passivi e altri oneri finanziari [tab. C9.2] 55.235 62.817
+Perdite contingent convertible notes [tab. C9.2] 82.132 -
+Interessi pagati (33.708) (36.096)
+Perdite e svalutazioni/(recuperi) su crediti [tab. C8] 29.487 9.772
+Imposte sul reddito pagate [tab. C10.3] (400.524) (189.546)
+Flusso di cassa generato dall’attività di esercizio prima 
+[a] 929.522  1.188.948 
+delle variazioni del capitale circolante
+Variazioni del capitale circolante:
+(Incremento)/Decremento Crediti commerciali 68.571  52.179 
+(Incremento)/Decremento Altri crediti e attività 252.794  54.006 
+Incremento/(Decremento) Debiti commerciali (208.179) 111.079 
+Incremento/(Decremento) Altre passività 34.427  68.927
+Flusso di cassa generato /(assorbito) dalla variazione del 
+[b] 147.613  286.191 
+capitale circolante
+Incremento/(Decremento) Passività finanziarie BancoPosta 3.324.390 5.195.749
+Liquidità netta generata / (assorbita) dalle attività finanziarie 
+- (89)
+detenute per negoziazione
+Liquidità netta generata / (assorbita) dagli impieghi finanziari 
+(2.497.177) (5.140.342)
+AFS
+Liquidità netta generata / (assorbita) dagli impieghi finanziari 
+(107.948) 370.245
+HTM
+(Incremento)/Decremento delle altre attività finanziarie 
+314.441  896.512
+BancoPosta
+(Incremento)/Decremento della Cassa e depositi BancoPosta (701.940) 666.503
+(Proventi)/Oneri e altre componenti non monetarie 
+(1.404.203) (1.041.371)
+dell’operatività finanziaria
+Liquidità generata / (assorbita) da Attività e Passività 
+[c] (1.072.437) 947.207 
+finanziarie BancoPosta
+Flusso di cassa netto da/(per) attività operativa [d]=[a+b+c] 4.698  2.422.346 
+- di cui parti correlate 723.071  3.598.562 
+271

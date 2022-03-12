@@ -1,0 +1,24 @@
+Di seguito, viene presentata la correlazione tra gli ambiti previsti dal Decreto 254, gli aspetti materiali di BCP e gli indicatori GRI 
+utilizzati per la loro rendicontazione:
+TEMATICHE MATERIALI  ASPETTI GRI 
+AMBITO D. LGS 254/16
+PER BCP RENDICONTATI
+Governance e Integrità • Anti-corruzione e Governance • Anti-corruption (GRI 205)
+• Sostenibilità Economica • Economic performance (GRI 201)
+• Tutela dell’occupazione • Employment (GRI 401)
+Risorse Umane e Diritti  • Salute e sicurezza dei dipendenti • Occupational health and safety (GRI 403)
+Umani • Pari opportunità e non discriminazione • Diversity and Equal Opportunity (GRI 405)
+• Formazione e sviluppo del personale • Training and education (GRI 404)
+• Qualità e Valore del Servizio
+• Innovazione* • Approach to stakeholder engagement    
+Sociale    customer satisfaction (GRI  102-43)
+• Sostegno alla Comunità*
+• Educazione Finanziaria*
+• Impatti ambientali diretti  • Materials (GRI 301)
+Tematiche ambientali    (consumi di energia, materiali)
+• Energy (GRI 302) 
+• Emissions (GRI 305)
+* L’analisi di materialità ha fatto emergere alcune tematiche materiali non strettamente legate agli ambiti non finanziari previsti dal Decreto e non direttamente 
+collegate ad un Topic-Specific GRI Standards: BCP riporta nel documento l’approccio di gestione adottato e i relativi indicatori.
+12
+Banca_format_2.indd   12 24/04/18   15:26

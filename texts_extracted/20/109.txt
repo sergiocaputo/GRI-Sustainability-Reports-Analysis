@@ -1,0 +1,47 @@
+GLOSSARY
+ 
+ 
+Cement equivalent (TCE - Total Cement Equivalent): an indicator related to the plant’s production of clinker, 
+calculated based on the produced clinker and on the average clinker/cement ratio for the year. 
+CO2: Carbon dioxide is an oxide acid (anhydride) formed by a carbon atom bonded to two oxygen atoms. It is 
+an essential substance in the vital processes of plants and animals, but itis also responsible for the rise in 
+global warming. 
+g/tTCE: grams per ton of cement equivalent. 
+Joule: unit of measure of energy (one joule is the work required to exert a force of one newton for a distance 
+of one meter). A gigajoule (Gj) is equal to 1*109 joules, while a terajoule (TJ) is equal to 1*1012 joules. 
+Frequency rate: the index used to calculate the scale of accidents. It is the number of accidents that have 
+occurred in a year divided by the hours worked in the same year. The rate is multiplied by 200,000, a factor 
+enabling presentation of the number of work accidents every 100 full time workers, working over one year 
+(with the assumption that a full-time worker works about 2,000 hours per year).  
+Severity rate: the rate used to calculate the extent of injury (i.e. the severity of the consequences of accidents 
+at work). This is the number of days of work lost due to accidents divided by the number of hours worked in 
+the same year. The rate is multiplied by 200,000, a factor enabling presentation of the severity of the number 
+of work accidents every 100 full time workers, working over one year (with the assumption that a full-time 
+worker works about 2,000 hours).  
+Accident32: an accidental event that occurs during work and that has caused a temporary and/or permanent 
+physical or psychological injury or the death of the worker. 
+RDF (Refuse-Derived Fuel): translation of the English acronym RDF (Refuse Derived Fuel) a solid dry shredded 
+fuel obtained by processing solid urban waste, generally collected in cylindrical blocks known as eco-bales. 
+SRF (Solid Recovered Fuel): translation of the English acronym SRF (Solid Recovered Fuel) a solid dry 
+shredded fuel obtained by processing solid urban waste compliant with European standard ER15359. 
+ISO 14001: a voluntary international standard, establishing the requirements that an efficient environmental 
+management system must fulfil. ISO 14001 is a certifiable standard, meaning that certification of compliance 
+with its requirements may be obtained from an accredited certification agency operating within given rules. 
+ISO 14001 certification is not mandatory but is the result of a voluntary choice by a company/organization that 
+decides to establish/implement/maintain/improve its environmental management system. Adopting the ISO 
+14001 standard it allows an organization to identify and monitor the impact of its activities on the environment 
+and improve its environmental performance by implementing a systematic approach that involves the definition 
+and the achievement of specific environmental goals. 
+OHSAS 18001: the international standard that sets the requirements for developing a system for managing and 
+protecting the health and safety of workers (OHSAS stands for Occupational Health and Safety Assessment 
+Series). OHSAS certification verifies the voluntary application within an organization of a system that guarantees 
+sufficient control of occupational health and safety, as well as compliance with mandatory regulations.  
+ISO 45001: is an ISO standard for management systems of occupational health and safety (OH&S), published 
+in March 2018. It includes elements that are additional to BS OHSAS 18001 which it is replacing over a three-
+year migration period from 2018 to 2021. 
+ISO 50001: a voluntary international standard that specifies the requirements for creating, implementing, 
+maintaining and improving an energy management system. The aim of this system is to make it possible for 
+an organization to use a systematic approach to continuously improve its energy performance, including energy 
+efficiency as well as energy consumption and use. 
+32 Accidents during travels are excluded. 
+108

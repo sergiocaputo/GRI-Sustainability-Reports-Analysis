@@ -1,0 +1,40 @@
+131
+404-3 Valutazione della performance
+  PERSONALE DEL GRUPPO FNM COINVOLTO NEL PROCESSO DI VALUTAZIONE
+2017 2016 variazione
+N. DIPENDENTI
+Uomini Donne Totale Uomini Donne Totale Uomini Donne Totale
+DIRIGENTI 25 4 29 21 3 24 19% 33% 21%
+QUADRI 68 28 96 60 24 84 13% 17% 14%
+PERSONALE AREE PROFESSIONALI 2 E 3 169 134 303 169 129 298 0% 4% 2%
+TOTALE 262 166 428 250 156 406 5% 6% 5%
+LA RESPONSABILITÀ VERSO L’AMBIENTE
+302-1 Consumi energetici interni all’organizzazione
+CONSUMI ENERGETICI - GJ 1 
+FONTE DI CONSUMO (GJ) 2017 2016 variazione
+ENERGIA ELETTRICA
+GRUPPO FNM 85.575 67.662 26,5%
+di cui da fonte rinnovabile 365 389 -6,1%
+TRENORD 2.044.961 2.187.178 -6,5%
+PER TRAZIONE 1.984.391 2.124.739 -6,6%
+di cui da fonte rinnovabile 127.753
+PER IMPIANTI E UFFICI 60.570 62.440 -3%
+TELERISCALDAMENTO
+GRUPPO FNM 565 513 10,1%
+GASOLIO
+GRUPPO FNM 105.902 113.694 -6,9%
+TRENORD 331.440 330.285 0,3%
+PER TRAZIONE 327.261 326.156 0,3%
+PER IMPIANTI E UFFICI 4.179 4.129 1,2%
+GAS METANO
+GRUPPO FNM 16.663 15.485 +7,6%
+TRENORD 122.054 134.106 -9,0%
+TOTALE CONSUMI
+GRUPPO FNM 208.704 197.354 5,8%
+TRENORD 2.498.455 2.651.570 -5,8%
+Fattori di conversione: ton/mc = 0,000745102480225296
+KWh = 0,0036 GJ GJ/ton = 55,0076489460989
+litro (gasolio) = 0,00085 ton ton/l = 0,0008389036
+ton = 45,47573004 GJ
+1  Per la conversione dei consumi energetici  2016 e 2017 in GJ sono stati utilizzati i fattori di conversione definiti da parametri standard inglesi 
+del Department for Business, Energy & Industrial Strategy.

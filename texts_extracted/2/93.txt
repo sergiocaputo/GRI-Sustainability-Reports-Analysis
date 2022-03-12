@@ -1,0 +1,66 @@
+LA QUALITÀ NELL'AREA ENERGIA nergia elettrica si rinvia al paragrafo dedicato alla Customer Care.
+In questa sede vengono illustrati gli aspetti di qualità relativi ai  La Società opera in conformità ai Sistemi di Gestione QASE 
+servizi di distribuzione di energia elettrica, nei comuni di Roma e  (Qualità, Ambiente, Sicurezza ed Energia) sia per la realizza-
+Formello, e di illuminazione pubblica, nel comune di Roma, en- zione e la gestione delle infrastrutture di distribuzione sia per 
+trambi gestiti da Areti35, mentre per le attività di vendita dell’e- l’illuminazione pubblica.
+LA DISTRIBUZIONE DI ENERGIA ELETTRICA
+Security assessment PRESENTATO E AVVIATO NEL 2019   NEL 2019:
+ 
+Piano della Resilienza di Areti 6.994 nodiMT
+IL       
+SULLE INFRASTRUTTURE 
+telecontrollati 
+ENERGETICHE: 
+fattore critico “ondate di calore”
+piano   :  
+DEFINITO IL 
+86 km
+di interventi per      AMMODERNATI    
+la Cyber Security DI RETE MT E RICOSTRUITE  
+33cabine
+   SECONDARIE 
+fattore critico “allagamento”
+:
+     73 cabine
+RICOSTRUITE   SECONDARIE
+Areti pianifica ed esegue interventi di ammodernamento e amplia- ne ecc., i principali dei quali sono illustrati in tabella n. 17. Tali inter-
+mento della rete di distribuzione dell’energia elettrica, costituita da  venti sono funzionali a razionalizzare e potenziare le reti, ampliando 
+linee elettriche in alta, media e bassa tensione, cabine primarie e  la capacità di trasporto e i margini per ulteriori usi, ad incrementare 
+secondarie, sistemi per il telecontrollo e la misura dell’energia pre- la resilienza delle infrastrutture e a ridurre perdite di rete e cadute di 
+levata e immessa in rete.  tensione, migliorando la continuità del servizio. Nel 2019, nell’ambi-
+Gli interventi tengono conto degli obiettivi stabiliti dall’Autorità  to dell’attuazione del Piano della Resilienza presentato ad ARERA 
+nazionale (ARERA), della progressiva evoluzione delle applicazio- in giugno, si segnala che sono stati ammodernati 86 km di cavo in 
+ni dell’energia elettrica, dell’aumento dei “prosumer”, delle nuove  media tensione a 20 kV ed eseguite 33 ricostruzioni di cabine se-
+connessioni e di altri fattori che indicano la necessità di infrastrut- condarie, per l’incremento della resilienza al fattore critico “ondate 
+ture sempre più resilienti, con una configurazione di rete adeguata  di calore”, e 73 ricostruzioni di cabine secondarie per l’incremento 
+e abilitante per gli scenari futuri.  della resilienza al fattore critico “allagamento”.
+I Piani Regolatori delle reti AT, MT e BT sono lo strumento operati- Per le reti BT, sono stati messi in opera 282 km nell’ambito del pro-
+vo per lo sviluppo integrato delle reti elettriche ed Areti, ogni anno,  gramma di ammodernamento complessivo della rete, propedeutico 
+li attua con interventi di costruzione (ed anche dismissione o de- al successivo cambio tensione da 230 V a 400 V. Inoltre, il tele-
+molizione, e conseguente contenimento degli impatti ambientali, in  controllo è stato esteso ad ulteriori 193 cabine secondarie e 77 re-
+specifiche aree), trasformazione, ammodernamento, manutenzio- closer, per un totale di 6.994 nodi MT telecontrollati al 31.12.2019. 
+TABELLA N. 17 – I PRINCIPALI INTERVENTI PER LA GESTIONE E LO SVILUPPO DI RETI E CABINE ELETTRICHE (2019) 
+TIPO DI INTERVENTO  LINEE AT E CABINE PRIMARIE (CP)
+è proseguita la demolizione della linea aerea 150 kV Flaminia 2 – Smistamento Est 2  
+demolizione rete e sostegni
+(lunga 22,58 km e composta da 74 sostegni). 
+è proseguita la realizzazione del nuovo tratto della linea aerea 150 kV Roma Nord – San Basilio 
+costruzione rete e sostegni
+(lunga 4,08 km e composta da 21 sostegni).
+interventi su 29 cabine primarie;
+adeguamento, ampliamento,  
+è proseguita l’installazione del sistema Petersen, con effetti sulla riduzione delle perdite di rete, 
+ricostruzione CP
+presso la cabina primaria Nomentano e Villa Borghese.
+interventi su 107 interruttori AT e 942 interruttori MT manutenuti; 
+manutenzione ordinaria e straordinaria 
+revisionati 17 variatori sotto carico di trasformatori di potenza; 
+su apparecchiature CP
+sostituiti 60 trasformatori AT (54 di tensione e 6 di corrente).
+protezione e misure AT e MT
+predisposti, tarati e messi in esercizio 53 nuovi stalli linea MT;  
+sistemi di protezione elettrica
+verificati 293 montanti (57 montanti AT e 236 montanti MT) e 37 trasformatori (tra AT/MT e MT/MT).
+35   Areti è titolare della concessione ministeriale per la distribuzione di energia elettrica nei territori indicati e gestisce l’illuminazione pubblica in virtù del Contratto di 
+servizio stipulato tra Acea SpA e Roma Capitale.
+98 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

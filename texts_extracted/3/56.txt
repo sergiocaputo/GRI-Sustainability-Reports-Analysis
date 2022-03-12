@@ -1,0 +1,62 @@
+ 
+Impianto  Fonte  Processo di  2017  2016 
+trattamento 
+Volume acqua  Volume  Volume acqua  Volume 
+(v. tabella) 
+grezza  Immesso in  grezza  Immesso in 
+prelevata  rete  prelevata  rete 
+Badia Polesine  Acqua superficiale  Tipo 1  5.016.152  5.016.152  4.901.487  4.901.487 
+fiume Adige 
+Boara Polesine  Acqua superficiale  Tipo 1  7.112.728  7.112.728  6.450.772  6.450.772 
+fiume Adige 
+Canalnovo  Acqua superficiale  Tipo 1  1.077.027  1.077.027  897.330  897.330 
+fiume Po 
+Castelnovo Bariano  Acqua sotterranea da  Tipo 2  1.525.721  1.498.721  1.540.805  1.513.805 
+falda del fiume Po 
+Corbola  Acqua superficiale  Tipo 1  4.405.089  4.405.089  4.302.305  4.302.305 
+fiume Po 
+Cavarzere  Acqua superficiale  Tipo 1  2.934.967  2.934.967  3.043.740  3.043.740 
+fiume Adige 
+Occhiobello  Acqua sotterranea da  Tipo 2  1.987.000  1.904.000  1.982.000  1.899.000 
+falda del fiume Po 
+Polesella  Acqua sotterranea da  Tipo 2  502.523  489.823  452.388  439.688 
+falda del fiume Po 
+Ponte Molo  Acqua superficiale  Tipo 1  3.230.694  3.230.694  3.261.814  3.261.814 
+fiume Po 
+Anguillara Veneta  Acqua superficiale  Tipo 1  4.715.555  4.715.055  5.246.150  5.245.760 
+fiume Adige 
+Piacenza d'Adige  Acqua superficiale  Tipo 1  1.947.355  1.947.105  1.611.267  1.611.049 
+fiume Adige 
+Vescovana  Acqua superficiale  Tipo 1  5.195.160  5.194.730  5.052.970  5.052.541 
+fiume Adige 
+Pozzo di Sarego S.Antonio  Acqua sotterranea  Tipo 4  461.363  461.363  397.846  397.846 
+Pozzo di Sarego Monticello 11  Acqua sotterranea  Tipo 5  -  -  37.990  37.990 
+Pozzo di Sarego Monticello 21  Acqua sotterranea  Tipo 5  -  -  65.742  65.742 
+Pozzo di Girardi Alonte  Acqua sotterranea  Tipo 5  36.018  36.018  25.796  25.796 
+Pozzi di Vigazzola 1  Acqua sotterranea  Tipo 5  53.178  53.178  48.831  48.831 
+Pozzi di Vigazzola 2  Acqua sotterranea  Tipo 5  35.451  35.451  33.406  33.406 
+Sorgente Grazzo Grancona  Acqua sotterranea  Tipo 5  259.105  259.105  303.781  303.781 
+Pozzo Carbon Orgiano  Acqua sotterranea  Tipo 5  165.010  165.010  158.606  158.606 
+Pozzo IV novembre Orgiano  Acqua sotterranea  Tipo 5  144.027  144.027  141.189  141.189 
+Pozzo Borgomale  Acqua sotterranea  Tipo 5  507.119  501.503  0    
+Sorgente SITA Arquà Petrarca  Acqua sotterranea  Tipo 5  281.894  281.894  245.994  245.994 
+Pozzo valle S. Giorgio  Acqua sotterranea  Tipo 5  103.841  103.841  97.745  97.745 
+Campo pozzi di Camazzole  Acqua sotterranea  Tipo 5  10.616.758  10.616.758  10.371.842  10.371.842 
+Totale autoproduzione     52.313.735 52.184.239  50.671.796 50.548.059 
+       
+             
+SUD - Fornitura ETRA - Veneto  Acquisto da terzi  n.d    310.437    278.652 
+Acque a Cavarzere 
+SUD - Fornitura ETRA - Veneto  Acquisto da terzi  n.d     701.064     673.242 
+Acque a Cà Diedo 
+SUD - Fornitura HERA a  Acquisto da terzi  n.d     505.080     755.796 
+Occhiobello 
+NORD - Fornitura APS  Acquisto da terzi  n.d     4.303.433     4.342.087 
+NORD - Fornitura ACQUE  Acquisto da terzi  n.d     4.107.806     1.501.787 
+VERONESI  
+NORD - Fornitura ACQUE  Acquisto da terzi  n.d     179.347     168.264 
+VICENTINE 
+NORD - Fornitura ACQUE  Acquisto da terzi  n.d           1.355.170 
+POTABILI  
+acquevenete –  Bilancio di sostenibilità 2017  56 
+ 

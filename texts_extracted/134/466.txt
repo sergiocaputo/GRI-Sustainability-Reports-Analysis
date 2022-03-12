@@ -1,0 +1,37 @@
+ 
+ 
+ 31 December 2019                         
+(€’000)  Note Financial assets  Financial  Hedging    Financial  Total  Fair value 
+at amortised  assets at fair  derivatives  assets at fair 
+cost value through  value 
+profit or loss  through profit 
+or loss 
+Financial assets                 
+Non-current financial assets  8  128,980         128,980  128,980 
+Trade receivables  12  1,505,656         1,505,656  1,505,656 
+Other current financial assets  13  916,439  268       916,707  916,707 
+Derivatives  13               
+Cash and cash equivalents  16  388,615         388,615  388,615 
+Total    2,939,690  268        2,939,958  2,939,958 
+                 
+31 December 2019                 
+(€’000)  Note  Other liabilities  Financial  Hedging    Financial  Total  Fair value 
+at amortised  liabilities at  derivatives  liabilities at 
+cost  fair value  fair value 
+through profit  through profit 
+or loss  or loss 
+Financial liabilities                 
+Bank and other loans and  18  1,136,490         1,136,490  1,137,881 
+borrowings 
+Bonds  19  1,105,185         1,105,185  1,081,060 
+Lease liabilities  20  57,694         57,694  57,694 
+Derivatives  21    2,012       2,012  2,012 
+Trade payables  24  1,792,145         1,792,145  1,896,069 
+Total    4,091,514  2,012       4,093,526  4,174,716 
+ 
+The note column gives the section in which the relevant item is described. 
+Reference should be made to the section on accounting policies for information on the fair value measurement 
+of these items. Specifically, the fair value of the items is based on the present value of estimated future cash 
+flows. 
+   
+   467 

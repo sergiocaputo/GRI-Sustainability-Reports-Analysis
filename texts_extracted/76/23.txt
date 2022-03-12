@@ -1,0 +1,80 @@
+ 
+FUNZIONAMENTO DELL’IMPIANTO  PERFORMANCE AMBIENTALE 
+Il processo di rigassificazione avviene attraverso le seguenti fasi:  Il terminale opera in conformità al Decreto AIA (n. 93 del 15 marzo 
+2013) che prevede il monitoraggio in continuo delle emissioni 
+  scarico del GNL da parte delle navi metaniere e stoccaggio 
+convogliate  provenienti  dalle  due  caldaie  necessarie  alla 
+nei 4 serbatoi del rigassificatore; 
+rigassificazione, nonché il monitoraggio in continuo dello scarico 
+  rigassificazione  per  riportare  il  GNL  allo  stato  gassoso, 
+necessario  per  la  rigassificazione.  Le  principali  performance 
+attraverso un aumento di temperatura; 
+ambientali del terminale sono riportate nella tabella seguente. 
+  invio del gas alla rete nazionale. 
+Limite 
+Il rigassificatore “FSRU Toscana” è stato realizzato sulla base di    u.m.  Dati 2017 
+autorizzativo 
+tecnologie  sicure  e  ampiamente  testate,  con  l’impiego  di 
+Acqua       
+sottosistemi e componenti utilizzati da lungo tempo nei diversi 
+settori dell’industria petrolifera e del gas.   Utilizzo acqua marina  Mmc  107  141 
+Scarichi cloro libero attivo  t  1,96  3,60 
+OLT  ha  volontariamente  intrapreso  un  percorso  di 
+rendicontazione  e  certificazione  delle  proprie  attività.  Tutti  gli  Energia       
+impegni  delineati  nella  Politica  HSEQ  (Health,  Safety,  Produzione energia elettrica  MWh  46.007  -- 
+Environmental and Quality) trovano, infatti, la propria definizione  Consumo energia elettrica  MWh  46.007  -- 
+nel Sistema di Gestione Integrato adottato da OLT secondo gli 
+Rifiuti prodotti       
+standard ISO 9001 (Qualità), ISO 14001 (Ambiente), OHSAS 
+Non pericolosi  t  3.548  -- 
+18001 (Salute e Sicurezza) e SA 8000 (Responsabilità Sociale). 
+Pericolosi  t  1.342  -- 
+I requisiti previsti da questi standard e gli obiettivi annuali definiti 
+Emissioni caldaie (*)    q.tà max   
+dalla Società nell‘ambito di un percorso di continuo miglioramento 
+trovano la loro positiva messa in atto grazie alla collaborazione e  NOx  mg/Nmc  36,56  69,45 
+CO  mg/Nmc  1,25  31,41 
+al coinvolgimento di tutto il personale, che è stato adeguatamente 
+e costantemente formato ed addestrato.  Polveri  mg/Nmc  0,10  2,91 
+Per  assicurare  una  gestione  completamente  conforme  agli  NO2  mg/Nmc  3,07  - 
+Standard di Qualità, Sicurezza ed Ambiente OLT ha richiesto al  COV  mg/Nmc  23,12  - 
+proprio principale outsourcer ECOS, responsabile delle attività di  (*) valori espressi in mg/Nmc al 3% di ossigeno. 
+gestione  operativa  e  di  armamento  del  Terminale,  Gli  scarichi  del  terminale,  diversi  da  quello  necessario  alla 
+l’implementazione di un opportuno Sistema di Gestione. ECOS,  rigassificazione  rendicontato  nella  precedente  tabella,  sono 
+implementando un Sistema di Gestione Integrato, ha ottenuto le  autorizzati ad un quantitativo di cloro attivo libero di 0,2 mg/l. Gli 
+certificazioni ISO 9001, ISO 14001 e OHSAS 18001.   stessi sono stati monitorati, come richiesto dal Decreto AIA, sia da 
+personale interno che da un laboratorio certificato, ed hanno 
+Nel 2017 OLT ha intrapreso l’iter per la registrazione EMAS.  
+mostrato valori ben al di sotto dei limiti di legge. 
+Durante i cinque anni di attività in cui è stato offerto il servizio di 
+Le tonnellate di CO  emesse dal terminale nel 2017 sono state 
+“peak shaving” (2013-2017), OLT ha messo a disposizione del  2
+pari  a  70.622,21  (calcolate  tenendo  conto  delle  emissioni 
+sistema nazionale un quantitativo complessivo di GNL pari a circa 
+convogliate, delle emissioni fuggitive e delle emissioni controllate 
+480.000 metri cubi continuando, mentre nei due anni di attività del 
+di metano durante le manutenzioni, opportunamente convertite in 
+servizio integrato di rigassificazione e stoccaggio (2016-2017) 
+CO  equivalente). 
+OLT ha aggiudicato, attraverso le aste, quindici slot di discarica  2
+per un quantitativo complessivo di GNL pari a circa 2.130.000 di  Impatti sulla biodiversità e gli ecosistemi marini 
+metri cubi. Nel contempo, la Società ha continuato ad offrire  Nella Verifica Impatto Ambientale (VIA) è stato prescritto, per tutta 
+capacità  di  rigassificazione  su  base  pluriennale,  annuale  e  la  vita  operativa  del  terminale,  un  “Piano  di  Monitoraggio 
+mensile, secondo quanto previsto dalla regolamentazione vigente.  dell’Ambiente Marino” che prevede la realizzazione di quattro 
+Nell’operatività  dal  2014  al  2017  si  registra  un  progressivo  campagne di monitoraggio all’anno di tipo chimico-fisico, biologico 
+incremento dell’utilizzo del terminale che ha raggiunto nel 2017  ed ecotossicologico, aventi ad oggetto: la colonna d’acqua, i 
+una capacità allocata pari al 24%. “FSRU Toscana” dimostra una  sedimenti, l’ambiente biologico, la misura del rumore sottomarino 
+flessibilità operativa sia in termini di specifiche di gas accettabili,  e la morfologia del fondale. A seguito delle campagne effettuate 
+ricevendo  carichi  dal  Nord  e  Sud  America,  dall’Africa  e  dal  prima dell’arrivo del terminale ed a seguito dei primi quattro anni di 
+Medioriente oltre che dall’Europa sia in termini di dimensioni di  esercizio, non si sono verificati impatti sulla biodiversità e sugli 
+metaniere ricevibili, scaricando navi con capacità compresa tra i  ecosistemi marini. In particolare, i livelli di rumore del terminale in 
+125.000 e i 156.000 metri cubi liquidi, con la possibilità di ricevere  esercizio  misurati  sperimentalmente  (60  dB  a  100  metri  dal 
+metaniere fino alla classe “new panamax” (180.000 metri cubi  terminale) appaiono notevolmente inferiori a quanto ipotizzato 
+liquidi), con un potenziale ricettivo che raggiunge circa il 90%  nell'analisi  di  progetto  e  a  quanto  autorizzato  con  relativo 
+della flotta mondiale.  Provvedimento VIA. Complessivamente non si sono registrate 
+variazioni sostanziali delle concentrazioni dei contaminanti nella 
+ 
+colonna d’acqua, né nei sedimenti. Questo dato risulta coerente 
+ 
+24          Bilancio di Sostenibilità 2017 
+   

@@ -1,0 +1,41 @@
+ 
+  31 December 2018    31 December 2019   
+(€’000)  Cost   Acc. amortisation   Carrying amount  Cost   Acc. amortisation   Carrying amount 
+Industrial patents  168   (100)  68  192   (127)  65 
+Concessions   64   (64)  -  64   (64)  - 
+Software  4,451   (3,370)  1,081  5,226   (3,903)  1,323 
+Other  1,618   (884)  734  1,580   (941)  639 
+Total  6,301   (4,418)  1,883  7,062   (5,035)  2,027 
+ 
+Prior year changes are as follows: 
+31 December 2017   Increases   Amortisation   Reclass.    Disposals  Net exchange    31 December 
+losses  2018 
+(€’000) 
+Industrial patents  77   17   (23)   -   -   (3)     68 
+Software  1,377   720   (833)   -   -   (183)     1,081 
+Other  88   713   (66)   -   -   (1)     734 
+Total   1,542   1,450   (922)   -   -   (187)     1,883 
+ 
+Changes during the year are set out below: 
+31 December 2018    Increases    Amortisation    Other   Disposals   Net exchange     31 December 
+changes  gains  2019 
+(€’000) 
+Industrial patents  68   23   (28)          2    65 
+Software  1,081   683   (508)       (23)   90    1,323 
+Other  734   18   (57)          (56)    639 
+Total   1,883   724   (593)   -   (23)   36     2,027 
+ 
+10. Goodwill 
+Goodwill of €76.1 million at the reporting date entirely relates to the acquisition of Lane Group finalised in 2016 
+net of the decrease due to Lane’s sale of the Plants & Paving division on 12 December 2018. 
+Prior year changes are as follows: 
+ 
+31 December  Increases  Sale of Plants &  Net exchange  31 December 
+(€’000) 
+2017  Paving Division  gains   2018 
+Lane Group (04/01/16)  131,298  -  (62,863)  6,278  74,713 
+Asphalt Roads and Materials Co. assets  23,881  -  (25,242)  1,361  - 
+(04/04/16) 
+Total  155,179  -  (88,105)  7,639  74,713 
+ 
+   274 

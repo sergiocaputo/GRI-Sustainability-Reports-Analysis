@@ -1,0 +1,33 @@
+Sustainability Report at 31 March 2019 of the Piquadro Group 
+ 
+connected via Bluetooth to the smartphone, detects the presence of objects on which a special 
+tag has been applied. By attaching a small sticker to your devices, you have the option to make 
+an  inventory of such equipment at any time with the help of your mobile phone.  
+The Connequ app, in combination with the air pollution detector, which is located inside the 
+backpack, allows you to detect the values of the main indicators of the air quality and therefore 
+the particulates (PM2.5 and PM10), CO2 equivalent and volatile organic compounds (VOCs) 
+as well as some environmental parameters such as the temperature, humidity and atmospheric 
+pressure. The device, connected via Bluetooth to the mobile phone, sends information on the 
+air quality with a notification in the event of a major change in one of the quality indicators.       
+The SOS button, also included in the URBAN backpack, is a device that allows you to send a 
+text message with the location to a predefined number. Its position on the shoulder of the 
+BAGMOTIC backpack has been devised specifically for those who ride scooters or bicycles in 
+city traffic. Its first release has a button that, if pressed, lets you send the SMS with the location. 
+Piquadro provides an area in the Cloud for all BAGMOTIC users that will allow them to 
+historicise, anonymise and aggregate relevant data, with the information 
+they need, such as the pollution values on a given route or the list of items 
+that are most often forgotten. It's also possible to save, in this Cloud area, 
+e-tickets of transport companies and automatically receive the weight and 
+size limits of permitted luggage. 
+The backpack is also equipped with a combination lock for the safety of 
+its  contents  as  well  as  a  special  wallet  pocket  with  screened  RFID 
+protection to avoid cloning credit cards. In addition, there is an anti-theft cable that allows the 
+backpack to be secured to your seat by fixing itself through a combination. 
+It should be noted that Piquadro does not process any kind of data relating to the services 
+provided for localisation, which, therefore, are only stored locally in the customer’s smartphone 
+or smartwatch. 
+ 
+   
+33 
+ 
+ 

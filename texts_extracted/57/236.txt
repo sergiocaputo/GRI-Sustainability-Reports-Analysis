@@ -1,0 +1,48 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+sono condotte con logica di full evaluation ed includono gli effetti della modellizzazione delle poste a vista, al ﬁne 
+di tener conto della persistenza dei volumi e dell’elasticità di tali poste rispetto a variazioni dei tassi di mercato. I 
+modelli di misurazione del rischio implementati consentono, inoltre, di valutare sia gli impatti derivanti da fenomeni 
+di prepayment degli impieghi, sia gli effetti legati alle eventuali opzionalità implicite (cap / ﬂoor) su poste a tasso 
+variabile. La considerazione di tali effetti consente, nel complesso, una gestione del rischio tasso maggiormente 
+orientata all’ottimizzazione della struttura di ALM, a beneﬁcio sia della redditività attesa che degli assorbimenti 
+patrimoniali.
+L’impatto sul valore del patrimonio viene determinato come differenza tra il valore attuale delle poste dell’attivo e 
+del passivo ed il corrispondente valore attuale stimato sulla base della medesima curva dei tassi, alla quale viene 
+applicato uno shock corrispondente alle variazioni annuali dei tassi di interesse registrate in un periodo di osserva-
+zione pluriennale, considerando il 99,9° percentile al rialzo. La differenza tra i due valori attuali, inﬁne, è rapportata 
+al dato di Fondi Propri per ottenere un Indicatore di Rischiosità percentuale, determinato con logiche simili a quelle 
+proposte da Banca d’Italia nella Circolare 285/2013.
+La Banca, inoltre, sempre in linea con le Disposizioni di Vigilanza Prudenziale, utilizza l’ipotesi di shift della curva dei 
+tassi di +200bps quale scenario di stress test (cfr. Titolo III, Capitolo I, Allegato C della Circ. Banca d’Italia 263/2006 
+e successivi aggiornamenti).
+Tale ipotesi è afﬁancata dalla quantiﬁcazione degli impatti derivanti dagli scenari di stress introdotti nel 2016 dal 
+Comitato di Basilea (cfr. “Interest rate risk in the banking book”, aprile 2016) e basati anche su shock non paralleli 
+dei nodi curva.
+Il modello in uso, oltre a quantiﬁcare gli impatti sul valore del patrimonio, consente di effettuare stime degli effetti 
+di variazioni dei tassi sul margine di interesse, al ﬁne quantiﬁcare l’esposizione dei risultati reddituali attesi rispetto 
+a mutamenti delle curve di mercato.Il rischio di prezzo, invece, è legato essenzialmente alla presenza di strumenti 
+ﬁnanziari all’interno del portafoglio delle attività ﬁnanziarie “disponibili per la vendita”. In particolare, la Banca prov-
+vede a quantiﬁcare il rischio di prezzo di azioni ed obbligazioni mediante misure di VaR (Value at Risk) parametrico, 
+stimate con la metodologia descritta con riferimento al portafoglio di negoziazione. 
+Inﬁne, per quanto attiene agli aggregati rappresentati da partecipazioni e fondi di livello 3 di fair value, la Banca 
+provvede al monitoraggio di uno speciﬁco sistema di indicatori di early warning deﬁniti nella policy di gestione dei 
+rischi di mercato.
+B. Attività di copertura del fair value
+Obiettivo delle operazioni di copertura del fair value è quello di evitare che variazioni inattese dei tassi di mercato 
+si ripercuotano negativamente sul margine di interesse. In particolare, la Banca si è dotata di processi e procedure 
+per la copertura IAS compliant di poste dell’attivo a tasso ﬁsso.
+Nel corso del 2017, sono state quindi poste in essere, nell’ambito di una più ampia strategia di efﬁcientamento a 
+medio/lungo termine del proﬁlo ALM della Banca, ulteriori operazioni di hedging per un nozionale complessivamen-
+te pari a circa 240 mln di euro. 
+Al 31 dicembre 2017, si segnalano pertanto coperture in essere in regime di Fair Value Hedge su mutui a tasso ﬁsso 
+per un nozionale swap complessivamente pari a 286,6 milioni di euro e su obbligazioni governative a tasso ﬁsso, 
+classiﬁcate nel portafoglio Available for Sale, il cui fair value ammonta a circa 36 milioni di euro (37 milioni di euro al 
+31 dicembre 2016).
+Allo stato attuale non sono state poste in essere attività di copertura dal rischio di spread.
+C. Attività di copertura dei ﬂussi ﬁnanziari
+Le operazioni di copertura di ﬂussi ﬁnanziari (cash ﬂow hedge) hanno l’obiettivo di coprire la Banca dall’esposizione 
+alla variabilità dei ﬂussi di cassa futuri attribuibili a particolari rischi associati ad un’attività o passività (come i futuri 
+pagamenti di interessi a tasso variabile o i ﬂussi ﬁnanziari relativi ad una programmata operazione altamente pro-
+babile).
+Nel corso del 2017 la Banca non ha posto in essere operazioni di copertura dei ﬂussi ﬁnanziari.
+236

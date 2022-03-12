@@ -1,0 +1,77 @@
+INDICE DEI CONTENUTI GRI DNF - Bilancio di Sostenibilità 2019 Gruppo CAP
+Benefit previsti per i dipendenti 
+302	-	4 Riduzione del consumo di energia 125 -
+a tempo pieno, ma non per i 
+401	-	2 114
+dipendenti part-time o con 
+contratto a tempo determinato
+GRI	303	–	Acqua	e	scarichi	idrici
+401	-	3 Congedo parentale 115 -
+Interazione con l'acqua come 
+303	-	1 81-87
+risorsa condivisa 
+GRI	402	-	Relazioni	tra	lavoratori	e	management	
+Gestione degli impatti correlati 
+303	-	2 144-147
+allo scarico di acqua
+Le leggi, i contratti applicati e 
+gli accordi aziendali prevedono 
+303	-	3 Prelievo idrico 88-89
+periodi di preavviso in occasione 
+Periodo minimo di preavviso per  di trasferimenti di personale a 
+402	-	1 64
+cambiamenti operativi seguito di modifiche operative e 
+GRI	304	-	Biodiversità
+cambiamenti organizzativi (o di 
+successione negli appalti). Gruppo 
+Impatti significativi di attività,  CAP rispetta tali disposizioni.
+304	-	2 148 -
+prodotti e servizi
+GRI	403	-	Salute	e	sicurezza	sul	lavoro
+GRI	305	-	Emissioni
+Sistema di gestione della salute e 
+403	-	1 101-103
+Emissione dirette di GHG (scope  Fonte fattori emissivi: sicurezza sul lavoro 
+305	-	1 126-129
+1) ISPRA: Tabella parametri standard 
+Identificazione dei pericoli, 
+nazionali 2017 (https://www.
+305	-	2 Emissioni indirette di GHG da  126-129 minambiente.it/sites/default/ 403	-	2 valutazione dei rischi e indagini  106
+consumi energetici (scope 2) files/archivio/allegati/emission_ sugli incidenti
+trading/tabella_coefficienti_
+Altre emissioni indirette GHG 
+305	-	3 126-129 standard_nazionali_31122017. 403	-	3 Servizi di medicina del lavoro 108
+(scope 3)
+pdf).
+ISPRA 2017: National Inventory  Partecipazione e consultazione 
+305	-	4 Intensità delle emissioni di GHG 127 Report 2017-Table A6.2 Fuels,  dei lavoratori e comunicazione in 
+403	-	4 107
+national production, carbon  materia di salute e sicurezza sul 
+emission factors. lavoro
+(http://www.isprambiente.gov.
+305	-	5 Riduzione delle emissioni di GHG 129 Formazione dei lavoratori in 
+it/files2017/pubblicazioni/
+rapporto/R_261_17.pdf). 403	-	5 materia di salute e sicurezza sul  107
+lavoro 
+GRI	306	-	Scarichi	idrici	e	rifiuti	 Promozione della salute dei 
+403	-	6 107
+lavoratori 
+Scarichi idrici per qualità e 
+306	-	1 144-145 - Prevenzione e mitigazione degli 
+destinazione
+impatti in materia di salute e 
+403	-	7 107
+sicurezza sul lavoro all'interno 
+Rifiuti per tipo e metodo di 
+306	-	2 132-134 - delle relazioni commerciali
+smaltimento
+Lavoratori coperti da un sistema 
+GRI	307	-	Compliance	ambientale 403	-	8 di gestione della salute e  104-105
+sicurezza sul lavoro
+Non conformità con leggi e 
+307	-	1 150 -
+normative in materia ambientale 403	-	9 Infortuni sul lavoro  104-105
+GRI	401	-	Occupazione
+403	-	10 Malattie professionali 104-105
+401	-	1 Nuove assunzioni e turnover  56-58
+202 203

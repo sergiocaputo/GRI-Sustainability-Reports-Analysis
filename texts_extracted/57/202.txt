@@ -1,0 +1,53 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+liti nell’ambito della pianiﬁcazione dell’attività creditizia. 
+Le strutture commerciali e di controllo monitorano in maniera dettagliata, a seconda delle speciﬁche esigenze, tutti 
+quei rami e settori di attività economica per i quali si siano manifestati andamenti congiunturali connotati da criticità 
+anche solo potenziali e/o temporanee.
+In merito all’assunzione di rischi verso i “Privati” la Banca si è dotata di due strumenti integrati di quantiﬁcazione del 
+rischio:
+•  il sistema di rating realizzato in collaborazione con l’outsourcer informatico Cedacri, il quale consente di classi-
+ﬁcare la clientela in funzione della probabilità di insolvenza. Tale modello, mediante una “clusterizzazione” della 
+suddetta clientela che tiene conto anche della forma tecnica, consente di cogliere le caratteristiche peculiari 
+dei privati e di ottenere una ripartizione maggiormente discriminante tra classi di rating per i soggetti che non 
+presentano anomalie andamentali. 
+•   un apposito modello di accettazione realizzato dal provider CRIF: la ﬁnalità di tale modello è quella di rafforzare 
+la valutazione del merito creditizio della clientela nei primi mesi di vita della relazione con il cliente, ovvero quan-
+do non si dispone di un set informativo sufﬁcientemente articolato.
+Inoltre, la Banca ha messo in produzione il modello di accettazione per la clientela Ditte Individuali, per le quali non 
+sono disponibili informazioni ﬁnanziarie, al ﬁne di poter integrare le decisioni strategiche della Banca in fase di prima 
+erogazione con una valutazione del merito creditizio, di tipo andamentale per i “già clienti” o di accettazione per i 
+nuovi clienti. 
+Il sistema di rating interno in uso per le Imprese costituisce uno strumento integrato di valutazione del merito credi-
+tizio dell’intero portafoglio crediti. In particolare l’attribuzione del rating ad ogni cliente avviene attraverso i seguenti 
+moduli:
+-  analisi dell’andamento del rapporto presso la Banca;
+-  analisi dell’andamento del cliente presso il sistema (elaborata sulla base dati di Centrale Rischi);
+-  analisi di bilancio.
+La Banca ha inoltre completato le attività di sviluppo di strumenti interni di valutazione volti alla misurazione del 
+rischio di credito di controparti bancarie ed enti pubblici, categorie per le quali l’outsourcer Cedacri non fornisce 
+speciﬁci strumenti di valutazione del merito creditizio. In particolare il rating delle controparti bancarie e delle so-
+cietà operanti nel settore ﬁnanziario è attribuito sulla base del “rating esterno”, ove disponibile, oppure in funzione 
+di un modello gestionale di Gruppo. In quest’ultimo caso, il modello utilizzato è di tipo “shadow rating” e valuta aree 
+di indagine fra le quali rientrano la redditività, il costo del credito, il dimensionamento, la liquidità, ecc.
+Anche relativamente agli enti pubblici, l’attribuzione del merito creditizio avviene sulla base della disponibilità di un 
+rating esterno attribuito all’ente dalle principali agenzie di rating, ovvero, laddove questo non fosse disponibile, sulla 
+base del rating esterno attribuito alla regione amministrativa nella quale l’ente stesso opera.
+In ottica di rendere maggiormente efﬁcace ed efﬁciente il processo di concessione e gestione del credito, il Gruppo 
+ha anche sviluppato un processo interno di override del rating e l’adozione, per alcune tipologie di controparte, di 
+un apposito questionario qualitativo. Tali interventi sono ﬁnalizzati ad integrare le valutazioni meramente statistiche 
+effettuate dal modello di rating in uso attraverso l’utilizzo di una serie di informazioni di natura qualitativa e l’indivi-
+duazione di ulteriori elementi valutativi, anche di natura quantitativa, che per loro natura non possono essere colti 
+in maniera automatica e standardizzata.
+Nel corso del 2017 sono state ﬁnalizzate tutte le attività propedeutiche al passaggio in produzione di un sistema 
+informatico, sviluppato in collaborazione con l’outsourcer Cedacri, volto al monitoraggio della sussistenza delle con-
+dizioni di “validità” del rating (e.g. aggiornamento delle fonti informative)funzionale a garantire una valutazione del 
+merito creditizio della propria clientela aggiornato, puntuale ed ancora più afﬁdabile.
+Al ﬁne di una sempre maggiore efﬁcacia del processo di monitoraggio andamentale del credito è in uso una proce-
+dura dedicata alla gestione del credito anomalo che consente di razionalizzare la rappresentazione delle posizioni 
+creditizie in default o che presentano elementi di anomalia (anche solo potenziale), consentendo una tempestiva 
+informativa ai diversi livelli gestionali e di controllo. Detto strumento si qualiﬁca come collettore unico all’interno 
+del quale conﬂuiscono in maniera unitaria e strutturata le informazioni desunte dagli strumenti di misurazione del 
+rischio di credito e di individuazione dei crediti problematici.
+Nell’ambito del monitoraggio andamentale del credito la Banca ha implementato, in linea con la normativa di vigilan-
+za, un processo di valutazione della coerenza delle classiﬁcazioni del credito, della congruità degli accantonamenti 
+202

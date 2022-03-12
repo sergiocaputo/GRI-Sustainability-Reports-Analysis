@@ -1,0 +1,49 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+(cid:28)(cid:17)(cid:21)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:76)(cid:70)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:85)(cid:76)(cid:86)(cid:70)(cid:75)(cid:76)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:87)(cid:68)(cid:86)(cid:86)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:72)(cid:86)(cid:86)(cid:72)
+A partire dall’esercizio 2009 sono state poste in essere talune operazioni per le quali si è adottata la metodologia del 
+“Macro Fair Value Hedge” per la copertura del rischio tasso relativo alle esposizioni di mutui residenziali a tasso ﬁsso. 
+L’adeguamento di valore ha per oggetto mutui che sono stati oggetto di copertura generica di fair value con con-
+tratti derivati (interest rate swap). Il metodo contabile utilizzato permette di rappresentare in modo simmetrico gli 
+effetti sia sui mutui che sui derivati di copertura. Poiché la copertura è generica, l’utile/perdita sull’elemento coperto 
+che è attribuibile al rischio oggetto di copertura non può rettiﬁcare direttamente il valore dell’elemento medesimo, 
+ma deve essere esposto in questa separata voce dell’attivo. La relazione di copertura è formalmente documentata 
+da una hedging card e la tenuta della stessa è veriﬁcata sia attraverso test prospettici che retrospettivi. La copertu-
+ra è considerata efﬁcace se il rapporto tra la variazione del fair value dell’elemento coperto rispetto allo strumento 
+di copertura è ricompreso nell’intervallo 80-125%. Con tale tecnica risultano oggetto di copertura mutui per un am-
+montare complessivo di circa 286,6 milioni di euro (34,2  milioni di euro al 31 dicembre 2016).
+Sezione 12 – Attività materiali – Voce 120
+(cid:20)(cid:21)(cid:17)(cid:20)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:3)(cid:68)(cid:71)(cid:3)(cid:88)(cid:86)(cid:82)(cid:3)(cid:73)(cid:88)(cid:81)(cid:93)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:68)(cid:79)(cid:3)(cid:70)(cid:82)(cid:86)(cid:87)(cid:82)
+Totale  Totale 
+Attività/Valori 
+31/12/2017  31/12/2016 
+1. Attività di proprietà  174.271  181.372
+a) terreni  71.254  71.056
+b) fabbricati  89.388  94.805
+c) mobili  4.946  5.331
+d) impianti elettronici  3.443  4.681
+e) altre  5.240  5.499
+2. Attività acquisite in leasing finanziario  -  -
+a) terreni  -  -
+b) fabbricati  -  -
+c) mobili  -  -
+d) impianti elettronici  -  -
+e) altre  -  -
+Totale  174.271  181.372
+(cid:3)
+(cid:20)(cid:21)(cid:17)(cid:21)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:81)(cid:88)(cid:87)(cid:72)(cid:3)(cid:68)(cid:3)(cid:86)(cid:70)(cid:82)(cid:83)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:89)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:87)(cid:68)(cid:87)(cid:72)(cid:3)(cid:68)(cid:79)(cid:3)(cid:70)(cid:82)(cid:86)(cid:87)(cid:82)
+31/12/2017  31/12/2016 
+Attività/Valori  Fair value  Fair value 
+Valore di  Valore di 
+bilancio  bilancio 
+L1  L2  L3  L1  L2  L3 
+1. Attività di proprietà  5.970  -  - 8.720  6.384  -  -  8.720 
+a) terreni  2.212  -  - 2.757  2.212  -  -  2.757 
+b) fabbricati  3.758  -  - 5.963  4.172  -  -  5.963 
+2. Attività acquisite in leasing 
+-  -  - -  -  -  -  - 
+finanziario 
+a) terreni  -  -  - -  -  -  -  - 
+b) fabbricati  -  -  - -  -  -  -  - 
+Totale  5.970  -  - 8.720  6.384  -  -  8.720 
+(cid:3)
+452

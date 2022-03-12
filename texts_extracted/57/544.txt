@@ -1,0 +1,45 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+3.  Portafoglio di negoziazione di vigilanza: modelli interni e altre metodologie di analisi della sensitività
+Nella presente sezione vengono sinteticamente esposti i risultati delle analisi di rischio di tasso e di rischio di prezzo 
+nell’ambito del portafoglio di negoziazione di vigilanza.
+In particolare, le tabelle sotto riportate evidenziano i dettagli relativi al VaR generato rispettivamente dal fattore di 
+rischio “tasso di interesse” e dal fattore di rischio “prezzo”. 
+Interest Rate VaR Valore puntuale Media Minimo Massimo
+31.12.16 705.531 228.984 5.144 1.252.139
+31.12.17 1.328 604.913 1.328 1.027.876
+* valori in unità di euro
+Equity VaR Valore puntuale Media Minimo Massimo
+31.12.16 181.817 327.042 181.817 625.475
+31.12.17 82.125 377.354 82.125 606.871
+* valori in unità di euro
+(cid:20)(cid:17)(cid:21)(cid:17)(cid:21)(cid:3)(cid:53)(cid:76)(cid:86)(cid:70)(cid:75)(cid:76)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:87)(cid:68)(cid:86)(cid:86)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:72)(cid:86)(cid:86)(cid:72)(cid:3)(cid:72)(cid:3)(cid:85)(cid:76)(cid:86)(cid:70)(cid:75)(cid:76)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:83)(cid:85)(cid:72)(cid:93)(cid:93)(cid:82)(cid:3)(cid:178)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:68)(cid:73)(cid:82)(cid:74)(cid:79)(cid:76)(cid:82)(cid:3)(cid:69)(cid:68)(cid:81)(cid:70)(cid:68)(cid:85)(cid:76)(cid:82)
+Informazioni di natura qualitativa
+A.  Aspetti generali, procedure di gestione e metodi di misurazione del rischio di tasso di interesse e del 
+rischio di prezzo
+In coerenza con quanto previsto dalla Circolare 285/2013, il Gruppo deﬁnisce il rischio di tasso come rischio di va-
+riazioni del valore economico del patrimonio e del margine di interesse determinate da variazioni inattese dei tassi 
+che impattano sul portafoglio bancario, con esclusione delle poste detenute nel portafoglio di negoziazione ai ﬁni 
+di vigilanza.
+Al ﬁne di misurare e gestire la propria esposizione al rischio di tasso di interesse, il Gruppo si è dotato di una spe-
+ciﬁca policy e ha implementato idonee procedure volte a monitorare i livelli di rischio assunti e contenere gli stessi 
+entro il complessivo proﬁlo deﬁnito dagli Organi con funzione di indirizzo strategico.
+Agli Organi Aziendali della Capogruppo e delle Banche del Gruppo è attribuita la responsabilità primaria di assicu-
+rare l’efﬁcacia del sistema di gestione e controllo del rischio tasso. In qualità di Organo di Supervisione Strategica, il 
+Consiglio di Amministrazione stabilisce le linee guida per la gestione del rischio tasso, attraverso la deﬁnizione degli 
+orientamenti e degli indirizzi strategici declinati in termini di obiettivi di rischio/rendimento.
+L’Amministratore Delegato, al ﬁne di supportare il Consiglio di Amministrazione nel suo ruolo di gestione, è respon-
+sabile della realizzazione e del mantenimento di un sistema efﬁcace di gestione e di controllo del rischio tasso, 
+implementando le politiche strategiche.
+La Funzione Finanza contribuisce alla gestione del rischio di tasso di interesse coerentemente con le linee guida 
+deﬁnite dai competenti Organi collegiali (Comitato di Gruppo ALM, Tesoreria e Capital Management) a supporto del 
+Consiglio di Amministrazione.
+Il Risk Management della Capogruppo deﬁnisce quindi i principi e le metodologie per la misurazione ed il monito-
+raggio del rischio di tasso, garantendone il presidio e provvedendo all’attenuazione dello stesso per le Società del 
+Gruppo. Gli esiti delle attività di controllo effettuate dalla Funzione sono riportati ai competenti Organi e strutture 
+aziendali mediante apposite informative. La Funzione invia, infatti, periodiche evidenze dei seguenti impatti deri-
+vanti da shock delle curve dei tassi:
+•  impatto sul valore del patrimonio (modello di “full evaluation” con modellizzazione delle poste a vista e del feno-
+meno di prepayment degli impieghi);
+•  impatto sul margine d’interesse stimato con riferimento ad un orizzonte temporale di dodici mesi (modello di 
+“repricing ﬂussi”).
+544

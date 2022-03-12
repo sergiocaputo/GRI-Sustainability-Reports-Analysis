@@ -1,0 +1,60 @@
+04_PRODUCTS AND CUSTOMERS_RESEARCH AND DEVELOPMENT
+    
+FCA US is a member of the United States Council for Automotive  Collaborative Research Projects: 
+Research (USCAR), a collaborative technology organization aimed  European Technology Platform
+at strengthening the technology base of the U.S. auto industry 
+through cooperative research and development. Participation in  FCA, through CRF, our research center in Europe, plays an active 
+USCAR provides access to more than 400 projects with national  role in the European Technology Platforms. It is the focal point for 
+laboratories, research centers, industry partners and universities in  collaborative research programs on topics related to, among others, 
+conjunction with U.S. DRIVE, a partnership between USCAR, the  autonomous driving; connectivity; electrification and eco-driving; 
+U.S. Department of Energy (DOE), and energy and utility companies.  lightweighting and materials; and circular economy initiatives.
+USCAR is also involved, through collaboration with the United 
+States Advanced Battery Consortium (USABC), with 25 active and 
+completed advanced battery technology programs with a total 
+cost-shared value of nearly €73 million. The USCAR/USABC/DOE 
+collaboration allows for a total of approximately €106 million of cost-
+shared funding over a five-year period for the advancement of battery  AUTONOMOUS DRIVING
+technology. The emphasis of this collaboration is to accelerate the 
+development of automotive battery technology among industry 
+FCA’s 2018-2022 business plan, presented in June 2018, describes 
+partners within the U.S.
+the challenges and opportunities presented by the advances in 
+autonomous vehicle technology. We are devoting resources to 
+research and develop an approach to address changing consumer 
+expectations driven by growing demand for safety, convenience, 
+mobility-as-a-service, connectivity and quality time. Autonomous 
+technology demonstrates the ability of vehicle systems to take over 
+an increasing number of tasks which are currently performed by 
+the driver.
+Our plan involves pursuing a multi-partner strategy for developing 
+advanced driver assistance and autonomous driving technologies, 
+working with leaders in their respective industries.
+Human RESPONSIBILITY  Machine
+LEVEL 1 LEVEL 2 LEVEL 2+ LEVEL 3 LEVEL 4 LEVEL 5
+Hands off 
+Hands, Eyes off 
+Hands on the  + 
+Hands off  + 
+steering wheel  Eyes off 
+R +  Mind off
+E Most   +  (but available 
+V Eyes on
+RI functions Responsible  to take over)
+D
+for lane changes Fully automated  M
+Steering (and)  E
+Fully automated  driving under  T
+acceleration/  S
+Steering (and)  deceleration  driving under  all conditions SY
+acceleration/  limited 
++ 
+Steering (and)  deceleration  conditions 
+M Steering (or)  Automated 
+E acceleration/  +  (does not work in 
+T acceleration/  lane changes 
+S deceleration Automated  unmapped areas)
+Y deceleration (failure: pulls over  
+S
+lane changes
+to side of road)
+65

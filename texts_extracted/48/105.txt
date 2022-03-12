@@ -1,0 +1,49 @@
+104 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+2. Group PIM Governance  3. Group PIM Validation 
+Governance and processes regarding the Group PIM are  The Group PIM is subject to independent validation on 
+defined in the Group Internal Model Governance Policy,  an ongoing basis, which aims to gain assurance of the 
+ensuring that: completeness, robustness and reliability of the processes 
+– models and components are appropriate for their pur- and results of the Group PIM as well as their compliance 
+pose; with the Solvency II regulatory requirements. 
+– procedures are in place to design, implement, use and 
+validate new models and model changes; The validation process follows the principles and proce-
+– the appropriateness of models on an ongoing basis is  dures defined within the Group Internal Model Validation 
+verified. Policy and related guidelines.
+To rule the activities related to the Internal Model devel- In particular, the validation outputs are designed to sup-
+opments necessary to ensure its appropriateness over  port Senior Management and AMSB in understanding 
+time and, more in general, to support the Internal Model  the appropriateness of the Group PIM, including areas 
+change process, the Group Internal Model Change Policy  of weaknesses and limitations, especially with regards to 
+has been also defined with the aim to specify roles and  its use.
+responsibilities in the implementation of major and minor 
+changes. To ensure an adequate level of independence, the re-
+sources performing the validation activities are not in-
+A dedicated committee, the Internal Model Committee,  volved in the development and operation of the Group 
+has been established to approve Group PIM calibrations,  PIM.
+to support the Group Chief Risk Officer (GCRO) in the 
+decision-making process on Group PIM developments  Within the validation process also results obtained dur-
+or model changes and to control the full model lifecy- ing previous validation cycles are taken into account, as 
+cle, assuring proper compliance with the Group Internal  well as developments within internal and external busi-
+Model Governance Policy. This Committee is chaired by  ness environment, financial market trends and Group PIM 
+the Model Design Authority, responsible for ensuring the  changes. The Internal Model validation process excludes 
+overall consistency and reliability of the Group PIM.  those aspects covered by the assurance work of the 
+Actuarial Function (i.e. technical provisions and related IT 
+The GCRO defines the processes and controls to ensure  systems, actuarial platforms and their governance).
+the ongoing appropriateness of the design and oper-
+ations of the Group PIM, so that it continues to appro- Furthermore, the validation procedures also serve as an 
+priately reflect the Group risk profile. The GCRO is also  incentive mechanism to ensure timely and accurate in-
+responsible for defining the methodology of each mod- corporation of modelling refinements. 
+el component, on the basis of the Group Internal Model 
+Committee’s proposals, as well as for the results produc- In order to warrant the appropriateness of the array of 
+tion and ultimately for submitting the relevant Internal  elements contained within the Group PIM, the validation 
+Model supporting documentation to the AMSB. covers both the quantitative and qualitative aspects of 
+the Internal Model, and is therefore not limited to the cal-
+The AMSB, assisted by the Risk and Control Committee,  culation engine and methodology. Other important items 
+ensures the ongoing appropriateness of the design and  such as data quality, documentation and uses of the 
+operations, the ongoing compliance of the Group PIM  Model are validated accordingly.
+and also that the Group PIM continues to appropriately 
+reflect the risk profile of the Group.  The validation process is carried out on regular annu-
+al basis and when requested by the AMSB or Senior 
+These roles are generally mirrored within the organization- Management (e.g. in case of PIM changes).
+al structure of each Group Legal Entity within PIM scope. 
+No material changes have occurred during the period 
+with reference to the PIM governance.

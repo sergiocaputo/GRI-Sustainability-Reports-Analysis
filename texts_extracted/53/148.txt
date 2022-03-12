@@ -1,0 +1,22 @@
+Emissioni indiretta di gas serra (scope 2) - Dati espressi in Ton
+31.12.2017  31.12.2016
+CO2  CO2 
+CO2 CO2
+Equivalenti Equivalenti
+Energia Elettrica Acquistata(1) 4.447 4.467 4.476 4.496
+Fonti Rinnovabili 3.291 3.306 3.357 3.372
+Totale Emissioni 4.447 4.467 4.476 4.496
+Per il calcolo delle emissioni indirette (di cui allo Scope 2) non sono state conteggiate quelle relative al Te-
+leriscaldamento, in quanto l’energia termica utilizzata deriva dall’impianto di termovalorizzazione situato 
+in via Gaetana Agnesi a Desio che trasforma i rifiuti dapprima in energia termica (vapore) e poi in ener-
+gia elettrica. Il calore residuo di questo procedimento viene ulteriormente recuperato da una centrale 
+termica connessa al termovalorizzatore di Desio, che raccoglie l’acqua calda prodotta e, attraverso un 
+impianto di pompaggio, la avvia a una rete di condotte diffuse sul territorio.
+(1) Ai fini di un allineamento con quanto richiesto dal Car-
+bon Disclosure Project e per rendere evidenti gli interventi 
+di efficienza energetica che riducono l’utilizzo del vettore 
+elettrico, nella tabella sono pubblicare anche le “emissioni 
+potenziali” considerando nel calcolo delle emissioni la 
+totalità del consumo elettrico, compreso quello da fonte di 
+energia rinnovabile.
+ 149   

@@ -1,0 +1,66 @@
+LA RICERCA E L’INNOVAZIONE IN AREA INFRASTRUTTURE ENERGETICHE
+Nel 2019 la Società Areti, nell’ambito delle attività di distribuzione dell’e- te presentate 5 domande di brevetto per invenzione industriale;
+nergia elettrica, ha avviato o realizzato numerosi progetti innovativi, tra cui: • il progetto G.I.M.M.I. (Gestione Ispezioni Massive e Mirate In-
+• il progetto PlatOne, finanziato dalla Comunità Europea, coordinato  frastrutture), per ridurre i guasti non reperiti sulle linee aeree e il 
+da Areti e partecipato da 12 partner distribuiti tra Germania, Belgio,  monitoraggio degli asset, mediante analisi periodica di immagini sa-
+Grecia ed Italia, promuove un nuovo approccio di gestione delle reti  tellitari e ispezioni mirate eseguite con droni;
+di distribuzione che le rende più stabili in presenza di grandi carichi  • il progetto AUTONOMOUS, per ridurre l’incidenza guasti in cabi-
+di energia da fonti rinnovabili variabili, mediante l’impiego di misure  na primaria, mediante ispezioni preventive in autonomia o guidate da 
+di flessibilità, storage e servizi di demand response, con tecnologie  remoto da un drone terrestre UGV (Unmanned Ground Vehicle);
+smart grid e strumenti di automazione e controllo della rete e delle  • il progetto FIBRA, per la realizzazione della rete in fibra ottica in 
+fonti energetiche distribuite;  sinergia con Open Fiber. 
+• il progetto LUCE+, per l’ingegnerizzazione e l’utilizzazione massiva  Con riferimento alla mobilità elettrica, nel corso dell’anno, Areti ha 
+di un palo di illuminazione pubblica intelligente, in grado di gestire  sviluppato soluzioni progettuali mirate, in ottica smart grid, all’intera-
+sensori e funzionalità del servizio di illuminazione pubblica, e forni- zione tra veicoli elettrici e rete di distribuzione
+re al contempo servizi utili al distributore elettrico (come modem  Sempre nel corso dell’anno, Acea Produzione, ha avviato lo studio di 
+integrati, ecc.) e a terzi (come sensori ambientali, video analisi,  fattibilità tecnico-economica per la realizzazione di un sistema di ac-
+ecc.); nell’ambito di tale progetto, nel corso dell’anno, sono sta- cumulo di energia elettrica a batterie.
+LA RICERCA E L’INNOVAZIONE IN AREA IDRICO  
+Acea Ato 2, in collaborazione con Acea Elabori, ha svolto nell’anno, at- zioni, movimenti terra ed altro) e condurre le relative attività di verifica.
+tività di ricerca e di innovazione tecnologico-digitale, con l’obiettivo di  Nel corso dell’anno è inoltre proseguito l’iter di individuazione di un 
+migliorare le performance operative. partner tecnologico per lo sviluppo del progetto Water Management 
+Per quanto riguarda l’innovazione dei processi di gestione delle reti di  System (WMS): una soluzione applicativa multi-channel, di facile 
+distribuzione idrica, sono state sperimentate tecniche di nuova gene- utilizzo, in grado di rappresentare, analizzare, monitorare e relazio-
+razione – satellite, registratore di rumore e fibra ottica per la ricerca di  nare enormi quantità di dati ed informazioni provenienti da molteplici 
+perdite occulte (Noise Logger e Interferometria Radar Satellitare) – ed  sistemi informativi.
+è stata realizzata la distrettualizzazione di oltre 6.000 km di rete, con  Con riferimento alle attività di potabilizzazione delle acque, presso 
+l’integrazione di un modello matematico per la predisposizione di valvo- l’impianto di Grottarossa, sono stati condotti studi sui microinquinanti 
+le di regolazione delle pressioni e l’installazione di strumentazione per la  emergenti presenti nell’acqua trattata (Tevere) e sul loro destino nelle 
+gestione avanzata da remoto. fasi del trattamento, nonché sulla formazione di sottoprodotti da disin-
+Con riferimento alla depurazione delle acque reflue, i principali progetti  fezione (biossido di cloro e ipoclorito di sodio) ed è stata avviata la spe-
+hanno riguardato: rimentazione per la ricerca di virus emergenti nelle acque potabilizzate 
+• la valutazione di tecnologie innovative di riduzione dei fanghi, con lo  destinate al consumo umano. 
+studio sperimentale del sistema di ozonolisi e la sperimentazione di un  Acea Ato 5 ha condotto sperimentazioni su:
+sistema di disidratazione fanghi mediante essiccamento solare, pres- • un sistema per letti di essiccamento costituito da un tubolare in  
+so il depuratore di Ostia;  geotessile permeabile per la disidratazione dei fanghi di supero misce-
+• l’ottimizzazione dei comparti di digestione anaerobica dei fanghi, at- lati con polielettrolita;
+tivati presso alcuni dei maggiori depuratori gestiti, anche in relazione  • tecniche di riduzione degli idrocarburi nei fanghi con miscele di mi-
+al potere di biometanizzazione dei fanghi (primari, secondari, ecc.); croorganismi in vasca di stabilizzazione;
+• la ricerca di microinquinanti organici emergenti (MOE) per limi- • un polarizzatore magnetico per acque potabili.
+tarne l’immissione nell’ambiente naturale in quanto potenzialmen- Inoltre, relativamente alle aree di salvaguardia delle fonti di approvvigio-
+te pericolosi (interferenti endocrini, sostanze non target e prodot- namento idropotabile, sono stati sviluppati studi per la caratterizzazio-
+ti di trasformazione); ne del territorio circostante le fonti (aspetti geologici, stratigrafici e di 
+• la ricognizione di tecnologie e tecniche di spettrometria RAMAN per  circolazione idrica sotterranea), elaborate proposte per la delimitazione 
+il monitoraggio Micro-nanoplastiche, in collaborazione con ENEA; delle aree di tutela assoluta e protezione di alcune fonti (derivazioni di 
+• lo sviluppo di analisi di processo-modellistiche inerenti alla capacità  Anagni Tufano, Castrocielo Capodacqua, Collepardo Capofiume e Po-
+residua degli impianti di depurazione e la simulazione della propaga- sta Fibreno) e predisposta, presso tre ulteriori sorgenti, la strumenta-
+zione degli odori in atmosfera prodotti dai depuratori stessi.  zione per acquisire localmente le misure di livello idrico per l’attività di 
+Nell’ambito della tutela delle risorse idriche, è proseguito il monitorag- monitoraggio propedeutica allo studio dell’area di salvaguardia.
+gio satellitare delle aree di salvaguardia delle fonti di approvvigionamen- Gori ha implementato tecnologie IoT e sensoristica avanzata per il mo-
+to idropotabile, volto a rilevare le variazioni morfologiche (nuove costru- nitoraggio degli scaricatori di piena delle acque reflue.
+LA RICERCA E L’INNOVAZIONE IN AREA AMBIENTE
+Nel 2019 in Area Ambiente si segnalano le seguenti attività di ri- studio per l’implementazione di una tipologia di conversione del 
+cerca e innovazione: contenuto energetico del plasmix (scarto non altrimenti differen-
+• il completamento dello studio relativo allo sviluppo di una solu- ziabile dei processi di selezione meccanici della plastica) ai fini del-
+zione impiantistica finalizzata al recupero di bicarbonato di sodio  la produzione di metanolo;
+e di cloruro di calcio diidrato (sotto-prodotti di reazione) dal  • il progetto Sludge Mining per la realizzazione di fertilizzanti, biocom-
+trattamento del Prodotto Sodico Residuo (PSR), derivante dalla  bustibili e biomateriali dai fanghi di depurazione;
+fase di neutralizzazione dei fumi acidi prodotti dagli impianti di  • il progetto Acea SmartComp, avviato da Acea Elabori per la waste 
+termovalorizzazione; attualmente in fase di contrattualizzazione; transition e lo sviluppo del compostaggio diffuso e di prossimità con 
+• l’avvio di uno studio sperimentale per il trattamento delle ceneri  mini-impianti dotati di una tecnologia sensoristica in grado di trasfor-
+leggere (fly-ash) per il recupero della frazione inerte presente  mare localmente i rifiuti umidi in compost, tramite un processo aero-
+ed il trattamento ai fini della derubricazione delle caratteristiche  bico che in circa 90 giorni produce fertilizzante pronto per l’utilizzo. Il 
+di pericolosità; primo Acea SmartComp è stato installato presso la mensa della sede 
+• l’avvio, con il Politecnico di Milano ed il Consorzio Interuniversi- centrale di Acea, diventata così organic waste free, ed Acea punta a 
+tario Nazionale per la Scienza e Tecnologia dei Materiali, di uno  installare 250 Acea SmartComp entro il 2022.
+LE RELAZIONI CON GLI STAKEHOLDER 169

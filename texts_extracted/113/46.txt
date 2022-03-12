@@ -1,0 +1,60 @@
+GRI STANDARD DISCLOSURE PAGE OMISSION
+GRI 300 Environmental indicators
+Energy
+103-1 Explanation of the material topic and its Boundary       
+39 - 42
+(“a”; “b”; “c”)
+GRI 103: 
+Management  103-2 The management approach and its components            
+31 - 32
+Approach 2016 (“a”; “b”; “c”)
+103-3 Evaluation of the management approach (“a”) 31 - 32
+GRI 302: Energy  302-1 Energy consumption within the organization                  Points “d” (n/a); “e”; “g” 
+32
+2016 (“a”; “b”; “c”; “f”) were not reported.
+GRI 300 Environmental indicators
+Emissions
+103-1 Explanation of the material topic and its Boundary    
+39 - 42
+(“a”; “b”; “c”)
+GRI 103:
+Management 103-2 The management approach and its components        
+34 - 35
+Approach 2016 (“a”; “b”; “c”)
+103-3 Evaluation of the management approach (“a”) 34 - 35
+305-1 Direct (Scope 1) GHG emissions (“a”; “b”; “c”; “d”; “e”; 
+34 - 35; 42
+“f”; “g” )
+GRI 305: 
+Emissions 2016
+305-2 Energy indirect (Scope 2) GHG emissions (“a”; “b”;  Point “c” was not 
+34 - 35; 42
+“d”, “e”; “f”; “g”) reported.
+GRI 400 Social Topics
+Employment
+103-1 Explanation of the material topic and its Boundary      
+39 - 42
+(“a”; “b”; “c”)
+GRI 103: 
+Management  103-2 The management approach and its components        
+25
+Approach 2016 (“a”; “b”; “c”)
+103-3 Evaluation of the management approach (“a”) 25
+GRI 401:  401-2 Benefits provided to full-time employees that are not 
+28 - 29
+Employment 2016 provided to temporary or part-time employees (“a”; “b”)
+Occupational health and safety
+103-1 Explanation of the material topic and its Boundary     
+39 - 42
+(“a”; “b”; “c”)
+GRI 103: 
+Management  103-2 The management approach and its components        
+27
+Approach 2016 (“a”; “b”; “c”)
+103-3 Evaluation of the management approach (“a”) 27
+GRI 403: 
+Occupational  Point “b” was not 
+403-2 Types and rates of work-related injury (“a”; “c”) 29 - 30; 42
+health and safety  reported.
+2016
+46

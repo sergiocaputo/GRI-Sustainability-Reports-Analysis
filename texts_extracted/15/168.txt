@@ -1,0 +1,30 @@
+GRI content index
+Specific Standard Disclosure
+GRI Standard Disclosure Pag 
+206-Comportamento anticoncorrenziale (2016)
+103-1 Spiegazione del tema materiale e relativo perimetro 65
+103-2 Modalità di gestione e sue componenti 68-74 
+103-3 Valutazione delle modalità di gestione 68-74 
+206-1 Azioni legali per comportamento anticoncorrenziale, antitrust e pratiche monopolistiche 69
+301-Materiali (2016)
+103-1 Spiegazione del tema materiale e relativo perimetro 65
+103-2 Modalità di gestione e sue componenti 140-144
+103-3 Valutazione delle modalità di gestione 140-144
+301-1 Materiali utilizzati per peso e volume 143
+301-2 Materiali utilizzati che provengono da riciclo 143
+302-Energia (2016)
+103-1 Spiegazione del tema materiale e relativo perimetro 65
+103-2 Modalità di gestione e sue componenti 140-142; 149-150
+103-3 Valutazione delle modalità di gestione 140-142; 149-150
+302-1 Energia consumata all’interno dell’organizzazione 144-145-146
+302-2 Energia consumata al di fuori dell’organizzazione 147-148
+302-3 Intensità energetica 149-150
+305-Emissioni (2016)
+103-1 Spiegazione del tema materiale e relativo perimetro 65
+103-2 Modalità di gestione e sue componenti 140-142; 150
+103-3 Valutazione delle modalità di gestione 140-142; 150
+305-1 Emissioni dirette di GHG (scope 1) 151-152
+305-2 Emissioni indirette di GHG da consumi energetici (scope 2) 153-154-155
+305-3 Altre emissioni indirette di GHG (scope 3) 156-157
+305-4 Intensità delle emissioni di GHG  158
+ 167   

@@ -1,0 +1,65 @@
+In Acea Ato 2 il primo PSA implementato nel 2019 ha riguardato  PERDITE IDRICHE
+il sistema idrico alimentato dal nuovo impianto di Grottarossa per 
+la potabilizzazione delle acque del Tevere, normalmente utilizzate  La gestione sostenibile dell’acqua include il tema del contenimen-
+per alimentare la rete di innaffiamento del Comune di Roma e del- to delle perdite sulle reti di distribuzione (si veda anche La qualità 
+la Città del Vaticano, ma immediatamente disponibile, in caso di  nell’area idrica nel capitolo Clienti e collettività). Nel corso del 2019, 
+emergenza, per alimentare la rete potabile a servizio di 350.000  in linea con l’anno precedente, le Società idriche, ed in particolare 
+abitanti delle zone centrali di Roma. In particolare, nell’anno, sono  Acea Ato 2, hanno proseguito un’intensa attività di ricerca perdite, 
+stati presentati alla Regione Lazio gli studi per le aree di salvaguardia  al fine di recuperare il più possibile la risorsa (si veda il box dedi-
+e di influenza, così come richiesto in base al nuovo Piano di Tutela  cato); inoltre, Acea Ato 2 ha istituito un’Unità dedicata alla tutela 
+delle Acque Regionale (PTAR). La richiesta di concessione è stata  della risorsa idrica e all’attuazione delle iniziative finalizzate alla ri-
+pubblicata ma al momento non è stata ancora rilasciata. duzione delle perdite. 
+Prospetticamente la rete d’innaffiamento del Comune di Roma  Congiuntamente all’attività di ricerca perdite occulte, Acea Ato 2 
+e della Città del Vaticano sarà alimentata dalle acque in uscita  ha proseguito le attività di distrettualizzazione, ovvero di suddi-
+dall’impianto di depuratore COBIS; a tal fine nel 2019 l’impianto è  visione della rete in aree tra loro non connesse e con immissioni 
+stato sottoposto a lavori di adeguamento per l’implementazione di  misurate, che consente di ottimizzarne la gestione, agevolando e 
+un trattamento specifico di depurazione 120 (si veda anche L’acqua  rendendo più tempestivi gli interventi di riparazione e riducendo-
+distribuita e restituita all’ambiente nel capitolo Clienti e collettività). ne la frequenza. La metodologia basata sui distretti idrici permette 
+Acea Ato 5 ha individuato la prima fonte idrica dalla quale iniziare gli  l’ottimizzazione delle pressioni di esercizio con un immediato van-
+studi funzionali alla redazione del PSA, proseguito nella formazione  taggio in termini di riduzione di volumi persi, garantendo la possi-
+obbligatoria, organizzata dall’Istituto Superiore di Sanità e dal Mi- bilità di procedere ad una ricerca mirata delle perdite in campo nei 
+nistero della Sanità, del personale che redigerà i Piani di Sicurezza  distretti più critici. 
+dell’Acqua (PSA). Complessivamente, ad oggi, sono stati studiati circa 6.200 km di 
+In Gori, nel 2019, è stato composto il team che si occuperà di redi- rete di distribuzione e realizzati 300 distretti di misura. L’attività è 
+gere i PSA ed è stata avviata la valutazione del sistema idrico.  stata articolata in rilievi, misure di portata e pressione, produzione 
+Nel 2019 Gesesa, come Acea Ato 5, ha formato il personale dedi- cartografica, analisi delle utenze e bilancio idrico, modellizzazione 
+cato ai Piani di Sicurezza dell’Acqua (PSA) ed avviato l’acquisizione  matematica ed attività di ricerca perdite. Le risultanze delle attività 
+delle informazioni sulle fonti di captazione del sistema idrico.  di studio ed efficientamento sono state importate nei sistemi GIS.
+LA DISTRETTUALIZZAZIONE DELLA RETE IDRICA DI ACEA ATO 2
+Nell’ambito delle attività di distrettualizzazione della rete idrica, nel 2019, sono stati installati, dal personale tecnico di Acea Ato 2, circa 520 stru-
+menti di misura di portata e pressione nei distretti idrici, che consentiranno il monitoraggio puntuale delle perdite, affioranti ed occulte, a Roma e 
+nei 12 comuni interessati, l’ottimizzazione delle quote piezometriche e la conseguente riduzione dei volumi idrici persi. Il piano di distrettualizzazione 
+e installazione di strumenti di misura nei distretti interesserà progressivamente l’intero territorio gestito da Acea Ato 2.
+Nel 2019 anche Acea Ato 5 ha sviluppato l’analisi degli assetti  Nell’Ambito Distrettuale Sarnese-Vesuviano, gestito da Gori, sono 
+delle reti idriche (in particolare presso parte dei territori di Ati- stati realizzati numerosi interventi di riduzione delle perdite idriche, 
+na, Cassino, Castrocielo, Colfelice, Fiuggi, Frosinone, Morolo,  tra cui l’installazione di valvole di regolazione del regime delle pres-
+Serrone, Sora, Strangolagalli, Roccasecca, Patrica, Sgurgola,  sioni, e diverse operazioni di ricerca perdite sistematica sulle reti 
+Supino). idriche; inoltre, gli interventi di bonifica condotti su 66 km di reti 
+In totale è stato possibile realizzare 148 distretti, che hanno inte- idriche, distribuiti su quasi tutti i Comuni dell’Ambito Distrettuale, 
+ressato circa 1.190 km di rete idrica. Inoltre, con l’attività puntuale  hanno consentito un recupero di risorsa stimato in circa 193 l/s.
+di ricerca perdite, principalmente attraverso sistemi acustici, sono  Gesesa nel 2019 ha ulteriormente sviluppato la distrettualizzazione 
+state identificate complessivamente 140 perdite, di cui 40 oc- delle reti idriche, estendendo la riduzione delle pressioni e ponen-
+culte. Attraverso l’attività di distrettualizzazione e l’installazione di  dosi l’obiettivo di intervenire progressivamente sulla rete di tutti i 
+dispositivi di riduzione di pressione è stato ridotto del 5% circa il  comuni gestiti. A valle dell’analisi degli assetti delle reti idriche sono 
+volume dell’immesso121 in rete. stati bonificati circa 2 km di rete idrica.
+GRAFICO N. 49 – LE PERDITE IDRICHE REALI 
+Consumi autorizzati  Consumo fatturato misurato Acqua
+fatturati Consumo fatturato non misurato fatturata
+Consumi 
+autorizzati
+Consumi autorizzati  Consumo non fatturato misurato
+non fatturati Consumo non fatturato non misurato
+VOLUME IMMESSO 
+IN RETE Acqua
+Consumo non autorizzato non
+Perdite apparenti Imprecisione dei contatori dei clienti
+fatturata
+Perdite  Perdite della rete di trasporto e di distribuzione
+idriche
+Perdite e sﬁori dai serbatoi
+Perdite reali
+Perdite dalle prese d’utenza ﬁno al contatore
+NB L’immagine è riferita al modello dell’International Water Association.
+120  Si tratta di un trattamento di terziario di filtrazione a doppio stadio e disinfezione con raggi UV.
+121  Il dato non è ancora consolidato.
+LE RELAZIONI CON L’AMBIENTE 187

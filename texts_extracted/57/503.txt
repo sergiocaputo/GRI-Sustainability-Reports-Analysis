@@ -1,0 +1,45 @@
+Bilancio Consolidato 2017
+Sezione 13 – Rettiﬁche/Riprese di valore nette su attività materiali – Voce 200
+(cid:20)(cid:22)(cid:17)(cid:20)(cid:17)(cid:3)(cid:53)(cid:72)(cid:87)(cid:87)(cid:76)(cid:192)(cid:70)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:81)(cid:72)(cid:87)(cid:87)(cid:72)(cid:3)(cid:86)(cid:88)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Rettifiche di valore per 
+Attività/Componente reddituale  Ammortamento  deterioramento  Riprese di valore  Risultato netto 
+(a)  (b)  (c)  (a + b + c) 
+A. Attività materiali 
+A.1 Di proprietà  (9.958)  -  -  (9.958)
+- Ad uso funzionale  (9.725)  -  -  (9.725)
+- Per investimento  (233)  -  -  (233)
+A.2 Acquisite in leasing finanziario  -  -  1  1
+- Ad uso funzionale  -  -  -  -
+- Per investimento  -  -  1  1
+Totale  (9.958)  -  1  (9.957)
+(cid:3)
+Sezione 14 – Rettiﬁche/Riprese di valore nette su attività immateriali – Voce 210
+(cid:20)(cid:23)(cid:17)(cid:20)(cid:3)(cid:53)(cid:72)(cid:87)(cid:87)(cid:76)(cid:192)(cid:70)(cid:75)(cid:72)(cid:18)(cid:85)(cid:76)(cid:83)(cid:85)(cid:72)(cid:86)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:81)(cid:72)(cid:87)(cid:87)(cid:72)(cid:3)(cid:71)(cid:76)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:76)(cid:80)(cid:80)(cid:68)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:79)(cid:76)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Rettifiche di valore per 
+Attività/Componente reddituale  Ammortamento  deterioramento  Riprese di valore  Risultato netto 
+(a)  (b)  (c)  (a + b + c) 
+A. Attività immateriali 
+A.1 Di proprietà  (5.089)  -  -  (5.089) 
+- Generate internamente dall’azienda  -  -  -  - 
+- Altre  (5.089)  -  -  (5.089) 
+A.2 Acquisite in leasing finanziario  -  -  -  - 
+Totale  (5.089)  -  (2)  (5.089) 
+(cid:3)
+Sezione 15 – Gli altri oneri e proventi di gestione – Voce 220
+15.1 Altri oneri di gestione: composizione
+Totale  Totale 
+Voci 
+31/12/2017  31/12/2016 
+Perdite su revocatorie fallimentari  (101)  (235) 
+Perdite su cause passive  (2.694)  (1.924) 
+Ammortamenti su migliorie immobili di terzi  (836)  (952) 
+Oneri tasse e penalità  (201)  (5.815) 
+Perdite su rapine  (455)  (760) 
+Altri  (2.963)  (4.426) 
+Totale  (7.250)  (14.112) 
+(cid:3)
+Nella sottovoce “Oneri, tasse e penalità” del 31/12/2016 è ricompreso l’importo transattivo riconosciuto dalla Ca-
+pogruppo all’ex outsourcer informatico delle due banche abruzzesi (pari a circa 4,8 milioni di euro), C.S.E. Consorzio 
+Servizi Bancari Scrl, a titolo di penale per l’esercizio del recesso anticipato statutariamente previsto, ﬁnalizzato alla 
+migrazione di Banca Tercas e Banca Caripe verso l’outsourcer informatico del Gruppo.
+503

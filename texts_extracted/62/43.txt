@@ -1,0 +1,53 @@
+Considering the emissions produced by the electricity and heat plants shown in the table, the carbon 
+footprint of energy production in 2018 was 482 kg/MWh, down 16% compared to the 2015 baseline and 
+down compared to 2017 (-3.1%) due to lower emissions: (i) from landfills, which were affected by a 
+decrease in use for disposal of municipal waste; (ii) from waste-to-energy plants, as a result of lower energy 
+production; (iii) from plants serving district heating, due to lower electricity production of the cogeneration 
+plants, in particular that of Imola Casalegno (compared both to 2017 and to the forecasts for 2018). 
+The carbon footprint values for energy production were recalculated in 2018 to include: (i) emissions from 
+the  F3  industrial  waste-to-energy  plant  in Ravenna,  (ii) emissions  from the  combustion  of  biogas  in 
+biodigesters and purification plants for the production of electricity, and (iii) the energy produced by 
+district heating power plants. The values for 2015-2017 shown in the table are therefore pro-forma. The 
+carbon footprint for energy production calculated for the year 2018 on a like-for-like basis published in the 
+previous Report was 527 t/kWh, stable compared to 2017. 
+The measures already in place and those planned by the Hera Group will enable us to further reduce the 
+carbon footprint of our energy production in the years to come. By 2022, we expect to decrease the carbon 
+footprint of our energy production by 23% (442 kg of CO /MWh) compared to 2015, mainly by producing 
+2
+biomethane from organic waste and as a result of further decreasing the use of landfills to treat municipal 
+waste. 
+The EU-ETS (European Union Emission Trading System) sets a cap on the total level of emissions allowed to 
+all participants in the scheme, but it also allows them to trade emission quotas on the market according to 
+their needs. The Hera Group has 9 plants that are authorized to emit greenhouse gases on the basis of 
+Emissions Trading regulations, for a total installed furnace power of 520 MW. Carbon dioxide emissions 
+recorded in 2018, equal to 158,737 tonnes, are lower than those of 2017 (178,161 tonnes), mainly due to a 
+milder climate, noting that all the plants feed district heating networks whose energy demand depends on 
+seasonal weather. For all the plants concerned, the maximum emissions limit set for 2018 is 34,487 tonnes, 
+in down as planned compared to the previous year as envisaged by the regulatory system. The free quota 
+allocation in 2018 amounted to 18,546 tonnes. 
+Scope 3 greenhouse gas emissions (thousands of tonnes) 
+   2017  2018 
+Sales of natural gas  5,433  5,469 
+Sales of electricity  4,989  4,381 
+Emissions from industrial cogeneration contracts 
+49  49 
+(not included in Scope 2) 
+Emissions from services provided  806  777 
+Emissions related to energy consumed (not 
+69  66 
+included in Scope 2) 
+Total  11,346  10,741 
+The sale of natural gas item includes the production of the gas sold (upstream) and its use by customers. The sales of 
+electricity item include the generation of the not renewable electricity sold. Emissions from industrial cogeneration 
+contracts include the production of gas consumed (upstream) in industrial cogeneration plants operated as a service 
+by HSE and the gas consumption of plants operated as a service by HSE. Le emissions of services operated as a service 
+include: (i) the extraction and transport of fuels used in the Group(cid:859)s vehicles; (ii) the use of vehicles by suppliers for 
+waste collection; (iii) the use of glass, plastic and recovered paper; (iv) the printing of bills. Emissions relating to 
+energy consumed include electricity grid losses and the extraction and transport of fuels used to generate electricity. 
+As in 2017, we once again calculated our scope 3 emissions, i.e. indirect greenhouse gas emissions that 
+occur as a result of the company(cid:859)s activities, but from sources that are not owned or directly controlled by 
+the organization. This category may include activities both upstream and downstream of the business 
+perimeter, such as the extraction and production of purchased raw materials or emissions occurring in the 
+use-phase  of  the  products  sold.  The  total  emissions  of  the  categories  considered  in  the  calculation 
+44 
+ 

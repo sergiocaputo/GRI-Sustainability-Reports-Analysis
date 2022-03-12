@@ -1,0 +1,54 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Gli investimenti in azioni si riferiscono:
+per 37 milioni di euro, al fair value di 32.059 azioni privilegiate di Visa Incorporated (Series C Convertible Participating 
+Preferred Stock) assegnate a seguito del perfezionamento dell’operazione di cessione dell’azione di Visa Europe Ltd a Visa 
+Incorporated avvenuta il 21 giugno 2016; tali titoli azionari sono convertibili in azioni ordinarie in base al rapporto di 13.89359  
+azioni ordinarie ogni azione di classe C e opportunamente scontate a un idoneo tasso per tener conto della loro illiquidità in 
+quanto convertibili in più tranches a partire dal quarto anno dal closing e sino al dodicesimo anno; 
+per 4 milioni di euro, dal fair value di ulteriori 11.144 azioni di Classe C della Visa Incorporated; tali titoli azionari non sono oggetto di 
+quotazione in un mercato regolamentato ma, in caso di alienazione, sono immediatamente convertibili in titoli di Classe A (rapporto 
+di conversione di quattro azioni ordinarie ogni azione di Classe C), regolarmente quotati sul New York Stock Exchange.
+L’oscillazione complessiva del fair value nell’esercizio in commento è positiva per 11 milioni di euro ed è rilevata nell’apposita 
+riserva di Patrimonio netto.
+Infine, nel corso dell’ultimo trimestre dell’esercizio 2017, Poste Italiane S.p.A. ha alienato in più soluzioni, e previa conversione 
+in azioni in Classe A, le 756.280 azioni di Classe B della Mastercard Incorporated. L’operazione in oggetto ha generato una 
+plusvalenza di complessivi 91 milioni di euro, rilevata come provento da realizzo di natura non ricorrente iscritta nella voce 
+Ricavi da servizi finanziari.
+Strumenti finanziari derivati
+I movimenti degli strumenti derivati rilevati nel corso dell’esercizio sono i seguenti:
+tab. A5.3 - Movimentazione degli Strumenti finanziari derivati
+Fair value 
+Cash flow hedging hedging FV vs CE Totale
+Acquisti a termine Vendite a termine Asset swap Asset swap Acquisti a termine Vendite a termine
+nozionale fair  nozionale fair  nozionale fair  nozionale fair  nozionale fair  nozionale fair  nozionale fair 
+(milioni di euro) value value value value value value value
+Saldo al  
+400  3  -    -    1.390  (65) 16.150  (2.052) -    -    -    -    17.940  (2.114)
+1° gennaio 2017
+Incrementi/(decrementi) * -    (25) 1.408  (23) 50  (9) 5.205  446  -    -    92  -    6.755  389 
+Proventi/(Oneri) a CE ** -    -    -    -    -    -    -    2  -    -    -    -    -    2 
+Operazioni 
+(400) 22  -    -    (330) 15  (1.600) 444  -    -    (92) -    (2.422) 481 
+completate ***
+Saldo al  
+-    -    1.408  (23) 1.110  (59) 19.755  (1.160) -    -    -    -    22.273  (1.242)
+31 dicembre 2017
+Di cui:
+Strumenti derivati 
+-    -    -    -    175  31  9.370  364  -    -    -    -    9.545  395 
+attivi
+Strumenti derivati 
+-    -    1.408  (23) 935  (90) 10.385  (1.524) -    -    -    -    12.728  (1.637)
+passivi
+* Gli incrementi/(decrementi) si riferiscono al nozionale delle nuove operazioni e alle variazioni di fair value inte rvenute nell’esercizio sul portafoglio complessivo.
+** I Proventi ed Oneri imputati a Conto economico si riferiscono ad eventuali componenti inefficaci dei contratti di copertura che sono rilevati nei Proventi e Oneri 
+diversi derivanti da operatività finanziaria e assicurativa.
+*** Le Operazioni completate comprendono le operazioni a termine regolate, i differenziali scaduti e in maturazione l’estinzione di asset swap relativi a titoli ceduti.
+Gli strumenti di copertura del rischio di tasso d’interesse sui flussi finanziari hanno complessivamente subito nell’esercizio in 
+commento una variazione negativa netta del fair value riferita alla componente efficace della copertura di 57 milioni di euro 
+riflessa nella Riserva cash flow hedge di Patrimonio netto. 
+59. Sino alla data della completa conversione delle azioni assegnate in azioni ordinarie, il tasso di conversione potrà essere ridotto a seguito del manifestarsi di 
+passività della Visa Europe Ltd ritenute oggi solo potenziali.
+196

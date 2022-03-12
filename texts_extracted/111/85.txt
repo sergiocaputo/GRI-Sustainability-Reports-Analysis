@@ -1,0 +1,34 @@
+•  risparmio di elettricità per l’illuminazione del 27,67%.
+A gennaio 2017  il New Building Bertola  ha ottenuto la certificazione Leed Platinum, attribuita 
+dallo US Green Building Council.
+GRI 302-1 i consumi energetici all’interno dell’Organizzazione
+Periodo
+1° ottobre 2016  1° ottobre 2017  1° ottobre 2018 
+Consumo [GJ]
+/ 30 settembre  / 30 settembre  / 30 settembre 
+2017 2018 2019
+Consumi Elettrici 29.626 32.081 27.554
+Consumi Termici 18.838 13.326 10.902
+Consumi Energetici Totali 48.464 45.407 38.456
+ 
+La percentuale di energia elettrica derivante da fonte rinnovabile è pari al 95%. 
+Il consumo energetico annuo a metro quadro è pari a 100,47 Kwh.
+ 
+GRI 305-1 emissioni dirette GHG (Scope 1)
+gas naturale 
+Fattore
+Anno Fonte
+di conversione  
+tCO2eq/1000*m3
+https://ghgprotocol.org/sites/default/files/Emission_
+2019 1,88496
+Factors_from_Cross_Sector_Tools_March_2017.xlsx
+elettricità
+Fattore
+Anno Fonte
+di conversione  
+tCO2eq/Kwh
+2019  Associations of Issuing Bodies - European Residual 
+0,00047696
+(Location based)* Mixes 2017
+86 DICHIARAZIONE CONSOLIDATA DI CARATTERE NON FINANZIARIO 2019

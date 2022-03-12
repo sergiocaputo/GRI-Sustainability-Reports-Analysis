@@ -1,0 +1,49 @@
+Sustainability Report | ANNEX - GRI INDICATOR TABLES F73
+Emission factors used
+Emission conversion 
+U.M 2019 2018 Fonti
+factors
+Natural Gas (Methane) tCOe/mc 0.00204652 0.00203053 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+2
+Butane Gas tCOe/kg 0.003 0.003 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+2
+Gas Oil tCOe/l 0.00297049 0.00275821 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+2
+Diesel tCOe/l 0.00262694 0.00259411 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+2
+Petrol tCOe/l 0.00220307 0.00220904 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+2
+LPG tCOe/l 0.00151906 0.0015226 UK Government - GHG Conversion Factors for Company Reporting 2018/2019
+2
+R-407C GWP 1774 European Regulation on fluorinated greenhouse gases 517/2014
+HFC R134 GWP 1100 European Regulation on fluorinated greenhouse gases 517/2014
+R-22 GWP 1810 European Regulation on fluorinated greenhouse gases 517/2014
+R-404A GWP 3922 European Regulation on fluorinated greenhouse gases 517/2014
+Location-based 
+electricity
+Italy tCO/kWh 0.000359 0.000360 Terna, International Comparisons 2017, 2016
+2
+France tCO/kWh 0.000072 0.000053 Terna, International Comparisons 2017, 2016
+2
+U.K. tCO/kWh 0.000285 0.000310 Terna, International Comparisons 2017, 2016
+2
+Spain tCO/kWh 0.000296 0.000254 Terna, International Comparisons 2017, 2016
+2
+Poland tCO/kWh 0.000765 0.000783 Terna, International Comparisons 2017, 2016
+2
+Hungary tCO/kWh 0.000277 0.000288 Terna, International Comparisons 2017, 2016
+2
+Electricity Market 
+based
+Italy tCO/kWh 0.00048329 0.00047653 European Residual Mixes 2018, 2017
+2
+France tCO/kWh 0.00005123 0.00005734 European Residual Mixes 2018, 2017
+2
+U.K. tCO/kWh 0.00038052 0.00036652 European Residual Mixes 2018, 2017
+2
+Spain tCO/kWh 0.00044839 0.00044638 European Residual Mixes 2018, 2017
+2
+Poland tCO/kWh 0.00089712 0.00083455 European Residual Mixes 2018, 2017
+2
+Hungary tCO/kWh 0.00034537 0.0003414 European Residual Mixes 2018, 2017
+2

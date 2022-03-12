@@ -1,0 +1,81 @@
+Nota integrativa consolidata
+A.4 - INFORMATIVA SUL FAIR VALUE 
+1
+INFORMATIVA DI NATURA QUALITATIVA . M
+O
+D
+ELLO
+A.4.1 - Livelli di fair value 2 e 3: tecniche di valutazione e input utilizzati  D
+I B
+U
+SIN
+ESS
+Per la valutazione degli strumenti ﬁ nanziari il Gruppo ha pre- bilancio, a cui vengono sommati eventuali premi puri non 
+disposto una metodologia di pricing che recepisce le previsioni  ancora investiti alla data di valutazione.
+dei principi contabili internazionali IAS/IFRS. L’IFRS13 deﬁ nisce 
+il fair value come il prezzo che si percepirebbe per la vendita  Per la valutazione dei derivati è utilizzato un approccio mark 
+di un’attività, ovvero che si pagherebbe per il trasferimento di  to model, alimentato da data provider di mercato e fondato 
+una passività in una libera transazione tra operatori di merca- su processi valutativi di comune accettazione. I derivati di co-
+to consapevoli e disponibili alla data di valutazione. La valu- pertura e tesoreria stipulati nell’ordinaria operatività di investi- 2
+tazione del fair value deve incorporare inoltre un premio per  mento - in particolare quelli di tasso e cambio - laddove non  . STR
+A
+il rischio di controparte, ovvero un Credit Value Adjustment  scambiati su mercati regolamentati, sono strumenti “over the  TEG
+(CVA) per le attività e un Debit Value Adjustment (DVA) per  counter” (OTC) ovvero negoziati bilateralmente con contro- IE
+quanto riguarda le passività. parti di mercato e la loro valutazione è effettuata mediante 
+appositi modelli di pricing. Al riguardo, negli ultimi anni si 
+Per la determinazione del fair value il Gruppo mantiene fermo  è andata progressivamente consolidando sia tra i principali 
+il riferimento diretto ai valori di mercato. L’esistenza di quota- broker di derivati OTC sia presso i mercati organizzati (central 
+zioni ufﬁ ciali in un mercato attivo è sempre gerarchicamente  counterparties) una nuova modalità di determinazione del fair 
+anteposta alle valorizzazioni emergenti da modelli di pricing  value basata sul tasso Eonia, in alternativa al tradizionale tasso  3
+strutturati sulle valutazioni di titoli comparabili e su parametri  Euribor. Durante la crisi ﬁ nanziaria si è determinato, infatti, un  . CO
+N
+di mercato.  sEeonnsiiab i(ldei fafellarerngzaimaleen sttoo rdiceallmo esnptree acdo ntrtae ntuatsoso e  Emuroibltoor  seta tbaisleso).   TESTO
+ D
+In assenza di un mercato attivo, il fair value è determinato  In considerazione del sempre maggiore consenso degli ope- I M
+utilizzando tecniche di valutazione volte a stabilire, in ultima  ratori sull’utilizzo della curva Eonia (tasso benchmark per le  ERC
+A
+analisi, quale prezzo avrebbe avuto lo strumento ﬁ nanziario  operazioni assistite da CSA) si è deciso di utilizzare due diverse  TO
+alla data di valutazione in un libero scambio motivato da nor- curve per il pricing dei derivati a seconda che il contratto sia o 
+mali considerazioni commerciali.  meno assistito da contratti CSA. Nel primo caso la modalità di 
+determinazione del fair value è basata sul tasso Eonia (tasso 
+Tali tecniche includono:  privo di rischio), nel secondo è basata sul tasso Euribor (che si 
+ritiene incorpori rischi di controparte). 
+•  il riferimento a valori di mercato indirettamente collegabili 
+4
+allo strumento da valutare e desunti da prodotti similari per  In seguito alla recente riforma dei tassi di riferimento del mer- . PER
+caratteristiche di rischio (comparable approach); FO
+cato monetario, introdotta dal Regolamento UE 2016/1011  R
+M
+•  le valutazioni effettuate utilizzando – anche solo in parte  (Benchmark Regulation, BMR), il panorama dei parametri  AN
+C
+– input non desunti da parametri osservabili sul mercato,  di mercato si è arricchito del nuovo tasso overnight Euro  E
+per i quali si fa ricorso a stime ed assunzioni formulate dal  Short Term (€STR), un tasso giornaliero non collateralizzato 
+valutatore (mark-to-model). calcolato sulla base delle transazioni effettuate sul mercato 
+monetario europeo, che sostituirà gradualmente il tasso Eo-
+La scelta tra le diverse metodologie di valutazione non è arbi- nia nell’indicizzazione di strumenti e contratti ﬁ nanziari. La 
+traria, dovendo le stesse essere applicate in ordine gerarchico,  pubblicazione del nuovo tasso overnight €STR (risk-free rate 
+e comporta una correlata rappresentazione suddivisa per livel- per l’area dell’euro) è partita da ottobre 2019 e il periodo di 
+li. Si attribuisce assoluta priorità ai prezzi ufﬁ ciali disponibili su  transizione durerà ﬁ no al 31 dicembre 2021, concedendo la  5. G
+mercati attivi per le attività e passività da valutare (livello 1 -  possibilità a tutti i fornitori di benchmark di conformarsi ai  OV
+effective market quotes) ovvero per attività e passività similari  nuovi principi. La riforma ha riguardato anche il tasso Euribor,  ERN
+A
+(livello 2 - comparable approach) e priorità più bassa a input  prevedendone una metodologia di calcolo ibrida, la cui tran- NC
+E
+non osservabili e, quindi, maggiormente discrezionali (livello  sizione a cura del European Money Markets Institute (EMMI) 
+3 - mark-to-model approach).  è stata completata a ﬁ ne novembre 2019. I nuovi criteri do-
+vranno conferire, almeno nell’intenzione del legislatore, una 
+Il portafoglio di attività ﬁ nanziarie valutate al fair value  maggiore attendibilità all’indice Euribor, così da evitare oscilla-
+classiﬁ cate nel livello 2 è costituito da polizze assicurative  zioni determinate da eventuali alterazioni, come già successo 
+stipulate dal Gruppo per assicurare rendimenti di mercato  in passato. 6
+ai Piani di ﬁ delizzazione delle Reti di Private Banker. Per la  . BILA
+determinazione del fair value delle polizze di Ramo I il cal- Il comparto derivati del portafoglio bancario si compone  N
+C
+colo è effettuato con metodo attuariale prospettivo, basato  principalmente di contratti di Interest Rate Swap. Nell’ambi- IO C
+sul principio di equivalenza iniziale tra i valori attuali medi  to del Gruppo vengono di regola poste in essere coperture  ON
+S
+degli impegni contrattuali assunti dall’assicuratore e i valori  dell’attivo tramite strumenti ﬁ nanziari derivati, che possono  OLID
+attuali medi di quelli assunti dall’assicurato/contraente. Per  essere speciﬁ che (c.d. micro fair value hedge) a copertura  A
+T
+la determinazione del fair value delle polizze di Ramo III  di obbligazioni a tasso ﬁ sso, o generiche (c.d. macro fair  O
+il fair value è pari al controvalore delle quote alla data di  value hedge) a copertura dei ﬁ nanziamenti a tasso ﬁ sso, 
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 279

@@ -1,0 +1,61 @@
+EMISSIONI  
+analisi in continuo delle emissioni   migliora l’indice di intensità delle emissioni 
+dei termovalorizzatori:   (SCOPE 2) da perdite di rete sul totale di energia 
+valori degli inquinanti sensibilmente   elettrica distribuita:  
+inferiori ai limiti di legge 0,0112 t/MWh
+pre più performanti sotto il profilo della qualità delle emissioni. 
+LE EMISSIONI IN ATMOSFERA 
+Gli impianti di termovalorizzazione, gestiti secondo le norme 
+UNI EN ISO 14001 e lo standard OHSAS 18001:2007, van-
+Il monitoraggio delle emissioni in atmosfera dovute agli impian- tano la registrazione secondo lo schema europeo EMAS III, 
+ti Acea è un aspetto costantemente presidiato. In particolare,  estesa fino al 2021. In particolare, presso l’impianto di San Vit-
+presso gli impianti di termovalorizzazione, esso viene effettuato  tore del Lazio, nel 2019 è stato condotto il monitoraggio degli 
+tramite cabine fisse e mobili che campionano e analizzano i fumi  inquinanti persistenti (POP), per verificare lo stato attuale dei 
+in uscita dai camini, restituendo le misure di numerosi parame- livelli di contaminazione del suolo. Sono stati, inoltre, condotti 
+tri, periodicamente controllate da personale interno e certifi- i rilievi delle emissioni odorigene, il monitoraggio delle emissio-
+cate da laboratori esterni qualificati. Anche nel 2019, i valori dei  ni diffuse e fuggitive, la valutazione di impatto acustico sull’e-
+principali inquinanti risultano sensibilmente al di sotto dei limiti  sterno, uno studio epidemiologico sulla popolazione interessata 
+di legge (si veda la tabella n. 62). In applicazione del principio di  volta a rilevare eventuali impatti sulla salute pubblica. Non sono 
+precauzione, prosegue la ricerca di soluzioni tecnologiche sem- state rilevate criticità. 
+TABELLA N. 62 – EMISSIONI IN ATMOSFERA PRODOTTE DAGLI IMPIANTI DI TERMOVALORIZZAZIONE DI SAN VITTORE 
+DEL LAZIO E DI TERNI (2017-2019)
+impianto San Vittore del Lazio (*) impianto Terni (*)
+parametro   parametro  
+inquinante u. m. 2017 2018 2019 2017 2018 2019
+di riferimento (**) di riferimento (**)
+HCl mg/Nm3 8 0,053 0,184 0,151 8 4,002 4,499 3,580
+NO mg/Nm3 70  18,089 28,273 29,652 180 134,274 140,157 128,650
+x
+SO mg/Nm3 40 0,014 0,006 0,003 25 0,490 0,194 0,430
+2
+HF mg/Nm3 1 0,011 0,021 0,023 1 0,122 0,084 0,080
+CO mg/Nm3 40 1,447 1,320 0,803 25 1,018 1,084 1,140
+polveri totali
+mg/Nm3 3 0,006 0,006 0,007 25 0,678 0,705 0,790
+(particolato)
+IPA (idrocarburi 
+mg/Nm3 0,01  0,00001 0,00002 0,00001 0,01 0,0001 0,0001 0,0000
+policiclici aromatici)
+diossine e furani 
+ng/Nm3 0,1 0,0047 0,0065 0,0074 0,1 0,0173 < 0,001 0,0087
+(PCDD +PCDF) 
+metalli pesanti (Sb, 
+As, Pb, Cr, Co,  mg /Nm3 0,5 0,0262 0,0253 0,0387 0,3 0,109 0,204 0,033
+Cu, Mn, Ni, V)
+(*)    L e analisi per IPA, diossine e furani e metalli pesanti e loro composti sono di tipo quadrimestrale in discontinuo. La presenza del simbolo “<” individua valori di concen-
+trazione pari o inferiori ai limiti di rilevabilità degli strumenti utilizzati dal laboratorio.
+(**) I parametri di riferimento, D. Lgs. n. 46/2014, 2000/76/CE e AIA, sono distinti per ciascun impianto di termovalorizzazione.
+NB  Per San Vittore del Lazio, nel corso degli anni le concentrazioni registrate dei parametri HCl, SO, polveri e HF sono state prossime al limite di rilevabilità dello strumen-
+2
+to. Pertanto, in questi ambiti di misura, gli scostamenti sono da considerarsi poco significativi ai fini delle variazioni assolute di concentrazioni e masse. 
+LE EMISSIONI DI GAS A EFFETTO SERRA  Acea quantifica le proprie emissioni di CO2 valutando la carbon 
+Il documento internazionale Greenhouse Gas Protocol (o GHG Pro- footprint dei singoli macro processi produttivi secondo le linee gui-
+tocol) classifica le emissioni di gas a effetto serra in tre tipologie: da del GHG Protocol134; partecipa, infatti, come già ricordato, alla 
+•  emissioni di tipo Scope 1: emissioni di gas ad effetto serra di  compilazione annuale del questionario internazionale sulle emissio-
+tipo diretto; ni di anidride carbonica, il cosiddetto “CDP”. 
+•  emissioni di tipo Scope 2: emissioni di gas ad effetto serra di  Le emissioni di tipo Scope 1, dirette, provengono principalmente 
+tipo indiretto;  dai termovalorizzatori e dalle centrali termoelettriche del Grup-
+•  emissioni di tipo Scope 3: altre emissioni di gas ad effetto serra  po. Includono, inoltre, le emissioni derivanti dal processo di ri-
+di tipo indiretto. scaldamento, dagli essiccatori, da alcuni processi degli impianti di 
+134  Si veda per approfondimenti www.ghgprotocol.org.
+LE RELAZIONI CON L’AMBIENTE 195

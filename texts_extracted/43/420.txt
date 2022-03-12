@@ -1,0 +1,67 @@
+10. Glossario
+Assogestioni Banca dei Regolamenti Internazionali (BRI) 
+Associazione italiana delle società di gestione del risparmio che  Organismo internazionale con sede a Basilea, fondato nel 
+rappresenta le principali SGR italiane operanti in Italia, diverse  1930. Le sue funzioni riguardano l’assistenza ﬁ nanziaria alle 
+banche e imprese di assicurazione che operano nell’ambito del- istituzioni monetarie nazionali e la promozione di regole di 
+la gestione individuale e della previdenza complementare. Fan- carattere generale che riguardano il sistema bancario mon-
+no parte dell’associazione anche alcune società di gestione este- diale.
+re che operano in Italia. Tra le varie attività svolte, Assogestioni 
+elabora la classiﬁ cazione dei fondi comuni di investimento. Banca depositaria
+Banca a cui è afﬁ dato il servizio di custodia ed amministrazio-
+Assoreti ne dei valori di terzi (liquidità e strumenti ﬁ nanziari) in gestio-
+Associazione delle banche e delle imprese di investimento che  ne presso la società di gestione. Nel caso di fondi comuni di 
+prestano il servizio di consulenza in materia di investimenti,  investimento e di fondi pensione la banca depositaria svolge 
+come deﬁ nito dall’art. 1, comma 5, lett. f) del D. Lgs. 24 feb- anche un ruolo di controllo dell’operato della società di ge-
+braio 1998, n. 58, avvalendosi dei propri consulenti ﬁ nanziari  stione, sia in termini di rispetto del regolamento del fondo sia 
+abilitati all’offerta fuori sede. Ha lo scopo di seguire lo studio  in termini di correttezza contabile delle transazioni eseguite 
+e l’evoluzione della normativa, garantire il costante contatto  ed effettua il calcolo del NAV.
+con le Istituzioni, fornire l’elaborazione statistica di dati che 
+permettano l’analisi dell’evoluzione del settore. Banca Europea per gli Investimenti (BEI)
+Istituzione ﬁ nanziaria dell’Unione Europea che si occupa di 
+Attività ponderate per il rischio (RWA) investimenti pubblici o privati in linea con gli obiettivi dell’U-
+Attività per cassa e fuori bilancio (derivati e garanzie) classiﬁ - nione.
+cate e ponderate in base a coefﬁ cienti legati ai rischi, ai sensi 
+della normativa bancaria emanata dagli organi di vigilanza  Banca Europea per la Ricostruzione e lo Sviluppo (BERS)
+per il calcolo dei coefﬁ cienti di solvibilità. Istituto di credito internazionale che fornisce assistenza ﬁ -
+nanziaria a quei Paesi europei che avviano processi di riforma 
+Audit economica.
+L’insieme delle attività di controllo sui processi e sulla contabilità 
+societaria che vengono svolte sia da strutture interne (internal  Banca Mondiale
+audit) sia da società di revisione indipendenti (external audit). Istituto di credito che, tra gli obiettivi principali, contribuisce 
+allo sviluppo dei Paesi emergenti.
+Automated Teller Machine (ATM)
+Apparecchiatura automatica per l’effettuazione da parte della  Banking book
+clientela di operazioni quali prelievo di contante, versamento  Identiﬁ ca la parte del portafoglio, in particolare titoli, non de-
+di contante o assegni, richiesta di informazioni sul conto, pa- stinata all’attività di negoziazione.
+gamento di utenze, ricariche telefoniche, ecc.. L’attivazione del 
+terminale avviene da parte del cliente introducendo una carta  Basilea 2
+magnetica e digitando il codice personale di identiﬁ cazione. Denominazione comune del Nuovo Accordo sul capitale in 
+vigore dal 1° gennaio 2007.
+Azione L’accordo si basa su tre pilastri:
+Titolo rappresentativo di una quota del capitale di una società  -  Pillar 1 (primo pilastro): fermo restando l’obiettivo di un livel-
+per azioni o in accomandita per azioni. L’azione dà diritto al  lo di capitalizzazione pari all’8% delle esposizioni ponderate 
+suo possessore allo status di socio. In caso di liquidazione  per il rischio, è stato delineato un nuovo sistema di regole 
+della società, il rimborso del capitale avviene in via residuale  per la misurazione dei rischi tipici dell’attività bancaria e ﬁ -
+dopo aver soddisfatto gli altri creditori.  nanziaria (di credito, di controparte, di mercato e operativi) 
+che prevede metodologie alternative di calcolo caratterizza-
+Backtesting te da diversi livelli di complessità con la possibilità di utiliz-
+Analisi retrospettive volte a veriﬁ care l’afﬁ dabilità delle misu- zare, previa autorizzazione dell’Organo di Vigilanza, modelli 
+razioni delle fonti di rischio associate alle posizioni dei porta- sviluppati internamente;
+fogli di attività. -  Pillar 2 (secondo pilastro): prevede che le banche devono 
+dotarsi di processi e strumenti per determinare il livello di 
+Banca-assicurazione capitale interno complessivo (Internal Capital Adequacy As-
+Espressione che indica l’offerta di prodotti assicurativi attra- sessment Process - ICAAP) adeguato a fronteggiare tutte le 
+verso la rete operativa delle aziende di credito. tipologie di rischio, anche diverse da quelle presidiate dal 
+requisito patrimoniale complessivo (primo pilastro), nell’am-
+Banca Centrale Europea (BCE) bito di una valutazione dell’esposizione, attuale e prospet-
+Istituzione comunitaria deputata alla gestione della politica  tica, che tenga conto delle strategie e dell’evoluzione del 
+monetaria nell’Area Euro. Il suo obiettivo è la stabilità dei  contesto di riferimento. All’Autorità di Vigilanza spetta il 
+prezzi. I principali organi direttivi della BCE sono il Consiglio  compito di esaminare il processo ICAAP, formulare un giu-
+Direttivo, il Comitato Esecutivo e il Consiglio Generale. dizio complessivo ed attivare, ove necessario, le opportune 
+misure correttive;
+Banca d’Italia -  Pillar 3 (terzo pilastro): introduce obblighi di pubblicazione 
+Istituto di diritto pubblico che persegue ﬁ nalità d’interesse ge- delle informazioni riguardanti l’adeguatezza patrimoniale, 
+nerale nel settore monetario e ﬁ nanziario: il mantenimento della  l’esposizione ai rischi e le caratteristiche generali dei sistemi 
+stabilità dei prezzi, la stabilità e l’efﬁ cienza del sistema ﬁ nanzia- preposti all’identiﬁ cazione, alla misurazione e alla gestione 
+rio e gli altri compiti ad essa afﬁ dati dall’ordinamento nazionale. di tali rischi.
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 417

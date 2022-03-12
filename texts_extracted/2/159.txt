@@ -1,0 +1,66 @@
+Emergenti (MOE), virus emergenti, legionella e micro-nanopla- alla Protezione Civile, alla Regione Lazio, alla Città Metropolitana, 
+stiche in ambito idrico.  al Comune di Roma e alle ASL competenti.
+Le Società del Gruppo che gestiscono gli impianti di trattamento 
+Le Società del Gruppo garantiscono i massimi livelli di sicurezza e  rifiuti garantiscono l’esecuzione di un dettagliato piano di manuten-
+continuità nell’erogazione dei servizi gestiti, in collaborazione con le  zione ordinaria, per ridurre fermi di impianto per guasti o imprevi-
+istituzioni pubbliche. sti e minimizzare le manutenzioni straordinarie non programmate. 
+A tal fine, hanno approntato organizzazioni, procedure e strumenti  Tutte le strutture di ogni sito sono dotate di Piani di Emergenza 
+che, in caso di eventi critici (indisponibilità dei sistemi centrali, guasti,  che tengono conto degli scenari identificati per le emergenze sia 
+condizioni meteorologiche avverse, picchi di domanda e sollecitazioni  di carattere endogeno sia esogeno. Tali Piani esaminano gli aspetti 
+di rete, ecc.), permettono il tempestivo ripristino delle normali con- legati alla sicurezza dei lavoratori, garantendone l’incolumità con 
+dizioni di funzionamento di reti, impianti e sistemi (si vedano anche  specifiche procedure comportamentali e di esodo, annualmente 
+il capitolo Clienti, La qualità erogata e, più avanti, Tutela del patrimonio  verificate, e gli aspetti legati alla salvaguardia dell’ambiente, indi-
+e gestione dei rischi interni entro il paragrafo Lo stakeholder impresa).  viduando gli interventi emergenziali per limitare contaminazioni 
+Ciascuna Società operativa dispone di Piani per la gestione delle  delle matrici ambientali (aria, acqua, suolo). Le Autorizzazioni, in 
+emergenze e procedure d’intervento e, attraverso le centrali di con- base alle quali sono gestiti gli impianti, prevedono altresì obblighi 
+trollo, monitora costantemente lo stato di reti e impianti – idrici e  e modalità di comunicazione di eventi straordinari o emergenziali 
+fognari, elettrici e d’illuminazione pubblica – in collaborazione con la  agli Enti competenti, al fine di garantire la massima diffusione delle 
+Protezione Civile comunale e nazionale e Roma Capitale. informazioni ed eventualmente il coordinamento degli interventi.
+Ogni volta che un evento pregiudica i servizi gestiti (danni agli im-
+pianti e/o alle reti, crisi idrica/energetica, ecc.), le Società del Gruppo  PROGETTI PER LO SVILUPPO INNOVATIVO  
+ne danno comunicazione agli Enti competenti, al fine di agevolare il  E SOSTENIBILE DEL TERRITORIO
+coordinamento degli interventi. Nel 2019, in continuità con gli anni passati, Acea Ato 2 ha pro-
+Acea SpA ha una procedura relativa alla gestione delle emergenze di  seguito, di concerto con gli Amministratori locali, il programma 
+tipo sanitario e ambientale ad impatto sulla popolazione, di cui defi- d’installazione delle Case dell’acqua a Roma e in provincia, che ha 
+nisce il livello di rischio (basso, medio e alto), in base al quale prevede  reso possibile dotare, complessivamente, i territori di 83 chioschi 
+l’organizzazione di squadre d’intervento. (si veda capitolo Clienti, paragrafo La qualità erogata in area idrico).
+Il Piano per la gestione delle emergenze di Areti, la Società che  In ambito smart city, nel 2019, Acea, in collaborazione con Roma 
+cura la distribuzione dell’energia elettrica, fronteggia l’insorgere  Capitale, ha lanciato il piano per la mobilità elettrica, definendo 
+di guasti e indisponibilità diffuse sulla rete. Esso definisce: i diver- anche la strategia per l’e-mobility, a contrasto del mobility divide 
+si stati di attivazione (ordinario, allerta, allarme ed emergenza), in  dovuto al gap infrastrutturale. Ha avviato la fase di test delle piatta-
+funzione delle condizioni operative e ambientali; le procedure per  forme Charging Point Operator e Mobility Service Provider, me-
+l’attivazione (e successivo rientro) dei medesimi stati; le unità coin- diante un servizio di car-sharing interno con 25 auto elettriche, ed 
+volte e i rispettivi ruoli; le risorse materiali necessarie al manteni- installato le prime colonnine di ricarica per auto elettriche. È stata 
+mento in efficienza o il ripristino degli impianti. È prevista, inoltre,  inoltre sviluppata una partnership con l’Università LUISS Guido 
+la nomina di un Responsabile per la Gestione dell’Emergenza e di  Carli che ha permesso di mettere a disposizione degli studenti una 
+una risorsa dedicata alla gestione della sicurezza, in casi stabiliti. I  piattaforma di servizi per la mobilità, tra cui la gestione della ricarica 
+Piani Operativi di dettaglio indicano, in maniera puntuale, modalità  e della prenotazione dell’auto o di un posto in navetta.
+di gestione delle tipologie di disservizio (come allagamenti, incendi, 
+disservizi della rete di telecontrollo, ecc.) e procedure da seguire,  Per promuovere lo sviluppo innovativo e sostenibile dei settori di ri-
+ad esempio, per la riaccensione del sistema elettrico in caso di  ferimento, Acea sviluppa collaborazioni e partnership con imprese 
+black-out della Rete di Trasmissione Nazionale (RTN) o per riali- complementari o operanti in settori affini ai business gestiti e con 
+mentare utenze di natura strategica (quali le sedi del Parlamento,  player dell’innovazione. 
+del Governo, lo Stato della Città del Vaticano, ecc.), i materiali, le  Nel corso dell’anno Acea ha siglato un protocollo d’intesa con  
+attrezzature e le risorse da coinvolgere a seconda della fattispecie.  Google Cloud al fine di migliorare la qualità dei servizi erogati ed 
+Il Piano master e i Piani Operativi di dettaglio sono aggiornati con  efficientare i processi operativi, attraverso l’innovazione digitale 
+cadenza annuale e periodicamente perfezionati sulla base dell’ana- dell’azienda con programmi ASL (Advanced Solutions Lab) e tec-
+lisi dei casi reali. L’efficacia delle procedure e la funzionalità delle  niche di apprendimento automatico (machine learning).
+apparecchiature vengono testate mediante esercitazioni. Inoltre, la  Per realizzare la rete di comunicazione a banda larga funzionale alle 
+Società, in ottica di miglioramento dei processi, è impegnata nella  smart grid nel territorio di Roma Capitale, Acea ha sottoscritto un 
+realizzazione di una piattaforma per l’acquisizione e il monitoraggio,  accordo con Open Fiber finalizzato al collegamento in fibra ottica 
+in tempo reale, di dati meteorologici in grado di alterare le condi- delle cabine primarie e secondarie. Inoltre, l’azienda ha siglato un ac-
+zioni di esercizio della rete elettrica. cordo con la Fondazione Policlinico Universitario Agostino Gemelli e 
+I Piani per la gestione delle emergenze delle Società operative in  Cassa Depositi e Prestiti per la creazione di una piattaforma digitale 
+ambito idrico, condivisi con le istituzioni del territorio (quali Pre- di servizi di smart health innovativi (telecure a domicilio, telemedi-
+fetture, ASL, Enti di Gestione d’Ambito), definiscono le condi- cine, ricette via mail, ecc.), con l’obiettivo di migliorare le prestazioni 
+zioni che pregiudicano la continuità e la qualità del servizio idrico  sanitarie con controlli e monitoraggi a distanza di alcune patologie. 
+integrato, classificano i livelli di emergenza, descrivono le misure 
+preventive e di rimedio per tipologie di imprevisto (danni alle reti,  Il rapporto virtuoso con il territorio si esprime anche attraverso 
+inquinamento, crisi idrica ed emergenze relative al servizio di fo- la collaborazione tra le Società del Gruppo e gli istituti scolastici 
+gnatura e depurazione) e prevedono la ripartizione dei compiti tra  presenti nelle aree geografiche servite, ad esempio nell’ambito del 
+le figure coinvolte (area tecnica e comunicazione). Nel 2019, Acea  programma di Alternanza scuola-lavoro (si veda il capitolo Perso-
+Ato 2 ha aggiornato il Piano, in coerenza con le linee guida dei  nale, paragrafo Valorizzazione delle risorse umane e comunicazione).
+Piani di Sicurezza dell’Acqua (PSA), esaminato 25 scenari critici  Ulteriori iniziative per le scuole, oltre al programma Acea Scuola 
+ed indicato per ciascuno le conseguenze, le manovre e le azioni di  attivo da molti anni (si veda capitolo Clienti, paragrafo Comuni-
+mitigazione necessarie. Il Piano è stato presentato alla Prefettura,  cazione, eventi e solidarietà), si sono svolte in occasione della par-
+164 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

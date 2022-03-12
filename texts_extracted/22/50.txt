@@ -1,0 +1,48 @@
+Cerved Information Solutions S.p.A. | Bilancio di Sostenibilità | 2017
+L’analisi dei dati usufruisce dell’ecosistema di API (Application Programming Interface) del 
+Gruppo, garantendo una più agevole integrazione con i sistemi dei clienti.
+L’innovazione  ha  permeato  anche  la  programmazione,  con  un 
+Per Cerved Credit Suite  cambiamento di approccio dal modello di sviluppo tradizionale a cascata 
+abbiamo attivato: 7 team 
+(Waterfall) alla metodologia Agile. 
+scrum, 50 sviluppatori,  
+Capitalizzando i modelli DevOps, ovvero un set di pratiche supportate 
+6 designer. 
+Inoltre sono stati coinvolti  da strumenti automatici e di Lean Management, Cerved ha introdotto 
+50 clienti, sono state  nuovi processi di automazione rispetto alla catena di produzione e 
+realizzate 150 feature, ci 
+di rilascio del software, permettendo ai suoi clienti di poter contare su 
+siamo impegnati per oltre 
+applicazioni sicure e di qualità superiore, in modo estremamente più 
+100 ore di test
+rapido. La metodologia Agile, infatti, oltre ad essere più adattiva e veloce 
+in un mondo complesso che cambia sempre più rapidamente, consente 
+un maggior livello di ingaggio e di commitment da parte degli oltre 200 
+sviluppatori interni. 
+È in questa direzione che lo sviluppo ha rivolto un’attenzione particolare all’ecosistema 
+delle API. Semplificando la possibilità di dialogo tra un’applicazione e un’altra, evitando 
+ridondanze e inutili replicazioni di codice, le API garantiscono una componente di 
+integrazione e di scambio delle informazioni che rende più veloci gli accessi, assicurando 
+nel contempo scalabilità, controllo e flessibilità delle piattaforme applicative realizzate. 
+Grazie a questo sistema di interfacce applicative, Cerved permette a una selezione di 
+sviluppatori e di Fintech di accedere ai suoi dati per creare nuovi programmi e nuovi 
+servizi in modo funzionale.
+Graph4You
+Graph4You consente di esplorare le relazioni  
+tra soggetti presenti nel database Cerved. 
+Tre le sue caratteristiche peculiari:
+• Innovazione: la sua struttura (a grafo) permette 
+di  identificare  e  approfondire  facilmente  le 
+relazioni  tra  i  soggetti.  Ogni  nodo  del  grafo 
+identifica un soggetto: Società, persona, Ente, 
+impresa non iscritta e via dicendo
+• Completezza: sulla piattaforma sono presenti 
+non solo connessioni, ma anche informazioni di 
+dettaglio su ciascun soggetto: Codice Ateco, dati 
+sul fatturato, dipendenti e così via
+• Integrabilità: progettata per essere facilmente 
+integrabile  nei  sistemi  gestionali  del  cliente, 
+garantisce una user experience ottimale
+* con Fintech si intende l'ecosistema di aziende che sta accelerando la digitalizzazione e automazione del 
+sistema bancario e finanziario usando tecnologia innovativa per rendere il sistema stesso più efficiente.
+50

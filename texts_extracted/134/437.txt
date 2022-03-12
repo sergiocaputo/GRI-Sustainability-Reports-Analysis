@@ -1,0 +1,40 @@
+ 
+   
+31 December  Increases  Decreases Net exchange Change in tax Reclassifications Other changes  31 December 
+(€’000) 
+2018  gains (losses)  rate  2019 
+Deferred tax assets                 
+Amortisation and depreciation  6,654  488  -  -  -  -  (837)  6,306 
+exceeding tax rates 
+Provisions for risks and  138,234  19,851  (4,434)  -  -  -  (533)  153,117 
+impairment losses 
+Tax effect of capital increase  -  -  (443)  -  -  -  2,216  1,773 
+Excess maintenance  15,822  4,595  (6,215)  -  -  -  1,441  15,843 
+Unrealised exchange losses  26,568  40,881  (26,568)  -  -  -  -  40,881 
+Other  35,856  5,725  (105)  -  -  -  2,533  44,009 
+Deferred tax assets before  223,134  71,540  (37,765)        4,820  261,729 
+offsetting 
+Offsetting  (28,133)  (3,132)  -  -  -  -  (15,413)  (46,678) 
+Net deferred tax assets  195,001  68,408  (37,765)        (10,593)  215,051 
+                 
+Deferred tax liabilities                 
+Uncollected default interest  (5,249)  -  -  -  -  -   (5,249) 
+Unrealised exchange gains  (20,052)  (35,775)  20,148  -  -  -  (97)  (35,775) 
+Other  (3,153)  (3,132)  421  -  -  -  (77)  5,943 
+Deferred tax liabilities before  (28,454)  (38,907)  20,569        (174)  (46,966) 
+offsetting 
+Offsetting  28,133  3,132         15,413  46,678 
+Net deferred tax liabilities  (321)  (35,775)  20,569        15,239  (288) 
+ 
+The €20.1 million increase in deferred tax assets is mainly due to the impairment losses recognised during the 
+year.  
+Deferred tax liabilities of €18.9 million include €18.7 million for the provision for the national tax consolidation 
+scheme. 
+The provision represents the company’s liability with its subsidiaries that have transferred their losses as part of 
+the IRES national tax consolidation scheme as per article 117 and subsequent articles of the Consolidated 
+Income Tax Act as per the regulations signed when they joined the scheme. 
+“Other” mostly comprises the deferred taxes that arose upon application of the new standards. 
+ 
+ 
+ 
+   438 

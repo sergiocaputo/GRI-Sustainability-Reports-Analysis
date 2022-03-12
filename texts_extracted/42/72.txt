@@ -1,0 +1,79 @@
+04_PRODUCTS AND CUSTOMERS_EFFICIENT POWERTRAINS AND TECHNOLOGIES
+    
+European Union A new regulatory test procedure for measuring CO emissions and 
+2
+fuel consumption of light duty vehicles, the World harmonized Light 
+In Europe, emissions are regulated by the European Commission  vehicles Test Procedure (WLTP), entered into force on September 1, 
+(EC) and the United Nations Economic Commission for Europe  2018 for all passenger cars. The WLTP is expected to provide CO 
+2
+(UNECE).  The  EC  imposes  standardized  emission  control  emissions and fuel consumption values that are more representative 
+requirements on vehicles sold in all 28 EU member states, while  of real driving conditions.
+non-EU countries apply regulations under the UNECE framework.
+In the European Union (EU), FCA has set a target to achieve a 40% 
+Euro 6 emission levels are in effect for all passenger cars and light  reduction in CO emissions by 2020 compared with the baseline of 
+2
+commercial vehicles and require additional technologies, which   2006 for mass-market cars sold in Europe.
+further increase the cost of diesel engines compared to prior Euro 5 
+In the EU, the average CO emissions of the Group’s mass-market 
+standards. Further requirements of Euro 6 have been developed by  2
+cars is 125.3 g/km in 2018. This represents a 17% decrease 
+the EC and became effective for all new passenger cars registered 
+compared with 2006 (the benchmark year used in EU regulations 
+after September 1, 2018. In addition, a new test procedure to directly 
+to set the 2012-2015 and 2020 targets), and a 23% reduction 
+assess the regulated emissions of light duty vehicles under real driving 
+compared with 2000, which was the first year the EU Commission 
+conditions became effective for newly homologated passenger cars in 
+monitored average emissions.
+2017 and will become effective for all new passenger cars registered 
+in 2019 and for new light commercial vehicles registered in 2020. The Group’s average CO emissions in 2018 was affected mainly 
+2
+by three factors that led to an increase compared to 2017:  
+Each automobile manufacturer must meet a specific sales-weighted 
+the decrease in diesel vehicle sales in favor of gasoline vehicles;  
+fleet average target for CO emissions as related to vehicle weight. 
+2 the shift of sales to high-end segments; and the new engine 
+This legislation sets an industry fleet average target of 95 grams of 
+calibration and commercialization of vehicles compliant with 
+CO per kilometer starting in 2020 for passenger cars (130g/km until 
+2 the new Euro 6d-TEMP standard, which includes the new Real 
+2019).
+Driving Emissions (RDE) test to verify emissions under real driving 
+The EU has also adopted standards for regulating CO emissions  conditions. 
+2
+from light commercial vehicles (LCVs). This regulation requires that 
+new light commercial vehicles meet a fleet average CO target of 147 
+2
+grams of CO per kilometer in 2020 (175g/km until 2019).
+2
+In December 2018, the European Institutions agreed on new CO 
+2
+emissions targets starting from 2025 and 2030: 15% reduction 
+from 2021 levels in 2025 (both passenger cars and LCV) and a 
+37.5% reduction for passenger cars and 31% reduction for LCV in 
+2030 from 2021 levels.
+AVERAGE CO EMISSIONS FOR NEWLY-REGISTERED PASSENGER CARS
+2
+FCA mass-market cars in the European Union (g/km)
+170
+161.7
+158.1
+160
+157.2 150.4 150.3
+155.7
+150
+151.1 142.6
+146.9
+140
+130
+133.1 123.0
+121.5 121.4 125.3
+127.8
+120
+121.7 120.9
+119.3 119.2
+110
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Source: 2000-2017 EU Commission data; 2018 FCA estimate. CO values are defined in accordance with EU Regulation 692/2008 and on the basis of the measurement / correlation method referring to the NEDC 
+cycles as per Regulation EU 2017/1153. 2
+73

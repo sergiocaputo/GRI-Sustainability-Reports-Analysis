@@ -1,0 +1,41 @@
+Indice generale Indice di sezione Sezione 12
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte A
+A.3 – Informativa sui trasferimenti tra 
+portafogli di attività finanziarie
+Non sono stati effettuati trasferimenti tra portafogli.
+A.4 – Informativa sul fair value
+Informativa di natura qualitativa
+A.4.1 Livelli di fair value 2 e 3: tecniche di valutazione e input 
+utilizzati
+Il Patrimonio BancoPosta ha adottato la policy sul fair value di cui si è dotato il Gruppo Poste Italiane. Tale policy disciplina i 
+principi e le regole generali che governano il processo di determinazione del fair value  ai fini della redazione del bilancio, ai fini 
+delle valutazioni di Risk Management e a supporto delle attività condotte sul mercato dalle funzioni di Finanza delle diverse enti-
+tà del Gruppo. I principi generali per la valutazione a fair value degli strumenti finanziari non sono variati rispetto al 31 dicembre 
+2016 e sono stati individuati nel rispetto delle indicazioni provenienti dai diversi Regulators (bancari e assicurativi) e dai principi 
+contabili di riferimento, garantendo omogeneità nelle tecniche di valutazione adottate nell’ambito del Gruppo. Le metodologie 
+di dettaglio sono state aggiornate, ove necessario, per tenere conto delle evoluzioni dell’operatività e delle prassi di mercato 
+registrate nel corso dell’esercizio, oltre che delle Linee Guida della gestione finanziaria del Gruppo rivisitate ed approvate dal 
+Consiglio di Amministrazione di Poste Italiane S.p.A. nel mese di dicembre 2017.
+In conformità a quanto indicato dall’IFRS 13 – “Valutazione del fair value”, di seguito si descrivono le tecniche di valutazione 
+del fair value utilizzate.
+Le attività e passività interessate (nello specifico, attività e passività iscritte al fair value e attività e passività iscritte al costo 
+ovvero al costo ammortizzato, per le quali si fornisce il fair value nelle note illustrative) sono classificate in base a una scala 
+gerarchica che riflette la rilevanza delle fonti utilizzate nell’effettuare le valutazioni.
+La scala gerarchica è composta dai 3 livelli di seguito rappresentati.
+Livello 1: appartengono a tale livello le valutazioni di fair value effettuate tramite prezzi quotati (non rettificati) in mercati attivi 
+per attività o passività identiche a cui l’entità può accedere alla data di valutazione. Per il Patrimonio BancoPosta gli strumenti 
+finanziari che rientrano in tale categoria sono costituiti da Titoli obbligazionari emessi dalla Repubblica italiana la cui valutazione 
+viene effettuata considerando i prezzi bid secondo un ordine gerarchico che vede in primo luogo il ricorso al mercato MTS 
+(Mercato Telematico dei Titoli di Stato all’ingrosso), quindi al mercato MILA (Milan Stock Exchange), per i titoli obbligazionari 
+indirizzati prevalentemente alla clientela retail e, infine, al CBBT (Bloomberg Composite Price)120. La quotazione degli strumenti 
+di tipo obbligazionario di Livello 1 incorpora la componente di rischio credito.
+Livello 2: appartengono a tale livello le valutazioni effettuate impiegando input diversi dai prezzi quotati inclusi nel Livello 1 
+e osservabili direttamente o indirettamente per l’attività o per la passività. Considerate le caratteristiche dell’operatività del 
+Patrimonio BancoPosta, i dati di input osservabili, impiegati ai fini della determinazione del fair value delle singole forme tecni-
+che, includono curve dei rendimenti e di inflazione, tassi di cambio forniti dalla Banca Centrale Europea, superfici di volatilità 
+su tassi, premi delle opzioni su inflazione, asset swap spread o credit default spread rappresentativi del merito creditizio delle 
+specifiche controparti, eventuali adjustment di liquidità quotati da primarie controparti di mercato. 
+120.  Per motivi di ordine tecnico, al 31 dicembre 2017 per la valutazione dei titoli obbligazionari emessi da Enti governativi UE è stato utilizzato tale ultimo 
+riferimento.
+441

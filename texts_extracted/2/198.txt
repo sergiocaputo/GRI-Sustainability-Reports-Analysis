@@ -1,0 +1,51 @@
+I PRODOTTI E I CONTROLLI ANALITICI (segue) u. m. 2017 2018 2019 ∆% 2019/2018
+  di cui da sorgenti  Mm3 11,3 11,4 12,6 11,0
+  di cui acqua prelevata da altri sistemi di acquedotto Mm3 0,5 0,5 0,5 -
+totale acqua potabile in uscita dal sistema acquedottistico (e ) = (a+b+c+d) Mm3 86,4 87,6 88,5 1,0
+totale acqua potabile erogata e fatturata nella rete (a) Mm3 80,9 79,3 79,6 0,4
+  di cui volume misurato dell’acqua consegnata alle utenze  Mm3 80,9 79,3 79,6 0,4
+  di cui volume consumato dalle utenze e non misurato  Mm3 0 0 0 -
+totale acqua potabile autorizzata e non fatturata nella rete (b) Mm3 0,4 0,4 0,4 -
+  di cui consumi autorizzati non fatturati misurati Mm3 0 0 0 -
+  di cui consumi autorizzati non fatturati e non misurati Mm3 0,4 0,4 0,4 -
+acqua potabile esportata (subdistributori) (c) Mm3 0,6 0,6 0,5 -16,7
+perdite di processo misurate (d) Mm3 4,5 7,3 8,0 9,6
+VALUTAZIONE DELLE PERDITE SECONDO LA DELIBERA ARERA 917/17 R/IDR
+perdite idriche (*) Mm3 79,9 75,9 70,1 -7,7
+perdite idriche percentuali  % 48,0 46,4 44,2 -4,8
+ACQUE REFLUE TRATTATE
+acqua trattata nei principali depuratori  Mm3 102,0 112,9(**) 105,0 -7,0
+DETERMINAZIONI ANALITICHE SU ACQUE POTABILI E SU ACQUE REFLUE
+n. determinazioni analitiche acqua potabile n. 225.261 249.948(**) 261.251 4,5
+  di cui n. determinazioni analitiche acque superficiali (***) n. 22.743 23.309 24.497 5,1
+n. determinazioni analitiche acque reflue n. 39.535 35.668(**) 40.127 12,5
+(*)     Il valore delle perdite idriche coincide con il “volume perso complessivamente (WLtot)” e comprende le perdite di trattamento non misurate, le perdite in adduzione e 
+le perdite idriche totali in distribuzione.
+(**)  I dati del 2018 sono stati rettificati rispetto a quanto pubblicato precedentemente.
+(***) Si tratta di analisi su acque superficiali grezze (non trattate).
+LE RISORSE UTILIZZATE u. m. 2017(*) 2018 2019 ∆% 2019/2018
+CAPTAZIONE, ADDUZIONE E DISTRIBUZIONE IDRICA POTABILE E NON POTABILE
+materiali 
+ipoclorito di sodio t 1.509 1.354 1.384 2,2
+clorito di sodio t 278 276 351 27,2
+acido cloridrico t 302 312 378 21,2
+flocculante t 4.219 4.611 5.818 26,2
+purate t 431 407 353 -13,3
+acido solforico t 709 682 565 -17,2
+ossigeno t 31 70 37 -47,1
+acido acetico t 76 104 126 21,2
+anidride carbonica escluso fontanelli t 791 682 804 17,9
+cloruro ferroso t 40 37 30 -18,9
+acido fosforico t 13 18 16 -11,1
+DEPURAZIONE ACQUE REFLUE
+materiali
+polielettrolita in emulsione t 317 288 378 31,3
+ipoclorito di sodio  t 18 30 70 133,3
+acido peracetico, soda caustica, poliammina/antischiuma t 7 11 15 36,4
+policloruro di alluminio (PAC) t 4.445 4.080 4.354 6,7
+calce t 338 387 530 37,0
+acido acetico 80%  t 304 214 524 144,9
+ALTRI CONSUMI
+acqua potabile m3 n.d. n.d. n.d. -
+(*)    I dati dei materiali per la depurazione delle acque reflue riferiti all’anno 2017 sono stati rettificati rispetto a quanto pubblicato precedentemente.
+SCHEDE SOCIETÀ IDRICHE E ATTIVITÀ ESTERE 203

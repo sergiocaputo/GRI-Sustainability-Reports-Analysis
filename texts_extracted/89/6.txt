@@ -1,0 +1,34 @@
+7
+ Accuracy: the reporting has been based on data recorded directly, limiting the use of estimates as far 
+as possible.
+ Timeliness: the Statement is prepared annually and published at the same time as the financial 
+statements.
+ Reliability: all the data and information shown have been validated by the heads of the relevant 
+company units and have been processed on the basis of substantiated evidence which is sufficient to 
+prove the existence, completeness and accuracy of such data and information.
+ Clarity: the Statement contains information presented in a way that is understandable and accessible 
+to all the organization’s range of stakeholders.
+1.2 Scope of reporting
+  [GRI 102-10], [GRI 102-45], [GRI 102-47], [GRI 102-48], [GRI 102-49], [GRI 102-50], [GRI 102-51]
+The qualitative and quantitative data and information contained in the Statement refer to the performances 
+by the Mediobanca Group in the financial year ended 30 June 2020. As provided by Article 4 of Italian 
+Legislative Decree 254/16, the scope of reporting for the CNFS covers virtually the entire consolidated 
+financial statements for FY 2019-201. 
+Companies with no employees or which are not operative or in liquidation are excluded from reporting 
+non-financial data.
+COMPANIES EXCLUDED FROM SCOPE OF CNFS REPORTING
+PROMINVESTMENT S.P.A.
+CMB ASSET MANAGEMENT S.A.M.
+CMB WEALTH MANAGEMENT LIMITED
+MB FUNDING LUXEMBOURG S.A.
+QUARZO S.R.L.
+QUARZO CQS S.R.L.
+MEDIOBANCA COVERED BOND S.R.L.
+MEDIOBANCA INTERNATIONAL IMMOBILIERE S. A R.L.
+CAIRN CAPITAL GUARANTEE LIMITTED
+CAIRN CAPITAL INVESTMENTS LIMITED
+CAIRN INVESTMENT MANAGERS LIMITED
+AMPLUS FINANCE LIMITED
+COMPASS RENT S.R.L.
+MB CONTACT SOLUTIONS S.R.L.
+1.  A full list of consolidated companies is provided on p. 118 of the notes to the Financial Statements – Section A

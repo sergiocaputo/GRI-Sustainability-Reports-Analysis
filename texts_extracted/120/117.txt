@@ -1,0 +1,33 @@
+Main HSE Data and Indicators – Business Segments 
+2017 2018 2019
+Natural gas transportation
+Health and safety
+Employee accidents (no.) 2 4 0
+Contractor accidents (no.) 4 3 5
+Employee frequency index 0.66 1.29 0
+Employee severity index 0.03 0.03 0
+Contractor frequency index 0.47 0.46 0.83
+Contractor severity index 0.90 0.03 0.08
+Energy and the Environment
+Energy consumption (TJ) 7,459 7,463 6,123
+GHG Scope 1 Emissions (103 t CO ) 1,008 982 838
+2eq
+Natural gas emissions (106 m3) 34.4 32.8 28.7
+Natural gas recovered (106 m3) 4.1 8.2 9.4
+NOx emissions (t) 342 305 286
+Energy consumption/compressed energy (%) 0.25 0.25 0.26
+CO emissions/compressed gas (kg/106m3) 5,767 5,644 5,874
+2 
+Natural gas emissions/km of network (m3/km) 1,057 1,007 876
+NOx emissions/compressed gas (kg/106m3) 4.8 4.2 5.0
+Average emissions of NOx per turbine/installed capacity ([mg/Nm3]/MW) 4.4 3.8 3.8
+DLE turbine operating hours/Total turbine operating hours (%) 93 97 95
+Liquefied natural gas regasification
+Health and safety
+Employee accidents (no.) 1 0 0
+Contractor accidents (no.) 0 0 0
+Employee frequency index 9.31 0 0
+Employee severity index 0.17 0 0
+Contractor frequency index 0 0 0
+Contractor severity index 0 0 0
+116Sustainability Report 2019

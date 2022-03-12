@@ -1,0 +1,65 @@
+10. Glossario
+Cash Generating Unit (CGU) 1092/2010 CE. La mission del CERS è quella di assicurare la 
+Un’unità generatrice di ﬂ ussi ﬁ nanziari è il più piccolo gruppo  vigilanza macroprudenziale - in un’ottica trasversale - all’in-
+identiﬁ cabile di attività che genera ﬂ ussi ﬁ nanziari in entrata  terno della Comunità Europea, monitorando e valutando il 
+ampiamente indipendenti dai ﬂ ussi ﬁ nanziari in entrata gene- rischio sistemico al ﬁ ne di mitigare l’esposizione del sistema 
+rati da altre attività o gruppi di attività. al rischio di fallimento e assicurando quanto più possibile la 
+stabilità ﬁ nanziaria.
+Certiﬁ cates
+Strumenti ﬁ nanziari contrattualmente conﬁ gurabili come deriva- Commissione Europea
+ti che replicano l’andamento di un’attività sottostante. Mediante  Organo esecutivo dell’Unione Europea che garantisce l’ese-
+un acquisto di un certiﬁ cate l’investitore consegue il diritto di  cuzione delle leggi europee (direttive, regolamenti, decisioni), 
+ricevere ad una certa data una somma parametrata al valore del  del bilancio e dei programmi adottati dal Parlamento e dal 
+sottostante. In alcuni casi, tramite la struttura opzionale, l’investi- Consiglio; ha il diritto di iniziativa legislativa e negozia gli ac-
+tore può ottenere la protezione totale o parziale dei premi pagati  cordi internazionali, essenzialmente in materia di commercio 
+qualunque sia l’andamento dei parametri preﬁ ssati nei contratti. e cooperazione. Il Presidente e i membri della Commissione 
+Europea sono nominati dagli Stati membri previa approvazio-
+Certiﬁ cato del Tesoro “zero-coupon” (CTZ) ne del Parlamento Europeo.
+Il CTZ è un titolo emesso dal Ministero dell’Economia e delle 
+Finanze che non ha cedola e paga l’interesse solo al momento  Commissione Nazionale per le Società e la Borsa (CONSOB)
+del rimborso. Autorità amministrativa indipendente, dotata di personalità 
+giuridica e piena autonomia, il cui scopo è costituito dalla pro-
+Certiﬁ cato di Credito del Tesoro (CCT) mozione della tutela degli investitori, nonché dell’efﬁ cienza, 
+Il CCT è un titolo a medio/lungo termine, emesso dal Mini- trasparenza e sviluppo del mercato mobiliare italiano.
+stero dell’Economia e delle Finanze per ﬁ nanziare il debito 
+pubblico, che offre un rendimento a tasso variabile dotato di  Commissioni di front end
+cedola indicizzata al rendimento dei BOT e maggiorata di un  Commissioni pagate dal cliente al momento della sottoscri-
+importo stabilito. zione del contratto e in occasione degli eventuali versamenti 
+successivi.
+CET1 Ratio, Common Equity Tier 1 ratio (Coefﬁ ciente di 
+capitale primario di classe 1) Commissioni di performance
+Indicatore dato dal rapporto tra il Capitale primario di classe  Commissioni ricorrenti trattenute dalla società di gestione in 
+1 (Common Equity Tier 1) ed il totale delle attività ponderate  base esclusivamente ai risultati conseguiti dal prodotto gesti-
+per il rischio (RWA). to. La percentuale è solitamente commisurata all’eventuale 
+incremento del valore della quota rispetto all’incremento di 
+Clientela Corporate un parametro di riferimento. Questo parametro di riferimento 
+Fascia di clientela corrispondente alle imprese di medie e  può essere costituito sia dal Benchmark, sia da altri indicatori 
+grandi dimensioni (mid-corporate, large corporate). come ad esempio il tasso di inﬂ azione.
+Clientela Retail Commissioni ricorrenti
+Fascia di clientela che comprende principalmente i privati, i  Commissioni trattenute dalla società di gestione a titolo di 
+professionisti, gli esercenti e gli artigiani. compenso per l’attività di gestione, calcolate sulla base del 
+valore di mercato delle masse gestite.
+Collateral
+Garanzia da parte del debitore a favore del creditore, di stru- Comparto
+menti ﬁ nanziari o contante, che il creditore può ritenere,  Unità di suddivisione di un fondo multicomparto o di una SI-
+o rivendere sul mercato, nel caso in cui il debitore divenga  CAV multicomparto, distinta per caratteristiche di gestione. Il 
+inadempiente ai propri obblighi. Il Collateral ha lo scopo di  comparto costituisce patrimonio autonomo rispetto al patri-
+fornire alle banche quella garanzia nei confronti delle pro- monio della società di gestione e rispetto a ogni altro fondo o 
+prie controparti di mercato del buon ﬁ ne delle operazioni in  comparto gestito dalla stessa.
+essere e di quelle future, slegando di fatto il proﬁ lo di rischio 
+dei propri investimenti da considerazioni legate al rischio di  Consiglio di Amministrazione
+controparte. Organo sociale cui compete per legge la gestione della so-
+cietà e la direzione dell’attività d’impresa.
+Collegio Sindacale
+Organo collegiale di vigilanza interna che opera nelle società  Core Business
+di capitali. Attività principale verso la quale sono orientate le scelte stra-
+tegiche e le politiche aziendali.
+Comitato di Basilea
+Forum internazionale per una cooperazione regolare e pe- Corporate governance
+riodica su temi inerenti alla supervisione bancaria. I suoi due  Identiﬁ ca l’insieme degli strumenti e delle norme che rego-
+obiettivi si sostanziano nel rafforzamento della comprensibi- lano la vita societaria, con particolare riferimento alla traspa-
+lità e della diffusione delle questioni regolamentari e nel mi- renza dei documenti e degli atti sociali ed alla completezza 
+glioramento della qualità della supervisione su scala globale. dell’informativa al mercato.
+Comitato Europeo per il rischio sistemico (CERS)  Corporate Social Responsibility (CSR)
+Organismo  comunitario  istituito  tramite  il  Regolamento  La CSR (letteralmente “Responsabilità Sociale d’Impresa”) è 
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 419

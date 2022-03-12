@@ -1,0 +1,50 @@
+ISAP - Report di Sostenibilità / 2018 TABELLA DI CORRELAZIONE
+98
+RIFERIMENTO CAPITOLO
+STANDARDS DESCRIZIONE PAG. NOTE
+PARAGRAFO
+Materiali
+GRI 103  Approccio Manageriale
+103-1 Aspetti materiali e il  Analisi di materialità 23-33
+loro perimetro e nota metodologica
+103-2 L’approccio  Materiali  73
+manageriale e le sue 
+caratteristiche
+103-3 Valutazione  Materiali  73
+dell’approccio 
+manageriale
+GRI 301 Materiali
+301–1 Consumo di materiali  Materiali  73
+(peso e volume) – per 
+prodotti, imballaggi e 
+servizi dell’azienda 
+301-2 Percentuale di materiali  Materiali 73
+utilizzati provenienti dal  Un sistema logistico distributivo  74 
+riciclo intelligente per minimizzare gli 
+impatti ambientali 
+Certificazione PSV 75
+301-3 Percentuale di  Certificazione PSV 75
+prodotto venduto e di  Plastica Seconda Vita
+imballaggio riciclato o 
+riutilizzato
+Energia
+GRI 103  Approccio Manageriale
+103-1 Aspetti materiali e il  Analisi di materialità 23-33
+loro perimetro e nota metodologica
+103-2 L’approccio  Energia 76
+manageriale e le sue 
+caratteristiche
+103-3 Valutazione  Energia 76
+dell’approccio 
+manageriale
+GRI 302 Energia
+302-1 Consumo energetico  Energia 76
+interno dell’azienda
+302-2 Consumo energetico  Non rendicontato
+esterno all’azienda 
+(fornitori, trasporti, 
+distribuzione, ecc)
+302-3 Intensità energetica Non rendicontato
+302-4 Riduzione del La Trigenerazione, 76
+consumo energetico risparmio ed efficientamento 
+energetico

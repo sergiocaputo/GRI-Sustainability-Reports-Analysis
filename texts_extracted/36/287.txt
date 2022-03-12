@@ -1,0 +1,67 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+Paper for printing (%) 75.0 0.4  0.1  74.6  -  Enel
+Water
+Volumes of water used 
+by production process
+By thermoelectric 
+(mil m3) 74.9 94.5 110.4 -19.6 -20.7 Enel
+power production
+By nuclear 
+(mil m3) 1.9 1.7 1.8 0.2 11.8 Enel
+power production
+By geothermal power 
+production, fuel and 
+(mil m3) 0.490 0.071 0.043 0.419 - Enel
+stock management, solar 
+panels plants
+Total withdrawal by 
+(mil m3) 77.3 96.3 112.2 -19.0 -19.7 Enel
+production processes
+By other industrial uses (mil m3) - 0.02  0.02  -0.02 - Enel
+Total water withdrawal (mil m3) 77.3 96.3 112.2 -19.0 -19.7 Enel
+Specific requirements by 
+production process (10)
+Specific requirements 
+by thermoelectric power (l/kWh eq) 0.69 0.71 0.75 -0.02 -2.8 Enel
+production (11)
+Specific requirements 
+by nuclear power  (l/kWh eq) 0.07 0.07 0.07 - - Enel
+production (12)
+Specific requirement 
+for total production 
+(l/kWh eq) 0.33 0.38 0.44 -0.05 -13.2 Enel
+from production 
+process (13)
+Water withdrawal by 
+303-3
+source (14)
+Withdrawal from scarce 
+(mil m3) 63.7 84.4 97.5 -20.7 -24.5 Enel
+sources
+Surface water (wetlands, 
+(mil m3) 44.3 64.2 79.3 -19.9 -31.0 Enel
+lakes, rivers) total
+- freshwater (≤ 1,000 mg/l 
+(mil m3) 44.2 n.a. n.a. - - Enel
+Total Dissolved Solids)
+- other water (> 1,000 
+mg/l Total Dissolved  (mil m3) 0.1 n.a. n.a. - - Enel
+Solids)
+Ground water (from 
+(mil m3) 11.9 12.2 11.3 -0.3 -2.5 Enel
+wells) total
+- freshwater (≤ 1,000 mg/l 
+(mil m3) 11.9 n.a. n.a. - - Enel
+Total Dissolved Solids)
+- other water (> 1,000 
+mg/l Total Dissolved  (mil m3) - n.a. n.a. - - Enel
+Solids)
+Water from aqueduct 
+(mil m3) 7.5 8.0 6.9 -0.5 -6.3 Enel
+total
+- freshwater (≤ 1,000 mg/l 
+(mil m3) 7.0 n.a. n.a. - - Enel
+Total Dissolved Solids)
+286 Sustainability Report 2019

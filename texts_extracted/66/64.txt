@@ -1,0 +1,39 @@
+12bis-Dichiarazione non finanziaria .qxp_Layout 1  24/04/18  16:05  Pagina 63
+SAES Smart Materials, Inc.
+Iniziative per ridurre il consumo energetico 
+Iniziativa                                             Unità                Anno                     Stima del
+                                                       di misura   di riferimento      risparmio ottenuto
+Ampliamento impianti LED ad
+alta efficienza installati nel 2016               kWh                   2017                           72.770
+Totale risparmi energetici                                                                          72.770 kWh
+GRI 303-1 Prelievo totale di acqua per fonte
+Fonte                                  Unità di misura                       2017                      2016
+Acquedotto                                               m3                   65.667                   70.372
+Pozzi                                                         m3                    10.639                     8.486
+Totale                                                       m3                   76.307                   78.858
+305 -1 / 305 – 2 Emissione dirette (scope 1) e indirette (scope 2) di Gas ad effetto serra
+Scope                                 Unità di misura                       2017                      2016
+Scope 1                           Tonnellate CO2eq.                     3.450                     2.780
+Scope 2                           Tonnellate CO2eq.                      7.834                      7.839
+Totale                           Tonnellate CO2 eq.                    11.284                   10.619
+Emissioni Scope 2 (2017)
+                         Metodo Location based                           Metodo Market based
+                              Tonnellate CO eq.                                     Tonnellate CO eq
+2 2
+                                         7.834                                                        10.333
+Fattori di emissioneelettricità “Location based”
+Paese                  kg CO /kWh                                             Fonte
+2
+USA                           0,3516                                                 Defra17
+Italia                          0,3516                                                 Defra17
+Fattori di emissione elettricità “Market based”
+Paese                   kg CO /kWh                                              Fonte
+2
+USA                           0,452                                      eGRID summary tables
+Italia                           0,471                              AIB - 2017 European Residual Mix
+Fattori di emissione gas naturale
+Paese                    kg CO /m3                                               Fonte
+2
+USA                           2,097                                                Defra2017
+Italia                           2,097                                                Defra2017
+63 SAES Group

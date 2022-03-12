@@ -1,0 +1,39 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+La determinazione del fair value delle attività finanziarie è basata su prezzi 
+rilevati in mercati attivi o su modelli interni di valutazione generalmente 
+utilizzati nella pratica finanziaria come più dettagliatamente descritto nella 
+Parte A.4 “Informativa sul Fair Value.”
+2. Attività finanziarie valutate al fair value con impatto sulla redditività 
+complessiva (FVOCI)
+In tale voce sono classificate le attività finanziarie i cui termini contrattuali 
+prevedono, a determinate date, flussi finanziari rappresentati unicamente 
+da pagamenti del capitale e dell’interesse sul capitale da restituire e che 
+pertanto hanno superato il SPPI test (Business Model “Held To Collect and 
+Sell”) e che ha come obiettivo la gestione di strumenti finanziari di breve 
+termine per il mero soddisfacimento di esigenze di liquidità.
+Con riferimento ai titoli di capitale, rispetto a quanto previsto dallo IAS 39, 
+l’IFRS 9 ha previsto che tale tipologia di strumento finanziario possa essere 
+classificata FVOCI solo se designata irrevocabilmente; in caso di cessione gli 
+utili e le perdite da compravendita sono sospesi a patrimonio netto e non 
+girocontati a conto economico.
+L’iscrizione iniziale avviene solo quando la Società diventa parte nelle clausole 
+contrattuali dello strumento, ossia al momento del regolamento. Il valore 
+di iscrizione è pari al fair value generalmente coincidente con il costo dello 
+strumento comprensivo dei costi/ricavi di transazione ad esso direttamente 
+imputabili. Successivamente alla rilevazione iniziale tali attività continuano ad 
+essere valutate al fair value con imputazione delle variazioni di valore alla 
+voce “120. Riserve da valutazione”.
+Le rettifiche di valore sono iscritte a Conto economico nella voce “130. 
+Rettifiche/Riprese di valore nette per rischio di credito”, in contropartita 
+contabile alla voce “120. Riserve da valutazione”. Le riprese di valore sono 
+iscritte a fronte di un miglioramento del merito creditizio dell’attività.
+3. Attività finanziarie valutate al costo ammortizzato 
+Nella voce “40. Attività finanziarie valutate al costo ammortizzato” sono 
+classificate le attività finanziarie (i titoli di debito e i finanziamenti) i cui termini 
+contrattuali prevedono, a determinate date, flussi finanziari rappresentati 
+unicamente da pagamenti del capitale e dell’interesse sul capitale da 
+restituire e che pertanto hanno superato il test SPPI (Business Model “Held To 
+Collect”) e detenuti con l’obiettivo di incassare i flussi di cassa finanziari nel 
+medio - lungo termine.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 490

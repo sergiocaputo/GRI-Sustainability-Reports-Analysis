@@ -1,0 +1,48 @@
+CUSTOMER HEALTH AND SAFETY 103-2; 416-1; MARKETING AND LABELLING 103-2; 416-1; 417-2; 417-3; EX FS15 Society
+related investments necessary for the implementation of the initiatives set out in the Master Plan. Some of the 
+most important initiatives for the Bank are:
+ activities aimed at improving customer service (e.g. risk-based authentication – security measures that adapt 
+to the risk of the transaction) and strengthening internal processes in terms of actions and communications 
+to be activated in the event of a critical event, in order to reduce the related risks
+ anti-fraud actions at a Group level, the objective of which is the continuous strengthening of the predictive 
+model based on the use of data, technology and process knowledge. The expected benefits are manifold, 
+including improved operational and process efficiency, minimisation of successful attacks and a faster 
+response to fraud attempts
+ growth of the Security Monitoring of third parties that provides services to the Bank using its own methodology 
+for the evaluation, classification and verification of suppliers for IT security and business continuity. The 
+security checks cover the entire life cycle of the supplier within the Bank, from the contracting phase, during 
+the provision of the service, to the termination of the contract. A dedicated team set up in 2019 will oversee 
+this issue.
+With regard to the direct protection of customer assets, the Bank constantly updates its anti-fraud system, which 
+is able to analyse all operations carried out via the digital channels in real time, flagging up any suspicious 
+ones so they can immediately be checked centrally by a team of experts.
+In a context where attempted breaches are constantly growing, Intesa Sanpaolo maintains the level of 
+effectiveness of its anti-fraud systems year after year. This made it possible to block fraudulent transactions 
+in 2019 totalling about 46 million euro for retail customers and about 86 million euro for corporate customers.
+The IT security profile is also based on the spread of awareness of the risks, of the prevention methods, of the 
+relevance of the data processed and of the use of the application procedures by all the subjects involved (Bank 
+structures, employees, customers and suppliers). Particular attention has been paid to customer awareness 
+of IT security issues by publishing a series of communications on the public website (information pages, 
+documents and infographics) and on bank statements (used as safe channels), also in collaboration with the 
+relevant Italian and European authorities. In this regard, by way of example, Intesa Sanpaolo was the only 
+Italian bank to participate in Europol campaigns (Cyber Scams, Don't Be a Mule, No More Ransom initiatives), 
+helping with the preparation and distribution of materials designed to increase the knowledge of computer 
+security culture among customers through examples and direct messages, so that they can maintain control 
+of their digital lives.
+The annual training provided by Intesa Sanpaolo is aimed at all levels of the company's hierarchy, including 
+Top Management, which in 2019 was involved in various initiatives, including some simulations of crisis 
+management caused by a cyber/data breach and several workshops on IT security. A number of partnerships 
+have been established with Bocconi University and the polytechnics of Milan and Turin in order to support the 
+creation of the first courses in cybersecurity, internships, talent programmes for ethical hackers.
+In 2019, the Intesa Sanpaolo Group structures responsible for the collection and analysis of information in 
+order to technically identify cyber-threats (threat intelligence) intensified their activities for the Group Banks 
+and companies, as well as for national bodies supporting the credit sector. Initiatives involving Intesa Sanpaolo 
+in various working groups with international bodies like AFME, BPI, JP Morgan, HSBC, ECSO, Leonardo, EBF, 
+Enisa and CERTFin and ABILab also continued.
+The integrated monitoring of IT security and business continuity as part of crisis management procedures 
+confirmed the Bank’s effective management of events related to natural disasters and crisis situations, ensuring 
+the continuity of services and the safeguarding and protection of employees and customers.
+Finally, as in previous years, the Bank remains committed to obtaining and maintaining third-party certification 
+for its security and operational continuity activities that guarantee quality, and also for its appropriate monitoring 
+of the services it provides (see [i]).
+75

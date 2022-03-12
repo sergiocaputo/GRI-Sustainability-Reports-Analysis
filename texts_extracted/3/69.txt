@@ -1,0 +1,58 @@
+ 
+I rifiuti per tipologia e metodo di smaltimento  
+ 
+2017  2016 
+Tipologia  (t)  (t) 
+     
+Pericolosi  23,796  66,403 
+Non pericolosi     31.044,581        34.552,32  
+Totale     31.068,377      34.618,720  
+ 
+I rifiuti pericolosi si riferiscono prevalentemente a: cemento amianto derivante dalle attivitità di 
+manutenzione delle condotte idriche e fognarie del territorio; rifiuti derivanti dalle analisi e attività 
+eseguite dal laboratorio chimico aziendale. 
+ 
+Cocice  Descrizione    2017  2016 
+CER  (t)  (t) 
+190805  fanghi prodotti dal trattamento delle acque reflue urbane  22.998,97  23.704,98 
+190902  fanghi prodotti dai processi di chiarificazione dell'acqua  4.650,04  5.389,77 
+190802  rifiuti dell'eliminazione della sabbia  1412,16  1.170,13 
+200306  rifiuti della pulizia delle fognature  454,14  3.060,28 
+190206  fanghi prodotti da trattamenti chimico-fisici, diversi da quelli di cui  584,76  -  
+alla voce 19 02 05 
+190801  vaglio  359,26  345,18 
+190904  carbone attivo esaurito  507,46  19,04 
+170504  terra e rocce, diverse da quelle di cui alla voce 17 05 03  11,22  769,200 
+170405   ferro e acciaio  28,3  47,262 
+150106  imballaggi in materiali misti  30,39  39,7 
+150102  imballaggi in plastica  0,539  1,68 
+150103  imballaggi in legno  1,23  2,1 
+160214  apparecchiature fuori uso, diverse da quelle di cui alle voci da 16 02  2,711  -  
+09 a 16 02 13 
+160306  rifiuti organici, diversi da quelli di cui alla voce 16 03 05  -   2,15 
+170203  plastica  1,77    
+170401  rame, bronzo, ottone  0,871  0,407 
+170407  metalli misti  0,24  0,438 
+200139  plastica  0,52    
+ Totale     31.044,58       34.552,32  
+ 
+ 
+Rifiuti – Modalità di smaltimento  2017  2016 
+       
+Rifuti pericolosi     
+D15  Giacenza / deposito preliminare ante trattamenti  11,781  16,923 
+D9  Trattamento fisico-chimico  7,204  47,41 
+R13  Giacenza / messa in riserva per successivo recupero  4,811  2,07 
+    23,796  66,403 
+Rifiuti non pericolosi      
+R13  Giacenza / messa in riserva per successivo recupero  14.072,92  14,823,98 
+R10  Spandimento sul suolo a beneficio dell’agricoltura  3.005,87  3.771,71 
+R7  Recupero prodotti che captano inquinanti  437,24  19,04 
+R5  Recupero di altre sostanze inorganiche  708,48  767,39 
+R3  Recupero sostanze organiche  10.675,14  9.977,64 
+R1  Recupero di energia - Utilizzo come combustibile  3,90  - 
+D1  Discarica  313,28  1.147,92 
+D9  Trattamento fisico-chimico  407,52  331,57 
+D8  Trattamento biologivo  454,14  3.060,28 
+acquevenete –  Bilancio di sostenibilità 2017  69 
+ 

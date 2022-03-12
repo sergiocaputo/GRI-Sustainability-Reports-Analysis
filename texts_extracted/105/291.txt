@@ -1,0 +1,53 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Strumenti finanziari derivati
+La movimentazione degli Strumenti finanziari derivati nell’esercizio è stata la seguente:
+tab. A5.3 - Movimentazione degli Strumenti finanziari derivati
+Cash flow hedging Fair value hedging FV vs CE Totale
+Acquisti a  Vendite a  Asset swap Asset swap Acquisti a  Vendite a 
+termine termine termine termine
+nozionale fair  nozionale fair  nozionale fair  nozionale fair   nozionale fair  nozionale fair  nozionale fair  
+(milioni di euro) value value value value value value value
+Saldo al 1° 
+400  3  -    -    1.390  (65) 16.150  (2.052) -    -    -    -    17.940  (2.114)
+gennaio 2017
+Incrementi/
+- (25) 1.408 (23) 50 (9) 5.205 446 - - 92 - 6.755  389 
+(decrementi) (*)
+Proventi/(Oneri) 
+- - - - - - - 2 - - - - -    2 
+a CE (**)
+Operazioni 
+(400) 22 - - (330) 15 (1.600) 444 - - (92) - (2.422) 481 
+completate (***)
+Saldo al 31 
+dicembre  -    -    1.408  (23) 1.110  (59) 19.755  (1.160) -    -    -    -    22.273  (1.242)
+2017
+Di cui:
+Strumenti 
+- - - - 175 31 9.370 364 - - - - 9.545  395 
+derivati attivi
+Strumenti 
+- - 1.408 (23) 935 (90) 10.385 (1.524) - - - - 12.728  (1.637)
+derivati passivi
+(*) Gli Incrementi/ (decrementi) si riferiscono al nozionale delle nuove operazioni e alle variazioni di fair value intervenute nell’esercizio sul portafoglio complessivo.
+(**) I Proventi ed oneri imputati a conto economico si riferiscono ad eventuali componenti inefficaci dei contratti di copertura che sono rilevate nei Proventi e Oneri 
+diversi derivanti da operatività finanziaria.
+(***) Le Operazioni completate comprendono le operazioni a termine regolate, i differenziali scaduti e in maturazione e l’estinzione di asset swap relativi a titoli ceduti.
+Gli strumenti di copertura del rischio di tasso d’interesse sui flussi finanziari hanno complessivamente subito nell’esercizio in 
+commento una variazione negativa netta del fair value riferita alla componente efficace della copertura di 57 milioni di euro 
+riflessa nella Riserva cash flow hedge di Patrimonio netto.
+Gli strumenti di fair value hedging hanno complessivamente subito nell’esercizio una variazione positiva netta efficace del fair 
+value di 446 milioni di euro, i titoli coperti (tab. A5.2) hanno subito una variazione negativa netta di fair value di 496 milioni di 
+euro, essendo la differenza di 50 milioni di euro dovuta ai differenziali pagati.
+Nell’esercizio in commento la Società ha effettuato le seguenti operazioni:
+regolazione di acquisti a termine al 31 dicembre 2016 per 400 milioni di euro;
+stipula di vendite a termine per un nozionale di 1.408 milioni di euro;
+stipula di nuovi asset swap di cash flow hedge per un nozionale di 50 milioni di euro;
+estinzione di asset swap di cash flow hedge su titoli alienati, le cui variazioni di fair value erano oggetto di copertura, per un 
+nozionale di 330 milioni di euro;
+stipula di nuovi asset swap di fair value hedge per un nozionale di 5.205 milioni di euro;
+estinzione di asset swap di fair value hedge su titoli alienati, le cui variazioni di fair value erano oggetto di copertura, per un 
+nozionale di 1.600 milioni di euro.
+290

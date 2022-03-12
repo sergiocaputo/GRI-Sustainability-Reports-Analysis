@@ -1,0 +1,51 @@
+SOL GROUP – GLOSSARY 87
+Medical device (MD): any instrument,  Raw materials – primary process units:  Secondary storage: liquefied cryogenic gas 
+apparatus, equipment, machine, device, plant,  atmospheric air, for the production of oxygen,  container filled by tankers, normally installed in 
+reagent in vitro or for calibration, computer  nitrogen and argon; natural gas, for the  secondary process units.
+software, material or other similar or related  production of hydrogen and carbon dioxide;  Severity index: ratio between days of absence 
+product for use, alone or in culmination, on  calcium carbide for the production of acetylene;  due to injury and hours worked multiplied by 1 
+persons for one or more specific purposes  ammonium nitrate for the production of nitrous  million. It measures the severity of injuries.
+of diagnosis, prevention, control, therapy or  oxide.
+attenuation of an illness; for diagnosis, control,  Seveso Directive (2012/18/EU and later 
+therapy, attenuation or compensation of a  REACh: EC regulation n. 1907/2006  modifications): European regulation aimed 
+wound or handicap; for studying, substituting  (Registration, Evaluation, Authorization and  at preventing and controlling the risk of serious 
+or modifying anatomy or a physiological  Restriction of Chemicals). Its main aim is to  accidents. It governs industrial activities that 
+process; for intervening on conception where  improve the awareness of the dangers and risks  involve the stocking and/or use of certain 
+the main desired action in or on the human  deriving from chemical substances, aiming to  quantities of dangerous substances.
+body is not carried out with pharmacological or  attain a high level of protection of human health 
+immunological means or through metabolism,  and the environment. Stakeholder: all categories of subjects, private 
+but whose function can be aided by these means. or public, individual or collective, internal or 
+Residual mix: refers to the average primary  external, that can influence the success of 
+Medical gas: any medication consisting of one  energy sources that were not intended for  a business or whose interests are involved 
+or more active gaseous substances that may or  a specific entity or to an end consumer. If a  in business decisions: customers, suppliers, 
+may not be mixed with excipient gases.  consumer uses the power grid without having  investors, local communities, employees, unions, 
+purchased a GO certificate, he then has to use  public administration, future generations etc.
+Mobile container: container for compressed,  the residual mix in the calculation of its footprint. 
+liquid, dissolved and cryogenic gases used for  The Residual mix is calculated for each year and  Steam reforming: process in which methane 
+transporting products. Mobile containers are:  country by organizations that are part of the  reacts with steam, in the presence of a catalyst, 
+cylinders, drums, gas cylinders, cylinder bundles,  European E-Track programme, such as RE-DISS. to produce hydrogen and CO.
+2
+dewars, base units and portable units.
+Responsible Care: a voluntary program of  Sustainability (see Sustainable development)
+Policy (quality, safety, environment): general  the world chemical industry based on the 
+principles and guidelines of an organisation,  implementation of principles and conduct  Sustainable development: development that 
+formerly expressed by top management. concerning the safety and health of employees  can satisfy current economic, environmental and 
+and environmental protection, and the  social needs, without compromising the chances 
+Primary process units: units where gases are  commitment to communicate the results  of future generations being able to satisfy theirs.
+produced from raw materials. obtained aiming for continual, significant and 
+tangible improvement.
+Primary storage: liquefied cryogenic gas 
+container filled directly by the production plant. Sale equipment: technical/technological 
+Quality, safety and environmental management  equipment purchased from third parties and 
+system. supplied for use to customers as part of a service, 
+but destined to remain the property of SOL; for 
+Quality, Safety and Environment  example mobile containers, cold converters etc.
+Management System (SHEQ/MS): that 
+part of the general management system that  Secondary process units: units where gases 
+includes the organisational structure, planning,  are conditioned, normally using gases coming 
+responsibilities, procedures, processes and  from primary process units, into their physical 
+resources for drawing up, implementing and  form (which may be compressed gas or 
+maintaining active well-defined quality, safety  cryogenic liquid) in the containers (cylinders, 
+and/or environmental policies. cylinder bundles, drums or tanks) best suited 
+for distribution to end users. Some units also 
+produce pure and high purity gas mixtures.

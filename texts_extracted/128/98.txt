@@ -1,0 +1,58 @@
+ 
+Attachment: calculation method 
+ENERGY CONSUMPTION WITHIN  Unit of  Coefficient
+Source
+THE ORGANIZATION measure s
+Heating
+Natural gas Italian Banking Association Guidelines  GJ/Mc 0.0343
+Gasoil (density 0,84 Kg/L) Italian Banking Association Guidelines  GJ/Ton 42.88
+LPG (density 0,56 Kg/L) Italian Banking Association Guidelines  GJ/Ton 46.1
+Distric Heating Italian Banking Association Guidelines  GJ/KWh 0.0036
+Electricity
+Purchased Italian Banking Association Guidelines  GJ/KWh 0.0036
+Photovoltaic Italian Banking Association Guidelines  GJ/KWh 0.0036
+Transport
+Petrol (density 0,74 Kg/L) Italian Banking Association Guidelines  GJ/Ton 42.82
+Gasoil (density 0,84 Kg/L) Italian Banking Association Guidelines  GJ/Ton 42.78
+LPG (density 0,56 Kg/L) Italian Banking Association Guidelines  GJ/Ton 46.10
+Calculation method
+Data calculated onthe basisof finalfigures bysource ofenergy providedby theSAPcorporateaccounting
+system. Average prices given in the invoices available or recommended by Italian Banking Association
+guidelines were used to calculate the quantities of fuel. The consumption included in condominium
+expenses notreported in the table above are estimated as 70% of the condominium expenses themselves
+which were: approximately € 6.43 million for 2017; € 6.83 million for 2016.  
+ 
+ 
+THE PRINCIPAL MEASURES UNDERTAKEN TO REDUCE ENERGY CONSUMPTION WITHIN THE 
+ORGANISATION
+Calculation methodology
+Energy savingswere calculatedusing thecoefficients reportedfordisclosure302-1. Forthecalculationof
+savings for boilers and air conditioning systems the different outputs of new machines compared with
+those replaced were used mainly, while for electricity reference was made to specific design ratios or
+invoice figures for the years 2016 and 2017.
+ 
+ 
+ 
+ENERGY CONSUMPTION 
+Unit of 
+OUTSIDE OF THE  Source Coefficients
+measure
+ORGANIZATION 
+Paper CEPI GJ/Ton 12.85
+Personal vehicles
+Petrol Italian Banking Association Guidelines GJ/Ton 42.82
+Gasoil Italian Banking Association Guidelines GJ/Ton 42.78
+Train
+High speed Italian Banking Association Guidelines/Ecopassenger GJ/Km 0.000762
+Other Italian Banking Association Guidelines/Ecopassenger GJ/Km 0.000801
+Air (Kerosene jet 71,5 KgCO2/GJ)
+Domestic Italian Banking Association Guidelines/ICAO GJ/Km 0.002007
+International Italian Banking Association Guidelines/ICAO GJ/Km 0.001764
+Intercontinental Italian Banking Association Guidelines/ICAO GJ/Km 0.000746
+Shuttle coach
+Gasoil (density 0,84 Kg/L) Italian Banking Association Guidelines GJ/Ton 42.78  
+ 
+ 
+Consolidated non-financial declaration pursuant to Legislative Decree No. 254/2016 
+2017 Sustainability Report – Commitment to the environment - Pg.97 
+ 

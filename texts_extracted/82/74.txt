@@ -1,0 +1,46 @@
+Sustainability Report | ANNEX - GRI INDICATOR TABLES F75
+GRI 303-3/4/5 Water withdrawal, Water discharge and Water 
+consumption
+Water withdrawal of Group Italmobiliare
+Source Megaliters (Ml) 2019 Megaliters (Ml) 2018
+Surface water 0.59 0.82
+of which from areas with water stress 0 n.a.
+Groundwater 515.23 463.58
+of which from areas with water stress 11.14 3.10
+Third-party water 22.22 27.19
+of which from areas with water stress 1.30 1.30
+Total 538.03 491.59
+of which from areas with water stress 12.44 n.a.
+Total withdrawal of freshwater 
+538.03 n.a.
+(≤1,000 mg/L Total Dissolved Solids)
+Total withdrawal of other water  
+0 n.a.
+(>1,000 mg/L Total Dissolved Solids)
+Water discharge of Group Italmobiliare
+Destination Megaliters (Ml)2019 Megaliters (Ml) 2018
+Surface water 415.25 377.60
+of which from areas with water stress 0 n.a.
+Groundwater  0 0
+of which from areas with water stress 0 n.a.
+Sewage 27.05 31.38
+of which from areas with water stress 1.30 n.a.
+Total 442.30 488.98
+of which from areas with water stress 1.30 1.30
+Total withdrawal of freshwater (≤1,000 mg/L Total Dissolved Solids) 434.35 n.a.
+Total withdrawal of other water (>1,000 mg/L Total Dissolved Solids) 7.39 n.a.
+Water consumption of Group Italmobiliare
+  Megaliters (Ml)2019 Megaliters (Ml) 2018
+Total 95.73 82.61
+of which from areas with water stress 11.14 3.10
+GRI 306 Waste by type and disposal method
+GROUP ITALMOBILIARE Non-hazardous wastes (t) Hazardous wastes (t)
+Disposal methos 2019 2018 2019 2018
+Reuse  -     6.4  0.0 0.0
+Recycling 2,428.4 1,301.4 16.5 2.0
+Recovery included energy recovery  5,066.4   3,213.6  25.6 33.8
+Composting  235.1   273.0  0.4 0.9
+Incineration  25.8   -    0.9 1.5
+Landfill  1,256.8   1,234.1  114.5 131.5
+On-site storage  -     -    0.0 0.0
+Total              9,328.1 6,367.8 157.7 169.7

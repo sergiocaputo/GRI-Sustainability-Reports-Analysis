@@ -1,0 +1,71 @@
+ALLEGATI 
+ 
+ 
+Allegato 2 - Tabella coefficienti utilizzati per i calcoli ambientali 
+ 
+FATTORI DI CONVERSIONE 2018 
+FATTORE DI 
+CRITERI ADOTTATI  RIF.  U.M.  FONTI 
+CONVERSIONE 
+Quanto di seguito descritto trova applicazione per 
+determinare le emissioni di CO2 derivanti dalla  DENSITÀ  t/l  0,845 
+combustione del gasolio nel periodo di riferimento 
+LIO  (easnpnreos ssoal airne )t.e Lrma iqnui adni tictào ndtie cnoumtob udsi tiebnilee rugtiiali z(zTaJta)  èe   PCI   MJ/t  43,308  Fonte: 
+GASO pgearstaonlitoo  xla  PfoCrIm xu lFaa btatosree d di ic aelmcoislos èio: nTeo nx/ CFOat2t o=r (et  ddii   EFMAITSTS. .  TCO2/TJ  73,300  hsttatptiss:t/i/cwsw/cwo.nsveearis.iieo/nre-fsaocutorrcse/s /seai-
+ossidazione) x 0,000001. Dove: la quantità di 
+gasolio è data dalle fatture di acquisto.  FATT. 
+Gli altri dati sono estratti dalla tabella dei parametri  OSSIDAZ.  COEFF.  1,000 
+nazionali irlandesi 
+GJ/ 
+PCI  35,253 
+Quanto di seguito descritto trova applicazione per  1000Stm3  Pubblicazione Ministero dell’Ambiente e della 
+determinare le emissioni di CO2 derivanti dalla  FATT.  tutela del territorio e del mare: 
+combustione del metano nel periodo di riferimento  EMISS.  TCO2/TJ  55,934  http://www.minambiente.it/sites/default/files/archiv
+(anno solare). La quantità di combustibile utilizzata è  io/allegati/emission_trading/tabella_coefficienti_st
+espressa in termini di contenuto di energia (TJ) e  FATT.  andard_nazionali_11022019.pdf 
+COEFF.  1 
+NO  p(Semrta3n dtoi  glaa sf oxr PmCuIl ax  Fbaatsteo rdei  dci aelmcoilsos ièo:n Teo xn F/CatOto2 r=e   OSSIDAZ.  AERS Serbia 
+META dutii loizszsaitdoa èz iroicnaev)a xta 0 d,0a0i 0d0a0ti1 f.a Dttuorvae.  l a quantità di gas  PCI Serbia  100G0JS/t m3  33,33835  hntetpllo:/ /swpwewci.faiceor sfi.lres /eInxdceexl:. a sp?l=2&a=662 
+  Kalkulator-PrimerSvodjenja 
+Gli altri dati sono estratti dalla tabella dei parametri  IPCC (2006 IPCC Guiidelines for National 
+nazionali.  Greeenhouse Gas Inventory) 
+  Fatt. Emiss.   
+Per l’Italia sono comunicati dal Ministero Ambiente  Serbia  TCO2/TJ  56,100  www.sinanet.isprambiente.it 
+(Direttiva Emission Trading)  Nello specifico Fattori emissione produzione e 
+consumo elettricita_2018-1 file excel foglio n.8 
+Valore medio Gas Naturale, IPCC’06 
+Market based  https://www.ecohz.com/wp-
+content/uploads/2017/05/AIB_2016_Residual_Mix
+ENERGIA ELETTRICA  DeuifACLanolatcteOeeritql nrtitrfz2eauteoi rtzrvdinoirsmcomeet ta.earri un sDi dtvlaoaaiaaai    rc qqlgneulqauurit tnaue ieell mi aissszdr ktttzemaaiaqW atlp teliudt’a aeah ood rn  tabisioa enambxC  rd rigdaeàiOdpiifmta  aaer2q i Cto n euctso dlOioidens redretdt2ertnae etri :etnitcl ceea(rddoamqmrtiarmi  ur cerienaadiconnlan  aonta1rettnsie art  ivuiàl  ck ledmto oaWodra nslatsilla /’ iotpeehoaltesenn ni pc  c(eeed doiirur)fea gg itcltiildi)aaoaox.i         COEFF.TE DI CONV.NE  gCO/ KWH 2 ITALIA SERBIA DA  LLMMooccaa46aarr3kktt7477iiee3oo6022tt4nn  ,,bb44  .55bb9aa  37aass   sseeeedddd     _hirhhDnseRetttprtttpappptre.oafo:::st///r/:///ruts wwwg-hl2e/twwwtfs0rtaip.wwwe1pcs-8...td:iisssee//fit/v/ naaoweiea..ruwooiwncrrrwoehgg pte.  .a((ei-22sieab00pmn-11r_ai00srm))se  ibsoiindeiun/nateal_.tiimto/intix/as li-ain-ventory-
+0,000001)  N
+A Location based  https://www.seai.ie/resources/publications/Energy
+L
+R 437  -in-Ireland-2018.pdf 
+I
+TI 
+R
+O DA KM A  GCO2/  http://www.sinanet.isprambiente.it/it/sia-
+ASP Trasformazione da km a gCO2  GCO2  KM  643,9  ispra/fetransp 
+R
+T
+ADESIVO  Trasformazione da mq a kg  COEFF.  KG/MQ  0,107  Peso specifico 
+Cartone prod. Stora Enso (rif. Tambrite)  0,433  Carbon Footprint Fact Sheet Tambrite 2017 05/18 
+Cartone prod. RDM (rif. Rochcoat)  0,398  Rif. e-mail 29/03/2019 da RDM 
+Cartone prod. MM Karton (rif. Kromopak)  0,885  Rif. MM Karton - Annual_Report_2017 
+MATERIE  Cartone prod. varia  COEFF.  TCO2/  0,885  Rif. valore massimo degli ETS per cartone 
+PRIME  Carta prod. Bolloré (rif Primabrite)  DI CONV.NE  tonn.  0,212  Rif. PDV 2018 Carbon Assessment del 03/04/19 
+Carta prod. varia  0,212  Rif. valore massimo degli ETS per carta 
+Carta autoadesiva prod. Avery Dennison  0,423  Rif. valore massimo degli ETS per carta 
+Carta autoadesiva prod. Avery Dennison  0423  Rif. valore massimo degli ETS per carta 
+Annex 1 - Table 2 / Currency conversion rates, as 
+CAMBIO VALUTA  COEFF.DI CAMBIO $/€  1,2398  of April 1, 2018 (Report of Word Bank Group 2018/) 
+EU ETS  Italia  16$  12,90€ 
+CARBON  Carbon price value deduced from the last edition of 
+Ireland carbon tax  Irlanda  25$  20,16€  Report of Word Bank Group - State and Trends of 
+PRICE 
+Carbon Pricing 2018 
+EU ETS  Serbia  16$  12,90€ 
+   
+Pag. 112 di 132  REPORT SOSTENIBILITÀ 2019 
+     
+ 

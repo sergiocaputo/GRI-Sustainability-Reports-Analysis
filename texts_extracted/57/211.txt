@@ -1,0 +1,55 @@
+Bilancio Individuale 2017
+(cid:36)(cid:17)(cid:20)(cid:17)(cid:26)(cid:3)(cid:40)(cid:86)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:70)(cid:85)(cid:72)(cid:71)(cid:76)(cid:87)(cid:76)(cid:93)(cid:76)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:70)(cid:68)(cid:86)(cid:86)(cid:68)(cid:3)(cid:89)(cid:72)(cid:85)(cid:86)(cid:82)(cid:3)(cid:70)(cid:79)(cid:76)(cid:72)(cid:81)(cid:87)(cid:72)(cid:79)(cid:68)(cid:29)(cid:3)(cid:71)(cid:76)(cid:81)(cid:68)(cid:80)(cid:76)(cid:70)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:72)(cid:86)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:76)(cid:82)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)(cid:79)(cid:82)(cid:85)(cid:71)(cid:72)
+Inadempienze  Esposizioni 
+Causali/Categorie  Sofferenze 
+probabili  scadute deteriorate 
+A. Esposizione lorda iniziale  1.329.586  1.074.137  216.365 
+- di cui: esposizioni cedute non cancellate  48.968  48.987  63.207 
+B. Variazioni in aumento  210.530  249.281  228.366 
+B.1 ingressi da esposizioni in bonis  7.830  39.766  209.612 
+B.2 trasferimenti da altre categorie di esposizioni deteriorate  158.592  106.056  84 
+B.3 altre variazioni in aumento  44.108  103.459  18.670 
+- di cui operazioni di aggregazione aziendale  -  -  - 
+C. Variazioni in diminuzione  463.589  264.837  224.112 
+C.1 uscite verso esposizioni in bonis  1.019  37.045  58.772 
+C.2 cancellazioni  70.048  -  - 
+C.3 incassi  91.127  91.490  36.919 
+C.4 realizzi per cessioni  288.996  -  - 
+C.5 perdite da cessione  12.390  -  - 
+C.6 trasferimenti ad altre categorie di esposizioni deteriorate  9  136.302  128.421 
+C.7 altre variazioni in diminuzione  -  -  - 
+- di cui operazioni di aggregazione aziendale  -  -  - 
+D. Esposizione lorda finale  1.076.527  1.058.581  220.619 
+- di cui: esposizioni cedute non cancellate  13.610  37.953  41.268 
+(cid:3)
+(cid:36)(cid:17)(cid:20)(cid:17)(cid:26)(cid:69)(cid:76)(cid:86)(cid:3)(cid:3)(cid:40)(cid:86)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:70)(cid:85)(cid:72)(cid:71)(cid:76)(cid:87)(cid:76)(cid:93)(cid:76)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:70)(cid:68)(cid:86)(cid:86)(cid:68)(cid:3)(cid:89)(cid:72)(cid:85)(cid:86)(cid:82)(cid:3)(cid:70)(cid:79)(cid:76)(cid:72)(cid:81)(cid:87)(cid:72)(cid:79)(cid:68)(cid:29)(cid:3)(cid:71)(cid:76)(cid:81)(cid:68)(cid:80)(cid:76)(cid:70)(cid:68)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:72)(cid:86)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:81)(cid:70)(cid:72)(cid:86)-
+(cid:86)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:79)(cid:82)(cid:85)(cid:71)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:87)(cid:76)(cid:81)(cid:87)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:84)(cid:88)(cid:68)(cid:79)(cid:76)(cid:87)(cid:106)(cid:3)(cid:70)(cid:85)(cid:72)(cid:71)(cid:76)(cid:87)(cid:76)(cid:93)(cid:76)(cid:68)
+Esposizioni oggetto di  Esposizioni oggetto di 
+Causali/Categorie  concessioni:  concessioni: non 
+deteriorate  deteriorate 
+A. Esposizione lorda iniziale  409.389  234.200 
+- di cui: esposizioni cedute non cancellate  39.533  71.801 
+B. Variazioni in aumento  96.602  93.592 
+B.1 ingressi da esposizioni in bonis non oggetto di concessioni  30.143  45.274 
+B.2 ingressi da esposizioni in bonis oggetto di concessioni  50.953 
+ 
+B.3 ingressi da esposizioni oggetto di concessioni deteriorate  44.151 
+ 
+B.4 altre variazioni in aumento  15.506  4.167 
+- di cui operazioni di aggregazione aziendale  -  - 
+C. Variazioni in diminuzione  103.810  144.405 
+C.1 uscite verso esposizioni in bonis non oggetto di concessioni  84.649 
+ 
+C.2 uscite verso esposizioni in bonis oggetto di concessioni  44.151 
+ 
+C.3 uscite verso esposizioni oggetto di concessioni deteriorate  50.953 
+ 
+C.4 cancellazioni  -  - 
+C.5 incassi  59.659  8.803 
+C.6 realizzi per cessioni  -  - 
+C.7 perdite da cessione  -  - 
+C.8 altre variazioni in diminuzione  -  - 
+D. Esposizione lorda finale  402.181  183.387 
+- di cui: esposizioni cedute non cancellate  20.727  53.791 
+(cid:3)
+211

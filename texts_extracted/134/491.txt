@@ -1,0 +1,46 @@
+ 
+Assets and liabilities at 31 December 2019  Current portion of 
+Non-current  Current financial  Other current  Bank and other  bank loans and  Other current 
+  Trade receivables  financial assets  assets  assets   Total assets  Trade payables  loans  current account  liabilities  Total liabilities  Net balance  
+facilities 
+ SA.PI. NOR Salini Impregilo - Pizzarotti J.V.  1,163,466  -  -  -  1,163,466  3,168,150  -  -  -  3,168,150  (2,004,684) 
+ SA_RC  77,407,726  -  -  -  77,407,726  93,676,200  -  1,930,012  -  95,606,212  (18,198,486) 
+ Sabrom  122,756  -  10,774,416  -  10,897,172  -  -  -  -  -  10,897,172 
+ Salini Impregilo - NGE Genie Civil S.a.s  512,166  -  -  -  512,166  -  -  -  -  -  512,166 
+ Salimp Cleveland  12,600  -  2,403,418  -  2,416,018  -  -  66,148  -  66,148  2,349,870 
+ Salini Australia  424,045  -  35,974,652  -  36,398,697  -  -  -  -  -  36,398,697 
+ Salini Impregilo - Healy J.V. NEBT  98,358  -  -  -  98,358  -  -  -  -  -  98,358 
+ Salini Impregilo - Kolin  3,696,048  -  134,805  -  3,830,853  -  -  -  -  -  3,830,853 
+ Salini Impregilo - NRW Joint Venture  415,340  -  -  -  415,340  11,379  -  -  -  11,379  403,961 
+ Salini Impregilo Tristar  13,544,092  -  -  -  13,544,092  193,573  -  -  -  193,573  13,350,519 
+ Salini Impregilo Canada Holding Inc.  215,385  -  -  -  215,385  -  -  -  -  -  215,385 
+ Salini Impregilo Civil Works  3,292,577  -  -  -  3,292,577  -  -  -  -  -  3,292,577 
+ Salini Impregilo Mobilink Hurontario GP Inc.  213,364  -  -  -  213,364  -  -  -  -  -  213,364 
+ Salini Kolin Cgf Joint Venture  224  -  -  410,568  410,792  -  -  -  -  -  410,792 
+ Salini Malaysia Head Office  30,861  -  237,961  -  268,822  63,834  -  -  -  63,834  204,988 
+ Salini Namibia  16,800  -  -  -  16,800  883,239  -  9,012,697  349  9,896,285  (9,879,485) 
+ Salini Nigeria Ltd  4,404,322  -  76,040,761  -  80,445,083  -  -  -  -  -  80,445,083 
+ Salini Polska Sp.  669,142  -  191,293,001  -  191,962,143  2,275,142  -  472,621  -  2,747,763  189,214,380 
+ Salini Saudi Arabia Company Ltd  3,069,651  -  2,818,355  -  5,888,006  2,487,150  -  123,755  -  2,610,905  3,277,101 
+ Sclafani S.c.r.l.  7,746  -  -  -  7,746  -  -  -  -  -  7,746 
+ SCLC Polihali Diversion Tunnel J.V.  1,859,484  -  -  -  1,859,484  -  -  182  -  182  1,859,302 
+ Sedi scarl  944  -  -  -  944  -  -  -  -  -  944 
+ Segrate  255,241  -  4,000  -  259,241  1,796,392  -  -  -  1,796,392  (1,537,151) 
+ Seli Tunneling  624,775  -  -  -  624,775  12,000  -  -  -  12,000  612,775 
+ SFI leasing  -  -  -  -  -  -  -  -  1,290,081  1,290,081  (1,290,081) 
+ SHIMMICK  36,235,787  -  -  605,238  36,841,025  -  -  -  -  -  36,841,025 
+ Sirjo S.c.p.A.  10,761,801  -  1,630,209  -  12,392,010  19,189,622  -  -  -  19,189,622  (6,797,612) 
+ SLC Snowy Hydro Joint Venure  3,919,115  -  -  -  3,919,115  -  -  100,896,575  -  100,896,575  (96,977,460) 
+ SNFCC  21,973  -  -  2,709,599  2,731,572  -  -  -  -  -  2,731,572 
+ SPV Linea M4 Spa  118,447  23,004,859  -  -  23,123,306  27,000  -  -  -  27,000  23,096,306 
+ Suleja Minna Dualisation  276,888  -  15,129  -  292,017  -  -  -  -  -  292,017 
+ Suropca  -  -  6,578  -  6,578  -  -  843,970  -  843,970  (837,392) 
+ Techint S.A.C.I.- Hochtief A.G.- Impregilo S.p.A  -  -  -  3,095,162  3,095,162  -  -  3,103,327  -  3,103,327  (8,165) 
+ Texas High Speed Rail  5,356,140  -  -  -  5,356,140  -  -  -  -  -  5,356,140 
+ Thessaloniki Metro CW J.V. (AIS JV)  941,772  -  -  -  941,772  -  -  -  -  -  941,772 
+ Todedil scarl  373  -  8,954  -  9,327  -  -  -  -  -  9,327 
+ Tokwe Mukorsi Dam  -  -  -  -  -  2,298  -  -  -  2,298  (2,298) 
+ Western Station JV  157,693  -  -  25,158,139  25,315,832  58,435,182  -  4,433,189  -  62,868,371  (37,552,539) 
+ Yarull  21,191  -  2,735,307  -  2,756,498  -  -  -  84,915  84,915  2,671,583 
+ Yuma  16,796  58,641,061  -  -  58,657,857  -  -  -  -  -  58,657,857 
+   492 

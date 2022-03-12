@@ -1,0 +1,46 @@
+Under the agreement, Hera and the Consorzio della Bonifica Renana have invested about Euro 120,000 to 
+implement the transfer system (sluice gate and pumping/extraction plant) of part of the flow rate of the 
+Bologna purification plant (IDAR), to the network of channels managed by the Consortium. 
+During the activity, additional analyses are planned on the waste water discharged by IDAR, to monitor 
+additional parameters with respect to those already in the authorization. 
+This initiative, in addition to the primary objective of protecting water bodies in the area, also pursues the 
+principle of reuse of water as a good to be preserved. Given the importance of these objectives and the 
+positive results of the project, the Group has chosen to extend the experiments to guarantee the minimum 
+vital flow of watercourses in correspondence with the dry seasons: 
+•  in Sassuolo and Savignano the agreement being signed with the Burana Reclamation Consortium 
+and the Region will allow the reuse of approximately 500,000 cubic meters starting from the 
+2019/2020 irrigation season; 
+•  in Modena an agreement is envisaged with the Municipality and the Region for the recovery of 
+approximately 600,000 cubic meters of water leaving the Naviglio purification plant that will be 
+conveyed to the Cavo Argine for irrigation of agricultural areas north of Modena; 
+•  the POR-FERS project in which Hera participates (ENEA leader), includes among its objectives the 
+application of smart systems for on-line monitoring of the quality of purified water destined for re-
+use and the definition of a model to decide the best destination (agronomic, industrial, other) for 
+the water leaving the Cesena purification plant. 
+Utilities 4.0: Smart Hera 
+Since 2015, some Hera employees have been meeting periodically to study and develop small projects to 
+improve and increase the efficiency of working tools, and to introduce innovations. They have already 
+carried out a series of activities, while others are ongoing. 
+The initiatives completed in 2018 include: 
+• (cid:448)irtual re(cid:272)eptio(cid:374)s for (cid:373)a(cid:374)agi(cid:374)g (cid:448)isitor a(cid:272)(cid:272)ess to Hera sites through re(cid:373)otely-connected operators; 
+• the i(cid:373)ple(cid:373)e(cid:374)tatio(cid:374) of (cid:374)e(cid:449) te(cid:272)h(cid:374)ologies applied to (cid:272)o(cid:373)pa(cid:374)y (cid:271)adges (su(cid:272)h as ope(cid:374)i(cid:374)g (cid:272)o(cid:373)pany vehicles); 
+• the i(cid:374)trodu(cid:272)tio(cid:374) of highly relia(cid:271)le syste(cid:373)s that e(cid:374)sure operatio(cid:374)al (cid:272)o(cid:373)(cid:373)u(cid:374)i(cid:272)atio(cid:374)s i(cid:374) the e(cid:448)e(cid:374)t of 
+emergencies that make regular voice transmission networks unavailable. 
+Notable ongoing initiatives include: 
+• the additio(cid:374) of (cid:374)e(cid:449) fu(cid:374)(cid:272)tio(cid:374)s to the corporate app to facilitate the use of a set of services for employees 
+(as for example the display of inter-site travel of employees to enable vehicle sharing); 
+• the i(cid:374)stallatio(cid:374) of (cid:373)ulti(cid:373)edia tote(cid:373)s at (cid:448)arious Group sites to allo(cid:449) all e(cid:373)ployees to access the Group(cid:859)s 
+digital services and news.  
+Utilities 4.0: Workforce management (Hergo Reti)  
+Geocall is the new software platform for the management of field activities of network systems, from 
+operation and maintenance, to technical assistance, to emergency response. The first release in November 
+2018 immediately allowed a significant increase in the efficiency of the emergency activities, with a 
+simplification of activities, an intuitive graphical interface and the use of all the features made available by 
+the technology of smartphones. 
+Geocall has been fully integrated with our information systems based on SAP technology, and overcomes 
+the previous operational inefficiencies due to consultation of documents offline, persistence of paper 
+documents, the need for continuous phone calls with assistants, access to data only from fixed locations, 
+use of different devices for different functions.  
+The main characteristics are briefly described below: 
+113 
+ 

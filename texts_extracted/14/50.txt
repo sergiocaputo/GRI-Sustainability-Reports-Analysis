@@ -1,0 +1,50 @@
+1 LETTERA AGLI STAKEHOLDER       2 NOTA METODOLOGICA       3 PRESENTAZIONE DEL GRUPPO        4 LA GESTIONE DEL RISCHIO        5 LOTTA ALLA CORRUZIONE      6 PERSONE E TERRITORI       7 IL CAPITALE UMANO        8 L’IMPEGNO PER L’AMBIENTE        9 LA CATENA DI FORNITURA 
+6.5 Digitalizzazione 
+e Innovazione 
+GRI 103.1 Per lo sviluppo dei servizi di Digital Banking la  Degna  di  nota  la  funzionalità  ATM  Cardless:  il  In particolare, il Gruppo ha risposto alle necessità 
+GRI 103.2 Banca ha adottato la metodologia di lavoro "agile",  cliente può utilizzare la rete ATM della Banca per le  di cambiamento di attività, processi organizzativi, 
+GRI 103.3 un  approccio  completamente  innovativo  dalle  classiche operazioni di prelevamento (ma anche di  competenze  e  modelli  di  business,  attraverso 
+GRI 203.2 caratteristiche di elevata efficacia. Il metodo porta  versamento, interrogazione movimenti e operazioni  l’innovazione del proprio sistema infrastrutturale 
+con sé non solo una decisa riorganizzazione dei  dispositive), utilizzando le credenziali e il processo  e applicativo. Sono state sviluppate piattaforme, 
+processi di lavoro ma ha generato la nascita di  di autenticazione di Digital Banking, potendo quindi  anche sperimentali, per la proposizione di nuovi 
+nuove figure professionali come Product Owner,  operare anche nel caso di non possesso - assoluto  prodotti, servizi e modalità di interazione tra banca 
+Scrum  Master  che  figurano  tra  le  professioni  o momentaneo - di una carta di debito. e utente. Dal punto di vista organizzativo, per la 
+emergenti per il futuro.  gestione  dei  progetti,  anche  per  il  Consorzio  è 
+L'Area Canali Digitali rileva e interviene su eventuali  La  Banca  favorisce  l'integrazione  e  lo  sviluppo  stata avviata in maniera massiva l'adozione della 
+temi e criticità, che interessano i servizi e i prodotti  delle idee anche di nuovi soggetti imprenditoriali  metodologia "agile" per rispondere con maggiore 
+di competenza, rilevati da diverse fonti: (Startup) sia domestiche che internazionali, i cui  qualità e in minor tempo alle esigenze di business. 
+• contatto diretto, attraverso la registrazione di  progetti possono contribuire a migliorare prodotti e 
+segnalazioni e suggerimenti di clienti e prospect  servizi - o a costruirne di nuovi - grazie alle nuove  Tale  strategia  ha  lo  scopo  di  determinare  un 
+dal Servizio Clienti (Banca Telefonica) e Filiali; opportunità sia normative che tecnologiche offerte  vantaggio  competitivo  basato  sull’utilizzo  di 
+• App e tecnologia Net Promoter Score, attraverso  dal mercato. Allo stesso tempo, anche soggetti più  tecnologie abilitanti per un servizio differenziale e 
+la  valutazione  delle  recensioni  e  del  rating  maturi (Fintech, Regtech, ecc.) hanno sviluppato  sull’anticipazione dei bisogni dei clienti (espressi 
+attribuito a specifiche aree di indagine; nuove  iniziative  ad  alto  grado  di  innovazione.  e  non  espressi)  e  che  punta  all’eccellenza 
+• con il contributo dei partner in tema di sviluppo,  La Banca non si limita a esaminare le proposte  dell’esperienza e alla generazione di un modello di 
+accessibilità, usabilità e customer experience. pervenute spontaneamente ma, sia attraverso una  relazione banca/cliente in cui la Banca è presente 
+L’Area Canali Digitali raccoglie inoltre le esigenze  iniziativa dedicata (Officina MPS) sia con l'attività di  e  raggiungibile  sempre  e  ovunque  dal  cliente, 
+di business riguardo all’ erogazione di servizi e  scouting, è soggetto attivo nella ricerca di soluzioni  moltiplicando i punti di contatto e le occasioni di 
+vendita prodotti sui canali digitali, includendo tra  innovative, anche da settori non bancari o finanziari.  interazione commerciale. 
+questi la Banca Telefonica e l'ATM.  In  questo  perimetro  rientrano  la  valutazione  e 
+Lo  stimolo  alla  digitalizzazione  deriva  sia  dalla  l'integrazione di nuovi servizi resi alle Terze Parti  La  digitalizzazione  tuttavia  implica  un  profondo 
+spinta propria del mercato (esigenze dei clienti,  (TPP) previsti dalla Direttiva PSD2: ne è un chiaro  cambiamento  delle  attività  e  dei  processi 
+velocità e semplicità dei servizi, self banking) che  esempio  l'adesione  della  Banca  a  CBI  Globe,  organizzativi, delle competenze e dei modelli di 
+dei Regolatori Europei e Domestici (disciplina delle  l'iniziativa promossa in questo senso dal sistema  business che devono evolversi sfruttando appieno 
+Terze Parti, Direttiva PSD2).  bancario italiano (la cui copertura supera l'80%  le tecnologie come driver per l’innovazione grazie ai 
+Tale stimolo deriva da: dell'industria  bancaria).  Questa  partecipazione,  quali è possibile ridurre il “cost to serve” e migliorare 
+• l'evoluzione  dei  processi  organizzativi  con  nata  dall'apertura  del  mercato  a  nuovi  soggetti  sotto  il  profilo  dell’attenzione  al  cliente  e  delle 
+l'adozione della metodologia agile; non bancari, si rivela dunque essere generatrice di  attività di business.  
+• lo  scouting,  la  selezione  e  l'integrazione  di  valore per i nuovi player.
+soluzioni  di  terze  parti  (Fintech,  Insurtech,  Il Consorzio Operativo di Gruppo ha definito una 
+Regtech,  ecc.),  sia  direttamente  che  in  strategia IT, con l’obiettivo dell’eccellenza operativa 
+collaborazione con altre funzioni della Banca e  migliorando costantemente la stabilità, la qualità 
+con il contributo al Progetto Officina MPS. e  il  livello  di  gradimento  dei  servizi  erogati  ai 
+Il Digital Banking è un servizio acquistabile stand  dipendenti e ai clienti del Gruppo. Il raggiungimento 
+alone; grazie a questa caratteristica, se ne può  di tale obiettivo è basato su diversi pilastri fra cui 
+essere titolari anche in assenza di altri prodotti  digitalizzazione e innovazione. 
+bancari  o  finanziari  con  l’opzione,  gratuita,  di 
+ottenere una casella di Posta Elettronica Certificata  L’innovazione  è  anche  da  considerarsi  una 
+(PEC) e aderire alla Firma Digitale Remota (FDR).  componente  di  discovery,  di  trasformazione  e 
+Quest’ultima potrà essere utilizzata per eventuali  manutenzione evolutiva in grado di garantire nel 
+future  sottoscrizioni  di  contratti  online  con  la  tempo la creazione di prodotti, processi e strumenti 
+Banca. che possano incrementare il valore del business. 
+98 99

@@ -1,0 +1,58 @@
+Indice generale Indice di sezione
+Relazione sulla gestione al 31 dicembre 2017
+6. Dichiarazione consolidata di carattere non finanziario 
+Omissioni
+GRI Standard Numero e titolo dell’indicatore Riferimenti Parti omesse Ragione Spiegazione
+INDICATORI DI PERFORMANCE AMBIENTALI
+I temi che ci raccontano 
+Spiegazione del tema materiale   
+GRI 103-1  
+e del perimetro dei suoi impatti Green Building 
+Logistica sostenibile
+Descrizione dell’approccio 
+GRI 103-2
+manageriale e delle sue componenti
+Descrizione dell’approccio 
+GRI 103-3
+manageriale e delle sue componenti
+Energia
+GRI 302-1 Consumo di energia interno all’organizzazione Green Building
+Logistica sostenibile Consumi energetici interni totali di Gruppo* 2016 2017
+Energia elettrica rinnovabile (GJ) 1.791.787 1.812.424
+Energia non rinnovabile (GJ) 2.783.864 2.937.824
+di cui: 
+Energia elettrica approvvigionata dalla rete nazionale 94.811 83.377
+Gas Metano (GJ) 671.061 657.874
+GPL (GJ) 9.997 35.057
+Gasolio (GJ) 517.351 860.664
+Benzina (GJ) 553.425 173.278
+Jet Fuel (GJ) 919.688 1.104.614
+Teleriscaldamento (GJ) 17.531 22.960
+Totale energia (GJ) 4.575.651 4.750.248
+* Comprende l’energia riferita alle strutture Immobiliari e quella collegata al Business della logistica su gomma e del trasporto passeggeri e 
+posta via aerea.
+Acqua
+GRI 303-1 Prelievo totale di acqua per fonte  Green Building
+Emissioni
+GRI 305-1 Emissioni totali dirette di gas a effetto serra (GHG)  Logistica sostenibile
+Emissioni di CO totali del Gruppo *  2016 2017
+scope 1 Green Building 2
+Emissioni dirette - Scope 1 (t)* 180.797 193.774
+GRI 305-2  Emissioni totali indirette di gas a effetto serra (GHG) 
+scope 2 Emissioni indirette - Scope 2 (t)** 10.804 9.901
+GRI 305-3 Emissioni  gas a effetto serra (GHG) di altro tipo  Emissioni di altro tipo - Scope 3 (t) 170.675 157.916
+scope 3
+* I fattori utilizzati per la conversione dei combustibili in CO2: GPL (1,5704 kgCO2/litro) Metano (2,6928 kgCO2/kg) Benzina (kg CO2/litro 2,3839), Gasolio (2,74790 
+kg CO2/litro), Jet Fuel (2,4910 kg CO2/litre). Fonte: Methodology Paper for Emission Factors 2017 redatto dallo UK Department for Environment Food & Rural 
+Affairs (Defra) e Regolamento 601/2012 sul sistema EU ETS (per il calcolo delle emissioni di CO2 del trasporto aereo). 
+** Poste Italiane acquista certificati di garanzia di origine rinnovabile per una quota pari a circa il 95% dei propri consumi di energia elettrica. I GRI Sustainability 
+Reporting Standards prevedono due metodologie di calcolo delle emissioni dello Scope 2, il “Location-based method” e il “Market-based method”. Il “Market-
+based method” (metodologia utilizzata da Poste Italiane) si basa sulle emissioni di CO2 emesse dai fornitori di energia da cui l’organizzazione acquista, tramite 
+un contratto, energia elettrica (in questo caso certificati di garanzia di origine da fonte rinnovabile dell’energia) e per il restante 5% fattori di emissione della rete 
+elettrica nazionale (fattore di emissione: 375g CO2/kWh, fonte Terna 2015); Il metodo Location-based, invece, si basa sui fattori di emissione medi relativi alla 
+generazione di energia regionali, subnazionali o nazionali. Applicando il metodo Location-based il totale delle emissioni di Gruppo di Scope 2 nel 2016 è pari a 
+199.871 tonnellate di CO2 e nel 2017 pari a 198.347 tonnellate (fattore di emissione: 375g CO2/kWh Fonte: Terna 2015.
+Scarichi e Rifiuti
+GRI 306-2 Peso totale dei rifiuti per tipologia e per metodi di  Green Building
+smaltimento
+99

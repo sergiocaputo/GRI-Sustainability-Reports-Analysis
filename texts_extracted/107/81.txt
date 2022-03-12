@@ -1,0 +1,23 @@
+5.3 EMISSIONS IN THE ATMOSPHERE
+DIRECT EMISSIONS (SCOPE 1).  
+The table below shows the use of fuels for plants and heating for offices, as well as emissions deriving from the refrigerant gas 
+losses in refrigerators and air conditioners.
+Request Prima Components Sole Components PSMM Eldoprima TWICE PS
+Total 4586,4 9578,1 1147,9 239,8 976,0
+Gross direct 
+greenhouse 
+gas emissions,  Fuels 4356,6 9096,6 1147,9 239,8 966,3
+equivalent CO2 tons
+(Scope 1)
+Refrigerating gas 229,7 481,5 - - 9,7
+Gas included in 
+CO2 HFC CO2 HFC CO2 HFC CO2 HFC CO2 HFC
+the calculation 
+Source of GWP factors: With regard to GWP metrics for all substances with an altering climate effect, Chapter 8 (Anthropogenic and Natural Radiative Forcing) of the 2013 
+Climate Change report was used as a source: The Physical Science Basis. Contribution of Working Group | to the Fifth Assessment Report of the Intergovernmental Panel 
+on Climate Change, published by Cambridge University Press. Consolidation approach to emissions.
+Operational control. 
+Standards, methodologies, hypotheses and / or tools calculation used 
+• For fuels, invoices • For HFC, the FGAS declaration pursuant to article 16 paragraph 1 of the D.P.R. n. 43 of 27 January 2012, concerning the quantities of refrigerant added 
+in repairing activities.
+PAGE 82

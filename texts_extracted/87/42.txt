@@ -1,0 +1,41 @@
+sustainability report 2019
+Disclosure Chapter - section Omissions Reasons Explanation
+404-3 
+Percentage of employees receiving regular performance 
+§ 4.2
+and career development reviews, divided by gender and job 
+position
+GRI Topic: 407
+Freedom of association and collective bargaining
+DMA 407 
+Describe the management approach for the freedom of  § 4.3 
+association and collective bargaining topic using KPI GRI 103:  § 6.2
+Management Approach
+407-1 
+Operations and suppliers in which the right to freedom of  § 4.3
+82 association and collective bargaining may be at risk
+GRI Topic: 414
+Supplier social assessment
+DMA 414 
+Describe the management approach for the supplier social  § 6.2
+assessment using KPI GRI 103: Management Approach
+GRI Topic: 416
+Customer health and safety
+DMA 416 
+§ 2.1
+Describe the management approach for customer health 
+§ 6.4
+and safety using KPI GRI 103: Management Approach
+416-1 
+§ 2.1 
+Assessment of the health and safety impacts of product and 
+§ 6.4
+service categories
+GRI Topic: 418
+Customer privacy
+DMA 418 
+Describe the management approach for customer privacy  Chapter 6
+using the KPI GRI 103: Management Approach
+418-1 
+Substantiated complaints concerning breaches of customer  § 6.1
+privacy and losses of customer data

@@ -1,0 +1,24 @@
+Bilancio di Sostenibilità 2017 GRI 102 - 55
+Indicatore GRI Descrizione Disclosure Pagine
+GRI 305 - Emissions
+305 - 1 Emissione diretta di gas serra (scope 1) 148
+305 - 2 Emissioni indiretta di gas serra (scope 2) 149
+305 - 3 Altre emissioni indirette di gas serra (scope 3) 150
+305 - 4 Intensità emissiva di gas serra  151
+305 – 5 Riduzione delle emissioni di gas serra 151
+GRI 306 - Effluents and Waste
+306 - 2 Rifiuti per tipologia e metodo di smaltimento 152-153
+GRI 401 - Employment
+401 - 1 Nuove assunzioni di dipendenti e turnover della forza lavoro 98-100
+401 - 2 Benefit e altri contributi integrativi 116
+401 - 3 Tasso di rientro e mantenimento del lavoro dopo il congedo parentale 116
+GRI 402 - Labor/Management Relations
+402 - 1 Periodo minimo di preavviso per cambiamenti organizzativi 118
+GRI 403 - Occupational Health and Safety
+403 - 1 Lavoratori rappresentati nel Comitato per la salute e la sicurezza 121
+403 - 2 Infortuni, malattie e assenteismo 122-125
+403 - 3 Ruoli ad alto rischio di infortuni 126-127
+403 - 4 Accordi sindacali su salute e sicurezza 127
+GRI 404 - Training and Education
+404 - 1 Formazione annua per dipendente e per categoria di lavoratori 105-108
+ 160

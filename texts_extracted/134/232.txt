@@ -1,0 +1,37 @@
+ 
+•  The statement of profit or loss gives a classification of costs by nature and shows the profit or loss before 
+“Financing income (costs) and gains (losses) on equity investments” and income taxes. The profit or 
+loss from continuing operations, the profit or loss from discontinued operations and the profit or loss 
+attributable to non-controlling interests and that attributable to the owners of the parent are also 
+presented. 
+•  The statement of comprehensive income shows all non-owner changes in equity. 
+•  The statement of cash flows presents the cash flows from operating, investing and financing activities 
+separately. The indirect method is used. 
+Basis of consolidation 
+The consolidated financial statements have been prepared by consolidating the financial statements at 31 
+December 2019 of Salini Impregilo, the parent, and the Italian and foreign companies which the parent directly 
+or indirectly controls. 
+Control exists when the Group has the power to govern, directly or indirectly, the financial and operating policies 
+of an entity so as to obtain benefits from its activities. Generally speaking, control is presumed to exist when the 
+Group holds more than half of the voting rights either directly or indirectly. 
+Entities or companies over which Salini Impregilo has joint control, by virtue of an investment therein or specific 
+contractual arrangements, are consolidated as follows pursuant to IFRS 11: 
+•  on a line-by-line basis according to the investment percentage, if they are joint operations; 
+•  at equity, if they are joint ventures. 
+In the case of some joint ventures, the financial reporting packages of consortia and/or consortium companies 
+prepared for their inclusion in the consolidated financial statements have not yet been approved by the 
+competent consortium bodies as they are waiting for the court-approved procedures of the consortium members 
+to be defined. When this is the case, the financial reporting packages are prepared using the best information 
+available. 
+Investments in associates are measured using the equity method. 
+The financial statements used for consolidation are modified (made consistent) and reclassified to comply with 
+the Group’s accounting policies in line with the currently applicable IFRS. 
+The financial statements used are expressed in the functional currency, being the local currency or another 
+currency in which most of the economic transactions and assets and liabilities are denominated.   
+Financial statements expressed in currencies other than the Euro are translated into Euros by applying the 
+closing rates to the statement of financial position items and the average annual rates to the statement of profit 
+or loss items, as these approximate the spot rates. 
+Differences arising from the translation of the opening equity using the closing rates and from the translation of 
+assets and liabilities at the spot rate and the statement of profit or loss items at the average annual rate are 
+taken to the translation reserve. 
+   233 

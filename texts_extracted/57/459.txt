@@ -1,0 +1,55 @@
+Bilancio Consolidato 2017
+tativa per il mercato italiano. Si evidenzia, al riguardo, che, sulla base delle fonti ﬁnanziarie internazionali solita-
+mente utilizzate dalla Capogruppo, per il 2017 l’indicatore in questione assumerebbe un valore pari al 6,4%. Si 
+segnala, tuttavia, che altre autorevoli fonti di derivazione internazionale indicano a ﬁne 2017 un indicatore del 
+5,08%, in riduzione rispetto a quanto stimato nel dicembre 2016 allorquando le varie fonti risultavano sostanzial-
+mente allineate. La presenza di tale contesto di incertezza, che deriva dall’osservazione di trend contrapposti 
+per il medesimo parametro osservato, ha indotto gli Amministratori a mantenere invariato il valore del predetto 
+indicatore, in continuità con quanto fatto a dicembre 2016 e a giugno 2017, tenuto conto che, tra l’altro, tale 
+valore risulta del tutto congruo con le prassi valutative correnti sul mercato italiano. 
+Il “Terminal Value” è stato determinato considerando un ﬂusso distribuibile normalizzato e un tasso di crescita di 
+lungo termine “g” (oltre l’orizzonte esplicito), ﬁssato pari al 2%, sostanzialmente in linea con le previsioni di crescita 
+di lungo termine del settore, e un livello target di patrimonializzazione in termini di CET1 ratio pari al 10,5% (in linea 
+con quanto effettuato nello scorso esercizio), in considerazione degli obiettivi pluriennali di patrimonializzazione che 
+il Gruppo BP Bari si è posto, nonché in coerenza con l’attuale risk appetite framework di Gruppo. Tale scelta con-
+tempera, da una parte, la logica intrinseca di porre delle soglie sul capitale di maggiore qualità che possano essere 
+rispettate anche di fronte a scenari negativi (ed a fronte di cui possono essere ragionevolmente poste in essere le 
+opportune azioni correttive) e, dall’altra, il mantenimento di opportuni buffer rispetto agli obiettivi di medio-lungo 
+termine assegnati dal regolatore all’interno del periodico processo SREP.
+Confronto tra valore contabile e valore recuperabile: conclusioni ed analisi di sensitivity
+Dal confronto tra valore contabile e valore recuperabile (valore d’uso) delle CGU stimato come sopra descritto, l’esito 
+del test ha evidenziato le seguenti risultanze:
+Importi(cid:3)in(cid:3)milioni(cid:3)di(cid:3)euro(cid:3) (cid:3) (cid:3) (cid:3)(cid:3)
+Valore(cid:3)
+Valore(cid:3)
+contabile(cid:3)
+CGU(cid:3) recuperabile(cid:3) Differenza(cid:3)
+ante(cid:3)
+(valore(cid:3)d'uso)(cid:3)
+impairment(cid:3)
+(cid:3)(cid:3) (A)(cid:3) (B)(cid:3) (C(cid:3)=(cid:3)B(cid:3)(cid:882)(cid:3)A)(cid:3)
+BP(cid:3)Bari(cid:3) 93,5(cid:3) 98,3(cid:3) 4,9(cid:3)
+CR(cid:3)Orvieto(cid:3) 30,9(cid:3) 43,3(cid:3) 12,4(*)(cid:3)
+Totali(cid:3) 124,4(cid:3) 141,6(cid:3) 17,3(cid:3)
+(*)(cid:3)Quota(cid:3)di(cid:3)pertinenza(cid:3)del(cid:3)Gruppo(cid:3)BP(cid:3)Bari(cid:3)pari(cid:3)a(cid:3)9,1(cid:3)milioni(cid:3)di(cid:3)euro(cid:3)
+Dall’analisi svolta è emerso, in prima facie, un valore recuperabile degli avviamenti consolidati relativi alle CGU “BP 
+Bari” e “CR Orvieto” superiore al rispettivo valore contabile.
+L’analisi di sensitivity effettuata rispetto ai parametri di mercato utilizzati (Ke e CET1 ratio) ha evidenziato le dinami-
+che riportate all’interno delle seguenti tabelle (valori in milioni di euro).
+CGU BP Bari
+Ke(cid:3)
+Sensitivity(cid:3)
+7,90%(cid:3) 8,15%(cid:3) 8,40% 8,65% 8,70% 8,90% 9,15% 9,40% 9,65%(cid:3) 9,90%(cid:3)
+DDM(cid:3)
+9,50%(cid:3) 88(cid:3)
+9,75%(cid:3) 67,2(cid:3)
+10,00%(cid:3) 46,4(cid:3)
+o(cid:3)
+ati 10,25%(cid:3) 25,6(cid:3)
+1R(cid:3) 10,50%(cid:3) 202,7(cid:3) 147,1(cid:3) 95,9(cid:3) 48,7(cid:3) 39,6(cid:3) 4,9(cid:3) (35,8)(cid:3) (73,6)(cid:3) (108,9)(cid:3) (141,9)(cid:3)
+ET 10,75%(cid:3) (15,9)(cid:3)
+C
+11,00%(cid:3) (36,7)(cid:3)
+11,25%(cid:3) (57,4)(cid:3)
+11,50%(cid:3) (78,2)(cid:3)
+459

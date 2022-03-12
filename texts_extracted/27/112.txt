@@ -1,0 +1,72 @@
+GRUPPO CREDEM  DNF 
+2018 Introduzione I  Il Cliente I  Le nostre Persone I  L'Ambiente I  La Società
+DISCLOSURE 305-4 INTENSITÀ DELLE EMISSIONI DI GAS AD EFFETTO SERRA
+INTENSITÀ DI EMISSIONE SCOPO 1 + SCOPO 2  2018 2017 2016
+(MARKET-BASED) 17
+Emissioni di Scopo 1 + Scopo 2 (Market-based) [tCOeq] 4.071 4.097,7 3.832,9
+2
+Dipendenti e promotori finanziari al 31/12 [numero]  7.364 7.305 7.319
+Superficie netta [m2] 301.124 302.325 301.377
+Intensità di emissione per persona [kgCOeq/persona] 552,8 560,9 523,7
+2
+Intensità di emissione per superficie netta [kgCOeq/m] 13,5 13,6 12,7
+2 2
+DISCLOSURE 305-6 EMISSIONE DI SOSTANZE NOCIVE PER LO STRATO DI OZONO 
+Nel 2018, l’importante piano pluriennale di investimento, ha consentito di rinnovare la quasi totalità dei gruppi frigo e delle 
+pompe di calore esistenti operanti con gas HCFC e CFC con nuovi impianti di climatizzazione contenenti gas frigorigeni non 
+lesivi dello strato di ozono.
+Al termine del 2018 residuano circa 15 impianti contenenti R22 per i quali non sono mai state rilevate perdite o fughe di gas. 
+Per gli impianti di spegnimento automatico, non sono presenti dispositivi contenenti Halon, altri gas rientranti nelle 
+categorie CFC ed HCFC o inseriti nel protocollo di Montreal.
+DISCLOSURE 305-7 OSSIDI DI AZOTO (NO ), OSSIDI DI ZOLFO (SO ) E ALTRE EMISSIONI SIGNIFICATIVE NELL'ARIA 18
+X 2
+NO  [KG] 2018 2017 2016 SO  [KG] 2018 2017 2016
+X 2
+da gas naturale   1.057,1 1.059,6 1.007,8 da gas naturale    10,5   10,5  10,0
+per riscaldamento per riscaldamento
+da GPL per   da GPL per riscaldamento - - -
+3,3 6,9 5,6
+riscaldamento
+da energia elettrica da  
+ -    -   -
+da energia elettrica da  fonte non rinnovabile
+- - -
+fonte non rinnovabile da flotta auto aziendale  
+ 16,2   16,6  16,0
+da flotta auto aziendale  12.693,7 13.053,9 12.586,5 (escluso auto Dipendenti)
+TOTALE 13.754,1 14.120,33 13.599,9 TOTALE  26,7   27,2  26,1
+METODOLOGIA DI CALCOLO
+Con riferimento alla flotta auto aziendale, le emissioni di NO e SO sono state calcolate con riferimento ai valori pubblicati sul sito  
+X 2
+http://www.sinanet.isprambiente.it/it/sia-ispra/fetransp/ relativamente agli autoveicoli destinati al trasporto di persone in ambito totale 
+(comprendente il ciclo urbano, extraurbano ed autostradale).
+FATTORI DI EMISSIONE Fonte Coefficiente Unità di misura
+NO
+X
+da gas naturale per riscaldamento Linee Guida ABI 2018 0,00104 kgNO/Smc
+X
+da GPL per riscaldamento (densità 0,56 kg/l) Linee Guida ABI 2018 0,00140  kgNO/kg
+X
+da flotta auto aziendale SINAnet-Sistema Inf.vo Naz.le Ambientale 0,00062 kgNO/km
+X
+SO
+2
+da gas naturale per riscaldamento Linee Guida ABI 2018 0,0000103  kgSO /mc
+2 
+da GPL per riscaldamento (densità 0,56 kg/l) Linee Guida ABI 2018 0,000102  kgSO /kg
+2
+da flotta auto aziendale SINAnet- Sistema Inf.vo Naz.le Ambientale 0,00000079 kgSO /km
+2 
+18
+17
+I dati delle emissioni di Scopo 1 e 2 relativi agli anni 2016 e 2017 sono stati riesposti 
+rispetto a quelli indicati nella DNF 2017, per effetto di conguagli significativi (dell’ordine  I dati delle emissioni di NO e SO relativi agli anni 2016 e 2017 sono 
+X 2
+del 10%) su consumi di gas naturale pervenuti nel corso del 2018, a seguito  stati riesposti rispetto a quelli indicati nella DNF 2017 per l’inserimento 
+dell’aggiornamento della metodologia di calcolo dei fattori di conversione dei consumi  nel perimetro di rendicontazione del dato anche i consumi di 
+energetici da flotta auto in coerenza con l’aggiornamento delle Linee guida ABI Lab  carburante derivanti dall’utilizzo delle auto private dei dipendenti per 
+sull’applicazione in banca degli Indicatori Ambiente del GRI, e a seguito del periodico  viaggi lavorativi, e a seguito del periodico aggiornamento dei fattori 
+aggiornamento dei fattori di emissione volto a garantire una migliore comparabilità.   di emissione volto a garantire una migliore comparabilità. Per i dati 
+Per i dati storici precedentemente pubblicati, si faccia riferimento alla DNF 2017  storici precedentemente pubblicati, si faccia riferimento alla DNF 2017 
+pubblicata nella sezione Sostenibilità del sito istituzionale del Gruppo. pubblicata nella sezione Sostenibilità del sito istituzionale del Gruppo.
+111

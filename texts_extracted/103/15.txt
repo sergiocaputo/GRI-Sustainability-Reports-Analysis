@@ -1,0 +1,67 @@
+Sustainability Report at 31 March 2019 of the Piquadro Group 
+ 
+Type of risk  Method of handling 
+Risks related to the production activity  The Group has a historical presence in the countries 
+and supply of raw materials, linked to  where it operates at the production level and employs 
+its staff in both the production and financial 
+significant changes in the 
+administrative areas. In addition, the Group operates a 
+macroeconomic, political, fiscal or 
+constant analysis of possible local issues ensuring full 
+legislative framework in areas where 
+updating in terms of local regulations. In addition, the 
+the Group's products are  scouting of possible new suppliers in different 
+manufactured, as well as the Group's  geographical areas continues. 
+inability to maintain and renew its   
+business relationships.  
+Risks related to the operation on  For a long time, the Group has diversified its 
+multiple international markets and the  investments and its presence in Europe and Asia. In 
+distribution network, linked to possible  addition, although the indirect sales channel still 
+changes in the political and economic  accounts for a significant percentage of sales, the 
+situation in different countries, the  Group has been in a policy of retail expansion for 
+need to face competition from  several years, leading to the opening of direct-to-
+operators in different markets,  manage stores throughout the and thus to increase the 
+difficulty in being able to satisfy the  sales channel managed directly by the organisation. 
+clientele tastes of different countries, 
+the greater difficulty in protecting their 
+products from counterfeiting activities. 
+ 
+Risks related to the protection of  The Group employs a company that specialises in 
+intellectual property rights and  protecting everything related to intellectual property 
+counterfeiting related, therefore, to the  (brands, trademarks, ornamental models, utility 
+protection of rights related to design,  models, patents, etc.). 
+processes and production  Trademarks are registered in virtually every country in 
+technologies, utility models as well as  the world; even in those where the Group does not yet 
+brands and other trademarks signs all  operate. 
+of which are crucial for the success of  With regard to the protection of trademarks, the Group 
+the products on the market and the  has also been operating for many years a system of 
+Group's competitive positioning.  monitoring new registration requests, so that, already 
+  at the initial stage, it can counter any registration 
+concessions of brands that have relevance to their 
+own. 
+Risks related to the integrity of the  The Group implements updating procedures to ensure 
+information system identified in  that it is defended against external attacks of computer 
+particular in data integrity, continuity  viruses.  On the continuity of the information system: 
+of the I.T. system and segregation to  Piquadro has a data centre with redundant virtualised 
+external and internal access to  servers on three equivalent nodes renewed in January 
+information (vulnerabilities).  2019. The server room, armoured and fireproof, is 
+  equipped with: intrusion and smoke detectors, flood 
+and temperature sensors all connected to the alarm 
+control unit that can alert selected personnel in the 
+event of problems detected. The Disaster Recovery 
+site has been relocated to Florence in the server room 
+of The Bridge, it is updated via VPN via a 100 MB 
+connection with fully dedicated bandwidth at night and 
+partially reserved during the day. Almost all servers are 
+replicated (all critical ones) with a maximum RPO of 24 
+hours. During this exercise, Piquadro replaced the 
+firewall with single sign-on integration with active 
+directory and internet access profiling. The antivirus 
+used on all systems connected to the corporate 
+network is NOD 32 kept up to date with the latest 
+version and monitored through its administration 
+console. With regard to data integrity, this is stored on 
+databases whose access by developers and 
+15 
+ 
+ 

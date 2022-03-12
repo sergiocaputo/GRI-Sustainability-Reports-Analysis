@@ -1,0 +1,50 @@
+106 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+Product pricing consists in setting product features and  riders, which are most exposed to moral hazard, maxi-
+assumptions regarding biometric, policyholders’ behav- mum insurability levels are also set, lower than those ap-
+iour, financial and expenses assumptions to allow the  plied for death covers. In order to mitigate these risks, 
+Group Legal Entities to withstand any adverse develop- policy exclusions are also defined.
+ment in the realization of these assumptions.
+Regular risk exposure monitoring and adherence to the 
+For savings business, this is mainly achieved through  operative limits, reporting and escalation processes are 
+profit testing, while for protection business with a biom- also in place, allowing for potential remediation actions 
+etric component, it is achieved by setting prudent as- to be undertaken.
+sumptions.
+Finally, reinsurance represents the main risk mitigating 
+Lapse risk, related to voluntary withdrawal from the con- technique. The Parent Company acts as core reinsurer for 
+tract, and expense risk, related to the uncertainty around  the Group Legal Entities and cedes part of the business 
+the expenses that the Group expects to incur in the fu- to external reinsurers.
+ture, are evaluated in a prudential manner in the pricing of 
+new products. This evaluation is taken into account in the  The definition of a reinsurance arrangement is based on 
+construction and profit testing of a new tariff, consider- the process managed by Reinsurance Function in con-
+ing the underlying assumptions derived from the Group’s  stant interaction with Risk Management and Actuarial 
+experience. Functions.
+For insurance portfolios with a biometric risk component, 
+Non-Life Underwriting Risk 
+comprehensive reviews of the mortality experience are 
+compared with expected mortality of the portfolio, deter-
+mined according to the most up-to-date mortality tables  Non-life underwriting risks arise from the Group’s insur-
+available in each market. To this end, mortality by sex,  ance business in the P&C segment. 
+age, policy year, sum assured and other underwriting 
+criteria are taken into consideration to ensure mortality  Property&Casualty segment in the Management Report for 
+volumes of premiums and related geographic breakdown
+assumptions remain adequate and avoid the risk of mis-
+estimating for the next underwriting years.
+Details on insurance and investment contracts in the Notes for 
+technical provisions
+The same annual assessment of the adequacy of the mor-
+tality tables used in the pricing is performed for longevity 
+risk. In this case, not only biometric risks are considered  Non-life underwriting risks include the risk of underesti-
+but also the financial risks related to the minimum interest  mating the frequency and/or severity of the claims in de-
+rate guarantee and any potential mismatch between the  fining pricing and reserves (respectively pricing risk and 
+liabilities and the corresponding assets.  reserving risk), the risk of losses arising from extreme 
+or exceptional events (catastrophe risk) and the risk of 
+As part of the underwriting process, Generali Group  policyholder lapses from P&C insurance contracts. In 
+adopts  underwriting  guidelines.  Risk  Management  particular:
+Function reviews implications of new lines of business/ – pricing and catastrophe risks derive from the possibility 
+products on the Group risk profile.  that premiums are not sufficient to cover future claims, 
+also in connection with extremely volatile events and 
+Moreover, a particular emphasis is placed on the under- contract expenses; 
+writing of new contracts with reference to medical, finan- – reserving risk relates to the uncertainty of the claims 
+cial and moral hazard risks. The Group has defined clear  reserves (in a one-year time horizon);
+underwriting standards through manuals, forms, medical  – lapse risk arises from the uncertainty of the underwrit-
+and financial underwriting requirements. For insurance  ing profits recognised in the premium provisions.

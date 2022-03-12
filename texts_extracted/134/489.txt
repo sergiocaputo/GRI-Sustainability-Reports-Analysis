@@ -1,0 +1,46 @@
+ 
+Assets and liabilities at 31 December 2019  Current portion of 
+Non-current  Current financial  Other current  Bank and other  bank loans and  Other current 
+  Trade receivables  financial assets  assets  assets   Total assets  Trade payables  loans  current account  liabilities  Total liabilities  Net balance  
+facilities 
+ CSC  175,480  -  76,527  -  252,007  87,648  -  -  -  87,648  164,359 
+ CSI Simplon Consorzio  -  -  -  -  -  -  -  3,231,723  -  3,231,723  (3,231,723) 
+ Dev. Engin. infras. to Idu ind. area and Kar res. dist. Ab  515  -  30,190  -  30,705  -  -  -  -  -  30,705 
+ District 1 Development  251,020  -  8,381  -  259,401  -  -  -  -  -  259,401 
+ E.R. Impregilo/Dumez y Asociados para Yaciretê  16,854,596  -  776,645  -  17,631,241  14,884  -  -  10,762,398  10,777,282  6,853,959 
+ Emittenti Titoli S.p.A.  -  -  -  -  -  -  -  247,575  -  247,575  (247,575) 
+ Eurolink S.c.p.a.  10,019,414  -  -  -  10,019,414  15,848,808  -  -  -  15,848,808  (5,829,394) 
+ Executive J.V.  Impregilo S.p.A. Terna S.A.  -  -  9,991  -  9,991  -  -  -  -  -  9,991 
+ Fibe  116,941  -  1,482,536  -  1,599,477  -  -  -  -  -  1,599,477 
+ Fisia - Alkatas J.V.  9,500  -  -  -  9,500  -  -  -  -  -  9,500 
+ Fisia Ambiente S.P.A  6,859  -  -  -  6,859  -  -  15,079,796  -  15,079,796  (15,072,937) 
+ FISIA Italimpianti S.p.A  543,852  -  3,565,502  -  4,109,354  95,734  -  -  -  95,734  4,013,620 
+ Fisia Italimpianti succ.Arge.-Acciona Agua succ.Arge - UTE  22,300  -  -  -  22,300  -  -  -  -  -  22,300 
+ Fisia LLC  11,650  -  -  -  11,650  -  -  -  -  -  11,650 
+ Fisia Muhendislik VE Insaat Anonim Sirketi  8,800  -  -  -  8,800  -  -  -  -  -  8,800 
+ Forum S.c. a r.l.  -  -  -  -  -  596,812  -  -  -  596,812  (596,812) 
+ G. W. Trans. to Fed. Cap. Ter. Lot A Dam and Aa. W.  682,845  -  40,298  -  723,143  716,314  -  -  -  716,314  6,829 
+ Galfar Salimp Cimolai JV  3,824,134  -  44,507,483  -  48,331,617  310,237  -  -  19,743,778  20,054,015  28,277,602 
+ Gaziantep Hastane Saglik  -  -  4,939,436  -  4,939,436  -  -  -  -  -  4,939,436 
+ Gaziantep Hastanesi Isletme Ve Bakim Hizmetleri  -  -  408,568  -  408,568  -  -  -  -  -  408,568 
+ Gestione Napoli  -  -  4,184  -  4,184  -  -  -  -  -  4,184 
+ TC_0206 Grecia  -  -  6,242  -  6,242  -  -  -  -  -  6,242 
+ Group. d'entreprises Salini Strabag  (Guinea)  -  -  210,934  -  210,934  498,095  -  -  -  498,095  (287,161) 
+ Grupo Empresas Italianas - GEI  -  -  275,553  -  275,553  -  -  -  -  -  275,553 
+ GUP Canal  36,014,576  -  -  -  36,014,576  -  -  -  -  -  36,014,576 
+ HCE Italia Altre  222,037  -  18,711,492  -  18,933,529  -  -  -  -  -  18,933,529 
+ HCE Sede  41,616  -  214,806,000  -  214,847,616  412  -  -  -  412  214,847,204 
+ I INT IN  11,400  -  741,910  -  753,310  -  -  -  -  -  753,310 
+ ICT II  60,822  -  45,269,919  -  45,330,741  140,000  -  -  -  140,000  45,190,741 
+ IGL Arabia  103,109  -  -  -  103,109  550,257  -  -  -  550,257  (447,148) 
+ IGL-SK-GALFAR  7,054,325  -  7,061,283  6,814,635  20,930,243  1,004,055  -  -  -  1,004,055  19,926,188 
+ Iglys  3,993  -  475  -  4,468  26,984  -  6,407  -  33,391  (28,923) 
+ Impregilo-Healy UTE  1,238,778  -  -  33,845,077  35,083,855  260  -  2,842,934  95,926  2,939,120  32,144,735 
+ Imprepar  198,522  -  -  -  198,522  -  -  7,651,410  -  7,651,410  (7,452,888) 
+ INC Algeria  341,020  -  4,792,189  -  5,133,209  106,544  -  -  -  106,544  5,026,665 
+ IS JV  6,663,273  -  51,122,783  -  57,786,056  -  -  -  13,971,553  13,971,553  43,814,503 
+ Isarco S.c.r.l.  6,042,285  -  -  -  6,042,285  17,238,743  -  -  -  17,238,743  (11,196,458) 
+ Joint Venture  (AIASA JV)  11,386  -  -  -  11,386  843  -  -  -  843  10,543 
+ Joint Venture Aktor Ate - Impregilo S.p.A.  12,063  -  -  -  12,063  -  -  -  -  -  12,063 
+ Joint Venture Aktor S.A. - Impregilo S.p.A.  -  -  332  -  332  -  -  -  -  -  332 
+   490 

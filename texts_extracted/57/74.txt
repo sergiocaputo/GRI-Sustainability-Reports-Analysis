@@ -1,0 +1,48 @@
+Relazione sulla gestione
+-  una efﬁciente attività di gestione delle posizioni di rischio “anomale” o “vulnerabili” da parte dei gestori di primo 
+livello; 
+-  un sistema di “escalation” nella gestione delle posizioni anomale sulle diverse strutture aziendali in funzione della 
+gravità del rischio;
+-  un’attività di monitoraggio sull’adeguatezza delle azioni gestionali intraprese.
+Nell’ottica di garantire un costante efﬁcientamento dei sistemi di detection delle potenziali anomalie andamentali 
+sui crediti, la Banca ha anche avviato un cantiere progettuale volto ad evolvere ulteriormente il modello operativo 
+ed organizzativo di monitoraggio del credito.
+Quale ulteriore strumento di gestione / mitigazione del rischio di credito, la Banca adotta un sistema di monitorag-
+gio di speciﬁci limiti operativi. In particolare, sono periodicamente monitorati i limiti di concentrazione verso singoli 
+prenditori e verso settori di attività economica ed i limiti di frazionamento che, congiuntamente alla normativa sulle 
+Grandi Esposizioni prevista da Banca d’Italia, rappresentano il perimetro all’interno del quale deve essere svolto il 
+processo di afﬁdamento.
+Il rischio di mercato
+Il sistema di controlli adottato dalla Banca, coerentemente con quanto previsto dalla vigente normativa prudenziale, 
+è orientato a conseguire una sana e prudente gestione dei rischi di mercato, assicurando che gli stessi siano corret-
+tamente identiﬁcati e misurati secondo metodologie e procedure formalizzate.
+A tal proposito, la Banca si è dotata di un’apposita policy che deﬁnisce gli attori coinvolti nella gestione del rischio, i 
+processi e le procedure in uso, nonché gli strumenti di monitoraggio e mitigazione utilizzati al ﬁne di amministrare 
+lo stesso coerentemente con il complessivo proﬁlo di rischio ritenuto congruo dagli Organi con funzione di indirizzo 
+strategico.
+La normativa interna deﬁnisce uno speciﬁco sistema di limiti e deleghe operative declinati con riferimento sia al 
+portafoglio di trading, sia al banking book. Tale sistema è oggetto di periodico aggiornamento, al ﬁne di assicurarne 
+la coerenza con la propensione al rischio deﬁnita nell’ambito del Risk Appetite Framework e con l’evoluzione della 
+struttura organizzativa interna.
+Nel dettaglio, la Banca ha provveduto ad individuare una serie di indicatori di rischiosità in grado di cogliere i princi-
+pali aspetti che caratterizzano i rischi di mercato: i capitali investiti, le variazioni giornaliere del valore dei portafogli 
+detenuti, i relativi livelli di concentrazione (articolati per rating e controparte), il livello di Value at Risk ripartito per 
+tipologia di fattore di rischio.
+In considerazione degli elevati livelli di volatilità che contraddistinguono i rischi di mercato, la stima dei requisiti 
+patrimoniali mediante l’utilizzo di metodologie standard è afﬁancata dal monitoraggio, a ﬁni gestionali, di misure di 
+“Value at Risk” (VaR) calcolate mediante un modello basato su un approccio parametrico.
+Il modello è periodicamente sottoposto ad attività di “back testing” e “stress testing” al ﬁne sia di veriﬁcarne la ca-
+pacità previsionale, sia di simulare l’impatto di movimenti estremi dei fattori di rischio sul portafoglio di trading della 
+Banca.
+La Banca, inﬁne, ha provveduto ad afﬁancare alla sopra citata struttura di limiti operativi un set di indicatori di early 
+warning riferito ai portafogli del banking book, al ﬁne di consentire ai competenti Organi Aziendali di monitorare l’e-
+voluzione della rischiosità delle posizioni in essere ed individuare tempestivamente le eventuali azioni di mitigazione 
+necessarie.
+Il rischio operativo
+La Banca Popolare di Bari, anche nella sua funzione di Capogruppo, ha proseguito nel corso del 2017 le attività con-
+nesse al consolidamento di un framework organico e strutturato per la gestione del rischio operativo focalizzandosi, 
+in particolare, sul ﬁne tuning dei meccanismi di interazione con i processi di gestione del rischio informatico. 
+La Banca, inoltre, ha periodicamente segnalato i propri dati di perdita operativa all’Osservatorio DIPO (Database Ita-
+liano Perdite Operative), nonché gli scenari di rischio informatico e di conduct risk elaborati nell’ambito del progetto 
+ABI denominato SCER.
+74

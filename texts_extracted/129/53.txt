@@ -1,0 +1,94 @@
+GRI Content Index and UN Global Compact GRI Content Index and UN Global Compact
+→ GRI Content Index → GRI Content Index
+GRI  GRI 
+Disclosure References Notes and pages Omissions Disclosure References Notes and pages Omissions
+Standard Standard
+Reporting Practice GRI-203: Indirect Economic Impacts (2016)
+102-45 Entities included in the consolidated financial  2019 Integrated Report 2A 203-1 Infrastructure investments and services supported 2019 Integrated Report 75-83
+statements  2019 Annual Reports  Notes to the consolidated  203-2 Significant indirect economic impacts 2019 Integrated Report 75-83
+and Accounts accounts - Part A - Accounting  Topic: Anti-Corruption
+Policies; A.1 - General, 
+GRI-103: Management Approach (2016)
+Section 3 - Consolidation 
+scope and methods 103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+102-46 Defining report content and topic Boundaries  2019 Integrated Report 2; 36-45; S.30-S.31 103-2 The management approach and its components  2019 Integrated Report 28-29; S.21-S.25
+102-47 List of material topics  2019 Integrated Report 36-37; 40-45; S.30-S.31 103-3 Evaluation of the management approach 2019 Integrated Report 28-29; S.23-S.25; S.29
+102-48 Restatements of information 2019 Integrated Report 2 GRI-205: Anti-Corruption (2016)
+102-49 Changes in reporting  2019 Integrated Report 36-39; S.30-S.31 205-1 Operations assessed for risks related to  2019 Integrated Report 29
+corruption
+102-50 Reporting period  2019 Integrated Report 2
+205-2 Communication and training about anti- 2019 Integrated Report 29; S.23-S.24
+102-51 Date of most recent report  March 2019
+corruption policies and procedures
+102-52 Reporting cycle The frequency of this 
+Topic: Anti-Competitive Practices
+publication is set as annual, 
+in accordance with the  GRI-103: Management Approach (2016)
+provisions of Legislative  103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+Decree 254/2016. 103-2 The management approach and its components  2019 Integrated Report 28-29; S.21-S.23; S.25
+102-53 Contact point for questions regarding the  For any information related  103-3 Evaluation of the management approach 2019 Integrated Report 28-29; S.21-S.23; S.25
+report  to this Report you can write 
+GRI-206: Anti-Competitive Practices (2016)
+to groupsustainability@
+unicredit.eu. This document  206-1 Legal actions for anti-competitive behavior,  2019 Integrated Report S.26
+is also available on the  anti-trust, and monopoly practices 2019 Annual Reports 
+Sustainability section of  and Accounts
+UniCredit Group website  GRI 300: ENVIRONMENTAL SERIES 
+(www.unicreditgroup.eu).
+Topic: Materials
+102-54 Claims of reporting in accordance with the  This report has been prepared 
+GRI-103: Management Approach (2016)
+GRI Standards in accordance with the GRI 
+Standards: Core option 103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+102-55 GRI content index 2019 Integrated Report 102-111 103-2 The management approach and its components  2019 Integrated Report 54; 63; 86; 93
+102-56 External assurance  2019 Integrated Report 2; 113-115 103-3 Evaluation of the management approach 2019 Integrated Report 54; 63; 86; 93
+GRI-301: Materials (2016)
+TOPIC-SPECIFIC STANDARDS
+GRI  301-1 Materials used by weight or volume 2019 Integrated Report S.55; In 2019, the 
+Disclosure References Notes and pages Omissions
+Standard total copy paper 
+GRI 200: ECONOMIC SERIES consumption amounted 
+to roughly 3,753,000 kg.
+Topic: Economic Performance
+Topic: Energy
+GRI-103: Management Approach (2016)
+GRI-103: Management Approach (2016)
+103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+103-2 The management approach and its components  2019 Integrated Report 20-21; 33; 46-55; 89-
+90; S.16-S.19 103-2 The management approach and its components  2019 Integrated Report 11; 63; 90-93
+103-3 Evaluation of the management approach 2019 Integrated Report 20; 33; 65; 89-90;  103-3 Evaluation of the management approach 2019 Integrated Report 11; 63; 90-93
+S.16-S.19 GRI-302: Energy (2016)
+GRI-201: Economic Performance (2016) 302-1 Energy consumption within the organisation 2019 Integrated Report S.55; In 2019, direct 
+201-1 Direct economic value generated and distributed 2019 Integrated Report S.2-S.3 energy consumption 
+201-2 Financial implications and other risks and  2019 Integrated Report 24-25; 44; 94-101 amounted to roughly 
+opportunities due to climate change 432,000 GJ. The main 
+fuels used were natural 
+201-3 Defined benefit plan obligations and other  2019 Integrated Report S.41
+gas (97 percent), followed 
+retirement plans 2019 Annual Reports  by diesel (about 2 
+and Accounts percent) and crude oil and 
+Topic: Indirect Economic Impacts petroleum products (1 
+GRI-103: Management Approach (2016) percent). Indirect energy 
+consumption amounted 
+103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+to roughly 1,965,000 GJ 
+103-2 The management approach and its components  2019 Integrated Report 71; 75-83
+of which district heating 
+103-3 Evaluation of the management approach 2019 Integrated Report 75-79; 81-83 accounted for about 16 
+percent and electricity 
+for about 84 percent. 
+Electricity consumption 
+included self-produced 
+energy from photovoltaic 
+A. T he following legal entities have been included in the reporting perimeter: UniCredit SpA, Cordusio SIM SpA, UniCredit Factoring SpA, UniCredit Leasing SpA, 
+plants in Italy and Austria, 
+UniCredit Services SCpA (with its activities in Italy, Germany, Czech Republic, Hungary, Poland, Romania and Slovakia), UniCredit Bank AG, Food & More GmbH, 
+whereas in Germany 
+UniCredit Direct Services GmbH, UniCredit Leasing GmbH, Wealthcap Kapitalverwaltungsgesellschaft mbH, UniCredit Bank Austria AG, Card Complete Service Bank 
+AG, Schoellerbank Aktiengesellschaft, UniCredit Leasing (Austria) GmbH, UniCredit Services GmbH (with its activities in Austria, Poland and Romania), UniCredit  approximately 22,300 GJ 
+Bank DD, UniCredit Bank ad Banja Luka, UniCredit Bulbank AD, UniCredit Consumer Financing EAD, UniCredit Leasing EAD, Zagrebačka Banka DD, UniCredit Leasing  of self-produced energy 
+Croatia doo za Leasing, UniCredit Bank Czech Republic and Slovakia as, UniCredit Leasing CZ as, UniCredit Bank Hungary Zrt, UniCredit Leasing Hungary Zrt,  from renewable sources 
+UniCredit Bank SA, UniCredit Consumer Financing IFN SA, UniCredit Leasing Corporation IFN SA, UniCredit Leasing Fleet Management Srl, AO UniCredit Bank, Ooo  was sold.
+UniCredit Leasing, UniCredit Bank Serbia Jsc, UniCredit Leasing Slovakia as, UniCredit Banka Slovenija DD, UniCredit Leasing, leasing, doo.
+104UniCredit • 2019 Integrated Report UniCredit • 2019 Integrated Report105

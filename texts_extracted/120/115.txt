@@ -1,0 +1,35 @@
+Main HSE data and indicators 
+2017 2018 2019
+Health and Safety
+Employee accidents (no.) 6 4 2
+Employee accident frequency index 1.24 0.84 0.41
+Employee accident severity index 0.05 0.02 0.03
+Contractor accidents (no.) 5 3 5
+Contractor accident frequency index 0.54 0.41 0.71
+Contractor accident severity index 0.83 0.03 0.07
+Employee and contractor accident frequency index  0.78 0.58 0.59
+Employee and contractor severity index  0.56 0.02 0.05
+Energy 
+Total energy consumption (TJ) 12,582 13,281 12.152
+ of which natural gas (TJ) 12153.2 12,801.4 11,627.9
+ of which diesel (TJ) 77.9 91.0 82.6
+ of which gasoline (TJ) 2.3 2.8 3.9
+ of which LPG (TJ) 0.4 0.4 0.4
+ of which heat (TJ) 10.8 8.5 14.8
+ of which electricity (TJ) 337.7 376.9 422.6
+Emissions
+Natural gas emissions (106 m3) 46.8 44.4 39.2
+GHG Scope 1-2-3 Emissions (103 t CO ) 1,746 1,967 1,917
+2eq
+GHG Scope 1 Emissions (103 t CO ) 1,500 1,497 1,347
+2eq
+GHG Scope 2 Emissions (103 t CO ) - Market based 29 32 32
+2eq
+GHG Scope 3 Emissions (103 t CO )  217 438 538
+2eq
+NOx emissions (t) 532 564 452
+CO emissions (t) 329 196 181
+CO emissions /energy used (kg/GJ) 54.9 54.7 54.0
+2
+NOx emissions/energy used (kg/ GJ) 0.042 0.042 0.037
+114Sustainability Report 2019

@@ -1,0 +1,48 @@
+Safety rates
+Indici sulla safety
+Enel people Contractors 
+IInnjjuurriieess  ffrreeqquueennccyy  rraattee--FFRR11  ((ii)) FFaattaalliittiieess  ((nnoo..)) IInnjjuurriieess  ffrreeqquueennccyy  rraattee--FFRR11  ((ii)) FFaattaalliittiieess  ((nnoo..))
+2019 2019 2019 2019
+0.899 1 0.653 6
+2018 2018 2018 2018
+0.943 1 0.873 74
+2017 2017 2017 2017
+1.199 2 0.969 11
+HHiigghh  CCoonnsseeqquueennccee  iinnjjuurriieess22  ((nnoo..)) LLTTIIFFRR33  ((ii)) HHiigghh  CCoonnsseeqquueennccee  iinnjjuurriieess22  ((nnoo..)) LLTTIIFFRR33  ((ii))
+2019 2019 2019 2019
+3 0.18 16 0.13
+2018 2018 2018 2018
+5 0.19 13 0.17 
+2017 2017 2017 2017
+1 0.24 12 0.19
+1 This rate is calculated by establishing the ratio between the number of injuries (all injuries, also those with 3 days of absence or less) and hours worked/1,000,000.
+2 Sum of: injuries that resulted in more than 6 months’ absence from work as at December 31, 2019; injuries that are still open and considered severe (initial progno-
+sis > 30 days) as at December 31, 2019; injuries categorised as “Life Changing Accidents” (LCAs), regardless of the resulting days of absence from work.
+3 The Lost Time Injuries Frequency Rate is calculated by relating the number of injuries (all accident events, also those with 3 days of absence or less) with hours 
+worked * 200 thousand.
+4 Considering all areas in which the Group operates and the activities managed, including companies consolidated using the equity method and companies for which 
+the BSO (Build, Sell and Operate) mechanism has been applied, the total number of fatalities is 8. 
+The injuries frequency rate (FR) combined for Enel people and  plans, and monitoring of the associated actions depending 
+contractors in 2019 conﬁrmed the downward trend already re- on the event type. 
+corded in prior years, with a total of 0.73 injuries per million  The criteria prescribed by Policy 106 are applicable not only 
+hours worked, a ﬁgure that is 18.2% lower than that of 2018. to injuries of high industrial signiﬁcance but also to minor 
+In detail, the FR of Enel people decreased, totalling 0.90 in- events, including those not involving personal injuries (near 
+juries per one million hours worked (-5% versus 2018), and  misses). Therefore, all fatalities or severe injuries (or events 
+also that of contractor personnel, totalling 0.65 injuries per  that could have potentially caused a fatal or severe injury) 
+one million hours worked (-25% versus 2018), thus conﬁrm- involving Enel people or the personnel of contractor compa-
+ing the effectiveness of the strategies adopted and of the  nies are analysed by a group of experts. The improvement 
+safety policies implemented in the Group. actions identiﬁed are constantly monitored and followed 
+In 2019 there was 1 fatality involving an employee of the  until the time of completion. If the event analysis reveals 
+Enel Group (Spain) and 6 fatalities involving contractors (2 in  serious safety breaches by contractor companies, suitable 
+Brazil, 2 in Chile, 1 in Italy and 1 in Romania ). The causes are  provisions are adopted (contract termination, suspension of 
+mainly of mechanical type. qualiﬁcation, etc.). 
+In 2019 there were 3 High Consequence injuries involving Enel  In addition, the Extra Checking on Site (ECoS) activity pro-
+Group employees (2 in Italy and 1 in Russia) and 16 involving  ceeded in 2019 with 230 ECoS carried out, in line with the 
+contractors (5 in Italy, 2 in Spain, 2 in Peru, 2 in Mexico, 1 in  150 planned. The purpose of the ECoS is to assess adequacy 
+USA, 3 in Brazil and 1 in Argentina ), mainly of mechanical type.  of the organisation and processes implemented in a specif-
+Enel has a speciﬁc injuries management policy (Policy 106  ic operational area. These checks are carried out by expert 
+“Classiﬁcation, communication, analysis and reporting of  HSEQ personnel external to the operating units affected by 
+incidents”) that deﬁnes roles and methods employed to  the investigation, assisted by technical proﬁles speciﬁc to 
+guarantee prompt communication of incidents, ensuring the  the business, and they make it possible to deﬁne adequately 
+related causes analysis process, deﬁnition of improvement  monitored corrective actions for preventive purposes.
+146 Sustainability Report 2019

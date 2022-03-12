@@ -1,0 +1,51 @@
+ 
+Tabella 46 - Tipologie e tasso di infortuni sul lavoro, numero di giornate di lavoro perse, tasso di 
+assenteismo e numero di decessi suddivisi per area geografica 
+ 
+2018 
+Indicatori  Sede  Filiali  Filiali 
+Trentino-Alto  Totale 
+Centrale  Altre 
+Adige 
+Totale giorni lavorati nel periodo [1]  81.853  108.452  39.753  230.058 
+Totale ore lavorate nel periodo  598.561  799.754  297.699  1.696.014 
+Tipologie di infortuni         
+N° Incidenti mortali   0  0  0  0 
+Incidente fatale  0  0  0  0 
+Incidente non - fatale in itinere  3  2  2  7 
+Incidente non - fatale durante il lavoro  0  1  0  1 
+Totale Numero di infortuni  3  3  2  8 
+Tasso d'infortunio (TI)  7,33  5,53  10,06  6,95 
+Numero di malattie professionali  0  0  0  0 
+Tasso di malattie professionali (TMP)  0  0  0  0 
+Numero totale delle giornate di lavoro perse  120  60  47  227 
+Indice di gravità (IG)  40,1  15  31,58  26,77 
+Totale numero di giorni di assenza nel periodo  120  60  47  227 
+Tasso di assenteismo (TA) [2]  0,15%  0,06%  0,12%  0,10% 
+ 
+2017 
+Indicatori  Sede  Filiali  Filiali 
+Trentino-Alto  Totale 
+Centrale  Altre 
+Adige 
+Totale giorni lavorati nel periodo [1]  82.596  113.830  43.097  239.523 
+Totale ore lavorate nel periodo  590.096  814.360  313.930  1.718.386 
+Tipologie di infortuni         
+N° Incidenti mortali   0  0  0  0 
+Incidente fatale  0  0  0  0 
+Incidente non - fatale in itinere  3  4  2  9 
+Incidente non - fatale durante il lavoro  0  0  0  0 
+Totale Numero di infortuni  3  4  2  9 
+Tasso d'infortunio (TI)  1,02  0,98  1,27  1,05 
+Numero di malattie professionali  0  0  0  0 
+Tasso di malattie professionali (TMP)  0  0  0  0 
+Numero totale delle giornate di lavoro perse  141  38  68  247 
+Indice di gravità (IG)  47,79  9,33  43,32  28,75 
+Totale numero di giorni di assenza nel periodo  141  38  68  247 
+Tasso di assenteismo (TA) [2]  0,17%  0,03%  0,16%  0,10% 
+ 
+   
+ 
+ 
+Sparkasse                      97 
+ 

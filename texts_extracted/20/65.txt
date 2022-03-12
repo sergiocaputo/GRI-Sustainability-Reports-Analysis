@@ -1,0 +1,43 @@
+The Aalborg production plant has a system for recovering  
+heat from combustion gases used. The thermal energy recovered from  
+the system is used to supply the district heating network of the city  
+of Aalborg, meeting the annual heating requirements  
+of about 36,000 households which will become 50,000 in the near future, 
+covering about half of its urban population.  
+ 
+In 2019, the Aalborg Plant provided 1,6 milion GigaJoule of thermal energy to the local community.
+In 2019, 7 cement plants adopted the EN ISO 50001 certification for energy management systems, in line with 
+our goal of increasing the level of energy efficiency.  
+Cementir has committed that all operating companies in the cement production, concrete production and 
+waste management sectors have to operate with a certified energy management system (i.e. ISO 50001). 
+As of 2019, the 33% of all operating companies are certified ISO 50001, in 2025 the percentage will be double 
+to 71% while in 2030 the goal is that all operating companies will be certified. 
+Plants with certified Energy Management System ISO 50001
+        
+ 
+                   Cement                                                         Ready-mixed concrete                                            Waste management  
+                                                                                             and other activities                                                   and processing 
+Aalborg                        X                                       Çimbeton                                                              Süreko                      
+Al Arish                                                                Unicon DK                                                            Recydia                     
+Anqing                         X                                       Unicon NO                                                            Neales                      
+Edirne                          X                                       AbSydsten                                                            Hereko                      
+Elazığ                          X                                       CCB Brussels                                                                                          
+Gaurain                                                                CCB France                                                                                             
+Ipoh                             X                                                                                                                                                        
+İzmir                            X                                                                                                                                                        
+Kars                             X                                                                                                                                                        
+Waco                                                                                                                                                                                      
+York                                                                                                                                                                                       
+The ready-mixed concrete production plants, which have an energy requirement that is far lower than cement 
+plants, used about 70,000 GJ of electricity and 284,000 GJ of thermal energy. The energy intensity index for these 
+plants was calculated using tons of concrete and aggregates produced during the year as the denominator. 
+Energy consumed to produce ready-mixed concrete              
+ 
+Type                                                                                                     Unit                         2019                          2018                        2017 
+Thermal energy                                                                               GJ                  284,705                    292,341                  312,127 
+Electricity                                                                                         GJ                    69,983                      77,729                    72,651 
+Total energy                                                                                          GJ                   354,688                    370,070                  384,778 
+Thermal energy per t of ready-mixed concrete and aggregates     GJ/t                        0.03                          0.03                        0.02 
+Electricity per t of ready-mixed concrete and aggregates       GJ/t                      0.010                        0.009                      0.006 
+Total energy per t of ready-mixed concrete and aggregates     GJ/t                          0.03                           0.04                         0.03 
+64

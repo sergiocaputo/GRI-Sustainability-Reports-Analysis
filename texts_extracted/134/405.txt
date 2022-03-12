@@ -1,0 +1,37 @@
+ 
+3. Basis of presentation 
+Separate financial statements 
+Salini Impregilo opted to present its separate financial statements at 31 December 2019 as follows: 
+-  Current and non-current assets and current and non-current liabilities are presented separately in the 
+statement of financial position. Current assets and liabilities are those expected to be realised, sold, used 
+or settled in the company’s normal operating cycle, which usually exceeds 12 months. Non-current assets 
+and liabilities include non-current assets, deferred tax assets, employee benefits, deferred tax liabilities and 
+other balances expected to be realised, sold, used or settled after the company’s normal operating cycle, 
+i.e., more than twelve months after the reporting date.  
+-  The statement of profit or loss gives a classification of costs by nature and shows the profit or loss before 
+“Financing income (costs) and gains (losses) on investments” and income taxes. The statement of 
+comprehensive income shows all non-owner changes in equity. 
+-  The statement of cash flows presents the cash flows from operating, investing and financing activities 
+separately. The indirect method is used. 
+Accounting policies 
+The accounting policies adopted to draw up the company’s separate financial statements at 31 December 2019 
+comply with the IFRS and are consistent with those used to prepare the 2018 separate financial statements, 
+except for the standards enacted after 1 January 2019, summarised in the section on the  “Changes in 
+standards”. 
+Property, plant and equipment 
+Property, plant and equipment are recognised at purchase or production cost, net of accumulated depreciation 
+and any impairment losses. 
+Depreciation is calculated on a straight-line basis using rates determined based on the assets’ residual possible 
+use. The annual rates are as follows: 
+Category    Depreciation rate 
+Land     0% 
+Buildings    3% 
+Plant and machinery    from 10% to 20% 
+Industrial and commercial equipment    from 25% to 40% 
+Other assets    from 12% to 25%  
+ 
+Land and buildings, plant and machinery with a carrying amount to be recovered mainly through their sale (rather 
+than the asset’s continuing use) are measured at the lower of their carrying amount and fair value less costs to 
+sell. Assets held for sale shall be available for immediate sale and their sale shall be highly probable (i.e., the 
+related commitments already exist). Their price shall be reasonable compared to their fair value.  
+   406 

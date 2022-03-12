@@ -1,0 +1,32 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Rischio di prezzo
+L’analisi di sensitivity sugli strumenti finanziari sensibili al rischio di prezzo si basa su uno stress test costruito applicando al 
+prezzo di mercato la volatilità storica ad un anno, considerata rappresentativa delle possibili variazioni di mercato.
+Rischio di prezzo
+Posizione Delta valore Margine di  Riserve di 
+intermediazione Patrimonio netto 
+al lordo delle imposte
+Data di riferimento dell’analisi
+(milioni di euro) + Vol - Vol + Vol - Vol + Vol - Vol
+Effetti 2017
+Attività finanzarie disponibili per la vendita
+Titoli di capitale 41  5  (5) -    -    5  (5)
+Variabilità al 31 dicembre 2017  41   5   (5)  -     -     5   (5)
+Effetti 2016
+Attività finanzarie disponibili per la vendita
+Titoli di capitale 104  22  (22) -    -    22  (22)
+Variabilità al 31 dicembre 2016  104   22   (22)  -     -     22   (22)
+Gli investimenti in azioni sono commentati nella Parte B, Attivo, tabella 4.1.
+Ai fini dell’analisi di sensitivity, agli investimenti in azioni di Classe C della Visa Incorporated e in azioni Convertible Participating 
+Preferred Stock di serie C della Visa Incorporated presenti in portafoglio è stato associato il corrispondente valore delle azioni 
+quotate, tenuto conto della relativa volatilità rilevata nel corso dell’esercizio 2017. Il rischio di prezzo per le citate azioni è anche 
+monitorato mediante il calcolo del VaR.
+Di seguito si riporta l’esito dell’analisi del VaR effettuata:
+(milioni di euro) 2017 2016
+VaR fine periodo  -     (2)
+VaR medio  (2)  (2)
+VaR minimo  -     (1)
+VaR massimo  (3)  (3)
+514

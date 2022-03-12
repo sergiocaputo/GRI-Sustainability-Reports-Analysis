@@ -1,0 +1,51 @@
+RADICIGROUP
+P
+U MALATTIE PROFESSIONALI RICONOSCIUTE RELATIVE AI DIPENDENTI
+O
+R TOTALE UOMINI DONNE
+G
+I
+C 2016 2017 2018 2016 2017 2018 2016 2017 2018
+I
+D 0 7
+RA 03-1LA 3 n Totale Dipendenti 2.964 3.053 3.064 2.165 2.227 2.240 799 826 824
+DI  RI 4BEL ore Totale ore lavorate  4.908.203  5.010.381  5.044.517  3.626.974  3.719.776  3.734.456  1.281.230  1.290.606  1.310.061
+E  E GTA
+L R n Numero di decessi per  0 0 0 0 0 0 0 0 0
+A U
+CI LOS malattie professionali
+O C
+S DIS n Malattie professionali  3 6 4 3 5 4 0 1 0
+E  riconosciute
+C
+N
+n/200.000hTasso malattie professionali  0,12  0,24  0,16  0,17  0,27  0,21 0  0,15 0
+A
+M
+R
+O
+F
+R
+E MALATTIE PROFESSIONALI RICONOSCIUTE RELATIVE AI LAVORATORI ESTERNI (AUTONOMI E INTERINALI)
+P
+A 
+TOTALE UOMINI DONNE
+L
+2016 2017 2018 2016 2017 2018 2016 2017 2018
+0 8
+13
+3-A  n Totale Lavoratori esterni 238 268 271 213 245 254 25 23 17
+0L
+4L
+RI BE ore Totale ore lavorate 426.772 479.373 486.279 368.818 434.370 446.990 57.954 45.004 39.280
+GA
+E T
+R n Numero di decessi per  0 0 0 0 0 0 0 0 0
+U
+OS malattie professionali
+L
+C
+DIS n Malattie professionali  0 0 0 0 0 0 0 0 0
+riconosciute
+n/200.000hTasso malattie professionali 0 0 0 0 0 0 0 0 0
+94

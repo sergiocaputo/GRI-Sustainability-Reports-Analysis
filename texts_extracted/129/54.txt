@@ -1,0 +1,96 @@
+GRI Content Index and UN Global Compact GRI Content Index and UN Global Compact
+→ GRI Content Index → GRI Content Index
+GRI  GRI 
+Disclosure References Notes and pages Omissions Disclosure References Notes and pages Omissions
+Standard Standard
+302-3 Energy intensity 2019 Integrated Report S.55; Pro-capita data is  305-5 Reduction of GHG emissions 2019 Integrated Report 91; S.54
+calculated using the energy  305-6 Emissions of ozone-depleting substances  In line with applicable 
+consumption reported in the  (ODS) regulations, where 
+Disclosure GRI 302-1. necessary UniCredit 
+302-4 Reduction of energy consumption 2019 Integrated Report 91-92; S.55 continues to replace 
+302-5 Reductions in energy requirements of  2019 Integrated Report 91-92; S.55 refrigeration and cooling 
+products and services systems that contain ozone 
+depleting substances. In 
+Topic: Water
+recent years some episodes 
+GRI-303: Water (2016)
+of refrigerant gas leakages 
+303-1 Water withdrawal by source 2019 Integrated Report S.55; In 2019, the total water  have occurred in Germany 
+withdrawal from public  and in Hungary and the 
+water mains or other water  relevant GHG emissions 
+services providers amounted  have been calculated and 
+to roughly 1,881,000 m3. included in Scope 1 figures. 
+Topic: Emissions In 2019, in Germany, 332 kg 
+GRI-103: Management Approach (2016) of refrigerant gas leakages 
+were recorded (R134a, 
+103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+R407C, R410A, R422D), 
+103-2 The management approach and its components  2019 Integrated Report 11; 89-92 amounting to 0 tons of CFC- 
+103-3 Evaluation of the management approach 2019 Integrated Report 11; 89-92 11 equivalent; in Hungary 
+66 kg of refrigerant gas 
+GRI-305: Emissions (2016)
+leakages were recorded 
+305-1 Direct (Scope 1) GHG emissions 2019 Integrated Report S.54; Gases included in the 
+(R134a), amounting to 0 
+calculation: CO, CH, NO, 
+2 4 2 tons of CFC-11 equivalent. 
+HFCs;
+Sources for emission factors: 
+Sources for emission factors: 
+- O zone Secretariat UNEP, 
+- D EFRA, UK Government 
+Handbook for the Montreal 
+GHG Conversion Factors 
+Protocol on Substances 
+for Company Reporting 
+that Deplete the Ozone 
+(2019)B, for direct energy 
+Layer (13th edition, 2019), 
+consumption, business 
+for refrigerant gas leakages 
+travel and refrigerant gas 
+[CFC-11e].
+leakages.
+305-7 Nitrogen oxides (NOx), sulfur oxides (SOx),  No other significant air 
+305-2 Energy indirect (Scope 2) GHG emissions 2019 Integrated Report S.54; Gases included in the 
+and other significant air emissions emissions have been 
+calculation: CO, CH, N2O; 
+2 4 identified.
+Sources for emission factors:
+Topic: Effluents and Waste
+- D EFRA, UK Government 
+GHG Conversion Factors  GRI-306: Efflents and Waste (2016)
+for Company Reporting  306-2 Waste by type and disposal method 2019 Integrated Report S.55
+(2019),B for district heating; 
+Topic: Environmental Compliance
+- I EA, Emissions Factors 
+GRI-103: Management Approach (2016)
+(2019 edition)C, for 
+electricity consumption -  103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+Location Based method; 103-2 The management approach and its components  2019 Integrated Report 90-93
+- A ssociation of Issuing 
+103-3 Evaluation of the management approach 2019 Integrated Report 90-93; S.24-S.25
+Bodies (AIB), 2018 European 
+Residual Mixes, V.1.2 (2019),  GRI-307: Environmental Compliance (2016)
+for electricity consumption -  307-1 Non-compliance with environmental laws  No relevant fines were 
+Market Based method. and regulations imposed in 2019 for 
+305-3 Other indirect (Scope 3) GHG emissions 2019 Integrated Report S.54; Gases included in the  non-compliance with 
+calculation: CO, CH, NO;  environmental laws or 
+Sources for emi2ssion4 fa2ctors:  regulations.
+- D EFRA, UK Government  Topic: Supplier Environmental Assessment
+GHG Conversion Factors  GRI-103: Management Approach (2016)
+for Company Reporting 
+103-1 Explanation of the material topic and its Boundary 2019 Integrated Report 36-45; S.30-S.31
+(2019),B for business 
+travel and waste disposal;  103-2 The management approach and its components  2019 Integrated Report 93
+- C EPI, CEPI statistics  103-3 Evaluation of the management approach 2019 Integrated Report 93
+(2018), for copy paper use. GRI-308: Supplier Environmental Assessment (2016)
+308-1 New suppliers that were screened using  2019 Integrated Report 93; In UniCredit 
+environmental criteria 100 percent of 
+new suppliers are 
+screened using socio-
+environmental criteria.
+B.  The document contains public sector information licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/ B.  The document contains public sector information licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/
+opengovernment-licence/version/3/.licence/version/3/. opengovernment-licence/version/3/.licence/version/3/.
+C. IEA (2019), Emission Factors www.iea.org/statistics. All rights reserved; as modified by UniCredit SpA.
+106UniCredit • 2019 Integrated Report UniCredit • 2019 Integrated Report107

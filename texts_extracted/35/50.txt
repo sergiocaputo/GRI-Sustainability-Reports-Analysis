@@ -1,0 +1,55 @@
+ 
+ 
+ 
+Dati ambientali 
+ 
+Consumi energetici di Gruppo 
+Consumi energetici  Unità di misura  2016                 2017 
+Combustibili da fonti non rinnovabili  GJ    45.364    49.521 
+di cui per riscaldamento  GJ    40.444    45.121 
+di cui per uso produttivo  GJ    4.920    4.400 
+Combustibili da fonti rinnovabili  GJ    0    0 
+Consumo totale di energia elettrica7  GJ    65.810    71.241 
+Totale consumo energetico  GJ    111.174     120.762 
+ 
+Dettaglio consumi energetici – tipologia combustibile 
+  2016  2017 
+  Unità di  Consumo  Unità di  Consumo 
+GJ  GJ 
+misura  [udm]  misura  [udm] 
+Gas naturale  m3  1.148.262   40.415   m3  1.237.022  43.539 
+Benzina  l  79.433   2.601   l  74.924  2.453 
+Gasolio  l  64.646   2.348   l  98.007  3.529 
+Energia elettrica  kWh  18.280.444   65.810   kWh  19.789.047  71.241 
+ 
+Dettaglio emissioni di scope 1* e scope 2** (Metodo location-based) di Gruppo  
+                          2016    2017     
+ 
+Scope 1  Scope 2  Totale  Scope 1  Scope 2  Totale 
+ 
+ton CO2  ton CO2  ton CO2  ton CO2  ton CO2  ton CO2 
+Europa  2.396   2.146  4.542  2.599  2.394  4.993 
+Americhe  124   1.898   2.022   173  2.037  2.210 
+Resto del Mondo  75   3.101  3.176   73  3.421  3.494 
+Totale  2.595   7.145  9.740  2.845  7.852  10.697 
+ 
+Dettaglio emissioni di scope 1* e scope 2** (Metodo market-based) di Gruppo  
+                          2016    2017     
+ 
+Scope 1  Scope 2  Totale  Scope 1  Scope 2  Totale 
+ 
+ton CO2  ton CO2  ton CO2  ton CO2  ton CO2  ton CO2 
+Europa  2.396  2.502  4.898  2.599  2.795  5.394 
+Americhe  124   1.898   2.022   173  2.037  2.210 
+Resto del Mondo  75   3.101  3.176   73  3.421  3.494 
+Totale  2.595  7.501  10.096  2.845  8.253  11.098 
+ 
+*Per il calcolo delle emissioni di scope 1 sono stati considerati fattori di emissione differenti in base alla tipologia di combustibile 
+utilizzata. Gas naturale: ISPRA 2017 per emissioni su territorio nazionale (Italia), IPCC 2006 per emissioni originate su territorio non 
+italiano; Benzina: DEFRA 2014 per emissioni italiane e estere; gasolio: ISPRA 2017 per emissioni su territorio nazionale (Italia), DEFRA 
+2014 per emissioni originate su territorio non italiano. 
+ 
+ 
+                                                 
+7 Si segnala che il Gruppo non ha fatto ricorso a certificati d’origine per l’acquisto di energia da fonti rinnovabili. 
+Gruppo Emak – Bilancio di Sostenibilità 2017     49 

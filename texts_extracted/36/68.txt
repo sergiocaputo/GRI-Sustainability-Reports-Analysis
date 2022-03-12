@@ -1,0 +1,81 @@
+s
+ar
+pill
+ur 
+O
+Company and by the combustion of diesel in the auxiliary  and sold in the retail market by Enel and for the share distribut-
+motors used in renewable (hydroelectric) and nuclear tech- ed on behalf of other market competitors. These losses, as for 
+nologies, as well as the distribution of electricity. The com- Scope 2 for Enel’s distribution and transmission network, were 
+bustion processes from fossil fuels also include the genera- calculated based on the market share exceeding generation. In 
+tion of NO (GWP=265) and CH (GWP=28) expressed as a  2019, the total value of Scope 2 for distribution and transmission 
+2 4
+CO equivalent. These values were recalculated also for the  grid losses equalled approximately 3.8 mil t  (according to the 
+2 eq
+two previous years. location-based methodology). ss
+ee
+nn
+oo
+Other direct CO equivalent emissions originated from the  bb
+leakage to the 2atmosphere of SF (GWP=23,500) which  Scope 3 emissions backback
+6 G G 
+occurs mainly within the scope of electricity distribution and,  Scope 3 emissions are all indirect emissions (not included in  ESES
+secondarily in energy power plants. SF is used in high and me- Scope 2) that occur in Enel’s entire value chain, from gener-
+6
+dium voltage electrical equipment due to its capacity to isolate  ation and transport to the sale of energy. They do not derive 
+and extinguish electric arcs and as of today it is irreplaceable for  from controlled or owned sources.
+these applications. The quantities released to the atmosphere  With reference to the power generation business, an esti-
+in 2019 as related to the entire perimeter of the Group amount  mation was made of the fugitive emissions of methane from 
+to 8,367 kg, which equals 197 thousand t of CO equivalent. In  coal mining during extraction as well as emissions from the 
+2
+percentage terms, SF contributes towards 0.28% of Scope 1  transport of the utilised fuels (coal and diesel) for the opera-
+6 e
+emissions, which represents an extremely limited amount. As  tion of its plants.  ot
+n
+regards Scope 1, Enel considers the emissions of leakage to  In 2019, Enel expanded the categories used to account for  cal 
+gi
+o
+the atmosphere of gases and mixtures containing greenhouse  Scope 3 emissions and has recalculated the 2018 and 2017  ol
+d
+o
+gas that were calculated by applying the average global warm- values for its entire operational perimeter during those two  eth
+M
+ing potential value of the family gases.  years. As a result, a calculation is provided for the emissions 
+related to the gas and electricity retail market in Europe and 
+the electricity retail market in Latin America generated as a 
+Scope 2 emissions
+consequence of the use of sold products (electricity and gas) 
+Scope 2 emissions concern the indirect emissions deriv- by end customers. The Group has assessed that for the gas in 
+ing from the generation of the electricity purchased and  the European market, this value is approximately 23.9 mil t , 
+eq
+consumed by the Company. Scope 2 includes the CO  and that the value of emissions produced by the consumption 
+2 dix
+emissions associated with electricity consumption taken  of electricity by its customers is approximately 29.0 mil t .   en
+eq p
+p
+from the electricity network for civil uses or for the gener- A
+& 
+ation of energy in thermoelectric and hydroelectric plants.  d 
+n
+CO  reduction targets o
+B
+Since 2016, all supplies of electricity for the offices and Ital- 2 en 
+ian power plants come from renewable sources. This supply  Gre
+includes the issue of green certificates by the competent  The Group’s ambition for leadership in the fight against cli-
+authority. The calculation of Scope 2 for the consumption of  mate change was further strengthened in 2019: the target for 
+energy taken from the network is reported according to two  the reduction of direct emissions from electricity production 
+points of view, one is location based, equal to 1.55 mil t ,  by 2020, which was set in 2015 at 350 g/kWh  of CO, with a 
+eq eq 2
+and the other is market based, equal to 2.30 mil t . 25% reduction compared with 2007, was achieved one year 
+eq
+In compliance with the GHG protocol, this category includes the  early. In fact, 2019 closed with a reduction of 37%, to 296 g/
+indirect emissions deriving from technical losses from Enel’s  kWh  of CO. This target has been certified by the Science 
+eq 2
+distribution network and the transmission network of the elec- Based Target Initiative (SBTi) as consistent with the 2DS sce-
+tricity system in which the Group operates, calculated for all  nario (2-Degree Scenario) of the International Energy Agency 
+countries of operation for 2017-2019. The emissions caused  (IEA), which defines an energy system development path and 
+by the losses were calculated based on the part of energy that  an emissions trajectory consistent with at least 50% chance 
+exceeds the quota produced in the considered country, to avoid  of limiting the average global temperature rise to 2 °C in 2100. 
+the double accounting of emissions already included in Scope  As a result, the reduction target for 2020 has been upgraded 
+1. An additional division was made for the fraction distributed  in the new 2020-2022 Strategic Plan to 254 g/kWh  of CO.
+eq 2
+Commitment to the fight against climate change 67

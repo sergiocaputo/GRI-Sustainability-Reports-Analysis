@@ -1,0 +1,52 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Gli strumenti finanziari derivati presenti nei portafogli di Poste Italiane sono soggetti a collateralizzazione e pertanto il fair value 
+non necessita di aggiustamenti per tener conto del merito creditizio della controparte. La curva dei rendimenti impiegata per 
+l’attualizzazione è selezionata in coerenza con le modalità di remunerazione previste per il cash collateral. L’approccio descritto 
+è confermato anche nel caso di garanzie rappresentate da titoli di debito, considerato il livello contenuto di rischio di credito 
+che contraddistingue gli effettivi titoli che costituiscono il collateral per il Gruppo Poste Italiane. 
+Nei rari casi in cui le caratteristiche degli accordi di collateralizzazione non consentano la sostanziale riduzione del rischio di 
+controparte, la valutazione viene effettuata tramite tecniche di discounted cash flow che prevedono l’attualizzazione dei flussi 
+futuri utilizzando in input una curva dei rendimenti che incorpora lo spread rappresentativo del rischio credito dell’emittente. In 
+alternativa, viene utilizzato il metodo del valore corrente che consente di elaborare il CVA/DVA (Credit Valuation Adjustment / 
+Debit Valuation Adjustment) in funzione delle principali caratteristiche tecnico-finanziarie dei contratti e la probabilità di default 
+della controparte.
+Buy & Sell Back per impiego temporaneo della liquidità: la valutazione viene effettuata tramite tecniche di discounted 
+cash flow che prevedono l’attualizzazione dei futuri flussi contrattuali. I Buy & Sell Back sono soggetti a collateralizzazione e 
+pertanto il fair value non necessita di aggiustamenti per tenere in considerazione il merito creditizio.
+Impieghi a tasso fisso e tasso variabile: la valutazione viene effettuata utilizzando tecniche di discounted cash flow. Lo 
+spread di credito della controparte viene incorporato tramite:
+l’utilizzo della curva governativa italiana o del credit default swap (CDS) della Repubblica Italiana, in caso di Amministrazioni 
+Centrali italiane;
+l’utilizzo di curve CDS quotate o, se non disponibili, l’adozione di curve CDS “sintetiche” rappresentative della classe di rating 
+della controparte, costruite a partire dai dati di input osservabili sul mercato;
+l’utilizzo di curve dei rendimenti costruite a partire dalle quotazioni delle emissioni obbligazionarie specifiche dell’emittente. 
+Passività finanziarie quotate su mercati non attivi o non quotate:
+Titoli obbligazionari plain: la valutazione viene effettuata tramite tecniche di discounted cash flow che prevedono l’attua-
+lizzazione dei flussi futuri utilizzando in input una curva dei rendimenti che incorpora lo spread rappresentativo del rischio 
+credito dell’emittente.
+Titoli obbligazionari strutturati: la valutazione avviene applicando l’approccio building block che prevede la scomposi-
+zione della posizione strutturata nelle sue componenti elementari: componente obbligazionaria e componente opzionale. 
+La valutazione della componente obbligazionaria viene effettuata utilizzando tecniche di discounted cash flow applicabili alle 
+obbligazioni plain, così come definite al punto precedente. La componente opzionale che, considerate le caratteristiche dei 
+titoli obbligazionari emessi da società comprese nel gruppo Poste Italiane, è riconducibile al rischio tasso, viene valutata 
+mediante un approccio in formula chiusa secondo modelli classici di valutazione delle opzioni aventi come sottostante tale 
+specifico fattore di rischio.
+Debiti finanziari: la valutazione viene effettuata tramite tecniche di discounted cash flow che prevedono l’attualizzazione dei 
+flussi futuri utilizzando in input una curva dei rendimenti che incorpora lo spread rappresentativo del rischio credito. 
+Repo di finanziamento: la valutazione viene effettuata tramite tecniche di discounted cash flow che prevedono l’attualiz-
+zazione dei futuri flussi contrattuali. I Repo sono soggetti a collateralizzazione e pertanto il fair value non necessita di aggiu-
+stamenti per tenere in considerazione il merito creditizio.
+Investimenti immobiliari (esclusi ex alloggi di servizio) e rimanenze di immobili destinati alla vendita: I valori di 
+fair value, sia degli Investimenti Immobiliari che delle Rimanenze, sono stati determinati utilizzando principalmente la tecnica 
+reddituale secondo cui il valore dell’immobile, deriva dall’attualizzazione dei cash flow che ci si attende verranno generati dai 
+contratti di locazione e/o dai proventi delle vendite, al netto dei costi di pertinenza della proprietà; il procedimento utilizza un 
+appropriato tasso di attualizzazione che considera analiticamente i rischi caratteristici dell’immobile. 
+Livello 3: appartengono a tale livello le valutazioni di fair value effettuate utilizzando oltre agli input di livello 2 anche input non 
+osservabili per l’attività o per la passività. Per il gruppo Poste Italiane rilevano le seguenti categorie di strumenti finanziari:
+Impieghi a tasso fisso e tasso variabile: la valutazione viene effettuata utilizzando tecniche di discounted cash flow. Lo 
+spread di credito della controparte viene determinato secondo le best practice di mercato, impiegando default probability e 
+matrici di transizione elaborate da info providers esterni ed i parametri di loss given default stabiliti dalla normativa prudenziale 
+per le banche o da valori benchmark di mercato.
+166

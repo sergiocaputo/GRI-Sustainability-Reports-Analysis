@@ -1,0 +1,59 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+4. Gruppo Poste Italiane Bilancio al 31 dicembre 2017 
+Rendiconto finanziario consolidato
+(milioni di euro) Note Esercizio 2017 Esercizio 2016
+Disponibilità liquide e mezzi equivalenti all’inizio 
+3.902  3.142 
+dell’esercizio
+Risultato prima delle imposte 1.067  1.056 
+Ammortamenti e svalutazioni [tab. C8] 545  581 
+Accantonamenti netti ai fondi rischi e oneri [tab. B6] 707  563 
+Utilizzo fondi rischi e oneri [tab. B6] (617) (448)
+Accantonamento per trattamento fine rapporto [tab. B7] 1  1 
+Trattamento di fine rapporto [tab. B7] (96) (82)
+Impairment gruppi di attività in dismissione [tab. A11.1] 3  37 
+(Plusvalenze)/Minusvalenze per disinvestimenti (2) 3 
+Svalutazione su investimenti disponibili per la vendita [tab. C11.2] 12  12 
+Svalutazione Contingent Convertible Notes [tab. C11.2] 82  -   
+(Dividendi) [tab. C11.1] -    -   
+Dividendi incassati -    -   
+(Proventi Finanziari da realizzo) [tab. C11.1] (9) (7)
+(Proventi Finanziari per interessi) [tab. C11.1] (94) (99)
+Interessi incassati 102  94 
+Interessi passivi e altri oneri finanziari [tab. C11.2] 80  85 
+Interessi pagati (57) (60)
+Perdite e svalutazioni /(Recuperi) su crediti [tab. C10] 55  22 
+Imposte sul reddito pagate [tab. C12.3] (472) (317)
+Altre variazioni (1) (2)
+Flusso di cassa generato dall’attività di es. prima delle 
+[a] 1.306  1.439 
+variazioni del circolante
+Variazioni del capitale circolante:
+(Incremento)/Decremento Rimanenze [tab. A6] (1) (3)
+(Incremento)/Decremento Crediti commerciali 80  86 
+(Incremento)/Decremento Altri crediti e attività (202) (357)
+Incremento/(Decremento) Debiti commerciali (176) 62 
+Incremento/(Decremento) Altre passività 97  129 
+Variazione relativa a gruppi di attività e passività in dismissione (12) -   
+Flusso di cassa generato /(assorbito) dalla variazione del 
+[b] (214) (83)
+capitale circolante
+Incremento/(Decremento) passività da operatività finanziaria 2.911  5.225 
+Liquidità netta generata / (assorbita) dalle attività finanziarie da 
+-    -   
+operatività finanziaria detenute per negoziazione
+Liquidità netta generata / (assorbita) dagli impieghi finanziari AFS 
+(2.497) (5.114)
+da operatività finanziaria
+Liquidità netta generata / (assorbita) dagli impieghi finanziari HTM 
+(108) 370 
+da operatività finanziaria
+(Incremento)/Decremento della Cassa e depositi BancoPosta [tab. A9] (702) 667 
+(Incremento)/Decremento delle altre attività da operatività 
+315  773 
+finanziaria
+(Proventi)/Oneri e altre componenti non monetarie dell’operatività 
+(1.405) (1.044)
+finanziaria
+187

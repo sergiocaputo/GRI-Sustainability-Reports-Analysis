@@ -1,0 +1,30 @@
+6.1
+Principali Dati Patrimoniali
+Si riportano i dati dello Stato Patrimoniale di Miami Ristoro, le Attività che 
+rappresentano il Capitale Investito e le Passività che equivalgono alle fonti di 
+finanziamento. 
+Si analizza il triennio 2016/2018 e il relativo andamento di periodo.
+Stato Patrimoniale €
+ATTIVITÀ 2016 2017 2018
+Disponibilità liquide 131.521 153.791 82.025
+Titoli      
+Scorte 159.547 165.974 182.046
+       
++ Crediti Vs Clienti Terzi (Netti) 217.219    227.414    278.934   
++ Crediti Vs Clienti Collegati 0    0    0   
+Totale Crediti Vs Clienti 217.219 227.414 278.934
+Altri Crediti A Breve 329.315 428.412 356.815
+       
+ATTIVITÀ CORRENTI 837.602 975.591 899.820
+       
++ Immobilizz. Materiali 8.321.768    7.614.176    7.589.384   
+-  Fondi Ammortamento 2.582.813    1.846.266    1.638.044   
+-  Quote Leasing Versate 1.231.569    973.173    1.214.007   
+Totale Immobilizzazioni Nette 4.507.386 4.794.737 4.737.333
+Immobil. Finanz. Nette 763.054  831.465  845.816 
++  Immobilizzazioni Immateriali 491.523    493.243    941.390   
+-  Fondi Ammortamento 181.139    214.131    253.007   
+Immobiliz. Immateriali Nette 310.384 279.112 688.383
+ATTIVITÀ FISSE 5.580.824 5.905.314 6.271.532
+TOTALE ATTIVITÀ 6.418.426 6.880.905 7.171.352
+69

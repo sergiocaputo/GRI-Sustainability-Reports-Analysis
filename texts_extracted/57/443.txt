@@ -1,0 +1,28 @@
+Bilancio Consolidato 2017
+A.4.4 Altre informazioni
+Il Gruppo BP Bari non si avvale dell’eccezione prevista dal paragrafo 48 dell’IFRS 13 (fair value sulla base della posi-
+zione netta) in relazione ad attività e passività ﬁnanziarie con posizioni che si compensano con riferimento al rischio 
+di mercato o al rischio di controparte.
+Informativa di natura quantitativa
+A.4.5 Gerarchia del Fair value
+A.4.5.1 Attività e passività valutate al fair value su base ricorrente: ripartizione per livelli di fair value
+31/12/2017  31/12/2016 
+Attività/Passività misurate al fair value 
+L1  L2  L3  L1  L2  L3 
+1. Attività finanziarie detenute per la negoziazione  2.015  860  1  8.015  938  1 
+2. Attività finanziarie valutate al fair value  -  -  -  -  -  - 
+3. Attività finanziarie disponibili per la vendita  192.741  868  197.465  1.512.411  658  215.435 
+4. Derivati di copertura  -  152  -  -  -  - 
+5. Attività materiali  -  -  -  -  -  - 
+6. Attività immateriali  -  -  -  -  -  - 
+Totale  194.756  1.880  197.466  1.520.426  1.596  215.436 
+1. Passività finanziarie detenute per la negoziazione  -  232  -  313  457  - 
+2. Passività finanziarie valutate al fair value  -  32.267  -  -  34.119  - 
+3. Derivati di copertura  -  16.040  -  -  16.209  - 
+Totale  -  48.539  -  313  50.785  - 
+(cid:3)
+Legenda
+L1 = Livello 1
+L2 = Livello 2
+L3 = Livello 3
+443

@@ -1,0 +1,39 @@
+Allegato al Bilancio 
+Numero dei dipendenti del Gruppo Sella, per tipo di contratto (tempo indeterminato/determinato), 
+genere e area geografica 
+Area  Tipologia  al 31.12.2017  al 31.12.2016 
+geografica  contrattuale  Uomini  Donne  Totale  Uomini  Donne  Totale 
+Tempo determinato  11  12  23  16  10  26 
+Italia  Tempo 
+1.767  1.742  3.509  1.810  1.778  3.588 
+indeterminato 
+Totale  1.778  1.754  3.532  1.826  1.788  3.614 
+Tempo determinato  45  85  130  51  86  137 
+Estero  Tempo 
+293  285  578  260  253  513 
+indeterminato 
+Totale  338  370  708  311  339  650 
+Tempo determinato  56  97  153  67  96  163 
+Totale  Tempo 
+2.060  2.027  4.087  2.070  2.031  4.101 
+indeterminato 
+Totale  2.116  2.124  4.240  2.137  2.127  4.264 
+Percentuale dei dipendenti del Gruppo Sella, per genere, fascia d'età e area geografica 
+al 31.12.2017 
+Inquadramento  <30  30-50 >50
+Totale 
+professionale  Uomo  Donna  Uomo  Donna  Uomo  Donna 
+Dirigenti  0%  0%  1%  0%  1%  0%  3% 
+Quadri  0%  0%  11%  6%  7%  2%  26% 
+Impiegati  6%  5%  20%  33%  4%  4%  71% 
+Totale  6%  5%  32%  39%  12%  6%  100% 
+al 31.12.2016 
+Inquadramento 
+<30  30-50 >50
+professionale  Totale 
+Uomo  Donna  Uomo  Donna  Uomo  Donna 
+Dirigenti 0%  0%  1%  0%  1%  0%  3% 
+Quadri 0%  0%  11%  6%  7%  2%  26% 
+Impiegati 5%  5%  20%  33%  4%  4%  71% 
+Totale 5%  5%  33%  39%  12%  6%  100% 
+36

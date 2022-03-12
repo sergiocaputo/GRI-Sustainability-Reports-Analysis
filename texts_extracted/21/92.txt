@@ -1,0 +1,81 @@
+The  availability  and  continuity  of  and of response times where spe-
+the  provision  of  IT  services  are  cific SLAs (Service Level Agreements) 
+1
+measured using 2 methods for each  have been defined with customers.
+provision platform:
+For example, we report the uptime27 -  Id
+e
+›  Measurement of contracted Ser- defined as the time interval for which  n
+t
+it
+vice Levels, using probes that sim- a service is available within a given pe- y
+ulate customer operations; riod of time, of some of the main com-
+›  Timely  measurement  of  errors  pany platforms:
+in absolute value and percentages, 
+2
+Browsing service level indicators
+Purchase indicators Uptime
+G
+o
+Login Silos Credit Desk  (platform for Banks) 99.96% v
+e
+r
+Login Cerved Credit Suite (platform for Corporates) 99.77% n
+a
+n
+c
+e
+As a corollary of the certifications, the  addition, Cerved Rating Agency pub-
+3
+Group has an internal procedural  lishes a Transparency Report every 
+system aimed at monitoring the  year which is designed to explain to 
+processes related to IT Project Man- the market and the interested parties  P
+e
+agement, Incident and Problem Man- all the information needed to under- o
+p
+agement, Disaster Recovery and Risk  stand  its  governance,  main  policies  le
+analysis and treatment. and the activities of the control func-
+tions.
+Each Group company has also defined 
+the action guidelines that should be  The  information  processed  by  the 
+adopted for: Centrale dei Bilanci (CeBi) area is rel- 4
+›  data processing;  evant to the extent that it is included 
+›  assigned responsibilities and the  in  most  of  the  Credit  Information 
+C
+company’s  entities  responsible  for  services supplied by Cerved. Specifi- o
+n
+t
+data processing;  cally, CeBi oversees the development  in
+u
+›  minimum security measures. and maintenance of the scoring suite  it
+y
+As part of its business information  called CGS Cerved Group Score, on 
+activity, Cerved collects and processes  the basis of which the credit reliabili-
+information in compliance with indus- ty of the parties queried on Cerved’s 
+try regulations. Compliance with the  platforms is assessed. The adoption 
+5
+provisions of the Privacy Code and the  of formally established and audited 
+Code of Deontology ensures respect  analysis  processes  and  procedures 
+of the right of the parties being sur- safeguards  the  objectivity  of  the  S
+o
+c
+veyed  and  any  individuals  or  other  analyses  performed,  the  quality  of  ie
+t
+y
+interested  parties  linked  with  them  the analysed data and the reliability 
+economically. of the models’ results. In this context, 
+official  technical-operational  stand-
+Specifically  regarding  the  activity  of  ards,  control  procedures,  dedicated 
+Cerved Rating Agency, in order to  reports and a process for the continu-
+ensure  the  quality  and  integrity  of  ous monitoring of proprietary models  6
+the rating process and the independ- were formally established.
+ence of the assessments, the compa-
+E
+n
+ny adopted a Corporate Governance  REGULATORY BASE & LICENCES 272  019 cumulative  vir
+Code in line with the principles pro- data, worst case cal- on
+posed by IOSCO (International Organ- To  conclude  that  which  is  stated  culation on working  me
+days only, those with  n
+ization of Securities Commissions). In  above,  it  should  be  remembered  t
+maximum load
+93

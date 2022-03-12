@@ -1,0 +1,45 @@
+Bilancio Consolidato 2017
+considerazione fattori di rischio quali il credit risk, il liquidity risk nonché il market risk del fondo.
+Poiché i risultati delle valutazioni possono essere signiﬁcativamente inﬂuenzati dalle assunzioni utilizzate, principal-
+mente per il timing dei ﬂussi di cassa futuri, per i tassi di attualizzazione adottati e per le metodologie di stima degli 
+adjustment, i Fair value stimati potrebbero differire da quelli realizzabili in una vendita immediata degli strumenti 
+ﬁnanziari.
+Finanziamenti e Crediti verso banche e clientela
+Per gli altri strumenti ﬁnanziari iscritti in bilancio al costo (ﬁnanziamenti e crediti a vista) o al costo ammortizzato, e 
+classiﬁcati sostanzialmente tra i rapporti creditizi verso banche e clientela, si determina un Fair value ai ﬁni dell’in-
+formativa nella Nota Integrativa.
+In particolare:
+i.  per gli impieghi a medio - lungo termine deteriorati (sofferenze, inadempienze probabili e scaduti), il Fair value si 
+determina attualizzando, in base ai tassi di mercato o utilizzando l’ultimo tasso di interesse prima del passaggio 
+a sofferenza, i ﬂussi contrattuali o quelli quantiﬁcati sulla base dei piani di rientro, al netto delle previsioni di per-
+dita, pertanto il valore di bilancio degli stessi risulta allineato con il Fair value;
+ii.  per gli impieghi a medio - lungo termine performing, la metodologia da utilizzare prevede lo sconto dei relativi 
+ﬂussi di cassa. I ﬂussi di cassa contrattuali sono ponderati in base alla PD (Probability of Default) e alla LGD (Loss 
+Given Default), cioè il tasso di perdita previsto in caso di insolvenza;
+iii.  per le attività e le passività a vista o con scadenza nel breve periodo (inferiore a 12 mesi) o indeterminata, il valore 
+contabile di iscrizione, al netto della svalutazione collettiva, è considerato una buona approssimazione del Fair 
+value.
+Visto che tali attività ﬁnanziarie non vengono generalmente scambiate sul mercato, la determinazione del Fair value 
+si basa sull’utilizzo di parametri interni non direttamente osservabili sul mercato e quindi tali strumenti sono classi-
+ﬁcati nel Livello 3 del Fair value.
+Debiti verso banche e clientela e altri titoli in circolazione
+Per strumenti del passivo iscritti nelle voci debiti verso banche e debiti verso la clientela, il cui Fair value è deter-
+minato ai soli ﬁni dell’informativa di bilancio, si distingue a seconda che si tratti di debiti a vista o a medio/lungo 
+termine.
+In particolare:
+•  per i debiti a vista o con scadenza nel breve periodo (inferiore a 12 mesi) o indeterminata, per i quali risulta tra-
+scurabile il fattore tempo, il valore contabile si assume rappresentativo del Fair value;
+•  per i debiti a medio/lungo termine il Fair value è determinato mediante l’utilizzo di tecniche di valutazione quali il 
+“Discounted Cash Flow”, ossia attualizzazione dei ﬂussi di cassa futuri, scontati a un tasso di mercato che tenga 
+comunque conto di tutti i fattori di rischio a cui è esposto lo strumento.
+Visto che tali passività ﬁnanziarie non vengono generalmente scambiate sul mercato, la determinazione del Fair 
+value si basa sull’utilizzo di parametri interni non direttamente osservabili sul mercato e quindi tali strumenti sono 
+classiﬁcati nel Livello 3 del Fair value.
+A.4.2 Processi e sensibilità delle valutazioni
+La valutazione, anche ai ﬁni contabili, di tutte le attività e passività ﬁnanziarie sono effettuate dalle funzioni interne 
+speciﬁche della Capogruppo.
+Il Gruppo si è dotato di procedure e di policy che descrivono le i modelli valutativi e gli input utilizzati.
+Nella seguente tabella si riporta l’analisi di sensitivity del Fair value degli strumenti di livello 3 alla variazione degli 
+input non osservabili utilizzati nell’ambito della valutazione degli stessi.
+La tabella evidenzia, per portafoglio di classiﬁcazione, le variazioni plusvalenti o minusvalenti del Fair value degli 
+441

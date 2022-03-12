@@ -1,0 +1,64 @@
+10. Glossario
+Mercati emergenti Morgan Stanley Capital International All Country World 
+Si deﬁ niscono così i mercati ﬁ nanziari dei Paesi in via di svilup- Index (MSCI ACWI)
+po. Questi mercati offrono notevoli opportunità di ottenere  Indice che misura l’andamento dei prezzi delle principali 
+elevati rendimenti, ma sono caratterizzati da un elevato grado  aziende quotate nel mondo. L’indice, per la vastità della base 
+di rischio e volatilità. di calcolo, riﬂ ette la situazione media dei mercati azionari di 
+tutto il mondo e fornisce indicazioni sull’andamento del va-
+Mercato lore di un ipotetico investimento azionario sul mercato mon-
+È il luogo dove si incontrano domanda e offerta di uno o più  diale, calcolato come media ponderata delle performance dei 
+beni o servizi, e dove questo incontro porta alla deﬁ nizione di  mercati regionali. L’MSCI ACWI si compone di 49 indici nazio-
+un prezzo a cui i venditori sono disposti a cedere i propri beni  nali, di cui 23 composti da titoli scambiati su mercati di Paesi 
+e gli acquirenti ad acquistarli. sviluppati, 26 su mercati di Paesi emergenti.
+Mercato interbancario NASDAQ
+Mercato del denaro residuale, offerto dalle banche con eccesso  Acronimo di National Association of Securities Dealers Auto-
+di liquidità e prelevato dalle banche che necessitano di risorse  mated Quotation. È il mercato azionario telematico statuni-
+liquide. L’avvento dell’euro ha creato un unico grande mercato  tense che tratta titoli solitamente a capitalizzazione inferiore 
+interbancario europeo il cui tasso di riferimento è l’Euribor. rispetto a quelli trattati sul New York Stock Exchange.
+Mercato interbancario dei depositi (e-MID)  Net Asset Value (NAV)
+Mercato per la negoziazione di depositi interbancari attraver- È il valore della quota in cui è frazionato il patrimonio dei fondi.
+so il circuito telematico gestito dalla società e-MID S.p.A..
+Net Promoter Score (NPS)
+Mercato primario È  un  indicatore  che  misura  la  propensione  dei  clienti  a 
+Complesso delle operazioni di sottoscrizione o collocamento  consigliare un prodotto, un servizio o un’azienda. L’NPS si 
+di titoli fra il pubblico. basa su una semplice domanda posta al cliente per rilevare 
+quanto consiglierebbe l’azienda a un amico, parente o impre-
+Mercato secondario sa partner (a seconda dell’interlocutore). Sulla base del giudi-
+Mercato nel quale si trattano titoli già in circolazione. zio espresso, i rispondenti vengono suddivisi in:
+-  detrattori: clienti insoddisfatti che potrebbero danneggiare 
+Mercato Telematico Azionario (MTA) l’azienda attraverso un passaparola negativo;
+Comparto della Borsa valori italiana in cui si negoziano azioni or- -  passivi: clienti soddisfatti ma non affezionati, che potrebbe-
+dinarie, azioni privilegiate, azioni di risparmio, obbligazioni con- ro essere inﬂ uenzati dalla concorrenza;
+vertibili, diritti di opzione, warrant, covered warrant, certiﬁ cati  -  promotori: clienti fedeli all’azienda che la consigliano ad al-
+rappresentativi di quote di fondi chiusi mobiliari e immobiliari. tre persone.
+L’NPS viene calcolato sottraendo la percentuale di detrattori 
+Mezzanine bond alla percentuale di promotori ottenuta. Il risultato però non 
+In un’operazione di cartolarizzazione, è la tranche con grado  viene espresso in punti percentuali, ma come numero assolu-
+di subordinazione intermedio tra quello della tranche junior e  to compreso tra -100 e +100.
+quello della tranche senior.
+Network Italiano Business Reporting (NIBR)
+MiFID Associazione che rappresenta il referente italiano ufﬁ ciale per 
+Markets  in  Financial  Instruments  Directive,  è  la  Direttiva  il World Intellectual Capital Initiative (WICI) a livello globale ed 
+2004/39/CE del Parlamento Europeo e del Consiglio del 21  europeo con l’obiettivo di fornire un contributo rilevante allo 
+aprile 2004, in materia di servizi di investimento nel settore  sviluppo del Business Reporting, specie nella sua dimensione 
+degli strumenti ﬁ nanziari. non ﬁ nanziaria e riferita agli intangibili, tramite l’individuazio-
+ne di KPIs settoriali, critici per lo sviluppo delle organizzazioni 
+MiFID 2 e la gestione della loro capacità di creazione di valore.
+La nuova direttiva europea sui servizi di investimento rientra 
+nell’obiettivo di creazione di un mercato unico dei servizi ﬁ nan- New York Stock Exchange (NYSE)
+ziari in Europa, nella quale vengono assicurate una completa e  Borsa valori di New York, la più grande del mondo per volume 
+corretta informativa per gli investitori, la gestione dei potenziali  di scambi. Il NYSE è stato fondato nel 1817 e nel 2007 si è 
+conﬂ itti di interesse e un’adeguata proﬁ latura del cliente. fuso con Euronext creando un mercato dei capitali globale 
+che comprende anche i principali mercati europei.
+Moneta
+Strumento di pagamento convenzionalmente accettato per  Nikkei 225
+l’acquisto di beni e servizi. Costituisce il mezzo universale de- Indice della Borsa di Tokyo costituito dalle prime 225 azioni 
+gli scambi. Il suo utilizzo si fonda sulla ﬁ ducia degli operatori  quotate nella prima sezione della Borsa, a più elevata capita-
+economici nei confronti dell’ente emittente, la banca centrale. lizzazione e liquidità.
+Monte Titoli S.p.A. Obbligazione
+Società per azioni che svolge il ruolo di gestione accentrata dei  Titolo rappresentativo di un prestito contratto da una persona 
+titoli azionari e delle obbligazioni emesse da società private. Gli  giuridica presso il pubblico. Incorpora due diritti: la restituzione 
+strumenti ﬁ nanziari quotati in Italia sono sottoposti al regime  del valore nominale a scadenza e il pagamento degli inte-
+di dematerializzazione e all’obbligo di accentramento presso  ressi sull’importo (cedola). L’obbligazione frutta un interesse 
+Monte Titoli che ne registra ogni passaggio di proprietà. calcolato sul valore nominale, che può essere ﬁ sso, variabile 
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 425

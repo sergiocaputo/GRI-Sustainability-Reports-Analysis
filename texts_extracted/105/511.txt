@@ -1,0 +1,40 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+2. Portafoglio bancario: modelli interni e altre metodologie per l’analisi 
+di sensitività
+Rischio di tasso di interesse sul fair value
+La sensitivity al rischio di tasso di interesse sul fair value delle posizioni interessate è calcolata in conseguenza di un ipotetico 
+shift parallelo della curva dei tassi di mercato di +/- 100 bps. 
+Alla data del 31 dicembre 2017 il portafoglio delle “Attività finanziarie disponibili per la vendita” del Patrimonio BancoPosta ha 
+una duration di 5,34 (al 31 dicembre 2016 la duration del portafoglio titoli era pari a 5,79). La sensitivity risulta evidenziata in 
+tabella.
+Rischio di tasso di interesse sul fair value
+Nozionale Fair  Delta valore Margine di  Riserve di Patrimonio 
+value intermediazione netto al lordo delle 
+imposte
+Data di riferimento dell’analisi
+(milioni di euro) +100 bps -100 bps +100 bps -100 bps +100 bps -100 bps
+Effetti 2017
+Attività finanzarie disponibili per la vendita
+Titoli di debito 35.738  39.099  (1.009) 931  -    -    (1.009) 931 
+Attività finanziarie detenute per la 
+-    -    -    -    -    -    -    -   
+negoziazione
+Attivo - Derivati di copertura -    -    -    -    -    -    -    -   
+Passività finanziarie di negoziazione -    -    -    -    -    -    -    -   
+Passivo - Derivati di copertura 1.705  (23) 91  (97) -    -    91  (97)
+Variabilità al 31 dicembre 2017 37.443  39.076  (918) 834  -    -    (918) 834 
+Effetti 2016
+Attività finanzarie disponibili per la vendita
+Titoli di debito 32.178  37.159  (1.099) 1.031  -    -    (1.099) 1.031 
+Attività finanziarie detenute per  
+-    -    -    -    -    -    -    -   
+la negoziazione
+Attivo - Derivati di copertura 220  6  (28) 33  -    -    (28) 33 
+Passività finanziarie di negoziazione -    -    -    -    -    -    -    -   
+Passivo - Derivati di copertura 196  (3) (26) 31  -    -    (26) 31 
+Variabilità al 31 dicembre 2016 32.594  37.162  (1.153) 1.095  -    -    (1.153) 1.095 
+Il complesso degli impieghi del Patrimonio BancoPosta è classificato nelle categorie Attività finanziarie detenute sino a sca-
+denza e Attività finanziarie disponibili per la vendita. La sensitivity analysis riportata riguarda quest’ultima categoria di attività.
+510

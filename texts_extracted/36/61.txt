@@ -1,0 +1,49 @@
+Acute physical risks
+>  insurance policies, to cover damage to assets and the 
+With regard to acute physical phenomena, the incidence  negative externalities caused, for example, by lost elec-
+and frequency of extreme physical phenomena can cause  tricity generation;
+significant and unexpected physical damage to assets and  >  the real-time remote monitoring of electricity power 
+generate negative externalities associated with the interrup- plants;
+tion of service.  >  safe rooms in areas exposed to tornadoes and hurri-
+To assess the scale of the risks of extreme climate events,  canes, such as the wind plants in Oklahoma in the Unit-
+the scenario results will be assessed in terms of the fre- ed States.
+quency and intensity of the key phenomena, together with  In addition, in order to ensure rapid response to adverse 
+technical information on generation assets, taking account  events, the Group has adopted specific emergency man-
+of the differing levels of resilience, and identifying metrics  agement procedures with protocols for real-time communi-
+to measure potential losses and any externalities caused by  cation and management to restore operations rapidly and 
+the interruption of business operations. standard checklists for damage assessment and the safe 
+The intensification of the effects of climate change means it  return to service for all plants as rapidly as possible.
+is essential to adopt adaptive behaviours: each catastroph-
+ic event represents a lesson learned for Enel, from which  Infrastructure & Networks
+we draw inspiration to strengthen design techniques and  The  Enel  Group’s  Infrastructure  and  Networks  Global 
+preventive measures to ensure the resilience of the asset  Business Line has adopted a more complex and innova-
+portfolio. tive approach to respond to such extreme events de-
+From this perspective, the method and the information ex- nominated “4R”, in addition to the measures already 
+tracted from the ex post analysis of events play a crucial role  envisaged to upgrade and improve the electricity dis-
+in determining the processes and practices to be deployed  tribution grid. This new approach has been structured 
+in mitigating such events in the future. over the past few years in a body of documentation that 
+governs the measures to be taken in preparation for a grid 
+Power generation emergency once the damage has been caused. More spe-
+As regards generation, over time the Group has implement- cifically, the 4R strategy comprises:
+ed targeted measures at specific sites and established ad  >  an initial “Risk prevention” phase, which includes all 
+hoc management activities and processes. actions to reduce the probability of losing grid compo-
+Measures implemented for specific sites in recent years  nents due to an event and/or to minimise its effects. 
+include: This is pursued both through measures to enhance the 
+>  improving cooling water management systems for cer- robustness of grid infrastructure in extreme weather 
+tain plants in order to counter the problems caused by  events and maintenance measures. Measures to re-
+the decline in water levels on rivers, such as the Po in  inforce the grid have been implemented not only to 
+Italy; improve service quality in general, but also to reduce 
+>  installing fogging systems to improve the flow of inlet  the risk of prolonged or widespread outages in the 
+air and offset the reduction in power output caused by  event of a malfunction, using a probabilistic approach. 
+the increase in ambient temperature in CCGTs; This approach has mainly been used to reduce the 
+>  installing drainage pumps, raising embankments, peri- risk of outages at critical installations (primary substa-
+odic cleaning of canals and interventions to consolidate  tions) or for particular grid configurations (where no 
+land adjacent to plants to prevent landslides in order to  alternative power supply routes are available); 
+mitigate flood risks. >  in Italy, to prevent service interruptions due to the 
+The Group adopts a series of best practices to manage the  breakage of overhead power lines as a result of snow-
+impact of weather events on power generation, such as: fall, the risk of such interruptions has been assessed 
+>  weather forecasting both to monitor renewable re- on the basis of the probability of losing segments of 
+source  availability  and  detect  extreme  events,  with  the grid and then calculating the relative impact in 
+warning systems to ensure the protection of people and  terms of customers without power and the loss in 
+assets; terms of power not delivered. To address these risks, 
+60 Sustainability Report 2019

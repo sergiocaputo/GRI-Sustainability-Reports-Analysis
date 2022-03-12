@@ -1,0 +1,41 @@
+Table 40: EEA 2013 emission factors
+EEA 2013 EMISSION  NM-
+NO CH CO NH NO PM
+FACTORS 19 X VOC 4 3 2
+2013 (g/kg) 32,792 3,385 0,055 10,72 0,008 0,135 6,258
+Table 41: NOx, SOx and other significant atmospheric emissions from diesel combustion
+SECH TDT
+  2017 (t) 2018 (t) 2019 (t) 2017 (t) 2018 (t) 2019 (t)
+NO 18,43 21,41 23,46  31,79 31,12 31,04
+x
+NM-VOC 1,9 2,21 2,42  3,28 3,21 3,20
+CH 0,03 0,04 0,04  0,05 0,05 0,05
+4
+CO 6,02 7 7,67  10,39 10,17 10,15
+NH 0 0,01 0,01  0,01 0,01 0,01
+3
+NO 0,08 0,09 0,10  0,13 0,13 0,13
+2
+PM 3,52 4,09 4,48  6,07 5,94 5,92
+Neither SECH nor TDT use substances qualified as ODS in the provision of their services.
+Table 42: GHG emissions (Scope 1) from diesel
+SITE GHG EMISSIONS U.M. 2017 2018 2019
+SECH From natural gas [tCOeq]20 50 70 91
+2
+SECH From diesel [tCOeq] 1.790 2.080 2.279
+2
+TDT From diesel [tCOeq] 4.206 4.074 4.026
+2
+Table 43: Indirect GHG emissions (Scope 2)
+SITE GHG EMISSIONS U.M. 2017 2018 2019
+SECH From electricity [tCOeq] 1.563 1.583 1.675
+2
+TDT From electricity [tCOeq] 2.585 2.565 1.909
+2
+19. NO: Ozone; NM-VOC: non-methane volatile organic compounds; CH: natural gas; CO: carbon 
+x 4
+monoxide; NH: ammonia; NO: dinitrogen monoxide; PM: particulate matter.
+3 2
+20. Tons of COequivalent.
+2
+104 | SECH • TDT 2019 Sustainability Report

@@ -1,0 +1,41 @@
+Operational metrics
+302-1 EU1 EU2 EU3 EU11 EU30
+The following table presents the main operational metrics  climate change along the electricity value chain. 
+used for measuring Enel’s commitment to the fight against 
+ELECTRICITY VALUE 
+OPERATIONAL METRIC UM 2019 2018 2019-2018 %
+CHAIN SEGMENT
+Net efficient generation capacity (1) GW 84.3 85.6 -1.3 -1.5
+- of which renewables % 50.0 45.8 4.2 -
+- of which thermoelectric  % 46.1 50.4 -4.2 -
+- of which nuclear % 3.9 3.9 - -
+Net production (2) TWh 229.1 250.3 -21.2 -8.5
+- of which renewables % 43.4 39.6 3.8 -
+- of which thermoelectric  % 45.2 50.8 -5.6 -
+GENERATION
+- of which nuclear % 11.5 9.6 1.9 -
+New services
+Demand response capacity MW 6,297 6,215 82 1.3
+Storage capacity MW 110 70 40 57.1
+Additional indicators
+Average thermoelectric park efficiency (%) (3)  % 42.0 40.1 1.9 -
+Total direct fuel consumption  Mtoe 30.1 37.0 -7.0 -18.9
+Digitalization
+DISTRIBUTION
+End users with active smart meters no. 44,668,538 43,770,085 898,453 2.0
+Electrification
+RETAIL
+charging points for electric mobility (public and 
+no. 79,565 48,967 30,598 62.5
+private)
+1  Does not include managed capacity, equal to 3.7 GW in 2019 and 4.2 GW in 2018. 
+2  Does not include generation from managed capacity, equal to 10.2 TWh in 2019 and 9.7 TWh in 2018. 
+3  The % was calculated based on new methodology that does not consider the Italian oil & gas plants in the decommissioning phase/considered marginal. The 
+values do not include consumption and generation for the cogeneration related to the Russian thermoelectric park. The average efﬁciency value is calculated 
+based on the plants in the park and weighed based on generation values. 
+Net electricity production in 2019 totalled 229.1 TWh, a  sions sources amounts to approximately 55% of total con-
+decrease on 2018 that reflected an 18.7% decline in thermal  solidated production (a significant increase in comparison to 
+production compared with the previous year, mainly due to  2018, equal to 49.2%), whereas it is equal to around 57% 
+a reduction in coal-fired production (-41.6% compared with  including the production from additional capacity managed 
+2018). The energy Enel produced in 2019 from zero emis- according to the “Build, Sell and Operate” model.
+70 Sustainability Report 2019

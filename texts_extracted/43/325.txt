@@ -1,0 +1,66 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+la concentrazione dell’esposizione nell’ambito del Gruppo In- in modo da contabilizzare con tempestività le perdite a conto 
+tesa Sanpaolo. A tal ﬁ ne sono utilizzati anche strumenti e tec- economico. L’IFRS9 richiede alle imprese di contabilizzare le 
+niche di monitoraggio e di misurazione del rischio sviluppati  perdite attese nei 12 mesi successivi (stage 1) sin dall’iscrizio-
+all’interno del Gruppo. ne iniziale dello strumento ﬁ nanziario, risultato del prodot-
+to di PD, EAD e LGD. L’orizzonte temporale di calcolo della 
+2.3 Metodi di misurazione delle perdite attese perdita attesa diventa invece l’intera vita residua dell’asset 
+La perdita attesa risulta dal prodotto di esposizione, probabi- oggetto di valutazione, ove la qualità creditizia dello strumen-
+lità di default e Loss Giv en Default. to ﬁ nanziario abbia subito un deterioramento signiﬁ cativo 
+rispetto alla misurazione iniziale (stage 2) o nel caso lo stru-
+Nel Gruppo la probabilità di default è misurata attraver- mento ﬁ nanziario risulti deteriorato (stage 3).
+so modelli di rating differenziati a seconda del segmento di 
+operatività della controparte (Corporate, SME Retail, Retail,  La metodologia di valutazione illustrata è estesa anche ai cre-
+Stati Sovrani, Enti del Settore Pubblico e Banche). Tali model- diti di ﬁ rma e agli impegni. Con riferimento a questi ultimi, 
+li, sviluppati da Intesa Sanpaolo, consentono di sintetizzare  non sono inclusi nella base di calcolo i margini inutilizzati su 
+la qualità creditizia della controparte in una misura, il rating,  linee di credito irrevocabili.
+che ne riﬂ ette la probabilità di insolvenza con un orizzonte 
+temporale di un anno, calibrata su un livello medio del ciclo  2.4 Tecniche di mitigazione del rischio di credito
+economico. I rating calcolati sono, inoltre, raccordati alle clas- Con l’obiettivo di mitigare il rischio di credito verso cliente-
+siﬁ cazioni delle agenzie ufﬁ ciali di rating per mezzo di una  la, vengono normalmente acquisite garanzie reali, bancarie o 
+scala omogenea di riferimento. mandato irrevocabile a vendere strumenti ﬁ nanziari, a tutela 
+degli afﬁ damenti concessi. Le garanzie acquisite sono prin-
+I modelli LGD sono basati sulla nozione di “Economic LGD”,  cipalmente rappresentate da prodotti collocati dal Gruppo 
+ovvero il valore attuale dei ﬂ ussi di cassa ricavati nelle varie  Fideuram (fondi e gestioni patrimoniali) o da strumenti ﬁ nan-
+fasi del processo di recupero al netto degli eventuali costi am- ziari quotati nei maggiori mercati regolamentati. Per l’acqui-
+ministrativi di diretta imputazione, oltre che di quelli indiret- sizione in garanzia di titoli obbligazionari è necessaria la pre-
+ti di gestione sostenuti dal Gruppo. La determinazione della  senza di un adeguato rating (assegnato da primaria agenzia 
+LGD si avvale di modelli differenziati e specializzati per seg- di rating) sull’emittente o sul prestito. 
+mento di operatività (Corporate, SME Retail, Retail, Factoring, 
+Leasing, Enti pubblici e Banche). Per le banche il modello di  Ai ﬁ ni della determinazione dell’importo di ﬁ do concedibile 
+determinazione della Loss Given Default (LGD) si discosta in  e nell’ottica di una maggior tutela per il Gruppo da eventuali 
+parte dai modelli sviluppati per gli altri segmenti, in quanto il  oscillazioni dei valori di mercato, sugli strumenti ﬁ nanziari 
+modello di stima utilizzato si basa sul prezzo degli strumenti  acquisiti in garanzia vengono applicati degli scarti cautelativi 
+di debito osservati 30 giorni dopo la data ufﬁ ciale di default e  differenziati a seconda del tipo di prodotto e della forma 
+relativi ad un campione di banche che hanno subito il default  tecnica. La percentuale di concentrazione sugli emittenti 
+in tutto il mondo, acquisito da fonte esterna.  delle garanzie acquisite è molto bassa, fatta eccezione per 
+i fondi ed altri prodotti del Gruppo Fideuram. Non risulta-
+Il calcolo dell’esposizione al default (EAD) si avvale di modelli  no allo stato attuale vincoli che possano intaccare l’efﬁ cacia 
+differenziati e specializzati per segmento di operatività (Cor- giuridica degli atti di garanzia, la cui validità viene periodi-
+porate, SME Retail, Retail, Factoring, Leasing, Enti pubblici e  camente veriﬁ cata. 
+Banche) e considera anche la percentuale di margine dispo-
+nibile ma non utilizzato di una certa linea di credito che si  Per quanto riguarda la mitigazione del rischio di controparte, 
+trasformerà in esposizione in un dato orizzonte temporale  e per le operazioni di tipo SFT (Security Financing Transactions, 
+(cosiddetto Credit Conversion Factor – CCF). ossia prestito titoli e pronti contro termine), il Gruppo utiliz-
+za accordi bilaterali di netting che consentono, nel caso di 
+Il processo di stima della perdita attesa (EL) è attuato coeren- default della controparte, la compensazione delle posizioni 
+temente alle disposizioni di vigilanza e si fonda sui medesimi  creditorie e debitorie. Per i derivati Over The Counter (non 
+parametri di rischio adottati per i modelli AIRB sopra descrit- regolamentati) oltre a quanto precedentemente indicato (net-
+ti. Nell’ambito della determinazione delle rettiﬁ che di valore  ting bilaterale) laddove soggetti a Clearing House, il rischio 
+pertinenti alle esposizioni creditizie, tali parametri vengono  controparte viene mitigato attraverso un livello aggiuntivo di 
+adattati al ﬁ ne di assicurare una piena rispondenza ai requisiti  collateralizzazione rappresentato dalla marginazione centra-
+previsti dal principio contabile, che comporta l’adozione di  lizzata. Questo avviene tramite la sottoscrizione di accordi di 
+un approccio Point in Time per incorporare nel processo di  tipo ISDA e ISMA/GMRA che permettono, nel rispetto della 
+computo ogni informazione disponibile al momento della va- normativa di vigilanza, anche la riduzione degli assorbimenti 
+lutazione, incluse quelle di natura prospettica, quali gli scenari  di capitale regolamentare.
+e le stime previsionali macroeconomiche, laddove l’approccio 
+adottato nello sviluppo dei modelli interni utilizzati ai ﬁ ni di  In ambito mitigazione del rischio di credito, la piattaforma 
+determinazione dei requisiti patrimoniali regolamentari pre- “Portale Garanzie Attive” (PGA) ha consentito il corretto trat-
+vede invece che i rating siano calibrati sul livello medio atte- tamento ai ﬁ ni del calcolo degli RWA delle garanzie costituite 
+so del ciclo economico nel lungo periodo (c.d. Through The  da pegno su Gestioni Patrimoniali, per le quali è ora possibile 
+Cycle), riﬂ ettendo quindi in misura solo parziale le condizioni  gestire il look-through dei sottostanti, requisito obbligatorio 
+correnti. per il riconoscimento della mitigazione a ﬁ ni regolamentari. 
+La determinazione delle perdite di valore su esposizioni credi- Con l’adozione del “Portale Garanzie Attive” le garanzie sono 
+tizie in bonis e scadute viene effettuata sulla base di un mo- sottoposte a un puntuale e periodico controllo mediante un 
+dello basato sul concetto di “expected loss” (perdita attesa)  apposito applicativo all’interno del quale sono stati imple-
+322 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

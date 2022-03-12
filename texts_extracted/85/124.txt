@@ -1,0 +1,85 @@
+REPORT DI SOSTENIBILITÀ 2017 & 2018
+125
+Standard Disclosure Descrizione Pagina Omissione/commento Verifica esterna
+Emissioni di gas serra dirette 
+GRI 305-1 67
+(Scope 1)
+Emissioni di gas serra 
+GRI 305: EMISSIONI 
+GRI 305-2 generate da consumi  67
+2016
+energetici (Scope 2)
+Altre emissioni di gas serra 
+GRI 305-3 66, 68
+indirette (Scope 3)
+Peso totale di rifiuti divisi per 
+GRI 306: SCARICHI  GRI 306-2 59, 60
+tipo e metodo di smaltimento
+IDRICI E RIFIUTI
+2016 GRI 306-4 Trasporto di rifiuti pericolosi  58
+Trasporto
+GRI 103 
+GRI 103: MODALITA' DI  (compresi  Approccio gestionale in  28, 56, 
+GESTIONE 2016 103-1, 103- essere 68
+2, 103-3)
+GRI 302: ENERGIA 
+GRI 302-3 Intensità energetica 69
+2016
+GRI 305: EMISSIONI  Intensità di emissioni di gas 
+GRI 305-4 69
+2016 serra
+Spreco alimentare
+GRI 103 
+GRI 103: MODALITA' DI  (compresi  Approccio gestionale in  56, 70, 
+GESTIONE 2016 103-1, 103- essere 72, 118
+2, 103-3)
+Diritti dei lavoratori
+GRI 103 
+28, 73, 
+GRI 103: MODALITA' DI  (compresi  Approccio gestionale in 
+74, 76, 
+GESTIONE 2016 103-1, 103- essere
+77
+2, 103-3)
+Ritorno al lavoro e tassi 
+GRI 401: 
+GRI 401-3 di rientro dopo congedo  78  
+OCCUPAZIONE 2016
+parentale per genere
+Sicurezza sul lavoro e management della salute
+GRI 103 
+28, 73, 
+GRI 103: MODALITA' DI  (compresi  Approccio gestionale in 
+74, 79,   
+GESTIONE 2016 103-1, 103- essere
+80
+2, 103-3)
+Lidl ad oggi non ha adottato 
+Sistema di gestione della  un sistema di gestione in 
+GRI 403-1
+salute e sicurezza sul lavoro materia di salute e sicurezza 
+sul lavoro certificato.
+Identificazione dei pericoli, 
+GRI 403-2 valutazione dei rischi e  79
+indagini sugli incidenti
+GRI 403-3 Servizi di medicina del lavoro 79
+Partecipazione e 
+consultazione dei lavoratori e 
+GRI 403-4 79
+GRI 403: SALUTE  comunicazione in materia di 
+E SICUREZZA SUL  salute e sicurezza sul lavoro
+LAVORO 2018
+Formazione dei lavoratori in 
+GRI 403-5 materia di salute e sicurezza  79
+sul lavoro
+Promozione della salute dei 
+GRI 403-6 80
+lavoratori
+Non sono stati riportati i dati 
+relativi ai lavoratori che non 
+sono dipendenti in quanto le 
+GRI 403-9 Infortuni sul lavoro 80-81 attività dell’organizzazione 
+non sono svolte in misura 
+significativa da lavoratori 
+esterni a Lidl.
+GRI 102-55

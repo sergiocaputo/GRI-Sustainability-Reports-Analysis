@@ -1,0 +1,58 @@
+I CONSUMI ENERGETICI u.m. 2017 2018 2019 ∆% 2019/2018
+COMBUSTIBILI
+combustibili di processo – acque reflue
+metano  Sm3 70.234 60.307 63.941 6,0
+biogas prodotto  m3 472.643 661.663 668.720 1,1
+combustibili per riscaldamento 
+metano  Sm3 36.589 30.710 51.059 66,3
+gasolio  l 5.933 4.000 4.600 13,0
+gpl l 1.400 2.800 1.960 -30,0
+combustibili per autotrazione 
+ diesel  l 370.755 365.047 361.469 -1,0
+ benzina  l 31.168 23.817 16.404 -31,1
+ENERGIA ELETTRICA
+totale energia elettrica per acque potabili GWh 79,3 78,2 76,9 -1,8
+  energia elettrica per impianti sollevamento idrico  GWh 77,8 76,8 75,4 -1,8
+  energia elettrica uffici  GWh 1,5 1,4 1,5 2,6
+totale energia elettrica per acque reflue (*) GWh 35,5 37,4 36,3 -2,9
+  energia elettrica per depurazione  GWh 31,3 32,7 32,5 -0,6
+  energia elettrica per impianti di sollevamento GWh 4,1 4,6 3,8 -17,4
+  energia elettrica uffici  GWh 0,1 0,1 0,1 -
+(*) I dati 2018 sono stati rettificati rispetto a quanto pubblicato lo scorso anno. 
+Nel 2019 sono state realizzate azioni di relamping e svolti interventi di efficientamento energetico presso la centrale Osmannoro.
+EFFICIENZA ENERGETICA PUBLIACQUA (2017-2019)
+  risparmio energetico ottenuto (kWh)
+azione 2017 2018 2019
+impianto potabilizzazione Anconella – valvola ritegno spinta - 130.000 -
+falda di Prato – nuove pompe spinta  100.000 - -
+impianto di potabilizzazione San Giovanni V. – rifacimento tubazione 
+- 30.000 -
+mandata pompe spinta
+efficientamento reti - 300.000 -
+centrale Osmannoro – nuovo soffiante processo - 60.000
+sede Villamagna 90 – relamping led 6.100
+GLI SCARTI u.m. 2017 2018 2019 ∆% 2019/2018
+RIFIUTI SPECIFICI DA DEPURAZIONE ACQUE REFLUE
+fanghi di depurazione  t 28.792 29.340 30.145 2,7
+sabbia e grigliati di depurazione t 767 793 1.286 62,2
+RIFIUTI (EX D. LGS. N. 152/06) ESCLUSI FANGHI E SABBIE 
+rifiuti pericolosi t 39 42 41 -2,4
+rifiuti non pericolosi t 9.606 11.136 8.356 -25,0
+TOTALE COD IN INGRESSO E IN USCITA (2017-2019) 
+(t/anno) 2017(*) 2018 2019
+COD   18.605 17.031 17.463
+in
+COD 1.756 2.011 1.403
+out
+(*) I dati sono stati rettificati rispetto a quanto pubblicato lo scorso anno. 
+PARAMETRI IN USCITA DEL DEPURATORE SAN COLOMBANO (2017-2019)(*)
+parametro  media dei valori (mg/l) 2017 media dei valori (mg/l) 2018 media dei valori (mg/l) 2019
+BOD 2,1 2,4 1,5
+5
+COD 16,0 16,8 12,8
+SST 6,0 8,4 4,1
+NH + 0,7 0,8 0,6
+4
+fosforo 0,9 0,8 0,8
+(*) Si fa presente che il depuratore di San Colombano (600.000 abitanti equivalenti) tratta circa la metà del refluo globale di Publiacqua.
+204 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019

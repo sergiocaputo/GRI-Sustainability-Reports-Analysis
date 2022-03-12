@@ -1,0 +1,47 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalità di presentazione dei bilanci, metodologie e principi contabili applicati 
+IFRS 9 - Strumenti finanziari
+Il progetto di implementazione del nuovo principio contabile IFRS 9 – Financial Instruments (di seguito il “Progetto IFRS 9” o sem-
+plicemente il “Progetto”) del Gruppo Poste Italiane è stato condotto dalla Capogruppo con il coinvolgimento di tutte le società 
+direttamente o indirettamente controllate, e l’ausilio di un consulente di provata competenza e professionalità. Gli obiettivi del 
+progetto IFRS 9 sono stati: i) identificare le aree di impatto del principio (classificazione e misurazione degli strumenti finanziari, 
+modalità di impairment e infine hedge accounting sulla base delle nuove regole), ii) determinare gli effetti quantitativi e qualitativi 
+della transizione, iii) individuare e implementare le soluzioni applicative e organizzative per una gestione a regime organica, efficace 
+e coerente all’interno del Gruppo. Coerentemente, il Progetto, che ha ripercorso gli ambiti identificati dal principio (Classification 
+& Measurement, Impairment e Hedge Accounting), si è articolato in tre fasi successive: i) Assessment (conclusasi il 30 giugno 
+2017), ii) Design (conclusasi il 30 settembre 2017) e iii) Implementation (conclusasi, per gli aspetti principali, il 31 dicembre 2017 
+con l’adozione di una Linea Guida IFRS 9). Le attività di adeguamento degli applicativi informatici sono state realizzate nel rispetto 
+dei processi e delle procedure di cui la funzione dei Sistemi Informativi di Poste Italiane si è dotata.
+Come noto, l’implementazione dell’IFRS 9 richiede l’applicazione di nuovi criteri e metodologie contabili, che spesso si basano su 
+complesse valutazioni soggettive e stime legate all’esperienza storica specifica aziendale, e su assunzioni che vengono, di volta in 
+volta, considerate ragionevoli e realistiche in funzione delle relative circostanze. L’applicazione di tali stime e assunzioni influenza 
+i valori indicati nei prospetti contabili e nell’informativa fornita. Pertanto, i valori per cui sono state utilizzate le suddette stime e 
+assunzioni possono differire da quelli che saranno indicati nelle future relazioni finanziarie periodiche, a causa dell’incertezza che 
+caratterizza talune delle assunzioni e condizioni sulle quali si basano le stime. Le stime e le assunzioni sono riviste periodicamente 
+e gli effetti di ogni variazione sono riflessi contabilmente nell’esercizio in cui avviene la revisione di stima, se tale revisione influenza 
+solo l’esercizio corrente, o anche nei periodi successivi se la revisione influenza il periodo corrente e quelli futuri. 
+Linea Guida IFRS 9
+Nella parte finale della terza fase del Progetto, in data 13 dicembre 2017 il Consiglio di Amministrazione di Poste Italiane ha 
+approvato una specifica Linea Guida IFRS 9, redatta con l’obiettivo di definire i seguenti indirizzi di “alto livello”:
+le scelte di Business Model da adottare a livello di Gruppo;
+l’approccio metodologico di stima dell’impairment per gli strumenti finanziari, sinteticamente riferibile all’area titoli e all’area 
+crediti (e dunque le modalità di valutazione delle perdite attese);
+i criteri di stage allocation ai fini dell’allocazione degli strumenti finanziari nei relativi stage sulla base del deterioramento del 
+merito creditizio;
+le scelte in ambito Hedge Accounting.
+Nella medesima seduta del 13 dicembre 2017, il Consiglio di Amministrazione della Capogruppo ha altresì approvato un 
+aggiornamento della Linea Guida della Gestione Finanziaria di Poste Italiane, che, nel rispetto delle specifiche disposizioni di 
+vigilanza prudenziale emanate dalla Banca d’Italia, si applica anche al Patrimonio Destinato BancoPosta. L’aggiornamento si è 
+reso necessario per tener conto della evoluzione sia dell’assetto organizzativo e di business del Gruppo, caratterizzato da una 
+gestione strategica unitaria ed integrata, sia delle condizioni dei mercati finanziari e per rendere coerente l’approccio, l’opera-
+tività e gli aspetti di carattere formale a quanto previsto e introdotto dal nuovo principio IFRS 9. 
+Di seguito, sono riportati gli aspetti più significativi formalizzati nell’ambito della Linea Guida IFRS 9 per Classification and 
+Measurement, Impairment e Hedge Accounting.
+Classification and Measurement
+La Linea Guida IFRS 9 ha previsto che i Business Model debbano riflettere le modalità con cui determinati insiemi di strumenti 
+finanziari vengono gestiti unitariamente al fine di raggiungere predeterminati obiettivi di business. I Business Model individuati 
+devono essere coerenti con quanto definito dal principio contabile e pertanto:
+Hold to Collect (HTC): nel quale l’attività finanziaria è posseduta al fine di percepire i flussi finanziari contrattuali per capitale 
+ed interessi, con vendite poco frequenti e/o scarsi volumi;
+171

@@ -1,0 +1,50 @@
+Bilancio Consolidato 2017
+(cid:21)(cid:17)(cid:21)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:81)(cid:88)(cid:87)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:81)(cid:72)(cid:74)(cid:82)(cid:93)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:71)(cid:72)(cid:69)(cid:76)(cid:87)(cid:82)(cid:85)(cid:76)(cid:18)(cid:72)(cid:80)(cid:76)(cid:87)(cid:87)(cid:72)(cid:81)(cid:87)(cid:76)
+Voci/Valori  31/12/2017  31/12/2016 
+A. Attività per cassa 
+1. Titoli di debito  2.013  4.750 
+a) Governi e Banche Centrali  2.008  4.739 
+b) Altri enti pubblici  -  - 
+c) Banche  -  - 
+d) Altri emittenti  5  11 
+2. Titoli di capitale  531  3.473 
+a) Banche  -  - 
+b) Altri emittenti:  531  3.473 
+- imprese di assicurazione  528  437 
+- società finanziarie  -  861 
+- imprese non finanziarie  3  2.175 
+- altri  -  - 
+3. Quote di O.I.C.R.  -  - 
+4. Finanziamenti  -  - 
+a) Governi e Banche Centrali  -  - 
+b) Altri enti pubblici  -  - 
+c) Banche  -  - 
+d) Altri soggetti  -  - 
+Totale A  2.544  8.223 
+B. Strumenti derivati 
+a) Banche  161  446 
+- Fair value  161  446 
+b) Clientela  171  285 
+- Fair value  171  285 
+Totale B  332  731 
+Totale (A+B)  2.876  8.954 
+(cid:3)
+Sezione 4 – Attività ﬁnanziarie disponibili per la vendita – Voce 40
+(cid:23)(cid:17)(cid:20)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:83)(cid:82)(cid:81)(cid:76)(cid:69)(cid:76)(cid:79)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:89)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+31/12/2017  31/12/2016 
+Voci/Valori 
+L1  L2  L3  L1  L2  L3 
+1. Titoli di debito  155.598  -  -  1.425.712  -  - 
+1.1 Titoli strutturati  -  -  -  -  -  - 
+1.2 Altri titoli di debito  155.598  -  -  1.425.712  -  - 
+2. Titoli di capitale  1  868  57.223  47.764  658  53.803 
+2.1 Valutati al fair value  1  868  55.000  47.764  658  49.047 
+2.2 Valutati al costo  -  -  2.223  -  -  4.756 
+3. Quote di O.I.C.R.   37.142  -  140.242  38.935  -  161.632 
+4. Finanziamenti  -  -  -  -  -  - 
+Totale  192.741  868  197.465  1.512.411  658  215.435 
+(cid:3)
+L’importo relativo ai titoli di debito si riferisce ad esposizioni verso lo Stato Italiano per un valore nominale di 127,5 
+milioni di euro (controvalore 128,7 milioni di euro) e verso altri paesi per un valore nominale di 25 milioni di euro (con-
+trovalore 26,9 milioni di euro), tali ultime esposizioni essenzialmente riferibili a titoli USA.
+447

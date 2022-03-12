@@ -1,0 +1,38 @@
+06_SUPPLEMENTAL INFORMATION_GRI STANDARDS CONTENT INDEX
+    
+GRI Standard Title Publications Page number Omissions and comments
+GRI-415: Public Policy (2016)
+103-1 Explanation of the material topic and its Boundary SR 37  
+103-2 The management approach and its components SR 34-35, 37  
+103-3 Evaluation of the management approach SR 37  
+415-1 Political contributions SR 37  
+GRI-416: Customer Health and Safety (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 81-83  
+103-2 The management approach and its components SR 26, 34, 81-83  
+103-3 Evaluation of the management approach SR 26, 81-83  
+416-1 Assessment of the health and safety impacts of product   SR 81-83  
+and service categories
+416-2 Incidents of non-compliance concerning the health and safety  SR 83-84  
+impacts of products and services
+GRI-417: Marketing and Labeling (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 33-34  
+103-2 The management approach and its components SR 20, 33-34, 37  
+103-3 Evaluation of the management approach SR 20, 33-34  
+417-1 Requirements for product and service information and labeling SR 36-37, 80, 86  
+417-2 Incidents of non-compliance concerning product and service  SR 37  
+information and labeling
+417-3 Incidents of non-compliance concerning marketing  SR 37  
+communications
+GRI-418: Customer Privacy (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 35-36  
+103-2 The management approach and its components SR 34-36  
+103-3 Evaluation of the management approach SR 34-35, 37  
+418-1 Substantiated complaints concerning breaches of customer  SR 34-35, 37  
+privacy and losses of customer data
+GRI-419: Socioeconomic Compliance (2016)
+103-1 Explanation of the material topic and its Boundary SR 12, 33-34  
+103-2 The management approach and its components SR 33-35, 37  
+103-3 Evaluation of the management approach SR 34-35, 37  
+419-1 Non-compliance with laws and regulations in the social and  SR 37  
+economic area
+148

@@ -1,0 +1,56 @@
+    SIT S.p.A. – Consolidated Non-Financial Statement at  
+December 31, 2019 
+In terms of greenhouse gas emissions, the Group ensures that plants and equipment containing F-
+gases that could accidentally generate greenhouse emissions are correctly operated and maintained 
+at all sites. 
+ 
+  Direct GHG emissions (Scope 1)23 
+  Unit  2018  2019 
+Natural gas  tCO  eq  4,996  4,601 
+2
+Diesel  tCO  eq  389  397 
+2
+LPG  tCO  eq  83  114 
+2
+Petrol   tCO  eq  194  185 
+2
+Total Scope 1   tCO  eq  5,662  5,297 
+2
+ 
+  Indirect GHG emissions (Scope 2) – Location Based24 
+  Unit  2018  2019 
+Electricity acquired  tCO2   10,613  9,823 
+Total Scope 2 Location  tCO2  10,613   9,823 
+based 
+ 
+  Indirect GHG emissions (Scope 2) – Market Based25 
+  Unit  2018  2019 
+Electricity acquired  tCO  eq  13,188  12,194 
+2
+from non-renewable 
+sources 
+Total Scope 2 Market  tCO  eq  13,188  12,194 
+2
+Based  
+ 
+With regard to the release of pollutants into the atmosphere at the Group’s production sites in Italy 
+and Mexico, the overall situation has improved considerably in Italy compared to the previous year. 
+This is as a result of shorter operating hours at Rovigo, as well as the precautions described above, 
+and the modernisation and optimised management of plants. 
+The only exception to the overall improvement seen in Italy is the emissions value for the pollutant 
+tetrachloroethylene at the Group's Rovigo plant. This particular figure – which always falls within the 
+legal limits (as verified following checks) – is a result of the inefficient functioning of some washing 
+systems.  These  machines  have  subsequently  been  replaced  with  better-performing  and/or 
+refurbished equipment. 
+ 
+23  For  the  calculation  of  Scope  1  emissions,  the  2019  DEFRA  conversion  factors  were  used 
+https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019. Moreover, regarding SIT’s emissions, 
+the consumption of hydrogen and other mixed gases, such as hydrogenated nitrogen, and mixtures of methane and argon, were not 
+considered as they represented a negligible portion of the total. 
+24 For the calculation of the Scope 2 - Location Based emissions, the 2015-2016 International Comparisons conversion factors published by 
+Terna were used. 
+25 For the calculation of the Scope 2 - Market Based emissions, the AIB - European Residual Mixes 2018 conversion factors were used (Vers. 
+1.2 of 11/07/2019). 
+ 
+53 
+ 

@@ -1,0 +1,52 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+5.2  Derivati di copertura: composizione per portafogli coperti e per tipologia di 
+copertura 
+FAIR VALUE FLUSSI FINANZIARI INVESTIMENTI 
+ESTERI
+SPECIFICA GENERICA SPECIFICA GENERICA
+TITOLI DI  TITOLI DI  VALUTE  CREDITO MERCI ALTRI
+DEBITO E  CAPITALE  E ORO
+TASSI DI  E INDICI 
+INTERESSE AZIONARI
+1.  Attività ﬁ nanziarie valutate al fair 
+value con impatto sulla redditività 
+complessiva 10 - - - X X X - X X
+2.  Attività ﬁ nanziarie valutate al 
+costo ammortizzato 1 X - - X X X 8 X X
+3. Portafoglio X X X X X X 1 X - X
+4. Altre operazioni - - - - - - X - X -
+Totale attività 11 - - - - - 1 8 - -
+1. Passività ﬁ nanziarie - X - - - - X - X X
+2. Portafoglio X X X X X X - X - X
+Totale passività - - - - - - - - - -
+1. Transazioni attese X X X X X X X - X X
+2.  Portafoglio di attività e passività 
+ﬁ nanziarie X X X X X X - X - -
+SEZIONE 6 -  ADEGUAMENTO DI VALORE DELLE ATTIVITÀ FINANZIARIE OGGETTO DI COPERTURA 
+GENERICA - VOCE 60
+6.1 Adeguamento di valore delle attività coperte: composizione per portafogli coperti
+31.12.2019 31.12.2018
+1. Adeguamento positivo 11 1
+1.1 di speciﬁ ci portafogli: 11 1
+a) attività ﬁ nanziarie valutate al costo ammortizzato 11 1
+b) attività ﬁ nanziarie valutate al fair value con impatto sulla redditività complessiva - -
+1.2 complessivo - -
+2. Adeguamento negativo - -
+2.1 di speciﬁ ci portafogli: - -
+a) attività ﬁ nanziarie valutate al costo ammortizzato - -
+b) attività ﬁ nanziarie valutate al fair value con impatto sulla redditività complessiva - -
+2.2 complessivo - -
+Totale 11 1
+SEZIONE 7 - PARTECIPAZIONI - VOCE 70
+7.1 Partecipazioni: informazioni sui rapporti partecipativi
+SEDE  SEDE TIPO DI  RAPPORTO DI PARTECIPAZIONE DISPONIBILITÀ 
+LEGALE OPERATIVA RAPPORTO VOTI %
+DENOMINAZIONI IMPRESA PARTECIPANTE QUOTA %
+B. Imprese sottoposte a inﬂ uenza notevole
+ Fideuram - Intesa Sanpaolo 
+1. Fideuram Vita S.p.A. Roma Roma 1 Private Banking 19,990
+ Fideuram - Intesa Sanpaolo 
+2. Consorzio Studi e Ricerche Fiscali Roma Roma 1 Private Banking 7,500
+Tipo di rapporto:
+1. Imprese sottoposte ad inﬂ uenza notevole.
+288 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

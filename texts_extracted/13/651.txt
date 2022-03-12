@@ -1,0 +1,31 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+A.2 Derivati finanziari di negoziazione: fair value lordo positivo e 
+negativo - ripartizione per prodotti
+31/12/2018 31/12/2017
+Over  Mercati  Over  Mercati 
+the counter organizzati the counter organizzati
+Controparti  Senza  Controparti  Senza 
+centrali controparti centrali centrali controparti centrali
+Con accordi di  Senza accordi di  Con accordi di  Senza accordi di 
+Euro/migliaia
+compensazione compensazione compensazione compensazione
+1. Fair value positivo
+a) Opzioni - - - - - - - -
+b) Interest rate swap - - - - - - - -
+c) Cross currency swap - - - - - - - -
+d) Equity swap - - - - - - - -
+e) Forward - - 826 - - - 3.084 -
+f) Futures - - - - - - - -
+g) Altri - - 1 - - - 3 -
+TOTALE - - 827 - - - 3.087 -
+2. Fair value negativo
+a) Opzioni - - - - - - - -
+b) Interest rate swap - - 66.090 - - - 70.189 -
+c) Cross currency swap - - - - - - - -
+d) Equity swap - - - - - - - -
+e) Forward - - 996 - - - 5.700 -
+f) Futures - - - - - - - -
+g) Altri - - - - - - - -
+TOTALE - - 67.086 - - - 75.889 -
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 652

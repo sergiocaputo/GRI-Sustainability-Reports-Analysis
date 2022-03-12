@@ -1,0 +1,66 @@
+1 LETTERA AGLI STAKEHOLDER       2 NOTA METODOLOGICA       3 PRESENTAZIONE DEL GRUPPO        4 LA GESTIONE DEL RISCHIO        5 LOTTA ALLA CORRUZIONE      6 PERSONE E TERRITORI       7 IL CAPITALE UMANO        8 L’IMPEGNO PER L’AMBIENTE        9 LA CATENA DI FORNITURA 
+8.1.1 Energia 
+GRI 102.12 UTILIZZO DI ENERGIA il Gruppo è impegnato da molti anni ad attuare  • progetto  Airone  -  interventi  per  l’efficienza  Gli  indicatori  2019  confermano  il  trend  di 
+GRI 302.1 Il Gruppo Montepaschi è impegnato a perseguire,  una policy ambientale con l’obiettivo di migliorare  energetica degli impianti tecnici presenti in circa   contenimento dei consumi energetici dalla baseline 
+GRI 303.5 nelle  attività  che  hanno  impatti  rilevanti  progressivamente le prestazioni ambientali delle  80 sedi della Banca fra filiali e Aree Territoriali; di riferimento del 2017. 
+sull’ambiente,  un  miglioramento  continuo  della  operations.  • progetto  PER  -  avvio  dell’estensione  del  Le  riduzioni  di  consumo  dell’ultimo  biennio  di 
+propria efficienza energetica.  programma  di  monitoraggio  dei  consumi  esercizio, sono in linea con gli obiettivi del piano 
+Le  dinamiche  che  consentono  di  mettere  in  Più nello specifico, sono seguite linee di indirizzo di  energetici  e  dei  parametri  ambientali,  ivi  pluriennale di contenimento dei costi energetici.
+atto  il  miglioramento  continuo delle  prestazioni  politica energetica, che comprendono tra l’altro: compresi quelli identificativi della qualità dell’aria 
+energetiche con garanzia di comfort ambientale  • analisi e approfondimenti sugli impatti energetici  interna, fino al raggiungimento della copertura 
+nelle sedi di lavoro per i dipendenti della Banca e  dell’attività,  anche  in  fase  di  progettazione  e  totale  degli  immobili  nel  triennio  2019-2021; 
+per i Clienti, riguardano:  acquisto di impianti; avvio  dell’implementazione  di  piattaforma  di 
+• la Supply Chain del mercato dell’energia dove  • adempimenti normativi e rispetto di eventuali  gestione integrata di tutte le utilities del Gruppo 
+con  modelli  evoluti  di  portfolio  management  commitment volontari; con profilazione diversa con il coinvolgimento 
+l’approvvigionamento  di  energia  elettrica  è  • azioni di efficienza e contenimento dell’utilizzo  ancora più attivo di tutto il personale al fine 
+interamente  da  fonte  rinnovabile  idroelettrica.  dell’energia; del conseguimento degli obiettivi di risparmio 
+Grazie a questo approccio “green”, le emissioni di  • approvvigionamento  di  energia  da  fonti  energetico.
+CO2eq per l’anno 2019 per il consumo di energia  rinnovabili;
+elettrica  sono  pari  a  0  tonnellate  equivalenti  • monitoraggi dei dati di consumo;
+secondo il metodo market-based;  • diagnosi energetiche su immobili clusterizzati.  INDICATORI - UTILIZZO DI ENERGIA 2019 2018 2017 GRI 302.1
+• una progettazione evoluta dei sistemi elettrici e 
+Consumo di energia elettrica [MWh] (*) 124.717  132.764  145.416 
+dei sistemi termotecnici, effettuata selezionando  L’utilizzo  efficiente  e  socialmente  responsabile 
+apparecchiature  e  impianti  con  requisiti  di  dell’energia  è  particolarmente  significativo  per  Quota di energia elettrica da fonti rinnovabili [%] (*) 100% 100% 100%
+prestazione,  efficienza  e  rendimento  ai  valori  il controllo degli impatti complessivi del Gruppo  Consumo di gas naturale [m3] (**) 4.642.776  5.364.910  5.214.664 
+massimi di mercato;  sull’ambiente ed è un driver di contenimento dei 
+Consumo di gasolio per il riscaldamento [litri] (***) 254.313  290.577  338.668 
+• il monitoraggio continuo dei consumi energetici  costi operativi, che sono stati realizzati in misura 
+consistente negli ultimi 3/5 anni con l’attuazione sia 
+e  dei  parametri  ambientali,  accentrati  nella 
+funzione di Energy Management, già attivo per le  di strategie di acquisto secondo logiche di portfolio  Consumo di energia elettrica [GJ] (*) 448.981,20  477.950,40  523.497,60 
+management,  sia  di  strategie  di  monitoraggio 
+800 maggiori filiali e in via di estensione a tutte le 
+Quota di energia elettrica da fonti rinnovabili [%] (*) 100% 100% 100%
+strutturale dei consumi energetici e dei parametri 
+1400 filiali del Gruppo; l’upgrade per il progetto 
+ambientali.  Tali strategie hanno inoltre consentito  Consumo di gas naturale [GJ] (**) 159.201  183.963  178.811 
+di monitoraggio iniziale prevede la correlazione 
+dei  parametri  ambientali  con  i  set-point  di  di ridurre i rischi operativi connessi.  Consumo di gasolio per il riscaldamento [GJ] (***) 9.160  10.466  12.199 
+funzionamento dei sistemi di climatizzazione;
+Tutti i valori sono stati oggetto di modifica rispetto alla DNF 2018, a seguito della revisione del perimetro di rendicontazione delle società del Gruppo 
+• l’analisi  dei  consumi  energetici  avviene  La politica energetica è presidiata da un Energy  (esclusione Magazzini Genarli Fiduciari di Mantova) e dei conguagli ricevuti dai fornitori.
+Manager  esperto  in  Gestione  dell’Energia,  (*) Elettricità acquistata sul libero mercato interamente prodotta da fonte idrica; circa 119 MWh sono prodotti tramite installazioni fotovoltaiche e consumati 
+attraverso un modello di analytics evoluto che 
+sul posto.
+permette di misurare l’efficacia delle iniziative  qualificato ai sensi della norma UNI-CEI 11339  (**) Il dato del gas naturale del 2018 è stato rettificato a causa delle operazioni di conguaglio avvenute post pubblicazione della DNF 2018.
+(***) La notevole riduzione dei consumi di gasolio è da ricondursi in misura significativa al piano di razionalizzazione delle sedi operative e alla campagna 
+(interno  alla  Direzione  Chief  Operating  Officer). 
+di contenimento dei consumi energetici al netto  di efficientamento/sostituzione degli impianti.
+L’attuale modello organizzativo assicura il rispetto 
+dell’andamento climatico stagionale, per valutare 
+degli obblighi normativi in materia. Il modello di 
+se e in che componente le variazioni registrate 
+riferimento per la gestione dell’energia, preso ad 
+sono attribuibili all’andamento climatico oppure 
+esempio dalla Banca, segue i processi definiti dai 
+alle azioni di energy management realizzate.
+miglior standard internazionali.
+In coerenza con gli indirizzi generali statuiti sul tema 
+Tra le principali attività del 2019:
+dal Codice Etico, nel rispetto degli obblighi di legge 
+e in adesione ai principi promossi dal Programma  • progetto energy & facility management - piano 
+Global Compact delle Nazioni Unite e ai Principles  triennale 2017-2019 da cui sono attesi ulteriori 
+for Responsible Banking della Finanacial Initiative  risparmi di energia elettrica pari a circa 2,6 mln di 
+dell’UNEP (United Nation Environment Program),  euro in meno ogni anno a regime;
+150 151

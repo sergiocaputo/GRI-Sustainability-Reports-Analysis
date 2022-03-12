@@ -1,0 +1,44 @@
+30 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+NFS
+Technological evolution 
+the so-called world of ecosystems, where the borderlines 
+between businesses at one time different and distinct are 
+We are facing a profound change caused by the interaction  becoming fainter and fainter in order to offer customers a 
+and  the  cumulative  effects  of  various  developments  service in addition to a product.
+in  technology:  Internet  of  Things,  cloud  services,  Technological evolution also involves exponential growth 
+cognitive  computing,  advanced  analytics,  Robotic  in  cyber  threats,  such  as  attacks  aimed  at  stealing 
+Process  Automation  (RPA),  artificial  intelligence  and  information or blocking operational processes. Adequate 
+the development of mobile networks are elements that  management of this risk is therefore fundamental in order 
+contribute to creating a renewed environment in which  to limit potential effects of economic and operational 
+to operate in order to optimise efficiency, operations and  nature but also to preserve, in particular, the confidence 
+proximity with our customers. The spread of public and  of customers in the processing of their data which are 
+context data, the progressive digitalisation of customers,  frequently  sensitive.  The  issue  is  also  increasingly 
+the  growing  appetite  for  personalised  products,  the  relevant for regulators which have introduced specific 
+computing power available at low prices that doubles  safety measures as well as reporting processes in the 
+one year after the next allow insurance companies to  case of violation of the personal data (General Personal 
+transform their way of doing business and to step into  Data Protection Regulation). 
+and our management
+the most innovative security solutions and constantly 
+  improving our response processes. More specifically, we 
+Data analysis is increasingly part of the DNA of the  have set up a Security Operation Center (SOC) to monitor 
+Group’s  production  processes,  from  the  systems  for  all events recorded by our security solutions 24/7, detect 
+improving fraud identification to personalisation of the  potential incidents and step in with containment and 
+offer, from the automation of processes to anticipating  restoration actions. SOC’s performance are monitored 
+customers’ needs. in a structured manner through specific indicators, that 
+The formulations and analyses necessary for this new era  are not reported due to security reasons. In agreement 
+of customer relations are carried out - while guaranteeing  with the operational risk management model, we have 
+anonymity - both by the single business units on their  introduced an intervention assessment and prioritisation 
+own and with the Group’s support through an analytical  framework  supported  by  an  IT  tool  available  to  our 
+platform. Consolidated in 2018, the platform now lets us  countries. The Group governance model has also been 
+leverage synergies coming from the RPA and the cognitive  reinforced by defining a regulatory corpus concerning the 
+technologies,  thus  allowing  increasingly  complex  security of the information, in line with the major reference 
+processes to be automated which increases quality and  standards (NIST, ISO 27001, etc.) and with the sector’s 
+efficiency. Nevertheless, in the perspective of ongoing  best practices. Lastly, we are busy consolidating the 
+improvement we are continuing to scout platforms both  security ethos in the Group via many communication and 
+based on traditional integration technologies (API) and  training initiatives, such as the publication of practical 
+the Blockchain/Distributed Ledger type that lead the way  advice for managing information security during one’s 
+to new digital ecosystems. work activity.
+We  are  in  step  with  the  new  technologies  and  are  We are measuring operational risk following the regulatory 
+protecting  ourselves  from  the  new  threats.  We  are  standards and with qualitative and quantitative models 
+continuing to enhance our ability to prevent, detect and  that allow us to grasp our most important exposures and 
+respond to potential cyber attacks while implementing  to define the adequacy of the existing controls.

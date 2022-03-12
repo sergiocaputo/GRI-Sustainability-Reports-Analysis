@@ -1,0 +1,49 @@
+Table 84: GRI 200 - Economic Topic-specific Standard Disclosures
+GRI MANAGEMENT APPROACH OR TOPIC-
+TOPIC SDG # PARAGRAPH
+SPECIFIC DISCLOSURES 
+201 - 1: Direct economic value generated and distributed. 2, 5, 7, 8, 9 4.2, 4.3, 4.5
+201 - 2: Financial implications and other risks and 
+opportunities due 13  NR
+Economic  to climate change.
+performance
+201 - 3: Defined benefit plan obligations and other 
+  4.4
+retirement plans.
+201 - 4: Financial assistance received from government.   4.5
+202 - 1: Ratios of standard entry level wage by gender 
+compared 1, 5, 8 4.4
+to local minimum wage.
+Market presence
+202 - 2: Proportion of senior management hired from the
+8 4.5
+local community.
+3.3, 3.3.1, 
+203 - 1: Infrastructure investments and services supported. 2, 5, 7, 9, 11
+3.3.2, 4.4, 4.5
+Indirect economic 
+impacts
+1, 2, 3, 8, 10, 
+203 - 2: Significant indirect economic impacts. 2.3, 4.5
+17
+Procurement 
+204 -1: Proportion of spending on local suppliers. 12 4.5
+practices
+205 - 1: Operations assessed for risks related to corruption. 16 2.2
+205 - 2: Communication and training about anti-
+16 2.2
+Anti-corruption corruption policies and procedures.
+205 - 3: Confirmed incidents of corruption and actions 
+16 2.2
+taken.
+Anti-competitive  206 -1: Legal actions for anti-competitive behaviour, anti-
+16 2.2
+behaviour trust, and monopoly practices.
+207-1: Approach to tax. 1, 10, 17 4
+207-2: Tax governance, control, and risk management. 1, 10, 17 3.1.1
+Tax
+207-3: Stakeholder engagement and management of 
+1, 10, 17 3.1.1
+concerns related to tax.
+207-4: Country-by-country reporting. 1, 10, 17 NR
+192 | SECH • TDT 2019 Sustainability Report

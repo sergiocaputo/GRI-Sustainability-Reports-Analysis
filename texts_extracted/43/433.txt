@@ -1,0 +1,67 @@
+10. Glossario
+tramite Borse, Mediatori, Intermediari, Società del settore, ser- Tasso sui federal funds
+vizi di quotazione o enti autorizzati, e tali prezzi rappresentano  Tasso di interesse a brevissimo termine sul mercato statunitense 
+effettive e regolari operazioni di mercato veriﬁ catesi sulla base  dei fondi federali, in cui si scambiano le riserve in eccesso dete-
+di un normale periodo di riferimento. nute dalle aziende di credito presso la Riserva federale. Sebbene 
+si tratti di un rendimento di mercato, la Riserva federale annuncia 
+Subprime un livello di tale tasso come l’obiettivo di breve termine per le 
+Un mutuo subprime è, per deﬁ nizione, un mutuo concesso  sue operazioni di mercato aperto; gli scostamenti tra il tasso di 
+ad un soggetto che non poteva avere accesso ad un tasso  mercato e il tasso obiettivo sono generalmente di lieve entità.
+più favorevole nel mercato del credito. I debitori subprime 
+hanno tipicamente un basso punteggio di credito e storie  Tax rate
+creditizie fatte di inadempienze, pignoramenti, fallimenti e  Aliquota ﬁ scale effettiva, determinata dal rapporto tra le im-
+ritardi. Poiché i debitori subprime vengono considerati ad  poste sul reddito e l’utile ante imposte.
+alto rischio di insolvenza, i prestiti subprime hanno tipica-
+mente condizioni meno favorevoli delle altre tipologie di cre- Test d’impairment
+dito. Queste condizioni includono tassi di interesse, parcelle  Il test d’impairment consiste nella stima del valore recupera-
+e premi più elevati. bile (che è il maggiore fra il fair value dedotti i costi di vendita 
+e il valore d’uso) di un’attività o di un gruppo di attività. Ai 
+Sustainability Reporting sensi dello IAS36, debbono essere sottoposte annualmente 
+Letteralmente “Reporting di sostenibilità”, è il processo at- ad impairment test: 
+traverso il quale un’organizzazione misura, comunica e si as- -  le attività immateriali a vita utile indeﬁ nita;
+sume le responsabilità della sua performance nell’ottica del  -  l’avviamento acquisito in un’operazione di aggregazione 
+raggiungimento dell’obiettivo dello sviluppo sostenibile. aziendale;
+-  qualsiasi attività, se esiste un’indicazione che possa aver su-
+Swaps bito una riduzione durevole di valore.
+Operazioni consistenti, di norma, nello scambio di ﬂ ussi ﬁ -
+nanziari tra operatori secondo diverse modalità contrattua- Tier 1 ratio (Coefﬁ ciente di capitale di classe 1) 
+li. Nel caso di uno swap di tassi d’interesse, le controparti si  Indicatore dato dal rapporto tra il Capitale di classe 1 (Tier 1) 
+scambiano ﬂ ussi di pagamento indicizzati o meno a tassi d’in- ed il totale delle attività ponderate per il rischio (RWA).
+teresse, calcolati su un capitale nozionale di riferimento (ad 
+esempio: una controparte corrisponde un ﬂ usso sulla base di  Time value
+un tasso ﬁ sso, l’altra sulla base di un tasso variabile). Nel caso  Variazione del valore ﬁ nanziario di uno strumento in relazione 
+di uno swap di valute, le controparti si scambiano speciﬁ ci  al diverso orizzonte temporale in corrispondenza del quale 
+ammontari di due diverse valute, restituendoli nel tempo se- saranno disponibili o esigibili determinati ﬂ ussi monetari.
+condo modalità predeﬁ nite che possono riguardare sia il capi-
+tale nozionale sia i ﬂ ussi indicizzati ai tassi d’interesse. Titolo strutturato
+Titolo composto da una componente ﬁ ssa, simile ad una 
+Tassi di interesse di riferimento della BCE normale obbligazione, e una componente derivata, simile ad 
+Tassi di interesse ﬁ ssati dal Consiglio direttivo che riﬂ ettono  un’opzione, collegata all’andamento di un fattore esterno.
+l’orientamento di politica monetaria della Banca Centrale Eu-
+ropea. Attualmente comprendono il tasso minimo di offerta  Total Capital ratio (Coefﬁ ciente di capitale totale)
+sulle operazioni di riﬁ nanziamento principali, il tasso di inte- Indicatore dato dal rapporto tra il Totale Fondi Propri ed il 
+resse sulle operazioni di riﬁ nanziamento marginale e quello  totale delle attività ponderate per il rischio (RWA).
+sui depositi presso la Banca Centrale.
+Trading book
+Tasso d’interesse privo di rischio (Risk-free interest rate) Solitamente riferito a titoli o comunque a strumenti ﬁ nanziari 
+Rappresenta il tasso d’interesse di un investimento privo di ri- in genere, identiﬁ ca la parte di portafoglio destinato all’attivi-
+schio ossia caratterizzato da assenza di incertezza associata ai  tà di negoziazione.
+ﬂ ussi di cassa prodotti. Generalmente, gli investimenti senza 
+rischio vengono identiﬁ cati con i titoli di Stato High invest- Trading online
+ment grade a breve termine. Il rendimento richiesto da un  Sistema di compravendita di attività ﬁ nanziarie in borsa, at-
+titolo qualsiasi può essere espresso come la somma del tasso  tuato in via telematica.
+nominale privo di rischio più il premio per il rischio. 
+Unione Europea (UE)
+Tasso di disoccupazione Attualmente  composta  da  27  membri,  l’Unione  Europea 
+La percentuale di lavoratori, ovvero di forza lavoro, che non  è governata da cinque istituzioni: il Parlamento Europeo, il 
+trovano un’occupazione. Consiglio dell’Unione, la Commissione Europea, la Corte di 
+Giustizia e la Corte dei Conti.
+Tasso di interesse effettivo
+Il tasso di interesse effettivo è il tasso che eguaglia il valore  Valore aggiunto
+attuale dei ﬂ ussi futuri del credito, per capitale ed inte- Rappresenta la ricchezza creata complessivamente dall’impre-
+resse, all’ammontare erogato inclusivo dei costi/proventi  sa e distribuita agli stakeholder (comunità, partner ﬁ nanziari, 
+ricondotti al credito. Tale modalità di contabilizzazione,  risorse umane, soci/azionisti, Stato ed Enti Locali) o reinvestita 
+utilizzando una logica ﬁ nanziaria, consente di distribuire  all’interno dell’azienda (utile non distribuito e ammortamen-
+l’effetto economico dei costi/proventi lungo la vita residua  ti). Esso è individuabile come differenza tra la produzione lor-
+attesa del credito. da e il consumo di beni e servizi.
+430 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

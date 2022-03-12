@@ -1,0 +1,78 @@
+sezione 5 • Ateneo sostenibile 89
+5.2.3 Fattori di emissione per consumi 
+Plesso/isolato Gas En. El. Gasolio Tep GAS1 Tep EE2 TEP 
+(sm3) (kWh) (litri) Gasolio3 elettrici 
+Viale Morgagni 345519 7852 0 283 1468 0 Per la valutazione del fattore di emissione 
+Via Bolognese 0 31 10440 0 6 10 FE relativo all’approvvigionamento di ener-
+Via Cittadella 0 44 8400 0 8 8 gia elettrica sono disponibili le fonti TERNA 
+S.p.A. e ISPRA (ISPRA 2018a), che fornisco-
+Alfani-Pergola-Brunelleschi 82415 556 13200 68 104 12
+no un fattore di emissione di CO stimato a 
+Calenzano 0 276 0 0 52 0 2
+partire dalla produzione di energia elettrica 
+Reggello 0 4 0 0 1 0
+in Italia; questo parametro può essere uti-
+San Gallo 46797 119 0 38 22 0
+lizzato anche per gli inventari di emissione 
+Porta Romana 41148 293 0 34 55 0
+di CO degli atenei. Ai fini dell’inventario del-
+Arcetri 42267 311 0 35 58 0 2
+le emissioni di un Ateneo, il GdL RUS1 ha ri-
+Santa Reparata 3119 171 21600 3 32 20
+tenuto preferibile utilizzare la stima dei fat-
+Cascine 100102 517 0 82 97 0
+tori di emissione sulla base dei dati forniti da 
+Polo di Sesto Fiorentino 629730 15455 0 516 2890 0
+ISPRA.
+Ponte di Mezzo 84 129 0 0 24 0
+Ciò premesso, il fattore di emissione relativo 
+Piazza San Marco 252312 2348 0 207 439 0
+ai consumi elettrici, che consideri le perdite di 
+Borgo Albizi 23835 164 0 20 31 0
+rete e non consideri l’energia importata, è ot-
+Zona Via Laura 35208 515 29 96 0
+tenibile secondo la seguente formula:
+San Niccolò 18580 67 0 15 13 0
+Prato 67777 304 0 56 57 0
+Piazza Indipendenza 18575 87 0 15 16 0
+Borgo San Lorenzo 0 0 0 0 0 0 Dove:
+Novoli 134320 4416 0 110 826 0 FE : fattore di emissione dal consumo di 
+consumo
+Architettura 69051 757 0 57 142 0 energia elettrica [gCO/kWh];
+2
+Villa Cristina 131218 1494 0 108 279 0 emis.tot.CO prod.ee: emissione totale dal-
+2
+Via della Torretta 32893 177 0 27 33 0 la produzione di energia elettrica [MtCO/
+2
+Via Maragliano 12990 92 0 11 17 0 anno], ricavabile da ISPRA, 2018b (foglio 9 
+Via Donizetti 7105 53 0 6 10 0 — Emissioni di anidride carbonica dal settore 
+Via delle Gore 1 568 0 0 106 0 termoelettrico per combustibile);
+Via delle Quiete 18246 143 20400 15 27 19 prod.dest.al consumo: produzione net-
+Via San Bonaventura 50067 161 0 41 30 0 ta di energia elettrica destinata al consu-
+Messina 0 1 0 0 0 0 mo [TWh/anno] ricavabile da ISPRA, 2018b 
+Piazza Savonarola 0 60 27600 0 11 26 (foglio 13 — Dati di produzione e consumo di 
+Appartamenti e Magazzini 9467 8 0 8 1 0 energia);
+%perdite: perdite di rete, media nella rete 
+TOTALI 2172826 37174 101640 1782 6952 94
+nazionale [%].
+1 Fattore di conversione da sm3 a TEP 0,00082
+2 Fattore di conversione da kWh a TEP 0,000187
+3 Fattore di conversione da litri a TEP 0,00108 La %perdite si ottiene dalla seguente relazio-
+ne:
+• Tabella 5.1. Consumi energetici per plesso/isolato riferiti al 2018
+Anno Emissioni da  Produzione  Energia  Perdite  % Perdite  Consumi  FE consumi 
+produzione di  destinata al  richiesta di rete di rete netti legati  elettrici 
+energia elettrica consumo a emissioni  (senza import) Con gli algoritmi suddetti è stata elaborata 
+(senza import) una Tabella che riporta i fattori di emissione 
+Mt Co/anno TWh TWh TWh % TWh gCO/KWh dal 1990 al 2018 e che viene riportata sinteti-
+2 2
+a b c d e=d/c f=b*(1-e) g=a/f*100 camente in Tabella 5.2 limitatamente al pe-
+2010 120 286 330 20,6 6,2 268 448 riodo 2010-2018 per il quale si hanno a dispo-
+2011 119 289 335 20,8 6,2 271 438 sizione i dati dei consumi dell’ateneo, assu-
+2012 114 285 328 21,0 6,4 267 428 mendo per il 2018 lo stesso valore di conver-
+2013 97 276 318 21,2 6,7 258 377 sione del 2017.
+2014 90 267 311 19,5 6,3 250 359
+2015 93 271 317 19,7 6,2 254 368
+2016 93 277 314 18,8 6,0 261 355
+2017 96 283 320 19,7 6,2 265 361
+• Tabella 5.2. Fattori di emissione FE per i consumi elettrici nel periodo 2010-2018 (anno di riferimento 2017)

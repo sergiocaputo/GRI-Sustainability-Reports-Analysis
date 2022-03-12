@@ -1,0 +1,43 @@
+ 
+Emissioni dirette da consumo di combustibile per il totale Gruppo 2016 
+   ton CO   ton CH   ton N O  ton CO eq 
+2 4 2 2
+Emissioni da combustibile da fonte non rinnovabile            
+Emissioni di Gas naturale per riscaldamento  2.048  0,090  0,036  2.060 
+Emissioni di Gasolio per riscaldamento   586  0,056  0,016   592 
+Emissioni totali da consumo di combustibile in tonnellate equivalenti di CO          2.651 
+2
+ 
+ 
+      Emissioni dirette da flotta auto   
+   ton CO2  ton CH4  ton N2O  ton CO2eq 
+   2018  2017  2016  2018  2017  2016  2018  2017  2016  2018  2017  2016 
+Emissioni da flotta auto, di cui:         
+               
+-Benzina  2  2  5  0.0004  0,0005  0,0010  0.000028  0,000033  0,0001  2  2  5 
+-Gasolio  278  305  316  0.0055  0,0060  0,0063  0.0094  0,010424  0,0109  280  308  320 
+-GPL  -  -  -  -  -  -  -  -  -  -  -  - 
+Emissioni totali da flotta auto in tonnellate equivalenti di CO2   282  310  325 
+ 
+ 
+Emissioni indirette da consumo di energia elettrica acquistata 
+ton CO2eq 
+   ton CO2  ton CH4  ton N2O  Var. 
+(%) 
+   2018  2017  2016  2018  2017  2016  2018  2017  2016  2018  2017  2016  20182017 
+Emissioni da consumo di 
+energia elettrica  10.101  11.088  11.784  0,511  0,561  0,596  0,137  0,151  0,160 10.151,69  11.143,87  11.843,01  (-9) 
+acquistata 
+Emissioni potenzialmente 
+evitate (coperte da 
+acquisto di energia  10.101  11.088  9.898  0,511  0,561  0,501  0,137  0,151  0,134 10.151,69  11.143,87  9.948,13  (-9) 
+elettrica da fonti 
+rinnovabili) 
+Emissioni residue da 
+consumo di energia  -  -  1.885  -  -  0,095  -  -  0,026  -  -  1.894,88  (-) 
+elettrica acquistata 
+ 
+ 
+ 
+123 
+ 

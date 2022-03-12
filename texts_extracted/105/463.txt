@@ -1,0 +1,40 @@
+Sezione 12 Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Passivo
+Sezione 1 – Debiti verso banche – Voce 10
+1.1 Debiti verso banche: composizione merceologica
+Tipologia operazioni/Valori 
+(milioni di euro) Totale al 31.12.2017 Totale al 31.12.2016
+1. Debiti verso Banche Centrali   -     -   
+2. Debiti verso banche   5.950   5.799 
+2.1 Conti correnti e depositi liberi   1.023   385 
+2.2 Depositi vincolati   -     -   
+2.3 Finanziamenti   4.842   5.381 
+2.3.1 Pronti contro termine passivi   4.842   5.381 
+2.3.2 Altri   -     -   
+2.4  Debiti per impegni di riacquisto di propri strumenti patrimoniali   -     -   
+2.5 Altri debiti   85   33 
+Totale   5.950   5.799 
+Fair value - Livello 1   -     -   
+Fair value - Livello 2   4.853   5.419 
+Fair value - Livello 3   1.108   418 
+Totale fair value 5.961  5.837 
+Al 31 dicembre 2017 sono in essere debiti verso banche per “Finanziamenti, Pronti contro termine passivi” di 4.842 milioni di 
+euro relativi a titoli per un nominale complessivo di 4.407 milioni di euro; in dettaglio:
+3.903 milioni di euro (di cui 2 milioni di euro per ratei di interesse netti in maturazione) si riferiscono a Long Term Repo sti-
+pulati con primari operatori finanziari le cui risorse sono state interamente investite in Titoli di Stato italiani a reddito fisso di 
+pari nozionale; 
+939 milioni di euro si riferiscono a operazioni ordinarie di finanziamento mediante contratti di Pronti contro termine con primari 
+operatori finanziari finalizzati alla provvista per il versamento di depositi incrementali a fronte di operazioni di collateralizzazione.
+Il fair value di Livello 2 è riferito ai suddetti finanziamenti tramite Pronti contro termine passivi, mentre il fair value delle restanti 
+forme tecniche della voce in commento approssima il valore di bilancio ed è pertanto di Livello 3.
+La sottovoce “Altri debiti” è costituita per 82 milioni di euro da depositi a garanzia relativi a somme versate a controparti con le 
+quali sono in essere operazioni di asset swap (collateral previsti da appositi Credit Support Annex) nell’ambito delle politiche di 
+cash flow hedge e fair value hedge adottate dal Patrimonio BancoPosta.
+Il Patrimonio BancoPosta può accedere per la propria operatività overnight a linee di credito a revoca uncommitted per 1.059 
+milioni di euro e ad affidamenti per scoperto di conto corrente per 160 milioni di euro concessi alla gemmante Poste Italiane 
+S.p.A., entrambi non utilizzati al 31 dicembre 2017. A partire dall’esercizio 2014 il Patrimonio BancoPosta, per l’operatività 
+interbancaria intraday, può accedere ad un‘anticipazione infragiornaliera di Banca d’Italia garantita da titoli di valore nominale 
+di 490 milioni di euro, non utilizzata al 31 dicembre 2017.
+462

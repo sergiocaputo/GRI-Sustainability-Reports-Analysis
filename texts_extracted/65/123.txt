@@ -1,0 +1,59 @@
+Dichiarazione consolidata di carattere non finanziario 
+122 Bilancio Sociale 
+• Nelle sedi in cui sono disponibili i servizi,  salute dei cittadini e dei lavoratori. Il rispetto 
+è stata data ampia comunicazione ai  della normativa rappresenta, peraltro, 
+dipendenti e, in alcuni casi, sono stati  una delle condizioni per l’ottenimento 
+concessi nella fase iniziale anche delle  e il mantenimento delle licenze e delle 
+agevolazioni per car sharing e bike  concessioni all’installazione di apparati 
+sharing. con emissioni elettromagnetiche. Rai Way 
+• A Roma e Torino è stato realizzato da  da sempre dedica grande attenzione alla 
+oBike il bike sharing “a flusso libero”,  verifica delle emissioni elettromagnetiche 
+il servizio che consente agli utenti di  derivanti dai propri sistemi di radiodiffusione 
+prelevare e riconsegnare le biciclette  al fine di garantire l’ottemperanza alla 
+all’interno di un’area operativa senza  normativa vigente in materia, con l’obiettivo 
+parcheggiarle in rastrelliere dedicate.   di tutelare la popolazione e i lavoratori 
+Per i dipendenti del Gruppo Rai è stato  da possibili effetti negativi derivanti 
+riservato uno sconto del 30% rispetto alla  dall’esposizione ai campi elettromagnetici.
+tariffa applicata al pubblico per le prime  Rai Way esercisce i propri impianti 
+100 corse. secondo quanto previsto dalle Concessioni 
+• Al fine di favorire l’utilizzo sistematico  Ministeriali, verificando che i livelli di 
+della bicicletta per gli spostamenti casa- emissioni elettromagnetiche (NIR) non 
+lavoro, Rai ha stipulato una convenzione  superino i limiti di legge.
+con negozi specializzati nella vendita  In caso di segnalazioni o di rilevazioni che 
+e riparazione di biciclette e sono stati  mostrano un superamento dei limiti di legge, 
+realizzati via via altri parcheggi in modo  Rai Way interviene tempestivamente per 
+da coprire i vari insediamenti aziendali.  verificare e, qualora necessario, riportare la 
+situazione all’interno del quadro normativo.
+10.4 Inquinamento 
+elettromagnetico
+Gli interventi di contenimento 
+dell’impatto elettromagnetico
+Le emissioni elettromagnetiche non 
+ionizzanti (NIR)
+Gli interventi di contenimento delle emissioni 
+Il servizio di radiodiffusione viene  elettromagnetiche sono attuati a diversi livelli:
+effettuato grazie alla diffusione di onde  • valutazione dell’impatto NIR in fase di 
+elettromagnetiche nelle bande di frequenza  progettazione degli impianti e verifica in 
+Medium Frequency (MF, Onda Media) per la  fase di attivazione: tramite un software 
+radiofonia a modulazione di ampiezza, Very  specialistico sviluppato da Rai Way stessa, 
+High Fequency (VHF) e Ultra High Frequency  l’Azienda definisce il dimensionamento 
+(UHF) per il servizio radiofonico analogico  dei componenti di impianti e sintetizza 
+in Modulazione di Frequenza (FM) oltre che  il diagramma dell’antenna di diffusione 
+digitale (DAB, Digital Audio Broadcasting) e  (progettazione eco-compatibile), 
+televisivo (DVB, Digital Video Broadcasting).  garantendo il corretto valore dei campi 
+Nello spettro radioelettrico queste frequenze  elettromagnetici (CEM), sia nelle aree di 
+si collocano nell’ambito di quelle che  servizio (far field) dove è indirizzato il 
+vengono definite le radiazioni non Ionizzanti,  segnale, che nelle immediate prossimità 
+in quanto la loro energia è insufficiente per  delle stazioni trasmittenti (near field). È in 
+produrre ionizzazione della materia, in  ogni caso prevista una verifica sul campo 
+contrapposizione con le radiazioni ionizzanti  della situazione reale prima e dopo la 
+(raggi X, raggi Gamma, ecc.). realizzazione degli interventi;
+• monitoraggio sistematico delle emissioni 
+Rai Way è soggetta ad un’articolata  di tutti gli impianti di radiodiffusione da 
+regolamentazione a livello nazionale e  parte delle zone territoriali, con l’aiuto 
+comunitario a tutela dell’ambiente e della  dell’unità specialistica di Quality, Security 
+salute che, tra l’altro, stabilisce i limiti di  and Environment (QSE), costituita per 
+esposizione a campi elettromagnetici,  verificare la compliance delle emissioni 
+imponendo l’obbligo di adozione di misure  alla normativa vigente: nel 2017, oltre 
+idonee rispetto agli effetti dannosi che  alla sorveglianza sistematica effettuata 
+possono derivare da tale esposizione alla  dai tecnici delle zone territoriali, sono 

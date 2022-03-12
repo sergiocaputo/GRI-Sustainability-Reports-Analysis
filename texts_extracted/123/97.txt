@@ -1,0 +1,56 @@
+ 
+Tabella 45 - Tipologie e tasso di infortuni sul lavoro, numero di giornate di lavoro perse, tasso di 
+assenteismo e numero di decessi suddivisi per genere 
+ 
+2018  2017  2016 
+Indicatori 
+Donne  Uomini  Totale  Donne  Uomini  Totale  Donne  Uomini  Totale 
+Totale giorni lavorati 
+110.955  119.103  230.058  112.076  127.447  239.523  156.911  159.833  316.744 
+nel periodo [1]
+ 
+Totale ore lavorate nel 
+768.087  927.928  1.696.014  764.563  953.823  1.718.386  1.054.187  1.196.513  2.250.700 
+periodo
+ 
+Tipologie di infortuni                   
+N° Incidenti mortali   0  0  0  0  0  0  0  0  0 
+Incidente fatale  0  0  0  0  0  0  0  0  0 
+Incidente non - fatale in 
+3  4  7  5  4  9  8  7  15 
+itinere 
+Incidente non - fatale 
+1  0  1  0  0  0  2  1  3 
+durante il lavoro 
+Totale Numero di 
+4  4  8  5  4  9  10  8  18 
+infortuni
+ 
+Tasso d'infortunio (TI)  1,04  0,86  0,94  1,31  0,84  1,05  1,9  1,34  1,6 
+Numero di malattie 
+0  0  0  0  0  0  0  0  0 
+professionali 
+Tasso di malattie 
+0  0  0  0  0  0  0  0  0 
+professionali (TMP) 
+Numero totale delle 
+giornate di lavoro  124  103  227  166  81  247  53  223  276 
+perse
+ 
+Indice di gravità (IG)  32,29  22,20  26,77  43,42  16,98  28,74  10,06  37,27  24,53 
+Totale numero di 
+giorni di assenza nel  124  103  227  166  81  247  53  223  276 
+periodo
+ 
+Tasso di assenteismo 
+0,11%  0,09%  0,10%  0,15%  0,06%  0,10%  0,03%  0,14%  0,09% 
+(TA) [2] 
+ 
+[1] Giorni lavorativi teorici meno assenze per giornate intere (ferie / BDO / solidarietà / sospensione volontaria / aspettative / permessi per studio – 
+sindacali. 
+[2] Il tasso di assenteismo è il rapporto percentuale tra i giorni persi per malattia, infortunio, incarichi pubblici, permessi donazione sangue e altri, e il 
+totale dei giorni lavorati nel periodo.    
+ 
+ 
+Sparkasse                      96 
+ 

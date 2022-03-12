@@ -1,0 +1,49 @@
+•  concurrent  with  routine  operations  on  meters,  (e.g.  activations,  closures,  checks  on  metering 
+assemblies), a check using instruments is carried out to verify the absence of leaks on the above-
+ground connection and meter.  
+The technical call centre 
+Receiving and diagnosing the telephone calls made to the toll-free emergency service numbers is of key 
+importance, since the calls can be used as actual reports of irregularity in the service provided. 
+The technical call centre service has toll-free numbers for each service (gas, integrated water service and 
+district heating), and area (Emilia-Romagna and Triveneto) in addition to a joint toll-free number for the 
+entire Group for public bodies (fire service, municipalities, provincial administrations, prefectures, police 
+stations, AUSL local health authorities, ARPA environmental protection agency, law enforcement agencies, 
+port authorities, etc.). 
+Percentage of calls received by the technical call centre answered (within or after 120 seconds) or 
+abandoned within 120 seconds 
+  2016  2017  2018 
+Gas  98.8%  98.8%  98.7% 
+of which for the gas emergency service 
+(minimum percentage required by ARERA is  97.2%  97.5%  97.4% 
+90%) 
+Water service  98.0%  96.9%  98.1% 
+of which for water emergency service 
+94.3%  93.1%  94.7% 
+(general level 90%) 
+Excluding Marche Multiservizi. The percentage of emergency gas and water calls is calculated according to criteria 
+defined by ARERA, considering the calls received, answered or abandoned within 120 seconds. 
+Average technical call centre waiting times 
+s  2017  2018 
+Gas  49.4  54.5 
+Water service  67.8  60.2 
+Number of calls  354,424  339,361 
+of which for the gas emergency service  98,942  104,579 
+of which for the integrated water emergency 
+255,482  234,782 
+service 
+Excluding Marche Multiservizi. 
+In 2018, the technical call centre in Forlì received about 339 thousand calls, slightly down compared to 
+2017. The percentage of calls answered by the technical call centre within 120 seconds for the water 
+service improved from 96.9% to 98.1%.  
+With a view to continuous improvement of the service, an automatic customer satisfaction feedback tool 
+has been implemented at the end of the call of the conversations with the operator. The results showed 
+that 7% of the customers who contacted the call centre were satisfied on a monthly basis, with a very high 
+level of satisfaction for 85% of the participants in the telephone survey. 
+As regards the management of adverse climatic events (such as frost, floods, droughts, etc.), in addition to 
+the projects started in 2017, the 2018 results were positively influenced by the implementation of the 
+outsourcing project, which made it possible to channel excess calls at peak times, maximizing performance, 
+and the extraordinary management of frost events with deferred recording project, which made it 
+possible to direct calls to a virtual operator (except for critical user types) for subsequent management in 
+the back office (for the frost emergency). 
+242 
+ 

@@ -1,0 +1,79 @@
+Nota integrativa consolidata
+1.3.2 LE COPERTURE CONTABILI Nello speciﬁ co, al 31 dicembre 2019 sono presenti derivati 
+di fair value hedge indicizzati all’EONIA per un nozionale di 
+INFORMAZIONI DI NATURA QUALITATIVA €950 milioni, di cui €200 milioni con scadenza entro il 2021. 
+1
+Il Gruppo in sede di prima applicazione dell’IFRS9, ha eserci- Tali importi rappresentano il 15,2% del totale dei derivati di  . M
+tinatteog lr’oalpmzieonntee  plere rveisgtoal ed adl ePlrloin cIAipSio3 9d ip ceorn ttuintutea rlee  atdip aoplopgliicea rdei   fdaeirr ivvaatliu ceo nh esdcgade ednezla  Gernutprop oil  2e0d2 i1l .3,2% considerando i soli  ODELLO
+coperture (micro e macro). Pertanto non trovano applicazione   DI B
+le previsioni dell’IFRS9 in tema di copertura. A. Attività di copertura del fair value USIN
+L’attività di copertura posta in essere dal Gruppo Fideuram è  ESS
+Informativa sull’incertezza derivante dalla 
+ﬁ nalizzata ad immunizzare il portafoglio bancario dalle varia-
+riforma degli indici di riferimento sui derivati di  zioni di fair value degli impieghi causate dai movimenti della 
+copertura curva dei tassi di interesse (rischio tasso).
+Come illustrato nella parte A Politiche Contabili, il Gruppo 
+si avvale della possibilità di applicare anticipatamente nel Bi- Il Gruppo adotta sia coperture speciﬁ che (micro Fair Value He-
+lancio 2019 il Regolamento n. 34/2020 del 15 gennaio 2020  dge) che coperture generiche (macro Fair Value Hedge).
+2
+c2h0e1 9h as ualdlao “ttRaitfoo riml dao dcuegmlie inntdoi cei mdie rsisfoer dimalelon tIoA SpBe ra l as edtetetemrmbrie-  Npaellml’aemntbeit toit odlei lo mbbiclirgoa zFiaoirn aVrai lauceq Huiesdtagtei., sono coperti princi- . STRA
+nazione dei tassi di interesse (modiﬁ che all’IFRS9 Strumenti  Nell’ambito del macro Fair Value Hedge sono state intro- TEG
+IE
+ﬁ nanziari, allo IAS39 Strumenti ﬁ nanziari: rilevazione e valu- dotte coperture di ﬁ nanziamenti a tasso ﬁ sso, caratteriz-
+tazione e all’IFRS7 Strumenti ﬁ nanziari: informazioni integra- zate dalla mancata identiﬁ cazione dei singoli sottostanti 
+tive”). Con il regolamento in oggetto sono state introdotte  oggetto di copertura. Tale scelta, determinata dal ﬁ siolo-
+alcune modiﬁ che in tema di coperture (hedge accounting)  gico frazionamento (sia per numero sia per importo) delle 
+con la ﬁ nalità di evitare che le incertezze sull’ammontare e  esposizioni in mutui, comporta la necessità di veriﬁ care pe-
+sulle tempistiche dei ﬂ ussi di cassa derivanti dalla riforma dei  riodicamente che la sensitivity ed il fair value del derivato 
+tassi possano comportare l’interruzione delle coperture in  (o dei derivati) di copertura trovino capienza rispetto alle  3. C
+essere e difﬁ coltà a designare nuove relazioni di copertura.  medesime misure calcolate sugli attivi coperti. La tipologia  ON
+Pertanto, l’analisi della tenuta delle coperture è stata effettua- di copertura in oggetto è implementata mediante l’acquisto  TESTO
+ta considerando i ﬂ ussi e le tempistiche dei derivati di coper- di Interest Rate Swap di tipo amortizing a lunga scadenza   D
+tura in essere, presumendo che gli indici di riferimento per la  (di solito 30 anni), che prevedono un ammortamento trime- I MER
+determinazione dei tassi di interesse esistenti non siano modi- strale della stessa misura per entrambe le gambe, pay ﬁ xed  CA
+ﬁ cati a seguito della riforma dei tassi interbancari (c.d. Interest  e receive ﬂ oating, quest’ultima indicizzata al parametro  TO
+Rate Benchmark Reform o IBOR Reform). Euribor 3 mesi. A ﬁ ne dicembre 2019 la dimensione com-
+plessiva delle otto coperture in essere è di circa €261 milio-
+A seguire si fornisce l’informativa richiesta dall’IFRS7 paragra- ni di nozionale.
+fo 24 H in merito all’incertezza derivante dalla riforma degli  Tutte le coperture Macro Fair Value Hedge che sono state 
+indici di riferimento per la determinazione dei tassi di inte- perfezionate (in momenti successivi), risultano pienamente 
+4
+rsetrsusem esunltlie d ri ecloazpieorntui rdai  pcootpeenrztuiarlam ee nlt’iem impopratott antoi dmailnlaa lreif odremgali   efafﬁir  cvaacliu ee ,c asipai einn tsi istuiaa dziaoln pi udni tpol udsiv vailsetna zdae slliaa  sdein msitinivuitsyv asilae ndzeal   . PERFO
+dei tassi benchmark.  dei derivati.  RM
+A
+Le principali tipologie di derivati utilizzati sono rappresentate  NC
+E
+I derivati di copertura delle relazioni di fair value hedge sono  da interest rate swap (IRS) plain di tipo bullet o con nozionale 
+principalmente indicizzati all’Euribor, la cui metodologia di  accreting, inﬂ ation linked, overnight index swap (OIS), cross 
+calcolo è stata oggetto di revisione nel corso del 2019 per  currency swap (CCS) realizzati con controparti terze ovvero 
+poter continuare ad utilizzare tale parametro anche dopo il  con altre società del Gruppo che, a loro volta, coprono il ri-
+1° gennaio 2022, sia per i contratti esistenti che per quel- schio sul mercato.
+li nuovi. Per rendere l’Euribor conforme al regolamento UE 
+sui benchmark (Benchmarks Regulation, BMR - Regolamento  I derivati non sono quotati su mercati regolamentati, ma ne-
+5
+n. 2016/1011/UE) l’EMMI - European Money Markets Insti- goziati nell’ambito dei circuiti OTC. Rientrano tra i contratti  . G
+O
+tute - ha completato il passaggio ad una nuova metodologia  OTC anche quelli intermediati tramite Clearing House. VER
+di calcolo “ibrida”. Il nuovo sistema di calcolo - le cui attività  NA
+N
+sono state completate a ﬁ ne novembre 2019 - non modiﬁ ca  B. Attività di copertura dei ﬂ ussi ﬁ nanziari CE
+la variabile economica che l’indice misura: l’Euribor esprime  Il Gruppo ha adottato una nuova tipologia di copertura volta 
+l’effettivo costo della raccolta per le banche europee contribu- a mitigare il rischio dell’esposizione a variazioni dei ﬂ ussi di 
+trici ed è sempre disponibile e consultabile. Pertanto il Gruppo  cassa futuri attribuibili ai movimenti della curva dei tassi di 
+non ritiene che ci sia incertezza sul timing o sull’ammontare  interesse (c.d. Cash Flow Hedge). Nel caso speciﬁ co i ﬂ ussi 
+dei ﬂ ussi di cassa dell’Euribor e non considera le coperture di  coperti sono quelli associati alle cedole di un titolo obbliga-
+fair value collegate all’Euribor come impattate dalla riforma  zionario di Intesa Sanpaolo a tasso variabile con durata resi- 6. B
+al 31 dicembre 2019. Nell’ambito delle relazioni di copertura  dua di cinque anni. La copertura è stata dimensionata con  ILA
+N
+di fair value hedge sono presenti anche derivati indicizzati a  riferimento a €400 milioni di nozionale, mediante due IRS  C
+IO
+benchmark impattati dalla riforma, in particolare all’EONIA  da €200 milioni ciascuno, perfezionati il primo a febbraio e il   C
+O
+che è oggetto di futura sostituzione con i nuovi tassi risk free.  secondo ad aprile. Le modalità di effettuazione dei test di ef- NS
+O
+In particolare in ambito europeo il ﬁ xing EONIA, calcolato a  ﬁ cacia sono analoghe a quelle relative alle coperture di micro  LID
+partire da ottobre 2019 sulla base del nuovo tasso risk free  Fair Value Hedge, con alcune differenze legate al fatto che  AT
+O
+€STR, sarà pubblicato ﬁ no a ﬁ ne 2021 e poi deﬁ nitivamente  l’oggetto della copertura sono i ﬂ ussi di cassa e non il valore 
+sostituito da €STR.  dell’attivo coperto.
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 347

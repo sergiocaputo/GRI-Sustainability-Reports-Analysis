@@ -1,0 +1,27 @@
+ 
+ 
+ Tabella 56 - Emissioni dirette di gas a effetto serra - SCOPE 1 
+ 
+Emissioni dirette di gas a effetto serra - 
+ANNO  CO2   CH4   N2O   CO2e 
+SCOPE 1 
+Riscaldamento: gas naturale  439  0,0392  0,0008  440 
+2018 
+Carburante flotta auto: Gasolio  369  0,0328  0,0007  369 
+Riscaldamento: gas naturale  453  0,0404  0,0008  454 
+2017 
+Carburante flotta auto: Gasolio  385  0,153  0,5865  385 
+Riscaldamento: gas naturale  378  0,0337  0,0007  379 
+2016 
+Carburante flotta auto: Gasolio  375  0,15   0,5765   375 
+ 
+Lo SCOPE 2, cioè la quantità di emissioni di CO2 causata dall’utilizzo di energia elettrica è pari a zero 
+poiché il Gruppo utilizza solo energia elettrica proveniente da fonti rinnovabili. L’utilizzo di energia elettrica 
+proveniente esclusivamente da fonti rinnovabili permette un risparmio di oltre 2.000 tonnellate di CO2 in 
+meno emessa in atmosfera e di oltre 800 tonnellate di petrolio equivalente non bruciate. 
+ 
+   
+ 
+ 
+Sparkasse                      111 
+ 

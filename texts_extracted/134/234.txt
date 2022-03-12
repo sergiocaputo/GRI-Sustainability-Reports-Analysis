@@ -1,0 +1,35 @@
+ 
+•  assets and liabilities, costs and revenue shown in the subsidiaries’ financial statements are fully 
+recognised, regardless of the size of the investment therein; 
+•  the carrying amount of the investment is eliminated against the Group’s share of its equity; 
+•  the main transactions between consolidated entities, including dividends distributed among group 
+companies, are eliminated; 
+•  non-controlling interests are shown separately under equity and their share of the profit or loss for the 
+year is similarly shown separately in the statement of profit or loss. 
+-  Investments in associates and joint ventures are measured using the equity method whereby the carrying 
+amount of the investment is adjusted to consider: 
+•  standardisation to comply with the group accounting policies, where necessary; 
+•  the parent’s share of the profits or losses of the investee realised after the acquisition date; 
+•  modifications arising from changes in equity of the investee that are not taken to profit or loss as per the 
+relevant IFRS; 
+•  dividends distributed by the investees; 
+•  any greater value paid at acquisition (measured using the same criteria set out in the section on 
+“Business combinations”) and managed pursuant to the relevant standard; 
+•  the share of the profit or loss deriving from application of the equity method, which is taken to profit or 
+loss. 
+-  Interests in joint ventures that qualify as joint operations are recognised by the investor to the extent of its 
+share of the rights and obligations held. 
+Dividends, reversals of impairment losses and impairment losses on investments in consolidated companies, 
+gains and losses on the intragroup exchange of investments in consolidated entities and the related tax effects 
+are eliminated. 
+Gains and losses arising from transactions between consolidated companies, which are not realised directly or 
+indirectly through transactions with third parties, are eliminated. Unrealised intragroup losses are recognised 
+when the transaction shows an impairment of the transferred asset. 
+ 
+Business combinations 
+Business combinations are recognised using the acquisition method set out in IFRS 3 (revised in 2008). 
+Accordingly, the consideration for a business combination is measured at fair value, being the sum of the fair 
+value of the assets acquired and liabilities assumed or incurred by the Group at the acquisition date and the 
+equity instruments issued in exchange for control of the acquired entity. Transaction costs are recognised in 
+profit or loss when incurred. 
+   235 

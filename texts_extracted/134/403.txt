@@ -1,0 +1,31 @@
+ 
+The following table shows the effects of the application of the above standard and interpretation: 
+Separate financial statements 
+Statement of financial position as at 1 January 2019 
+           
+           
+ASSETS  Published 31  IFRS 16 FTA  IFRS 16  IFRIC 23 FTA  Restated                  
+December 2018  reclassifications   1 January 2019 
+(€’000)           
+Non-current assets           
+Property, plant and equipment  169,527   (37,160)   132,367 
+Right-of-use assets    41,220  37,160   78,380 
+Intangible assets  123,755       123,755 
+Equity investments  1,324,130       1,324,130 
+Derivatives and non-current financial assets  116,394       116,394 
+Deferred tax assets  195,001  3     195,004 
+Total non-current assets  1,928,807  41,223  -  -  1,970,030 
+Current assets           
+Inventories  143,268       143,268 
+Contract assets  717,157  139     717,296 
+Trade receivables  1,420,387       1,420,387 
+Derivatives and other current financial assets  710,943       710,943 
+Current tax assets  94,302       94,302 
+Other current tax assets  62,652       62,652 
+Other current assets  290,089  (360)     289,729 
+Cash and cash equivalents  547,730       547,730 
+Total current assets  3,986,528  (221)  -  -  3,986,307 
+Total assets  5,915,335  41,002  -  -  5,956,337 
+           
+ 
+   404 

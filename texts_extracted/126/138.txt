@@ -1,0 +1,57 @@
+TIM Sustainability Report 2019 
+THE VALUE CHAIN 
+ 
+ [GRI 103-3: Management Approach] [GRI 418] [GRI 418-1] TIM Participações:  
+•  at December 31, 2019 there were 892 pending complaints from customers, of which 801 were opened in 2019, 84 in 
+2018 and 7 in 2017; 
+•  in 2019, 372 complaints were closed. The Judicial Authority decided in favor of TIM Participações in 112 cases, against 
+the Company in 130 cases and the remaining 130 were closed through a settlement between the parties.  
+In 2019, complaints on this issue increased significantly for all telecommunications companies, not only for TIM 
+Participações. 
+Anatel has not yet released any analysis on complaints received about customer privacy violations. 
+ 
+It should be noted that the difference between the legislation of Italy and Brazil does not allow for any comparisons to 
+be drawn between homogeneous data.    
+ 
+ 
+ [GRI 103-2: Management Approach] [GRI 418] Research and innovation in e-security 
+ 
+TIM is involved both in research and in innovation regarding cyber security and more generally the security of information 
+and networks. Activities carried out in 2019 included the following:  
+ 
+•  the development and application of machine learning1 algorithms and artificial intelligence for the evaluation and 
+prediction of the risk level of potentially dangerous e-mail messages and the automatic classification of malware 
+samples; 
+•  implementation of the responsible disclosure program2 to collect and manage vulnerability reports on TIM services, 
+products or equipment spontaneously provided by customers, researchers or security experts. The persons filing 
+reports are confident that the vulnerabilities are managed within a guaranteed timeframe and undertake to keep 
+what they discover confidential until the countermeasures can be applied; 
+•  the creation of a forensic analysis laboratory to support the investigation and analysis activities carried out in case of 
+hacking; 
+•  ongoing work on the development of a proprietary threat intelligence platform3 to support the collection, analysis and 
+consumption of intelligence on new security threats; The relevant issues addressed during the year included: the 
+development of criteria for estimating the level of confidence, reliability and relevance of the information acquired, 
+the upgrading of breach indicators, and the integration of multiple sources; 
+•  participation in the work of the four-year project CONCORDIA4 (Cyber security cOmpeteNCe fOr Research anD 
+InnovAtion5), as part of the European research programme Horizon 2020, and in particular the initiative "Establishing 
+and operating a pilot for a Cybersecurity Competence Network to develop and implement a common Cybersecurity 
+Research & Innovation Roadmap6" with a focus on Intelligence platforms, tools and processes; 
+•  overseeing and steering the activities of the 7GSMA (GSM Association) Fraud and Security Group, as Deputy Chair; 
+•  the collaboration, within the scope and 3GPP8 SA9 SECAM10, for the definition of the security requirements and test 
+methods on devices for 3GPP standard (SECAM) networks and those for the security of 5G infrastructure; 
+                                                                 
+1 Machine learning programs. 
+2 Procedure to report the vulnerabilities of IT systems, leaving the recipient the necessary time to identify and apply the appropriate 
+countermeasures, before disclosing them publicly. 
+3 Threat intelligence platform. 
+4  https://www.concordia-h2020.eu/ 
+5 Expertise in cyber security for research and innovation. 
+6 Establishing and managing a pilot project for a cyber security skills network in order to develop and implement a common roadmap for research 
+and innovation in cyber security. 
+7 Fraud and security. 
+8 The 3rd Generation Partnership Project. 
+9 Security Assurance. 
+10 SECurity Assurance Methodology. 
+ 
+139 
+ 

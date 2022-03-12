@@ -1,0 +1,51 @@
+Bilancio Individuale 2017
+Sezione 5 – Il risultato netto dell’attività di copertura - Voce 90
+5.1 Risultato netto dell’attività di copertura: composizione
+Totale  Totale 
+Componenti reddituali/Valori 
+31/12/2017  31/12/2016 
+A. Proventi relativi a: 
+A.1 Derivati di copertura del fair value  -  - 
+A.2 Attività finanziarie coperte (fair value)  15.741  16.031 
+A.3 Passività finanziarie coperte (fair value)  -  - 
+A.4 Derivati finanziari di copertura dei flussi finanziari  -  - 
+A.5 Attività e passività in valuta  -  - 
+Totale proventi dell'attività di copertura (A)  15.741  16.031 
+B. Oneri relativi a: 
+B.1 Derivati di copertura del fair value  (15.688)  (16.047) 
+B.2 Attività finanziarie coperte (fair value)  -  - 
+B.3 Passività finanziarie coperte (fair value)  -  - 
+B.4 Derivati finanziari di copertura dei flussi finanziari  -  - 
+B.5 Attività e passività in valuta  -  - 
+Totale oneri dell'attività di copertura (B)  (15.688)  (16.047) 
+C. Risultato netto dell'attività di copertura (A-B)  53  (16) 
+(cid:3)
+Sezione 6 – Utili (Perdite) da cessione/riacquisto – Voce 100
+6.1 Utili (Perdite) da cessione/riacquisto: composizione
+Totale  Totale 
+31/12/2017  31/12/2016 
+Voci/Componenti reddituali 
+Risultato  Risultato 
+Utili  Perdite  Utili  Perdite 
+netto  netto 
+Attività finanziarie 
+1. Crediti verso banche  -  -  -  -  -  - 
+2. Crediti verso clientela  228  (17.497)  (17.269)  70  (5.470)  (5.400) 
+3. Attività finanziarie disponibili per la vendita  9.873  (3.306)  6.567  17.652  (7.399)  10.253 
+3.1 Titoli di debito  -  (1)  (1)  12.456  (6)  12.450 
+3.2 Titoli di capitale  9.701  (3.305)  6.396  3.365  (17)  3.348 
+3.3 Quote di O.I.C.R.  172  -  172  1.831  (7.376)  (5.545) 
+3.4 Finanziamenti  -  -  -  -  -  - 
+4. Attività finanziarie detenute sino alla scadenza  21.575  -  21.575  -  -  - 
+Totale attività  31.676  (20.803)  10.873  17.722  (12.869)  4.853 
+Passività finanziarie           
+1. Debiti verso banche  -  -  -  -  -  - 
+2. Debiti verso clientela  -  -  -  -  -  - 
+3. Titoli in circolazione  -  (168)  (168)  30  (796)  (766) 
+Totale passività  -  (168)  (168)  30  (796)  (766) 
+(cid:3)
+L’importo indicato per i crediti verso clientela (17.269 mila euro) è pari alla perdita netta conseguita a seguito delle 
+operazioni di cessione di crediti e di NPLs posta in essere dalla Banca nel corso dell’esercizio, tra cui la cartolariz-
+zazione di NPLS perfezionata a dicembre 2017 (cfr. Parte A - Sezione 4 - Altri aspetti – Cartolarizzazione Popolare 
+Bari NPLs).
+189

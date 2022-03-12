@@ -1,0 +1,37 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+A.2 Classificazione attività finanziarie, degli impegni a erogare fondi e 
+delle garanzie finanziarie rilasciate in base ai rating esterni ed interni.
+A.2.1 Distribuzione delle attività finanziarie, degli impegni a erogare 
+fondi e delle garanzie finanziarie rilasciate: per classi di rating esterni 
+(valori lordi)
+Classi di rating esterni Senza rating TOTALE
+Euro/migliaia Classe 1 Classe 2 Classe 3 Classe 4 Classe 5 Classe 6
+A. Attività finanziarie valutate al costo 
+1.575 45.497 10.357.827 29.034 5.534 4.664 9.443.863 19.887.994
+ammortizzato
+- Primo stadio 1.575 45.497 10.342.665 18.940 3.554 - 8.844.170 19.256.401
+- Secondo stadio - - 15.162 10.094 1.980 - 479.148 506.384
+- Terzo stadio - - - - - 4.664 120.545 125.209
+B. Attività finanziarie valutate al fair value 
+40.155 20.577 2.488.044 2.085 - - - 2.550.861
+con impatto sulla redditività complessiva
+- Primo stadio 40.155 20.577 2.488.044 2.085 - - - 2.550.861
+- Secondo stadio - - - - - - - -
+- Terzo stadio - - - - - - - -
+TOTALE (A+B) 41.730 66.074 12.845.871 31.119 5.534 4.664 9.443.863 22.438.855
+di cui: attività finanziarie impaired 
+- - - - - - 809 809
+acquisite o originate
+C. Impegni a erogare fondi e garanzie 
+- - - - - - - -
+finanziarie rilasciate
+- Primo stadio - 7.724 2.306 249 151 - 875.267 885.698
+- Secondo stadio 100.000 65.000 - 51 20 - 18.901 183.972
+- Terzo stadio - - - - - - 26 26
+TOTALE (C)  100.000 72.724 2.306 300 171 - 894.194 1.069.696
+TOTALE (A+B+C) 141.730 138.798 12.848.177 31.419 5.705 4.664 10.338.057 23.508.551
+A.2.2 Distribuzione delle esposizioni per cassa e “fuori bilancio” per 
+classi di rating interni
+La banca non dispone di modelli per le definizioni di rating interni.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 624

@@ -1,0 +1,29 @@
+Table 76: TDT injuries dynamics
+YEAR 2017 2018 2019
+TDT INJURIES DYNAMICS  I E I E I E
+Injury while ascending/descending 3 1 1 2 3 1
+Fall on ground leve/tumbles 0 0 1 1 2 3
+Fall from height 0 0 1 0 1 0
+Collision 0 0 1 1 0 0
+MMC23 - materials dropping 0 0 0 0 0 0
+MMC - manipulation 1 1 0 1 0 2
+MMC - crush 2 0 0 0 1 0
+MMC - efforts 0 1 0 1 0 2
+Accident between vehicles 0 0 0 0 0 0
+Aggression 0 0 0 0 0 0
+Inappropriate movement 0 0 1 0 0 0
+Past pathology 1 0 0 0 0 0
+Pneumatic burst 1 0 0 0 0 0
+Other - Presence 0 0 0 0 3 0
+Technical-mechanical breakdown 0 0 0 1 0 0
+TOTAL 8 3 5 7 10 8
+As emerges from the data analysis, over the years, the most frequently occurring case 
+history is linked to the “ascending, descending, walking” macro-category, followed, in 
+2019, by the “falling/tumbling” cases, that is, the cases of accidents which occur while 
+the victim walks, descends a stair or an operating vehicle or climbs up there. It should 
+be noted that it is precisely in this area, mostly linked to the behavioural aspect, that 
+the management system focusses its interventions; over the years, the reduction in 
+accidents is linked precisely to the clear improvement that the workplace health and 
+safety management system has brought to this area.
+23. MMC: manual handling of loads (movimentazione manuale dei carichi).
+172 | SECH • TDT 2019 Sustainability Report

@@ -1,0 +1,48 @@
+FINCANTIERI GROUP FINCANTIERI GROUP
+WE PROTECT DATA AND INFORMATION
+Suppliers’ Code of Ethics adopt in order to pursue a development that  The Company’s focus on cyber security  • lifecycle management of cyber security 
+integrates competitiveness, environmental  has gradually intensified in response to the  incidents; 
+sustainability and social responsibility, capable  ever-increasing complexity and frequency of  • conducting periodic IT security 
+of establishing a long-term partnership based  cyber attacks carried out against companies  assessments aimed at identifying and 
+on integrity, honesty and mutual transparency. with national and international strategic  remedying any gaps; 
+importance. The sophistication of cyber  • providing awareness campaigns to 
+PLAN The Suppliers' Code of Ethichs is available on the website www.
+fincantieri.com/globalassets/sostenibilita2/responsabilita- threats - made possible by the operation of  employees, aimed at improving awareness 
+OBJECTIVE risorse-umane/diverita-e-pari-opportunita/fincantieri_policy_
+on_human_rights2.pdf consolidated international groups, some of  of cyber risks and shedding light on the 
+COMPLETED
+IN 2019  which supported by the governments of the  most widespread attack techniques (e.g. 
+To guarantee respect for human rights in  countries to which they belong - requires  social engineering) and the organizational 
+the supply chain, a specific objective has  the constant adjustment of the company’s  and behavioural methods for neutralizing 
+been included in the Sustainability Plan that  defenses and processes for protecting IT  them;
+provides for annual second-party audits to  assets, as an additional element to protect  • managing cyber risks within a more 
+monitor and evaluate strategic suppliers  the Company’s industrial know-how and  general framework of operational risks that 
+In order to respect the Group’s commitment to  in terms of respect for human rights,  market competitiveness. may negatively impact on the Company’s 
+promoting a responsible and sustainable supply  safeguarding workers’ health and safety, and  For this reason, in 2019 we further  business and image.
+chain, with respect for human rights, we have  protecting the environment.  strengthened the Cyber Security function, 
+adopted the Suppliers’ Code of Ethics. The  activating a pervasive multi-year program  Fincantieri - in its capacity as a strategic 
+document defines the values and principles  For more details on the Suppliers’ Code of Ethics and audits,  focused on managing and mitigating cyber  company for the national system - continues 
+please refer to the chapter “For a sustainable supply chain”.
+of conduct that suppliers must refer to and  risks, which develops far-reaching project  to collaborate with the State Police and 
+initiatives on the company’s technological  other important national institutions 
+infrastructure, such as: through information sharing activities on 
+significant cyber events recorded on its IT 
+• creation of a program to protect the  infrastructure.
+industrial networks supporting ship 
+production on 4 pilot shipyards  We are aware of our social responsibilities 
+(Monfalcone, Marghera, Ancona and Riva  and in light of the full transposition of the 
+Trigoso) to allow the monitoring, protection  principles laid down to protect personal 
+and management of field equipment;   data, we have launched a process to comply 
+• development of a model to manage  with Regulation (EU) 2016/679 of the 
+cyber security aspects related to product  European Parliament and of the Council of 
+development processes; 27 April 2016 on the protection of natural 
+• definition of the Group business model  persons with regard to the processing of 
+with regard to the Information Security  personal data and on the free movement of 
+Policy Architecture; such data, and repealing Directive 95/46/
+• implementation of tools based on Artificial  EC (the GDPR), became fully applicable on 
+Intelligence to identify a standard  25 May 2018. At the end of this process, the 
+behavioural model capable of highlighting  Company adopted a privacy management 
+any anomalies in user actions;  system, whose founding principles are 
+• central monitoring of core corporate  contained in the Policy on General Principles 
+services;
+54 55

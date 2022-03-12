@@ -1,0 +1,48 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+4. Gruppo Poste Italiane Bilancio al 31 dicembre 2017 
+Il Saldo dei flussi per la gestione del risparmio postale, positivo di 84 milioni di euro, è costituito dall’eccedenza dei 
+rimborsi sui depositi avvenuti negli ultimi due giorni dell’esercizio e regolati nei primi giorni dell’esercizio successivo. Al 31 
+dicembre 2017, il saldo è rappresentato da un debito di 43 milioni di euro verso Cassa Depositi e Prestiti e da un credito di 127 
+milioni di euro verso il MEF per le emissioni di buoni postali fruttiferi di sua competenza.
+I Debiti per responsabilità connesse a rapine subite dagli Uffici Postali rappresentano obbligazioni assunte nei confronti del 
+MEF conto Tesoreria dello Stato a seguito di furti e sottrazioni. Tali obbligazioni derivano dai prelievi effettuati presso la Tesoreria 
+dello Stato, necessari per reintegrare gli ammanchi di cassa dovuti a detti eventi criminosi in modo da garantire la continuità 
+operativa degli Uffici Postali. 
+I Debiti per rischi operativi si riferiscono a quella parte di anticipazioni ottenute per operazioni della gestione BancoPosta 
+per le quali sono successivamente emerse insussistenze dell’attivo certe o probabili.
+Strumenti finanziari derivati
+Le variazioni della voce in oggetto intervenute nell’esercizio 2017 sono commentate nella nota A5 – Attività finanziarie.
+Altre passività finanziarie
+Le altre passività finanziarie sono iscritte ad un valore che approssima il relativo fair value e si riferiscono principalmente all’o-
+peratività del Patrimonio BancoPosta.
+tab. B8.3 - Altre passività finanziarie
+ Saldo al 31.12.17   Saldo al 31.12.16 
+Descrizione   Passività   Passività   Totale   Passività   Passività   Totale 
+(milioni di euro) non correnti  correnti  non correnti  correnti 
+per gestione carte prepagate  -    2.853  2.853  -    2.161  2.161 
+per trasferimento fondi naz. e 
+-    734  734  -    599  599 
+intern.li 
+per assegni da accreditare sui 
+-    243  243  -    284  284 
+libretti di risparmio 
+per RAV, F23, F24 e bolli auto  -    145  145  -    153  153 
+per assegni vidimati  -    188  188  -    148  148 
+per importi da accreditare alla 
+-    88  88  -    75  75 
+clientela 
+per depositi in garanzia  -    100  100  -    32  32 
+per altri importi da riconoscere a 
+-    68  68  -    66  66 
+terzi 
+per altre partite in corso di 
+-    190  190  -    117  117 
+lavorazione 
+altri  1  83  84  1  13  14 
+Totale   1   4.692   4.693   1   3.648   3.649 
+I Debiti per depositi in garanzia sono relativi a somme ricevute dalla Capogruppo da controparti con le quali sono in essere 
+operazioni di Asset swap (collateral previsti da appositi Credit Support Annex).
+La voce Altri comprende per 56 milioni di euro il debito residuo verso FSI Investimenti S.p.A. per l’acquisto della partecipazio-
+ne nella FSIA Investimenti Srl avvenuto in data 15 febbraio 2017.
+223

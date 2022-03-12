@@ -1,0 +1,83 @@
+sustainability report 2019 9 / methodological note
+Disclosure Chapter - section Omissions Reasons Explanation Disclosure Chapter - section Omissions Reasons Explanation
+Reporting Practice Topic GRI: 204
+Chapter 9  Procurement practices
+102-45 
+§ Reporting 
+Functions involved in preparing the report
+process DMA 204 
+Describe the management approach for procurement  § 6.2
+102-46  practices topic using KPI GRI 103: Management Approach
+Process for defining the report content and the topic  Chapter 9
+boundaries 204-1 
+§ 6.2
+Proportion of spending on local suppliers
+102-47 
+Material topics identified in the process for defining report  §  2.3 Topic GRI: 205
+content
+Anti-corruption
+102-48 
+Explanation of effects of any restatements of information 
+Chapter 9 DMA 205 
+78 given in previous reports, and the reasons for such  Describe the management approach for the anti-corruption  § 8.1 79
+restatements
+topic using KPI GRI 103: Management Approach
+102-49 
+205-1 
+Significant changes from previous reporting periods  Chapter 9 § 4.3
+Operations assessed for risks related to corruption
+in the list of material topics and topic boundaries
+205-2 
+102-50 
+Chapter 9  Communication and training about anti-corruption policies  § 4.3
+Reporting period (e.g., fiscal year or calendar year) 
+§ Data and procedures
+for the information provided
+205-3 
+Chapter 9  § 4.3
+102-51  Confirmed incidents of corruption and actions taken
+§ Reporting 
+Date of the most recent previous report
+standards applied
+300 - TOPIC SPECIFIC STANDARD: ENVIRONMENTAL
+102-52  Chapter 9 
+GRI Topic: 301
+Reporting cycle § Data
+Materials
+102-53 
+Contact point for questions regarding the report   Back cover
+DMA 301 
+or its contents
+Describe the management approach for the materials topic  § 7.3
+Chapter 9  using KPI GRI 103: Management Approach
+102-54 
+§ Reporting 
+In accordance option chosen 301-1 
+standards applied § 8.3
+Materials used by weight or volume
+Cap. 9 
+102-55  301-2  § 7.3 
+§ GRI Table of 
+GRI Content Index Recycled input materials used § 8.3
+contents
+102-56  GRI Topic: 302
+Chapter 9
+External assurance
+Energy
+200 - TOPIC SPECIFIC STANDARD: ECONOMIC
+DMA 302 
+Describe the management approach for the energy topic  § 7.1
+GRI Topic: 201
+using KPI GRI 103: Management Approach
+Economic performance
+302-1  § 7.1 
+Energy consumption within the organisation § 8.3
+DMA 201 
+Describe the management approach for the economic  § 8.1
+302-3  § 7.1 
+performance topic using KPI GRI 103: Management Approach
+Energy intensity § 8.3
+201-1 
+§ 8.1 302-4  § 7.1 
+Direct economic value generated and distributed
+Reduction of energy consumption § 8.3

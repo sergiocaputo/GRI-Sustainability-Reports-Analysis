@@ -1,0 +1,43 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+dalle specifiche delle controparti o dello stesso immobile (le sue peculiarità 
+intrinseche, il suo comparto di appartenenza, la sua locazione geografica e 
+così via).
+Il punto di partenza per la determinazione del fair value degli immobili 
+(inclusi nei fondi immobiliari) è costituito dai canoni di locazione (fissati 
+contrattualmente) che il locatario dell’immobile si impegna a pagare 
+al locatore per un numero concordato di anni. Questi canoni vengono 
+attualizzati e capitalizzati utilizzando: 
+valore iniziale del canone percepito;
+  tasso di attualizzazione del canone percepito;
+  tasso di capitalizzazione del reddito netto finale dopo la messa a 
+regime.
+Il primo tasso si ottiene tramite una combinazione lineare di un indicatore 
+di mercato, di uno spread per il rischio di illiquidità, di uno spread per il 
+rischio connesso all’investimento immobiliare e di uno spread per il rischio 
+settore/urbanistico (imputati nei tassi di sconto seguendo una logica asset 
+dependent). L’incidenza marginale di ognuna delle quattro componenti 
+rifletterà quindi la sensibilità di mercato del valutatore, così come delle sue 
+previsioni e aspettative sull’andamento dello stesso. Il tasso di capitalizzazione 
+(Exit rate), di contro, rappresenta il fattore che permette di convertire 
+un’indicazione di reddito futuro in un’indicazione di valore attuale. Anch’esso 
+viene determinato tramite una combinazione lineare: gli input sono presi dal 
+mercato finanziario e dal mercato di riferimento dell’immobile, in particolare 
+il tasso di Risk Out viene dedotto dal valutatore osservando le transazioni 
+riscontrate sul mercato di riferimento.
+In base a quanto previsto dalla normativa vigente, gli asset presenti nei fondi 
+immobiliari sono valutati da esperti indipendenti con cadenza semestrale. Le 
+valutazioni, le ipotesi e gli input utilizzati dagli esperti indipendenti sono poi 
+oggetto di validazione da parte del risk management della Società.
+Nelle azioni valutate a livello 3 del fair value è inclusa la partecipata indiretta 
+VISA Europe Limited. Il Gruppo Mediolanum nella determinazione del fair 
+value ha considerato il valore per cassa, il valore degli strumenti “preferred” 
+a cui è stato applicato uno sconto di liquidità in funzione di clausole valutative 
+e ha ritenuto di valorizzare la clausola di aggiustamento prezzo pari a zero in 
+ragione dell’incertezza legata a tale componente.
+Per alcuni titoli di capitale maggiormente significativi la Banca ha determinato, 
+sulla base delle metodologie valutative previste in dottrina (DCF) il fair value 
+di tali strumenti. Le azioni valutate a livello 3 del fair value includono inoltre 
+le azioni di Sia S.p.A. per una quota di partecipazione pari a 2,85%; per la 
+determinazione del fair value ci si è avvalsi delle metodologie più adottate 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 170

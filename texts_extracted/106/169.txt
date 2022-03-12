@@ -1,0 +1,54 @@
+168 Prysmian Group    Consolidated Non-Financial Information Statement 2019
+GHG emissions  
+Prysmian Group (2019)
+Emissions of greenhouse gases  [t CO eq] Power Cables Telecom Cables Accessories Optical fibre Wire rod
+2
+Scope 1 Direct emissions from combustion 128,952    15,616    2,707    42,064    10,880   
+Emissions from refrigerant gas leaks 6,493    2,292    49    481    226   
+Emissions from SF gas leaks 78,911    -      35,021    -      -     
+6
+Total Scope 1 214,356    17,908    37,777    42,544    11,106   
+Scope 2 Location-based 422,670    67,610    7,361    65,365    1,831   
+Market-based 381,589    72,140    8,316    54,149    1,139   
+Scope 1 and Scope 2 (Location-Based) 637,026    85,518    45,138    107,909    12,937   
+Total
+Scope 1 and Scope 2 (Market-Based) 595,945    90,048    46,093    96,694    12,245   
+Prysmian Group w/o General Cable (2018)
+Emissions of greenhouse gases [t CO eq] Power Cables Telecom Cables Accessories Optical fibre
+2
+Scope 1 Direct emissions from combustion 68,859 12,780 2,459 40,144
+Emissions from refrigerant gas leaks 3,832 2,180 39 320
+Emissions from SF gas leaks 42,590 0 73,006 0
+6
+Total Scope 1 115,282 14,959 75,503 40,464
+Scope 2 Location-based 297,694 49,120 6,127 59,156
+Market-based 268,953 50,785 6,151 44,512
+Scope 1 and Scope 2 (Location-Based) 412,976 64,079 81,630 99,620
+Total
+Scope 1 and Scope 2 (Market-Based) 384,234 65,745 81,655 84,977
+Former General Cable (June-December 2018)
+Emissions of greenhouse gases [t CO eq] Power Cables Telecom Cables Accessories Optical fibre Total 2018
+2
+Scope 1 Direct emissions from combustion 30,462 964 17 0 31,444
+Emissions from refrigerant gas leaks 1,900 185 0 0 2,085
+Emissions from SF gas leaks 23,028 0 0 0 23,028
+6
+Total Scope 1 55,390 1,149 17 0 56,557
+Scope 2 Location-based 70,622 11,763 584 0 82,969
+Market-based 75,052 11,961 766 0 87,779
+Scope 1 and Scope 2 (Location-Based) 126,012 12,912 601 0 139,526
+Total
+Scope 1 and Scope 2 (Market-Based) 130,442 13,110 782 0 144,336
+Prysmian Group (2017) 
+Emissions of greenhouse gases [t CO eq] Power Cables Telecom Cables Accessories Optical fibre Total 2017
+2
+Scope 1 Direct emissions from combustion 62,417 12,228 2,569 36,759 113,973
+Emissions from refrigerant gas leaks 3,359 2,245 117 166 5,887
+Emissions from SF gas leaks 31,340 - 77,657 - 108,997
+6
+Total Scope 1 97,117 14,473 80,342 36,925 228,857
+Scope 2 Location-based 304,534 55,984 5,917 54,008 420,443
+Market-based 226,739 51,896 4,488 37,300 320,422
+Scope 1 and Scope 2 (Location-Based) 401,651 70,456 86,259 90,933 649,299
+Total
+Scope 1 and Scope 2 (Market-Based) 323,856 66,368 84,830 74,225 549,279

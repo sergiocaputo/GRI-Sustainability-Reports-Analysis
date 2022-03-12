@@ -1,0 +1,73 @@
+GRI Standard  Aspect Description  Chapter – page – Omissions  SDGs Alignment 
+303-1  Water withdrawal by source  Water, paper and page 15 
+ 
+Emissions: 
+GRI 305     
+103-1 Management Approach 
+Transport page 13 
+305-1  Direct (Scope 1) GHG emissions 
+Energy consumption page 15     
+305-2  Energy indirect (Scope 2) GHG emissions  Energy consumption page 15 
+   
+Effluents and waste: 
+GRI 306     
+103-1 Management Approach 
+Water  discharge  by  quality  and  Materiality and Disclosure Management 
+306-1   
+destination  Approach page 7 
+Materiality and Disclosure Management 
+306-2  Waste by type and disposal method   
+Approach page 7 
+Materiality and Disclosure Management 
+306-3  Significant spills   
+Approach page 7 
+Materiality and Disclosure Management 
+306-4  Transport of hazardous waste   
+Approach page 7 
+Water  bodies  affected  by  water  Materiality and Disclosure Management 
+306-5   
+discharges and/or runoff  Approach page 7 
+Environmental Compliance: 
+GRI 307     
+103-1 Management Approach 
+Non-compliance  with  environmental  Materiality and Disclosure Management 
+307-1   
+laws and regulations  Approach page 7 
+Supplier Environmental Assessment: 
+GRI 308     
+103-1 Management Approach 
+New suppliers that were screened using  Materiality and Disclosure Management 
+308-1   
+environmental criteria  Approach page 7 
+Negative environmental impacts in the  Materiality and Disclosure Management 
+308-2   
+supply chain and actions taken  Approach page 7 
+Social Topics 
+Employment: 
+GRI 401     
+103-1 Management Approach 
+New  employee  hires  and  employee 
+401-1  Our engine page 9 
+turnover     
+401-3  Parental leave  Quality is the biggest award page 10 
+   
+Labor/Management Relations: 
+GRI 402     
+103-1 Management Approach 
+Minimum  notice  periods  regarding  Materiality and Disclosure Management 
+402-1   
+operational changes  Approach page 7 
+Occupational health and safety: 
+GRI 403     
+103-1 Management Approach 
+Types  of  injury  and  rates  of  injury, 
+occupational  diseases,  lost  days,  and 
+403-2  Quality is the biggest award page 10 
+absenteeism,  and  number  of  work-  
+related fatalities 
+Training and education: 
+GRI 404     
+103-1 Management Approach 
+ 
+ 
+21 

@@ -1,0 +1,24 @@
+7 
+Capitale 
+Naturale
+INPUT
+Carburanti   Rifiuti trattati in impianti del Gruppo  Combustibili fossili 
+721 TJ 3,8 milioni di tonnellate 113.241 TJ
+Biogas  Acqua  Energia   Prodotti chimici 
+490 TJ 10,7 milioni m3 348 GWh e materiali 
+e
+278 mila tonnellate
+Capitale Capitale Capitale Capitale Capitale Capitale
+Finanziario Manifatturiero Naturale Umano Intellettuale Relazionale
+SERVIZI E PROCESSI A2A
+Materia prima seconda  Rifiuti prodotti  Scarichi 
+352 mila tonnellate 732 mila tonnellate 4,2 milioni di m3
+Emissioni   Emissioni gas serra  Emissioni evitate 
+3.122 tonnellate NOx  7,5 milioni di tonnellate CO2eq  2,8 milioni di tonnellate 
+116 tonnellate Polveri  (Scope1)  CO2eq evitate
+1.301 tonnellate SO2 110 mila tonnellate CO2eq 
+1,2 milioni di tep risparmiate
+(Scope2) 
+1,7 milioni di tonnellate CO2eq 
+(Scope3)
+OUTCOME

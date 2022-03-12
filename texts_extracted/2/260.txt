@@ -1,0 +1,60 @@
+INFORMAZIONI AGGIUNTIVE SUI DATI NUMERICI 
+PRESENTATI NEL BILANCIO AMBIENTALE
+PRODOTTI – AREA ENERGIA
+dato n. spiegazione – commento
+1 Energia totale lorda prodotta da Acea Ambiente e Acea Produzione. Il dato è calcolato.
+2 Energia elettrica prodotta al netto delle perdite dovute alla sola fase di produzione. Il dato è calcolato.
+Energia elettrica totale prodotta, al lordo delle perdite, dalle Centrali di Acea Produzione. Include l’energia termoelettrica e 
+3=4+5
+idroelettrica. Il dato è misurato con incertezza inferiore a ± 0,5%.
+Perdite di energia elettrica imputabili alla sola fase di produzione delle Centrali di Acea Produzione. Comprende: gli 
+6=7+8+9
+autoconsumi (termo e idro) e le perdite di prima trasformazione. Il dato è misurato con incertezza inferiore a ± 0,5%.
+10 Energia elettrica prodotta dalle Centrali di Acea Produzione al netto delle perdite. Il dato è calcolato.
+Energia lorda prodotta da impianti fotovoltaici. Il FV del Parco della Mistica non è rendicontato in quanto fuori perimetro.  
+11 I dati includono gli impianti presso Orvieto (Acea Ambiente) e presso Acea Ato 2. Non si include l’energia prodotta dagli 
+impianti acquisiti nel corso del 2019. Il dato è misurato con incertezza inferiore a ± 0,5%.
+Perdite totali in fase di generazione fotovoltaica, dovute soprattutto ad effetto joule (dissipazione con riscaldamento) nelle 
+12
+apparecchiature. Dato stimato.
+13 Energia elettrica fotovoltaica netta resa disponibile dagli impianti di generazione. Dato calcolato.
+Energia elettrica prodotta dagli impianti di termovalorizzazione rifiuti (Waste to Energy): termovalorizzatore di San Vittore 
+del Lazio e termovalorizzatore di Terni di Acea Ambiente. Si precisa che il combustibile utilizzato nei due impianti (CSS – 
+combustibile solido secondario – per San Vittore del Lazio e pulper di cartiera per l’impianto di Terni) è composto sia da 
+14=15+16 materiale organico biodegradabile, neutro sul bilancio della CO2, sia da sostanza organica non biodegradabile (plastica, resine 
+ecc.). Nel 2019 la quota rinnovabile per l’impianto di San Vittore del Lazio è pari a circa il 51%, la quota del termovalorizzatore 
+di Terni è pari a circa il 47%. Con riferimento all’energia prodotta presso San Vittore del Lazio, alcune problematiche sulle 
+turbine della linea 1 e della linea 3 hanno condizionato i quantitativi di energia elettrica prodotta, per questo inferiore al 2018. 
+Autoconsumi dei due impianti di termovalorizzazione dei rifiuti di San Vittore del Lazio e di Terni + perdite di prima 
+17
+trasformazione. Il dato è misurato con incertezza inferiore a ± 0,5%.
+Energia elettrica prodotta dai due impianti di termovalorizzazione rifiuti di San Vittore del Lazio e di Terni, al netto degli 
+18
+autoconsumi e delle perdite di prima trasformazione. Il dato è calcolato.
+19 Energia elettrica prodotta da biogas dall’impianto di gestione dei rifiuti di Orvieto (Acea Ambiente). Il dato è calcolato.
+20 Autoconsumi, incluse piccole dispersioni. Il dato è misurato con incertezza inferiore a ± 5%.
+21 Energia elettrica netta prodotta da biogas e ceduta in rete. Il dato è misurato con incertezza inferiore a ± 5%. 
+Energia termica prodotta nell’impianto di cogenerazione di Tor di Valle al lordo delle perdite. Il dato è misurato con incertezza 
+22
+del ± 2% in corrispondenza delle tubazioni di mandata dei generatori. 
+Perdite di energia termica dei sistemi di teleriscaldamento, dovute a: dispersione termica, perdite sulla rete, rilasci tecnici 
+23 per interventi di manutenzione, reintegri termici dei sistemi di accumulo del calore. Il dato è calcolato come differenza tra 
+l’energia termica prodotta e quella effettivamente erogata ai clienti (fatturata).
+24 Energia termica netta erogata ai clienti finali. Il dato, calcolato, si ottiene dalla rilevazione dei consumi fatturati. 
+Energia elettrica fornita da Acea Produzione ad Acea Energia con scambio infra-Gruppo. Il dato è marginale in conseguenza 
+25
+della scelta operata dal Gruppo Acea di vendere in Borsa o con contratti bilaterali l’energia elettrica prodotta. 
+Energia elettrica fornita da Acquirente Unico e Mercato, inclusa la quota da importazione oggetto di ricalcolo in relazione al 
+26
+DCO ARERA 492/2019/R/eel. Il dato è misurato con incertezza del ± 0,5%. 
+Energia richiesta sulla rete di distribuzione elettrica di Roma e Formello dal complesso dei clienti collegati (mercato libero + 
+27
+servizio di maggior tutela). Il dato è stimato.
+Perdite di energia elettrica che si verificano durante la fase di distribuzione e trasmissione. Sono imputabili a: perdite di 
+28
+trasformazione e trasporto, frodi ed errate misurazioni. Il dato è stimato.
+29 Usi propri di energia elettrica per lo svolgimento delle attività di distribuzione. Il dato è stimato.
+Energia elettrica ceduta a terzi. Si tratta di energia ceduta a imprese di distribuzione. L’aumento è conseguenza di due nuovi 
+30
+sistemi di distribuzione chiusi alimentati da Areti a partire da luglio 2019. Il dato è misurato con incertezza del ± 0,5%. 
+BILANCIO AMBIENTALE 265

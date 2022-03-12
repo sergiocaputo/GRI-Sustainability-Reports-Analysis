@@ -1,0 +1,77 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+AUTODIAGNOSI componenti rilevanti del sistema informativo) insieme alle atti-
+L’Autodiagnosi è il processo annuale attraverso il quale le Uni- vità di analisi e prevenzione svolte dalla funzione Cybersecurity 
+tà Organizzative identiﬁ cano il proprio livello di esposizione al  sono altresì utilizzate per l’identiﬁ cazione delle principali aree di 
+rischio operativo attraverso la valutazione del livello di presidio  esposizione e per l’individuazione degli scenari di rischio cyber.
+degli elementi caratterizzanti il proprio contesto operativo (Va-
+lutazione del Contesto Operativo, VCO) e la stima delle perdite  MODELLO INTERNO PER LA MISURAZIONE DEL RISCHIO 
+potenziali in caso di accadimento di eventi operativi potenzial- OPERATIVO
+mente dannosi (Analisi di Scenario, AS). La valutazione tiene  Il modello interno di calcolo dell’assorbimento patrimoniale del 
+conto delle aree di criticità individuate e degli eventi operativi  Gruppo è concepito in modo da combinare tutte le principali 
+effettivamente occorsi. Tale assessment non sostituisce speciﬁ - fonti informative sia di tipo quantitativo (perdite operative: 
+che rilevazioni di rischio effettuate dalle funzioni specialistiche  even ti interni ed esterni) che qualitativo (Autodiagnosi: Analisi 
+e di controllo nell’ambito delle proprie competenze (es. valu- di Scenario e Valutazione del Contesto Operativo).
+tazioni effettuate dal Chief Audit Ofﬁ cer, dal Dirigente Prepo-
+sto e dal Chief Compliance Ofﬁ cer), ma consente di portare  Il capitale a rischio è quindi individuato come la misura mini-
+all’attenzione delle funzioni interessate le valutazioni emerse  ma, a livello di Gruppo, necessaria per fronteggiare la massima 
+nel corso del processo e di discutere tali evidenze con il respon- perdita potenziale; è stimato utilizzando un modello di Loss Di-
+sabile dell’Unità Organizzativa interessata. stribution Approach (modello statistico di derivazione attuariale 
+per il calcolo del Value at Risk delle perdite operative), applicato 
+La rilevazione delle criticità operative consente di procedere  sia ai dati quantitativi sia ai risultati dell’analisi di scenario su un 
+all’individuazione e alla deﬁ nizione di adeguate azioni di mi- orizzonte temporale di un anno, con un intervallo di conﬁ den-
+tigazione la cui attuazione è monitorata nel tempo al ﬁ ne di  za del 99,90%. La metodologia prevede inoltre l’applicazione 
+ridurre l’esposizione al rischio operativo. di un fattore di correzione, derivante dalle analisi qualitative 
+sulla rischiosità del contesto operativo (VCO), per tenere conto 
+RISCHIO INFORMATICO E CYBER dell’efﬁ cacia dei controlli interni nelle varie Unità Organizzative.
+Per rischio informatico si intende il rischio di incorrere in perdite 
+economiche, di reputazione e di quote di mercato, in relazione  La componente di mitigazione assicurativa del modello inter-
+all’utilizzo di tecnologia dell’informazione e della comunicazio- no è stata autorizzata da Banca d’Italia nel 2013 e ha espli-
+ne. Nella rappresentazione integrata dei rischi aziendali a ﬁ ni  cato i suoi beneﬁ ci gestionali e sul requisito patrimoniale con 
+prudenziali tale tipologia di rischio è considerata, secondo gli  pari decorrenza.
+speciﬁ ci aspetti, tra i rischi operativi, reputazionali e strategici e 
+include il rischio di violazione delle caratteristiche di riservatez- Fideuram - Intesa Sanpaolo Private Banking, coerentemen-
+za, integrità o disponibilità delle informazioni. te con il framework di Intesa Sanpaolo, ha la responsabilità 
+dell’individuazione, della valutazione, della gestione e della 
+In linea con il quadro metodologico deﬁ nito per il governo dei  mitigazione dei rischi; al suo interno sono individuate le funzio-
+rischi aziendali e, in particolare, per i rischi operativi, il model- ni, coordinate dall’Operation Risk Management di Fideuram, 
+lo di gestione del rischio informatico del Gruppo è sviluppato  responsabili dei processi di Operational Risk Management (rac-
+in ottica di integrazione e coordinamento delle competenze  colta e censimento strutturato delle informazioni relative agli 
+speciﬁ che delle strutture coinvolte. eventi operativi, esecuzione dell’analisi di scenario e della valu-
+tazione della rischiosità associata al rischio operativo). 
+Annualmente le Funzioni Tecniche (es: Direzione Centrale Si-
+stemi Informativi, funzioni IT delle principali Subsidiary italia- Fideuram ha deﬁ nito una governance del processo di gestio-
+ne ed estere) e la Funzione Cybersecurity identiﬁ cano il livello  ne dei rischi operativi nell’ambito della quale sono individuate 
+di esposizione al rischio informatico (e al rischio di sicurezza  le diverse responsabilità:
+informatica in esso ricompreso) degli asset informatici gestiti 
+•  il Consiglio di Amministrazione con funzione di individua-
+attraverso la valutazione (top-down) del livello di presidio dei 
+zione e supervisione strategica delle politiche di gestione del 
+Fattori di Rischio di competenza. Oltre a tale analisi, svolta con 
+rischio e della funzionalità nel tempo, in termini di efﬁ cienza 
+riferimento al complesso degli ambiti applicativi e dei processi 
+ed efﬁ cacia, del sistema di gestione e controllo dei rischi 
+aziendali, in presenza di situazioni che possono modiﬁ care il 
+operativi; esso delibera il rispetto dei requisiti previsti per la 
+complessivo livello di rischio ovvero in caso di progetti innova-
+determinazione del requisito patrimoniale;
+tivi o modiﬁ che a componenti rilevanti del Sistema Informati-
+vo, le Funzioni Tecniche e la Funzione Cybersecurity identiﬁ - •  il Comitato Coordinamento Controlli, con funzione di con-
+cano il livello di esposizione al rischio informatico di speciﬁ che  trollo dell’adeguatezza e della rispondenza ai requisiti nor-
+componenti del sistema informativo. mativi del sistema di gestione e controllo dei rischi operativi;
+•  la Revisione Interna, con la responsabilità della veriﬁ ca pe-
+A tale assessment si afﬁ anca, nell’ambito del processo di Au- riodica del sistema di gestione dei rischi operativi nonché 
+todiagnosi, la valutazione (bottom-up) condotta dalle singole  della relativa informativa agli Organi aziendali;
+Unità Organizzative del Gruppo, le quali analizzano la propria 
+•  il Comitato Rischi Operativi, che è l’organo consultivo che 
+esposizione al rischio informatico esprimendo un giudizio sul 
+analizza la reportistica relativa al proﬁ lo di rischio operativo 
+livello di presidio dei fattori di rischio rilevanti a tale scopo (es. 
+e propone eventuali azioni da intraprendere per la preven-
+riferiti all’adeguatezza dei software, all’operatività dell’Unità 
+zione/mitigazione dei rischi operativi;
+medesima, ecc.).
+•  l’ORM Decentrato (collocato nell’ambito del Chief Risk Of-
+Le informazioni rivenienti dai processi deﬁ niti ai ﬁ ni dell’iden- ﬁ cer di Fideuram) che è responsabile della strutturazione e 
+tiﬁ cazione e della valutazione dell’esposizione al rischio infor- del mantenimento dell’insieme delle attività previste dal si-
+matico (delle procedure in esercizio o connesso a modiﬁ che a  stema di gestione dei rischi operativi.
+360 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

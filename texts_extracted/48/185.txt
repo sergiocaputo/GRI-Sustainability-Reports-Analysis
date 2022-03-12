@@ -1,0 +1,46 @@
+184 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+However, due to the complexity and uncertainty affecting  than market condition are considered external to this val-
+the above mentioned items, future events and actions,  uation. The probability that these conditions are satisfied, 
+actual results ultimately may differ from those estimates,  combined with the estimated fair value of the right to ob-
+possibly significantly.  tain free shares, defines the overall plan cost. 
+Further information on the process used to determine  The cost is charged to the profit and loss account and, as 
+assumptions affecting the above mentioned items and  a double-entry, to equity during the vesting period, taking 
+the main risk factors are included in the paragraphs on  into account, where possible, the probability of satisfac-
+accounting principles and in the risk report. tion of the vesting condition related to the rights granted.
+The charge or credit to the profit or loss for a period repre-
+Share based payments
+sents the change in cumulative expense recognised as at 
+the beginning and end of that period. 
+The stock option plans granted by the Board in past pe-
+riods configure as share based payments to compensate  No expense is recognised for awards that do not ultimate-
+officers and employees. The fair value of the share options  ly vest, except for equity-settled transactions for which 
+granted is estimated at the grant date and is based on  vesting is conditional upon a market or a non-vesting con-
+the option pricing model that takes into account, at the  dition. These are treated as vested irrespective of wheth-
+grant date, factors such as the exercise price and the life  er or not the market or non-vesting condition is satisfied, 
+of the options, the current price of the underlying shares,  provided that all other performance and/or service condi-
+the expected volatility of the share price, the dividends ex- tions are satisfied.
+pected on the shares and the risk-free interest rate as well 
+as the specific characteristics of the plan itself. The pricing  When the terms of an equity-settled award are modified, 
+model is based on a binomial simulation that takes into  the minimum expense to be recognised is the expense 
+account the possibility of early exercise of the options. If  had the terms had not been modified, only if the original 
+present, the pricing model estimates separately the option  terms of the award are met.
+value and the probability that the market conditions are 
+satisfied. Therefore, the abovementioned values deter- An additional expense is recognized for any modification 
+mine the fair value of equity instruments granted.  that increases the total fair value of the share-based pay-
+ment transaction, or is otherwise beneficial to the employ-
+Long term incentive plans, aimed at strengthening the  ee as measured at the date of modification.
+bond between the remuneration of management and ex-
+pected performance in accordance with the Group stra- When an equity-settled award is cancelled, it is treated as 
+tegic plan, as well as the link between remuneration and  if it vested on the date of cancellation, and any expense 
+generation of value in comparison with peers, are also  not yet recognised for the award is recognized immedi-
+treated as an equity-settled share-based payment. ately. This includes any award where non-vesting condi-
+tions within the control of either the entity or the employee 
+The fair value of the right to obtain free shares in rela- are not met. However, if a new award is substituted for 
+tion to market condition is assessed at grant date and is  the cancelled award, and designated as a replacement 
+based on a model that takes into account factors such as  award on the date that it is granted, the cancelled and new 
+historical volatility of the Generali share price and of the  awards are treated as if they were a modification of the 
+peer group, the correlation between these shares, the div- original award, as described in the previous paragraph.
+idends expected on the shares, the risk-free interest rate 
+as well as the specific characteristics of the plan itself. The  The dilutive effect of outstanding options is reflected as 
+pricing model is based on simulation models generally  additional share dilution in the computation of diluted 
+used for this type of estimation. Other conditions different  earnings per share.

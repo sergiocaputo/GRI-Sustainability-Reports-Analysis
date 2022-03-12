@@ -1,0 +1,47 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Gerarchia del fair value 
+Gerarchia del fair value
+31.12.2017 31.12.2016
+Descrizione
+(milioni di euro) Livello 1 Livello 2 Livello 3 Totale Livello 1 Livello 2 Livello 3 Totale
+Attività finanziarie
+Investimenti disponibili 
+129.465  5.418  922  135.805  122.497  4.958  788  128.243 
+per la vendita
+Azioni 17  4  42  63  16  77  32  125 
+Titoli a reddito fisso 129.448  4.942  -    134.390  122.474  3.624  -    126.098 
+Altri investimenti -    472  880  1.352  7  1.257  756  2.020 
+Strumenti finanziari al 
+6.796  21.788  754  29.338  10.094  14.635  174  24.903 
+fair value rilevato a C/E
+Azioni 58  -    -    58  -    -    -    -   
+Titoli a reddito fisso 6.212  8  -    6.220  9.535  31  -    9.566 
+Obbligazioni strutturate -    546  -    546  -    992  -    992 
+Altri investimenti 526  21.234  754  22.514  559  13.612  174  14.345 
+Strumenti finanziari 
+-    579  -    579  -    424  -    424 
+derivati
+Attività non correnti 
+e gruppi di attività in  -    -    -    -    793  123  -    916 
+dismissione
+Totale 136.261  27.785  1.676  165.722  133.384  20.140  962  154.486 
+Al 31 dicembre 2016 nella voce attività non correnti e gruppi di attività in dismissione era indicato l’ammontare degli strumenti 
+finanziari al fair value detenuti dalle società BdM-MCC S.p.A. e BancoPosta Fondi SGR S.p.A..
+Di seguito si riportano i trasferimenti tra livello 1 e livello 2, interamente riferibili al Gruppo assicurativo Poste Vita:
+Trasferimenti netti tra Livello 1 e 2 al 31 dicembre 2017
+Da Livello 1 a Livello 2 Da Livello 2 a Livello 1
+Descrizione 
+(milioni di euro) Livello 1 Livello 2 Livello 1 Livello 2
+Trasferimenti Attività finanziarie (687) 687  352  (352)
+Investimenti disponibili per la vendita
+Azioni -    -    -    -   
+Titoli a reddito fisso (674) 674  273  (273)
+Altri investimenti -    -    -    -   
+Strumenti finanziari al fair value rilevato a C/E
+Titoli a reddito fisso -    -    24  (24)
+Obbligazioni strutturate -    -    -    -   
+Altri investimenti (13) 13  55  (55)
+Trasferimenti netti (687) 687  352  (352)
+202

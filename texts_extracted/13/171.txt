@@ -1,0 +1,41 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+misurazione. Uno strumento finanziario è considerato quotato in un mercato attivo se 
+i prezzi quotati sono prontamente e regolarmente disponibili sul mercato (inteso come 
+piattaforma di negoziazione, dealer o broker) regolamentato e tali prezzi rappresentano 
+operazioni di mercato effettive che avvengono regolarmente in normali contrattazioni. 
+Qualora le quotazioni di mercato o altri input osservabili non risultino disponibili si ricorre 
+a modelli valutativi alternativi (mark to model).
+Il Gruppo utilizza metodi di valutazione in linea con i metodi generalmente accettati e 
+utilizzati dal mercato.
+I modelli di valutazione includono tecniche basate sull’attualizzazione dei flussi di cassa 
+futuri (e sulla stima della volatilità) e sono oggetto di periodica revisione al fine di 
+garantirne la piena coerenza con gli obiettivi della valutazione.
+A.4.3 Gerarchia del fair value
+Il principio IFRS13 stabilisce una gerarchia del fair value in funzione del grado di 
+osservabilità degli input e dei parametri utilizzati per addivenire alle valutazioni. Sono 
+previsti, in particolare, tre livelli:
+  Livello 1: il FV degli strumenti classificati in questo livello è determinato in base a 
+prezzi di quotazioni osservati su mercati attivi;
+  Livello 2: il FV degli strumenti classificati in questo livello è determinato in base a 
+modelli valutativi che utilizzano in maniera prevalente input osservabili in mercati 
+attivi;
+  Livello 3: il FV degli strumenti classificati in questo livello è determinato sulla 
+base di modelli valutativi che utilizzano prevalentemente significativi input non 
+osservabili su mercati attivi.
+Il Gruppo adotta una policy per il riconoscimento del livello di fair value delle singole 
+posizioni. La policy stabilisce le regole sia per la definizione di “mercato attivo”, sia per 
+la conseguente procedura operativa di valorizzazione dei portafogli col fine di annullare 
+ogni discrezionalità nell’individuazione dei livelli. I titoli non appartenenti alle categorie 
+precedenti sono considerati appartenenti ad un mercato non attivo. Sono esclusi da 
+questa definizione i titoli a copertura delle polizze di ramo terzo per cui sussiste un 
+patto di riacquisto con l’emittente. La funzione di Risk Management, nell’ambito delle 
+attività di coordinamento per tutte le società del Gruppo, fornisce il proprio supporto 
+metodologico e/o operativo alle corrispondenti strutture di risk delle società del 
+conglomerato anche in materia di definizione di mercato attivo. 
+Si considerano quotati in un mercato attivo:
+  titoli negoziati su mercati regolamentati italiani (es. MTS, MOT);
+  titoli negoziati su sistemi di scambi organizzati autorizzati o riconosciuti dalla 
+Consob (detti MTF) per i quali sia stata determinata la significatività di prezzo 
+tramite procedura descritta di seguito;
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 172

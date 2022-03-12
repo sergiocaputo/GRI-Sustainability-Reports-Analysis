@@ -1,0 +1,45 @@
+33
+2.6 SISTEMA DI CONTROLLO INTERNO E GESTIONE DEI RISCHI (SCIGR)
+[GRI 102-30]
+Nello svolgimento delle proprie attività, FNM S.p.A. e il Gruppo sono esposti a rischi e incertezze 
+esterne derivanti da fattori esogeni connessi al contesto macroeconomico, oltre a quelli specifici 
+dei settori operativi in cui si sviluppano le operation, a cui si aggiungono i rischi derivanti da 
+scelte strategiche e quelli interni di gestione1.
+FNM S.p.A. nel corso del 2014 ha predisposto e adottato, quale parte integrante del proprio 
+Sistema di Controllo Interno e di Gestione dei Rischi, un processo di Risk Management finalizzato 
+all’individuazione e alla gestione delle diverse tipologie di rischio.
+Lo scopo principale del processo è quello di adottare un approccio sistematico all’individuazione 
+dei rischi prioritari e a valutarne i potenziali effetti negativi per intraprendere le opportune 
+azioni di mitigazione.  La metodologia di progetto seguita è in linea con quanto indicato dalla 
+norma UNI ISO 31000:20102. La gestione dei rischi si articola in tre livelli di controllo:
+1 Controllo di primo livello (Management - risk owner)
+Costituito dalle attività di controllo poste in essere dalle unità operative per garantire il corretto 
+svolgimento delle operazioni di competenza. La responsabilità di questo livello è attribuita al 
+management operativo che, nel corso dell’operatività giornaliera identifica, misura, valuta, 
+gestisce e riporta i rischi derivanti dallo svolgimento dell’attività di propria competenza.
+2 Controlli di secondo livello
+Costituiti dal presidio dei processi di individuazione, valutazione, gestione e controllo dei rischi. 
+Rientrano in questo livello il Controllo di Gestione, il Dirigente Preposto, la funzione Risk 
+Management e Sistemi di gestione, il Risk Committee e il Risk Manager.
+3 Controllo di terzo livello
+Costituito dalle funzioni indipendenti che forniscono l’assurance complessiva sul disegno e sul 
+funzionamento del sistema dei controlli interni e gestione dei rischi. Appartiene a questo livello 
+la funzione di Internal Audit e Risk Management. Dalla Relazione sul governo societario e gli 
+assetti proprietari non si evidenziano aspetti critici riscontrati.
+In continuità con il processo di valutazione dei rischi realizzato nel 2015, nel corso del 2017 si è 
+concluso il progetto “Operational Risk Assessment” con l’obiettivo di garantire una migliore 
+comprensione dei rischi, identificare le azioni correttive e valutare eventuali margini di miglioramento 
+degli attuali programmi di copertura assicurativa in essere. Il progetto ha consentito il raggiungimento 
+dei seguenti risultati:
+a) follow-up dei rating assegnati ai rischi già mappati;
+b) integrazione del registro dei rischi con nuovi scenari emersi da attività di benchmark;
+c) identificazione dei 33 top risk;
+d) follow-up delle azioni di mitigazione;
+e) identificazione degli strumenti di mitigazione (operativi, contrattuali, assicurativi) per i top 
+risk identificati.
+I risultati emersi dall’attività e la relazione annuale, redatta dal Risk Manager sono stati presentati 
+al Risk Committee a maggio 2017 e al Comitato Controllo e Rischi a luglio 2017.
+1   I rischi legati alle tematiche materiali di sostenibilità sono presentati nelle relative sezioni del Bilancio di Sostenibilità, in 
+aggiunta alle azioni di mitigazione messe in atto.
+2  La norma UNI ISO 31000 “Gestione del rischio principi e linee guida”, propone un approccio metodologico da utilizzare 
+nell’applicare il processo di gestione dei rischi aziendali.

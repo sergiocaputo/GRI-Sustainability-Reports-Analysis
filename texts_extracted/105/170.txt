@@ -1,0 +1,55 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017
+2. Modalità di presentazione dei bilanci, metodologie e principi contabili applicati 
+di valutazione, ove la qualità creditizia dello strumento finanziario abbia subito un deterioramento “significativo” rispet-
+to alla misurazione iniziale (stage 2) o nel caso risulti “impaired” (stage 3).
+iii. General Hedge accounting; parzialmente modificato rispetto alle disposizioni dello IAS 39. Tra le principali novità 
+introdotte, particolare rilievo rivestono: l’ampliamento del novero delle fattispecie cui può essere applicato l’hedge 
+accounting; la verifica dell’efficacia della copertura, solo prospettica; l’introduzione della facoltà di modificare il rap-
+porto di copertura senza interrompere il preesistente (cd. rebalancing).
+Per quanto riguarda le passività finanziarie, non vengono introdotte sostanziali variazioni rispetto allo IAS 39 in merito 
+alla loro classificazione e valutazione. L’unica novità è rappresentata dal trattamento contabile dell’own credit risk: per 
+le passività finanziarie designate al fair value (cd. passività in fair value option) lo standard prevede che le variazioni di 
+fair value delle passività finanziarie attribuibili alla variazione del proprio rischio di credito siano rilevate a patrimonio 
+netto, a meno che tale trattamento non crei o ampli un’asimmetria contabile nell’utile d’esercizio, mentre l’ammontare 
+residuo delle variazioni di fair value delle passività deve essere rilevato a conto economico.
+Modifiche all’IFRS 15 - Ricavi provenienti da contratti con i clienti - Chiarimenti dell’IFRS 15, adottate con Regolamento 
+(UE) n. 1987/2017. Introducono alcune precisazioni sulla nuova disciplina dei ricavi, e un’ulteriore agevolazione applicativa 
+per le imprese che transitano al principio in base al metodo retrospettico modificato. 
+Modifiche all’IFRS 4 - Applicazione congiunta dell’IFRS 9 Strumenti finanziari e dell’IFRS 4 Contratti assicurativi, adottate 
+con Regolamento (UE) n. 1988/2017. Forniscono indicazioni nella gestione dello sfasamento temporale tra la data di entrata 
+in vigore dell’IFRS 9 e la data di entrata in vigore del nuovo principio contabile sui contratti assicurativi (IFRS 17) che sostituirà, 
+presumibilmente a partire dal 1° gennaio 2021, l’IFRS 4. 
+In particolare, per effetto di tali nuove disposizioni, è concessa alle compagnie di assicurazione la possibilità di:
+a. avvalersi di un’esenzione temporanea dall’applicazione dell’IFRS 9, che permetta di continuare ad applicare lo IAS 
+39 sino al 1° gennaio 2021. Tale esenzione è tuttavia concessa nei limiti in cui le attività della compagnia siano pre-
+valentemente connesse all’assicurazione ; ovvero
+b. applicare il cd. overlay approach, in base al quale è sospesa nel Conto economico complessivo la differenza tra l’uti-
+le/(perdita) generato dalle “Attività finanziarie designate al fair value a Conto economico” in regime di IFRS 9, e l’utile/
+(perdita) generato dalle stesse in regime di IAS 39. Tale sospensione garantirebbe l’omogeneità dell’effetto a Conto 
+economico delle attività finanziarie in commento, a prescindere dal regime contabile di riferimento.
+Ciclo Annuale di Miglioramenti agli IFRS 2014 - 2016, adottato con Regolamento (UE) n. 182/2018 nell’ambito del 
+progetto annuale di miglioramento e rivisitazione generale dei principi contabili internazionali. I principi contabili impattati dalle 
+modifiche apportate dal presente Regolamento, applicabili dal 1° gennaio 2018, sono lo IAS 28 – Partecipazioni in società 
+collegate e joint venture e l’IFRS 1 - Prima adozione degli International Financial Reporting Standard.
+Modifiche all’IFRS 2 – Pagamenti basati su azioni adottate con Regolamento (UE) n. 289/2018. Il Regolamento introdu-
+ce alcune modifiche formali e esemplificazioni, nell’ottica di agevolare la comprensione delle fattispecie già disciplinate dal 
+principio, e fornisce alcune specifiche sul trattamento contabile delle condizioni di maturazione e non maturazione nei casi 
+di operazioni con pagamento basato su azioni regolato per cassa. A complemento della trattazione, è fornita ex novo la 
+disciplina relativa a “Operazioni con pagamento basato su azioni con caratteristica del regolamento netto per gli obblighi di 
+ritenuta alla fonte”.
+Modifiche allo IAS 40 – Investimenti immobiliari adottate con Regolamento (UE) n. 400/2018. Le modifiche introdotte 
+tendono a chiarire quando un’entità è autorizzata a cambiare la qualifica di un immobile che non era un «investimento immo-
+biliare» come tale o viceversa.
+Quanto di seguito esposto è, invece, applicabile a partire dal 1° gennaio 2019:
+IFRS 16 - Leasing, adottato con Regolamento (UE) n. 1986/2017. Il nuovo principio è teso a migliorare la contabilizzazione 
+dei contratti di leasing, fornendo agli utilizzatori del bilancio elementi utili a valutare l’effetto del leasing sulla situazione patri-
+moniale-finanziaria, sul risultato economico, e sui flussi finanziari del locatario. Tale disciplina comporta una considerevole 
+revisione dell’attuale trattamento contabile dei contatti passivi di leasing introducendo, per il locatore, un modello unificato 
+per le diverse tipologie di leasing (sia finanziario che operativo). 
+Le principali disposizioni previste per i bilanci della società locataria sono:
+a. per i contratti in ambito, il bene identificato sarà rappresentato come un asset avente natura di Diritto d’uso, nell’ambito 
+dell’Attivo dello Stato patrimoniale (alla stregua di un asset di proprietà), in contropartita ad una passività finanziaria;
+b. il valore di prima iscrizione dell’asset dovrà essere pari al valore attuale dei pagamenti/canoni periodici contrattual-
+mente previsti per poter disporre del bene;
+169

@@ -1,0 +1,43 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+campionario possono essere attivati sia a valle dello svolgimento 
+dei controlli di tipo massivo sia in logica indipendente da questi 
+ultimi. I controlli in oggetto, essendo focalizzati sulle singole posizioni 
+creditizie, possono comportare l’acquisizione della documentazione a 
+corredo della pratica e valutazioni in merito al valore di realizzo delle 
+garanzie associate all’esposizione creditizia. Nell’ambito dei controlli 
+di tipo campionario, il Risk Management verifica la registrazione nelle 
+procedure automatiche interne di tutte le informazioni necessarie per 
+la valutazione del credito e la tracciabilità del processo di recupero. 
+Inoltre, si effettua la verifica della documentazione disponibile sulla 
+base della quale la struttura competente della valutazione di primo 
+livello ha effettuato la propria analisi.
+In particolare, i controlli di tipo massivo e campionario sono stati definiti al 
+fine di verificare: 
+  Corretto svolgimento del monitoraggio andamentale: l’obiettivo del 
+controllo, effettuato sulle singole posizioni, è di identificare le posizioni 
+performing che presentano anomalie andamentali interne e/o esterne 
+al fine di definire con le strutture di primo livello le azioni correttive 
+più adeguate prevenendo il peggioramento del merito creditizio ed il 
+deterioramento del portafoglio crediti.
+  Corretta classificazione delle posizioni: sulla base delle policy interne 
+di classificazione delle posizioni deteriorate nonché delle regole 
+relative al processo di monitoraggio andamentale, il Risk Management 
+verifica se le regole di classificazione delle posizioni (sia in bonis che in 
+default) sono applicate in modo appropriato sulla base di indicatori in 
+grado di rilevare una potenziale errata classificazione. In particolare, 
+si effettua la valutazione di eventi negativi esterni (es.: Centrale Rischi 
+e CRIF) che determinano un ulteriore peggioramento del merito 
+creditizio della posizione, compresi i segnali che possano condurre 
+a conclamati casi di irrecuperabilità. Nel caso di verifiche sulle 
+singole posizioni, per ciascuna pratica verificata, le valutazioni sono 
+documentate in un commento sintetico nel quale si evidenzia l’esito 
+delle verifiche effettuate.
+  Congruità degli accantonamenti: il Risk Management verifica, per 
+portafogli omogenei di crediti, la corretta applicazione delle logiche 
+di impairment indicate nelle policy interne. Tale verifiche sono 
+effettuate sia a livello massivo considerando la totalità del portafoglio 
+performing/non-performing, sia a livello campionario.
+  Adeguatezza del processo di recupero: la Funzione Risk Management 
+concorre alla definizione del processo di recupero e verifica che 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 602

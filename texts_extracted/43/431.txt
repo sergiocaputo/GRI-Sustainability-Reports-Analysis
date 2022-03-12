@@ -1,0 +1,65 @@
+10. Glossario
+Recessione Rischio di liquidità
+Comunemente indica una prolungata riduzione del PIL. Eco- Rischio che un’entità incontri difﬁ coltà nel reperire fondi per 
+nomicamente indica una decrescita del PIL per almeno due  far fronte agli impegni derivanti dagli strumenti ﬁ nanziari.
+trimestri consecutivi.
+Rischio di mercato
+Regolamenti Comunitari Rischio di perdite su posizioni in bilancio e fuori bilancio che 
+Sono norme direttamente applicabili e vincolanti in tutti gli  possono derivare da sfavorevoli oscillazioni dei prezzi di mer-
+Stati membri dell’Unione Europea senza che sia necessaria al- cato; le variabili che deﬁ niscono le tipologie di rischio in cui 
+cuna normativa di trasposizione nazionale. si articola il rischio di mercato sono: tassi di interesse (rischio 
+di tasso), quotazioni di mercato (rischio di prezzo), tassi di 
+Rendimento cambio (rischio di cambio).
+È il ricavo complessivo di un investimento espresso in percen-
+tuale del capitale investito. Rischio di prezzo
+Rischio che il fair value o i ﬂ ussi ﬁ nanziari futuri di uno strumento 
+Report integrato ﬁ nanziario ﬂ uttuino in seguito a variazioni dei prezzi di mercato 
+È un documento contenente la descrizione delle modalità con  (diverse dalle variazioni deﬁ nite dal rischio di tasso di interesse o 
+cui la governance, il business model, la visione complessiva  dal rischio di cambio), indicate da fattori speciﬁ ci del singolo stru-
+dell’organizzazione e il contesto operativo, le opportunità e i  mento o del suo emittente, o dovute a fattori che inﬂ uenzano 
+rischi, la strategia e i piani di allocazione delle risorse, la per- tutti gli strumenti ﬁ nanziari simili negoziati sul mercato.
+formance e le prospettive future dell’organizzazione portano 
+alla creazione e alla conservazione del valore nel breve, medio  Rischio di regolamento
+e lungo termine. Rischio che si determina nelle transazioni su titoli qualora la 
+controparte, dopo la scadenza del contratto, non adempia 
+Reporting integrato alla propria obbligazione di consegna dei titoli o degli importi 
+Insieme dei processi e delle attività attraverso i quali un’orga- in denaro dovuti.
+nizzazione comunica la propria capacità di creazione e preser-
+vazione del valore nel breve, medio e lungo periodo, integran- Rischio di tasso
+do informazioni ﬁ nanziarie, con strategie, piani di sviluppo  Rischio economico ﬁ nanziario cui è esposta una istituzione 
+futuri, rischi, opportunità, temi legati alla governance e agli  creditizia in relazione ad una variazione dei tassi d’interesse, 
+impatti economici, ambientali e sociali. misurabile in termini di variazioni potenziali dei margini d’in-
+teresse futuri o del valore attuale del patrimonio netto (inteso 
+Rettiﬁ ca di valore come differenza tra il valore attuale delle attività fruttifere e 
+Svalutazione di elementi dell’attivo di bilancio. le passività onerose).
+Return On Asset (ROA) Rischio operativo
+Rapporto tra l’utile netto e il totale attivo di bilancio. Rischio di perdite derivanti dalla inadeguatezza o dalla disfun-
+zione di procedure, risorse umane e sistemi interni, oppure da 
+Return On Equity (ROE) eventi esogeni. Tale deﬁ nizione include il rischio legale.
+Rapporto tra l’utile netto ed il patrimonio netto medio.
+Rischio Paese
+Right of use asset (RoU asset) Insieme di fattori di natura economica, ﬁ nanziaria e politica 
+Individua l’attività, iscritta nell’attivo di stato patrimoniale della  che possono rendere difﬁ coltosa la restituzione dei debiti 
+società locataria, corrispondente al valore del diritto d’uso di un  contratti, da parte di clienti esteri afﬁ dati, indipendentemente 
+bene oggetto di leasing. Requisiti fondamentali per l’iscrizione  dalla loro solvibilità individuale.
+del RoU sono l’identiﬁ cabilità del bene e il diritto di controllarne 
+l’utilizzo e godere dei suoi beneﬁ ci economici futuri. Riserva obbligatoria
+Ammontare minimo che un ente creditizio deve detenere a 
+Ripresa di valore titolo di riserva presso la Banca Centrale Nazionale. L’ottem-
+Ripristino di valore degli elementi dell’attivo svalutati in pre- peranza a tale obbligo viene valutata sulla base della media 
+cedenti esercizi. dei saldi giornalieri su un periodo di mantenimento.
+Rischio di cambio Riserve ufﬁ ciali
+Rischio che il fair value o i ﬂ ussi ﬁ nanziari futuri di uno stru- Le riserve ufﬁ ciali detenute dalle banche centrali consistono 
+mento ﬁ nanziario ﬂ uttuino in seguito a variazione dei cambi. in mezzi di pagamento universalmente accettati, prevalente-
+mente dollari ed oro, a cui si può ricorrere per ﬁ nanziare l’im-
+Rischio di controparte portazione di beni essenziali in caso di crisi o per intervenire 
+Rischio connesso all’eventualità di una perdita dovuta al po- sul mercato dei cambi a sostegno della propria valuta.
+tenziale inadempimento della controparte ai suoi obblighi 
+contrattuali. Risk Management
+Attività di acquisizione, misurazione, valutazione e gestione 
+Rischio di credito globale delle varie tipologie di rischio e delle relative coperture.
+Rischio che una variazione del merito creditizio di una contro-
+parte afﬁ data, nei confronti della quale esiste un’esposizione,  Segment reporting
+generi una corrispondente variazione del valore della posizio- Rendicontazione dei risultati economici per linea di business e 
+ne creditoria. per area geograﬁ ca.
+428 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

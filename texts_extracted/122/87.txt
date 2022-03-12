@@ -1,0 +1,48 @@
+86 Glossario
+THE GLOSSARY
+Cylinder: container in steel or light alloy for  Dispenser: container with vacuum insulated  Severity index: ratio between days of absence 
+compressed, liquefied or dissolved gases. cavity to contain highly refrigerated liquefied  due to injury and hours worked multiplied by 1 
+cryogenic gases characterized and composed  million. It measures the severity of injuries.
+Conditioning: a production operation that  by interception, measurement and safety 
+consists in taking gas from a secondary storage  instruments. Injury: undesired event in the workplace that 
+tank and compressing it in a gaseous or liquid  provokes bodily damage or objectively verifiable 
+state and transferring it to mobile containers.  Air separation: process of separation, by  illness.
+Conditioning also includes the sequence of  distillation, of gas components of the air, 
+operations carried out on the containers from  obtaining liquid and gaseous products. IPPC (Integrated Pollution Prevention and 
+when they arrive at the centre to the storage of  Control): Strategy instituted with European 
+full containers ready for delivery. Medical gases: both gases intended to be  Directive no. 75 of 24/11/2010 "Industrial 
+administered to the patient (such as medical  Emission Directive” (I.E.D.) for minimising the 
+Seveso Directive (2012/18/EU and later  oxygen, oxygen 93%, nitrous of medical  pollution caused by various sources throughout 
+modifications): European standard intended  nitrogen, medical air) and gases not intended for  the EU. All types of installation listed in Appendix 
+to prevent and control the occurrence of major  administration but used for other purposes in the  1 of the Directive must obtain integrated 
+accidents, through the identification of one’s  processing of the same, such as air and nitrogen  authorisation from the authorities of the various 
+sites at risk. for foods or surgical instruments. countries. It is based on the premise that 
+It governs industrial activities that involve the  the failure to adopt a common approach for 
+stocking and/or use of certain quantities of  Global Reporting Initiative (GRI): a multi- controlling emissions into air, water and terrain 
+dangerous substances. stakeholder network instituted in 1997 and  could lead not to a reduction of pollution but to 
+made up of companies, NGOs, associations of  its transfer from one compartment to another.
+Medical Device (DM): any instrument,  accountancy experts, business organisations 
+apparatus, equipment, machine, device, plant,  and other international stakeholders involved  ISO 9001: Recognised standard for Quality 
+reagent in vitro or for calibration, computer  in subjects relating to Corporate Social  Management Systems which provides a 
+software, material or other similar or related  Responsibility. GRI’s mission is to develop, supply  method and reference standards for running an 
+product for use, alone or in culmination, on  and promote global reference guidelines for  organisation in a smart and aware manner for 
+persons for one or more specific purposes  the drawing up of Sustainability Reports that  customer satisfaction.
+of diagnosis, prevention, control, therapy or  describe the economic, environmental and social 
+attenuation of an illness; for diagnosis, control,  impacts that companies or organisations cause  OHSAS 18001/ISO 45001: English standard 
+therapy, attenuation or compensation of a  with their activities. specifying the requirements for a management 
+wound or handicap; for studying, substituting  system for health and safety at work, in order to 
+or modifying anatomy or a physiological  Accident: unexpected event with potential  enable organisations to provide safe and healthy 
+process; for intervening on conception where  harmful effect to oneself, other people or third- workplaces, preventing work-related injuries 
+the main desired action in or on the human  party objects. and illnesses and proactively improving its 
+body is not carried out with pharmacological or  performance. The standard has been superseded 
+immunological means or through metabolism,  Major accident: event such as a serious spill, fire  by the publication of the international standard 
+but whose function can be aided by these  or explosion due to uncontrolled developments  ISO 45001 which will definitely repeal it in 
+means. in activities in the presence or use of dangerous  2021, the date on which the transition of the 
+substances, that could cause grave danger for  management systems from OHSAS 18001 to 
+EMAS (Eco-Management and Audit  human health or the environment. ISO 45001 will have to be completed.
+Scheme): Regulation 761/2001 of the 
+European Community. A voluntary instrument  Frequency index: ratio between the number  ISO 13485 (Medical devices – quality 
+for implementing Community Environmental  of accidents and hours worked multiplied by 1  management systems): a standard specifically 
+Policy aimed at continually improving the  million. It measures the frequency of accident  aimed at companies operating in the medical 
+environmental performance of the companies  occurrence. sector such as SOL, designed for those who apply 
+and businesses adopting it. targeted quality controls to medical devices.

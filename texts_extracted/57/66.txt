@@ -1,0 +1,46 @@
+Relazione sulla gestione
+interbancarie addebitabili dal PSP emittente la carta (issuer) al PSP che convenziona l’esercente (acquirer) ogniqual-
+volta il consumatore effettua un pagamento basato su carta.
+A ﬁne del 2017, nelle more della pubblicazione del Decreto di recepimento della Direttiva PSD2 nonché dell’ade-
+guamento delle disposizioni nazionali al Regolamento IFR, la Banca, attraverso la partecipazione ai Working Group, 
+ha condotto le attività di identiﬁcazione dei gap normativi e delle relative aree di intervento ed avviato le attività di 
+deﬁnizione degli interventi procedurali e di processo volti a garantire gli adempimenti normativi previsti.
+MiFID II
+Nel 2017 la Banca ha avviato le attività implementative atte a traguardare la conformità normativa della stessa entro 
+il termine regolamentare del 3 gennaio 2018 e, al contempo, migliorarne la competitività sul mercato.
+Gli interventi implementativi prioritari sono riconducibili alle seguenti aree tematiche: a) Product Governance; b) 
+Consulenza; c) Formazione; d) Offerta Fuori Sede.
+a)  Product Governance. l’implementazione informatica ha consentito di riportare a livello di singolo ISIN le infor-
+mazioni sul Target Market utili ad effettuare le veriﬁche di adeguatezza in tema di coerenza con il Target Market 
+nell’ambito del processo di raccomandazione della piattaforma di consulenza. Nel corso del 2018 saranno termina-
+te le attività connesse al caricamento delle informazioni sul Target Market che potranno essere anche attinte dai 
+produttori sulla base di un ﬂusso informatico strutturato sulla base di un form elaborato a livello Europeo (EMT).
+b)  Consulenza. Gli interventi effettuati sono stati di tipo i) strategico e quindi connessi alla revisione delle modalità 
+di erogazione del servizio di consulenza con il ﬁne di conseguire un miglior posizionamento sul mercato ii) di 
+Adeguamento alla MiFID II, sostanzialmente connessi alle implementazione dei controlli di adeguatezza in tema 
+di Target Market, prodotti equivalenti e analisi costi beneﬁci in termini di switch.
+c)  Formazione. La Banca ha avviato, per i consulenti adibiti alla prestazione dei servizi di investimento, percorsi 
+formativi utili all’ottenimento delle certiﬁcazioni di possesso dei requisiti ESMA previsti.
+d)  Offerta Fuori Sede. Al ﬁne di garantire che l’attività dei consulenti ﬁnanziari abilitati all’offerta fuori sede si svolga 
+all’interno di un adeguato alveo organizzativo si è reso necessario istituire una speciﬁca unità operativa.
+AIRB
+In linea con quanto già realizzato dalle più grandi banche italiane ed europee, nel corso del 2017 il Gruppo BPB ha 
+avviato, in pool con alcune banche del polo Cedacri, un Progetto avente come obiettivo lo sviluppo di un sistema di 
+Rating Interno. 
+Il progetto, ﬁnalizzato al miglioramento della qualità del credito, prevede la presentazione dell’istanza di validazione 
+all’Autorità di Vigilanza così da conseguire beneﬁci in termini di assorbimenti patrimoniali di capitale.
+Le attività di sviluppo e update dei modelli di Rating Interni vengono svolte in collaborazione con Cedacri e con altre 
+tre banche appartenenti al Pool, permettendo di utilizzare un più ampio dataset di informazioni e, pertanto, di otte-
+nere stime più robuste e stabili nel tempo.
+In maniera coerente e coordinata con l’avanzamento del piano di lavoro del Pool, vengono, invece, condotte all’inter-
+no della Banca le attività necessarie per l’adeguamento al sistema di Rating Interno in ottica gestionale e in ottica re-
+golamentare. In particolare, sono state avviate le attività di adeguamento al quadro regolamentare, con riferimento 
+alla normativa interna, allo sviluppo di nuovi processi, all’adeguamento dei processi in essere e alle implementazioni 
+procedurali.
+L’opportunità di avviare un processo di convalida AIRB permetterà alle banche del Gruppo di migliorare in maniera 
+rilevante i processi allo scopo di identiﬁcare e gestire il rischio di credito e di rafforzare la governance sui processi di 
+credito, grazie a risorse e conoscenze condivise e ad una maggiore rilevanza sistemica, con ricadute positive sugli 
+assorbimenti patrimoniali.
+Il progetto è suddiviso in step e prevede, come primo rilascio, un sistema di Rating Interno relativo al segmento 
+regolamentare Corporate e i successivi rilasci ai segmenti Retail (Imprese e Privati). 
+66

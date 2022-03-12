@@ -1,0 +1,58 @@
+Consumption of electricity, water and methane is also monitored; as regards electricity, 
+in particular, the withdrawal curves are available for download from the portal of the 
+energy supplier, whose progress can also be observed at group level, through the GIP 
+purchasing function. Unfortunately, it is still necessary to implement the setting up of 
+separate metres by type of user (lighting, reefer units, equipment), which would allow 
+targeted analysis to be carried out and to evaluate the incidence of the actions taken, 
+the effect of which is drowned in general consumption, which in recent years was 
+affected by the increase in temperature-controlled containers.
+Replacement of lights typology
+With regard to the operating area, the result of the work carried out between 2016 and 
+2019 is reported below.
+• RMGs: in the two-year period 2016-2017, 20 new LED projectors were mounted on 
+each of the 6 revamped cranes, which absorb a power of 138W, while previously 
+each crane was equipped with 24x250W projectors on the fixed structure and 
+5x400W under the trolley, all of the SON-T high pressure sodium vapor type. Savings 
+achieved around 31kW.
+• SSGCs (PT): 22 projectors are mounted on the quay cranes: 6 under the carriage, 
+7 on the fixed beam, 5 on the mobile boom and 4 on the lower crossbars used as 
+street lighting for port tractors. These were all 1000W SON-T sodium vapor lamps 
+nonetheless, after having tested the suitability for the operators, the 6 ones on the 
+trolley and the 4 on the crossbars were largely replaced with Storm Marine LED 235W 
+diffused light projectors in 2019 on each crane. Savings achieved around 38kW.
+• Lighting  towers  (TF):  originally  11  light  towers  were  located  in  the  terminal, 
+equipped with 100 traditional 1000W SON-T projectors (total power 100 kW). Since 
+2017, replacement interventions have been completed with the modernisation of 
+the light towers and, in 2019, work was also done on the projectors. At the end of 
+Y
+T
+the interventions in the terminal there are 9 LED light towers that mount a total of  BILI
+A
+80x455W LED projectors, to which must be added 2 that still mount 15 traditional  N
+AI
+T
+floodlights. The power was therefore reduced to 51.4 kW with a saving of 68.6 kW. US
+AL S
+As regards the office area, during 2018 the terminal concluded the replacement of the  T
+N
+E
+neon lights used for internal lighting with 36W and 18W powers in both buildings. The  M
+N
+O
+intervention concerned all the ceiling lights with fluorescent tubes, which were replaced  R
+VI
+with LED technology tubes. The 10 250W SON-T projectors of the administrative building  EN
+roof with 145W LED (saving about 1kW) and those of the company parking lot (18 
+mercury vapor lights of 150W with 16 LED of 120W plus 4 of 145W) were simultaneously 
+replaced with a saving of about 200W.
+Replacement of vehicles and equipment
+Since 2015, SECH fleet has been progressively integrated with four new reachstackers, 
+model CVS F500 series, whose salient feature is to be eco-compatible, since they are 
+designed to reduce NO nitrogen oxide emissions at the exhaust, through the Selective 
+x
+Catalytic Reduction system (SCR), which works by adding urea to the exhaust gases. 
+For this reason the reachstackers must be periodically supplied with a liquid called 
+“DEF” Diesel Exhaust Fluid - reducing liquid (urea) - which is therefore stored in a tank, 
+located at yard, in front of the workshop. Instead, the replacement of the washing 
+system with a more modern and efficient one is scheduled for 2020.
+SECH • TDT 2019 Sustainability Report | 123 

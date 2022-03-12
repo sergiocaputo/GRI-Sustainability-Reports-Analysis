@@ -1,0 +1,59 @@
+Alperia Sustainability Report 2019 
+Cyber Security 
+  
+103-1 Explanation and definition  
+Management has identified the topic of IT security as relevant in the context of the materiality analysis. Alperia 
+contributes directly to collected data security management through its commercial activity in the markets. In 
+relation to data security and protection, the group has set up a specific unit that reports on activities and 
+measures. Information security protects Alperia’s know-how and the integrity of management systems, 
+safeguarding the general public’s peace of mind and ensuring the supply of electricity, gas and heat to the 
+community. The group defines the boundary of information security as the set of all the boundaries that derive 
+from the different areas involving IT and business. Specifically, these are the following boundaries and 
+operating environments: data centres, cloud computing, Wi-Fi, mobile and local networks, Internet of Things, 
+production plants, distribution plants, telecommunications, smart grids, transmission systems and fixed-line 
+and mobile devices. Specific limitations derive from the business organisational structure of the various BUs 
+and areas each with their own specific needs. 
+ 
+103-2 The management approach and its components  
+Management approaches include, among other things, certifications such as ISO 27001 and business 
+continuity plans (INS-212. 01 Business Continuity – Disaster Recovery IT), the plans for the prevention of 
+security threats (INS-105. 02 Information risk management, INS-220. 11 IT vulnerability management), etc. 
+The management approach aims to establish state-of-the-art data protection and security standards, and to 
+prevent negative impacts inside and outside the company as far as possible. Tools for this purpose include 
+ISO 27001 and the team capable of providing a professional response in the event of a cyber-attack (INS-
+220.10 Incident Handling IT). Alperia has defined internal managers (e.g. Security Officer) who coordinate 
+security-related projects; the DPO (Data Protection Officer) oversees the implementation of the GDPR 
+(General Data Protection Regulation) and monitors compliance. The group also participates in national safety 
+conferences (e.g. CLUSIT) and promotes the training and continuous updating of its employees on the subject 
+of security and data protection. 
+ 
+103-3 Evaluation of the management approach  
+Evaluation of the management approach. Management systems are evaluated on a regular basis (from daily 
+to annually). For example, since 2015, the ISO 27000 certification has been assessed annually by an external 
+auditor. The effectiveness of management systems is also regularly reviewed and monitored on the basis of 
+set indicators and procedures. The necessary adjustments are constantly implemented throughout the year, if 
+and when required. 
+ 
+ 
+EMPLOYEES  
+ 
+Employee Development  
+ 
+103-1 Explanation and definition  
+This topic was identified as essential both in terms of impact and by stakeholders. With a staff of over 1.000 
+employees, the Alperia Group is one of South Tyrol’s largest employers, active in all areas of the energy sector, 
+from production and distribution to the sale of energy and innovative services. This activity has direct and 
+indirect impact both inside and outside the company.  
+ 
+103-2 The management approach and its components  
+The energy sector is constantly evolving, with increasing demands. Within this context, the specialisation and 
+qualification of employees is fundamental. To prevent any shortage of skilled labour resulting from the 
+numerous upcoming staff retirements, Alperia is intensifying partnerships with universities and secondary 
+schools. It also pursues the objective of ensuring regular training and further training of its staff. In order to 
+increase satisfaction and performance, reduce fluctuations and ensure high quality work, Alperia is committed 
+to supporting its employees in various ways. In addition to promoting health in the workplace, the company 
+offers measures to improve compatibility between work and family life, such as flexible working hours and 
+various models of part-time working. Responsibilities have been defined within the company. The family and 
+work audit was also maintained for 2019, with the aim of renewing it again in 2020. 
+ 
+  127 

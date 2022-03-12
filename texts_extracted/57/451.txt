@@ -1,0 +1,47 @@
+Bilancio Consolidato 2017
+Sezione 8 – Derivati di copertura – Voce 80
+(cid:27)(cid:17)(cid:20)(cid:3)(cid:39)(cid:72)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:87)(cid:76)(cid:83)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:68)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:3)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:76)(cid:89)(cid:72)(cid:79)(cid:79)(cid:76)
+FV  31/12/2017  FV  31/12/2016 
+VN  VN 
+31/12/2017  31/12/2016 
+L1  L2  L3  L1  L2  L3 
+A) Derivati finanziari 
+             
+1) Fair value  -  152  -  104.248  -  -  -  - 
+2) Flussi finanziari  -  -  -  -  -  -  -  - 
+3) Investimenti esteri  -  -  -  -  -  -  -  - 
+B) Derivati creditizi               
+1) Fair value  -  -  -  -  -  -  -  - 
+2) Flussi finanziari  -  -  -  -  -  -  -  - 
+Totale  -  152  -  104.248  -  -  -  - 
+(cid:3)
+Legenda:
+VN = valore nozionale
+L1 = Livello 1
+L2 = Livello 2
+L3 = Livello 3
+(cid:27)(cid:17)(cid:21)(cid:3)(cid:39)(cid:72)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:76)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:68)(cid:73)(cid:82)(cid:74)(cid:79)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:76)(cid:3)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:87)(cid:76)(cid:83)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:68)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:3)
+Nel corso del 2017 sono state avviate nuove relazioni di macrocopertura di mutui a tasso ﬁsso individuati in cluster 
+distinti ed omogenei, con maturity superiore a 8 anni, attraverso la stipula di appositi contratti di interest rate swap 
+di tipo “ﬁxed to ﬂoating” come strumenti di copertura. La strategia di efﬁcientamento a medio/lungo termine del 
+complessivo proﬁlo di asset management a livello di Gruppo ha previsto, infatti, speciﬁche operazioni di macro 
+hedging di impieghi a lungo termine, al ﬁne di contenere la complessiva esposizione al rischio di tasso di interesse 
+del Gruppo su livelli coerenti con gli obiettivi stabiliti. La relazione di copertura è formalmente documentata da una 
+hedging card e la tenuta della stessa è veriﬁcata sia attraverso test prospettici che retrospettivi. La copertura è 
+considerata efﬁcace se il rapporto tra la variazione del fair value dell’elemento coperto rispetto allo strumento di 
+copertura è ricompreso nell’intervallo 80-125%.
+Sezione 9 – Adeguamento di valore delle attività ﬁnanziarie oggetto di copertura generica – Voce 90
+(cid:28)(cid:17)(cid:20)(cid:3)(cid:36)(cid:71)(cid:72)(cid:74)(cid:88)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:89)(cid:68)(cid:79)(cid:82)(cid:85)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:68)(cid:73)(cid:82)(cid:74)(cid:79)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:76)
+Adeguamento di valore delle attività coperte / Componenti del Gruppo  31/12/2017  31/12/2016 
+1. Adeguamento positivo  3.618  4.176 
+1.1 di specifici portafogli:  3.618  4.176 
+a) crediti  3.618  4.176 
+b) attività finanziarie disponibili per la vendita  -   -  
+1.2 complessivo  -   -  
+2. Adeguamento negativo  -   -  
+2.1 di specifici portafogli:  -   -  
+a) crediti  -   -  
+b) attività finanziarie disponibili per la vendita  -   -  
+2.2 complessivo  -   -  
+Totale  3.618  4.176 
+451

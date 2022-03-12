@@ -1,0 +1,46 @@
+Prysmian Group    Consolidated Non-Financial Information Statement 2019 57
+Terrestrial cables
+In developing extra high voltage cables systems, a fundamental objective was achieved on successful completion at CESI La-
+boratories (Mannheim) of the pre-qualification tests for 525 kV HVDC applications for the corridors project in Germany. Two 
+cabled systems, the related accessories and the various installation solutions have been qualified: XLPE and P-Laser, both 
+HVDC, with operational temperatures of 70° and 90°C respectively. Following this significant result, Prysmian is the only cable 
+manufacturer qualified with two different solutions that comply in full with the high standards set by the German transmis-
+sion system operators (TSO).
+In order to advance the industrialisation of these extra high voltage (EHVDC) cables, Gron plant has completed the pilot pro-
+duction of 10 km of 525 kV cable at full size with a section area of 3,000 mm² (copper conductor). With regard to the P-Laser 
+technology for HVDC application, a long series of improvements have been made to, for example, storage of the materials, 
+extreme cleanliness during handling and the dosage and extrusion processes. Gron plant has also introduced new devices 
+for the industrial production of solutions that apply this technology. As part of developing the EHVDC systems, Livorno plant 
+has completed the production of full-scale prototypes of the new generation of accessories (up to 640 kV), with a dedicated 
+industrial line.
+Two development solutions are applied in order to satisfy the need to increase the energy transported. The first is to develop 
+EHVAC systems: the first series of tests on the laboratory prototype was completed during 2019 and the results will be used 
+in 2020 to continue the development phase, with a view to producing full-scale prototypes in 2021. The second solution is to 
+develop copper and aluminium conductors with large sections, with lower losses due to the skin and proximity effects. Copper 
+conductors with section areas up to 3,000 and 3,500 mm² have been tested; industrial production is now feasible, with impro-
+vements in the loss reduction due to the skin effect. An efficient alternative would be the use of aluminium conductors with 
+very large section areas of up to 4,000-4,500 mm². Additionally, in certain specific cases, some TSOs actually prefer larger 
+aluminium conductors instead of traditional cables with copper conductors, since they weigh less and the investment cost is 
+lower. There are in fact numerous, well-known arguments that support the use of aluminium conductors: possible reduction in 
+the weight of XLPE cables; lower investment cost (excellent price/metre ratio, greater cable length) and reduced installation 
+costs (lower cabling times, easier handling). The reduction of conductor losses (decreased skin effect) affects the total cost 
+of ownership and, sometimes, an aluminium configuration is preferable to copper, considering the types of losses that are 
+reduced. In this area, Prysmian is currently developing cabled systems with conductors with section areas up to 4,500 mm². 
+The traditional transmission circuits still in service, with piped cables insulated in high pressure fluid (HPFF), are becoming 
+obsolete. Some of these systems leak dielectric fluid into the environment and are difficult to repair. Given the overcrowded 
+roads, it is also impossible to replace the existing pipes with traditional cable conduits (let alone larger pipes). This situation is 
+becoming more critical in large US cities, making it necessary to start a programme to remove existing cabled systems and re-
+place them with extruded cables at different voltages: 138, 220 and 345 kV. Work to develop a suitable system for the retrofit 
+of the existing infrastructure of conduits for 138 kV cables has commenced, with the production of prototype cables and acces-
+sories, and the qualification programme is also in progress. Additionally, the simple retrofit of XLPE cables using the existing 
+conduits will not supply a voltage level equivalent to that of the existing HPFF cables. The thermal environment created due 
+to the greater thickness of the XLPE insulations and the air surrounding the cables reducing the flow of power. Further studies 
+are being considered, with a view to obtaining structures that are more compact with respect to those currently in use for the 
+traditional XLPE cables.
+A programme for the development of lead-free technologies has been launched for the production of metallic sheathing for 
+submarine and terrestrial cables. With regard to the terrestrial cabled systems, the longitudinal welding of copper is the most 
+innovative solution that allows direct water cooling of the XLPE cables retrofitted in steel pipes, reducing the size of the cables 
+and ensuring a watertight configuration. Another version of this technology has also been developed for lifeline fire-resistant 
+cables, now industrialised for most voltage levels and conductor section areas.
+PRYSMIAN GROUP, LINKING THE FUTURE LEADING INNOVATION GOVERNANCE AND RISK MANAGEMENT
+SUSTAINABILITY IN OUR DNA A PUBLIC COMPANY OUR COMMITMENT

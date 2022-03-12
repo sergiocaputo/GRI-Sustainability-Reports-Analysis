@@ -1,0 +1,41 @@
+246 Generali Group Annual Integrated Report and Consolidated Financial Statements 2018
+38 Income taxes
+This item shows the income taxes due by the Italian  The components of the income tax expense for 2018 and 
+and the foreign consolidated companies by applying  2017 are as follow:
+the income tax rates and rules in force in each country. 
+Income taxes
+(€ million) 31/12/2018 31/12/2017
+Income taxes 1,258 858
+Deferred taxes -132 289
+Total taxes of period 1,126 1,147
+Income taxes on discontinued operations 223 65
+Total income taxes 1,348 1,212
+In Italy, with respect to the 2018 fiscal year, income taxes  overall rate includes the basic rate expected in the tax 
+are calculated by using the ordinary corporate income  on corporate income, equal to 33.33%, increased by an 
+tax rate of 24% (IRES). Furthermore, income taxes of  additional (contribution sociale) of 3.30% and a further 
+Italian companies include the regional tax on productive  additional temporary always calculated with reference 
+activities (IRAP). the standard rate. 
+Income realised in Germany is subject to the corporate  All other foreign subsidiaries apply their national tax 
+income tax - which is calculated on a rate of 15% plus a  rates, including: Austria (25%), Bulgaria (10%), China 
+solidarity surcharge of 5.50% - and the trade tax (Gew- (25%), Czech Republic (19%), the Netherlands (25%), 
+erbesteuer). The trade tax rate varies depending on the  Poland (19%), Romania (16%), Spain (25%), Switzerland 
+municipality in which the company is situated. In 2018  (22%) and United States (21%).
+the weighted average tax rate remained substantially un-
+changed at approximately 16.20%. The following table shows a reconciliation from the theo-
+retical income tax expense, by using the Italian corporate 
+In France, income taxes are calculated by using an over- income tax rate of 24%, to the effective tax rate.
+all corporate income tax rate of 34.43%. In particular, this 
+Reconciliation from theoretical income tax expenses to the effective tax rate
+(€ million) 31/12/2018 31/12/2017
+Expected income tax rate 24.0% 24.0%
+Earning before taxes 3,450 3,511
+Expected income tax expense 828 843
+Effect of permanent differencies and foreign tax rate differential -54 125
+Effect of fiscal losses -3 -4
+IRAP, trade tax and other local income taxes 164 154
+Substitute taxes 103 69
+Foreign withholding taxes not recoverable 59 49
+Income taxes for prior years 43 -103
+Other -14 14
+Tax expenses 1,126 1,147
+Effective tax rata 32.6% 32.7%

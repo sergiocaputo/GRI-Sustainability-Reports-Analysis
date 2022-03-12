@@ -1,0 +1,43 @@
+Consolidated Non-Financial Statement 2019 Consolidated Non-Financial Statement 2019
+Emissions15 Water consumption17
+Scope 1 and Scope 2 Emissions (location-based method) 
+2018 2019 GROUP TOTAL
+EMISSIONS (ton CO )
+2eq 2018 2019
+Scope 1 Scope 2 Total Scope 1 Scope 2 Total Source of water
+Consumption [m3] Consumption [m3]
+Italy 1,327 999 2,325 1,395 1,234 2,630
+Rest of Europe 288 134 422 322 139 461 Aqueduct 34,043 38,161
+Rest of the World 92 545 637 81 532 613 Rain water - -
+Total 1,706 1,678 3,384 1,798 1,905 3,703
+Other  - -
+Total  34,043 38,161
+Scope 1 and Scope 2 Emissions (market-based method) 
+2018 2019
+EMISSIONS (ton CO )
+2eq
+Scope 1 Scope 2 Total Scope 1 Scope 2 Total
+Italy 1,327 1,322 2,649 1,395 1,674 3,070
+Rest of Europe 288 199 487 322 217 540
+Rest of the World 92 545 637 81 532 613
+Total 1,706 2,066 3,772 1,798 2,424 4,222
+For the calculation of the Scope 1 2018 and 2019 emissions we have considered respectively the emission factors of 
+Department for Environmental Food & Rural Affairs (DEFRA) 2018 and 2019. 
+For the calculation of Scope 2 emissions we have used different factors based on the calculation methods of the 
+different countries. In particular: 
+• For the location-based method we have used average emission factors related to the generation of national energy 
+for the different countries in which we operate as reported in the publication Confronti Internazionali, Terna 2016 e 
+2017, respectively for 2018 and 2019;16
+• For the market-based method we used average emission factors derived from the production of electricity  in the 
+EU for Italy, France and Germany, published in the document Residual Mix Results, Association of issuing bodies (AIB), 
+2017 and 2018, respectively for 2018 and 2019. For the other countries we have used the same factors used for the 
+location-based method.
+15 As a result of the refinement of the monitoring system of electrical energy and gas for the company cars of the Chinese subsidiaries of the Group, 
+the data for 2018 for the geographic area called “Rest of the World” have been revised with respect to those published in the preceding NFS. For 
+these data, please consult the NFS, published on the site www.elengroup.com. in the section Investor Relations / Sustainability / Reports.
+16 It should be noted that the Scope 2 emissions calculated with the emission factors published by Terna in the International Comparisons document 
+are expressed in tons of CO; in any case, the percentage of methane and nitrous oxide has a negligible effect on the total emissions of greenhouse  17 To calculate the water consumption we used estimates when precise data were not available; in particular, for Quanta System S.p.A., El.En S.p.A. 
+2
+gas (CO ), as can be seen from the specific technical literature. and Otlas S.r.l. part of the consumption was estimated on the basis of the daily consumption reported by the supplier of the water service.
+2eq
+116 117

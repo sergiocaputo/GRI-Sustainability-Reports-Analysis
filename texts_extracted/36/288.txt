@@ -1,0 +1,69 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+- other water (> 1,000 
+mg/l Total Dissolved  (mil m3) 0.5 n.a. n.a. - - Enel
+Solids)
+Withdrawal from non 
+(mil m3) 13.6 11.9 14.7 1.7 14.3 Enel
+scarce sources
+Sea water (used as is 
+(mil m3) 6.4 7.4 7.8 -1.0 -13.5 Enel
+and dissalated)
+- freshwater (≤ 1,000 mg/l 
+(mil m3) 3.6 n.a. n.a. - - Enel
+Total Dissolved Solids)
+- other water (> 1,000 
+mg/l Total Dissolved  (mil m3) 2.8 n.a. n.a. - - Enel
+Solids)
+from waste (amount 
+(mil m3) 7.2 4.5 6.9 2.7 60.0 Enel
+used inside plants)
+Total  (mil m3) 77.3 96.3 112.2 -19.0 -19.7 Enel
+Percentage of recycled 
+303-3 (%) 9.3 4.7 6.1 4.6 98.2 Enel
+and reused water
+Water used 
+for open-cycle cooling
+Total (mil m3) 17,876.3 17,062.2 18,276.7 814.1 4.8 Enel
+from surface water (mil m3) 7,395.1 n.a. n.a. - - Enel
+from sea water (mil m3) 10,481.2 n.a. n.a. - - Enel
+Total withdrawals (mil m3) 17,953.6 17,158.5 18,388.9 795.1 4.6 Enel
+Water consumption (15) (mil m3) 58.1 48.7 58.4 9.4 19.3 Enel
+Water withdrawal 
+303-3 by source in “water 
+stressed” areas
+Withdrawal from scarce 
+(mil m3) 10.7 11.2 10.3 -0.5 -4.5 Enel
+sources
+Surface water (wetlands, 
+(mil m3) 0.4 n.a. n.a. - - Enel
+lakes, rivers) total
+- freshwater (≤ 1,000 mg/l 
+(mil m3) 0.4 n.a. n.a. - - Enel
+Total Dissolved Solids)
+- other water (> 1,000 
+mg/l Total Dissolved  (mil m3) - n.a. n.a. - - Enel
+Solids)
+Ground water (from 
+(mil m3) 8.6 8.1 7.0 0.5 6.2 Enel
+wells) total
+- freshwater (≤ 1,000 mg/l 
+(mil m3) 8.6 n.a. n.a. - - Enel
+Total Dissolved Solids)
+- other water (> 1,000 
+mg/l Total Dissolved  (mil m3) - n.a. n.a. - - Enel
+Solids)
+Water from aqueduct 
+(mil m3) 1.7 3.1 3.3 -1.4 -45.2 Enel
+total
+- freshwater (≤ 1,000 mg/l 
+(mil m3) 1.7 n.a. n.a. - - Enel
+Total Dissolved Solids)
+- other water (> 1,000 
+mg/l Total Dissolved  (mil m3) - n.a. n.a. - - Enel
+Solids)
+Withdrawal from non 
+(mil m3) 0.2 - 0.3 0.2 - Enel
+scarce sources
+Performance indicators 287

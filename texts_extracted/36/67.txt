@@ -1,0 +1,54 @@
+Enel’s performance in the ﬁght  
+against climate change
+103-2 103-3 305-1 305-2 305-3 305-4 305-5 305-6
+Direct and indirect GHG (greenhouse gas) emissions
+The trend of direct and indirect greenhouse gas emissions over the past years, in line with the GHG protocol, is provided below.
+GREENHOUSE GAS EMISSIONS (1) UM 2019 2018 2017
+Total direct a gas emissions (Scope 1) mil t eq 69.98 95.23 105.96
+- of which CO emissions from the electricity production and heat mil t 69.39 94.44 105.20
+2
+- of which other direct emissions due to electricity production (2) and other activities mil t eq 0.60 0.79 0.76
+Total indirect greenhouse gas emissions (Scope 2, location based) mil t eq 5.37 5.08 5.00
+- of which indirect emissions from electricity purchased  mil t eq 1.55 1.40 1.50
+from the network (civil uses, hydroelectric and thermoelectric plants)
+- of which indirect emissions deriving from technical losses from Enel’s distribution    mil t eq 3.82 3.68 3.50
+  network and electricity system’s transmission network
+Indirect greenhouse gas emissions (Scope 2, market based) (3) mil t eq 2.30 2.11 2.19
+Total of other indirect greenhouse gas emissions (Scope 3) mil t eq 56.92 59.56 57.88
+- of which indirect emissions deriving from the extraction and transport of fossil fuels,   mil t eq 4.02 6.76 7.13
+raw materials and waste (upstream)
+- of which indirect emissions deriving from the use of sold products (electricity) mil t eq 28.98 27.39 25.46
+- of which indirect emissions deriving from the use of sold products (gas) mil t eq 23.92 25.41 25.29
+Total CO avoided emissions (4) mil t 77.0 78.5 71.3
+2
+1 The methodology and sources considered for calculating greenhouse gas emissions (Scope 1, 2, 3) are detailed in the following paragraph. The values f  or 2018 
+and 2017 were modiﬁed by adding the new calculation categories introduced in 2019. The Scope 2 emissions for electricity purchased from the grid were 
+recalculated due to the expansion of the calculation basis. Regarding the year-over-year data comparison and the relative sums, the ﬁgures shown in the table 
+regarding year-over-year data comparison and subset additions are calculated considering decimal digits that may not be disclosed in the table.
+2 For all combustion processes from fossil sources, the production of NO (GWP = 265) and CH (GWP = 28) expressed in CO equivalent are included. These 
+2 4 2
+values, not present in the 2017 and 2018 reporting, were recalculated for the previous two years. The calculation of the other activities also includes CO equi-
+2
+valent emissions from the combustion of diesel fuel in the generating sets, from the fuel of the company ﬂeet, from the fuel used in the ofﬁces for heating and 
+canteens, ﬂuorinated gases and ODS, SF and NF.
+6 3
+3 The values do not include the emissions from technical losses of the Enel distribution grid, which were calculated only as location based.
+4 Avoided emissions are calculated as the sum of the emissions avoided in the different countries where Enel is present. The resulting value is the product of 
+the generation of electricity obtained from a renewable or nuclear sources and the speciﬁc CO emissions from the thermoelectric generation of the country in 
+2
+which Enel is present.
+Scope 1 emissions
+The GHG inventory statements were audited by DNV GL,  In 2019, the direct CO emissions (Scope 1) were equal to 
+2
+one of the main certification entities world-wide, with a rea- approximately 70 mil t, with a 27% decrease as compared 
+sonable level of certainty for Scope 1, Scope 2 and Scope  to 2018 mainly due to reduced thermal generation and in 
+3 emissions, as limited to the sale of natural gas, and with  particular a reduction in the coal component (-42% as com-
+a limited level of certainty for the other Scope 3 emissions  pared to 2018). The considerable share of these emissions 
+included within the scope of application of the inventory.  originates from the energy production in thermal pow-
+The audit was conducted according to Standard ISO 4064- er plants fuelled by coal, oil & gas and combined cycles. 
+3 for the compliance of greenhouse gas (GHG) inventories  The percentage of emissions related to EU ETS is equal to 
+with the WBCSD/WRI Corporate Accounting and Reporting  49.5% of the total Scope 1. Scope 1 also includes the CO 
+2
+Standard (GHG Protocol). emissions generated during the petrol and diesel combus-
+tion process in the engines of machines controlled by the 
+66 Sustainability Report 2019

@@ -1,0 +1,41 @@
+Indice generale Indice di sezione Sezione 12
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte A
+A.4.5.4 Attività e passività non valutate al fair value o valutate al fair 
+value su base non ricorrente: ripartizione per livelli di fair value
+Attività/Passività non misurate   Totale al 31.12.2017 Totale al 31.12.2016
+al fair value o misurate al  
+Valore di  Fair value Valore di  Fair value
+fair value su base non ricorrente 
+bilancio bilancio
+(milioni di euro)  Livello 1   Livello 2   Livello 3   Livello 1   Livello 2   Livello 3 
+1.  Attività finanziarie detenute sino 
+ 12.912  14.384   -     -     12.683  14.447   -     -   
+alla scadenza  
+2. Crediti verso banche   1.151   -     -     1.151   1.314   -     -     1.314 
+3. Crediti verso la clientela   7.951   -     -     7.951   9.004   -     -     9.004 
+4.  Attività materiali detenute a scopo 
+ -     -     -     -     -     -     -     -   
+di investimento 
+5.  Attività non correnti e gruppi di 
+ -     -     -     -     -     -     -     -   
+attività in via di dismissione 
+Totale   22.014  14.384   -     9.102   23.001  14.447   -    10.318 
+1. Debiti verso banche   5.950   -     4.853   1.108   5.799   -     5.419   418 
+2. Debiti verso clientela   53.686   -     -    53.686   50.374   -     -    50.374 
+3. Titoli in circolazione   -     -     -     -     -     -     -     -   
+4.  Passività associate ad attività in 
+ -     -     -     -     -     -     -     -   
+via di dismissione 
+Totale   59.636   -     4.853  54.794   56.173   -     5.419  50.792 
+Nel determinare i fair value esposti nella tabella sono stati utilizzati i seguenti criteri:
+per i titoli di debito classificati nella categoria detenuti sino alla scadenza, sono state applicate le medesime regole previste 
+per la valutazione al fair value dei titoli disponibili per la vendita; nella gerarchia del fair value tali strumenti finanziari sono 
+esposti nel Livello 1;
+per i pronti contro termine il fair value è stato valutato tramite tecniche di discounted cash flow, descritte nel paragrafo A.4.1; 
+nella gerarchia del fair value tali strumenti finanziari sono esposti nel Livello 2;
+per le altre attività e passività finanziarie il valore di bilancio rappresenta una ragionevole approssimazione del fair value e 
+viene esposto nella colonna corrispondente al Livello 3 della gerarchia del fair value.
+A.5 – Informativa sul cd day one profit/loss
+Per il Patrimonio BancoPosta la fattispecie in esame non si è verificata. 
+445

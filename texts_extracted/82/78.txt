@@ -1,0 +1,38 @@
+Sustainability Report | ANNEX - GRI INDICATOR TABLES F79
+GRI 403-9 The number and rate of recordable work-related injuries with 
+high-consequence work-related injuries and/or fatalities, divided by 
+employees and external staff and by countries during the period 2018-
+2019
+The recordable rate of work-related injuries is the ratio between the number of recordable work-related injuries and the number of 
+hours worked, multiplied by 1,000,000.
+The rate of high-consequence work-related injuries is the ratio between the number of high-consequence work-related injuries and 
+the number of hours worked. multiplied by 1.000.000. High-consequence injuries are those from which a worker cannot recover. 
+does not recover or it is not realistic to foresee that they will fully recover by returning to their pre-accident state of health within 6 
+months. 
+The rate of deaths resulting from accidents at work is determined by the ratio between the number of deaths resulting from work-
+related accidents and the number of hours worked. multiplied by 1,000,000. 
+Data do not include injuries as a result of commuting incidents where the transport has not been organized by the organization.
+ITALMOBILIARE GROUP 2019 2018
+Number of fatalities as a result of work-related injury 0 0
+Number of high-consequence work-related injuries (excluding fatalities) 1 0
+Number of recordable work-related injuries 15 22
+Number of hours worked 2,488,947 2,642,300
+Rate of fatalities as a result of work-related injuries 0.0 0.0
+Rate of high-consequence work-related injuries (excluding fatalities) 0.40 0.0
+Rate of recordable work-related injuries 6.03 8.30
+ITALY 2019 2018
+Number of fatalities as a result of work-related injury 0 0
+Number of high-consequence work-related injuries (excluding fatalities) 0 0
+Number of recordable work-related injuries 6 8
+Number of hours worked 1,194,622 1,124,120
+Rate of fatalities as a result of work-related injuries 0.0 0.0
+Rate of high-consequence work-related injuries (excluding fatalities) 0.0 0.0
+Rate of recordable work-related injuries 5.02 7.1
+FRANCE 2019 2018
+Number of fatalities as a result of work-related injury 0 0
+Number of high-consequence work-related injuries (excluding fatalities) 1 0
+Number of recordable work-related injuries 2 5
+Number of hours worked 386,417 397,051
+Rate of fatalities as a result of work-related injuries 0.0 0.0
+Rate of high-consequence work-related injuries (excluding fatalities) 2.59 0.0
+Rate of recordable work-related injuries 5.18 12.6

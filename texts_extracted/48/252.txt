@@ -1,0 +1,31 @@
+Our  Consolidated Non-Financial  Appendices to the  Consolidated Financial 
+We, Generali performance Risk Report Outlook Statement Management Report Statements 251  
+these checks show that the measurement is not con- The table shows the classification of financial assets and 
+sidered as market corroborated the instrument must be  liabilities measured at fair value among the levels of fair 
+classified in level 3. value hierarchy as defined by IFRS13.
+Fair Value Hierarchy
+31/12/2018 Level 1 Level 2 Level 3 Total
+Available for sale financial assets 255,396 20,876 7,501 283,773
+Equities 8,550 560 1,270 10,379
+Bonds 230,825 17,259 1,231 249,315
+Investment funds units 15,491 2,735 4,604 22,830
+Other assets available for sale financial 530 323 396 1,249
+Financial assets at fair value through profit or loss 72,525 5,349 1,625 79,499
+Equities 44 3 40 87
+Bonds 2,320 1,041 37 3,398
+Investment fund units 7,380 874 203 8,457
+Derivatives 41 1,172 48 1,261
+Hedging derivatives 0 363 0 363
+Investments back to policies where the risk is borne by the 
+62,740 1,827 1,221 65,788
+policyholders
+Other assets at fair value through profit or loss 0 70 74 144
+Total assets at fair value 327,921 26,226 9,126 363,272
+Financial liabilities at fair value through profit or loss 2,830 1,244 84 4,159
+Financial liabilities related to investments contracts issued by 
+2,823 11 72 2,907
+insurance companies
+Derivatives 3 652 12 668
+Hedging derivatives 0 548 0 548
+Other finanical liabilities 3 33 0 36
+Total liabilities at fair value 2,830 1,244 84 4,159

@@ -1,0 +1,48 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+6. Analisi e presidio dei rischi
+Si riportano di seguito, per completezza di informativa, le posizioni esposte al rischio in commento per Poste Italiane S.p.A..
+Poste Italiane S.p.A. - Rischio di credito Attività finanziarie BancoPosta
+Saldo al 31.12.17 Saldo al 31.12.16
+Descrizione da Aaa  da A1  da Ba1  Totale da Aaa  da A1  da Ba1  Totale
+(milioni di euro) a Aa3 a Baa3 a Not rated a Aa3 a Baa3 a Not rated
+Attività finanziarie BancoPosta
+Finanziamenti e crediti 177  6.989  435  7.601  161  7.386  368  7.915 
+Finanziamenti  -    -    -    -    -    -    -    -   
+Crediti 177  6.989  435  7.601  161  7.386  368  7.915 
+Investimenti detenuti fino a 
+-    12.913  -    12.913  -    12.683  -    12.683 
+scadenza
+Titoli a reddito fisso -    12.913  -    12.913  -    12.683  -    12.683 
+Investimenti disponibili per la 
+-    39.099  -    39.099  -    37.159  -    37.159 
+vendita
+Titoli a reddito fisso -    39.099  -    39.099  -    37.159  -    37.159 
+Strumenti finanziari derivati 73  258  63  394  20  149  22  191 
+Cash flow hedging 18  13  -    31  -    39  -    39 
+Fair value hedging 55  245  63  363  20  110  22  152 
+Fair value vs. Conto economico -    -    -    -    -    -    -    -   
+Totale  250  59.259  498  60.007  181  57.377  390  57.948 
+Poste Italiane S.p.A. - Rischio di credito Attività finanziarie del Patrimonio non 
+destinato
+Saldo al 31.12.17 Saldo al 31.12.16
+Descrizione da Aaa  da A1  da Ba1  Totale da Aaa  da A1  da Ba1  Totale
+(milioni di euro) a Aa3 a Baa3 a Not rated a Aa3 a Baa3 a Not rated
+Attività finanziarie 
+Finanziamenti e crediti 7  261  374  642  -    51  719  770 
+Finanziamenti -    -    367  367  -    -    712  712 
+Crediti 7  261  7  275  -    51  7  58 
+Investimenti detenuti fino a 
+-    -    -    -    -    -    -    -   
+scadenza
+Titoli a reddito fisso -    -    -    -    -    -    -    -   
+Investimenti disponibili per la 
+-    551  -    551  -    562  -    562 
+vendita
+Titoli a reddito fisso -    551  -    551  -    562  -    562 
+Strumenti finanziari derivati -    -    -    -    -    -    -    -   
+Cash flow hedging -    -    -    -    -    -    -    -   
+Fair value hedging -    -    -    -    -    -    -    -   
+Fair value vs. Conto economico -    -    -    -    -    -    -    -   
+Totale  7  812  374  1.193  -    613  719  1.332 
+365

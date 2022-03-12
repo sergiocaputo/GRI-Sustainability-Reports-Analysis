@@ -1,0 +1,66 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+1.4 RISCHIO DI LIQUIDITÀ L’indicatore  degli  sbilanci  previsionali  cumulati  wholesa-
+le misura l’indipendenza dal funding wholesale unsecured 
+in ipotesi di blocco del mercato monetario e mira ad assi-
+INFORMAZIONI DI NATURA QUALITATIVA curare  l’autonomia  ﬁ nanziaria  ipotizzando  l’utilizzo  sul 
+mercato delle sole riserve di liquidità di più elevata qualità. 
+A.  Aspetti generali, processi di gestione e metodi di  L’indicatore di LCR, la cui soglia minima è pari al 100%, 
+misurazione del rischio di liquidità ha la ﬁ nalità di rafforzare il proﬁ lo di rischio di liquidità di 
+breve termine, assicurando la detenzione di sufﬁ cienti attività 
+Si deﬁ nisce rischio di liquidità il rischio che il Gruppo non rie- liquide di elevata qualità (HQLA) non vincolate che possano 
+sca a far fronte ai propri impegni di pagamento per l’incapa- essere facilmente e immediatamente convertite in contanti 
+cità sia di reperire fondi sul mercato (funding liquidity risk) sia  nei mercati privati per soddisfare i fabbisogni di liquidità a 
+di smobilizzare i propri attivi (market liquidity risk). 30 giorni in uno scenario di stress di liquidità, come deﬁ nito 
+dal Regolamento Delegato (UE) 2015/61.
+Il sistema interno di controllo e gestione del rischio di liqui-
+dità si sviluppa nel quadro del Risk Appetite Framework del  La Politica di Liquidità strutturale prevede l’adozione del re-
+Gruppo e nel rispetto delle soglie massime di tolleranza al  quisito strutturale previsto dalla normativa regolamentare di 
+rischio di liquidità ivi approvate, che stabiliscono che il Grup- Basilea III Net Stable Funding Ratio (NSFR). Tale indicatore è ﬁ -
+po debba mantenere una posizione di liquidità adeguata in  nalizzato a promuovere un maggiore ricorso alla raccolta sta-
+modo da fronteggiare periodi di tensione, anche prolunga- bile, evitando che l’operatività a medio e lungo termine possa 
+ti, sui diversi mercati di approvvigionamento del funding,  dare luogo ad eccessivi squilibri da ﬁ nanziare a breve termine. 
+anche attraverso la costituzione di adeguate riserve di liqui- A tal ﬁ ne, esso stabilisce un ammontare minimo “accettabile” 
+dità rappresentate da titoli marketable e riﬁ nanziabili presso  di provvista superiore all’anno in relazione alle necessità origi-
+Banche Centrali. A tal ﬁ ne, è richiesto il mantenimento di un  nate dalle caratteristiche di liquidità e di durata residua delle 
+equilibrato rapporto fra fonti in entrata e ﬂ ussi in uscita, sia  attività e delle esposizioni fuori bilancio. 
+nel breve sia nel medio-lungo termine. Tale obiettivo è svi-
+luppato dalle “Linee Guida di Governo del rischio Liquidità di  Nell’ambito delle Linee Guida di Governo del Rischio di Liqui-
+Gruppo” approvate dagli Organi Societari di Intesa Sanpaolo. dità del Gruppo, è altresì prevista l’estensione temporale dello 
+scenario di stress contemplato dal quadro regolamentare ai 
+Tali linee guida recepiscono le ultime disposizioni regola- ﬁ ni dell’indicatore LCR, misurando sino a 3 mesi l’effetto di 
+mentari in materia di rischio di liquidità ed illustrano i com- tensioni acute di liquidità speciﬁ che combinate ad una crisi 
+piti delle diverse funzioni aziendali, le norme e l’insieme dei  di mercato estesa e generalizzata. A tal ﬁ ne le linee guida 
+processi di controllo e gestione ﬁ nalizzati ad assicurare un  di governo interne prevedono anche una soglia di attenzio-
+prudente presidio di tale rischio, prevenendo l’insorgere  ne (“Stressed soft ratio”) sull’indicatore LCR sino a 3 mesi, 
+di situazioni di crisi. In particolare, dal punto di vista or- ﬁ nalizzata a prevedere un livello complessivo di riserve in gra-
+ganizzativo, sono deﬁ niti in dettaglio i compiti attribuiti  do di fronteggiare le maggiori uscite di cassa in un interval-
+al Consiglio di Amministrazione e sono riportati al vertice  lo di tempo adeguato a porre in essere i necessari interventi 
+alcuni importanti adempimenti quali l’approvazione delle  operativi per ricondurre il Gruppo in condizioni di equilibrio. 
+metodologie di misurazione, la deﬁ nizione delle principali 
+ipotesi sottostanti agli scenari di stress e la composizione  In tale ambito, è stato previsto il Contingency Funding Plan 
+degli indicatori di attenzione utilizzati per l’attivazione dei  (CFP), che contiene le diverse linee d’azione attivabili allo sco-
+piani di emergenza. po di fronteggiare potenziali situazioni di stress, indicando la 
+dimensione degli effetti mitiganti perseguibili in un orizzonte 
+In tema di metriche di misurazione e strumenti di attenuazio- temporale di breve termine.
+ne del rischio di liquidità, oltre a deﬁ nire l’impianto metodo-
+logico di misurazione degli indicatori della liquidità di breve  È inoltre previsto che siano assicurate le modalità di governo 
+termine e strutturale, sono formalizzate la soglia massima di  di un’eventuale crisi di liquidità, deﬁ nita come una situazione 
+tolleranza (risk appetite) al rischio di liquidità, i criteri per la  di difﬁ coltà o incapacità di far fronte ai propri impegni di cas-
+deﬁ nizione delle Riserve di Liquidità e le regole e i parametri  sa in scadenza, a meno di attivare procedure e/o utilizzare 
+per lo svolgimento delle prove di stress. strumenti in maniera non riconducibile, per intensità o mo-
+dalità, all’ordinaria amministrazione. Il Contingency Liquidity 
+Gli indicatori della liquidità di breve termine intendono assicu- Plan, preﬁ ggendosi gli obiettivi di salvaguardia del patrimonio 
+rare un livello adeguato e bilanciato tra ﬂ ussi di cassa in uscita  del Gruppo e, contestualmente, di garanzia della continuità 
+e in entrata aventi scadenza certa o stimata compresa nell’o- operativa in condizioni di grave emergenza sul fronte della 
+rizzonte temporale di 12 mesi, con l’obiettivo di fronteggiare  liquidità, assicura l’identiﬁ cazione dei segnali di preallarme, 
+periodi di tensione, anche prolungata, sui diversi mercati di  il loro continuo monitoraggio, la deﬁ nizione delle procedu-
+approvvigionamento del funding, anche attraverso la costitu- re da attivare nel caso si manifestino tensioni sulla liquidità, 
+zione di adeguate riserve di liquidità rappresentate da asset li- le linee di azione immediate e gli strumenti di intervento per 
+quidi sui mercati privati o riﬁ nanziabili presso Banche Centrali.  la risoluzione dell’emergenza.
+A tal ﬁ ne e in coerenza con la soglia massima di tolleranza al 
+rischio di liquidità, il sistema dei limiti è declinato prevedendo  Adeguata e tempestiva informativa sull’evolversi delle condi-
+due indicatori di breve termine su un orizzonte temporale ri- zioni di mercato e della posizione del Gruppo è stata rilasciata 
+spettivamente di una settimana (sbilancio previsionale cumu- agli Organi aziendali e ai Comitati interni, al ﬁ ne di assicurare 
+lato dell’operatività wholesale) e un mese (Liquidity Coverage  la piena conoscenza e governabilità dei diversi fattori di ri-
+Ratio – LCR). schio.
+354 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

@@ -1,0 +1,65 @@
+10. Glossario
+Senior bond Special Purpose Vehicles (SPV)
+In un’operazione di cartolarizzazione è la tranche con il mag- Le Special Purpose Vehicles sono società appositamente costi-
+giore grado di privilegio in termini di priorità di remunerazio- tuite da uno o più soggetti per lo svolgimento di una speciﬁ ca 
+ne e rimborso. operazione.
+Sensitivity Speculative grade
+Identiﬁ ca la situazione di maggiore o minore sensibilità con la  Termine che si riferisce al rating di un emittente o di un titolo ob-
+quale determinate attività o passività reagiscono a variazioni  bligazionario basso (inferiore a BBB di S&P’s e Baa2 di Moody’s). 
+dei tassi o di altri parametri di riferimento. Implicitamente, la classiﬁ cazione di speculative grade sottinten-
+de un elevato rischio creditizio dello strumento ﬁ nanziario.
+SEPA
+Single Euro Payments Area (Area Unica dei Pagamenti in Euro)  Spin off
+cui aderiscono i 28 Paesi membri dell’UE e altri Paesi non ap- Si riferisce allo scorporo di una parte dei beni di un’azienda in 
+partenenti all’UE. All’interno di quest’area tutti gli operatori  una nuova entità giuridica.
+economici possono effettuare e ricevere pagamenti in euro 
+secondo regole, procedure e prassi uniformi. SPPI test
+Test rivolto ad analizzare se i ﬂ ussi di cassa di un dato stru-
+Single Resolution Mechanism (SRM) mento ﬁ nanziario rappresentano “solely payments of principal 
+È uno dei tre pilastri su cui si fonda l’Unione bancaria all’in- and interest”, cioè se la remunerazione dello stesso sia legata 
+terno dell’Area Euro realizzati nel 2014 per fronteggiare la  esclusivamente al pagamento degli interessi e al rimborso del 
+frammentazione del mercato ﬁ nanziario europeo. Prevede  capitale. Il risultato del test, unitamente al modello di business 
+che la risoluzione delle crisi delle banche e delle imprese di  adottato, determina la classiﬁ cazione in bilancio dello strumen-
+investimento dell’Area Euro sia gestita dal Comitato unico di  to ﬁ nanziario ai sensi del principio contabile IFRS9.
+risoluzione che opera secondo regole armonizzate e si avvale, 
+per gli interventi, di un Fondo di risoluzione unico. Spread
+È il differenziale tra i tassi di interesse tra titoli di uguale 
+Single Supervisory Mechanism (SSM) scadenza. Normalmente si usa per misurare il differenziale 
+È uno dei tre pilastri su cui si fonda l’Unione bancaria all’in- di rendimento tra il Bund decennale tedesco, che è il titolo 
+terno dell’Area Euro realizzati nel 2014 per fronteggiare la  di Stato della Germania con scadenza a dieci anni, e il BTP, 
+frammentazione del mercato ﬁ nanziario europeo. Prevede  l’equivalente italiano. Quando lo spread BTP-Bund sale signi-
+l’esercizio diretto della vigilanza sulle banche signiﬁ cative  ﬁ ca che salgono gli interessi che lo Stato italiano dovrà pagare 
+dell’area euro da parte della BCE al ﬁ ne di garantire criteri di  agli investitori di mercato rispetto agli omologhi titoli tede-
+vigilanza uniformi.  schi. In pratica è una misura del rischio Italia rispetto al paese 
+guida che è la Germania.
+Sistema informativo
+Complesso di infrastrutture, personale e procedure destinato  Stakeholder
+alla gestione delle informazioni rilevanti per la società; la par- Soggetti che, a vario titolo, interagiscono con l’attività dell’im-
+te di esso gestita mediante l’utilizzo di tecnologie informati- presa, partecipando ai risultati, inﬂ uenzandone le prestazioni, 
+che viene in genere chiamata sistema informatico. valutandone l’impatto economico, sociale e ambientale.
+Società di gestione del risparmio (SGR) Stakeholder engagement
+Si tratta di una società per azioni di diritto italiano, con sede  È il processo di scambio delle informazioni, ascolto e appren-
+legale e direzione generale in Italia, autorizzata a prestare  dimento dagli stakeholder al ﬁ ne di creare reciproca compren-
+il servizio di gestione collettiva del risparmio, il servizio di  sione e ﬁ ducia su problemi di mutuo interesse. La sua utilità si 
+gestione su base individuale di portafogli di investimento  deve alla possibilità di coniugare gli obiettivi aziendali con le 
+per conto terzi nonché gli altri servizi e attività previsti dalla  esigenze e le aspettative dei vari stakeholder.
+normativa.
+Stock option
+Società di intermediazione mobiliare (SIM) Contratti di opzione di acquisto delle azioni della società che 
+Si tratta di un intermediario autorizzato a prestare servizi di  concedono il diritto di acquistare entro un tempo prestabilito e 
+investimento, quali, tra gli altri, la negoziazione per conto  ad un prezzo preﬁ ssato le azioni stesse. Vengono utilizzati quale 
+proprio e per conto terzi, la ricezione e trasmissione di ordini  forma di remunerazione integrativa, incentivante e ﬁ delizzante.
+e la mediazione, la gestione patrimoniale.
+Stress test
+Società di investimento a capitale variabile (SICAV)  Procedura di simulazione utilizzata al ﬁ ne di misurare l’impat-
+Si tratta di un OICR strutturato in forma di società per azioni,  to di scenari di mercato estremi sull’esposizione complessiva 
+avente per oggetto esclusivo l’investimento del proprio patri- al rischio della Banca.
+monio. A differenza della partecipazione al fondo, la parteci-
+pazione alla SICAV è data dalla titolarità non di quote bensì di  Strike price
+azioni. Il sottoscrittore della SICAV può pertanto partecipare  Rappresenta il prezzo di esercizio di un’opzione.
+all’assemblea degli azionisti.
+Strumenti ﬁ nanziari quotati in un mercato attivo 
+Sottostante Uno strumento ﬁ nanziario è considerato come quotato su un 
+Strumento ﬁ nanziario dal cui valore dipende quello di uno  mercato attivo se le quotazioni, che riﬂ ettono normali opera-
+strumento derivato o di un titolo strutturato. zioni di mercato, sono prontamente e regolarmente disponibili 
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 429

@@ -1,0 +1,47 @@
+Bilancio Individuale 2017
+deﬁned in IAS 21): è la copertura dei rischi di un investimento in un’impresa estera espresso in valuta.
+L’operazione è considerata di copertura se esiste una documentazione formalizzata della relazione tra lo strumento 
+di copertura e i rischi coperti che rilevi gli obiettivi di gestione del rischio, la strategia per effettuare la copertura e 
+i metodi che saranno utilizzati per veriﬁcare l’efﬁcacia della copertura. Inoltre deve essere testato che la copertura 
+sia efﬁcace nel momento in cui ha inizio e, prospetticamente, durante tutta la vita della stessa.
+L’attività di controllo dell’efﬁcacia della copertura si articola in:
+•  test prospettici: giustiﬁcano l’applicazione dell’hedge accounting in quanto dimostrano l’attesa efﬁcacia della 
+copertura nei periodi futuri;
+•  test retrospettici: misurano nel tempo quanto i risultati effettivi si siano discostati dalla copertura perfetta.
+La copertura si assume altamente efﬁcace quando le variazioni attese ed effettive del fair value o dei ﬂussi di cassa 
+dello strumento ﬁnanziario di copertura neutralizzano quasi integralmente le variazioni dell’elemento coperto, nei 
+limiti stabiliti dall’intervallo 80-125%.
+Per le operazioni di copertura “forward sale”(rientranti nell’ambito della cash ﬂow hedge) considerate le caratteri-
+stiche peculiari delle stesse, la copertura viene assunta sempre pienamente efﬁcace (esito test 100%) con conse-
+guente iscrizione contabile a patrimonio netto della intera variazione di fair value del derivato. Quando l’operazione 
+programmata si veriﬁcherà, o ci si attende che non debba più accadere, l’utile o la perdita complessivo che era stato 
+rilevato direttamente a patrimonio netto dovrà essere imputato a conto economico.
+La contabilizzazione delle operazioni di copertura viene interrotta nei seguenti casi:
+a)  la copertura operata tramite il derivato cessa o non è più altamente efﬁcace;
+b)  il derivato scade, viene venduto, rescisso o esercitato;
+c)  l’elemento coperto è venduto, scade o è rimborsato;
+d)  viene revocata la deﬁnizione di copertura.
+Nei casi (a), (c) e (d) il contratto derivato di copertura viene riclassiﬁcato tra gli strumenti di negoziazione.
+Nel caso di operazioni di copertura generica, lo IAS 39 consente che oggetto di copertura di fair value dal rischio di 
+tasso di interesse sia non solo una singola attività o passività ﬁnanziaria ma anche un importo monetario, contenuto 
+in una molteplicità di attività e passività ﬁnanziarie (o di loro porzioni), in modo che un insieme di contratti derivati 
+possa essere utilizzato per ridurre le oscillazioni di fair value delle poste coperte al modiﬁcarsi dei tassi di interesse 
+di mercato. 
+Non possono essere oggetto di copertura generica (macrohedging) importi netti rivenienti dallo sbilancio di attività 
+e passività. La relazione di copertura è formalmente documentata da una hedging card e la tenuta della stessa è ve-
+riﬁcata sia attraverso test prospettici che retrospettivi. La copertura è considerata efﬁcace se il rapporto tra la varia-
+zione del fair value dell’elemento coperto rispetto allo strumento di copertura è ricompreso nell’intervallo 80-125%.
+Criteri di valutazione e di rilevazione delle componenti reddituali
+Gli strumenti ﬁnanziari derivati di copertura sono inizialmente iscritti e in seguito misurati al fair value. La determina-
+zione del fair value dei derivati è basata su prezzi desunti da mercati regolamentati o forniti da operatori, su modelli 
+di valutazione delle opzioni, o su modelli di attualizzazione dei ﬂussi di cassa futuri.
+Le modalità di contabilizzazione degli utili e delle perdite derivanti dalle variazioni del fair value sono diverse in re-
+lazione alla tipologia di copertura.
+1)  copertura di fair value (fair value hedge):
+Il cambiamento del fair value dell’elemento coperto (riconducibile al rischio coperto) è registrato nel conto econo-
+mico, al pari del cambiamento del fair value dello strumento derivato; l’eventuale differenza, che rappresenta la 
+parziale inefﬁcacia della copertura, determina di conseguenza l’effetto economico netto.
+Qualora la relazione di copertura non rispetti più le condizioni previste per l’applicazione dell’hedge accounting la 
+stessa viene interrotta, la differenza fra il valore di carico dell’elemento coperto nel momento in cui cessa la coper-
+tura e quello che sarebbe stato il suo valore di carico se la copertura non fosse mai esistita, è ammortizzata a conto 
+123

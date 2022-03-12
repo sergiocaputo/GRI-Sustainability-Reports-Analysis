@@ -1,0 +1,44 @@
+ 
+Changes during 2018 are shown in the following table: 
+                 
+31 December Impairment Utilisations Reversals  Change in  Reclass./Other  Net  31 December 
+2017  losses  consolidation  changes exchange  2018 
+scope  gains 
+(€’000) 
+(losses) 
+Trade receivables  171,328  79,674  (286)  (1,925)   5,623  (922)  253,492 
+Default interest  5,331  1,071  (35)       58  6,425 
+Total   176,659  80,745  (321)  (1,925)  -  5,623  (864)  259,917 
+Changes in the loss allowance are shown in the following table: 
+                 
+31 December  Impairment  Utilisations  Reversals  Mergers  Reclass./  Net  31 December 
+2018  losses  Other  exchange  2019 
+(€’000) 
+changes  gains 
+Trade receivables  253,492  16,636  (1,219)     184  23  269,116 
+Default interest  6,425   (319)     (148)  9  5,967 
+Total   259,917  16,636  (1,538)  -  -  36  32  275,083 
+ 
+Trade receivables - group companies and other related parties amount to €1,117.9 million at the reporting date 
+compared to €715.3 million at 31 December 2018. They mainly refer to commercial transactions. 
+The following table shows the main group companies to which these receivables refer: 
+ 
+       
+(€’000)  31 December 2018  31 December 2019  Variation 
+COCIV  226,791  530,259  303,468 
+Salerno Reggio Calabria  76,260  77,408  1,148 
+Salini Polska L.t.d.  46,388  63,485  17,097 
+Consorzio Cavtomi  60,279  60,458  179 
+PerGenova  -  56,890  56,890 
+Metro Blu  18,932  45,347  26,415 
+Grupo Unidos por el Canal  33,914  36,015  2,101 
+Rc Scilla  23,387  24,103  716 
+E.R. Impregilo/Dumez y Asociados para Yaciretê  13,839  16,855  3,016 
+Eurolink  9,935  10,019  84 
+Hirpinia consortium  2,169  353  (1,816) 
+Salini - Impregilo Joint Venture for Mukorsi  79,268  -  (79,268) 
+Other  124,139  196,692  72,553 
+Total  715,301  1,117,884  402,583 
+ 
+ 
+   444 

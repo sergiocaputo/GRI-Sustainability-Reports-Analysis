@@ -1,0 +1,28 @@
+Processo produttivo e qualità di prodotto
+Grazie ad una forte politica di investimenti attuati negli ultimi anni nelle diverse funzioni chiave, Italchimica gestisce 
+internamente tutta la filiera di creazione del prodotto, dal soffiaggio del flacone, alla miscelazione dei prodotti fino al punto 
+vendita.
++ + + +
+Laboratorio Soffiaggio Miscelazione Riempimento Confezionamento
+Il sistema gestionale di ERP SAP HANA permette di coordinare tutte 
+le  funzioni  aziendali  consentendo  di  ottimizzare  la  gestione  della 
+produzione e dell’operatività in tutte le sedi.
+I risultati di Italchimica sono la testimonianza del lungo lavoro svolto fino ad oggi mantenendo alti e costanti gli standard 
+qualitativi senza tralasciare le normative  vigenti in materia. Durante le varie fasi di produzione, Italchimica si avvale di sistemi 
+di controllo dedicati al fine di garantire elevati livelli di qualità dei prodotti finiti, in termini di riproducibilità, completezza e 
+accuratezza. 
+F.I.F.O.  HOLESS SENECA CTRL EYES
+Italchimica adotta il sistema  Durante  il  processo  Dosatore  automatico  di  Il sistema, basato su uno 
+di  gestione  F.I.F.O.  (First  produttivo  dei  flaconi,  materie prime in IBC che  strumento  di  cattura 
+In First Out) che consiste  un  sistema  automatico  crea un circuito chiuso tra  digitale durante le fasi di 
+nella modalità di utilizzo di  controlla, tramite  lo stoccaggio della materia  riempimento,  controlla 
+materiale per cui il primo  l’  immissione  di  aria,  la  prima  e  il  mescolatore.  che vengano rispettate le 
+introdotto,  o  il  primo  a  presenza  di  difetti  sulla  Questo  sistema  viene  caratteristiche  estetiche 
+scadere, è il primo ad uscire.  superficie  del  flacone  utilizzato per effettuare un  e qualitative del prodotto: 
+Questa gestione permette  stesso. Questo garantisce,in  dosaggio  estremamente  presenza e posizionamento 
+di evitare obsolescenza di  caso di difettosità, lo scarto  preciso  di  materie  prime  delle  informazioni  su 
+magazzino. automatico del flacone. ad  alto  rischio  chimico,  etichetta e packaging.
+garantendo  un  margine 
+massimo di errore di 50 gr 
+su produzioni da 25.000 kg. 
+13

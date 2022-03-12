@@ -1,0 +1,30 @@
+Many of the company’s internal policies relate to  business continuity (ISO 22301).
+management systems, which Fastweb has voluntarily 
+had certified in accordance with specific standards.  In 2018 Fastweb expanded its management system 
+These systems have been integrated to create a single  further, earning a certificate of conformity with ISO 
+management system that guides internal operations  27017 for the introduction of information security 
+and ensures the proper application of company  controls for cloud services and a certificate of 
+policies in the various operating areas. This system  conformity with ISO 27035, which specifies the 
+includes: process quality (ISO 9001), information  methods to follow to manage and prevent information 
+and data security (ISO 27001), privacy management  security incidents. In both cases, these are additional 
+for public cloud services (ISO 27018), environment  security measures that guarantee customers 
+(ISO 14001), occupational health and safety (OHSAS  information security in the provision of services always 
+18001), ICT service management (ISO 20000) and  in line with industry best practices.
+2003 07/2007 12/2007 2010 05/2013
+ISO 9001 ISO/IEC 27001 ISO 14001 OHSAS 18001  ISO 22301 
+QUALITY INFORMATION  ENVIRONMENT  OCCUPATIONAL  BUSINESS 
+Enterprise AND DATA  Entire Company HEALTH AND  CONTINUITY 
+SAFETY Entire Company
+SECURITY 
+Entire Company
+Enterprise
+09/2013 2016 2018 2018 2019
+ISO 20000 ISO 27018 ISO 27017 ISO 27035
+ITC SERVICE  PRIVACY  INFORMATION  INFORMATION 
+MANAGEMENT MANAGEMENT  SECURITY  SECURITY 
+FOR PUBLIC  CONTROLS  INCIDENT 
+Enterprise
+CLOUD  FOR CLOUD  MANAGEMENT
+SERVICES  SERVICES  Enterprise
+Enterprise Enterprise
+The Fastweb model. Always a step ahead 15

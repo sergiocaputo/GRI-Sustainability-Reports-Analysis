@@ -1,0 +1,85 @@
+ 
+ 
+  GM and PU waste 
+finishing molding PU 
+(waste not  Non-powverulent 
+070299  none  molding GM molding  D1 
+otherwise  solid 
+compounds 
+specified) 
+Synthetic GM  Non-powverulent  none 
+waste (wastes not  solid  finishing moulding 
+070299  R13, R3 
+otherwise  rubber 
+specified) 
+Waste paint and  Non-powverulent  none 
+080112  varnish (other than  solid  finishing  D9 
+080111*) 
+Dust abatement  Non-powverulent  none 
+080112  finishing  D9 
+painting  solid 
+Cartridges for laser  Non-powverulent  none 
+printers, ink jets,  solid 
+the whole 
+080318  needles (plastic  D9 
+establishment 
+packaging) with 
+traces of toner 
+Resin abatement  none 
+120105  and carding  powdery solid  carding/modelling  D9 
+powders 
+Paper and  Non-powverulent  none  from any activity 
+150101  cardboard  solid  R13, R3 
+packaging 
+Non-powverulent  none  from any activity 
+150102  Plastic packaging  R13, R3 
+solid 
+Non-powverulent  none  from any activity 
+150103  Wooden packaging  R13, R3 
+solid 
+Non-powverulent  none  PU moulding paint 
+150104  Metal packaging  R13, R4 
+solid  formulation 
+Mixed material  Non-powverulent  none  PU molding workshop 
+150106  R13 
+packaging  solid  maintenance 
+Non-powverulent  none 
+150203  Filtering materials  washers  D9 
+solid 
+Non-powverulent  none  Finishing department 
+solid  Formulation 
+Rags, Absorbent 
+150203  department Paints  D9 
+Material 
+department 
+Workshop 
+Discarded  Non-powverulent  none 
+equipment (other  solid  the whole 
+160214  R13 
+than 160209* and  establishment 
+160213*) 
+Non-powverulent  none  from any activity 
+170402  Aluminium  R13 
+solid 
+Non-powverulent  none  from any activity 
+170405  Iron and steel  R13, R4 
+solid 
+Waste from sewer  none 
+200306  liquid  clogging sewer  D8 
+cleaning 
+Emulsified water 
+130105*  (non-chlorinated  liquid  HP14  GM moulding  D9 
+emulsions) 
+Waste water from 
+washing machines 
+070601*  liquid  HP14  washing  D9 
+(non-chlorinated 
+emulsions) 
+Waste colour 
+pastes  
+070308*  (other bottoms  liquid  HP14  PU molding  D9 
+and reaction 
+residues) 
+ 
+               66 
+ 

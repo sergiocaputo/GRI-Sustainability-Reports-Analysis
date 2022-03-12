@@ -1,0 +1,39 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+  gli interessi di mora, eventualmente previsti in via contrattuale, sono 
+contabilizzati a conto economico solo al momento del loro effettivo 
+incasso.
+Pagamenti basati su azioni
+L’IFRS 2 è il principio contabile che disciplina i pagamenti basati su azioni. 
+I piani di stock options attualmente in vigore sono considerati pagamenti 
+basati su azioni “equity settled”, conseguentemente il costo dell’operazione, 
+unitamente al corrispondente incremento del patrimonio netto, è rilevato con 
+riferimento al fair value delle opzioni alla data di assegnazione sul periodo, 
+che parte dalla data di assegnazione delle opzioni stesse alla data di 
+maturazione del diritto di esercitare le opzioni (Vesting period).
+Il fair value dell’opzione è stato calcolato utilizzando un modello che ha 
+considerato, oltre ad informazioni quali il prezzo di esercizio e la vita 
+dell’opzione, il prezzo corrente delle azioni e la loro volatilità attesa, i 
+dividendi attesi e il tasso di interesse risk-free, anche le caratteristiche 
+specifiche del piano in essere. Nel modello del pricing sono valutate in 
+modo distinto l’opzione e la probabilità di realizzazione della condizione di 
+mercato. La combinazione dei due valori fornisce il fair value dello strumento 
+assegnato. I costi cumulati rilevati alla data di ogni chiusura di esercizio, 
+fino alla data di maturazione sono commisurati alla scadenza del periodo 
+di maturazione e alla migliore stima disponibile del numero di strumenti 
+partecipativi che verranno effettivamente esercitati a maturazione.
+Lo storno di costo iscritto a conto economico in ciascun esercizio rappresenta 
+la variazione del costo cumulato tra quanto rilevato alla fine dell’esercizio 
+rispetto a quanto cumulato al termine dell’esercizio precedente. Nessun costo 
+viene rilevato per i diritti che non arrivano a maturazione definitiva. Sono 
+inoltre previsti dei sistemi incentivanti al personale rilevante che si basano 
+su pagamenti basati su azioni del gruppo in ottemperanza alla disciplina 
+sulla remunerazione del citato personale. Allo stato tali obbligazioni sono 
+contabilizzate come pagamenti basati su azioni “cash settled” in quanto la 
+consegna fisica degli strumenti finanziari (cosiddette “performance shares”) è 
+subordinata alla necessaria delibera assembleare.
+Uso di stime
+Il presente progetto di bilancio consolidato ha comportato la necessità 
+di effettuare stime e valutazioni complesse che hanno prodotto effetti 
+sulle attività, passività, costi e ricavi iscritti nonché sull’individuazione e 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 163

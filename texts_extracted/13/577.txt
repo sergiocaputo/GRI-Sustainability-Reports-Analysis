@@ -1,0 +1,32 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Sezione 4 - Risultato netto dell’attività di negoziazione - Voce 80 
+4.1 Risultato netto dell’attività di negoziazione: composizione
+Euro/migliaia Plusvalenze Utili da  Minusvalenze Perdite da  Risultato netto
+ (A) negoziazione  (C) negoziazione  (A+B) - (C+D)
+(B) (D)
+1. Attività finanziarie di negoziazione 22.437 440 (4.848) (10.932) 7.097
+1.1 Titoli di debito 2.137 405 (4.848) (10.915) (13.221)
+1.2 Titoli di capitale 20.300 35 - (17) 20.318
+1.3 Quote di O.I.C.R. - - - - -
+1.4 Finanziamenti - - - - -
+1.5 Altre - - - - -
+2. Passività finanziarie di negoziazione 1.006 11.902 (142) (237) 12.529
+2.1 Titoli di debito 1.006 11.897 (142) (235) 12.526
+2.2 Debiti - - - - -
+2.3 Altre - 5 - (2) 3
+3. Altre attività e passività finanziarie: 
+X X X X 97
+differenze di cambio
+4. Strumenti derivati 5.464 2.827 (2) (13.366) 19
+4.1 Derivati finanziari: 5.464 2.827 (2) (13.366) 19
+- Su titoli di debito e tassi di interesse 5.464 2.827 (2) (13.366) (5.077)
+- Su titoli di capitale e indici azionari - - - - -
+- Su valute e oro X X X X 5.096
+- Altri - - - - -
+4.2 Derivati su crediti - - - - -
+di cui: coperture naturali connesse con la fair 
+X X X X -
+value option
+TOTALE 28.907 15.169 (4.992) (24.535) 19.742
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 578

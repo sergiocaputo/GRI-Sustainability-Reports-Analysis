@@ -1,0 +1,71 @@
+02_BUSINESS MODEL AND GOVERNANCE_RISK MANAGEMENT
+    
+Key global risks identified in 2018 include risks related to product  Disaster Recovery Management is complementary to business 
+quality and customer satisfaction; product portfolio and technology  continuity management as it entails strategies and processes to plan 
+strategy; technology development and product launch; talent  for, respond to, and recover from significant business disruptions 
+management; interruption of critical supplies and supplier quality;  impacting Information and Communications Technologies (ICT). 
+regulatory compliance and commercial policies. Each key global  Many business functions are extremely time sensitive and cannot 
+focus risk has been classified by risk categories and control  be interrupted for an extended period of time. Accordingly, disaster 
+measures and mitigating actions are subsequently defined for each  recovery’s goals include minimizing downtime and restoring 
+identified risk. business operations, and supporting applications within acceptable 
+time frames.
+For further details, see Significant Risks Identified and Control 
+Measures Taken in the 2018 FCA Annual Report. The Disaster Recovery Team oversees program administration, 
+governance, and compliance. The Chief Information Security Officer 
+is responsible for ensuring that the Disaster Recovery program is 
+BUSINESS CONTINUITY   executed within ICT.
+MANAGEMENT Disaster Recovery enables FCA to:
+• help ensure the safety and well-being of personnel, customers, 
+and other individuals conducting business at FCA
+Managing business operations and returning to normal production 
+• minimize the loss of data, revenue, and customers in the event 
+schedules when a catastrophic event causes a major disruption 
+of a disaster 
+requires planning and discipline. These potential events include 
+• meet our contractual and legal obligations.
+natural disasters, pandemics, facility issues, cyberattacks, or 
+unforeseen events within our supply chain. Our business continuity  Because disruptions to business operations may also impact 
+management is a structured and disciplined approach to reducing  non-manufacturing activities, FCA Services has also put Business 
+the likelihood and severity of disruptions, and reducing recovery time  Continuity Plans (BCP) in place in its operations. FCA Services is 
+in the event of a disruption. the shared service center dedicated to supporting FCA’s worldwide 
+processes and activities within Finance, Taxation, HR Services 
+The business continuity management process has four elements:
+and Customs. The FCA Services Business Continuity Plan follows 
+• Critical production processes for each plant are mapped to key 
+the best practices and requirements of international standards 
+inputs, including facility infrastructure, process equipment, data 
+(FCA Services is ISO 27001 certified) and focuses on the safety of 
+technology, human resources, and suppliers. Current recovery 
+employees and on continuity of services.
+strategies are documented. Data is made available to employees, 
+and knowledge can be shared across business units and plants. This Plan includes:
+• An  enterprise  impact  analysis  is  created  to  identify  plant  • Policies and Procedures followed by all FCA Services countries 
+interrelationships,  and  the  resultant  financial  impact  of  each  • Enterprise  Risk  Assessment  and  Business  Impact  Analysis 
+plant. Financial impact is also determined for individual vehicle or  to  identify  the  risks  and  evaluate  financial,  reputational  and 
+component product lines within each plant. operational impact. To mitigate the risks, action plans and new 
+• Key  operational  risks  and  mitigation  initiatives  may  then  be  countermeasures are implemented.
+associated to any facet of the production system until resolved. • Key Performance Indicators to assess the correct alignment of all 
+• A Business Continuity Plan is developed to summarize information  parties with the BCP requirements and the full achievement of all 
+required for business recovery. A flexible approach allows each  objectives
+plant to develop a situation-specific response. Elements of the  • Business Continuity Plans with all steps and actions to be taken 
+plan are tested annually, at a minimum, through a simulation  in case of a disruption 
+exercise. • disruption scenarios to be prepared addressing adverse situations
+• consistent control and monitoring of events that could impact the 
+The results and priorities of the Business Continuity Management 
+business
+process are reviewed regularly by management.
+• testing, from simulation exercises to full testing, to ensure the 
+By the end of 2018, Business Continuity Plans had been developed 
+validity of the plan and involve and train employees
+for 21 of the higher-risk manufacturing plants in the United States, 
+• Business Continuity Plan enhancements as a result of testing 
+Canada and Mexico, accounting for approximately 80% of FCA’s 
+performed.
+total NAFTA revenue attributed to vehicle sales. Plans have also 
+All FCA Services Business Continuity activities are reviewed every 
+been developed for a core set of supporting corporate functions in 
+year by a Steering Committee as well as by internal and independent 
+the U.S., Canada and Mexico that most directly impact operations.
+external  auditors  to  assure  the  correctness  and  consistent 
+improvement of the Business Continuity Plan.
+40

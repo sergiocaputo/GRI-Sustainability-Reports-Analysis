@@ -1,0 +1,37 @@
+ 
+recognise the asset to the extent of its continuing involvement in the asset. Continuing involvement that takes 
+the form of guaranteeing the transferred asset is measured at the lower of the initial carrying amount of the 
+asset and the maximum amount of the consideration that the Group could be required to pay.  
+(b) Financial liabilities 
+Financial liabilities are derecognised when the underlying obligation is extinguished, cancelled or settled. 
+When an existing financial liability is exchanged with another by the same lender at substantially different terms, 
+or the terms of an existing liability are substantially modified, this exchange or modification is treated as an 
+extinguishment of the original financial liability and the recognition of a new financial liability. The difference 
+between the carrying amounts is recognised in profit or loss. 
+Derivatives and hedging transactions 
+Salini Impregilo Group has derivatives recognised at fair value when the related agreement is signed and for 
+subsequent fair value changes. The treatment of the related fair value gains or losses changes depending on 
+whether the conditions for hedge accounting under IFRS 9 are met, as described below. 
+Salini Impregilo Group has derivatives to hedge currency and financial risks. At the inception of the transaction, 
+it documents the hedging relationship, its risk management and strategy objectives in entering into the 
+transaction, the hedging instrument and hedged item or transaction and the nature of the hedged risk. 
+Moreover, at the inception of the transaction and thereafter on an ongoing basis, the Group documents whether 
+or not the hedge meets the effectiveness requirements to offset its exposure to changes in the fair value of the 
+hedged item or cash flows attributable to the hedged risk. 
+“Hedging purposes” are assessed considering risk management objectives. When they do not meet the 
+requirements of IFRS 9 for hedge accounting, the derivatives are classified as “Financial assets or financial 
+liabilities at fair value through profit or loss”. 
+Employee benefits 
+•  Defined benefit plans and defined contribution plans 
+The Group has pension plans for its employees that are classified either as defined benefit plans or defined 
+contribution plans depending on their characteristics. Defined benefit plans include the benefits the employees 
+will receive when they retire and which are usually dependent on one or more factors such as age, years of 
+service and remuneration. The Group recognises a liability for these defined benefits equal to the present value 
+of its obligation at year end, including any adjustments for unrecognised costs related to past service less the 
+fair value of the plan assets. The Group calculates its liability once a year using the projected unit credit method. 
+Present value is calculated by discounting the future outlays using the interest rate applied to high quality 
+corporate bonds with a currency and term consistent with the currency and estimated term of the post-
+employment benefit obligations. Actuarial gains and losses on defined benefit plans arising from changes in 
+the underlying assumptions or in the plan conditions are recognised in other comprehensive income in the 
+period in which they arise. Past service cost is expensed immediately. The Group pays benefits to public and 
+   250 

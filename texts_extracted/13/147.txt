@@ -1,0 +1,42 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+di copertura di fair value, che ha l’obiettivo di coprire l’esposizione alla 
+variazione del fair value di una posta di bilancio attribuibile ad un particolare 
+rischio. In particolare, la Società ha attivato operazioni di copertura del fair 
+value di un portafoglio di mutui a tasso fisso coprendo il rischio di tasso 
+d’interesse.
+Solo gli strumenti che coinvolgono una controparte esterna al Gruppo 
+possono essere designati come strumenti di copertura. Non possono inoltre 
+essere oggetto di copertura importi netti rinvenienti dallo sbilancio di attività e 
+passività finanziarie.
+I derivati di copertura sono valutati al fair value. Trattandosi di copertura di 
+fair value, la variazione di fair value dell’elemento coperto è compensata 
+dalla variazione di fair value dello strumento di copertura. Tale 
+compensazione è riconosciuta attraverso la rilevazione a conto economico 
+delle variazioni di fair value, riferite sia all’elemento coperto (per quanto 
+riguarda le variazioni prodotte dal fattore di rischio sottostante), sia allo 
+strumento di copertura.
+L’eventuale differenza, che rappresenta la parziale inefficacia della copertura, 
+ne costituisce di conseguenza l’effetto economico netto. La determinazione 
+del fair value è basata su prezzi rilevati in mercati attivi, su prezzi forniti da 
+operatori di mercato o su modelli interni di valutazione, generalmente utilizzati 
+dalla pratica finanziaria, che tengono conto di tutti i fattori di rischio correlati 
+agli strumenti e che sono basati su dati rilevabili sul mercato.
+Lo strumento derivato è designato di copertura se esiste una documentazione 
+formalizzata della relazione tra lo strumento coperto e lo strumento di 
+copertura e se è efficace nel momento in cui la copertura ha inizio e, 
+prospetticamente, durante tutta la vita della stessa. L’efficacia di una 
+relazione di copertura dipende dalla misura in cui le variazioni di fair value 
+dello strumento coperto risultano compensate da quelle dello strumento 
+di copertura. La relazione di copertura si ritiene generalmente efficace se, 
+all’inizio della copertura e nei periodi successivi, le variazioni di fair value 
+dello strumento finanziario di copertura sono compensate dalle variazioni di 
+fair value dello strumento coperto e se i risultati effettivi risultano ricompresi 
+all’interno di un definito intervallo (80%-125%).
+La valutazione dell’efficacia è effettuata ad ogni chiusura di bilancio o in 
+occasione della redazione delle situazioni infrannuali utilizzando: 
+  test prospettici, che giustificano l’applicazione della contabilizzazione 
+di copertura, in quanto ne dimostrano l’efficacia attesa; 
+  test retrospettivi, che evidenziano il grado di efficacia della copertura 
+raggiunto nel periodo cui si riferiscono. In altre parole, misurano 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 148

@@ -1,0 +1,49 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+PASSIVO
+SEZIONE 1 - PASSIVITÀ FINANZIARIE VALUTATE AL COSTO AMMORTIZZATO - VOCE 10
+1.1  Passività ﬁ nanziarie valutate al costo ammortizzato: composizione merceologica 
+dei debiti verso banche 
+31.12.2019 31.12.2018
+VALORE DI  FAIR VALUE VALORE DI  FAIR VALUE
+BILANCIO BILANCIO
+LIVELLO 1 LIVELLO 2 LIVELLO 3 LIVELLO 1 LIVELLO 2 LIVELLO 3
+1. Debiti verso Banche Centrali -  X   X   X  -  X   X   X 
+2. Debiti verso banche 3.033   X   X   X  3.366   X   X   X 
+2.1 Conti correnti e depositi a vista 408   X   X   X  882   X   X   X 
+2.2 Depositi a scadenza 578   X   X   X  359   X   X   X 
+2.3 Finanziamenti 1.944   X   X   X  2.101   X   X   X 
+2.3.1 Pronti contro termine passivi (*) 1.944   X   X   X  2.101   X   X   X 
+2.3.2 Altri -  X   X   X  -  X   X   X 
+2.4  Debiti per impegni di riacquisto di propri 
+strumenti patrimoniali -  X   X   X  -  X   X   X 
+2.5 Debiti per leasing 22   X   X   X  -  X   X   X 
+2.6 Altri debiti 81   X   X   X  24   X   X   X 
+Totale 3.033  - 1.212  1.821  3.366  - 1.588  1.778 
+(*) La voce include principalmente pronti contro termine di raccolta stipulati con Intesa Sanpaolo e Banca IMI.
+Nel fair value - livello 3 sono inclusi prevalentemente i pronti contro termine con scadenza superiore ad un anno.
+1.2  Passività ﬁ nanziarie valutate al costo ammortizzato: composizione merceologica 
+dei debiti verso clientela
+31.12.2019 31.12.2018
+VALORE DI  FAIR VALUE VALORE DI  FAIR VALUE
+BILANCIO BILANCIO
+LIVELLO 1 LIVELLO 2 LIVELLO 3 LIVELLO 1 LIVELLO 2 LIVELLO 3
+1. Conti correnti e depositi a vista 35.193   X   X   X  30.211   X   X   X 
+2. Depositi a scadenza 3.411   X   X   X  1.794   X   X   X 
+3. Finanziamenti 32   X   X   X  46   X   X   X 
+3.1 Pronti contro termine passivi 32   X   X   X  46   X   X   X 
+3.2 Altri  -  X   X   X  -  X   X   X 
+4.  Debiti per impegni di riacquisto 
+di propri strumenti patrimoniali 8   X   X   X  8   X   X   X 
+5. Debiti per leasing 280   X   X   X  -  X   X   X 
+6. Altri debiti 100   X   X   X  71   X   X   X 
+Totale 39.024   -   36.412   2.612  32.130  - 30.875  1.255 
+I debiti per impegni di riacquisto di propri strumenti patrimoniali si riferiscono ad opzioni put vendute aventi come sottostante quote di minoranza di una partecipazione consolidata
+integralmente.
+Nel fair value - livello 3 sono inclusi prevalentemente i depositi vincolati con scadenza superiore ad un anno.
+1.6 Debiti per leasing
+Distribuzione temporale per durata residua dei debiti per leasing
+ENTRO 1 ANNO TRA 1 E 5 ANNI OLTRE 5 ANNI 31.12.2019
+Debiti per leasing verso banche 6 15 1 22
+Debiti per leasing verso clientela 36 127 117 280
+Le uscite di cassa nel corso dell’esercizio a fronte di debiti per leasing ammontano a €39 milioni.
+298 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

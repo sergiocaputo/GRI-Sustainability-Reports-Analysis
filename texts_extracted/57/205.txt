@@ -1,0 +1,19 @@
+Bilancio Individuale 2017
+Come evidenziato in precedenza, quindi, le PD e le LGD sono stimate tenendo conto di serie storiche, fondate su 
+elementi osservabili alla data della valutazione, che consentono di stimare il valore della perdita relativa a ciascuna 
+categoria di crediti. 
+c)  Stima della svalutazione collettiva 
+Per la determinazione della svalutazione collettiva:
+-  si procede a determinare l’esposizione di ogni rapporto creditizio (sia esposizioni per cassa che esposizioni di 
+ﬁrma), sulla base di informazioni estratte dalle procedure di bilancio;
+-  si procede ad applicare la percentuale di perdita stimata media (il prodotto di PD per LGD) relativa a ciascun 
+gruppo omogeneo di rischio determinato dalla chiave segmento di rischio/forma tecnica.
+La somma delle perdite stimate per ogni singolo rapporto di cassa e di ﬁrma fornisce la misura della svalutazione 
+collettiva. Il confronto dell’importo così determinato con quello riferito alla valutazione del periodo precedente de-
+termina la rettiﬁca di valore o la potenziale ripresa di valore complessiva da applicare ai crediti verso la clientela in 
+bonis.
+Ai ﬁni della quantiﬁcazione del fondo di accantonamento collettivo, in coerenza con l’approccio segnaletico per il 
+calcolo delle attività ponderate per il rischio, la quota secured delle esposizioni garantite da Soggetti a ponderazio-
+ne di rischio nulla (e.g. Medio Credito Centrale, fondi nazionali o internazionali per lo sviluppo, etc.) non è soggetta 
+a svalutazione.
+205

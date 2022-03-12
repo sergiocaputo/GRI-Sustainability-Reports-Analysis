@@ -1,0 +1,51 @@
+ 
+2.6.4 Management of water resources  
+Aware that the scarcity of water resources is one of the most urgent issues in the global debate on climate 
+change  and  environmental  impacts,  AdB  has  paid  particular  attention  to  the  monitoring  of  its  water 
+consumption and to analysing wastewater quality. In order to reduce water consumption and water pollution, 
+Bologna Airport has undertaken various actions aimed at improving the efficiency of the management model 
+and of airport facilities and buildings. In particular, AdB is committed to the study and analysis of its water 
+consumption,  to  the  mapping  of  water  uses  and  to  the  identification  of  further  actions  to  minimise 
+consumption.  Furthermore,  the  company  has  begun  the  construction  of  a  new  airport  infrastructure 
+purification plant, which will contribute significantly to reducing environmental impacts in terms of water 
+pollution. 
+The assessment of sewage discharge demonstrates its group’s compliance with the limit values set by law 
+(Legislative Decree No. 152/06). Specifically, the most critical figure relates to the COD parameter, which is 
+in turn tied to the use of the de-icing fluid employed on airport pavement and aircraft. As Airport Manager, 
+AdB must also guarantee the continuous and regular provision of ground handling services for carriers 
+operating at the airport. It must therefore provide adequate tools for cleaning aircraft of snow and ice 
+contamination, the so-called activity of de-icing. At certain times in the winter, there is the risk that the limit 
+values may temporarily be exceeded in the event of massive use of de-icing fluid.  
+De-icing pad 
+ 
+To optimise processes and reduce the impact of liquids, a remote de-icing pad was constructed in 2019. 
+From 2020, this provides a dedicated area where de-icing treatments can be carried out and liquids can 
+be collected and disposed of as per applicable law. In September 2019, training began for de-icing 
+supply operators in order to implement the new operating methods. In short, these allow de-icing to be 
+carried out with the aircraft’s engines running, meaning that the aircraft can proceed directly to the 
+runway for take-off once the operation has been finished, thereby streamlining the entire process. In the second half 
+of 2019, AdB also implemented new software to manage the entire de-icing process, and provided training for all the 
+operators involved. 
+ 
+Performance Indicators  
+Water consumption by source (GRI 303-1)  Unit  2017  2018  2019 
+Wells  m3  2,975  39,527  29,992 
+Municipal water  162,188  77,369  66,950 
+Total  m3  165,163  116,896  96,942 
+The assessment of water drawn refers to water utility consumption by AdB (including FFM) and TAG.  
+ 
+During 2019, AdB studied the feasibility of collecting and reusing rainwater from the exterior of airport buildings, 
+according to the characteristics of the water collected. This assessment identified the work that will be carried out 
+according to a plan which is currently being developed. 
+Sewer discharge data 
+Parameter  Unit  Average annual value  Parameter values 
+2017  2018  2019  Legislative Decree 152/06 
+COD  mg/l  17.3  30.66  68.40  500 
+Hydrocarbons  mg/l  0  0  3.9  250 
+Suspended solids  mg/l  7.8  5.52  6.3  80 
+The table shows the average values recorded during various analyses carried out during the reference year. The 
+reference area is the airport grounds, including the rainwater collection system that serves airport and operator activities 
+within the airport grounds. These data refer to the water quality parameters of the run-off water overflow system at the 
+Olmi Quarry (Discharge C) and the water collection site associated with it (Fosso Fontana). 
+   
+70 

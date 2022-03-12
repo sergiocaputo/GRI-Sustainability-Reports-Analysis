@@ -1,0 +1,61 @@
+  24-27   
+102-18  Struttura della governance 
+ 
+   
+Coinvolgimento degli stakeholder 
+102-40  Elenco dei gruppi di stakeholder  20-22   
+102-41  Accordi di contrattazione collettiva  50   
+102-42  Identificazione e selezione degli  20-22   
+ 
+stakeholder 
+102-43 Approccio al coinvolgimento degli  22   
+stakeholder 
+102-44  Temi e criticità chiave sollevati  23; 80-82   
+Pratiche di reporting     
+102-45 Entità incluse nel Bilancio Consolidato  3; 9   
+3-5; 23; 80-82   
+102-46 Definizione dei contenuti del report e del 
+perimetro dei temi materiali 
+102-47  Elenco dei temi materiali  23; 80-82   
+102-48 Riesposizione delle informazioni  3; 56   
+102-49 Modifiche nella rendicontazione  3;23; 80-82   
+102-50 Periodo di rendicontazione  3   
+ 
+102-51 Data del report più recente  4   
+102-52 Periodicità di rendicontazione  4   
+102-53 Contatti per richiedere informazioni  5   
+riguardanti il report 
+102-54 Dichiarazione sulla rendicontazione in  3   
+conformità ai GRI Standards 
+102-55  Indice dei contenuti GRI  94-100   
+102-56 Attestazione esterna  101-103   
+ 
+     
+TEMATICHE MATERIALI 
+GRI 200: ECONOMIC SERIES  
+Performance economica  Pagine  Omission  Note 
+103-1 Spiegazione del tema materiale e del relativo  23; 80-82     
+GRI  103:  perimetro 
+Management  103-2 La modalità di gestione e le sue componenti  46-48     
+Approach (2016) 
+103-3 Valutazione delle modalità di gestione  46-48     
+GRI  201:  Economic  201-1 Valore economico direttamente generato e     
+46-48; 83 
+Performance (2016)  distribuito 
+     
+Pratiche di approvvigionamento 
+103-1 Spiegazione del tema materiale e del relativo  23; 80-82     
+GRI  103:  perimetro 
+Management  103-2 La modalità di gestione e le sue componenti  75-79     
+Approach (2016) 
+103-3 Valutazione delle modalità di gestione  75-79     
+GRI 204: Pratiche di  75     
+approvvigionamento  204-1 Proporzione di spesa verso fornitori locali 
+(2016) 
+     
+Anticorruzione 
+GRI  103:  103-1 Spiegazione del tema materiale e del relativo  23; 80-82     
+Management  perimetro 
+Approach (2016)  103-2 La modalità di gestione e le sue componenti  33-34     
+95 
+ 

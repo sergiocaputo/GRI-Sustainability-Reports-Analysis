@@ -1,0 +1,40 @@
+Bilancio Individuale 2017
+(cid:23)(cid:17)(cid:21)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:83)(cid:82)(cid:81)(cid:76)(cid:69)(cid:76)(cid:79)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:89)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:71)(cid:72)(cid:69)(cid:76)(cid:87)(cid:82)(cid:85)(cid:76)(cid:18)(cid:72)(cid:80)(cid:76)(cid:87)(cid:87)(cid:72)(cid:81)(cid:87)(cid:76)
+Totale  Totale 
+Voci/Valori 
+31/12/2017  31/12/2016 
+1. Titoli di debito  155.598  1.322.555 
+a) Governi e Banche Centrali  155.598  1.322.555 
+b) Altri enti pubblici  -  - 
+c) Banche  -  - 
+d) Altri emittenti  -  - 
+2. Titoli di capitale  52.095  96.012 
+a) Banche  6.107  11.402 
+b) Altri emittenti:  45.988  84.610 
+- imprese di assicurazione  7.895  12.595 
+- società finanziarie  160  4.128 
+- imprese non finanziarie  37.933  67.887 
+- altri  -  - 
+3. Quote di O.I.C.R.  177.384  200.567 
+4. Finanziamenti  -  - 
+a) Governi e Banche Centrali  -  - 
+b) Altri enti pubblici  -  - 
+c) Banche  -  - 
+d) Altri soggetti  -  - 
+Totale 385.077  1.619.134 
+(cid:3)
+L’importo relativo alle quote di O.I.C.R. si riferisce a fondi mobiliari riservati per un controvalore pari a euro 3,2 mi-
+lioni, a fondi immobiliari chiusi per euro 100,2 milioni, fondi private equity e private debt pari a 36,9 milioni ed a ETF 
+quotati su mercati regolamentati per euro 37,1 milioni.
+(cid:23)(cid:17)(cid:22)(cid:3)(cid:36)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:83)(cid:82)(cid:81)(cid:76)(cid:69)(cid:76)(cid:79)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:89)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:68)(cid:3)(cid:82)(cid:74)(cid:74)(cid:72)(cid:87)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:70)(cid:82)(cid:83)(cid:72)(cid:85)(cid:87)(cid:88)(cid:85)(cid:68)(cid:3)(cid:86)(cid:83)(cid:72)(cid:70)(cid:76)(cid:192)(cid:70)(cid:68)
+Copertura di fair value (fair value hedge)
+A partire dall’esercizio 2009 la Banca ha posto in essere talune operazioni di copertura speciﬁca di titoli classiﬁcati 
+nel portafoglio disponibile per la vendita. 
+In particolare sono state poste in essere operazioni di copertura speciﬁche di fair value (fair value hedge) relative al 
+rischio di variazione dei tassi di interesse.
+I titoli oggetto di copertura sono obbligazioni governative a tasso ﬁsso, il cui fair value al 31 dicembre 2017 ammonta 
+a 36 milioni di euro (37 milioni di euro al 31 dicembre 2016).
+La relazione di copertura è formalmente documentata da una hedging card e la tenuta della stessa è veriﬁcata at-
+traverso test sia prospettici che retrospettivi. La copertura è considerata efﬁcace se il rapporto tra la variazione del 
+fair value dell’elemento coperto rispetto allo strumento di copertura è ricompreso nell’intervallo 80-125%. 
+147

@@ -1,0 +1,38 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+Fondi pensione dipendenti
+I piani a contribuzione definita a favore di fondi pensione per i quali 
+l’azienda, attraverso il versamento dei contributi, non assume alcuna ulteriore 
+obbligazione nei confronti degli iscritti al fondo comportano la registrazione a 
+conto economico dei benefici maturati nel corso dell’esercizio.
+Conto economico
+I ricavi sono riconosciuti quando sono percepiti o comunque quando è 
+probabile che saranno ricevuti i benefici futuri e tali benefici possono essere 
+quantificabili in modo attendibile. In particolare:
+  le commissioni sono iscritte secondo il principio della competenza 
+temporale;
+  gli interessi attivi e passivi vengono rilevati secondo il principio della 
+competenza;
+  i dividendi sono rilevati a conto economico nel momento in cui ne 
+viene deliberata la distribuzione;
+  gli interessi di mora, eventualmente previsti in via contrattuale, sono 
+contabilizzati a conto economico solo al momento del loro effettivo 
+incasso.
+Pagamenti basati su azioni
+L’IFRS 2 è il principio contabile che disciplina i pagamenti basati su azioni. 
+I piani di stock options attualmente in vigore sono considerati pagamenti 
+basati su azioni “equity settled”, conseguentemente il costo dell’operazione, 
+unitamente al corrispondente incremento del patrimonio netto, è rilevato con 
+riferimento al fair value delle opzioni alla data di assegnazione sul periodo, 
+che parte dalla data di assegnazione delle opzioni stesse alla data di 
+maturazione del diritto di esercitare le opzioni (Vesting period).
+Il fair value dell’opzione è stato calcolato utilizzando un modello che ha 
+considerato, oltre ad informazioni quali il prezzo di esercizio e la vita 
+dell’opzione, il prezzo corrente delle azioni e la loro volatilità attesa, i 
+dividendi attesi e il tasso di interesse risk-free, anche le caratteristiche 
+specifiche del piano in essere. Nel modello del pricing sono valutate in 
+modo distinto l’opzione e la probabilità di realizzazione della condizione di 
+mercato. La combinazione dei due valori fornisce il fair value dello strumento 
+assegnato. I costi cumulati rilevati alla data di ogni chiusura di esercizio, 
+fino alla data di maturazione sono commisurati alla scadenza del periodo 
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 500

@@ -1,0 +1,61 @@
+6. Bilancio consolidato - Nota integrativa consolidata
+SEZIONE 4 - ATTIVITÀ FINANZIARIE VALUTATE AL COSTO AMMORTIZZATO - VOCE 40
+4.1  Attività ﬁ nanziarie valutate al costo ammortizzato: composizione merceologica dei 
+crediti verso banche
+31.12.2019 31.12.2018
+VALORE DI BILANCIO FAIR VALUE VALORE DI BILANCIO FAIR VALUE
+PRIMO E  TERZO  DI CUI: LIVELLO 1 LIVELLO 2 LIVELLO 3 PRIMO E  TERZO  DI CUI: LIVELLO 1 LIVELLO 2 LIVELLO 3
+SECONDO  STADIO IMPAIRED  SECONDO  STADIO IMPAIRED 
+STADIO ACQUISITE O  STADIO ACQUISITE O 
+ORIGINATE ORIGINATE
+A.  Crediti verso Banche 
+Centrali 163 - - - - 163 339 - - - - 339
+1. Depositi a scadenza - - -  X   X   X  - - - X X X
+2. Riserva obbligatoria 163 - -  X   X   X  339 - - X X X
+3. Pronti contro termine - - -  X   X   X  - - - X X X
+4. Altri - - -  X   X   X  - - - X X X
+B. Crediti verso banche 29.801 - - - 16.000 13.886 22.726 - - 3 11.940 10.675
+1. Finanziamenti 17.035 - - - 3.149 13.886 11.962 - - - 1.287 10.675
+1.1  Conti correnti e 
+depositi a vista 3.547 - -  X   X   X  5.584 - - X X X
+1.2 Depositi a scadenza 12.868 - -  X   X   X  6.259 - - X X X
+1.3 Altri ﬁ nanziamenti: 620 - -  X   X   X  119 - - X X X
+-  Pronti contro 
+termine attivi 500 - -  X   X   X  - - - X X X
+-  Finanziamenti per 
+leasing - - -  X   X   X  - - - X X X
+- Altri 120 - -  X   X   X  119 - - X X X
+2. Titoli di debito 12.766 - - - 12.851 - 10.764 - - 3 10.653 -
+2.1 Titoli strutturati - - - - - - - - - - - -
+2.2 Altri titoli di debito 12.766 - - - 12.851 - 10.764 - - 3 10.653 -
+Totale  29.964 - - - 16.000 14.049 23.065 - - 3 11.940 11.014
+Nel fair value - livello 3 sono inclusi la riserva obbligatoria, i conti correnti e i depositi con scadenza oltre un anno.
+4.2  Attività ﬁ nanziarie valutate al costo ammortizzato: composizione merceologica dei 
+crediti verso clientela
+31.12.2019 31.12.2018
+VALORE DI BILANCIO FAIR VALUE VALORE DI BILANCIO FAIR VALUE
+PRIMO E  TERZO  DI CUI: LIVELLO 1 LIVELLO 2 LIVELLO 3 PRIMO E  TERZO  DI CUI: LIVELLO 1 LIVELLO 2 LIVELLO 3
+SECONDO  STADIO IMPAIRED  SECONDO  STADIO IMPAIRED 
+STADIO (*)ACQUISITE O  STADIO ACQUISITE O 
+ORIGINATE ORIGINATE
+1. Finanziamenti 9.294 35 - - 2.632 6.697 9.519 12 - - 3.000 6.531
+  1. Conti correnti 6.663 32 -  X   X   X  6.222 11 -  X   X   X 
+  2.  Pronti contro termine 
+attivi 214 - -  X   X   X  726 - -  X   X   X 
+  3. Mutui 862 3 -  X   X   X  815 1 -  X   X   X 
+  4.  Carte di credito, prestiti 
+personali e cessioni del 
+quinto 156 - -  X   X   X  137 - -  X   X   X 
+  5. Finanziamenti per leasing - - -  X   X   X  - - -  X   X   X 
+  6. Factoring - - -  X   X   X  - - -  X   X   X 
+  7. Altri ﬁ nanziamenti 1.399 - -  X   X   X  1.619 - -  X   X   X 
+2. Titoli di debito 2.509 - - 442 1.830 - 2.535 - - 244 1.901 -
+2.1 Titoli strutturati - - - - - - - - - - - -
+2.2 Altri titoli di debito 2.509 - - 442 1.830 - 2.535 - - 244 1.901 -
+Totale 11.803 35 - 442 4.462 6.697 12.054 12 - 244 4.901 6.531
+(*)  Le attività deteriorate sono costituite da crediti in sofferenza per €1 milione, da inadempienze probabili per €19 milioni e da crediti scaduti o sconﬁ nanti secondo le regole previste dalla 
+Banca d’Italia per €15 milioni.
+Nel fair value - livello 3 sono inclusi prevalentemente i conti correnti e i crediti deteriorati.
+La sottovoce “altri ﬁ nanziamenti” include crediti di funzionamento ossia crediti per operazioni connesse con la prestazione di attività e di servizi ﬁ nanziari privi di afﬁ damento, per un ammon-
+tare pari a €603 milioni (in linea con il saldo 2018). Su tali esposizioni classiﬁ cate in stage 1 sono state registrate rettiﬁ che di valore non signiﬁ cative.
+286 Annual Report Integrato 2019   Fideuram - Intesa Sanpaolo Private Banking   

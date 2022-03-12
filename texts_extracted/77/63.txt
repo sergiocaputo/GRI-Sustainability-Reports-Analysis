@@ -1,0 +1,46 @@
+Total number of employees by type of contract and sex
+Rest of the world
+at 31 December 2016 at 31 December 2015
+Type of employment contract
+ Men   Women   Total   Men   Women   Total 
+Open-ended 34 19 53 32 18 50
+Fixed-term - 1 1 - - -
+Total  34 20 54 32 18 50
+Total number of employees by employment type (full-time and part-time)
+Isagro Group
+at 31 December 2016 at 31 December 2015
+Full Time / Part Time
+ Men   Women   Total   Men   Women   Total 
+Full-time 492 106 598 488 101 598
+Part-time 3 17 20 3 14 17
+Total 495 123 618 491 115 606
+New employee hires and employee turnover
+Total number and rate of new employee hires and employee turnover
+Isagro Group
+Hires
+Number of people from 1 January to 31 December 2016
+<30 years 30-50 years >50 years Total Rate
+Men 31 55 7 93 19%
+Women 5 5 1 11 9%
+Total  36 60 8 104 17%
+Terminations
+Number of people from 1 January to 31 December 2016
+<30 years 30-50 years >50 years Total Rate
+Men 9 17 8 34 7%
+Women 1 2 2 5 4%
+Total  10 19 10 39 6%
+Total number and rate of new employee hires and employee turnover
+Isagro Group
+Hires
+Number of people from 1 January to 31 December 2015
+<30 years 30-50 years >50 years Total Rate
+Men 28 43 6 77 16%
+Women 5 1 3 9 8%
+Total  33 44 9 86 14%
+Terminations
+Number of people from 1 January to 31 December 2015
+<30 years 30-50 years >50 years Total Rate
+Men 3 11 11 25 5%
+Women 1 - 3 4 3%
+Total  4 11 14 29 5%
+62

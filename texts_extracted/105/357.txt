@@ -1,0 +1,38 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Nell’ambito degli Strumenti finanziari derivati, il rischio in commento riguarda contratti di vendita a termine di titoli di Stato, 
+classificati come derivati di copertura di cash flow hedge, per un valore nominale complessivo di 1.408 milioni di euro, stipulati 
+dal Patrimonio BancoPosta nel corso dell’esercizio, nonché un contratto derivato stipulato dalla Capogruppo nell’esercizio 
+2013 finalizzato alla protezione dei flussi finanziari relativi al Prestito obbligazionario a tasso variabile di 50 milioni di euro.
+Al 31 dicembre 2017, con riferimento all’esposizione al rischio di tasso dovuta alla durata media finanziaria dei portafogli,  la 
+duration107 degli impieghi complessivi BancoPosta è passata da 5,56 a 5,30. Con riguardo invece alle polizze di Ramo I e V 
+emesse dalla Compagnia Poste Vita S.p.A., la duration degli attivi a copertura è passata da 6,08 al 31 dicembre 2016 a 6,13 al 
+31 dicembre 2017, mentre la duration delle passività è passata da 7,26 a 7,84. Gli strumenti finanziari a copertura delle Riserve 
+tecniche di Ramo III hanno invece scadenza coincidente con quella delle passività.
+Si riportano di seguito, per completezza di informativa, le posizioni esposte al rischio in commento per Poste Italiane S.p.A..
+Poste Italiane S.p.A. - Rischio tasso interesse su fair value
+Esposizione   Delta   Risultato prima   Riserve di Patrimonio 
+al rischio valore delle imposte netto al lordo delle 
+imposte
+Descrizione Fair 
+Nominale +100bps -100bps +100bps -100bps +100bps -100bps
+(milioni di euro) value
+Effetti 2017
+Attività finanziarie BancoPosta 
+Investimenti disponibili per la vendita 35.738  39.099  (1.009) 931  -    -    (1.009) 931 
+Titoli a reddito fisso  35.738  39.099  (1.009) 931  -    -    (1.009) 931 
+Strumenti finanziari derivati  -    -    -    -    -    -    -    -   
+Cash flow hedge  -    -    -    -    -    -    -    -   
+Attività finanziarie 
+Investimenti disponibili per la vendita 500  551  (4) 4  -    -    (4) 4 
+Titoli a reddito fisso 500  551  (4) 4  -    -    (4) 4 
+Passività finanziarie BancoPosta
+Strumenti finanziari derivati  1.408  (23) 91  (97) -    -    91  (97)
+Cash flow hedge  1.408  (23) 91  (97) -    -    91  (97)
+Passività finanziarie 
+Strumenti finanziari derivati  (50) (5) 3  (3) -    -    3  (3)
+Cash flow hedge  (50) (5) 3  (3) -    -    3  (3)
+Variabilità al 31 dicembre 2017 37.596  39.622  (919) 835  -    -    (919) 835 
+107. La duration è l’indicatore utilizzato per stimare la variazione percentuale del prezzo corrispondente ad una determinata variazione dei rendimenti di mercato.
+356

@@ -1,0 +1,46 @@
+Indice generale Indice di sezione
+I Bilanci di Poste Italiane al 31 dicembre 2017 
+6. Analisi e presidio dei rischi
+Rischi assicurativi
+Tale tipologia di rischi emerge come conseguenza della stipula dei contratti assicurativi e delle condizioni previste nei con-
+tratti stessi (basi tecniche adottate, calcolo del premio, condizioni di riscatto, etc.).
+Con riferimento alla Compagnia Poste Vita S.p.A., sotto il profilo tecnico, uno dei principali fattori di rischio è quello relativo 
+alla mortalità ossia ogni rischio riconducibile alla aleatorietà della durata di vita degli assicurati. Particolare attenzione è posta 
+nella stipula di polizze temporanee caso morte dove le procedure prevedono limiti di assunzione sia sul capitale che sull’età 
+dell’assicurato. Sotto il profilo degli importi assicurati “caso morte”, le compagnie assicurative del Gruppo ricorrono a coper-
+ture riassicurative coerenti con la natura dei prodotti commercializzati e con livelli di conservazione adeguati alla struttura 
+patrimoniale delle Società. I principali riassicuratori del Gruppo sono caratterizzati da una elevata solidità finanziaria.
+Per i prodotti con capitale sotto rischio positivo, come ad esempio la Temporanea Caso Morte, tale rischio ha conseguenze 
+negative se le frequenze di decesso che si verificano superano le probabilità di decesso realisticamente valutate (basi tec-
+niche di secondo ordine). 
+Per i prodotti con capitale sotto rischio negativo, come ad esempio le rendite vitalizie, si hanno conseguenze negative quan-
+do le frequenze di decesso che si verificano risultano inferiori alle probabilità realisticamente valutate (rischio di longevità). 
+Ciò premesso, al 31 dicembre 2017, il rischio di mortalità è di modesta rilevanza per il Gruppo, considerate le caratteristiche 
+dei prodotti offerti. L’unico ambito in cui tale rischio assume una certa rilevanza è quello delle Temporanee Caso Morte. 
+Con riferimento a tali prodotti, viene periodicamente effettuato un confronto tra i decessi effettivi e quelli previsti dalle basi 
+demografiche adottate per il pricing; i primi sono risultati sempre significativamente inferiori ai secondi. Inoltre il rischio di 
+mortalità viene mitigato facendo ricorso a coperture riassicurative e, in fase di assunzione, a limiti definiti sia sul capitale che 
+sull’età dell’assicurato.
+Anche il rischio di longevità risulta di modesta entità. Infatti, per la generalità dei prodotti assicurativi vita, la probabilità di 
+conversione in rendita è molto vicina a zero in quanto l’evidenza storica dimostra che l’opzione di conversione non è stata 
+mai esercitata fino ad oggi dagli assicurati. I prodotti pensionistici in particolare, rappresentano ancora una quota marginale 
+delle passività assicurative (circa il 5%). Per tali prodotti, inoltre, il Gruppo si riserva il diritto, al verificarsi di specifiche con-
+dizioni, di modificare la base demografica e la composizione per sesso utilizzate per il calcolo dei coefficienti di conversione 
+in rendita.
+Per quanto riguarda il rischio di pricing, ossia il rischio di subire perdite a causa di una inadeguata tariffazione dei prodotti 
+assicurativi venduti, lo stesso può manifestarsi a causa di: 
+scelte inappropriate delle basi tecniche, 
+non corretta valutazione delle opzioni implicite nel prodotto,
+non corretta valutazione dei parametri per il calcolo dei caricamenti per spese.
+Poiché i prodotti di Poste Vita S.p.A. sono soprattutto rivalutabili di tipologia mista o a vita intera, a carattere prevalentemente 
+finanziario, nei casi con tasso tecnico pari a zero, la base tecnica adottata non influisce nel calcolo del premio (e/o del capitale 
+assicurato). Il rischio di pricing derivante dalla scelta delle basi tecniche, fatto salvo quanto sopra accennato relativamente ai 
+prodotti di tipo Temporanee Caso Morte è quasi del tutto assente nel portafoglio di Poste Vita S.p.A.. 
+Le opzioni implicite nelle polizze presenti in portafoglio sono:
+Opzione di riscatto
+Opzione di rendimento minimo garantito
+Opzione di conversione in rendita
+Per quasi tutti i prodotti in portafoglio non vi sono penalità di riscatto: tale rischio diventa tuttavia rilevante solo nel caso di 
+fenomeni di riscatti di massa; considerato l’andamento storico finora rilevato, si ritiene remota la probabilità che tale ipotesi 
+possa verificarsi. 
+377

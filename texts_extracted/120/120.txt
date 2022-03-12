@@ -1,0 +1,67 @@
+APPLICATION OF THE GRI STANDARDS 
+The content of the report refers to Snam’s material issues  •  For item 103-1 (defining the internal and external 
+and the related material GRI topics. The main methods for  scope for each material topic), the following table was 
+applying the standards are listed below: standard 102 is  compiled;
+entirely covered (from point 102-1 to point 102-56) and  •  for items 103-2 (approach to management), and 103-3 
+the topic specific standards of series 200 (Economic), 300  (evaluation of approach to management) the disclosure 
+(Environmental) and 400 (Social) have been selected in  was made for sub-groups of material GRI topics and for 
+relation to the issues reported in the materiality matrix. each of Snam's material topics which could not be related 
+As regards standard 103 (Management approach), we  to a specific standard topic.
+proceeded as follows:
+Representation of the material topics boundaries (103-1)
+Material issues GRI aspects Scope of the aspect Reporting restrictions
+Internal External Internal External
+Emissions related to 
+GRI 305 Emissions T, S, R, M, B, E  Suppliers - energy consumption of 
+suppliers
+Climate change
+Energy consumption of 
+GRI 302 Energy T, S, R, M, B, E  Suppliers -
+suppliers
+GRI 403 Occupational 
+Health and safety One Company Suppliers  -  -
+Health & Safety
+Protecting the local area and 
+GRI 304 Biodiversity T, B  Suppliers -  -
+biodiversity
+Green business -  One Company  -  -  -
+GRI 201 Economic 
+Economic performance One Company  -  -  -
+Performance
+Reliability of infrastructures and 
+- One Company  -  -  -
+business continuity
+Brand reputation -  One Company  -  -  -
+Innovation - One Company  -  -  -
+GRI 413 Local 
+One Company  -  -  -
+communities
+Relations with local communities
+GRI 203 Indirect 
+One Company  -  -  -
+economic impact
+GRI 205 Anti-
+Combating corruption One Company Suppliers  -  -
+corruption
+GRI 205 Anti-
+One Company Suppliers  -  -
+corruption
+Business integrity
+GRI 419 Socio-
+One Company  -  -  -
+economic compliance
+GRI 401 Employment One Company  -  -  -
+Developing and safeguarding human 
+capital GRI 404 Training and 
+One Company  -  -  -
+Education
+GRI 405 Diversity and 
+One Company  -  -  -
+Equal opportunities
+Diversity and inclusion
+GRI 406 Non-
+One Company  -  -  -
+discrimination
+Key: T = Transportation; S= Storage; R= Regasification; C= Corporate; M = Sustainable mobility; B = Biomethane; E = Energy efficiency; One Company= T, S, R, C, 
+M, B, E
+Annex  119

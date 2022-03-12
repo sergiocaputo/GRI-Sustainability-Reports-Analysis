@@ -1,0 +1,30 @@
+F26
+3. RESPONSIBILITY TOWARDS THE 
+ENVIRONMENT
+487,757.3   306,286,457.7  
+GJ kWh
+=  1,102,631.2 GJ
+TOTAL ENERGY  ELECTRICITY PRODUCED FROM 
+CONSUMPTION RENEWABLE SOURCES
+10,897.9   33,923.3    43,097.0   
+tons tons tons
+INDIRECT (SCOPE 24)  INDIRECT (SCOPE 24) 
+INDIRECT (SCOPE 1) 
+LOCATION-BASED CO  MARKET BASED CO 
+EQUIVALENT 2 2
+EMISSIONS EMISSIONS
+ CO EMISSIONS
+2  
+109,955   95.73
+tons megalitres
+CO EMISSIONS AVOIDED  WATER 
+2
+THANKS TO THE PRODUCTION OF  CONSUMPTION
+RENEWABLE ENERGY
+(location based)
+4 The figure was calculated using the emission factor indicated in “Confronti internazionali; 2017”, published 
+by Terna, according to the location based method. Figures of Scope 2 emissions are expressed in tons of CO, 
+2
+nevertheless the percentage of methane and nitrous oxide has a negligible effect on total greenhouse emissions 
+(CO equivalent), as inferred from the relative technical literature.
+2

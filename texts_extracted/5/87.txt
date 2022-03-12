@@ -1,0 +1,65 @@
+Alperia Sustainability Report 2019 
+Cyber Security {GRI 418-1}  
+ 
+ 
+Risk management 
+   
+   
+Risk  Management Approach 
+ 
+   
+Risk of non-compliance with privacy law provisions in  We want to guarantee compliance with privacy regulations, 
+relation to the protection of sensitive data.  which  is  why  we  continuously  monitor  security  systems, 
+  updating them on an ongoing basis to ensure they are the most 
+up to date and we have implemented all measures envisaged 
+by the GDPR. 
+ 
+Risk  of  security  incidents  and  failure  to  manage  We want to guarantee that all data is protected from security 
+information, as well as failure to protect sensitive data  incidents and guarantee Business Continuity in case of IT 
+and  intellectual  property  due  to  the  infrastructure  incidents (e.g. server failures, power outages). For this reason, 
+inadequacy with possible data loss or disclosure. Risk  we use efficient protection systems against internal and external 
+of  possible  OTT  infrastructure  malfunctions  with  attacks  and  incursions.  We  also  renewed  our  ISO 27001 
+possible impact on the service delivery continuity due  certification  and  developed business  continuity  plans  (INS-
+to  the  failure/inadequate  development  of  IT  212.01 Business Continuity – Disaster Recovery IT). 
+infrastructure and preparation of emergency plans. 
+ 
+ 
+According to the World Economic Forum’s Global Risks Report 2020, cyber-attacks are ranked sixth among 
+the risks with most impact for the coming years. For this reason, Alperia, which as an energy service provider 
+manages a large amount of data (including the personal data of customers, collaborators and partners, 
+technical data relating to customer consumption, distribution infrastructure, electricity and heat production 
+plants), has adopted a solid defence strategy. Controlling access to information and its correct management 
+in terms of confidentiality, privacy and consistency will be increasingly important.  
+ 
+Cyber security is dealt with by a dedicated structure that defines and supervises cyber security architectures 
+and systems, deals with identity management and access control systems and intervenes in the event of any 
+attacks.  
+ 
+In 2019, new and better performing management systems both inside and outside the Alperia world were 
+introduced, also including Artificial Intelligence (AI) platforms. Attacks are becoming more frequent and high 
+risk. Most are perpetrated by extremely sophisticated AI software, which is why it is necessary to use the same 
+language in defence. In 2019, Alperia did not suffer from any significant cyber security incidents, but is aware 
+of how important it is to protect yourself with increasingly sophisticated barrier systems. This is why we have 
+introduced a double layer antivirus system for email and all the documents are classified according to a specific 
+confidentiality level (public, restricted, confidential). Updating activities continue with trials of the disaster 
+recovery plan and adoption of protection systems against ransomware threats.  
+ 
+In 2019, we also renewed the ISO 27001 certification, which was extended to include even more stringent 
+checking. This international standard recognises the group’s adoption of a secure system for the management 
+of company information systems (IT and documentary), to monitor and reduce management costs, ensure 
+adequate service levels and monitor and reduce the risk of possible outages. The certification is subject to an 
+annual audit, with additional checks carried out by the group’s Internal Audit.  
+ 
+During 2019, the business continuity plan was also developed to be activated in the event of attacks. In 
+compliance with the requirements of Europe’s GDPR regulation, a Data Protection Officer (DPO) was 
+appointed external to the IT department. A new privacy-by-design procedure was developed, to be carried out 
+at the start of each new project in order to check if it meets the standards set by privacy and GDPR legislation.  
+ 
+Technological innovation is accompanied by training. After activities involving the IT team, a training course 
+on cyber security will be launched in 2020 for all employees, in order to raise awareness of cyber risks. More 
+often than not, critical issues can in fact be traced back to human error. To remain up to date, Alperia plays an 
+active role in important associations such as CLUSIT (Italian Association for IT Security); it has also taken part 
+in specialised security events such as the ITASEC (Italian Conference of Cybersecurity). 
+ 
+ 
+  88 

@@ -1,0 +1,30 @@
+145
+ENVIRONMENTAL PERFORMANCE: TOPIC SPECIFIC STANDARDS
+DISCLOSURE INDICATOR DESCRIPTION PAGE NO./NOTES
+GRI 303: water
+103-3 Assessment of management approach Pp. 122-124, 129
+303-1 Water withdrawal by source P. 129
+GRI 305: emissions
+103-1 Material topic and scope Pp. 122-129
+103-2 Management approach Pp. 122-129
+103-3 Assessment of management approach Pp. 122-129
+305-1 Direct (Scope 1) GHG emissions P. 128
+305-2 Energy indirect (Scope 2) GHG emissions P. 128
+305-3 Other indirect (Scope 3) GHG emissions P. 128
+305-4 GHG emissions intensity P. 129
+305-5 Reduction of GHG emissions Pp. 125-126
+305-6 Emissions of ozone-depleting substances (ODS) P. 128
+305-7 Nitrogen oxides (NOx), sulphur oxides (SOx), or other significant air emissions P. 128
+GRI 306: effluents and waste
+103-1 Material topic and scope Pp. 122-124, 131-132
+103-2 Management approach Pp. 122-124, 131-132
+103-3 Assessment of management approach Pp. 122-124, 131-132
+306-1 Water discharge by quality and destination P. 129
+306-2 Waste by type and disposal method P. 132
+SOCIAL PERFORMANCE: TOPIC SPECIFIC STANDARDS
+DISCLOSURE INDICATOR DESCRIPTION PAGE NO./NOTES
+GRI 401: employment
+103-1 Material topic and scope Pp. 50-55
+103-2 Management approach Pp. 50-55
+103-3 Assessment of management approach Pp. 50-55
+401-1 New employee hires and employee turnover Pp. 57-59

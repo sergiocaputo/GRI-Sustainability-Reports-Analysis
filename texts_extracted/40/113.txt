@@ -1,0 +1,46 @@
+GPON (Gigabit Passive Optical Network)  media (e.g. voice, video, text etc.) and hybrid products 
+FTTH network architecture in which fiber optics arrives  generated through their interaction.
+inside the customer’s home. It allows for extremely high 
+performance, superior to 1 Gbit/s. The GPON network  Mobile Virtual Network Operator (MVNO)  
+uses passive “splitters” to subdivide the fiber repeatedly  A mobile telephone services provider that uses the 
+and to direct it towards various buildings, thus reducing  network infrastructure of another operator to provide 
+the amount of fiber and necessary apparatus with  services to its customers. An MVNO is a full-fledged 
+respect to other FTTH architecture used in the past.  telephone services provider (with its own SIM cards, 
+The passive nature of the GPON network allows for the  prepaid and/or subscription promotions, customer care 
+elimination of “active” network elements in the access  and management) that does not have its own network 
+network (which are therefore limited to the base and in  infrastructure. 
+the customers’ homes), reducing the use of electricity 
+and increasing efficiency for an energy standpoint. Alternative operator 
+Alternative telecommunications provider to TIM, the 
+ICT (Information and Communication(s) Technology)  former incumbent carrier in Italy.
+Set of methods and technologies used for 
+manufacturing the transmission, reception and  Administrative bodies 
+processing of information and data. In this report, the expression “administrative bodies” 
+refers to the Management Board and the Board of 
+IP (Internet Protocol)  Directors.
+Set of communication standards used to exchange 
+data on the Internet. This network interconnection  Platform 
+protocol (Inter-Networking Protocol) is classified  The complete set of inputs, including hardware, 
+at network layer (3) of ISO/OSI model, created to  software, operating equipment and procedures, 
+interconnect heterogeneous networks for technology,  to produce (production platform) or manage 
+performance, management, therefore implemented  (management platform) a particular service (service 
+above other connection protocols, like Ethernet or  platform).
+ATM. It is a connectionless and best-effort delivery 
+service and therefore does not guarantee reliability of  Network 
+communication in terms of error control, flow control  A set of connected elements. In a telephone network, 
+and congestion control, which are handled by the higher  these elements consist of switches connected to 
+transport layer (level 4) transfer protocols, such as TCP.  one another and to the customer’s equipment. The 
+The currently adopted version of the IP protocol is also  transmission equipment may consist of fiber optic or 
+called IPv4 to distinguish it from the more recent IPv6,  metal cables or of point-to-point radio connections.
+developed to deal with the growing number of computers.
+User Experience 
+Local Loop (Doppino Telefonico)  What a person experiences when using a product, 
+The pair of twisted copper wires physically connecting  system or service. User experience refers to the 
+a customer’s home or office to the telephone  experiential and emotional aspects and the meaning 
+company’s exchange. This is the traditional foundation  and value of owning a product and interacting with it, 
+of telephone lines and is also referred to as the “last  in addition to the person’s perception of aspects such 
+mile”. as utility, ease of use and efficiency. It is considered 
+subjective because it relates to an individual’s ideas 
+Multimedia  and feelings about a system, and it is dynamic because 
+A service involving two or more communications  it varies over time with the user’s circumstances.
+Additional information 113

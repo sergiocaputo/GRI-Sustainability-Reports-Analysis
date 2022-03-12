@@ -1,0 +1,57 @@
+02_BUSINESS MODEL AND GOVERNANCE_RISK MANAGEMENT
+    
+Supply Chain Risk The methodology and reporting tools enable focused loss prevention 
+supplier audits to be conducted and required information to be 
+FCA strives to implement strategies that manage both everyday  collected to:
+and exceptional risks along the supply chain, while better identifying 
+• quantify the potential exposure to FCA
+suppliers throughout its many tiers. It is critical to understand supplier 
+• define the fire and natural hazard loss scenarios and quantify the 
+profiles at lower tier levels to ensure a complete risk assessment 
+production downtime
+and response in the event of potential supply disruptions. Working 
+• estimate the time to restart and time to resource
+to develop tools that support supply chain mapping has become 
+• identify potential equipment bottlenecks, critical equipment and 
+an important focus. These data tools can provide FCA with an 
+vital Tier 2 or 3 suppliers.
+advantage of speed-to-resolution and prioritize FCA with resources 
+over competitors. By the end of 2018, this methodology was applied to 52 suppliers 
+identified as critical by the Purchasing team.
+Suppliers who are identified under certain risk criteria are encouraged 
+to work with FCA to ensure that risk management processes in place 
+are able to secure the flow of key components.
+Cyber Risk Management
+To accommodate supplier size and organizational structure, we have 
+adopted varied risk assessment techniques. Large, global suppliers  Fiat Chrysler Risk Management has created varied work groups, 
+with well-structured risk management organizations are analyzed  made up of multidisciplinary specialists from FCA internal functions 
+with deductive methodologies that measure their risk management  and departments as well as from insurance companies for 
+and business continuity processes and procedures. Smaller suppliers  developing advanced and innovative risk engineering approaches 
+are visited by a specialized loss prevention team that determines their  and solutions.
+alignment with international loss prevention standards adopted by FCA 
+Specialized teams composed of FCA cyber risk experts and 
+and, where needed, recommend risk reduction action plans.
+insurance market leaders, and coordinated by the Fiat Chrysler Risk 
+The process, led by Fiat Chrysler Risk Management and FCA  Management loss prevention team, analyze globally the ICT macro 
+Purchasing, begins with a simplified, semi-quantitative approach:  processes to verify alignment with industry best practices. Where 
+already available information (financial, business, industrial and  necessary, they recommend focused improvements that further 
+geopolitical) is used to prioritize suppliers. This helps focus  enhance their resilience. The risk management function ensures that 
+engineering resources on those crucial suppliers with the greatest  this initiative is consistent with other risk management processes in 
+potential impact or loss likelihood to FCA supply chains. A second  place.
+step entails a methodology and supporting tool that allows FCA 
+FCA’s dedicated cyber risk insurance coverage is designed on the 
+to assign a risk management maturity index to the supplier risk 
+basis of a comprehensive and thorough analysis of:
+management processes. It is based on suppliers with mature risk 
+management practices managing their risks and minimizing the  • the threats of exposure of vital company assets, including the 
+probability of an extended production stoppage in one of their key  information that must be protected and at which level
+manufacturing plants. The final step is to work with specialized third- • policies and procedures in place to reduce the risk of attack in the 
+party risk engineering advisors to conduct focused loss prevention  event of a security breach
+audits of targeted suppliers to identify and quantify risks that could  • plans and procedures in place to neutralize threats and remedy 
+impact the supply of components to FCA and develop adequate  security issues.
+action plans to mitigate those risks.
+“
+To accommodate supplier size and
+organizational structure, we have adopted  
+varied risk assessment techniques. ”
+43

@@ -1,0 +1,71 @@
+sustainability report 2019 9 / methodological note
+Disclosure Chapter - section Omissions Reasons Explanation Disclosure Chapter - section Omissions Reasons Explanation
+GRI Topic: 305 400 - TOPIC SPECIFIC STANDARD: SOCIAL
+Emissions GRI Topic: 403
+DMA 305  Occupational health and safety
+Describe the management approach for the emissions TOPIC  § 7.2
+using the KPI GRI 103: Management Approach DMA 403 
+Describe the management approach for the occupational 
+§ 4.1
+305-1  § 7.2  health and safety issue using KPI GRI 103: Management 
+Direct (Scope 1) GHG emissions  § 8.3 Approach
+305-2  § 7.2  403-1 
+§ 4.1
+Indirect (Scope 2) GHG emissions § 8.3 Workers’ health and safety management system
+305-3  § 7.2  403-2 
+§ 4.1
+Other indirect (Scope 3) GHG emissions § 8.3 Hazard identification, risk assessment and accident analysis
+80 81
+305-4  § 7.2  403-3 
+§. 4.1
+GHG emission intensity § 8.3 Occupational medicine services
+305-5  § 7.2  403-4 
+Reductions of GHG emissions § 8.3 Processes for participation in, consultation and  § 4.1
+communication on occupational health and safety
+GRI Topic: 306
+403-5 
+§ 4.1
+Effluents and waste Worker training on occupational health and safety
+DMA 306 403-6 
+§ 4.1
+Describe the management approach for the “effluents and  § 7.3 Promotion of worker health
+waste” topic using KPI GRI 103: Management Approach
+403-7 
+§ 2.1
+306-2 Prevention and mitigation of occupational health and safety 
+§ 8.3 § 6.4
+Total weight of waste by type and disposal method impacts directly linked by business relationships
+GRI Topic: 307 403-8 
+Workers covered by an occupational health and safety  § 4.1
+management system
+Environmental compliance
+Central 
+DMA 307 
+Only Lost Day  aggregate 
+Describe the management approach for the environmental  § 4.3 403-9 
+§ 8.2 Rate data  monitoring 
+compliance topic using KPI GRI 103: Management Approach Number of work-related injuries by type
+supplied system under 
+307-1  development
+Significant fines and non-monetary sanctions for non- § 4.3
+compliance with environmental laws and/or regulations GRI Topic: 404
+GRI Topic: 308 Training and education
+DMA 404 
+Supplier environmental assessment
+Describe the management approach for the training and  § 4.2
+DMA 308  education topic using KPI GRI 103: Management Approach
+Describe the management approach for supplier 
+§ 6.2 Data provided 
+environmental assessment using GRI KPI 103: Management  404-1  Overseas  Monitoring 
+in aggregate 
+Approach Average hours of training per year per employee, divided by  § 4.2 boundary data  system yet to be 
+form on Italy 
+gender and job position not available completed
+308-2  boundary
+Negative environmental impacts in the supply chain and  § 6.2
+404-2 
+actions taken
+Programmes for skill management and continued training 
+§ 4.2
+that support continued employment of employees and 
+assist them in managing end of career

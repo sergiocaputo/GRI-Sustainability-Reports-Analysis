@@ -1,0 +1,83 @@
+ 
+ 
+Il progetto Waterspy intende invece sviluppare e definire una  una  soluzione  innovativa  di  tipo  Power-to-Heat-to-Power  che 
+metodologia per rilevare la presenza di batteri eterotrofi (e.coli,  consenta  la  massimizzazione  dello  sfruttamento  delle  fonti 
+pseudomonas aeruginosa e salmonella) nelle matrici acquose. Lo  rinnovabili  elettriche  non  programmabili  e  le  fonti  rinnovabili 
+strumento, da sviluppare a livello prototipale per un utilizzo sul  termiche già abbinate a sistemi di teleriscaldamento. Ottempo 
+campo  presso  fonti  di  approvvigionamento  del  servizio  idrico  (bando regione Piemonte poli di innovazione) si propone invece di 
+(laghi artificiali) e presso la rete di distribuzione, prevede una fase  studiare e testare modalità di distribuzione, attraverso una rete di 
+di pre-concentrazione che permette al bio-sensore di legare i  telecomunicazione in fibra ottica o wireless, del campione di 
+batteri  su  una  superficie  che  verrà  poi  analizzata  con  una  tempo,  ossia  l’ora  esatta,  con  una  precisione  nell’ordine  dei 
+tecnologia laser. La messa a punto di uno strumento che funziona  microsecondi,  con  applicazioni  nei  sistemi  di  monitoraggio  in 
+nel  range  indicato  potrebbe  aprire  consistenti  possibilità  nel  tempo reale delle reti di distribuzione elettrica e del servizio idrico. 
+monitoraggio pervasivo della qualità dell’acqua.  Infine, nel progetto Everywh2ere (programma europeo Horizon 
+Nell’ottica di migliorare e affinare la fruizione dei sistemi GIS  2020) Iren, in qualità di terza parte, testerà uno skid ad idrogeno 
+aziendali,  Iren  ha  partecipato  al  progetto  Geosmartcity  per  la  produzione  di  energia  elettrica  durante  eventi/fiere 
+(programma europeo CIP), terminato a febbraio 2017, che aveva  (modalità gruppo di continuità/generatore mobile). 
+tra gli obiettivi l’interoperabilità delle banche dati degli utilizzatori 
+del sottosuolo.  FONDAZIONE AMGA 
+Il Gruppo Iren è molto attento anche alle tematiche di stoccaggio 
+La Fondazione AMGA è stata costituita nel 2003, per promuovere 
+dell’energia elettrica: il progetto Store&Go (programma europeo 
+e  organizzare  iniziative  scientifiche,  didattiche  e  culturali 
+Horizon 2020), dimostrerà 3 innovativi sistemi di power to gas 
+finalizzate alla tutela dell’ambiente e delle risorse idriche e ad una 
+(PtG)  localizzati  in  Germania,  Svizzera  e  Italia,  al  fine  di 
+gestione ottimale dei servizi a rete. A questo scopo, si propone di 
+individuarne e superarne le barriere tecniche, economiche, sociali 
+accrescere e divulgare la conoscenza e la comprensione del ciclo 
+e legali. Il progetto ha l’ambizione di valutare la possibilità di 
+dell’acqua e delle sue interazioni con l’ambiente, nell’ambito di 
+integrazione del sistema di storage PtG in sistemi di produzione e 
+progetti di ricerca e di formazione finalizzati a consentire una 
+distribuzione dell’energia all’avanguardia. 
+gestione sostenibile e a promuovere la crescita economica e lo 
+La  mobilità  sostenibile  è  un  altro  obiettivo  importante 
+sviluppo dei territori in cui opera.  Inoltre è impegnata in attività di 
+dell’innovazione per il Gruppo Iren: la sua declinazione prevede 
+ricerca sui modelli organizzativi dei servizi idrici e più in generale 
+da  una  parte  l’installazione  di  infrastrutture  fisse  di  ricarica 
+dei servizi pubblici, al fine di valutare le possibili opzioni gestionali 
+elettrica sui vari territori di operatività, dall’altra lo studio di sistemi 
+nei diversi scenari regionali. Le conoscenze acquisite sono rese 
+ad induzione, come sviluppato nel progetto Fabric (programma 
+accessibili  tramite  l’organizzazione  di  corsi  di  formazione  e 
+europeo FP7). Questa tecnologia potrebbe essere il motore dello 
+seminari  e  la  pubblicazione  di  volumi  di  carattere  tecnico  e 
+sviluppo massivo della mobilità elettrica del futuro. Parallelamente 
+divulgativo.   I  risultati  scientifici  ottenuti  dalla  Fondazione 
+il progetto NeMo (programma europeo Horizon 2020) prevede di 
+costituiscono un valido riferimento nei settori della gestione delle 
+sviluppare  una  piattaforma  di e-roaming  applicata a  differenti 
+risorse idriche, energetiche e ambientali, attività a cui Fondazione 
+sistemi di mobilità elettrica (infrastruttura di ricarica e autoveicoli). 
+AMGA si è dedicata nel 2017 coordinando progetti di ricerca e 
+L’obiettivo principale è la creazione di una sovra-infrastruttura ICT 
+promuovendo attività culturali e divulgative di ampio respiro. 
+in grado di omogeneizzare dati provenienti dai vari stakeholder e 
+ 
+generare servizi e applicazioni innovativi sulle diverse verticalità. 
+Nel 2018 il Gruppo Iren avvierà 4 nuovi progetti che hanno  ATTIVITÀ 2017  
+Sono di seguito riportate alcune delle iniziative promosse dalla 
+superato positivamente la fase di valutazione nel 2017.  
+Fondazione  nel  corso  del  2017  che  comprendono  attività  di 
+Il progetto eVolution2G (EMEurope Call 2016) approfondirà e 
+ricerca, iniziative di formazione, culturali, divulgative, didattiche ed 
+testerà direttamente sul campo il concetto di vehicle to grid (V2G), 
+editoriali.  
+ovvero un sistema in cui i veicoli elettrici hanno un ruolo di 
+ 
+bilanciamento sulle reti elettriche. Il progetto Chester (programma 
+europeo Horizon 2020), ha l’obiettivo di sviluppare ed integrare 
+ 
+Aree  Progetti 
+  Evidenza empirica relativa alla stima del costo del capitale nelle utilities: l’inclusione del settore 
+dei rifiuti tra quelli regolati da ARERA potrebbe determinare la necessità di dover quantificare, nella 
+formula tariffaria, il costo del capitale. Lo studio si è focalizzato sui punti più controversi della stima del 
+Economia e regolazione  costo del capitale e ha approfondito il tema per il settore dei rifiuti, passando in rassegna la letteratura 
+esistente a livello internazionale e procedendo ad una stima econometrica nel caso di imprese 
+monoutility quotate in borsa. Sono state anche evidenziate le peculiarità del settore che possono 
+giustificare differenze rispetto ad altri settori regolati. 
+   
+Gruppo Iren          139 
+ 

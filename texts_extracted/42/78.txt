@@ -1,0 +1,66 @@
+04_PRODUCTS AND CUSTOMERS_APPLICATIONS OF THE CIRCULAR ECONOMY
+    
+MATERIALS AND SUBSTANCES  • a  recently  completed  project  with  the  Canadian  National 
+Research Council, to optimize nonwoven eco-substrates for 
+FCA supports using recycled and renewable materials in our new  interior trim applications and the fabrication of components on 
+products. The amount of renewable or recycled content included  an industrial scale. The project successfully identified several bio-
+in our vehicles varies depending on performance requirements and  reinforcements capable of being used in door panel applications, 
+the market availability of such materials. For some types of materials  as well as practical uses for recycled carbon fibers in similar 
+in our vehicles (e.g., metal), the percentage of recycled content  applications.
+is significant, less so for other materials such as polymers and 
+elastomers, though efforts are in place to increase the percentages.
+Substances of Concern
+Material innovation and development is conducted by FCA’s Group 
+Material Labs (GML) in Europe and the Materials Engineering 
+FCA works to eliminate or reduce the use of Substances of 
+organization in the U.S. The GML also monitors changes in legislation 
+Concern (SoC) that may impact human health or the environment.
+and assesses potential implications on the Group’s products and 
+We use the International Material Data System (IMDS) to track 
+processes. In 2018, the Materials Engineering organization approved 
+the composition of individual materials and components in 
+sustainable materials for use in FCA vehicles. These materials contain 
+our vehicles. Data from IMDS is then fed into FCA internal 
+recycled or bio/renewable content, or low emissions polymers. The 
+management systems, which are used to monitor the content of 
+new applications included recycled content on the Jeep Cherokee 
+all vehicles and identify the presence of SoCs. These systems are 
+engine cover and air cleaner housings, and grades of synthetic suede 
+crucial for tracking vehicle recyclability and recoverability, as well as 
+for several vehicles.
+monitoring SoCs included on the Global Automotive Declarable 
+FCA has established a closed-loop process to return aluminum and 
+Substance List (GADSL).
+steel scraps to selected suppliers in Europe, and recycle them back into 
+our manufacturing processes. Up to 25% of aluminum casting parts  FCA’s internal standard of restricted and prohibited SoCs is made 
+used in some powertrain applications in Italy are secondary alloys. We  available to suppliers worldwide, which are required to adhere to 
+also promote the use of recycled plastics in our design requirements.  IMDS and SoC disclosure obligations. It provides uniform global 
+For example, we manufacture gasoline tanks internally that are up to  requirements, regardless of where the products are ultimately 
+39% recycled plastic by weight for certain European applications. sold or marketed, that minimize market-specific uncertainty or 
+interpretation while increasing transparency and clarity.
+FCA participates in a variety of collaborative projects related to 
+materials research, including: FCA has developed vehicle “indoor air” quality (VIAQ) evaluation 
+standards which are part of our material approval process for 
+• the SPIDER project, that aims to produce safe and environmentally 
+interior materials. That approval process includes odor, Volatile 
+friendly lithium-ion batteries by reducing or substituting critical 
+Organic Compound (VOC), and other testing on in-cabin air and 
+raw materials like cobalt and graphite with other more sustainable 
+components to reduce detectable interior odors as well as to 
+metals such as nickel, titanium and silicon.
+improve customer satisfaction.
+• the  European  Union’s  CarE-Service  project,  that  aims  to 
+demonstrate  innovative  Circular  Economy  business  models  FCA’s attention focuses on substances identified in globally 
+based on advanced mobility services. FCA’s activities are mainly  regulated Substances of Concern restrictions like the REACH(1) 
+focused on re-use, remanufacturing and recycling end-of-life  regulation and heavy metal ban.(2) This level of awareness and 
+batteries from hybrid and electric vehicles. commitment to compliance is also critical to FCA suppliers 
+• the REINVENT project, with the objective of producing polyols  with whom we collaborate closely in identifying technically and 
+from renewable sources and bio materials from forest residue. environmentally sustainable substitutes for substances that will be 
+• a cooperative research project with FCA, Oak Ridge National  restricted in the near future.
+Laboratory (U.S.) and a casting supplier, which created a new 
+aluminum alloy for use in engine components. This alloy maintains 
+its strength in heat well beyond components in current use, and 
+can be cast and machined using existing technologies.
+(1) European Regulation 1907/2006 of December 18, 2006 concerning the Registration, Evaluation, Authorization and Restriction of Chemicals (REACH).
+(2) Commission Directive 2017/2096/EU of November 15, 2017 amending Annex II to directive 2000/53/EC of the European Parliament and of the Council on End-of-Life-Vehicles.
+79

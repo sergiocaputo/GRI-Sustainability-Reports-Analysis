@@ -1,0 +1,55 @@
+Energy consumed within the organisation 
+Thousands of GJ  2017  2018 
+Fuel consumed from renewable sources  (+) 8,308  (+) 8,440 
+Fuel consumed from non-renewable sources  (+) 13,235  (+) 14,779 
+Electricity consumed  (+) 2,661  (+) 2,704 
+Thermal energy consumed  (+) 886  (+) 876 
+Electricity produced by photovoltaic  (+) 7  (+) 6 
+Electricity produced  (-) 4,028  (-) 4,500 
+Thermal energy produced  (-) 2,229  (-) 2,796 
+Total  18,840  19,509 
+Energy consumption does not include: AcegasApsAmga Servizi Energetici for 2017, ASA Scpa, EnergiaBaseTrieste Srl, 
+Feronia Srl, Hera Comm Marche Srl, Herambiente Servizi Industriali Srl, Tri-Generazione Srl, whose consumption is 
+estimated at 0.5% of total energy consumption. 
+The organisation(cid:859)s internal energy consumption, calculated according to the reporting standard used (GRI 
+Sustainability Reporting Standard) were estimated at 19,509 thousand GJ. They are made up of the sum of 
+the consumption of fuel from renewable sources (biogas and waste processed by waste-to-energy plants, 
+for the renewable share 51%) and non-renewable sources (natural gas, diesel fuel, LPG, petrol, and waste 
+processed by waste-to-energy plants, for the non-renewable share 49%), electricity consumption, the 
+production of renewable electricity from photovoltaic plants, and minus the electricity produced and fed 
+into the grid and the thermal energy produced. Primary energy consumption is calculated based on data 
+gathered mainly from measurements and on the basis of calculation and conversion methods defined for 
+the application of the regulatory provisions of Italian Law 10/91 (MISE Circular of 18 December 2014).  
+The  Group(cid:859)s  energy  performance  can  be  represented  by  a  number  of  indicators  that  express  its 
+development and prospective targets and illustrate the company(cid:859)s savings strategies. A comparison of 
+energy consumption with certain production and operating indicators can provide consumption intensity 
+indices  that  reflect  the  improvements  achieved  by  efficiency  measures  and  by  corporate  energy 
+management. 
+Intensity indices of primary energy consumption 
+  2017  2018 
+Purification: primary energy (MWh)/volumes purified 
+587.2  414.8 
+(thousands of m3) 
+Drinking water purification: primary energy (MWh)/water 
+462.0  455.0 
+fed into the water network (thousands of m3) 
+District heating: primary energy consumption 
+166.4  173.6 
+(toe)/thermal energy fed into the network (MWh) 
+Waste-to-energy plants: net energy production (MWheq) 
+550.1  544.6 
+/ volumes processed (t) 
+Offices: total primary energy consumed (toe) /area of 
+26.0  26.5 
+offices (thousands of m2) 
+Vehicles: primary energy (toe)/distance travelled by the 
+163.4  144.2 
+vehicles (millions of km) 
+Public lighting: primary energy (kWh)/light points  370.6  336.4 
+The data concern the energy consumption of Hera Spa, AcegasApsAmga, Fea, Hera Luce, Herambiente, Marche 
+Multiservizi and Uniflotte. The data refer to the consumption of electricity, natural gas, diesel fuel, LPG, petrol and 
+waste. Excluding Marche Multiservizi for vehicles index. 
+The water sector shows an overall improvement in performance in 2018, with consumption intensity 
+indices decreasing in both purification and making drinking water. However, it should be noted that the 
+27 
+ 

@@ -1,0 +1,51 @@
+Nota Integrativa | Parte A | Politiche Contabili
+  -  le attuali passività ﬁnanziarie, in linea con il 31 dicembre 2017, saranno confermate anch’esse al costo am-
+mortizzato. Quanto alle passività attualmente valutate al fair value, con l’entrata in vigore dell’IFRS9 verrà 
+revocata la fair value option a partire dalla data di prima applicazione del principio, con conseguente valuta-
+zione delle stesse al costo ammortizzato.
+•  Incremento del perimetro degli strumenti valutati obbligatoriamente al Fair Value Through Proﬁt and Loss in 
+conseguenza del mancato superamento del summenzionato SPPI test. In particolare, trattasi essenzialmente 
+delle quote di fondi comuni d’investimento (OICR) ricomprese al 31 dicembre 2017 nel portafoglio “Disponibile 
+per la vendita” (AFS). All’1 gennaio 2018, le riserve da valutazione relative a tali strumenti ﬁnanziari conﬂuiranno 
+nella riserva FTA (“First Time Adoption”) di patrimonio netto.
+•  Applicazione del nuovo modello di impairment, con conseguente signiﬁcativo incremento delle rettiﬁche di valo-
+re per effetto dell’inclusione:
+  -  delle lifetime expected losses sulle attività non deteriorate classiﬁcate nello stage 2 (crediti con signiﬁcativo 
+incremento del rischio creditizio del debitore rispetto a quello esistente al momento della prima iscrizione in 
+bilancio del credito); al riguardo, l’incremento signiﬁcativo del rischio credito associato alle posizioni in stage 
+2 è stato identiﬁcato al ricorrere delle seguenti condizioni alla data di reporting: 
+    -  presenza di scaduto superiore a 30 giorni;
+    -  classiﬁcazione tra i crediti cd. forborne;
+    -  probabilità di default (PD) superiore al doppio di quella rilevata alla prima iscrizione del credito;
+    -  classe di rating interno peggiore o uguale ad una speciﬁca classe di rischio più elevato; 
+-  degli scenari macroeconomici e prospettici (“forward looking”) su un portafoglio identiﬁcato di crediti deteriorati 
+(stage 3) a cui è stata associata una probabilità di cessione ed un prezzo stimato di cessione, in coerenza con le 
+linee-guida indicate nel “NPLs strategy” di Gruppo.
+Si ricorda che le ultime due tematiche sopra indicate potranno comportare, successivamente alla data di prima 
+applicazione, anche una maggiore volatilità del conto economico, dovuta al possibile maggior numero di strumenti 
+obbligatoriamente valutati la fair value, nonché al passaggio dallo stage 1 allo stage 2 o viceversa.
+Conformemente a quanto previsto dal principio contabile, i predetti impatti sono rilevati alla riapertura dei saldi all’1 
+gennaio 2018, imputando le differenze, a seconda del segno, all’apposita riserva (positiva o negativa) di patrimonio 
+netto attribuibile alla First Time Adoption (FTA) dell’IFRS9. 
+Impatti attesi sul Patrimonio di Vigilanza
+Con particolare riferimento agli impatti regolamentari del nuovo modello di impairment, si segnala che in data 
+27 dicembre 2017 è stato pubblicato nella Gazzetta Ufﬁciale dell’Unione Europea il Regolamento UE n 2017/2395 
+emesso in data 12 dicembre 2017 dal Parlamento Europeo e dal Consiglio, che modiﬁca il Regolamento 2013/575 
+ed introduce disposizioni transitorie (misure di phase-in) volte ad attenuare l’impatto dell’introduzione IFRS9 sui 
+Fondi Propri, oltre a modiﬁcare il trattamento delle grandi esposizioni del settore pubblico denominate nella valuta 
+nazionale di uno Stato membro. Il Regolamento è entrato in vigore il 28 dicembre 2017 e si applica a decorrere dall’1 
+gennaio 2018.
+Più speciﬁcamente, le misure di phase-in prevedono che l’ammontare complessivo delle maggiori rettiﬁche su cre-
+diti determinate in sede di FTA incida gradualmente sul CET1, secondo il seguente piano di decurtazioni della riser-
+va negativa FTA lungo i prossimi 5 esercizi (dal 2018 al 2022):
+•  (95%) nel 2018;
+•  (85%) nel 2019;
+•  (70%) nel 2020;
+•  (50%) nel 2021;
+•  (25%) nel 2022.
+L’introduzione del regime transitorio consente, pertanto, di rilevare gradualmente l’impatto negativo derivante 
+dall’applicazione dell’ECL model ai ﬁni della determinazione delle rettiﬁche di valore su crediti, come previsto dal 
+passaggio al nuovo principio IFRS9. 
+Al riguardo, il Gruppo ha esercitato la facoltà di adottare il regime transitorio di tipo “statico” nel mese di gennaio 
+2018, dandone comunicazione all’Organo di Vigilanza. Per effetto di tale regime transitorio, gli impatti attesi sui Fon-
+416

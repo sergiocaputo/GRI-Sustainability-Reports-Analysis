@@ -1,0 +1,37 @@
+Prysmian Group    Consolidated Non-Financial Information Statement 2019 157
+With regard to the conversion factors used for the calculation of GHG emissions, the main sources used are:
+    2018: 
+•  Scope 1 fuels: Defra 2018
+•  Scope 1 F-GAS: GHG Protocol
+•  Scope 2 Location-based: Terna 2016
+•  Scope 2 Market-based: AIB 2017, where available, otherwise Terna 2016
+    2019: 
+•  Scope 1 fuels: Defra 2019
+•  Scope 1 F-GAS: GHG Protocol
+•  Scope 2 Location-based: Terna 2017
+•  Scope 2 Market-based: AIB 2018 (for European countries) and Center for Resource Solutions (for the USA 
+and Canada), using the “2018 Green-e Energy Residual Mix Emissions Rates” as source where available, 
+otherwise Terna 2017
+Health and safety data
+The 2019 health and safety data (IF, IG) does not include the following legal entities: 
+    Associated Cables Pvt. Ltd. (Chiplun site);
+    Oman Aluminium Processing Industries LLC (Sohar site);
+While the 2019 data for professional diseases does not include the fleet and the following legal entities:
+    Associated Cables Pvt. Ltd. (Chiplun site);
+    Oman Aluminium Processing Industries LLC (Sohar site);
+    Oman Cables Industry (Muscat site);
+The 2018 data for the 2018 perimeter does not include the following legal entities: 
+    Oman Cables Industry (SAOG) (Chiplun, Muscat, Sohar sites);
+    Associated Cables Pvt. Ltd. (Pune site);
+    Prysmian Powerlink Asia Co. Ltd. (Shanghai site);
+    Draka Shanghai Optical Fibre Cable Co. Ltd (Wuhan site).
+The absenteeism data for 2018 only considered the category of blue collar workers, except for: Arco Felice, Chi-
+plun, Fujairah, OCI (Muscat), OAPIL (Sohar), Bridgewater, Kuala Lumpur, Pune, Chiplun, Haixun, Shanghai, YOFC, 
+Zhongyao, Yixing and plants closed during the reporting year (Santo Andrè). The 2019 data includes all white 
+collar and blue collar workers within the Group, except for Associated Cables Pvt. Ltd. (Chiplun site) and Oman 
+Aluminium Processing Industries LLC (Sohar site).
+The injury rates are calculated as follows:
+    Injury rate (IR): (total number of accidents with loss of work/hours worked) *200,000
+    Severity rate (IG): (number of days lost/hours worked) * 200,000;
+    Occupational disease rate: cases of occupational disease (officially notified/hours worked) * 1,000,000
+    Absentee rate: total hours of absence/hours to be worked.

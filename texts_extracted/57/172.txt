@@ -1,0 +1,45 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+Sezione 10 – Altre passività – Voce 100
+(cid:20)(cid:19)(cid:17)(cid:20)(cid:3)(cid:36)(cid:79)(cid:87)(cid:85)(cid:72)(cid:3)(cid:83)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)
+Totale  Totale 
+Descrizione 
+31/12/2017  31/12/2016 
+- Ratei e Risconti passivi  6.063  6.833 
+- Somme da riconoscere all'erario  27.650  10.167 
+- Partite relative ad operazioni in titoli ed in valuta  546  195 
+- Somme a disposizione da riconoscere a terzi  7.669  7.547 
+- Partite viaggianti con le filiali  349  3.712 
+- Competenze relative al personale  1.379  2.877 
+- Contributi da versare a Enti previdenziali  7.195  7.260 
+- Fornitori  25.915  31.535 
+- Partite da versare a Enti pubblici per c/terzi  8.746  2.845 
+- Partite in corso di lavorazione  137.342  168.609 
+- Fondo rischi ed oneri per garanzie ed impegni  1.928  2.201 
+- Altre partite  17.265  30.273 
+Totale  242.047  274.054 
+Le “partite viaggianti” e quelle “in corso di lavorazione” derivano, prevalentemente, da elaborazioni effettuate negli 
+ultimi giorni dell’esercizio 2017 e pareggiate nei primi giorni dell’esercizio successivo.
+Sezione 11 – Trattamento di ﬁne rapporto del personale – Voce 110
+(cid:20)(cid:20)(cid:17)(cid:20)(cid:3)(cid:55)(cid:85)(cid:68)(cid:87)(cid:87)(cid:68)(cid:80)(cid:72)(cid:81)(cid:87)(cid:82)(cid:3)(cid:71)(cid:76)(cid:3)(cid:192)(cid:81)(cid:72)(cid:3)(cid:85)(cid:68)(cid:83)(cid:83)(cid:82)(cid:85)(cid:87)(cid:82)(cid:3)(cid:71)(cid:72)(cid:79)(cid:3)(cid:83)(cid:72)(cid:85)(cid:86)(cid:82)(cid:81)(cid:68)(cid:79)(cid:72)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+Totale  Totale 
+31/12/2017  31/12/2016 
+A. Esistenze iniziali  45.784  31.322 
+B. Aumenti  846  20.051 
+B.1 Accantonamento dell'esercizio  846  791 
+B.2 Altre variazioni  -  19.260 
+C. Diminuzioni  5.177  5.589 
+C.1 Liquidazioni effettuate  4.585  5.087 
+C.2 Altre variazioni  592  502 
+D. Rimanenze finali  41.453  45.784 
+(cid:3)
+La voce altre variazioni in diminuzione comprende la riduzione del TFR per circa 217 mila euro a seguito della ces-
+sione del ramo d’azienda alla società Credit Management.
+(cid:20)(cid:20)(cid:17)(cid:21)(cid:3)(cid:36)(cid:79)(cid:87)(cid:85)(cid:72)(cid:3)(cid:76)(cid:81)(cid:73)(cid:82)(cid:85)(cid:80)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)
+Il trattamento di ﬁne rapporto, al pari dei piani pensione a prestazione deﬁnita, è una forma di retribuzione del per-
+sonale, a corresponsione differita, rinviata alla ﬁne del rapporto di lavoro. Esso matura in proporzione alla durata del 
+rapporto costituendo un elemento aggiuntivo del costo del personale.
+L’importo del TFR è iscritto in bilancio sulla base del suo valore attuariale.
+Ai ﬁni dell’attualizzazione, si utilizza il metodo della Proiezione unitaria del credito (c.d. Projected Unit Credit Method) 
+che prevede, appunto, la proiezione degli esborsi futuri sulla base di analisi storiche statistiche e della curva demo-
+graﬁca e l’attualizzazione ﬁnanziaria di tali ﬂussi sulla base di un tasso di interesse di mercato.
+172

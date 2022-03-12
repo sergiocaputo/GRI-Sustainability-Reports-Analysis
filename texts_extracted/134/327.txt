@@ -1,0 +1,41 @@
+ 
+The following table shows the estimated undiscounted future payments for employee benefits: 
+ 
+Period    Pension benefits    Other benefits 
+(€’000)         
+2020    7,385    152 
+2021    7,732    152 
+2022    8,082    154 
+2023    8,853    137 
+2024    9,167    111 
+2025-2029    49,534    465 
+ 
+28. Provisions for risks 
+These provisions amount to €137.9 million at the reporting date, as follows: 
+ 
+(€’000)  31 December 2018  31 December 2019  Variation 
+Provisions for risks on equity investments  1,800  69,319  67,519 
+Other provisions  82,413  68,603  (13,810) 
+Total   84,213  137,922  53,709 
+The provision for risks on equity investments relates to expected impairment losses on the carrying amount of 
+the Group’s investments in associates for the part that exceeds their carrying amounts.  
+The losses of the equity-accounted investees are mostly due to the Lane Group joint ventures and, in particular, 
+the joint venture working on the I-4 Ultimate project. It made a loss in 2019 due to the higher costs incurred for 
+the project.  
+Changes in the provision for risks on equity investments are detailed below:  
+(Valori in Euro/000)    2019 
+Share of profit of equity-accounted investees    (93,849) 
+Other changes including change in the translation reserve    26,330 
+Total    (67.519) 
+Other provisions comprise:       
+       
+31 December 2018  31 December 2019  Variation 
+(€’000) 
+USW Campania projects  29,246  28,313  (933) 
+Provisions set up by Imprepar and its subsidiaries  24,219  9,902  (14,317) 
+Other  28,948  30,388  1,440 
+Total  82,413  68,603  (13,810) 
+The provision for the USW Campania projects mainly consists of the estimated potential costs for the 
+environmental clean-up. The “Main risk factors and uncertainties” section in the Directors’ report includes a 
+description of the litigation and risks related to the USW Campania projects. 
+   328 

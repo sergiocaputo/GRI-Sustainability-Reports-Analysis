@@ -1,0 +1,48 @@
+ 
+            
+]                     
+x Assets and liabilities at 31 December 2019   Current portion of 
+bank loans and 
+] Non-current  Current financial  Other current  Other current 
+current account 
+x  Trade receivables  financial assets  assets  assets   Total assets  Total  liabilities  Total liabilities  Net balance  
+facilities 
+ A.Constructor  J.V Kallidromo  445,109  -  86,360  -  531,469  -  -  -  -  531,469 
+ ACE Chiasso 2  237,010  -  -  -  237,010  -  -  -  -  237,010 
+ Acqua Campania S.p.A.  -  -  -  7,893  7,893  -  -  -  -  7,893 
+ Aegek - Impregilo - Alstom J.V.  -  -  -  -  -  -  -  746  746  (746) 
+ Agua AZ  27,872  -  -  -  27,872  -  -  -  -  27,872 
+ Agua BA  8,542  -  -  -  8,542  -  -  -  -  8,542 
+ Arge Haupttunnel Eyholz  25,427  -  -  -  25,427  -  -  -  -  25,427 
+ Aurelia 98 S.c.r.l.  -  -  -  -  -  16,121  -  -  16,121  (16,121) 
+ Autopistas del Sol S.A.  -  -  -  -  -  56  -  15  71  (71) 
+ Barnard  -  -  -  2,134,879  2,134,879  -  983,744  -  983,744  1,151,135 
+ Cagliari 89 S.c.r.l.  1,511,006  -  561,692  -  2,072,698  1,902,820  -  -  1,902,820  169,878 
+ Churchill Consortium  14,116  -  -  -  14,116  -  -  -  -  14,116 
+ Churchill Hospital J.V.  2,821  -  -  -  2,821  -  -  3,808,954  3,808,954  (3,806,133) 
+ CMC Consorzio Monte Ceneri lotto 851  2,437,481  -  -  -  2,437,481  -  -  -  -  2,437,481 
+ CMR Consorzio  290,195  -  -  -  290,195  -  -  -  -  290,195 
+ Cons. Astaldi Federici Todini Kramis  3,672,442  2,584,250  -  -  6,256,692  1,423,458  -  -  1,423,458  4,833,234 
+ Consorcio Contuy Medio  899  -  538,098  -  538,997  -  -  44,056  44,056  494,941 
+ Consorcio Federici/Impresit/Ice Cochabamba  100,000  -  -  -  100,000  -  100,890  -  100,890  (890) 
+ Consorcio Grupo Contuy-Proyectos y Ob. De F.  -  -  -  -  -  -  131,883  -  131,883  (131,883) 
+ Consorcio OIV-Tocoma  -  24,045,316  567,600  -  24,612,916  -  -  4,707,491  4,707,491  19,905,425 
+ Consorcio VIT Tocoma  -  -  3,484,489  -  3,484,489  -  -  -  -  3,484,489 
+ Consorio.Kallidromo  38,232  -  -  -  38,232  -  38,232  -  38,232  - 
+ Consortium CSC S.A.-Zuttion Construction S.A.  319,732  -  29,482  -  349,214  29,482  -  -  29,482  319,732 
+ Consorzio 201 Quintai  1,913,870  -  -  -  1,913,870  238,262  -  -  238,262  1,675,608 
+ Consorzio 202 Quintai  962,567  -  -  -  962,567  -  -  -  -  962,567 
+ Consorzio Cavalcavia A2 - Nodo di Camorino  -  -  -  318,267  318,267  24,858  -  -  24,858  293,409 
+ Consorzio CEMS  -  -  -  -  -  29,315  -  -  29,315  (29,315) 
+ Consorzio Costruttori TEEM  38  -  -  -  38  71  -  -  71  (33) 
+ Consorzio CPR  3  7,602  -  -  -  7,602  12,253  -  -  12,253  (4,651) 
+ Consorzio CPR 2  -  -  53,203  -  53,203  309,945  -  -  309,945  (256,742) 
+ Consorzio del Sinni  -  -  -  -  -  29,829  -  -  29,829  (29,829) 
+ Consorzio EPC  3,091,687  -  -  -  3,091,687  197,033  -  -  197,033  2,894,654 
+ Consorzio Ferrofir  111,038  -  -  -  111,038  82,668  -  -  82,668  28,370 
+ Consorzio Ferroviario Milanese  -  -  74,310  -  74,310  -  -  -  -  74,310 
+ Consorzio Galliera Roveredo  79,168  -  -  -  79,168  -  -  -  -  79,168 
+ Consorzio H20 Morobbia  472,070  -  -  -  472,070  -  -  -  -  472,070 
+ Consorzio Hirpinia  353,449  -  -  11,155,708  11,509,157  3,126,208  o  -  3,126,208  8,382,949 
+ Consorzio Imprese Lavori FF.SS. di Saline - FEIC  5,055  -  -  -  5,055  -  -  -  -  5,055 
+   360 

@@ -1,0 +1,50 @@
+THE CALCULATION METHODOLOGY The calculation of these rates includes employees with 
+The methodology used to calculate certain indicators  permanent, fixed-term and apprenticeship contracts, 
+reported in this Sustainability Report is described below. and excludes interns and temporary workers. The first 
+day considered is the date when the injury occurs. 
+Personnel indicators  Recorded injuries are those with a prognosis of at least 
+All personnel indicators, with the exception of 102-8  three days. 
+and 403-2, which consider the total workforce and  Hours worked in 2016 and 2017 were calculated by 
+therefore include trainees and temporary workers, refer  subtracting lost hours due to absence in the year from 
+to employees with permanent contracts, employees  total workable hours in the same year. 
+with fixed-term contracts and apprentices in service at 
+the end of the reporting year. Energy consumption
+Energy consumption volumes have been converted into 
+Turnover  GJ considering the primary source of energy and using 
+New employee turnover is calculated as the number  the GRI 3.1 conversion factors. Specifically, 1MWh = 
+of new hires during the year compared to the number  3.6 GJ; 1000 Nmc of natural gas = 39.01 GJ; 1 kg of 
+of company employees (employees with permanent,  petrol = 44.80 MJ; 1 kg of diesel = 43.33 MJ. Petrol 
+fixed-term and apprenticeship contracts) at 31  and diesel were converted from liters to kg considering 
+December of the same year. the conversion factors specified in the Stationary 
+Outgoing employee turnover is calculated as the number of  Combustion Tool of the GHG Protocol – version 4.0, 
+employees who left the company during the year compared  specifically: 1 l petrol = 0.74 kg petrol; 1 l diesel = 0.84 
+to the number of company employees (employees with  kg diesel (http://www.ghgprotocol.org/calculation-
+permanent, fixed-term and apprenticeship contracts) at  tools/all-tools).
+31 December of the same year. Residential and business customers’ electricity 
+consumption was estimated (GRI 302-2 Energy 
+The total employee turnover rate is calculated as the  consumption outside of the organization) by multiplying 
+number of new hires and employees who left the  the capacity data of devices provided to customers by 
+company during the year compared to the number of  the number of hours those devices are used in a year. 
+company employees in service on 31 December of the  The capacity of devices without specified capacity 
+same year (considering employees with permanent,  data was estimated using the CLEER model (http://
+fixed-term and apprenticeship contracts). cleermodel.lbl.gov/) or based on the data given in the 
+products’ technical specifications. The average hours 
+Post-parental leave retention rate  of use were estimated according to in-house analyses.
+The retention rate of employees who have returned from 
+parent leave is calculated as the number of employees  Greenhouse gas emissions
+(with permanent, fixed-term and apprenticeship  Greenhouse gas emissions were calculated on 
+contracts) still in service 12 months after they have  the basis of internationally recognized guidelines, 
+returned from parental leave, compared to the total  specifically the “Corporate Accounting and Reporting 
+number of employees who took parental leave. Standard” of the Global Greenhouse Gas Protocol (the 
+accepted standard for monitoring climate-changing 
+Injury rates  emissions) and the “ICT Footprint - Pilot Testing on 
+The injury rates are calculated as follows:  Methodologies for Energy Consumption and Carbon 
+ Fatality rate: number of fatal injuries/workable  Footprint of the ICT-sector” developed by the European 
+hours*1,000,000 Commission. 
+ Serious injury rate: number of injuries resulting in  Location-based Scope 2 emissions were calculated 
+more than 40 days of missed work (excluding fatal  considering the factors in the international Ecoinvent 
+injuries) / hours worked*1,000,000 database.
+ Recordable injury rate: number of injuries that 
+occurred in the year (including illnesses) / hours 
+worked*1,000,000
+100 Additional information

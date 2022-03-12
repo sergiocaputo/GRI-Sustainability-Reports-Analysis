@@ -1,0 +1,43 @@
+Indice di sezione Indice generale
+Relazione Finanziaria Annuale
+Gruppo Poste Italiane | 2017
+Hold to Collect & Sell (HTC&S): nel quale l’attività finanziaria è posseduta al fine di percepire sia i flussi finanziari contrattuali 
+per capitale ed interessi, che il corrispettivo della sua vendita;
+Altro: rappresenta una categoria residuale che comprende le attività finanziarie gestite con un modello di business non ricon-
+ducibile ai precedenti, tra cui le attività finanziaria detenute con finalità di negoziazione.
+Gli strumenti di equity rappresentano una quota di portafoglio residuale rispetto ai titoli di debito e alle quote di fondi comuni 
+detenuti dal Gruppo Poste Italiane. Per la quasi totalità delle azioni possedute dal Gruppo la classificazione è al fair value rile-
+vato a conto economico. 
+Impairment e Stage Allocation
+Le imprese del Gruppo applicano il General deterioration method secondo modelli di stima dei parametri di rischio distinti a 
+seconda della tipologia di controparte:
+Titoli con controparti Sovereign e Bank: modelli interni di stima dei parametri di rischio;
+Altri titoli corporate: i parametri di rischio sono forniti da un provider esterno.
+Per i Crediti commerciali vs terzi è applicato l’approccio semplificato, sulla base della matrice di determinazione delle perdite 
+storiche osservate.
+Il Gruppo si è dotato di un modello di applicazione della stage allocation finalizzato a valutare il grado di deterioramento della 
+qualità creditizia degli strumenti finanziari in base al rating dell’emittente e ad altri parametri tecnico-statistici di riferimento, 
+nonché a tutte le altre informazioni quali – quantitative di natura “forward looking”52 disponibili alla data di valutazione. Il modello 
+è definito in coerenza con i parametri di rischio adottati ai fini della determinazione dei criteri di impairment.
+Il passaggio di uno strumento finanziario nello stage 2 avviene se il peggioramento del merito creditizio, in termini di notches 
+rating, risulta superiore ad una soglia determinata tenendo in considerazione il livello di rating di partenza e il vintage della 
+posizione. 
+Allo stato attuale delle attività e secondo il modello di staging di cui si è dotato il Gruppo, gli strumenti finanziari sono allocati 
+pressoché interamente nello stage 1. Per gli strumenti classificati in tale stage, come previsto dall’IFRS 9, l’impairment è misu-
+rato come perdita attesa su un orizzonte temporale massimo di 12 mesi.
+Inoltre, relativamente alla definizione di default, si è adottata la seguente impostazione per gli emittenti titoli di debito:
+ritardo di pagamento di 90 giorni per le controparti corporate e bank;
+ritardo di pagamento anche di un solo giorno o rinegoziazione del debito per le controparti sovereign.
+Per i crediti commerciali, sulla base dell’esperienza storica degli incassi, della specificità della attività e della clientela del 
+Gruppo e tenuto conto delle analisi condotte sullo scaduto, si ritiene maggiormente adeguato individuare un periodo temporale 
+più ampio rispetto alla presunzione di default prevista in 90 giorni dall’IFRS 9. 
+Il Gruppo non si è avvalso della Low Credit Risk Exemption.
+Hedge Accounting
+Per le operazioni in Hedge Accounting il Gruppo Poste Italiane si avvale della facoltà prevista dall’IFRS 9 e ha mantenuto le 
+preesistenti regole di contabilizzazione previste dallo IAS 39. Non sono pertanto attesi effetti di alcun tipo. 
+52. Le informazioni forward looking sono inserite direttamente nelle stime di probabilità di default. Al fine di salvaguardare l’oggettività delle misure stimate dai 
+modelli, si è scelto di introdurre fattori forward looking solamente nei casi in cui si è in possesso di informazioni che possano avere impatto sull’effettiva rischiosità 
+delle controparti. Ciò avviene attraverso un attento monitoraggio degli indicatori di mercato (spread CDS, spread obbligazionari, ecc.), delle valutazioni ECAI, 
+delle previsioni macroeconomiche. Nel caso in cui si evidenzino rilevanti fenomeni che potrebbero compromettere la corretta misurazione della PD, si procede 
+con l’aggiornamento del valore utilizzando, ove necessario, matrici di correlazione delle variabili del modello.
+172

@@ -1,0 +1,50 @@
+GRI/
+KPI UM December 2019 December 2018 December 2017 2019-2018  % Scope
+EUSS
+Sea water (used as is 
+(mil m3) 0.1 n.a. n.a. - - Enel
+and dissalated)
+- freshwater (≤ 1,000 mg/l 
+(mil m3) 0.1 n.a. n.a. - - Enel
+Total Dissolved Solids)
+- other water (> 1,000 
+mg/l Total Dissolved  (mil m3) - n.a. n.a. - - Enel
+Solids)
+from waste (amount 
+(mil m3) 0.1 - 0.3 0.1 - Enel
+used inside plants)
+Total  (mil m3) 10.9 11.2 10.6 -0.3 -2.7 Enel
+WATER DISCHARGE
+Water discharge by 
+(mil m3) 17,895.5 17,109.8 18,330.5 785.7 4.6 Enel
+destination (16)
+Surface water (wetlands, 
+(mil m3) 7,388.6 n.a. n.a. - - Enel
+lakes, rivers)
+Groundwater (mil m3) - n.a. n.a. - - Enel
+Water in municipal/
+industrial treatment  (mil m3) 12.5 n.a. n.a. - - Enel
+plants
+Third party water (mil m3) 12.1 n.a. n.a. - - Enel
+Seawater (mil m3) 10,482.3 n.a. n.a. - - Enel
+306-2 WASTE PRODUCED (17)
+Non-hazardous waste (t) 7,168,419 8,846,150 9,315,552 -1,677,731 -19.0 Enel
+Hazardous waste (t) 50,332 150,673 67,453 -100,341 -66.6 Enel
+- of which waste 
+(t) 968 89 695 879 - Enel
+containing PCB
+Total waste produced (t) 7,219,719 8,996,823 9,383,005 -1,777,104 -19.8 Enel
+Total waste sent for 
+(%) 18.9 22.9 22.5 -4.0 - Enel
+recovery
+Hazardous waste by 
+disposal method
+Recycled or sent for 
+(t) 28,324  15,413   26,406  12,911 83.8 Enel
+recovery
+Landfill (t)  11,366   135,260   41,047  -123,894 -91.6 Enel
+Incineration and other 
+(t)  10,642  n.a. n.a. - - Enel
+disposal methods
+Total  (t) 50,332 150,673  67,453   -100,341 -66.6 Enel
+288 Sustainability Report 2019

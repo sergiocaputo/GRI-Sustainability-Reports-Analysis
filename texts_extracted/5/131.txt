@@ -1,0 +1,59 @@
+Alperia Sustainability Report 2019 
+Legislative 
+Decree 
+Material topics  Risk type  Risk   Mitigation/observations monitoring 
+254/2016 
+Area 
+   Customer  Operational  RISK 1: OPERATIONAL - Risk  MITIGATION / CONTROL ACTION 1 To limit the 
+satisfaction  of inadequate management, in  risk of inefficient management and to offer our 
+terms of speed and efficiency,  customers a rapid and solution-oriented service, we 
+of customer/user service and  use numerous communication tools such as a 
+complaints with possible impact  bilingual freephone number which is backed up by 
+on customer satisfaction and  an external call centre to cope with peaks in 
+loss.  requests. This is how we meet all the service SLAs.  
+   Cyber Security  Compliance/  RISK 1: COMPLIANCE – Risk  MITIGATION / CONTROL ACTION 1 We want to 
+operational  of non-compliance with privacy  guarantee compliance with privacy regulations, 
+law provisions in relation to the  which is why we continuously monitor security 
+protection of sensitive data.  systems, updating them on an ongoing basis to 
+  ensure they are the most up to date and we have 
+RISK 2: OPERATIONAL – Risk  implemented all measures envisaged by the GDPR. 
+of security incidents and failure   
+to manage information, as well  MITIGATION / CONTROL ACTION 2 We want to 
+as failure to protect sensitive  guarantee that all data is protected from security 
+data and intellectual property  incidents and guarantee Business Continuity in 
+due to the infrastructure  case of IT incidents (e.g. server failures, power 
+inadequacy with possible data  outages). For this reason, we use efficient 
+loss or disclosure; risk of  protection systems against internal and external 
+possible OTT infrastructure  attacks and incursions. We also renewed our ISO 
+malfunctions with possible  27001 certification and developed business 
+impact on the service delivery  continuity plans (INS-212.01 Business Continuity – 
+continuity due to the  Disaster Recovery IT). 
+failure/inadequate development 
+of IT infrastructure and 
+preparation of emergency 
+plans. 
+   Innovation,  Strategic/  RISK 1: STRATEGIC &  MITIGATION / CONTROL ACTION 1 We want to 
+Research and  operational  OPERATIONAL – Risk of not  contribute actively to South Tyrol's energy future 
+Development  identifying/planning innovation  and develop new technology solutions with 
+projects and R&D activities, as  innovative research projects. We are preparing 
+well as inadequate channelling  guidelines on innovation at group level to support 
+of resources to the  the activities of the Innovation Board and we are 
+aforementioned  carrying out the projects selected in 2018. After the 
+projects/activities with potential  previous year's successful event, we launched the 
+impact on the development of  second edition of Alperia Startup Factory. 
+new business opportunities. 
+   Sustainable  Strategic/  RISK 1: STRATEGIC – Risk of  MITIGATION / CONTROL ACTION 1 We want to 
+energy  operational  failure/inadequate development  develop new business activities in line with the 
+products and  of new energy concepts (e.g.  100% Green DNA concept, promote the take-up 
+services  products and services) with  and purchase of green products and increase the 
+  potential impact on the strategic  sales share of sustainable products and services. 
+  objectives to make the business  For this reason, we are examining consumer 
+  100% green.   behaviour programmes aimed at stimulating the 
+    purchase of green products. 
+  RISK 2: OPERATIONAL – Risk   
+  of failure/inadequate  MITIGATION / CONTROL ACTION 2 We want to 
+  management and development  promote electromobility and the charging 
+  of electromobility services and  infrastructure in South Tyrol. To achieve this, we 
+    support infrastructures.  are making Alperia an e-mobility service provider 
+and installing charging infrastructures in the area. 
+  132 

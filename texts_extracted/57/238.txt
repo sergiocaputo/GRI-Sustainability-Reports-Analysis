@@ -1,0 +1,51 @@
+Nota Integrativa | Parte E | Informazioni sui rischi e relative politiche di copertura
+Informazioni di natura quantitativa
+Qui di seguito si riporta il dettaglio delle attività e passività in valuta che si riferiscono essenzialmente ad operazioni 
+in dollari USA, Lira Sterlina e Franco svizzero.
+(cid:20)(cid:17)(cid:3)(cid:39)(cid:76)(cid:86)(cid:87)(cid:85)(cid:76)(cid:69)(cid:88)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:87)(cid:68)(cid:3)(cid:71)(cid:76)(cid:3)(cid:71)(cid:72)(cid:81)(cid:82)(cid:80)(cid:76)(cid:81)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:72)(cid:3)(cid:83)(cid:68)(cid:86)(cid:86)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:72)(cid:3)(cid:71)(cid:72)(cid:76)(cid:3)(cid:71)(cid:72)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:76)
+Valute 
+Voci 
+USD  GBP  CAD  AUD  CHF  ALTRE VALUTE 
+A. Attività finanziarie  37.586  204  121  121  210  308 
+A.1 Titoli di debito  26.864 
+     
+A.2 Titoli di capitale 
+     
+A.3 Finanziamenti a banche  2.723  204  121  121  210  308 
+A.4 Finanziamenti a clientela  7.999 
+     
+A.5 Altre attività finanziarie 
+     
+B. Altre attività  520  206  117  48  211  65 
+C. Passività finanziarie  33.343  393  504  3  80  139 
+C.1 Debiti verso banche  25.705    20  3  3  120 
+C.2 Debiti verso clientela  7.638  393  484  77  20 
+C.3 Titoli di debito 
+     
+C.4 Altre passività finanziarie 
+     
+D. Altre passività 
+     
+E. Derivati finanziari  37.693  79  501  182  324  301 
+- Opzioni  -  -  -  - 
++ Posizioni lunghe 
+     
++ Posizioni corte 
+     
+- Altri derivati  37.693  79  501  182  324  301 
++ Posizioni lunghe  14.495  23  434  50  118 
++ Posizioni corte  23.198  56  67  182  274  183 
+Totale Attività  52.601  433  672  169  471  492 
+Totale Passività  56.541  449  571  186  354  322 
+Sbilancio (+/-)  (3.940)  (16)  101  (17)  117  170 
+(cid:3)
+2. Modelli interni e altre metodologie per l’analisi di sensitività
+Nella presente sezione vengono sinteticamente esposti i risultati delle analisi di rischio di cambio nell’ambito del 
+portafoglio bancario. In particolare, la tabella sotto riportata mostra i dati relativi all’indicatore gestionale deﬁnito 
+come rapporto tra esposizione netta in cambi e Fondi Propri.
+Esposizione al Rischio Cambio
+Valore al 31.12.17 1,24%
+Media 1,07%
+Minimo 0,17%
+Massimo 2,37%
+238

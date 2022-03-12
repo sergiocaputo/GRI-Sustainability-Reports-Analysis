@@ -1,0 +1,41 @@
+Indice generale Indice di sezione Sezione 12
+Rendiconto separato del Patrimonio BancoPosta al 31 dicembre 2017
+Nota integrativa - Parte E
+Sezione 1 – Rischio di credito
+Alle tematiche del rischio di credito sono riconducibili le tipologie di rischio di seguito riportate.
+Il rischio di credito è definito come la possibilità che una variazione del merito creditizio di una controparte, nei confronti della 
+quale esiste un’esposizione, generi una corrispondente variazione del valore della posizione creditizia. Rappresenta, dunque, il 
+rischio che il debitore non assolva, anche parzialmente, ai suoi obblighi di rimborso del capitale e degli interessi.
+Il rischio di controparte è definito come il rischio che la controparte di una transazione avente ad oggetto determinati strumenti 
+finanziari risulti inadempiente prima del regolamento della transazione stessa. Tale rischio grava su alcune tipologie di transa-
+zioni e in particolare, per il Patrimonio BancoPosta, sui derivati finanziari e sulle operazioni di Pronti contro termine.
+Il rischio di concentrazione è definito come il rischio derivante da esposizioni verso controparti o gruppi di controparti connesse ovvero 
+controparti del medesimo settore economico o che esercitano la stessa attività ovvero appartenenti alla medesima area geografica.
+Informazioni di natura qualitativa
+1. Aspetti generali
+Secondo quanto previsto dalla normativa di riferimento (DPR 144/2001) il Patrimonio BancoPosta non può esercitare attività di 
+concessione di finanziamenti nei confronti del pubblico. In conseguenza di ciò non sono sviluppate politiche creditizie.
+Le caratteristiche operative del Patrimonio BancoPosta determinano tuttavia una rilevante concentrazione delle esposizioni 
+nei confronti dello Stato italiano, riconducibile essenzialmente ai depositi presso il MEF e agli investimenti in Titoli di Stato. 
+Secondo il modello di calcolo di rischio di credito più avanti definito, tali tipologie di investimento non determinano fabbisogni 
+di capitale a copertura di tale rischio.
+2. Politiche di gestione del rischio di credito
+2.1 Aspetti organizzativi
+La funzione Risk Management nell’ambito del Patrimonio BancoPosta è la struttura preposta alla gestione e alla misurazione 
+dei rischi di credito, controparte e concentrazione. 
+L’attività di monitoraggio del rischio di credito si riferisce in particolare alle seguenti esposizioni:
+titoli eurogovernativi (o garantiti dallo Stato) per l’impiego della liquidità raccolta tramite i conti correnti da clientela privata; 
+depositi presso il MEF per l’impiego della liquidità raccolta tramite conti correnti da Pubblica Amministrazione;
+eventuali posizioni a credito verso la Tesoreria dello Stato dovute ai versamenti della raccolta al netto del debito per antici-
+pazioni erogate; 
+partite in corso di lavorazione: negoziazione assegni, utilizzo carte elettroniche, incassi diversi;
+conti correnti postali intrattenuti con la clientela con saldi temporaneamente attivi per effetto dell’addebito di competenze 
+periodiche, limitatamente a quelli non oggetto di svalutazione in quanto tornati passivi nel corso dei primi giorni del 2018; 
+depositi di contante derivanti da collateralizzazioni per operazioni in essere con banche e clientela previste da accordi di 
+mitigazione del rischio di controparte (CSA - Credit Support Annex e GMRA – Global Master Repurchase Agreement);
+depositi di contante effettuati come contributo prefinanziato al fondo di garanzia della Controparte Centrale “Cassa 
+Compensazione e Garanzia” per operatività in Repo; 
+titoli consegnati a garanzia derivanti da collateralizzazioni previste da accordi di mitigazione del rischio di controparte (CSA 
+e GMRA);
+crediti commerciali verso partner derivanti dall’attività di collocamento di prodotti finanziari/assicurativi.
+489

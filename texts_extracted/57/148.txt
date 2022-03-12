@@ -1,0 +1,55 @@
+Nota Integrativa | Parte B | Informazioni sullo Stato Patrimoniale
+Sezione 6 – Crediti verso banche – Voce 60
+(cid:25)(cid:17)(cid:20)(cid:3)(cid:38)(cid:85)(cid:72)(cid:71)(cid:76)(cid:87)(cid:76)(cid:3)(cid:89)(cid:72)(cid:85)(cid:86)(cid:82)(cid:3)(cid:69)(cid:68)(cid:81)(cid:70)(cid:75)(cid:72)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+Totale  31/12/2017  Totale  31/12/2016 
+Tipologia operazioni/Valori  FV  FV 
+VB  VB 
+L1  L2  L3  L1  L2  L3 
+A. Crediti verso Banche Centrali  1.991.285  -  1.991.285  -  152.906  -  152.906  - 
+1. Depositi vincolati  -  X  X  X  -  X  X  X 
+2. Riserva obbligatoria  1.991.285  X  X  X  152.906  X  X  X 
+3. Pronti contro termine  -  X  X  X  -  X  X  X 
+4. Altri  -  X  X  X  -  X  X  X 
+B. Crediti verso banche  212.889  -  -  212.889  199.834  -  -  199.834 
+1. Finanziamenti  212.889  -  -  212.889  199.834  -  -  199.834 
+1.1 Conti correnti e depositi liberi  103.927  X  X  X  16.552  X  X  X 
+1.2 Depositi vincolati  88.512  X  X  X  88.580  X  X  X 
+1.3 Altri finanziamenti:  20.450  X  X  X  94.702  X  X  X 
+- Pronti contro termine attivi  -  X  X  X  66.521  X  X  X 
+- Leasing finanziario  -  X  X  X  -  X  X  X 
+- Altri  20.450  X  X  X  28.181  X  X  X 
+2. Titoli di debito  -  -  -  -  -  -  -  - 
+2.1 Titoli strutturati  -  X  X  X  -  X  X  X 
+2.2 Altri titoli di debito  -  X  X  X  -  X  X  X 
+Totale  2.204.174  -  1.991.285  212.889  352.740  -  152.906  199.834 
+L d
+Legenda:
+FV = Fair value
+VB = Valore di bilancio
+Sezione 7 – Crediti verso clientela – Voce 70
+(cid:26)(cid:17)(cid:20)(cid:3)(cid:38)(cid:85)(cid:72)(cid:71)(cid:76)(cid:87)(cid:76)(cid:3)(cid:89)(cid:72)(cid:85)(cid:86)(cid:82)(cid:3)(cid:70)(cid:79)(cid:76)(cid:72)(cid:81)(cid:87)(cid:72)(cid:79)(cid:68)(cid:29)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:82)(cid:86)(cid:76)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:80)(cid:72)(cid:85)(cid:70)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)
+Totale  31/12/2017  Totale  31/12/2016 
+Valore di bilancio  Fair Value  Valore di bilancio  Fair Value 
+Tipologia operazioni/Valori 
+Deteriorati  Deteriorati 
+Non  Non 
+L1  L2  L3  L1  L2  L3 
+Deteriorati  Deteriorati 
+Acquistati  Altri  Acquistati  Altri 
+Finanziamenti  8.009.638  2.377  1.419.753  -  -  10.126.499  7.737.642  1.070  1.441.503  -  -  9.628.214 
+1. Conti correnti  744.571  372  311.246  X  X  X  828.581  174  324.357  X  X  X 
+2. Pronti contro termine attivi  1.490.088  -  -  X  X  X  851.661  -  -  X  X  X 
+3. Mutui  4.510.511  344  950.982  X  X  X  4.558.127  821  1.005.447  X  X  X 
+4. Carte di credito, prestiti personali 
+e cessioni del quinto  44.827  -  15.153  X  X  X  158.225  4  14.614  X  X  X 
+5. Leasing finanziario  -  -  -  X  X  X  -  -  -  X  X  X 
+6. Factoring  -  -  -  X  X  X  -  -  -  X  X  X 
+7. Altri finanziamenti  1.219.641  1.661  142.372  X  X  X  1.341.048  71  97.085  X  X  X 
+Titoli di debito  246.399  -  -  -  -  246.399  167.207  -  -  -  -  167.207 
+8. Titoli strutturati  -  -  -  X  X  X  -  -  -  X  X  X 
+9. Altri titoli di debito  246.399  -  -  X  X  X  167.207  -  -  X  X  X 
+Totale  8.256.037  2.377  1.419.753  -  -  10.372.898  7.904.849  1.070  1.441.503  -  -  9.795.421 
+(cid:3)
+I titoli di debito iscritti nella voce 70) Crediti verso clientela si riferiscono principalmente:
+•  per euro 113,2 milioni al titolo Senior riveniente dalla cartolarizzazione NPLs perfezionata nel 2016;
+148

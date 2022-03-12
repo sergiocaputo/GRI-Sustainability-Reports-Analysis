@@ -1,0 +1,40 @@
+I COMBUSTIBILI UTILIZZATI DALLE SOCIETÀ  
+DEL GRUPPO PER AUTOTRAZIONE  
+E RISCALDAMENTO
+I dati si riferiscono a tutte le Società in perimetro di rendicontazione DNF.
+∆%
+TIPOLOGIA DI COMBUSTIBILE u. m. 2017 2018 2019
+2019/2018
+autotrazione (parco auto Gruppo)
+benzina (149)  l x 1.000 95,4 110,3 122,4 11,0
+gasolio (150) l x 1.000 3.602,1 3.458,3 3.032,2 -12,3
+riscaldamento 
+gasolio (151) l x 1.000 2,7 0,0 0,0 -
+metano (152) Nm3 x 1.000 464,9 364,5 388,6 6,6
+GPL (153) l x 1.000 32,5 10,2 28,1 175,2
+I RILASCI E GLI SCARTI – AREA ENERGIA
+I dati su rilasci e scarti si riferiscono ad Acea Produzione, agli impianti di termovalorizzazione di Acea Ambiente e ad Areti. 
+∆%
+EMISSIONI IN ATMOSFERA u.m. 2017 2018 2019
+2019/2018
+CO2 (154) = (155+156+157)(*) t 369.546 361.539 348.404 -3,6
+Acea Produzione (155)  t 33.507  42.888 48.131 12,2
+Areti – reintegri di SF6 (156) t 14.100 11.233 9.682 -13,8
+reintegri di HCFC (156 B) t - 23 0 -
+termovalorizzazione (157) t 375.159 307.395 290.591 -5,5
+NOx (158) = (159+160) t 198,20 189,40 188,19 -0,6
+Acea Produzione (159) t 53,53 13,69 17,44 27,4
+termovalorizzazione (160) t 144,67 175,71 170,75 -2,8
+CO (161) = (162+163) t 6,82 6,38 7,02 9,9
+Acea Produzione (162) t 2,19 2,02 4,19 107,4
+termovalorizzazione (163) t 4,63 4,36 2,83 -35,2
+SO2 (164) = (165+166) t 0,42 0,16 0,33 106,7
+Acea Produzione (165) t 0,03 0,01 0,02 100,0
+termovalorizzazione (166) t 0,39 0,15 0,31 107,2
+polveri (167) = (168+169) t 0,55 0,50 0,60 19,4
+Acea Produzione (168) t 0,05 0,01 0,03 200,0
+termovalorizzazione (169) t 0,50 0,49 0,57 15,7
+HCl (170) t 2,98 3,56 2,92 -18,0
+HF (171) t 0,12 0,12 0,12 -
+Carbonio Organico (172) t 1,88 1,75 1,99 14,0
+BILANCIO AMBIENTALE 253

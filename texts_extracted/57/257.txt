@@ -1,0 +1,38 @@
+Bilancio Individuale 2017
+(cid:37)(cid:17)(cid:22)(cid:3)(cid:53)(cid:76)(cid:86)(cid:72)(cid:85)(cid:89)(cid:72)(cid:3)(cid:71)(cid:68)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:87)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:3)(cid:68)(cid:87)(cid:87)(cid:76)(cid:89)(cid:76)(cid:87)(cid:106)(cid:3)(cid:192)(cid:81)(cid:68)(cid:81)(cid:93)(cid:76)(cid:68)(cid:85)(cid:76)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:83)(cid:82)(cid:81)(cid:76)(cid:69)(cid:76)(cid:79)(cid:76)(cid:3)(cid:83)(cid:72)(cid:85)(cid:3)(cid:79)(cid:68)(cid:3)(cid:89)(cid:72)(cid:81)(cid:71)(cid:76)(cid:87)(cid:68)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+Titoli di debito   Titoli di capitale  Quote di O.I.C.R.  Finanziamenti 
+1. Esistenze iniziali  (14.352) (1.892) (14.883)  -
+2. Variazioni positive  1.120 22.640 692  -
+2.1 Incrementi di fair value  1.120 17.268 692  -
+2.2 Rigiro a conto economico di riserve negative  - 5.372 -  -
+- da deterioramento  - - -  -
+- da realizzo  - 5.372 -  -
+2.3 Altre variazioni  - - -  -
+3. Variazioni negative  4.608 2.697 13.056  -
+3.1 Riduzioni di fair value  3.820 - 12.206  -
+3.2 Rettifiche da deterioramento  - 1.889 -  -
+3.3 Rigiro a conto economico da riserve positive: da realizzo  788 808 850  -
+3.4 Altre variazioni  - - -  -
+4. Rimanenze finali  (17.840) 18.051 (27.247)  -
+(cid:3)
+(cid:37)(cid:17)(cid:23)(cid:3)(cid:53)(cid:76)(cid:86)(cid:72)(cid:85)(cid:89)(cid:72)(cid:3)(cid:71)(cid:68)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:87)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:72)(cid:3)(cid:85)(cid:72)(cid:79)(cid:68)(cid:87)(cid:76)(cid:89)(cid:72)(cid:3)(cid:68)(cid:3)(cid:83)(cid:76)(cid:68)(cid:81)(cid:76)(cid:3)(cid:68)(cid:3)(cid:69)(cid:72)(cid:81)(cid:72)(cid:192)(cid:70)(cid:76)(cid:3)(cid:71)(cid:72)(cid:192)(cid:81)(cid:76)(cid:87)(cid:76)(cid:29)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:93)(cid:76)(cid:82)(cid:81)(cid:76)(cid:3)(cid:68)(cid:81)(cid:81)(cid:88)(cid:72)
+31/12/2017 
+ 
+1. Esistenze iniziali   (4.707) 
+2. Variazioni positive   224 
+2.1 Utili dovuti a modifiche del tasso di sconto 
+ 
+2.2 Altri utili attuariali   224 
+2.3 Altre variazioni  
+ 
+3. Variazioni negative 
+ 
+3.1 Perdite dovute a modifiche del tasso di sconto  
+ 
+3.2 Altre perdite attuariali 
+ 
+3.3 Altre variazioni - 
+ 
+4. Rimanenze finali   (4.483) 
+(cid:3)
+257

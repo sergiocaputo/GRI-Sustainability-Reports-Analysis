@@ -1,0 +1,41 @@
+ 
+Specifically, in their meeting held on 24 April 2019, the parent’s shareholders resolved the following: 
+•  to allocate €2,396,680.92 to the legal reserve;  
+•  to distribute €840,055.32 as a dividend to each share, equal to €0.52 per share, as per article 33.b) of the 
+by-laws, including the legal withholding;  
+•  to allocate €106,313,678.94 to retained earnings.  
+At the reporting date, the parent had 1,330,845 treasury shares for €3,291,089.72. The reserve for treasury 
+shares is unchanged from 31 December 2018. The parent does not have a share repurchase plan at 31 
+December 2019.  
+The inflation reserve was set up following application of IAS 29 to the Argentine group companies (more 
+information is available in note 1 and the Directors’ report in the “Main risk factors and uncertainties” section). 
+The main variation in other comprehensive expense items relates to the effect of fluctuations in exchange 
+rates (mostly the Argentine peso’s depreciation versus the Euro) as shown below:  
+ 
+(€’000)  2018  2019 
+Opening balance  (68,835)  (100,768) 
+Reclassification to profit or loss  -  (11,380) 
+Equity-accounted investees  (32,862)  12,737 
+Increase (decrease)  929  (26,582) 
+Total changes  (31,933)  (25,225) 
+Closing balance  (100,768)  (125,993) 
+     
+At the reporting date, the hedging reserve referred to the equity-accounted Turkish associate Gaziantep 
+Hastane Saglik. The effect of changes in the hedging reserve due to fair value gains (losses) on financial 
+instruments is detailed below: 
+ 
+(€’000)  2018  2019 
+Opening balance  138  (4,036) 
+Reclassification of fair value gains/losses on settled transactions to profit or loss  (183)  - 
+Net fair value losses  (3,991)  (4,825) 
+Total changes  (4,174)  (4,825) 
+Closing balance  (4,036)  (8,861) 
+     
+ 
+The actuarial reserve underwent the following changes: 
+(€’000)  2018  2019 
+ Opening balance  (5,233)  (1,110) 
+Net actuarial gains (losses) recognised in OCI  4,123  (5,190) 
+Closing balance  (1,110)  (6,300) 
+     
+   307 

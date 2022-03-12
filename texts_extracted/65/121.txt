@@ -1,0 +1,52 @@
+Dichiarazione consolidata di carattere non finanziario 
+120 Bilancio Sociale 
+• verifica della possibilità di unificare i  • individuazione di un software per la 
+sistemi di automazione, segnalazione  gestione delle attività di manutenzione a 
+e supervisione già presenti presso gli  richiesta, programmata e straordinaria, 
+insediamenti del Centro di Produzione  con l’obiettivo di garantire l’uso di impianti 
+RF di Via Asiago e del Centro di  ed apparecchiature, conservandone 
+Produzione TV di Via Teulada, al fine  le prestazioni iniziali in tema di 
+di migliorare la gestione degli impianti  funzionalità, sicurezza nell’utilizzazione 
+elettrici ed il corretto funzionamento  e tutela ambientale; ciò oltre a favorire 
+degli impianti HVAC, come sopra  l’adeguamento tecnico e normativo dei 
+indicato. Inoltre, con l’acquisizione dei  beni ad iniziali o nuove prestazioni, sia 
+dati ricavati dal sistema di supervisione,  prescelte sia richieste dalla legislazione;
+sarà possibile effettuare un’attività di  • valutazione dell’impatto tecnico-
+monitoraggio dei consumi energetici  economico per l’installazione di sistemi 
+per gli impianti locali già individuati  di monitoraggio dei vettori energetici 
+come particolarmente energivori (sale  presso 14 siti Rai, al fine di raccogliere 
+apparati, studi televisivi, etc.), nell’intento  dati indispensabili per gli adempimenti 
+di creare – analizzando ed elaborando  previsti dal D. Lgs.102/2014 in tema 
+i dati raccolti – indici di prestazione  di Diagnosi Energetica, con particolare 
+energetica e confronto con i dati storici,  riferimento all’art.8 e Allegato 2.
+individuando azioni di contenimento dei 
+consumi e valutando, successivamente, i  Sono state inoltre effettuate numerose 
+risparmi conseguiti;  iniziative particolari presso diverse 
+Consumi energetici del Gruppo Rai per fonte nell’anno*
+Tipologia di consumo Unità di  2017 2016
+misura
+Totale Totale GJ Totale Totale GJ
+Tipologia di combustibile
+Gas Naturale Sm3 6.947.930 244.109 6.750.753 237.181
+Gasolio Litri 2.746.206 117.749 3.362.488 144.173
+Benzina Litri 99.638 4.266 134.400 5.755
+Teleriscaldamento KWh 2.015.000 1.612.000
+748.876 756.702
+Energia elettrica KWh 206.005.981 208.583.000
+di cui acquistata KWh 206.005.981 208.583.000
+di cui da fonte rinnovabile KWh 204.637.481 207.503.000
+*Fonte dei fattori di conversione: UNFCC Tabella parametri standard nazionali – 31 dicembre 2017
+Emissioni dirette e indirette di CO  del Gruppo Rai nell’anno (tonnellate di CO )
+2 2
+Scopo 2017 2016
+Emissioni di scopo 1 [a] 21.072 22.120
+Emissioni di scopo 2 – Market Based [b] 1.118 889
+Emissioni di scopo 2 – Location Based [c] 77.857 78.297
+[a]  Fonte dei fattori di emissione: Italian Greenhouse Gas Inventory 1990 – 2014 – National Inventory Report 2016 Annex 6 
+National Emission Factors – Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA). 
+[b]  Le emissioni indirette calcolate secondo il metodo Market based del Gruppo prendono in considerazione la quota parte 
+di energia elettrica acquistata non rinnovabile e l’energia da teleriscaldamento.
+[c]  Le emissioni Location based sono calcolate considerando tutta l’energia acquistata dal Gruppo (rinnovabile e non 
+rinnovabile) come indicato dagli Standard GRI. Fonte fattori di emissione: Confronti internazionali Terna 2015 (per energia 
+elettrica) e ENEA (per teleriscaldamento) http://www.efficienzaenergetica.enea.it/regioni/siape/poteri-calorifici-inferiori-
+dei-combustibili-e-fattori-di-emissione-della-co2

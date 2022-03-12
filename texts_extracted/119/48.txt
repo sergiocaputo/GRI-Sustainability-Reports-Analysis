@@ -1,0 +1,50 @@
+    SIT S.p.A. – Consolidated Non-Financial Statement at  
+December 31, 2019 
+Smart Metering Division  
+ 
+The Metering Division’s research and development department has defined specific medium and long-
+term goals to focus development and resource investments on: 
+•  Developing products for the world market using different communication technologies, 
+including NB-IoT, ZigBee and Walk-by. NB-IOT and Walk-by technologies, in particular, allow 
+for significant energy savings.  
+•  Improving measurement sensors by using biogas and developing distributed gases containing 
+hydrogen. Particular attention has been paid to decreasing consumption, which has a 
+beneficial impact on battery life. 
+•  Carrying out checks on feasibility, costs and potential alternative measurement technologies 
+to thermo-mass (e.g., ultrasonic). 
+•  Finalising the feasibility phase of a new product platform. 
+ 
+In particular, during 2019: 
+•  The NB-IoT product was approved and certified (MID_ Measuring Instruments Directive) and 
+is currently in production. NB-IOT technology will allow products to function without needing 
+to change their battery at all during their life cycle. 
+•  MID certifications have been extended on some product revisions to reduce costs and 
+optimise products. 
+•  A ZigBee certification has been obtained from the ZigBee Alliance for the English market, 
+while the CPA (Commercial Product Assurance) certification is being finalised with the NCSC 
+(National Cyber Security Centre), which will allow for the U6 product to be marketed in the 
+UK. 
+•  Product certification in accordance with Welmec D (a body set up to promote European 
+cooperation in the field of legal metrology) is nearing completion, which will also allow for 
+metrology software to be updated. This prevents the necessary removal and scrapping of 
+products via the rolling out of a simple software update. 
+•  All checking and characterisation activities for the new thermo-mass sensor have been 
+completed, meeting all objectives. The supplier is in the process of reviewing the product in 
+accordance with our suggestions 
+•  The  Metering  division  was  also  selected  by  the  UK  Department  for  Business  (BEIS  - 
+Department for Business, Energy & Industrial Strategy) following an international tender to 
+develop a domestic meter and hydrogen meter for the commercial and industrial sectors as 
+part of the national Hy4Heat project. The Hy4Heat programme covers the entire hydrogen 
+for heating chain for both domestic and commercial use.  The objective of MeteRSit’s work 
+package  is  to  develop  a  meter  prototype  which  guarantees  safety  and  the  precise 
+measurement of hydrogen flows. The prototype should be compatible with sector regulations 
+(MID/Ofgem) and country specifications (SMETS 2), while also taking into consideration the 
+particular characteristics of hydrogen in terms of its greater risk and reduced heating power 
+by volume unit.  From this point of view, MeteRSit’s unique thermo-mass technology can 
+reduce meter size, which was another of the tender’s key requirements. The Hy4Heat 
+programme requires the delivery of the prototype by the first quarter of 2021.  
+•  Finally, the Metering division has planned an LCA (Life Cycle Assessment) with the aim of 
+including a greater percentage of recyclable material in its products, and has developed a new 
+meter platform to reduce the use of plastic and metal by about 30%. Together with other 
+47 
+ 

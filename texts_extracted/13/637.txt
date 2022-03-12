@@ -1,0 +1,31 @@
+INDICE CONSOLIDATO ESERCIZIO DNF
+F. Modelli per la misurazione del rischio di credito 
+Il rischio di credito, nella sua accezione più semplificata, è riconducibile a tre 
+variabili fondamentali: l’esposizione al momento del default della controparte 
+(EAD), la probabilità che la controparte faccia default (PD) e la perdita 
+effettiva realizzata al momento del default (LGD). Con riferimento alle classi di 
+esposizione rispetto alle quali si effettua il calcolo del requisito patrimoniale 
+a fronte del rischio di credito, si è deciso, sulla base delle riflessioni quali - 
+quantitative di seguito esplicitate, di focalizzare l’attenzione esclusivamente su: 
+  retail non garantito;
+  esposizioni garantite da immobili.
+È importante precisare, inoltre che i portafogli sopra menzionati (e, cioè, 
+sui quali è possibile effettuare lo stress testing) rappresentano le tipologie di 
+impiego rispetto alle quali la Banca intende, nel prossimo futuro, continuare 
+ad investire, mantenendo comunque contenuta la propria esposizione verso 
+le altre classi di attività. Si rileva, infine, che nelle ipotesi di stress che vengono 
+determinate metodologicamente viene anche preso in considerazione quella 
+parte di portafoglio riferito alle “esposizioni scadute”. In questo modo, per 
+ciascuna classe di attività e per ciascun portafoglio, nella determinazione 
+degli scenari di crisi, vengono considerate tutte le esposizioni ovvero sia quelle 
+in bonis sia quelle deteriorate ad una certa data di riferimento assunta come 
+base di calcolo. Nonostante i portafogli di credito non garantito verso il retail 
+risultino avere delle consistenze limitate in termini di esposizione complessiva, 
+si ritiene necessario valutare comunque l’effetto che avverse condizioni 
+macroeconomiche ed eventi estremi avrebbero nella gestione caratteristica 
+dell’operatività bancaria. È importante, dunque, procedere agli stress test 
+per tale tipologia di impieghi al fine di comprendere, conseguentemente al 
+verificarsi di ipotetici eventi estremi, la dinamica evolutiva della rischiosità 
+intrinseca di tale tipologia di attivi.
+GRUPPO MEDIOLANUM
+BILANCIO CONSOLIDATO 2018 638

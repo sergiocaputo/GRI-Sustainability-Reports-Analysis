@@ -1,0 +1,39 @@
+ 
+  Country  Currency  Share/quota   Investme%  %  Investment held by  Consolidation or 
+capital  nt % direct  indirect  measurement 
+  subscribed  method 
+  Consorzio del Sinni  Italy  Euro  51,646   43.16   43.16  Imprepar S.p.A.  equity 
+  Consorzio di Riconversione  Italy  Euro  46,481   10   10  Imprepar S.p.A.  equity 
+Industriale Apuano - CO.RI.A. S.c.r.l. 
+  Consorzio EPC   Peru        18.25 18.25      equity 
+  Consorzio Ferrofir (in liq.)  Italy  Euro  30,987   33.333   33.333  Imprepar S.p.A.  equity 
+  Consorzio Ferroviario Milanese (in  Italy  Euro  154,937   18.26   18.26  Imprepar S.p.A.  equity 
+liq.) 
+  Consorzio H20 Morobbia  Switzerland       50   50  CSC S.A.  equity 
+  Consorzio Hirpinia AV  Italy  Euro  10,000   60  60      equity 
+  Consorzio Imprese Lavori FF.SS. di  Italy  Euro  15,494   33.333   33.333  Imprepar S.p.A.  equity 
+Saline - FEIC 
+  Consorzio Iniziative Ferroviarie -  Italy  Euro  41,316   35.001   35.001  Imprepar S.p.A.  equity 
+INFER 
+  Consorzio Iricav Due  Italy  Euro  510,000   34.09 34.09      equity 
+  Consorzio Kallidromo  Greece  Euro  8,804   23   23  HCE Costruzioni S.p.A.  equity 
+  Consorzio Lotto 202 Cossi-LGV  Switzerland  Euro      74.45   44.45  Cossi Costruzioni S.p.A.  equity 
+               30  LGV Impresa Costruzioni S.A.   
+  Consorzio Lotto 742-01  Switzerland        50   50  LGV Impresa Costruzioni S.A.  equity 
+  Consorzio Lotto 822 - Vezia  Switzerland        33.34   33.34  LGV Impresa Costruzioni S.A.  equity 
+  Consorzio Masnan  Switzerland        70   70  CSC S.A.  equity 
+  Consorzio Matro Sud  Switzerland        20.89   8.89  Cossi Costruzioni S.p.A.  equity 
+               12  LGV Impresa Costruzioni S.A.   
+  Consorzio MM4  Italy  Euro  200,000   32.135 32.135      equity 
+  Consorzio NOG.MA (in liq.)  Italy  Euro  600,000   16.767   16.767  Imprepar S.p.A.  equity 
+  Consorzio Piottino  Switzerland        45   25  CSC S.A.  equity 
+               20  LGV Impresa Costruzioni S.A.   
+  Consorzio Pizzarotti Todini-Kef-Eddir.  Italy  Euro  100,000   50   50  HCE Costruzioni S.p.A.  equity 
+(in liq.) 
+  Consorzio Portale Vezia (CVP Lotto  Switzerland        60   60  CSC S.A.  equity 
+854) 
+  Consorzio Probin  Switzerland        50   50  CSC S.A.  equity 
+  Consorzio Sarda Costruzioni  Italy        25   25  Imprepar S.p.A.  equity 
+Generali - SACOGEN 
+  Consorzio Sardo d'Imprese (in liq.)  Italy  Euro  103,291   34.38   34.38  Imprepar S.p.A.  equity 
+   381 

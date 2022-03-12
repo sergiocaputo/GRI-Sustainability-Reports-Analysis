@@ -1,0 +1,90 @@
+Nota integrativa consolidata
+Modalità di determinazione delle perdite di valore  •  l’eventuale presenza di uno scaduto che risulti tale da al-
+Perdite di valore di attività ﬁ nanziarie meno 30 giorni; in presenza di tale fattispecie la rischiosità 
+Ad ogni data di bilancio le attività ﬁ nanziarie diverse da quelle  creditizia dell’esposizione si ritiene presuntivamente “signi-
+1
+valutate al fair value con impatto a conto economico sono  ﬁ cativamente incrementata” e ne consegue il passaggio  . M
+O
+seovitdtoepnozest ech aed p ousnsaa nvoa lufatra zriitoennee rveo nltoan a i nvteerriaﬁ mcaerne tese r eecsuisptearnao-  nello stage 2; DELLO
+•  l’eventuale presenza di misure di forbearance che com-  D
+bile il valore di iscrizione delle attività stesse. Un’analisi analo- I B
+ga viene effettuata anche per gli impegni ad erogare fondi e  portano la classiﬁ cazione delle esposizioni tra quelle il cui  USIN
+per le garanzie rilasciate che rientrano nel perimetro da assog- rischio di credito risulta signiﬁ cativamente incrementato ri- ESS
+spetto all’iscrizione iniziale.
+gettare ad impairment ai sensi dell’IFRS9.
+Una volta deﬁ nita l’allocazione delle esposizioni nei diversi 
+Nel caso in cui tali evidenze sussistano (c.d. “evidenze di im-
+stadi di rischio creditizio, la determinazione delle perdite atte-
+pairment”), le attività ﬁ nanziarie in questione sono conside-
+se (ECL) è effettuata, a livello di singola operazione o tranche 
+rate deteriorate e conﬂ uiscono nello stage 3. A fronte di tali 
+di titolo, partendo dalla modellistica IRB/Gestionale, basata 
+esposizioni, rappresentate dalle attività ﬁ nanziarie classiﬁ cate 
+sui parametri di Probabilità di Default (PD), Loss Given Defau- 2
+– ai sensi delle disposizioni della Circolare n. 262/2005 della  lt (LGD) e Exposure at Default (EAD), su cui sono effettuati  . STR
+Bpaiennczae  dp’Irtoabliaab –il in ee lldee cllaet eegsoproiesi zdioelnlei  sscoaffdeureten zdea,  doeltlrlee  innoavdaenmta-  oppliapnocretu cnoi nin ltee rpvreensctir iczoiornrei tdtievlil,’ IiFnR mS9o.do da garantirne la com- ATEGIE
+giorni, devono essere rilevate rettiﬁ che di valore pari alle per-
+dite attese relative alla loro intera vita residua.
+Per PD, LGD ed EAD valgono le seguenti deﬁ nizioni:
+Per le attività ﬁ nanziarie per cui non sussistono evidenze di  •  PD (Probabilità di Default): probabilità di migrare dallo stato 
+impairment  (strumenti  ﬁ nanziari  non  deteriorati),  occorre  di bonis a quello di credito deteriorato nell’orizzonte tem-
+invece veriﬁ care se esistono indicatori tali per cui il rischio  porale di un anno; nei modelli coerenti con le disposizioni 
+3
+creditizio della singola operazione risulti signiﬁ cativamente  di vigilanza, il fattore PD viene tipicamente quantiﬁ cato at- . C
+O
+icznoiocnrneseem g(oeun,e tpnaizùteo p  drrioi stpparelieat tmvoe eraniﬁl t cema, ,do demallleo pn suttona gtdoini  dgiis)  vceirs idztaieo ldnlaee lv laain lcuizltaiaaszsleiioﬁ.  ncLaee-,   •  tLdrGeafvDae ur(slLtoo;  snisl e rGia mtivineognd; eDllei fcaouelrte):n ptie crcoenn tleu adlies pdoi spizeiordniit ad ii nv icgailsaon zdai   NTESTO DI M
+sono le seguenti: viene quantiﬁ cata attraverso l’esperienza storica dei recu- ERC
+A
+•  ove tali indicatori sussistano l’attività ﬁ nanziaria conﬂ uisce  peri attualizzati sulle pratiche passate a credito deteriorato; TO
+nello stage 2. La valutazione in tal caso, pur in assenza di 
+•  EAD (Exposure At Default) o equivalente creditizio: ammon-
+una perdita di valore manifesta, prevede la rilevazione di 
+tare dell’esposizione al momento del default.
+rettiﬁ che di valore pari alle perdite attese lungo l’intera vita 
+residua dello strumento ﬁ nanziario. Tali rettiﬁ che sono og-
+I crediti deteriorati sono rappresentati dalle posizioni in soffe-
+getto di revisione ad ogni data di reporting successiva sia 
+renza, dalle inadempienze probabili e dalle posizioni scadute 
+psteimr ev edriiﬁ  pcaerrndeit ap ceorisotdanictaemmeennttee  laag gcoionrgnrauteit,à  sirais ppeetrt ot eanleler   eca/oti  sac osnoﬁf fnearenntiz ad as oonltore a 9ss0o gggioertntia. tIi  carleled istei gdueetenrtiio mraotid callaitsàs iﬁd -i  4. PERFO
+conto – nel caso in cui vengano meno gli indicatori di una  RM
+valutazione: A
+rischiosità creditizia “signiﬁ cativamente incrementata” – del  N
+C
+mutato orizzonte previsionale di calcolo della perdita attesa; •  valutazione analitico-statistica, che è adottata per le espo- E
+sizioni inferiori a €2 milioni ed è basata sull’applicazione 
+•  ove tali indicatori non sussistano l’attività ﬁ nanziaria conﬂ u-
+di apposite griglie di LGD, a cui si aggiunge un Add-On al 
+isce nello stage 1. La valutazione in tal caso, pur in assenza 
+ﬁ ne di tener conto delle informazioni forward looking, in 
+di perdita di valore manifesta, prevede la rilevazione di per-
+particolare di quelle riferite agli impatti di scenari macroe-
+dite attese, per lo speciﬁ co strumento ﬁ nanziario, nel corso 
+conomici futuri;
+dei dodici mesi successivi. Tali rettiﬁ che sono oggetto di re-
+visione ad ogni data di bilancio successiva sia per veriﬁ carne  •  valutazione analitico-speciﬁ ca, che è adottata per i clienti  5
+periodicamente la congruità rispetto alle stime di perdita  con esposizioni superiori a €2 milioni ed è basata sulle per- . GO
+V
+costantemente aggiornate, sia per tener conto – nel caso  centuali di svalutazione attribuite dal gestore, a seguito di  ER
+N
+dovessero presentarsi indicatori di una rischiosità creditizia  appositi processi di analisi e valutazione, a cui si aggiunge  AN
+C
+“signiﬁ cativamente incrementata” – del mutato orizzonte  una componente di Add-On per tener conto delle informa- E
+previsionale di calcolo della perdita attesa. zioni forward looking, in particolare di quelle riferite agli 
+impatti di scenari macroeconomici futuri (ad eccezione delle 
+Per quel che attiene alla valutazione delle attività ﬁ nanziarie e,  sofferenze assistite da garanzie ipotecarie per le quali gli 
+in particolare, all’identiﬁ cazione del “signiﬁ cativo incremen- impatti di scenari futuri sono inclusi tramite le modalità di 
+to” del rischio di credito (condizione necessaria e sufﬁ ciente  determinazione degli haircut al valore degli immobili in ga-
+6
+per la classiﬁ cazione dell’attività oggetto di valutazione nello  ranzia). . BILA
+stage 2), gli elementi da prendere in considerazione sono i  N
+C
+seguenti: Anche la valutazione delle inadempienze probabili è operata  IO
+ C
+•  la variazione delle probabilità di default lifetime rispetto al  sulla base di differenti approcci:  ONS
+O
+momento dell’iscrizione iniziale in bilancio dello strumento  •  valutazione analitico-statistica, adottata per le esposizioni  LID
+ﬁ nanziario. Si tratta, dunque, di una valutazione effettuata  inferiori a €2 milioni e basata sull’applicazione di apposite  AT
+O
+adottando un criterio relativo, che si conﬁ gura come il driver  griglie statistiche di LGD a cui si aggiunge un Add-On al 
+principale; ﬁ ne di comprendere gli impatti di scenari macroeconomici 
+Fideuram - Intesa Sanpaolo Private Banking   Annual Report Integrato 2019 277

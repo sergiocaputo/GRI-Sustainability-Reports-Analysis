@@ -1,0 +1,57 @@
+mentando gli impianti di potabilizzazione in grado di rimuovere le  te effettuate nei Laboratori di Grottarossa – gestiti da Acea Elabori 
+sostanze indesiderate riportandone i valori di concentrazione ben al  –  320.801 determinazioni su 9.128 campioni di acqua potabile.  
+di sotto dei limiti di legge. I controlli analitici sulle acque e le relative misure vengono svolte 
+Un’assidua attività di monitoraggio dei parametri chimico/biologici  anche dalle Società del Gruppo in modo autonomo. La control-
+sull’acqua che circola nella rete di distribuzione del sistema idrico  lata Acea Elabori, accreditata a norma ISO/IEC 17025, esegue e 
+consente di mantenere alto il livello di sicurezza sulla qualità.  certifica analisi chimiche e microbiologiche in diverse matrici, tra 
+Complessivamente, nel corso del 2019, sulle 365.728119 determi- cui l’acqua (si veda la tabella n. 52 per le analisi svolte sulle acque 
+nazioni analitiche nel territorio dell’ATO 2, per un totale di 12.482  potabili di Roma). Gesesa si avvale invece di due laboratori esterni 
+campioni, che si sommano a quelle dell’Autorità Sanitaria, sono sta- (si veda il Bilancio Ambientale per dati di aggregati e di dettaglio). 
+TABELLA N. 52 – DETERMINAZIONI ANALITICHE A ROMA (2017-2019) E PRINCIPALI PARAMETRI DI QUALITÀ DELL’ACQUA 
+POTABILE DISTRIBUITA NEL LAZIO E IN CAMPANIA (2019)
+DETERMINAZIONI ANALITICHE EFFETTUATE DA ACEA ELABORI SU ACQUE POTABILI – RETE STORICA DI ROMA (2017-2019)
+n. punti 
+area di prelievo n. campioni n. determinazioni analitiche
+di prelievo
+2019 2017 2018 2019 2017 2018 2019
+captazione 57 423 437 329 21.636 21.119 11.968
+acquedotto e adduttrici 22 183 130 164 6.599 5.167 5.617
+serbatoi/centri idrici 22 119 152 203 4.988 6.306 7.096
+reti di distribuzione 405 3.381 3.326 3.095 109.838 109.571 99.835
+totale 506 4.106 4.045 3.791 143.061 142.163 124.516
+PRINCIPALI CARATTERISTICHE CHIMICHE E MICROBIOLOGICHE MEDIE DELL’ACQUA POTABILE DISTRIBUITA NEL LAZIO E IN CAMPANIA (2019)
+valore medio  valore medio 
+valore medio  valore medio  parametro 
+parametri unità di misura Acea Ato 2  Gesesa  
+Acea Ato 5 Gori D. Lgs. n. 31/01
+(Roma) (sito Pezzapiana)
+cloruri mg/l Cl 9,4 6,8 62 47,4 <250
+solfati mg/l SO4 13,7 8,3 28 64,3 <250
+calcio mg/l Ca 82,9 87,9 126 esonerati (*) non previsto
+magnesio mg/l Mg 16,3 15,6 31 esonerati (*) non previsto
+sodio mg/l Na 9,1 4,7 38 40,3 <200
+potassio mg/l K 7,5 1,3 14 esonerati (*) non previsto
+residuo fisso calcolato mg/l  365,0 348,3 646 541,5 (**)
+nitrati mg/l NO3 5,5 3,7 17 37,1 <50
+fluoruri mg/l F 0,3 0,16 0,55 0,5 <1,50
+bicarbonati mg/l HCO3 349,8 347,9 504 esonerati (*) non previsto
+(*)  In conformità al decreto D. Lgs. n. 31/01 e in accordo con l’ASL, Gesesa è esonerata dal fornire il parametro. 
+(**) Valore massimale consigliato: 1.500 mg/l.
+I PIANI DI SICUREZZA  tigare i rischi, i sistemi di monitoraggio, le procedure operative in 
+condizioni ordinarie e di emergenza, il piano dei controlli della qua-
+DELL’ACQUA (PSA) 
+lità dell’acqua, le modalità di informazione della cittadinanza e delle 
+L’implementazione dei Piani di Sicurezza dell’Acqua (PSA) o Water  autorità competenti, ecc. I PSA devono inoltre essere costante-
+Safety Plan (WSP) è stabilita per tutti i sistemi idrici dal Decre- mente aggiornati tenendo conto dello sviluppo degli impianti, della 
+to del Ministero della Salute del 14.06.2017, in attuazione della  evoluzione del contesto normativo e dei cambiamenti climatici ed 
+Direttiva dell’Unione Europea 2015/1787, che ha fatto propria la  ambientali. L’implementazione dei PSA, infine, deve essere realiz-
+metodologia dei WSP elaborata dall’Organizzazione Mondiale della  zata secondo metodologie internazionalmente riconosciute elabo-
+Sanità (World Health organization – WHO). L’approccio dei PSA  rate dal WHO. In Italia, l’Istituto Superiore di Sanità (ISS) ha intro-
+è quello di prevenire e ridurre i rischi inerenti al servizio idrico po- dotto le linee guida della WHO e dovrà, pertanto, approvare i PSA. 
+tabile, valutando gli eventi pericolosi lungo l’intera catena dell’ap- Complessivamente,  l’implementazione  dei  Piani  di  Sicurezza 
+provvigionamento idrico (captazione, trattamento e distribuzione  dell’Acqua riguarderà i grandi acquedotti, gestiti da Acea Ato 2, 
+fino al contatore di utenza). Il rischio è calcolato in funzione della  che alimentano, oltre alla città di Roma, fino al 90% della popo-
+gravità e della probabilità dell’evento di inquinamento o carenza  lazione dell’ATO 2 e più di 200 mila abitanti dei 45 comuni delle 
+idrica. In base a tale valutazione sono definiti: gli interventi per mi- Provincie di Rieti e di Frosinone.
+119   I  dati sulle determinazioni analitiche su acque potabili dal 2018 includono anche analisi su acquedotti acquisiti di recente (Civitavecchia ed altri).
+186 GRUPPO ACEA / BILANCIO DI SOSTENIBILITÀ 2019
