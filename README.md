@@ -6,6 +6,10 @@ Given some PDF reports is possible to extract a textual representation, by OCR, 
 
 ## Installation
 
+Install Poppler PDF rendering library [version 22.01.00](https://poppler.freedesktop.org/poppler-22.01.0.tar.xz)
+
+Install [Tesseract OCR engine](https://digi.bib.uni-mannheim.de/tesseract/)
+
     pip install -r requirements.txt
 
 ## Usage
