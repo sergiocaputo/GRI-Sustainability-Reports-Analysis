@@ -25,3 +25,5 @@ Information about GRI disclosures presence and their context polarity are availa
 Results are compared to the Ground Truth values available in the `210726 Template GRI report analysis.xlsx` file and stored in dedicated Excel files.
 
 ## Documentation
+
+Check the documentation [here](https://github.com/sergiocaputo/GRI-Sustainability-Reports-Analysis/blob/master/doc/Analysis_of_Global_Reporting_Initiative_Sustainability_Reports.pdf).
